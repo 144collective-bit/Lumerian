@@ -302,5 +302,7 @@ And he preached in the synagogues of Galilee.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **4:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Luke-4-1|printed citation]]
 - **4:23** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter IV Theories Respecting Psychic Phenomena - Analytical Note|Chapter IV, “Theories Respecting Psychic Phenomena”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **4:34** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Luke-4-34|printed citation]]
 <!-- cited-by:end -->

@@ -128,5 +128,5 @@ With long life will I satisfy him, and shew him my salvation.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **91:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **91:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-91-13|printed citation ×3]]
 <!-- cited-by:end -->

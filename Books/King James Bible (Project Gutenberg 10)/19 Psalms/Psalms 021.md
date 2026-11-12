@@ -110,5 +110,11 @@ Be thou exalted, LORD, in thine own strength: so will we sing and praise thy pow
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **21:1** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-1|printed citation]]
+- **21:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-8|printed citation]]
 - **21:9** — Concept hub: [[Symbols & Concepts/Fire|Fire]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **21:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-10-13|printed citation]]
+- **21:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-10-13|printed citation]]
+- **21:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-10-13|printed citation]]
+- **21:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-21-10-13|printed citation]]
 <!-- cited-by:end -->

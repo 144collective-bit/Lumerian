@@ -182,6 +182,6 @@ Pour out thy fury upon the heathen that know thee not, and upon the families tha
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **10:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]
+- **10:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-10-2|printed citation]]
 - **10:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/leopard__jeremiah-10-6|LEOPARD]]
 <!-- cited-by:end -->

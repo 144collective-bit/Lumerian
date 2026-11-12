@@ -260,5 +260,5 @@ And all the people came early in the morning to him in the temple, for to hear h
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **21:24** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]
+- **21:24** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Luke-21-24|printed citation ×2]]
 <!-- cited-by:end -->

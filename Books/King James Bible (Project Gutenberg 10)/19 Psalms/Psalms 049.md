@@ -152,5 +152,6 @@ Man that is in honour, and understandeth not, is like the beasts that perish.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **49:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-49-7|printed citation]]
 - **49:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/food-folly__psalms-49-12|FOOD FOLLY]]
 <!-- cited-by:end -->

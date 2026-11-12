@@ -117,6 +117,10 @@ And the four beasts said, Amen. And the four and twenty elders fell down and wor
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **5:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/book-of-the-lord-god__revelation-5-1|BOOK OF THE LORD GOD]]
-- **5:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/lion__revelation-5-5|LION]]
+- **5:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/lion__revelation-5-5|LION]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-5-5|printed citation]]
 - **5:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/book-of-the-lord-god__revelation-5-7|BOOK OF THE LORD GOD]]
+- **5:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-5-9|printed citation ×2]]
+- **5:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-5-12|printed citation ×2]]
+- **5:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-5-13|printed citation]]
+- **5:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-5-14|printed citation]]
 <!-- cited-by:end -->

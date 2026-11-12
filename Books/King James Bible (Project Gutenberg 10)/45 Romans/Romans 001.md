@@ -227,5 +227,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **1:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/david-king-of-israel__romans-1-3|DAVID, KING OF ISRAEL]]
 - **1:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/jews-of-palestine__romans-1-16|JEWS OF PALESTINE]]
 - **1:18** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/wrath-of-god__romans-1-18|WRATH OF GOD]]
+- **1:19** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-1-19|printed citation]]
 - **1:20** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/monad-of-life__romans-1-20|MONAD OF LIFE]]
 <!-- cited-by:end -->

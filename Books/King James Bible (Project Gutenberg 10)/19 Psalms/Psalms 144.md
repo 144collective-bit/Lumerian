@@ -122,5 +122,5 @@ Happy is that people, that is in such a case: yea, happy is that people, whose G
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **144:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/war-fighting__psalms-144-1|WAR, FIGHTING]]
+- **144:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/war-fighting__psalms-144-1|WAR, FIGHTING]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-144-1|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Psalms-144-1|printed citation]]
 <!-- cited-by:end -->

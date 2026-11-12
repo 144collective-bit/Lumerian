@@ -272,6 +272,15 @@ And the whole valley of the dead bodies, and of the ashes, and all the fields un
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **31:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/garden-of-flowers-and-fruit__jeremiah-31-12|GARDEN OF FLOWERS AND FRUIT]]; [[Studies/Bible–Gaskell Cross References/Bridges/rest-peace__jeremiah-31-12|REST, PEACE]]
+- **31:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-10|printed citation]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-11|printed citation]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
+- **31:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/garden-of-flowers-and-fruit__jeremiah-31-12|GARDEN OF FLOWERS AND FRUIT]]; [[Studies/Bible–Gaskell Cross References/Bridges/rest-peace__jeremiah-31-12|REST, PEACE]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-12|printed citation]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-31-3-12|printed citation]]
 - **31:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/butter__jeremiah-31-14|BUTTER]]
 <!-- cited-by:end -->

@@ -397,5 +397,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **15:36** — Concept hub: [[Symbols & Concepts/Death, Resurrection, and Initiation|Death, Resurrection, and Initiation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter IV Theories Respecting Psychic Phenomena - Analytical Note|Chapter IV, “Theories Respecting Psychic Phenomena”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 - **15:41** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/star-worms-stars-as-souls-or-gods__1-corinthians-15-41|STAR-WORMS STARS AS SOULS, OR GODS]]
 - **15:46** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/cain__1-corinthians-15-46|CAIN]]; [[Studies/Bible–Gaskell Cross References/Bridges/higher-and-lower-selves__1-corinthians-15-46|HIGHER AND LOWER SELVES]]
+- **15:47** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-15-47|printed citation]]
 - **15:54** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/victory-or-triumph__1-corinthians-15-54|VICTORY, OR TRIUMPH]]
 <!-- cited-by:end -->

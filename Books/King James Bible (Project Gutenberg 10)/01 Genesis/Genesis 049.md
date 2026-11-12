@@ -230,5 +230,9 @@ And when Jacob had made an end of commanding his sons, he gathered up his feet i
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **49:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-49-8|printed citation]]
+- **49:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-49-9|printed citation]]
+- **49:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-49-11|printed citation ×2]]
 - **49:24** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-49-24|WIFE]]
+- **49:26** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-49-26|printed citation]]
 <!-- cited-by:end -->

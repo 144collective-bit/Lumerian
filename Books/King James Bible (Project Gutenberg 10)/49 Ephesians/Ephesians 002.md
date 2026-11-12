@@ -164,5 +164,6 @@ In whom ye also are builded together for an habitation of God through the Spirit
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **2:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]
+- **2:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ephesians-2-13|printed citation]]
+- **2:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ephesians-2-15|printed citation ×2]]
 <!-- cited-by:end -->

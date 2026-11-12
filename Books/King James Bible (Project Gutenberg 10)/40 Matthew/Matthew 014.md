@@ -248,5 +248,6 @@ And besought him that they might only touch the hem of his garment: and as many 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **14:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-14-5|printed citation]]
 - **14:24** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ship-or-boat-on-the-sea__matthew-14-24|SHIP OR BOAT ON THE SEA]]
 <!-- cited-by:end -->

@@ -231,4 +231,5 @@ And through a window in a basket was I let down by the wall, and escaped his han
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **11:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/virginity__2-corinthians-11-2|VIRGINITY]]
+- **11:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__2-Corinthians-11-14|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__2-Corinthians-11-14|printed citation]]
 <!-- cited-by:end -->

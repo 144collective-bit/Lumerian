@@ -92,5 +92,8 @@ The righteous shall be glad in the LORD, and shall trust in him; and all the upr
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **64:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/arrow-of-the-spirit__psalms-64-7|ARROW OF THE SPIRIT]]
+- **64:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/arrow-of-the-spirit__psalms-64-7|ARROW OF THE SPIRIT]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-64-7-10|printed citation]]
+- **64:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-64-7-10|printed citation]]
+- **64:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-64-7-10|printed citation]]
+- **64:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-64-7-10|printed citation]]
 <!-- cited-by:end -->

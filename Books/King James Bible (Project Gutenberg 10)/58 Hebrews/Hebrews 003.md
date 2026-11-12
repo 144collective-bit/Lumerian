@@ -147,4 +147,6 @@ So we see that they could not enter in because of unbelief.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/house-in-heaven-or-house-of-god__hebrews-3-chapter|HOUSE IN HEAVEN, OR HOUSE OF GOD]]
+- **3:1** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-3-1|printed citation]]
+- **3:3** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Hebrews-3-3|printed citation]]
 <!-- cited-by:end -->

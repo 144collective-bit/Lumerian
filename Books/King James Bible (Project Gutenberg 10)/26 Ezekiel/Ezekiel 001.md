@@ -200,6 +200,8 @@ As the appearance of the bow that is in the cloud in the day of rain, so was the
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **1:14** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]]
+- **1:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ezekiel-1-10|printed citation]]
+- **1:14** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]] · Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__Ezekiel-1-14|printed citation]]
 - **1:26** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/seh-mercabah-or-the-chariot-throne-of-ezekiel__ezekiel-1-26|SEH MERCABAH, OR THE CHARIOT-THRONE OF EZEKIEL]]
+- **1:27** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ezekiel-1-27|printed citation]]
 <!-- cited-by:end -->

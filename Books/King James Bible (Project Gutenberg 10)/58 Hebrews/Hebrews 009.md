@@ -201,4 +201,7 @@ So Christ was once offered to bear the sins of many; and unto them that look for
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **9:3** — Concept hub: [[Symbols & Concepts/Veil|Veil]]
+- **9:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-9-11|printed citation]]
+- **9:26** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-9-26|printed citation]]
+- **9:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-9-28|printed citation]]
 <!-- cited-by:end -->

@@ -152,5 +152,5 @@ That his heart be not lifted up above his brethren, and that he turn not aside f
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **17:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter III Blind Leaders of the Blind - Analytical Note|Chapter III, “Blind Leaders of the Blind”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **17:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter III Blind Leaders of the Blind - Analytical Note|Chapter III, “Blind Leaders of the Blind”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Deuteronomy-17-6|printed citation]]
 <!-- cited-by:end -->

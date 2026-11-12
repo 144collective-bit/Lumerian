@@ -274,5 +274,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **25:8** — Concept hub: [[Symbols & Concepts/Tabernacle|Tabernacle]]
 - **25:9** — Concept hub: [[Symbols & Concepts/Tabernacle|Tabernacle]]
-- **25:40** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter I Old Things with New Names - Analytical Note|Chapter I, “Old Things with New Names”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **25:40** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter I Old Things with New Names - Analytical Note|Chapter I, “Old Things with New Names”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Exodus-25-40|printed citation]]
 <!-- cited-by:end -->

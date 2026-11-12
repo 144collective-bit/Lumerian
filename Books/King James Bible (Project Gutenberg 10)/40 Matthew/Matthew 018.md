@@ -242,5 +242,6 @@ So likewise shall my heavenly Father do also unto you, if ye from your hearts fo
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **18:16** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-18-16|printed citation]]
 - **18:18** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/binding-and-loosing-on-earth-and-in-heaven__matthew-18-18|BINDING AND LOOSING ON EARTH AND IN HEAVEN]]
 <!-- cited-by:end -->

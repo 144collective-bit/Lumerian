@@ -122,5 +122,6 @@ As for me, I will behold thy face in righteousness: I shall be satisfied, when I
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **17:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-17-9|printed citation]]
 - **17:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/path-twofold__psalms-17-15|PATH, TWOFOLD]]; [[Studies/Bible–Gaskell Cross References/Bridges/selene-or-luna__psalms-17-15|SELENE OR LUNA]]
 <!-- cited-by:end -->

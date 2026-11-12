@@ -128,5 +128,6 @@ For who hath known the mind of the Lord, that he may instruct him? But we have t
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **2:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-2-9|printed citation]]
 - **2:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/inspiration-divine__1-corinthians-2-14|INSPIRATION, DIVINE]]; [[Studies/Bible–Gaskell Cross References/Bridges/man-born-as-an-animal__1-corinthians-2-14|MAN BORN AS AN ANIMAL]]
 <!-- cited-by:end -->

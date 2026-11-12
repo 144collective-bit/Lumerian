@@ -206,5 +206,7 @@ Whereunto I also labour, striving according to his working, which worketh in me 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **1:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Colossians-1-13|printed citation]]
 - **1:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/macrocosm-and-microcosm__colossians-1-15|MACROCOSM AND MICROCOSM]]; [[Studies/Bible–Gaskell Cross References/Bridges/son-of-god-first-born__colossians-1-15|SON OF GOD, FIRST-BORN]]
+- **1:26** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Colossians-1-26|printed citation]]
 <!-- cited-by:end -->

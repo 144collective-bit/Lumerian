@@ -68,5 +68,7 @@ And he shall turn the heart of the fathers to the children, and the heart of the
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **4:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sun-of-righteousness__malachi-4-2|SUN OF RIGHTEOUSNESS]] · Concept hub: [[Symbols & Concepts/Sun|Sun]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]
+- **4:1** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Malachi-4-1-3|printed citation]]
+- **4:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sun-of-righteousness__malachi-4-2|SUN OF RIGHTEOUSNESS]] · Concept hub: [[Symbols & Concepts/Sun|Sun]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Malachi-4-1-3|printed citation]]
+- **4:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Malachi-4-1-3|printed citation]]
 <!-- cited-by:end -->

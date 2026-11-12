@@ -200,6 +200,9 @@ And there shall in no wise enter into it any thing that defileth, neither whatso
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **21:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-21-2|printed citation ×2]]
+- **21:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-21-10|printed citation]]
 - **21:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/four-beings-at-the-cardinal-points__revelation-21-16|FOUR BEINGS AT THE CARDINAL POINTS]]
 - **21:18** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/gold__revelation-21-18|GOLD]]
+- **21:23** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-21-23|printed citation]]
 <!-- cited-by:end -->

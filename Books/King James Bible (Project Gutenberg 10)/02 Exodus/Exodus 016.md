@@ -248,5 +248,6 @@ Now an omer is the tenth part of an ephah.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **16:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Exodus-16-7|printed citation]]
 - **16:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/manna__exodus-16-13|MANNA]]
 <!-- cited-by:end -->

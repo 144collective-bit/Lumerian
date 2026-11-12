@@ -248,5 +248,6 @@ And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s,
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **37:21** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **37:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-37-9|printed citation]]
+- **37:21** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-37-21|printed citation]]
 <!-- cited-by:end -->

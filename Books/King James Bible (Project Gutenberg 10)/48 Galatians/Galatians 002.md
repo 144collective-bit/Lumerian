@@ -158,5 +158,6 @@ I do not frustrate the grace of God: for if righteousness come by the law, then 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **2:11** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Galatians-2-11|printed citation ×2]]
 - **2:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/tree-of-knowledge-of-good-and-evil__galatians-2-16|TREE OF KNOWLEDGE OF GOOD AND EVIL]]
 <!-- cited-by:end -->

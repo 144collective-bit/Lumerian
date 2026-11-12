@@ -220,4 +220,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Whole chapter** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/44-Mystic-Christianity|Evidence — Mystic Christianity]]; [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/Hall__John-14-6|Hall *Mystic Christianity* ↔ John 14:6]]
 - **14:6** — Concept hub: [[Symbols & Concepts/Christ|Christ]]; [[Symbols & Concepts/Logos and the Word|Logos and the Word]]
+- **14:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-14-9|printed citation]]
 <!-- cited-by:end -->

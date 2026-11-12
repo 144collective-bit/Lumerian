@@ -189,6 +189,7 @@ And to Seth, to him also there was born a son; and he called his name Enos: then
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/cain__genesis-4-chapter|CAIN]]
+- **4:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-4-1|printed citation]]
 - **4:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/cain__genesis-4-2|CAIN]]
 - **4:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/fruit-of-the-ground__genesis-4-3|FRUIT OF THE GROUND]]
 - **4:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/countenance-or-face__genesis-4-5|COUNTENANCE, OR FACE]]

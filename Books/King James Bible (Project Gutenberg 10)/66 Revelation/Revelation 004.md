@@ -100,4 +100,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Whole chapter** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/Hall__Revelation-4-4|Hall *Mystic Christianity* ↔ Revelation 4:4 (twenty-four elders)]]
 - **4:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/colours__revelation-4-1|COLOURS]]
+- **4:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-4-5|printed citation]]
 <!-- cited-by:end -->

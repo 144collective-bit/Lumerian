@@ -135,6 +135,6 @@ For the great day of his wrath is come; and who shall be able to stand?
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/alpha-and-omega__revelation-6-chapter|ALPHA AND OMEGA]]; [[Studies/Bible–Gaskell Cross References/Bridges/horse-white__revelation-6-chapter|HORSE, WHITE]]
-- **6:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **6:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-6-2|printed citation]]
 - **6:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/horse-black__revelation-6-5|HORSE, BLACK]]
 <!-- cited-by:end -->

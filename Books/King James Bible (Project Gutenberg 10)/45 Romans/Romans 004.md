@@ -186,4 +186,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **4:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/promises-of-god__romans-4-13-16|PROMISES OF GOD]]
 - **4:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/promises-of-god__romans-4-13-16|PROMISES OF GOD]]
 - **4:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/promises-of-god__romans-4-13-16|PROMISES OF GOD]]
+- **4:25** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-4-25|printed citation]]
 <!-- cited-by:end -->

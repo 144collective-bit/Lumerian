@@ -272,5 +272,14 @@ God having provided some better thing for us, that they without us should not be
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **11:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/star-worms-stars-as-souls-or-gods__hebrews-11-12|STAR-WORMS STARS AS SOULS, OR GODS]]
+- **11:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Hebrews-11-1|printed citation]]
+- **11:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/star-worms-stars-as-souls-or-gods__hebrews-11-12|STAR-WORMS STARS AS SOULS, OR GODS]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-13|printed citation]]
+- **11:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-10-16|printed citation]]
+- **11:31** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Hebrews-11-31|printed citation]]
+- **11:40** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Hebrews-11-40|printed citation ×2]]
 <!-- cited-by:end -->

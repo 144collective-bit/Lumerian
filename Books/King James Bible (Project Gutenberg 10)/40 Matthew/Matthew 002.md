@@ -170,5 +170,8 @@ And he came and dwelt in a city called Nazareth: that it might be fulfilled whic
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **2:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Matthew-2-4-6|printed citation]]
+- **2:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Matthew-2-4-6|printed citation]]
+- **2:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Matthew-2-4-6|printed citation]]
 - **2:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/egypt__matthew-2-15|EGYPT]]
 <!-- cited-by:end -->

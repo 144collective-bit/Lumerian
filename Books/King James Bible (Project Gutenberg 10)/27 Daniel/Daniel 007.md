@@ -200,6 +200,8 @@ Hitherto is the end of the matter. As for me Daniel, my cogitations much trouble
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **7:10** — Concept hub: [[Symbols & Concepts/Fire|Fire]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]
+- **7:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Daniel-7-9-11|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Daniel-7-9|printed citation]]
+- **7:10** — Concept hub: [[Symbols & Concepts/Fire|Fire]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Daniel-7-9-11|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Daniel-7-10|printed citation]]
+- **7:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Daniel-7-9-11|printed citation]]
 - **7:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ameni-the-son-of-man__daniel-7-13|AMENI, THE SON OF MAN]]
 <!-- cited-by:end -->

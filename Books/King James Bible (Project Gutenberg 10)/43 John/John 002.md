@@ -182,6 +182,8 @@ And needed not that any should testify of man: for he knew what was in man.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **2:4** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-2-4|printed citation]]
 - **2:19** — Concept hub: [[Symbols & Concepts/Body as Temple|Body as Temple]]
+- **2:20** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__John-2-20|printed citation]]
 - **2:21** — Concept hub: [[Symbols & Concepts/Body as Temple|Body as Temple]]
 <!-- cited-by:end -->

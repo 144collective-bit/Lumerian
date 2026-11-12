@@ -182,5 +182,9 @@ And on all hills that shall be digged with the mattock, there shall not come thi
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **7:14** — Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **7:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-9|printed citation]]
+- **7:12** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-12|printed citation]]
+- **7:14** — Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-7-14|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-14-16|printed citation]]
+- **7:15** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-14-16|printed citation]]
+- **7:16** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-14-16|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-7-16|printed citation]]
 <!-- cited-by:end -->

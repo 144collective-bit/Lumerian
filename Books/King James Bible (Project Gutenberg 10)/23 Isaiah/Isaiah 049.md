@@ -189,4 +189,7 @@ And I will feed them that oppress thee with their own flesh; and they shall be d
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **49:9** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/prisoners-or-captives__isaiah-49-9|PRISONERS OR CAPTIVES]]
+- **49:24** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-49-24-26|printed citation]]
+- **49:25** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-49-24-26|printed citation]]
+- **49:26** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-49-24-26|printed citation]]
 <!-- cited-by:end -->

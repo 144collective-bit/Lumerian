@@ -236,5 +236,7 @@ And Abraham sojourned in the Philistines’ land many days.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **21:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-21-2|printed citation]]
 - **21:9** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-21-9|EYE, OR EYESIGHT]]
+- **21:20** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-21-20|printed citation]]
 <!-- cited-by:end -->

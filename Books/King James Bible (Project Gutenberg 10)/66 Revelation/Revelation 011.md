@@ -146,7 +146,9 @@ And the temple of God was opened in heaven, and there was seen in his temple the
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **11:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-11-2|printed citation]]
 - **11:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/candlesticks__revelation-11-4|CANDLESTICKS]]
 - **11:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/candlesticks__revelation-11-8|CANDLESTICKS]]
 - **11:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/witnesses-two__revelation-11-11|WITNESSES, TWO]]
+- **11:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-11-17|printed citation]]
 <!-- cited-by:end -->

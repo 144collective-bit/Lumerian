@@ -152,6 +152,7 @@ For ye are bought with a price: therefore glorify God in your body, and in your 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **6:3** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-6-3|printed citation]]
 - **6:9** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/unrighteous-or-wicked-man__1-corinthians-6-9|UNRIGHTEOUS, OR WICKED MAN]]
 - **6:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/harlot-or-strange-woman__1-corinthians-6-13-20|HARLOT, OR STRANGE WOMAN]]
 - **6:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/harlot-or-strange-woman__1-corinthians-6-13-20|HARLOT, OR STRANGE WOMAN]]

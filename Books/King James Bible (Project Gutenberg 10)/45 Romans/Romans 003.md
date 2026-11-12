@@ -218,5 +218,7 @@ Do we then make void the law through faith? God forbid: yea, we establish the la
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **3:7** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Romans-3-7|printed citation]]
+- **3:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Romans-3-8|printed citation]]
 - **3:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/throat__romans-3-13|THROAT]]
 <!-- cited-by:end -->

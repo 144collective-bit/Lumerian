@@ -164,5 +164,12 @@ A little one shall become a thousand, and a small one a strong nation: I the LOR
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **60:1** — Concept hub: [[Symbols & Concepts/Light|Light]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]
+- **60:1** — Concept hub: [[Symbols & Concepts/Light|Light]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-1-3|printed citation]]
+- **60:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-1-3|printed citation]]
+- **60:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-1-3|printed citation]]
+- **60:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-4|printed citation]]
+- **60:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-5|printed citation]]
+- **60:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-8|printed citation]]
+- **60:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-9|printed citation]]
+- **60:19** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-60-19|printed citation]]
 <!-- cited-by:end -->

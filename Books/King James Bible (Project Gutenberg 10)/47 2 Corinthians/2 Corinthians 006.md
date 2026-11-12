@@ -140,5 +140,6 @@ And will be a Father unto you, and ye shall be my sons and daughters, saith the 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **6:16** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__2-Corinthians-6-16|printed citation]]
 - **6:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sons-and-daughters__2-corinthians-6-17|SONS AND DAUGHTERS]]
 <!-- cited-by:end -->

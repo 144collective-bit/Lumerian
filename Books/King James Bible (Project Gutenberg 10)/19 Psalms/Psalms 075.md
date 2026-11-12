@@ -92,5 +92,6 @@ All the horns of the wicked also will I cut off; but the horns of the righteous 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **75:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-75-8|printed citation]]
 - **75:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/horizons-the-two__psalms-75-10|HORIZONS, THE TWO]]
 <!-- cited-by:end -->

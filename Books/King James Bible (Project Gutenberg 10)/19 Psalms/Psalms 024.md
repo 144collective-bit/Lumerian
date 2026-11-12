@@ -92,5 +92,6 @@ Who is this King of glory? The LORD of hosts, he is the King of glory. Selah.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **24:3** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Psalms-24-3|printed citation]]
 - **24:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/king-of-glory__psalms-24-10|KING OF GLORY]]
 <!-- cited-by:end -->

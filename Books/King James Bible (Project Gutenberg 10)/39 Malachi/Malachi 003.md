@@ -140,5 +140,6 @@ Then shall ye return, and discern between the righteous and the wicked, between 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **3:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/messenger-of-the-divine__malachi-3-1|MESSENGER OF THE DIVINE]]
+- **3:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/messenger-of-the-divine__malachi-3-1|MESSENGER OF THE DIVINE]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Malachi-3-1|printed citation]]
+- **3:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Malachi-3-2|printed citation ×2]]
 <!-- cited-by:end -->

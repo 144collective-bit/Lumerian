@@ -152,6 +152,11 @@ And the winepress was trodden without the city, and blood came out of the winepr
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **14:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-14-1|printed citation]]
+- **14:3** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-14-3|printed citation]]
+- **14:4** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-14-4|printed citation]]
+- **14:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-14-10|printed citation]]
 - **14:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/dead-rising-from-the__revelation-14-13|DEAD, RISING FROM THE]]; [[Studies/Bible–Gaskell Cross References/Bridges/death-of-the-personality__revelation-14-13|DEATH OF THE PERSONALITY]]
-- **14:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/harvest-at-the-end-of-the-world__revelation-14-15|HARVEST AT THE END OF THE WORLD]]
+- **14:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/harvest-at-the-end-of-the-world__revelation-14-15|HARVEST AT THE END OF THE WORLD]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-14-15|printed citation]]
+- **14:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-14-16|printed citation]]
 <!-- cited-by:end -->

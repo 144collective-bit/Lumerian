@@ -168,6 +168,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **8:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/tent-ten-days-years__genesis-8-5|TENT TEN DAYS, YEARS]]
 - **8:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/dove-or-pigeon__genesis-8-8|DOVE, OR PIGEON]]
 - **8:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/olive-leaf-offering__genesis-8-11|OLIVE LEAF OFFERING]]
+- **8:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-8-17|printed citation]]
 - **8:20** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/burnt-offering-lord__genesis-8-20|BURNT-OFFERING LORD]]
 - **8:21** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/savour-sweet__genesis-8-21|SAVOUR, SWEET]]
 - **8:22** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/summer-and-winter__genesis-8-22|SUMMER AND WINTER]]

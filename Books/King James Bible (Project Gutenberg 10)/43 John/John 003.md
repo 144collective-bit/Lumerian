@@ -248,7 +248,8 @@ He that believeth on the Son hath everlasting life: and he that believeth not th
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **3:3** — Concept hub: [[Symbols & Concepts/Isis|Isis]]
+- **3:3** — Concept hub: [[Symbols & Concepts/Isis|Isis]] · Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__John-3-3|printed citation ×2]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-3-3|printed citation]]
 - **3:5** — Concept hub: [[Symbols & Concepts/Baptism|Baptism]]
+- **3:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-3-8|printed citation]]
 - **3:14** — Gaskell citation (corrected locator): [[Studies/Bible–Gaskell Cross References/Citation Corrections/serpent-brazen__john-3-14-overlay|SERPENT, BRAZEN]] · Gaskell entry: [[Reference/Gaskell/Entries/S/SERPENT, BRAZEN|SERPENT, BRAZEN]] · Concept hub: [[Symbols & Concepts/Serpent|Serpent]] · Study: [[Studies/Gaskell Page-Image Checks - 2026-11-06|Gaskell page-image checks — 6 November 2026 (Europe/London)]]
 <!-- cited-by:end -->

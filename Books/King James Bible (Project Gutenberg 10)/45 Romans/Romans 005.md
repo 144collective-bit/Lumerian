@@ -159,4 +159,5 @@ That as sin hath reigned unto death, even so might grace reign through righteous
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/atonement-of-christ__romans-5-chapter|ATONEMENT OF CHRIST]]
+- **5:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-5-6|printed citation]]
 <!-- cited-by:end -->

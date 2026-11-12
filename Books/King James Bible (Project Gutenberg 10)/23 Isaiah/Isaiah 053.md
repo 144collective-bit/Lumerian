@@ -104,5 +104,10 @@ Therefore will I divide him a portion with the great, and he shall divide the sp
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **53:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **53:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-3|printed citation]]
+- **53:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-4|printed citation]]
+- **53:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-5|printed citation]]
+- **53:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-7|printed citation]]
+- **53:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-10|printed citation]]
+- **53:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-53-12|printed citation]]
 <!-- cited-by:end -->

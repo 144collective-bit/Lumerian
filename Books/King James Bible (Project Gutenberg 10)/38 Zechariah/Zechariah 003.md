@@ -92,5 +92,7 @@ In that day, saith the LORD of hosts, shall ye call every man his neighbour unde
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **3:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **3:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Zechariah-3-1|printed citation]]
+- **3:2** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Zechariah-3-2|printed citation]]
+- **3:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Zechariah-3-8|printed citation]]
 <!-- cited-by:end -->

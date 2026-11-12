@@ -105,4 +105,5 @@ Also unto thee, O Lord, belongeth mercy: for thou renderest to every man accordi
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **62:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/rock-or-stone__psalms-62-2|ROCK OR STONE]]
+- **62:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-62-9|printed citation]]
 <!-- cited-by:end -->

@@ -92,6 +92,8 @@ And the ransomed of the LORD shall return, and come to Zion with songs and everl
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **35:1** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-35-1|printed citation]]
+- **35:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-35-6|printed citation]]
 - **35:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/wayfaring-men__isaiah-35-8|WAYFARING MEN]]
-- **35:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/zion-zion-of-the-holy-one-of-israel__isaiah-35-10|ZION ZION OF THE HOLY ONE OF ISRAEL]]
+- **35:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/zion-zion-of-the-holy-one-of-israel__isaiah-35-10|ZION ZION OF THE HOLY ONE OF ISRAEL]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-35-10|printed citation]]
 <!-- cited-by:end -->

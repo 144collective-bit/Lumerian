@@ -184,7 +184,8 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/conqueror__genesis-2-chapter|CONQUEROR]]; [[Studies/Bible–Gaskell Cross References/Bridges/corpse-or-dead-human__genesis-2-chapter|CORPSE, OR DEAD (HUMAN)]]; [[Studies/Bible–Gaskell Cross References/Bridges/eden-river-heads__genesis-2-chapter|EDEN RIVER HEADS]]
 - **2:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__genesis-2-2|ARCHETYPAL MAN]]
-- **2:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/adam-lower-aspect__genesis-2-7|ADAM (LOWER ASPECT)]]; [[Studies/Bible–Gaskell Cross References/Bridges/breath-of-life__genesis-2-7|BREATH OF LIFE]]
+- **2:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-2-5|printed citation]]
+- **2:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/adam-lower-aspect__genesis-2-7|ADAM (LOWER ASPECT)]]; [[Studies/Bible–Gaskell Cross References/Bridges/breath-of-life__genesis-2-7|BREATH OF LIFE]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-2-7|printed citation]]
 - **2:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/eden-garden-of__genesis-2-8|EDEN, GARDEN OF]]
 - **2:9** — Concept hub: [[Symbols & Concepts/Tree of Life|Tree of Life]]
 - **2:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/usually-the-principal-river-of-a-country__genesis-2-10|USUALLY THE PRINCIPAL RIVER OF A COUNTRY]]

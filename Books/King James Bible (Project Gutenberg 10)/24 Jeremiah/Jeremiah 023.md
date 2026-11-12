@@ -272,5 +272,7 @@ And I will bring an everlasting reproach upon you, and a perpetual shame, which 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **23:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **23:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-23-4|printed citation]]
+- **23:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-23-5|printed citation ×3]]
+- **23:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-23-6|printed citation ×2]]
 <!-- cited-by:end -->

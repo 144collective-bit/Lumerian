@@ -158,5 +158,9 @@ Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Jud
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **9:6** — Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]
+- **9:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-9-1|printed citation]]
+- **9:2** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-9-2|printed citation]]
+- **9:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-9-3|printed citation]]
+- **9:6** — Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Third Book and Closing|Thematic reading — Third Book and closing]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-9-6|printed citation ×3]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-9-6|printed citation]]
+- **9:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-9-7|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Isaiah-9-7|printed citation]]
 <!-- cited-by:end -->

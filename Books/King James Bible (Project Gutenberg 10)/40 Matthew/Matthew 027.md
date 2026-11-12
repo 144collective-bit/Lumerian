@@ -428,6 +428,7 @@ So they went, and made the sepulchre sure, sealing the stone, and setting a watc
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **27:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-27-9|printed citation]]
 - **27:24** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/pilate-pontius__matthew-27-24|PILATE, PONTIUS]]
 - **27:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/crowning-with-thorns-of-jesus__matthew-27-29|CROWNING WITH THORNS, OF JESUS]]
 - **27:46** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/crucifixion-of-jesus-according-to-the-canonical-gospels__matthew-27-46|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] · Concept hub: [[Symbols & Concepts/Cross and Crucifixion|Cross and Crucifixion]]

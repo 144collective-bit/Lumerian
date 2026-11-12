@@ -194,5 +194,6 @@ And he shall confirm the covenant with many for one week: and in the midst of th
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **9:26** — Concept hub: [[Symbols & Concepts/Cross and Crucifixion|Cross and Crucifixion]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **9:26** — Concept hub: [[Symbols & Concepts/Cross and Crucifixion|Cross and Crucifixion]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Daniel-9-26|printed citation]]
+- **9:27** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Daniel-9-27|printed citation ×3]]
 <!-- cited-by:end -->

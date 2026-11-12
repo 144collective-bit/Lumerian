@@ -287,5 +287,6 @@ There laid they Jesus therefore because of the Jews’ preparation day; for the 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **19:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-19-28|printed citation]]
 - **19:30** — Concept hub: [[Symbols & Concepts/Cross and Crucifixion|Cross and Crucifixion]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
 <!-- cited-by:end -->

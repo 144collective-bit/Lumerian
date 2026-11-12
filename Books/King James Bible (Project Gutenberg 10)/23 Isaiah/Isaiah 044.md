@@ -200,5 +200,7 @@ That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **44:3** — Concept hub: [[Symbols & Concepts/Water|Water]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]
+- **44:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-44-2|printed citation]]
+- **44:3** — Concept hub: [[Symbols & Concepts/Water|Water]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-44-3|printed citation]]
+- **44:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-44-6|printed citation]]
 <!-- cited-by:end -->

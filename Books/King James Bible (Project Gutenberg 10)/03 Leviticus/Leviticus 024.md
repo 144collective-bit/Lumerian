@@ -175,4 +175,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **24:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/shewbread-or-bread-of-the-faces__leviticus-24-5-9|SHEWBREAD, OR BREAD OF THE FACES]]
 - **24:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/shewbread-or-bread-of-the-faces__leviticus-24-5-9|SHEWBREAD, OR BREAD OF THE FACES]]
 - **24:9** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/shewbread-or-bread-of-the-faces__leviticus-24-5-9|SHEWBREAD, OR BREAD OF THE FACES]]
+- **24:16** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Leviticus-24-16|printed citation]]
+- **24:17** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Leviticus-24-17|printed citation]]
 <!-- cited-by:end -->

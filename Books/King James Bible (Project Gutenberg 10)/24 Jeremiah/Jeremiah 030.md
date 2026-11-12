@@ -176,5 +176,8 @@ The fierce anger of the LORD shall not return, until he hath done it, and until 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **30:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-30-10|printed citation]]
+- **30:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-30-11|printed citation]]
 - **30:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/healing__jeremiah-30-17|HEALING]]
+- **30:21** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Jeremiah-30-21|printed citation]]
 <!-- cited-by:end -->

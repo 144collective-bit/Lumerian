@@ -86,5 +86,6 @@ And I will bring the third part through the fire, and will refine them as silver
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **13:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Zechariah-13-6|printed citation]]
 - **13:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/little-children-or-little-ones__zechariah-13-7|LITTLE CHILDREN, OR LITTLE ONES]]
 <!-- cited-by:end -->

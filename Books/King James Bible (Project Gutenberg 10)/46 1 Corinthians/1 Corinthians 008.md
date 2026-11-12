@@ -110,5 +110,6 @@ Wherefore, if meat make my brother to offend, I will eat no flesh while the worl
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **8:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-8-5|printed citation]]
 - **8:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__1-corinthians-8-6|ARCHETYPAL MAN]]
 <!-- cited-by:end -->

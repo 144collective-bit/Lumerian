@@ -98,5 +98,6 @@ Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy ri
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **16:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-16-6|printed citation ×2]]
 - **16:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/hell-hel-hades-sheol__psalms-16-10|HELL, HEL, HADES, SHEOL]]
 <!-- cited-by:end -->

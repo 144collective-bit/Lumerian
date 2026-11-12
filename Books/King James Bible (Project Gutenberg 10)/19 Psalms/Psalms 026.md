@@ -105,4 +105,5 @@ My foot standeth in an even place: in the congregations will I bless the LORD.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **26:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/heart__psalms-26-2|HEART]]
+- **26:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-26-8|printed citation]]
 <!-- cited-by:end -->

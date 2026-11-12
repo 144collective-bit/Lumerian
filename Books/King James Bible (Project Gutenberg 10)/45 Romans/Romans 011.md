@@ -249,5 +249,6 @@ For of him, and through him, and to him, are all things: to whom be glory for ev
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **11:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__romans-11-10|EYE, OR EYESIGHT]]
+- **11:26** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Romans-11-26|printed citation]]
 - **11:36** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 <!-- cited-by:end -->

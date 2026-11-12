@@ -273,5 +273,6 @@ And the LORD shall help them, and deliver them: he shall deliver them from the w
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **37:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/peace-or-rest__psalms-37-4|PEACE, OR REST]]
+- **37:22** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-37-22|printed citation]]
 - **37:34** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/way-of-the-lord__psalms-37-34|WAY OF THE LORD]]
 <!-- cited-by:end -->

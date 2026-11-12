@@ -48,6 +48,7 @@ Research wiki for comparing symbols and concepts across sources. Gaskell’s dic
 
 - **Cited by** sections at the foot of Bible chapters and Gaskell entries are written by `_lumerian_build_logs/build_backlinks.py`. Re-run it after adding links; do not edit those sections by hand.
 - **Lookup export** (`lumerian.sqlite`, `lumerian.json`) lives beside the vault in `_lumerian_export/`, built by `_lumerian_build_logs/build_export.py`. Its README lists the tables.
+- **Scripture bridges** for the other books, one note per printed chapter-and-verse reference, built by `_lumerian_build_logs/build_scripture_bridges.py`: [[Books/The Witness of the Stars (E. W. Bullinger)/Indices/Scripture Bridges Index|Bullinger]] · [[Books/Isis Unveiled (H. P. Blavatsky)/Indices/Scripture Bridges Index|Blavatsky]] · [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Indices/Scripture Bridges Index|Hall]].
 - **See-reference links** in Gaskell entries: [[Supporting Material/Gaskell/Reports/See-Reference Linking - 2026-11-12|linking report]].
 
 ## How to read evidence

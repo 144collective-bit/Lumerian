@@ -100,4 +100,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/crucifixion-of-purusha-or-the-sacrifice-of-the-man__psalms-42-chapter|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]]
 - **42:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/thirst-or-tanha__psalms-42-2|THIRST, OR TANHA]]
+- **42:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-42-7|printed citation]]
 <!-- cited-by:end -->

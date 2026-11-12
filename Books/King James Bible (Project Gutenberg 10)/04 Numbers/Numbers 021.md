@@ -242,6 +242,9 @@ So they smote him, and his sons, and all his people, until there was none left h
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **21:8** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]]
-- **21:9** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]]
+- **21:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Numbers-21-5-9|printed citation]]
+- **21:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Numbers-21-5-9|printed citation]]
+- **21:7** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Numbers-21-5-9|printed citation]]
+- **21:8** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Numbers-21-5-9|printed citation]]
+- **21:9** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Numbers-21-5-9|printed citation]]
 <!-- cited-by:end -->

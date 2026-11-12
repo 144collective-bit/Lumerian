@@ -111,4 +111,5 @@ And it shall come to pass in that day, that the great trumpet shall be blown, an
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/libations-leviathan-or-levitiya__isaiah-27-chapter|LIBATIONS LEVIATHAN, OR LEVITIYA]]
+- **27:1** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-27-1|printed citation]]
 <!-- cited-by:end -->

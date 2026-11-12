@@ -194,5 +194,7 @@ To God only wise, be glory through Jesus Christ for ever. Amen.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **16:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-16-13|printed citation]]
 - **16:20** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/scorpion__romans-16-20|SCORPION]]
+- **16:25** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-16-25|printed citation]]
 <!-- cited-by:end -->

@@ -122,5 +122,5 @@ And they that are far off shall come and build in the temple of the LORD, and ye
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **6:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **6:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Zechariah-6-12|printed citation]]
 <!-- cited-by:end -->

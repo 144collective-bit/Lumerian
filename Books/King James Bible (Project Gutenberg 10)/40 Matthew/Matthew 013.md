@@ -381,10 +381,17 @@ And he did not many mighty works there because of their unbelief.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **13:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/birds-lower-aspect__matthew-13-4|BIRDS (LOWER ASPECT)]]
-- **13:11** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
-- **13:13** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **13:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10|printed citation]]
+- **13:11** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-11|printed citation]]
+- **13:12** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-12|printed citation]]
+- **13:13** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-13|printed citation]]
+- **13:14** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]
+- **13:15** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-10-15|printed citation]]
+- **13:22** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-22|printed citation]]
 - **13:28** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/reaping-after-sowing__matthew-13-28-30|REAPING AFTER SOWING]]
 - **13:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/reaping-after-sowing__matthew-13-28-30|REAPING AFTER SOWING]]
 - **13:30** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/reaping-after-sowing__matthew-13-28-30|REAPING AFTER SOWING]]
+- **13:55** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-55|printed citation]]
+- **13:56** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-13-56|printed citation]]
 - **13:58** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter II Phenomena and Forces - Analytical Note|Chapter II, “Phenomena and Forces”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 <!-- cited-by:end -->

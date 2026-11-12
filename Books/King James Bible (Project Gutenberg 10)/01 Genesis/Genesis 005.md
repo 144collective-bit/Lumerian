@@ -226,6 +226,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/patriarchs-of-genesis__genesis-5-chapter|PATRIARCHS OF GENESIS]]
 - **5:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/adam-dual__genesis-5-1|ADAM, DUAL]]
+- **5:3** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-5-3|printed citation]]
 - **5:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/begetting-sons-and-daughters__genesis-5-6|BEGETTING SONS AND DAUGHTERS]]
 - **5:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/seth-son-of-adam__genesis-5-8|SETH, SON OF ADAM]]
 - **5:23** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/walking-with-god__genesis-5-23|WALKING WITH GOD]]

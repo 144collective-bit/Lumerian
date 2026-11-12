@@ -170,7 +170,8 @@ And ye are Christ’s; and Christ is God’s.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **3:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-3-10|printed citation]]
 - **3:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__1-corinthians-3-11|ARCHETYPAL MAN]]
-- **3:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/temple-temple-of-god__1-corinthians-3-16|TEMPLE TEMPLE OF GOD]] · Concept hub: [[Symbols & Concepts/Body as Temple|Body as Temple]]
+- **3:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/temple-temple-of-god__1-corinthians-3-16|TEMPLE TEMPLE OF GOD]] · Concept hub: [[Symbols & Concepts/Body as Temple|Body as Temple]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-3-16|printed citation]]
 - **3:17** — Concept hub: [[Symbols & Concepts/Body as Temple|Body as Temple]]
 <!-- cited-by:end -->

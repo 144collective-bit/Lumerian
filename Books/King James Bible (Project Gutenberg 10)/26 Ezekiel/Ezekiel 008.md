@@ -141,4 +141,5 @@ Therefore will I also deal in fury: mine eye shall not spare, neither will I hav
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/07-Atlantis-and-the-Godsof-Antiquity|Evidence — Atlantis and the Godsof Antiquity]]
+- **8:14** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__Ezekiel-8-14|printed citation]]
 <!-- cited-by:end -->

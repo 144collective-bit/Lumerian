@@ -111,4 +111,6 @@ And I beheld, and heard an angel flying through the midst of heaven, saying with
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/star-worms__revelation-8-chapter|STAR-WORMS]] · Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/46-The-Mystery-of-the-Apocalypse|Evidence — The Mystery of the Apocalypse]]
+- **8:10** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__Revelation-8-10-11|printed citation]]
+- **8:11** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__Revelation-8-10-11|printed citation]]
 <!-- cited-by:end -->

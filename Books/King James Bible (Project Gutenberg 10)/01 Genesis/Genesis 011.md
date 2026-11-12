@@ -228,7 +228,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **11:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/lanka-language__genesis-11-1|LANKA LANGUAGE]]; [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-1-4|SPEECH OR SPEAKING]]
 - **11:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-1-4|SPEECH OR SPEAKING]]
 - **11:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-1-4|SPEECH OR SPEAKING]]
-- **11:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-1-4|SPEECH OR SPEAKING]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]
+- **11:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-1-4|SPEECH OR SPEAKING]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-11-4|printed citation]]
 - **11:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-5|SPEECH OR SPEAKING]]
 - **11:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/confusion-babel__genesis-11-7|CONFUSION BABEL]]
 - **11:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/speech-or-speaking__genesis-11-8|SPEECH OR SPEAKING]]

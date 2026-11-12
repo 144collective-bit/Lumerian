@@ -237,5 +237,7 @@ And this shall be an everlasting statute unto you, to make an atonement for the 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **16:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/scarabazus-scapegoat__leviticus-16-7|SCARABAZUS SCAPEGOAT]]
-- **16:22** — Concept hub: [[Symbols & Concepts/Death, Resurrection, and Initiation|Death, Resurrection, and Initiation]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]
+- **16:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Leviticus-16-8|printed citation]]
+- **16:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Leviticus-16-10|printed citation]]
+- **16:22** — Concept hub: [[Symbols & Concepts/Death, Resurrection, and Initiation|Death, Resurrection, and Initiation]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Leviticus-16-22|printed citation]]
 <!-- cited-by:end -->

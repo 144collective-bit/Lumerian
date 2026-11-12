@@ -134,6 +134,18 @@ I will make thy name to be remembered in all generations: therefore shall the pe
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **45:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/arrow-of-the-spirit__psalms-45-5|ARROW OF THE SPIRIT]]
-- **45:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/l-or-holy-oil__psalms-45-7|L, OR HOLY OIL]]
+- **45:3** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-3-5|printed citation]]
+- **45:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-3-5|printed citation]]
+- **45:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/arrow-of-the-spirit__psalms-45-5|ARROW OF THE SPIRIT]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-3-5|printed citation]]
+- **45:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-6|printed citation]]
+- **45:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/l-or-holy-oil__psalms-45-7|L, OR HOLY OIL]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-7|printed citation]]
+- **45:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
+- **45:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-45-9-17|printed citation]]
 <!-- cited-by:end -->

@@ -243,6 +243,7 @@ Let the sinners be consumed out of the earth, and let the wicked be no more. Ble
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **104:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/wind-word-spirit-marut-breath__psalms-104-3|WIND, WORD, SPIRIT, MARUT, BREATH]]
-- **104:4** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]]
+- **104:4** — Concept hub: [[Symbols & Concepts/Sephiroth|Sephiroth]] · Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Scripture Bridges/Hall__Psalms-104-4|printed citation]]
 - **104:15** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/windows-of-heaven-stopped__psalms-104-15|WINDOWS OF HEAVEN STOPPED]]
+- **104:35** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-104-35|printed citation]]
 <!-- cited-by:end -->

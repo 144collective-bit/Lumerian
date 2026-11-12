@@ -158,5 +158,7 @@ Unto him be glory in the church by Christ Jesus throughout all ages, world witho
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **3:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ephesians-3-9|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ephesians-3-9|printed citation]]
+- **3:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ephesians-3-10|printed citation]]
 - **3:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/family__ephesians-3-14|FAMILY]]
 <!-- cited-by:end -->

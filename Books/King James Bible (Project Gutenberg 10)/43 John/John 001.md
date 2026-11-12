@@ -339,6 +339,11 @@ And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see he
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **1:1** — Concept hub: [[Symbols & Concepts/Logos and the Word|Logos and the Word]]
+- **1:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-1-6|printed citation]]
 - **1:12** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter I Old Things with New Names - Analytical Note|Chapter I, “Old Things with New Names”]]
 - **1:14** — Concept hub: [[Symbols & Concepts/Logos and the Word|Logos and the Word]]
+- **1:16** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-1-16|printed citation]]
+- **1:29** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-1-29|printed citation]]
+- **1:36** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-1-36|printed citation]]
+- **1:46** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-1-46|printed citation]]
 <!-- cited-by:end -->

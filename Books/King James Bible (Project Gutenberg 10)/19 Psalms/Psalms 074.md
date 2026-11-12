@@ -170,5 +170,7 @@ Forget not the voice of thine enemies: the tumult of those that rise up against 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **74:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/libations-leviathan-or-levitiya__psalms-74-14|LIBATIONS LEVIATHAN, OR LEVITIYA]]
+- **74:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-74-12-14|printed citation ×2]]
+- **74:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-74-12-14|printed citation ×2]]
+- **74:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/libations-leviathan-or-levitiya__psalms-74-14|LIBATIONS LEVIATHAN, OR LEVITIYA]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-74-12-14|printed citation ×2]]
 <!-- cited-by:end -->

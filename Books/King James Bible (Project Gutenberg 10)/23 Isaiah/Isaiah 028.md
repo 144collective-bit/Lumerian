@@ -206,5 +206,6 @@ This also cometh forth from the LORD of hosts, which is wonderful in counsel, an
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **28:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-28-10|printed citation]]
 - **28:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/stone-for-corner__isaiah-28-16|STONE FOR CORNER]]
 <!-- cited-by:end -->

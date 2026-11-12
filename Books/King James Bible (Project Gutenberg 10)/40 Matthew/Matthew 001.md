@@ -182,5 +182,5 @@ And knew her not till she had brought forth her firstborn son: and he called his
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **1:23** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/jeshurun__matthew-1-23|JESHURUN]] · Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **1:23** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/jeshurun__matthew-1-23|JESHURUN]] · Concept hub: [[Symbols & Concepts/Christ|Christ]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Matthew-1-23|printed citation]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-1-23|printed citation]]
 <!-- cited-by:end -->

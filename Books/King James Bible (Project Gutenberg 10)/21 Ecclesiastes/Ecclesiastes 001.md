@@ -144,4 +144,5 @@ For in much wisdom is much grief: and he that increaseth knowledge increaseth so
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **1:9** — Concept hub: [[Symbols & Concepts/Sun|Sun]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter III Blind Leaders of the Blind - Analytical Note|Chapter III, “Blind Leaders of the Blind”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **1:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ecclesiastes-1-10|printed citation]]
 <!-- cited-by:end -->

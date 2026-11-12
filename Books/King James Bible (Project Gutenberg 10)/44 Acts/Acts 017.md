@@ -236,5 +236,5 @@ Howbeit certain men clave unto him, and believed: among the which was Dionysius 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **17:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]
+- **17:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Analytical Overview|Analytical overview]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Acts-17-28|printed citation]]
 <!-- cited-by:end -->

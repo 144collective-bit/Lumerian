@@ -219,4 +219,5 @@ And the people believed: and when they heard that the LORD had visited the child
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/tabernacle__exodus-4-chapter|TABERNACLE]]
+- **4:22** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Exodus-4-22|printed citation]]
 <!-- cited-by:end -->

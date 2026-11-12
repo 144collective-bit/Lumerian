@@ -344,5 +344,9 @@ Blessed be the LORD for evermore. Amen, and Amen.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **89:7** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Psalms-89-7|printed citation ×2]]
 - **89:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/judgment-and-justice__psalms-89-14|JUDGMENT AND JUSTICE]]
+- **89:18** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Psalms-89-18|printed citation]]
+- **89:19** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-89-19|printed citation]]
+- **89:37** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-89-37|printed citation ×2]]
 <!-- cited-by:end -->

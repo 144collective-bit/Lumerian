@@ -170,5 +170,6 @@ Which is his body, the fulness of him that filleth all in all.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **1:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/promises-of-god__ephesians-1-13|PROMISES OF GOD]]
+- **1:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/promises-of-god__ephesians-1-13|PROMISES OF GOD]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ephesians-1-13|printed citation]]
+- **1:21** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ephesians-1-21|printed citation]]
 <!-- cited-by:end -->

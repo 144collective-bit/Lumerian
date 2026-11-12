@@ -68,5 +68,5 @@ And there shall be a tabernacle for a shadow in the day time from the heat, and 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **4:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]
+- **4:2** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-4-2|printed citation ×4]]
 <!-- cited-by:end -->

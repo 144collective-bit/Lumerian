@@ -110,6 +110,8 @@ But them that are without God judgeth. Therefore put away from among yourselves 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **5:1** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-5-1|printed citation]]
+- **5:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Corinthians-5-5|printed citation]]
 - **5:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/leaven-lower-aspect__1-corinthians-5-6-8|LEAVEN (LOWER ASPECT)]]
 - **5:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/leaven-lower-aspect__1-corinthians-5-6-8|LEAVEN (LOWER ASPECT)]]; [[Studies/Bible–Gaskell Cross References/Bridges/passover-jewish__1-corinthians-5-7|PASSOVER, JEWISH]]; [[Studies/Bible–Gaskell Cross References/Bridges/unleavened-bread__1-corinthians-5-7|UNLEAVENED BREAD]]
 - **5:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/banquet__1-corinthians-5-8|BANQUET]]; [[Studies/Bible–Gaskell Cross References/Bridges/leaven-lower-aspect__1-corinthians-5-6-8|LEAVEN (LOWER ASPECT)]]

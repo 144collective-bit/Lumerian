@@ -153,7 +153,10 @@ The mystery of the seven stars which thou sawest in my right hand, and the seven
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/seven-number__revelation-1-chapter|SEVEN, NUMBER]]
-- **1:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/alpha-and-omega__revelation-1-8|ALPHA AND OMEGA]]
+- **1:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-1-6|printed citation]]
+- **1:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/alpha-and-omega__revelation-1-8|ALPHA AND OMEGA]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-1-8|printed citation]]
 - **1:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ameni-the-son-of-man__revelation-1-13|AMENI, THE SON OF MAN]]; [[Studies/Bible–Gaskell Cross References/Bridges/girdle-of-gold__revelation-1-13|GIRDLE OF GOLD]]
 - **1:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/balder-the-good__revelation-1-14|BALDER THE GOOD]]
+- **1:15** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-1-15|printed citation]]
+- **1:17** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-1-17|printed citation]]
 <!-- cited-by:end -->

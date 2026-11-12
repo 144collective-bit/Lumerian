@@ -136,4 +136,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **3:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/axe__matthew-3-10|AXE]]
 - **3:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/baptism-of-fire__matthew-3-11|BAPTISM OF FIRE]] · Concept hub: [[Symbols & Concepts/Baptism|Baptism]]; [[Symbols & Concepts/Fire|Fire]] · Study: [[Studies/Gaskell Page-Image Checks - 2026-11-06|Gaskell page-image checks — 6 November 2026 (Europe/London)]]
+- **3:12** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-3-12|printed citation]]
+- **3:17** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-3-17|printed citation]]
 <!-- cited-by:end -->

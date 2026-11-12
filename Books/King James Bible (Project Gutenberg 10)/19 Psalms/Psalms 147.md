@@ -152,5 +152,6 @@ He hath not dealt so with any nation: and as for his judgments, they have not kn
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **147:4** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-147-4|printed citation ×2]]
 - **147:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ice-frost-or-snow__psalms-147-17|ICE, FROST, OR SNOW]]
 <!-- cited-by:end -->

@@ -165,4 +165,6 @@ Let thy mercy, O LORD, be upon us, according as we hope in thee.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **33:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sea-limited__psalms-33-7|SEA (LIMITED)]]
+- **33:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-33-11|printed citation]]
+- **33:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-33-12|printed citation]]
 <!-- cited-by:end -->

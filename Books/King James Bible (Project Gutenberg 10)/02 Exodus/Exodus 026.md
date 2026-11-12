@@ -254,6 +254,7 @@ And thou shalt make for the hanging five pillars of shittim wood, and overlay th
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **26:24** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Exodus-26-24|printed citation]]
 - **26:31** — Concept hub: [[Symbols & Concepts/Veil|Veil]]
 - **26:33** — Concept hub: [[Symbols & Concepts/Veil|Veil]]
 <!-- cited-by:end -->
