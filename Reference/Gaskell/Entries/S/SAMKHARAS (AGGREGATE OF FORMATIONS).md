@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Consciousnsss` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `IenorANCE` | **unresolved** (review queue) |
+| `Consciousnsss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `IenorANCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `Karma` | **unresolved** (review queue) |
-| `SKANDHAS` | **candidate (first-segment only)** → possible `SKANDHAS, FIVE` (not linked) |
+| `SKANDHAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/S/SKANDHAS SKADE|SKANDHAS SKADE]] |
 
 ## Full OCR entry body (exact)
 

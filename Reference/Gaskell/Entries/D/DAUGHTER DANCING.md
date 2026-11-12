@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Fatt` | **unresolved** (review queue) |
-| `Mepusa` | **unresolved** (review queue) |
+| `Mepusa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEDUSA, THE GORGON|MEDUSA, THE GORGON]] |
 | `PANDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
 
 ## Full OCR entry body (exact)

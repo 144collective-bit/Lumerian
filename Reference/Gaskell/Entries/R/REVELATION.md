@@ -35,18 +35,18 @@ tags:
 | `AMBAYAVIS` | **unresolved** (review queue) |
 | `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
 | `BAPTISM OF FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]] |
-| `DEVELOPMENT` | **unresolved** (review queue) |
+| `DEVELOPMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS|DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS]] |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `MytTHoLocy` | **unresolved** (review queue) |
 | `Paryrus BOAT` | **unresolved** (review queue) |
-| `PEN` | **unresolved** (review queue) |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `RAMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `Sastra` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
+| `Sastra` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
 | `Scrrprures` | **unresolved** (review queue) |
-| `Sruti` | **candidate (first-segment only)** → possible `SRUTI, REVELATION` (not linked) |
+| `Sruti` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SRUTI, REVELATION|SRUTI, REVELATION]] |
 | `UPaniSHAD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |

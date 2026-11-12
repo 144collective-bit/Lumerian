@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrows` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `Arrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `CLoups` | **unresolved** (review queue) |
-| `HEARING (higher)` | **unresolved** (review queue) |
+| `HEARING (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HEARING (HIGHER ASPECT)|HEARING (HIGHER ASPECT)]] |
 | `Norse` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `Voice. SOUTH QUARTER IN’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

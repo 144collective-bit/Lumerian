@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATMAN` | **unresolved** (review queue) |
-| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BraHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `DEMIURGE Four sEASONS` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `I aM` | **unresolved** (review queue) |

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLacksmMiTHS` | **unresolved** (review queue) |
-| `WEAPONS` | **unresolved** (review queue) |
+| `BLacksmMiTHS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
+| `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 
 ## Full OCR entry body (exact)
 

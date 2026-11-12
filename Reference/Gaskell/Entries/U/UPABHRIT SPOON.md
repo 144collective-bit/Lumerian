@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Duruva` | **unresolved** (review queue) |
+| `Duruva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN|DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN]] |
 | `Guuu` | **unresolved** (review queue) |
-| `SRuK` | **candidate (first-segment only)** → possible `SRUK, OFFERING SPOONS` (not linked) |
+| `SRuK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SRUK, OFFERING SPOONS|SRUK, OFFERING SPOONS]] |
 | `SRvva` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

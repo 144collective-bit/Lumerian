@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CasTES` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CasTES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CrassEs` | **unresolved** (review queue) |
 | `MARRIAGE (castes)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

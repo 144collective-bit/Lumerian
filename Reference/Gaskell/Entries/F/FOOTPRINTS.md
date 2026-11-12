@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Feet` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
-| `InoagnaTion` | **unresolved** (review queue) |
+| `InoagnaTion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Re-mCABNATION` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CLOUDS OF HEAVEN` | **candidate (first-segment only)** → possible `CLOUDS OF HEAVEN, AS MIST` (not linked) |
+| `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
 | `(right). Hanp` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

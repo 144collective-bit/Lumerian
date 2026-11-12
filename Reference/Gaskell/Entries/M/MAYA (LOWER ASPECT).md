@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hine` | **unresolved** (review queue) |
+| `Hine` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HINE-NUI-TE-PO|HINE-NUI-TE-PO]] |
 | `Itxivusion` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
-| `NECTAR` | **candidate (first-segment only)** → possible `NECTAR, SWEET` (not linked) |
+| `NECTAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NECTAR, SWEET|NECTAR, SWEET]] |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `PurnusHA` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `WOMB` | **unresolved** (review queue) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `PurnusHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `WOMB` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 
 ## Full OCR entry body (exact)
 

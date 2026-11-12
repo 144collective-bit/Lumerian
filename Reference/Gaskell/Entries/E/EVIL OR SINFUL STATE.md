@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AEsHM` | **unresolved** (review queue) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `BEELZEBUB` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEELZEBUB|BEELZEBUB]] |
 | `ConFuict` | **unresolved** (review queue) |
 | `Devi` | **unresolved** (review queue) |
-| `EsTHEeR` | **unresolved** (review queue) |
+| `EsTHEeR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `QvuILTy` | **unresolved** (review queue) |
 | `255 EVOLUTION Heartrne` | **unresolved** (review queue) |
 | `Hrrop` | **unresolved** (review queue) |
 | `Icnoranor` | **unresolved** (review queue) |
-| `ILLvSION` | **unresolved** (review queue) |
-| `Law OF REVENGE` | **candidate (first-segment only)** → possible `LAW OF REVENGE, ANGER, AND FOLLY` (not linked) |
-| `MURDER` | **candidate (first-segment only)** → possible `MURDER, WRATH, AND HATRED` (not linked) |
-| `OprosiTrs` | **unresolved** (review queue) |
+| `ILLvSION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
+| `Law OF REVENGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAW OF REVENGE, ANGER, AND FOLLY|LAW OF REVENGE, ANGER, AND FOLLY]] |
+| `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
+| `OprosiTrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 
 ## Full OCR entry body (exact)

@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `COCOA-NUT` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `EEt-cop` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
 | `Hover` | **unresolved** (review queue) |
-| `InCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
+| `InCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `Moon` | **unresolved** (review queue) |
-| `REDEEMER` | **unresolved** (review queue) |
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
-| `SHORE` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
+| `SHORE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `SUN-RISING` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

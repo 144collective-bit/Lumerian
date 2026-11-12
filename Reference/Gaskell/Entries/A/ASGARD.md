@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AsaR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
+| `AsaR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
 | `BALpER` | **unresolved** (review queue) |
-| `DEATH OF BatpER` | **unresolved** (review queue) |
-| `DEVACH4N` | **unresolved** (review queue) |
-| `MUSPELHEIM` | **unresolved** (review queue) |
+| `DEATH OF BatpER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
+| `DEVACH4N` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
+| `MUSPELHEIM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
 | `VaLHALLA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALHALLA|VALHALLA]] |
 
 ## Full OCR entry body (exact)

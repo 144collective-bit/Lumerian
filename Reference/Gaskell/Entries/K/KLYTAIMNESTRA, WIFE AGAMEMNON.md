@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `PESTILENCE` | **unresolved** (review queue) |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PRIZE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

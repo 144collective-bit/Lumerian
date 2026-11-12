@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dance` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `Dance` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GooD` | **candidate (first-segment only)** → possible `GOOD, OR LIGHT CREATION` (not linked) |
-| `Hymn` | **unresolved** (review queue) |
+| `GooD` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOOD, OR LIGHT CREATION|GOOD, OR LIGHT CREATION]] |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `MeEtopy` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `NyMpus` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

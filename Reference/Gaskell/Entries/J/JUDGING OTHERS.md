@@ -36,7 +36,7 @@ tags:
 | `LANDMARKS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LANDMARKS|LANDMARKS]] |
 | `NEIGHBOUR` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEIGHBOUR|NEIGHBOUR]] |
 | `SERVANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANTS|SERVANTS]] |
-| `SCEPTICISM` | **candidate (first-segment only)** → possible `SCEPTICISM, OR PHILOSOPHIC DOUBT` (not linked) |
+| `SCEPTICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCEPTICISM, OR PHILOSOPHIC DOUBT|SCEPTICISM, OR PHILOSOPHIC DOUBT]] |
 
 ## Full OCR entry body (exact)
 

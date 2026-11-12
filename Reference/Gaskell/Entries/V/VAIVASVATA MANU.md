@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AUSTERITIES` | **unresolved** (review queue) |
-| `CORRUPTION` | **unresolved** (review queue) |
+| `CORRUPTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORRUPTION AND VIOLENCE ON THE EARTH|CORRUPTION AND VIOLENCE ON THE EARTH]] |
 | `DeratTH (Yama)` | **unresolved** (review queue) |
-| `DELUGE` | **unresolved** (review queue) |
-| `DEPRAVITY` | **candidate (first-segment only)** → possible `DEPRAVITY, UNIVERSAL` (not linked) |
-| `LaKE` | **unresolved** (review queue) |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
+| `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
+| `LaKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAKE OF WATER|LAKE OF WATER]] |
 | `MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |

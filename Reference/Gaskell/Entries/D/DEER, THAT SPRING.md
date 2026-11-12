@@ -35,7 +35,7 @@ tags:
 | `Croups` | **unresolved** (review queue) |
 | `Marvuts` | **unresolved** (review queue) |
 | `Rar` | **unresolved** (review queue) |
-| `SPOTTED` | **unresolved** (review queue) |
+| `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
 
 ## Full OCR entry body (exact)
 

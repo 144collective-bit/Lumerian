@@ -37,24 +37,24 @@ tags:
 | `stories in the sacred books expound the theme of the awakenment of the mind im ignorance which is the prelude to the attainment of Truth. The _ reality (water) above` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `is reflected in illusion (water) below` | **unresolved** (review queue) |
 | `while the higher nature of the soul awaits undisturbed its evolution in due course. See ABTU FISH` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ADITYAS` | **candidate (first-segment only)** → possible `ADITYAS, THE TWELVE` (not linked) |
-| `ANCHORAGE` | **unresolved** (review queue) |
-| `ARK` | **unresolved** (review queue) |
-| `DEPRAVITY` | **candidate (first-segment only)** → possible `DEPRAVITY, UNIVERSAL` (not linked) |
-| `FISH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `ADITYAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] |
+| `ANCHORAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANCHORAGE OF THE SHIP|ANCHORAGE OF THE SHIP]] |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
+| `FISH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `FLoop` | **unresolved** (review queue) |
 | `Himavan` | **unresolved** (review queue) |
-| `Horn` | **unresolved** (review queue) |
+| `Horn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
 | `JEsus (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `LakEe` | **unresolved** (review queue) |
 | `Manu` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `Moorine-post` | **unresolved** (review queue) |
-| `OcEaN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `OcEaN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `Rar` | **unresolved** (review queue) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `SHuP OF MANU` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
-| `VaIVASVATA` | **unresolved** (review queue) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `SHuP OF MANU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `VaIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

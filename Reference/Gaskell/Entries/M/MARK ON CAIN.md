@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATOM` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `ATOM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 
 ## Full OCR entry body (exact)
 

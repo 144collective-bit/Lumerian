@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FRAVAK` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FRAVAK` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVAK AND FRAVAKAIN|FRAVAK AND FRAVAKAIN]] |
 | `Hei` | **unresolved** (review queue) |
 | `Karma` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MATRO` | **unresolved** (review queue) |
-| `MILK (goat)` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `MATRO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
+| `MILK (goat)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MILK AS FOR BABES (LOWER ASPECT)|MILK AS FOR BABES (LOWER ASPECT)]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Roor-RAcES` | **unresolved** (review queue) |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

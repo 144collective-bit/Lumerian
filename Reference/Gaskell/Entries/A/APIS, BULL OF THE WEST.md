@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Butz` | **unresolved** (review queue) |
-| `Mempuis` | **unresolved** (review queue) |
+| `Mempuis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEMPHIS|MEMPHIS]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `SERaPIs. 54` | **unresolved** (review queue) |
 

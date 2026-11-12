@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMA-TERASU` | **unresolved** (review queue) |
-| `BuUDDHI` | **unresolved** (review queue) |
-| `CiRcULAR` | **unresolved** (review queue) |
+| `AMA-TERASU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMA-TERASU AMA-TERASU, OR TENSHODAIJIN, THE SUN-GODDESS|AMA-TERASU AMA-TERASU, OR TENSHODAIJIN, THE SUN-GODDESS]] |
+| `BuUDDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CiRcULAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CIRCULAR BOX OR DRUM|CIRCULAR BOX OR DRUM]] |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `DANCE` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `DANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FacES OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACES OF MEN|FACES OF MEN]] |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `Gops` | **unresolved** (review queue) |
 | `HIpING PLACE` | **unresolved** (review queue) |
-| `LAUGHTER` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `MousIcIAN` | **unresolved** (review queue) |
-| `NAKEDNEss (higher)` | **unresolved** (review queue) |
+| `LAUGHTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAUGHTER OF THE GODS|LAUGHTER OF THE GODS]] |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `MousIcIAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSICIAN|MUSICIAN]] |
+| `NAKEDNEss (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]] |
 | `Pata` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `Srx` | **unresolved** (review queue) |
 | `Sone` | **unresolved** (review queue) |
 | `TamaGUSHI` | **unresolved** (review queue) |

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `VEHICLES` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

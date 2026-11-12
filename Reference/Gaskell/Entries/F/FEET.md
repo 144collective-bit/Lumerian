@@ -35,10 +35,10 @@ tags:
 | `Foot` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOT|FOOT]] |
 | `Foorrrinrs` | **unresolved** (review queue) |
 | `Ricut roor` | **unresolved** (review queue) |
-| `SANDALs` | **candidate (first-segment only)** → possible `SANDALS, OR SHOES` (not linked) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `SANDALs` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDALS, OR SHOES|SANDALS, OR SHOES]] |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
-| `WaLKING` | **unresolved** (review queue) |
+| `WaLKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 | `WASHED FEET` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

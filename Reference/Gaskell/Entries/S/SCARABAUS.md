@@ -36,11 +36,11 @@ tags:
 | `Bishop of Milan (Opera` | **unresolved** (review queue) |
 | `tom. I. col. 1528). See ASCENSION OF OSIRIS` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Evo.uTION` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `KHEPER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 
 ## Full OCR entry body (exact)
 

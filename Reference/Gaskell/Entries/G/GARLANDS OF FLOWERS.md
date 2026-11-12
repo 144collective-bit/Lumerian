@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `FLOWERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
-| `WREATHS` | **unresolved** (review queue) |
+| `WREATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WREATHS OF PLANTS|WREATHS OF PLANTS]] |
 
 ## Full OCR entry body (exact)
 

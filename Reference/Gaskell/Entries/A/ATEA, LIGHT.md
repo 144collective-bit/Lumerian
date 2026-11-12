@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Asyss` | **unresolved** (review queue) |
-| `ApITI` | **unresolved** (review queue) |
-| `ATEA` | **candidate (first-segment only)** → possible `ATEA, LIGHT` (not linked) |
+| `ApITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ADITI|ADITI]] |
+| `ATEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN|ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CuHaos` | **unresolved** (review queue) |
-| `Darkness` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `CuHaos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `Darkness` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `Nicut` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TAAROA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AIN sOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
-| `EXPERIENCE` | **unresolved** (review queue) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `FovunTAIN` | **unresolved** (review queue) |
 | `MImMER` | **unresolved** (review queue) |
 | `ODIN` | **unresolved** (review queue) |
-| `RimMrHURSAR` | **unresolved** (review queue) |
-| `Son (moon)` | **unresolved** (review queue) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `RimMrHURSAR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]] |
+| `Son (moon)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]]; [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]]; [[Reference/Gaskell/Entries/S/SON OR DAUGHTER|SON OR DAUGHTER]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `WATER (higher)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `YGOQDRASIL` | **unresolved** (review queue) |
+| `YGOQDRASIL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

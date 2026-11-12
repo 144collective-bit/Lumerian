@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Caucasus` | **unresolved** (review queue) |
+| `Caucasus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] |
 | `FLoop` | **unresolved** (review queue) |
 | `Mountains` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNTAINS|MOUNTAINS]] |
 

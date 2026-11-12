@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boat OF THE EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAT OF THE EARTH|BOAT OF THE EARTH]] |
-| `DROPNER` | **unresolved** (review queue) |
+| `DROPNER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DROPNER RING|DROPNER RING]] |
 | `OacpoaD` | **unresolved** (review queue) |
-| `SaBBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SUNDAY` | **candidate (first-segment only)** → possible `SUNDAY, THE FIRST DAY` (not linked) |
-| `UDGITHA` | **candidate (first-segment only)** → possible `UDGITHA, OM` (not linked) |
+| `SaBBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SUNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
+| `UDGITHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDGITHA, OM|UDGITHA, OM]] |
 
 ## Full OCR entry body (exact)
 

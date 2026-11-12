@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CIvILIsINc` | **unresolved** (review queue) |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
-| `MINISTERS` | **unresolved** (review queue) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
+| `MINISTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `YAO` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `YAO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

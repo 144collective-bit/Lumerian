@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BrsHop` | **unresolved** (review queue) |
+| `BrsHop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BISHOP|BISHOP]] |
 | `Crown` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Moura` | **unresolved** (review queue) |
 

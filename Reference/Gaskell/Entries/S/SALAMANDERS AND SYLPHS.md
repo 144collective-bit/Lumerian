@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Devas (lower)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Devas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
 | `DRyYap` | **unresolved** (review queue) |
 | `Fie` | **unresolved** (review queue) |
 

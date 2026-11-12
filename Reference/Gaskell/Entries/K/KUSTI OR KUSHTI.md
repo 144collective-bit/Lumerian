@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BARHIS` | **candidate (first-segment only)** → possible `BARHIS, SACRIFICIAL GRASS` (not linked) |
+| `BARHIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] |
 | `BARSOM` | **unresolved** (review queue) |
 | `Brrr (second) BREASTPLATE` | **unresolved** (review queue) |
-| `BUCKLE` | **unresolved** (review queue) |
-| `EpHOD` | **candidate (first-segment only)** → possible `EPHOD, HOLY, OF AARON` (not linked) |
+| `BUCKLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUCKLE OF ISIS|BUCKLE OF ISIS]] |
+| `EpHOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EPHOD GIRDLE|EPHOD GIRDLE]]; [[Reference/Gaskell/Entries/E/EPHOD, HOLY, OF AARON|EPHOD, HOLY, OF AARON]] |
 | `TAMAGUSHI` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
-| `YAGNOPAVITA` | **unresolved** (review queue) |
+| `YAGNOPAVITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YAJNOPAVITA,-THE SACRED CORD, OR SACRIFICIAL THREAD|YAJNOPAVITA,—THE SACRED CORD, OR SACRIFICIAL THREAD]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL` | **unresolved** (review queue) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `CAUSAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]]; [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `FaTHER (lower)` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SAHU SHABTI` | **unresolved** (review queue) |

@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aponis` | **unresolved** (review queue) |
-| `ATALANTA` | **candidate (first-segment only)** → possible `ATALANTA, THE FAIR MAID` (not linked) |
-| `ATTRACTION` | **unresolved** (review queue) |
-| `Foam` | **unresolved** (review queue) |
-| `MeEscH` | **unresolved** (review queue) |
-| `POURUSHASPA` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `ATALANTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATALANTA, THE FAIR MAID|ATALANTA, THE FAIR MAID]] |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
+| `Foam` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOAM OF THE SEA|FOAM OF THE SEA]] |
+| `MeEscH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MESCH, OR MESCHGAH, PLANET VENUS|MESCH, OR MESCHGAH, PLANET VENUS]] |
+| `POURUSHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `BrrtH or Horus` | **unresolved** (review queue) |
 | `Burro` | **unresolved** (review queue) |
-| `HarPOCRATES` | **unresolved** (review queue) |
-| `HORBEHUDTI` | **candidate (first-segment only)** → possible `HORBEHUDTI, OR HEROBEHUTET` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `HarPOCRATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
+| `HORBEHUDTI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 
 ## Full OCR entry body (exact)
 

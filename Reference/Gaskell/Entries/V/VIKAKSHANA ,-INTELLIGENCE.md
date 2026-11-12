@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Brinat` | **unresolved** (review queue) |
 | `Inya` | **unresolved** (review queue) |
-| `SALAGYA` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
+| `SALAGYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
 
 ## Full OCR entry body (exact)
 

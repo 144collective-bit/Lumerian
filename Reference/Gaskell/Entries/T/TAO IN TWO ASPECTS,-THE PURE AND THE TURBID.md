@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `KHTEN` | **unresolved** (review queue) |
-| `Lao` | **unresolved** (review queue) |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `SpPrair OF MAN` | **unresolved** (review queue) |
 | `YANG AND YIN. TARES` | **unresolved** (review queue) |
 | `OR ‘‘ CHILDREN OF THE EVIL ONE °° :— A symbol of the desires and passions proceeding from the lower principle` | **unresolved** (prose-bleed / overlong token; not linked) |

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `WORD oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)

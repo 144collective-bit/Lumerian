@@ -85,22 +85,22 @@ tags:
 | `which is the changing consciousness.” —K. C. ANDERson` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Serm.` | **unresolved** (review queue) |
 | `The Burted Life. See AMATERASU` | **unresolved** (review queue) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
 | `Dancers` | **unresolved** (review queue) |
 | `ExPpERIENCES` | **unresolved** (review queue) |
-| `GARMENTS` | **unresolved** (review queue) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `LAUGHTER OF cops` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `MonapD OF LIFE` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SAMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SINGING` | **unresolved** (review queue) |
-| `UzumME` | **unresolved** (review queue) |
+| `UzumME` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 | `VESTURES WHEELS OF BIRTH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

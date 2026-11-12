@@ -36,20 +36,20 @@ tags:
 | `ATMAN` | **unresolved** (review queue) |
 | `BIRTH OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] |
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Evo.tvuTion` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `ImaGE` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `ImaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `JINVOLUTION` | **unresolved** (review queue) |
 | `Isvarna` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
-| `NEsHaMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `NEsHaMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
 
 ## Full OCR entry body (exact)

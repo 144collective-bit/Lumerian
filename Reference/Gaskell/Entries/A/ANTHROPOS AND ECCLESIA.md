@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `fons (twelve)` | **unresolved** (review queue) |
-| `APOSTLES (twelve)` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `APOSTLES (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `Discrr.es (twelve)` | **unresolved** (review queue) |
-| `Saviours (twelve)` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
-| `TRIBES (twelve)` | **unresolved** (review queue) |
+| `Saviours (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `TRIBES (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

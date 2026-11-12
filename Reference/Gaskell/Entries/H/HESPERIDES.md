@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APPLES` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `APPLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APPLES OF THE HESPERIDES|APPLES OF THE HESPERIDES]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 | `HESTIA;` | **unresolved** (review queue) |
 

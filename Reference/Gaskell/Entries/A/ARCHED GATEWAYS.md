@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMARAVATI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
-| `ARBOURS` | **candidate (first-segment only)** → possible `ARBOURS, FESTIVE` (not linked) |
-| `GATEWays` | **candidate (first-segment only)** → possible `GATEWAYS, ARCHED` (not linked) |
+| `ARBOURS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARBOURS, FESTIVE|ARBOURS, FESTIVE]] |
+| `GATEWays` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATEWAYS, ARCHED|GATEWAYS, ARCHED]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `JEWELS` | **unresolved** (review queue) |
-| `Karina` | **unresolved** (review queue) |
+| `Karina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARNA, SON OF THE SUN AND PRITHA|KARNA, SON OF THE SUN AND PRITHA]] |
 | `PINNACLES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PINNACLES|PINNACLES]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 

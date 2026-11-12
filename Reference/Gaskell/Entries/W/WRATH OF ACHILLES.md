@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
 | `BATTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
-| `CONFLICT` | **unresolved** (review queue) |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `JOB` | **unresolved** (review queue) |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Opposrres` | **unresolved** (review queue) |
+| `Opposrres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `STORM` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `STORM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 | `SworpD` | **unresolved** (review queue) |
-| `TAWHIRI-MATEA` | **candidate (first-segment only)** → possible `TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `TAWHIRI-MATEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `Wark` | **unresolved** (review queue) |
-| `WARRIORS` | **candidate (first-segment only)** → possible `WARRIORS, TWIN` (not linked) |
+| `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 | `WRATH` | **candidate (first-segment only)** → possible `WRATH, THE EVIL DOER` (not linked) |
 
 ## Full OCR entry body (exact)

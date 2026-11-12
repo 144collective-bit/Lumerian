@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hecatomss` | **unresolved** (review queue) |
-| `Kypris` | **candidate (ambiguous first-segment)** → KYPRIS, PERFECT HARBOURS OF; KYPRIS, QUEEN (not linked) |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
+| `Hecatomss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
+| `Kypris` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KYPRIS, PERFECT HARBOURS OF|KYPRIS, PERFECT HARBOURS OF]]; [[Reference/Gaskell/Entries/K/KYPRIS, QUEEN|KYPRIS, QUEEN]] |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
 
 ## Full OCR entry body (exact)
 

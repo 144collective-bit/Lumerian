@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AnRIMAN` | **unresolved** (review queue) |
+| `AnRIMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `Bort` | **unresolved** (review queue) |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
 | `Jos` | **unresolved** (review queue) |
 | `LxviaTHAN` | **unresolved** (review queue) |
-| `Ox (sarsack)` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
+| `Ox (sarsack)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
 | `VISCERA` | **unresolved** (review queue) |
 | `Vira arms` | **unresolved** (review queue) |
 | `Woms (cosmic). BEHODET` | **unresolved** (review queue) |
@@ -45,10 +45,10 @@ tags:
 | `or Horbehddti.)}—Legend of Winged Sun-disk. The higher mind (Thoth) uttered iteelf to the Self: ‘“‘ Thou art indeed @ great protector of myself.” And from that period of development the causal-body (bark) is known to be a haven of protection for the qualities ; for through its functionings the soul is brought to a state of stability` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `centralised on the higher mind plane. See Boat` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Cavusat-BoDy` | **unresolved** (review queue) |
-| `DwELLING (palace)` | **unresolved** (review queue) |
+| `DwELLING (palace)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
 | `Honsenfp11` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `THors` | **unresolved** (review queue) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `THors` | resolved (singular/plural) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 
 ## Full OCR entry body (exact)
 

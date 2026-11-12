@@ -33,24 +33,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATMAN` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `Dorr` | **unresolved** (review queue) |
-| `Fia-Fruit` | **unresolved** (review queue) |
-| `Fia-TreE` | **unresolved** (review queue) |
+| `Fia-Fruit` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
+| `Fia-TreE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] |
 | `GopHeap` | **unresolved** (review queue) |
 | `Gouip` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Jesus (son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Jos` | **unresolved** (review queue) |
-| `PERSONauiry` | **unresolved** (review queue) |
+| `PERSONauiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Sety (supreme)` | **unresolved** (review queue) |
 | `Seur (lower)` | **unresolved** (review queue) |
 | `Sou (spirit)` | **unresolved** (review queue) |
 | `TREE oF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `YELLOW` | **unresolved** (review queue) |
+| `YELLOW` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YELLOW COLOUR|YELLOW COLOUR]]; [[Reference/Gaskell/Entries/Y/YELLOW DRESS|YELLOW DRESS]]; [[Reference/Gaskell/Entries/Y/YELLOW EARS OF HORSE|YELLOW EARS OF HORSE]] |
 
 ## Full OCR entry body (exact)
 

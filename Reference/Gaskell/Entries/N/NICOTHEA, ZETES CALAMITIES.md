@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EARTHQUAKES` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
-| `ENDURING` | **candidate (first-segment only)** → possible `ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS` (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `ENDURING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/ENDURING TO THE END|ENDURING TO THE END]]; [[Reference/Gaskell/Entries/E/ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS|ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `COVERNORS` | **unresolved** (review queue) |
 | `JESUS WEDPT` | **unresolved** (review queue) |
 | `MourpER` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boat ON RIVER` | **unresolved** (review queue) |
-| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
+| `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

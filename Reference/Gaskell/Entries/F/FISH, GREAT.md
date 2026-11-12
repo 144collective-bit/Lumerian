@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABTU FISH` | **candidate (first-segment only)** → possible `ABTU FISH, OR ANT FISH` (not linked) |
-| `DELUGE` | **unresolved** (review queue) |
+| `ABTU FISH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABTU FISH, OR ANT FISH|ABTU FISH, OR ANT FISH]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `EEL-GoD` | **unresolved** (review queue) |
-| `Horkn OF SALVATION` | **unresolved** (review queue) |
+| `Horkn OF SALVATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
 | `JESUS (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `LAKE` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `Pisces` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
+| `LAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAKE OF WATER|LAKE OF WATER]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `SHIPS OF MANU` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

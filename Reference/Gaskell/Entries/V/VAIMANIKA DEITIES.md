@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AIR` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `AIR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIR AND ATHER|AIR AND ATHER]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `Marnuts` | **unresolved** (review queue) |
+| `Marnuts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `Monap (life)` | **unresolved** (review queue) |
 | `PHAEACIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |

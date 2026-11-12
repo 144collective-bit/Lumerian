@@ -37,8 +37,8 @@ tags:
 | `CAUSALBopy` | **unresolved** (review queue) |
 | `Dviyaqus` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
-| `PracApatt` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `PracApatt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 
 ## Full OCR entry body (exact)
 

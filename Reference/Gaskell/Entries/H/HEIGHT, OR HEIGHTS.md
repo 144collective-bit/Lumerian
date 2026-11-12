@@ -37,8 +37,8 @@ tags:
 | `(white)` | **unresolved** (review queue) |
 | `Hmaavan` | **unresolved** (review queue) |
 | `Karisa` | **unresolved** (review queue) |
-| `MounTAIN` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
+| `MounTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AURVAITO-DIH` | **unresolved** (review queue) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `AURVAITO-DIH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `MARTHA` | **unresolved** (review queue) |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `RicHEs` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
+| `RicHEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WOMEN` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

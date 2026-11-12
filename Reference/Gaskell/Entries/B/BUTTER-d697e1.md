@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Burnt orr` | **unresolved** (review queue) |
 | `Butter` | **unresolved** (ambiguous full-head matches; not linked) |
-| `DOUBLE FOLD` | **unresolved** (review queue) |
-| `GHEE` | **candidate (first-segment only)** → possible `GHEE, OR BUTTER` (not linked) |
-| `Or` | **unresolved** (review queue) |
+| `DOUBLE FOLD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOUBLE FOLD OF FLESH AND FAT|DOUBLE FOLD OF FLESH AND FAT]] |
+| `GHEE` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GHEE, OR BUTTER|GHEE, OR BUTTER]] |
+| `Or` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
-| `PRIESTS` | **unresolved** (review queue) |
-| `PromerHevs` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `PRIESTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `PromerHevs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SAcRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SAcRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 
 ## Full OCR entry body (exact)
 

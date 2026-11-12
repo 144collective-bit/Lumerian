@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AsSYRTvusS` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `PatTRIiakcss` | **unresolved** (review queue) |
-| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
+| `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
 
 ## Full OCR entry body (exact)
 

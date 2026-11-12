@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR (fire)` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Derunct` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
-| `Karana` | **unresolved** (review queue) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
+| `Karana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `Kuvs` | **unresolved** (review queue) |
 | `LAzARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `MumMMyY` | **unresolved** (review queue) |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Sout (middle)` | **unresolved** (review queue) |
-| `TCHEFET` | **candidate (first-segment only)** → possible `TCHEFET, IN SEKHETHETEPET` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

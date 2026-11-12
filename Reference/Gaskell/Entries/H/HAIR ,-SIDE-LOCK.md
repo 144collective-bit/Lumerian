@@ -35,14 +35,14 @@ tags:
 | `ANNU` | **unresolved** (review queue) |
 | `BLack` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK|BLACK]] |
 | `BuppHA` | **unresolved** (review queue) |
-| `CLUB` | **unresolved** (review queue) |
+| `CLUB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLUB AS A WEAPON|CLUB AS A WEAPON]] |
 | `Cotours` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
 | `Inrurrion` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `KERESASPA` | **unresolved** (review queue) |
+| `KERESASPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KERESASPA WITH SIDE-LOCK AND CLUB|KERESASPA WITH SIDE-LOCK AND CLUB]] |
 | `MOURNER` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `RIGHT HAND` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIGHT HAND|RIGHT HAND]] |
 | `SERPENT (svara)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

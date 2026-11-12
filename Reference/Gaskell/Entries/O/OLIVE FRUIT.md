@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Burrer` | **unresolved** (review queue) |
 | `CaNDLESTICKS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
-| `CRUCIFIXION (Rev.)` | **unresolved** (review queue) |
-| `GARDEN OF FLOWERS` | **unresolved** (review queue) |
-| `GHEE` | **candidate (first-segment only)** → possible `GHEE, OR BUTTER` (not linked) |
+| `CRUCIFIXION (Rev.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `GARDEN OF FLOWERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]] |
+| `GHEE` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GHEE, OR BUTTER|GHEE, OR BUTTER]] |
 | `MOUNT OF OLIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNT OF OLIVES|MOUNT OF OLIVES]] |
 | `OIL` | **unresolved** (review queue) |
 

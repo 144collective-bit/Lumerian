@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BEHEADING` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEHEADING|BEHEADING]] |
-| `FLOOD` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `FLOOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]]; [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `RanaHa` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

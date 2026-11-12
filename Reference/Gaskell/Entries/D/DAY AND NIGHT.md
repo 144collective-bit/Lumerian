@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GILGooLteM` | **unresolved** (review queue) |
+| `GILGooLteM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `Jos` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
-| `PraGipatt` | **unresolved** (review queue) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+| `PraGipatt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `Sona` | **unresolved** (review queue) |

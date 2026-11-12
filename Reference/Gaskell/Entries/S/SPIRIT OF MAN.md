@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Kama` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Tao. SPITAMA ZARATHUSTRA ;:— A symbol of the Soul on the buddhic plane. See Sout` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ZOROASTER. SPITAMA’` | **unresolved** (review queue) |
 

@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hann` | **unresolved** (review queue) |
-| `REED` | **unresolved** (review queue) |
-| `ScEPrre` | **unresolved** (review queue) |
-| `STAFF` | **candidate (ambiguous first-segment)** → STAFF, FOR WALKING AND SUPPORT; STAFF, OR ROD OF IRON (not linked) |
+| `REED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REED IN THE RIGHT HAND|REED IN THE RIGHT HAND]]; [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]]; [[Reference/Gaskell/Entries/R/REED PLAIN, 364 HODER HOA-TABU-ITERAI|REED PLAIN, 364 HODER HOA-TABU-ITERAI]]; [[Reference/Gaskell/Entries/R/REED REED SHAKEN WITH THE WIND|REED REED SHAKEN WITH THE WIND]] |
+| `ScEPrre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
+| `STAFF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STAFF, FOR WALKING AND SUPPORT|STAFF, FOR WALKING AND SUPPORT]]; [[Reference/Gaskell/Entries/S/STAFF, OR ROD OF IRON|STAFF, OR ROD OF IRON]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,29 +34,29 @@ tags:
 |---|---|
 | `ADOPTION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADOPTION|ADOPTION]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ASCENSION` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BLOOD OF LAMB` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `OF JESUS` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `ExXPERIENCES` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LaMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `Spirit` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
-| `Urns (twelve)` | **candidate (first-segment only)** → possible `URNS, THE TWELVE` (not linked) |
-| `Victory` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `Urns (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
+| `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 
 ## Full OCR entry body (exact)
 

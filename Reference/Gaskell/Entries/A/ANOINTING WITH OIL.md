@@ -63,13 +63,13 @@ tags:
 | `for the Divine Will draws it forth. The truth-acquiring faculty is dependent upon the physical lives. See ANUBIS` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ApuaT` | **unresolved** (review queue) |
 | `CrTy` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `HoUsE` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `JACKAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JACKAL|JACKAL]] |
 | `Pran` | **unresolved** (review queue) |
 | `Rope` | **unresolved** (review queue) |
 | `SEEKER` | **unresolved** (review queue) |
-| `SHU` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `SHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 
 ## Full OCR entry body (exact)
 

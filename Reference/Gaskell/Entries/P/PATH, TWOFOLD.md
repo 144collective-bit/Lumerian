@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APARAGITA` | **candidate (first-segment only)** → possible `APARAGITA, PALACE (UNCONQUERABLE)` (not linked) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `APARAGITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Way OF DELIVERANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]] |
-| `WORKS (wisdom). ‘` | **unresolved** (review queue) |
+| `WORKS (wisdom). ‘` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
 
 ## Full OCR entry body (exact)
 

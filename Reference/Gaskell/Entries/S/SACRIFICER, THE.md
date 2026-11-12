@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR GROUND` | **candidate (first-segment only)** → possible `ALTAR GROUND,—THE EARTH` (not linked) |
-| `ALTAR (fire). ARC. MAN` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ALTAR GROUND` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]] |
+| `ALTAR (fire). ARC. MAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BUpDDmHA` | **unresolved** (review queue) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
-| `FUH-HE` | **candidate (first-segment only)** → possible `FUH-HE, OR TAE-HAOU` (not linked) |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FUH-HE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `Gops` | **unresolved** (review queue) |
 | `HORSE SACRIFICE` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LAMB OF _ GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Marvuts` | **unresolved** (review queue) |
-| `MAyA (higher)` | **unresolved** (review queue) |
+| `MAyA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `MELcHIzEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
-| `MoTHER (divine)` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `PRAGAPpaTI (relaxed)` | **unresolved** (review queue) |
+| `MoTHER (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `PRAGAPpaTI (relaxed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `RECESSION` | **unresolved** (review queue) |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `QUETZALCOATL` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `Soma` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
-| `VISVAKARMAN` | **candidate (first-segment only)** → possible `VISVAKARMAN, WEALTH SHOWER` (not linked) |
+| `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `Soma` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
+| `VISVAKARMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VISVAKARMAN, WEALTH SHOWER|VISVAKARMAN, WEALTH SHOWER]] |
 
 ## Full OCR entry body (exact)
 

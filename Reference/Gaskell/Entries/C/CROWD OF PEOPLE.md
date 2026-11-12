@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hanp` | **unresolved** (review queue) |
-| `HEAaLInG` | **unresolved** (review queue) |
+| `HEAaLInG` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `(dead) JESus` | **unresolved** (review queue) |
 | `Mrracies` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
-| `ZACCHEUS.` | **candidate (first-segment only)** → possible `ZACCHEUS, A CHIEF PUBLICAN` (not linked) |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `ZACCHEUS.` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZACCHEUS, A CHIEF PUBLICAN|ZACCHEUS, A CHIEF PUBLICAN]] |
 
 ## Full OCR entry body (exact)
 

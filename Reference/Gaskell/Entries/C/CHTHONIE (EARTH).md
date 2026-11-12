@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eartu` | **unresolved** (review queue) |
-| `OPHIONEUS` | **candidate (first-segment only)** → possible `OPHIONEUS, THE SERPENT` (not linked) |
+| `OPHIONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OPHIONEUS, THE SERPENT|OPHIONEUS, THE SERPENT]] |
 
 ## Full OCR entry body (exact)
 

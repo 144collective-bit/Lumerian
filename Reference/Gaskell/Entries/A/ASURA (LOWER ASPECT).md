@@ -35,13 +35,13 @@ tags:
 | `BreatH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Darvas` | **unresolved** (review queue) |
 | `Damons` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAMONS|DAMONS]] |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `Demons` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `Devirs` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Horse SACRIFICE` | **unresolved** (review queue) |
-| `Insrrnation` | **unresolved** (review queue) |
+| `Insrrnation` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Pracipart` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-rA` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
-| `CANCER` | **candidate (first-segment only)** → possible `CANCER, THE ZODIACAL SIGN` (not linked) |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
+| `CANCER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] |
 | `CAPRICORN` | **unresolved** (review queue) |
-| `CRATER` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `INVOLUTIon` | **unresolved** (review queue) |
+| `CRATER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTIon` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Lams` | **unresolved** (review queue) |
-| `Lisra` | **unresolved** (review queue) |
+| `Lisra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIBRA, THE ZODIACAL SIGN|LIBRA, THE ZODIACAL SIGN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Tvar` | **unresolved** (review queue) |
 | `Vrrnaeo` | **unresolved** (review queue) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

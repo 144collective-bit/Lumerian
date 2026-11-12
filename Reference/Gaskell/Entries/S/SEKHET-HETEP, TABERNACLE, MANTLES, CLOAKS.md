@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CLoruine` | **unresolved** (review queue) |
-| `Coat` | **unresolved** (review queue) |
+| `Coat` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] |
 | `RamENT` | **unresolved** (review queue) |
 | `ROBES` | **unresolved** (review queue) |
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APostTies` | **unresolved** (review queue) |
-| `DIScIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `APostTies` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `DIScIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 

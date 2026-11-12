@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AESON` | **unresolved** (review queue) |
-| `ANAURUS` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
-| `ARGONautTs` | **unresolved** (review queue) |
-| `Capmus` | **unresolved** (review queue) |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
-| `HEROEs` | **candidate (first-segment only)** → possible `HEROES, THE GREATEST OF THE DAY` (not linked) |
-| `IoLcus` | **candidate (first-segment only)** → possible `IOLCUS, OR JOLCUS` (not linked) |
+| `ANAURUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANAURUS RIVER|ANAURUS RIVER]] |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `ARGONautTs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
+| `Capmus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+| `HEROEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
+| `IoLcus` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IOLCUS, OR JOLCUS|IOLCUS, OR JOLCUS]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `MepgEa` | **unresolved** (review queue) |
-| `PEASANT` | **candidate (first-segment only)** → possible `PEASANT, OR CULTIVATOR OF THE GROUND` (not linked) |
-| `SALVE` | **unresolved** (review queue) |
-| `SanDaL` | **candidate (first-segment only)** → possible `SANDAL, OR SHOE` (not linked) |
-| `SOWER` | **unresolved** (review queue) |
+| `PEASANT` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEASANT, OR CULTIVATOR OF THE GROUND|PEASANT, OR CULTIVATOR OF THE GROUND]] |
+| `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
+| `SanDaL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
+| `SOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 
 ## Full OCR entry body (exact)
 

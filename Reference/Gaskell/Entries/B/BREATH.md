@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
-| `Mortar` | **unresolved** (review queue) |
+| `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

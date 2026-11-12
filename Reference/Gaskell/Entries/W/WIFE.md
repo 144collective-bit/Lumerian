@@ -33,24 +33,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
-| `CONCEPTION` | **unresolved** (review queue) |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `Divorce` | **unresolved** (review queue) |
 | `ErpmetrHevs` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `FATHER (lower)` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
 | `Hussanp` | **unresolved** (review queue) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `MAN WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `PANDOBRA` | **unresolved** (review queue) |
-| `PARENTS` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `PANDOBRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
+| `PARENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `Ris` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

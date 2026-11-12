@@ -38,11 +38,11 @@ tags:
 | `Rawnci` | **unresolved** (review queue) |
 | `Ronco` | **unresolved** (review queue) |
 | `SEParaTiIon` | **unresolved** (review queue) |
-| `Storm` | **unresolved** (review queue) |
+| `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
 | `StTRire` | **unresolved** (review queue) |
 | `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `TUMA-TAUENGA` | **unresolved** (review queue) |
-| `WINDS (various)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+| `WINDS (various)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, VARIOUS|WINDS, VARIOUS]] |
 
 ## Full OCR entry body (exact)
 

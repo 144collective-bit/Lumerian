@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BraHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `BuppH` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
-| `MATTER` | **unresolved** (review queue) |
-| `PurusuHa` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `PurusuHa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `Spirit. VIRGIN ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

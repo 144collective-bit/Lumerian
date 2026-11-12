@@ -32,29 +32,29 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUKERT` | **unresolved** (review queue) |
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
+| `AUKERT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
 | `Gatua (shuna)` | **unresolved** (review queue) |
-| `HEBEN` | **unresolved** (review queue) |
+| `HEBEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEBEN TEMPLE GROUND|HEBEN TEMPLE GROUND]] |
 | `JRON PLATE` | **unresolved** (review queue) |
 | `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
 | `LION-GarT` | **unresolved** (review queue) |
-| `LOTUS LEAF` | **candidate (first-segment only)** → possible `LOTUS LEAF, OR LEAVES` (not linked) |
-| `Ministers` | **unresolved** (review queue) |
+| `LOTUS LEAF` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]] |
+| `Ministers` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
 | `Pruuars` | **unresolved** (review queue) |
 | `Prutars (four)` | **unresolved** (review queue) |
 | `Quasrerns` | **unresolved** (review queue) |
-| `Sau` | **unresolved** (review queue) |
+| `Sau` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `Sxy` | **unresolved** (review queue) |
-| `Squane` | **unresolved** (review queue) |
+| `Squane` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
 | `TorTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
-| `VARENA` | **candidate (first-segment only)** → possible `VARENA, FOUR-CORNERED LAND` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+| `VARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VARENA, FOUR-CORNERED LAND|VARENA, FOUR-CORNERED LAND]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WoRLD` | **unresolved** (ambiguous full-head matches; not linked) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `Yom` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

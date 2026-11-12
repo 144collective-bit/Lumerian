@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `ARK (Noah)` | **unresolved** (review queue) |
-| `CructiFIXION OF CHRIST` | **unresolved** (review queue) |
-| `CRUCIFIXION OF PURUSHA` | **candidate (first-segment only)** → possible `CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN` (not linked) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `ARK (Noah)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `CructiFIXION OF CHRIST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `CRUCIFIXION OF PURUSHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
 | `PooL or BETHESDA` | **unresolved** (review queue) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `Swastika` | **candidate (first-segment only)** → possible `SWASTIKA, OR FYLFOT SIGN` (not linked) |
-| `T (cross)` | **candidate (ambiguous first-segment)** → T, ELIJAH THE RESTORER; T, THE LETTER SYCAMORE AND ACACIA; T, THE LETTER, OR THE TAU CROSS (not linked) |
-| `TET` | **unresolved** (review queue) |
+| `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
+| `T (cross)` | resolved (qualified head) → [[Reference/Gaskell/Entries/T/T, THE LETTER, OR THE TAU CROSS|T, THE LETTER, OR THE TAU CROSS]] |
+| `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 
 ## Full OCR entry body (exact)

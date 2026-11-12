@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ApEPT` | **unresolved** (review queue) |
-| `ARHAT` | **unresolved** (review queue) |
+| `ApEPT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ASEKA` | **unresolved** (review queue) |
 | `BrorsEer` | **unresolved** (review queue) |
 | `Guru` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
-| `HERMEs` | **unresolved** (review queue) |
+| `HERMEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 
 ## Full OCR entry body (exact)
 

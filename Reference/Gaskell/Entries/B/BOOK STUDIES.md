@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Parygvus BOAT` | **unresolved** (review queue) |
-| `READING` | **unresolved** (review queue) |
+| `READING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/READING BOOKS|READING BOOKS]] |
 | `ScornIPTURES` | **unresolved** (review queue) |
-| `UR-HEKAU` | **unresolved** (review queue) |
-| `WITNESSES (two)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
+| `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

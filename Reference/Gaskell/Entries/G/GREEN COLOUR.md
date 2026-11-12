@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APEP` | **candidate (first-segment only)** → possible `APEP, THE SERPENT` (not linked) |
+| `APEP` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `COLOURS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
 | `Dracon (red)` | **unresolved** (review queue) |
 | `Hers` | **unresolved** (review queue) |
 | `Puant` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `Woop` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

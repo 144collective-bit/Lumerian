@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Foop FoR SOUL` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `Love or Gop` | **unresolved** (review queue) |
+| `Love or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `MENDICANT` | **unresolved** (review queue) |
 | `Pracirati` | **unresolved** (review queue) |
-| `SANNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

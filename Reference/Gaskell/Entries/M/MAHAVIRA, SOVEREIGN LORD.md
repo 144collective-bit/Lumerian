@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BuDpDHA` | **unresolved** (review queue) |
+| `BuDpDHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `Sretr` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |

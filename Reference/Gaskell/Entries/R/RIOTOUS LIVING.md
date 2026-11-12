@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `PRODIGAL` | **unresolved** (review queue) |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
 
 ## Full OCR entry body (exact)
 

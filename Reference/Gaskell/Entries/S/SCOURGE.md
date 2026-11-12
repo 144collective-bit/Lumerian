@@ -38,7 +38,7 @@ tags:
 | `MovurH (opening)` | **unresolved** (review queue) |
 | `Pracre AND SWORD` | **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

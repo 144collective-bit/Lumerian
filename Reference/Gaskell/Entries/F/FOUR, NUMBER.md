@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BacasBs` | **unresolved** (review queue) |
-| `CastTEs` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `CLASSES` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `JOB` | **unresolved** (review queue) |
-| `MINISTERS` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
+| `BacasBs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BACABS, FOUR|BACABS, FOUR]] |
+| `CastTEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `CLASSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `MINISTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
 | `Pritaks (four)` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Winps (four)` | **unresolved** (review queue) |
 

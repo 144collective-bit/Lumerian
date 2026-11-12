@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHES` | **unresolved** (review queue) |
+| `ASHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
 | `LITTLE ONES` | **unresolved** (review queue) |
-| `PEACE (sword)` | **candidate (first-segment only)** → possible `PEACE, OR REST` (not linked) |
-| `Parents` | **unresolved** (review queue) |
+| `PEACE (sword)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+| `Parents` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 
 ## Full OCR entry body (exact)

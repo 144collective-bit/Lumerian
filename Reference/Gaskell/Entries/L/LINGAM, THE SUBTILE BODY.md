@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `KaRANA` | **unresolved** (review queue) |
-| `Pranas` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
+| `CaUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `KaRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
+| `Pranas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `SENSE-onGaNS` | **unresolved** (review queue) |
-| `STHULA` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `STHULA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STHULA-SARIRA, GROSS -BODY|STHULA-SARIRA, GROSS -BODY]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

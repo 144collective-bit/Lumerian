@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
-| `Bones` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
+| `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `Breasts` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `CHILD` | **unresolved** (review queue) |
-| `CONCEPTION (child)` | **unresolved** (review queue) |
+| `CONCEPTION (child)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `Divorce` | **unresolved** (review queue) |
-| `ErimeTHEUS` | **unresolved** (review queue) |
-| `EVE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `ErimeTHEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EPIMETHEUS (AFTERTHOUGHT)|EPIMETHEUS (AFTERTHOUGHT)]] |
+| `EVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Fatt` | **unresolved** (review queue) |
 | `FLesH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `Hek1` | **unresolved** (review queue) |
@@ -50,17 +50,17 @@ tags:
 | `MALEFEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
-| `MANn WITHOUT WOMAN` | **unresolved** (review queue) |
+| `MANn WITHOUT WOMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `PanDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `PRODIGAL` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Ris` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Vacu` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
-| `WASHED` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+| `WASHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER (higher)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 

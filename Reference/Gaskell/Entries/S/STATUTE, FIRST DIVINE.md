@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHERUBIM` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
-| `THEMIS` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
+| `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

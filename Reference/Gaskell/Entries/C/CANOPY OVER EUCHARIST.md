@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaBIN` | **unresolved** (review queue) |
+| `CaBIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
 | `CANDLES` | **unresolved** (review queue) |
 | `CHILDREN Or HORUS` | **unresolved** (review queue) |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `ITRon PLATE` | **unresolved** (review queue) |
 | `Prtxiars (four)` | **unresolved** (review queue) |
-| `PROCESSION` | **unresolved** (review queue) |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `Sxy` | **unresolved** (review queue) |
-| `TEE` | **candidate (first-segment only)** → possible `TEE, APEX ORNAMENT` (not linked) |
+| `TEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEE, APEX ORNAMENT|TEE, APEX ORNAMENT]] |
 | `UMBRELLA. 139` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

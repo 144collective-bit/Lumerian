@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `BULL (man)` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `BULL (man)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]] |
 | `Dracon (red)` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `GaTHa (ahuna)` | **unresolved** (review queue) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `GaTHa (ahuna)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
 
 ## Full OCR entry body (exact)
 

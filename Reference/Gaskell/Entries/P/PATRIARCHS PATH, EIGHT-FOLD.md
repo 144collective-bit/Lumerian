@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

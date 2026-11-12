@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKERT` | **candidate (first-segment only)** → possible `AKERT, THE UNDERWORLD` (not linked) |
-| `AVENGING` | **unresolved** (review queue) |
+| `AKERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] |
+| `AVENGING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AVENGING THE DIVINE SACRIFICE|AVENGING THE DIVINE SACRIFICE]] |
 | `Eaypt` | **unresolved** (review queue) |
 | `(lower)` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `MENDES` | **candidate (first-segment only)** → possible `MENDES, BUSIRIS, OR TATTU` (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `MENDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MENDES, BUSIRIS, OR TATTU|MENDES, BUSIRIS, OR TATTU]] |
 | `OsIRis` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `Prace (Annu)` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `Prace (Annu)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Tarrarvs` | **unresolved** (review queue) |
-| `Tvuat` | **unresolved** (review queue) |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `Tvuat` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 
 ## Full OCR entry body (exact)
 

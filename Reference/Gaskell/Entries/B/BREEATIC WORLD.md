@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `ATZEELOOTHIC` | **unresolved** (review queue) |
 | `COUNTENANCR` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `KursayaH` | **candidate (first-segment only)** → possible `KURSAYAH, A THRONE WITH FOUR FEET AND SIX STEPS` (not linked) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `KursayaH` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KURSAYAH, A THRONE WITH FOUR FEET AND SIX STEPS|KURSAYAH, A THRONE WITH FOUR FEET AND SIX STEPS]] |
 | `Manat` | **unresolved** (review queue) |
 | `MaLKHUTH` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 
 ## Full OCR entry body (exact)
 

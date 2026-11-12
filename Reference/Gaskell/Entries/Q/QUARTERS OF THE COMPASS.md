@@ -33,26 +33,26 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASHADHA` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `Carp` | **unresolved** (review queue) |
-| `CHURCH (quarters)` | **unresolved** (review queue) |
-| `COUNTRIES` | **unresolved** (review queue) |
+| `CHURCH (quarters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `COUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `East` | **unresolved** (review queue) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
-| `Four BEINGS` | **unresolved** (review queue) |
-| `HEBEN` | **unresolved** (review queue) |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
+| `Four BEINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] |
+| `HEBEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEBEN TEMPLE GROUND|HEBEN TEMPLE GROUND]] |
 | `Lion-aait` | **unresolved** (review queue) |
-| `NorTH` | **unresolved** (review queue) |
+| `NorTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `QueTzaLcoaTL` | **unresolved** (review queue) |
+| `QueTzaLcoaTL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
 | `SxHrinNatTsu` | **unresolved** (review queue) |
-| `SOuTH` | **unresolved** (review queue) |
-| `SquanE` | **unresolved** (review queue) |
+| `SOuTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]]; [[Reference/Gaskell/Entries/S/SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA|SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA]]; [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
+| `SquanE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
 | `Sraxe` | **unresolved** (review queue) |
-| `Swastika` | **candidate (first-segment only)** → possible `SWASTIKA, OR FYLFOT SIGN` (not linked) |
-| `TET` | **unresolved** (review queue) |
-| `TraLoc` | **unresolved** (review queue) |
-| `West` | **unresolved** (review queue) |
+| `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
+| `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
+| `TraLoc` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
+| `West` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEST QUARTER|WEST QUARTER]] |
 | `Warps (four). QUATERNARY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

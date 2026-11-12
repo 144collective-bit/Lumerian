@@ -36,9 +36,9 @@ tags:
 | `LIVING THINGS` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `SIX` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

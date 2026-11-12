@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMRAPHEL` | **candidate (first-segment only)** → possible `AMRAPHEL, KING OF SHINAR` (not linked) |
-| `BABEL` | **unresolved** (review queue) |
+| `AMRAPHEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMRAPHEL, KING OF SHINAR|AMRAPHEL, KING OF SHINAR]] |
+| `BABEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]]; [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] |
 | `Gunas` | **unresolved** (review queue) |
 | `TAMAS` | **unresolved** (review queue) |
 

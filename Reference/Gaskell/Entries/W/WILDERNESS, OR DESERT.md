@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `Devin` | **unresolved** (review queue) |
+| `Devin` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `Fietp` | **unresolved** (review queue) |
-| `Forty DAYS` | **unresolved** (review queue) |
+| `Forty DAYS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]]; [[Reference/Gaskell/Entries/F/FORTY DAYS OR YEARS|FORTY DAYS OR YEARS]] |
 | `HOUSE OF BONDAGE` | **unresolved** (review queue) |
 | `HUNGER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]] |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SERPENT (brazen)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

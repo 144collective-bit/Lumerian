@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Rocks (floating)` | **candidate (first-segment only)** → possible `ROCKS, FLOATING` (not linked) |
+| `Rocks (floating)` | resolved (exact) → [[Reference/Gaskell/Entries/R/ROCKS, FLOATING|ROCKS, FLOATING]] |
 | `SyMPLEGADES. DEFUNCT` | **unresolved** (review queue) |
 | `PouRvFat` | **unresolved** (review queue) |
 | `Fxrast` | **unresolved** (review queue) |

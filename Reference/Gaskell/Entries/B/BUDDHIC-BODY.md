@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CoLouRs` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCARNATION OF 80ULS` | **unresolved** (review queue) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
-| `QEBSENNUF` | **unresolved** (review queue) |
+| `INCARNATION OF 80ULS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
+| `QEBSENNUF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
 | `Rose` | **unresolved** (review queue) |
 | `Samxknara` | **unresolved** (review queue) |
-| `SHEATHS` | **unresolved** (review queue) |
-| `SKANDHAS` | **candidate (first-segment only)** → possible `SKANDHAS, FIVE` (not linked) |
-| `TREASURE` | **unresolved** (review queue) |
-| `VEHICLES` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `SHEATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEATHS OF THE SOUL|SHEATHS OF THE SOUL]] |
+| `SKANDHAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/S/SKANDHAS SKADE|SKANDHAS SKADE]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

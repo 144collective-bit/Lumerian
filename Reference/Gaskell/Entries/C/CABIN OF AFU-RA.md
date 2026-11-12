@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ApytTum` | **unresolved** (review queue) |
 | `Aru-RA` | **unresolved** (review queue) |
-| `CANOPY` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `CANOPY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CANOPY OVER EUCHARIST|CANOPY OVER EUCHARIST]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Lams` | **unresolved** (review queue) |
-| `Ram` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
+| `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `SARINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

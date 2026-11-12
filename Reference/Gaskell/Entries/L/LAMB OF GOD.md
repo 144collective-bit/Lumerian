@@ -35,16 +35,16 @@ tags:
 | `ArFvu-RA` | **unresolved** (review queue) |
 | `BiLoop OF LAMB` | **unresolved** (review queue) |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `Boox` | **unresolved** (review queue) |
 | `Casry` | **unresolved** (review queue) |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `CrucIFrxion` | **unresolved** (review queue) |
-| `DeaD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
+| `DeaD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `JESUS (lamb)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `LINEN GARMENT` | **unresolved** (review queue) |
 | `MAN (lower)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
@@ -52,16 +52,16 @@ tags:
 | `MARRIAGE OF LAMB` | **unresolved** (review queue) |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `RESURBRECTION` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `SHRINE` | **unresolved** (review queue) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `SPARKS` | **unresolved** (review queue) |
 | `Trpxys` | **unresolved** (review queue) |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `VISVAKARMAN` | **candidate (first-segment only)** → possible `VISVAKARMAN, WEALTH SHOWER` (not linked) |
-| `WASHED (blood)` | **unresolved** (review queue) |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `VISVAKARMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VISVAKARMAN, WEALTH SHOWER|VISVAKARMAN, WEALTH SHOWER]] |
+| `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 
 ## Full OCR entry body (exact)
 

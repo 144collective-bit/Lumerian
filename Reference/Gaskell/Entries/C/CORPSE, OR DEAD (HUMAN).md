@@ -35,20 +35,20 @@ tags:
 | `Aru-RA` | **unresolved** (review queue) |
 | `ASCENSION OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `AspaH!` | **unresolved** (review queue) |
-| `CREMATION` | **unresolved** (review queue) |
-| `DEAD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
+| `DEAD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
-| `HOUSES (corpses)` | **unresolved** (review queue) |
+| `HOUSES (corpses)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Man WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
-| `Mummy` | **unresolved** (review queue) |
-| `PERSONaLiry` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
+| `PERSONaLiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PooR PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

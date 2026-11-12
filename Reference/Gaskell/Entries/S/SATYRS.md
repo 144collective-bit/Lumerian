@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Dancr` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `Goris` | **unresolved** (review queue) |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `PANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANS|PANS]] |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

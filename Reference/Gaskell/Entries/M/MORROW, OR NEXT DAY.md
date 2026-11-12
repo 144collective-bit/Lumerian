@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `SERIDES OF FHE SOUL` | **unresolved** (review queue) |
-| `WALKING` | **unresolved** (review queue) |
+| `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRANIUM` | **candidate (first-segment only)** → possible `CRANIUM, OR MACROCOSM` (not linked) |
-| `FOUNTAIN` | **unresolved** (review queue) |
+| `CRANIUM` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRANIUM, OR MACROCOSM|CRANIUM, OR MACROCOSM]] |
+| `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `OF LIFE` | **unresolved** (review queue) |
 

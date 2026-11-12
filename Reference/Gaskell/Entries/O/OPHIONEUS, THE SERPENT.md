@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `CHTHONIE` | **unresolved** (review queue) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `CHTHONIE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHTHONIE (EARTH)|CHTHONIE (EARTH)]] |
 | `Kronos` | **unresolved** (review queue) |
-| `Oprosires` | **unresolved** (review queue) |
+| `Oprosires` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `SERPENT. Gops` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

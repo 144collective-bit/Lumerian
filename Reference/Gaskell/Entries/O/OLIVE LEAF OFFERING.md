@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anx` | **unresolved** (review queue) |
-| `Dove` | **candidate (first-segment only)** → possible `DOVE, OR PIGEON` (not linked) |
+| `Dove` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] |
 | `EvENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
-| `FLooD` | **unresolved** (review queue) |
+| `FLooD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]]; [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `WatTeER (lower). 549` | **unresolved** (review queue) |
 

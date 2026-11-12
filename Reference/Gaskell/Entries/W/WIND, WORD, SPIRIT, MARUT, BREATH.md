@@ -35,12 +35,12 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `Fan` | **candidate (first-segment only)** → possible `FAN, PRODUCING WIND` (not linked) |
+| `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
 | `Hoty Gxuost` | **unresolved** (review queue) |
-| `Marots` | **unresolved** (review queue) |
-| `Moon (higher)` | **unresolved** (review queue) |
+| `Marots` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
+| `Moon (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (HIGHER ASPECT)|MOON (HIGHER ASPECT)]] |
 | `SHinarsu` | **unresolved** (review queue) |
-| `Vayu` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 
 ## Full OCR entry body (exact)
 

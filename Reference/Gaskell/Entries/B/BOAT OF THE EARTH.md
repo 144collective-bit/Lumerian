@@ -35,14 +35,14 @@ tags:
 | `Aru-RA` | **unresolved** (review queue) |
 | `Burtt` | **unresolved** (review queue) |
 | `CrmcLeE AND SQUARE` | **unresolved** (review queue) |
-| `EIGHT` | **candidate (first-segment only)** → possible `EIGHT, NUMBER` (not linked) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `EIGHT` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EIGHT, NUMBER|EIGHT, NUMBER]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `REINCARNAgion` | **unresolved** (review queue) |
+| `REINCARNAgion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

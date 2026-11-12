@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HOUSE OF A MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE OF A MAN|HOUSE OF A MAN]] |
-| `PASSOVER` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `PASSOVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `‘` | **unresolved** (review queue) |
 

@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `DakKNESS` | **unresolved** (review queue) |
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `Hove` | **unresolved** (review queue) |
 | `Lieut` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TaNaoa` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

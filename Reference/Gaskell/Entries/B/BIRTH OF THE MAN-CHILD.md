@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brera oF HORUS` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `CROWN OF TWELVE STARS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN OF TWELVE STARS|CROWN OF TWELVE STARS]] |
 | `DRAGON (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
-| `Horns (ten)` | **candidate (first-segment only)** → possible `HORNS, TEN, OF THE DRAGON` (not linked) |
-| `Nations` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
-| `Rop or CORRECTION` | **unresolved** (review queue) |
-| `THRONE (heart)` | **unresolved** (review queue) |
-| `YAo` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Horns (ten)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
+| `Nations` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
+| `Rop or CORRECTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROD OF CORRECTION|ROD OF CORRECTION]] |
+| `THRONE (heart)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+| `YAo` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

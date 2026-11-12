@@ -35,16 +35,16 @@ tags:
 | `Brauma` | **unresolved** (review queue) |
 | `Derunct` | **unresolved** (review queue) |
 | `EIGart` | **unresolved** (review queue) |
-| `GrometrY` | **unresolved** (review queue) |
+| `GrometrY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
 | `Hespomap` | **unresolved** (review queue) |
 | `Itiusion` | **unresolved** (review queue) |
 | `InDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `NUMBERS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NUMBERS|NUMBERS]] |
 | `Om` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `THIRTEEN` | **candidate (first-segment only)** → possible `THIRTEEN, NUMBER` (not linked) |
-| `UDGITHA` | **candidate (first-segment only)** → possible `UDGITHA, OM` (not linked) |
+| `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
+| `UDGITHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDGITHA, OM|UDGITHA, OM]] |
 
 ## Full OCR entry body (exact)
 

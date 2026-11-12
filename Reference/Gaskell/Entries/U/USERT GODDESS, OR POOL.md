@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmsBRosta` | **unresolved** (review queue) |
+| `AmsBRosta` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `FOOD OF GoDs` | **unresolved** (review queue) |
-| `Poon OF PEACE` | **unresolved** (review queue) |
+| `Poon OF PEACE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POOL OF PEACE|POOL OF PEACE]] |
 
 ## Full OCR entry body (exact)
 

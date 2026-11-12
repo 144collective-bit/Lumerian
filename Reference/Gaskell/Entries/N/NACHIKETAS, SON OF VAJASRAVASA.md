@@ -39,10 +39,10 @@ tags:
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SOUL (middle)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SOUL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
 | `VAJASRAVASA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAJASRAVASA|VAJASRAVASA]] |
-| `YAMA` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 
 ## Full OCR entry body (exact)
 

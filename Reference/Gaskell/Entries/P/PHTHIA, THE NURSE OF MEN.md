@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `NURSE OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NURSE OF MEN|NURSE OF MEN]] |
-| `Suips (beaked)` | **unresolved** (review queue) |
+| `Suips (beaked)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]] |
 
 ## Full OCR entry body (exact)
 

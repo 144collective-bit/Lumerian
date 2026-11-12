@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `ANOINTING` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `Fatt` | **unresolved** (review queue) |
 | `GARDEN OF EDEN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]] |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
-| `Movuntaln` | **unresolved** (review queue) |
-| `Pit` | **candidate (first-segment only)** → possible `PIT, OR HOLE IN THE EARTH` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `Movuntaln` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+| `Pit` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PIT, OR HOLE IN THE EARTH|PIT, OR HOLE IN THE EARTH]] |
 
 ## Full OCR entry body (exact)
 

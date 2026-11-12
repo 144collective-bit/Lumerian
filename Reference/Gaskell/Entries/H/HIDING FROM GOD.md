@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAM, DUAL|ADAM, DUAL]]; [[Reference/Gaskell/Entries/A/ADAM (HIGHER ASPECT)|ADAM (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
-| `EvE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `EVENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
 | `Fatt` | **unresolved** (review queue) |
 | `GARDEN OF EDEN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]] |
-| `HEcATOMB` | **candidate (first-segment only)** → possible `HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS` (not linked) |
+| `HEcATOMB` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
-| `VOICE` | **unresolved** (review queue) |
+| `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `WaLkIna` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

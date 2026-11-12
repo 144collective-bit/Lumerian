@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Kinepoo` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 
 ## Full OCR entry body (exact)
 

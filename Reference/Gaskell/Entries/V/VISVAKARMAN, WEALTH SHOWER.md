@@ -37,7 +37,7 @@ tags:
 | `Foop` | **unresolved** (review queue) |
 | `GureE` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `MILK (cow)` | **unresolved** (review queue) |
+| `MILK (cow)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MILK AS FOR BABES (LOWER ASPECT)|MILK AS FOR BABES (LOWER ASPECT)]] |
 | `Rarn` | **unresolved** (review queue) |
 | `Sry` | **unresolved** (review queue) |
 | `UpDDER` | **unresolved** (review queue) |

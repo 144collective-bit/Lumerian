@@ -65,7 +65,7 @@ tags:
 | `pp. 229-31. See Born aGarm` | **unresolved** (review queue) |
 | `Frmz` | **unresolved** (review queue) |
 | `Horny GuHost` | **unresolved** (review queue) |
-| `’PARACLETE` | **candidate (first-segment only)** → possible `PARACLETE, COMFORTER, INTERCESSOR` (not linked) |
+| `’PARACLETE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 

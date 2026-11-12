@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
-| `BHARATA` | **candidate (first-segment only)** → possible `BHARATA, THE VICE-KING` (not linked) |
-| `CONFLICT` | **unresolved** (review queue) |
-| `PraGApati` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
+| `BHARATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BHARATA, THE VICE-KING|BHARATA, THE VICE-KING]] |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
+| `PraGApati` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `RAKSHASAS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

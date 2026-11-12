@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `KARMA` | **unresolved** (review queue) |
-| `MURDER` | **candidate (first-segment only)** → possible `MURDER, WRATH, AND HATRED` (not linked) |
-| `PESTILENCE` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 
 ## Full OCR entry body (exact)
 

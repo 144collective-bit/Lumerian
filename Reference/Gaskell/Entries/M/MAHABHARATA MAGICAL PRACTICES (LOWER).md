@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `ASTRAL-BODY` | **unresolved** (review queue) |
 | `BLACK MAGICIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK MAGICIANS|BLACK MAGICIANS]] |
-| `BRATROK-RISH` | **candidate (first-segment only)** → possible `BRATROK-RISH, THE KARAP` (not linked) |
-| `DURASROBO` | **candidate (first-segment only)** → possible `DURASROBO, THE KARAP` (not linked) |
+| `BRATROK-RISH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRATROK-RISH, THE KARAP|BRATROK-RISH, THE KARAP]] |
+| `DURASROBO` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
 | `Fay` | **unresolved** (review queue) |
 | `Kama` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApaAm (lower)` | **unresolved** (review queue) |
-| `CROWNING` | **unresolved** (review queue) |
+| `CROWNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CROWNING WITH THORNS, OF JESUS|CROWNING WITH THORNS, OF JESUS]] |
 | `Curs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

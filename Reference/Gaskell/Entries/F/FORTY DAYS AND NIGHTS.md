@@ -35,7 +35,7 @@ tags:
 | `FAcE OF GROUND` | **unresolved** (review queue) |
 | `Ran (deluge)` | **unresolved** (review queue) |
 | `RE-INCABNATION` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

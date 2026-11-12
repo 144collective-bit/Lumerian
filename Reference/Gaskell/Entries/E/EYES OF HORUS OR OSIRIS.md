@@ -36,8 +36,8 @@ tags:
 | `EarrH` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `Kuvus (higher)` | **unresolved** (review queue) |
-| `Lips` | **unresolved** (review queue) |
+| `Kuvus (higher)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `Lips` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIPS IN SPEECH|LIPS IN SPEECH]] |
 | `Moon` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Urcuar` | **unresolved** (review queue) |

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
 | `A50N` | **unresolved** (review queue) |
-| `Braps (two)` | **unresolved** (review queue) |
+| `Braps (two)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `BLoop OF LAMB` | **unresolved** (review queue) |
 | `CRUCIFIXION OF curist` | **unresolved** (review queue) |
-| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `Hawk` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `Herep` | **unresolved** (review queue) |
 | `I aM` | **unresolved** (review queue) |
 | `MouTH WORD (speech)` | **unresolved** (review queue) |
-| `Peace` | **candidate (first-segment only)** → possible `PEACE, OR REST` (not linked) |
+| `Peace` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
 | `Sworp or spirit` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APES (nine)` | **unresolved** (review queue) |
-| `BEATRICE` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `APES (nine)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
+| `BEATRICE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEATRICE OF DANTE|BEATRICE OF DANTE]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `GODDESSES` | **unresolved** (review queue) |
+| `GODDESSES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GODDESSES IN THE FORM OF DOUBLE SERPENTS CROWNED|GODDESSES IN THE FORM OF DOUBLE SERPENTS CROWNED]] |
 | `HyMNSINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `LigHt` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `Movuts` | **unresolved** (review queue) |
 | `Ni1cur` | **unresolved** (review queue) |
 | `PraIsE or Gop` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Sinarers` | **unresolved** (review queue) |
 | `Sone` | **unresolved** (review queue) |
 | `TuatT` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `WISDOM` | **unresolved** (review queue) |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

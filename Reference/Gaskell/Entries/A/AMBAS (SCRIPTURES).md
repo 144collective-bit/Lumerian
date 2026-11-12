@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEVELOPMENT` | **unresolved** (review queue) |
+| `DEVELOPMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS|DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS]] |
 | `INSPIRATI KayYAN` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 
 ## Full OCR entry body (exact)
 

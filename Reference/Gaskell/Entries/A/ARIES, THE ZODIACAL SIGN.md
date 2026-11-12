@@ -33,27 +33,27 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-ri` | **unresolved** (review queue) |
-| `AMENT` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
-| `APES (nine)` | **unresolved** (review queue) |
+| `AMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
+| `APES (nine)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
 | `BuppHa` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `DEMONS` | **unresolved** (review queue) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `DEMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `Equinox` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
 | `Evo.LvuTion` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `HORSE SACRIFICE` | **unresolved** (review queue) |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `INVoOLUTION` | **unresolved** (review queue) |
 | `JESUS (lamb)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Lams` | **unresolved** (review queue) |
-| `MaRrriaGE (lamb)` | **unresolved** (review queue) |
+| `MaRrriaGE (lamb)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `N ET-RA` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]] |
 | `N IGHT 9 Ram` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `Tavgvs` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `YEaR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `YEaR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

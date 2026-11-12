@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ANDREW` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `Castres` | **unresolved** (review queue) |
-| `CATTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
-| `CLASSES` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `MERCHANDISE` | **candidate (first-segment only)** → possible `MERCHANDISE, TRUE` (not linked) |
+| `CATTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
+| `CLASSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `MERCHANDISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] |
 | `Money` | **unresolved** (review queue) |
 | `Raaqanya` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `VEDA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

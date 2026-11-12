@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Breara` | **unresolved** (review queue) |
-| `CrEaTION` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `EarrTH` | **unresolved** (review queue) |
-| `Ram` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
+| `CrEaTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `EarrTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `Sun-nisine` | **unresolved** (review queue) |
 | `WarTme. MORNING AND EVENING »— Symbolic of outpouring and in-— drawing of the Divine Life. Outbreathing and in-breathing of Brahm` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `| —the Absolute. See AnssoLuTs` | **unresolved** (review queue) |
@@ -47,10 +47,10 @@ tags:
 | `Apoc. Rev n. 151. oe SR oy is the ‘the bright and morning Rev. xxii. 16). It means that par the world has seen in Jesus is the ushering in of the dawn of a higher irit consciousness for all mankind. e comes to show us what we are and what we shall be.”—R. J. CamMPpBkLL` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Serm.` | **unresolved** (review queue) |
 | `Persistence of Jesus. See BENNU BIRD` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `SINGERS` | **candidate (first-segment only)** → possible `SINGERS, PIOUS` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `Stan IN @HE Eas` | **unresolved** (review queue) |
-| `Sears (fixed)` | **unresolved** (review queue) |
+| `Sears (fixed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 
 ## Full OCR entry body (exact)
 

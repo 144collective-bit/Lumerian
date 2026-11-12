@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DRAUPADI` | **candidate (first-segment only)** → possible `DRAUPADI, DAUGHTER OF KING DRUPADA` (not linked) |
-| `ODOUR (sweet)` | **candidate (first-segment only)** → possible `ODOUR, SWEET` (not linked) |
-| `ScenT (sweet)` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `DRAUPADI` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] |
+| `ODOUR (sweet)` | resolved (exact) → [[Reference/Gaskell/Entries/O/ODOUR, SWEET|ODOUR, SWEET]] |
+| `ScenT (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 | `SWEET SMELL OF ISIS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHA-VANUHI` | **candidate (first-segment only)** → possible `ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA` (not linked) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ASHA-VANUHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `Bioop` | **unresolved** (review queue) |
 | `Cur` | **unresolved** (review queue) |
 | `Darvas` | **unresolved** (review queue) |
 | `FoRENOON` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FORENOON|FORENOON]] |
-| `Hymns` | **unresolved** (review queue) |
-| `Pracdpati` | **unresolved** (review queue) |
+| `Hymns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] |
+| `Pracdpati` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Praise` | **unresolved** (review queue) |
 | `Sap` | **unresolved** (review queue) |
-| `SoMAa-JUICE` | **unresolved** (review queue) |
-| `THRITA` | **candidate (first-segment only)** → possible `THRITA, THE THIRD MAN` (not linked) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `SoMAa-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+| `THRITA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THRITA, THE THIRD MAN|THRITA, THE THIRD MAN]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

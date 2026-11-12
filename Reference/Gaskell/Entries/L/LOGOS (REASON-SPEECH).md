@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARoOUERIS` | **unresolved** (review queue) |
-| `ASAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
+| `ARoOUERIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AROUERIS, THE ELDER HORUS|AROUERIS, THE ELDER HORUS]] |
+| `ASAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
 | `ATHWYA` | **unresolved** (review queue) |
 | `BreTrH or osiris` | **unresolved** (review queue) |
 | `Bow.rs` | **unresolved** (review queue) |
-| `BuppHIc FUNCTION` | **unresolved** (review queue) |
+| `BuppHIc FUNCTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC FUNCTION|BUDDHIC FUNCTION]] |
 | `Horvs` | **unresolved** (review queue) |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
-| `Lao` | **unresolved** (review queue) |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `Pwanxoo` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SPprEkEcH` | **unresolved** (review queue) |
-| `THRAETONA` | **unresolved** (review queue) |
-| `THEITA` | **unresolved** (review queue) |
-| `WORD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
+| `THEITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THRITA, THE THIRD MAN|THRITA, THE THIRD MAN]] |
+| `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

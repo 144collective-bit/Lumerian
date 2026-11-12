@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
 | `CHARON’S FERRY` | **unresolved** (review queue) |
-| `HrkososHi` | **unresolved** (review queue) |
+| `HrkososHi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
 | `PROPHETIC DREAMS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHETIC DREAMS|PROPHETIC DREAMS]] |
-| `REMINISCENCE` | **unresolved** (review queue) |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 
 ## Full OCR entry body (exact)
 

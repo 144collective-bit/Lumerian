@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `ZetTes` | **unresolved** (review queue) |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `GANDHARVAS` | **candidate (first-segment only)** → possible `GANDHARVAS, OR SIRENS` (not linked) |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
-| `SIRENS` | **candidate (ambiguous first-segment)** → SIRENS, GANDHARVAS, COLCHIANS; SIRENS, OR GANDHARVAS (not linked) |
+| `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
 
 ## Full OCR entry body (exact)
 

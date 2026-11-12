@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaprismM` | **unresolved** (review queue) |
-| `RIVER oF LiFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
-| `SuppHODANA` | **unresolved** (review queue) |
+| `RIVER oF LiFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
+| `SuppHODANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WELL` | **unresolved** (review queue) |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 
 ## Full OCR entry body (exact)
 

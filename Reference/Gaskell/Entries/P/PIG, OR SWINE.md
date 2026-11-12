@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Boar` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `Crnce` | **unresolved** (review queue) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
-| `Sow` | **unresolved** (review queue) |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+| `Sow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOW OR PIG|SOW OR PIG]] |
 | `Swine` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWINE|SWINE]] |
 
 ## Full OCR entry body (exact)

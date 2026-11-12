@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAH` | **unresolved** (review queue) |
+| `ADAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAH AND ZILLAH, WIVES OF LAMECH|ADAH AND ZILLAH, WIVES OF LAMECH]] |
 | `Boy` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOY|BOY]] |
 | `Dwanrr` | **unresolved** (review queue) |
 | `Man (natural). YUDHI-SHTHIRA` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
@@ -40,11 +40,11 @@ tags:
 | `and at the moment of his birth a heavenly voice was heard to utter these words: ‘ This is the most virtuous of men.’ ’’—Mon. Wriiiams` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Indian Wisdom` | **unresolved** (review queue) |
 | `p. 380. The spiritual mind—aeatma-buddhimanas—was firet to manifest on the higher mental plane as_ creative energy of the Logos proceeding on a scheme of truth and righteousness. See ARJUNA` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
 | `Osrinis` | **unresolved** (review queue) |
-| `PanDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `PanDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `PRreEsT` | **unresolved** (review queue) |
-| `PouRUsHASPA` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
+| `PouRUsHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
 | `PRiTHa` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

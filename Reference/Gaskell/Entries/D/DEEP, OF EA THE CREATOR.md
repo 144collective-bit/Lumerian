@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EA` | **unresolved** (review queue) |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 

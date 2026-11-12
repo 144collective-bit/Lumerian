@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppHI` | **unresolved** (review queue) |
-| `Cow’s MILK` | **unresolved** (review queue) |
+| `Cow’s MILK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COW'S MILK POURED OUT TOWARDS THE NORTH|COW'S MILK POURED OUT TOWARDS THE NORTH]] |
 | `Mana- solitary` | **unresolved** (review queue) |
 | `601 MIMER vrra-POoT` | **unresolved** (review queue) |
 | `UppER` | **unresolved** (review queue) |
-| `VaAcH` | **unresolved** (review queue) |
+| `VaAcH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
 | `WamtTER` | **unresolved** (review queue) |
 | `WEALTH SHOWER` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |

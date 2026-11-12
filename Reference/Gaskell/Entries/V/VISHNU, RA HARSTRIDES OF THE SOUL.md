@@ -32,38 +32,38 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ares (nine)` | **unresolved** (review queue) |
+| `Ares (nine)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `Dervunct` | **unresolved** (review queue) |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Evoxuution` | **unresolved** (review queue) |
-| `ExPERIENCE` | **unresolved** (review queue) |
+| `ExPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `Foop FOR MAN` | **unresolved** (review queue) |
 | `Foorsrers` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `IniTIaTIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `InturTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `NieHT` | **unresolved** (review queue) |
-| `OFFERINGS` | **unresolved** (review queue) |
+| `InturTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `NieHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+| `OFFERINGS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
 | `OsiRis` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PatriARCHS` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `PatriARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SAMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `SEPULCHRE` | **unresolved** (review queue) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `SEPULCHRE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `Sr-osrri` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `SpaRK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `THOTH` | **unresolved** (review queue) |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
-| `YEARS` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `SpaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+| `YEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YEARS OF PATRIARCHAL LIFE|YEARS OF PATRIARCHAL LIFE]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BUTTER` | **unresolved** (ambiguous full-head matches; not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `DHRUVA` | **candidate (first-segment only)** → possible `DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `GHEE` | **candidate (first-segment only)** → possible `GHEE, OR BUTTER` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `DHRUVA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN|DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `GHEE` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GHEE, OR BUTTER|GHEE, OR BUTTER]] |
 | `Gops` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `UPABHRIT` | **unresolved** (review queue) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `UPABHRIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UPABHRIT SPOON|UPABHRIT SPOON]] |
 
 ## Full OCR entry body (exact)
 

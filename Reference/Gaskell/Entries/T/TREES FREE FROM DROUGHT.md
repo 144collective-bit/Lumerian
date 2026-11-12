@@ -36,9 +36,9 @@ tags:
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 | `WATER. TREES AND RIVERS :--— A symbol for channels of truth and love` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which are the very texture of the world-soul. 768 TRIBE-RULERS See AMBAYAS` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `RIVERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
-| `Warp` | **unresolved** (review queue) |
+| `Warp` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
 
 ## Full OCR entry body (exact)
 

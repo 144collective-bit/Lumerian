@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `CLEANSING` | **unresolved** (review queue) |
-| `JEALOUS Gop` | **unresolved** (review queue) |
-| `Mosss` | **unresolved** (review queue) |
+| `JEALOUS Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JEALOUS GOD|JEALOUS GOD]] |
+| `Mosss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `SEuF (lower)` | **unresolved** (review queue) |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
 
 ## Full OCR entry body (exact)

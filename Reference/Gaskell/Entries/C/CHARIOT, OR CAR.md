@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CASTES` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `GILGOOLew` | **unresolved** (review queue) |
-| `Horses (bay)` | **candidate (first-segment only)** → possible `HORSES, TWO BAY` (not linked) |
+| `CASTES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `GILGOOLew` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
+| `Horses (bay)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HORSES, TWO BAY|HORSES, TWO BAY]] |
 | `Marurs` | **unresolved** (review queue) |
 | `PraciPATI` | **unresolved** (review queue) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `RE-INCARBNATION` | **unresolved** (review queue) |
 | `SAMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
 | `SENSE ORGANS` | **unresolved** (review queue) |
-| `VaIMANIKA` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `VaIMANIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIMANIKA DEITIES|VAIMANIKA DEITIES]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

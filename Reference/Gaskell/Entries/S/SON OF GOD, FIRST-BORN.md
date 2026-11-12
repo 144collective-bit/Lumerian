@@ -36,11 +36,11 @@ tags:
 | `. MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `ATMAN` | **unresolved** (review queue) |
 | `BreTH or JESUS` | **unresolved** (review queue) |
-| `BIRTH CEREMONIES` | **unresolved** (review queue) |
+| `BIRTH CEREMONIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BIRTH CEREMONIES OF THE BUDDHA|BIRTH CEREMONIES OF THE BUDDHA]] |
 | `Boop` | **unresolved** (review queue) |
 | `CHrist` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Dysk` | **unresolved** (review queue) |
 | `FimsT-BORN SON` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
@@ -51,7 +51,7 @@ tags:
 | `Imuace` | **unresolved** (review queue) |
 | `Ix  SON CARNATION` | **unresolved** (review queue) |
 | `JESUS (Son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |

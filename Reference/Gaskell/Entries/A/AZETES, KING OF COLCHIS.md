@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Assyntus` | **unresolved** (review queue) |
-| `Capmus` | **unresolved** (review queue) |
+| `Capmus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] |
 | `CorcaHis` | **unresolved** (review queue) |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
 

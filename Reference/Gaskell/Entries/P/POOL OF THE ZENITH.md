@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaprisM` | **unresolved** (review queue) |
-| `WHEAT AND BABLEY` | **unresolved** (review queue) |
-| `ZENITH` | **unresolved** (review queue) |
+| `WHEAT AND BABLEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

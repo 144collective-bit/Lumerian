@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BonpaGeE` | **unresolved** (review queue) |
-| `Captivity` | **unresolved** (review queue) |
-| `IGNoRANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `Captivity` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
+| `IGNoRANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 
 ## Full OCR entry body (exact)
 

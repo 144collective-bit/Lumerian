@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `GaTHa DAYs (five)` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `GaTHa DAYs (five)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `HERMES` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `KHIEN` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `KHIEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHIEN AND KHWAN|KHIEN AND KHWAN]] |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MicrocosM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
-| `PLANES (five)` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `RuLERs` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `WORLDS (five). MURDERER` | **unresolved** (review queue) |
+| `PLANES (five)` | resolved (qualified head) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]] |
+| `RuLERs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `WORLDS (five). MURDERER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrp (great)` | **unresolved** (review queue) |
-| `BranMa` | **unresolved** (review queue) |
-| `KarSHIPTA` | **candidate (first-segment only)** → possible `KARSHIPTA, THE BIRD` (not linked) |
+| `BranMa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `KarSHIPTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
 | `Mirror` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
-| `PHANG` | **candidate (first-segment only)** → possible `PHANG, THE GREAT BIRD` (not linked) |
-| `QUALITIEs` | **unresolved** (review queue) |
-| `Srasons` | **unresolved** (review queue) |
-| `SELF (supreme)` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
+| `QUALITIEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `Srasons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
+| `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `UNION. 0 7 Ss — es oe` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

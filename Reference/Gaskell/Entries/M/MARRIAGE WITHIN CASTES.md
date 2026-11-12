@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BranmMana` | **unresolved** (review queue) |
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CLASSES` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
-| `KsHaTriys` | **unresolved** (review queue) |
+| `BranmMana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRAHMANA|BRAHMANA]] |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CLASSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
+| `KsHaTriys` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KSHATRIYA, OR MILITARY CASTE|KSHATRIYA, OR MILITARY CASTE]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SvuDRA` | **unresolved** (review queue) |
-| `Vaisya` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VESTURES. 483` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

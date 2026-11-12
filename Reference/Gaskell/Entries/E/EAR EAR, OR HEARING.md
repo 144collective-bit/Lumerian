@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `CALF (MOLTEN)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CALF|CALF]] |
 | `ConSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `HeEaRING` | **unresolved** (review queue) |
 | `HIpING` | **unresolved** (review queue) |
-| `NOISE` | **candidate (first-segment only)** → possible `NOISE, SOUND` (not linked) |
-| `SounD` | **candidate (first-segment only)** → possible `SOUND, OR VOICE` (not linked) |
+| `NOISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NOISE, SOUND|NOISE, SOUND]] |
+| `SounD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
-| `VOICE` | **unresolved** (review queue) |
+| `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
-| `ATALANTA` | **candidate (first-segment only)** → possible `ATALANTA, THE FAIR MAID` (not linked) |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `ATALANTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATALANTA, THE FAIR MAID|ATALANTA, THE FAIR MAID]] |
 | `Buris (brass)` | **unresolved** (review queue) |
-| `CHaRrioT` | **unresolved** (review queue) |
+| `CHaRrioT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `Crete` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRETE|CRETE]] |
 | `DIscrpPies` | **unresolved** (review queue) |
-| `Heroes` | **candidate (first-segment only)** → possible `HEROES, THE GREATEST OF THE DAY` (not linked) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SHAVING` | **unresolved** (review queue) |
+| `Heroes` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
 
 ## Full OCR entry body (exact)
 

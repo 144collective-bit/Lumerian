@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AcHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `ASSEMBLY` | **unresolved** (review queue) |
-| `PESTILENCE` | **unresolved** (review queue) |
-| `TEN` | **candidate (first-segment only)** → possible `TEN, NUMBER` (not linked) |
+| `AcHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+| `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

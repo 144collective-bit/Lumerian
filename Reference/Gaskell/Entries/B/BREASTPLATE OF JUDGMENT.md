@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `CoLouRs` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `DISCIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `DISCIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `Erxop` | **unresolved** (review queue) |
 | `Germs` | **unresolved** (review queue) |
-| `GIRDLE` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `Kust1` | **unresolved** (review queue) |
-| `Precious` | **unresolved** (review queue) |
+| `Precious` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRECIOUS STONES|PRECIOUS STONES]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
-| `TRIBES` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `Uni AND THUMMIN` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

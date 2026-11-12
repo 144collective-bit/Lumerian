@@ -35,28 +35,28 @@ tags:
 | `A1Rn-2THER` | **unresolved** (review queue) |
 | `CIRCLE AND SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE AND SQUARE|CIRCLE AND SQUARE]] |
 | `346 HEAVENLY Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `DrEsERTs` | **unresolved** (review queue) |
 | `EARTH (primo.)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Eao` | **unresolved** (review queue) |
-| `HELIoPE` | **unresolved** (review queue) |
+| `HELIoPE` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HELIOPE AND CHTHONIE, OR SUN AND EARTH|HELIOPE AND CHTHONIE, OR SUN AND EARTH]] |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
 | `HORSE-SACRIFICE` | **unresolved** (review queue) |
 | `KHIEN AND KHWAN` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHIEN AND KHWAN|KHIEN AND KHWAN]] |
 | `MarTrer` | **unresolved** (review queue) |
-| `MutaPRAKRITI` | **unresolved** (review queue) |
-| `OCEANUS` | **candidate (first-segment only)** → possible `OCEANUS, SON OF HEAVEN AND EARTH` (not linked) |
+| `MutaPRAKRITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
+| `OCEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
 | `PILLARS OF SHU` | **unresolved** (review queue) |
-| `PwaNnkoo` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `PwaNnkoo` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Ranai` | **unresolved** (review queue) |
 | `Roea` | **unresolved** (review queue) |
 | `Ronao Ru` | **unresolved** (review queue) |
 | `Sart` | **unresolved** (review queue) |
 | `SEPARATION OF HEAVEN AND EARTH` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `Spreit` | **unresolved** (review queue) |
-| `STEM` | **unresolved** (review queue) |
+| `STEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
 | `TaNEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `URANUS. HEAVENLY NYMPHS` | **unresolved** (review queue) |
 | `_` | **unresolved** (review queue) |

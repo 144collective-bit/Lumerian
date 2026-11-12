@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Disease` | **candidate (first-segment only)** → possible `DISEASE, OR SICKNESS` (not linked) |
+| `Disease` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISEASE, OR SICKNESS|DISEASE, OR SICKNESS]] |
 | `Fine` | **unresolved** (review queue) |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

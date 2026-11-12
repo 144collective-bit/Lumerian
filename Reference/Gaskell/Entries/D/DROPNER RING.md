@@ -38,9 +38,9 @@ tags:
 | `Gunas` | **unresolved** (review queue) |
 | `Horst` | **unresolved** (review queue) |
 | `Monrs` | **unresolved** (review queue) |
-| `Nanna` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
+| `Nanna` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `Opin` | **unresolved** (review queue) |
-| `Rasas` | **unresolved** (review queue) |
+| `Rasas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAMAS, ORDERS, YESHTIHA MOMENTS|RAMAS, ORDERS, YESHTIHA MOMENTS]] |
 | `RING-HORNE` | **candidate (first-segment only)** → possible `RINGHORNE, BALDER'S SHIP` (not linked) |
 | `TaMAs. DROUGHT ;` | **unresolved** (review queue) |
 

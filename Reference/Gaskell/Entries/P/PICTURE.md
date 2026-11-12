@@ -35,11 +35,11 @@ tags:
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `Derunct` | **unresolved** (review queue) |
-| `FEaTHER` | **unresolved** (review queue) |
-| `HEAzrT` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `FEaTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] |
+| `HEAzrT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
-| `PRAGAPATI (relaxed)` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `PRAGAPATI (relaxed)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Sav` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

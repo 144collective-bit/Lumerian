@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (safety)` | **unresolved** (review queue) |
-| `ARREST` | **unresolved** (review queue) |
-| `CAKE` | **candidate (first-segment only)** → possible `CAKE, SACRIFICIAL` (not linked) |
-| `CrocopILE` | **unresolved** (review queue) |
+| `ARK (safety)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `ARREST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] |
+| `CAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] |
+| `CrocopILE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CROCODILE|CROCODILE]] |
 | `Drecans` | **unresolved** (review queue) |
-| `KEEL` | **unresolved** (review queue) |
-| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `KEEL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KEEL OF BOAT|KEEL OF BOAT]] |
+| `KHEPER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
 | `Moon (wax)` | **unresolved** (review queue) |
 | `Net-ri` | **unresolved** (review queue) |
 | `Not` | **unresolved** (review queue) |
 | `SuncaTCHING` | **unresolved** (review queue) |
 | `Upiirrine` | **unresolved** (review queue) |
-| `UTcHaTs` | **candidate (first-segment only)** → possible `UTCHATS,—THE TWO EYES OF HORUS` (not linked) |
+| `UTcHaTs` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UTCHATS,-THE TWO EYES OF HORUS|UTCHATS,—THE TWO EYES OF HORUS]] |
 
 ## Full OCR entry body (exact)
 

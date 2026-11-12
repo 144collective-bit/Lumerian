@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism (fire)` | **unresolved** (review queue) |
+| `Baptism (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `Kourapom or HEAVEN` | **unresolved** (review queue) |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |

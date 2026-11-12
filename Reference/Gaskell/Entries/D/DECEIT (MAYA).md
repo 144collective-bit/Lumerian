@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `MAyA (lower)` | **unresolved** (review queue) |
+| `MAyA (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

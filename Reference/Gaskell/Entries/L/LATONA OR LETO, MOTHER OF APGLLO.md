@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `BuppHI` | **unresolved** (review queue) |
-| `DELos` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `DELos` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `DiosCURI` | **unresolved** (review queue) |
-| `MOTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
+| `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 
 ## Full OCR entry body (exact)
 

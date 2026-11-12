@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARTEMIS` | **candidate (first-segment only)** → possible `ARTEMIS, THE GODDESS` (not linked) |
+| `ARTEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARTEMIS, THE GODDESS|ARTEMIS, THE GODDESS]] |
 | `LicuT` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
 

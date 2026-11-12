@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `AatT` | **unresolved** (review queue) |
 | `PLERoMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
-| `SopHia` | **unresolved** (review queue) |
+| `SopHia` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
 
 ## Full OCR entry body (exact)
 

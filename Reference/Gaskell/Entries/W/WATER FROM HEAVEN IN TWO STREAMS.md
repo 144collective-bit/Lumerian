@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrrtH OF BUDDHA` | **unresolved** (review queue) |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
-| `FiLoweErs` | **unresolved** (review queue) |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
+| `FiLoweErs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
 | `Gop` | **unresolved** (review queue) |
-| `InpRa` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `InpRa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MAN CRAWLED` | **unresolved** (review queue) |
-| `PILLAR` | **unresolved** (review queue) |
+| `PILLAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILLAR OF THE TEMPLE|PILLAR OF THE TEMPLE]] |
 
 ## Full OCR entry body (exact)
 

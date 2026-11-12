@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hatuor` | **unresolved** (review queue) |
-| `Scorpio` | **candidate (first-segment only)** → possible `SCORPIO, THE ZODIACAL SIGN` (not linked) |
+| `Hatuor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
+| `Scorpio` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
 
 ## Full OCR entry body (exact)
 

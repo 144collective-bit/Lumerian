@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism` | **unresolved** (review queue) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `Feet` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `Foor` | **unresolved** (review queue) |
 | `FoorSTEPS` | **unresolved** (review queue) |

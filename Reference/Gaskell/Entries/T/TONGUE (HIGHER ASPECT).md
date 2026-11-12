@@ -35,10 +35,10 @@ tags:
 | `Brauma` | **unresolved** (review queue) |
 | `Buppua` | **unresolved** (review queue) |
 | `RUNNER` | **unresolved** (review queue) |
-| `Lips` | **unresolved** (review queue) |
+| `Lips` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIPS IN SPEECH|LIPS IN SPEECH]] |
 | `Movts` | **unresolved** (review queue) |
-| `STuPA` | **candidate (first-segment only)** → possible `STUPA, MARVELLOUS, OF BUDDHA` (not linked) |
-| `THRONE` | **unresolved** (review queue) |
+| `STuPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

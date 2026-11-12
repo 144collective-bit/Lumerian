@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GRAPES` | **candidate (first-segment only)** → possible `GRAPES, OR WINE` (not linked) |
+| `GRAPES` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `WATER (wine)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WATERPOTS` | **unresolved** (review queue) |
+| `WATERPOTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WATERPOTS OF STONE, SIX|WATERPOTS OF STONE, SIX]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -35,12 +35,12 @@ tags:
 | `ZEUS. SON JUBAL` | **unresolved** (review queue) |
 | `OF LAMECH AND AD A symbol of the germ of higher emotions aroused through reflection (Lamech) and experience (Adah). *‘ And his brother’s name was Jubal: he was the father of all such as handle the harp and pipe.’""-—Gen. iv. 21. Allied with the transient emotious were the higher emotions` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the germ of these gave rise to the emotions of truth` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `wisdom` | **unresolved** (review queue) |
+| `wisdom` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `and _ love` | **unresolved** (review queue) |
 | `which bring harmonious conditions into the life of the soul. See ADAH` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `JABAL` | **unresolved** (review queue) |
-| `LAMECH` | **candidate (first-segment only)** → possible `LAMECH, SON OF METHUSHAEL` (not linked) |
-| `MustCIAN` | **unresolved** (review queue) |
+| `LAMECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMECH, SON OF METHUSHAEL|LAMECH, SON OF METHUSHAEL]] |
+| `MustCIAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSICIAN|MUSICIAN]] |
 | `PAN. 418` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `BRIDGE OF GJALL` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `Frica` | **unresolved** (review queue) |

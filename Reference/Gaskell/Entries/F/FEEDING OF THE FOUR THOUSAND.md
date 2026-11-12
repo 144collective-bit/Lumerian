@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `DIScIPLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `DIScIPLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `EATING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `MULtTiTupeEs` | **unresolved** (review queue) |
 | `SITTINe` | **unresolved** (review queue) |
 

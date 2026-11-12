@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CaLaMITIES` | **unresolved** (review queue) |
-| `DiscrPLes` | **unresolved** (review queue) |
+| `DiscrPLes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Kino` | **unresolved** (review queue) |
-| `Murper` | **unresolved** (review queue) |
-| `RuLeEr` | **unresolved** (review queue) |
+| `Murper` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
+| `RuLeEr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]] |
 
 ## Full OCR entry body (exact)
 

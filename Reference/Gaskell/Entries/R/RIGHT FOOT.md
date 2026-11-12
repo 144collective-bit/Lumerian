@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FrEet` | **unresolved** (review queue) |
+| `FrEet` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `Foot` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOT|FOOT]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
 

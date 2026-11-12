@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BEELZEBUB` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEELZEBUB|BEELZEBUB]] |
-| `BRaHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CREATION` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `BRaHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `Fars` | **unresolved** (review queue) |
 | `884 IMAGE Fre` | **unresolved** (review queue) |
 | `Hicuer` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
 | `Miyi` | **unresolved** (review queue) |
-| `Mixture` | **candidate (first-segment only)** → possible `MIXTURE, PHILIP THE APOSTLE` (not linked) |
+| `Mixture` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MIXTURE MITHRAS OR MITHRA|MIXTURE MITHRAS OR MITHRA]]; [[Reference/Gaskell/Entries/M/MIXTURE, PHILIP THE APOSTLE|MIXTURE, PHILIP THE APOSTLE]] |
 | `Morser` | **unresolved** (review queue) |
 | `Ocpoap` | **unresolved** (review queue) |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
 | `PRAEKRITI` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `Stars` | **unresolved** (review queue) |
-| `Tyrants` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+| `Tyrants` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANTS UNDER ADAMAS|TYRANTS UNDER ADAMAS]] |
 | `UNBELIEF` | **unresolved** (review queue) |
 | `VourvKasHA` | **unresolved** (review queue) |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |

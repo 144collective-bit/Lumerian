@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FLESH OF JESUS` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `FLESH OF JESUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLESH OF JESUS AS BREAD FROM HEAVEN|FLESH OF JESUS AS BREAD FROM HEAVEN]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 
 ## Full OCR entry body (exact)
 

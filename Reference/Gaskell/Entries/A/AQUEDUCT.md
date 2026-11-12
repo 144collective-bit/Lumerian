@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
-| `RIVER` | **unresolved** (review queue) |
+| `RIVER` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 
 ## Full OCR entry body (exact)
 

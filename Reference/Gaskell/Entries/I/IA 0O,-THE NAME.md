@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Atpua` | **unresolved** (review queue) |
-| `CrRcLE` | **unresolved** (review queue) |
-| `COMING FORTH` | **unresolved** (review queue) |
+| `CrRcLE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
+| `COMING FORTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COMING FORTH BY DAY|COMING FORTH BY DAY]] |
 | `Goma mW` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
 
 ## Full OCR entry body (exact)

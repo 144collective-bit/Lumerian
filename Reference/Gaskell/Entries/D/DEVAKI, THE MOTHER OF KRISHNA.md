@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 
 ## Full OCR entry body (exact)
 

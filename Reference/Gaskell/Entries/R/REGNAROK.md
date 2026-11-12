@@ -37,8 +37,8 @@ tags:
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `KALxI` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 
 ## Full OCR entry body (exact)

@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `BripcE (kinvat)` | **unresolved** (review queue) |
 | `Darvas` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `Karma` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `RraPina` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `Sraivus` | **unresolved** (review queue) |
 | `SOWING AND REAPING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
-| `WICKEDNESS` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

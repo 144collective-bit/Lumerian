@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AmMITAUGAS` | **unresolved** (review queue) |
-| `ATOMS` | **candidate (first-segment only)** → possible `ATOMS, PERMANENT, ON EACH PLANE` (not linked) |
-| `ATOMS (permanent)` | **candidate (first-segment only)** → possible `ATOMS, PERMANENT, ON EACH PLANE` (not linked) |
-| `BraHMa` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `ATOMS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
+| `ATOMS (permanent)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
+| `BraHMa` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `GOLD (spot)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MoNAaD OF LIFE` | **unresolved** (review queue) |
-| `PILLow` | **unresolved** (review queue) |
+| `MoNAaD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
+| `PILLow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLOW OF STONE|PILLOW OF STONE]]; [[Reference/Gaskell/Entries/P/PILLOW OF SUPPORT AND REST|PILLOW OF SUPPORT AND REST]] |
 
 ## Full OCR entry body (exact)
 

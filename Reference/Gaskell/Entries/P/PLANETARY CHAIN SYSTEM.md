@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `AatT` | **unresolved** (review queue) |
 | `Beasts (three sorts)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `HvaNIRATHA` | **unresolved** (review queue) |
-| `KaRSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `LUNAR CHAIN` | **unresolved** (review queue) |
+| `HvaNIRATHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HVANIRATHA OR KHVANIRAS|HVANIRATHA OR KHVANIRAS]] |
+| `KaRSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `LUNAR CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `MIcROCOSM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `RacEes` | **unresolved** (review queue) |
-| `REGIons` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
-| `RENovaTION` | **unresolved** (review queue) |
-| `RoorT-Rackes` | **unresolved** (review queue) |
+| `REGIons` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `RENovaTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `RoorT-Rackes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `RounbD` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `Snow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `THE GLOBES OF THE PLANETARY CHAIN. Vourugaresti (north) SPIRITUAL Vourubaresti (north) Savahi (east) MENTAL Arezahi (west) Vidadhafshn (south) ASTRAL Fradadhafshn (south) PHYSICAL (The Earth) Hvaniratha In the above diagram of the Earth’s planetary chain` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the Zoroastrian names are given to the seven globes. ‘‘ Out of these seven only one` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the lowest and most material of these globes` | **unresolved** (prose-bleed / overlong token; not linked) |

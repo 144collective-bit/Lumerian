@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `HvussaND AND WIFE` | **unresolved** (review queue) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `HvussaND AND WIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBAND AND WIFE|HUSBAND AND WIFE]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `MvuLtrrL.y` | **unresolved** (review queue) |
 | `Wirz` | **unresolved** (review queue) |

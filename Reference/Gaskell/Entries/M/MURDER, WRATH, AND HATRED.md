@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CaLamMitTies` | **unresolved** (review queue) |
-| `Diseases` | **candidate (first-segment only)** → possible `DISEASES, WASTING PUTRIFYING` (not linked) |
+| `Diseases` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISEASES, WASTING PUTRIFYING|DISEASES, WASTING PUTRIFYING]] |
 | `Evin` | **unresolved** (review queue) |
 | `Governors` | **unresolved** (review queue) |
 | `Guitty` | **unresolved** (review queue) |
-| `Law oF REVENGE` | **candidate (first-segment only)** → possible `LAW OF REVENGE, ANGER, AND FOLLY` (not linked) |
+| `Law oF REVENGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAW OF REVENGE, ANGER, AND FOLLY|LAW OF REVENGE, ANGER, AND FOLLY]] |
 
 ## Full OCR entry body (exact)
 

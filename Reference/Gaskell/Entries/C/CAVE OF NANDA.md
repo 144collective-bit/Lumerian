@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
-| `BODHISATVA (great)` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `BODHISATVA (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 
 ## Full OCR entry body (exact)
 

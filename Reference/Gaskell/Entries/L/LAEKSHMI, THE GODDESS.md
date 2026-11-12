@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppuHi` | **unresolved** (review queue) |
-| `CHURNING` | **unresolved** (review queue) |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
 | `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
 | `Conon` | **unresolved** (review queue) |
 | `Dravurapi` | **unresolved** (review queue) |
-| `Furrows` | **unresolved** (review queue) |
+| `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
 | `Poors` | **unresolved** (review queue) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 
 ## Full OCR entry body (exact)
 

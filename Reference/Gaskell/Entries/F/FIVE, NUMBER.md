@@ -37,14 +37,14 @@ tags:
 | `ExzMENTS (five)` | **unresolved** (review queue) |
 | `FEEDING (5` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 | `000)` | **unresolved** (review queue) |
-| `Fork` | **candidate (first-segment only)** → possible `FORK, FIVE-PRONGED` (not linked) |
-| `GaTHA DAyYs (five)` | **unresolved** (review queue) |
+| `Fork` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORK, FIVE-PRONGED|FORK, FIVE-PRONGED]] |
+| `GaTHA DAyYs (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `Hapgs` | **unresolved** (review queue) |
 | `Mopcunn` | **unresolved** (review queue) |
 | `Piaces` | **unresolved** (review queue) |
-| `Srasons (five)` | **unresolved** (review queue) |
+| `Srasons (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Vmcrs` | **unresolved** (review queue) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CANCER` | **candidate (first-segment only)** → possible `CANCER, THE ZODIACAL SIGN` (not linked) |
+| `CANCER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] |
 | `CAPRICORN` | **unresolved** (review queue) |
 | `CHARON’S FERRY` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
-| `DeEmMIuRGE` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
+| `DeEmMIuRGE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `Faiz` | **unresolved** (review queue) |
 | `{NroxicaTIon` | **unresolved** (review queue) |
-| `LEO` | **candidate (first-segment only)** → possible `LEO, THE ZODIACAL SIGN` (not linked) |
-| `RECOLLECTION` | **unresolved** (review queue) |
-| `REMINISCENCE` | **unresolved** (review queue) |
-| `STARS (fixed) ZODIAC` | **unresolved** (review queue) |
+| `LEO` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEO, THE ZODIACAL SIGN|LEO, THE ZODIACAL SIGN]] |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
+| `STARS (fixed) ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 
 ## Full OCR entry body (exact)
 

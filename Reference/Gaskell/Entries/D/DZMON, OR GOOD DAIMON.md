@@ -35,12 +35,12 @@ tags:
 | `AGATHODAIMON` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
 | `Brrps (two)` | **unresolved** (review queue) |
-| `Fic-rruIT` | **unresolved** (review queue) |
+| `Fic-rruIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `MIND` | **candidate (ambiguous first-segment)** → MIND, GOOD; MIND, PRIAM, HEDGEHOG (not linked) |
+| `MIND` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]]; [[Reference/Gaskell/Entries/M/MIND, PRIAM, HEDGEHOG|MIND, PRIAM, HEDGEHOG]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 
 ## Full OCR entry body (exact)
 

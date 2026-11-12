@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `KORAN` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `KORAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `Paryrnus` | **unresolved** (review queue) |
-| `Pen` | **unresolved** (review queue) |
+| `Pen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `REvELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `ScrirTURES` | **unresolved** (review queue) |
 | `UPANISHAD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 | `Worn` | **unresolved** (review queue) |
 

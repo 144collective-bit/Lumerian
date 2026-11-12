@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrps` | **unresolved** (review queue) |
-| `Devayana` | **unresolved** (review queue) |
+| `Devayana` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `Way oF @HE LORD` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

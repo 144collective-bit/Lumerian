@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Boreas` | **candidate (first-segment only)** → possible `BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS` (not linked) |
-| `Harpres` | **unresolved** (review queue) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
+| `Boreas` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
+| `Harpres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 
 ## Full OCR entry body (exact)
 

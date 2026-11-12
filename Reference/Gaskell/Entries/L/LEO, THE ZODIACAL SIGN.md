@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaNcER` | **candidate (first-segment only)** → possible `CANCER, THE ZODIACAL SIGN` (not linked) |
+| `CaNcER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] |
 | `LION` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `Virao` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Buritprrs` | **unresolved** (review queue) |
-| `Devas (higher)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Devas (higher)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 
 ## Full OCR entry body (exact)
 

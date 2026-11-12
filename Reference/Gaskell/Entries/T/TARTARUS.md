@@ -35,13 +35,13 @@ tags:
 | `Bonpace` | **unresolved** (review queue) |
 | `Capriviry` | **unresolved** (review queue) |
 | `Dusaku` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `Hapres` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `Svurreria` | **unresolved** (review queue) |
 | `Tarrvu` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 
 ## Full OCR entry body (exact)
 

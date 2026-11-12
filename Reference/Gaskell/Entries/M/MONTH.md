@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ApiTyas (twelve)` | **unresolved** (review queue) |
-| `Born (out)` | **unresolved** (review queue) |
+| `ApiTyas (twelve)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] |
+| `Born (out)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]]; [[Reference/Gaskell/Entries/B/BORN OUT OF DUE TIME|BORN OUT OF DUE TIME]] |
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `MatTreR` | **unresolved** (review queue) |
-| `MOON-WAXING` | **unresolved** (review queue) |
-| `PYITRIYANA` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `MatTreR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
+| `PYITRIYANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 | `Praciprati` | **unresolved** (review queue) |
-| `RIsHEs` | **unresolved** (review queue) |
+| `RIsHEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RISHES OR SAINTS|RISHES OR SAINTS]]; [[Reference/Gaskell/Entries/R/RISHES OR SEVEN|RISHES OR SEVEN]] |
 
 ## Full OCR entry body (exact)
 

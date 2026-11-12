@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `COLcHIS` | **unresolved** (review queue) |
+| `COLcHIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COLCHIS AND THE COLCHIANS|COLCHIS AND THE COLCHIANS]] |
 | `DANCES` | **unresolved** (review queue) |
-| `GANDHARVAS` | **candidate (first-segment only)** → possible `GANDHARVAS, OR SIRENS` (not linked) |
+| `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `SmEns` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

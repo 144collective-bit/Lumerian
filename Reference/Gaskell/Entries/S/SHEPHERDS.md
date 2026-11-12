@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `RuLER` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
+| `RuLER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

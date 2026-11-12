@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `Srx` | **unresolved** (review queue) |
-| `SUNDAY` | **candidate (first-segment only)** → possible `SUNDAY, THE FIRST DAY` (not linked) |
+| `SUNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 
 ## Full OCR entry body (exact)
 

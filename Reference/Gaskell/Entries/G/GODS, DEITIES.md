@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `COMPANY OF cops` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Foop oF cops` | **unresolved** (review queue) |
-| `GOLDEN SOLES` | **unresolved** (review queue) |
+| `GOLDEN SOLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR|GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR]] |
 | `Katiiopria` | **unresolved** (review queue) |
 | `LIGHT-wORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT-WORLD|LIGHT-WORLD]] |
 | `NicHT` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SACRISICE` | **unresolved** (review queue) |
-| `SAVITRI` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SACRISICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
+| `SAVITRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

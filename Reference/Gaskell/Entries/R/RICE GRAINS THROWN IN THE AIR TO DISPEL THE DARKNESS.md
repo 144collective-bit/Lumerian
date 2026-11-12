@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arn` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 
 ## Full OCR entry body (exact)
 

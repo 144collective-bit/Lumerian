@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRUCIFIXION OF JESUS` | **candidate (ambiguous first-segment)** → CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS; CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS (not linked) |
-| `HorrZONS` | **unresolved** (review queue) |
+| `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
+| `HorrZONS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `TABERNACLES` | **candidate (first-segment only)** → possible `TABERNACLES, OR BOOTHS, OF PETER` (not linked) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `TABERNACLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TABERNACLES, OR BOOTHS, OF PETER|TABERNACLES, OR BOOTHS, OF PETER]] |
 | `TRANSFIGURATION. Tvuat` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

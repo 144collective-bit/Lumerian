@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cuaos` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `GinNUNGA` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TANAOA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

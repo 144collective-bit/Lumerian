@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BIRTH OF OHRIST` | **unresolved** (review queue) |
+| `BIRTH OF OHRIST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF CHRIST|BIRTH OF CHRIST]] |
 | `BuppuI` | **unresolved** (review queue) |
-| `CHurcH` | **unresolved** (review queue) |
-| `DemiureE` | **unresolved** (review queue) |
-| `Dust` | **unresolved** (review queue) |
+| `CHurcH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `DemiureE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
 | `Horty anHost` | **unresolved** (review queue) |
 | `Licot` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MorTHER (divine)` | **unresolved** (review queue) |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
-| `SALT` | **candidate (first-segment only)** → possible `SALT, SALTNESS` (not linked) |
+| `MorTHER (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
+| `SALT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALT, SALTNESS|SALT, SALTNESS]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 
 ## Full OCR entry body (exact)

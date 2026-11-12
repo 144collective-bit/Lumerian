@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Devayana` | **unresolved** (review queue) |
+| `Devayana` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `Devotion` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVOTION|DEVOTION]] |
-| `DoorKEEPERS` | **candidate (first-segment only)** → possible `DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `SINGERS` | **candidate (first-segment only)** → possible `SINGERS, PIOUS` (not linked) |
+| `DoorKEEPERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN|DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `WATER (heaven)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `YAMA` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 
 ## Full OCR entry body (exact)
 

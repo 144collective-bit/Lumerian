@@ -32,31 +32,31 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `Arm` | **unresolved** (review queue) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BLOOD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] |
-| `CARAPACE` | **candidate (first-segment only)** → possible `CARAPACE, THE COSMIC` (not linked) |
-| `CHURNING` | **unresolved** (review queue) |
+| `CARAPACE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CARAPACE, THE COSMIC|CARAPACE, THE COSMIC]] |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LEVIATHAN` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `PraGApaTi (relaxed)` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
+| `PraGApaTi (relaxed)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `Sacririce` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `Sacririce` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `Sap` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `SoMA-JUICE` | **candidate (first-segment only)** → possible `SOMA-JUICE, OR SAP` (not linked) |
-| `Visanu` | **unresolved** (review queue) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `SoMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+| `Visanu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WoRLDs (five)` | **unresolved** (review queue) |
+| `WoRLDs (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

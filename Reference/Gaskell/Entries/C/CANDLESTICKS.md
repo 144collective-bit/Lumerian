@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHURCHES (Asia)` | **unresolved** (review queue) |
-| `CRUCIFIXION (Rev. xi. 8)` | **unresolved** (review queue) |
+| `CHURCHES (Asia)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURCHES IN ASIA, SEVEN|CHURCHES IN ASIA, SEVEN]] |
+| `CRUCIFIXION (Rev. xi. 8)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `T.amp` | **unresolved** (review queue) |
 | `Om` | **unresolved** (review queue) |
-| `OLIVE` | **unresolved** (review queue) |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PROCESSION` | **unresolved** (review queue) |
-| `WITNESSES (two)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+| `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

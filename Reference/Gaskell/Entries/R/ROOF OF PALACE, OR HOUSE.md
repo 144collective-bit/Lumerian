@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `INTELLEor` | **unresolved** (review queue) |
-| `atma ` | **unresolved** (review queue) |
+| `INTELLEor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `atma ` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `N&KHEBIT` | **unresolved** (review queue) |
-| `RED` | **candidate (first-segment only)** → possible `RED, ROSE, COLOUR` (not linked) |
-| `WHITE` | **unresolved** (review queue) |
+| `N&KHEBIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
+| `RED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RED COLOUR|RED COLOUR]]; [[Reference/Gaskell/Entries/R/RED FIRES|RED FIRES]]; [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

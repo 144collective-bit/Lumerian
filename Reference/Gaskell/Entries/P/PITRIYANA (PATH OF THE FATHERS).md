@@ -33,34 +33,34 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `LUNAR CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `MAHAYANA` | **unresolved** (review queue) |
-| `MAN BORN` | **unresolved** (review queue) |
+| `MAN BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
 | `MAN CRAWLED` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `ManasapuTras` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
-| `MrTEMPsycHosis` | **unresolved** (review queue) |
+| `ManasapuTras` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `MrTEMPsycHosis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `Monapd (form` | **unresolved** (review queue) |
 | `_iife)` | **unresolved** (review queue) |
-| `Monty` | **unresolved** (review queue) |
+| `Monty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONTH|MONTH]] |
 | `Moon` | **unresolved** (review queue) |
 | `Moon waAXING` | **unresolved** (review queue) |
 | `NorrTsH` | **unresolved** (review queue) |
 | `ORIGINAL SIN` | resolved (full-head) → [[Reference/Gaskell/Entries/O/ORIGINAL SIN|ORIGINAL SIN]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `RIsSHEs` | **unresolved** (review queue) |
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
-| `SoMA (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `SoMA (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Sourn` | **unresolved** (review queue) |
 | `Suxkuna` | **unresolved** (review queue) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 
 ## Full OCR entry body (exact)
 

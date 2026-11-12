@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Brap (great)` | **unresolved** (review queue) |
 | `Kansurera` | **unresolved** (review queue) |
-| `SWAN` | **candidate (first-segment only)** → possible `SWAN, WHITE` (not linked) |
+| `SWAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 
 ## Full OCR entry body (exact)
 

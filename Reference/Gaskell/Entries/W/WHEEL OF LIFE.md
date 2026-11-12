@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CIRCLE Or EXISTENCE` | **unresolved** (review queue) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Isvana` | **unresolved** (review queue) |
 | `Sparks` | **unresolved** (review queue) |
 | `Swastrxa` | **unresolved** (review queue) |

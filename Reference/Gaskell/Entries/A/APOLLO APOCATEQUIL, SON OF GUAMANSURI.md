@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asvins` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
+| `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `Dioscuri` | **unresolved** (review queue) |
-| `GEMINI` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
+| `GEMINI` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 
 ## Full OCR entry body (exact)
 

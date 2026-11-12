@@ -35,9 +35,9 @@ tags:
 | `AMATERASU` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
 | `Goppsss` | **unresolved** (review queue) |
-| `WITNESSES (two). ESTHER` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (two). ESTHER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, ON EARTH|WITNESSES, THREE, ON EARTH]]; [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 | `MAstT` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `Hivine` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

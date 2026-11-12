@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BRIDGES (nine)` | **candidate (first-segment only)** → possible `BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT` (not linked) |
+| `BRIDGES (nine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] |
 | `StaMak. ETC.` | **unresolved** (review queue) |
 | `Opposirszs` | **unresolved** (review queue) |
 | `293` | **unresolved** (review queue) |

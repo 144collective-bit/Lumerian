@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
 | `ARIves` | **unresolved** (review queue) |
-| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `KLYTEMNESTRA` | **unresolved** (review queue) |
+| `KLYTEMNESTRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KLYTAIMNESTRA, WIFE AGAMEMNON|KLYTAIMNESTRA, WIFE AGAMEMNON]] |
 
 ## Full OCR entry body (exact)
 

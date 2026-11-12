@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cain` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `FUGITIVE` | **unresolved** (review queue) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `FUGITIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUGITIVE AND WANDERER|FUGITIVE AND WANDERER]] |
 | `Guru` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `ISRAELrtEs` | **unresolved** (review queue) |
-| `NaTIONs` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `ISRAELrtEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
+| `NaTIONs` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `PinearRm™` | **unresolved** (review queue) |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SosHYANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANTS|SOSHYANTS]] |

@@ -34,25 +34,25 @@ tags:
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
 | `BEES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
-| `BREASTPLATE` | **unresolved** (review queue) |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
 | `CARNELIAN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARNELIAN|CARNELIAN]] |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DEAD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DEAD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
 | `GARDEN OF EDEN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]] |
 | `GEMS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
-| `Hosts (Lord)` | **candidate (first-segment only)** → possible `HOSTS, LORD OF` (not linked) |
-| `Mrrror` | **unresolved** (review queue) |
+| `Hosts (Lord)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] |
+| `Mrrror` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `NIniaI` | **unresolved** (review queue) |
 | `QUALIries` | **unresolved** (review queue) |
 | `Rusres` | **unresolved** (review queue) |
-| `SAPPHIRE` | **unresolved** (review queue) |
+| `SAPPHIRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPPHIRE STONE|SAPPHIRE STONE]] |
 | `SARDONYXES` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SARDONYXES|SARDONYXES]] |
 | `SzrrPent` | **unresolved** (review queue) |
-| `SHORE` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `SHORE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `SrrRines` | **unresolved** (review queue) |
 | `Swogp` | **unresolved** (review queue) |
-| `TREASURES` | **unresolved** (review queue) |
+| `TREASURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `ARK OF NOAH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]] |
 | `BRAHMARANDHRAM` | **unresolved** (review queue) |
-| `CAUSAL - BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL - BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `Door or ark` | **unresolved** (review queue) |
 | `Door OF vaRA` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
-| `Lamp` | **unresolved** (review queue) |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
 | `Licut` | **unresolved** (review queue) |
 | `On` | **unresolved** (review queue) |
 | `Sun AS DOOR` | **unresolved** (review queue) |

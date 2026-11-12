@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Asyss` | **unresolved** (review queue) |
-| `ATEA` | **candidate (first-segment only)** → possible `ATEA, LIGHT` (not linked) |
-| `CHaos` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `DELOs` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `ATEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN|ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN]]; [[Reference/Gaskell/Entries/A/ATEA, LIGHT|ATEA, LIGHT]] |
+| `CHaos` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `DELOs` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `Fountars` | **unresolved** (review queue) |
 | `Gryunaa` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `Tanaoa` | **unresolved** (review queue) |
 | `WIND Ws OF HEAVEN STOPPED` | **unresolved** (review queue) |
 

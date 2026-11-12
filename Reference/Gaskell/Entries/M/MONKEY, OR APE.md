@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APE` | **candidate (first-segment only)** → possible `APE, DOG-HEADED (LOWER ASPECT)` (not linked) |
+| `APE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APE, DOG-HEADED (LOWER ASPECT)|APE, DOG-HEADED (LOWER ASPECT)]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

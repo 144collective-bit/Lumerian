@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Law` | **candidate (first-segment only)** → possible `LAW, TABLES OF THE` (not linked) |
+| `Law` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAW, TABLES OF THE|LAW, TABLES OF THE]] |
 
 ## Full OCR entry body (exact)
 

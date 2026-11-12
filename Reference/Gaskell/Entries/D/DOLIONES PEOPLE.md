@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arconaots` | **unresolved** (review queue) |
-| `Cyzicus` | **candidate (first-segment only)** → possible `CYZICUS, KING DOLIONES` (not linked) |
-| `LEMNOS` | **unresolved** (review queue) |
-| `SHAVING` | **unresolved** (review queue) |
-| `TEARS` | **unresolved** (review queue) |
+| `Arconaots` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
+| `Cyzicus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CYZICUS, KING DOLIONES|CYZICUS, KING DOLIONES]] |
+| `LEMNOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEMNOS ISLAND|LEMNOS ISLAND]] |
+| `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
+| `TEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEARS SHEDDING|TEARS SHEDDING]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `AURVA` | **unresolved** (review queue) |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `RUDDER` | **unresolved** (review queue) |
+| `RUDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RUDDER OF THE BOAT|RUDDER OF THE BOAT]] |
 
 ## Full OCR entry body (exact)
 

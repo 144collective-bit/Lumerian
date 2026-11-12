@@ -35,7 +35,7 @@ tags:
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `COLCHIANS` | **unresolved** (review queue) |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
-| `SIRENS` | **candidate (ambiguous first-segment)** → SIRENS, GANDHARVAS, COLCHIANS; SIRENS, OR GANDHARVAS (not linked) |
+| `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
 
 ## Full OCR entry body (exact)
 

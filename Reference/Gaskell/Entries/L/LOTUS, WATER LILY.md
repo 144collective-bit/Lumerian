@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTHER` | **unresolved** (review queue) |
-| `BuDpDHI` | **unresolved** (review queue) |
-| `CHILDREN OF HokvS` | **unresolved** (review queue) |
+| `ASTHER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASTER, FOREST|ASTER, FOREST]] |
+| `BuDpDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CHILDREN OF HokvS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `Firr` | **unresolved** (review queue) |
 | `Ftowrers` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
-| `FoorSTEPS OF BUDDHA` | **unresolved** (review queue) |
+| `FoorSTEPS OF BUDDHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOOTSTEPS OF BUDDHA|FOOTSTEPS OF BUDDHA]] |
 | `HEaRT` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

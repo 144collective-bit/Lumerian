@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ConFiict` | **unresolved** (review queue) |
-| `Darkness` | **unresolved** (review queue) |
-| `DELUGE` | **unresolved** (review queue) |
-| `Depraviry` | **unresolved** (review queue) |
+| `Darkness` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
+| `Depraviry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
 | `Eartuo` | **unresolved** (review queue) |
 | `Fioop` | **unresolved** (review queue) |
 | `Srrire` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `VAIVASVATA` | **unresolved** (review queue) |
-| `WICKEDNESS` | **unresolved** (review queue) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
+| `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 
 ## Full OCR entry body (exact)
 

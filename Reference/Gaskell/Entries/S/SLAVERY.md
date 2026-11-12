@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BONDAGE` | **unresolved** (review queue) |
-| `CAPTIVITY` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
+| `CAPTIVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

@@ -37,12 +37,12 @@ tags:
 | `Het` | **unresolved** (review queue) |
 | `Mict.Lan` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICTLAN|MICTLAN]] |
 | `Nir~tHem` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `QUATERNARY (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `Re-stau` | **candidate (first-segment only)** → possible `RE-STAU, THE PASSAGES OF THE TOMB` (not linked) |
-| `Tartrarvs` | **unresolved** (review queue) |
+| `Re-stau` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
+| `Tartrarvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
 | `Tarrv` | **unresolved** (review queue) |
-| `TuarT` | **unresolved** (review queue) |
+| `TuarT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 
 ## Full OCR entry body (exact)
 

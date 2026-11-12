@@ -35,26 +35,26 @@ tags:
 | `AGATHODZMON` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGATHODZMON|AGATHODZMON]] |
 | `BLoop` | **unresolved** (review queue) |
 | `Bioop F LAMB` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
-| `DIScIPLEs` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
+| `DIScIPLEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `XISPENSATIONS` | **unresolved** (review queue) |
 | `EATING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `‘LESH OF JESUS` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `Homa TREE` | **unresolved** (review queue) |
+| `Homa TREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `fost` | **unresolved** (review queue) |
-| `HuNnGER` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `HuNnGER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PrRoESSION` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `ITES` | **unresolved** (review queue) |
-| `Suprer` | **unresolved** (review queue) |
-| `TABLE` | **unresolved** (review queue) |
-| `TRANSUBTANTIATION` | **unresolved** (review queue) |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `Suprer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUPPER, LAST|SUPPER, LAST]] |
+| `TABLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
+| `TRANSUBTANTIATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

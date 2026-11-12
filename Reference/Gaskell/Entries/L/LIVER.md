@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
-| `QaHU` | **candidate (first-segment only)** → possible `QAHU, CITY OF THE GODS` (not linked) |
+| `QaHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/Q/QAHU, CITY OF THE GODS|QAHU, CITY OF THE GODS]] |
 | `VISCEBA` | **unresolved** (review queue) |
-| `VITAL AIBS` | **unresolved** (review queue) |
+| `VITAL AIBS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

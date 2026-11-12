@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `DwaRkFr` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FIG-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] |
 | `GERMS` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MEMBERS` | **unresolved** (review queue) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `PorvusHa` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |

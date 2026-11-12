@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AnsyYRrTus` | **unresolved** (review queue) |
-| `AGNIHOTRA` | **unresolved** (review queue) |
-| `AMYCUB` | **unresolved** (review queue) |
-| `ANCEUs` | **candidate (first-segment only)** → possible `ANCEUS, THE PILOT` (not linked) |
-| `AnGus` | **unresolved** (review queue) |
-| `ARK` | **unresolved** (review queue) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `AMYCUB` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMYCUS, KING OF BEBRYCIA|AMYCUS, KING OF BEBRYCIA]] |
+| `ANCEUs` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANCEUS, THE PILOT|ANCEUS, THE PILOT]] |
+| `AnGus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARGUS, SON OF PHRIXUS|ARGUS, SON OF PHRIXUS]] |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `Crece` | **unresolved** (review queue) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `PHAZATIANS` | **unresolved** (review queue) |
+| `Crece` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CRETE|CRETE]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `PHAZATIANS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
 
 ## Full OCR entry body (exact)

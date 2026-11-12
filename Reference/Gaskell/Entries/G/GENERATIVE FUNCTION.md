@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `CHILDREN` | **unresolved** (review queue) |
 | `Miruras` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
-| `PHALLIPHORIA` | **candidate (first-segment only)** → possible `PHALLIPHORIA, PRIAPEIA, OR DIONYSIA` (not linked) |
-| `SEXUAL` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
+| `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
+| `SEXUAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEXUAL UNION|SEXUAL UNION]] |
 
 ## Full OCR entry body (exact)
 

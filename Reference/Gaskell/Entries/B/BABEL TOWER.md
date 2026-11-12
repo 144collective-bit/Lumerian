@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Sumvar` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 
 ## Full OCR entry body (exact)
 

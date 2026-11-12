@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Barsom` | **unresolved** (review queue) |
-| `Dew` | **unresolved** (review queue) |
+| `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
 | `Harr` | **unresolved** (review queue) |
-| `MAcrRocosm` | **unresolved** (review queue) |
+| `MAcrRocosm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `YR` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

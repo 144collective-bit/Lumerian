@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN OF JERUSALEM` | **unresolved** (review queue) |
-| `ELIJAH` | **unresolved** (review queue) |
+| `ELIJAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ELIJAH THE PROPHET|ELIJAH THE PROPHET]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

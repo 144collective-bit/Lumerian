@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARENA` | **unresolved** (review queue) |
-| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
+| `ARJUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
 | `BHIMA` | **unresolved** (review queue) |
-| `Buisma` | **unresolved** (review queue) |
-| `Darista-pyumNa` | **unresolved** (review queue) |
-| `DHRITARASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
-| `DRAUPADI` | **candidate (first-segment only)** → possible `DRAUPADI, DAUGHTER OF KING DRUPADA` (not linked) |
+| `Buisma` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BHISMA, SANTANAVA, THE TERRIBLE|BHISMA, SANTANAVA, THE TERRIBLE]] |
+| `Darista-pyumNa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DHRISTA-DYUMNA|DHRISTA-DYUMNA]] |
+| `DHRITARASHTRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
+| `DRAUPADI` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] |
 | `Drona` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRONA|DRONA]] |
 | `DuryoDHANA` | **unresolved** (review queue) |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
-| `Karna` | **candidate (first-segment only)** → possible `KARNA, SON OF THE SUN AND PRITHA` (not linked) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `Karna` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KARNA, SON OF THE SUN AND PRITHA|KARNA, SON OF THE SUN AND PRITHA]] |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `658 PANDORA Kourus` | **unresolved** (review queue) |
-| `Panpu` | **unresolved** (review queue) |
-| `SanJava` | **unresolved** (review queue) |
+| `Panpu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDU, KING|PANDU, KING]] |
+| `SanJava` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA|SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA]] |
 | `YuDuISHTHIRA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

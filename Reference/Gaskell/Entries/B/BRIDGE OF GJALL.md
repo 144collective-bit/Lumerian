@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Fravak` | **unresolved** (review queue) |
-| `Gates (nine)` | **unresolved** (review queue) |
+| `Fravak` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVAK AND FRAVAKAIN|FRAVAK AND FRAVAKAIN]] |
+| `Gates (nine)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
 | `SETTLEBRIDGE ing corresponds with riding through dark and deep valleys of the lower mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—the avenue of approach to ‘*Gjall` | **unresolved** (review queue) |
 | `” that is` | **unresolved** (review queue) |

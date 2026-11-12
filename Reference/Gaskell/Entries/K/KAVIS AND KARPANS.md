@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Form` | **unresolved** (review queue) |
+| `Form` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `NUMBERS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NUMBERS|NUMBERS]] |
 
 ## Full OCR entry body (exact)

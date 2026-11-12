@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Brass` | **candidate (first-segment only)** → possible `BRASS, BRONZE, METAL` (not linked) |
-| `Iron` | **unresolved** (review queue) |
-| `METAL` | **unresolved** (review queue) |
-| `TUBAL` | **unresolved** (review queue) |
+| `Brass` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
+| `Iron` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `METAL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
+| `TUBAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 
 ## Full OCR entry body (exact)
 

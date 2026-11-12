@@ -34,30 +34,30 @@ tags:
 |---|---|
 | `AMBAYAVIS` | **unresolved** (review queue) |
 | `AUSTERITIES` | **unresolved** (review queue) |
-| `BIRTH (second)` | **candidate (first-segment only)** → possible `BIRTH, SECOND, OF AN ARYAN` (not linked) |
+| `BIRTH (second)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BIRTH, SECOND, OF AN ARYAN|BIRTH, SECOND, OF AN ARYAN]] |
 | `Boar (avatar)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
 | `GURU` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `KoRAN` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
-| `Papyrus` | **unresolved** (review queue) |
-| `PEN` | **unresolved** (review queue) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `KoRAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `SASTRA` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SIGN` | **unresolved** (review queue) |
-| `Soma` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `SASTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SIGN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIGN OR SYMBOL (SACRED)|SIGN OR SYMBOL (SACRED)]] |
+| `Soma` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `Sout` | **unresolved** (review queue) |
 | `Uperrna` | **unresolved** (review queue) |
 | `UPANISHAD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
 | `UR-HEKAN` | **unresolved** (review queue) |
-| `VaISYA` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `VaISYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VASISHTHA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASISHTHA|VASISHTHA]] |
 | `VISCERA` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)

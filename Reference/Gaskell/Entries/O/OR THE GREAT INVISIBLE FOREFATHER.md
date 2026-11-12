@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
-| `ARHAT` | **unresolved** (review queue) |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ATMAN` | **unresolved** (review queue) |
-| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BraHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
-| `MacrocosM` | **unresolved** (review queue) |
+| `MacrocosM` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
 | `Oapoap` | **unresolved** (review queue) |
 | `PRraGAPpamti` | **unresolved** (review queue) |
 | `Truouty` | **unresolved** (review queue) |
-| `VIVANHAO` | **candidate (first-segment only)** → possible `VIVANHAO, OR VIVANGHAT, FATHER OF YIMA` (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `VIVANHAO` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIVANHAO, OR VIVANGHAT, FATHER OF YIMA|VIVANHAO, OR VIVANGHAT, FATHER OF YIMA]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

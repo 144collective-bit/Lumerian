@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baruis` | **unresolved** (review queue) |
+| `Baruis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] |
 | `Barsom` | **unresolved** (review queue) |
-| `FULFILLING` | **unresolved** (review queue) |
+| `FULFILLING` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FULFILLING THE LAW WITH LOVE|FULFILLING THE LAW WITH LOVE]] |
 | `Kust1` | **unresolved** (review queue) |
-| `MaIsHan` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
-| `MEAT (holy)` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `MaIsHan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `MEAT (holy)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]] |
 | `Mortar AND PESTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 
 ## Full OCR entry body (exact)

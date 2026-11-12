@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BupDHa` | **unresolved** (review queue) |
+| `BupDHa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `OBLATION` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 
 ## Full OCR entry body (exact)
 

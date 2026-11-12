@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
 | `COMPANY OF aGoDSs` | **unresolved** (review queue) |
 | `CycLores` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `FIRE ALTAR` | **unresolved** (review queue) |
 | `GUARDIANS` | **unresolved** (review queue) |
 | `I am` | **unresolved** (review queue) |
 | `MESSENGERS` | **unresolved** (review queue) |
-| `MONAD (life)` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
+| `MONAD (life)` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 | `Pracipamt (relaxed)` | **unresolved** (review queue) |
-| `VALKYRIOR` | **unresolved** (review queue) |
+| `VALKYRIOR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VALEYRIOR|VALEYRIOR]] |
 
 ## Full OCR entry body (exact)
 

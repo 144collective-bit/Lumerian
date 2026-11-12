@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIHOTRA` | **unresolved** (review queue) |
-| `ANCHORITE` | **unresolved** (review queue) |
-| `ASRAmas` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `ARHAT` | **unresolved** (review queue) |
-| `HERMIT` | **unresolved** (review queue) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `ANCHORITE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANCHORITE OR HERMIT|ANCHORITE OR HERMIT]] |
+| `ASRAmas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
+| `HERMIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Monk` | **unresolved** (review queue) |
+| `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `OnpDEES` | **unresolved** (review queue) |
-| `PraGiPATI` | **unresolved** (review queue) |
-| `SANNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
+| `PraGiPATI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 
 ## Full OCR entry body (exact)

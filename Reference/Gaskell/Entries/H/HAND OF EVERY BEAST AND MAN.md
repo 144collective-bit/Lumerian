@@ -35,10 +35,10 @@ tags:
 | `Breasts` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
 | `BiLoop` | **unresolved** (review queue) |
 | `EvoLurion` | **unresolved** (review queue) |
-| `GaTHa (kam` | **unresolved** (review queue) |
+| `GaTHa (kam` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
 | `)` | **unresolved** (review queue) |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 
 ## Full OCR entry body (exact)

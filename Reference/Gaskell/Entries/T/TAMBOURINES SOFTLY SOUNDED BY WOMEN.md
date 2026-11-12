@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Harmony` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `MELopy` | **unresolved** (review queue) |
 | `Woman. TAMMUZ` | **unresolved** (review queue) |
 | `THE SON OF THE SPIRIT OF THE DEEP` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -46,7 +46,7 @@ tags:
 | `ete.` | **unresolved** (review queue) |
 | `Vol. I. p. 126. See ADONIS` | **unresolved** (review queue) |
 | `Ea` | **unresolved** (review queue) |
-| `IsTaR` | **candidate (first-segment only)** → possible `ISTAR, OR ISHTAR, GODDESS` (not linked) |
+| `IsTaR` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

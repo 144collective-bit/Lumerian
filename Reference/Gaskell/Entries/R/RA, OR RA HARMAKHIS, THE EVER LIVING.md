@@ -35,13 +35,13 @@ tags:
 | `Apiryas` | **unresolved** (review queue) |
 | `AZons` | **unresolved** (review queue) |
 | `A¥Fu-RA` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `GEOMETRY` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
-| `HHEAVEN AND EARTH` | **unresolved** (review queue) |
-| `KuHEPER` | **unresolved** (review queue) |
-| `NU` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
+| `HHEAVEN AND EARTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
+| `KuHEPER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
+| `NU` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NU, THE GOD|NU, THE GOD]] |
 | `Nusa` | **unresolved** (review queue) |
 | `Opposires` | **unresolved** (review queue) |
 | `PraG&pati` | **unresolved** (review queue) |
@@ -49,12 +49,12 @@ tags:
 | `SacakiriceR` | **unresolved** (review queue) |
 | `Stripes` | **unresolved** (review queue) |
 | `Tatru` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `UPLIFTING RA` | **unresolved** (review queue) |
 | `UBNI` | **unresolved** (review queue) |
-| `Year` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `Year` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `Zopiac` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

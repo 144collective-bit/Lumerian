@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `MANGER` | **unresolved** (review queue) |
-| `MOSEs` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `MANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANGER IN WHICH THE INFANT JESUS WAS LAID|MANGER IN WHICH THE INFANT JESUS WAS LAID]] |
+| `MOSEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Prtron` | **unresolved** (review queue) |
-| `RULER` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
+| `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Heist` | **unresolved** (review queue) |
-| `SALVE` | **unresolved** (review queue) |
+| `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
 | `SPEAR` | **unresolved** (review queue) |
 | `SWORD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

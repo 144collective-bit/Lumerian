@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
-| `River` | **unresolved** (review queue) |
-| `Tistrya` | **unresolved** (review queue) |
+| `River` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
+| `Tistrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `VovURvKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALANCE` | **unresolved** (review queue) |
+| `BALANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] |
 | `Doac-star` | **unresolved** (review queue) |
 | `DUSAKH` | **unresolved** (review queue) |
 | `ELWAH (res.)` | **unresolved** (review queue) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `HetL` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `KARMA` | **unresolved** (review queue) |
-| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
+| `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
-| `SIRIUS` | **candidate (first-segment only)** → possible `SIRIUS, THE DOG-STAR, SURA` (not linked) |
+| `SIRIUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIRIUS, THE DOG-STAR, SURA|SIRIUS, THE DOG-STAR, SURA]] |
 
 ## Full OCR entry body (exact)
 

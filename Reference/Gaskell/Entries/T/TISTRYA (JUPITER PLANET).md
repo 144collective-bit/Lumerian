@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `CLoups` | **unresolved** (review queue) |
 | `Horse (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
-| `JUPITER` | **candidate (first-segment only)** → possible `JUPITER, PLANET, (TISHTAR)` (not linked) |
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
+| `JUPITER` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUPITER, PLANET, (TISHTAR)|JUPITER, PLANET, (TISHTAR)]] |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
 | `PUTTIKA` | **unresolved** (review queue) |
-| `RED` | **candidate (first-segment only)** → possible `RED, ROSE, COLOUR` (not linked) |
+| `RED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RED COLOUR|RED COLOUR]]; [[Reference/Gaskell/Entries/R/RED FIRES|RED FIRES]]; [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
 | `WEALTH. 759` | **unresolved** (review queue) |
 

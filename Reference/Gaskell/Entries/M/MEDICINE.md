@@ -36,14 +36,14 @@ tags:
 | `GIFTS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GIFTS OF GOD|GIFTS OF GOD]] |
 | `GRAOE` | **unresolved** (review queue) |
 | `Heatinc` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Imnorep` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `Rupra` | **unresolved** (review queue) |
-| `SERPENT ASCULAPIUS` | **unresolved** (review queue) |
+| `SERPENT ASCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
-| `VALMIKI` | **candidate (ambiguous first-segment)** → VALMIKI, KYDOIMOS (UPROAR); VALMIKI, THE POET (not linked) |
+| `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dust` | **unresolved** (review queue) |
-| `INcARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JoB` | **unresolved** (review queue) |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
+| `INcARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 
 ## Full OCR entry body (exact)

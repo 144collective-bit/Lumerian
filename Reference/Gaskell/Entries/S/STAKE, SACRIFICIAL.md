@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Curr` | **unresolved** (review queue) |
-| `GIRDLE ROPE` | **unresolved** (review queue) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `THUNDERBOLT` | **unresolved** (review queue) |
-| `TOP-RING` | **unresolved** (review queue) |
+| `TOP-RING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOP-RING OF THE SACRIFICLAL STAKE|TOP-RING OF THE SACRIFICLAL STAKE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 
 ## Full OCR entry body (exact)

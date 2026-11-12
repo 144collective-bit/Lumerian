@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ALons (twelve)` | **unresolved** (review queue) |
 | `ITaBRAOTH` | **unresolved** (review queue) |
-| `SaBBaTH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
+| `SaBBaTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 
 ## Full OCR entry body (exact)
 

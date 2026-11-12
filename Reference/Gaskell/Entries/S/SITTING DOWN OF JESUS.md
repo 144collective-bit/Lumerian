@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DiscipLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `DiscipLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JUDGMENT JUSTICE` | **unresolved** (review queue) |
-| `MOUNTAIN` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 
 ## Full OCR entry body (exact)
 

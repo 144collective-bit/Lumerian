@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

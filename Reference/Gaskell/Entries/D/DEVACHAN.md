@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASGARD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] |
-| `BAKHDHI` | **unresolved** (review queue) |
+| `BAKHDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BAKHDHI THE BEAUTIFUL|BAKHDHI THE BEAUTIFUL]] |
 | `SEKHETHETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
 | `SLEEPING (waking)` | **unresolved** (review queue) |
-| `UNEN` | **unresolved** (review queue) |
+| `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 
 ## Full OCR entry body (exact)
 

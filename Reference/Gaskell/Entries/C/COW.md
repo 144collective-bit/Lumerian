@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUDUMBLA` | **candidate (first-segment only)** → possible `AUDUMBLA, THE COW` (not linked) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `AUDUMBLA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUDUMBLA, THE COW|AUDUMBLA, THE COW]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `BUTTER` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Fiayrmvnc` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `HarHor` | **unresolved** (review queue) |
+| `HarHor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
 | `HErrer` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Mrix` | **unresolved** (review queue) |
-| `MoTHER (divine)` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
+| `MoTHER (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `PLANTs` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `Sopuia` | **unresolved** (review queue) |
-| `VacH` | **candidate (first-segment only)** → possible `VACH, DIVINE SPEECH` (not linked) |
+| `VacH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
 | `WEALTH SHOWER` | **unresolved** (review queue) |
 | `WIspoM` | **unresolved** (review queue) |
 

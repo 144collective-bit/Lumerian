@@ -32,40 +32,40 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ANDREW` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `BIRD` | **unresolved** (review queue) |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `CasTLES` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `CLASSES` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `CLASSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `HEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAD|HEAD]] |
 | `House (clan)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `Gops` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `JOB` | **unresolved** (review queue) |
-| `KARANA` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `KARANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `MAaSEH` | **unresolved** (review queue) |
 | `MaRRIAGE (castes)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `ROBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `ROBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `Ruan` | **unresolved** (review queue) |
 | `Rvuiers (world)` | **unresolved** (review queue) |
 | `Saxu` | **unresolved** (review queue) |
-| `SAMKHARA` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SHEATHS` | **unresolved** (review queue) |
-| `SKANDHAS` | **candidate (first-segment only)** → possible `SKANDHAS, FIVE` (not linked) |
-| `STEM` | **unresolved** (review queue) |
-| `STHULA` | **unresolved** (review queue) |
+| `SAMKHARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAMKHARA OR SANKHARA|SAMKHARA OR SANKHARA]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SHEATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEATHS OF THE SOUL|SHEATHS OF THE SOUL]] |
+| `SKANDHAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/S/SKANDHAS SKADE|SKANDHAS SKADE]] |
+| `STEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
+| `STHULA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STHULA-SARIRA, GROSS -BODY|STHULA-SARIRA, GROSS -BODY]] |
 | `VEDA` | **unresolved** (review queue) |
-| `VEHICLES` | **unresolved** (review queue) |
-| `ViTaL arrs` | **unresolved** (review queue) |
+| `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
+| `ViTaL arrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WING` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

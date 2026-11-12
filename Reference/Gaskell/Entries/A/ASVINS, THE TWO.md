@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `APOCATEQUIL` | **unresolved** (review queue) |
 | `Dioscuni` | **unresolved** (review queue) |
-| `GEMINI` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
+| `GEMINI` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 | `Marg` | **unresolved** (review queue) |
-| `NakuLa` | **unresolved** (review queue) |
-| `SAcRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `SPADE` | **unresolved** (review queue) |
+| `NakuLa` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NAKULA AND SAHADEVA, TWIN SONS OF MADRI BY THE ASVINS|NAKULA AND SAHADEVA, TWIN SONS OF MADRI BY THE ASVINS]] |
+| `SAcRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SPADE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPADE TO DIG THE EARTH|SPADE TO DIG THE EARTH]] |
 
 ## Full OCR entry body (exact)
 

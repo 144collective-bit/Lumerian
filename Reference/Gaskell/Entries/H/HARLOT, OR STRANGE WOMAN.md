@@ -36,9 +36,9 @@ tags:
 | `and 1 Cor. vi. 13-20. See ADULTERY` | **unresolved** (review queue) |
 | `CoURTEZAN` | **unresolved** (review queue) |
 | `Divorce` | **unresolved** (review queue) |
-| `Fotty` | **unresolved** (review queue) |
-| `GatHa (kam.)` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Fotty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
+| `GatHa (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Potson UNRIGHTEOUS MAN` | **unresolved** (review queue) |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
 

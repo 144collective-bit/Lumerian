@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baruis` | **unresolved** (review queue) |
+| `Baruis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] |
 | `Barsom` | **unresolved** (review queue) |
 | `Brets (second)` | **unresolved** (review queue) |
 | `Buck.xez` | **unresolved** (review queue) |

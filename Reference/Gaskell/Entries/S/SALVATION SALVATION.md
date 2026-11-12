@@ -35,34 +35,34 @@ tags:
 | `ADOPTION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADOPTION|ADOPTION]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ATONE MENT` | **unresolved** (review queue) |
-| `BLEssING` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BLEssING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `Escape` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `Escape` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ESCAPE FROM EVIL|ESCAPE FROM EVIL]] |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ImMaGr` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LAMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
-| `LETTER` | **unresolved** (review queue) |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `MEMBERS` | **unresolved** (review queue) |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `ROCK OF SALVATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK OF SALVATION|ROCK OF SALVATION]] |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
-| `SEALED LETTER` | **unresolved** (review queue) |
-| `SORROW` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `WASHED (blood)` | **unresolved** (review queue) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
+| `SORROW` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 
 ## Full OCR entry body (exact)
 

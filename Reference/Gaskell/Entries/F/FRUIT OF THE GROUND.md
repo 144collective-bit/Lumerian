@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABEL` | **candidate (first-segment only)** → possible `ABEL, A KEEPER OF SHEEP` (not linked) |
+| `ABEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] |
 | `CAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
-| `GROUND` | **candidate (first-segment only)** → possible `GROUND, HOLY` (not linked) |
+| `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `BLESSING` | **unresolved** (review queue) |
+| `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
 | `BuppHa` | **unresolved** (review queue) |
-| `CEILING` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CEILING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CEILING OF THE SKY|CEILING OF THE SKY]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `EXPERI!ENCES` | **unresolved** (review queue) |
-| `FINGERS (two)` | **candidate (ambiguous first-segment)** → FINGERS, FOUR; FINGERS, TWO, OF HORUS (not linked) |
+| `FINGERS (two)` | resolved (qualified head) → [[Reference/Gaskell/Entries/F/FINGERS, TWO, OF HORUS|FINGERS, TWO, OF HORUS]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `IRon-piare` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `MouTa (speech)` | **unresolved** (review queue) |
 | `Osmnis` | **unresolved** (review queue) |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
-| `STAIRCASE` | **candidate (first-segment only)** → possible `STAIRCASE, STAIRS` (not linked) |
-| `STAKE` | **candidate (first-segment only)** → possible `STAKE, SACRIFICIAL` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+| `STAIRCASE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
+| `STAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
 | `STEPS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 
 ## Full OCR entry body (exact)

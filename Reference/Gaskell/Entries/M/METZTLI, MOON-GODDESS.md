@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARMATERASU` | **unresolved** (review queue) |
-| `BuUDDHI` | **unresolved** (review queue) |
+| `BuUDDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `(natural)` | **unresolved** (review queue) |
 | `Moon (higher). Man` | **unresolved** (review queue) |
 

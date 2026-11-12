@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DESERTs` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `DESERTs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 
 ## Full OCR entry body (exact)
 

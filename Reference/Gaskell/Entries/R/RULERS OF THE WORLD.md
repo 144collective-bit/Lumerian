@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CuassEs` | **unresolved** (review queue) |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `PELEMeEnts (five) GaTHa pays (five)` | **unresolved** (review queue) |
 | `Hovsz (clan)` | **unresolved** (review queue) |
-| `Province` | **unresolved** (review queue) |
+| `Province` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROVINCE-RULER|PROVINCE-RULER]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `TrrBE (ruler)` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WILLAGE` | **unresolved** (review queue) |
 | `WorLps (five)` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

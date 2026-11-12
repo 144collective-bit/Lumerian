@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANTELOPE` | **candidate (first-segment only)** → possible `ANTELOPE, SKIN OF BLACK` (not linked) |
+| `ANTELOPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANTELOPE, SKIN OF BLACK|ANTELOPE, SKIN OF BLACK]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `Horse saonirice` | **unresolved** (review queue) |
 | `MAyA 26 ADONIS (higher)` | **unresolved** (review queue) |
 | `Not` | **unresolved** (review queue) |

@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `CoRN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `CoRN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `DAY AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FRvrIt` | **unresolved** (review queue) |
 | `Germs` | **unresolved** (review queue) |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
 | `HARvVEsT` | **unresolved** (review queue) |
-| `HERB` | **unresolved** (review queue) |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `HERB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERB OF THE FIELD, OR GREEN HERB|HERB OF THE FIELD, OR GREEN HERB]] |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `RESUBRECTION` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SoweR` | **unresolved** (review queue) |
+| `SoweR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 | `Sworp` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

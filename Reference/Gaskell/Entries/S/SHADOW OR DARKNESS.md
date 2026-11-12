@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DARKNESS` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR (fire)` | **unresolved** (review queue) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `ARc. MAN` | **unresolved** (review queue) |
-| `BONES` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
+| `BONES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `MEMBERS` | **unresolved** (review queue) |
-| `Pracfpati` | **unresolved** (review queue) |
+| `Pracfpati` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Seasons (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `SKIN` | **unresolved** (review queue) |
+| `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 | `Wortps (five)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

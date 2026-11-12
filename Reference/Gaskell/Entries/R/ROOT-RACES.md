@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Beasts (three sorts)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `KarsHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `PyLus` | **candidate (first-segment only)** → possible `PYLUS, DIVINE, PYLIANS` (not linked) |
+| `KarsHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `PyLus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] |
 | `ROUND | Races` | **unresolved** (review queue) |
 | `Racua` | **unresolved** (review queue) |
-| `Regions` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
+| `Regions` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `Rovnp` | **unresolved** (review queue) |
 | `SNow. ROPE FOR HAULING TIE }` | **unresolved** (review queue) |
 

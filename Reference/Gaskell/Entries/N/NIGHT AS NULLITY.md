@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHARON’S reRRY` | **unresolved** (review queue) |
-| `Nectar` | **candidate (first-segment only)** → possible `NECTAR, SWEET` (not linked) |
-| `Nox` | **candidate (first-segment only)** → possible `NOX, SISTER OF EREBUS` (not linked) |
+| `Nectar` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NECTAR, SWEET|NECTAR, SWEET]] |
+| `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
 | `PrRanayvA` | **unresolved** (review queue) |
-| `RECOLLECTION` | **unresolved** (review queue) |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `Sryx` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

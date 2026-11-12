@@ -35,15 +35,15 @@ tags:
 | `Ano. MAN` | **unresolved** (review queue) |
 | `Bury` | **unresolved** (review queue) |
 | `Deatu` | **unresolved** (review queue) |
-| `DisMEMBERMENT` | **unresolved** (review queue) |
+| `DisMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `GOSHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `NAVEL` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `Races` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Roor-races` | **unresolved** (review queue) |
-| `RounD` | **unresolved** (review queue) |
+| `RounD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 | `TREE OY LIVE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

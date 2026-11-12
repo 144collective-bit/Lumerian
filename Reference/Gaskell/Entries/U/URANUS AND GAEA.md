@@ -32,29 +32,29 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cronus` | **unresolved** (review queue) |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
 | `EarrH (primordial)` | **unresolved** (review queue) |
 | `Evo.ution` | **unresolved** (review queue) |
-| `Foam` | **unresolved** (review queue) |
+| `Foam` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOAM OF THE SEA|FOAM OF THE SEA]] |
 | `Gr` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `IRON` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
-| `OcEANUS` | **candidate (first-segment only)** → possible `OCEANUS, SON OF HEAVEN AND EARTH` (not linked) |
-| `POSEIDON` | **unresolved** (review queue) |
-| `PRAGAPATI RELAXED` | **candidate (first-segment only)** → possible `PRAGAPATI RELAXED, AND AFTERWARDS RESTORED` (not linked) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `RANGI` | **unresolved** (review queue) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `IRON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `OcEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
+| `POSEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
+| `PRAGAPATI RELAXED` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `RANGI` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANGI AND PAPA|RANGI AND PAPA]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SEPARATION OF HEAVEN AND EARTH` | **unresolved** (review queue) |
-| `SEX PRINCIPLE` | **unresolved** (review queue) |
+| `SEX PRINCIPLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEX PRINCIPLE IN DIVINE MANIFESTATION|SEX PRINCIPLE IN DIVINE MANIFESTATION]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
-| `SPakRK` | **unresolved** (review queue) |
+| `SPakRK` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]] |
 | `SPIRIt` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
-| `Titans` | **unresolved** (review queue) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `Titans` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITANS TITANS, TWELVE|TITANS TITANS, TWELVE]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

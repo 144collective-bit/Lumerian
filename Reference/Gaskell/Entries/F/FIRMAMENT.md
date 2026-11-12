@@ -35,23 +35,23 @@ tags:
 | `Arm` | **unresolved** (review queue) |
 | `Breps` | **unresolved** (review queue) |
 | `Bripce` | **unresolved** (review queue) |
-| `CHILDREN OF HoRUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `DEEP oF EA` | **unresolved** (review queue) |
+| `CHILDREN OF HoRUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `DEEP oF EA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Four sernas` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `LAKSHMANA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAKSHMANA|LAKSHMANA]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `MaasEn` | **unresolved** (review queue) |
 | `MERCABA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MERCABA|MERCABA]] |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `PANTHER` | **unresolved** (review queue) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `PANTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] |
 | `Prurars (four)` | **unresolved** (review queue) |
-| `Quarters` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Quarters` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `WartTER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

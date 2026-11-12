@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
-| `ASSEMBLY` | **unresolved** (review queue) |
-| `CITY` | **candidate (first-segment only)** → possible `CITY, HOLY` (not linked) |
-| `Love (uniter)` | **candidate (first-segment only)** → possible `LOVE, THE UNITER OF ALL` (not linked) |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `CITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] |
+| `Love (uniter)` | resolved (qualified head) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
 | `Pmcrms (shrine)` | **unresolved** (review queue) |
 | `SrRirs` | **unresolved** (review queue) |
 

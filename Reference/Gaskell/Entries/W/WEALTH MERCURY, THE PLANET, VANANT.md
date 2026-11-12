@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
 
 ## Full OCR entry body (exact)
 

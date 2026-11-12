@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
-| `Mortar` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
-| `MyrruH` | **unresolved** (review queue) |
+| `ALTAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
+| `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
+| `MyrruH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MYRRH|MYRRH]] |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PHCNIX` | **unresolved** (review queue) |
-| `PRAYERS` | **unresolved** (review queue) |
+| `PHCNIX` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHENIX, THE BIRD OF ARABIA|PHENIX, THE BIRD OF ARABIA]] |
+| `PRAYERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 | `ROCK-SEPULCHRE` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]] |
-| `SEPULCHRES` | **candidate (first-segment only)** → possible `SEPULCHRES, OR TOMBS` (not linked) |
-| `SUNDAY` | **candidate (first-segment only)** → possible `SUNDAY, THE FIRST DAY` (not linked) |
+| `SEPULCHRES` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `SUNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

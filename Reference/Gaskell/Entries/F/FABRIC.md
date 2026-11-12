@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Linen` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
-| `Loom` | **unresolved** (review queue) |
+| `Linen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
 | `WakpP` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DHRITA-RASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
+| `DHRITA-RASHTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
 
 ## Full OCR entry body (exact)
 

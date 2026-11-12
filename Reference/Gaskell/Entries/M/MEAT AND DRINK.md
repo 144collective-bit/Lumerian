@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Eatina` | **unresolved** (review queue) |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `Eatina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 
 ## Full OCR entry body (exact)
 

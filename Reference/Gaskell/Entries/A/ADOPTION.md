@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
 | `UNION. ADORNED WITH GEMS` | **unresolved** (review queue) |
 | `ETC. :— Symbolic of being endowed with virtues` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—qualities of the buddhic nature. See Gems` | **unresolved** (review queue) |

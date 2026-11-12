@@ -35,8 +35,8 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `TaE-KEIH` | **unresolved** (review queue) |
-| `TAO` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TAO` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

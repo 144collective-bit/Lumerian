@@ -36,8 +36,8 @@ tags:
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `RENDING` | **unresolved** (review queue) |
-| `VIRGIN BRINGING FORTH` | **unresolved** (review queue) |
+| `RENDING` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RENDING THE GARMENTS|RENDING THE GARMENTS]] |
+| `VIRGIN BRINGING FORTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]] |
 
 ## Full OCR entry body (exact)
 

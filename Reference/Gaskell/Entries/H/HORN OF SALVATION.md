@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AxsTU FISH` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `DELUGE` | **unresolved** (review queue) |
-| `FisH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `AxsTU FISH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ABTU FISH, OR ANT FISH|ABTU FISH, OR ANT FISH]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
+| `FisH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `JESUS AS FISH` | **unresolved** (review queue) |
 | `Manu` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |

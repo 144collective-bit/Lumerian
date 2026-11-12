@@ -35,9 +35,9 @@ tags:
 | `Coma` | **unresolved** (review queue) |
 | `Curip` | **unresolved** (review queue) |
 | `DarEnsss (lower)` | **unresolved** (review queue) |
-| `PEACHES` | **unresolved** (review queue) |
+| `PEACHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEACHES OF IZANAGI, THREE|PEACHES OF IZANAGI, THREE]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SUSA-NO-WO` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
+| `SUSA-NO-WO` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUSA-NO-WO, GOD OF THE SEA|SUSA-NO-WO, GOD OF THE SEA]] |
 | `TARTARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
 | `WOMEN’S LIFE` | **unresolved** (review queue) |
 

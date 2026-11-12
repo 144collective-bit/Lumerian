@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `Diaarna` | **unresolved** (review queue) |
 | `Eantu` | **unresolved** (review queue) |
-| `Marro` | **unresolved** (review queue) |
+| `Marro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `Prr` | **unresolved** (review queue) |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SHELTER` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
-| `TUBAL CAIN` | **candidate (first-segment only)** → possible `TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL` (not linked) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
-| `ALCINOUS` | **unresolved** (review queue) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
+| `ALCINOUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ALCINOUS ALCINOUS, KING OF THE PHAEACIANS|ALCINOUS ALCINOUS, KING OF THE PHAEACIANS]] |
 | `AMARAvaTi` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
 | `ATHENE` | **unresolved** (review queue) |
-| `ATMA` | **unresolved** (review queue) |
-| `CAUCASUS` | **unresolved** (review queue) |
-| `FRIGG` | **candidate (first-segment only)** → possible `FRIGG, OR FRIKKA, WIFE OF ODIN` (not linked) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `CAUCASUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] |
+| `FRIGG` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRIGG, OR FRIKKA, WIFE OF ODIN|FRIGG, OR FRIKKA, WIFE OF ODIN]] |
 | `Hiwavan` | **unresolved** (review queue) |
 | `Jupas` | **unresolved** (review queue) |
 | `Karuasa` | **unresolved** (review queue) |
 | `MERUu` | **unresolved** (review queue) |
-| `Mountain` | **unresolved** (review queue) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `PatacE` | **unresolved** (review queue) |
 | `WorRLpDs (five). OM!` | **unresolved** (review queue) |
 

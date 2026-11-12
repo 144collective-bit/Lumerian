@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `Arm` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ARYAVARTA` | **candidate (first-segment only)** → possible `ARYAVARTA, THE LAND OF THE ARYAS` (not linked) |
-| `BrEeatH` | **unresolved** (review queue) |
+| `ARYAVARTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARYAVARTA, THE LAND OF THE ARYAS|ARYAVARTA, THE LAND OF THE ARYAS]] |
+| `BrEeatH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Deap` | **unresolved** (review queue) |
 | `EaGik` | **unresolved** (review queue) |
-| `FRAVASHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
+| `FRAVASHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
 | `Karomarnrs` | **unresolved** (review queue) |
 | `Manco` | **unresolved** (review queue) |
-| `Pranas` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
+| `Pranas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

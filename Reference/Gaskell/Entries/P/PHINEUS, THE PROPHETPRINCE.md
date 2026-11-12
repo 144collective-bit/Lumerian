@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANTELOPE` | **candidate (first-segment only)** → possible `ANTELOPE, SKIN OF BLACK` (not linked) |
-| `Borras` | **unresolved** (review queue) |
-| `CuLgEoPATRA` | **unresolved** (review queue) |
-| `Harpres` | **unresolved** (review queue) |
+| `ANTELOPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANTELOPE, SKIN OF BLACK|ANTELOPE, SKIN OF BLACK]] |
+| `Borras` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
+| `CuLgEoPATRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE|CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE]] |
+| `Harpres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 | `Hover` | **unresolved** (review queue) |
 | `Ips` | **unresolved** (review queue) |
-| `NicorTrHEA` | **unresolved** (review queue) |
-| `OCYPETE` | **candidate (first-segment only)** → possible `OCYPETE, THE HARPY` (not linked) |
-| `POsEIDON` | **unresolved** (review queue) |
-| `ZETES` | **unresolved** (review queue) |
+| `NicorTrHEA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
+| `OCYPETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
+| `POsEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
+| `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
 
 ## Full OCR entry body (exact)
 

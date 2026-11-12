@@ -36,7 +36,7 @@ tags:
 | `OBLAZIONS` | **unresolved** (review queue) |
 | `OFrEeRINa` | **unresolved** (review queue) |
 | `SACRAMENTAL OAKES` | **unresolved** (review queue) |
-| `SacrIvIce` | **unresolved** (review queue) |
+| `SacrIvIce` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 
 ## Full OCR entry body (exact)
 

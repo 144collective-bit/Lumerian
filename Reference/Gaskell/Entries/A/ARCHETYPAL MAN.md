@@ -36,67 +36,67 @@ tags:
 | `Apamas (higher)` | **unresolved** (review queue) |
 | `Apapa` | **unresolved** (review queue) |
 | `AFU-RA` | **unresolved** (review queue) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
-| `ARHATS (three)` | **unresolved** (review queue) |
-| `Aso` | **candidate (first-segment only)** → possible `ASO, QUEEN OF ETHIOPIA` (not linked) |
-| `ATONEMENT` | **unresolved** (review queue) |
-| `ATZEEL` | **unresolved** (review queue) |
-| `BALDER` | **unresolved** (review queue) |
-| `BoLts` | **unresolved** (review queue) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
+| `ARHATS (three)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
+| `Aso` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASO, QUEEN OF ETHIOPIA|ASO, QUEEN OF ETHIOPIA]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `ATZEEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATZEEL-ATIC WORLD OF EMANATION|ATZEEL-ATIC WORLD OF EMANATION]]; [[Reference/Gaskell/Entries/A/ATZEEL-OOTHIC WORLD|ATZEEL-OOTHIC WORLD]] |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `BoLts` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BOLTS OF THE GATES OF ERIDU|BOLTS OF THE GATES OF ERIDU]] |
 | `BuppHa` | **unresolved** (review queue) |
-| `CaRAPACE` | **candidate (first-segment only)** → possible `CARAPACE, THE COSMIC` (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `CRUCIFIXION (Christ` | **unresolved** (review queue) |
+| `CaRAPACE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CARAPACE, THE COSMIC|CARAPACE, THE COSMIC]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `CRUCIFIXION (Christ` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `Purusha)` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `DEatTH OF BALDER` | **unresolved** (review queue) |
 | `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `ETC.` | **unresolved** (review queue) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
 | `Drrvuva` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
-| `FRAVASHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
-| `GATHA (days)` | **unresolved** (review queue) |
-| `GLORY` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
-| `GosPEL sTORY` | **unresolved** (review queue) |
+| `FRAVASHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
+| `GATHA (days)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `GLORY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
+| `GosPEL sTORY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOSPEL STORY OF CHRIST|GOSPEL STORY OF CHRIST]] |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `HIGHER (natures)` | **unresolved** (review queue) |
+| `HIGHER (natures)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]]; [[Reference/Gaskell/Entries/H/HIGHER AND NATURES|HIGHER AND NATURES]] |
 | `Human Bopy` | **unresolved** (review queue) |
 | `Imacr` | **unresolved** (review queue) |
-| `InCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `InCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `ISVARA` | **unresolved** (review queue) |
 | `JEsus (son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Kaau-Tsucm` | **unresolved** (review queue) |
-| `KaIoMARTS` | **unresolved** (review queue) |
+| `KaIoMARTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KAIOMARTS KAIOMARTS OR GAYOMARD|KAIOMARTS KAIOMARTS OR GAYOMARD]] |
 | `LEMMINKAINEN` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEMMINKAINEN|LEMMINKAINEN]] |
-| `LIMBS` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `LIMBS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIMBS LIMBS OF THE INEFFABLE|LIMBS LIMBS OF THE INEFFABLE]] |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MAHAVIRA-POT` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] |
 | `MEASURE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
-| `MEDIATOR` | **unresolved** (review queue) |
+| `MEDIATOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEDIATOR CHRIST|MEDIATOR CHRIST]] |
 | `MEMBERS` | **unresolved** (review queue) |
-| `NET (golden)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `NET (golden)` | resolved (exact) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `OHONAMOCHI` | **unresolved** (review queue) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
 | `OsrRis` | **unresolved** (review queue) |
-| `PRaGApaTi` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `Protoryres` | **unresolved** (review queue) |
+| `PRaGApaTi` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `Protoryres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `Pran` | **unresolved** (review queue) |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `RaacHa` | **unresolved** (review queue) |
 | `SaspBaTH` | **unresolved** (review queue) |
-| `SEAL` | **candidate (first-segment only)** → possible `SEAL, GREAT SACRED` (not linked) |
+| `SEAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEAL, GREAT SACRED|SEAL, GREAT SACRED]] |
 | `SEASONS (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Setr` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
-| `SHEPHERD (good)` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
+| `SHEPHERD (good)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Srmmrrupges` | **unresolved** (review queue) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 | `Son or cop` | **unresolved** (review queue) |
 | `Son oF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `SOUL AND BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUL AND BODY|SOUL AND BODY]] |
@@ -104,12 +104,12 @@ tags:
 | `Toms` | **unresolved** (review queue) |
 | `ToRrToteE` | **unresolved** (review queue) |
 | `Vrrao` | **unresolved** (review queue) |
-| `VISVAKARMAN` | **candidate (first-segment only)** → possible `VISVAKARMAN, WEALTH SHOWER` (not linked) |
-| `YAO` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `VISVAKARMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VISVAKARMAN, WEALTH SHOWER|VISVAKARMAN, WEALTH SHOWER]] |
+| `YAO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 | `YMIR` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

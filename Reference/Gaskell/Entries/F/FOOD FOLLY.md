@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
 | `BEaSTs` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `DIVORCING` | **unresolved** (review queue) |
-| `Hariot` | **unresolved** (review queue) |
+| `DIVORCING` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIVORCING A WIFE AND MARRYING ANOTHER WOMAN|DIVORCING A WIFE AND MARRYING ANOTHER WOMAN]] |
+| `Hariot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
 | `MarriaGE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Rar` | **unresolved** (review queue) |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |

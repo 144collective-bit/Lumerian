@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `IsRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `JEws` | **unresolved** (review queue) |
+| `JEws` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `MEMBERS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

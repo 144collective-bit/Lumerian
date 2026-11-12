@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PrrSONALITY` | **unresolved** (review queue) |
-| `Surps (GREEK)` | **unresolved** (review queue) |
+| `PrrSONALITY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `Surps (GREEK)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 
 ## Full OCR entry body (exact)
 

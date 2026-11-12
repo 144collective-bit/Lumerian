@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Buput` | **unresolved** (review queue) |
 | `Darvas` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
-| `SRosH` | **candidate (first-segment only)** → possible `SROSH, OR SRAOSHA, RIGHTEOUS` (not linked) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `SRosH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
 | `Wispom` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

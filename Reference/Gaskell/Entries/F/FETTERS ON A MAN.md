@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATTACHMENT` | **unresolved** (review queue) |
-| `Virat AIRS` | **unresolved** (review queue) |
+| `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
+| `Virat AIRS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

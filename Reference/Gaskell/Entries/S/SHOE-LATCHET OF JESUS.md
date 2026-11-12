@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BHARATA` | **candidate (first-segment only)** → possible `BHARATA, THE VICE-KING` (not linked) |
+| `BHARATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BHARATA, THE VICE-KING|BHARATA, THE VICE-KING]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CHRIST (increase)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `JOHN BAPTIST. SHOES OF RAMA :-A symbol of advancing spiritual power. See BHARATA` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `RAMA. SHOES ON THE FEET :-A symbol of power to advance. See FEET` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Foor` | **unresolved** (review queue) |
-| `GOLDEN SOLES` | **unresolved** (review queue) |
-| `RoBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
-| `SANDALS` | **candidate (first-segment only)** → possible `SANDALS, OR SHOES` (not linked) |
+| `GOLDEN SOLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR|GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR]] |
+| `RoBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
+| `SANDALS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDALS, OR SHOES|SANDALS, OR SHOES]] |
 
 ## Full OCR entry body (exact)
 

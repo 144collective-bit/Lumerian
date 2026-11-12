@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AnRows (divine)` | **unresolved** (review queue) |
-| `BURNING` | **unresolved** (review queue) |
-| `CREMATION` | **unresolved** (review queue) |
+| `AnRows (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `BURNING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BURNING FOCUS|BURNING FOCUS]]; [[Reference/Gaskell/Entries/B/BURNING OF CORPSES|BURNING OF CORPSES]] |
+| `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `KABANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PESTILENCE` | **unresolved** (review queue) |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `WRATH OF APOLLO` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF APOLLO|WRATH OF APOLLO]] |
 
 ## Full OCR entry body (exact)

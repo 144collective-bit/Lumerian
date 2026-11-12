@@ -38,16 +38,16 @@ tags:
 | `Bioop oF THE LAMB` | **unresolved** (review queue) |
 | `HoMA-JUICE` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `PAssoOvER` | **unresolved** (review queue) |
-| `RANSOM` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `PAssoOvER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
+| `RANSOM` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `REMIBSSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `SoMA-JUICE` | **candidate (first-segment only)** → possible `SOMA-JUICE, OR SAP` (not linked) |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
-| `WASHED` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SoMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
+| `WASHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 
 ## Full OCR entry body (exact)
 

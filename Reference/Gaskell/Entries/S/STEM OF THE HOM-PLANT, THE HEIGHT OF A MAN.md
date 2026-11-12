@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DESERTS` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `DESERTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `HEIGHT OF osiRIs` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
-| `HOM-PLANT` | **unresolved** (review queue) |
+| `HOM-PLANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOM-PLANT STEM|HOM-PLANT STEM]] |
 | `SurgaTmMa` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

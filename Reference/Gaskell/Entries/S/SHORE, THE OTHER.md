@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARHATS` | **unresolved** (review queue) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
-| `DHARMA` | **unresolved** (review queue) |
-| `HrkososHi` | **unresolved** (review queue) |
-| `Nirvana` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
+| `DHARMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] |
+| `HrkososHi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
+| `Nirvana` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `Rart` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

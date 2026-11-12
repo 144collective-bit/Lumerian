@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `each Patriarch` | **unresolved** (review queue) |
-| `ANCESTORS` | **candidate (first-segment only)** → possible `ANCESTORS, OR PROGENITORS` (not linked) |
+| `ANCESTORS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANCESTORS, OR PROGENITORS|ANCESTORS, OR PROGENITORS]] |
 | `Arts` | **unresolved** (review queue) |
 | `Arx` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
-| `YEARS` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `YEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YEARS OF PATRIARCHAL LIFE|YEARS OF PATRIARCHAL LIFE]] |
 
 ## Full OCR entry body (exact)
 

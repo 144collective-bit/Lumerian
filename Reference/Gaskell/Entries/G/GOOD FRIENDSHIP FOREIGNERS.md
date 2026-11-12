@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

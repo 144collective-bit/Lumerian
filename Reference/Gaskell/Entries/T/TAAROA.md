@@ -35,9 +35,9 @@ tags:
 | `Cuaos` | **unresolved** (review queue) |
 | `DaRKNEsSs` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `ORO` | **candidate (first-segment only)** → possible `ORO, THE TAHITIAN GOD` (not linked) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
-| `TaANGAROA` | **unresolved** (review queue) |
+| `ORO` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
+| `TaANGAROA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 
 ## Full OCR entry body (exact)
 

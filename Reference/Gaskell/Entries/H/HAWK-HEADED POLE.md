@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoLUMN` | **unresolved** (review queue) |
-| `POLE` | **candidate (first-segment only)** → possible `POLE, UPRIGHT` (not linked) |
+| `POLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] |
 
 ## Full OCR entry body (exact)
 

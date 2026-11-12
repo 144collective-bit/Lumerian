@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUDUMBLA` | **candidate (first-segment only)** → possible `AUDUMBLA, THE COW` (not linked) |
+| `AUDUMBLA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUDUMBLA, THE COW|AUDUMBLA, THE COW]] |
 
 ## Full OCR entry body (exact)
 

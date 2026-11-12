@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
-| `BONES` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
-| `BREASTPLATE` | **unresolved** (review queue) |
-| `DELUGE` | **unresolved** (review queue) |
+| `BONES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `InsIGNia` | **unresolved** (review queue) |
-| `IRON BEATEN` | **unresolved** (review queue) |
+| `IRON BEATEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `MANNA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
 | `MIRROR` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `ReinaA` | **unresolved** (review queue) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `Rock (spiritual)` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `Rock (spiritual)` | resolved (exact) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `SHintalr` | **unresolved** (review queue) |
 | `Sprrit` | **unresolved** (review queue) |
 | `SUBSTANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUBSTANCE|SUBSTANCE]] |

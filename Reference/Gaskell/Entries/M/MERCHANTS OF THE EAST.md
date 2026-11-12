@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `East` | **unresolved** (review queue) |
-| `Hermes` | **unresolved** (review queue) |
-| `MaIsHAN` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `MaIsHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
 
 ## Full OCR entry body (exact)
 

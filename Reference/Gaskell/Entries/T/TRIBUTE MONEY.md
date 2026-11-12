@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Eantu` | **unresolved** (review queue) |
 | `Kina` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `TITHES` | **unresolved** (review queue) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `TITHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITHES TO THE SUPERIOR|TITHES TO THE SUPERIOR]] |
 
 ## Full OCR entry body (exact)
 

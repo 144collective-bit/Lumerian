@@ -37,7 +37,7 @@ tags:
 | `the buddhic function. ‘Brahma formed from his own inmaculate substance a female` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `who «= celebrated under the names of Satarupa Savitri` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Sarasvati` | **unresolved** (review queue) |
-| `Gayatri` | **unresolved** (review queue) |
+| `Gayatri` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GAYATRI VERSE OR METRE|GAYATRI VERSE OR METRE]] |
 | `and Brahmani.”’"—Matsya Purana. ‘*Brahma's wife is Sarasvati` | **unresolved** (review queue) |
 | `the dess of wisdom and science` | **unresolved** (review queue) |
 | `the mother of the Vedas. She is represented with four arms. With one of her righ: hands she is presenting a flower to her husband` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -47,15 +47,15 @@ tags:
 | `Hind» Mythology` | **unresolved** (review queue) |
 | `p. 107. The Atman is allied with th principle of Buddhi` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which bring QUEEN OF SASTRA forth the scriptures. The “four #rms’”’ represent buddhic activities. (1) Production of the higher qualities flor the Self. (2) The inspiration of the scriptures. (3) The passing on of the Divine Life (Sutratma) to the lower planes. (4) The harmonising (music) of the qualities. See ATMAN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BINAH` | **candidate (first-segment only)** → possible `BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING` (not linked) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BINAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `Buppazi` | **unresolved** (review queue) |
 | `F.iowers` | **unresolved** (review queue) |
 | `Hann` | **unresolved** (review queue) |
-| `MAYA (higher)` | **unresolved** (review queue) |
+| `MAYA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `Ocran` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
-| `ScRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
+| `ScRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `SUTRATMA` | **unresolved** (review queue) |
 | `VASISHTHA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASISHTHA|VASISHTHA]] |
 

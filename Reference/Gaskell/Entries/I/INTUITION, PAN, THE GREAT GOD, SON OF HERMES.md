@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Antmats` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `F Locks` | **unresolved** (review queue) |
-| `Goat` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Goat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOAT, MILCH|GOAT, MILCH]]; [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `Hernps` | **unresolved** (review queue) |
-| `Hermes` | **unresolved** (review queue) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `JuBAL` | **unresolved** (review queue) |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `OrpHEUs` | **candidate (first-segment only)** → possible `ORPHEUS, THE DIVINE MUSICIAN` (not linked) |
-| `PAnNIoc TERRORS` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `OrpHEUs` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORPHEUS, THE DIVINE MUSICIAN|ORPHEUS, THE DIVINE MUSICIAN]] |
+| `PAnNIoc TERRORS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANIC TERRORS|PANIC TERRORS]] |
 | `PASTORAL LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PASTORAL LIFE|PASTORAL LIFE]] |
 | `SATYRS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
 

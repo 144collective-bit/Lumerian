@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asvins` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
+| `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `Horse` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 
 ## Full OCR entry body (exact)

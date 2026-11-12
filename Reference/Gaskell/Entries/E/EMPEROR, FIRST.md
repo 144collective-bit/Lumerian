@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Kina (great)` | **unresolved** (review queue) |
-| `Sacrrricer` | **unresolved** (review queue) |
-| `SELF (supreme)` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Sacrrricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 

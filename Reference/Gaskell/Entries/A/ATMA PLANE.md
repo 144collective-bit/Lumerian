@@ -35,11 +35,11 @@ tags:
 | `AUTHER` | **unresolved** (review queue) |
 | `ABSH` | **unresolved** (review queue) |
 | `ATHWYA` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `PRororyPes` | **unresolved** (review queue) |
 | `WOBRLDs (five). ATMAN :-— A symbol of the Supreme. The Logos or Self which enters upon manifestation and indwells in the universe and soul. ‘‘ Brahman = Atman` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `that is` | **unresolved** (review queue) |
-| `Brahman` | **unresolved** (review queue) |
+| `Brahman` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]]; [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS GOLDEN HORSES|BRAHMAN PRIESTS GOLDEN HORSES]] |
 | `the power from which all worlds proceed` | **unresolved** (review queue) |
 | `in which they subsist` | **unresolved** (review queue) |
 | `and into which they finally return; this eternal` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -58,11 +58,11 @@ tags:
 | `X. 6` | **unresolved** (review queue) |
 | `3. See Arc. MAN` | **unresolved** (review queue) |
 | `Brana` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Fia-rrvuit` | **unresolved** (review queue) |
 | `Gov` | **unresolved** (review queue) |
 | `HicHer` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
 | `SEF` | **unresolved** (review queue) |

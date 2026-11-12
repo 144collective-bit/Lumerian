@@ -32,29 +32,29 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARREST` | **unresolved** (review queue) |
+| `ARREST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] |
 | `‘ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `Boat sEKTET` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `DeEvayana` | **unresolved** (review queue) |
 | `Evorurion` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `Invivipuauiry` | **unresolved** (review queue) |
 | `Invo.urion` | **unresolved** (review queue) |
-| `Lunar CYCLE` | **unresolved** (review queue) |
-| `LuNaTic` | **candidate (first-segment only)** → possible `LUNATIC, MIND` (not linked) |
-| `Man BORN` | **unresolved** (review queue) |
+| `Lunar CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
+| `LuNaTic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNATIC, MIND|LUNATIC, MIND]] |
+| `Man BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Monrs` | **unresolved** (review queue) |
-| `Moon (lower)` | **unresolved** (review queue) |
+| `Moon (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Preis` | **unresolved** (review queue) |
 | `PYIvTRIvANA` | **unresolved** (review queue) |
 | `Rounpn` | **unresolved** (review queue) |
 | `SUN-CATCHING` | **unresolved** (review queue) |
-| `Urns` | **candidate (first-segment only)** → possible `URNS, THE TWELVE` (not linked) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
+| `Urns` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

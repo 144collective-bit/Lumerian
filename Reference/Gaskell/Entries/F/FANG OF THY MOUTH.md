@@ -37,7 +37,7 @@ tags:
 | `Mourn` | **unresolved** (review queue) |
 | `Poots OF GODDESS` | **unresolved** (review queue) |
 | `SwoRD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
-| `TEETH` | **unresolved** (review queue) |
+| `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TUSK` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
 
 ## Full OCR entry body (exact)

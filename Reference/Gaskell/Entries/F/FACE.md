@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `COUNTENANCE` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
-| `SWEAT` | **unresolved** (review queue) |
+| `COUNTENANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]]; [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] |
+| `SWEAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEAT OF THE FACE|SWEAT OF THE FACE]] |
 
 ## Full OCR entry body (exact)
 

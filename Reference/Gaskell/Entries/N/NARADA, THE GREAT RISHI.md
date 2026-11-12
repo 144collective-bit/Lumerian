@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hermes` | **unresolved** (review queue) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `Neso` | **unresolved** (review queue) |
 | `Toor` | **unresolved** (review queue) |
 | `THOTH. NARAYANA` | **unresolved** (review queue) |

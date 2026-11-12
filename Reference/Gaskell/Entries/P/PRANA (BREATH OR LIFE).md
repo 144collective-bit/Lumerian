@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apirya` | **unresolved** (review queue) |
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `Arr` | **unresolved** (review queue) |
-| `AMITAUGAS` | **unresolved** (review queue) |
-| `ATomMs (perm.)` | **unresolved** (review queue) |
+| `AMITAUGAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMITAUGAS COUCH (ENDLESS SPLENDOUR)|AMITAUGAS COUCH (ENDLESS SPLENDOUR)]] |
+| `ATomMs (perm.)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `Ear` | **unresolved** (review queue) |
-| `Eye` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
+| `Ear` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EAR EAR, OR HEARING|EAR EAR, OR HEARING]] |
+| `Eye` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
 | `Gops` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `LIisEration` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Moon` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `SPEECH` | **unresolved** (review queue) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `VAYU` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `VAYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 
 ## Full OCR entry body (exact)
 

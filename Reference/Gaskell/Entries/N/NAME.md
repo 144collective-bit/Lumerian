@@ -40,15 +40,15 @@ tags:
 | `the all of religion....In heaven no other names are given but what involve the quality of anyone.’’—SwEDENBORG` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Apoc. Rev.` | **unresolved** (review queue) |
 | `n. 81. See Boat ON RIVER` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `Creation` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `Creation` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Horp` | **unresolved** (review queue) |
 | `Luss` | **unresolved** (review queue) |
 | `MemMBers` | **unresolved** (review queue) |
-| `Nu` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
+| `Nu` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NU, THE GOD|NU, THE GOD]] |
 | `Quatitres` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `Ren` | **candidate (first-segment only)** → possible `REN, OR NAME` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `Ren` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
 | `Trrans` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

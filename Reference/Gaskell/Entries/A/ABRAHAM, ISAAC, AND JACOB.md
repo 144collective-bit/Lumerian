@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `HanvsEs` | **unresolved** (review queue) |
 | `(gnashing)` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

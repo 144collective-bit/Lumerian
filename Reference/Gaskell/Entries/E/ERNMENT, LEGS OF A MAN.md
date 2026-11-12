@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `KNEE` | **candidate (first-segment only)** → possible `KNEE, KNEELING` (not linked) |
+| `KNEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KNEE, KNEELING|KNEE, KNEELING]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `STRIDES` | **unresolved** (review queue) |
+| `STRIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
 
 ## Full OCR entry body (exact)
 

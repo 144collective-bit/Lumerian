@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GIVING cup` | **unresolved** (review queue) |
-| `HyLas` | **candidate (first-segment only)** → possible `HYLAS, AN ARGONAUT` (not linked) |
-| `VESSEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `HyLas` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
+| `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 
 ## Full OCR entry body (exact)
 

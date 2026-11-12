@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `CHBYSES` | **unresolved** (review queue) |
-| `SMINTHEUS` | **unresolved** (review queue) |
+| `SMINTHEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SMINTHIUS|SMINTHIUS]] |
 
 ## Full OCR entry body (exact)
 

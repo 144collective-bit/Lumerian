@@ -35,11 +35,11 @@ tags:
 | `CLOUD` | **unresolved** (review queue) |
 | `EARTH (MOTHER)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Foon` | **unresolved** (review queue) |
-| `RAIN` | **unresolved** (review queue) |
+| `RAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `Roorep` | **unresolved** (review queue) |
 | `Sap` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `SPOTTED` | **unresolved** (review queue) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
 
 ## Full OCR entry body (exact)
 

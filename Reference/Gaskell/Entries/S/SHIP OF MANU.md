@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Antu` | **unresolved** (review queue) |
-| `ARK (Noah)` | **unresolved** (review queue) |
+| `ARK (Noah)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `CausatBODY` | **unresolved** (review queue) |
 | `Detucz` | **unresolved** (review queue) |
-| `DWELLING` | **unresolved** (review queue) |
+| `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
 | `DwELLinas` | **unresolved** (review queue) |
-| `FisH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
-| `Horn` | **unresolved** (review queue) |
-| `Lake` | **unresolved** (review queue) |
+| `FisH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
+| `Horn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
+| `Lake` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAKE OF WATER|LAKE OF WATER]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
-| `MOORING Post` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `MOORING Post` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOORING POST FOR SHIP|MOORING POST FOR SHIP]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `POOL OF PEACE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOL OF PEACE|POOL OF PEACE]] |
-| `RISHES` | **unresolved** (review queue) |
+| `RISHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RISHES OR SAINTS|RISHES OR SAINTS]]; [[Reference/Gaskell/Entries/R/RISHES OR SEVEN|RISHES OR SEVEN]] |
 | `ROOT-RACES` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
-| `SEEDS OF MEN` | **candidate (first-segment only)** → possible `SEEDS OF MEN, WOMEN AND CATTLE` (not linked) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `VAIVASVATA` | **unresolved** (review queue) |
+| `SEEDS OF MEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEEDS OF MEN, WOMEN AND CATTLE|SEEDS OF MEN, WOMEN AND CATTLE]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 
 ## Full OCR entry body (exact)
 

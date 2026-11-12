@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HepHarstros` | **unresolved** (review queue) |
+| `HepHarstros` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

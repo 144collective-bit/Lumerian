@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ament` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
-| `Cuest` | **unresolved** (review queue) |
+| `Ament` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
+| `Cuest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
 | `Isis` | **unresolved** (review queue) |
 | `Norte LAND` | **unresolved** (review queue) |
-| `Nusia` | **unresolved** (review queue) |
-| `SoutH` | **unresolved** (review queue) |
-| `SouTH LAND` | **candidate (first-segment only)** → possible `SOUTH LAND, AND NORTH LAND OF EGYPT` (not linked) |
-| `THOTH` | **unresolved** (review queue) |
+| `Nusia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NUBIA|NUBIA]] |
+| `SoutH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]]; [[Reference/Gaskell/Entries/S/SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA|SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA]]; [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
+| `SouTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atons (twelve)` | **unresolved** (review queue) |
-| `ANTHROPOS` | **unresolved** (review queue) |
-| `Arconauts` | **unresolved** (review queue) |
-| `Dance (circle)` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `Atons (twelve)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
+| `ANTHROPOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] |
+| `Arconauts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
+| `Dance (circle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] |
 | `Dz1sctPLES` | **unresolved** (review queue) |
 | `FrEEepmna (5` | **unresolved** (review queue) |
 | `000)` | **unresolved** (review queue) |
 | `HERosgs` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `Saviours (twelve)` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
-| `SPaRRows (twelve)` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
-| `TriBEs (twelve)` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `Saviours (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `SPaRRows (twelve)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+| `TriBEs (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

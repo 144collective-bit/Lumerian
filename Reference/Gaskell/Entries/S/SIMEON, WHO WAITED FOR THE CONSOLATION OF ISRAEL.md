@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANNA` | **candidate (first-segment only)** → possible `ANNA, THE PROPHETESS` (not linked) |
-| `ASITA` | **candidate (first-segment only)** → possible `ASITA, THE SAGE` (not linked) |
+| `ANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANNA, THE PROPHETESS|ANNA, THE PROPHETESS]] |
+| `ASITA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
-| `IsRaELITeEs` | **unresolved** (review queue) |
+| `IsRaELITeEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `S1en` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

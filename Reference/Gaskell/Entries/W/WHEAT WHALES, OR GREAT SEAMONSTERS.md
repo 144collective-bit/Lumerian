@@ -36,9 +36,9 @@ tags:
 | `EARTH (specialised)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Jos` | **unresolved** (review queue) |
 | `MonsTEerRs` | **unresolved** (review queue) |
-| `PRISONERS` | **unresolved** (review queue) |
+| `PRISONERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WAVES` | **unresolved** (review queue) |
+| `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 
 ## Full OCR entry body (exact)
 

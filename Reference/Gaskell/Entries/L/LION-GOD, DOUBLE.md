@@ -36,18 +36,18 @@ tags:
 | `Buro` | **unresolved** (review queue) |
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
 | `EvotvTron` | **unresolved** (review queue) |
-| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `Horizons` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `Invoturion` | **unresolved** (review queue) |
 | `Musvusr` | **unresolved** (review queue) |
 | `Nou` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Sexuet-aakvu` | **unresolved** (review queue) |
-| `SHu (double)` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `SHu (double)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SHU DOUBLE|SHU DOUBLE]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Sun-risivna` | **unresolved** (review queue) |
 | `Tem` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

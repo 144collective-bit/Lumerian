@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `KAIOMARTS` | **unresolved** (review queue) |
+| `KAIOMARTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KAIOMARTS KAIOMARTS OR GAYOMARD|KAIOMARTS KAIOMARTS OR GAYOMARD]] |
 
 ## Full OCR entry body (exact)
 

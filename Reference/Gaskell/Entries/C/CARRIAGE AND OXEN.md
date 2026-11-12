@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ox` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
-| `OXEN` | **candidate (first-segment only)** → possible `OXEN, OFFSPRING OF` (not linked) |
+| `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+| `OXEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OXEN, OFFSPRING OF|OXEN, OFFSPRING OF]] |
 
 ## Full OCR entry body (exact)
 

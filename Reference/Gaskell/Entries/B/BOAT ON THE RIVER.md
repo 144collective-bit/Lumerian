@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-rRA` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
-| `ARK` | **unresolved** (review queue) |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
 | `CHARON’S FERRY` | **unresolved** (review queue) |
-| `HIKOBOSHI` | **candidate (first-segment only)** → possible `HIKOBOSHI, A STAR-GOD` (not linked) |
+| `HIKOBOSHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
 | `Ho.p` | **unresolved** (review queue) |
-| `KEEL` | **unresolved** (review queue) |
-| `Oars` | **unresolved** (review queue) |
-| `PADDLES` | **candidate (first-segment only)** → possible `PADDLES, TWO` (not linked) |
-| `PLANKS` | **unresolved** (review queue) |
+| `KEEL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KEEL OF BOAT|KEEL OF BOAT]] |
+| `Oars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OARS OF THE BOAT|OARS OF THE BOAT]] |
+| `PADDLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PADDLES, TWO|PADDLES, TWO]] |
+| `PLANKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANKS OF THE BOAT|PLANKS OF THE BOAT]] |
 | `Rock-Bo0at` | **unresolved** (review queue) |
 | `Rope` | **unresolved** (review queue) |
 | `Rupper` | **unresolved** (review queue) |
 | `Sar` | **unresolved** (review queue) |
 | `Sartor` | **unresolved** (review queue) |
 | `Sup` | **unresolved** (review queue) |
-| `Sures (beaked). BOAT SEKTET` | **unresolved** (review queue) |
+| `Sures (beaked). BOAT SEKTET` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 | `AND BOAT ATET ; —` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

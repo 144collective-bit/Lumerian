@@ -35,7 +35,7 @@ tags:
 | `Crown` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `LrsEraTION` | **unresolved** (review queue) |
-| `VaRA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `VaRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `VICTORY. 178` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

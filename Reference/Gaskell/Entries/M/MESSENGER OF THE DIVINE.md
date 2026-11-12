@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABODE` | **candidate (first-segment only)** → possible `ABODE, HOUSE, DWELLING` (not linked) |
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `ABODE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ABODE, HOUSE, DWELLING|ABODE, HOUSE, DWELLING]]; [[Reference/Gaskell/Entries/A/ABODE OF CATTLE|ABODE OF CATTLE]] |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CONScIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `HErieuzs` | **unresolved** (review queue) |
 | `SEs` | **unresolved** (review queue) |
 | `Szrvanrs` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `Tue` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

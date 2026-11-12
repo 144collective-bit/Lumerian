@@ -34,18 +34,18 @@ tags:
 |---|---|
 | `Asrra` | **unresolved** (review queue) |
 | `AVALOKITESVARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AVALOKITESVARA|AVALOKITESVARA]] |
-| `BopHISATVA` | **unresolved** (review queue) |
+| `BopHISATVA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `BuppHA` | **unresolved** (review queue) |
 | `DARENESS` | **unresolved** (review queue) |
 | `DESTROYING EVILS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DESTROYING EVILS|DESTROYING EVILS]] |
-| `GARDEN (lumbini)` | **unresolved** (review queue) |
-| `HEAVENLY VOICE` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `GARDEN (lumbini)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]] |
+| `HEAVENLY VOICE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEAVENLY VOICE IN PATH|HEAVENLY VOICE IN PATH]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `\Lion-carr` | **unresolved** (review queue) |
 | `Matrer` | **unresolved** (review queue) |
-| `MAya (higher)` | **unresolved** (review queue) |
-| `Net (golden)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `MAya (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
+| `Net (golden)` | resolved (exact) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]] |
 | `Vrain` | **unresolved** (review queue) |
 | `Water (heaven)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `Woms` | **unresolved** (review queue) |

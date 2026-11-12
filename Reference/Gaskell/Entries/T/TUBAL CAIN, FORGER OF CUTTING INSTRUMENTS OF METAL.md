@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Brass` | **candidate (first-segment only)** → possible `BRASS, BRONZE, METAL` (not linked) |
+| `Brass` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `Currmna` | **unresolved** (review queue) |
 | `METALS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
-| `NAAMAH` | **candidate (first-segment only)** → possible `NAAMAH, THE SISTER OF TUBAL CAIN` (not linked) |
+| `NAAMAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NAAMAH, THE SISTER OF TUBAL CAIN|NAAMAH, THE SISTER OF TUBAL CAIN]] |
 
 ## Full OCR entry body (exact)
 

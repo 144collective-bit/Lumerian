@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
 | `ASON` | **unresolved** (review queue) |
-| `BIRTH OF gEsus` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CONCEPTION (immaculate)` | **unresolved** (review queue) |
+| `BIRTH OF gEsus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CONCEPTION (immaculate)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `GARMENT OF SHAME` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]] |
-| `GATE (higher)` | **unresolved** (review queue) |
-| `HoLy GuHost` | **unresolved** (review queue) |
+| `GATE (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]] |
+| `HoLy GuHost` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `HovusE OF Gop` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MULTITUDES` | **unresolved** (review queue) |
+| `MULTITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULTITUDES HEALED|MULTITUDES HEALED]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `SPrRit` | **unresolved** (review queue) |
 | `WomAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

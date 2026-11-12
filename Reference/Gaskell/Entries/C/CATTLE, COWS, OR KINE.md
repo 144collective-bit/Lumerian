@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABODE` | **candidate (first-segment only)** → possible `ABODE, HOUSE, DWELLING` (not linked) |
+| `ABODE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ABODE, HOUSE, DWELLING|ABODE, HOUSE, DWELLING]]; [[Reference/Gaskell/Entries/A/ABODE OF CATTLE|ABODE OF CATTLE]] |
 | `Beasts (clean)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
 | `Foon` | **unresolved** (review queue) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `YIMA. CATTLE FREE FROM DEATH -— A symbol of those high emotions that persist through time` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `having in them the Divine life of atma-buddhi. See DEATH` | **unresolved** (prose-bleed / overlong token; not linked) |

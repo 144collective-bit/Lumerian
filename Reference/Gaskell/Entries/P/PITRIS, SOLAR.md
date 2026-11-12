@@ -33,24 +33,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGNISHVATTAS` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `MANASAPUTras` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `MANASAPUTras` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `Manes` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANES|MANES]] |
 | `Marvuts` | **unresolved** (review queue) |
-| `Martro` | **unresolved** (review queue) |
+| `Martro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `MonapD oF LIFE` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
-| `MUSPELL (sons)` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MUSPELL (sons)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `PACCEKA-BUDDHAS` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RULERS OF MATTER` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]] |
-| `SONS OF Gop` | **unresolved** (review queue) |
+| `SONS OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARKS` | **unresolved** (review queue) |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

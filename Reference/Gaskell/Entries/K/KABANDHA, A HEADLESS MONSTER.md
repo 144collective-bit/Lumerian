@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BOTTOMLESS PIT` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOTTOMLESS PIT|BOTTOMLESS PIT]] |
-| `CREMATION` | **unresolved** (review queue) |
-| `DEVOURER` | **unresolved** (review queue) |
-| `FUNERAL PILES` | **unresolved** (review queue) |
+| `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
+| `DEVOURER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEVOURER OF CREATURES|DEVOURER OF CREATURES]] |
+| `FUNERAL PILES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] |
 | `KIxine` | **unresolved** (review queue) |
 | `LAKSHMANA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAKSHMANA|LAKSHMANA]] |
 | `MonstTErss` | **unresolved** (review queue) |
@@ -60,13 +60,13 @@ tags:
 | `and the scattering of the qualities or ‘‘ members ”’ in the souls of mankind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `now commencing their evolution. In this case the Divine Will (Izanagi) is represented as dismembering the completely involved Self` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `producing thereby the qualities (deities) which war within the mind and soul. See Arc. MAN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `IxvoLUTION` | **unresolved** (review queue) |
 | `Izanaci` | **unresolved** (review queue) |
-| `MusvuBI` | **unresolved** (review queue) |
+| `MusvuBI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSUBI, THE GOD OF GROWTH|MUSUBI, THE GOD OF GROWTH]] |
 
 ## Full OCR entry body (exact)
 

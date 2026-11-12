@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Consciousness (vinnana)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `EvoLUTION` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Mrxp` | **unresolved** (review queue) |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `Barsom` | **unresolved** (review queue) |
 | `FIRE Priests` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE-PRIESTS|FIRE-PRIESTS]] |
 | `HiaH PRIEST` | **unresolved** (review queue) |
-| `HOTRI` | **unresolved** (review queue) |
+| `HOTRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOTRI PRIEST (SPEECH)|HOTRI PRIEST (SPEECH)]] |
 
 ## Full OCR entry body (exact)
 

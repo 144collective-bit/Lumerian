@@ -34,37 +34,37 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `AETHER` | **unresolved** (review queue) |
-| `ARENA` | **unresolved** (review queue) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CaUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `FIVE` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
-| `GATHA Days (five)` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `FIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
+| `GATHA Days (five)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
-| `IMAGE` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
-| `MIcCROCOsM` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
+| `MIcCROCOsM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Mownaps` | **unresolved** (review queue) |
 | `Pianes (five)` | **unresolved** (review queue) |
-| `PRaAGAPATI` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PRaAGAPATI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `REINGA` | **unresolved** (review queue) |
 | `Routers (five)` | **unresolved** (review queue) |
-| `Samsdra` | **unresolved** (review queue) |
+| `Samsdra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
 | `SEASONS (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `SIMILITUDEs` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `SIMILITUDEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `TARTARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
-| `TuHiEvEs (five)` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `TuHiEvEs (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]] |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 
 ## Full OCR entry body (exact)

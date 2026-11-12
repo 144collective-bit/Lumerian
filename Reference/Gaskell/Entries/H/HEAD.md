@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
-| `ENEMIES` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
+| `ENEMIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `FOREHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOREHEAD|FOREHEAD]] |
-| `Foxes` | **unresolved** (review queue) |
-| `GARMENTS` | **unresolved** (review queue) |
+| `Foxes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOXES HAVE HOLES|FOXES HAVE HOLES]] |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `On` | **unresolved** (review queue) |
 | `OINTMENT. WHITE. that` | **unresolved** (review queue) |
 

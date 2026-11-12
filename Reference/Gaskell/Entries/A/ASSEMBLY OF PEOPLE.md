@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATTRAOTION` | **unresolved** (review queue) |
-| `City` | **candidate (first-segment only)** → possible `CITY, HOLY` (not linked) |
+| `City` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] |
 | `NINE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NINE DAYS|NINE DAYS]] |
 | `ProrLE` | **unresolved** (review queue) |
 | `Pircems (shrine)` | **unresolved** (review queue) |

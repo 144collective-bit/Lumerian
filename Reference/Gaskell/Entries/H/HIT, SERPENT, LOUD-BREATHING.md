@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `Consciousness` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `Ecyrr` | **unresolved** (review queue) |
-| `ExPERIENCE` | **unresolved** (review queue) |
+| `ExPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `Fait` | **unresolved** (review queue) |
-| `GNosis` | **unresolved** (review queue) |
-| `LETTER` | **unresolved** (review queue) |
-| `MAISHAN` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
-| `PEARL` | **unresolved** (review queue) |
+| `GNosis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
+| `MAISHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `PrRopIGAL` | **unresolved** (review queue) |
 | `Rose` | **unresolved** (review queue) |
-| `SEALED LETTER` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

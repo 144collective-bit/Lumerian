@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `Dorista` | **unresolved** (review queue) |
-| `DRUPADA` | **candidate (first-segment only)** → possible `DRUPADA, KING` (not linked) |
+| `DRUPADA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DRUPADA, KING|DRUPADA, KING]] |
 | `LaksHMI` | **unresolved** (review queue) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `PANDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
 | `PERFumes` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
-| `ScenT (sweet)` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `ScenT (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 
 ## Full OCR entry body (exact)
 

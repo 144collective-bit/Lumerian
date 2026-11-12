@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CLEOPATRA` | **candidate (first-segment only)** → possible `CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE` (not linked) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
-| `ZETES` | **unresolved** (review queue) |
+| `CLEOPATRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE|CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+| `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
 
 ## Full OCR entry body (exact)
 

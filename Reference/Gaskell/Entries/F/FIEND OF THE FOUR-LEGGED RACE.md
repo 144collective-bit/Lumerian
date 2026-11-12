@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
-| `BEAST` | **unresolved** (review queue) |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
+| `BEAST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 
 ## Full OCR entry body (exact)
 

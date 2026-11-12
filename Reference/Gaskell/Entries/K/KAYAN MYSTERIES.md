@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAS` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `AMBAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 
 ## Full OCR entry body (exact)
 

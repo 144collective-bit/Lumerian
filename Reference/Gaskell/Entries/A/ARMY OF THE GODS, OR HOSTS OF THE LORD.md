@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hosts` | **candidate (first-segment only)** → possible `HOSTS, LORD OF` (not linked) |
+| `Hosts` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] |
 | `Souprers` | **unresolved** (review queue) |
-| `WARRIORS` | **candidate (first-segment only)** → possible `WARRIORS, TWIN` (not linked) |
+| `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

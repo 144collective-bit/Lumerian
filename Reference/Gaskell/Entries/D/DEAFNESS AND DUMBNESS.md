@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Gut oF TONGUES` | **unresolved** (review queue) |
+| `Gut oF TONGUES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIFT OF TONGUES|GIFT OF TONGUES]] |
 | `HzaLInc` | **unresolved** (review queue) |
 | `SIGHT` | **unresolved** (review queue) |
 

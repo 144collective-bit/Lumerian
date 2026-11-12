@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Catrie` | **unresolved** (review queue) |
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `CLoup` | **unresolved** (review queue) |
 | `Exopvs` | **unresolved** (review queue) |
 | `| HousE OF BONDAGE` | **unresolved** (review queue) |
 | `MANNA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
-| `MELCHIZEDEC` | **unresolved** (review queue) |
+| `MELCHIZEDEC` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `Mosrs` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `Sra` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

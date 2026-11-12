@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `AIN-SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `ATMAN` | **unresolved** (review queue) |
 | `CROWN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
-| `HoOKHMAH` | **unresolved** (review queue) |
+| `HoOKHMAH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOKHMAH, THE WORD, OR WISDOM (MASCULINE)|HOKHMAH, THE WORD, OR WISDOM (MASCULINE)]] |
 | `Monap` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `TAE-KEIH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

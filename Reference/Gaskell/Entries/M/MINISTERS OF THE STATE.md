@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CrviLisinG` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `Pruuars (four)` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `WORLDS (five). MINOS` | **unresolved** (review queue) |
+| `WORLDS (five). MINOS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `#` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

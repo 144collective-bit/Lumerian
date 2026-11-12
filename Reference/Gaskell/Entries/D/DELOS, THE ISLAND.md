@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `ARTEMIS` | **candidate (first-segment only)** → possible `ARTEMIS, THE GODDESS` (not linked) |
-| `CHEMMIS` | **unresolved** (review queue) |
-| `Deer` | **candidate (first-segment only)** → possible `DEER, THAT SPRING` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `ARTEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARTEMIS, THE GODDESS|ARTEMIS, THE GODDESS]] |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
+| `Deer` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEER, THAT SPRING|DEER, THAT SPRING]] |
 | `Izanaci` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
 | `Manco` | **unresolved** (review queue) |
 | `OnoGcorogma` | **unresolved** (review queue) |
-| `POSEIDON` | **unresolved** (review queue) |
+| `POSEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
 
 ## Full OCR entry body (exact)

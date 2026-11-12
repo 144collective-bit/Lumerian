@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Harmony` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `Hymn` | **unresolved** (review queue) |
-| `Musio` | **unresolved** (review queue) |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
+| `Musio` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `OrpHrvus` | **unresolved** (review queue) |
 | `Srverrs` | **unresolved** (review queue) |
 | `Sone. MEMBERS OF BODY (DIVINE) -— A symbol of the more or less disciplined qualities of the soul which have originally proceeded from the segregation (dismemberment) of the qualities of the slain Archetypal Man` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -104,7 +104,7 @@ tags:
 | `L. IX. Enn. i. 83` | **unresolved** (review queue) |
 | `89). ‘‘ For the smoke from the ashes of the Titans ‘ became matter` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `’ we are told.’’—G. R. 8. Mean` | **unresolved** (review queue) |
-| `Orpheus` | **candidate (first-segment only)** → possible `ORPHEUS, THE DIVINE MUSICIAN` (not linked) |
+| `Orpheus` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORPHEUS, THE DIVINE MUSICIAN|ORPHEUS, THE DIVINE MUSICIAN]] |
 | `p. 182. Human beings (men) possess within themselves the primal constituent qualities and elements of manifestation (the Titans)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which had been rendered actual through the change to heterogeneity of the Archetypal Man. So that human natyre is partly spiritual and partly natural of the lower planes : for it has the qualities (members) of the Divine nature (Dionysus)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the qualities of the lower nature (matter). **The Manicheans could employ the pegan fables as a drapery for their ideas. us the boy Dionysus torn in pieces by the Titans` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -131,37 +131,37 @@ tags:
 | `Vol. Il. p. 52. The Higher Self` | **unresolved** (review queue) |
 | `on the buddhic plane` | **unresolved** (review queue) |
 | `undertakes to raise the qualities (limbs) and re-form Divinity in humanity. The causal-body (heart) is established potentially in the higher mind. It is gradually evolved and perfected so as to be a vehicle (house) of the eternal Spirit in the immortal soul. See Aru-RA` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BonrEs` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
-| `CRUCIFIXION (gnostic)` | **unresolved** (review queue) |
+| `BonrEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `CRUCIFIXION (gnostic)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `DWarrF` | **unresolved** (review queue) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `DWarrF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DWARF|DWARF]] |
 | `Gops` | **unresolved** (review queue) |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `HovseE` | **unresolved** (review queue) |
-| `-IncarnaTion` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `-IncarnaTion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INvo.Lurion` | **unresolved** (review queue) |
-| `LIGuHT` | **unresolved** (review queue) |
+| `LIGuHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `Lrass` | **unresolved** (review queue) |
 | `Mrractes` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `PraciPATI` | **unresolved** (review queue) |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
 | `PuRUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `SHRINE` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `Trrans` | **unresolved** (review queue) |
-| `TONGUE` | **candidate (first-segment only)** → possible `TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS` (not linked) |
+| `TONGUE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
 | `Y™MIR` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 
 ## Full OCR entry body (exact)
 

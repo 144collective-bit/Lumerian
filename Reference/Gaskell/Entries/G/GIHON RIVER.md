@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
 | `CusH` | **unresolved** (review queue) |
-| `EDEN RIVER` | **unresolved** (review queue) |
+| `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (higher)` | **unresolved** (review queue) |
-| `BripGE (kinvat)` | **unresolved** (review queue) |
+| `BripGE (kinvat)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRIDGE, KINVAT, OR CHINVAT|BRIDGE, KINVAT, OR CHINVAT]] |
 | `Buppui` | **unresolved** (review queue) |
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
 | `HrxososaHi` | **unresolved** (review queue) |
 | `Lams` | **unresolved** (review queue) |
 | `Law OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `LOVER (maiden)` | **unresolved** (review queue) |
+| `LOVER (maiden)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOVER OF GOOD WORKS WHO IS GOD-DISCERNING|LOVER OF GOOD WORKS WHO IS GOD-DISCERNING]]; [[Reference/Gaskell/Entries/L/LOVER OF THE HEAVENLY MAIDEN|LOVER OF THE HEAVENLY MAIDEN]] |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `RELIGION (good)` | **unresolved** (review queue) |
 | `RrsuRRECTION` | **unresolved** (review queue) |
-| `Scent` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `Scent` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 | `Sout (middle)` | **unresolved** (review queue) |
 | `Wispom` | **unresolved** (review queue) |
 

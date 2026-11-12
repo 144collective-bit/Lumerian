@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BripcE (kinvat)` | **unresolved** (review queue) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `Horse (black)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Mrrro` | **unresolved** (review queue) |
 | `RasHnv. BALANCE IN THE ‘‘ WEIGHING OF THE HEART ”` | **unresolved** (prose-bleed / overlong token; not linked) |

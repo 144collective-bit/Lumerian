@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Isis` | **unresolved** (review queue) |
-| `SEPULCHRES` | **candidate (first-segment only)** → possible `SEPULCHRES, OR TOMBS` (not linked) |
-| `TONGUE` | **candidate (first-segment only)** → possible `TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS` (not linked) |
+| `SEPULCHRES` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `TONGUE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

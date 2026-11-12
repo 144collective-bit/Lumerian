@@ -40,11 +40,11 @@ tags:
 | `Mas` | **unresolved** (review queue) |
 | `PILiar (temple)` | **unresolved** (review queue) |
 | `SatvaTion` | **unresolved** (review queue) |
-| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
+| `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
 | `StrirFE` | **unresolved** (review queue) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

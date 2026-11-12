@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `CasTEs` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CasTEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CROWN (Egypt)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Crown (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Eayrr` | **unresolved** (review queue) |
 | `Kaus (lower)` | **unresolved** (review queue) |
-| `MENAT` | **unresolved** (review queue) |
+| `MENAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MENAT SIGN OR AMULET|MENAT SIGN OR AMULET]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `UTCHAT` | **unresolved** (review queue) |
+| `UTCHAT` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UTCHATS,-THE TWO EYES OF HORUS|UTCHATS,—THE TWO EYES OF HORUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHEMOGHA` | **candidate (first-segment only)** → possible `ASHEMOGHA, THE UNGODLY` (not linked) |
-| `ASTOVIDAD` | **candidate (first-segment only)** → possible `ASTOVIDAD, HOTU` (not linked) |
+| `ASHEMOGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] |
+| `ASTOVIDAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASTOVIDAD, HOTU|ASTOVIDAD, HOTU]] |
 | `MratT` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 

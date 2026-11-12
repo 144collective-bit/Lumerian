@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMARAVATI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
-| `MOUNTAIN` | **unresolved** (review queue) |
-| `YATIS` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `YATIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YATIS PEOPLE|YATIS PEOPLE]] |
 
 ## Full OCR entry body (exact)
 

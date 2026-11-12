@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `DANAANS` | **unresolved** (review queue) |
+| `DANAANS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DANAANS (GREEKS)|DANAANS (GREEKS)]] |
 | `GREECE` | **unresolved** (review queue) |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `HoLLow sHIPs` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOLLOW SHIPS|HOLLOW SHIPS]] |
 | `INCARNATION OF souLs` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `KatcHas` | **unresolved** (review queue) |
+| `KatcHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KALCHAS, OR CALCHAS, SON OF THESTOR|KALCHAS, OR CALCHAS, SON OF THESTOR]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Priam` | **unresolved** (review queue) |
+| `Priam` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
 | `Prororyres` | **unresolved** (review queue) |
-| `Spark` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `TAvRT` | **unresolved** (review queue) |
-| `Yama` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `TAvRT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO|TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO]] |
+| `Yama` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 | `YUDHI` | **unresolved** (review queue) |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 

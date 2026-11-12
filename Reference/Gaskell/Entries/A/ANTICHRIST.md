@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `COUNTERFEIT` | **unresolved** (review queue) |
-| `DeviL` | **candidate (first-segment only)** → possible `DEVIL, THE ADVERSARY` (not linked) |
-| `HEROD` | **unresolved** (review queue) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `COUNTERFEIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTERFEIT OF THE SPIRIT|COUNTERFEIT OF THE SPIRIT]] |
+| `DeviL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
+| `HEROD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 
 ## Full OCR entry body (exact)

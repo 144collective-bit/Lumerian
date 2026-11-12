@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
-| `CHILDREN OF Geop` | **unresolved** (review queue) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `CHILDREN OF Geop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] |
 | `Evo.vurion` | **unresolved** (review queue) |
-| `Hiruxo` | **unresolved** (review queue) |
+| `Hiruxo` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRUKO (LEECH-CHILD)|HIRUKO (LEECH-CHILD)]] |
 | `LUNAR CHAIN AND CYCLE` | **unresolved** (review queue) |
 | `MAN (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `ManaSAPUTRA` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `ManaSAPUTRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `MOON-WAXING` | **unresolved** (review queue) |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
+| `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
 | `Prrrais (lunar)` | **unresolved** (review queue) |
-| `PiTRryaNna` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
-| `Roorraces` | **unresolved** (review queue) |
+| `PiTRryaNna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `Roorraces` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounp` | **unresolved** (review queue) |
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 | `Sout (middle and lower)` | **unresolved** (review queue) |

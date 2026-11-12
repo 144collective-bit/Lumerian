@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Fouat` | **unresolved** (review queue) |
+| `Fouat` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOHAT, OR WORLD OF AGNI|FOHAT, OR WORLD OF AGNI]] |
 | `Manxrvors` | **unresolved** (review queue) |
-| `THUNDER` | **unresolved** (review queue) |
+| `THUNDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THUNDER OF GOD OR HEAVEN|THUNDER OF GOD OR HEAVEN]] |
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `UppER` | **unresolved** (review queue) |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |

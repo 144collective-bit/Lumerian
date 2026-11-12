@@ -35,8 +35,8 @@ tags:
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 
 ## Full OCR entry body (exact)
 

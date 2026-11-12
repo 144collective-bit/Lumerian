@@ -33,32 +33,32 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `Brasrs (three sorts)` | **unresolved** (review queue) |
+| `Brasrs (three sorts)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `Dynasties` | **unresolved** (review queue) |
 | `Fart` | **unresolved** (review queue) |
-| `Five` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `Five` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
-| `HELEN` | **unresolved** (review queue) |
-| `HeERoEs` | **unresolved** (review queue) |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
+| `HeERoEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `Inon aGeE` | **unresolved** (review queue) |
+| `Inon aGeE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]] |
 | `Isis` | **unresolved** (review queue) |
 | `Marurs` | **unresolved** (review queue) |
 | `METAtL` | **unresolved** (review queue) |
 | `MonaD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `Ox` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
+| `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris` | **unresolved** (review queue) |
-| `Pirrryana` | **unresolved** (review queue) |
-| `Pyius` | **unresolved** (review queue) |
+| `Pirrryana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+| `Pyius` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] |
 | `Raawa` | **unresolved** (review queue) |
-| `RESPECTFUL` | **unresolved** (review queue) |
-| `RootT-RACES` | **unresolved** (review queue) |
+| `RESPECTFUL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESPECTFUL MANNERS|RESPECTFUL MANNERS]] |
+| `RootT-RACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `ROovunpD` | **unresolved** (review queue) |
-| `SpaRK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SpaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `VinGmIn` | **unresolved** (review queue) |
-| `Virco` | **unresolved** (review queue) |
+| `Virco` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VIRGO, THE ZODIACAL SIGN|VIRGO, THE ZODIACAL SIGN]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 

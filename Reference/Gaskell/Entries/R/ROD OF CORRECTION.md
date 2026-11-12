@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BIRTH OF MAN CHILD` | **unresolved** (review queue) |
-| `IRON` | **unresolved** (review queue) |
-| `RULE` | **unresolved** (review queue) |
+| `IRON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `RULE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RULE NATIONS WITH A ROD OF IRON|RULE NATIONS WITH A ROD OF IRON]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boppui` | **unresolved** (review queue) |
-| `Goat` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
-| `Stars` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `Goat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOAT, MILCH|GOAT, MILCH]]; [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
+| `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

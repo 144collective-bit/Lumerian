@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `Noaw` | **unresolved** (review queue) |
 | `SIMENvus` | **unresolved** (review queue) |
-| `SoOMA-JUICE` | **unresolved** (review queue) |
+| `SoOMA-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

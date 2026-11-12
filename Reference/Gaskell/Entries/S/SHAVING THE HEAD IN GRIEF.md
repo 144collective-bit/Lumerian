@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AnconauTs` | **unresolved** (review queue) |
-| `Cyzicus` | **candidate (first-segment only)** → possible `CYZICUS, KING DOLIONES` (not linked) |
-| `DarKNEsS` | **unresolved** (review queue) |
-| `DEaD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
+| `AnconauTs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
+| `Cyzicus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CYZICUS, KING DOLIONES|CYZICUS, KING DOLIONES]] |
+| `DarKNEsS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DEaD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
 | `DoLiIonss` | **unresolved** (review queue) |
 | `FarirH` | **unresolved** (review queue) |
 | `Hare SHAVEN` | **unresolved** (review queue) |
 | `Liaut` | **unresolved** (review queue) |
-| `NiaHt` | **unresolved** (review queue) |
+| `NiaHt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `PELASGIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PELASGIANS|PELASGIANS]] |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `STRIFE` | **unresolved** (review queue) |
-| `TEARS` | **unresolved** (review queue) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `TEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEARS SHEDDING|TEARS SHEDDING]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARENA` | **unresolved** (review queue) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `HUSBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
 | `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

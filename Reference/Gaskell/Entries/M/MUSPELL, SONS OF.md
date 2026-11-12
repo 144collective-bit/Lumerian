@@ -36,11 +36,11 @@ tags:
 | `Brrrost` | **unresolved** (review queue) |
 | `Bopuisarvas` | **unresolved** (review queue) |
 | `FAtt` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
 | `INOARNATION OF SOULS` | **unresolved** (review queue) |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `Marurs` | **unresolved** (review queue) |
-| `MoNaps OF LIFE` | **unresolved** (review queue) |
+| `MoNaps OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `SouaR PrrrRis` | **unresolved** (review queue) |
 | `Sons or GoD` | **unresolved** (review queue) |
 | `SPARES` | **unresolved** (review queue) |

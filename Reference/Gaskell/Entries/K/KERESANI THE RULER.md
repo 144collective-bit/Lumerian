@@ -36,7 +36,7 @@ tags:
 | `CaIn` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `I am` | **unresolved** (review queue) |
 | `Manat` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 
 ## Full OCR entry body (exact)
 

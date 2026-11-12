@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Brrp` | **unresolved** (review queue) |
 | `CausaL-Bopy` | **unresolved** (review queue) |
-| `Hast` | **candidate (first-segment only)** → possible `HAST, OR COMPLETION` (not linked) |
-| `Hermes` | **unresolved** (review queue) |
+| `Hast` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAST, OR COMPLETION|HAST, OR COMPLETION]] |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `Marsa` | **unresolved** (review queue) |
-| `THoTH` | **unresolved** (review queue) |
+| `THoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 | `WaTER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

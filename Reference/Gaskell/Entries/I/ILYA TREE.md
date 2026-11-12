@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Frvurr` | **unresolved** (review queue) |
 | `Opoun (sweet)` | **unresolved** (review queue) |
-| `SALAGYA` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
+| `SALAGYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
 | `SUTRATMA` | **unresolved** (review queue) |
-| `Taste` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `Taste` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `VIBHU` | **unresolved** (review queue) |
 | `YESHTIKA` | **unresolved** (review queue) |

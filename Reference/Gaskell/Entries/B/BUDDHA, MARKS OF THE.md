@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AsItTa` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
+| `AsItTa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `CIRCLE (hair)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
 | `FEET` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `FOOTPRINTS OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOTPRINTS OF BUDDHA|FOOTPRINTS OF BUDDHA]] |
 | `MarRkKS OF JESUs` | **unresolved** (review queue) |
-| `URNA` | **unresolved** (review queue) |
+| `URNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

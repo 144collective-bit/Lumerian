@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AcHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
+| `AcHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
 | `Hanp` | **unresolved** (review queue) |
 | `Mout` | **unresolved** (review queue) |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `NEREvs` | **unresolved** (review queue) |
+| `NEREvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEREUS, THE WISE MAN THE SEA|NEREUS, THE WISE MAN THE SEA]] |
 | `Nop` | **unresolved** (review queue) |
 | `Patace` | **unresolved** (review queue) |
-| `SAPANDOMAD` | **candidate (first-segment only)** → possible `SAPANDOMAD, EARTH` (not linked) |
-| `STaTuTE` | **candidate (first-segment only)** → possible `STATUTE, FIRST DIVINE` (not linked) |
-| `Tears` | **unresolved** (review queue) |
-| `THUNDER` | **unresolved** (review queue) |
+| `SAPANDOMAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPANDOMAD, EARTH|SAPANDOMAD, EARTH]] |
+| `STaTuTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STATUTE, FIRST DIVINE|STATUTE, FIRST DIVINE]] |
+| `Tears` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEARS SHEDDING|TEARS SHEDDING]] |
+| `THUNDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THUNDER OF GOD OR HEAVEN|THUNDER OF GOD OR HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

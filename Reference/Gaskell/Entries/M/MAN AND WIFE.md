@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
 | `Drvorce` | **unresolved** (review queue) |
 | `FaTHER (lower)` | **unresolved** (review queue) |
 | `Hipine` | **unresolved** (review queue) |
-| `HusBanp` | **unresolved** (review queue) |
+| `HusBanp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBAND, GOOD AND RICH|HUSBAND, GOOD AND RICH]] |
 | `Imacr` | **unresolved** (review queue) |
 | `MAN wITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `MASCULINE` | **unresolved** (review queue) |
+| `MASCULINE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MASCULINE PRINCIPLE|MASCULINE PRINCIPLE]] |
 | `Rx` | **unresolved** (review queue) |
 | `Wire` | **unresolved** (review queue) |
-| `WomMAN` | **unresolved** (review queue) |
+| `WomMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)
 

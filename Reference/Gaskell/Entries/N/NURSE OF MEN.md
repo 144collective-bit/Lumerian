@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Niaut` | **unresolved** (review queue) |
-| `PHTHIA` | **candidate (first-segment only)** → possible `PHTHIA, THE NURSE OF MEN` (not linked) |
+| `PHTHIA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHTHIA, THE NURSE OF MEN|PHTHIA, THE NURSE OF MEN]] |
 
 ## Full OCR entry body (exact)
 

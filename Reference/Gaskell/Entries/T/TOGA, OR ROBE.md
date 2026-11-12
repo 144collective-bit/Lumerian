@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `GATE OF SALUTATION` | **unresolved** (review queue) |
-| `PEARL (precious)` | **unresolved** (review queue) |
+| `GATE OF SALUTATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]] |
+| `PEARL (precious)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RAIMENT` | **unresolved** (review queue) |
-| `RosBE` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `RosBE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

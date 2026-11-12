@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CavusaL-BODY` | **unresolved** (review queue) |
 | `GaM` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

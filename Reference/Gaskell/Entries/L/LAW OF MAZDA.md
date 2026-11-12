@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `KarnsHipta` | **unresolved** (review queue) |
-| `SuRAS` | **candidate (first-segment only)** → possible `SURAS, CHIEF` (not linked) |
+| `KarnsHipta` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
+| `SuRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 
 ## Full OCR entry body (exact)
 

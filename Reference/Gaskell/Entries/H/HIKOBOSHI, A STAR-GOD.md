@@ -36,18 +36,18 @@ tags:
 | `Brivcs` | **unresolved** (review queue) |
 | `BvuppuHI` | **unresolved** (review queue) |
 | `CHARON'S FERRY` | **unresolved** (review queue) |
-| `CUPID` | **unresolved** (review queue) |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
-| `LOVER` | **unresolved** (review queue) |
-| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
-| `RECOLLECTION` | **unresolved** (review queue) |
+| `CUPID` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
+| `LOVER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOVER OF GOOD WORKS WHO IS GOD-DISCERNING|LOVER OF GOOD WORKS WHO IS GOD-DISCERNING]]; [[Reference/Gaskell/Entries/L/LOVER OF THE HEAVENLY MAIDEN|LOVER OF THE HEAVENLY MAIDEN]] |
+| `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `Rose` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `Sons oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `STARS OF SOULS` | **unresolved** (review queue) |
-| `WatTER` | **unresolved** (review queue) |
+| `WatTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)
 

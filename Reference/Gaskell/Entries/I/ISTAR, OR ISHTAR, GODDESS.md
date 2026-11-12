@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANU` | **candidate (first-segment only)** → possible `ANU, GOD OF THE SKY` (not linked) |
-| `ASTARTE` | **candidate (first-segment only)** → possible `ASTARTE, GODDESS OR QUEEN` (not linked) |
-| `Estuer` | **unresolved** (review queue) |
-| `FounTAIN` | **unresolved** (review queue) |
+| `ANU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANU, GOD OF THE SKY|ANU, GOD OF THE SKY]] |
+| `ASTARTE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASTARTE, GODDESS OR QUEEN|ASTARTE, GODDESS OR QUEEN]] |
+| `Estuer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
+| `FounTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `HADES` | **unresolved** (review queue) |
 | `JEWELS` | **unresolved** (review queue) |
-| `MERODACH` | **unresolved** (review queue) |
+| `MERODACH` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MERODACH OR MARDUE|MERODACH OR MARDUE]] |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
-| `Tammuz` | **candidate (first-segment only)** → possible `TAMMUZ, GOD,—LOWER` (not linked) |
+| `Tammuz` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
 | `WATER. ISVARA OR KAPILA :-— A symbol of the Higher Self` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—the Logos. ** Isvara shines like the sun` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `irradiating all spaces above` | **unresolved** (review queue) |
@@ -64,10 +64,10 @@ tags:
 | `who know what it is to be immortal` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `seek not for the imperishable amidst the things that perish.”—Katha. Upanishad` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `IV. 1. The indwelling Self or Christ is the power within all things which causes them to evolve. The Self within the minds of men makes for righteousness and the control of the desires. See Arc. MAN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
 | `KaPILa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
-| `NET (under)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `NET (under)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sout` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

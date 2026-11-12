@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DISPENSATIONS` | **unresolved** (review queue) |
-| `FEATHER` | **unresolved** (review queue) |
+| `FEATHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `PERsSOX- | ALITY` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `JRECTANGLE. Steps` | **unresolved** (review queue) |
-| `TwuAT` | **unresolved** (review queue) |
+| `TwuAT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
-| `BALDER` | **unresolved** (review queue) |
-| `CHEMMIS` | **unresolved** (review queue) |
+| `ASAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
-| `Nanna` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `Nanna` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 
 ## Full OCR entry body (exact)
 

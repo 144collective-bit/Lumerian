@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Focus` | **candidate (first-segment only)** → possible `FOCUS, BURNING` (not linked) |
-| `TCHEFET` | **candidate (first-segment only)** → possible `TCHEFET, IN SEKHETHETEPET` (not linked) |
+| `Focus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOCUS, BURNING|FOCUS, BURNING]] |
+| `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CENSERS` | **unresolved** (review queue) |
+| `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
 
 ## Full OCR entry body (exact)
 

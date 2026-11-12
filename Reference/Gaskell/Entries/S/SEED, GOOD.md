@@ -36,28 +36,28 @@ tags:
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BrrTH OF JESUS` | **unresolved** (review queue) |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `CRANBERRY` | **unresolved** (review queue) |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
 | `CREATURES (small)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `CuLttVATION` | **unresolved** (review queue) |
+| `CuLttVATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `Drvit` | **unresolved** (review queue) |
 | `Eben` | **unresolved** (review queue) |
 | `Ecypr (lower)` | **unresolved** (review queue) |
 | `Evo ution` | **unresolved** (review queue) |
 | `Foop (man)` | **unresolved** (review queue) |
-| `FRuIT-TREE` | **unresolved** (review queue) |
+| `FRuIT-TREE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FRUIT-TREE BEARING FRUIT AND SEED|FRUIT-TREE BEARING FRUIT AND SEED]] |
 | `Grrus` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
-| `HusBanpMAN` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `HusBanpMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `SEEDS Kaamuas` | **unresolved** (review queue) |
 | `MAZENDARANS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] |
-| `MOTHE (divine)` | **unresolved** (review queue) |
-| `OstRIs` | **unresolved** (review queue) |
+| `MOTHE (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `OstRIs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PLOUGHIN®` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `PLOUGHIN®` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Reaprna` | **unresolved** (review queue) |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `S&S osrRI` | **unresolved** (review queue) |
@@ -65,7 +65,7 @@ tags:
 | `Sowinc` | **unresolved** (review queue) |
 | `Tem` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 | `Worp (divine)` | **unresolved** (review queue) |
 

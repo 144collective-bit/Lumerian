@@ -32,29 +32,29 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGnisHToMA` | **candidate (first-segment only)** → possible `AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS` (not linked) |
-| `AmBas` | **unresolved** (review queue) |
+| `AGnisHToMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS|AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS]] |
+| `AmBas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] |
 | `Boat (wisdom)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Book STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
 | `CROCODILE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROCODILE|CROCODILE]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `GosPreL` | **unresolved** (review queue) |
-| `Hermes (tris.)` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `GosPreL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
+| `Hermes (tris.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `Isis` | **unresolved** (review queue) |
-| `KoRAN` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
-| `Mars` | **candidate (first-segment only)** → possible `MARS, THE PLANET` (not linked) |
+| `KoRAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
+| `Mars` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARS, THE PLANET|MARS, THE PLANET]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `Sastra` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
-| `UPANISHADS` | **unresolved** (review queue) |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `Sastra` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
+| `UPANISHADS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `Worp` | **unresolved** (review queue) |
-| `WORSHIP` | **unresolved** (review queue) |
+| `WORSHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

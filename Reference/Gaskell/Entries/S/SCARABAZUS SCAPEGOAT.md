@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `AMMIT` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `AMMIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMMIT MONSTER|AMMIT MONSTER]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 
 ## Full OCR entry body (exact)
 

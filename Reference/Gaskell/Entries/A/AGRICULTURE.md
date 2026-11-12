@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `CORN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
 | `FiELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
-| `Harvest` | **unresolved** (review queue) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `Ox anD ASS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OX AND ASS|OX AND ASS]] |
-| `PHALLIPHORIA` | **candidate (first-segment only)** → possible `PHALLIPHORIA, PRIAPEIA, OR DIONYSIA` (not linked) |
+| `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEKHET (aaru)` | **unresolved** (review queue) |
-| `SHABTI` | **unresolved** (review queue) |
+| `SEKHET (aaru)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+| `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
 
 ## Full OCR entry body (exact)
 

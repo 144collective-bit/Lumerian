@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `APSARAS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APSARAS|APSARAS]] |
 | `AROHANGELS` | **unresolved** (review queue) |
 | `Brep’s NEST` | **unresolved** (review queue) |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `CoLtcHi1ans` | **unresolved** (review queue) |
-| `Dzmons` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `GANDHARVAS` | **candidate (first-segment only)** → possible `GANDHARVAS, OR SIRENS` (not linked) |
+| `Dzmons` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DZMON, OR GOOD DAIMON|DZMON, OR GOOD DAIMON]] |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `GUARDIANS` | **unresolved** (review queue) |
-| `KHORDAD` | **candidate (first-segment only)** → possible `KHORDAD, THE AMSHASPAND` (not linked) |
+| `KHORDAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHORDAD, THE AMSHASPAND|KHORDAD, THE AMSHASPAND]] |
 | `KuHUsS` | **unresolved** (review queue) |
 | `LappER` | **unresolved** (review queue) |
 | `MEessENGERS` | **unresolved** (review queue) |
-| `SIRENS` | **candidate (ambiguous first-segment)** → SIRENS, GANDHARVAS, COLCHIANS; SIRENS, OR GANDHARVAS (not linked) |
+| `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

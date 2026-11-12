@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLinp Man` | **unresolved** (review queue) |
-| `CLOUDS OF HEAVEN` | **candidate (first-segment only)** → possible `CLOUDS OF HEAVEN, AS MIST` (not linked) |
-| `EYE` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `BLinp Man` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
+| `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
+| `EYE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `MEN (breast)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
-| `SEEING` | **unresolved** (review queue) |
+| `SEEING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEEING (HIGHER ASPECT)|SEEING (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SEEING (LOWER ASPECT)|SEEING (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

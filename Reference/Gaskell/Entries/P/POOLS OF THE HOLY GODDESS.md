@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism` | **unresolved** (review queue) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `Fane` | **unresolved** (review queue) |
 | `Laxsumai` | **unresolved** (review queue) |
 | `NururRT` | **unresolved** (review queue) |
-| `Smam` | **candidate (first-segment only)** → possible `SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET` (not linked) |
+| `Smam` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET|SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET]] |
 | `TCHESERT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

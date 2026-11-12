@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JUDGMENT HALL` | **unresolved** (review queue) |
-| `RENENRET` | **unresolved** (review queue) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `RENENRET` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RENENET, GODDESS OF NURSING|RENENET, GODDESS OF NURSING]] |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 
 ## Full OCR entry body (exact)
 

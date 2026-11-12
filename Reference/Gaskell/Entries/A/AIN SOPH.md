@@ -37,7 +37,7 @@ tags:
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Nosgz` | **unresolved** (review queue) |
 | `Truviry` | **unresolved** (review queue) |
-| `WELL` | **unresolved** (review queue) |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 | `ZERANA. AIR;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

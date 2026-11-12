@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 
 ## Full OCR entry body (exact)
 

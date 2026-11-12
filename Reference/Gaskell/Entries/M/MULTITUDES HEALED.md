@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `BuDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `HEaLina` | **unresolved** (review queue) |
-| `KINGDOM` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `WEALTH` | **unresolved** (review queue) |
+| `HEaLina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
+| `KINGDOM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

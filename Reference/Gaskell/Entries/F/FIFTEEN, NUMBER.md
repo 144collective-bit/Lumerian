@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEGETTING` | **unresolved** (review queue) |
-| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
+| `BEGETTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] |
+| `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 
 ## Full OCR entry body (exact)
 

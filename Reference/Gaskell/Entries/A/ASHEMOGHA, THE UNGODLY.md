@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrow (self-moving)` | **unresolved** (review queue) |
-| `Eatine` | **unresolved** (review queue) |
+| `Arrow (self-moving)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
+| `Eatine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `MraT` | **unresolved** (review queue) |
-| `TYRANT` | **candidate (first-segment only)** → possible `TYRANT, WICKED` (not linked) |
+| `TYRANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANT, WICKED|TYRANT, WICKED]] |
 
 ## Full OCR entry body (exact)
 

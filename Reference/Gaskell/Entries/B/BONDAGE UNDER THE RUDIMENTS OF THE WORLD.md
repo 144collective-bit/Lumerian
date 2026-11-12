@@ -33,29 +33,29 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BABYLON` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BABYLON|BABYLON]] |
-| `Captivity` | **unresolved** (review queue) |
+| `Captivity` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
 | `DISPENSAtions` | **unresolved** (review queue) |
 | `Exopvus` | **unresolved** (review queue) |
 | `FrEtTrers` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `House OF BONDAGE` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `PASSOVER` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PASSOVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `PRisoneRS` | **unresolved** (review queue) |
+| `PRisoneRS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 | `RaAnU` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `REMISSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
 | `TARTARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
 

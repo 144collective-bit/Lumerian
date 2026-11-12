@@ -35,13 +35,13 @@ tags:
 | `ARO. MAN` | **unresolved** (review queue) |
 | `Bmps` | **unresolved** (review queue) |
 | `Driseoex. BERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `Muxm.. BERS` | **unresolved** (review queue) |
-| `Mounrain (lower)` | **unresolved** (review queue) |
+| `Mounrain (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `Prawnrs` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Staire` | **unresolved** (review queue) |
 | `WINGS. |` | **unresolved** (review queue) |
 

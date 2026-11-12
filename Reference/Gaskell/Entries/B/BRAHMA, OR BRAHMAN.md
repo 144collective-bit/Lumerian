@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `AKASA` | **candidate (first-segment only)** → possible `AKASA, ETHER-SPACE` (not linked) |
-| `APARAGITA` | **candidate (first-segment only)** → possible `APARAGITA, PALACE (UNCONQUERABLE)` (not linked) |
-| `ARHAT` | **unresolved** (review queue) |
+| `AKASA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AKASA, ETHER-SPACE|AKASA, ETHER-SPACE]] |
+| `APARAGITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ATMAN` | **unresolved** (review queue) |
 | `FarHER` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `Lotus` | **candidate (first-segment only)** → possible `LOTUS, WATER LILY` (not linked) |
+| `Lotus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]]; [[Reference/Gaskell/Entries/L/LOTUS, WATER LILY|LOTUS, WATER LILY]] |
 | `Oapoap` | **unresolved** (review queue) |
 | `Pars (twofold)` | **unresolved** (review queue) |
 | `Sanasvati` | **unresolved** (review queue) |
 | `Seasons` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SLEEPING` | **unresolved** (review queue) |
-| `Taste` | **unresolved** (review queue) |
+| `Taste` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
 | `Troiry` | **unresolved** (review queue) |
-| `Union` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `Union` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `VzsxHu` | **unresolved** (review queue) |
 | `Vimas` | **unresolved** (review queue) |
 

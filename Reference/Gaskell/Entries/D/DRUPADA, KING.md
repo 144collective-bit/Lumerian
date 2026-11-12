@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DRAUPADI` | **candidate (first-segment only)** → possible `DRAUPADI, DAUGHTER OF KING DRUPADA` (not linked) |
+| `DRAUPADI` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] |
 | `DRONA` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRONA|DRONA]] |
-| `PANCALA` | **candidate (first-segment only)** → possible `PANCALA, KINGDOM OF DRUPADA` (not linked) |
+| `PANCALA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PANCALA, KINGDOM OF DRUPADA|PANCALA, KINGDOM OF DRUPADA]] |
 
 ## Full OCR entry body (exact)
 

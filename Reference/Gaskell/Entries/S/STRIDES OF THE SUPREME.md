@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EYE OF Foorsters OF BUDDHA` | **unresolved** (review queue) |
 | `MACHIS` | **unresolved** (review queue) |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |

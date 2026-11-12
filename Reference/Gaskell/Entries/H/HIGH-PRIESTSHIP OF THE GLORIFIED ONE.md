@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BAHMAN` | **unresolved** (review queue) |
+| `BAHMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] |
 | `MELCHIZEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
-| `MICHAEL` | **candidate (first-segment only)** → possible `MICHAEL, THE ARCHANGEL` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `VOHUMAN` | **candidate (ambiguous first-segment)** → VOHUMAN, OR VOHUMANO, THE GOOD MIND; VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR (not linked) |
+| `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
 
 ## Full OCR entry body (exact)
 

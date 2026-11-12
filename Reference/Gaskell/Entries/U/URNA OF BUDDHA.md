@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALDER` | **unresolved** (review queue) |
-| `BoDHISATVAS` | **unresolved** (review queue) |
-| `BUDDHA (marks)` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `BoDHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `BUDDHA (marks)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `CrrcLz` | **unresolved** (review queue) |
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
-| `WHITE` | **unresolved** (review queue) |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

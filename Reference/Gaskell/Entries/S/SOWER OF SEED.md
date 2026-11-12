@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGRICULTURALIST` | **candidate (first-segment only)** → possible `AGRICULTURALIST, BANDMAN` (not linked) |
-| `CoRN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `AGRICULTURALIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGRICULTURALIST, BANDMAN|AGRICULTURALIST, BANDMAN]] |
+| `CoRN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `CULTIVATION GARDEN` | **unresolved** (review queue) |
 | `GERMS` | **unresolved** (review queue) |
-| `HARVEsT` | **unresolved** (review queue) |
+| `HARVEsT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `711 SOWING HUSBANDMAN` | **unresolved** (review queue) |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEKHET` | **unresolved** (review queue) |
+| `SEKHET` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 

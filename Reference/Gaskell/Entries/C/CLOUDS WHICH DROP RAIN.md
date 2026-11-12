@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrrost` | **unresolved** (review queue) |
-| `Bow` | **unresolved** (review queue) |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `LAKSHMI` | **unresolved** (review queue) |
 | `PaRGANYA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] |
 | `Rarn` | **unresolved** (review queue) |
 | `Rarnsow` | **unresolved** (review queue) |
-| `Sounp` | **unresolved** (review queue) |
+| `Sounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `TIiswRYA` | **unresolved** (review queue) |
-| `TLALOC` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
+| `TLALOC` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
 | `WEALTH SHOWER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

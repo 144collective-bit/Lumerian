@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `ANGRA-MAINYU. 675 SERPENT SERPENT KING;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

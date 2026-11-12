@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
-| `BupDDHIC FUNCTION` | **unresolved** (review queue) |
+| `BupDDHIC FUNCTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC FUNCTION|BUDDHIC FUNCTION]] |
 | `DOOR OF VARA` | **unresolved** (review queue) |
-| `EXPERIENCE` | **unresolved** (review queue) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `Eyr` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `LiegnRtT` | **unresolved** (review queue) |

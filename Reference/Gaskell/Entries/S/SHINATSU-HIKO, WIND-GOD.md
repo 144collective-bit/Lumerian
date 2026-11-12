@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `ArR` | **unresolved** (review queue) |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `CurysE` | **unresolved** (review queue) |
 | `CountTRIEs` | **unresolved** (review queue) |
 | `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `HERMES` | **unresolved** (review queue) |
-| `IZANAGI` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `IZANAGI` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IZANAGI AND IZANAMI|IZANAGI AND IZANAMI]] |
 | `MIRROR` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
 | `PILLARS OF LIGHT` | **unresolved** (review queue) |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `Sxy` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
-| `VAPouR (white)` | **candidate (first-segment only)** → possible `VAPOUR, WHITE` (not linked) |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `VAPouR (white)` | resolved (exact) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

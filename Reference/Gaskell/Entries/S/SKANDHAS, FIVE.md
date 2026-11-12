@@ -35,14 +35,14 @@ tags:
 | `Castres` | **unresolved** (review queue) |
 | `CavusaL-Bopy` | **unresolved** (review queue) |
 | `ConSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `FIVE` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `SAMKHARA` | **unresolved** (review queue) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `FIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SAMKHARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAMKHARA OR SANKHARA|SAMKHARA OR SANKHARA]] |
 | `SENSE ORGANS` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

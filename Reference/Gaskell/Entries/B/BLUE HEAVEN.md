@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `I am` | **unresolved** (review queue) |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
-| `TURQUOISE` | **candidate (first-segment only)** → possible `TURQUOISE, HEAVEN` (not linked) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `TURQUOISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TURQUOISE, HEAVEN|TURQUOISE, HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

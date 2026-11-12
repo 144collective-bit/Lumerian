@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `FarrH` | **unresolved** (review queue) |
 | `GREECE` | **unresolved** (review queue) |
-| `HARMONY` | **unresolved** (review queue) |
+| `HARMONY` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `Honey` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `Panpora` | **unresolved** (review queue) |
-| `Pytus` | **unresolved** (review queue) |
+| `Pytus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] |
 | `Sinerna` | **unresolved** (review queue) |
-| `Sweet` | **candidate (first-segment only)** → possible `SWEET, BITTER, SHARP, HOT` (not linked) |
+| `Sweet` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEET, BITTER, SHARP, HOT|SWEET, BITTER, SHARP, HOT]] |
 | `ToNcveE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

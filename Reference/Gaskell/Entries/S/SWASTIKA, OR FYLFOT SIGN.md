@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
-| `Four ANGLES` | **unresolved** (review queue) |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
+| `Four ANGLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR ANGLES OR CORNERS OF THE WORLD|FOUR ANGLES OR CORNERS OF THE WORLD]] |
 | `MAASEH-MERCABA` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNaRY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `STONE (corner)` | **unresolved** (review queue) |
+| `STONE (corner)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `JF (letter)` | **unresolved** (review queue) |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
-| `WINDs (four)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+| `WINDs (four)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, FOUR|WINDS, FOUR]] |
 
 ## Full OCR entry body (exact)
 

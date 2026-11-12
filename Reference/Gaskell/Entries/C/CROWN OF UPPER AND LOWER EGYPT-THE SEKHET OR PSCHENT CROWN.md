@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMEN` | **candidate (first-segment only)** → possible `AMEN, OR AMON (THE HIDDEN ONE)` (not linked) |
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
+| `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `Eaypt` | **unresolved** (review queue) |
 | `HIGHER AKD LOWER` | **unresolved** (review queue) |
-| `PALACE` | **unresolved** (review queue) |
-| `PLUMES` | **unresolved** (review queue) |
+| `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
+| `PLUMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
 
 ## Full OCR entry body (exact)
 

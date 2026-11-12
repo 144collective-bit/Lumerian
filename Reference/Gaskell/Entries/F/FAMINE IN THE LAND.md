@@ -35,7 +35,7 @@ tags:
 | `CALAMITIES` | **unresolved** (review queue) |
 | `EARTHQUAKES` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
 | `Foop` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 
 ## Full OCR entry body (exact)
 

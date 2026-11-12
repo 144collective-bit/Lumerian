@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Grants` | **unresolved** (review queue) |
-| `NEPHILIM` | **unresolved** (review queue) |
+| `Grants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIANTS, NEPHILIM, MIGHTY MEN|GIANTS, NEPHILIM, MIGHTY MEN]] |
+| `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
 
 ## Full OCR entry body (exact)
 

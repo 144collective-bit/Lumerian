@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EarnrH (great) Evo.urion` | **unresolved** (review queue) |
-| `GE` | **candidate (first-segment only)** → possible `GE, GHA, OR TELLUS` (not linked) |
+| `GE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GE, GHA, OR TELLUS|GE, GHA, OR TELLUS]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PosEiwon` | **unresolved** (review queue) |
 | `Srirnit` | **unresolved** (review queue) |
 | `Trrans` | **unresolved** (review queue) |
 | `TLazoo` | **unresolved** (review queue) |
-| `Uranus` | **unresolved** (review queue) |
-| `VARUNA` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
+| `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+| `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 
 ## Full OCR entry body (exact)
 

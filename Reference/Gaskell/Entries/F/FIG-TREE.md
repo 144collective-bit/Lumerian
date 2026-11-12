@@ -35,7 +35,7 @@ tags:
 | `Breps (two)` | **unresolved** (review queue) |
 | `Oak TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `Soma PLANT` | **unresolved** (review queue) |
+| `Soma PLANT` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `Ye@apRaSIL` | **unresolved** (review queue) |
 

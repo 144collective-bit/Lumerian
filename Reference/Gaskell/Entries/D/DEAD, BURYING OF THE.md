@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `FATHER (lower)` | **unresolved** (review queue) |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Mystery (first)` | **candidate (first-segment only)** → possible `MYSTERY, FIRST` (not linked) |
-| `OLIVE LEAF` | **unresolved** (review queue) |
+| `Mystery (first)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]] |
+| `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `RavEN` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

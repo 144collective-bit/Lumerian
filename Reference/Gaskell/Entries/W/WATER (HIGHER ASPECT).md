@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDUISUR` | **unresolved** (review queue) |
-| `Baptism` | **unresolved** (review queue) |
+| `ANDUISUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANDUISUR FOUNTAIN|ANDUISUR FOUNTAIN]] |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `Boar (avatar)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `DaRKNEss (higher)` | **unresolved** (review queue) |
-| `DELUGE` | **unresolved** (review queue) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `DaRKNEss (higher)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `Ea` | **unresolved** (review queue) |
 | `Eora` | **unresolved** (review queue) |
 | `FLoop` | **unresolved** (review queue) |
@@ -49,15 +49,15 @@ tags:
 | `MOIST ESSENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOIST ESSENCE|MOIST ESSENCE]] |
 | `NARAYANA` | **unresolved** (review queue) |
 | `Nitze` | **unresolved** (review queue) |
-| `Nu` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
-| `Ocean` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `Rain` | **unresolved** (review queue) |
+| `Nu` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NU, THE GOD|NU, THE GOD]] |
+| `Ocean` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `Rain` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `SERPENT (ananta)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sun (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `TurEsT` | **unresolved** (review queue) |
 | `VournvKASHA` | **unresolved** (review queue) |
-| `WASHED (feet)` | **unresolved** (review queue) |
-| `WELL` | **unresolved** (review queue) |
+| `WASHED (feet)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 | `Ya` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

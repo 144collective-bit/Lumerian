@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 
 ## Full OCR entry body (exact)

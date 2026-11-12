@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `APSARAS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APSARAS|APSARAS]] |
-| `BAHMAN` | **unresolved** (review queue) |
-| `BUILDERS` | **unresolved** (review queue) |
-| `DEVAS` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `GABRIEL` | **candidate (first-segment only)** → possible `GABRIEL, THE ANGEL` (not linked) |
+| `BAHMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] |
+| `BUILDERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUILDERS OF THE UNIVERSE|BUILDERS OF THE UNIVERSE]] |
+| `DEVAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `GABRIEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GABRIEL, THE ANGEL|GABRIEL, THE ANGEL]] |
 | `GUARDIANS` | **unresolved** (review queue) |
 | `MESSENGERS` | **unresolved** (review queue) |
-| `MICHAEL` | **candidate (first-segment only)** → possible `MICHAEL, THE ARCHANGEL` (not linked) |
+| `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
 | `VOHUMANO` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

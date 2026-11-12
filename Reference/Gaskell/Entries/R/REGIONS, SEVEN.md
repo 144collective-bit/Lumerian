@@ -38,12 +38,12 @@ tags:
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
 | `HORSE SACRIFICE` | **unresolved** (review queue) |
 | `HVANRATHA` | **unresolved** (review queue) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `ROooT-RACES` | **unresolved** (review queue) |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `ROooT-RACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounn` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `Sprinctime` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

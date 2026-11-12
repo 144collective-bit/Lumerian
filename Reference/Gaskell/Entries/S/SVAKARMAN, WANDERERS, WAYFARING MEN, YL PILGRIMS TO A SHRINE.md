@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASSEMBLY` | **unresolved** (review queue) |
-| `ATTRACTION` | **unresolved** (review queue) |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
 | `Crry` | **unresolved** (review queue) |
 | `RiruaL` | **unresolved** (review queue) |
-| `SHRINE` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 
 ## Full OCR entry body (exact)
 

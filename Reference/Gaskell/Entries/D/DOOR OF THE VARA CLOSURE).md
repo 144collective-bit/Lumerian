@@ -40,7 +40,7 @@ tags:
 | `p-. 50. See BRAHMARANDHRAM` | **unresolved** (review queue) |
 | `HAIR OF HEAD` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WINDOW OF ARK` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

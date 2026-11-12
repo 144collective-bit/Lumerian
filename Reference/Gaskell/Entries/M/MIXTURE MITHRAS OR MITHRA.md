@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `GENERATIVE` | **unresolved** (review queue) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `GENERATIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]]; [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION TRANSMUTED|GENERATIVE FUNCTION TRANSMUTED]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `Man BORN` | **unresolved** (review queue) |
-| `Monavd_ (form` | **unresolved** (review queue) |
+| `Man BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
+| `Monavd_ (form` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 | `life)` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
-| `PHALLIPHORIA` | **candidate (first-segment only)** → possible `PHALLIPHORIA, PRIAPEIA, OR DIONYSIA` (not linked) |
-| `RzINCARNATION` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
+| `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
+| `RzINCARNATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 
 ## Full OCR entry body (exact)
 

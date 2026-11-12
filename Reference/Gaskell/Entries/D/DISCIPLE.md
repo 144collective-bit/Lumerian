@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 
 ## Full OCR entry body (exact)
 

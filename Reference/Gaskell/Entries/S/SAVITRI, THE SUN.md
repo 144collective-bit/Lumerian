@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ApiTyA` | **unresolved** (review queue) |
+| `ApiTyA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ADITYA, THE SUN|ADITYA, THE SUN]] |
 | `CHARIOT OF SUN` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
-| `Hezios` | **unresolved** (review queue) |
-| `Iron` | **unresolved** (review queue) |
+| `Hezios` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HELIOS, THE SUN-GOD, RA|HELIOS, THE SUN-GOD, RA]] |
+| `Iron` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `Spape` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `SuRYA` | **candidate (first-segment only)** → possible `SURYA, THE SUN` (not linked) |
+| `SuRYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 
 ## Full OCR entry body (exact)
 

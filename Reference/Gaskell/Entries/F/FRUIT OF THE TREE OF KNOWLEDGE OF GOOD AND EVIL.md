@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EXPERIENCE` | **unresolved** (review queue) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `Law OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
 
 ## Full OCR entry body (exact)
 

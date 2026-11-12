@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Camp` | **unresolved** (review queue) |
-| `COUNTRIES` | **unresolved** (review queue) |
+| `COUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `QUALITIES. ARMY OF THE DEMONS :-A symbol of the desire -mental qualities. ‘‘The army with a wide front shouting and flying in the air."—Homa Yasht. This signifies the activity of the kama-manasic nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `wherein the desires and lower thought processes give rise to an unsettled state of the lower self. See Darvas` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DEMONS` | **unresolved** (review queue) |
+| `DEMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 
 ## Full OCR entry body (exact)
 

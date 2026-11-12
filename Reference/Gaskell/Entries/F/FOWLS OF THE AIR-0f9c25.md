@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrps` | **unresolved** (review queue) |
-| `FIsxH` | **unresolved** (review queue) |
+| `FIsxH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 
 ## Full OCR entry body (exact)
 

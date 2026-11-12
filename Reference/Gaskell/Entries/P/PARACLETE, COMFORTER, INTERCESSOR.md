@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `ATMA` | **unresolved** (review queue) |
-| `BLASPHEMY` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
 | `BupD8ICc FUNCTION` | **unresolved** (review queue) |
 | `CHRIST PRINCIPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST-PRINCIPLE|CHRIST-PRINCIPLE]] |
 | `Harm or HEAD` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Houy ca#osr` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
-| `WISDOM` | **unresolved** (review queue) |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

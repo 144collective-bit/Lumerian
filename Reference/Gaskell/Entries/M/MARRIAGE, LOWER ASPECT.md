@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
-| `CoNCEPTION` | **unresolved** (review queue) |
+| `CoNCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `Drvorcina` | **unresolved** (review queue) |
-| `Fotty` | **unresolved** (review queue) |
+| `Fotty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
 | `Hartor` | **unresolved** (review queue) |
-| `WxHoREDOM` | **unresolved** (review queue) |
+| `WxHoREDOM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
 
 ## Full OCR entry body (exact)
 

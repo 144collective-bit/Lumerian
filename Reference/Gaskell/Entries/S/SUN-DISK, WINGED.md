@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `CavusaL-BOoDY` | **unresolved** (review queue) |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
-| `Disk` | **candidate (first-segment only)** → possible `DISK, WINGED SUN-` (not linked) |
+| `Disk` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISK, WINGED SUN-|DISK, WINGED SUN-]] |
 | `Horsextpt1` | **unresolved** (review queue) |
 | `InpIvinvalrry` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Ri` | **unresolved** (review queue) |
-| `SEAL` | **candidate (first-segment only)** → possible `SEAL, GREAT SACRED` (not linked) |
-| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `SEAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEAL, GREAT SACRED|SEAL, GREAT SACRED]] |
+| `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
 | `TALISMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TALISMAN|TALISMAN]] |
 
 ## Full OCR entry body (exact)

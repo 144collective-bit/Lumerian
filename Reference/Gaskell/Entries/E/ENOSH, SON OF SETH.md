@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEGETTING` | **unresolved** (review queue) |
-| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
+| `BEGETTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] |
+| `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
 
 ## Full OCR entry body (exact)
 

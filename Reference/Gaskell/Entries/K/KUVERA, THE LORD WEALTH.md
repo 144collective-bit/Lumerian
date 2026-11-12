@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GANESA` | **candidate (first-segment only)** → possible `GANESA, GOD OF WISDOM` (not linked) |
-| `NALA-KUVERA` | **candidate (first-segment only)** → possible `NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)` (not linked) |
+| `GANESA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANESA, GOD OF WISDOM|GANESA, GOD OF WISDOM]] |
+| `NALA-KUVERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)|NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)]] |
 | `PovERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `WEALTH` | **unresolved** (review queue) |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

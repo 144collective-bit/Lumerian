@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bones` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
+| `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

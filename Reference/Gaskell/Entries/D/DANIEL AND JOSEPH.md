@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `JOSEPH` | **candidate (ambiguous first-segment)** → JOSEPH, HUSBAND OF MARY; JOSEPH, SON OF JACOB (not linked) |
+| `JOSEPH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]]; [[Reference/Gaskell/Entries/J/JOSEPH, SON OF JACOB|JOSEPH, SON OF JACOB]] |
 
 ## Full OCR entry body (exact)
 

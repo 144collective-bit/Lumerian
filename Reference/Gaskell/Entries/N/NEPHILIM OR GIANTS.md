@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
-| `DAUGHTERS` | **unresolved** (review queue) |
+| `DAUGHTERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DAUGHTER|DAUGHTER]] |
 | `GaDERINE DEMONIACS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GADERINE DEMONIACS|GADERINE DEMONIACS]] |
-| `Giants` | **candidate (first-segment only)** → possible `GIANTS, NEPHILIM, MIGHTY MEN` (not linked) |
+| `Giants` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIANTS, NEPHILIM, MIGHTY MEN|GIANTS, NEPHILIM, MIGHTY MEN]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 
 ## Full OCR entry body (exact)

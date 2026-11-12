@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 
 ## Full OCR entry body (exact)
 

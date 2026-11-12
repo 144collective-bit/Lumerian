@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cusn` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Graon` | **unresolved** (review queue) |
 | `Panpora` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `PERSEUS` | **candidate (first-segment only)** → possible `PERSEUS, SON OF ZEUS AND DANAE` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

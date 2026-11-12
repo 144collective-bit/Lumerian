@@ -36,7 +36,7 @@ tags:
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `East` | **unresolved** (review queue) |
-| `HEROES` | **candidate (first-segment only)** → possible `HEROES, THE GREATEST OF THE DAY` (not linked) |
+| `HEROES` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
 | `INOARNATION OF SOULS` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |

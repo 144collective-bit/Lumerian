@@ -35,9 +35,9 @@ tags:
 | `Empedocles` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EMPEDOCLES|EMPEDOCLES]] |
 | `verse 60 ; also see 1 Cor. xii. 12-31; Epu. i. 10. See Ano. MAN` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `DISMEMBEBMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GEOMETRY` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 
 ## Full OCR entry body (exact)
 

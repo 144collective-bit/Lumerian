@@ -36,10 +36,10 @@ tags:
 | `5; 1 Peres ii` | **unresolved** (review queue) |
 | `3). See Buss` | **unresolved** (review queue) |
 | `BranMma` | **unresolved** (review queue) |
-| `FLavour` | **unresolved** (review queue) |
-| `ILya` | **unresolved** (review queue) |
+| `FLavour` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLAVOUR OF BRAHMAN|FLAVOUR OF BRAHMAN]] |
+| `ILya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ILYA TREE|ILYA TREE]] |
 | `Opour` | **unresolved** (review queue) |
-| `SaLaGya` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
+| `SaLaGya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
 | `VIBHU` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

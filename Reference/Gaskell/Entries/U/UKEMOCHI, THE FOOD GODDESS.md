@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ANGRA-MAINYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 
 ## Full OCR entry body (exact)

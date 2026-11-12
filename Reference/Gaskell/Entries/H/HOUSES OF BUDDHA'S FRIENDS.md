@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppHa` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 | `Om` | **unresolved** (review queue) |
 | `Onrrrmentr` | **unresolved** (review queue) |
 | `UNGUENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNGUENTS|UNGUENTS]] |

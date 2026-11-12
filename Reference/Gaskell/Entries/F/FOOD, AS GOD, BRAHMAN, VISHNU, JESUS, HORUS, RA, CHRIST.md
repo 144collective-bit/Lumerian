@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `FLESH OF JESUS` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `FLESH OF JESUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLESH OF JESUS AS BREAD FROM HEAVEN|FLESH OF JESUS AS BREAD FROM HEAVEN]] |
 | `HoMmaJuice` | **unresolved** (review queue) |
-| `Host` | **candidate (first-segment only)** → possible `HOST, OR CONSECRATED WAFER` (not linked) |
-| `Nu` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
+| `Host` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] |
+| `Nu` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NU, THE GOD|NU, THE GOD]] |
 | `PARGANYA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] |
 | `PraciPATI` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SOMA-JUICE` | **candidate (first-segment only)** → possible `SOMA-JUICE, OR SAP` (not linked) |
-| `UNEN` | **unresolved** (review queue) |
+| `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+| `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 
 ## Full OCR entry body (exact)
 

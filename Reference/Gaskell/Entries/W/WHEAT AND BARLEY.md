@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BARLEY` | **unresolved** (review queue) |
+| `BARLEY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]]; [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
 | `COMPANY OF GODS` | **unresolved** (review queue) |
 | `FooD FOR souL` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `KINGpoM OF Gop` | **unresolved** (review queue) |
 | `Moorrina Post` | **unresolved** (review queue) |
-| `NINE (number)` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
+| `NINE (number)` | resolved (exact) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `PooL OF ZENITH` | **unresolved** (review queue) |
 | `REAPING AFTER SOWING` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `SOWING` | **unresolved** (review queue) |
-| `ZENITH` | **unresolved** (review queue) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `SOWING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

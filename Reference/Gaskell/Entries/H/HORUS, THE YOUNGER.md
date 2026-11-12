@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HARPOCRATES` | **unresolved** (review queue) |
+| `HARPOCRATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
 
 ## Full OCR entry body (exact)
 

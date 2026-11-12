@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Kama` | **unresolved** (review queue) |
-| `ParapisE (lower)` | **unresolved** (review queue) |
+| `ParapisE (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 
 ## Full OCR entry body (exact)
 

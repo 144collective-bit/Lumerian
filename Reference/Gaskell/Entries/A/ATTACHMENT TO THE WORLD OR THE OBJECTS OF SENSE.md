@@ -32,28 +32,28 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `Bonpacs` | **unresolved** (review queue) |
 | `Car rr CausaL-BODY` | **unresolved** (review queue) |
-| `Darkness` | **unresolved** (review queue) |
+| `Darkness` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `Ex ATTRACTION eNcES` | **unresolved** (review queue) |
 | `Fart` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `ImaGE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `INCARNATION OF soULs` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `LiaHt` | **unresolved** (review queue) |
-| `Loaos` | **unresolved** (review queue) |
+| `LiaHt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
+| `Loaos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOGOS (REASON-SPEECH)|LOGOS (REASON-SPEECH)]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MEMBERS` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
-| `NIBVANA` | **unresolved** (review queue) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
+| `NIBVANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SEPARATENess` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
-| `WaLxs (six)` | **unresolved** (review queue) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
+| `WaLxs (six)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

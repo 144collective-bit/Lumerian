@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADONIs` | **unresolved** (review queue) |
+| `ADONIs` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
 | `Farru` | **unresolved** (review queue) |
-| `IpMon` | **unresolved** (review queue) |
-| `MaRiIanDyni` | **unresolved** (review queue) |
-| `TEETH` | **unresolved** (review queue) |
-| `TUSE` | **unresolved** (review queue) |
+| `IpMon` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IDMON, THE SEER|IDMON, THE SEER]] |
+| `MaRiIanDyni` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARIANDYNI|MARIANDYNI]] |
+| `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
+| `TUSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUSE TUMA-TAUENGA|TUSE TUMA-TAUENGA]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,7 +35,7 @@ tags:
 | `BEASTS OF MOUNTAINS` | **unresolved** (review queue) |
 | `Krnapoms` | **unresolved** (review queue) |
 | `TEMPTATION OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
-| `TYRUS` | **unresolved** (review queue) |
+| `TYRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
 
 ## Full OCR entry body (exact)
 

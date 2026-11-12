@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKASA` | **candidate (first-segment only)** → possible `AKASA, ETHER-SPACE` (not linked) |
-| `BINAH` | **candidate (first-segment only)** → possible `BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING` (not linked) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `AKASA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AKASA, ETHER-SPACE|AKASA, ETHER-SPACE]] |
+| `BINAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `COW-MEHURT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `HETHRA` | **candidate (first-segment only)** → possible `HETHRA, THE MOTHER OF ALL LIVING` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `HETHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HETHRA, THE MOTHER OF ALL LIVING|HETHRA, THE MOTHER OF ALL LIVING]] |
 | `Itiusron` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Matrer` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Morner` | **unresolved** (review queue) |
-| `MULA-PRAKRITI` | **candidate (first-segment only)** → possible `MULA-PRAKRITI, HAVAT` (not linked) |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `PurvusHA` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `MULA-PRAKRITI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
+| `PurvusHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sprrit` | **unresolved** (review queue) |
-| `WoMB` | **unresolved** (review queue) |
+| `WoMB` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 
 ## Full OCR entry body (exact)
 

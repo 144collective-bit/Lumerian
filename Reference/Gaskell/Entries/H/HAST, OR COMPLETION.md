@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Company (gods)` | **unresolved** (review queue) |
-| `ConsumMMATION` | **unresolved** (review queue) |
+| `ConsumMMATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 
 ## Full OCR entry body (exact)

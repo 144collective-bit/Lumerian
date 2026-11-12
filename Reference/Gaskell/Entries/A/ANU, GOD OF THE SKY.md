@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
-| `Personarity` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Personarity` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 
 ## Full OCR entry body (exact)

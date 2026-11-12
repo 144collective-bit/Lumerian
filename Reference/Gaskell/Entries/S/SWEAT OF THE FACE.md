@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
 | `Breap` | **unresolved** (review queue) |
-| `Dust` | **unresolved** (review queue) |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
 | `EvouvutTion` | **unresolved** (review queue) |
 | `Face` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `Grovunpn` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |

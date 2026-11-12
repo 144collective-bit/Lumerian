@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CORRUPTION` | **unresolved** (review queue) |
-| `DEPRAVITY` | **candidate (first-segment only)** → possible `DEPRAVITY, UNIVERSAL` (not linked) |
-| `GATHA (kam.)` | **unresolved** (review queue) |
-| `MAN (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `UNRIGHTEOUS` | **candidate (ambiguous first-segment)** → UNRIGHTEOUS, OR WICKED MAN; UNRIGHTEOUS, WIOCKEDNESS, GATHA USHTAVAITI CHANTED (not linked) |
-| `Way` | **unresolved** (review queue) |
+| `CORRUPTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORRUPTION AND VIOLENCE ON THE EARTH|CORRUPTION AND VIOLENCE ON THE EARTH]] |
+| `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
+| `GATHA (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `MAN (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
+| `UNRIGHTEOUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNRIGHTEOUS, OR WICKED MAN|UNRIGHTEOUS, OR WICKED MAN]]; [[Reference/Gaskell/Entries/U/UNRIGHTEOUS, WIOCKEDNESS, GATHA USHTAVAITI CHANTED|UNRIGHTEOUS, WIOCKEDNESS, GATHA USHTAVAITI CHANTED]] |
+| `Way` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]]; [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]]; [[Reference/Gaskell/Entries/W/WAY OF THE MIDST|WAY OF THE MIDST]]; [[Reference/Gaskell/Entries/W/WAY WAY OF DEATH|WAY WAY OF DEATH]] |
 | `Way OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
 
 ## Full OCR entry body (exact)

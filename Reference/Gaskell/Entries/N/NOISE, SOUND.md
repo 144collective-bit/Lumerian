@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `Moura` | **unresolved** (review queue) |
-| `Sounp` | **unresolved** (review queue) |
-| `VoIcE` | **unresolved** (review queue) |
+| `Sounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
+| `VoIcE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 
 ## Full OCR entry body (exact)
 

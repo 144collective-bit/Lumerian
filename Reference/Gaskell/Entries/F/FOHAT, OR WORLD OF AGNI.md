@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
-| `POLYPHEMUS` | **candidate (first-segment only)** → possible `POLYPHEMUS, SON OF POSEIDON` (not linked) |
+| `POLYPHEMUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLYPHEMUS, SON OF POSEIDON|POLYPHEMUS, SON OF POSEIDON]] |
 
 ## Full OCR entry body (exact)
 

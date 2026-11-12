@@ -36,10 +36,10 @@ tags:
 | `Captiviry` | **unresolved** (review queue) |
 | `Fou` | **unresolved** (review queue) |
 | `MvuLtiIrupEs` | **unresolved** (review queue) |
-| `NaTIoNs` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `NaTIoNs` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `PENANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

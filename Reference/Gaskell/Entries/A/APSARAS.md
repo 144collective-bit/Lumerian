@@ -40,7 +40,7 @@ tags:
 | `‘OPENER OF THE WAYS ** :— A symbol of the external body or vehicle of the soul` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which opens the way to manifestation in the lower worlds. See Aru-ni` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ANPU` | **unresolved** (review queue) |
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 
 ## Full OCR entry body (exact)
 

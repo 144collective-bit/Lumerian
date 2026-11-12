@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Hokus` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `PappLEs` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 
 ## Full OCR entry body (exact)
 

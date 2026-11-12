@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `SMOKE AND VAPOUR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SMOKE AND VAPOUR|SMOKE AND VAPOUR]] |
-| `VAPOUR` | **candidate (first-segment only)** → possible `VAPOUR, WHITE` (not linked) |
+| `VAPOUR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAPOUR AND SMOKE|VAPOUR AND SMOKE]]; [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 
 ## Full OCR entry body (exact)
 

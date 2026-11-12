@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Greeks` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `Greeks` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `HeEweER` | **unresolved** (review queue) |
 | `I1ivum` | **unresolved** (review queue) |
 | `Po..ux` | **unresolved** (review queue) |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `Troyans` | **unresolved** (review queue) |
+| `Troyans` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `TROY` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
 | `WispoM` | **unresolved** (review queue) |
 

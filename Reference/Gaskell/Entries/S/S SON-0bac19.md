@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Loxe` | **unresolved** (review queue) |
-| `NARE` | **candidate (first-segment only)** → possible `NARE, OR NARVE` (not linked) |
+| `NARE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NARE, OR NARVE|NARE, OR NARVE]] |
 
 ## Full OCR entry body (exact)
 

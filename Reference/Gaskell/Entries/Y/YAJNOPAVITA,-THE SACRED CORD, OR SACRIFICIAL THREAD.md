@@ -35,14 +35,14 @@ tags:
 | `Barxkis` | **unresolved** (review queue) |
 | `Barsom` | **unresolved** (review queue) |
 | `' BiIRrTs (second)` | **unresolved** (review queue) |
-| `BucKLE` | **unresolved** (review queue) |
-| `CasTES` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
+| `BucKLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUCKLE OF ISIS|BUCKLE OF ISIS]] |
+| `CasTES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
 | `EPpnHop` | **unresolved** (review queue) |
 | `Kust1` | **unresolved** (review queue) |
-| `SANNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
+| `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `SUTRATMA` | **unresolved** (review queue) |
 | `TAMAGUSHI` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
 
 ## Full OCR entry body (exact)

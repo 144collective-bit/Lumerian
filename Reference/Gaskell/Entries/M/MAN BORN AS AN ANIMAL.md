@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEVAYANA` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `EVvoLurTion` | **unresolved** (review queue) |
 | `Hrevxo` | **unresolved** (review queue) |
 | `Invo.turion` | **unresolved** (review queue) |
 | `Karma` | **unresolved** (review queue) |
-| `Lunar CYCLE` | **unresolved** (review queue) |
+| `Lunar CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `MAHAYANA` | **unresolved** (review queue) |
 | `MAN CRAWLED` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `OF LIFE` | **unresolved** (review queue) |
-| `MOON-WAXING` | **unresolved** (review queue) |
+| `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
 | `PrTrRis` | **unresolved** (review queue) |
-| `PreriYANA` | **unresolved** (review queue) |
+| `PreriYANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
-| `SEDINS OF ANIMALS` | **unresolved** (review queue) |
+| `SEDINS OF ANIMALS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `WHEREIS. ‘** MAN CRAWLED LIKE A WORM ”’ :-— A symbol of the condition of animal-man before the advent within him of mind which raised him above the lower forms of life. **The angela exhorted each other saying` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `‘Let us make man in our i and likeness.’ He was accordingly formed` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -109,18 +109,18 @@ tags:
 | `Nature` | **unresolved** (review queue) |
 | `efe.` | **unresolved** (review queue) |
 | `p. 152. See Apo. MAN` | **unresolved** (review queue) |
-| `AsAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
-| `DEVAS (lower)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `GrowTH` | **unresolved** (review queue) |
+| `AsAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
+| `DEVAS (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+| `GrowTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GROWTH OF MAN FROM THE EARTH|GROWTH OF MAN FROM THE EARTH]]; [[Reference/Gaskell/Entries/G/GROWTH TO BE ONE OUT OF MANY|GROWTH TO BE ONE OUT OF MANY]] |
 | `HImaNnyYAGARBHA` | **unresolved** (review queue) |
 | `Hrmvxo` | **unresolved** (review queue) |
-| `ImaGe` | **unresolved** (review queue) |
+| `ImaGe` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `[mPERIAL` | **unresolved** (review queue) |
 | `MAN BORN` | **unresolved** (review queue) |
 | `Marrzo` | **unresolved** (review queue) |
 | `Merempsyonosis` | **unresolved** (review queue) |
 | `MonNAaD oF Lire` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `Sout` | **unresolved** (review queue) |
 | `SPARK. MAN` | **unresolved** (review queue) |
 | `NATURAL :-— A symbol of the lower mind united with the desires and affections of the lower nature. ** Now the natural man receiveth not the things of the Spirit of God` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -157,8 +157,8 @@ tags:
 | `which are never the same.’’— Cc. Anperson` | **unresolved** (review queue) |
 | `Serm.` | **unresolved** (review queue) |
 | `The Buried Life. See Apam (lower)` | **unresolved** (review queue) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DAVID` | **candidate (ambiguous first-segment)** → DAVID, KING OF ISRAEL; DAVID, SON OF (not linked) |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DAVID` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DAVID, KING OF ISRAEL|DAVID, KING OF ISRAEL]]; [[Reference/Gaskell/Entries/D/DAVID, SON OF|DAVID, SON OF]] |
 | `DraD` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `MAHAYANA` | **unresolved** (review queue) |

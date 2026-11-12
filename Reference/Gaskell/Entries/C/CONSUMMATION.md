@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoME INTO THEE` | **unresolved** (review queue) |
-| `Marriace` | **unresolved** (review queue) |
+| `Marriace` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `UNION. OR ASTERHast` | **unresolved** (review queue) |
 | `CONTENTION` | **unresolved** (review queue) |
-| `BLOODY;` | **unresolved** (review queue) |
+| `BLOODY;` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLOODY SWEAT OF JESUS|BLOODY SWEAT OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

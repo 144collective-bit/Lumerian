@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `POURUSHASPO` | **unresolved** (review queue) |
+| `POURUSHASPO` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BisHop` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BISHOP|BISHOP]] |
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `Doorn (higher)` | **unresolved** (review queue) |
 | `LiIrTrLE CHILDREN` | **unresolved** (review queue) |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Sun (door)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `THIEF` | **unresolved** (review queue) |
+| `THIEF` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIEF OR ROBBER|THIEF OR ROBBER]] |
 
 ## Full OCR entry body (exact)
 

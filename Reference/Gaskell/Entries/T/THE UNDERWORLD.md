@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABRAHAM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABRAHAM|ABRAHAM]] |
-| `ADONIS` | **unresolved** (review queue) |
-| `AIDONEUS` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `FIRE OF HELL` | **unresolved** (review queue) |
-| `Five` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `Five` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `Furnace` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
 | `Heit` | **unresolved** (review queue) |
 | `Hermop` | **unresolved** (review queue) |
-| `Hine` | **unresolved** (review queue) |
+| `Hine` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HINE-NUI-TE-PO|HINE-NUI-TE-PO]] |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `Mreapow` | **unresolved** (review queue) |
 | `Micruan` | **unresolved** (review queue) |
-| `NIFLHEIM` | **candidate (ambiguous first-segment)** → NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS; NIFLHEIM, THE SHADOWY REGION OF DEATH (not linked) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `NIFLHEIM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS|NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS]]; [[Reference/Gaskell/Entries/N/NIFLHEIM, THE SHADOWY REGION OF DEATH|NIFLHEIM, THE SHADOWY REGION OF DEATH]] |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `Re-sTau` | **candidate (first-segment only)** → possible `RE-STAU, THE PASSAGES OF THE TOMB` (not linked) |
+| `Re-sTau` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
 | `RicH MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
-| `TaARTARUS` | **unresolved** (review queue) |
+| `TaARTARUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
 | `TuaT UNDERWORLD` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

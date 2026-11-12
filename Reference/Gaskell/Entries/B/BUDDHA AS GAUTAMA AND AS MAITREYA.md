@@ -32,34 +32,34 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaT` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
+| `AaT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ARHATS` | **unresolved** (review queue) |
-| `ASITA` | **candidate (first-segment only)** → possible `ASITA, THE SAGE` (not linked) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
+| `ASITA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
 | `AVALOKITESVARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AVALOKITESVARA|AVALOKITESVARA]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `BopHIsaTvA` | **unresolved** (review queue) |
+| `BopHIsaTvA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `BRAHMAN PRIESTS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]] |
 | `Curist` | **unresolved** (review queue) |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `DESTROYING EVILS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DESTROYING EVILS|DESTROYING EVILS]] |
-| `DWELLING` | **unresolved** (review queue) |
+| `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Invoturion` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `Kak` | **unresolved** (review queue) |
 | `Lion-Garr` | **unresolved** (review queue) |
-| `NURSE` | **unresolved** (review queue) |
-| `PRAYERS` | **unresolved** (review queue) |
+| `NURSE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NURSE OF MEN|NURSE OF MEN]]; [[Reference/Gaskell/Entries/N/NURSE OF THE SOUL|NURSE OF THE SOUL]] |
+| `PRAYERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 | `RaHULA` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `SosrosH` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `SosrosH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 | `Sout` | **unresolved** (review queue) |
 | `130 BUDDHI (highest)` | **unresolved** (review queue) |
-| `SuppDHODANA` | **unresolved** (review queue) |
-| `‘TONGUE` | **candidate (first-segment only)** → possible `TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS` (not linked) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
-| `TUSHITA` | **unresolved** (review queue) |
+| `SuppDHODANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
+| `‘TONGUE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
+| `TUSHITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUSHITA HEAVEN|TUSHITA HEAVEN]] |
 | `YASODHARA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

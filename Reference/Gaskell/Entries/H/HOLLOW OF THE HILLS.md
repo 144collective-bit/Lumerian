@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Doors (house)` | **candidate (first-segment only)** → possible `DOORS, HOUSE WITH FOUR` (not linked) |
+| `Doors (house)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]] |
 | `HiLL COUNTRY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] |
-| `MountTarn` | **unresolved** (review queue) |
+| `MountTarn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
 
 ## Full OCR entry body (exact)

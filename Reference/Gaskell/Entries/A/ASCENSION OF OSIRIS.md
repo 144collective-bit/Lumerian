@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-rni` | **unresolved** (review queue) |
-| `Arms (body)` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `Arms (body)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 | `Boar CavusAL-BoDY` | **unresolved** (review queue) |
-| `CorpsE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `CorpsE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
-| `CRUCIFIXION` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `FEED` | **unresolved** (review queue) |
 | `GLORIFyInc` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `KHEerer` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Osrris` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Peter` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `ScaraBzvus` | **unresolved** (review queue) |
-| `SHu` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `Peter` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `ScaraBzvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SCARABAUS|SCARABAUS]] |
+| `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 | `Sun-nmine` | **unresolved** (review queue) |
 | `Tuat. ASCETIC;` | **unresolved** (review queue) |
 

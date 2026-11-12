@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `BALARAMA` | **unresolved** (review queue) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `DHARMA` | **unresolved** (review queue) |
+| `BALARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `DHARMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] |
 | `GXUSH-URVA` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
-| `HusBaANDMAN` | **unresolved** (review queue) |
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `HusBaANDMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `Ox AND 48s` | **unresolved** (review queue) |
-| `OxEN` | **candidate (first-segment only)** → possible `OXEN, OFFSPRING OF` (not linked) |
+| `OxEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OXEN, OFFSPRING OF|OXEN, OFFSPRING OF]] |
 | `REaPIna` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEKHET-HETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
+| `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SHABTIL Sower` | **unresolved** (review queue) |
 | `Sowing. G PLUMES Te aCe` | **unresolved** (review queue) |
 | `ae` | **unresolved** (review queue) |

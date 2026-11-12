@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `TENEDOS` | **unresolved** (review queue) |
+| `TENEDOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TENEDOS ISLAND|TENEDOS ISLAND]] |
 
 ## Full OCR entry body (exact)
 

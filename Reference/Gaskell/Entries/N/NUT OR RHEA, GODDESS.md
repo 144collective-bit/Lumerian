@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Avprri` | **unresolved** (review queue) |
-| `AKERT` | **candidate (first-segment only)** → possible `AKERT, THE UNDERWORLD` (not linked) |
-| `BimTH OF OSIRIS` | **unresolved** (review queue) |
+| `AKERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] |
+| `BimTH OF OSIRIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
 | `Boar (sektet)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `CURSE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `Gops` | **unresolved** (review queue) |
@@ -46,13 +46,13 @@ tags:
 | `Nerruys` | **unresolved** (review queue) |
 | `Nix` | **unresolved** (review queue) |
 | `Nv` | **unresolved** (review queue) |
-| `Opposites` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `Osimis` | **unresolved** (review queue) |
+| `Opposites` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `Osimis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `Prruars or sHU` | **unresolved** (review queue) |
 | `Ri` | **unresolved** (review queue) |
 | `RHE` | **unresolved** (review queue) |
 | `Szs` | **unresolved** (review queue) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `SHvu` | **unresolved** (review queue) |
 | `Ternout` | **unresolved** (review queue) |
 | `Tem` | **unresolved** (review queue) |

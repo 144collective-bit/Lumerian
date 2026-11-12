@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Buiss` | **unresolved** (review queue) |
+| `Buiss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLISS|BLISS]] |
 | `Buppxi` | **unresolved** (review queue) |
 | `DraRrTsH` | **unresolved** (review queue) |
-| `KarsHvARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `KarsHvARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `Lanp` | **unresolved** (review queue) |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
-| `OPPposITES` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `OPPposITES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Rounp` | **unresolved** (review queue) |
 | `SNow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
-| `Sparrows` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
-| `SUMMER (unfruitful)` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `Sparrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+| `SUMMER (unfruitful)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `Wivrrr` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

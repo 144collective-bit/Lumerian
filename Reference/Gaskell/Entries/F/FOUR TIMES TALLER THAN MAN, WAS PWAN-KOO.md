@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `DeEsERTs` | **unresolved** (review queue) |
 | `HEIGHT OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
-| `PwaN-koo` | **candidate (first-segment only)** → possible `PWAN-KOO, THE DIVINE ARTIFICER` (not linked) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `PwaN-koo` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

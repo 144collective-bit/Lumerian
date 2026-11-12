@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `Harr` | **unresolved** (review queue) |
 | `Hann` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
 | `Man (lower)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PRiEst` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `PRiEst` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 
 ## Full OCR entry body (exact)
 

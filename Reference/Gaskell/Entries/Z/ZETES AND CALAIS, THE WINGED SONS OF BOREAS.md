@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anconavuts` | **unresolved** (review queue) |
-| `Boreas` | **candidate (first-segment only)** → possible `BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS` (not linked) |
+| `Boreas` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
 | `HARPIES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
-| `NICOTHEA` | **candidate (first-segment only)** → possible `NICOTHEA, ZETES CALAMITIES` (not linked) |
-| `OCYPETE` | **candidate (first-segment only)** → possible `OCYPETE, THE HARPY` (not linked) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
+| `NICOTHEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NICOTHEA HARPY|NICOTHEA HARPY]]; [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
+| `OCYPETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 
 ## Full OCR entry body (exact)
 

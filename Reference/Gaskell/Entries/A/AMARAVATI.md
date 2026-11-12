@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
-| `ARCHED` | **unresolved** (review queue) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
+| `ARCHED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARCHED GATEWAYS|ARCHED GATEWAYS]] |
 | `ASURAS` | **unresolved** (review queue) |
 | `Crry oF GOD` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `KapiLa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `OLympPvus. 43` | **unresolved** (review queue) |
 

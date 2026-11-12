@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `FiesH` | **unresolved** (review queue) |
 | `ROasren` | **unresolved** (review queue) |
 

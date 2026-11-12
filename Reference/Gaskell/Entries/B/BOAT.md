@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-RA` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
-| `ARK` | **unresolved** (review queue) |
-| `CHARIOT OF THE SUN` | **candidate (first-segment only)** → possible `CHARIOT OF THE SUN, WITH FOUR HORSES` (not linked) |
-| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
-| `TuaT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `CHARIOT OF THE SUN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHARIOT OF THE SUN, WITH FOUR HORSES|CHARIOT OF THE SUN, WITH FOUR HORSES]] |
+| `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
+| `TuaT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 
 ## Full OCR entry body (exact)
 

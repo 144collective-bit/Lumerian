@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMEN` | **candidate (first-segment only)** → possible `AMEN, OR AMON (THE HIDDEN ONE)` (not linked) |
-| `BIRTH OF OSIBIS` | **unresolved** (review queue) |
+| `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
+| `BIRTH OF OSIBIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
 | `Buppgr` | **unresolved** (review queue) |
 | `EarrH (great)` | **unresolved** (review queue) |
 | `HErrTHRA` | **unresolved** (review queue) |
@@ -42,10 +42,10 @@ tags:
 | `Morser` | **unresolved** (review queue) |
 | `Nout` | **unresolved** (review queue) |
 | `OsrRis` | **unresolved** (review queue) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `SAPANDOMAD` | **candidate (first-segment only)** → possible `SAPANDOMAD, EARTH` (not linked) |
-| `SKY` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `THETIS` | **candidate (first-segment only)** → possible `THETIS, GODDESS` (not linked) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `SAPANDOMAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPANDOMAD, EARTH|SAPANDOMAD, EARTH]] |
+| `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `THETIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 | `WomAN (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `Woms` | **unresolved** (review queue) |
 

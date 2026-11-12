@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `FAcrE (Lord)` | **unresolved** (review queue) |
+| `BraHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `FAcrE (Lord)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
 | `GopHEaD` | **unresolved** (review queue) |
 | `Pars (twofold)` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `YESHTIKA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

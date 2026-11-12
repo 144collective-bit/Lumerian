@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APE` | **candidate (first-segment only)** → possible `APE, DOG-HEADED (LOWER ASPECT)` (not linked) |
+| `APE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APE, DOG-HEADED (LOWER ASPECT)|APE, DOG-HEADED (LOWER ASPECT)]] |
 | `Beasts` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
 | `CaTriB` | **unresolved** (review queue) |
 | `CREATuREs` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `Goat` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Goat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOAT, MILCH|GOAT, MILCH]]; [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `Lion` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `Saorrrice` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

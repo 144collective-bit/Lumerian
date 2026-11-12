@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CRown (upper)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Eayrt (higher)` | **unresolved** (review queue) |
-| `NEKHEBIT` | **candidate (first-segment only)** → possible `NEKHEBIT, WATER HIPPOPOTAMUS, MALE` (not linked) |
+| `NEKHEBIT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NEKHEBIT AND UACHIT|NEKHEBIT AND UACHIT]]; [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 
 ## Full OCR entry body (exact)
 

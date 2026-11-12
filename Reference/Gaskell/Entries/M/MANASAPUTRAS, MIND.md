@@ -34,21 +34,21 @@ tags:
 |---|---|
 | `ACHAIANS (sons)` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ACHAIANS|ACHAIANS]] |
 | `AGNISVATTAS` | **unresolved** (review queue) |
-| `BopHIsATVAS` | **unresolved** (review queue) |
+| `BopHIsATVAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `CHILDREN OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `LITTLE CHILDREN` | **candidate (first-segment only)** → possible `LITTLE CHILDREN, OR LITTLE ONES` (not linked) |
+| `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `Man _ (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Marvuts` | **unresolved** (review queue) |
 | `MazENDARANS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `MUSPELL (sons)` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MUSPELL (sons)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `Prrris (solar)` | **unresolved** (review queue) |
 | `PrrarvaNna` | **unresolved** (review queue) |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `Sons oF Gop` | **unresolved** (review queue) |
-| `SPaRK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `SPaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 
 ## Full OCR entry body (exact)
 

@@ -38,10 +38,10 @@ tags:
 | `CARPENTER` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARPENTER|CARPENTER]] |
 | `House RULER` | **unresolved** (review queue) |
 | `HYMN SINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `TRISHTUBH` | **unresolved** (review queue) |
+| `TRISHTUBH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRISHTUBH METRE|TRISHTUBH METRE]] |
 
 ## Full OCR entry body (exact)
 

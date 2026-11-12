@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Lost (forest)` | **unresolved** (review queue) |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
 
 ## Full OCR entry body (exact)
 

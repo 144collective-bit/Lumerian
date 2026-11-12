@@ -36,8 +36,8 @@ tags:
 | `Chs. 14` | **unresolved** (review queue) |
 | `17` | **unresolved** (review queue) |
 | `18. See Quatitres` | **unresolved** (review queue) |
-| `Ragas` | **unresolved** (review queue) |
-| `SHINAR` | **unresolved** (review queue) |
+| `Ragas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAMAS, ORDERS, YESHTIHA MOMENTS|RAMAS, ORDERS, YESHTIHA MOMENTS]] |
+| `SHINAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHINAR LAND|SHINAR LAND]] |
 | `TAMAS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (testimony)` | **unresolved** (review queue) |
+| `ARK (testimony)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `BENNU-BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `Brrep (great)` | **unresolved** (review queue) |
-| `Katanansa` | **unresolved** (review queue) |
+| `Katanansa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KALAHANSA, THE SWAN AND OUT OF TIME|KALAHANSA, THE SWAN AND OUT OF TIME]] |
 | `Law or MAZDA` | **unresolved** (review queue) |
-| `PHANG` | **candidate (first-segment only)** → possible `PHANG, THE GREAT BIRD` (not linked) |
-| `PHaNIX` | **unresolved** (review queue) |
+| `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
+| `PHaNIX` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHENIX, THE BIRD OF ARABIA|PHENIX, THE BIRD OF ARABIA]] |
 | `Sore` | **unresolved** (review queue) |
-| `Swan` | **candidate (first-segment only)** → possible `SWAN, WHITE` (not linked) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

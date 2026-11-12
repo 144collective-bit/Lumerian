@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
 | `CiLassEs` | **unresolved** (review queue) |
-| `HEALIne` | **unresolved** (review queue) |
+| `HEALIne` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Rutgers (world)` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `ASCULAPros` | **unresolved** (review queue) |
-| `TRISE-RULERS` | **unresolved** (review queue) |
+| `TRISE-RULERS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRIBE-RULERS|TRIBE-RULERS]] |
 | `VESTURES. HOUSE-RULER :-— A symbol of the sense-nature operating from a physical centre or centres in the human brain. ** The progress which is in the Ahunavaiti Gatha the house-rulers should on.”’—Shayast La-Shayast` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Ch. XIII. 15. The development of soul occasioned through the instrumentality of the physical body is due to the rule of the senses which arouse and inform the mind. See Garua (ahun.)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `RuLEgs (world)` | **unresolved** (review queue) |

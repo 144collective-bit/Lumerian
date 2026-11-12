@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 
 ## Full OCR entry body (exact)

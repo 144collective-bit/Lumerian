@@ -33,26 +33,26 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Axcrnous` | **unresolved** (review queue) |
-| `APPLES` | **unresolved** (review queue) |
-| `BuDpDHI` | **unresolved** (review queue) |
+| `APPLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APPLES OF THE HESPERIDES|APPLES OF THE HESPERIDES]] |
+| `BuDpDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `CANA MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANA MARRIAGE|CANA MARRIAGE]] |
-| `CONCEPTION (child)` | **unresolved** (review queue) |
+| `CONCEPTION (child)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `DIVORCE` | **unresolved** (review queue) |
-| `EPIMETHEUS` | **unresolved** (review queue) |
+| `EPIMETHEUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EPIMETHEUS (AFTERTHOUGHT)|EPIMETHEUS (AFTERTHOUGHT)]] |
 | `Friaa` | **unresolved** (review queue) |
 | `482 MARRIAGE Gursts` | **unresolved** (review queue) |
-| `Hera` | **unresolved** (review queue) |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `HicHER AND LOWER SELVES` | **unresolved** (review queue) |
 | `HrkosposHI` | **unresolved** (review queue) |
-| `HvussaND AND WIFE` | **unresolved** (review queue) |
+| `HvussaND AND WIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBAND AND WIFE|HUSBAND AND WIFE]] |
 | `MampEN` | **unresolved** (review queue) |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `Max AND WIFE` | **unresolved** (review queue) |
 | `MAN WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
-| `Two` | **candidate (first-segment only)** → possible `TWO, NUMBER` (not linked) |
-| `Union` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
-| `Viner` | **unresolved** (review queue) |
+| `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
+| `Union` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
+| `Viner` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]] |
 | `WEDDING` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEDDING|WEDDING]] |
 | `Wire` | **unresolved** (review queue) |
 | `Wispom` | **unresolved** (review queue) |

@@ -34,21 +34,21 @@ tags:
 |---|---|
 | `Briss` | **unresolved** (review queue) |
 | `BuppHA` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `IonorANCE` | **unresolved** (review queue) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `IonorANCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `JOB` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `Karma` | **unresolved** (review queue) |
-| `Lost (forest)` | **unresolved** (review queue) |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
 | `Nipanas` | **unresolved** (review queue) |
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `ORIGINAL SIN` | resolved (full-head) → [[Reference/Gaskell/Entries/O/ORIGINAL SIN|ORIGINAL SIN]] |
-| `PASSION` | **unresolved** (review queue) |
+| `PASSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
 | `PENANCES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCES|PENANCES]] |
 | `SERVANT OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `VINEGAR` | **unresolved** (review queue) |
-| `WEALTH` | **unresolved** (review queue) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

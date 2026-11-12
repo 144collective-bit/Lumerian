@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARGOS` | **unresolved** (review queue) |
-| `MEAOU TRIBES` | **unresolved** (review queue) |
-| `SHAVING` | **unresolved** (review queue) |
+| `ARGOS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `MEAOU TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEAOU TRIBES OF CHINA|MEAOU TRIBES OF CHINA]] |
+| `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
 
 ## Full OCR entry body (exact)
 

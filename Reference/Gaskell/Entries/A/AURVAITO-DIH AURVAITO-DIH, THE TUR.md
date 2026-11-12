@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brraps (heaven)` | **unresolved** (review queue) |
-| `DucHpHova` | **unresolved** (review queue) |
+| `DucHpHova` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DUGHDHOVA, MOTHER ZARATUST|DUGHDHOVA, MOTHER ZARATUST]] |
 | `Foop` | **unresolved** (review queue) |
 | `Poor PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |
 | `POvERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `PournvusHasPa` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

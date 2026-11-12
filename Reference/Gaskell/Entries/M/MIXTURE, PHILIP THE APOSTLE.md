@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ApostTLEs` | **unresolved** (review queue) |
-| `DiscreLEs` | **unresolved** (review queue) |
+| `ApostTLEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `DiscreLEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `FEEDING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 
 ## Full OCR entry body (exact)

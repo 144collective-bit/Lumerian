@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `ALTAR` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `ALTAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `Curyszis` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `INcensz` | **unresolved** (review queue) |
-| `MOsEs` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
-| `PESTILENCE` | **unresolved** (review queue) |
-| `PROCESSION` | **unresolved** (review queue) |
+| `MOsEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 
 ## Full OCR entry body (exact)
 

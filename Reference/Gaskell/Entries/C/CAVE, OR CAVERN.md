@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADRASTIA` | **candidate (first-segment only)** → possible `ADRASTIA, CRETAN NYMPH` (not linked) |
+| `ADRASTIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ADRASTIA, CRETAN NYMPH|ADRASTIA, CRETAN NYMPH]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `HripInG PLACE` | **unresolved** (review queue) |
 | `LOKE` | **unresolved** (review queue) |
-| `MITHRA` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
-| `PHangEs` | **unresolved** (review queue) |
+| `MITHRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MITHRA SLAYING THE BULL|MITHRA SLAYING THE BULL]] |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+| `PHangEs` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
 | `Rana` | **unresolved** (review queue) |
-| `Rock (spiritual)` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `Rock (spiritual)` | resolved (exact) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

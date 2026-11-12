@@ -33,42 +33,42 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABRAxAS` | **unresolved** (review queue) |
-| `ADAMAS` | **unresolved** (review queue) |
-| `ADITYAS (twelve)` | **candidate (first-segment only)** → possible `ADITYAS, THE TWELVE` (not linked) |
+| `ADAMAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] |
+| `ADITYAS (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] |
 | `ASons (twelve)` | **unresolved** (review queue) |
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `Arc. MAN` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
-| `CANCER` | **candidate (first-segment only)** → possible `CANCER, THE ZODIACAL SIGN` (not linked) |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
+| `CANCER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] |
 | `CaAPRICORN` | **unresolved** (review queue) |
 | `CELESTIAL STEMS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CELESTIAL STEMS|CELESTIAL STEMS]] |
-| `COMPARTMENTS` | **unresolved** (review queue) |
+| `COMPARTMENTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COMPARTMENTS OR DIVISIONS OF THE TUAT|COMPARTMENTS OR DIVISIONS OF THE TUAT]] |
 | `DECANS` | **unresolved** (review queue) |
 | `ELEPHANT` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ELEPHANT|ELEPHANT]] |
-| `EQuvuINox` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EQuvuINox` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HORSE SACRIFICE` | **unresolved** (review queue) |
 | `Hoor` | **unresolved** (review queue) |
 | `ITABRAOTH` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LEVIATHAN` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `NIDANAS` | **unresolved** (review queue) |
-| `PISCES` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `PISCES` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SaMsARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
-| `SEVENTH` | **unresolved** (review queue) |
+| `SEVENTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEVENTH DAY|SEVENTH DAY]]; [[Reference/Gaskell/Entries/S/SEVENTH HOUR OF THE NIGHT OF THE TUAT|SEVENTH HOUR OF THE NIGHT OF THE TUAT]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TAURUS` | **candidate (first-segment only)** → possible `TAURUS, THE ZODIACAL SIGN` (not linked) |
+| `TAURUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURUS, THE ZODIACAL SIGN|TAURUS, THE ZODIACAL SIGN]] |
 | `Tras` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `VIRGO` | **candidate (first-segment only)** → possible `VIRGO, THE ZODIACAL SIGN` (not linked) |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `VIRGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIRGO, THE ZODIACAL SIGN|VIRGO, THE ZODIACAL SIGN]] |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `YMER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

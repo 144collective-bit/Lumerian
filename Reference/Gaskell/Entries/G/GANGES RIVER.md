@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENT` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
+| `AMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
 | `ARYANA` | **unresolved** (review queue) |
 | `BrmerHCHAMBER` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `Frurt` | **unresolved** (review queue) |
-| `GaRopMAN` | **unresolved** (review queue) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `Frurt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
+| `GaRopMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `KInNEDOM OF HEAVEN` | **unresolved** (review queue) |
-| `MUSPELHEIM` | **unresolved** (review queue) |
+| `KInNEDOM OF HEAVEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `MUSPELHEIM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
 | `NimvaNna` | **unresolved** (review queue) |
 | `SEKHIT-HETEP` | **unresolved** (review queue) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

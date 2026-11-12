@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `ANDUI8UR` | **unresolved** (review queue) |
 | `BuppHI` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `HARVISPTOKHM` | **candidate (first-segment only)** → possible `HARVISPTOKHM, THE TREE OF ALL SEEDS` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `HARVISPTOKHM` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARVISPTOKHM, THE TREE OF ALL SEEDS|HARVISPTOKHM, THE TREE OF ALL SEEDS]] |
 | `Horse (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
-| `InLusion` | **unresolved** (review queue) |
-| `Iris` | **candidate (first-segment only)** → possible `IRIS, THE GODDESS` (not linked) |
+| `InLusion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
+| `Iris` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IRIS, THE GODDESS|IRIS, THE GODDESS]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `OOKEAN` | **unresolved** (review queue) |
 | `PurtTIKA 8EA` | **unresolved** (review queue) |
-| `Rain` | **unresolved** (review queue) |
-| `TISTRYA` | **unresolved** (review queue) |
+| `Rain` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
+| `TISTRYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `WATER (higher)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

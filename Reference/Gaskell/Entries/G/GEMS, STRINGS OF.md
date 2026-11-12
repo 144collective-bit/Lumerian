@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boppua` | **unresolved** (review queue) |
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `NEcK` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `StrRincs` | **unresolved** (review queue) |
 | `UNGUENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNGUENTS|UNGUENTS]] |
-| `WREATHS` | **unresolved** (review queue) |
+| `WREATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WREATHS OF PLANTS|WREATHS OF PLANTS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `SKY` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 
 ## Full OCR entry body (exact)
 

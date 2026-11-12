@@ -35,7 +35,7 @@ tags:
 | `HovusE OF BONDAGE` | **unresolved** (review queue) |
 | `MrTHRa` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `TREADING` | **unresolved** (review queue) |
+| `TREADING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREADING UNHARMED ON SERPENTS AND SCORPIONS|TREADING UNHARMED ON SERPENTS AND SCORPIONS]] |
 
 ## Full OCR entry body (exact)
 

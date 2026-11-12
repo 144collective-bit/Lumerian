@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `Bioop` | **unresolved** (review queue) |
 | `BLoop or LAMB` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `DioNysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `DioNysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `LAMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
-| `MEDIATOR` | **unresolved** (review queue) |
-| `PASSOVER` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `MEDIATOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEDIATOR CHRIST|MEDIATOR CHRIST]] |
+| `PASSOVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `SOMA-JUICE` | **candidate (first-segment only)** → possible `SOMA-JUICE, OR SAP` (not linked) |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
 
 ## Full OCR entry body (exact)

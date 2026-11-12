@@ -33,27 +33,27 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `BARHISHAD` | **unresolved** (review queue) |
+| `BARHISHAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BARHISHAD PITRIS, OR LUNAR SPIRITS|BARHISHAD PITRIS, OR LUNAR SPIRITS]] |
 | `Curr` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FavTHErs (lower)` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `HeEweER` | **unresolved** (review queue) |
 | `LUNAR OYCLE` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `Man (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MANEs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANES|MANES]] |
 | `Monapd OF FORM` | **unresolved** (review queue) |
-| `MOON-WAXING` | **unresolved** (review queue) |
+| `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prnuars (light)` | **unresolved** (review queue) |
 | `PrratYANA` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `RaAoczgs` | **unresolved** (review queue) |
 | `RULERS OF MATTER` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]] |
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
-| `SUKUNA` | **unresolved** (review queue) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
+| `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

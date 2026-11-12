@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMEN` | **candidate (first-segment only)** → possible `AMEN, OR AMON (THE HIDDEN ONE)` (not linked) |
+| `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
 | `CROWN-ATEF` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN, ATEF|CROWN, ATEF]] |
 
 ## Full OCR entry body (exact)

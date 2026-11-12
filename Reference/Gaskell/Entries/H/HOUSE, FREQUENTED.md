@@ -39,15 +39,15 @@ tags:
 | `Fxroop` | **unresolved** (review queue) |
 | `GARDEN HOUSE OF EDEN` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `KAABA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `NOAH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `PaRaDISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `RED (rose)` | **candidate (first-segment only)** → possible `RED, ROSE, COLOUR` (not linked) |
+| `RED (rose)` | resolved (qualified head) → [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
 | `Rusres` | **unresolved** (review queue) |
-| `STONE (black)` | **unresolved** (review queue) |
-| `Srupa` | **unresolved** (review queue) |
+| `STONE (black)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `Srupa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

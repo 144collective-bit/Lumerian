@@ -47,7 +47,7 @@ tags:
 | `Old Test.` | **unresolved** (review queue) |
 | `etc` | **unresolved** (review queue) |
 | `Vol. II. p. 25. See ABRaHAM` | **unresolved** (review queue) |
-| `SoDOM` | **unresolved** (review queue) |
+| `SoDOM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SODOM AND EGYPT|SODOM AND EGYPT]] |
 | `SOUL (lower)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 
 ## Full OCR entry body (exact)

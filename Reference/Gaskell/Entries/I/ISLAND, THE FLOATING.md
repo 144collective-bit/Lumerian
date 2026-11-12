@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `CHEMMIS` | **unresolved** (review queue) |
-| `DELOS` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
+| `DELOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `TzanaG!I` | **unresolved** (review queue) |
-| `ONOGOROJIMA` | **unresolved** (review queue) |
+| `ONOGOROJIMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ONOGOROJIMA ISLAND|ONOGOROJIMA ISLAND]] |
 
 ## Full OCR entry body (exact)
 

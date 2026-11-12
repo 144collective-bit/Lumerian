@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `AGNIDRA` | **unresolved** (review queue) |
 | `ATHORNE` | **unresolved** (review queue) |
 | `CurysrE` | **unresolved** (review queue) |
-| `Horri. Priest` | **unresolved** (review queue) |
+| `Horri. Priest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOTRI PRIEST (SPEECH)|HOTRI PRIEST (SPEECH)]] |
 | `Pore` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

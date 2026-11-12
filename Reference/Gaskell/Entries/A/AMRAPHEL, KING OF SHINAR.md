@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Kino` | **unresolved** (review queue) |
-| `SHINAR` | **unresolved** (review queue) |
+| `SHINAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHINAR LAND|SHINAR LAND]] |
 
 ## Full OCR entry body (exact)
 

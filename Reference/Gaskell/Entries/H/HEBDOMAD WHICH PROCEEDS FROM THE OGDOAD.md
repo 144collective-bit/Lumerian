@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Giory` | **unresolved** (review queue) |
+| `Giory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `Oapoan` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

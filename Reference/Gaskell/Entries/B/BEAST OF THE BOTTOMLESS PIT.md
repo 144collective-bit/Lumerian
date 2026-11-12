@@ -36,7 +36,7 @@ tags:
 | `Dsvi` | **unresolved** (review queue) |
 | `Pr` | **unresolved** (review queue) |
 | `SERrenw (hissing)` | **unresolved** (review queue) |
-| `WITNESSES (two)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

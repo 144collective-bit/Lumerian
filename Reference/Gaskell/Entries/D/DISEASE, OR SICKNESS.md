@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `MIRACLES` | **unresolved** (review queue) |
+| `MIRACLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MIRACLES OF HEALING|MIRACLES OF HEALING]] |
 
 ## Full OCR entry body (exact)
 

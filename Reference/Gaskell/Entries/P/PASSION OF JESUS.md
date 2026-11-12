@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLOODY SWEAT` | **unresolved** (review queue) |
-| `CRUCIFIXION OF JESUS` | **candidate (ambiguous first-segment)** → CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS; CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS (not linked) |
+| `BLOODY SWEAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLOODY SWEAT OF JESUS|BLOODY SWEAT OF JESUS]] |
+| `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
-| `JESUS (severe)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `JESUS (severe)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JESUS, DESCRIBED AS SEVERE AND TURBULENT|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] |
 | `Mount OF OLIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNT OF OLIVES|MOUNT OF OLIVES]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SERVANT OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
-| `VINEGAR` | **unresolved** (review queue) |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
 
 ## Full OCR entry body (exact)
 

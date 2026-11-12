@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Jacos` | **unresolved** (review queue) |
 | `LappDER (Jacob)` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
 | `Brzs` | **unresolved** (review queue) |
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `Dew` | **unresolved** (review queue) |
-| `EaRxtH` | **unresolved** (review queue) |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
+| `EaRxtH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FaTE-sPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `Foop` | **unresolved** (review queue) |
 | `Honey` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
@@ -45,12 +45,12 @@ tags:
 | `Morraz` | **unresolved** (review queue) |
 | `Prororyrss` | **unresolved** (review queue) |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `THEMIs` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
+| `THEMIs` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 | `UrRDAR` | **unresolved** (review queue) |
 | `VESTUBES` | **unresolved** (review queue) |
-| `WaTEeR` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+| `WaTEeR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

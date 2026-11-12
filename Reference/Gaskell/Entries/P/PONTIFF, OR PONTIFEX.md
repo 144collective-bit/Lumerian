@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `CHURCH` | **unresolved** (review queue) |
-| `HIGH PRIEST` | **unresolved** (review queue) |
-| `PoPE` | **unresolved** (review queue) |
-| `PRrest` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `HIGH PRIEST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
+| `PoPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POPE OF ROME|POPE OF ROME]] |
+| `PRrest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

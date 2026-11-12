@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SHABTI` | **unresolved** (review queue) |
+| `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
 
 ## Full OCR entry body (exact)
 

@@ -37,14 +37,14 @@ tags:
 | `JupDGMENT HALL` | **unresolved** (review queue) |
 | `JUSTIFICATION` | **unresolved** (review queue) |
 | `KARMA` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `MorkazE` | **unresolved** (review queue) |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `NECESSITY` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
 | `SHal` | **unresolved** (review queue) |
 | `Sr-osrr1` | **unresolved** (review queue) |
-| `THEMIs` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
-| `WORDS` | **unresolved** (review queue) |
+| `THEMIs` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+| `WORDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 
 ## Full OCR entry body (exact)
 

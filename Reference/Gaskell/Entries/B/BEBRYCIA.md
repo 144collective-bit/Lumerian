@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMYOUS` | **unresolved** (review queue) |
+| `AMYOUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMYCUS, KING OF BEBRYCIA|AMYCUS, KING OF BEBRYCIA]] |
 
 ## Full OCR entry body (exact)
 

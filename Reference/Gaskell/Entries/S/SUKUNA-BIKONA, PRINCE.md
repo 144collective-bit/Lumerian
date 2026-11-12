@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Brrp` | **unresolved** (review queue) |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `Dwarr` | **unresolved** (review queue) |
-| `LUNAR CHAIN` | **unresolved** (review queue) |
-| `OHONAMOCHI` | **unresolved** (review queue) |
+| `Dwarr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DWARF|DWARF]] |
+| `LUNAR CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]] |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Pitris (lunar)` | **candidate (ambiguous first-segment)** → PITRIS, LUNAR; PITRIS, SOLAR (not linked) |
+| `Pitris (lunar)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PITRIS, LUNAR|PITRIS, LUNAR]] |
 | `PrrrmryvANA` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 
 ## Full OCR entry body (exact)

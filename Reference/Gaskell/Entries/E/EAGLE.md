@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Faruer` | **unresolved** (review queue) |
 | `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
-| `HOLY GHOST` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
+| `HOLY GHOST` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `Lerrer` | **unresolved** (review queue) |
 | `PHOENIX` | **unresolved** (review queue) |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `Spercu` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

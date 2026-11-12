@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GJOLL RIVER` | **unresolved** (review queue) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `SANDAL` | **candidate (first-segment only)** → possible `SANDAL, OR SHOE` (not linked) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `SANDAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
 
 ## Full OCR entry body (exact)
 

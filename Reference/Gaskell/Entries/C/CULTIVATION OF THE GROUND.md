@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `CORN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `Fie~tp` | **unresolved** (review queue) |
-| `GARDEN` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
-| `PLouGHinc` | **unresolved** (review queue) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `PLouGHinc` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `Reapine` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEKHET` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SHABTI` | **unresolved** (review queue) |
+| `SEKHET` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
 | `SOWER. CULTIVATING CULTIVATING CORN` | **unresolved** (review queue) |
 | `GRASS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
 | `AND FRUITS :-— A symbol of the fostering of those virtues and utilities which accrue to the soul through the exercise of the active functions of the mind. “You go to Nature and say` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -64,7 +64,7 @@ tags:
 | `offers a basis for mystical religion and was very suggestive to the primitive Christians.”"—R. M. Jones` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Mystical Religion` | **unresolved** (review queue) |
 | `p. 70. See AGRICULTURE` | **unresolved** (review queue) |
-| `CORN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `CREATURES (small)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `Germs` | **unresolved** (review queue) |
 | `PLoucuine` | **unresolved** (review queue) |

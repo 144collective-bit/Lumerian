@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AttHER` | **unresolved** (review queue) |
-| `ATOM (permanent)` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `ATOM (permanent)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `Cain` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `Eartu` | **unresolved** (review queue) |
-| `Facgs` | **unresolved** (review queue) |
-| `Grounn` | **unresolved** (review queue) |
-| `INcarNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Facgs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FACES, DOUBLE|FACES, DOUBLE]] |
+| `Grounn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
+| `INcarNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PILGRIM` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SosHYANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANTS|SOSHYANTS]] |
-| `STRIFE` | **unresolved** (review queue) |
-| `WANDERERS` | **candidate (first-segment only)** → possible `WANDERERS, OR WAYFARERS` (not linked) |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `WANDERERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
 | `WAYFARING MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAYFARING MEN|WAYFARING MEN]] |
 
 ## Full OCR entry body (exact)

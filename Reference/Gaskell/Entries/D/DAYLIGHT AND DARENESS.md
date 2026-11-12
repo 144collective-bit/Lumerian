@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CREATION` | **unresolved** (review queue) |
-| `DARKNESS (lower)` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DARKNESS (lower)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `Lieut` | **unresolved** (review queue) |
 | `MORNING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 
 ## Full OCR entry body (exact)
 

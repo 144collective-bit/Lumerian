@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `Brasts` | **unresolved** (review queue) |
 | `GEUSH-TASHA` | **unresolved** (review queue) |
 | `Orrosrrrs` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PLANTs` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `PromerHEus` | **unresolved** (review queue) |
+| `PromerHEus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `WoLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
 | `YEHEEDAH` | **unresolved** (review queue) |
 

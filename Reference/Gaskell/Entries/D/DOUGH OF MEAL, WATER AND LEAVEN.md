@@ -35,8 +35,8 @@ tags:
 | `Breap` | **unresolved** (review queue) |
 | `Fiovur` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `LEAVEN (higher)` | **unresolved** (review queue) |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `LEAVEN (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/L/LEAVEN (HIGHER ASPECT)|LEAVEN (HIGHER ASPECT)]] |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

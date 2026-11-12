@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Crown` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Jarrvus` | **unresolved** (review queue) |
-| `INFIRMIty` | **candidate (first-segment only)** → possible `INFIRMITY, SPIRIT OF` (not linked) |
+| `INFIRMIty` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INFIRMITY, SPIRIT OF|INFIRMITY, SPIRIT OF]] |
 | `LaZARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `RULER` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

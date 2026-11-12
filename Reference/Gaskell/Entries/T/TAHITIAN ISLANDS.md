@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 
 ## Full OCR entry body (exact)
 

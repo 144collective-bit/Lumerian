@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
-| `CIRCE` | **candidate (first-segment only)** → possible `CIRCE, DAUGHTER OF HELIOS` (not linked) |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `CIRCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIRCE, DAUGHTER OF HELIOS|CIRCE, DAUGHTER OF HELIOS]] |
 
 ## Full OCR entry body (exact)
 

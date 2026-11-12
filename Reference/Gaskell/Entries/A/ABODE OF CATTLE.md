@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaTTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `CaTTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 
 ## Full OCR entry body (exact)
 

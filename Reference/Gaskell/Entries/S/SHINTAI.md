@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `INSIGNIA` | **unresolved** (review queue) |
-| `KaRANA` | **unresolved** (review queue) |
+| `KaRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `MAHAVIRA-POT` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] |
 | `MrmROoR` | **unresolved** (review queue) |
-| `PEN` | **unresolved** (review queue) |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `SAKAKI` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
-| `TAKE-MIKA` | **unresolved** (review queue) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `TAKE-MIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI|TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI]] |
 
 ## Full OCR entry body (exact)
 

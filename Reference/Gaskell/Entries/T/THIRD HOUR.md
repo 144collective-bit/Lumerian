@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `GunasS` | **unresolved** (review queue) |
 | `TaMaS` | **unresolved** (review queue) |
-| `THREE` | **candidate (first-segment only)** → possible `THREE, NUMBER` (not linked) |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `THREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THREE, NUMBER|THREE, NUMBER]] |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

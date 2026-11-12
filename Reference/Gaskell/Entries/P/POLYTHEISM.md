@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `particular Gods and Goddesses` | **unresolved** (review queue) |
-| `FEMININE` | **unresolved** (review queue) |
+| `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
 | `Mascuting` | **unresolved** (review queue) |
 | `MyrHouoey` | **unresolved** (review queue) |
 

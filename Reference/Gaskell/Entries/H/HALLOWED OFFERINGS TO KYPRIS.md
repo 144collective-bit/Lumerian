@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Kypris` | **candidate (ambiguous first-segment)** → KYPRIS, PERFECT HARBOURS OF; KYPRIS, QUEEN (not linked) |
+| `Kypris` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KYPRIS, PERFECT HARBOURS OF|KYPRIS, PERFECT HARBOURS OF]]; [[Reference/Gaskell/Entries/K/KYPRIS, QUEEN|KYPRIS, QUEEN]] |
 
 ## Full OCR entry body (exact)
 

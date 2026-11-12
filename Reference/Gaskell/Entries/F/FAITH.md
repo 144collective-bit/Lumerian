@@ -124,8 +124,8 @@ tags:
 | `p. 48. See GOLDEN Harr` | **unresolved** (review queue) |
 | `Harr` | **unresolved** (review queue) |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `Love or Gop` | **unresolved** (review queue) |
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
+| `Love or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 
 ## Full OCR entry body (exact)
 

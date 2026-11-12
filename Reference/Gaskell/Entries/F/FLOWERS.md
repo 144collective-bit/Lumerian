@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ELEPHANTS` | **unresolved** (review queue) |
-| `GARLANDS` | **unresolved** (review queue) |
+| `ELEPHANTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/E/ELEPHANT|ELEPHANT]] |
+| `GARLANDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARLANDS OF FLOWERS|GARLANDS OF FLOWERS]] |
 | `HONEY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
 | `Lorus` | **unresolved** (review queue) |
-| `Manasi` | **candidate (first-segment only)** → possible `MANASI, THE BELOVED` (not linked) |
+| `Manasi` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] |
 | `WaTER (heaven)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

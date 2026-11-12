@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Demons` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 
 ## Full OCR entry body (exact)
 

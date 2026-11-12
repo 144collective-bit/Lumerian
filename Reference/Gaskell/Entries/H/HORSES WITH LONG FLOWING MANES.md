@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Harn` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
-| `MANAS` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `PETEE` | **unresolved** (review queue) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `MANAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `PETEE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 
 ## Full OCR entry body (exact)
 

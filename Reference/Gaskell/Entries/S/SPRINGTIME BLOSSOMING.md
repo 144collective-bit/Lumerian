@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaT (waters)` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
+| `AaT (waters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `CAUSAL` | **unresolved** (review queue) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `CAUSAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]]; [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
-| `City or Gop` | **unresolved** (review queue) |
+| `City or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] |
 | `HEAVENLY sPRINGTIME` | **unresolved** (review queue) |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `ORDERS` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
+| `ORDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]]; [[Reference/Gaskell/Entries/O/ORDERS OF THE SPACES|ORDERS OF THE SPACES]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `ReEaions` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `ROUND` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 
 ## Full OCR entry body (exact)
 

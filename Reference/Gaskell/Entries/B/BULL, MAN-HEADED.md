@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `ARYANA-VAEJO` | **unresolved** (review queue) |
 | `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
-| `KaRSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `KaRSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
 
 ## Full OCR entry body (exact)

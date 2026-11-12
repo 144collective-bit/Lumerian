@@ -36,13 +36,13 @@ tags:
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `BreatH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Eae` | **unresolved** (review queue) |
-| `Fastine` | **unresolved** (review queue) |
-| `HImRanyaGaRBHA` | **unresolved** (review queue) |
+| `Fastine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
+| `HImRanyaGaRBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `LicuTt` | **unresolved** (review queue) |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `PENANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] |
 | `PratayAa` | **unresolved** (review queue) |
-| `SANNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
+| `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 
 ## Full OCR entry body (exact)
 

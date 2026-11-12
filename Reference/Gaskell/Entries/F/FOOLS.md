@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `BLIND MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
 | `FOLLY` | **unresolved** (review queue) |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 

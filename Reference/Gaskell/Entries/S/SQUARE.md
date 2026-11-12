@@ -35,7 +35,7 @@ tags:
 | `Crncie` | **unresolved** (review queue) |
 | `Inon PLATE` | **unresolved** (review queue) |
 | `Pyramip` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 
 ## Full OCR entry body (exact)

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CaALAMITIES` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
-| `FAMINE` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `FAMINE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAMINE IN THE LAND|FAMINE IN THE LAND]] |
 | `NatTIon. EAST ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

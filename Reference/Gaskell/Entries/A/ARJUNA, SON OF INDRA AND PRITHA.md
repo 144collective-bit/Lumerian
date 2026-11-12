@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `BHismA` | **candidate (first-segment only)** → possible `BHISMA, SANTANAVA, THE TERRIBLE` (not linked) |
-| `BIRTH oF ERIBHNA` | **unresolved** (review queue) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `BHismA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BHISMA, SANTANAVA, THE TERRIBLE|BHISMA, SANTANAVA, THE TERRIBLE]] |
+| `BIRTH oF ERIBHNA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `Goris` | **unresolved** (review queue) |
-| `HANUMAN` | **candidate (first-segment only)** → possible `HANUMAN, SON OF VAYU` (not linked) |
+| `HANUMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
 | `Kanwa` | **unresolved** (review queue) |
-| `KrisHna` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
-| `Panpavas` | **unresolved** (review queue) |
-| `PERBSONALITY` | **unresolved** (review queue) |
+| `KrisHna` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
+| `Panpavas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
+| `PERBSONALITY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 
 ## Full OCR entry body (exact)
 

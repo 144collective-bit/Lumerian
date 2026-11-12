@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
-| `MICHAEL` | **candidate (first-segment only)** → possible `MICHAEL, THE ARCHANGEL` (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
+| `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `Rua` | **unresolved** (review queue) |
 | `Sovun (lowest)` | **unresolved** (review queue) |
 | `WHrExs (holy)` | **unresolved** (review queue) |

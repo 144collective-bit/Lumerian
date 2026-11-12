@@ -35,8 +35,8 @@ tags:
 | `Buper` | **unresolved** (review queue) |
 | `Egypt. Heav. and Hell` | **unresolved** (review queue) |
 | `Vol. III. p. 133. See Aru-ni` | **unresolved** (review queue) |
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
-| `DESERTS` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
+| `DESERTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 | `Szxer` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Tvart` | **unresolved** (review queue) |

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GEORGE AND DRAGON` | **unresolved** (review queue) |
-| `GREEN LION` | **unresolved** (review queue) |
+| `GREEN LION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

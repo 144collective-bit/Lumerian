@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EantH` | **unresolved** (review queue) |
-| `Grounp` | **unresolved** (review queue) |
+| `EantH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `Grounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

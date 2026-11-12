@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `Herex` | **unresolved** (review queue) |
 | `Prersona.iry` | **unresolved** (review queue) |
-| `THET1s` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `THET1s` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

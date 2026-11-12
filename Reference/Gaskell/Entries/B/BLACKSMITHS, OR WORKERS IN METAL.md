@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Batrie` | **unresolved** (review queue) |
-| `CONFLICT` | **unresolved** (review queue) |
-| `HORBEHUDTI` | **candidate (first-segment only)** → possible `HORBEHUDTI, OR HEROBEHUTET` (not linked) |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
+| `HORBEHUDTI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
 | `MeTat` | **unresolved** (review queue) |
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
-| `WEAPONS` | **unresolved** (review queue) |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
+| `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 | `WoRKEBS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

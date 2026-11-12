@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHERUBIM` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `FRUIT OF THE SPIRIT` | **candidate (first-segment only)** → possible `FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE` (not linked) |
-| `GABRIEL` | **candidate (first-segment only)** → possible `GABRIEL, THE ANGEL` (not linked) |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `FRUIT OF THE SPIRIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
+| `GABRIEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GABRIEL, THE ANGEL|GABRIEL, THE ANGEL]] |
 | `KURSI` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `PEARL` | **unresolved** (review queue) |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `TUBA TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUBA TREE|TUBA TREE]] |
 | `WHITE. LOTOS` | **unresolved** (review queue) |

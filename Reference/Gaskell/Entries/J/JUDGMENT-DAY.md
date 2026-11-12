@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Aat` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
+| `Aat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
 | `AKESI AMSHASPANDS` | **unresolved** (review queue) |
 | `BripvcE (kinvat)` | **unresolved** (review queue) |
 | `Buppxr` | **unresolved** (review queue) |
 | `CHrist’s SECOND COMING` | **unresolved** (review queue) |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `DaEvas` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `DErap` | **unresolved** (review queue) |
 | `DvusaHK` | **unresolved** (review queue) |
@@ -46,14 +46,14 @@ tags:
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `K-ALxt` | **unresolved** (review queue) |
 | `Kyasit` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `PAHAD` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
-| `SHEeniT` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `SHEeniT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
-| `THEmIs` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
+| `THEmIs` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 | `Uy: RIGHTEOUS` | **unresolved** (review queue) |
 | `VISCERA` | **unresolved** (review queue) |
 

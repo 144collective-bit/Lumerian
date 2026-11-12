@@ -36,10 +36,10 @@ tags:
 | `AnPu` | **unresolved** (review queue) |
 | `ApuatT` | **unresolved** (review queue) |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `Isis` | **unresolved** (review queue) |
 | `JACKAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JACKAL|JACKAL]] |
-| `NEPHTHys` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `NEPHTHys` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 | `Ropr` | **unresolved** (review queue) |
 | `SUDRA` | **unresolved** (review queue) |
 

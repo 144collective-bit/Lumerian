@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Anmazts` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `Pisces` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
+| `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `QuaTERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SUN MOTIONLESS` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `ZENITH` | **unresolved** (review queue) |
+| `SUN MOTIONLESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN MOTIONLESS ZENITH|SUN MOTIONLESS ZENITH]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

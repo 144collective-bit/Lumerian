@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Corp` | **unresolved** (review queue) |
-| `TauRt` | **candidate (first-segment only)** → possible `TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO` (not linked) |
+| `TauRt` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO|TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO]] |
 
 ## Full OCR entry body (exact)
 

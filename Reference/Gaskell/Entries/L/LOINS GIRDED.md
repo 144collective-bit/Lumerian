@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CIRCUMCISION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCUMCISION|CIRCUMCISION]] |
-| `FiLesH` | **unresolved** (review queue) |
+| `FiLesH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `Man (natural). LOKE (OR LOKI)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `LOFO’` | **unresolved** (review queue) |
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BRIHAT` | **unresolved** (review queue) |
+| `BRIHAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRIHAT AND RATHANTERA VERSES|BRIHAT AND RATHANTERA VERSES]] |
 
 ## Full OCR entry body (exact)
 

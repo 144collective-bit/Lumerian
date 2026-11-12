@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 
 ## Full OCR entry body (exact)
 

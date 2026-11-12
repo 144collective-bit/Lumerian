@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BROTHERS` | **candidate (ambiguous first-segment)** → BROTHERS, FIVE, OF DIVES; BROTHERS, THE FIVE KARAP (not linked) |
+| `BROTHERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BROTHERS, FIVE, OF DIVES|BROTHERS, FIVE, OF DIVES]]; [[Reference/Gaskell/Entries/B/BROTHERS, THE FIVE KARAP|BROTHERS, THE FIVE KARAP]] |
 
 ## Full OCR entry body (exact)
 

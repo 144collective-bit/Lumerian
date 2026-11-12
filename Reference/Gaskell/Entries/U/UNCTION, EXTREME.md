@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
-| `Or (anointing)` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
+| `Or (anointing)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
 
 ## Full OCR entry body (exact)
 

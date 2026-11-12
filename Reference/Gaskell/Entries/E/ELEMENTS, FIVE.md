@@ -33,30 +33,30 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AETHER` | **unresolved** (review queue) |
-| `AIR` | **unresolved** (review queue) |
+| `AIR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIR AND ATHER|AIR AND ATHER]] |
 | `ASTRAL PLANE Ama` | **unresolved** (review queue) |
-| `BuppDHIC PLANE` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `BuppDHIC PLANE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `EARTH (specialised)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `Five` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
-| `GatTHa pays (five)` | **unresolved** (review queue) |
+| `Five` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
+| `GatTHa pays (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `Gops` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `HEAVEN AND EaRTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `MrEtTAL` | **unresolved** (review queue) |
-| `MINISTERS (four)` | **unresolved** (review queue) |
+| `MINISTERS (four)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
 | `NeEcEssrry` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
-| `PILLARS (four)` | **candidate (ambiguous first-segment)** → PILLARS, FOUR, OF SHU; PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN (not linked) |
-| `PLANES (five)` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
+| `PILLARS (four)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]]; [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] |
+| `PLANES (five)` | resolved (qualified head) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Rourers (five)` | **unresolved** (review queue) |
-| `Sgasons (five)` | **unresolved** (review queue) |
-| `THIEVEs (five) VESTURES (five)` | **candidate (first-segment only)** → possible `THIEVES, THE FIVE` (not linked) |
+| `Sgasons (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
+| `THIEVEs (five) VESTURES (five)` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `Woop` | **unresolved** (review queue) |
 | `Wortps (five)` | **unresolved** (review queue) |

@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
 | `COURTEZAN` | **unresolved** (review queue) |
-| `DEVILS` | **unresolved** (review queue) |
+| `DEVILS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `Drvorcina` | **unresolved** (review queue) |
 | `FotLy` | **unresolved** (review queue) |
-| `HaRLot` | **candidate (first-segment only)** → possible `HARLOT, OR STRANGE WOMAN` (not linked) |
+| `HaRLot` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
 | `MARRIAGE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 
 ## Full OCR entry body (exact)

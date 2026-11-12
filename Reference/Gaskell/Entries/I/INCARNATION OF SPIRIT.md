@@ -33,33 +33,33 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BIRTH OF CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF CHRIST|BIRTH OF CHRIST]] |
 | `Bioop` | **unresolved** (review queue) |
-| `CHrRist` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `CHrRist` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FIRSTBORN son` | **unresolved** (review queue) |
 | `FiesaH` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `Image or Gop` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `Image or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JESUS (son)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `LEMMINKAINEN` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEMMINKAINEN|LEMMINKAINEN]] |
 | `LoOGOos` | **unresolved** (review queue) |
-| `MatTTeR` | **unresolved** (review queue) |
+| `MatTTeR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `Praadpati` | **unresolved** (review queue) |
+| `Praadpati` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `PuRUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `Quairies` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SON OF Gop` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SON OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `SpPrrit` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

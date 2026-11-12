@@ -32,51 +32,51 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALAGHOM` | **unresolved** (review queue) |
+| `ALAGHOM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ALAGHOM NAOM (MOTHER OF MIND)|ALAGHOM NAOM (MOTHER OF MIND)]] |
 | `AMATERASU` | **unresolved** (review queue) |
-| `ARMAITI` | **candidate (first-segment only)** → possible `ARMAITI, THE HOLY SPIRIT` (not linked) |
-| `ARURU` | **candidate (first-segment only)** → possible `ARURU, GODDESS` (not linked) |
-| `ASHA-VANUBI` | **unresolved** (review queue) |
+| `ARMAITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] |
+| `ARURU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARURU, GODDESS|ARURU, GODDESS]] |
+| `ASHA-VANUBI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
 | `ATHENA` | **unresolved** (review queue) |
 | `Barsom` | **unresolved** (review queue) |
 | `BeEkEs` | **unresolved** (review queue) |
 | `BrmmrsCHAMBER` | **unresolved** (review queue) |
-| `BLASPHEMY` | **unresolved** (review queue) |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
 | `BoaT OF wispom` | **unresolved** (review queue) |
 | `CLoups` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `DHarMa` | **unresolved** (review queue) |
+| `DHarMa` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] |
 | `Eartu (great)` | **unresolved** (review queue) |
-| `Ester` | **unresolved** (review queue) |
+| `Ester` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `Fins` | **unresolved** (review queue) |
 | `Frieo GoppEss` | **unresolved** (review queue) |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `Hartson` | **unresolved** (review queue) |
 | `HeErrer` | **unresolved** (review queue) |
-| `HELEN` | **unresolved** (review queue) |
-| `HER` | **unresolved** (review queue) |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
+| `HER` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE|HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE]] |
 | `Hoty auxost` | **unresolved** (review queue) |
 | `Iwrorrion` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `Israr` | **unresolved** (review queue) |
-| `Kypris` | **candidate (ambiguous first-segment)** → KYPRIS, PERFECT HARBOURS OF; KYPRIS, QUEEN (not linked) |
+| `Israr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
+| `Kypris` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KYPRIS, PERFECT HARBOURS OF|KYPRIS, PERFECT HARBOURS OF]]; [[Reference/Gaskell/Entries/K/KYPRIS, QUEEN|KYPRIS, QUEEN]] |
 | `Lapy` | **unresolved** (review queue) |
 | `Laxsumi` | **unresolved** (review queue) |
 | `Maaic` | **unresolved** (review queue) |
 | `MarKHUTH` | **unresolved** (review queue) |
-| `METzTLI` | **candidate (first-segment only)** → possible `METZTLI, MOON-GODDESS` (not linked) |
-| `MOTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `Pytons` | **unresolved** (review queue) |
+| `METzTLI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/METZTLI, MOON-GODDESS|METZTLI, MOON-GODDESS]] |
+| `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `Pytons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
 | `SaRrasvati` | **unresolved** (review queue) |
 | `Srra` | **unresolved** (review queue) |
-| `SKy` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `SKy` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `SopH1a` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VEIL OF 1sis` | **unresolved** (review queue) |
 | `Vinay` | **unresolved** (review queue) |
-| `WIsDoM` | **unresolved** (review queue) |
+| `WIsDoM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

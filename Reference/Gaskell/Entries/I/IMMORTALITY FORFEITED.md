@@ -39,16 +39,16 @@ tags:
 | `Fart` | **unresolved** (review queue) |
 | `Fivcrer` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `Grounn` | **unresolved** (review queue) |
+| `Grounn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `Het` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Isis` | **unresolved** (review queue) |
 | `JESUS MORTAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
-| `JOB` | **unresolved** (review queue) |
-| `MORTAL` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `MORTAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MORTAL MIND|MORTAL MIND]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `ScENT` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `ScENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 | `S#Hal` | **unresolved** (review queue) |
 | `SHORTLIVED ACHILLES` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHORT-LIVED ACHILLES|SHORT-LIVED ACHILLES]] |
 | `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
@@ -68,8 +68,8 @@ tags:
 | `is made clear. And it is made evident that all things are first of all produced from a germ or egg` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—the symbol of infinite expansion from the fount of Truth (water). See Eca` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `HicHER AND LOWER` | **unresolved** (review queue) |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
-| `IMAGE` | **unresolved** (review queue) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `Man “CRAWLED` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

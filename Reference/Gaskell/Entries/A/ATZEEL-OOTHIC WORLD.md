@@ -36,8 +36,8 @@ tags:
 | `ARO. MAN` | **unresolved** (review queue) |
 | `Breatico` | **unresolved** (review queue) |
 | `Imace` | **unresolved** (review queue) |
-| `Macorocosm` | **unresolved** (review queue) |
-| `Sau (great)` | **unresolved** (review queue) |
+| `Macorocosm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
+| `Sau (great)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,12 +35,12 @@ tags:
 | `AttarR` | **unresolved** (review queue) |
 | `Breasts` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
 | `BURNT OFFERone` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `OBLaTION` | **unresolved** (review queue) |
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
-| `ROASTED FLESH` | **unresolved** (review queue) |
-| `SAVOUR` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `ROASTED FLESH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROASTED FLESH OF SACRIFICE|ROASTED FLESH OF SACRIFICE]] |
+| `SAVOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

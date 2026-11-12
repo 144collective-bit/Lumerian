@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
 | `BROTHER oF JESUS` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INTOXxICATION` | **unresolved** (review queue) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `INTOXxICATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 | `SERPENT (ananta)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 
 ## Full OCR entry body (exact)

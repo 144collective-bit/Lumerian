@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADaMas` | **unresolved** (review queue) |
-| `ADITYAS` | **candidate (first-segment only)** → possible `ADITYAS, THE TWELVE` (not linked) |
+| `ADaMas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] |
+| `ADITYAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] |
 | `(twelve)` | **unresolved** (review queue) |
-| `BREASTPLATE` | **unresolved** (review queue) |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
 | `EONS CROWN 773 TYPHON (twelve)` | **unresolved** (review queue) |
 | `Discretes` | **unresolved** (review queue) |
-| `Heroxs` | **unresolved** (review queue) |
-| `InrriaTIONS` | **unresolved** (review queue) |
+| `Heroxs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
+| `InrriaTIONS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `MEASURE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
 | `NipDaNnas` | **unresolved** (review queue) |
-| `SAVIOURS` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
+| `SAVIOURS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `SHEW-BREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
-| `TRIBES (twelve)` | **unresolved** (review queue) |
+| `TRIBES (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 | `Avat` | **unresolved** (review queue) |
 | `Urpar` | **unresolved** (review queue) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `Zopiac. /` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

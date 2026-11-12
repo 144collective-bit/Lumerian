@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HELEN` | **unresolved** (review queue) |
-| `SERPENTS (sparks)` | **unresolved** (review queue) |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
+| `SERPENTS (sparks)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)
 

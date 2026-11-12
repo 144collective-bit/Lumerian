@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ham (sidelock)` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
-| `KERESASPA` | **unresolved** (review queue) |
+| `Ham (sidelock)` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
+| `KERESASPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KERESASPA WITH SIDE-LOCK AND CLUB|KERESASPA WITH SIDE-LOCK AND CLUB]] |
 | `Mourn (food)` | **unresolved** (review queue) |
-| `NeRyosanG` | **candidate (first-segment only)** → possible `NERYOSANG, THE ANGEL` (not linked) |
+| `NeRyosanG` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `SERPENT (svara)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

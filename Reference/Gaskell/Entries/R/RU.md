@@ -36,7 +36,7 @@ tags:
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `RaNnci` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `‘TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `WATER (lower). RUA‘H :— A symbol of the dual mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—the higher mind and the lower mind. The higher mind is attached to buddhi (neshamah)` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -60,15 +60,15 @@ tags:
 | `for it is mortal` | **unresolved** (review queue) |
 | `being united to desire (nephesh). It cannot rise` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `but must perish on its own plane of kama-manas. See ATMAN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `MICHAEL` | **candidate (first-segment only)** → possible `MICHAEL, THE ARCHANGEL` (not linked) |
+| `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
 | `YEHEEDAH` | **unresolved** (review queue) |

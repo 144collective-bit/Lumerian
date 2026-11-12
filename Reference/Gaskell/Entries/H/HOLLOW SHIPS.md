@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `FILLET` | **unresolved** (review queue) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `FILLET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] |
 | `KapMa` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 
 ## Full OCR entry body (exact)
 

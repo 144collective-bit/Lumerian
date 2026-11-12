@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HERouLes` | **unresolved** (review queue) |
+| `HERouLes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HERCULES, SON OF ZEUS|HERCULES, SON OF ZEUS]] |
 | `NAtaps` | **unresolved** (review queue) |
 | `PrrcHeEr` | **unresolved** (review queue) |
-| `VESSEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

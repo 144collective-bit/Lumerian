@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATMA PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
-| `BUDDHIOC PLANE` | **unresolved** (review queue) |
+| `BUDDHIOC PLANE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CHILD` | **unresolved** (review queue) |
 | `East` | **unresolved** (review queue) |
 | `Exrz` | **unresolved** (review queue) |
 | `FarHEer` | **unresolved** (review queue) |
 | `GERMS` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `KINGpom` | **unresolved** (review queue) |
 | `LimrrLE oneEs` | **unresolved** (review queue) |
 | `Loros {REE` | **unresolved** (review queue) |
 | `MonaD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WEALTH OF TREASURY` | **unresolved** (review queue) |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
 

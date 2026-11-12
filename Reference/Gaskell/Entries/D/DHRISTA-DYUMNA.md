@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Dravpapi` | **unresolved** (review queue) |
 | `Drona` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRONA|DRONA]] |
-| `Kurus` | **candidate (first-segment only)** → possible `KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA` (not linked) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `SIva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `Kurus` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `SIva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 
 ## Full OCR entry body (exact)
 

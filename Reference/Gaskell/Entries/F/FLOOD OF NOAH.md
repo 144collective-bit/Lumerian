@@ -35,18 +35,18 @@ tags:
 | `Apiryas` | **unresolved** (review queue) |
 | `ARK OF NOAH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]] |
 | `BEASTS (clean)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `DELUGE` | **unresolved** (review queue) |
-| `DEPRAVITY` | **candidate (first-segment only)** → possible `DEPRAVITY, UNIVERSAL` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
+| `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
-| `FORTY` | **candidate (first-segment only)** → possible `FORTY, NUMBER` (not linked) |
+| `FORTY` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
 | `Gop REPENTING` | **unresolved** (review queue) |
 | `HrERop` | **unresolved** (review queue) |
 | `House (frequented)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `Mountain` | **unresolved** (review queue) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
-| `OLIVE LEAF` | **unresolved** (review queue) |
+| `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `RaINn` | **unresolved** (review queue) |
 | `TEN Days` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

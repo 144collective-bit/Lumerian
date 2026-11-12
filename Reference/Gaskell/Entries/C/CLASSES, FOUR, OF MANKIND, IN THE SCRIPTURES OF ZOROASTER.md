@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARTIFICER` | **candidate (first-segment only)** → possible `ARTIFICER, OR ARTISAN` (not linked) |
-| `CASTES` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `GATHA DAYS` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
+| `ARTIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARTIFICER, OR ARTISAN|ARTIFICER, OR ARTISAN]] |
+| `CASTES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `GATHA DAYS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `HovusE (clan)` | **unresolved** (review queue) |
 | `Ksuarrerya` | **unresolved** (review queue) |
-| `Prrest` | **unresolved** (review queue) |
+| `Prrest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `Ruiers (world)` | **unresolved** (review queue) |
 | `Supra` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
@@ -112,9 +112,9 @@ tags:
 | `Bk. X` | **unresolved** (review queue) |
 | `19. See DOVE-SELLERS` | **unresolved** (review queue) |
 | `JESUS' SEVERITY` | **unresolved** (review queue) |
-| `MOUTH-OPENING` | **unresolved** (review queue) |
+| `MOUTH-OPENING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOUTH, OPENING OF THE|MOUTH, OPENING OF THE]] |
 | `ScouRGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

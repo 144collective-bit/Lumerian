@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

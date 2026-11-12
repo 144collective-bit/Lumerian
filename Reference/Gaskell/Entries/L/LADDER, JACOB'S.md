@@ -35,7 +35,7 @@ tags:
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `EartTH` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `JACOB` | **unresolved** (review queue) |
+| `JACOB` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JACOB OR ISRAEL|JACOB OR ISRAEL]] |
 | `PappDLES` | **unresolved** (review queue) |
 | `PILLOW OF STONE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PILLOW OF STONE|PILLOW OF STONE]] |
 | `Sronz` | **unresolved** (review queue) |

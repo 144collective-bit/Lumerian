@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
-| `DEVAS` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `DEVAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
 
 ## Full OCR entry body (exact)

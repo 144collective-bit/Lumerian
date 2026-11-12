@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ENDURING` | **candidate (first-segment only)** → possible `ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
-| `TEETH (gnashing)` | **unresolved** (review queue) |
+| `ENDURING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/ENDURING TO THE END|ENDURING TO THE END]]; [[Reference/Gaskell/Entries/E/ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS|ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `TEETH (gnashing)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 
 ## Full OCR entry body (exact)
 

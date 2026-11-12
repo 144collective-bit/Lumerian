@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ADVABYA` | **unresolved** (review queue) |
 | `ATHORNE` | **unresolved** (review queue) |
-| `CHEYSE` | **unresolved** (review queue) |
+| `CHEYSE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
 | `AGNISHTOMA Pors` | **unresolved** (review queue) |
-| `Priest (altar)` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `Priest (altar)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `Priest or APOLLO` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

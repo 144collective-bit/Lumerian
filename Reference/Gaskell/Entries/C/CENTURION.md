@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `RuLers` | **unresolved** (review queue) |
+| `RuLers` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
 | `SOLDIERS. CEREMONIES IN RELIGIONS :-— These are usually symbolical of the process of transmutation of lower qualities into higher. See Baptism` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Barsoom` | **unresolved** (review queue) |
-| `CENSERS` | **unresolved** (review queue) |
-| `Host` | **candidate (first-segment only)** → possible `HOST, OR CONSECRATED WAFER` (not linked) |
+| `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
+| `Host` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] |
 | `InceENsr` | **unresolved** (review queue) |
-| `Passover` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
-| `Procession` | **unresolved** (review queue) |
+| `Passover` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
+| `Procession` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 | `KRrres` | **unresolved** (review queue) |
 | `Rrruat` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SacniFicE` | **unresolved** (review queue) |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
+| `SacniFicE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
 
 ## Full OCR entry body (exact)
 

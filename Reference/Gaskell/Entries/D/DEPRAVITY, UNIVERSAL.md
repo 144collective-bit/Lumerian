@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CorRvuPTION` | **unresolved** (review queue) |
-| `DELUGE` | **unresolved** (review queue) |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `FLoop` | **unresolved** (review queue) |
 | `Gop (repenting)` | **unresolved** (review queue) |
 | `MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
-| `VAIVASVATA` | **unresolved** (review queue) |
+| `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 | `WICKEDNESS. DEPTH;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

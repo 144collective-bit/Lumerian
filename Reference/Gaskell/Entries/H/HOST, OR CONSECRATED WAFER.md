@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BrEaD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `BrEaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `Foop as Gop` | **unresolved** (review queue) |
-| `PROCEsSION` | **unresolved** (review queue) |
+| `PROCEsSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SHRINE` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
 
 ## Full OCR entry body (exact)

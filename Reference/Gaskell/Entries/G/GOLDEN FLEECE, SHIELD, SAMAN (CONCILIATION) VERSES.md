@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrnat` | **unresolved** (review queue) |
-| `VAIRUPA` | **unresolved** (review queue) |
+| `VAIRUPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAIRUPA AND VAIRAGA (SAMAN VERSES)|VAIRUPA AND VAIRAGA (SAMAN VERSES)]] |
 | `YAGNA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

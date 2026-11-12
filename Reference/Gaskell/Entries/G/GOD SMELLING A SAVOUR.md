@@ -36,7 +36,7 @@ tags:
 | `BURNT OFFERinc` | **unresolved** (review queue) |
 | `Goats (unblemished)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Noaux` | **unresolved** (review queue) |
-| `Savouk (sweet)` | **unresolved** (review queue) |
+| `Savouk (sweet)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

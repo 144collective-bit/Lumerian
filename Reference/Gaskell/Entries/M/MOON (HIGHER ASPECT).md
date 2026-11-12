@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
 | `BuppuHI` | **unresolved** (review queue) |
-| `INDIVIpuaLIty` | **unresolved** (review queue) |
+| `INDIVIpuaLIty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `MeErzrii` | **unresolved** (review queue) |
 | `Monap oF LIFE` | **unresolved** (review queue) |
 | `SetrF` | **unresolved** (review queue) |
 | `Sun (door)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `Winp` | **unresolved** (review queue) |
 | `WOMEN’S LIFE` | **unresolved** (review queue) |
 

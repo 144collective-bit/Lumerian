@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASONs` | **unresolved** (review queue) |
-| `ANTHROPOS` | **unresolved** (review queue) |
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
-| `DIscIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `ANTHROPOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `DIscIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `LIBERATION. LIGHT TREASURE` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SPARES` | **unresolved** (review queue) |
 | `SAVITRI Sons OF GOD` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 
 ## Full OCR entry body (exact)
 

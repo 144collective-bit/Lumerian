@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Demons` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `Drvim` | **unresolved** (review queue) |
 | `Hangs` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `Manata` | **unresolved** (review queue) |
 | `Nort` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

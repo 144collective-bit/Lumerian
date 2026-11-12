@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AHRIMAN AKEM-MANO` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 
 ## Full OCR entry body (exact)
 

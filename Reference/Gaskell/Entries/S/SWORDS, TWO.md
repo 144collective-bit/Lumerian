@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Rasas. 738` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Carp` | **unresolved** (review queue) |
-| `GIRDLE ROPE` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `STAKE` | **candidate (first-segment only)** → possible `STAKE, SACRIFICIAL` (not linked) |
-| `STRIDES` | **unresolved** (review queue) |
+| `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `STAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
+| `STRIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 
 ## Full OCR entry body (exact)

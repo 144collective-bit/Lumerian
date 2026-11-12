@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANNU` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `DweELuine (palace)` | **unresolved** (review queue) |
-| `HarHor` | **unresolved** (review queue) |
+| `HarHor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
 | `INcaRNATION OF sOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `MourTH (opening)` | **unresolved** (review queue) |
 | `Nosrrits` | **unresolved** (review queue) |
 | `Tatru` | **unresolved** (review queue) |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 
 ## Full OCR entry body (exact)
 

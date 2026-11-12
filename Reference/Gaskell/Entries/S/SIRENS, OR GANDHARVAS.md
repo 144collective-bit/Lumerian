@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `Bures` | **unresolved** (review queue) |
+| `Bures` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUTES, THE ARGONAUT|BUTES, THE ARGONAUT]] |
 | `Cotcuis` | **unresolved** (review queue) |
-| `DEVAS` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `GANDHARVAS` | **candidate (first-segment only)** → possible `GANDHARVAS, OR SIRENS` (not linked) |
+| `DEVAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `FATHER` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
-| `Kapiia` | **unresolved** (review queue) |
+| `Kapiia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

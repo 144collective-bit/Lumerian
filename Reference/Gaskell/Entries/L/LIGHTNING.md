@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `AuvTaR (fire)` | **unresolved** (review queue) |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `ENEMIES` | **unresolved** (review queue) |
+| `ENEMIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `LicguTnina` | **unresolved** (review queue) |
-| `SAcrrFIcE` | **unresolved** (review queue) |
-| `Stake` | **candidate (first-segment only)** → possible `STAKE, SACRIFICIAL` (not linked) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `SAcrrFIcE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
+| `Stake` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 
 ## Full OCR entry body (exact)
 

@@ -39,13 +39,13 @@ tags:
 | `Ecyprtians` | **unresolved** (review queue) |
 | `Fie` | **unresolved** (review queue) |
 | `Forry ¥EaRS` | **unresolved** (review queue) |
-| `HERMES` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `Horse` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `HovusE or BONDAGE` | **unresolved** (review queue) |
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `Passover` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `Passover` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `Rocx (spiritual)` | **unresolved** (review queue) |
 | `Sma` | **unresolved** (review queue) |
 

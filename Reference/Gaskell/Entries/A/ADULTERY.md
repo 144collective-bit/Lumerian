@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `COURTEZAN` | **unresolved** (review queue) |
 | `DiIVORCING` | **unresolved** (review queue) |
-| `FOLty` | **unresolved** (review queue) |
+| `FOLty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
 | `Harwiot` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `WiFrFE` | **unresolved** (review queue) |

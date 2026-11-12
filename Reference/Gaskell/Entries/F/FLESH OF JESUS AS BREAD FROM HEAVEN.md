@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BLoop` | **unresolved** (review queue) |
 | `BLoop or THE LAMB` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `CoRPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DOUBLE FOLD` | **unresolved** (review queue) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `CoRPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DOUBLE FOLD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOUBLE FOLD OF FLESH AND FAT|DOUBLE FOLD OF FLESH AND FAT]] |
 | `FaTHER` | **unresolved** (review queue) |
 | `Foop as Gop` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Manna` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SALVATION` | **unresolved** (review queue) |
-| `SON OF Gop` | **unresolved** (review queue) |
-| `SVAYAMBHU` | **candidate (first-segment only)** → possible `SVAYAMBHU, SON OF THE SELFEXISTENT` (not linked) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SON OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
+| `SVAYAMBHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SVAYAMBHU, SON OF THE SELFEXISTENT|SVAYAMBHU, SON OF THE SELFEXISTENT]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ear` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Ear` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EAR EAR, OR HEARING|EAR EAR, OR HEARING]] |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Jos` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

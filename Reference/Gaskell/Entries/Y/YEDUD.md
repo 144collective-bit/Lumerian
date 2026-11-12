@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `JEHOVAH` | **unresolved** (review queue) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
-| `TETRAGRAMMATON` | **candidate (first-segment only)** → possible `TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH` (not linked) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `JEHOVAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JEHOVAH OR YAHVEH|JEHOVAH OR YAHVEH]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
+| `TETRAGRAMMATON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH|TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY. YE’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

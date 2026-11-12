@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hes. xii. 11. See AGRICULTURE` | **unresolved** (review queue) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `Harvest` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 
 ## Full OCR entry body (exact)

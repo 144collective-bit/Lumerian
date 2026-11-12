@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATRI` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `ATRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATRI AND HIS WISE SON|ATRI AND HIS WISE SON]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `Gops` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KaRANA` | **unresolved** (review queue) |
+| `KaRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `Karma` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `LUNAR CHAIN` | **unresolved** (review queue) |
-| `MIND (good)` | **candidate (ambiguous first-segment)** → MIND, GOOD; MIND, PRIAM, HEDGEHOG (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `LUNAR CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]] |
+| `MIND (good)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `Recions` | **unresolved** (review queue) |
-| `SAHU` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SpaRK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `Recions` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `SAHU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAHU OF OSIRIS|SAHU OF OSIRIS]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SpaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Burnino` | **unresolved** (review queue) |
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `- Fonreran Prres` | **unresolved** (review queue) |
-| `KABANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
-| `NANNA` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
+| `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
+| `NANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `185 PuncaTory` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

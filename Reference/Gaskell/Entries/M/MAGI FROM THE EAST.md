@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AN-RUT-F` | **unresolved** (review queue) |
+| `AN-RUT-F` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AN-RUT-F DISTRICT|AN-RUT-F DISTRICT]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `CHILDREN OF THE EAST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF THE EAST|CHILDREN OF THE EAST]] |
 | `East` | **unresolved** (review queue) |
-| `ESTHER` | **candidate (first-segment only)** → possible `ESTHER, BOOK OF` (not linked) |
+| `ESTHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `Gotp` | **unresolved** (review queue) |
 | `Hrrnop` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `Jews` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `Jews` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `Kine` | **unresolved** (review queue) |
 | `Licut` | **unresolved** (review queue) |
-| `MANGER` | **unresolved** (review queue) |
+| `MANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANGER IN WHICH THE INFANT JESUS WAS LAID|MANGER IN WHICH THE INFANT JESUS WAS LAID]] |
 | `STAR IN EAST` | **unresolved** (review queue) |
-| `TREASURE (cave)` | **unresolved** (review queue) |
+| `TREASURE (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

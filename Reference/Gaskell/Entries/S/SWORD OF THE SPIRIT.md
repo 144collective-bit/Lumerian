@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hetmet` | **unresolved** (review queue) |
+| `Hetmet` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HELMET|HELMET]] |
 | `Inrvurrion` | **unresolved** (review queue) |
 | `LicurtNING` | **unresolved** (review queue) |
 | `SPEAR` | **unresolved** (review queue) |
 | `THUNDERBOLT` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `Worp` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

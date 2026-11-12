@@ -36,13 +36,13 @@ tags:
 | `ASGARD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] |
 | `Deatu` | **unresolved** (review queue) |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `Frost` | **unresolved** (review queue) |
-| `GANGLER` | **unresolved** (review queue) |
+| `GANGLER` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGLER OR GANGLERE|GANGLER OR GANGLERE]] |
 | `Hermop` | **unresolved** (review queue) |
-| `Huncer` | **unresolved** (review queue) |
-| `THocx` | **unresolved** (review queue) |
-| `URNA` | **unresolved** (review queue) |
+| `Huncer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]] |
+| `THocx` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOCK,-A GIANTESS|THOCK,—A GIANTESS]] |
+| `URNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

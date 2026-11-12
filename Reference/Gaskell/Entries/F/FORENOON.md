@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `GatHas` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
-| `Homa` | **unresolved** (review queue) |
+| `GatHas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Zoro` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

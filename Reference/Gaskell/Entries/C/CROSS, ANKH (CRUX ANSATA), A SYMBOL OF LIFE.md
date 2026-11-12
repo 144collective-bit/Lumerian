@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
 | `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

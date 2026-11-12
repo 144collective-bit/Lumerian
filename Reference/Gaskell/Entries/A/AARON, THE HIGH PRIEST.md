@@ -44,17 +44,17 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHOBNE` | **unresolved** (review queue) |
 | `CaLF (molten)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CALF|CALF]] |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `HIGH PRIEST` | **unresolved** (review queue) |
-| `PontirF` | **unresolved** (review queue) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `HIGH PRIEST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
+| `PontirF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PONTIFF, OR PONTIFEX|PONTIFF, OR PONTIFEX]] |
 | `Porr` | **unresolved** (review queue) |
-| `Priest` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `SCAPEGOAT` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `URiIM` | **unresolved** (review queue) |
 
 ## Aliases / OCR variants (evidenced only)

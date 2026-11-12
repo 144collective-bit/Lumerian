@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Free or HELL` | **unresolved** (review queue) |
-| `IstTar` | **unresolved** (review queue) |
-| `MELCARTHUS` | **candidate (first-segment only)** → possible `MELCARTHUS, KING` (not linked) |
+| `IstTar` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
+| `MELCARTHUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MELCARTHUS, KING|MELCARTHUS, KING]] |
 
 ## Full OCR entry body (exact)
 

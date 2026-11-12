@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Harr (side-lock)` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `TamMMUZ (lower)` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `TamMMUZ (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
 
 ## Full OCR entry body (exact)
 

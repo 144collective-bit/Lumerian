@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BLOOD OF LAMB` | **unresolved** (review queue) |
-| `BonDaGE` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `BonDaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `DankKNzEss` | **unresolved** (review queue) |
 | `Eayrt` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `PATH Exopus` | **unresolved** (review queue) |
 | `Freer` | **unresolved** (review queue) |
 | `HovskE or sBownpAGE` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `LAMB` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB|LAMB]] |
-| `QUALITIES` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `Room (house)` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `Room (house)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROOM ROOM IN A HOUSE|ROOM ROOM IN A HOUSE]] |
 | `Saocgiricurn` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SHogs` | **unresolved** (review queue) |
-| `UNLEAVENED` | **unresolved** (review queue) |
+| `UNLEAVENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNLEAVENED BREAD|UNLEAVENED BREAD]] |
 
 ## Full OCR entry body (exact)
 

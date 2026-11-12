@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DeartH` | **unresolved** (review queue) |
+| `DeartH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEARTH IN THE LAND|DEARTH IN THE LAND]] |
 | `DrovuGnut` | **unresolved** (review queue) |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
 

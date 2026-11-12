@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOSTATES` | **unresolved** (review queue) |
+| `APOSTATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APOSTATES WITH TWO LEGS|APOSTATES WITH TWO LEGS]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,11 +35,11 @@ tags:
 | `Askr` | **unresolved** (review queue) |
 | `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
 | `Imace` | **unresolved** (review queue) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
 | `LEAVES` | **unresolved** (review queue) |
-| `Matrro` | **unresolved** (review queue) |
+| `Matrro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
-| `Oak` | **unresolved** (review queue) |
+| `Oak` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
 
 ## Full OCR entry body (exact)
 

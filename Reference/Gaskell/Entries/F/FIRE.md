@@ -32,27 +32,27 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism (fire)` | **unresolved** (review queue) |
+| `Baptism (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `BuppHI` | **unresolved** (review queue) |
-| `BURNT OFFERING` | **unresolved** (review queue) |
-| `CENSERS` | **unresolved** (review queue) |
+| `BURNT OFFERING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] |
+| `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `Foop OF THE GopDs` | **unresolved** (review queue) |
+| `Foop OF THE GopDs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOOD OF THE GODS|FOOD OF THE GODS]] |
 | `Fupo` | **unresolved** (review queue) |
 | `FuRNACE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
 | `HEALING (epileptic)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `Hoty GxHost` | **unresolved** (review queue) |
+| `Hoty GxHost` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `Kaaz` | **unresolved** (review queue) |
-| `| LovE or Gop` | **unresolved** (review queue) |
-| `Lunatic` | **candidate (first-segment only)** → possible `LUNATIC, MIND` (not linked) |
+| `| LovE or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
+| `Lunatic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNATIC, MIND|LUNATIC, MIND]] |
 | `Mawnasti` | **unresolved** (review queue) |
-| `MUSPELHEIM` | **unresolved** (review queue) |
-| `NANNA` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
-| `PROCESSION` | **unresolved** (review queue) |
-| `SACRIFICE (burnt)` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SALAMANDERS` | **candidate (first-segment only)** → possible `SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE` (not linked) |
+| `MUSPELHEIM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
+| `NANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+| `SACRIFICE (burnt)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SALAMANDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALAMANDERS AND SYLPHS|SALAMANDERS AND SYLPHS]]; [[Reference/Gaskell/Entries/S/SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE|SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `T (letter)` | **candidate (ambiguous first-segment)** → T, ELIJAH THE RESTORER; T, THE LETTER SYCAMORE AND ACACIA; T, THE LETTER, OR THE TAU CROSS (not linked) |
+| `T (letter)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/T, ELIJAH THE RESTORER|T, ELIJAH THE RESTORER]]; [[Reference/Gaskell/Entries/T/T, THE LETTER, OR THE TAU CROSS|T, THE LETTER, OR THE TAU CROSS]]; [[Reference/Gaskell/Entries/T/T, THE LETTER SYCAMORE AND ACACIA|T, THE LETTER SYCAMORE AND ACACIA]] |
 | `TEmMP.e (fire)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

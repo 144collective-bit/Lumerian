@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SEEDS` | **unresolved** (review queue) |
+| `SEEDS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `TREE OF LIVE` | **unresolved** (review queue) |
 | `VOURUKASHA` | **unresolved** (review queue) |

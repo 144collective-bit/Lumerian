@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `CorrvurtTion` | **unresolved** (review queue) |
 | `Dr.tuas` | **unresolved** (review queue) |
-| `DkrPRAVITY` | **unresolved** (review queue) |
+| `DkrPRAVITY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
 | `FLoop` | **unresolved** (review queue) |
 | `HoRN oF SALVATION` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
-| `VAIVASVATA` | **unresolved** (review queue) |
+| `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 
 ## Full OCR entry body (exact)
 

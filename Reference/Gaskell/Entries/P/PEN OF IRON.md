@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `IRon` | **unresolved** (review queue) |
+| `IRon` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

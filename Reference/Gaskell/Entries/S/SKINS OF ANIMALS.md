@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FUH-HE` | **candidate (first-segment only)** → possible `FUH-HE, OR TAE-HAOU` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FUH-HE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `Man (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MAN CRAWLED` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `NEPHILim` | **unresolved** (review queue) |
+| `NEPHILim` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
 | `Pirris (lunar)` | **unresolved** (review queue) |
-| `Sons oF Gop` | **unresolved** (review queue) |
-| `SUKUNA` | **unresolved** (review queue) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
 
 ## Full OCR entry body (exact)
 

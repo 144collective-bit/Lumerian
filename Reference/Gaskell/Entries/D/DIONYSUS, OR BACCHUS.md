@@ -35,29 +35,29 @@ tags:
 | `ARO. MAN` | **unresolved** (review queue) |
 | `Baccnuus` | **unresolved** (review queue) |
 | `BIRTH oF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
-| `CAVE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `CRATER` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
+| `CAVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `CRATER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
 | `DEATH oF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `DRUNKARD` | **unresolved** (review queue) |
-| `ImaGE` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `DRUNKARD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DRUNKARD ON WINE OR SOMAJUICE|DRUNKARD ON WINE OR SOMAJUICE]] |
+| `ImaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `LaMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Loss` | **unresolved** (review queue) |
 | `Mempers` | **unresolved** (review queue) |
 | `Nympus` | **unresolved** (review queue) |
 | `Osis` | **unresolved** (review queue) |
-| `Ram` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
+| `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `Roastep` | **unresolved** (review queue) |
 | `Satyrs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
-| `SILENvs` | **unresolved** (review queue) |
-| `Srars` | **unresolved** (review queue) |
+| `SILENvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
+| `Srars` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 | `Trrans` | **unresolved** (review queue) |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
-| `WatTER` | **unresolved** (review queue) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
+| `WatTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINE` | **unresolved** (review queue) |
 | `Yur` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS. DIOSCURI ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

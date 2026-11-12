@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `DEVAS (builders)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `Man BORN` | **unresolved** (review queue) |
-| `MENTAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DEVAS (builders)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `Man BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
+| `MENTAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MENTAL-PLANE|MENTAL-PLANE]]; [[Reference/Gaskell/Entries/M/MENTAL SHEATH, OR BODY, OF THE HUMAN BEING|MENTAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `SMAILITUDES` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SMAILITUDES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `ALTAR GROUND` | **candidate (first-segment only)** → possible `ALTAR GROUND,—THE EARTH` (not linked) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
+| `ALTAR GROUND` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]] |
 | `Cuaos` | **unresolved** (review queue) |
-| `Dew` | **unresolved** (review queue) |
+| `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
-| `GROUND` | **candidate (first-segment only)** → possible `GROUND, HOLY` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
 | `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `SkEa` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
-| `TRIBUTE` | **unresolved** (review queue) |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `TRIBUTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBUTE MONEY|TRIBUTE MONEY]] |
 
 ## Full OCR entry body (exact)
 

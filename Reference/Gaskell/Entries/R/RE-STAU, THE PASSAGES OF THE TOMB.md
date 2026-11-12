@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AxstTu` | **unresolved** (review queue) |
-| `FETTERS` | **unresolved** (review queue) |
+| `FETTERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FETTERS ON A MAN|FETTERS ON A MAN]]; [[Reference/Gaskell/Entries/F/FETTERS ON THE SELF, OR SOUL|FETTERS ON THE SELF, OR SOUL]] |
 | `HEROIC RUNNER` | **unresolved** (review queue) |
 | `MovutTH (specch)` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `SEPULCHRE` | **unresolved** (review queue) |
+| `SEPULCHRE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
 
 ## Full OCR entry body (exact)

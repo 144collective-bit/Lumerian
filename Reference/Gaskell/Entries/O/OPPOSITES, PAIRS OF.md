@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `AKEM-MANO` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CHariotT` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CHariotT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `CoLD AND HEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Darvas` | **unresolved** (review queue) |
 | `Enicorio` | **unresolved** (review queue) |
 | `Evi` | **unresolved** (review queue) |
-| `FRavak` | **unresolved** (review queue) |
-| `GosHuroun` | **unresolved** (review queue) |
+| `FRavak` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVAK AND FRAVAKAIN|FRAVAK AND FRAVAKAIN]] |
+| `GosHuroun` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
 | `Guiry` | **unresolved** (review queue) |
-| `InLusion` | **unresolved** (review queue) |
-| `Matro` | **unresolved** (review queue) |
+| `InLusion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
+| `Matro` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `Nor` | **unresolved** (review queue) |
 | `Ormionevus` | **unresolved** (review queue) |
-| `PLAGuES` | **unresolved** (review queue) |
+| `PLAGuES` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PLAGUES AND EVILS|PLAGUES AND EVILS]] |
 | `RELATIVE` | **unresolved** (review queue) |
 | `552 RicH MAN` | **unresolved** (review queue) |
-| `SEEDS oF FooDs` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
-| `Summer` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `SEEDS oF FooDs` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEEDS OF FOODS AND PLANTS|SEEDS OF FOODS AND PLANTS]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `Summer` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `Susanowo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
-| `VIGARA` | **candidate (first-segment only)** → possible `VIGARA, THE AGELESS RIVER` (not linked) |
+| `VIGARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIGARA, THE AGELESS RIVER|VIGARA, THE AGELESS RIVER]] |
 
 ## Full OCR entry body (exact)
 

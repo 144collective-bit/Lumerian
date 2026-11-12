@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EDEN RIVERS` | **candidate (first-segment only)** → possible `EDEN RIVERS, CUSHION TO RECLINE UPON` (not linked) |
+| `EDEN RIVERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `PISHON. 99 HAWK HAWK; SPARROW-HAWEK; AN EMBLEM OF RA` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `THE SUNGOD :-— A symbol of the manifested Higher Self. ‘The hawk stands for the Supreme Mind` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -41,7 +41,7 @@ tags:
 | `and eth heart` | **unresolved** (review queue) |
 | `which organ they consider the seat or enclosure of the soul.’"—HORAPOLLO. ‘* Races having no connection with the Egyptian have associated sun and arrow-hawk. Homer` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `for instance` | **unresolved** (review queue) |
-| `— d` | **unresolved** (review queue) |
+| `— d` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM|D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM]] |
 | `15` | **unresolved** (review queue) |
 | `525` | **unresolved** (review queue) |
 | `—calls the hawk the ‘ swift messenger of Phoebus.’ ’’—WIEDEMANN` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -60,12 +60,12 @@ tags:
 | `Birp (great)` | **unresolved** (review queue) |
 | `BInDs` | **unresolved** (review queue) |
 | `BLOoD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] |
-| `BreaTtH` | **unresolved** (review queue) |
+| `BreaTtH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Eacie` | **unresolved** (review queue) |
 | `Eayrr_ (higher)` | **unresolved** (review queue) |
 | `Hrrprorotamvus` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Svun` | **unresolved** (review queue) |
 | `Worp` | **unresolved** (review queue) |
 

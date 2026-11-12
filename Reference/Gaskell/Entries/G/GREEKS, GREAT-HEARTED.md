@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Honour` | **unresolved** (review queue) |
-| `Princes (Greeks)` | **unresolved** (review queue) |
+| `Princes (Greeks)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRINCES OF THE GREEKS|PRINCES OF THE GREEKS]] |
 
 ## Full OCR entry body (exact)
 

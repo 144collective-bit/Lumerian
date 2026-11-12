@@ -35,26 +35,26 @@ tags:
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FErEet` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Kama` | **unresolved** (review queue) |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `RaNGI` | **unresolved** (review queue) |
-| `RavVANA` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `RaNGI` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANGI AND PAPA|RANGI AND PAPA]] |
+| `RavVANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `Ronco` | **unresolved** (review queue) |
 | `Ru` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RU|RU]] |
-| `SEKER` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEKER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKER OR SOKARIS|SEKER OR SOKARIS]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Sxy` | **unresolved** (review queue) |
 | `SopHra (lower)` | **unresolved** (review queue) |
-| `Susano-wo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
-| `TAWHIRI` | **unresolved** (review queue) |
+| `Susano-wo` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUSA-NO-WO, GOD OF THE SEA|SUSA-NO-WO, GOD OF THE SEA]] |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+| `TAWHIRI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `Tuma` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
 

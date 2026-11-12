@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DurGca` | **unresolved** (review queue) |
-| `HAIR SHAVEN` | **unresolved** (review queue) |
+| `DurGca` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DURGA, OR KALI, GODDESS|DURGA, OR KALI, GODDESS]] |
+| `HAIR SHAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HAIR SHAVEN FROM CROWN OF THE HEAD|HAIR SHAVEN FROM CROWN OF THE HEAD]] |
 | `HEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAD|HEAD]] |
 | `Horse fpti` | **unresolved** (review queue) |
-| `KILLING out` | **unresolved** (review queue) |
+| `KILLING out` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KILLING-OUT OF DESIRE|KILLING-OUT OF DESIRE]] |
 | `OPPosirEs` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
 | `THUNDERBOLT` | **unresolved** (review queue) |
-| `TONGUES` | **candidate (first-segment only)** → possible `TONGUES, GIFT OF` (not linked) |
+| `TONGUES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TONGUES, GIFT OF|TONGUES, GIFT OF]] |
 
 ## Full OCR entry body (exact)
 

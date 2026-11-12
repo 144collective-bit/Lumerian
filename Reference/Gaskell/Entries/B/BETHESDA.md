@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `Poot` | **unresolved** (review queue) |
-| `PoRoHEs` | **unresolved** (review queue) |
+| `PoRoHEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PORCHES, FIVE|PORCHES, FIVE]] |
 
 ## Full OCR entry body (exact)
 

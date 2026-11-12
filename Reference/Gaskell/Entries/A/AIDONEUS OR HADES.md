@@ -51,14 +51,14 @@ tags:
 | `over which he ruled. Hence he is called the infernal Zeus` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `or the king of the shades.”—Smith's Clase. 35 AIR Desire is the product of a process in Time and Space (Rhea). It is allied with the emotion-nature arising from Buddhi` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and which Desire captures. The lower planes with their illusions are ruled by Desire. See AHRIMAN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `CRONUS` | **unresolved** (review queue) |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
+| `CRONUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
 | `Devit` | **unresolved** (review queue) |
 | `Hapes` | **unresolved** (review queue) |
-| `Hera` | **unresolved** (review queue) |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `NeEstis` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

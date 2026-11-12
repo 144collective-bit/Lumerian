@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `ADONIS` | **unresolved** (review queue) |
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
 | `ATHENA` | **unresolved** (review queue) |
-| `Brast` | **unresolved** (review queue) |
+| `Brast` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `DRAGON` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
-| `EVE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `HERMES` | **unresolved** (review queue) |
-| `MEDUSA` | **candidate (first-segment only)** → possible `MEDUSA, THE GORGON` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
+| `EVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `MEDUSA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEDUSA, THE GORGON|MEDUSA, THE GORGON]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `WHALES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

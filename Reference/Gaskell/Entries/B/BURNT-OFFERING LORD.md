@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `AxTaR` | **unresolved** (review queue) |
 | `Beasts` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `Far` | **unresolved** (review queue) |
+| `Far` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAR-DARTING APOLLO|FAR-DARTING APOLLO]] |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
-| `HECATOMB` | **candidate (first-segment only)** → possible `HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS` (not linked) |
+| `HECATOMB` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
-| `RoasTeD` | **unresolved** (review queue) |
-| `SACRIFICES (burnt)` | **candidate (first-segment only)** → possible `SACRIFICES, BURNT` (not linked) |
+| `RoasTeD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROASTED FLESH OF SACRIFICE|ROASTED FLESH OF SACRIFICE]] |
+| `SACRIFICES (burnt)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SACRIFICES, BURNT|SACRIFICES, BURNT]] |
 | `SAavourR` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

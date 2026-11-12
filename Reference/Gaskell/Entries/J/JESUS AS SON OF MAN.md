@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `ASCENSION OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `CuiLp` | **unresolved** (review queue) |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FATHER (lower)` | **unresolved** (review queue) |
-| `GLORIFYING` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `GLORIFYING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `IsvaRa` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

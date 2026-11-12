@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `ArsH` | **unresolved** (review queue) |
 | `Boox` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `DISCIPLES SEATED` | **unresolved** (review queue) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `DISCIPLES SEATED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISCIPLES SEATED UPON TWELVE THRONES|DISCIPLES SEATED UPON TWELVE THRONES]] |
 | `Kunrsl` | **unresolved** (review queue) |
 | `MAAasEH` | **unresolved** (review queue) |
 

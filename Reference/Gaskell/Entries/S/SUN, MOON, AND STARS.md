@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN OF THE EAST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF THE EAST|CHILDREN OF THE EAST]] |
-| `MILK` | **unresolved** (review queue) |
+| `MILK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MILK AS FOR BABES (LOWER ASPECT)|MILK AS FOR BABES (LOWER ASPECT)]] |
 | `Moon` | **unresolved** (review queue) |
 | `Nicest` | **unresolved** (review queue) |
-| `Rain` | **unresolved** (review queue) |
+| `Rain` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Srars` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WELL` | **unresolved** (review queue) |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 
 ## Full OCR entry body (exact)
 

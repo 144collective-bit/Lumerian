@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BREASTPLATE` | **unresolved** (review queue) |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
 | `CARNELIAN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARNELIAN|CARNELIAN]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `Kaprma` | **unresolved** (review queue) |
 | `NECK` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
-| `PRECIOUS` | **unresolved** (review queue) |
+| `PRECIOUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRECIOUS STONES|PRECIOUS STONES]] |
 | `Rusi&s` | **unresolved** (review queue) |
-| `SAPPHIRE` | **unresolved** (review queue) |
+| `SAPPHIRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPPHIRE STONE|SAPPHIRE STONE]] |
 | `SARDONYXES` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SARDONYXES|SARDONYXES]] |
 
 ## Full OCR entry body (exact)

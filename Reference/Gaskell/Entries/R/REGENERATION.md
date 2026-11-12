@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCENSION` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
-| `BapTISM` | **unresolved** (review queue) |
-| `BoRN AGAIN` | **candidate (first-segment only)** → possible `BORN AGAIN, OR FROM ABOVE` (not linked) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `BapTISM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
+| `BoRN AGAIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]] |
 | `BuppuHI` | **unresolved** (review queue) |
-| `CAVE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `CAVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `CONSECRATION` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GRACE oF con` | **unresolved** (review queue) |
 | `Hoty G@Host` | **unresolved** (review queue) |
 | `InvoLurion` | **unresolved** (review queue) |
@@ -49,14 +49,14 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `NicopEMusS` | **unresolved** (review queue) |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
 | `JRRESURRECTION` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

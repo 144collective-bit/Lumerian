@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
 | `ASSEMBLY OF PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `BaTTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `HEROES` | **candidate (first-segment only)** → possible `HEROES, THE GREATEST OF THE DAY` (not linked) |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `HEROES` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
 | `Myrmipons` | **unresolved** (review queue) |
 | `PEtius` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `WaR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `WaR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

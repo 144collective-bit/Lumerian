@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ArHyr` | **unresolved** (review queue) |
+| `ArHyr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATHYR (HATHOR) MONTH|ATHYR (HATHOR) MONTH]] |
 | `Buppu1` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Horvs` | **unresolved** (review queue) |

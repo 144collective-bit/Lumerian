@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Crry` | **unresolved** (review queue) |
 | `Nusa` | **unresolved** (review queue) |
-| `SOUTH` | **unresolved** (review queue) |
+| `SOUTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]]; [[Reference/Gaskell/Entries/S/SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA|SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA]]; [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 
 ## Full OCR entry body (exact)
 

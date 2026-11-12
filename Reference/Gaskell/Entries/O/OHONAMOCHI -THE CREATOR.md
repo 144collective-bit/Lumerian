@@ -36,10 +36,10 @@ tags:
 | `Crvimisine` | **unresolved** (review queue) |
 | `Dwakr` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `REED PLAINS` | **unresolved** (review queue) |
-| `SUKUNA` | **unresolved** (review queue) |
+| `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
 | `548 OINTMENT Ol` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

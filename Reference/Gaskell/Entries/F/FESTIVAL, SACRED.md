@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CEREMONIES` | **unresolved** (review queue) |
+| `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
 | `RITEs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

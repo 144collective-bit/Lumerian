@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `BATTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
 | `Conriicr` | **unresolved** (review queue) |
-| `DURASROBO` | **candidate (first-segment only)** → possible `DURASROBO, THE KARAP` (not linked) |
+| `DURASROBO` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KABANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
+| `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `WAR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AELOPUS` | **candidate (first-segment only)** → possible `AELOPUS, OR NICOTHEA, THE HARPY` (not linked) |
+| `AELOPUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AELOPUS, OR NICOTHEA, THE HARPY|AELOPUS, OR NICOTHEA, THE HARPY]] |
 | `MAN (blind) OcYPETE` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 
 ## Full OCR entry body (exact)

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anpu` | **unresolved** (review queue) |
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 
 ## Full OCR entry body (exact)
 

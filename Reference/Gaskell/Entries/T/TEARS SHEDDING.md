@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DOLIONES` | **unresolved** (review queue) |
+| `DOLIONES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOLIONES PEOPLE|DOLIONES PEOPLE]] |
 | `JESUS WEPT` | **unresolved** (review queue) |
 | `SHAVING HEAD` | **unresolved** (review queue) |
-| `THETIS` | **candidate (first-segment only)** → possible `THETIS, GODDESS` (not linked) |
+| `THETIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

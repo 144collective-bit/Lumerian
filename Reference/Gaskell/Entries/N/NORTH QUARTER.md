@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `BRipcE OF GJALL` | **unresolved** (review queue) |
 | `DEATH OF LEMMINKAINEN` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `GJOLL` | **candidate (first-segment only)** → possible `GJOLL, OR GJALL, RIVER` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `GJOLL` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GJOLL, OR GJALL, RIVER|GJOLL, OR GJALL, RIVER]] |
 | `Heit` | **unresolved** (review queue) |
 | `Hermon` | **unresolved** (review queue) |
-| `Inturrion` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `Inturrion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MANALA` | **unresolved** (review queue) |
 | `Mopcunn` | **unresolved** (review queue) |
 | `SERPENT OF THE WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT OF THE WATER|SERPENT OF THE WATER]] |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 
 ## Full OCR entry body (exact)
 

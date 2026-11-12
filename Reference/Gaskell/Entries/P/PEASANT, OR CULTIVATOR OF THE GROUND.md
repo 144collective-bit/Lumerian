@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `HusBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `KNOWER OF FIELD` | **unresolved** (review queue) |
 | `MARUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 

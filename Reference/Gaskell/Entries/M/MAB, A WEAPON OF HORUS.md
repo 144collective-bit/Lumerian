@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Batrie` | **unresolved** (review queue) |
-| `CONFLICT` | **unresolved** (review queue) |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `Devit` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `INTELLEcr` | **unresolved** (review queue) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `INTELLEcr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `Isis` | **unresolved** (review queue) |
 | `MsoLtnzgR` | **unresolved** (review queue) |
 | `Ri` | **unresolved** (review queue) |
 | `Ser` | **unresolved** (review queue) |
 | `Strorze` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
-| `Victory` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
+| `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

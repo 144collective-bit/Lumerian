@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
-| `ATOM (permanent)` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `ATOM (permanent)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `IMMORTALITY FORFEITED` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]] |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 
 ## Full OCR entry body (exact)

@@ -35,11 +35,11 @@ tags:
 | `BRIDGE OF GJALL` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `Drap` | **unresolved** (review queue) |
-| `Five` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `Five` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `Hermon` | **unresolved** (review queue) |
 | `InrctTION` | **unresolved** (review queue) |
 | `MarpENn` | **unresolved** (review queue) |
-| `MuspPELL` | **unresolved** (review queue) |
+| `MuspPELL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `NortT#s` | **unresolved** (review queue) |
 | `SpPrait` | **unresolved** (review queue) |
 

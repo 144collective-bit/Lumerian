@@ -37,7 +37,7 @@ tags:
 | `Dragon` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
 | `Kryepom` | **unresolved** (review queue) |
 | `Lion` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
-| `Maato` | **unresolved** (review queue) |
+| `Maato` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |

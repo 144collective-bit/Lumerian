@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
 | `D1sPENSATIONS` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `LITTLE ONES` | **unresolved** (review queue) |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |

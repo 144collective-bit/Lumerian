@@ -34,15 +34,15 @@ tags:
 |---|---|
 | `Buiack` | **unresolved** (review queue) |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `HEAVEN AND FARTH` | **unresolved** (review queue) |
+| `HEAVEN AND FARTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `Savourn` | **unresolved** (review queue) |
-| `SEASONING` | **unresolved** (review queue) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `Savourn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
+| `SEASONING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEASONING WITH SALT AND TRIAL BY FIRE|SEASONING WITH SALT AND TRIAL BY FIRE]] |
 | `SEPARATION OF HEAVEN AND EARTH` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `SPotren` | **unresolved** (review queue) |
 | `Sun (moon). 649` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK` | **unresolved** (review queue) |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `CavusaL-BOoDy` | **unresolved** (review queue) |
 | `Curistr` | **unresolved** (review queue) |
 | `CourncH` | **unresolved** (review queue) |
 | `Corracs` | **unresolved** (review queue) |
-| `DWELLING` | **unresolved** (review queue) |
-| `GaRHAPATYA` | **unresolved** (review queue) |
+| `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
+| `GaRHAPATYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
 | `Lost SILVER` | **unresolved** (review queue) |
 | `Lorvus` | **unresolved** (review queue) |
 | `Mansions` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] |
 | `PyYtons` | **unresolved** (review queue) |
 | `Pyramip` | **unresolved** (review queue) |
-| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
+| `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 | `Surmve` | **unresolved** (review queue) |
-| `Stone (building)` | **unresolved** (review queue) |
-| `TaserNACLE` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `TREASURE` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `Stone (building)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `TaserNACLE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
 | `ASKR` | **unresolved** (review queue) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
 | `FatTHeR` | **unresolved** (review queue) |
 | `Frost` | **unresolved** (review queue) |
-| `GIANTS` | **candidate (first-segment only)** → possible `GIANTS, NEPHILIM, MIGHTY MEN` (not linked) |
-| `GIMLI` | **unresolved** (review queue) |
+| `GIANTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIANTS, NEPHILIM, MIGHTY MEN|GIANTS, NEPHILIM, MIGHTY MEN]] |
+| `GIMLI` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GIMLI OR VINGOLF|GIMLI OR VINGOLF]] |
 | `Haves` | **unresolved** (review queue) |
 | `Hert` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `NIFLHEIM` | **candidate (ambiguous first-segment)** → NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS; NIFLHEIM, THE SHADOWY REGION OF DEATH (not linked) |
+| `NIFLHEIM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS|NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS]]; [[Reference/Gaskell/Entries/N/NIFLHEIM, THE SHADOWY REGION OF DEATH|NIFLHEIM, THE SHADOWY REGION OF DEATH]] |
 | `OR aon is RING Qualities` | **unresolved** (review queue) |
-| `TITANS` | **unresolved** (review queue) |
-| `WELL` | **unresolved** (review queue) |
+| `TITANS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITANS TITANS, TWELVE|TITANS TITANS, TWELVE]] |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
-| `YGQDRASIL` | **unresolved** (review queue) |
+| `YGQDRASIL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 | `YMIR` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

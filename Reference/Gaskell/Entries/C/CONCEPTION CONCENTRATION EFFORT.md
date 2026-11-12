@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `STORM OF WIND` | **unresolved** (review queue) |
-| `WAVES` | **unresolved** (review queue) |
+| `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,25 +34,25 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ASSUMPTION` | **unresolved** (review queue) |
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
-| `OF ZOROASTER` | **candidate (first-segment only)** → possible `OF ZOROASTER, RELIGION, PAVILION` (not linked) |
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
-| `CONCEPTION` | **unresolved** (review queue) |
+| `ASSUMPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]]; [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `OF ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OF ZOROASTER, RELIGION, PAVILION|OF ZOROASTER, RELIGION, PAVILION]] |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `CoNSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `DIsSMEMBERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FRAVASHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
-| `HEBDOMAD` | **candidate (first-segment only)** → possible `HEBDOMAD, SON OF THE` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FRAVASHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
+| `HEBDOMAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEBDOMAD, SON OF THE|HEBDOMAD, SON OF THE]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MiydA` | **unresolved** (review queue) |
 | `Monap oF LIFE` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Sextr` | **unresolved** (review queue) |
 | `Son or GOD` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

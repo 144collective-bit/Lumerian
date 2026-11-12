@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHURNING` | **unresolved** (review queue) |
-| `Ecypt` | **unresolved** (review queue) |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
+| `Ecypt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EGYPT|EGYPT]] |
 | `ExrPERIENCE` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
-| `GNOSIS` | **unresolved** (review queue) |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `GNOSIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
-| `LETTER` | **unresolved** (review queue) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
 | `Rose` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SEALED LETTER` | **unresolved** (review queue) |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
 | `SERPENT (loud-breathing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `Sons oF Gop` | **unresolved** (review queue) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SwINE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWINE|SWINE]] |
-| `Toga` | **candidate (first-segment only)** → possible `TOGA, OR ROBE` (not linked) |
+| `Toga` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TOGA, OR ROBE|TOGA, OR ROBE]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `BonpacE` | **unresolved** (review queue) |
 | `Captiviry` | **unresolved** (review queue) |
-| `CoRPsE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `CoRPsE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Doe` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `SraosHa` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SraosHa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SRAOSHA-KARANA|SRAOSHA-KARANA]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

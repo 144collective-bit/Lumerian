@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
 | `GrInon` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

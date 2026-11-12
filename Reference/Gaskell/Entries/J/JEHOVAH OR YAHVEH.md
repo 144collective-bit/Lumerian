@@ -35,7 +35,7 @@ tags:
 | `Gop` | **unresolved** (review queue) |
 | `Setr` | **unresolved** (review queue) |
 | `Stva` | **unresolved** (review queue) |
-| `TETRAGRAMMATON` | **candidate (first-segment only)** → possible `TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH` (not linked) |
+| `TETRAGRAMMATON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH|TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH]] |
 | `YEDUD` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YEDUD|YEDUD]] |
 
 ## Full OCR entry body (exact)

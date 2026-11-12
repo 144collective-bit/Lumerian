@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CLOUDS OF HEAVEN` | **candidate (first-segment only)** → possible `CLOUDS OF HEAVEN, AS MIST` (not linked) |
-| `EYE` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
+| `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
+| `EYE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
 | `SIGHT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

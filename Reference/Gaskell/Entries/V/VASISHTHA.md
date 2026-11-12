@@ -37,11 +37,11 @@ tags:
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `LAW OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF BUDDHA|LAW OF BUDDHA]] |
 | `SARASVATI` | **unresolved** (review queue) |
-| `Son or Gop` | **unresolved** (review queue) |
+| `Son or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Spreit` | **unresolved** (review queue) |
-| `VARUNA` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
+| `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `VEDA` | **unresolved** (review queue) |
-| `VYABA` | **unresolved** (review queue) |
+| `VYABA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VYASA, THE DISPOSER REGULAR SEQUENCE|VYASA, THE DISPOSER REGULAR SEQUENCE]] |
 
 ## Full OCR entry body (exact)
 

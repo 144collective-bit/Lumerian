@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HyRROOKEN` | **unresolved** (review queue) |
-| `MJOLNER` | **candidate (first-segment only)** → possible `MJOLNER, THE HAMMER OF THOR` (not linked) |
+| `HyRROOKEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYRROCKEN, THE GIANTESS|HYRROCKEN, THE GIANTESS]] |
+| `MJOLNER` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] |
 | `ODIN` | **unresolved** (review queue) |
 | `RoMAN sotpiers` | **unresolved** (review queue) |
 | `Sotprers` | **unresolved** (review queue) |

@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
 | `Jos` | **unresolved** (review queue) |
-| `REsuRRECTION` | **unresolved** (review queue) |
+| `REsuRRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SELF. SLEEPING AND WAKING` | **unresolved** (review queue) |
 | `THE FOUR STATES OF THE SOUL :-Symbolic of the states of consciousness in the physical (waking state)` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `astro-mental (dream sleep)` | **unresolved** (review queue) |
-| `causal (deep sleep)` | **unresolved** (review queue) |
+| `astro-mental (dream sleep)` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASTRO-MENTAL AND ASTROPHYSICAL PLANES|ASTRO-MENTAL AND ASTROPHYSICAL PLANES]] |
+| `causal (deep sleep)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]]; [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
 | `and buddhic (blissful sleep) bodies. “The Vaisvanara that exists in a waking condition` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `recognising external objects` | **unresolved** (review queue) |
 | `with seven limbs and ninetcen mouths` | **unresolved** (review queue) |
@@ -107,7 +107,7 @@ tags:
 | `is inconceivable to the lower mind and negatives all its conceptions ; its fullness of content must transcend all that pertains to the phenomenal universe and the cycle of time. “The matter of the astral plane is much more plastic and obedient to imagination and desire than that of the gross earth....%In this condition of being people are well aware that they have quitted the earth life and have assed through the change spoken of ere as death` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `but conceive themselves translated to another world filled with the same interests and occupations as those they have quitted` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `although these are divorced completely from the strained and painful aspects they have worn down here. The inhabitants of this region create for themselves dwellings` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `churches` | **unresolved** (review queue) |
+| `churches` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURCHES IN ASIA, SEVEN|CHURCHES IN ASIA, SEVEN]] |
 | `entertainments` | **unresolved** (review queue) |
 | `music and instruments` | **unresolved** (review queue) |
 | `and social surroundings of all sorts` | **unresolved** (review queue) |
@@ -116,11 +116,11 @@ tags:
 | `p. 191. See ASTRAL` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
 | `BLISS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLISS|BLISS]] |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
-| `GATHA (kam.)` | **unresolved** (review queue) |
-| `GaTHa (ush.)` | **unresolved** (review queue) |
+| `GATHA (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `GaTHa (ush.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
 | `HARAvaArtt` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `Kama` | **unresolved** (review queue) |
@@ -128,12 +128,12 @@ tags:
 | `Nieuts (three)` | **unresolved** (review queue) |
 | `NrmzvaNa` | **unresolved** (review queue) |
 | `PARADISE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `SMaM` | **candidate (first-segment only)** → possible `SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET` (not linked) |
+| `SMaM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET|SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET]] |
 | `SVARGA-WORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SVARGA-WORLD|SVARGA-WORLD]] |
-| `TIME` | **unresolved** (review queue) |
-| `UNnIon` | **unresolved** (review queue) |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
+| `UNnIon` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]] |
 | `VAISVANARA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
-| `WORLDS (five). SLEIPNER` | **unresolved** (review queue) |
+| `WORLDS (five). SLEIPNER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `ODIN’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `Foon` | **unresolved** (review queue) |
-| `LEAVEN` | **unresolved** (review queue) |
+| `LEAVEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LEAVEN (HIGHER ASPECT)|LEAVEN (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/L/LEAVEN (LOWER ASPECT)|LEAVEN (LOWER ASPECT)]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Manna` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
-| `PASSOVER` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `PASSOVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `SACRAMENTAL CAKES` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SHEW-BREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
 
 ## Full OCR entry body (exact)

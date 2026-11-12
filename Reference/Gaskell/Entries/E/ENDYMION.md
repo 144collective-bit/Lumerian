@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SELENE` | **unresolved** (review queue) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 
 ## Full OCR entry body (exact)
 

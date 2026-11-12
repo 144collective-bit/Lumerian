@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `Conrucrus` | **unresolved** (review queue) |
-| `Draaon` | **unresolved** (review queue) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `Conrucrus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONFUCIUS|CONFUCIUS]] |
+| `Draaon` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
 | `Fruiau prery` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FRUIT OF THE SPIRIT` | **candidate (first-segment only)** → possible `FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE` (not linked) |
-| `SAVIOURS` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `FRUIT OF THE SPIRIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
+| `SAVIOURS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

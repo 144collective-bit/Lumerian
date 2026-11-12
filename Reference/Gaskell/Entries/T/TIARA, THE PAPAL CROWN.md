@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Crowns` | **candidate (first-segment only)** → possible `CROWNS, RED AND WHITE` (not linked) |
+| `Crowns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CROWNS, RED AND WHITE|CROWNS, RED AND WHITE]] |
 | `LION (man)` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
-| `TEE` | **candidate (first-segment only)** → possible `TEE, APEX ORNAMENT` (not linked) |
+| `TEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEE, APEX ORNAMENT|TEE, APEX ORNAMENT]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DISCIPLES ON THRONES` | **unresolved** (review queue) |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `TABLE` | **unresolved** (review queue) |
-| `'TRANSMUTATION` | **unresolved** (review queue) |
-| `TRIBES OF ISRAEL` | **candidate (first-segment only)** → possible `TRIBES OF ISRAEL, TWELVE` (not linked) |
+| `TABLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
+| `'TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `TRIBES OF ISRAEL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

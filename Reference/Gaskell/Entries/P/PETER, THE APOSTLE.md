@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arm` | **unresolved** (review queue) |
-| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
+| `ANDREW` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `ASCENSION OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
-| `DISCIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
-| `DooRKEEPER (fem.)` | **unresolved** (review queue) |
+| `DISCIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
+| `DooRKEEPER (fem.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORKEEPER (FEMININE)|DOORKEEPER (FEMININE)]] |
 | `FEED` | **unresolved** (review queue) |
-| `FiIsH` | **unresolved** (review queue) |
+| `FiIsH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
-| `Horses (manes)` | **candidate (first-segment only)** → possible `HORSES, TWO BAY` (not linked) |
-| `JESUS (severe)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `Horses (manes)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORSES, TWO BAY|HORSES, TWO BAY]]; [[Reference/Gaskell/Entries/H/HORSES WITH LONG FLOWING MANES|HORSES WITH LONG FLOWING MANES]] |
+| `JESUS (severe)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JESUS, DESCRIBED AS SEVERE AND TURBULENT|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Mess1aH` | **unresolved** (review queue) |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `SaTan` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
-| `TABERNACLES` | **candidate (first-segment only)** → possible `TABERNACLES, OR BOOTHS, OF PETER` (not linked) |
+| `TABERNACLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TABERNACLES, OR BOOTHS, OF PETER|TABERNACLES, OR BOOTHS, OF PETER]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
-| `TRIBUTE` | **unresolved** (review queue) |
+| `TRIBUTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBUTE MONEY|TRIBUTE MONEY]] |
 
 ## Full OCR entry body (exact)
 

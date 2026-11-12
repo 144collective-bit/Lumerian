@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATZEELOOTH` | **unresolved** (review queue) |
-| `BrnaH` | **unresolved** (review queue) |
+| `BrnaH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
 | `BREEATIC WORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
 | `EvoxuTion` | **unresolved** (review queue) |
 | `Hrsrp` | **unresolved** (review queue) |
 | `HoxsMAH` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `KETHER` | **candidate (first-segment only)** → possible `KETHER, THE CROWN` (not linked) |
-| `MALKUTH` | **candidate (first-segment only)** → possible `MALKUTH, THE HOLY SPIRIT` (not linked) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `KETHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KETHER, THE CROWN|KETHER, THE CROWN]] |
+| `MALKUTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MALKUTH, THE HOLY SPIRIT|MALKUTH, THE HOLY SPIRIT]] |
 | `PawaD` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `TIPHERETH` | **unresolved** (review queue) |

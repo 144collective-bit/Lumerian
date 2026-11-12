@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `Bioop` | **unresolved** (review queue) |
 | `Burt` | **unresolved** (review queue) |
-| `Devas (lower)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `Devas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Fatt` | **unresolved** (review queue) |
 | `Frenps` | **unresolved** (review queue) |
 | `GEORGE AND DRAGON` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `Marrer` | **unresolved** (review queue) |
 | `ScorPion` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCORPION|SCORPION]] |
-| `Spark` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `VICTORY. 505` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

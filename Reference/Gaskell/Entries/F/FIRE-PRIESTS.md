@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
 | `PRIEST OF ALTAR` | **unresolved** (review queue) |
 

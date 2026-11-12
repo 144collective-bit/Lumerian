@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BRIAREUS` | **candidate (ambiguous first-segment)** → BRIAREUS, MEN, ONE-LEGGED; BRIAREUS, OR AEGAEON (not linked) |
+| `BRIAREUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRIAREUS, MEN, ONE-LEGGED|BRIAREUS, MEN, ONE-LEGGED]]; [[Reference/Gaskell/Entries/B/BRIAREUS, OR AEGAEON|BRIAREUS, OR AEGAEON]] |
 
 ## Full OCR entry body (exact)
 

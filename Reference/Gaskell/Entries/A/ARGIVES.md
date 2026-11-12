@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `ARROW` | **unresolved** (review queue) |
-| `ODYSSEUS` | **candidate (first-segment only)** → possible `ODYSSEUS, ULYSSES` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `PESTILENCE` | **unresolved** (review queue) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `ARROW` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
+| `ODYSSEUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/ODYSSEUS, ULYSSES|ODYSSEUS, ULYSSES]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PRIZE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

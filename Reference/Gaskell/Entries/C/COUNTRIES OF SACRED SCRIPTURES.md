@@ -36,21 +36,21 @@ tags:
 | `Eaypr` | **unresolved** (review queue) |
 | `FoLK` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOLK|FOLK]] |
 | `GREECE` | **unresolved** (review queue) |
-| `Greeks` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `Greeks` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `IJRan` | **unresolved** (review queue) |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `JEWS` | **unresolved** (review queue) |
-| `JupaH` | **unresolved** (review queue) |
-| `LANKA` | **unresolved** (review queue) |
+| `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
+| `JupaH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
 | `MAZENDARANS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] |
-| `MEAOU TRIBES` | **unresolved** (review queue) |
-| `NORTH LAND` | **unresolved** (review queue) |
+| `MEAOU TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEAOU TRIBES OF CHINA|MEAOU TRIBES OF CHINA]] |
+| `NORTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]] |
 | `NUBIA` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NUBIA|NUBIA]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `PHAACEANS` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
-| `QUETZALCOATL` | **unresolved** (review queue) |
-| `SOUTH LAND` | **candidate (first-segment only)** → possible `SOUTH LAND, AND NORTH LAND OF EGYPT` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `PHAACEANS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+| `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
+| `SOUTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]] |
 
 ## Full OCR entry body (exact)
 

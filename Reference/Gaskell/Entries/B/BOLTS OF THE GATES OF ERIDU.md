@@ -37,17 +37,17 @@ tags:
 | `Arc. MAN` | **unresolved** (review queue) |
 | `Eripu` | **unresolved** (review queue) |
 | `Fisu` | **unresolved** (review queue) |
-| `GATE (tchesert)` | **unresolved** (review queue) |
-| `GaTEs` | **unresolved** (review queue) |
+| `GATE (tchesert)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `GaTEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Locos` | **unresolved** (review queue) |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `Nicut` | **unresolved** (review queue) |
 | `Pars` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 
 ## Full OCR entry body (exact)
 

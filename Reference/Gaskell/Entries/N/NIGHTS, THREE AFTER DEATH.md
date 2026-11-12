@@ -39,7 +39,7 @@ tags:
 | `Heap` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SLEEPING. NILE RIVER ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

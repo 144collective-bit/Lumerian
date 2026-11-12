@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BRAHMAN PRIESTS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]] |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `Caur` | **unresolved** (review queue) |
-| `CaLves (Myriad)` | **candidate (first-segment only)** → possible `CALVES, THE MYRIAD` (not linked) |
+| `CaLves (Myriad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/C/CALVES, THE MYRIAD|CALVES, THE MYRIAD]] |
 | `Earrs` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `GOLDEN aGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LINEN GABMENT` | **unresolved** (review queue) |
-| `MILK` | **unresolved** (review queue) |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
-| `UDDER` | **unresolved** (review queue) |
+| `MILK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MILK AS FOR BABES (LOWER ASPECT)|MILK AS FOR BABES (LOWER ASPECT)]] |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
+| `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
 | `Vaca. COW OF PLENTY` | **unresolved** (review queue) |
 | `SKIN "’ :— A symbol of the buddhic-nature which operates within` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `as it were` | **unresolved** (review queue) |
@@ -56,14 +56,14 @@ tags:
 | `O cow of heavenly power` | **unresolved** (review queue) |
 | `rain down for me in copious shower. .. . On her mine a which ascend to Gods and spirits all depend: my very life is due to her` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `my guardian` | **unresolved** (review queue) |
-| `friend` | **unresolved** (review queue) |
+| `friend` | resolved (singular/plural) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]] |
 | `and minister. The feeding of the sacred flame` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the dole which living creatures claim` | **unresolved** (review queue) |
 | `the mighty sacrifice by fire.”"—Grirrity` | **unresolved** (review queue) |
 | `The Ramayan` | **unresolved** (review queue) |
 | `Vol. I. pp. 226-8. The forces of the lower planes (Vasishtha) operate outwardly in the manifest imperfections of life` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which ‘* DAPPLE181 COW express the fact of the essential perfection of tho archetypal spiritual pattern within. Through the buddhic activities nourishment for the soul is prepared. Goodness` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `love` | **candidate (first-segment only)** → possible `LOVE, THE UNITER OF ALL` (not linked) |
+| `love` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
 | `and truth are the gifts of the Spirit bestowed on the aspiring mind. On Wisdom depends the transmutation of the offerings of the qualities at her shrine to | the ideals. The life of the soul is to be found in its intimate relation with the spiritual forces which raise and develop it. The qualities which have in them the divine germ claim from Wisdom the purifying and perfecting of their natures. ‘Hail (the seven kine and their Bull) ye who give cakes and ale` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and splendour to the souls who are provided with food in the underworld` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `grant ye cakes and ale unto the Osiris Nu; provide ye him with food` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -76,8 +76,8 @@ tags:
 | `—the Christsoul —coupled with the name of an individuality ‘“‘ Nu.” The Christ can only be born within the highest emotions` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and must be nursed and nourished by them. See ALMSGIVING` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `BANQUET` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BANQUET|BANQUET]] |
-| `BULL` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
-| `CaKE` | **candidate (first-segment only)** → possible `CAKE, SACRIFICIAL` (not linked) |
+| `BULL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]]; [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] |
+| `CaKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] |
 | `Citoup` | **unresolved** (review queue) |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `FErEastT` | **unresolved** (review queue) |
@@ -86,9 +86,9 @@ tags:
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `Mtnx` | **unresolved** (review queue) |
 | `Rar` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SPOTTED` | **unresolved** (review queue) |
+| `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
 | `V ASISHTHA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASISHTHA|VASISHTHA]] |
 | `WEALTH-SHOWER` | **unresolved** (review queue) |
 

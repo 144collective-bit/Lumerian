@@ -74,22 +74,22 @@ tags:
 | `Serm.` | **unresolved** (review queue) |
 | `The Buried Life. See AMENI` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ASCENSION` | **unresolved** (review queue) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `Brmps (two)` | **unresolved** (review queue) |
-| `Crist` | **unresolved** (review queue) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
-| `Fia-Fruit` | **unresolved** (review queue) |
-| `HEBDOMAD` | **candidate (first-segment only)** → possible `HEBDOMAD, SON OF THE` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Crist` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `Fia-Fruit` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
+| `HEBDOMAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEBDOMAD, SON OF THE|HEBDOMAD, SON OF THE]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Kina` | **unresolved** (review queue) |
 | `Kino (great)` | **unresolved** (review queue) |
 | `Krvapom` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `SPARROWS` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
-| `TEMPTATION` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `SPARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

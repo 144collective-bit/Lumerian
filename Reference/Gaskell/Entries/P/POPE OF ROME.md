@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaRON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `AaRON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `CHURCH` | **unresolved** (review queue) |
-| `HIGH PRIEST` | **unresolved** (review queue) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `HIGH PRIEST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
 | `Pontirr` | **unresolved** (review queue) |
-| `Priest` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `TiaRA` | **candidate (first-segment only)** → possible `TIARA, THE PAPAL CROWN` (not linked) |
+| `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `TiaRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIARA, THE PAPAL CROWN|TIARA, THE PAPAL CROWN]] |
 
 ## Full OCR entry body (exact)
 

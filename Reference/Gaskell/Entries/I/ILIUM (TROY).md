@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CrTy OF GOD` | **unresolved** (review queue) |
-| `HELEN` | **unresolved** (review queue) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CrTy OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `MENIS` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Priam` | **unresolved** (review queue) |
+| `Priam` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
 | `SHIPS OF GREEKS` | **unresolved** (review queue) |
 | `TROJANS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |

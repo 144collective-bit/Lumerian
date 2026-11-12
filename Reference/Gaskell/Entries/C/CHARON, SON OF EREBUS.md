@@ -50,11 +50,11 @@ tags:
 | `p. 256. See AGNIDHRA` | **unresolved** (review queue) |
 | `Boat (river)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
-| `DoG CERBERUS` | **candidate (first-segment only)** → possible `DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES` (not linked) |
-| `Hi1KoBOSHI` | **unresolved** (review queue) |
-| `PRaGApPatTI` | **unresolved** (review queue) |
-| `RECOLLECTION` | **unresolved** (review queue) |
-| `REMINISCENCE` | **unresolved** (review queue) |
+| `DoG CERBERUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES|DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES]] |
+| `Hi1KoBOSHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
+| `PRaGApPatTI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `STyx` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

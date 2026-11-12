@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hrerporotamus` | **unresolved** (review queue) |
-| `NvuBIA` | **unresolved** (review queue) |
+| `NvuBIA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NUBIA|NUBIA]] |
 
 ## Full OCR entry body (exact)
 

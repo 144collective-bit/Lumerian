@@ -41,14 +41,14 @@ tags:
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `Hanp (left)` | **unresolved** (review queue) |
 | `Hanp (right)` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `NaTIONs` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `NaTIONs` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SCAPEGOAT` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Wak` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

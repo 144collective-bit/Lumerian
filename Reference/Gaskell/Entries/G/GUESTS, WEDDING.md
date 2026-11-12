@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GaRMENTs` | **unresolved** (review queue) |
-| `MarniaGE (higher) RamMENT` | **unresolved** (review queue) |
+| `GaRMENTs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
+| `MarniaGE (higher) RamMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Concu` | **unresolved** (review queue) |
+| `Concu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONCH, OR SHELL-TRUMPET|CONCH, OR SHELL-TRUMPET]] |
 | `DuR-YODHANA` | **unresolved** (review queue) |
 | `HopEr` | **unresolved** (review queue) |
-| `Kurvus` | **unresolved** (review queue) |
-| `Sansaya` | **unresolved** (review queue) |
+| `Kurvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `Sansaya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA|SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

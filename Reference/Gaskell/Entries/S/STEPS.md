@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `LappEr` | **unresolved** (review queue) |
 | `Movrs (speech)` | **unresolved** (review queue) |
-| `STAIRCASE` | **candidate (first-segment only)** → possible `STAIRCASE, STAIRS` (not linked) |
+| `STAIRCASE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
 
 ## Full OCR entry body (exact)
 

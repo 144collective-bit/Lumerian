@@ -36,7 +36,7 @@ tags:
 | `Buppsi` | **unresolved** (review queue) |
 | `HeEazt` | **unresolved** (review queue) |
 | `MovutH` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WuIs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

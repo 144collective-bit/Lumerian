@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bow` | **unresolved** (review queue) |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `Cup (wine)` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `Cup (wine)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `IRS` | **unresolved** (review queue) |
-| `IsRaAELITES` | **unresolved** (review queue) |
+| `IsRaAELITES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `LAW OF MOSES` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF MOSES|LAW OF MOSES]] |
-| `MEDIATOR` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
+| `MEDIATOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEDIATOR CHRIST|MEDIATOR CHRIST]] |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `Noan` | **unresolved** (review queue) |
 | `Rarnsow` | **unresolved** (review queue) |
-| `SHEPHERD (good)` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SHEPHERD (good)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `TESTAMENT` | **unresolved** (review queue) |
-| `ZION` | **unresolved** (review queue) |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

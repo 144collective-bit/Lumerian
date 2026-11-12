@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
 | `Buss` | **unresolved** (review queue) |
-| `LOVE oF cop` | **unresolved** (review queue) |
-| `Monts` | **unresolved** (review queue) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `SUN-MOTIONLESS` | **unresolved** (review queue) |
+| `LOVE oF cop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
+| `Monts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONTH|MONTH]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `SUN-MOTIONLESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN MOTIONLESS ZENITH|SUN MOTIONLESS ZENITH]] |
 | `ZENITH. or` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

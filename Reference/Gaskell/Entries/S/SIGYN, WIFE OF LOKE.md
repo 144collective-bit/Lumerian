@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `LOKE` | **unresolved** (review queue) |
 | `NErutTHysS` | **unresolved** (review queue) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 
 ## Full OCR entry body (exact)
 

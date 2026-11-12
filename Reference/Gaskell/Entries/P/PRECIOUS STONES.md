@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `particular stones` | **unresolved** (review queue) |
-| `BREASTPLATE` | **unresolved** (review queue) |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
 | `GEMS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `NECKLACE` | **unresolved** (review queue) |

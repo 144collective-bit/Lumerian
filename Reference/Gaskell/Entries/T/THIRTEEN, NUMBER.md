@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Aton (thirteenth)` | **unresolved** (review queue) |
 | `Born ovt` | **unresolved** (review queue) |
-| `JUDAS` | **unresolved** (review queue) |
+| `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
 | `OGDOAD` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OGDOAD|OGDOAD]] |
 
 ## Full OCR entry body (exact)

@@ -33,32 +33,32 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ALTAR OF SACRIFICE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]] |
-| `AURVAITO` | **unresolved** (review queue) |
-| `BaRLEYCOERNS` | **unresolved** (review queue) |
+| `AURVAITO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
+| `BaRLEYCOERNS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
 | `BHIMA` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `CATTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `CATTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
 | `Cow (spotted)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Eatrnc` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `Feast` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `Feast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `FEED` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HunocErR` | **unresolved** (review queue) |
 | `Licut` | **unresolved** (review queue) |
 | `Mgat` | **unresolved** (review queue) |
-| `Mortar` | **unresolved** (review queue) |
+| `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 | `Movurh OPENING` | **unresolved** (review queue) |
 | `Roorep` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `TIME` | **unresolved** (review queue) |
-| `UDDER` | **unresolved** (review queue) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
+| `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
 | `Uxemocut` | **unresolved** (review queue) |
-| `UNEN` | **unresolved** (review queue) |
+| `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 | `VAGEPEYA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WEALTH-SHOWER` | **unresolved** (review queue) |
-| `YIMA` | **unresolved** (review queue) |
+| `YIMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
 
 ## Full OCR entry body (exact)
 

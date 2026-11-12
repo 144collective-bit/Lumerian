@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATMAN` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `DWELLER` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DWELLER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLER ON HIGH|DWELLER ON HIGH]] |
 | `Kerner` | **unresolved** (review queue) |
-| `Lamp` | **unresolved** (review queue) |
-| `Lao` | **unresolved** (review queue) |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `MonapD` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

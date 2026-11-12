@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AtTaR (fire)` | **unresolved** (review queue) |
-| `ASHES` | **unresolved** (review queue) |
-| `GOLD PLATE` | **unresolved** (review queue) |
+| `ASHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
+| `GOLD PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLD PLATE (CIRCULAR)|GOLD PLATE (CIRCULAR)]] |
 | `Horse (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `HORSE SACRIFicE` | **unresolved** (review queue) |
-| `Lotus LEAF` | **candidate (first-segment only)** → possible `LOTUS LEAF, OR LEAVES` (not linked) |
-| `PRANA` | **unresolved** (review queue) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `Lotus LEAF` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]] |
+| `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SomMA PLANT` | **unresolved** (review queue) |
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AzrsHm` | **unresolved** (review queue) |
-| `ARIZURA` | **candidate (first-segment only)** → possible `ARIZURA, NECK OF` (not linked) |
-| `Beast` | **unresolved** (review queue) |
+| `ARIZURA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARIZURA, NECK OF|ARIZURA, NECK OF]] |
+| `Beast` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `Boat or wispOmM` | **unresolved** (review queue) |
 | `Prr` | **unresolved** (review queue) |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

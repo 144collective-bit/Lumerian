@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `TZELEM` | **candidate (first-segment only)** → possible `TZELEM, DIVINE OR HOLY` (not linked) |
+| `TZELEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TZELEM, DIVINE OR HOLY|TZELEM, DIVINE OR HOLY]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEVAYANA` | **unresolved** (review queue) |
-| `GIRDLE ROPE` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
 | `MonapD` | **unresolved** (review queue) |
 | `Prrris (lunar)` | **unresolved** (review queue) |
 | `Prrrryana` | **unresolved** (review queue) |
-| `Quarters` | **unresolved** (review queue) |
+| `Quarters` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Sxy` | **unresolved** (review queue) |
-| `SrakE` | **unresolved** (review queue) |
+| `SrakE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
 | `TorRING` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 

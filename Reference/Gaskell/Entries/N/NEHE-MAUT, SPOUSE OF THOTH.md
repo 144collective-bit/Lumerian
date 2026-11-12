@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CurysE1s` | **unresolved** (review queue) |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `SOPHIA` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
+| `SOPHIA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

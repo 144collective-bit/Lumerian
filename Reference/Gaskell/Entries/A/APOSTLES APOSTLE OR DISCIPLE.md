@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
+| `ANDREW` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] |
 | `Discrete` | **unresolved** (review queue) |
-| `JAMEs` | **candidate (first-segment only)** → possible `JAMES, THE APOSTLE` (not linked) |
-| `JOHN` | **unresolved** (review queue) |
-| `JUDAS` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `JAMEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JAMES, THE APOSTLE|JAMES, THE APOSTLE]] |
+| `JOHN` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHN THE BAPTIST|JOHN THE BAPTIST]] |
+| `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `PHILIP` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

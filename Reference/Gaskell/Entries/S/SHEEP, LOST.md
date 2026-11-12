@@ -32,27 +32,27 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BODHISATVAS` | **unresolved** (review queue) |
-| `DISCIPLES SENT` | **unresolved** (review queue) |
-| `FUGITIVE` | **unresolved** (review queue) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
-| `HELEN` | **unresolved** (review queue) |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `DISCIPLES SENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISCIPLES SENT FORTH|DISCIPLES SENT FORTH]] |
+| `FUGITIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUGITIVE AND WANDERER|FUGITIVE AND WANDERER]] |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `INDIVIDUALIry` | **unresolved** (review queue) |
-| `LITTLE CHILDREN` | **candidate (first-segment only)** → possible `LITTLE CHILDREN, OR LITTLE ONES` (not linked) |
+| `INDIVIDUALIry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
+| `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `MOUNTAIN` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `Pincrims` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
-| `SONS OF Gop` | **unresolved** (review queue) |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
+| `SONS OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SOSHYANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANTS|SOSHYANTS]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `WANDERERS` | **candidate (first-segment only)** → possible `WANDERERS, OR WAYFARERS` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `WANDERERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
 | `WAYFARING MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAYFARING MEN|WAYFARING MEN]] |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
-| `WISDOM` | **unresolved** (review queue) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

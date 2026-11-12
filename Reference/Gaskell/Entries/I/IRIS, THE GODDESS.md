@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Birrost` | **unresolved** (review queue) |
+| `Birrost` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIFROST, THE HEAVENLY BRIDGE|BIFROST, THE HEAVENLY BRIDGE]] |
 | `BRiIpGE` | **unresolved** (review queue) |
 | `CLoups` | **unresolved** (review queue) |
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `Hrermes` | **unresolved** (review queue) |
 | `Horse (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Inrurrion` | **unresolved** (review queue) |

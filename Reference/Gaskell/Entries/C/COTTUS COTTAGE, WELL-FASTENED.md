@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CavusaL- BODY` | **unresolved** (review queue) |
-| `DWELLING` | **unresolved** (review queue) |
+| `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
 | `Hovsse` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CONFUSION` | **unresolved** (review queue) |
+| `CONFUSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFUSION BABEL|CONFUSION BABEL]] |
 | `LANGUAGE` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 
 ## Full OCR entry body (exact)
 

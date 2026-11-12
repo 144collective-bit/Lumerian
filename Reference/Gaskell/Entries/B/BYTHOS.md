@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Coaos` | **unresolved** (review queue) |
-| `DESERTS` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `Coaos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `DESERTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

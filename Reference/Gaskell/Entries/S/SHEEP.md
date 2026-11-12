@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
 | `Foop (soul)` | **unresolved** (review queue) |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Hann` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
-| `LITTLE CHILDREN` | **candidate (first-segment only)** → possible `LITTLE CHILDREN, OR LITTLE ONES` (not linked) |
+| `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `Poot oF BETHESDA` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 
 ## Full OCR entry body (exact)
 

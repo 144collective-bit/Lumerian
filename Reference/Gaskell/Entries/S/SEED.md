@@ -34,29 +34,29 @@ tags:
 |---|---|
 | `ALON` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `BODHISATVA (great)` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
+| `BODHISATVA (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `Cuip` | **unresolved** (review queue) |
 | `CoNcEPpTion` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CRANBERRY` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Eac` | **unresolved** (review queue) |
 | `FiaTREE` | **unresolved** (review queue) |
-| `FIRST-BORN SON` | **unresolved** (review queue) |
+| `FIRST-BORN SON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Gops` | **unresolved** (review queue) |
-| `HARVEST` | **unresolved** (review queue) |
-| `HIRANYAGARBBHA` | **unresolved** (review queue) |
+| `HARVEST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `HIRANYAGARBBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `HorrZILOPOCHTLI` | **unresolved** (review queue) |
 | `HUSBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
-| `IMAGE` | **unresolved** (review queue) |
-| `MonaD` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
-| `Oak` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `MonaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
+| `Oak` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
 | `PaRGANYA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
-| `SowER` | **unresolved** (review queue) |
-| `SPERMATIO WORDS` | **unresolved** (review queue) |
+| `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+| `SPERMATIO WORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 
 ## Full OCR entry body (exact)
 

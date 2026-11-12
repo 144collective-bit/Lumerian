@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INvoLuTION` | **unresolved** (review queue) |
+| `INvoLuTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Kaau` | **unresolved** (review queue) |
 | `LionGop` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
 | `Mrrura` | **unresolved** (review queue) |
 | `PuRUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `SaBBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
-| `Sau (double)` | **unresolved** (review queue) |
+| `SaBBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
+| `Sau (double)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `Srmrr` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

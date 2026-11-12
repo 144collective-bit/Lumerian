@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `J ERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `J ERUSALEM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `PRaISE OF GOD` | **unresolved** (review queue) |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
-| `STONE (corner)` | **unresolved** (review queue) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+| `STONE (corner)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Carr (fatted)` | **unresolved** (review queue) |
 | `HEAVENLY wyMPpHs` | **unresolved** (review queue) |
-| `Husxs` | **unresolved** (review queue) |
+| `Husxs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSKS|HUSKS]] |
 | `Kariasa` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `PRODIGAL` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
 
 ## Full OCR entry body (exact)
 

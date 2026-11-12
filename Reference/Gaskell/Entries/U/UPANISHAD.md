@@ -35,13 +35,13 @@ tags:
 | `AMBAYAVIS` | **unresolved** (review queue) |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
 | `INSPIRA“ION` | **unresolved** (review queue) |
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
-| `PEN` | **unresolved** (review queue) |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `RAMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `SASTRA` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SASTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `Sian` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |

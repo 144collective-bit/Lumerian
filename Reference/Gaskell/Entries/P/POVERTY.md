@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AURVAITO` | **unresolved** (review queue) |
+| `AURVAITO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
 | `GRACE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `Jos` | **unresolved** (review queue) |
-| `Kuvrra` | **unresolved** (review queue) |
+| `Kuvrra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KUVERA, THE LORD WEALTH|KUVERA, THE LORD WEALTH]] |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Poor PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |
 | `Poor IN SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR IN SPIRIT|POOR IN SPIRIT]] |
-| `PRAGAPATI (rel.)` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `Rico MAN` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `VAGASRAVASA` | **unresolved** (review queue) |
-| `WEALTH` | **unresolved** (review queue) |
-| `WOMB` | **unresolved** (review queue) |
+| `PRAGAPATI (rel.)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `Rico MAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `VAGASRAVASA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAJASRAVASA|VAJASRAVASA]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+| `WOMB` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 
 ## Full OCR entry body (exact)
 

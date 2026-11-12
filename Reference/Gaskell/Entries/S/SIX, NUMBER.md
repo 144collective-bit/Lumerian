@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Apamas (lower)` | **unresolved** (review queue) |
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `MoNnAD _OF LIFE` | **unresolved** (review queue) |
-| `SATURDAY` | **candidate (first-segment only)** → possible `SATURDAY, THE SIXTH DAY` (not linked) |
+| `MoNnAD _OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
+| `SATURDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURDAY, THE SIXTH DAY|SATURDAY, THE SIXTH DAY]] |
 | `SEASONS (six)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `695 SEEDS OF SIX` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WEEK` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEEK|WEEK]] |
 
 ## Full OCR entry body (exact)

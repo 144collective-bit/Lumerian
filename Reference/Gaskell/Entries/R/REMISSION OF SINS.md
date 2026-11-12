@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADOPTION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADOPTION|ADOPTION]] |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BonpDAGE` | **unresolved** (review queue) |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `CapTIVITY` | **unresolved** (review queue) |
+| `CapTIVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `ReE-BIRTH` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `ReE-BIRTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD|REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `RESUBRECTION` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
 | `Sarmts` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 
 ## Full OCR entry body (exact)
 

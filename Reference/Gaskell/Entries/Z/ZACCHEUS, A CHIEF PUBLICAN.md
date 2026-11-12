@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Crowp` | **unresolved** (review queue) |
+| `Crowp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `NICODEMUS` | **unresolved** (review queue) |
-| `RicHEs (lower)` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
+| `RicHEs (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
 | `SycaMORE` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

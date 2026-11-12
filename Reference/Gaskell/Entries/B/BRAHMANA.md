@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALMSGIVING` | **unresolved** (review queue) |
-| `CasTES` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
+| `ALMSGIVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALMSGIVING OR CHARITY|ALMSGIVING OR CHARITY]] |
+| `CasTES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
 | `OFERINGS` | **unresolved** (review queue) |
-| `Sacririck` | **unresolved** (review queue) |
+| `Sacririck` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `Vicarrya` | **unresolved** (review queue) |
 | `VEDAS` | **unresolved** (review queue) |
 

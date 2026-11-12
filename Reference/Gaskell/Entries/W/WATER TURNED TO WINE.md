@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cana` | **unresolved** (review queue) |
+| `Cana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CANA MARRIAGE|CANA MARRIAGE]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

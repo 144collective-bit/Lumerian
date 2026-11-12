@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `BIRD (great)` | **unresolved** (review queue) |
 | `CLoups` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `KarRSHIPTA` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `KarRSHIPTA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
 | `KHwAn` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
-| `MOouNTAIN` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `MOouNTAIN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `Poa@nrx` | **unresolved** (review queue) |
 | `Poot or prdce` | **unresolved** (review queue) |
 | `Smora` | **unresolved** (review queue) |

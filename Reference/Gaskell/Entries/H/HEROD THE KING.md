@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BETHLEHEM` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BETHLEHEM|BETHLEHEM]] |
-| `BiIntH OF KRISHNA` | **unresolved** (review queue) |
+| `BiIntH OF KRISHNA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
 | `Curnrtres` | **unresolved** (review queue) |
 | `Devit` | **unresolved** (review queue) |
-| `DuRASROBO` | **candidate (first-segment only)** → possible `DURASROBO, THE KARAP` (not linked) |
-| `ELIJAH (restorer)` | **unresolved** (review queue) |
+| `DuRASROBO` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
+| `ELIJAH (restorer)` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ELIJAH THE PROPHET|ELIJAH THE PROPHET]] |
 | `FLOop` | **unresolved** (review queue) |
-| `LITTLE CHILDREN` | **candidate (first-segment only)** → possible `LITTLE CHILDREN, OR LITTLE ONES` (not linked) |
+| `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `LrreLe OonEs` | **unresolved** (review queue) |
 | `Maal` | **unresolved** (review queue) |
 | `PHanisrzs` | **unresolved** (review queue) |

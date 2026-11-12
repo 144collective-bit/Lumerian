@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cana` | **unresolved** (review queue) |
-| `JEWS` | **unresolved** (review queue) |
+| `Cana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CANA MARRIAGE|CANA MARRIAGE]] |
+| `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `STONE` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VEHICLES` | **unresolved** (review queue) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ANauRvs` | **unresolved** (review queue) |
 | `Foor` | **unresolved** (review queue) |
-| `Iotcus` | **unresolved** (review queue) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `SHOES` | **unresolved** (review queue) |
+| `Iotcus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IOLCUS, OR JOLCUS|IOLCUS, OR JOLCUS]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 
 ## Full OCR entry body (exact)
 

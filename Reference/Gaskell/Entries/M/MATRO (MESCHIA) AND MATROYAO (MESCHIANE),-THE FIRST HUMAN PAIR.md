@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (lower)` | **unresolved** (review queue) |
-| `ARMS` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `ARMS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 | `ASKER` | **unresolved** (review queue) |
 | `EpEN` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Fatt` | **unresolved** (review queue) |
-| `Goat (milch)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Goat (milch)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GOAT, MILCH|GOAT, MILCH]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Man AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `MILK FROM GOAT` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `PITRIS` | **candidate (ambiguous first-segment)** → PITRIS, LUNAR; PITRIS, SOLAR (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `PITRIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PITRIS, LUNAR|PITRIS, LUNAR]]; [[Reference/Gaskell/Entries/P/PITRIS, SOLAR|PITRIS, SOLAR]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `Racss` | **unresolved** (review queue) |
 | `Roor-RACES` | **unresolved** (review queue) |
 | `RounND` | **unresolved** (review queue) |
 | `SHELTER` | **unresolved** (review queue) |
 | `SHOULDERS` | **unresolved** (review queue) |
-| `SIAMAK` | **unresolved** (review queue) |
+| `SIAMAK` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIAMAK AND VESCHAK|SIAMAK AND VESCHAK]] |
 
 ## Full OCR entry body (exact)
 

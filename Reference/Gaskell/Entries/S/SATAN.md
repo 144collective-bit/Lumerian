@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `ANTICHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] |
-| `APEP` | **candidate (first-segment only)** → possible `APEP, THE SERPENT` (not linked) |
+| `APEP` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
 | `DratL` | **unresolved** (review queue) |
-| `JoB` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `SEr` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

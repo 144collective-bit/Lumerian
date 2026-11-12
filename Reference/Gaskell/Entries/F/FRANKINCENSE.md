@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `ETC.` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `Maal` | **unresolved** (review queue) |
 | `TREASURES OF CAVE` | **unresolved** (review queue) |
 

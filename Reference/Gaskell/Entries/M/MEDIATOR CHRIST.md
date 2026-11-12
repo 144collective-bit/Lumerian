@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `BLOOD OF LAMB` | **unresolved** (review queue) |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `EVvoLuTION` | **unresolved** (review queue) |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MESSIAH` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MESSIAH|MESSIAH]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SaLVaTION` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SaLVaTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

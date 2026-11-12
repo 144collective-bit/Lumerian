@@ -35,9 +35,9 @@ tags:
 | `Ana` | **unresolved** (review queue) |
 | `Boat OF wisDoM` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAT OF WISDOM|BOAT OF WISDOM]] |
 | `Bupp#8l` | **unresolved** (review queue) |
-| `Nimvana` | **unresolved** (review queue) |
-| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
-| `VIGARA` | **candidate (first-segment only)** → possible `VIGARA, THE AGELESS RIVER` (not linked) |
+| `Nimvana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
+| `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
+| `VIGARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIGARA, THE AGELESS RIVER|VIGARA, THE AGELESS RIVER]] |
 
 ## Full OCR entry body (exact)
 

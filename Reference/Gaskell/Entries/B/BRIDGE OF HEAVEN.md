@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALANCE (heart)` | **unresolved** (review queue) |
+| `BALANCE (heart)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] |
 | `Bornost` | **unresolved** (review queue) |
-| `Bow` | **unresolved** (review queue) |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `HrrososH` | **unresolved** (review queue) |
 | `Krvvat` | **unresolved** (review queue) |
-| `RaInbBow` | **unresolved** (review queue) |
-| `RECOLLECTION` | **unresolved** (review queue) |
+| `RaInbBow` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `REINGA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

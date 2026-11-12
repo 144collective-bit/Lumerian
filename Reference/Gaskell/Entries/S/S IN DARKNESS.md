@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DARKNEsS` | **unresolved** (review queue) |
-| `LicHT` | **unresolved** (review queue) |
-| `MAYA (higher)` | **unresolved** (review queue) |
+| `DARKNEsS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `LicHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
+| `MAYA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `Moon` | **unresolved** (review queue) |
 | `Niaut` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |

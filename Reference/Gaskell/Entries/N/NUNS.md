@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Monk` | **unresolved** (review queue) |
+| `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `Virncin` | **unresolved** (review queue) |
 | `WomAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

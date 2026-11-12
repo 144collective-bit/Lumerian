@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `CHILD` | **unresolved** (review queue) |
 | `CHILDREN OF THE KINGDom` | **unresolved** (review queue) |
-| `CONVEBSION` | **unresolved** (review queue) |
+| `CONVEBSION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
 | `CREATURES (small)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `Hrrop` | **unresolved** (review queue) |
-| `SEEDS (good)` | **unresolved** (review queue) |
+| `SEEDS (good)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 
 ## Full OCR entry body (exact)
 

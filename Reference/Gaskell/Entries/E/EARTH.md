@@ -35,7 +35,7 @@ tags:
 | `Apam (lower)` | **unresolved** (review queue) |
 | `CURSE (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
 | `Ears (ground)` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `Fruit (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `Lanp. ~ ad =` | **unresolved** (review queue) |
 

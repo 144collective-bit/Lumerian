@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `CHILD` | **unresolved** (review queue) |
 | `CHILDREN OF JERUSALEM` | **unresolved** (review queue) |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]] |
 | `Exit` | **unresolved** (review queue) |
-| `GRACE` | **unresolved** (review queue) |
+| `GRACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `JUDAH` | **candidate (first-segment only)** → possible `JUDAH, THE TRIBE OF` (not linked) |
+| `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
 | `JUSTIFICATION` | **unresolved** (review queue) |
 | `KARMA` | **unresolved** (review queue) |
 | `LaW OF MOSES` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF MOSES|LAW OF MOSES]] |
-| `Love` | **candidate (first-segment only)** → possible `LOVE, THE UNITER OF ALL` (not linked) |
-| `Mosaic` | **unresolved** (review queue) |
+| `Love` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 | `WoMAN (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

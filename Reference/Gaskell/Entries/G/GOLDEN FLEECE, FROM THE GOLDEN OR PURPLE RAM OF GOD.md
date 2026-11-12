@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `Buiits` | **unresolved** (review queue) |
 | `Buppx1` | **unresolved** (review queue) |
-| `Capmus` | **unresolved** (review queue) |
-| `ConSULTING` | **unresolved** (review queue) |
+| `Capmus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] |
+| `ConSULTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONSULTING AN ORACLE|CONSULTING AN ORACLE]] |
 | `Drucs` | **unresolved** (review queue) |
-| `EvoLuTion` | **unresolved** (review queue) |
+| `EvoLuTion` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GEUSH TASHA` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `Lams` | **unresolved** (review queue) |
 | `MeEpEA` | **unresolved** (review queue) |
-| `ORACLE` | **unresolved** (review queue) |
-| `PEARL (precious)` | **unresolved** (review queue) |
-| `PELEAS` | **candidate (first-segment only)** → possible `PELEAS, KING OF IOLCUS` (not linked) |
-| `RoBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `ORACLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/ORACLE CONSULTED|ORACLE CONSULTED]] |
+| `PEARL (precious)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
+| `PELEAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PELEAS, KING OF IOLCUS|PELEAS, KING OF IOLCUS]] |
+| `RoBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `WIsDoM. GOLDEN HAIR :-— A symbol of the highest aspirations of the mind in contact with buddhi. ‘* Athene stood behind Peleus’ (Achilles) and caught him by his golden hair` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `to him only visible` | **unresolved** (review queue) |
 | `and of the rest no man beheld her.’’—Jitad` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -57,7 +57,7 @@ tags:
 | `BUDDBI` | **unresolved** (review queue) |
 | `Harm OF HEAD` | **unresolved** (review queue) |
 | `PELEUS` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

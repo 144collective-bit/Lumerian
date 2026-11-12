@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brueap` | **unresolved** (review queue) |
-| `Corn` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `Fiour` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
-| `LEAVEN` | **unresolved** (review queue) |
+| `LEAVEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LEAVEN (HIGHER ASPECT)|LEAVEN (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/L/LEAVEN (LOWER ASPECT)|LEAVEN (LOWER ASPECT)]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 
 ## Full OCR entry body (exact)

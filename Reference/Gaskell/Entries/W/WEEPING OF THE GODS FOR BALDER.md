@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
-| `BALDER` | **unresolved** (review queue) |
+| `ASAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `DEATH OF BALDEBR` | **unresolved** (review queue) |
+| `DEATH OF BALDEBR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 
 ## Full OCR entry body (exact)
 

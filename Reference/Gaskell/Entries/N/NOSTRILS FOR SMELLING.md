@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `Piace (annu)` | **unresolved** (review queue) |
-| `SAVOUR` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `SAVOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

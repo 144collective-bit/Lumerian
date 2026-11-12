@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `FLOWERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Matrer` | **unresolved** (review queue) |
 | `Spreir` | **unresolved** (review queue) |
 

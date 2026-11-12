@@ -37,17 +37,17 @@ tags:
 | `BuDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `Magic` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
+| `Magic` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Navigation` | **unresolved** (review queue) |
-| `Ocean` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `Navigation` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NAVIGATION (MARITIME)|NAVIGATION (MARITIME)]] |
+| `Ocean` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `SHIP ON SEA` | **unresolved** (review queue) |
-| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `WALKING ON WATER` | **unresolved** (review queue) |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WavEs` | **unresolved** (review queue) |
+| `WavEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 
 ## Full OCR entry body (exact)
 

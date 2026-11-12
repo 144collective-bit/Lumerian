@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL BODY` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MENTAL-BODY` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `VITAL airs` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `VITAL airs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WoRLDS (five). INSIGNIA OF THE IMPERIAL POWER OF JAPAN — Symbolic of the spiritual endowments of the soul upon the mental plane (Japan). “The Goddess Amaterasu proclaimed her grandson Ninigi sovereign of Japan for ever` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and appointed his descendants to rule it as long as the heavens and the earth endure. Before starting for his kingdom he received from his grandmother the Three Divine Insignia` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `viz.—the Sacred Mirror` | **unresolved** (review queue) |
@@ -47,17 +47,17 @@ tags:
 | `as long as the Cycle lasts. She is able at the outset to endow the Incarnate Self with the Causal-body (mirror)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `INSPIRATION the Intuition of Truth (sword)` | **unresolved** (review queue) |
 | `and the Spiritual Ego (stone). See AMATERASU` | **unresolved** (review queue) |
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `BuppHI` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Mrmror` | **unresolved** (review queue) |
 | `Mrrecura` | **unresolved** (review queue) |
 | `NIinic!` | **unresolved** (review queue) |
 | `SHINTAI` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `Stonz` | **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
-| `TAKE-MIKA` | **unresolved** (review queue) |
+| `TAKE-MIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI|TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI]] |
 
 ## Full OCR entry body (exact)
 

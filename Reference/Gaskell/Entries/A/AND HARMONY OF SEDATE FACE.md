@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Barrie` | **unresolved** (review queue) |
 | `Conriict` | **unresolved** (review queue) |
-| `Harmony` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 
 ## Full OCR entry body (exact)
 

@@ -38,11 +38,11 @@ tags:
 | `BuppxHI` | **unresolved** (review queue) |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `East` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Fatu` | **unresolved** (review queue) |
 | `Frica` | **unresolved** (review queue) |
 | `Hopes` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Loxr` | **unresolved** (review queue) |
 | `OaTH` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OATH|OATH]] |
 | `Opin` | **unresolved** (review queue) |

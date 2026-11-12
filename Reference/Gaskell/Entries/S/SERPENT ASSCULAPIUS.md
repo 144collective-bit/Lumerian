@@ -37,10 +37,10 @@ tags:
 | `House (clan)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `Inwsorer` | **unresolved** (review queue) |
 | `Mepicinz` | **unresolved** (review queue) |
-| `PrystCIAN` | **unresolved** (review queue) |
+| `PrystCIAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `VALMIKI` | **candidate (ambiguous first-segment)** → VALMIKI, KYDOIMOS (UPROAR); VALMIKI, THE POET (not linked) |
-| `WISDOM (masc.)` | **unresolved** (review queue) |
+| `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
+| `WISDOM (masc.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

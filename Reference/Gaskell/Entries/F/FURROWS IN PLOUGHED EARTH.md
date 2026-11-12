@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ERECTHEUS` | **candidate (first-segment only)** → possible `ERECTHEUS, SON OF HEPHASTUS` (not linked) |
+| `ERECTHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ERECTHEUS, SON OF HEPHASTUS|ERECTHEUS, SON OF HEPHASTUS]] |
 | `GROUND RIDGES` | **unresolved** (review queue) |
 | `LaksHmi` | **unresolved** (review queue) |
 | `Rrpcss` | **unresolved** (review queue) |
-| `Sita` | **candidate (first-segment only)** → possible `SITA, WIFE OF RAMA` (not linked) |
+| `Sita` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SITA, WIFE OF RAMA|SITA, WIFE OF RAMA]] |
 
 ## Full OCR entry body (exact)
 

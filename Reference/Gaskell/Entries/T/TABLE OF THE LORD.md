@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ALTAR OF SACRIFICE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]] |
-| `ANOINTING` | **unresolved** (review queue) |
-| `BrEapD` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
+| `BrEapD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `CuP oF WINE` | **unresolved** (review queue) |
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `TRANSMUTATION. TABLES HO-TOO AND _` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

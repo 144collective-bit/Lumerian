@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boat SEKTET` | **unresolved** (review queue) |
-| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CaUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Iq@norance` | **unresolved** (review queue) |
-| `Karana` | **unresolved** (review queue) |
-| `SKANDHAS` | **candidate (first-segment only)** → possible `SKANDHAS, FIVE` (not linked) |
+| `Karana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
+| `SKANDHAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/S/SKANDHAS SKADE|SKANDHAS SKADE]] |
 | `VESTORES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `KisHKINDHA` | **unresolved** (review queue) |
-| `VIBHISHANA` | **candidate (first-segment only)** → possible `VIBHISHANA, RAVANA` (not linked) |
+| `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 
 ## Full OCR entry body (exact)
 

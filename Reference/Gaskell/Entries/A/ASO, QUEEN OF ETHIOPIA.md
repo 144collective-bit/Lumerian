@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anc. MAN` | **unresolved** (review queue) |
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
-| `DEATH OF OGIRIS` | **unresolved** (review queue) |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
+| `DEATH OF OGIRIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 
 ## Full OCR entry body (exact)
 

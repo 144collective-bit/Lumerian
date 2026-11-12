@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BLoop OF LAMB` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
-| `FLEsH OF JESUS` | **unresolved** (review queue) |
+| `FLEsH OF JESUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLESH OF JESUS AS BREAD FROM HEAVEN|FLESH OF JESUS AS BREAD FROM HEAVEN]] |
 | `Foop as @op` | **unresolved** (review queue) |
-| `Host` | **candidate (first-segment only)** → possible `HOST, OR CONSECRATED WAFER` (not linked) |
+| `Host` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SUPPER` | **candidate (first-segment only)** → possible `SUPPER, LAST` (not linked) |
+| `SUPPER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUPPER, LAST|SUPPER, LAST]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

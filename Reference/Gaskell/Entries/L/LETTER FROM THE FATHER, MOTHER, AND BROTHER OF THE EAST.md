@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EaGus` | **unresolved** (review queue) |
-| `BaBEL` | **unresolved** (review queue) |
-| `GNoSIS` | **unresolved** (review queue) |
-| `PEARL` | **unresolved** (review queue) |
+| `BaBEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]]; [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] |
+| `GNoSIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `RELIGION (good)` | **unresolved** (review queue) |
 | `Rospr` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `SEALED LETTER` | **unresolved** (review queue) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
 | `SERPENT (loud)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

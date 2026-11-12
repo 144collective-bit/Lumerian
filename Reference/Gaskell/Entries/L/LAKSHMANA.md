@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CavusaL-BODY` | **unresolved** (review queue) |
-| `FI®MAMENT` | **unresolved** (review queue) |
+| `FI®MAMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `441 LAMB Hovusz` | **unresolved** (review queue) |
 | `Inprvipvatiry` | **unresolved** (review queue) |
-| `KaBANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
-| `PILLARS` | **candidate (ambiguous first-segment)** → PILLARS, FOUR, OF SHU; PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN (not linked) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
+| `KaBANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
+| `PILLARS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]]; [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `Srra` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

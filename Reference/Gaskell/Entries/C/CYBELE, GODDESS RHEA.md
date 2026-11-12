@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CURETES` | **unresolved** (review queue) |
-| `Nut` | **unresolved** (review queue) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `CURETES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CURETES AND CORYBANTES|CURETES AND CORYBANTES]] |
+| `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 
 ## Full OCR entry body (exact)
 

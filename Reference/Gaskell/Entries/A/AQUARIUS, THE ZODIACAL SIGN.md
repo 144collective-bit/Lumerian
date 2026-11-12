@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FOUNTAIN` | **unresolved** (review queue) |
+| `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

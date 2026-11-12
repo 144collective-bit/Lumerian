@@ -39,9 +39,9 @@ tags:
 | `GaTEe` | **unresolved** (review queue) |
 | `HADES` | **unresolved** (review queue) |
 | `HEavEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `THOTH` | **unresolved** (review queue) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

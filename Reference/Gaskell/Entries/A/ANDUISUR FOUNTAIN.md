@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
-| `FOUNTAIN` | **unresolved** (review queue) |
-| `KHORDAD` | **candidate (first-segment only)** → possible `KHORDAD, THE AMSHASPAND` (not linked) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
+| `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
+| `KHORDAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHORDAD, THE AMSHASPAND|KHORDAD, THE AMSHASPAND]] |
 | `VoOURUKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

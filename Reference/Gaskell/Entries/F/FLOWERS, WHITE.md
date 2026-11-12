@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `QUALITIES` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

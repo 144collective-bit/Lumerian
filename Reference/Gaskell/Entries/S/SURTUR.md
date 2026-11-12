@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHERUBIM` | **unresolved** (review queue) |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
 
 ## Full OCR entry body (exact)
 

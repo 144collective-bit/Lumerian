@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arms` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
-| `BLACKsMITHS` | **candidate (first-segment only)** → possible `BLACKSMITHS, OR WORKERS IN METAL` (not linked) |
+| `Arms` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
+| `BLACKsMITHS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 | `CUTTING` | **unresolved** (review queue) |
 | `Inrr1ations` | **unresolved** (review queue) |
-| `IRON` | **unresolved** (review queue) |
+| `IRON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `METALS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `TUBALCAIN` | **candidate (first-segment only)** → possible `TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL` (not linked) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
-| `WEAPONS` | **unresolved** (review queue) |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
+| `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CatapHas` | **unresolved** (review queue) |
+| `CatapHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `DxHrista` | **unresolved** (review queue) |
 | `Korvus` | **unresolved** (review queue) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `YUDHISTHIRA` | **unresolved** (review queue) |
 

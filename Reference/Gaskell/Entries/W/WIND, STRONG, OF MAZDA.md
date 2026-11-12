@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BreatuH (divine)` | **unresolved** (review queue) |
-| `GaLE (Apollo)` | **unresolved** (review queue) |
+| `BreatuH (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
+| `GaLE (Apollo)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GALE FROM APOLLO|GALE FROM APOLLO]] |
 | `SaPanD&n` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

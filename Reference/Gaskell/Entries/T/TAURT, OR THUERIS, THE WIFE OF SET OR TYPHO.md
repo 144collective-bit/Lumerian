@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `AXarus` | **unresolved** (review queue) |
 | `CAvUsAL-SELF` | **unresolved** (review queue) |
-| `CORD` | **unresolved** (review queue) |
+| `CORD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CORD DESTROYED IN PLACE OF SERPENT|CORD DESTROYED IN PLACE OF SERPENT]] |
 | `Horvus` | **unresolved** (review queue) |
-| `THESEUS` | **candidate (first-segment only)** → possible `THESEUS, SON OF XGEUS` (not linked) |
-| `TYPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
+| `THESEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THESEUS, SON OF XGEUS|THESEUS, SON OF XGEUS]] |
+| `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
 
 ## Full OCR entry body (exact)
 

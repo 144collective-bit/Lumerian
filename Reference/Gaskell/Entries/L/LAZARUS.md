@@ -32,33 +32,33 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BetTHaNy` | **unresolved** (review queue) |
-| `BRAHMAN` | **unresolved** (review queue) |
+| `BetTHaNy` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BETHANY|BETHANY]] |
+| `BRAHMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]]; [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS GOLDEN HORSES|BRAHMAN PRIESTS GOLDEN HORSES]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FEEDING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 | `FEetTers` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `Gate` | **unresolved** (review queue) |
+| `Gate` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `HADEs` | **unresolved** (review queue) |
 | `Heatine (dead)` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `InTurrion` | **unresolved** (review queue) |
-| `KsHatrrya` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `InTurrion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+| `KsHatrrya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KSHATRIYA, OR MILITARY CASTE|KSHATRIYA, OR MILITARY CASTE]] |
 | `Man LEAVEN (rich)` | **unresolved** (review queue) |
 | `MARTHA` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
-| `Rico MAN` | **unresolved** (review queue) |
-| `Rook SEPULCHRE` | **unresolved** (review queue) |
-| `SAHU` | **unresolved** (review queue) |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
+| `Rico MAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
+| `Rook SEPULCHRE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]] |
+| `SAHU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAHU OF OSIRIS|SAHU OF OSIRIS]] |
 | `Szur (lower)` | **unresolved** (review queue) |
-| `SEPULCHEE` | **unresolved** (review queue) |
+| `SEPULCHEE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
 | `S1-OSIRI` | **unresolved** (review queue) |
-| `Sons oF Gop` | **unresolved** (review queue) |
-| `Sores` | **unresolved** (review queue) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `Sores` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SORES ON THE BODY|SORES ON THE BODY]] |
 | `Toms` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

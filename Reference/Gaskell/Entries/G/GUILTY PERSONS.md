@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EsTHer` | **candidate (first-segment only)** → possible `ESTHER, BOOK OF` (not linked) |
+| `EsTHer` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `Evin` | **unresolved** (review queue) |
-| `LAw OF REVENGE` | **candidate (first-segment only)** → possible `LAW OF REVENGE, ANGER, AND FOLLY` (not linked) |
-| `MURDER` | **candidate (first-segment only)** → possible `MURDER, WRATH, AND HATRED` (not linked) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `LAw OF REVENGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAW OF REVENGE, ANGER, AND FOLLY|LAW OF REVENGE, ANGER, AND FOLLY]] |
+| `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `FEEDING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MratT` | **unresolved** (review queue) |

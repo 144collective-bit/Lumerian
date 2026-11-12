@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARMY OF THE GODS` | **candidate (first-segment only)** → possible `ARMY OF THE GODS, OR HOSTS OF THE LORD` (not linked) |
+| `ARMY OF THE GODS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARMY OF THE GODS, OR HOSTS OF THE LORD|ARMY OF THE GODS, OR HOSTS OF THE LORD]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `Quatiries` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SOLDIERS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

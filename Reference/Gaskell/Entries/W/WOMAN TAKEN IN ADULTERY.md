@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
-| `Baptism` | **unresolved** (review queue) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `DiIsPENSATIONS` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `Moses. WOMEN’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -39,7 +39,7 @@ tags:
 | `Manna` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
 | `Mosszs` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 
 ## Full OCR entry body (exact)
 

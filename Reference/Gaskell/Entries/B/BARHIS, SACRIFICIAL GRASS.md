@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ApvaRyAa` | **unresolved** (review queue) |
 | `Barsom` | **unresolved** (review queue) |
-| `BIRTH (SECOND)` | **candidate (first-segment only)** → possible `BIRTH, SECOND, OF AN ARYAN` (not linked) |
+| `BIRTH (SECOND)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BIRTH, SECOND, OF AN ARYAN|BIRTH, SECOND, OF AN ARYAN]] |
 | `BUoKLE` | **unresolved** (review queue) |
-| `GIRDLE` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `KvustTI` | **unresolved** (review queue) |
 | `Piranrs` | **unresolved** (review queue) |
 | `TamMA-GUusHI` | **unresolved** (review queue) |

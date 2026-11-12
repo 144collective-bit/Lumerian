@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHURA-MAZDA` | **candidate (first-segment only)** → possible `AHURA-MAZDA, OR ORMAZD` (not linked) |
+| `AHURA-MAZDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHURA-MAZDA, OR ORMAZD|AHURA-MAZDA, OR ORMAZD]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `HAND OF BEAST` | **unresolved** (review queue) |
-| `HARLOT` | **candidate (first-segment only)** → possible `HARLOT, OR STRANGE WOMAN` (not linked) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `HARLOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Nieuts (three)` | **unresolved** (review queue) |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `RE-INCAENATION` | **unresolved** (review queue) |

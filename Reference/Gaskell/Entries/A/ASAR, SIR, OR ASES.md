@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ASGARD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] |
 | `ASKR` | **unresolved** (review queue) |
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
-| `Eve (third)` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve (third)` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Himvuxo` | **unresolved** (review queue) |
 | `Hoper` | **unresolved** (review queue) |
 | `Man (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
@@ -44,9 +44,9 @@ tags:
 | `Mrmr` | **unresolved** (review queue) |
 | `NET OF ASAB` | **unresolved** (review queue) |
 | `ODIN` | **unresolved** (review queue) |
-| `THOCK` | **candidate (first-segment only)** → possible `THOCK,—A GIANTESS` (not linked) |
+| `THOCK` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOCK,-A GIANTESS|THOCK,—A GIANTESS]] |
 | `WrEPING` | **unresolved** (review queue) |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

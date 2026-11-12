@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Beast` | **unresolved** (review queue) |
+| `Beast` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `BOTTOMLESS PIT` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOTTOMLESS PIT|BOTTOMLESS PIT]] |
-| `BupDDHI` | **unresolved** (review queue) |
-| `DHRITA-RASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
-| `EVIL` | **unresolved** (review queue) |
+| `BupDDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `DHRITA-RASHTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
+| `EVIL` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVIL OR SINFUL STATE|EVIL OR SINFUL STATE]] |
 | `Frenp` | **unresolved** (review queue) |
-| `GROUND` | **candidate (first-segment only)** → possible `GROUND, HOLY` (not linked) |
-| `HEAD OF HORUS` | **unresolved** (review queue) |
+| `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
+| `HEAD OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEAD OF HORUS ON A POLE|HEAD OF HORUS ON A POLE]] |
 | `Inuusion` | **unresolved** (review queue) |
 | `Pir` | **unresolved** (review queue) |
 | `Poe` | **unresolved** (review queue) |

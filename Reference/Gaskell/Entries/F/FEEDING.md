@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASCENSION OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `Eatinc` | **unresolved** (review queue) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `Eatinc` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
 | `Foop` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `Prrer` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

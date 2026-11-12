@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `PwAN-KOO` | **candidate (first-segment only)** → possible `PWAN-KOO, THE DIVINE ARTIFICER` (not linked) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `VALLEYS` | **unresolved** (review queue) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
+| `PwAN-KOO` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `VALLEYS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

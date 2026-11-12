@@ -36,15 +36,15 @@ tags:
 | `CursE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `DEaTH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `GatHa Days` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
-| `Hymn` | **unresolved** (review queue) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `GatHa Days` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `Kino (great)` | **unresolved** (review queue) |
 | `Mor` | **unresolved** (review queue) |
-| `Nu` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
+| `Nu` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NU, THE GOD|NU, THE GOD]] |
 | `Noz` | **unresolved** (review queue) |
 | `Osmis` | **unresolved** (review queue) |
-| `PAMYLss` | **unresolved** (review queue) |
+| `PAMYLss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] |
 | `Ruga` | **unresolved** (review queue) |
 | `SzB` | **unresolved** (review queue) |
 | `WorLpDs (five)` | **unresolved** (review queue) |

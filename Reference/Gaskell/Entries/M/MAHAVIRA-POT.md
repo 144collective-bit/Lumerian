@@ -37,9 +37,9 @@ tags:
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `Evo.uTion` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `Karana` | **unresolved** (review queue) |
+| `Karana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `Mix` | **unresolved** (review queue) |
-| `PraGApati` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `PraGApati` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SAcsziFiceER` | **unresolved** (review queue) |
 | `Suintal` | **unresolved** (review queue) |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |

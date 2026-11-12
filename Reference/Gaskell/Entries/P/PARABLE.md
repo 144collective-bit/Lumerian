@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `AsS aND COLT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASS AND COLT|ASS AND COLT]] |
 | `Exopvus` | **unresolved** (review queue) |
-| `HovuseEHOLDER` | **unresolved** (review queue) |
+| `HovuseEHOLDER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `LEAVEN` | **unresolved** (review queue) |
+| `LEAVEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LEAVEN (HIGHER ASPECT)|LEAVEN (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/L/LEAVEN (LOWER ASPECT)|LEAVEN (LOWER ASPECT)]] |
 | `MytTHoLOGY` | **unresolved** (review queue) |
-| `PEARL` | **unresolved** (review queue) |
-| `PRODIGAL` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Sickiz` | **unresolved** (review queue) |
-| `Sign` | **unresolved** (review queue) |
+| `Sign` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIGN OR SYMBOL (SACRED)|SIGN OR SYMBOL (SACRED)]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `Virains (ten)` | **unresolved** (review queue) |
 | `WEDDING` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEDDING|WEDDING]] |

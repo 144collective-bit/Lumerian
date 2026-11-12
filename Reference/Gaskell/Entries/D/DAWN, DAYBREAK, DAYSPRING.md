@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apit1` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
-| `ASURA` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
-| `CREATION` | **unresolved** (review queue) |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
+| `ASURA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `East` | **unresolved** (review queue) |
 | `HORSE-SACRIFICE` | **unresolved** (review queue) |
-| `MAYA (higher)` | **unresolved** (review queue) |
-| `Mornine` | **unresolved** (review queue) |
-| `Nut` | **unresolved** (review queue) |
+| `MAYA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
+| `Mornine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
+| `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
 | `Sun-Rismva` | **unresolved** (review queue) |
-| `ValsVANARA` | **unresolved** (review queue) |
+| `ValsVANARA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
 
 ## Full OCR entry body (exact)
 

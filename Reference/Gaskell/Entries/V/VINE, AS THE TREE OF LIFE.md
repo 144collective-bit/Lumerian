@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DiscipLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DiscipLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `FATHER` | **unresolved** (review queue) |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
-| `GRAPES` | **candidate (first-segment only)** → possible `GRAPES, OR WINE` (not linked) |
-| `HANGING` | **unresolved** (review queue) |
-| `HOMA-TREE` | **unresolved** (review queue) |
-| `HUvusBANDMAN` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `GRAPES` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
+| `HANGING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HANGING TENDRILS OF HOMA|HANGING TENDRILS OF HOMA]] |
+| `HOMA-TREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `HUvusBANDMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `Soma` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `Soma` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `TREE or LIFE` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
 

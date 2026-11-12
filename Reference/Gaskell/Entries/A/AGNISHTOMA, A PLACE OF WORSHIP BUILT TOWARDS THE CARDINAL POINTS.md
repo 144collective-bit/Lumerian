@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHuurncH` | **unresolved** (review queue) |
-| `HeEarT` | **unresolved** (review queue) |
+| `HeEarT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `PapyrvusBoat` | **unresolved** (review queue) |
 | `RELIGION (popular)` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `Worsxip` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

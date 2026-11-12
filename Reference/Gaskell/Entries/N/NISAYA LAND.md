@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `BAXKHDHI` | **unresolved** (review queue) |
 | `VACHAN` | **unresolved** (review queue) |
-| `Mouru` | **unresolved** (review queue) |
+| `Mouru` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOURU LAND, THE STRONG, HOLY|MOURU LAND, THE STRONG, HOLY]] |
 
 ## Full OCR entry body (exact)
 

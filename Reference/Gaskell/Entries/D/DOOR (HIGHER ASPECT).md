@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fatt` | **unresolved** (review queue) |
-| `GATE` | **unresolved** (review queue) |
-| `MURDERER` | **candidate (first-segment only)** → possible `MURDERER, THIEF, OR WOLF` (not linked) |
+| `GATE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `MURDERER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDERER, THIEF, OR WOLF|MURDERER, THIEF, OR WOLF]] |
 | `PasTURE` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Sun (door)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `TuHier` | **unresolved** (review queue) |
 | `VOICE or cop` | **unresolved** (review queue) |
-| `WInDow` | **unresolved** (review queue) |
+| `WInDow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WINDOW OR SKYLIGHT|WINDOW OR SKYLIGHT]]; [[Reference/Gaskell/Entries/W/WINDOW WINDOW OF ARK OF NOAH|WINDOW WINDOW OF ARK OF NOAH]] |
 
 ## Full OCR entry body (exact)
 

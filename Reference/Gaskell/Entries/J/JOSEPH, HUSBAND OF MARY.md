@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Boys (bad)` | **candidate (first-segment only)** → possible `BOYS, BAD` (not linked) |
-| `Spakrows` | **unresolved** (review queue) |
+| `Boys (bad)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BOYS, BAD|BOYS, BAD]] |
+| `Spakrows` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 | `VINEPOLES` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 
 ## Full OCR entry body (exact)

@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `BEASTS` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `BrEatTH (divine)` | **unresolved** (review queue) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `BrEatTH (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `FretTrers` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
-| `LINGAM` | **candidate (first-segment only)** → possible `LINGAM, THE SUBTILE BODY` (not linked) |
+| `LINGAM` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LINGAM, THE SUBTILE BODY|LINGAM, THE SUBTILE BODY]] |
 | `LIVER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIVER|LIVER]] |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SENSE OBGANS` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `VISCERA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

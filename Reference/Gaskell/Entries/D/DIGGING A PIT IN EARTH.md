@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Feet` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
-| `IRON BEATEN` | **unresolved** (review queue) |
+| `IRON BEATEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]] |
 
 ## Full OCR entry body (exact)
 

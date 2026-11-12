@@ -35,8 +35,8 @@ tags:
 | `ApaMASs` | **unresolved** (review queue) |
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `I[aBRAOTH` | **unresolved** (review queue) |
-| `TETRAGRAMMATON` | **candidate (first-segment only)** → possible `TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH` (not linked) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TETRAGRAMMATON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH|TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Garua` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `SPENTO` | **unresolved** (review queue) |
-| `ZERANA` | **unresolved** (review queue) |
-| `ZOBOASTER` | **unresolved** (review queue) |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
+| `ZOBOASTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

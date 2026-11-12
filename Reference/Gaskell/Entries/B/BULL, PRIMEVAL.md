@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `Aris` | **unresolved** (review queue) |
 | `Bers` | **unresolved** (review queue) |
-| `BEHEMOTH` | **candidate (first-segment only)** → possible `BEHEMOTH, THE GREAT BULL` (not linked) |
+| `BEHEMOTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEHEMOTH, THE GREAT BULL|BEHEMOTH, THE GREAT BULL]] |
 | `GEUSHTASHA` | **unresolved** (review queue) |
 | `GOSHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
 | `I am` | **unresolved** (review queue) |
 | `MrrurRa` | **unresolved** (review queue) |
 | `Mrraras` | **unresolved** (review queue) |
-| `Ox` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
+| `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
 | `Prororypses` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `Sernapis` | **unresolved** (review queue) |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
+| `Sernapis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERAPIS|SERAPIS]] |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
 | `TavuBus` | **unresolved** (review queue) |
 | `Wome` | **unresolved** (review queue) |
 

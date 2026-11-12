@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `HOKHMAH` | **candidate (first-segment only)** → possible `HOKHMAH, THE WORD, OR WISDOM (MASCULINE)` (not linked) |
+| `HOKHMAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOKHMAH, THE WORD, OR WISDOM (MASCULINE)|HOKHMAH, THE WORD, OR WISDOM (MASCULINE)]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `MALKHUTH` | **unresolved** (review queue) |
 | `Miyi` | **unresolved** (review queue) |
-| `OcEan (feminine)` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `OcEan (feminine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 
 ## Full OCR entry body (exact)

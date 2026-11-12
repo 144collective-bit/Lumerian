@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `MULTIPLY` | **unresolved** (review queue) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `WaTER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WHALES` | **unresolved** (review queue) |
 

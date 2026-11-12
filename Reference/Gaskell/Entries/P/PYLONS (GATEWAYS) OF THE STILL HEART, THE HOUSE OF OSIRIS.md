@@ -35,15 +35,15 @@ tags:
 | `BrrtTH OF HORUS` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `E1autT` | **unresolved** (review queue) |
-| `Gate` | **unresolved** (review queue) |
-| `Gates` | **unresolved** (review queue) |
+| `Gate` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `Gates` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Horvs` | **unresolved** (review queue) |
-| `HOUSE IN HEAVEN` | **candidate (first-segment only)** → possible `HOUSE IN HEAVEN, OR HOUSE OF GOD` (not linked) |
+| `HOUSE IN HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOUSE IN HEAVEN, OR HOUSE OF GOD|HOUSE IN HEAVEN, OR HOUSE OF GOD]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `Isis` | **unresolved** (review queue) |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -38,7 +38,7 @@ tags:
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `Lams or Gop` | **unresolved** (review queue) |
 | `Nicuts` | **unresolved** (review queue) |
-| `TisTrya` | **unresolved** (review queue) |
+| `TisTrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
 
 ## Full OCR entry body (exact)

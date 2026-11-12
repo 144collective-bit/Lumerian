@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `Money` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `STEWARD` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
+| `STEWARD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STEWARD OF THE LORD OF THE VINEYARD|STEWARD OF THE LORD OF THE VINEYARD]]; [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WAGES` | **unresolved** (review queue) |
 

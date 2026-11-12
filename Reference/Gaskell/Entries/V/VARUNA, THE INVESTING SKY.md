@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aprryas` | **unresolved** (review queue) |
-| `AsuRA` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `Noose` | **unresolved** (review queue) |
-| `Ocranus` | **unresolved** (review queue) |
+| `AsuRA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `Noose` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NOOSE OF VARUNA|NOOSE OF VARUNA]] |
+| `Ocranus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
 | `Posemon` | **unresolved** (review queue) |
 | `TAanaaBOA` | **unresolved** (review queue) |
-| `TLALOC` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
+| `TLALOC` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
 | `VASISHTHA.` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASISHTHA|VASISHTHA]] |
 
 ## Full OCR entry body (exact)

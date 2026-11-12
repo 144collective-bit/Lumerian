@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `fon` | **unresolved** (review queue) |
 | `(thirteen) BETHany` | **unresolved** (review queue) |
-| `BLESSING` | **unresolved** (review queue) |
+| `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
 | `CHrisT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
-| `GLORIFYING` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `GLORIFYING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JESUS (gospels)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `JEsus (son of man)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

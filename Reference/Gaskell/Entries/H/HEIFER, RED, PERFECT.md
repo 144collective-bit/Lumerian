@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHES` | **unresolved** (review queue) |
-| `BuDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `ASHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
+| `BuDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `BURNT OFFERInc` | **unresolved** (review queue) |
-| `Corpsz` | **unresolved** (review queue) |
+| `Corpsz` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Dap` | **unresolved** (review queue) |
-| `HELEN` | **unresolved** (review queue) |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `Prreis (lunar) Rep` | **unresolved** (review queue) |
 | `SPorrenD` | **unresolved** (review queue) |
 

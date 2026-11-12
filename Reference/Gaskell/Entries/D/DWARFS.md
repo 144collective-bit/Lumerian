@@ -37,7 +37,7 @@ tags:
 | `Comp` | **unresolved** (review queue) |
 | `EarrTuH` | **unresolved** (review queue) |
 | `FLEeEsH` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Yaar` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

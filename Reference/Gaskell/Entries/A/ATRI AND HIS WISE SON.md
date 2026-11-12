@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `REDEEMER` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sout` | **unresolved** (review queue) |
-| `VALMIKI` | **candidate (ambiguous first-segment)** → VALMIKI, KYDOIMOS (UPROAR); VALMIKI, THE POET (not linked) |
+| `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
 
 ## Full OCR entry body (exact)
 

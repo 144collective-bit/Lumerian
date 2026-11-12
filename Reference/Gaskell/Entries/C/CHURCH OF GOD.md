@@ -46,12 +46,12 @@ tags:
 | `BisHOP` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BISHOP|BISHOP]] |
 | `CONVERSION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
 | `EARTHQUAKES` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
-| `HOUSE IN HEAVEN` | **candidate (first-segment only)** → possible `HOUSE IN HEAVEN, OR HOUSE OF GOD` (not linked) |
+| `HOUSE IN HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOUSE IN HEAVEN, OR HOUSE OF GOD|HOUSE IN HEAVEN, OR HOUSE OF GOD]] |
 | `MAnsIons` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] |
 | `Porr` | **unresolved** (review queue) |
 | `Pyramip` | **unresolved** (review queue) |
 | `Ris` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

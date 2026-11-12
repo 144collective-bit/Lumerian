@@ -34,25 +34,25 @@ tags:
 |---|---|
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `OF OHRIST` | **unresolved** (review queue) |
-| `OF ZOROASTER` | **candidate (first-segment only)** → possible `OF ZOROASTER, RELIGION, PAVILION` (not linked) |
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
+| `OF ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OF ZOROASTER, RELIGION, PAVILION|OF ZOROASTER, RELIGION, PAVILION]] |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
 | `DESTROYING EVILS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DESTROYING EVILS|DESTROYING EVILS]] |
-| `GLORY` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
-| `HETHRA` | **candidate (first-segment only)** → possible `HETHRA, THE MOTHER OF ALL LIVING` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GLORY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
+| `HETHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HETHRA, THE MOTHER OF ALL LIVING|HETHRA, THE MOTHER OF ALL LIVING]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
-| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `KHEPER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
 | `MaTreR` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Moruer` | **unresolved** (review queue) |
-| `PEopte` | **unresolved** (review queue) |
+| `PEopte` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]] |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `Praxritt` | **unresolved** (review queue) |
-| `Sount` | **unresolved** (review queue) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `Sount` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

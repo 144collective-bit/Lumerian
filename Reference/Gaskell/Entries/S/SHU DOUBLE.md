@@ -35,7 +35,7 @@ tags:
 | `Arvu-RA` | **unresolved** (review queue) |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `Horizons (two)` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `Horizons (two)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `Lion-cop (double)` | **unresolved** (review queue) |
 | `Mosvsl. SHUN` | **unresolved** (review queue) |
 | `CHINESE EMPEROR :-— A symbol of the Self operating on the buddhic plane during the cycle of Involution. See Conrucius` | **unresolved** (prose-bleed / overlong token; not linked) |

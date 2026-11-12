@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eves (Horus)` | **unresolved** (review queue) |
-| `Lips` | **unresolved** (review queue) |
+| `Lips` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIPS IN SPEECH|LIPS IN SPEECH]] |
 | `Moon` | **unresolved** (review queue) |
 | `Osrais` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 
 ## Full OCR entry body (exact)

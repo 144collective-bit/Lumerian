@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `ROBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `ROBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `ROBE oF WATERS` | **unresolved** (review queue) |
-| `SAHU` | **unresolved** (review queue) |
+| `SAHU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAHU OF OSIRIS|SAHU OF OSIRIS]] |
 | `SEKHET-HETEP. TCHESERT` | **unresolved** (review queue) |
 | `GODDESS;` | **unresolved** (review queue) |
 

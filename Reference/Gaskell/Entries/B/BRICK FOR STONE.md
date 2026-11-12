@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaseL` | **unresolved** (review queue) |
-| `Mortar` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
+| `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 
 ## Full OCR entry body (exact)
 

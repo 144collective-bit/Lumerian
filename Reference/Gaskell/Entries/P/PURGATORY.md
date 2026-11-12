@@ -35,15 +35,15 @@ tags:
 | `Baprism (fire)` | **unresolved** (review queue) |
 | `Frre (destroying)` | **unresolved** (review queue) |
 | `FURNACE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
-| `GATHA (kam.)` | **unresolved** (review queue) |
+| `GATHA (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
 | `HADES` | **unresolved** (review queue) |
 | `HAND OF BEAST` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `MEADOW OF HADES` | **unresolved** (review queue) |
 | `PRISONER` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SI OSIRI` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SI OSIRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SI-OSIRI (SON OF OSIRIS)|SI-OSIRI (SON OF OSIRIS)]] |
 
 ## Full OCR entry body (exact)
 

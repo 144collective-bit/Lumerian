@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fnurr oF sprit` | **unresolved** (review queue) |
-| `NALA-KUVERA` | **candidate (first-segment only)** → possible `NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
-| `WEALTH` | **unresolved** (review queue) |
+| `NALA-KUVERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)|NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

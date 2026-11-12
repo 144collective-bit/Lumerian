@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DiscipLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
-| `EXPERIENCES` | **unresolved** (review queue) |
+| `DiscipLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `GaARDEN` | **unresolved** (review queue) |
-| `JAMES` | **candidate (first-segment only)** → possible `JAMES, THE APOSTLE` (not linked) |
-| `JOHN (apostle)` | **unresolved** (review queue) |
+| `JAMES` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JAMES, THE APOSTLE|JAMES, THE APOSTLE]] |
+| `JOHN (apostle)` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHN THE BAPTIST|JOHN THE BAPTIST]] |
 | `Mount OF OLIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNT OF OLIVES|MOUNT OF OLIVES]] |
-| `PASSION` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `PASSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 | `VINEGAR. GEUSH-TASHA` | **unresolved** (review queue) |
 | `CUTTER OF THE OX;` | **unresolved** (review queue) |

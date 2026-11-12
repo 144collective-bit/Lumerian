@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaRTs` | **unresolved** (review queue) |
+| `CaRTs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CARTS GAY WITH SILVER AND GOLD|CARTS GAY WITH SILVER AND GOLD]] |
 
 ## Full OCR entry body (exact)
 

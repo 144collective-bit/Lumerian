@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `Mant` | **unresolved** (review queue) |
 | `Monap (life` | **unresolved** (review queue) |
-| `form)` | **unresolved** (review queue) |
+| `form)` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `Prrris (lunar` | **unresolved** (review queue) |
 | `solar)` | **unresolved** (review queue) |
 

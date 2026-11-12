@@ -34,25 +34,25 @@ tags:
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `BARSOM` | **unresolved** (review queue) |
-| `BLASPHEMY` | **unresolved** (review queue) |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
 | `Boat (wisdom)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `BuppH` | **unresolved** (review queue) |
 | `Dats` | **unresolved** (review queue) |
 | `Daarma` | **unresolved** (review queue) |
 | `EvoLurion` | **unresolved** (review queue) |
-| `HaArETUMANT` | **unresolved** (review queue) |
+| `HaArETUMANT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HAETUMANT, THE GLORIOUS LAND|HAETUMANT, THE GLORIOUS LAND]] |
 | `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Herr` | **unresolved** (review queue) |
-| `INTERCESSION` | **unresolved** (review queue) |
+| `INTERCESSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTERCESSION WITH GOD|INTERCESSION WITH GOD]] |
 | `KaLuiorelA` | **unresolved** (review queue) |
 | `KILLING ovuT` | **unresolved** (review queue) |
-| `Magic` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
-| `MULTITUDES` | **unresolved** (review queue) |
-| `PRANA` | **unresolved** (review queue) |
-| `PROMISES` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `STEWARD (unjust)` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
+| `Magic` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
+| `MULTITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULTITUDES HEALED|MULTITUDES HEALED]] |
+| `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
+| `PROMISES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROMISES OF GOD|PROMISES OF GOD]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `STEWARD (unjust)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 | `VaAHIsTo` | **unresolved** (review queue) |
 | `WoRDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 

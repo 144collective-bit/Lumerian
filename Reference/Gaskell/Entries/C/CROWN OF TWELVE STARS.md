@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `ASSUMPTION` | **unresolved** (review queue) |
+| `ASSUMPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]]; [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] |
 | `BIRTH OF MAN-CHILD` | **unresolved** (review queue) |
 | `DRraqon (red)` | **unresolved** (review queue) |
-| `FEEtT` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
+| `FEEtT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
 | `Moon` | **unresolved** (review queue) |
-| `Stars (fixed)` | **unresolved** (review queue) |
+| `Stars (fixed)` | resolved (exact) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WOMAN (goodness)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

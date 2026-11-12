@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HanuMAN` | **candidate (first-segment only)** → possible `HANUMAN, SON OF VAYU` (not linked) |
+| `HanuMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
 | `RAKSHASAS` | **unresolved** (review queue) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `Srra` | **unresolved** (review queue) |
-| `VANAR` | **unresolved** (review queue) |
-| `VIBHISHANA` | **candidate (first-segment only)** → possible `VIBHISHANA, RAVANA` (not linked) |
+| `VANAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VANAR PEOPLE|VANAR PEOPLE]] |
+| `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 
 ## Full OCR entry body (exact)
 

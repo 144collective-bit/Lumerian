@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `HEIMDALL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIMDALL|HEIMDALL]] |
 | `HORSE. GUNAS` | **unresolved** (review queue) |
-| `THREE ;` | **candidate (first-segment only)** → possible `THREE, NUMBER` (not linked) |
+| `THREE ;` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THREE, NUMBER|THREE, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

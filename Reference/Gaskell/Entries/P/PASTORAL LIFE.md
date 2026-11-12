@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AN™ALS` | **unresolved** (review queue) |
-| `FUH-HE` | **candidate (first-segment only)** → possible `FUH-HE, OR TAE-HAOU` (not linked) |
+| `FUH-HE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `JABAL` | **unresolved** (review queue) |
-| `PAN` | **unresolved** (review queue) |
+| `PAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAN PALESTINUS OR PELUSIUS|PAN PALESTINUS OR PELUSIUS]] |
 
 ## Full OCR entry body (exact)
 

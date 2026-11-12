@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCENSION` | **unresolved** (review queue) |
-| `Born (due time)` | **unresolved** (review queue) |
-| `ComPaRTMENTS` | **unresolved** (review queue) |
-| `Mysteries` | **unresolved** (review queue) |
-| `THIRTEEN` | **candidate (first-segment only)** → possible `THIRTEEN, NUMBER` (not linked) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `Born (due time)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]]; [[Reference/Gaskell/Entries/B/BORN OUT OF DUE TIME|BORN OUT OF DUE TIME]] |
+| `ComPaRTMENTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COMPARTMENTS OR DIVISIONS OF THE TUAT|COMPARTMENTS OR DIVISIONS OF THE TUAT]] |
+| `Mysteries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYSTERIES OF LIGHT|MYSTERIES OF LIGHT]] |
+| `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

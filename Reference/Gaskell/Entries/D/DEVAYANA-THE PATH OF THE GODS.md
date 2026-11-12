@@ -33,29 +33,29 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aani` | **unresolved** (review queue) |
-| `BIRTH CEREMONIES` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
-| `GIFTS OF Gop` | **unresolved** (review queue) |
+| `BIRTH CEREMONIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BIRTH CEREMONIES OF THE BUDDHA|BIRTH CEREMONIES OF THE BUDDHA]] |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `GIFTS OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIFTS OF GOD|GIFTS OF GOD]] |
 | `Gops` | **unresolved** (review queue) |
-| `Grace` | **unresolved** (review queue) |
+| `Grace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LAW OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `MAHAYANA` | **unresolved** (review queue) |
-| `MAN BORN` | **unresolved** (review queue) |
-| `Moon WANING` | **unresolved** (review queue) |
+| `MAN BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
+| `Moon WANING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WANING PERIOD, OR THE DEVAYANA|MOON—WANING PERIOD, OR THE DEVAYANA]] |
 | `Pats (birds)` | **unresolved** (review queue) |
-| `PirriYaNA` | **unresolved** (review queue) |
-| `PracApati` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `PirriYaNA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+| `PracApati` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SONS OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `VARUNA` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
-| `Vayu` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
+| `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 | `WAY OF DELIVERANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]] |
 | `YESHTIKA` | **unresolved** (review queue) |
 

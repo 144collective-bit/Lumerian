@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Mountarn` | **unresolved** (review queue) |
-| `RIMTHURSAR` | **candidate (first-segment only)** → possible `RIMTHURSAR, FROST GIANTS` (not linked) |
+| `Mountarn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+| `RIMTHURSAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]]; [[Reference/Gaskell/Entries/R/RIMTHURSAR RIGHTEOUS MAN|RIMTHURSAR RIGHTEOUS MAN]] |
 
 ## Full OCR entry body (exact)
 

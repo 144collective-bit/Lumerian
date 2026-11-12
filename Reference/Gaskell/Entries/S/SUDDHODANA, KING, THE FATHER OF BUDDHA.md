@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `MONIES` | **unresolved** (review queue) |
 | `BuppHa` | **unresolved** (review queue) |
 | `Cow (milch)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Hoty pwiaces` | **unresolved** (review queue) |
-| `Kina oF QLory` | **unresolved** (review queue) |
+| `Kina oF QLory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KING OF GLORY|KING OF GLORY]] |
 | `Prrreis (solar)` | **unresolved** (review queue) |
 | `Ranuxa` | **unresolved** (review queue) |
 | `SEF` | **unresolved** (review queue) |

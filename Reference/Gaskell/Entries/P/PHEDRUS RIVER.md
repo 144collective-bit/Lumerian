@@ -36,7 +36,7 @@ tags:
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
 | `Is18` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `WINDs (various)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+| `WINDs (various)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, VARIOUS|WINDS, VARIOUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
-| `ENEMIES` | **unresolved** (review queue) |
-| `GatHa (kam.)` | **unresolved** (review queue) |
-| `HARLoT` | **candidate (first-segment only)** → possible `HARLOT, OR STRANGE WOMAN` (not linked) |
+| `ENEMIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
+| `GatHa (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `HARLoT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
 | `INCARNATION OF soULs` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `MAN (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `MAN (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `Way OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
-| `WICKEDNESS` | **unresolved** (review queue) |
+| `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 
 ## Full OCR entry body (exact)
 

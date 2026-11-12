@@ -35,8 +35,8 @@ tags:
 | `Heap` | **unresolved** (review queue) |
 | `Leas or MAN` | **unresolved** (review queue) |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `WINGS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

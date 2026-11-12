@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `EARTHQUAKE` | **unresolved** (review queue) |
+| `EARTHQUAKE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
 | `LAZARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `SEpuLcures` | **unresolved** (review queue) |
+| `SEpuLcures` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
-| `SuNDAY` | **candidate (first-segment only)** → possible `SUNDAY, THE FIRST DAY` (not linked) |
+| `SuNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 | `ToMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
 
 ## Full OCR entry body (exact)

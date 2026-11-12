@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Damons` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAMONS|DAMONS]] |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `PrererR` | **unresolved** (review queue) |
 | `Pruuars (light)` | **unresolved** (review queue) |
 

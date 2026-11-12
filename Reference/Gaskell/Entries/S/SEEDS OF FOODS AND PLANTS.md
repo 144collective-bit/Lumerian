@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHILDREN OF MEN AND WOMEY` | **unresolved** (review queue) |
-| `Earts` | **unresolved** (review queue) |
+| `Earts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Foop ror Gops` | **unresolved** (review queue) |
 | `Foon For SEEDS B4AN` | **unresolved** (review queue) |
 | `FROUIT-TREE` | **unresolved** (review queue) |
@@ -46,7 +46,7 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
 | `"“EREEs (tall)` | **unresolved** (review queue) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

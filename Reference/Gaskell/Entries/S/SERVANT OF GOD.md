@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `Evo4uTION` | **unresolved** (review queue) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `INvoLuTION` | **unresolved** (review queue) |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `INvoLuTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JESUS (servant)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `JOB` | **unresolved** (review queue) |
-| `Passion` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `Passion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `Sout` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `Toms` | **unresolved** (review queue) |
-| `WICKED` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WICKED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKED MAN|WICKED MAN]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,15 +34,15 @@ tags:
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
 | `BEES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `Cronus` | **unresolved** (review queue) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `Foop` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SI-OSIRI` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `SI-OSIRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SI-OSIRI (SON OF OSIRIS)|SI-OSIRI (SON OF OSIRIS)]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaprismM` | **unresolved** (review queue) |
-| `CEREMONIES` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
+| `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `‘ROSS` | **unresolved** (review queue) |
 | `FASTING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
-| `FINGERS (two)` | **candidate (ambiguous first-segment)** → FINGERS, FOUR; FINGERS, TWO, OF HORUS (not linked) |
+| `FINGERS (two)` | resolved (qualified head) → [[Reference/Gaskell/Entries/F/FINGERS, TWO, OF HORUS|FINGERS, TWO, OF HORUS]] |
 | `Foop S GOD` | **unresolved** (review queue) |
-| `HAIR SHAVEN` | **unresolved** (review queue) |
-| `Host` | **candidate (first-segment only)** → possible `HOST, OR CONSECRATED WAFER` (not linked) |
-| `Hymn` | **unresolved** (review queue) |
+| `HAIR SHAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HAIR SHAVEN FROM CROWN OF THE HEAD|HAIR SHAVEN FROM CROWN OF THE HEAD]] |
+| `Host` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `NCENSE` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `Monks` | **unresolved** (review queue) |
 | `Iusic` | **unresolved** (review queue) |
 | `Prtarms` | **unresolved** (review queue) |
@@ -51,15 +51,15 @@ tags:
 | `PRocgEssIon` | **unresolved** (review queue) |
 | `>URGATORY` | **unresolved** (review queue) |
 | `RELIGIONS` | **unresolved** (review queue) |
-| `RosBE` | **unresolved** (review queue) |
+| `RosBE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]] |
 | `‘\ACRAMENT` | **unresolved** (review queue) |
-| `SCEPTRE` | **candidate (first-segment only)** → possible `SCEPTRE, GOLDEN, APOLLO` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `‘HRINE` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `TIARA` | **candidate (first-segment only)** → possible `TIARA, THE PAPAL CROWN` (not linked) |
-| `TRANSUBTANTIATION` | **unresolved** (review queue) |
-| `VIRGIN` | **unresolved** (review queue) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `TIARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIARA, THE PAPAL CROWN|TIARA, THE PAPAL CROWN]] |
+| `TRANSUBTANTIATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WATER. (` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

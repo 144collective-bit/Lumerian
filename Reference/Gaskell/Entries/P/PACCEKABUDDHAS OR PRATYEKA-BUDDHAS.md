@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGNISHVATTAS` | **unresolved** (review queue) |
-| `ARHATS` | **unresolved** (review queue) |
-| `BOpHISATVAS` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `_MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
+| `BOpHISATVAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `_MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `MonAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `Sons oF Gop` | **unresolved** (review queue) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 
 ## Full OCR entry body (exact)
 

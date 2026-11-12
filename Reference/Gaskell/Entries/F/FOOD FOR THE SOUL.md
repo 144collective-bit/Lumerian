@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Breap` | **unresolved** (review queue) |
-| `Corn` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `Mrar` | **unresolved** (review queue) |
 | `Om` | **unresolved** (review queue) |

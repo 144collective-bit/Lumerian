@@ -35,7 +35,7 @@ tags:
 | `BuDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `Buu` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 
 ## Full OCR entry body (exact)
 

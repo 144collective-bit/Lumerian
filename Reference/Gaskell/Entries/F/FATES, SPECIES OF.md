@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Karma` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 
 ## Full OCR entry body (exact)
 

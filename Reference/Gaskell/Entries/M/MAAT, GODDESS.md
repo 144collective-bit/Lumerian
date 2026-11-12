@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADRASTIA` | **candidate (first-segment only)** → possible `ADRASTIA, CRETAN NYMPH` (not linked) |
-| `FatTE-SPHERE` | **unresolved** (review queue) |
-| `FEATHER` | **unresolved** (review queue) |
-| `GoDs` | **candidate (first-segment only)** → possible `GODS, DEITIES` (not linked) |
+| `ADRASTIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ADRASTIA, CRETAN NYMPH|ADRASTIA, CRETAN NYMPH]] |
+| `FatTE-SPHERE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
+| `FEATHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] |
+| `GoDs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GODS, DEITIES|GODS, DEITIES]] |
 | `JUDGMENT-HALL` | **unresolved** (review queue) |
 | `KarMa` | **unresolved** (review queue) |
 | `MorrmaE` | **unresolved** (review queue) |
@@ -43,8 +43,8 @@ tags:
 | `Nognog` | **unresolved** (review queue) |
 | `Sav` | **unresolved** (review queue) |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `THEMIS` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
-| `THOTH` | **unresolved** (review queue) |
+| `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

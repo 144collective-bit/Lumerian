@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BreatuH` | **unresolved** (review queue) |
+| `BreatuH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Durvuva` | **unresolved** (review queue) |
 | `SRuvUK` | **unresolved** (review queue) |
-| `UPaBHRIT` | **unresolved** (review queue) |
+| `UPaBHRIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UPABHRIT SPOON|UPABHRIT SPOON]] |
 
 ## Full OCR entry body (exact)
 

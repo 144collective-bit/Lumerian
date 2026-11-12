@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `OLymrPus` | **unresolved** (review queue) |
-| `TLALOC` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
+| `TLALOC` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
 
 ## Full OCR entry body (exact)
 

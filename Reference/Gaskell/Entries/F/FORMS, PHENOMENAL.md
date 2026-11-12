@@ -32,27 +32,27 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `BIRTH OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] |
 | `Cotours` | **unresolved** (review queue) |
-| `CosMos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `EvoLuTION` | **unresolved** (review queue) |
+| `CosMos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `EvoLuTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FatHER (lower)` | **unresolved** (review queue) |
 | `Germs` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `InvoLuTiIon` | **unresolved** (review queue) |
 | `Matrer` | **unresolved** (review queue) |
 | `MITHRAS` | **unresolved** (review queue) |
 | `Monap (form` | **unresolved** (review queue) |
 | `life)` | **unresolved** (review queue) |
-| `PourusHaspa` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
+| `PourusHaspa` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
 | `Prororypres` | **unresolved** (review queue) |
-| `SEEDs` | **unresolved** (review queue) |
-| `SON OF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `SEEDs` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+| `SON OF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `Spirit` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

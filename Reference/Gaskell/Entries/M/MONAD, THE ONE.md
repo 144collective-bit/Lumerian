@@ -34,18 +34,18 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ACON` | **unresolved** (review queue) |
-| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CHIP` | **unresolved** (review queue) |
+| `BraHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHIP OF THE SACRIFICIAL STAKE|CHIP OF THE SACRIFICIAL STAKE]] |
 | `Fimst-BORN` | **unresolved** (review queue) |
-| `FRavASHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
+| `FRavASHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
-| `HrRANYAGARBHA` | **unresolved** (review queue) |
+| `HrRANYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `KHEPERA` | **unresolved** (review queue) |
-| `Lao` | **unresolved** (review queue) |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `Mrrpras` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
-| `SHU` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
+| `SHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 | `Tan-KEIn` | **unresolved** (review queue) |
 | `TEFNUT` | **unresolved** (review queue) |
 

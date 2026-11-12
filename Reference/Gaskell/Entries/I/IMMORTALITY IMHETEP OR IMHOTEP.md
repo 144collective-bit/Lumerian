@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `ALcHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `BmrtnH (second)` | **unresolved** (review queue) |
-| `Maoic` | **unresolved** (review queue) |
-| `MEpIcINE` | **unresolved** (review queue) |
-| `PHysictan` | **unresolved** (review queue) |
+| `Maoic` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
+| `MEpIcINE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
+| `PHysictan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `SERBPENT ZSCULAPIUS` | **unresolved** (review queue) |
-| `VALMIKI` | **candidate (ambiguous first-segment)** → VALMIKI, KYDOIMOS (UPROAR); VALMIKI, THE POET (not linked) |
+| `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
 
 ## Full OCR entry body (exact)
 

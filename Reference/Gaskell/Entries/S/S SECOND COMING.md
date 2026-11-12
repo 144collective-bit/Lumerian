@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaT (waters)` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
-| `BUDDHA (Maitreya)` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `AaT (waters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
+| `BUDDHA (Maitreya)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `CLoups or HEAVEN` | **unresolved** (review queue) |
-| `ConFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
-| `DOORKEEPERS` | **candidate (first-segment only)** → possible `DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN` (not linked) |
+| `ConFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
+| `DOORKEEPERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN|DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN]] |
 | `GENERATION` | **unresolved** (review queue) |
 | `Hanp (right)` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
@@ -45,13 +45,13 @@ tags:
 | `JUDGMENT Day` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `KALxr (avatar)` | **unresolved** (review queue) |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
-| `REsuRRECTION` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `REsuRRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SON oF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `SosHYANs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANS|SOSHYANS]] |
-| `Sosiosu` | **unresolved** (review queue) |
+| `Sosiosu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 | `Sout (spirit` | **unresolved** (review queue) |
-| `body)` | **unresolved** (review queue) |
+| `body)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BODY OF OSIRIS, OR OF JASON|BODY OF OSIRIS, OR OF JASON]] |
 | `SprinaTIME` | **unresolved** (review queue) |
 | `STUDIES OF THE SOUL` | **unresolved** (review queue) |
 

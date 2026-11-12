@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `NOAH’S SONS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

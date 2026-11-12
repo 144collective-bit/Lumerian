@@ -34,19 +34,19 @@ tags:
 |---|---|
 | `Buiiss` | **unresolved** (review queue) |
 | `BUDDHIO PLANE` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
-| `Emperor` | **candidate (first-segment only)** → possible `EMPEROR, FIRST` (not linked) |
-| `HOovseHOLDER (higher)` | **unresolved** (review queue) |
+| `Emperor` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EMPEROR, FIRST|EMPEROR, FIRST]] |
+| `HOovseHOLDER (higher)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `Karma` | **unresolved** (review queue) |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `MONEY` | **unresolved** (review queue) |
-| `MoRNINe` | **unresolved** (review queue) |
+| `MoRNINe` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `STEWARD` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `STEWARD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STEWARD OF THE LORD OF THE VINEYARD|STEWARD OF THE LORD OF THE VINEYARD]]; [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WAGES` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
 | `WorK` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |

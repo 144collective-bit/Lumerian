@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Guru` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
-| `Sannyasin` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
+| `Sannyasin` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `STUDENT` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Rop (hand)` | **unresolved** (review queue) |
-| `ScEPTRE` | **candidate (first-segment only)** → possible `SCEPTRE, GOLDEN, APOLLO` (not linked) |
-| `VINEGAR` | **unresolved** (review queue) |
+| `ScEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
 
 ## Full OCR entry body (exact)
 

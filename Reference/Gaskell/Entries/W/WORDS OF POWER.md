@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
-| `AMULETS` | **unresolved** (review queue) |
+| `AMULETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMULETS AMULETS|AMULETS AMULETS]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `DeFuNcT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DeFuNcT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `KARMA` | **unresolved** (review queue) |
 | `Limss` | **unresolved** (review queue) |
-| `MAGIC` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
+| `MAGIC` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
 | `Mourn` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `SCARLET` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCARLET|SCARLET]] |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAPA` | **candidate (first-segment only)** → possible `ADAPA, THE SON OF EA, OR OF ERIDU` (not linked) |
-| `ANU` | **candidate (first-segment only)** → possible `ANU, GOD OF THE SKY` (not linked) |
-| `FALL` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `ADAPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAPA, THE SON OF EA, OR OF ERIDU|ADAPA, THE SON OF EA, OR OF ERIDU]] |
+| `ANU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANU, GOD OF THE SKY|ANU, GOD OF THE SKY]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SHASPA` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
-| `WIND (sweet)` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+| `WIND (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/W/WIND, SWEET, SOUTH|WIND, SWEET, SOUTH]] |
 
 ## Full OCR entry body (exact)
 

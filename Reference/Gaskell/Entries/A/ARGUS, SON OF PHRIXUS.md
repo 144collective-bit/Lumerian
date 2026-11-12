@@ -38,7 +38,7 @@ tags:
 | `when the Self within the soul has arrived at every experience which it is necessary that he should undergo. This condition of consciousness implies the having passed an initiation equivalent to that symbolised in the ‘ crucifixion of Jesus.’’ See ASCETIC` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ASEKA` | **unresolved** (review queue) |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `Master` | **candidate (ambiguous first-segment)** → MASTER, NOT RULED BY A; MASTER, RULED BY A (not linked) |
+| `Master` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MASTER, NOT RULED BY A|MASTER, NOT RULED BY A]]; [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]]; [[Reference/Gaskell/Entries/M/MASTER, RULED BY A|MASTER, RULED BY A]] |
 | `WALES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Beasts (wild)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
+| `Beasts (wild)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BEASTS, WILD|BEASTS, WILD]] |
 | `Cur` | **unresolved** (review queue) |
 | `Grussa` | **unresolved** (review queue) |
-| `Hyuas` | **unresolved** (review queue) |
+| `Hyuas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
 | `MaGicaL FORMULA` | **unresolved** (review queue) |
 | `L&Es` | **unresolved** (review queue) |
-| `PitcHER` | **unresolved** (review queue) |
+| `PitcHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PITCHER OF WATER|PITCHER OF WATER]] |
 | `TAMAS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -36,7 +36,7 @@ tags:
 | `Monap OF LIFE` | **unresolved** (review queue) |
 | `PYRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
 | `RELIGION` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 | `TsuRAH` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TSURAH|TSURAH]] |
 

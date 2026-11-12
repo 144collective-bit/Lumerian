@@ -42,7 +42,7 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 
 | Target (OCR) | Status |
 |---|---|
-| `SEKHET` | **unresolved** (review queue) |
+| `SEKHET` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 
 ## Aliases / OCR variants (evidenced only)
 

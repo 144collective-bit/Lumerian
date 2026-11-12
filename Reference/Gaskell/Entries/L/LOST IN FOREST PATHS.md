@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `I1r1VvSION` | **unresolved** (review queue) |
 | `MarsHAN` | **unresolved** (review queue) |
 | `Prurerm` | **unresolved** (review queue) |
 | `SatvaTION` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `Srerire` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `WaNnDERERS` | **unresolved** (review queue) |
-| `Way` | **unresolved** (review queue) |
-| `WAYFARING` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `WaNnDERERS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
+| `Way` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]]; [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]]; [[Reference/Gaskell/Entries/W/WAY OF THE MIDST|WAY OF THE MIDST]]; [[Reference/Gaskell/Entries/W/WAY WAY OF DEATH|WAY WAY OF DEATH]] |
+| `WAYFARING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAYFARING MEN|WAYFARING MEN]] |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

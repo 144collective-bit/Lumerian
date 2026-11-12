@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Anyss` | **unresolved** (review queue) |
+| `Anyss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ABYSS, THE|ABYSS, THE]] |
 | `ATRA` | **unresolved** (review queue) |
 | `BLACK` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK|BLACK]] |
-| `CHAOs` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `Deep` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `CHAOs` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `Deep` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `Eaa` | **unresolved** (review queue) |
 | `' Niaut (primordial)` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `Taaroa` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `TANAOA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

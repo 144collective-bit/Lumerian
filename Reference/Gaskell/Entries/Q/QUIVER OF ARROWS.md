@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `PESTILENOCE` | **unresolved** (review queue) |
 | `SCOURGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
 

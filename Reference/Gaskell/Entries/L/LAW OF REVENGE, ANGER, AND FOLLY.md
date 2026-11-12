@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EVIL` | **unresolved** (review queue) |
+| `EVIL` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVIL OR SINFUL STATE|EVIL OR SINFUL STATE]] |
 | `GUILTY PERSONS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GUILTY PERSONS|GUILTY PERSONS]] |
-| `MURDER` | **candidate (first-segment only)** → possible `MURDER, WRATH, AND HATRED` (not linked) |
+| `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
 | `OPpposireEs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

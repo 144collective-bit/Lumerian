@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABSYRTUS` | **candidate (first-segment only)** → possible `ABSYRTUS, BROTHER OF MEDEA` (not linked) |
-| `ALETES` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `ABSYRTUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABSYRTUS, BROTHER OF MEDEA|ABSYRTUS, BROTHER OF MEDEA]] |
+| `ALETES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AZETES, KING OF COLCHIS|AZETES, KING OF COLCHIS]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `CRETE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRETE|CRETE]] |
 | `Druas` | **unresolved** (review queue) |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `IcHorR` | **unresolved** (review queue) |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `SALVE` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

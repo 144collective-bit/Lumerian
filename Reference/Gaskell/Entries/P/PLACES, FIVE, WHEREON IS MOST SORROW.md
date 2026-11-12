@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BRaTROK` | **unresolved** (review queue) |
-| `FIVE` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `BRaTROK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRATROK-RISH, THE KARAP|BRATROK-RISH, THE KARAP]] |
+| `FIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `Virnorns (ten)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

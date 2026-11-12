@@ -36,22 +36,22 @@ tags:
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
-| `CLOUDS OF HEAVEN` | **candidate (first-segment only)** → possible `CLOUDS OF HEAVEN, AS MIST` (not linked) |
-| `CROWNS (Egyptian)` | **candidate (first-segment only)** → possible `CROWNS, RED AND WHITE` (not linked) |
+| `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
+| `CROWNS (Egyptian)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CROWNS, RED AND WHITE|CROWNS, RED AND WHITE]] |
 | `Eaypr (higher and lower)` | **unresolved** (review queue) |
 | `Evo.Lutrion` | **unresolved** (review queue) |
 | `FATHER (lower)` | **unresolved** (review queue) |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
 | `JESUS (son of man)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Kino (great)` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `NaME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `Nusia` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `Nusia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NUBIA|NUBIA]] |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `Sout (middle)` | **unresolved** (review queue) |
 | `SourH` | **unresolved** (review queue) |
-| `WICKEDNEss` | **unresolved** (review queue) |
+| `WICKEDNEss` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 | `Wispom` | **unresolved** (review queue) |
 | `Woman` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |

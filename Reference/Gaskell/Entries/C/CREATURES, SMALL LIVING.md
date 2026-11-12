@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `CUTIVATING` | **unresolved** (review queue) |
 | `GERMS` | **unresolved** (review queue) |
-| `HIRANYAQ@aRBHA` | **unresolved** (review queue) |
+| `HIRANYAQ@aRBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `LITTLE ONES` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
-| `SEEDS (good)` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
+| `SEEDS (good)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 
 ## Full OCR entry body (exact)
 

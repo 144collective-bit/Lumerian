@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)

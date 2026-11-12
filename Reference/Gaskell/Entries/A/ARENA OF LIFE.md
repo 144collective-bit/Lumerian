@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
-| `KNOWER` | **unresolved** (review queue) |
+| `KNOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KNOWER OF (KSHETRA)|KNOWER OF (KSHETRA)]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

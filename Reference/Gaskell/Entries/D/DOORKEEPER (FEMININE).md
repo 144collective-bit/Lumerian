@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `TRIAL` | **unresolved** (review queue) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

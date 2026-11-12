@@ -32,25 +32,25 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANNAS` | **candidate (ambiguous first-segment)** → ANNAS, CAIAPHAS, PRIESTS AND ELDERS; ANNAS, THE PRIEST (not linked) |
-| `ASSEMBLY` | **unresolved** (review queue) |
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
+| `ANNAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANNAS, THE PRIEST|ANNAS, THE PRIEST]] |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `CatF (molten)` | **unresolved** (review queue) |
 | `CHILDREN OF JERUSALEM` | **unresolved** (review queue) |
 | `CONVERSION OF PAUL` | **unresolved** (review queue) |
 | `FOOLS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOLS|FOOLS]] |
 | `Hiao priest (lower)` | **unresolved** (review queue) |
 | `[DOL PRIEST` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `NINIGI` | **unresolved** (review queue) |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `Prrate` | **unresolved** (review queue) |
 | `Rexiaion` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
-| `WITNESSES (false)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (false)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]] |
 
 ## Full OCR entry body (exact)
 

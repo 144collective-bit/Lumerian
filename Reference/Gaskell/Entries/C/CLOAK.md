@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Coat` | **unresolved** (review queue) |
+| `Coat` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] |
 
 ## Full OCR entry body (exact)
 

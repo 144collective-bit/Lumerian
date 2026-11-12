@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HicHER (selves)` | **unresolved** (review queue) |
 | `Losss` | **unresolved** (review queue) |
 | `Lrr` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MEMBERS` | **unresolved** (review queue) |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `OAK TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
-| `OHONAMOCHI` | **unresolved** (review queue) |
-| `PraGAPpatTi` | **unresolved** (review queue) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
+| `PraGAPpatTi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `PurusHa` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Suxuna` | **unresolved** (review queue) |

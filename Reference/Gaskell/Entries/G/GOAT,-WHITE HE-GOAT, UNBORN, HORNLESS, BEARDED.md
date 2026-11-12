@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `CAPRICORN` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
-| `HEIGHT` | **candidate (first-segment only)** → possible `HEIGHT, OR HEIGHTS` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `MounTarn` | **unresolved** (review queue) |
-| `PRaGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `SPEECH` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `HEIGHT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEIGHT, OR HEIGHTS|HEIGHT, OR HEIGHTS]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `MounTarn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+| `PRaGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

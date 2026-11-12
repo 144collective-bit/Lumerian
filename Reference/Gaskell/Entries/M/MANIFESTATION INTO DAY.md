@@ -35,18 +35,18 @@ tags:
 | `Cuarrers` | **unresolved** (review queue) |
 | `CoMING rortaH` | **unresolved** (review queue) |
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `Feast` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `Feast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `Gorna 1n` | **unresolved** (review queue) |
 | `IAO` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Karma` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Niaut` | **unresolved** (review queue) |
-| `PLouGHine` | **unresolved** (review queue) |
+| `PLouGHine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `Reapina` | **unresolved** (review queue) |
 | `Sprerr` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `Vicrory` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

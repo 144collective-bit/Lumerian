@@ -36,14 +36,14 @@ tags:
 | `Eartu` | **unresolved** (review queue) |
 | `FI£.p` | **unresolved** (review queue) |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
-| `GREEN` | **unresolved** (review queue) |
+| `GREEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GREEN COLOUR|GREEN COLOUR]]; [[Reference/Gaskell/Entries/G/GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS|GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS]]; [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `RaIn` | **unresolved** (review queue) |
+| `RaIn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `THORNS. HERB YIELDING SEED AFTER ITS KIND -— Symbolic of the natural laws of growth and increase in the development of the desires` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `affections` | **unresolved** (review queue) |
 | `and faculties of the soul. CRONUS` | **unresolved** (review queue) |
-| `MUSE` | **candidate (first-segment only)** → possible `MUSE, THE WHITE-ARMED MAIDEN` (not linked) |
+| `MUSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSE, THE WHITE-ARMED MAIDEN|MUSE, THE WHITE-ARMED MAIDEN]] |
 | `354 ‘‘And the earth brought forth grass` | **unresolved** (review queue) |
 | `herb yielding seed after ite kind` | **unresolved** (review queue) |
 | `and tree bearing fruit` | **unresolved** (review queue) |
@@ -55,10 +55,10 @@ tags:
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Goop` | **unresolved** (review queue) |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
-| `GREEN` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GREEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GREEN COLOUR|GREEN COLOUR]]; [[Reference/Gaskell/Entries/G/GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS|GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS]]; [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `SEEDS OF FOODS` | **unresolved** (review queue) |
+| `SEEDS OF FOODS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEEDS OF FOODS AND PLANTS|SEEDS OF FOODS AND PLANTS]] |
 
 ## Full OCR entry body (exact)
 

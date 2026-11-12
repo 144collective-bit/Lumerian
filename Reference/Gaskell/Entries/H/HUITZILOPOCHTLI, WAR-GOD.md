@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrrTH OF CHRIST` | **unresolved** (review queue) |
-| `CRANBERRY` | **unresolved** (review queue) |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
 | `Crown` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `HErop` | **unresolved** (review queue) |
-| `MARJATTA` | **unresolved** (review queue) |
-| `PLUMES` | **unresolved** (review queue) |
+| `MARJATTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARJATTA OR MARIATTA|MARJATTA OR MARIATTA]] |
+| `PLUMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

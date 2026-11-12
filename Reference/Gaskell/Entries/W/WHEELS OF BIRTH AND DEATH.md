@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boat oOF EARTH` | **unresolved** (review queue) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `Degatu` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `ForMs` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
-| `GIRDLE (star)` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `ForMs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
+| `GIRDLE (star)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `Homr` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `MaasEH` | **unresolved** (review queue) |
-| `MoNnaD OF LIFE` | **unresolved** (review queue) |
+| `MoNnaD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SONS or Gop` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SONS or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SWASTIKA. 812` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

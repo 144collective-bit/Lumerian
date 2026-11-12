@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CoNJUNCTION` | **candidate (first-segment only)** → possible `CONJUNCTION, SECOND FORTUNATE` (not linked) |
-| `WaLKgs` | **unresolved** (review queue) |
+| `CoNJUNCTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONJUNCTION, SECOND FORTUNATE|CONJUNCTION, SECOND FORTUNATE]] |
+| `WaLKgs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 
 ## Full OCR entry body (exact)
 

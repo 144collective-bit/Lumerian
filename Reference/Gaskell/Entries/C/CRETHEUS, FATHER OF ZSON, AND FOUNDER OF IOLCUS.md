@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ESON` | **candidate (first-segment only)** → possible `ESON, FATHER OF JASON` (not linked) |
-| `ALPHA` | **unresolved** (review queue) |
-| `IoLcus` | **candidate (first-segment only)** → possible `IOLCUS, OR JOLCUS` (not linked) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `ESON` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESON, FATHER OF JASON|ESON, FATHER OF JASON]] |
+| `ALPHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALPHA AND OMEGA|ALPHA AND OMEGA]] |
+| `IoLcus` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IOLCUS, OR JOLCUS|IOLCUS, OR JOLCUS]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 
 ## Full OCR entry body (exact)
 

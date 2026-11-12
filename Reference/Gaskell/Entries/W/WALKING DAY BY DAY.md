@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `FEET` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `Foot` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOT|FOOT]] |
-| `HIDING` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `Morrow` | **candidate (first-segment only)** → possible `MORROW, OR NEXT DAY` (not linked) |
+| `HIDING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIDING FROM GOD|HIDING FROM GOD]]; [[Reference/Gaskell/Entries/H/HIDING HIDDEKEL RIVER|HIDING HIDDEKEL RIVER]]; [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `Morrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORROW, OR NEXT DAY|MORROW, OR NEXT DAY]] |
 | `THREE (number). WALKING UPON THE WATER :-~ A symbol of making progress against a tide of astral desires and passions. “And in the fourth watch of the night he (Jesus) came unto them` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `walking upon the sea.’’— Mart. xiv. 25. This happens only after the Christ has realised that He is able to save to the uttermost the striving qualities ; and therefore his preceding prayer upon the mountain is alluded to. After the Christ-soul has sought strength from above` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `he stems the tide of the astral plane` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -45,8 +45,8 @@ tags:
 | `who seems far away` | **unresolved** (review queue) |
 | `is in reality only gathering power from above` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which shall be used to aid the lower nature in its efforts to unite itself with the higher. The “‘ fourth watch ”’ signifies the fourth sub-plane of the astral plane. See AstTRAL` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Mountain` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `SHIP ON SEA` | **unresolved** (review queue) |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

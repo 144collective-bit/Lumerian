@@ -35,9 +35,9 @@ tags:
 | `Apam (higher)` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `Botts` | **unresolved** (review queue) |
-| `Gates` | **unresolved** (review queue) |
+| `Gates` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
 | `Heer` | **unresolved** (review queue) |
-| `IMMORTALITY` | **unresolved** (review queue) |
+| `IMMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |

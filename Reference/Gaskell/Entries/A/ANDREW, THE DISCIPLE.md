@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 | `MESSIAH` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MESSIAH|MESSIAH]] |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `SIMILITuDEs` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
-| `Vaisya` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `SIMILITuDEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
+| `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

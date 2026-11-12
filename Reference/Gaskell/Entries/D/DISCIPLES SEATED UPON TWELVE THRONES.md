@@ -38,8 +38,8 @@ tags:
 | `KING OF GLORY` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING OF GLORY|KING OF GLORY]] |
 | `REGENERATION Saviours` | **unresolved** (review queue) |
 | `SON or MAN` | **unresolved** (review queue) |
-| `THRONE` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

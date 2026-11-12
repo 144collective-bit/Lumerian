@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADONIS` | **unresolved** (review queue) |
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
-| `CUPID` | **unresolved** (review queue) |
-| `Foam` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `Mescu` | **unresolved** (review queue) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
+| `CUPID` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] |
+| `Foam` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOAM OF THE SEA|FOAM OF THE SEA]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `Mescu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MESCH, OR MESCHGAH, PLANET VENUS|MESCH, OR MESCHGAH, PLANET VENUS]] |
 | `NINGIS-zmpa` | **unresolved** (review queue) |
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
-| `PouRUSHASPA` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
-| `URANUS` | **unresolved** (review queue) |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
+| `PouRUSHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 
 ## Full OCR entry body (exact)
 

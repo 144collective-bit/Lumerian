@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `East` | **unresolved** (review queue) |
-| `EDEN RIVER` | **unresolved** (review queue) |
+| `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
 | `HIDDEKEL` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |

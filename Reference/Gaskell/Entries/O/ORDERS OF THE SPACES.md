@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aprtyas` | **unresolved** (review queue) |
-| `Atons (twelve)` | **unresolved** (review queue) |
-| `ComPARTMENTS` | **unresolved** (review queue) |
+| `Atons (twelve)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
+| `ComPARTMENTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COMPARTMENTS OR DIVISIONS OF THE TUAT|COMPARTMENTS OR DIVISIONS OF THE TUAT]] |
 | `JIABRAOTH` | **unresolved** (review queue) |
 | `NIDANAS` | **unresolved** (review queue) |
 | `SaMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

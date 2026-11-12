@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ascension (Osiris)` | **unresolved** (review queue) |
+| `Ascension (Osiris)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Conn` | **unresolved** (review queue) |
 | `Hanp` | **unresolved** (review queue) |
 | `Ricut aRM` | **unresolved** (review queue) |
-| `SHOULDER` | **candidate (ambiguous first-segment)** → SHOULDER, LEFT; SHOULDER, RIGHT (not linked) |
-| `THOTH` | **unresolved** (review queue) |
-| `WHITE ARMED` | **unresolved** (review queue) |
+| `SHOULDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHOULDER, LEFT|SHOULDER, LEFT]]; [[Reference/Gaskell/Entries/S/SHOULDER, RIGHT|SHOULDER, RIGHT]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `WHITE ARMED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]] |
 
 ## Full OCR entry body (exact)
 

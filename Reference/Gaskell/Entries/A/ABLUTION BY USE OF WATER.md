@@ -42,8 +42,8 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 
 | Target (OCR) | Status |
 |---|---|
-| `BaptisM` | **unresolved** (review queue) |
-| `WASHED` | **unresolved** (review queue) |
+| `BaptisM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
+| `WASHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Aliases / OCR variants (evidenced only)

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AEGAEON` | **candidate (first-segment only)** → possible `AEGAEON, ONE OF THE URANIDS` (not linked) |
+| `AEGAEON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AEGAEON, ONE OF THE URANIDS|AEGAEON, ONE OF THE URANIDS]] |
 | `BRIAREvS` | **unresolved** (review queue) |
 | `Hoa` | **unresolved** (review queue) |
-| `MatSHAN` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `MENTAL` | **unresolved** (review queue) |
-| `TALUS` | **candidate (first-segment only)** → possible `TALUS, THE BRAZEN MAN` (not linked) |
-| `TYRUS` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `MatSHAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `MENTAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MENTAL-PLANE|MENTAL-PLANE]]; [[Reference/Gaskell/Entries/M/MENTAL SHEATH, OR BODY, OF THE HUMAN BEING|MENTAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `TALUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
+| `TYRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

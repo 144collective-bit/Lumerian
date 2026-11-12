@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLESSING` | **unresolved** (review queue) |
-| `DEVAYANA` | **unresolved** (review queue) |
+| `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `Girrs OF Gop` | **unresolved** (review queue) |
 | `INFremiTr=es` | **unresolved** (review queue) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 

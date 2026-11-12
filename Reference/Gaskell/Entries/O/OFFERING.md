@@ -38,7 +38,7 @@ tags:
 | `NoosE OF VARUNA` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOOSE OF VARUNA|NOOSE OF VARUNA]] |
 | `OFFERINGS` | **unresolved** (review queue) |
 | `PRAYERS AND OBLATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYERS AND OBLATIONS|PRAYERS AND OBLATIONS]] |
-| `SACRIFIOR` | **unresolved** (review queue) |
+| `SACRIFIOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACRIFIOR CARAPACE OF THE TORTOISE|SACRIFIOR CARAPACE OF THE TORTOISE]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 
 ## Full OCR entry body (exact)

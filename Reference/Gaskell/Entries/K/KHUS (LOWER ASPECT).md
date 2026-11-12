@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CLassEs (Egypt)` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `CLassEs (Egypt)` | resolved (qualified head) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `Mours` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 

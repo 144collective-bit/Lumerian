@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EmpaLMucene` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
-| `Osinis` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
+| `Osinis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `Uscnar` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

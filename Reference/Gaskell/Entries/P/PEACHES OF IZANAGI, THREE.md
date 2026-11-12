@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrRTH OF HORUS` | **unresolved** (review queue) |
-| `FRUIT oFr THE SPIRIT` | **unresolved** (review queue) |
+| `FRUIT oFr THE SPIRIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `IzZaNaAGI` | **unresolved** (review queue) |
 | `MansH` | **unresolved** (review queue) |
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
-| `SEKHETAARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
+| `SEKHETAARU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `YOML` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

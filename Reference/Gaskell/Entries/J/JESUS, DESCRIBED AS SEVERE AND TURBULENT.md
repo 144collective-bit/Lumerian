@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CLEANSING` | **unresolved** (review queue) |
-| `Enemies` | **unresolved** (review queue) |
+| `Enemies` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `Fatruer (lower)` | **unresolved** (review queue) |
 | `InrriTIONS` | **unresolved** (review queue) |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `Prrests AND ELDERS` | **unresolved** (review queue) |
 | `SCOURGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
-| `SHRINE` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `Sworp` | **unresolved** (review queue) |
 | `TxEeTH (gnashing). DOVE-SELLERS` | **unresolved** (review queue) |
 

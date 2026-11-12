@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CouNTRIES` | **unresolved** (review queue) |
+| `CouNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `NAVEL` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]] |
 
 ## Full OCR entry body (exact)

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
-| `LiaHT` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
+| `LiaHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `N&XEOK` | **unresolved** (review queue) |
-| `Sacriricer` | **unresolved** (review queue) |
-| `SELF (supreme)` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Sacriricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 
 ## Full OCR entry body (exact)

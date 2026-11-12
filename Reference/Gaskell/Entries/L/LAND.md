@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Corn` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
-| `EXperiENCE` | **unresolved** (review queue) |
+| `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+| `EXperiENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `Inrniaation` | **unresolved** (review queue) |
 | `Karma` | **unresolved** (review queue) |
 | `KNOwEB OF FIELD` | **unresolved** (review queue) |
-| `SEKHET-HETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `VAISYA` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `VAISYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 
 ## Full OCR entry body (exact)
 

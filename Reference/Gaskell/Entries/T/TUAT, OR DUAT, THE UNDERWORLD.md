@@ -33,38 +33,38 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABRAXAS` | **unresolved** (review queue) |
-| `ADAMAS` | **unresolved** (review queue) |
+| `ADAMAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] |
 | `ALSONS (twelve)` | **unresolved** (review queue) |
 | `AFU-RA` | **unresolved** (review queue) |
-| `AMENT` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
-| `APEP` | **candidate (first-segment only)** → possible `APEP, THE SERPENT` (not linked) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
+| `AMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
+| `APEP` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `CaBIN` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CaBIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CoMmPARTMENTS` | **unresolved** (review queue) |
 | `EQUINOX` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Hapes` | **unresolved** (review queue) |
 | `Hour` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `KHEPER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `NET-RA` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]] |
 | `Nipanas` | **unresolved** (review queue) |
 | `NicHT` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `SAMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
-| `SAU` | **unresolved** (review queue) |
-| `SEVENTH` | **unresolved** (review queue) |
-| `STRIDES` | **unresolved** (review queue) |
+| `SAU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
+| `SEVENTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEVENTH DAY|SEVENTH DAY]]; [[Reference/Gaskell/Entries/S/SEVENTH HOUR OF THE NIGHT OF THE TUAT|SEVENTH HOUR OF THE NIGHT OF THE TUAT]] |
+| `STRIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
 | `Tatru` | **unresolved** (review queue) |
-| `TRIBES (twelve)` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `UNDERWORLD` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `TRIBES (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

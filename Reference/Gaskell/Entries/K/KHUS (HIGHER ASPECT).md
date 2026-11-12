@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKESI` | **unresolved** (review queue) |
+| `AKESI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKESI CITY|AKESI CITY]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `ARENA` | **unresolved** (review queue) |
-| `BopHISATVAS` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
+| `BopHISATVAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `QAHU` | **candidate (first-segment only)** → possible `QAHU, CITY OF THE GODS` (not linked) |
+| `QAHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/Q/QAHU, CITY OF THE GODS|QAHU, CITY OF THE GODS]] |
 | `Reapine` | **unresolved** (review queue) |
 | `Sanu` | **unresolved** (review queue) |
 | `Sarmnts` | **unresolved** (review queue) |

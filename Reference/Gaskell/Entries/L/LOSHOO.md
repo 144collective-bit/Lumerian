@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `DRAGON RISING` | **unresolved** (review queue) |
-| `Fuu-He` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `DRAGON RISING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DRAGON RISING FROM THE DEEP|DRAGON RISING FROM THE DEEP]] |
+| `Fuu-He` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `ManaT` | **unresolved** (review queue) |
-| `MAISHAN` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `MERCHANDISE` | **candidate (first-segment only)** → possible `MERCHANDISE, TRUE` (not linked) |
+| `MAISHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `MERCHANDISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] |
 
 ## Full OCR entry body (exact)
 

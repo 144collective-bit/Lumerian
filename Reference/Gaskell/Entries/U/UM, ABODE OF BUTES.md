@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BuTEs` | **candidate (first-segment only)** → possible `BUTES, THE ARGONAUT` (not linked) |
+| `BuTEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUTES, THE ARGONAUT|BUTES, THE ARGONAUT]] |
 
 ## Full OCR entry body (exact)
 

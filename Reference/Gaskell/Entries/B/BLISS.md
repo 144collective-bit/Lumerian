@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ana` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SuFFERIna` | **unresolved** (review queue) |
-| `Taste` | **unresolved** (review queue) |
-| `UNEN` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SuFFERIna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `Taste` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
+| `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 | `VIBHU` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

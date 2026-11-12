@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrimTH OF HORUS` | **unresolved** (review queue) |
-| `CHEMMIS` | **unresolved** (review queue) |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
 | `. Eoyrer (lower)` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Lron-cop` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

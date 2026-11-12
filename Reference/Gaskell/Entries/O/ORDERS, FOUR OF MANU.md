@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASCETICS` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `CONSCIOUSwess` | **unresolved** (review queue) |
-| `Hermit` | **unresolved** (review queue) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `CONSCIOUSwess` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `Hermit` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
-| `MONK` | **unresolved** (review queue) |
-| `SaNNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
-| `SNATAKA` | **unresolved** (review queue) |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
+| `SaNNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
+| `SNATAKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
 | `SPRING-TIME` | **unresolved** (review queue) |
 | `STUDENT` | **unresolved** (review queue) |
 | `YELLOW DRESS` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YELLOW DRESS|YELLOW DRESS]] |

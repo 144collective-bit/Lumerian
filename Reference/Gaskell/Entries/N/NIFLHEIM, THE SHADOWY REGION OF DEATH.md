@@ -35,14 +35,14 @@ tags:
 | `FatHer` | **unresolved** (review queue) |
 | `HapEs` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `HVERGELMIR` | **unresolved** (review queue) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `HVERGELMIR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HVERGELMIR FOUNTAIN|HVERGELMIR FOUNTAIN]] |
 | `JOTUNHEIM` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JOTUNHEIM|JOTUNHEIM]] |
-| `NINE` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
+| `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `UNDERWORLD` | **unresolved** (review queue) |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

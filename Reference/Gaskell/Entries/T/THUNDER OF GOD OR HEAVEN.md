@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Licutnine` | **unresolved** (review queue) |
-| `TxHetis` | **unresolved** (review queue) |
-| `TLatoc` | **unresolved** (review queue) |
-| `Voice` | **unresolved** (review queue) |
+| `TxHetis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
+| `TLatoc` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
+| `Voice` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `ZEus. THUNDERBOLT ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

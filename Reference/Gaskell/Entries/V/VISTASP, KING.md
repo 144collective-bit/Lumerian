@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHURA-MAZDA` | **candidate (first-segment only)** → possible `AHURA-MAZDA, OR ORMAZD` (not linked) |
+| `AHURA-MAZDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHURA-MAZDA, OR ORMAZD|AHURA-MAZDA, OR ORMAZD]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `Crvinisinc` | **unresolved** (review queue) |
-| `Demons` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `ZOBROASTER. VISVAKARMAN ;— A symbol of the Higher Self as the Divine sacrifice and the Incarnate Self. “The Seer and a Priest` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -59,15 +59,15 @@ tags:
 | `is the highest in order of being.’’—Ibid.` | **unresolved** (review queue) |
 | `Serm.` | **unresolved** (review queue) |
 | `The Source of God. See Anc. MAN` | **unresolved** (review queue) |
-| `BLESSING` | **unresolved** (review queue) |
+| `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
 | `FATHER` | **unresolved** (review queue) |
 | `LAMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `MELCHIZEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `PILGRIM` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] |
-| `PRIEST` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `WEALTH` | **unresolved** (review queue) |
-| `WORLDS` | **unresolved** (review queue) |
+| `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+| `WORLDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

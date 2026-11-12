@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
 | `Droscuri` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `GosHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
-| `HERMES` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Marriacr` | **unresolved** (review queue) |
 | `PaNpORA` | **unresolved** (review queue) |

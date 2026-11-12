@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
-| `Hymns` | **unresolved** (review queue) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
+| `Hymns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] |
 | `ImaceE` | **unresolved** (review queue) |
 | `Invorution` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `KixcLy oOF¥FICE` | **unresolved** (review queue) |
-| `MINISTERS` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `MINISTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `OaNNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `OHONAMOCHI` | **unresolved** (review queue) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
 | `OsIRis` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `RESPECTFUL` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `RESPECTFUL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESPECTFUL MANNERS|RESPECTFUL MANNERS]] |
 | `YAO. CLANG OF APOLLO’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

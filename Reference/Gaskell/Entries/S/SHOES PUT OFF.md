@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Law or moses` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 
 ## Full OCR entry body (exact)
 

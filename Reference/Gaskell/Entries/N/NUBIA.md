@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `COMPANY OF GODS` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SHASHERTET` | **candidate (first-segment only)** → possible `SHASHERTET, A NUBIA` (not linked) |
-| `UAvAT` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SHASHERTET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHASHERTET, A NUBIA|SHASHERTET, A NUBIA]] |
+| `UAvAT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UAUAT, REBELS OF|UAUAT, REBELS OF]] |
 
 ## Full OCR entry body (exact)
 

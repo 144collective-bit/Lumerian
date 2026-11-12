@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARENA` | **unresolved** (review queue) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
 | `DusSAHE` | **unresolved** (review queue) |
 | `FIRE OF HELL` | **unresolved** (review queue) |
 | `Fre (destroying)` | **unresolved** (review queue) |
 | `FURNACE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
-| `GARDEN` | **unresolved** (review queue) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `Garna (kam.)` | **unresolved** (review queue) |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Hapss` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `NurtHem` | **unresolved** (review queue) |
 | `Norra` | **unresolved** (review queue) |
-| `PureaTory` | **unresolved** (review queue) |
+| `PureaTory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `Sexrn` | **unresolved** (review queue) |
-| `SEKHET-HETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
-| `SIAMAK` | **unresolved** (review queue) |
+| `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+| `SIAMAK` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIAMAK AND VESCHAK|SIAMAK AND VESCHAK]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,15 +34,15 @@ tags:
 |---|---|
 | `AuTaR (fire)` | **unresolved** (review queue) |
 | `ATHENA` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `Comer` | **unresolved** (review queue) |
-| `EstHER` | **candidate (first-segment only)** → possible `ESTHER, BOOK OF` (not linked) |
-| `FEMININE` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
+| `EstHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
+| `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `IsIs` | **unresolved** (review queue) |
-| `Istar` | **candidate (first-segment only)** → possible `ISTAR, OR ISHTAR, GODDESS` (not linked) |
+| `Istar` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
 | `Lapy` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `(higher) ProroTYPES` | **unresolved** (review queue) |
 | `ReEetTvuRN` | **unresolved** (review queue) |
 | `WInNpDs_§ (four)` | **unresolved** (review queue) |

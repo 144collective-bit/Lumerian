@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `BaRLEY` | **unresolved** (review queue) |
-| `CHAFF` | **unresolved** (review queue) |
-| `Corn` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
-| `CuLtivaTion` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `BaRLEY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]]; [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
+| `CHAFF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHAFF OF WHEAT|CHAFF OF WHEAT]] |
+| `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+| `CuLtivaTion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `Eartu` | **unresolved** (review queue) |
-| `Fan` | **candidate (first-segment only)** → possible `FAN, PRODUCING WIND` (not linked) |
+| `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
 | `Foop FOR MAN` | **unresolved** (review queue) |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `GERMS` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
-| `MEAL` | **candidate (first-segment only)** → possible `MEAL, OR WHEAT GROUND IN A MILL` (not linked) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
+| `MEAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] |
 | `MONAD OF LIVE` | **unresolved** (review queue) |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SOWER` | **unresolved** (review queue) |
-| `SOWING` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `SOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+| `SOWING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ENEMIES OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
-| `SHAVING` | **unresolved** (review queue) |
+| `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
 
 ## Full OCR entry body (exact)
 

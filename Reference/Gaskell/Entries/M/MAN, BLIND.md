@@ -38,7 +38,7 @@ tags:
 | `Eryn` | **unresolved** (review queue) |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Mrmacres (healing)` | **unresolved** (review queue) |
-| `SEEING` | **unresolved** (review queue) |
+| `SEEING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEEING (HIGHER ASPECT)|SEEING (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SEEING (LOWER ASPECT)|SEEING (LOWER ASPECT)]] |
 | `SIGHT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

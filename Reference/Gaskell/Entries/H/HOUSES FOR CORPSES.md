@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ezex. xxxix. 4. See Brrps (lower)` | **unresolved** (review queue) |
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Doa (white)` | **unresolved** (review queue) |
-| `TEMPLE (fire)` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `TEMPLE (fire)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]] |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

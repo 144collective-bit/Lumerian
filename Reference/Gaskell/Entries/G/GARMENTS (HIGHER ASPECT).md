@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHES` | **unresolved** (review queue) |
+| `ASHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `Coat` | **unresolved** (review queue) |
+| `Coat` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] |
 | `CROWN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `EstTHEer` | **unresolved** (review queue) |
-| `GATE OF SALUTATION` | **unresolved** (review queue) |
-| `GUESTS` | **candidate (first-segment only)** → possible `GUESTS, WEDDING` (not linked) |
+| `GATE OF SALUTATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]] |
+| `GUESTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUESTS, WEDDING|GUESTS, WEDDING]] |
 | `O11` | **unresolved** (review queue) |
 | `RarmMEenT` | **unresolved** (review queue) |
-| `ROBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `ROBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 
 ## Full OCR entry body (exact)

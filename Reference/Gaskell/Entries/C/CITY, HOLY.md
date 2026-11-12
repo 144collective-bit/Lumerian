@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEVIL` | **candidate (first-segment only)** → possible `DEVIL, THE ADVERSARY` (not linked) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `DEVIL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `MOUNTAIN (lower)` | **unresolved** (review queue) |
+| `MOUNTAIN (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `STONES AND BREAD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]] |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

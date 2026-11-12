@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Breats (divine)` | **unresolved** (review queue) |
-| `Dew` | **unresolved** (review queue) |
+| `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
 | `Frost` | **unresolved** (review queue) |
 | `Prataya` | **unresolved** (review queue) |
 | `Rarn` | **unresolved** (review queue) |

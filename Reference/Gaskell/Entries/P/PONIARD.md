@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrow` | **unresolved** (review queue) |
+| `Arrow` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
 | `Sworp` | **unresolved** (review queue) |
 | `Yuma` | **unresolved** (review queue) |
 

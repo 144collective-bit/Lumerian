@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dew` | **unresolved** (review queue) |
+| `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
 | `Grvonaa` | **unresolved** (review queue) |
 | `HEBB` | **unresolved** (review queue) |
 

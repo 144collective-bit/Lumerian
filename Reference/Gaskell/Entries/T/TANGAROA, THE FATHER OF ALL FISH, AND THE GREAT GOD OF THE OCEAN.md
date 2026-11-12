@@ -32,25 +32,25 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGER` | **unresolved** (review queue) |
+| `ANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
 | `COCOA-NUT` | **unresolved** (review queue) |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `DotrHIn` | **unresolved** (review queue) |
 | `Evo.urion` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `Fis# (great)` | **unresolved** (review queue) |
-| `IKATERE` | **candidate (first-segment only)** → possible `IKA-TERE, THE FATHER OF FISH` (not linked) |
+| `IKATERE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IKA-TERE, THE FATHER OF FISH|IKA-TERE, THE FATHER OF FISH]] |
 | `JESUS (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `PosrEmon` | **unresolved** (review queue) |
-| `Punea` | **unresolved** (review queue) |
+| `Punea` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PUNGA, THE SHARK|PUNGA, THE SHARK]] |
 | `StTRiFe` | **unresolved** (review queue) |
 | `TAAROA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `Tanaoa` | **unresolved** (review queue) |
 | `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `TUMATAUENGA` | **unresolved** (review queue) |
 | `TUTE` | **unresolved** (review queue) |
-| `VARUNA` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
+| `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

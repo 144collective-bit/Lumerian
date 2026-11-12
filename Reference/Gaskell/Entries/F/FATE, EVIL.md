@@ -43,7 +43,7 @@ tags:
 | `NeEcEssrry` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 
 ## Full OCR entry body (exact)
 

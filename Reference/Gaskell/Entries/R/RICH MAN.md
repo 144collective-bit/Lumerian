@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `OPPosrres` | **unresolved** (review queue) |
+| `OPPosrres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `PovERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `TREASURE` | **unresolved** (review queue) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

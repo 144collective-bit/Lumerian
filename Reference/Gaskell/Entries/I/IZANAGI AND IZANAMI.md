@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AmaTERasuv` | **unresolved** (review queue) |
-| `CHEMMIS` | **unresolved** (review queue) |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
 | `COMB` | **unresolved** (review queue) |
 | `Dretos` | **unresolved** (review queue) |
 | `Hrruxo` | **unresolved** (review queue) |

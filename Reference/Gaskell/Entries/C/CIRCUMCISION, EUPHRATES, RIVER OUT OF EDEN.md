@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EDEN RIVER` | **unresolved** (review queue) |
+| `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Captivity` | **unresolved** (review queue) |
+| `Captivity` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
 | `DEATH` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `EvoLUTION` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Marrer` | **unresolved** (review queue) |
 | `Pyrrrarvana` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `SPIBgIT` | **unresolved** (review queue) |
 | `Trrans` | **unresolved** (review queue) |
 | `Toms` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 
 ## Full OCR entry body (exact)
 

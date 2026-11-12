@@ -35,26 +35,26 @@ tags:
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `ASPIRATION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASPIRATION|ASPIRATION]] |
 | `BARSOM` | **unresolved** (review queue) |
-| `BuDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BuDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `BUDDHIO FUNCTION` | **unresolved** (review queue) |
 | `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
-| `Demons` | **unresolved** (review queue) |
-| `Grace` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
+| `Grace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `Hoty auost` | **unresolved** (review queue) |
 | `Inmmoter` | **unresolved** (review queue) |
 | `Inrorrion` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `MyrsoLOGY` | **unresolved** (review queue) |
-| `PAPYRUS BOAT` | **unresolved** (review queue) |
+| `PAPYRUS BOAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `RIrva.` | **unresolved** (review queue) |
 | `SaCRED TEXT` | **unresolved** (review queue) |
 | `Sonrprures` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
-| `TRANSMUTAtion` | **unresolved** (review queue) |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `TRANSMUTAtion` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `Wispom` | **unresolved** (review queue) |
 | `WorD. MAGICAL FORMULE&E :— Symbolic of the contents of the World-scriptures which treat of the hidden processes of nature. 466 MAGICAL **When Thoth heard this (of the impossibility of sailing further on the sea while numerous enemies occupied it) he recited certain chapters containing magical formuls` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `with the view of protecting the boat and the vessels of the blacksmiths which were with it` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -76,20 +76,20 @@ tags:
 | `man’s inextinguishable conviction that there are other planes of being than those which his senses report to him; and its proceedings represent the intellectual and individualistic reaults of this conviction—his craving for the hidden knowledge.""—E. UNDERHILL` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Mystictem` | **unresolved** (review queue) |
 | `p. 180. See ASPIRATION` | **unresolved** (review queue) |
-| `BLACKSMITHS` | **candidate (first-segment only)** → possible `BLACKSMITHS, OR WORKERS IN METAL` (not linked) |
+| `BLACKSMITHS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `BuppHI` | **unresolved** (review queue) |
 | `ENrEmMrIes` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `Inrvurr1on` | **unresolved** (review queue) |
-| `Papyrus Boat` | **unresolved** (review queue) |
-| `SorrerorEs` | **unresolved** (review queue) |
+| `Papyrus Boat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]] |
+| `SorrerorEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SORCERORS, OR WIZARDS|SORCERORS, OR WIZARDS]] |
 | `SEs` | **unresolved** (review queue) |
 | `Sian` | **unresolved** (review queue) |
-| `Storm` | **unresolved** (review queue) |
+| `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
 | `TuHotH` | **unresolved** (review queue) |
-| `VEssEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `VEssEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 | `Worp` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

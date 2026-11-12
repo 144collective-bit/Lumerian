@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Crus` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `KERESASPA` | **unresolved** (review queue) |
+| `KERESASPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KERESASPA WITH SIDE-LOCK AND CLUB|KERESASPA WITH SIDE-LOCK AND CLUB]] |
 | `Samas` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMAS|SAMAS]] |
 | `SERPENT DAHAKA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT DAHAKA|SERPENT DAHAKA]] |
-| `SROSH` | **candidate (first-segment only)** → possible `SROSH, OR SRAOSHA, RIGHTEOUS` (not linked) |
+| `SROSH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
 
 ## Full OCR entry body (exact)
 

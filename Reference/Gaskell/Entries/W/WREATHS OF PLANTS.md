@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GARLANDS` | **unresolved** (review queue) |
+| `GARLANDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARLANDS OF FLOWERS|GARLANDS OF FLOWERS]] |
 | `Gems (strings)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
-| `Piants` | **unresolved** (review queue) |
+| `Piants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `UNGUENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNGUENTS|UNGUENTS]] |
 
 ## Full OCR entry body (exact)

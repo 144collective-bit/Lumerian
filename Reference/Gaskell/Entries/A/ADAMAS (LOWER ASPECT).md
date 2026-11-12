@@ -37,7 +37,7 @@ tags:
 | `TaBRAOTH` | **unresolved** (review queue) |
 | `SEASONS (six)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Sxrx` | **unresolved** (review queue) |
-| `TYRANTS` | **unresolved** (review queue) |
+| `TYRANTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANTS UNDER ADAMAS|TYRANTS UNDER ADAMAS]] |
 
 ## Full OCR entry body (exact)
 

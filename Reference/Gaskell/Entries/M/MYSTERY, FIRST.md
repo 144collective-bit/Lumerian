@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dove` | **candidate (first-segment only)** → possible `DOVE, OR PIGEON` (not linked) |
-| `Gnosis` | **unresolved** (review queue) |
+| `Dove` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] |
+| `Gnosis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
 | `Mrpst` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

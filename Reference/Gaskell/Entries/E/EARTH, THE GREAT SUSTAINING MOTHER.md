@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `ADITI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADITI|ADITI]] |
 | `BuppHI` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `Cow (earth)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Lapy` | **unresolved** (review queue) |
-| `MoTHErR (divine)` | **unresolved** (review queue) |
-| `SAPANDOMAD` | **candidate (first-segment only)** → possible `SAPANDOMAD, EARTH` (not linked) |
+| `MoTHErR (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `SAPANDOMAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPANDOMAD, EARTH|SAPANDOMAD, EARTH]] |
 | `WISDOM. EARTH ; GROUND;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -53,13 +53,13 @@ tags:
 | `says the bishops were called ‘ Praesules’ because they led ROUND A DANCES the dance on feast days. According to some of the Fathers` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the angels are always dancing` | **unresolved** (review queue) |
 | `and _ the _— glorious company of the apostles is really a ‘chorus’ of dancers.’’—Encyclopedia Britannica. See ANGELS` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `APposTLes` | **unresolved** (review queue) |
-| `DISCIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `APposTLes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `DISCIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `Goris` | **unresolved** (review queue) |
-| `Harmony` | **unresolved** (review queue) |
-| `Houries` | **candidate (first-segment only)** → possible `HOURIES, NYMPHS OF PARADISE` (not linked) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
+| `Houries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] |
 | `MUSEs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 
 ## Full OCR entry body (exact)
 

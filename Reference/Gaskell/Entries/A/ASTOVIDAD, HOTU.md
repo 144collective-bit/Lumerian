@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AEsHM` | **unresolved** (review queue) |
-| `ARROw (self-moving)` | **unresolved** (review queue) |
+| `ARROw (self-moving)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
 
 ## Full OCR entry body (exact)
 

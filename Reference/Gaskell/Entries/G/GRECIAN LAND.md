@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `CoUNTries` | **unresolved** (review queue) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `CoUNTries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `Gops` | **unresolved** (review queue) |
-| `NEstor` | **candidate (first-segment only)** → possible `NESTOR, THE SWEET-VOICED` (not linked) |
-| `Priam` | **unresolved** (review queue) |
-| `Pyius` | **unresolved** (review queue) |
+| `NEstor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NESTOR, THE SWEET-VOICED|NESTOR, THE SWEET-VOICED]] |
+| `Priam` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
+| `Pyius` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] |
 | `TROJANS. GREEKS ;x` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

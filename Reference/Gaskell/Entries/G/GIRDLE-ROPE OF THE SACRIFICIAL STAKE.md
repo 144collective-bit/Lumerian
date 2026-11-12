@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `BrrtH (second)` | **unresolved** (review queue) |
 | `CaTrie` | **unresolved** (review queue) |
-| `CHIP` | **unresolved** (review queue) |
+| `CHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHIP OF THE SACRIFICIAL STAKE|CHIP OF THE SACRIFICIAL STAKE]] |
 | `Foop` | **unresolved** (review queue) |
 | `Sacrirtcern` | **unresolved** (review queue) |
-| `STAKE` | **candidate (first-segment only)** → possible `STAKE, SACRIFICIAL` (not linked) |
-| `ToP-RING` | **unresolved** (review queue) |
+| `STAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
+| `ToP-RING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOP-RING OF THE SACRIFICLAL STAKE|TOP-RING OF THE SACRIFICLAL STAKE]] |
 
 ## Full OCR entry body (exact)
 

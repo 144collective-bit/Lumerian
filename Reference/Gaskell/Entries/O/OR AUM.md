@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARRow` | **unresolved** (review queue) |
+| `ARRow` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
 | `Farra` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `OGpoaD` | **unresolved** (review queue) |
-| `UDGITHA` | **candidate (first-segment only)** → possible `UDGITHA, OM` (not linked) |
+| `OGpoaD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OGDOAD|OGDOAD]] |
+| `UDGITHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDGITHA, OM|UDGITHA, OM]] |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)

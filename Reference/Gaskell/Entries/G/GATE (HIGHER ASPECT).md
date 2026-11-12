@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `GEN. xxviii. 17; Ps. cxviii. 19` | **unresolved** (review queue) |
 | `20. See DeEap (rising)` | **unresolved** (review queue) |
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
 | `Errmv` | **unresolved** (review queue) |
 | `GJoLyt` | **unresolved** (review queue) |
-| `VIRGIN” BRINGING FORTH` | **unresolved** (review queue) |
+| `VIRGIN” BRINGING FORTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `THRONE. KURSI` | **unresolved** (review queue) |
 | `THE ‘‘FOOTSTOOL BELOW THE THRONE ”’ :— A symbol of the buddhic plane below the plane of atma (Arsh). ** After a while God looked again upon the Light` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and from its perspiration He created the corporeal world. The first thing that arose was the Arsh` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -46,10 +46,10 @@ tags:
 | `— the atmic plane` | **unresolved** (review queue) |
 | `and this produced the second` | **unresolved** (review queue) |
 | `—the buddhic plane. See AnsH` | **unresolved** (review queue) |
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `THRONE` | **unresolved** (review queue) |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

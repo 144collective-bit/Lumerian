@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAMAS` | **unresolved** (review queue) |
+| `ADAMAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] |
 | `Eons (twelve)` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `LrBRA` | **unresolved** (review queue) |
-| `SABRATH` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `LrBRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIBRA, THE ZODIACAL SIGN|LIBRA, THE ZODIACAL SIGN]] |
+| `SABRATH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

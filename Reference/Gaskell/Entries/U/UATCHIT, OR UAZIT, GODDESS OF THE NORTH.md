@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bouppgsi` | **unresolved** (review queue) |
-| `Enemies` | **unresolved** (review queue) |
+| `Enemies` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `GoppgEss` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `NEKHEBIT` | **candidate (first-segment only)** → possible `NEKHEBIT, WATER HIPPOPOTAMUS, MALE` (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `NEKHEBIT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NEKHEBIT AND UACHIT|NEKHEBIT AND UACHIT]]; [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 | `SERPENT (north)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

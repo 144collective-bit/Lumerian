@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHarioT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `CHarioT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `Evo.ution` | **unresolved** (review queue) |
 | `Homasuice` | **unresolved** (review queue) |
-| `Horsss (bay)` | **unresolved** (review queue) |
-| `Inpra` | **unresolved** (review queue) |
-| `JUDAH` | **candidate (first-segment only)** → possible `JUDAH, THE TRIBE OF` (not linked) |
-| `Piety` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `ZION` | **unresolved** (review queue) |
+| `Horsss (bay)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORSES, TWO BAY|HORSES, TWO BAY]] |
+| `Inpra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
+| `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
+| `Piety` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PIETY IN CAR OR CHARIOT|PIETY IN CAR OR CHARIOT]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

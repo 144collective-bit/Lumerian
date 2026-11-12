@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `PELASGIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PELASGIANS|PELASGIANS]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `KING` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING|KING]] |
-| `Kurzus` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
+| `Kurzus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

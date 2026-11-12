@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Cow's URINE` | **unresolved** (review queue) |
 | `BITTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BITTER|BITTER]] |
-| `VINEGAR` | **unresolved** (review queue) |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
 
 ## Full OCR entry body (exact)
 

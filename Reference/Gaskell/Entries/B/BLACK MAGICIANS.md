@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGRA-MAINYD` | **unresolved** (review queue) |
+| `ANGRA-MAINYD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
 | `PRACTICES` | **unresolved** (review queue) |
-| `YATUS` | **unresolved** (review queue) |
+| `YATUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YATUS OF EVIL WITCHCRAFT|YATUS OF EVIL WITCHCRAFT]] |
 
 ## Full OCR entry body (exact)
 

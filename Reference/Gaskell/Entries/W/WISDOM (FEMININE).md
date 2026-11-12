@@ -33,40 +33,40 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `ARMAITI` | **candidate (first-segment only)** → possible `ARMAITI, THE HOLY SPIRIT` (not linked) |
-| `ASHAVANUHI` | **candidate (first-segment only)** → possible `ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA` (not linked) |
+| `ARMAITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] |
+| `ASHAVANUHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
 | `ATHENA` | **unresolved** (review queue) |
 | `BoaT OF WISDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAT OF WISDOM|BOAT OF WISDOM]] |
 | `Buppual` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `DHARMA` | **unresolved** (review queue) |
+| `DHARMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] |
 | `EARTH (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `EsTuHeEr` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Frica` | **unresolved** (review queue) |
 | `GODDESS` | **unresolved** (review queue) |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `GOLDEN HAIR` | **unresolved** (review queue) |
-| `Hatnor` | **unresolved** (review queue) |
+| `Hatnor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `HELEN` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `Hixososui` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `Istar` | **candidate (first-segment only)** → possible `ISTAR, OR ISHTAR, GODDESS` (not linked) |
+| `Istar` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
 | `Kyrpris` | **unresolved** (review queue) |
 | `Lapy` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
-| `MorTHer` | **unresolved** (review queue) |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
+| `MorTHer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `Muvt` | **unresolved** (review queue) |
 | `Praana` | **unresolved** (review queue) |
-| `QEBSENNUF` | **unresolved** (review queue) |
+| `QEBSENNUF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
 | `SAPANDAR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAPANDAR|SAPANDAR]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SERPENT (sparks)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SopH1a` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `Uzomit` | **unresolved** (review queue) |
 | `Vac` | **unresolved** (review queue) |
 

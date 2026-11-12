@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CHURCH` | **unresolved** (review queue) |
-| `HOUSE IN HEAVEN` | **candidate (first-segment only)** → possible `HOUSE IN HEAVEN, OR HOUSE OF GOD` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `HOUSE IN HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOUSE IN HEAVEN, OR HOUSE OF GOD|HOUSE IN HEAVEN, OR HOUSE OF GOD]] |
 | `KAABA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `PYRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SHRINE` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `TENT` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

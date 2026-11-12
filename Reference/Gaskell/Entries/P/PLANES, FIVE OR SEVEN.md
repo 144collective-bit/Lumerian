@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atoms` | **candidate (first-segment only)** → possible `ATOMS, PERMANENT, ON EACH PLANE` (not linked) |
-| `CHaprers` | **unresolved** (review queue) |
+| `Atoms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
+| `CHaprers` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHAPTERS|CHAPTERS]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `ELEMENTs` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `GATHA (ahuna)` | **unresolved** (review queue) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `ELEMENTs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `GATHA (ahuna)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,9 +35,9 @@ tags:
 | `Ciry OF GoD` | **unresolved** (review queue) |
 | `CRYSTAL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `Four BEINGS` | **unresolved** (review queue) |
+| `Four BEINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JCEAN` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

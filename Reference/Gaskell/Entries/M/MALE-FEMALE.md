@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (dual)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `BinaH` | **candidate (first-segment only)** → possible `BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING` (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CrEaTION` | **unresolved** (review queue) |
+| `ADAM (dual)` | resolved (exact) → [[Reference/Gaskell/Entries/A/ADAM, DUAL|ADAM, DUAL]] |
+| `BinaH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CrEaTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Drvorce` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FEMININE` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `GARMENT OF SHAME` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Karomarnts` | **unresolved** (review queue) |
-| `KETHER` | **candidate (first-segment only)** → possible `KETHER, THE CROWN` (not linked) |
+| `KETHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KETHER, THE CROWN|KETHER, THE CROWN]] |
 | `LIVING THINGS` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
 | `MiAyd` | **unresolved** (review queue) |
 | `Morser (divine)` | **unresolved** (review queue) |
 | `469 MALKUTH SEX PRINCIPLE` | **unresolved** (review queue) |
-| `Two` | **candidate (first-segment only)** → possible `TWO, NUMBER` (not linked) |
-| `Uranus` | **unresolved** (review queue) |
+| `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
+| `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `YANG AND YIN` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

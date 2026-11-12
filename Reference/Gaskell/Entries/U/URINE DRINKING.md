@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brrrer` | **unresolved** (review queue) |
-| `BLASPHEMY` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `VINEGAR` | **unresolved** (review queue) |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
 
 ## Full OCR entry body (exact)
 

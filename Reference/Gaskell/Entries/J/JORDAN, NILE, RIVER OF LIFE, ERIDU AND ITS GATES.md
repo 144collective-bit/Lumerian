@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bortts` | **unresolved** (review queue) |
-| `Gates` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `Gates` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `Mermrpuis` | **unresolved** (review queue) |
-| `TaMMuUz` | **unresolved** (review queue) |
+| `TaMMuUz` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
 
 ## Full OCR entry body (exact)
 

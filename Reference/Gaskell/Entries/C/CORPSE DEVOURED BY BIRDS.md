@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bones` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
-| `CoRPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DEAD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
+| `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
+| `CoRPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DEAD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `HovUsES OF DEAD` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

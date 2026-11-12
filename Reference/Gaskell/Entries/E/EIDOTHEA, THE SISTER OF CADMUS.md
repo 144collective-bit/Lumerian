@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CADMUS` | **candidate (first-segment only)** → possible `CADMUS, SON OF AGENOR` (not linked) |
+| `CADMUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] |
 
 ## Full OCR entry body (exact)
 

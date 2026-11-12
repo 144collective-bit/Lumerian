@@ -35,7 +35,7 @@ tags:
 | `CatTTiE` | **unresolved** (review queue) |
 | `CAUSAL-Bopy` | **unresolved** (review queue) |
 | `Fie` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 
 ## Full OCR entry body (exact)

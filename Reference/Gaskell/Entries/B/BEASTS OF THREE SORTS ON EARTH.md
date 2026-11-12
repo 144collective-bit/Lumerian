@@ -38,11 +38,11 @@ tags:
 | `Moon` | **unresolved** (review queue) |
 | `PLANETARY OCOHAIN` | **unresolved** (review queue) |
 | `Prius` | **unresolved** (review queue) |
-| `Races OF MEN` | **candidate (first-segment only)** → possible `RACES OF MEN, ACCORDING TO HESIOD` (not linked) |
+| `Races OF MEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `RacHa` | **unresolved** (review queue) |
-| `RoorRaCES` | **unresolved** (review queue) |
-| `ROUND` | **unresolved** (review queue) |
-| `SEEDS (men)` | **unresolved** (review queue) |
+| `RoorRaCES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
+| `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
+| `SEEDS (men)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `YMA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

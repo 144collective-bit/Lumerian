@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AURVAITO` | **unresolved** (review queue) |
+| `AURVAITO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
 | `BIRTH OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] |
-| `MAYA` | **unresolved** (review queue) |
-| `PoURUSHASPA` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
-| `PRAKRIT!` | **unresolved** (review queue) |
+| `MAYA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
+| `PoURUSHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
+| `PRAKRIT!` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `Woms` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

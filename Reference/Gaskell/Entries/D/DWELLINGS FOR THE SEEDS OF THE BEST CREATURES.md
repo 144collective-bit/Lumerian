@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaTTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `CaTTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `Houser` | **unresolved** (review queue) |
+| `Houser` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `INvoturion` | **unresolved** (review queue) |
-| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `LUNAR CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Mats` | **unresolved** (review queue) |
-| `SEEDS OF MEN` | **candidate (first-segment only)** → possible `SEEDS OF MEN, WOMEN AND CATTLE` (not linked) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `Mats` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATS OF FLOOR OF DWELLING|MATS OF FLOOR OF DWELLING]] |
+| `SEEDS OF MEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEEDS OF MEN, WOMEN AND CATTLE|SEEDS OF MEN, WOMEN AND CATTLE]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

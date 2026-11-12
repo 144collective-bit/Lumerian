@@ -37,7 +37,7 @@ tags:
 | `HavEs` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `PARADISE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SLEEPING AND WAKING` | **unresolved** (review queue) |

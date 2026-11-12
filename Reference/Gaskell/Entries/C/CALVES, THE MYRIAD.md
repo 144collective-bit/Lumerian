@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cow (milch)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `Sun oF RIGHTEOUvSNESS` | **unresolved** (review queue) |
+| `Sun oF RIGHTEOUvSNESS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUN OF RIGHTEOUSNESS|SUN OF RIGHTEOUSNESS]] |
 | `TREASURES. CAMEL’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

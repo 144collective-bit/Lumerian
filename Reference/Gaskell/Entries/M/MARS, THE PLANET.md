@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARES` | **unresolved** (review queue) |
+| `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `PLANETS. MARSH; SWAMP;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

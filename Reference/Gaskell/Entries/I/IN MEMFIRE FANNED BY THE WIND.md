@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppHa` | **unresolved** (review queue) |
-| `Fan` | **candidate (first-segment only)** → possible `FAN, PRODUCING WIND` (not linked) |
+| `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
 | `WIND. 277` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

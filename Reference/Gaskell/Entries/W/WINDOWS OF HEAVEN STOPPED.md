@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
-| `FLOOD` | **unresolved** (review queue) |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
+| `FLOOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]]; [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] |
 | `FOUNTAINS or DEEP` | **unresolved** (review queue) |
-| `RAIN` | **unresolved** (review queue) |
+| `RAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `SELF. WINE ;:— A symbol of wisdom` | **unresolved** (review queue) |
 | `or spiritual life and truth` | **unresolved** (review queue) |
 | `which when partaken of by the soul` | **unresolved** (review queue) |
@@ -51,16 +51,16 @@ tags:
 | `or truth from the good of love. In an opposite sense it signifies truth falsified and profaned.’’—SwEpENBORG` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Apoc. Rev.` | **unresolved** (review queue) |
 | `n. 316. See Cana` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `Grapes` | **candidate (first-segment only)** → possible `GRAPES, OR WINE` (not linked) |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `Grapes` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `SATYRS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `STOMACH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STOMACH|STOMACH]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `WATER TO WINE. WINGS ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

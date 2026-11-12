@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Hanp` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
-| `REED` | **unresolved** (review queue) |
-| `Roman SOLDIER` | **unresolved** (review queue) |
-| `SCEPTRE` | **candidate (first-segment only)** → possible `SCEPTRE, GOLDEN, APOLLO` (not linked) |
+| `REED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REED IN THE RIGHT HAND|REED IN THE RIGHT HAND]]; [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]]; [[Reference/Gaskell/Entries/R/REED PLAIN, 364 HODER HOA-TABU-ITERAI|REED PLAIN, 364 HODER HOA-TABU-ITERAI]]; [[Reference/Gaskell/Entries/R/REED REED SHAKEN WITH THE WIND|REED REED SHAKEN WITH THE WIND]] |
+| `Roman SOLDIER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROMAN SOLDIER IN JUDEA|ROMAN SOLDIER IN JUDEA]] |
+| `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 | `THORNS` | **unresolved** (review queue) |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 

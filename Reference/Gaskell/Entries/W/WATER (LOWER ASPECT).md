@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AsHrS` | **unresolved** (review queue) |
-| `Dove` | **candidate (first-segment only)** → possible `DOVE, OR PIGEON` (not linked) |
+| `Dove` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] |
 | `FLoop` | **unresolved** (review queue) |
 | `HEALING (epileptic)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `NaviaaTion` | **unresolved** (review queue) |
+| `NaviaaTion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NAVIGATION (MARITIME)|NAVIGATION (MARITIME)]] |
 | `Ru` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RU|RU]] |
 | `SE` | **unresolved** (review queue) |
-| `Tuirst` | **unresolved** (review queue) |
+| `Tuirst` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `WALKING UPON WATER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

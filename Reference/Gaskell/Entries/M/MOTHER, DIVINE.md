@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `BrrtH OF CHRIST` | **unresolved** (review queue) |
 | `Buppui` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EARTH (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Heripra` | **unresolved** (review queue) |
 | `Hing` | **unresolved** (review queue) |
@@ -42,19 +42,19 @@ tags:
 | `Inrurrion` | **unresolved** (review queue) |
 | `Isp` | **unresolved** (review queue) |
 | `Lapy` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
 | `Marrrr` | **unresolved** (review queue) |
 | `Miyi` | **unresolved** (review queue) |
 | `Mur` | **unresolved** (review queue) |
-| `Ocean’ (fem.)` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `Ocean’ (fem.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `PRaxritl` | **unresolved** (review queue) |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `PuRUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
-| `Tao` | **unresolved** (review queue) |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+| `Tao` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
 | `Woman (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `Woms` | **unresolved** (review queue) |
 

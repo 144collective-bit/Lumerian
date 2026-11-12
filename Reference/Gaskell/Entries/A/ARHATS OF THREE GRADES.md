@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ASBAMAS` | **unresolved** (review queue) |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `ASBAMAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `HovusEHOLDER` | **unresolved** (review queue) |
-| `MoNnaD OF LIFE` | **unresolved** (review queue) |
+| `MoNnaD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `PacCEKA` | **unresolved** (review queue) |
-| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
+| `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 
 ## Full OCR entry body (exact)
 

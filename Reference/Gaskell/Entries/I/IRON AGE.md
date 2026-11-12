@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ArsHm` | **unresolved** (review queue) |
-| `Demons` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Hare` | **unresolved** (review queue) |
 | `Kati-yuea` | **unresolved** (review queue) |
 | `Racres` | **unresolved** (review queue) |
 | `Rovunns` | **unresolved** (review queue) |
-| `SCORPIO` | **candidate (first-segment only)** → possible `SCORPIO, THE ZODIACAL SIGN` (not linked) |
+| `SCORPIO` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
 
 ## Full OCR entry body (exact)
 

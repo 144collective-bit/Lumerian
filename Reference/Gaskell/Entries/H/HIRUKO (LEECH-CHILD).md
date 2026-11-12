@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asar` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
+| `Asar` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Izanaai` | **unresolved** (review queue) |
-| `MAN BORN` | **unresolved** (review queue) |
+| `MAN BORN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] |
 | `MaN CRAWLED` | **unresolved** (review queue) |
-| `MOON-WAXING` | **unresolved** (review queue) |
+| `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
 | `Pirris (lunar)` | **unresolved** (review queue) |
-| `Pirriyvana` | **unresolved** (review queue) |
+| `Pirriyvana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 
 ## Full OCR entry body (exact)
 

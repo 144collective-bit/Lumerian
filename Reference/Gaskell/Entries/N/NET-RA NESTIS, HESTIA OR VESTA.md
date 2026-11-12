@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AIDONEUS` | **unresolved** (review queue) |
-| `NEPHTHYS` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
+| `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

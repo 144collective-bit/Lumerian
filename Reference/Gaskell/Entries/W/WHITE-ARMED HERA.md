@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARMS OF BODY` | **unresolved** (review queue) |
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
-| `Hera` | **unresolved** (review queue) |
-| `Muse` | **candidate (first-segment only)** → possible `MUSE, THE WHITE-ARMED MAIDEN` (not linked) |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
+| `Muse` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSE, THE WHITE-ARMED MAIDEN|MUSE, THE WHITE-ARMED MAIDEN]] |
 
 ## Full OCR entry body (exact)
 

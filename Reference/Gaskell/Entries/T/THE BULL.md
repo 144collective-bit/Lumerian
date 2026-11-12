@@ -34,15 +34,15 @@ tags:
 |---|---|
 | `BarrisM` | **unresolved** (review queue) |
 | `BLUE HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLUE HEAVEN|BLUE HEAVEN]] |
-| `BULL` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `BULL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]]; [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Gops` | **unresolved** (review queue) |
 | `Hxrskp` | **unresolved** (review queue) |
 | `Kinepom oF HEAVEN` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `SUN (motionless)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `ZENITH` | **unresolved** (review queue) |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

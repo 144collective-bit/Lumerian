@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DISCIPLES ON TWELVE THRONES` | **unresolved** (review queue) |
-| `JupGEs` | **unresolved** (review queue) |
-| `Saviours (twelve)` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
-| `TRIBES (twelve)` | **unresolved** (review queue) |
+| `JupGEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JUDGES|JUDGES]] |
+| `Saviours (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `TRIBES (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

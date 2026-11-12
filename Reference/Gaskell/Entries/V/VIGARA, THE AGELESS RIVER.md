@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Ana` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `RaFtT OF WISDOM` | **unresolved** (review queue) |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `RaFtT OF WISDOM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAFT OF WISDOM|RAFT OF WISDOM]] |
 
 ## Full OCR entry body (exact)
 

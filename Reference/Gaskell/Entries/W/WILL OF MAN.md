@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AEGAEON` | **candidate (first-segment only)** → possible `AEGAEON, ONE OF THE URANIDS` (not linked) |
-| `APES` | **unresolved** (review queue) |
+| `AEGAEON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AEGAEON, ONE OF THE URANIDS|AEGAEON, ONE OF THE URANIDS]] |
+| `APES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
 | `BRBIAREUS` | **unresolved** (review queue) |
 | `Doc` | **unresolved** (review queue) |
 | `Doa-star` | **unresolved** (review queue) |
 | `GEORGE AND DRAGON` | **unresolved** (review queue) |
-| `GUARDIAN __ SPIRITS` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `MaisHan` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
+| `GUARDIAN __ SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `MaisHan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
 | `SHEEP (lost) SworpD or sPIRiIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

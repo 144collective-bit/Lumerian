@@ -37,15 +37,15 @@ tags:
 | `CHRist` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `FiG-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] |
-| `ImMoRTALIFY FORFEITED` | **unresolved** (review queue) |
+| `ImMoRTALIFY FORFEITED` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `LiIrrLE CHILDREN` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `PERSON: aurry` | **unresolved** (review queue) |
 | `Pracipati` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sovun (highest)` | **unresolved** (review queue) |
-| `UNIon` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `UNIon` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

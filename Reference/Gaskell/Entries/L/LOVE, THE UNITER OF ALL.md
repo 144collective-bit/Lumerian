@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATTRACTION` | **unresolved** (review queue) |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
 | `Curip` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `Gop` | **unresolved** (review queue) |
 | `HarnMony` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |

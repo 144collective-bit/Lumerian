@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AnusBis` | **unresolved** (review queue) |
+| `AnusBis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `Dzroncr` | **unresolved** (review queue) |
 | `Harel` | **unresolved** (review queue) |
 | `Hestia` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Nestis` | **unresolved** (review queue) |
-| `Siayn` | **unresolved** (review queue) |
+| `Siayn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIGYN, WIFE OF LOKE|SIGYN, WIFE OF LOKE]] |
 | `Ururrtine ni` | **unresolved** (review queue) |
 | `Woman (Loke)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

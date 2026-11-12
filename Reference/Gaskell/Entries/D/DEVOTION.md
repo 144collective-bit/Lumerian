@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
 
 ## Full OCR entry body (exact)
 

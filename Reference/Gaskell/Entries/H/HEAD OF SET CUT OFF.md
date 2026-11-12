@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BEHEADING` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEHEADING|BEHEADING]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SEt. Gops` | **unresolved** (review queue) |
 | `Hokrvs` | **unresolved** (review queue) |
 

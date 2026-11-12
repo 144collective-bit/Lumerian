@@ -33,29 +33,29 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASEEYATIOC` | **unresolved** (review queue) |
-| `COUNTERFEIT` | **unresolved** (review queue) |
-| `DEAD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
-| `Dust` | **unresolved** (review queue) |
-| `Dynasty` | **resolved (R3 renamed dynasty heads)** → [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]] |
-| `EarTa (ground)` | **unresolved** (review queue) |
+| `COUNTERFEIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTERFEIT OF THE SPIRIT|COUNTERFEIT OF THE SPIRIT]] |
+| `DEAD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
+| `Dynasty` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]] |
+| `EarTa (ground)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Epen` | **unresolved** (review queue) |
 | `Eprmmrerueus` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Fatt` | **unresolved** (review queue) |
 | `GoLDEN aGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `HovseE (frequented)` | **unresolved** (review queue) |
 | `IMMORTALITY FORFEITED` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Marro` | **unresolved** (review queue) |
-| `NepHesH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
+| `Marro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
+| `NepHesH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Pytus` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Pytus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Raaua` | **unresolved** (review queue) |
 | `Ruan` | **unresolved** (review queue) |
 | `SEs` | **unresolved** (review queue) |
-| `Sweat` | **unresolved** (review queue) |
+| `Sweat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEAT OF THE FACE|SWEAT OF THE FACE]] |
 | `Tyrvs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

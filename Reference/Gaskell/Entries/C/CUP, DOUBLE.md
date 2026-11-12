@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HepnHaistos` | **unresolved** (review queue) |
-| `Hera` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `HepnHaistos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHaos` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
+| `CHaos` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Curimp` | **unresolved** (review queue) |
 | `Eaa` | **unresolved** (review queue) |
 | `ErEesus` | **unresolved** (review queue) |
-| `ERICAPAEUS` | **unresolved** (review queue) |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `ERICAPAEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,-ONE OF THE THREE ASPECTS OF PHANES|ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,—ONE OF THE THREE ASPECTS OF PHANES]] |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `Lovz` | **unresolved** (review queue) |
 | `Nicut` | **unresolved** (review queue) |
-| `Nox` | **candidate (first-segment only)** → possible `NOX, SISTER OF EREBUS` (not linked) |
+| `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
 | `PHANzEs` | **unresolved** (review queue) |
 | `TaRTARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
 | `WINGS` | **unresolved** (review queue) |

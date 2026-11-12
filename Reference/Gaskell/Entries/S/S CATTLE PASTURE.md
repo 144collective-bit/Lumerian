@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaTTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
-| `Pastures` | **unresolved** (review queue) |
+| `CaTTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
+| `Pastures` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASTURES OF THE LORD|PASTURES OF THE LORD]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 
 ## Full OCR entry body (exact)

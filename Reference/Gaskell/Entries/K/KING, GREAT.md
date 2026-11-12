@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `OF osirnis` | **unresolved** (review queue) |
 | `CITy OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] |
-| `EMPEROR` | **candidate (first-segment only)** → possible `EMPEROR, FIRST` (not linked) |
-| `KaPita` | **unresolved** (review queue) |
+| `EMPEROR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EMPEROR, FIRST|EMPEROR, FIRST]] |
+| `KaPita` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `PAMYLES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

@@ -35,7 +35,7 @@ tags:
 | `Banuis` | **unresolved** (review queue) |
 | `BarsomM` | **unresolved** (review queue) |
 | `BREasts` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
-| `BucKLE` | **unresolved** (review queue) |
+| `BucKLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUCKLE OF ISIS|BUCKLE OF ISIS]] |
 | `ConsciousnEss` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 

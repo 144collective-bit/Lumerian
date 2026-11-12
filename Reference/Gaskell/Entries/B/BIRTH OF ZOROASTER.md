@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARO. MAN` | **unresolved** (review queue) |
-| `ARREST` | **unresolved** (review queue) |
+| `ARREST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
-| `DUGHDHOVA` | **candidate (first-segment only)** → possible `DUGHDHOVA, MOTHER ZARATUST` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
+| `DUGHDHOVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DUGHDHOVA, MOTHER ZARATUST|DUGHDHOVA, MOTHER ZARATUST]] |
 | `DurasroBo Forms` | **unresolved** (review queue) |
-| `GLory (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `GLory (divine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `INVOLUZION` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
-| `PourusHASPA` | **candidate (first-segment only)** → possible `POURUSHASPA, THE FATHER OF ZOROASTER` (not linked) |
-| `RrivERS` | **unresolved** (review queue) |
-| `SON oF Gop` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
+| `PourusHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
+| `RrivERS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
+| `SON oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 | `Triap` | **unresolved** (review queue) |
 | `WoMB or MAYA` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,28 +32,28 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `CIROLE OF EXISTENCE` | **unresolved** (review queue) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `CIROLE OF EXISTENCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `Cow (black)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `Creation` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `Creation` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `Earnte` | **unresolved** (review queue) |
 | `Evoxrvurion` | **unresolved** (review queue) |
 | `Faricea` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Invo.vurTion` | **unresolved** (review queue) |
-| `Nox` | **candidate (first-segment only)** → possible `NOX, SISTER OF EREBUS` (not linked) |
-| `Nurse` | **unresolved** (review queue) |
+| `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
+| `Nurse` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NURSE OF MEN|NURSE OF MEN]]; [[Reference/Gaskell/Entries/N/NURSE OF THE SOUL|NURSE OF THE SOUL]] |
 | `Oprm` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SaBBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `SaBBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SaAMBARA` | **unresolved** (review queue) |
 | `TANAOA` | **unresolved** (review queue) |
 | `TuatT` | **unresolved** (review queue) |
-| `UNDERWORLD` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fre` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `MANASAPUTRaS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `MANASAPUTRaS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `Monap (life)` | **unresolved** (review queue) |
-| `MUSPELL (sons)` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MUSPELL (sons)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `Prrris (solar)` | **unresolved** (review queue) |
 | `Sons OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARES` | **unresolved** (review queue) |

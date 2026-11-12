@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ecyrr (lower)` | **unresolved** (review queue) |
-| `Mirre` | **unresolved** (review queue) |
+| `Mirre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MITRE|MITRE]] |
 | `Movuts` | **unresolved** (review queue) |
 | `SERPENT (north)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 

@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Axasa` | **unresolved** (review queue) |
+| `Axasa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AKASA, ETHER-SPACE|AKASA, ETHER-SPACE]] |
 | `Cow (black)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `LINEN (white)` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
-| `MATTER` | **unresolved** (review queue) |
+| `LINEN (white)` | resolved (qualified head) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `MiydA (higher)` | **unresolved** (review queue) |
-| `PRaxRITI` | **unresolved** (review queue) |
+| `PRaxRITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 
 ## Full OCR entry body (exact)
 

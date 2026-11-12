@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `1 PETER ii. 2. See MILK (cow)` | **unresolved** (review queue) |
-| `UDDER` | **unresolved** (review queue) |
+| `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
 
 ## Full OCR entry body (exact)
 

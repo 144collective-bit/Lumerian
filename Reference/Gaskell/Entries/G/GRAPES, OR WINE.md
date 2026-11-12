@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cana` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
-| `FRurr OF THE SPIRIT` | **unresolved** (review queue) |
+| `Cana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CANA MARRIAGE|CANA MARRIAGE]] |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
+| `FRurr OF THE SPIRIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
 | `Hanoina` | **unresolved** (review queue) |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `VivE` | **unresolved** (review queue) |

@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
 | `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `FRUITFUL` | **unresolved** (review queue) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `FRUITFUL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FRUITFUL CROP|FRUITFUL CROP]] |
 | `PLoUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `REapPInc` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
-| `SowER` | **unresolved** (review queue) |
+| `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 
 ## Full OCR entry body (exact)
 

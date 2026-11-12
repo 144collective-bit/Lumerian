@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `verses 35-7). See Consciousness` | **unresolved** (review queue) |
 | `Lanp` | **unresolved** (review queue) |
-| `Lost (forest)` | **unresolved** (review queue) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Pats (birds)` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `UNRIGHTEOUS MAN` | **unresolved** (review queue) |
-| `WICKEDNESS` | **unresolved** (review queue) |
+| `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 
 ## Full OCR entry body (exact)
 

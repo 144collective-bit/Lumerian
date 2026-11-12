@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asar` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
-| `ATMA` | **unresolved** (review queue) |
-| `BALDER` | **unresolved** (review queue) |
+| `Asar` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `Bupp#l` | **unresolved** (review queue) |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `FATHER` | **unresolved** (review queue) |
-| `FRIGOG` | **unresolved** (review queue) |
+| `FRIGOG` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRIGG, OR FRIKKA, WIFE OF ODIN|FRIGG, OR FRIKKA, WIFE OF ODIN]] |
 | `Gops` | **unresolved** (review queue) |
 | `Hrrmop` | **unresolved** (review queue) |
 | `Mier` | **unresolved** (review queue) |
-| `Ravens` | **candidate (first-segment only)** → possible `RAVENS, FLESH-EATING` (not linked) |
+| `Ravens` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RAVENS, FLESH-EATING|RAVENS, FLESH-EATING]]; [[Reference/Gaskell/Entries/R/RAVENS OF ODIN, CALLED HUGIN (MIND) AND MUGIN (WILL)|RAVENS OF ODIN, CALLED HUGIN (MIND) AND MUGIN (WILL)]] |
 | `VALHALLA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALHALLA|VALHALLA]] |
 
 ## Full OCR entry body (exact)

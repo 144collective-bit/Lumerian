@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Buppua` | **unresolved** (review queue) |
 | `Liaut` | **unresolved** (review queue) |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `Vol. III. p. 5. YasSovHARA. See Croups` | **unresolved** (review queue) |
 | `Deuce` | **unresolved** (review queue) |
 | `FLoop` | **unresolved** (review queue) |

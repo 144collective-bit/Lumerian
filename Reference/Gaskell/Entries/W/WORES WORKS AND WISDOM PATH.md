@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hymns` | **unresolved** (review queue) |
+| `Hymns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `PatTH (twofold)` | **unresolved** (review queue) |
-| `Way` | **unresolved** (review queue) |
+| `PatTH (twofold)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] |
+| `Way` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]]; [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]]; [[Reference/Gaskell/Entries/W/WAY OF THE MIDST|WAY OF THE MIDST]]; [[Reference/Gaskell/Entries/W/WAY WAY OF DEATH|WAY WAY OF DEATH]] |
 
 ## Full OCR entry body (exact)
 

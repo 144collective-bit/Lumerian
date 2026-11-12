@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
-| `JoHANNA` | **unresolved** (review queue) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `JoHANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHANNA THE BAPTISER|JOHANNA THE BAPTISER]] |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 
 ## Full OCR entry body (exact)
 

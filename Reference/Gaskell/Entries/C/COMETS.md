@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AatT (waters)` | **unresolved** (review queue) |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
-| `KALKI` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
+| `KALKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]]; [[Reference/Gaskell/Entries/K/KALKI KALI-YUGA|KALKI KALI-YUGA]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 
 ## Full OCR entry body (exact)
 

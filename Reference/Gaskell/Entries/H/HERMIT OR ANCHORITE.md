@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANCHORITE` | **unresolved** (review queue) |
+| `ANCHORITE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANCHORITE OR HERMIT|ANCHORITE OR HERMIT]] |
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `Foop` | **unresolved** (review queue) |
 | `Forrst` | **unresolved** (review queue) |
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `HousEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
-| `MONK` | **unresolved** (review queue) |
-| `$ORDERS` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
-| `SannyasiIn` | **unresolved** (review queue) |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
+| `$ORDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]]; [[Reference/Gaskell/Entries/O/ORDERS OF THE SPACES|ORDERS OF THE SPACES]] |
+| `SannyasiIn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `Sxkmn` | **unresolved** (review queue) |
-| `SnAtaka` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `SnAtaka` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `Wires` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

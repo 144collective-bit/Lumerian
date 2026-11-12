@@ -35,27 +35,27 @@ tags:
 | `Batance` | **unresolved** (review queue) |
 | `Boar _ (earth)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
-| `CIRCULAR` | **unresolved** (review queue) |
+| `CIRCULAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CIRCULAR BOX OR DRUM|CIRCULAR BOX OR DRUM]] |
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `EDEN RIVER` | **unresolved** (review queue) |
-| `GIRDLE (star)` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
+| `GIRDLE (star)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `NAKEDNESS (higher)` | **unresolved** (review queue) |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
-| `PITRIYANA` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
+| `NAKEDNESS (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]] |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
+| `PITRIYANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `RUAH` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `WHEELS OF BIRTH` | **unresolved** (review queue) |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `WHEELS OF BIRTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

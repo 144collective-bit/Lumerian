@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ACROPOLIS` | **unresolved** (review queue) |
-| `ASSEMBLY` | **unresolved** (review queue) |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
 | `ATTRAOCTION` | **unresolved** (review queue) |
 | `CAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `HUMAN BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUMAN BODY|HUMAN BODY]] |
 | `JESUS WEPT` | **unresolved** (review queue) |
-| `PILGRIMS` | **unresolved** (review queue) |
-| `STREETS` | **unresolved** (review queue) |
+| `PILGRIMS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] |
+| `STREETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREETS OF NINE|STREETS OF NINE]] |
 
 ## Full OCR entry body (exact)
 

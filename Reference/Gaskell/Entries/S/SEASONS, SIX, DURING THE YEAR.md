@@ -38,8 +38,8 @@ tags:
 | `p. 192. See ADAMAS (lower)` | **unresolved** (review queue) |
 | `A5ons (twelve)` | **unresolved** (review queue) |
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `IABRAOTH` | **unresolved** (review queue) |
-| `SIX` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
+| `IABRAOTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IABRAOTH AND ADAMAS|IABRAOTH AND ADAMAS]] |
+| `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

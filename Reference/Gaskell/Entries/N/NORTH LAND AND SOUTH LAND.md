@@ -35,11 +35,11 @@ tags:
 | `Counrrizs` | **unresolved** (review queue) |
 | `Eayrr` | **unresolved** (review queue) |
 | `Horvs` | **unresolved** (review queue) |
-| `NEKHEBIT` | **candidate (first-segment only)** → possible `NEKHEBIT, WATER HIPPOPOTAMUS, MALE` (not linked) |
+| `NEKHEBIT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NEKHEBIT AND UACHIT|NEKHEBIT AND UACHIT]]; [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 | `Niue` | **unresolved** (review queue) |
 | `PHAEAcIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
-| `SOUTH LAND` | **candidate (first-segment only)** → possible `SOUTH LAND, AND NORTH LAND OF EGYPT` (not linked) |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+| `SOUTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]] |
 
 ## Full OCR entry body (exact)
 

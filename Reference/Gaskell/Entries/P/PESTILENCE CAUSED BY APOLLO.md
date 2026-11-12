@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `ARGIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGIVES|ARGIVES]] |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `CENSERS` | **unresolved** (review queue) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
-| `FUNERAL` | **unresolved** (review queue) |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
+| `FUNERAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] |
 | `Goats (unblemished)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
-| `HEcaToms` | **unresolved** (review queue) |
+| `HEcaToms` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `NINE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NINE DAYS|NINE DAYS]] |
-| `QUIVER` | **unresolved** (review queue) |
-| `REMINISCENCE` | **unresolved** (review queue) |
+| `QUIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUIVER OF ARROWS|QUIVER OF ARROWS]] |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `WrRaTH OF APOLLO` | **unresolved** (review queue) |
+| `WrRaTH OF APOLLO` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WRATH OF APOLLO|WRATH OF APOLLO]] |
 
 ## Full OCR entry body (exact)
 

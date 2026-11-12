@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Darkness (lower)` | **unresolved** (review queue) |
+| `Darkness (lower)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `Enlsan (rest.)` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `Foop` | **unresolved** (review queue) |
 | `Gatsuas (chanting)` | **unresolved** (review queue) |
 | `Gotp (spot)` | **unresolved** (review queue) |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `PEaru (precious)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

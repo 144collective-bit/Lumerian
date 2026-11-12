@@ -36,18 +36,18 @@ tags:
 | `Apam` | **unresolved** (review queue) |
 | `(higher)` | **unresolved** (review queue) |
 | `ARc. MAX` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EvVoLvuriox` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `ImacE` | **unresolved** (review queue) |
 | `Macnocosm` | **unresolved** (review queue) |
-| `Mrasure` | **unresolved** (review queue) |
+| `Mrasure` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
 | `Protrotryres` | **unresolved** (review queue) |
 | `SELr` | **unresolved** (review queue) |
-| `Son oF GoD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `Son oF GoD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

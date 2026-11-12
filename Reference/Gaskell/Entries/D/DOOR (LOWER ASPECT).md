@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AsTRAL` | **unresolved** (review queue) |
-| `CROWD` | **unresolved** (review queue) |
+| `AsTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `CROWD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CROWD OF PEOPLE|CROWD OF PEOPLE]] |
 | `GarTE (lower)` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 
 ## Full OCR entry body (exact)

@@ -41,7 +41,7 @@ tags:
 | `and subject to contumely and misunderstanding. It must be noted that ‘“‘ suffering "* and ‘‘ sorrow "’ are symbols of the bondage of Spirit in matter` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and of the ego’s deprivation of the higher qualities in its expression. The Spirit is described as longing for return to its former state of glory and freedom ; this indicates the aspiring life within the soul. It is needful to remember that the three lower vehicles can only express themselves in the lower mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `for the seat of consciousness is only in the mind. This accounts for the sameness in the speeches of Job’s three ‘** friends.”* The mental` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `astral` | **unresolved** (review queue) |
+| `astral` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `and physical natures are expressions of the mind. In the first speech of Eliphaz there is indicated the awakenment of the conscience` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which explains the moral tone of all the speeches. The lower mind in reproaching the Higher nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which it does not understand` | **unresolved** (review queue) |
@@ -95,47 +95,47 @@ tags:
 | `marks the life of the carnal.’"—GrEGORY THE GREAT` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Morals on the Book of Job` | **unresolved** (review queue) |
 | `Preface. See Ano. MAN` | **unresolved** (review queue) |
-| `BEHEMOTH` | **candidate (first-segment only)** → possible `BEHEMOTH, THE GREAT BULL` (not linked) |
+| `BEHEMOTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEHEMOTH, THE GREAT BULL|BEHEMOTH, THE GREAT BULL]] |
 | `Bieps (two)` | **unresolved** (review queue) |
 | `Briarzus` | **unresolved** (review queue) |
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
 | `CHILDREN OF EAST` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `East` | **unresolved** (review queue) |
-| `EstHEeR` | **unresolved** (review queue) |
-| `Exiie` | **unresolved** (review queue) |
+| `EstHEeR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
+| `Exiie` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EXILE|EXILE]] |
 | `Foor` | **unresolved** (review queue) |
-| `GrLGooLEM` | **unresolved** (review queue) |
+| `GrLGooLEM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `HErarinc` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `ImmorTALITY` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JOSEPH` | **candidate (ambiguous first-segment)** → JOSEPH, HUSBAND OF MARY; JOSEPH, SON OF JACOB (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `ImmorTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JOSEPH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]]; [[Reference/Gaskell/Entries/J/JOSEPH, SON OF JACOB|JOSEPH, SON OF JACOB]] |
 | `LEVIATHAN` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `POTSHERD` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] |
 | `PovERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `PRAGAPATI RELAXED` | **candidate (first-segment only)** → possible `PRAGAPATI RELAXED, AND AFTERWARDS RESTORED` (not linked) |
-| `RAHU` | **candidate (first-segment only)** → possible `RAHU, THE ASCENDING NODE` (not linked) |
-| `REDEEMER` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `PRAGAPATI RELAXED` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] |
+| `RAHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAHU, THE ASCENDING NODE|RAHU, THE ASCENDING NODE]] |
+| `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SHORTLIVED` | **unresolved** (review queue) |
 | `Sxvcers` | **unresolved** (review queue) |
-| `SI1-osigi` | **unresolved** (review queue) |
-| `SKIN` | **unresolved** (review queue) |
+| `SI1-osigi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SI-OSIRI (SON OF OSIRIS)|SI-OSIRI (SON OF OSIRIS)]] |
+| `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 | `SLEEP (waking)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP|SLEEP]] |
 | `Sonc` | **unresolved** (review queue) |
 | `Sons oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
-| `Sores` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
+| `Sores` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SORES ON THE BODY|SORES ON THE BODY]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `Surrerme` | **unresolved** (review queue) |
 | `SunRISING` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `VOICE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
 
 ## Full OCR entry body (exact)

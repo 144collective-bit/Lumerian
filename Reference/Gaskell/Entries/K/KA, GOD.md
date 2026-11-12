@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bra oF BUDDHA` | **unresolved** (review queue) |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
-| `Prorotyres` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
+| `Prorotyres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rounps` | **unresolved** (review queue) |
 | `Son OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 

@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `MANU VAIVASVATA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU VAIVASVATA|MANU VAIVASVATA]] |
-| `NACHIKETAS` | **candidate (first-segment only)** → possible `NACHIKETAS, SON OF VAJASRAVASA` (not linked) |
+| `NACHIKETAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SaGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAGE|SAGE]] |
-| `VAIVASVATA` | **unresolved** (review queue) |
-| `YAMA` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
+| `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 
 ## Full OCR entry body (exact)
 

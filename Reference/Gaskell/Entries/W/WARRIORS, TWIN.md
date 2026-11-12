@@ -35,7 +35,7 @@ tags:
 | `AnMy` | **unresolved** (review queue) |
 | `Grerxs` | **unresolved** (review queue) |
 | `Kuvs (lower)` | **unresolved** (review queue) |
-| `LITTLE CHILDREN` | **candidate (first-segment only)** → possible `LITTLE CHILDREN, OR LITTLE ONES` (not linked) |
+| `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `SOLDIERS` | **unresolved** (review queue) |
 | `TROJANS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 

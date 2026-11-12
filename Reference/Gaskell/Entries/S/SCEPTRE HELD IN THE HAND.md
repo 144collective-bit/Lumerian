@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hanp` | **unresolved** (review queue) |
-| `IRON PLATE` | **unresolved** (review queue) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `Rop (hand’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

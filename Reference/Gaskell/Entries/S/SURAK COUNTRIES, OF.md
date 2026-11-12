@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Disciptes` | **unresolved** (review queue) |
+| `Disciptes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `PEOr.e` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

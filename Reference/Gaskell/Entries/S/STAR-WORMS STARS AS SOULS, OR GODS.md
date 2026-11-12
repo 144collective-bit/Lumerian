@@ -35,7 +35,7 @@ tags:
 | `HikoxposH1` | **unresolved** (review queue) |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `MonaD or LIFE` | **unresolved** (review queue) |
-| `SincErs` | **unresolved** (review queue) |
+| `SincErs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]] |
 | `Sons or aon` | **unresolved** (review queue) |
 | `SPARKS` | **unresolved** (review queue) |
 

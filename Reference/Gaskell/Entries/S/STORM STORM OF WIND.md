@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `Arr` | **unresolved** (review queue) |
 | `Crops` | **unresolved** (review queue) |
-| `DiscipLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `DiscipLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `GALES` | **unresolved** (review queue) |
 | `HIGHER AND LOWER 8ELVES` | **unresolved** (review queue) |
-| `MAGIC` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
+| `MAGIC` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
 | `Menis` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Snip (sea)` | **unresolved** (review queue) |
 | `SHIPS 724 STREETS (beaked)` | **unresolved** (review queue) |
-| `TAWHIRI-MATEA` | **candidate (first-segment only)** → possible `TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS` (not linked) |
+| `TAWHIRI-MATEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `WInpDs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

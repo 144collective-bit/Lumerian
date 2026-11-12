@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `ErcuHt` | **unresolved** (review queue) |
 | `Liseration` | **unresolved** (review queue) |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Rock SEPULCHRE` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]] |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SATURDAY` | **candidate (first-segment only)** → possible `SATURDAY, THE SIXTH DAY` (not linked) |
-| `SEPULCHRES` | **candidate (first-segment only)** → possible `SEPULCHRES, OR TOMBS` (not linked) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SATURDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURDAY, THE SIXTH DAY|SATURDAY, THE SIXTH DAY]] |
+| `SEPULCHRES` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
 | `SwunRISING` | **unresolved** (review queue) |
 | `WEEK` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEEK|WEEK]] |

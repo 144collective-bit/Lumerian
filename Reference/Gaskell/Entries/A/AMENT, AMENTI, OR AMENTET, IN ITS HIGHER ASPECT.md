@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ares (nine)` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
+| `Ares (nine)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `MOUNTAIN` | **unresolved** (review queue) |
-| `PI8CEs` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `PI8CEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `Sr-osra1` | **unresolved** (review queue) |
-| `Taurus` | **candidate (first-segment only)** → possible `TAURUS, THE ZODIACAL SIGN` (not linked) |
+| `Taurus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURUS, THE ZODIACAL SIGN|TAURUS, THE ZODIACAL SIGN]] |
 | `Tuar` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

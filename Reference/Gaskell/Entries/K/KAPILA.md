@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmMARAVATI` | **unresolved** (review queue) |
-| `ARHAT` | **unresolved** (review queue) |
+| `AmMARAVATI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
-| `Ciry oF Gop` | **unresolved** (review queue) |
+| `Ciry oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] |
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `FIRST-BORN` | **unresolved** (review queue) |
+| `FIRST-BORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Isvarna` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `KING (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING|KING]] |
-| `Mountain` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 
 ## Full OCR entry body (exact)
 

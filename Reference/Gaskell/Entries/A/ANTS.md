@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `FORM` | **unresolved** (review queue) |
+| `FORM` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 
 ## Full OCR entry body (exact)

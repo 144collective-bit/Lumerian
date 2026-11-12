@@ -35,15 +35,15 @@ tags:
 | `APpowtto` | **unresolved** (review queue) |
 | `Biss` | **unresolved** (review queue) |
 | `BuppgHIO PLANE` | **unresolved** (review queue) |
-| `ConcH` | **candidate (first-segment only)** → possible `CONCH, OR SHELL-TRUMPET` (not linked) |
-| `Cup (double)` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `ConcH` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONCH, OR SHELL-TRUMPET|CONCH, OR SHELL-TRUMPET]] |
+| `Cup (double)` | resolved (exact) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]] |
 | `GaTHA pays` | **unresolved** (review queue) |
-| `Hymn` | **unresolved** (review queue) |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `Laksumi` | **unresolved** (review queue) |
 | `MEtopy` | **unresolved** (review queue) |
 | `520 MUSPELL OrnpHrus` | **unresolved** (review queue) |
-| `PROCESSION` | **unresolved** (review queue) |
-| `SINGERS` | **candidate (first-segment only)** → possible `SINGERS, PIOUS` (not linked) |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+| `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `Sona` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

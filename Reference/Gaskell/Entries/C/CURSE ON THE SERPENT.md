@@ -33,8 +33,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Brast` | **unresolved** (review queue) |
-| `Dust` | **unresolved** (review queue) |
+| `Brast` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
 | `Eprn` | **unresolved** (review queue) |
 | `FAL` | **unresolved** (review queue) |
 | `Fretp` | **unresolved** (review queue) |

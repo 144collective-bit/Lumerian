@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoLumn` | **unresolved** (review queue) |
-| `Foxes` | **unresolved** (review queue) |
+| `Foxes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOXES HAVE HOLES|FOXES HAVE HOLES]] |
 | `Heap` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Isis` | **unresolved** (review queue) |
 | `Prr` | **unresolved** (review queue) |
 | `Rd` | **unresolved** (review queue) |
 | `Serpent (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SEt` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SEt` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 
 ## Full OCR entry body (exact)
 

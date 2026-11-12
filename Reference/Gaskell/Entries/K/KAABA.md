@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `ApaM (lower)` | **unresolved** (review queue) |
 | `ADYTUM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADYTUM|ADYTUM]] |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `Curnrarn` | **unresolved** (review queue) |
 | `House (frequented)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `PALACE` | **unresolved** (review queue) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 | `PYRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
-| `Stone (black)` | **unresolved** (review queue) |
-| `Stupa` | **candidate (first-segment only)** → possible `STUPA, MARVELLOUS, OF BUDDHA` (not linked) |
+| `Stone (black)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `Stupa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

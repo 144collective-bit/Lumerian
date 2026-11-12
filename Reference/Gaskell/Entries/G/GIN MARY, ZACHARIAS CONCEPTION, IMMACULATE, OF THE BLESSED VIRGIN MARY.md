@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASSUMPTION` | **unresolved** (review queue) |
+| `ASSUMPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]]; [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `DrvaEI` | **unresolved** (review queue) |
-| `Guory (divine)` | **unresolved** (review queue) |
-| `MAyA (higher)` | **unresolved** (review queue) |
+| `Guory (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
+| `MAyA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `Vrrcrn mary` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

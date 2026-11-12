@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Forrest` | **unresolved** (review queue) |
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `Musovurar. 404 MENDICANT MEN` | **unresolved** (review queue) |
 | `ONE-EYED ; CYCLOPES — | A symbol of the intuitive mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `buddhi-manas` | **unresolved** (review queue) |
 | `perceptive of spiritual truths. See Cyonoprrs` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 
 ## Full OCR entry body (exact)
 

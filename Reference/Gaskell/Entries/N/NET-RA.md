@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ares` | **unresolved** (review queue) |
+| `Ares` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `Antes` | **unresolved** (review queue) |
 | `Boar (Sektet)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `Tuepss` | **unresolved** (review queue) |

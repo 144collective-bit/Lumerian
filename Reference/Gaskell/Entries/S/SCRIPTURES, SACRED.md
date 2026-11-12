@@ -32,32 +32,32 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmBAS` | **unresolved** (review queue) |
+| `AmBAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] |
 | `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
 | `BooK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
-| `DEVELOPMENT` | **unresolved** (review queue) |
+| `DEVELOPMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS|DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS]] |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `GOSPEL STORY` | **unresolved** (review queue) |
-| `HERMES (tris.)` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `GOSPEL STORY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOSPEL STORY OF CHRIST|GOSPEL STORY OF CHRIST]] |
+| `HERMES (tris.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `Kayays` | **unresolved** (review queue) |
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `MIRacites` | **unresolved** (review queue) |
 | `MyrnoLoGy` | **unresolved** (review queue) |
 | `Paryrus` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PEN` | **unresolved** (review queue) |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `PeoritE` | **unresolved** (review queue) |
 | `RAMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `RriTvuAL` | **unresolved** (review queue) |
 | `SACRED TExT` | **unresolved** (review queue) |
-| `SasTrRa` | **unresolved** (review queue) |
+| `SasTrRa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
 | `Siew` | **unresolved** (review queue) |
-| `Sroti` | **unresolved** (review queue) |
-| `THoru` | **unresolved** (review queue) |
-| `UrpanisHaD` | **unresolved** (review queue) |
+| `Sroti` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SRUTI, REVELATION|SRUTI, REVELATION]] |
+| `THoru` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
+| `UrpanisHaD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
 | `URB-HeKan` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |
 | `WorRD OF GOD` | **unresolved** (review queue) |

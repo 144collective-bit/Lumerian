@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hixopsosui` | **unresolved** (review queue) |
-| `JoB` | **unresolved** (review queue) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `PLaNnes` | **unresolved** (review queue) |
-| `REGIONS` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
-| `RoorT - RACES` | **unresolved** (review queue) |
+| `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `RoorT - RACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rovunp` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `Six` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
-| `SUMMER` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `Six` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
+| `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 
 ## Full OCR entry body (exact)
 

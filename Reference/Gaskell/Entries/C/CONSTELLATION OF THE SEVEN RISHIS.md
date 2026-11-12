@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Races` | **unresolved** (review queue) |
-| `RisHes` | **unresolved** (review queue) |
-| `RoOorT-RACES` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `RisHes` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RISHES OR SAINTS|RISHES OR SAINTS]]; [[Reference/Gaskell/Entries/R/RISHES OR SEVEN|RISHES OR SEVEN]] |
+| `RoOorT-RACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounpbs. CONSTELLATIONS` | **unresolved** (review queue) |
 | `ISMS -— Groups of stars (mental faculties) which stand for the various mental states and experiences of the souls. ** In the present universe divine wisdom is` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `as it were` | **unresolved** (review queue) |
@@ -43,7 +43,7 @@ tags:
 | `Old Test.` | **unresolved** (review queue) |
 | `ete.` | **unresolved** (review queue) |
 | `Vol. I. p. 49. See Dracon (red) Stars (fixed)` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

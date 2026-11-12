@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BLoop` | **unresolved** (review queue) |
 | `BLoop or BULLS` | **unresolved** (review queue) |
 | `BLOOD OF LAMB` | **unresolved** (review queue) |
-| `BULL` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `BULL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]]; [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] |
 | `Corp` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Rrres` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `TAUrus` | **candidate (first-segment only)** → possible `TAURUS, THE ZODIACAL SIGN` (not linked) |
-| `WASHED (blood)` | **unresolved** (review queue) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `TAUrus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURUS, THE ZODIACAL SIGN|TAURUS, THE ZODIACAL SIGN]] |
+| `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 
 ## Full OCR entry body (exact)
 

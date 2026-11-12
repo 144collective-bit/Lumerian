@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `PrraTe` | **unresolved** (review queue) |
 | `SKULL` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKULL|SKULL]] |
-| `TRIAL` | **unresolved** (review queue) |
+| `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

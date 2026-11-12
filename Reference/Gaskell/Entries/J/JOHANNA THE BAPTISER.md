@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Barrism` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `GNOSIS` | **unresolved** (review queue) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `GNOSIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `SACRIDAGAMIN` | **unresolved** (review queue) |

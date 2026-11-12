@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NEKHEBIT` | **candidate (first-segment only)** → possible `NEKHEBIT, WATER HIPPOPOTAMUS, MALE` (not linked) |
+| `NEKHEBIT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NEKHEBIT AND UACHIT|NEKHEBIT AND UACHIT]]; [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 | `UR-UATOHTI` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

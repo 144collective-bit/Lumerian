@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
-| `DURASROBO` | **candidate (first-segment only)** → possible `DURASROBO, THE KARAP` (not linked) |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `DURASROBO` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
 | `Guarpians (world)` | **unresolved** (review queue) |
 | `Heron` | **unresolved** (review queue) |
 | `ZEvs` | **unresolved** (review queue) |

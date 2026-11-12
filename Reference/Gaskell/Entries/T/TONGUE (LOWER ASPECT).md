@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Bioop` | **unresolved** (review queue) |
 | `Conriict` | **unresolved** (review queue) |
-| `ENEMIEs` | **unresolved** (review queue) |
+| `ENEMIEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `GROUND RIDGES` | **unresolved** (review queue) |
 | `Hand` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HAND|HAND]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `Sworp` | **unresolved** (review queue) |
 | `THROAT. ‘` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THROAT|THROAT]] |
 

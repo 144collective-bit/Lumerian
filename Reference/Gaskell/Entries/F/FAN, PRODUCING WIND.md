@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `CHAFF` | **unresolved** (review queue) |
+| `CHAFF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHAFF OF WHEAT|CHAFF OF WHEAT]] |
 | `FIRE (destroying)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `FIRE OF HELL` | **unresolved** (review queue) |
-| `FLABELLUM` | **candidate (first-segment only)** → possible `FLABELLUM, OR SACRED FAN` (not linked) |
-| `HoLy GHosT` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
+| `FLABELLUM` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FLABELLUM, OR SACRED FAN|FLABELLUM, OR SACRED FAN]] |
+| `HoLy GHosT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |

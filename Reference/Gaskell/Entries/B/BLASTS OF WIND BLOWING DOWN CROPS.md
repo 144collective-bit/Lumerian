@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CorPsE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `CorPsE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Crops` | **unresolved** (review queue) |
 | `Hanes` | **unresolved** (review queue) |
 | `Rar` | **unresolved** (review queue) |
 | `Storms` | **unresolved** (review queue) |
-| `TAWHIRI` | **unresolved** (review queue) |
-| `TREES (tall)` | **candidate (first-segment only)** → possible `TREES, TALL` (not linked) |
+| `TAWHIRI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
+| `TREES (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
 
 ## Full OCR entry body (exact)
 

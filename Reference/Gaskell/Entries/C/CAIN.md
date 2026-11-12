@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABEL` | **candidate (first-segment only)** → possible `ABEL, A KEEPER OF SHEEP` (not linked) |
+| `ABEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] |
 | `AHANKARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AHANKARA|AHANKARA]] |
-| `ATOM (perm.)` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `ATOM (perm.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `Crry` | **unresolved** (review queue) |
-| `COUNTENANCE` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
+| `COUNTENANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]]; [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] |
 | `FacE (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
-| `Fruir (ground)` | **unresolved** (review queue) |
+| `Fruir (ground)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `FuarrivE` | **unresolved** (review queue) |
 | `Monap OF LIFE` | **unresolved** (review queue) |
 | `Nop (land)` | **unresolved** (review queue) |
-| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
-| `WanDERERS` | **candidate (first-segment only)** → possible `WANDERERS, OR WAYFARERS` (not linked) |
+| `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
+| `WanDERERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
 
 ## Full OCR entry body (exact)
 

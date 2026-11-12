@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Craos` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `Craos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `EvoLorion` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `Monsters` | **unresolved** (review queue) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `Monsters` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MONSTERS OF TIAMAT|MONSTERS OF TIAMAT]] |
 | `TRIBE-RULERS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIBE-RULERS|TRIBE-RULERS]] |
 
 ## Full OCR entry body (exact)

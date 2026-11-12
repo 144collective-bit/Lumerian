@@ -37,11 +37,11 @@ tags:
 | `Cow’s URINE` | **unresolved** (review queue) |
 | `Escarz` | **unresolved** (review queue) |
 | `Hoty cuHost` | **unresolved** (review queue) |
-| `PARaOLETE` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `PARaOLETE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

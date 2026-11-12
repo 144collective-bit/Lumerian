@@ -35,11 +35,11 @@ tags:
 | `Counrriss` | **unresolved** (review queue) |
 | `Discretes` | **unresolved** (review queue) |
 | `EaypTIANS` | **unresolved** (review queue) |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `JEWS` | **unresolved** (review queue) |
-| `Kurus` | **candidate (first-segment only)** → possible `KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA` (not linked) |
-| `Nations` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
+| `Kurus` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `Nations` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `PELASGIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PELASGIANS|PELASGIANS]] |
 | `TRIBES. PER-AHA` | **unresolved** (review queue) |
 | `OR ‘*“HOUSE OF BATTLE " :— A symbol of the stage of the soul's evolution when victory over the lower nature is possible. See Barrie` | **unresolved** (prose-bleed / overlong token; not linked) |

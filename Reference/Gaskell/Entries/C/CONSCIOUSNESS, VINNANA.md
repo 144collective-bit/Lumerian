@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Form AND ANCE` | **unresolved** (review queue) |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `SKANDHAS` | **candidate (first-segment only)** → possible `SKANDHAS, FIVE` (not linked) |
+| `SKANDHAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/S/SKANDHAS SKADE|SKANDHAS SKADE]] |
 
 ## Full OCR entry body (exact)
 

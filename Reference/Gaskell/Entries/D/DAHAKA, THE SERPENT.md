@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `SERPENT (dahaka)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `THRAETONA` | **unresolved** (review queue) |
+| `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
 
 ## Full OCR entry body (exact)
 

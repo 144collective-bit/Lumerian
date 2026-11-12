@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CEILING or sky` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `FOUR BEINGS` | **unresolved** (review queue) |
+| `FOUR BEINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] |
 | `Gops` | **unresolved** (review queue) |
 | `Hanp` | **unresolved** (review queue) |
 | `Lapprr` | **unresolved** (review queue) |
-| `PANTHER` | **unresolved** (review queue) |
-| `PILLARS` | **candidate (ambiguous first-segment)** → PILLARS, FOUR, OF SHU; PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN (not linked) |
-| `QUARTERS` | **unresolved** (review queue) |
-| `REN` | **candidate (first-segment only)** → possible `REN, OR NAME` (not linked) |
-| `SCEPTRE` | **candidate (first-segment only)** → possible `SCEPTRE, GOLDEN, APOLLO` (not linked) |
-| `SKY` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `PANTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] |
+| `PILLARS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]]; [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+| `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
+| `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
+| `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 
 ## Full OCR entry body (exact)
 

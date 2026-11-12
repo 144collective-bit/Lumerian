@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `KaRSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `LUNAR CHAIN` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `REGIONS` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `KaRSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `LUNAR CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

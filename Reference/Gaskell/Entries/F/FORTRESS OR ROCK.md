@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Davip` | **unresolved** (review queue) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `STONE` | **unresolved** (review queue) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 
 ## Full OCR entry body (exact)
 

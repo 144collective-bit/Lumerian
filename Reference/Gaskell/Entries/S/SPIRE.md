@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ConE` | **candidate (first-segment only)** → possible `CONE, CUPOLA, OR SPIRE` (not linked) |
+| `ConE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONE, CUPOLA, OR SPIRE|CONE, CUPOLA, OR SPIRE]] |
 | `OBELISK` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OBELISK|OBELISK]] |
 | `PYRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
 

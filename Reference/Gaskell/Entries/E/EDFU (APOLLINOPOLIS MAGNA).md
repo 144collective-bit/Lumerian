@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ecina` | **unresolved** (review queue) |
-| `HorBesupti` | **unresolved** (review queue) |
+| `HorBesupti` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
 | `In.vusion` | **unresolved** (review queue) |
 | `THOTH. EEL-GOD ;` | **unresolved** (review queue) |
 

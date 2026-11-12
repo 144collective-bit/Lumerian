@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BaLARAMA` | **unresolved** (review queue) |
-| `BHARATA` | **candidate (first-segment only)** → possible `BHARATA, THE VICE-KING` (not linked) |
-| `HanvuMAN` | **unresolved** (review queue) |
-| `KABANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
+| `BaLARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
+| `BHARATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BHARATA, THE VICE-KING|BHARATA, THE VICE-KING]] |
+| `HanvuMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
+| `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `LAKSHMANA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAKSHMANA|LAKSHMANA]] |
-| `LANKA` | **unresolved** (review queue) |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
 | `RixsHasas` | **unresolved** (review queue) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `Sita` | **candidate (first-segment only)** → possible `SITA, WIFE OF RAMA` (not linked) |
-| `SHOES` | **unresolved** (review queue) |
-| `VIBHISHANA` | **candidate (first-segment only)** → possible `VIBHISHANA, RAVANA` (not linked) |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `Sita` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SITA, WIFE OF RAMA|SITA, WIFE OF RAMA]] |
+| `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
+| `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 
 ## Full OCR entry body (exact)

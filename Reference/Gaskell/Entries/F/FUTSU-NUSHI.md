@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `TAKE-MIKA` | **unresolved** (review queue) |
+| `TAKE-MIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI|TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI]] |
 
 ## Full OCR entry body (exact)
 

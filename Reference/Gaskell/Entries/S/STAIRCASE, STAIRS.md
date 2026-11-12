@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
-| `Mouth (speech)` | **candidate (ambiguous first-segment)** → MOUTH, FOR SPEECH; MOUTH, OPENING OF THE (not linked) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
+| `Mouth (speech)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUTH, FOR SPEECH|MOUTH, FOR SPEECH]] |
 | `STEPs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 
 ## Full OCR entry body (exact)

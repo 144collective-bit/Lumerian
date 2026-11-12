@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EantH` | **unresolved** (review queue) |
+| `EantH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FooD FOR MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOD FOR MAN|FOOD FOR MAN]] |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `Ronco` | **unresolved** (review queue) |

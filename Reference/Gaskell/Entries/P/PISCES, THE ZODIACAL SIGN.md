@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENT` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
+| `AMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
 | `F isu (great)` | **unresolved** (review queue) |
-| `Gemini` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
+| `Gemini` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 | `Iapraora` | **unresolved** (review queue) |
 | `JEsus (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `SunMOFIONLESS` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

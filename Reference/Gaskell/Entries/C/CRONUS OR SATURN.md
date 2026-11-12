@@ -33,31 +33,31 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AIponrEvuS` | **unresolved** (review queue) |
-| `Foam` | **unresolved** (review queue) |
+| `Foam` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOAM OF THE SEA|FOAM OF THE SEA]] |
 | `KHorpap` | **unresolved** (review queue) |
 | `Kronos` | **unresolved** (review queue) |
 | `Nout` | **unresolved** (review queue) |
 | `RHga` | **unresolved** (review queue) |
-| `SaTurn` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
+| `SaTurn` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 | `SEs` | **unresolved** (review queue) |
 | `Tre` | **unresolved** (review queue) |
 | `Trrans` | **unresolved** (review queue) |
-| `URANUS` | **unresolved** (review queue) |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `ZEUS. CROPS OF GRAIN— A symbol of the growing higher emotions in the soul. **Thou shalt break the power of untiring gales which rising against the earth blow down the crops and destroy them ; and again` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `whenever thou wilt` | **unresolved** (review queue) |
 | `thou shalt bring their blasts back.’’—Empedoeles` | **unresolved** (review queue) |
 | `FAIRBANKS` | **unresolved** (review queue) |
 | `24. The Self shall overcome the winds of erroneous doctrine which arise` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and CROOK striking the lower self (earth) destroy the sprouting emotions of truth` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `wisdom` | **unresolved** (review queue) |
+| `wisdom` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `and love. And moreover the Self shall recall such doctrines` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and shall tum the falsity of the lower planes into relative truth for the enlightenment of the mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and through dissipating igmorance shall enable it to know the truth. See Gates` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Harm` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `Storm` | **unresolved** (review queue) |
+| `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
 | `TAWHIEI` | **unresolved** (review queue) |
-| `WINDS (various)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+| `WINDS (various)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, VARIOUS|WINDS, VARIOUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,7 +35,7 @@ tags:
 | `CLus` | **unresolved** (review queue) |
 | `Harr (side-lock)` | **unresolved** (review queue) |
 | `Horse` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
-| `KERESASPA` | **unresolved** (review queue) |
+| `KERESASPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KERESASPA WITH SIDE-LOCK AND CLUB|KERESASPA WITH SIDE-LOCK AND CLUB]] |
 | `LOVE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Polson` | **unresolved** (review queue) |

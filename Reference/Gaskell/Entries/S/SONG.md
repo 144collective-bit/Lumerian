@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
-| `Harmony` | **unresolved** (review queue) |
-| `HymMN SINGING` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
+| `HymMN SINGING` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `JOB` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `LOVE OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
-| `MELODY` | **candidate (first-segment only)** → possible `MELODY, MUSIC` (not linked) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `MELODY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MELODY, MUSIC|MELODY, MUSIC]] |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `Nicot` | **unresolved** (review queue) |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SINGERS` | **candidate (first-segment only)** → possible `SINGERS, PIOUS` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 
 ## Full OCR entry body (exact)
 

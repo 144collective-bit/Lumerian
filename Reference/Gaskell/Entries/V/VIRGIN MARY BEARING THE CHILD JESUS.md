@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `ASSUMPTION` | **unresolved** (review queue) |
+| `ASSUMPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]]; [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] |
 | `BETHLEHEM` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BETHLEHEM|BETHLEHEM]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
-| `CAVE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `CAVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `CoNncEPTION` | **unresolved** (review queue) |
 | `CROWN (stars)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
-| `EvE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Evo.uuTion` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
 | `GoLp (frank.)` | **unresolved** (review queue) |
-| `HEBDOMAD` | **candidate (first-segment only)** → possible `HEBDOMAD, SON OF THE` (not linked) |
+| `HEBDOMAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEBDOMAD, SON OF THE|HEBDOMAD, SON OF THE]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
-| `HEROD` | **unresolved** (review queue) |
+| `HEROD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] |
 | `Hr country` | **unresolved** (review queue) |
 | `Hurirzorocartii` | **unresolved** (review queue) |
-| `InCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `MARJATTA` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `InCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `MARJATTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARJATTA OR MARIATTA|MARJATTA OR MARIATTA]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 

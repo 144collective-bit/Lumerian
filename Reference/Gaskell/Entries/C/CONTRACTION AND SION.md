@@ -35,8 +35,8 @@ tags:
 | `CoLp` | **unresolved** (review queue) |
 | `Frere` | **unresolved** (review queue) |
 | `Frost` | **unresolved** (review queue) |
-| `Heat` | **unresolved** (review queue) |
-| `Ice` | **candidate (first-segment only)** → possible `ICE, FROST, OR SNOW` (not linked) |
+| `Heat` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEAT AND COLD|HEAT AND COLD]] |
+| `Ice` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICE, FROST, OR SNOW|ICE, FROST, OR SNOW]] |
 | `Marrer` | **unresolved** (review queue) |
 | `Srimit` | **unresolved** (review queue) |
 

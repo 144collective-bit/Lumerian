@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EvUNEvS` | **unresolved** (review queue) |
-| `Hypsirpy.e` | **unresolved** (review queue) |
-| `LEMNOS` | **unresolved** (review queue) |
+| `Hypsirpy.e` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYPSIPYLE, DAUGHTER OF THOAS|HYPSIPYLE, DAUGHTER OF THOAS]] |
+| `LEMNOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEMNOS ISLAND|LEMNOS ISLAND]] |
 
 ## Full OCR entry body (exact)
 

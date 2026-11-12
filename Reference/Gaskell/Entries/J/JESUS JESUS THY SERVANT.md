@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASPIRATION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASPIRATION|ASPIRATION]] |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `Cur` | **unresolved** (review queue) |
 | `Davin` | **unresolved** (review queue) |
-| `GosPEL sTORY` | **unresolved** (review queue) |
-| `GRACE` | **unresolved** (review queue) |
+| `GosPEL sTORY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOSPEL STORY OF CHRIST|GOSPEL STORY OF CHRIST]] |
+| `GRACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `JoB` | **unresolved** (review queue) |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `QuaLivizs` | **unresolved** (review queue) |
-| `SERVAND OF GOD` | **unresolved** (review queue) |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `SERVAND OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 
 ## Full OCR entry body (exact)
 

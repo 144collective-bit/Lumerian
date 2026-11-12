@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Forest` | **unresolved** (review queue) |
+| `Forest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOREST PATHS OF LIFE|FOREST PATHS OF LIFE]] |
 | `Iskak.rres` | **unresolved** (review queue) |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

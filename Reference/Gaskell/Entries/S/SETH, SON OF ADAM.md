@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABEL` | **candidate (first-segment only)** → possible `ABEL, A KEEPER OF SHEEP` (not linked) |
-| `BEGETTING` | **unresolved** (review queue) |
+| `ABEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] |
+| `BEGETTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] |
 | `CAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
-| `EVE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `EVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 
 ## Full OCR entry body (exact)
 

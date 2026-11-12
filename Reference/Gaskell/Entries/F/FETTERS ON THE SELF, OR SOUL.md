@@ -37,7 +37,7 @@ tags:
 | `FIELD BonpaGs` | **unresolved** (review queue) |
 | `Caprivirry` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `PRISONERS` | **unresolved** (review queue) |
+| `PRISONERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 
 ## Full OCR entry body (exact)
 

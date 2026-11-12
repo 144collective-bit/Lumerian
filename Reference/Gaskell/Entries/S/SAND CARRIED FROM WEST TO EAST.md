@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `East` | **unresolved** (review queue) |
-| `SHABTI` | **unresolved** (review queue) |
-| `WEST` | **unresolved** (review queue) |
+| `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
+| `WEST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEST QUARTER|WEST QUARTER]] |
 
 ## Full OCR entry body (exact)
 

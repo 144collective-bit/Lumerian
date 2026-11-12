@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLESSING` | **unresolved** (review queue) |
+| `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
 | `Girrs oF Gop` | **unresolved** (review queue) |
 | `Houss 10 IN HEAVEN` | **unresolved** (review queue) |
 | `MEatT` | **unresolved** (review queue) |
 | `MELCHIZEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
-| `TITHES` | **unresolved** (review queue) |
+| `TITHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITHES TO THE SUPERIOR|TITHES TO THE SUPERIOR]] |
 
 ## Full OCR entry body (exact)
 

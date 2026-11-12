@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `Surya` | **candidate (first-segment only)** → possible `SURYA, THE SUN` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `Surya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 
 ## Full OCR entry body (exact)

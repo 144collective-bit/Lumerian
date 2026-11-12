@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `GARMENT` | **unresolved** (review queue) |
+| `GARMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]] |
 | `(sal.)` | **unresolved** (review queue) |
-| `HrkososHi` | **unresolved** (review queue) |
-| `LETTER` | **unresolved** (review queue) |
-| `GARMENT` | **unresolved** (review queue) |
-| `PEARL` | **unresolved** (review queue) |
+| `HrkososHi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
+| `GARMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]] |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `SERPENT (loud)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SHors` | **unresolved** (review queue) |
+| `SHors` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `Toaa` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `EvoLurion` | **unresolved** (review queue) |
-| `FIRez` | **unresolved** (review queue) |
+| `FIRez` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Marrer` | **unresolved** (review queue) |
 | `Sprmit` | **unresolved** (review queue) |
-| `Swastika` | **candidate (first-segment only)** → possible `SWASTIKA, OR FYLFOT SIGN` (not linked) |
-| `TREE OF LITE` | **unresolved** (review queue) |
+| `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
+| `TREE OF LITE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `LE&EVIATHAN` | **unresolved** (review queue) |
-| `OcEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `WHALE` | **unresolved** (review queue) |
+| `OcEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
 
 ## Full OCR entry body (exact)
 

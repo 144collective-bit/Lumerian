@@ -34,23 +34,23 @@ tags:
 |---|---|
 | `ABRAXAS` | **unresolved** (review queue) |
 | `AZONS (twelve)` | **unresolved** (review queue) |
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `AupHa` | **unresolved** (review queue) |
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
 | `Gops` | **unresolved** (review queue) |
-| `MANnVANTARA` | **unresolved** (review queue) |
-| `NIGHT (primor.)` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `MANnVANTARA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
+| `NIGHT (primor.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Prataya` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Seasons (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Stripes` | **unresolved** (review queue) |
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `Trxs` | **unresolved** (review queue) |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
-| `WORLDS` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `WORLDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

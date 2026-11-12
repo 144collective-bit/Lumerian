@@ -36,7 +36,7 @@ tags:
 | `Brrpce` | **unresolved** (review queue) |
 | `CLoup` | **unresolved** (review queue) |
 | `CoveANT` | **unresolved** (review queue) |
-| `EarRTH` | **unresolved** (review queue) |
+| `EarRTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Ranysow` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

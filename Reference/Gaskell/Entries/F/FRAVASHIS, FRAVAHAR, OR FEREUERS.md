@@ -33,24 +33,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGNISHWATTAS` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
-| `GLoRy` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
+| `GLoRy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
-| `Hom` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `ManasapuTras` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `Hom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOM-PLANT STEM|HOM-PLANT STEM]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `ManasapuTras` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `Marurs` | **unresolved** (review queue) |
 | `MIrHRAS` | **unresolved** (review queue) |
-| `MonaD (life` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
-| `form)` | **unresolved** (review queue) |
-| `MUsPELL (sons)` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MonaD (life` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
+| `form)` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
+| `MUsPELL (sons)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `FRAZISHTO PaccEKA-BUDDHAS` | **unresolved** (review queue) |
 | `Prrnis (solar` | **unresolved** (review queue) |
-| `lunar)` | **unresolved** (review queue) |
-| `Prototypes` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `lunar)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]]; [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
+| `Prototypes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `Sons OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `Sparks` | **unresolved** (review queue) |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |

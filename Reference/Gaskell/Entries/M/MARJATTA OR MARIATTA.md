@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRANBERRY` | **unresolved** (review queue) |
-| `HUITZILOPOCHTLI` | **candidate (first-segment only)** → possible `HUITZILOPOCHTLI, WAR-GOD` (not linked) |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
+| `HUITZILOPOCHTLI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HUITZILOPOCHTLI, WAR-GOD|HUITZILOPOCHTLI, WAR-GOD]] |
 | `LEMMINKAINEN` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEMMINKAINEN|LEMMINKAINEN]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `VrncIn` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

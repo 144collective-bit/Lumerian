@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BLoop` | **unresolved** (review queue) |
-| `CovENANT` | **unresolved** (review queue) |
+| `CovENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SacBiricer` | **unresolved** (review queue) |
+| `SacBiricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `TABLE OF THE LORD. CUP` | **unresolved** (review queue) |
 | `VIAL` | **unresolved** (review queue) |
 | `VASE` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASE|VASE]] |
@@ -48,7 +48,7 @@ tags:
 | `n. 672. See AGATHODAMON` | **unresolved** (review queue) |
 | `D198` | **unresolved** (review queue) |
 | `(moon)` | **unresolved** (review queue) |
-| `VESSEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 
 ## Full OCR entry body (exact)
 

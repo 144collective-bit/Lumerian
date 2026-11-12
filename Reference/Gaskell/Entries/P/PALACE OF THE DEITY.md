@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Oxympus` | **unresolved** (review queue) |
 | `Pyramip` | **unresolved** (review queue) |
-| `THETIS` | **candidate (first-segment only)** → possible `THETIS, GODDESS` (not linked) |
+| `THETIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 | `ZEUS. PALACES` | **unresolved** (review queue) |
 | `HIGH-SOARING :-— Symbolic of an exalted condition of bliss on high planes. See AMARAVATI` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `KAPILA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |

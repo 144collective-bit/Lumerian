@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `Rovunp` | **unresolved** (review queue) |
-| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
-| `SUKUNA` | **unresolved** (review queue) |
-| `WHEELS (holy)` | **unresolved** (review queue) |
+| `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
+| `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
+| `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 
 ## Full OCR entry body (exact)
 

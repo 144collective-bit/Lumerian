@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `MatTeR` | **unresolved** (review queue) |
-| `MOTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `MatTeR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `Vrrain` | **unresolved** (review queue) |
 | `Woman (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `WomMB or Miva. a` | **unresolved** (review queue) |

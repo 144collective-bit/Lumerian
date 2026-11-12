@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENT` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
+| `AMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `Hawp (right)` | **unresolved** (review queue) |
 | `Intusion` | **unresolved** (review queue) |
 | `SicHt` | **unresolved** (review queue) |
-| `Varour` | **unresolved** (review queue) |
+| `Varour` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 
 ## Full OCR entry body (exact)
 

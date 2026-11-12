@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BaBEL` | **unresolved** (review queue) |
+| `BaBEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]]; [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] |
 | `Crry` | **unresolved** (review queue) |
 | `Earrs` | **unresolved** (review queue) |
 | `SPEEcs` | **unresolved** (review queue) |

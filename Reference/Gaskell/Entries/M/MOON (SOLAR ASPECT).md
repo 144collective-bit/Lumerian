@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `LUNAR CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `SELENE` | **unresolved** (review queue) |
-| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
+| `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SuN (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

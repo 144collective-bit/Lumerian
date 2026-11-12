@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `APE` | **candidate (first-segment only)** → possible `APE, DOG-HEADED (LOWER ASPECT)` (not linked) |
+| `APE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APE, DOG-HEADED (LOWER ASPECT)|APE, DOG-HEADED (LOWER ASPECT)]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `Foop (man)` | **unresolved** (review queue) |
 | `Haprs` | **unresolved** (review queue) |
@@ -46,14 +46,14 @@ tags:
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `LAZARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MorRTAL MIND` | **unresolved** (review queue) |
+| `MorRTAL MIND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORTAL MIND|MORTAL MIND]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PLovuGHiIne` | **unresolved** (review queue) |
-| `SAND` | **unresolved** (review queue) |
-| `SEEDS (good)` | **unresolved** (review queue) |
+| `SAND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAND CARRIED FROM WEST TO EAST|SAND CARRIED FROM WEST TO EAST]] |
+| `SEEDS (good)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Sout` | **unresolved** (review queue) |
 | `Sowrne` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

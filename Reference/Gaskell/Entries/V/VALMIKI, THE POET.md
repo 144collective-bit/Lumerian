@@ -35,11 +35,11 @@ tags:
 | `ALcHEMy` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `ArTRI` | **unresolved** (review queue) |
 | `ImMHOTEP` | **unresolved** (review queue) |
-| `Kyavana` | **candidate (first-segment only)** → possible `KYAVANA, THE GREAT SEER` (not linked) |
+| `Kyavana` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KYAVANA, THE GREAT SEER|KYAVANA, THE GREAT SEER]] |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |
-| `SERPENT ASCULAPIUS` | **unresolved** (review queue) |
+| `SERPENT ASCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
 
 ## Full OCR entry body (exact)
 

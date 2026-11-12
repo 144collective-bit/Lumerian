@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKERT` | **candidate (first-segment only)** → possible `AKERT, THE UNDERWORLD` (not linked) |
-| `HERMES (tris.)` | **unresolved** (review queue) |
-| `NAMES` | **unresolved** (review queue) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `AKERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] |
+| `HERMES (tris.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `NAMES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `Sup` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

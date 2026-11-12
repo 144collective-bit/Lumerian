@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GoD BLESSING` | **unresolved** (review queue) |
+| `GoD BLESSING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD BLESSING CREATURES|GOD BLESSING CREATURES]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
-| `SALVATION` | **unresolved** (review queue) |
-| `TITHES` | **unresolved** (review queue) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `TITHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITHES TO THE SUPERIOR|TITHES TO THE SUPERIOR]] |
 
 ## Full OCR entry body (exact)
 

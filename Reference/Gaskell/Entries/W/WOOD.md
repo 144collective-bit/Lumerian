@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmeERDAD` | **unresolved** (review queue) |
+| `AmeERDAD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMERDAD, KING OF VEGETATION|AMERDAD, KING OF VEGETATION]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `SHELTER` | **unresolved** (review queue) |
-| `SIMILITUDES` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `WoRrRLps (five)` | **unresolved** (review queue) |
 | `YANG` | **unresolved** (review queue) |
 

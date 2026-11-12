@@ -35,8 +35,8 @@ tags:
 | `AGATHODAIMON` | **unresolved** (review queue) |
 | `AKEM-MANO` | **unresolved** (review queue) |
 | `Dz2mON` | **unresolved** (review queue) |
-| `FORM AND NAME` | **candidate (first-segment only)** → possible `FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH` (not linked) |
-| `GOD` | **candidate (first-segment only)** → possible `GOD, POTENTIAL AND ACTUAL` (not linked) |
+| `FORM AND NAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
+| `GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD, POTENTIAL AND ACTUAL|GOD, POTENTIAL AND ACTUAL]] |
 | `Monap` | **unresolved** (review queue) |
 | `Prrris` | **unresolved** (review queue) |
 | `VOHUMANO` | **unresolved** (review queue) |

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLacksmiros` | **unresolved** (review queue) |
+| `BLacksmiros` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 | `ConFLicr` | **unresolved** (review queue) |
 | `ConQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `Mas` | **unresolved** (review queue) |
@@ -41,7 +41,7 @@ tags:
 | `Srriure` | **unresolved** (review queue) |
 | `Vicrory` | **unresolved** (review queue) |
 | `Was` | **unresolved** (review queue) |
-| `WARERIOBS` | **unresolved** (review queue) |
+| `WARERIOBS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

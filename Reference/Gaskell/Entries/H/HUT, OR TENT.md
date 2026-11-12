@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Boorus` | **unresolved** (review queue) |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `TENT` | **unresolved** (review queue) |
+| `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
 
 ## Full OCR entry body (exact)
 

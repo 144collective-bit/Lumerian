@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DaNnaans` | **unresolved** (review queue) |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `DaNnaans` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DANAANS (GREEKS)|DANAANS (GREEKS)]] |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 
 ## Full OCR entry body (exact)
 

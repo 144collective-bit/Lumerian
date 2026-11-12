@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALDER` | **unresolved** (review queue) |
-| `BERSERKS` | **candidate (first-segment only)** → possible `BERSERKS, OR WARRIORS` (not linked) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `BERSERKS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
-| `EARTHQUAKE` | **unresolved** (review queue) |
+| `EARTHQUAKE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
 | `Firnx` | **unresolved** (review queue) |
-| `MJOLNIR` | **unresolved** (review queue) |
-| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
+| `MJOLNIR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] |
+| `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 
 ## Full OCR entry body (exact)
 

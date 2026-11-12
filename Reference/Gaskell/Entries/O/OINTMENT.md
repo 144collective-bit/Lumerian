@@ -35,8 +35,8 @@ tags:
 | `Buryinc` | **unresolved** (review queue) |
 | `CRvucrIrIxIonN OF JEsus` | **unresolved** (review queue) |
 | `Drap (burying)` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
-| `GHEE` | **candidate (first-segment only)** → possible `GHEE, OR BUTTER` (not linked) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
+| `GHEE` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GHEE, OR BUTTER|GHEE, OR BUTTER]] |
 | `Hovusrs (friends)` | **unresolved** (review queue) |
 | `MarTHa` | **unresolved** (review queue) |
 | `Poor . PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |

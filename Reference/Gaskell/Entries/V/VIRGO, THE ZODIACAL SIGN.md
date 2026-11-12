@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAMAS` | **unresolved** (review queue) |
+| `ADAMAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `CRUCIFIXION OF OHRIST` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `CRUCIFIXION OF OHRIST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Srx` | **unresolved** (review queue) |
 | `Woms` | **unresolved** (review queue) |
 | `Zop1ac. 796` | **unresolved** (review queue) |

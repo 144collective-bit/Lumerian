@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `EvENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
-| `HoRIZoNs` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `HoRIZoNs` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Moon (lower)` | **unresolved** (review queue) |
-| `SuUFFERInc` | **unresolved** (review queue) |
-| `WEsT` | **unresolved** (review queue) |
+| `Moon (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]] |
+| `SuUFFERInc` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `WEsT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEST QUARTER|WEST QUARTER]] |
 
 ## Full OCR entry body (exact)
 

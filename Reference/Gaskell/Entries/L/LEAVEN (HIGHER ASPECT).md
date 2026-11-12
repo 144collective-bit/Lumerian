@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Doves` | **unresolved** (review queue) |
-| `ELEMENtTs` | **unresolved** (review queue) |
-| `FLovur` | **unresolved** (review queue) |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
-| `MEAL` | **candidate (first-segment only)** → possible `MEAL, OR WHEAT GROUND IN A MILL` (not linked) |
+| `Doves` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] |
+| `ELEMENtTs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `FLovur` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FLOUR, FINE|FLOUR, FINE]] |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `MEAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 | `Sorgia` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `VIRGIN` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

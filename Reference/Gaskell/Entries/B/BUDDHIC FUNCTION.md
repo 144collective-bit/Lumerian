@@ -44,10 +44,10 @@ tags:
 | `Kus‘tt` | **unresolved** (review queue) |
 | `Locos` | **unresolved** (review queue) |
 | `Quatitres` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `TAMA-GUSHI` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `WINDOW` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `WINDOW` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WINDOW OR SKYLIGHT|WINDOW OR SKYLIGHT]]; [[Reference/Gaskell/Entries/W/WINDOW WINDOW OF ARK OF NOAH|WINDOW WINDOW OF ARK OF NOAH]] |
 | `WorRD Yaana` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

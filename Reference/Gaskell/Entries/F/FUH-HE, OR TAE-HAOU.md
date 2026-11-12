@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `BEASTS (wild)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `BEASTS (wild)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BEASTS, WILD|BEASTS, WILD]] |
 | `Breats` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `INCARNA297 FURNACE TION` | **unresolved** (review queue) |
 | `LAMB` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB|LAMB]] |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `Pastorazt` | **unresolved** (review queue) |
-| `SACRIFIcER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `SACRIFIcER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `Sprait` | **unresolved** (review queue) |
-| `TEZCATLIPOOA` | **unresolved** (review queue) |
+| `TEZCATLIPOOA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TEZCATLIPOCA|TEZCATLIPOCA]] |
 | `TABLES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

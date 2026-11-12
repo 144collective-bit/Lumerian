@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `AROHETYPAL MAN` | **unresolved** (review queue) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
+| `AROHETYPAL MAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARCHETYPAL MAN|ARCHETYPAL MAN]] |
 | `— —_ = . _ =n = = —=—_— = a RAHU RAINBOW Brasts (three sorts)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `upon the egos immersed in the lower LUNAR CHAIN` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `nature (hell) and subject to suffering Pyius` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Root-Races` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounp. (hell-fire) ; and they will be purified of their imperfections and enter into bliss` | **unresolved** (prose-bleed / overlong token; not linked) |
 

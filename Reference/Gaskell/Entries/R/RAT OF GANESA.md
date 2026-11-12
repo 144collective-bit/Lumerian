@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANIMAL` | **unresolved** (review queue) |
-| `GANESA` | **candidate (first-segment only)** → possible `GANESA, GOD OF WISDOM` (not linked) |
+| `GANESA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANESA, GOD OF WISDOM|GANESA, GOD OF WISDOM]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 

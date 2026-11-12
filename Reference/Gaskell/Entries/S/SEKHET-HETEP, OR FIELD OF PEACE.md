@@ -33,25 +33,25 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `GARDEN OF REST` | **unresolved** (review queue) |
 | `668 SELENE Heaven` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Kinapom` | **unresolved** (review queue) |
 | `Lasp` | **unresolved** (review queue) |
 | `Mansions` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] |
 | `Mrat` | **unresolved** (review queue) |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `Nrrvana` | **unresolved** (review queue) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
+| `Nrrvana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `NetURT` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `RESURBECTIOX` | **unresolved** (review queue) |
-| `Sarnts` | **unresolved** (review queue) |
-| `SowER` | **unresolved** (review queue) |
-| `TCHEFET` | **candidate (first-segment only)** → possible `TCHEFET, IN SEKHETHETEPET` (not linked) |
+| `Sarnts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+| `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
 
 ## Full OCR entry body (exact)
 

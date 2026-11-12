@@ -32,37 +32,37 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Back` | **unresolved** (review queue) |
+| `Back` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BACK PARTS OF THE DEITY|BACK PARTS OF THE DEITY]] |
 | `Castres` | **unresolved** (review queue) |
-| `CEILING` | **unresolved** (review queue) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
-| `CHERUBIM` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CEILING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CEILING OF THE SKY|CEILING OF THE SKY]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CrysTaL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
 | `Eacix` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Face` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
 | `Fret` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `FImmMament` | **unresolved** (review queue) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
+| `FImmMament` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
 | `Hanps` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `Linen` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `Linen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
 | `Lion` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Meroaspa` | **unresolved** (review queue) |
-| `Ox` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
-| `PRIEST` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+| `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
-| `SAPPHIRE` | **unresolved** (review queue) |
+| `SAPPHIRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPPHIRE STONE|SAPPHIRE STONE]] |
 | `Srwwes` | **unresolved** (review queue) |
-| `THRONE` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `WHEELS` | **unresolved** (review queue) |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `WHEELS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 | `WINGs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

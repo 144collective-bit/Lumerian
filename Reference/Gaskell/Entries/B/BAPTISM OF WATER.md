@@ -35,15 +35,15 @@ tags:
 | `Discretes` | **unresolved** (review queue) |
 | `Homa-Tres` | **unresolved** (review queue) |
 | `I am BULL` | **unresolved** (review queue) |
-| `JOHANNA` | **unresolved** (review queue) |
+| `JOHANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHANNA THE BAPTISER|JOHANNA THE BAPTISER]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `Nations` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `Nations` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `Poors (goddess)` | **unresolved** (review queue) |
 | `Rrrss` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `TCHESERT` | **unresolved** (review queue) |
-| `WasHED` | **unresolved** (review queue) |
+| `WasHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WoMAN (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

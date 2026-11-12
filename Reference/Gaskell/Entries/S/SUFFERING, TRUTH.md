@@ -35,23 +35,23 @@ tags:
 | `BaspyLon` | **unresolved** (review queue) |
 | `Bonpace` | **unresolved** (review queue) |
 | `CapTIviIry` | **unresolved** (review queue) |
-| `FETTERS` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `FETTERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FETTERS ON A MAN|FETTERS ON A MAN]]; [[Reference/Gaskell/Entries/F/FETTERS ON THE SELF, OR SOUL|FETTERS ON THE SELF, OR SOUL]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Lost (forest)` | **unresolved** (review queue) |
-| `MONK` | **unresolved** (review queue) |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `NrpAnas` | **unresolved** (review queue) |
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `ORIGINAL SIN` | resolved (full-head) → [[Reference/Gaskell/Entries/O/ORIGINAL SIN|ORIGINAL SIN]] |
 | `PENANCES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCES|PENANCES]] |
-| `PRISONERS` | **unresolved** (review queue) |
-| `RAHU` | **candidate (first-segment only)** → possible `RAHU, THE ASCENDING NODE` (not linked) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `SoRROwW` | **unresolved** (review queue) |
+| `PRISONERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
+| `RAHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAHU, THE ASCENDING NODE|RAHU, THE ASCENDING NODE]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `SoRROwW` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
-| `TaARTARUS` | **unresolved** (review queue) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `TaARTARUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 
 ## Full OCR entry body (exact)
 

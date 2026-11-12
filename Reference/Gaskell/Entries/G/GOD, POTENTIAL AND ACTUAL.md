@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CoNDITIONED` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CoNDITIONED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONDITIONED FINITE|CONDITIONED FINITE]] |
 | `Derry` | **unresolved** (review queue) |
 | `FATHER` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
@@ -46,10 +46,10 @@ tags:
 | `MINnp (good)` | **unresolved** (review queue) |
 | `Mownap` | **unresolved** (review queue) |
 | `Ocpoap` | **unresolved** (review queue) |
-| `PraGApatTi` | **unresolved** (review queue) |
+| `PraGApatTi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SE tr` | **unresolved** (review queue) |
-| `Son or Gop` | **unresolved** (review queue) |
+| `Son or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

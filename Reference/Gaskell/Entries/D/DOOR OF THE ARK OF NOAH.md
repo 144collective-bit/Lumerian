@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARE` | **unresolved** (review queue) |
+| `ARE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARE OF SAFETY|ARE OF SAFETY]] |
 | `WINDOW OF ABE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `JARED` | **candidate (first-segment only)** → possible `JARED, FATHER OF ENOCH` (not linked) |
+| `JARED` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JARED, FATHER OF ENOCH|JARED, FATHER OF ENOCH]] |
 | `Sovun (middle)` | **unresolved** (review queue) |
 | `WALKING WITH GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 

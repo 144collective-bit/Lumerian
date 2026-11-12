@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DIscipPres` | **unresolved** (review queue) |
+| `DIscipPres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JESUS OF THE GOSPELS` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESUS OF THE GOSPELS|JESUS OF THE GOSPELS]] |
-| `JUDAS` | **unresolved** (review queue) |
+| `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
 | `NicHT (darkness)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

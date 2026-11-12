@@ -36,13 +36,13 @@ tags:
 | `CLEANSING` | **unresolved** (review queue) |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `JEALOUS GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JEALOUS GOD|JEALOUS GOD]] |
-| `JEHOVAH` | **unresolved** (review queue) |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `JEHOVAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JEHOVAH OR YAHVEH|JEHOVAH OR YAHVEH]] |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `VoIcE` | **unresolved** (review queue) |
-| `VULTURE (prey)` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `VoIcE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
+| `VULTURE (prey)` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

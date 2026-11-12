@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `APPENDAGES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APPENDAGES|APPENDAGES]] |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `LIVER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIVER|LIVER]] |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
-| `ROASTED FLESH` | **unresolved** (review queue) |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
+| `ROASTED FLESH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROASTED FLESH OF SACRIFICE|ROASTED FLESH OF SACRIFICE]] |
 | `StomacH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STOMACH|STOMACH]] |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

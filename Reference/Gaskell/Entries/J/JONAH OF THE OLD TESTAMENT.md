@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `JEsusS (fish)` | **unresolved** (review queue) |
 | `Sian` | **unresolved** (review queue) |
-| `WHALE` | **unresolved** (review queue) |
+| `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,26 +34,26 @@ tags:
 |---|---|
 | `Anc. MAN` | **unresolved** (review queue) |
 | `CHILDREN OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] |
-| `DiscrPLes` | **unresolved** (review queue) |
-| `DisMEMBERMENT` | **unresolved** (review queue) |
+| `DiscrPLes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
+| `DisMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `FATHER` | **unresolved** (review queue) |
 | `Germs` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `INCARNATION OF soULs` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Lrwss` | **unresolved** (review queue) |
 | `Marvurs` | **unresolved** (review queue) |
 | `MoNAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `QuALITIeEs` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `SWORD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
-| `WARBIORS` | **unresolved** (review queue) |
+| `WARBIORS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

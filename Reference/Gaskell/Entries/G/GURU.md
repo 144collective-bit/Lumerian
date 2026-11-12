@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Guru` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
-| `Hermes` | **unresolved** (review queue) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `MASTER OF WISDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]] |
 
 ## Full OCR entry body (exact)

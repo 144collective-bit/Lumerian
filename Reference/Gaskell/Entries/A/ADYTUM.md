@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKRAGUS` | **unresolved** (review queue) |
-| `CABIN` | **unresolved** (review queue) |
+| `AKRAGUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AKRAGAS, THE SACRED CITY|AKRAGAS, THE SACRED CITY]] |
+| `CABIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `KAABA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
-| `SHRINE` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

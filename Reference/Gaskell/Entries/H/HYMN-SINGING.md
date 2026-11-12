@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APoLto` | **unresolved** (review queue) |
+| `APoLto` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `BrrTH OF OSIRE` | **unresolved** (review queue) |
 | `CARPENTER` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARPENTER|CARPENTER]] |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
-| `GATHAS (chanting)` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
+| `GATHAS (chanting)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
 | `Gops` | **unresolved** (review queue) |
-| `HaRMONY` | **unresolved** (review queue) |
+| `HaRMONY` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `HEavEn` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Mrtopy` | **unresolved** (review queue) |
 | `Mount or OLIvEs` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `Srvazrs` | **unresolved** (review queue) |
 | `Sone` | **unresolved** (review queue) |
 

@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Evunevs` | **unresolved** (review queue) |
 | `Lesvos` | **unresolved** (review queue) |
-| `THoas` | **candidate (first-segment only)** → possible `THOAS, FATHER OF HYPSIPYLE` (not linked) |
+| `THoas` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
 
 ## Full OCR entry body (exact)
 

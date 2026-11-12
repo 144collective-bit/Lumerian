@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `DESERTS` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `DESERTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 | `HovusEHOLDER` | **unresolved** (review queue) |
-| `SNATAKA` | **unresolved** (review queue) |
-| `TREES (tall)` | **candidate (first-segment only)** → possible `TREES, TALL` (not linked) |
-| `VITAL aIns` | **unresolved** (review queue) |
+| `SNATAKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
+| `TREES (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
+| `VITAL aIns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WILDERNESS OF JUDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WILDERNESS OF JUDEA|WILDERNESS OF JUDEA]] |
 
 ## Full OCR entry body (exact)

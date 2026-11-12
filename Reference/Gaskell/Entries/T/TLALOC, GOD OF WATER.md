@@ -35,18 +35,18 @@ tags:
 | `BLuE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLUE|BLUE]] |
 | `CLoups` | **unresolved** (review queue) |
 | `Cotours` | **unresolved** (review queue) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
 | `MOUNTAIN TOP` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
-| `OCEANUS` | **candidate (first-segment only)** → possible `OCEANUS, SON OF HEAVEN AND EARTH` (not linked) |
-| `POSEIDON` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `OCEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
+| `POSEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Raryn` | **unresolved** (review queue) |
-| `SowER` | **unresolved** (review queue) |
-| `THUNDER` | **unresolved** (review queue) |
+| `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+| `THUNDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THUNDER OF GOD OR HEAVEN|THUNDER OF GOD OR HEAVEN]] |
 | `ToOSK` | **unresolved** (review queue) |
-| `Varuna` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
+| `Varuna` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `Winps (four)` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |

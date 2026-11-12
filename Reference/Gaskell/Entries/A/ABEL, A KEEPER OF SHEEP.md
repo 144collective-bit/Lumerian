@@ -46,10 +46,10 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 
 | Target (OCR) | Status |
 |---|---|
-| `Atom` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `Atom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `Carn` | **unresolved** (review queue) |
 | `Lams` | **unresolved** (review queue) |
-| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
+| `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
 
 ## Aliases / OCR variants (evidenced only)
 

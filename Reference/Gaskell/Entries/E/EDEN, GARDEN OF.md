@@ -32,28 +32,28 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADam (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADam (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
 | `ARYANA` | **unresolved** (review queue) |
 | `BIRD’s NEST` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CURSE (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
 | `East` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
-| `GARDEN` | **unresolved** (review queue) |
-| `GaRDEN (flowers)` | **unresolved** (review queue) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `GaRDEN (flowers)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `GROVES` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MusPELLHEIM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
 | `Nop` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `TREASURES (cave)` | **unresolved** (review queue) |
-| `Tyrus` | **unresolved** (review queue) |
+| `TREASURES (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
+| `Tyrus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
 | `WIspom` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

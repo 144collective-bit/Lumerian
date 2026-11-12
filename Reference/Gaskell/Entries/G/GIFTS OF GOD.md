@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `GRACE` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `GRACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `ImacEe` | **unresolved** (review queue) |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
 | `MICROCOSM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |

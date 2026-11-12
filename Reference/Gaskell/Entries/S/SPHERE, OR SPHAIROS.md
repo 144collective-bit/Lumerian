@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CavE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `CavE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Cross (ankh)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
-| `Disk` | **candidate (first-segment only)** → possible `DISK, WINGED SUN-` (not linked) |
+| `Disk` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISK, WINGED SUN-|DISK, WINGED SUN-]] |
 | `FarsHer` | **unresolved** (review queue) |
-| `HrranyaGARBHA` | **unresolved** (review queue) |
-| `MacrocosmM` | **unresolved** (review queue) |
+| `HrranyaGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `MacrocosmM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Mownap` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SuN (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `SuUN-DISE` | **unresolved** (review queue) |
+| `SuUN-DISE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUN-DISK, WINGED|SUN-DISK, WINGED]] |
 | `Wines` | **unresolved** (review queue) |
 | `WorD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 

@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR (fire)` | **unresolved** (review queue) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `APPENDAGES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APPENDAGES|APPENDAGES]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ARENA` | **unresolved** (review queue) |
-| `BODY OF OSIRIS` | **candidate (first-segment only)** → possible `BODY OF OSIRIS, OR OF JASON` (not linked) |
-| `EarrTH` | **unresolved** (review queue) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
+| `BODY OF OSIRIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODY OF OSIRIS, OR OF JASON|BODY OF OSIRIS, OR OF JASON]] |
+| `EarrTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FrrTers` | **unresolved** (review queue) |
 | `GuHvu` | **unresolved** (review queue) |
 | `[iuwss` | **unresolved** (review queue) |
 | `MEMBERS` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SRcuva` | **unresolved** (review queue) |
-| `UPaBHRIT` | **unresolved** (review queue) |
+| `UPaBHRIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UPABHRIT SPOON|UPABHRIT SPOON]] |
 
 ## Full OCR entry body (exact)
 

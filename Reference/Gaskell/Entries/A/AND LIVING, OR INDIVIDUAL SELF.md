@@ -36,31 +36,31 @@ tags:
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
 | `Brreps (two)` | **unresolved** (review queue) |
-| `Branma` | **unresolved** (review queue) |
+| `Branma` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `BcppsI` | **unresolved** (review queue) |
 | `CHrist` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `EMPEROR` | **candidate (first-segment only)** → possible `EMPEROR, FIRST` (not linked) |
-| `FiG-FRvIT` | **unresolved** (review queue) |
+| `EMPEROR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EMPEROR, FIRST|EMPEROR, FIRST]] |
+| `FiG-FRvIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
 | `F1xsT-BORN son` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `GoDHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `HEROIC RUNNER` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `IsvaRA` | **unresolved** (review queue) |
 | `JEsus (Son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Jos` | **unresolved** (review queue) |
-| `Maui` | **candidate (first-segment only)** → possible `MAUI, THE POTIKI` (not linked) |
-| `MessraH` | **unresolved** (review queue) |
+| `Maui` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAUI, THE POTIKI|MAUI, THE POTIKI]] |
+| `MessraH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MESSIAH|MESSIAH]] |
 | `Monap` | **unresolved** (review queue) |
 | `Prau` | **unresolved** (review queue) |
-| `Srasons` | **unresolved** (review queue) |
+| `Srasons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Son or aop` | **unresolved** (review queue) |
-| `Sons OF Gop` | **unresolved** (review queue) |
+| `Sons OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `Trinity` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

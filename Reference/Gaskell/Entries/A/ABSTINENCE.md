@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `FASTING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
 | `PENANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] |

@@ -35,7 +35,7 @@ tags:
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `JusTicE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Sau. FEED ;` | **unresolved** (review queue) |
 

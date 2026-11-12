@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AposTLEs` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
+| `AposTLEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
 | `ARGONAUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `DrscrPtes` | **unresolved** (review queue) |
-| `Jason` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `ORACLE` | **unresolved** (review queue) |
+| `Jason` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `ORACLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/ORACLE CONSULTED|ORACLE CONSULTED]] |
 | `Sup` | **unresolved** (review queue) |
 | `TwE.vz` | **unresolved** (review queue) |
 

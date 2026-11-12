@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
 | `Torey` | **unresolved** (review queue) |
-| `WALKS (six)` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `WALKS (six)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 | `WOLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
 
 ## Full OCR entry body (exact)

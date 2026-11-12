@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APARAGITA` | **candidate (first-segment only)** → possible `APARAGITA, PALACE (UNCONQUERABLE)` (not linked) |
-| `DEVAYANA` | **unresolved** (review queue) |
+| `APARAGITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `ILy4` | **unresolved** (review queue) |
-| `SaLaGya` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
-| `TIME` | **unresolved** (review queue) |
+| `SaLaGya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
 
 ## Full OCR entry body (exact)
 

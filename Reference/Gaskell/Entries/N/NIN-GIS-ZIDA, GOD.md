@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `Tammuz (god)` | **candidate (first-segment only)** → possible `TAMMUZ, GOD,—LOWER` (not linked) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `Tammuz (god)` | resolved (qualified head) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 
 ## Full OCR entry body (exact)
 

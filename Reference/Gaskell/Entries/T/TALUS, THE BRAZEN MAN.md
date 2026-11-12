@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EGAEON` | **unresolved** (review queue) |
-| `BRIAREUS` | **candidate (ambiguous first-segment)** → BRIAREUS, MEN, ONE-LEGGED; BRIAREUS, OR AEGAEON (not linked) |
+| `BRIAREUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRIAREUS, MEN, ONE-LEGGED|BRIAREUS, MEN, ONE-LEGGED]]; [[Reference/Gaskell/Entries/B/BRIAREUS, OR AEGAEON|BRIAREUS, OR AEGAEON]] |
 | `CRETE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRETE|CRETE]] |
 | `Doge (Vanghapara)` | **unresolved** (review queue) |
-| `IcHor` | **unresolved** (review queue) |
+| `IcHor` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICHOR IN THE VEIN OF TALUS|ICHOR IN THE VEIN OF TALUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,31 +32,31 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMITAUGAS` | **unresolved** (review queue) |
+| `AMITAUGAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMITAUGAS COUCH (ENDLESS SPLENDOUR)|AMITAUGAS COUCH (ENDLESS SPLENDOUR)]] |
 | `ASHADHA` | **unresolved** (review queue) |
 | `ASURAs` | **unresolved** (review queue) |
-| `BABEL` | **unresolved** (review queue) |
-| `BRICK` | **unresolved** (review queue) |
+| `BABEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]]; [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] |
+| `BRICK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRICK FOR STONE|BRICK FOR STONE]] |
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
-| `City` | **candidate (first-segment only)** → possible `CITY, HOLY` (not linked) |
+| `City` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] |
 | `Conrusion` | **unresolved** (review queue) |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `East` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `FoRM AND NAME` | **candidate (first-segment only)** → possible `FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH` (not linked) |
-| `GOAT (white)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `FoRM AND NAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
+| `GOAT (white)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `Gops` | **unresolved** (review queue) |
 | `LancuaGr` | **unresolved** (review queue) |
 | `LyIps` | **unresolved** (review queue) |
-| `MaisHaAN` | **unresolved** (review queue) |
+| `MaisHaAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
 | `Moorn` | **unresolved** (review queue) |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `PEACE (sword)` | **candidate (first-segment only)** → possible `PEACE, OR REST` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SacriFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `PEACE (sword)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SacriFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
-| `SHINAR` | **unresolved** (review queue) |
+| `SHINAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHINAR LAND|SHINAR LAND]] |
 | `TAMAS` | **unresolved** (review queue) |
 | `ToncuE` | **unresolved** (review queue) |
 | `Worp. SPEED AND LOITERING :-Symbols of energy (rajas)` | **unresolved** (prose-bleed / overlong token; not linked) |

@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `OF KRISHNA` | **unresolved** (review queue) |
-| `OF ZOROASTER` | **candidate (first-segment only)** → possible `OF ZOROASTER, RELIGION, PAVILION` (not linked) |
-| `GLORY (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `OF ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OF ZOROASTER, RELIGION, PAVILION|OF ZOROASTER, RELIGION, PAVILION]] |
+| `GLORY (divine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `KINGLY GLORY` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KINGLY GLORY|KINGLY GLORY]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

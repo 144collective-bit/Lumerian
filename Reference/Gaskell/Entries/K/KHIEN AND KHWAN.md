@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `EarrTa` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `KHWAN` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
 | `Martrer` | **unresolved** (review queue) |
 | `PRakEit1` | **unresolved** (review queue) |
 | `Sprit` | **unresolved** (review queue) |
-| `Tao` | **unresolved** (review queue) |
+| `Tao` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
 | `Yana` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

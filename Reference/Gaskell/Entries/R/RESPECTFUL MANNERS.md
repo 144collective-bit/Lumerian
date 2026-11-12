@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CIVILISING` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `Opposites` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `Races` | **unresolved** (review queue) |
+| `Opposites` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `RELATIVE` | **unresolved** (review queue) |
-| `Yao` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NicOTHEA` | **candidate (first-segment only)** → possible `NICOTHEA, ZETES CALAMITIES` (not linked) |
-| `OOCYPETE` | **unresolved** (review queue) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
-| `ZETES` | **unresolved** (review queue) |
+| `NicOTHEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NICOTHEA HARPY|NICOTHEA HARPY]]; [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
+| `OOCYPETE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+| `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
 
 ## Full OCR entry body (exact)
 

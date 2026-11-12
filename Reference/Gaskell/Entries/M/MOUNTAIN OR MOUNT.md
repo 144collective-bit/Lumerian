@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
 | `AMENTET` | **unresolved** (review queue) |
-| `ARARAT` | **unresolved** (review queue) |
-| `Caucasus` | **unresolved** (review queue) |
+| `ARARAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARARAT MOUNTAINS|ARARAT MOUNTAINS]] |
+| `Caucasus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] |
 | `CROWN (upper)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
-| `Dz1sCIPLES` | **unresolved** (review queue) |
-| `Goat (white)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Dz1sCIPLES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
+| `Goat (white)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `Ham or HEAD` | **unresolved** (review queue) |
 | `Hit countTRY` | **unresolved** (review queue) |
 | `HIMavan` | **unresolved** (review queue) |
 | `Kariasa` | **unresolved** (review queue) |
 | `Kapa` | **unresolved** (review queue) |
-| `MULTITUDES` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `MULTITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULTITUDES HEALED|MULTITUDES HEALED]] |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Srrrinac` | **unresolved** (review queue) |
 | `TEN DAYS` | **unresolved** (review queue) |
 | `TRANSFIGURATION` | **unresolved** (review queue) |

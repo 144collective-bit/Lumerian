@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `Sura` | **unresolved** (review queue) |
 | `LVI.). “In The Pilgrim’s Progress` | **unresolved** (review queue) |
 | `in the house called Beautiful` | **unresolved** (review queue) |
 | `all the inmates` | **unresolved** (review queue) |
 | `except the porter` | **unresolved** (review queue) |
 | `are females.’’—Gro. OFrror. See BLANDISHMENTS` | **unresolved** (review queue) |
-| `DANCE` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `DANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
 | `(circle)` | **unresolved** (review queue) |
-| `EstHER` | **candidate (first-segment only)** → possible `ESTHER, BOOK OF` (not linked) |
+| `EstHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `GARDEN OF EDEN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]] |
 | `Goris` | **unresolved** (review queue) |
-| `Musrs` | **unresolved** (review queue) |
+| `Musrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 
 ## Full OCR entry body (exact)

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGER` | **unresolved** (review queue) |
+| `ANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
 | `JEALOUS’ WRATH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

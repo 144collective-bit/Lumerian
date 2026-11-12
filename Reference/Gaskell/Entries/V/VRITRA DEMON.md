@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrows (divine)` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
+| `Arrows (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SoMA` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `SoMA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 
 ## Full OCR entry body (exact)
 

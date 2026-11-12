@@ -35,7 +35,7 @@ tags:
 | `Buppusi` | **unresolved** (review queue) |
 | `Farrag (miracles)` | **unresolved** (review queue) |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Suir on sea` | **unresolved** (review queue) |
-| `Storm` | **unresolved** (review queue) |
-| `WAVES` | **unresolved** (review queue) |
+| `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
+| `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 
 ## Full OCR entry body (exact)
 

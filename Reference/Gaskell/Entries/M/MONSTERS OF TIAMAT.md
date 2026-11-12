@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `KaBANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
-| `TiaMaT` | **candidate (first-segment only)** → possible `TIAMAT, THE SPIRIT OF CHAOS` (not linked) |
+| `KaBANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
+| `TiaMaT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]] |
 | `WHALES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

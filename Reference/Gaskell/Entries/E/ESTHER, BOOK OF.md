@@ -32,25 +32,25 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `BuDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `BuDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `Evt` | **unresolved** (review queue) |
 | `Exmz` | **unresolved** (review queue) |
-| `Frast` | **unresolved** (review queue) |
-| `Garments (higher)` | **unresolved** (review queue) |
+| `Frast` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
+| `Garments (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]] |
 | `Goris` | **unresolved** (review queue) |
 | `Hrerop` | **unresolved** (review queue) |
-| `Hours` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
-| `Israr` | **unresolved** (review queue) |
-| `JEws` | **unresolved** (review queue) |
-| `JoB` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
-| `MERODACH` | **unresolved** (review queue) |
+| `Hours` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
+| `Israr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
+| `JEws` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
+| `MERODACH` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MERODACH OR MARDUE|MERODACH OR MARDUE]] |
 | `Patace` | **unresolved** (review queue) |
 | `ReruRn` | **unresolved** (review queue) |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `VIRGIN` | **unresolved** (review queue) |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

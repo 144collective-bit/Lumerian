@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ArnizuRna` | **unresolved** (review queue) |
+| `ArnizuRna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARIZURA, NECK OF|ARIZURA, NECK OF]] |
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
-| `PHINEUv` | **unresolved** (review queue) |
+| `PHINEUv` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 
 ## Full OCR entry body (exact)
 

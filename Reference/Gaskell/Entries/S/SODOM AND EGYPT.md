@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRUCIFIXION OF CHRIST (Rev.)` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `CRUCIFIXION OF CHRIST (Rev.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `Eayrt (lower)` | **unresolved** (review queue) |
 | `Lot. 700` | **unresolved** (review queue) |
 

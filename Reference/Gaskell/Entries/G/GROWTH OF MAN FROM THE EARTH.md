@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `Earth` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Man CRAWLED` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PRAGAPATI RELAXED` | **candidate (first-segment only)** → possible `PRAGAPATI RELAXED, AND AFTERWARDS RESTORED` (not linked) |
+| `PRAGAPATI RELAXED` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] |
 
 ## Full OCR entry body (exact)
 

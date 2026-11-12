@@ -33,30 +33,30 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADEPT` | **unresolved** (review queue) |
-| `ARHAT` | **unresolved** (review queue) |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ASEKA` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
-| `FouR BEINGS` | **unresolved** (review queue) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
+| `FouR BEINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INITIATION` | **unresolved** (review queue) |
+| `INITIATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `Isis` | **unresolved** (review queue) |
 | `Krys` | **unresolved** (review queue) |
 | `Mansy` | **unresolved** (review queue) |
-| `NEPHTHYS` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 | `OsIRIs` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Ri` | **unresolved** (review queue) |
 | `Toots` | **unresolved** (review queue) |
 | `Toms` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 | `Winps (four)` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
-| `WoRLDs (five)` | **unresolved** (review queue) |
+| `WoRLDs (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

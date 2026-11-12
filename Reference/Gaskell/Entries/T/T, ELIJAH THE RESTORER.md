@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BripGE (kinvat)` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
+| `BripGE (kinvat)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRIDGE, KINVAT, OR CHINVAT|BRIDGE, KINVAT, OR CHINVAT]] |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `Herrop` | **unresolved** (review queue) |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 

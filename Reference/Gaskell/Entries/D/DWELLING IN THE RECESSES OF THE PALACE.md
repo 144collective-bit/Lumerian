@@ -38,13 +38,13 @@ tags:
 | `HovusE` | **unresolved** (review queue) |
 | `HOvUSEHOLDER` | **unresolved** (review queue) |
 | `Inpivipuatrry` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `PALACE` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `PLAckK` | **unresolved** (review queue) |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

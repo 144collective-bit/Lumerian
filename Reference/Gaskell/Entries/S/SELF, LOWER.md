@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGER` | **unresolved** (review queue) |
+| `ANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
 | `ATHWYA` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JEALOUS` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JEALOUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JEALOUS GOD|JEALOUS GOD]] |
 | `LAZARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `MEssIAH` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MESSIAH|MESSIAH]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SCOURGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
 | `SLEEP (waking)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP|SLEEP]] |
-| `Son or Gop` | **unresolved** (review queue) |
+| `Son or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Sou. (highest)` | **unresolved** (review queue) |
 | `Spuarr` | **unresolved** (review queue) |
 

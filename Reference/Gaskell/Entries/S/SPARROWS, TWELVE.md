@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
-| `Boys (bad)` | **candidate (first-segment only)** → possible `BOYS, BAD` (not linked) |
-| `DIscrrPLes` | **unresolved** (review queue) |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `Boys (bad)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BOYS, BAD|BOYS, BAD]] |
+| `DIscrrPLes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `Hasit` | **unresolved** (review queue) |
 | `JEsus` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `JEWs` | **unresolved** (review queue) |
-| `JOSEPH` | **candidate (ambiguous first-segment)** → JOSEPH, HUSBAND OF MARY; JOSEPH, SON OF JACOB (not linked) |
-| `POOLS (seven)` | **unresolved** (review queue) |
+| `JEWs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
+| `JOSEPH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]]; [[Reference/Gaskell/Entries/J/JOSEPH, SON OF JACOB|JOSEPH, SON OF JACOB]] |
+| `POOLS (seven)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/POOLS OF CLAY, SEVEN|POOLS OF CLAY, SEVEN]]; [[Reference/Gaskell/Entries/P/POOLS OF THE HOLY GODDESS|POOLS OF THE HOLY GODDESS]] |
 | `SABBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `STRIKING. SPEAR :-A symbol of the Divine Ray of Life through all nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which puts an end to illusion. ‘“‘The spear of the Maruts is meant for the lightning` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -59,19 +59,19 @@ tags:
 | `and then dragged his body through all the land with the spear thrust through his head and his back” (Legend of the Winged Sun-disk).— Bunge` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Gods of the Egyptians. This decapitation of ‘‘Set” is a symbol of depriving evil of its intelligent quality. The Higher Self now united the consciousness of the lower planes with his own` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `so that no longer was there separateness between the Self on the upper and the Self on the lower planes. The ‘‘spear” is @& symbol of the Divine Ray which unifies the consciousness in wisdom` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `love` | **candidate (first-segment only)** → possible `LOVE, THE UNITER OF ALL` (not linked) |
+| `love` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
 | `and power. See Anrows (divine)` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HEaD` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAD|HEAD]] |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `JEWEL sPEAR` | **unresolved** (review queue) |
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
 | `Marourts` | **unresolved** (review queue) |
 | `Ox-LEADER` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OX-LEADER|OX-LEADER]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SALVE` | **unresolved** (review queue) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
-| `SHIELD` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+| `SHIELD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHIELD AND SPEAR|SHIELD AND SPEAR]] |
 
 ## Full OCR entry body (exact)
 

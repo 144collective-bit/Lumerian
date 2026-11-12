@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Buppu1` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `MusE` | **candidate (first-segment only)** → possible `MUSE, THE WHITE-ARMED MAIDEN` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `MusE` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSE, THE WHITE-ARMED MAIDEN|MUSE, THE WHITE-ARMED MAIDEN]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WISDOM. KAMA :-—= A symbol of desire which is love inverted. Thatis` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `desire is attraction to the outer nature` | **unresolved** (review queue) |
 | `whereas love is attraction to the inner. Thus the twain are antagonists. ‘‘The world was fashioned from the body of a primitive being` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -45,7 +45,7 @@ tags:
 | `desire` | **unresolved** (review queue) |
 | `and that was the first “The lower nature of the soul is KAPILA said to be formed of the “ body` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `” or outer envelope` | **unresolved** (review queue) |
-| `—astro-mental` | **unresolved** (review queue) |
+| `—astro-mental` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASTRO-MENTAL AND ASTROPHYSICAL PLANES|ASTRO-MENTAL AND ASTROPHYSICAL PLANES]] |
 | `—of the Archetypal Man` | **unresolved** (review queue) |
 | `who` | **unresolved** (review queue) |
 | `when made perfect through tnvolution` | **unresolved** (review queue) |
@@ -68,16 +68,16 @@ tags:
 | `Vol. II. p. 173. See Arnc. MAN` | **unresolved** (review queue) |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `Asuna` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Karma` | **unresolved** (review queue) |
-| `MARA` | **candidate (first-segment only)** → possible `MARA, THE TEMPTER` (not linked) |
+| `MARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `SEKER` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `SHAI` | **candidate (first-segment only)** → possible `SHAI, GOD OF LUCK OR DESTINY` (not linked) |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `SEKER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKER OR SOKARIS|SEKER OR SOKARIS]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `SHAI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAI, GOD OF LUCK OR DESTINY|SHAI, GOD OF LUCK OR DESTINY]] |
 | `SLEEPING` | **unresolved** (review queue) |
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 

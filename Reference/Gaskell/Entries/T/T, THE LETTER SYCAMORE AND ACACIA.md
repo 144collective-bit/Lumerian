@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Acacia` | **unresolved** (review queue) |
+| `Acacia` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ACACIA AND SYCAMORE (SHITTIM) TREES|ACACIA AND SYCAMORE (SHITTIM) TREES]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `Bows` | **unresolved** (review queue) |
-| `HatTHor` | **unresolved** (review queue) |
-| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `Bows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BOWS OF BOAT|BOWS OF BOAT]] |
+| `HatTHor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
+| `Horizons` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
-| `ZACCHEUS` | **candidate (first-segment only)** → possible `ZACCHEUS, A CHIEF PUBLICAN` (not linked) |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
+| `ZACCHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZACCHEUS, A CHIEF PUBLICAN|ZACCHEUS, A CHIEF PUBLICAN]] |
 
 ## Full OCR entry body (exact)
 

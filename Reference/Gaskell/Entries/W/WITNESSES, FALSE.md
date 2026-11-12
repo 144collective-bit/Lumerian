@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `IDOL PRIEST` | **unresolved** (review queue) |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arms (body)` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `Arms (body)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 
 ## Full OCR entry body (exact)
 

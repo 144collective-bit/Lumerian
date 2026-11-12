@@ -32,40 +32,40 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCENSION` | **unresolved** (review queue) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `ASCETIO` | **unresolved** (review queue) |
 | `ATONEmEenT` | **unresolved** (review queue) |
-| `ATTACHMENT` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `CapPTIVITY` | **unresolved** (review queue) |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `CONSECRATION` | **unresolved** (review queue) |
-| `CouRSsE` | **unresolved** (review queue) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
+| `CouRSsE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/COURSE, OR HORSE-RIDING GROUND|COURSE, OR HORSE-RIDING GROUND]] |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `OF JESUS` | **unresolved** (review queue) |
 | `DESTROYING EVILS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DESTROYING EVILS|DESTROYING EVILS]] |
 | `EscapPe` | **unresolved** (review queue) |
 | `EXILE` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EXILE|EXILE]] |
 | `Fatt` | **unresolved** (review queue) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `KHEPERA` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `PEACE` | **candidate (first-segment only)** → possible `PEACE, OR REST` (not linked) |
-| `REBIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `PEACE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+| `REBIRTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD|REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `REMISSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
-| `SCARABEUS` | **unresolved** (review queue) |
-| `SIAMAK` | **unresolved** (review queue) |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SCARABEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SCARABAUS|SCARABAUS]] |
+| `SIAMAK` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIAMAK AND VESCHAK|SIAMAK AND VESCHAK]] |
 | `SUNSETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
 | `VIBHU` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
-| `Works (wisdom)` | **unresolved** (review queue) |
+| `Works (wisdom)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
 
 ## Full OCR entry body (exact)
 

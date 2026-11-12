@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BopuHisatva` | **unresolved** (review queue) |
+| `BopuHisatva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `Buppui` | **unresolved** (review queue) |
 | `Eaa` | **unresolved** (review queue) |
-| `HUvItTZILOPOCHTLI` | **unresolved** (review queue) |
-| `LEMMENKAINEN` | **unresolved** (review queue) |
+| `HUvItTZILOPOCHTLI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUITZILOPOCHTLI, WAR-GOD|HUITZILOPOCHTLI, WAR-GOD]] |
+| `LEMMENKAINEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LEMMINKAINEN|LEMMINKAINEN]] |
 | `MarsaTTaA` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `VIRGIN` | **unresolved** (review queue) |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

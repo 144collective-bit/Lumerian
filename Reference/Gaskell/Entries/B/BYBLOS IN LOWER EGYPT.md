@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoLumn` | **unresolved** (review queue) |
-| `ScENT` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
-| `WORSHIP` | **unresolved** (review queue) |
+| `ScENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
+| `WORSHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

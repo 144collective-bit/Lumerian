@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Haves` | **unresolved** (review queue) |
 | `Lot` | **unresolved** (review queue) |
-| `Ram` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
+| `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 
 ## Full OCR entry body (exact)
 

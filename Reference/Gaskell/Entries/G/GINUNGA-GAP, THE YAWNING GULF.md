@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Asyss` | **unresolved** (review queue) |
-| `CHaos` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `CHaos` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
-| `HIGHER` | **unresolved** (review queue) |
+| `HIGHER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]]; [[Reference/Gaskell/Entries/H/HIGHER AND NATURES|HIGHER AND NATURES]] |
 | `Sanps` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `WAVES` | **unresolved** (review queue) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 | `Yair` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

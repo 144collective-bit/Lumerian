@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABORTION` | **unresolved** (review queue) |
+| `ABORTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ABORTION PRODUCED BY WISDOM|ABORTION PRODUCED BY WISDOM]] |
 | `ASONS` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `Evo.urion` | **unresolved** (review queue) |
-| `NEHEMAUT` | **candidate (first-segment only)** → possible `NEHE-MAUT, SPOUSE OF THOTH` (not linked) |
-| `SEXUAL` | **unresolved** (review queue) |
+| `NEHEMAUT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHE-MAUT, SPOUSE OF THOTH|NEHE-MAUT, SPOUSE OF THOTH]] |
+| `SEXUAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEXUAL UNION|SEXUAL UNION]] |
 | `Strire` | **unresolved** (review queue) |
 | `Wrspom` | **unresolved** (review queue) |
 

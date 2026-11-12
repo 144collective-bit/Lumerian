@@ -35,10 +35,10 @@ tags:
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `Eartu` | **unresolved** (review queue) |
 | `Fgostr` | **unresolved** (review queue) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `PrRaLayaA` | **unresolved** (review queue) |
+| `PrRaLayaA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `SABBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `SNow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |

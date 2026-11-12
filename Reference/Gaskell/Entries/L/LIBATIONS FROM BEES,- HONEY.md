@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Brss (libations)` | **unresolved** (review queue) |
-| `Honky` | **unresolved** (review queue) |
+| `Honky` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,29 +33,29 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apamas (higher)` | **unresolved** (review queue) |
-| `ADRASTIA` | **candidate (first-segment only)** → possible `ADRASTIA, CRETAN NYMPH` (not linked) |
+| `ADRASTIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ADRASTIA, CRETAN NYMPH|ADRASTIA, CRETAN NYMPH]] |
 | `Arc. MAN` | **unresolved** (review queue) |
-| `BimTH OF JESUS` | **unresolved** (review queue) |
+| `BimTH OF JESUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Butt (primeval)` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `‘ERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `InNCARNATION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `‘ERMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ERNMENT, LEGS OF A MAN|ERNMENT, LEGS OF A MAN]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `InNCARNATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `IsvaRa` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `MorTuEer (divine)` | **unresolved** (review queue) |
 | `OGpoap` | **unresolved** (review queue) |
-| `PraGcipati` | **unresolved** (review queue) |
-| `SrEasons` | **unresolved** (review queue) |
+| `PraGcipati` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SrEasons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Seep` | **unresolved** (review queue) |
 | `Sons or cop` | **unresolved** (review queue) |
 | `SorHia ACHAMOTH` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
-| `WOMB (cosmic)` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+| `WOMB (cosmic)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]] |
 
 ## Full OCR entry body (exact)
 

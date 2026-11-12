@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Demons` | **unresolved** (review queue) |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `Devirs` | **unresolved** (review queue) |
 | `Houses Fo! CORPSES` | **unresolved** (review queue) |
-| `MONSTERS` | **unresolved** (review queue) |
+| `MONSTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MONSTERS OF TIAMAT|MONSTERS OF TIAMAT]] |
 | `WHALES. BIRD’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

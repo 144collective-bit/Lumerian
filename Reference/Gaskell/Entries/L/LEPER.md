@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism` | **unresolved** (review queue) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
 | `BLOOD OF THE LAMB` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD OF THE LAMB|BLOOD OF THE LAMB]] |
 | `CLEANSING` | **unresolved** (review queue) |
-| `FoUNTAIN` | **unresolved** (review queue) |
+| `FoUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
 | `TEN LEPERS` | **unresolved** (review queue) |
-| `WASHED` | **unresolved** (review queue) |
+| `WASHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

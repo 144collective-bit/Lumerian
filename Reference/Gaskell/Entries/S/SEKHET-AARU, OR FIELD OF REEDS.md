@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `BIRTH OF HORUS` | **unresolved** (review queue) |
+| `BIRTH OF HORUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF HORUS THE CHILD, OR HARPOCRATES|BIRTH OF HORUS THE CHILD, OR HARPOCRATES]] |
 | `Deap` | **unresolved** (review queue) |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
-| `Harvest` | **unresolved** (review queue) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `Lion-cop` | **unresolved** (review queue) |
 | `Marsy` | **unresolved** (review queue) |
-| `Net (fish)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net (fish)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `Orrerino` | **unresolved** (review queue) |
 | `Preacurs` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
-| `UNION (reeds)` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `UNION (reeds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
 
 ## Full OCR entry body (exact)

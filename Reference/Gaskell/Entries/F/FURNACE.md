@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BupDHI` | **unresolved** (review queue) |
-| `Ecypt` | **unresolved** (review queue) |
+| `BupDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `Ecypt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EGYPT|EGYPT]] |
 | `FIRE oF HELL` | **unresolved** (review queue) |
 | `FrmE (destroying)` | **unresolved** (review queue) |
 | `Haprs` | **unresolved** (review queue) |
 | `HEtL` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
-| `MAN (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
+| `MAN (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `TrxrH (gnashing)` | **unresolved** (review queue) |
-| `ZION` | **unresolved** (review queue) |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

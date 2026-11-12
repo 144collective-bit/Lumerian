@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BupDHIC PLANE` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `BupDHIC PLANE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Kinqapom` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `SOUTH` | **unresolved** (review queue) |
+| `SOUTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]]; [[Reference/Gaskell/Entries/S/SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA|SOUTH QUARTER IN SCRIPTURES OF PERSIA, INDIA, BURMA]]; [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 
 ## Full OCR entry body (exact)
 

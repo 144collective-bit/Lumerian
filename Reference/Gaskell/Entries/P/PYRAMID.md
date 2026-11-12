@@ -33,31 +33,31 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Annu` | **unresolved** (review queue) |
-| `Atma` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `CaUsaLBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `CauRCcH` | **unresolved** (review queue) |
 | `Company (gods)` | **unresolved** (review queue) |
 | `Cong` | **unresolved** (review queue) |
 | `HovsE IN HEAVEN` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KaasBa` | **unresolved** (review queue) |
+| `KaasBa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `North` | **unresolved** (review queue) |
-| `PALace` | **unresolved** (review queue) |
-| `PrRsonaLiry` | **unresolved** (review queue) |
-| `REN` | **candidate (first-segment only)** → possible `REN, OR NAME` (not linked) |
+| `North` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
+| `PALace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
+| `PrRsonaLiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
 | `Sprit` | **unresolved** (review queue) |
 | `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
-| `Stone` | **unresolved** (review queue) |
-| `Srupa` | **unresolved** (review queue) |
+| `Stone` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `Srupa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `TEM` | **unresolved** (review queue) |
 | `Tempter` | **unresolved** (review queue) |
 | `Triap` | **unresolved** (review queue) |
 | `Trinrry` | **unresolved** (review queue) |
 | `Tsuru` | **unresolved** (review queue) |
-| `WItnESSES` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WItnESSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, ON EARTH|WITNESSES, THREE, ON EARTH]]; [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

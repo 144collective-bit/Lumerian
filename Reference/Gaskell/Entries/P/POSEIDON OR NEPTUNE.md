@@ -32,31 +32,31 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGENOR` | **candidate (first-segment only)** → possible `AGENOR, SON OF POSEIDON` (not linked) |
+| `AGENOR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGENOR, SON OF POSEIDON|AGENOR, SON OF POSEIDON]] |
 | `ATHENA` | **unresolved** (review queue) |
-| `ATMA` | **unresolved** (review queue) |
-| `CITY` | **candidate (first-segment only)** → possible `CITY, HOLY` (not linked) |
-| `Cronus` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `CITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
 | `Douteum` | **unresolved** (review queue) |
 | `Fish oF SsE4` | **unresolved** (review queue) |
-| `Fish (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
-| `Horsr` | **unresolved** (review queue) |
+| `Fish (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
+| `Horsr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `Jesus (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `NARAYANA` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `OcEANUS` | **candidate (first-segment only)** → possible `OCEANUS, SON OF HEAVEN AND EARTH` (not linked) |
-| `OLIVE` | **unresolved** (review queue) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
-| `TistRYA` | **unresolved** (review queue) |
-| `TLALOC` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `OcEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+| `TistRYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
+| `TLALOC` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
-| `URANUS` | **unresolved** (review queue) |
-| `VARUNA` | **candidate (first-segment only)** → possible `VARUNA, THE INVESTING SKY` (not linked) |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+| `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (bul.)` | **unresolved** (review queue) |
+| `ARK (bul.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `Barprism` | **unresolved** (review queue) |
-| `BHARaTA` | **candidate (first-segment only)** → possible `BHARATA, THE VICE-KING` (not linked) |
+| `BHARaTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BHARATA, THE VICE-KING|BHARATA, THE VICE-KING]] |
 | `CAMELS’ HAIR` | **unresolved** (review queue) |
 | `CHRIST INCREASES` | **unresolved** (review queue) |
 | `Desserts` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
-| `GImDLE (leather)` | **unresolved** (review queue) |
-| `Locusts` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
+| `GImDLE (leather)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
+| `Locusts` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOCUSTS FOR FOOD|LOCUSTS FOR FOOD]] |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `Mosrs` | **unresolved** (review queue) |
 | `Prop.e` | **unresolved** (review queue) |
 

@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `MAYA` | **unresolved** (review queue) |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `MAYA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Sout` | **unresolved** (review queue) |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `Surratma` | **unresolved** (review queue) |
 | `Toots` | **unresolved** (review queue) |
 | `Tusuira` | **unresolved** (review queue) |
-| `TUusK` | **unresolved** (review queue) |
+| `TUusK` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
 | `Woms` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

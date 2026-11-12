@@ -36,20 +36,20 @@ tags:
 | `Evorution` | **unresolved** (review queue) |
 | `GoppeEss` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
-| `INvoLUTION` | **unresolved** (review queue) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
+| `INvoLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Isis` | **unresolved** (review queue) |
-| `KHIEN` | **unresolved** (review queue) |
+| `KHIEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHIEN AND KHWAN|KHIEN AND KHWAN]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `Matrer` | **unresolved** (review queue) |
 | `MonapD` | **unresolved** (review queue) |
 | `MorHer` | **unresolved** (review queue) |
-| `NEPHTHYS` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 | `Nur` | **unresolved** (review queue) |
 | `Osrris` | **unresolved** (review queue) |
 | `Ses` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `Suu` | **unresolved** (review queue) |
 | `Sprrir` | **unresolved** (review queue) |
 | `SvusBstaNcr` | **unresolved** (review queue) |

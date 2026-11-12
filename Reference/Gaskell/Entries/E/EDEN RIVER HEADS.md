@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAYAS` | **unresolved** (review queue) |
-| `ASSYRIA` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `AMBAYAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAYAS RIVERS|AMBAYAS RIVERS]] |
+| `ASSYRIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASSYRIA IN THE EAST|ASSYRIA IN THE EAST]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `ERIDANUS` | **unresolved** (review queue) |
 | `EuPHRATES` | **unresolved** (review queue) |
 | `GrHON` | **unresolved** (review queue) |
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `HAavivaH` | **unresolved** (review queue) |
 | `HIDDEKEL` | **unresolved** (review queue) |
 | `HovsE (frequented)` | **unresolved** (review queue) |
-| `PISHON` | **unresolved** (review queue) |
+| `PISHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISHON RIVER|PISHON RIVER]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `RETURN` | **unresolved** (review queue) |
-| `RIVER OF LIFE` | **candidate (first-segment only)** → possible `RIVER OF LIFE, MEHUJAEL AND METHUSHAEL` (not linked) |
+| `RETURN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RETURN OF THE GREAT GODDESS|RETURN OF THE GREAT GODDESS]] |
+| `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `Rivers` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 | `Ruan` | **unresolved** (review queue) |
 

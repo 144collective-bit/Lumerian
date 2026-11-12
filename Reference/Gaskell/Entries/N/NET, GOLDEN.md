@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `Bopuisatva` | **unresolved** (review queue) |
+| `Bopuisatva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `BuppHa` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `QUATERNARY. NICODEMUS` | **unresolved** (review queue) |
@@ -64,8 +64,8 @@ tags:
 | `knew not yet the everliving parents that bring forth those that shall abide.”—AvucusTINE` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Gospel of John` | **unresolved** (review queue) |
 | `Vol. I. pp. 155-8. See BartisM` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `NIGHT (darkness)` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `NIGHT (darkness)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |

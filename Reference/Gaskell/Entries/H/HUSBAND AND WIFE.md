@@ -40,7 +40,7 @@ tags:
 | `Man AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Wirz` | **unresolved** (review queue) |
-| `WILDERness` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `WILDERness` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

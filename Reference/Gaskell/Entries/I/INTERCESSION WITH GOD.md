@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Row. viii` | **unresolved** (review queue) |
 | `24-8. See Hoty Guost` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `Saints` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `Saints` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

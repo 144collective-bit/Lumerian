@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `Breasts (clean)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
 | `Brrps` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `CoME INTO THEE` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `SacnraMENTAL CAKES` | **unresolved** (review queue) |
-| `SPRINGTIME` | **unresolved** (review queue) |
+| `SPRINGTIME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]] |
 
 ## Full OCR entry body (exact)
 

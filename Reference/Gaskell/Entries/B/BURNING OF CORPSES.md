@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `CREMATION` | **unresolved** (review queue) |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
 
 ## Full OCR entry body (exact)
 

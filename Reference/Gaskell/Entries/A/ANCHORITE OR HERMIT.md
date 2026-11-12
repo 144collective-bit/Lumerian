@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARHATS` | **unresolved** (review queue) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
 | `ASCETICS` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
 | `BRAHMACARIN` | **candidate (first-segment only)** → possible `BRAHMA-CARIN, STUDENT OF THE VEDA` (not linked) |
-| `HERMIT` | **unresolved** (review queue) |
+| `HERMIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `Monx` | **unresolved** (review queue) |
 | `OrnpERs` | **unresolved** (review queue) |
-| `SaNNyasins` | **unresolved** (review queue) |
+| `SaNNyasins` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `SNATIKA` | **unresolved** (review queue) |
 | `STUDENT` | **unresolved** (review queue) |
 

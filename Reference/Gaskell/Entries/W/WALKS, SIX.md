@@ -37,28 +37,28 @@ tags:
 | `ARBHAT` | **unresolved** (review queue) |
 | `ASEKA` | **unresolved** (review queue) |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `ATMA` | **unresolved** (review queue) |
-| `ATTACHMENT` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CONJUNCTION` | **candidate (first-segment only)** → possible `CONJUNCTION, SECOND FORTUNATE` (not linked) |
+| `CONJUNCTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONJUNCTION, SECOND FORTUNATE|CONJUNCTION, SECOND FORTUNATE]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `DeatH` | **unresolved** (review queue) |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `ForrvNaTE` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
-| `INCARNATION OF sous` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `INCARNATION OF sous` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `Max (righteous)` | **unresolved** (review queue) |
-| `MURDERER` | **candidate (first-segment only)** → possible `MURDERER, THIEF, OR WOLF` (not linked) |
+| `MURDERER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDERER, THIEF, OR WOLF|MURDERER, THIEF, OR WOLF]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `ViIcTORY` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `ViIcTORY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WOLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
 
 ## Full OCR entry body (exact)

@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGNiIsvaTTAS` | **unresolved** (review queue) |
-| `Ba` | **candidate (first-segment only)** → possible `BA, THE SOUL` (not linked) |
+| `Ba` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BA, THE SOUL|BA, THE SOUL]] |
 | `BopHwartVAS` | **unresolved** (review queue) |
 | `CHILDREN OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
-| `MaRruts` | **unresolved** (review queue) |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `MaRruts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `MonaD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `MUSPELL (sons)` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MUSPELL (sons)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `PAaCCEKABUDDHAS` | **unresolved** (review queue) |
-| `/PiTRIs (solar)` | **candidate (ambiguous first-segment)** → PITRIS, LUNAR; PITRIS, SOLAR (not linked) |
-| `PRoToTyPes` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `Races` | **unresolved** (review queue) |
-| `Saviouns` | **unresolved** (review queue) |
+| `/PiTRIs (solar)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PITRIS, SOLAR|PITRIS, SOLAR]] |
+| `PRoToTyPes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `Saviouns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Sons or aop` | **unresolved** (review queue) |
 | `Sov. (middle)` | **unresolved** (review queue) |

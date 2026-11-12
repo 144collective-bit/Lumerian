@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anc. MAN` | **unresolved** (review queue) |
-| `ARURU` | **candidate (first-segment only)** → possible `ARURU, GODDESS` (not linked) |
-| `CIVILISING` | **unresolved** (review queue) |
+| `ARURU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARURU, GODDESS|ARURU, GODDESS]] |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `Derap` | **unresolved** (review queue) |
 | `Ea` | **unresolved** (review queue) |
 | `Erniwu` | **unresolved** (review queue) |
-| `EstTHer` | **unresolved** (review queue) |
-| `INCARNAfION` | **unresolved** (review queue) |
-| `IsvTaR` | **unresolved** (review queue) |
+| `EstTHer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
+| `INCARNAfION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `IsvTaR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
 | `Osrnis` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Sir` | **unresolved** (review queue) |
 | `Sout (highest)` | **unresolved** (review queue) |
-| `Unron` | **unresolved** (review queue) |
+| `Unron` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]] |
 
 ## Full OCR entry body (exact)
 

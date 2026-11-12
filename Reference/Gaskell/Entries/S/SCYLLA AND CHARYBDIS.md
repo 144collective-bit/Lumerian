@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Rocks (wandering)` | **candidate (first-segment only)** → possible `ROCKS, FLOATING` (not linked) |
+| `Rocks (wandering)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCKS, FLOATING|ROCKS, FLOATING]] |
 
 ## Full OCR entry body (exact)
 

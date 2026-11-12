@@ -42,7 +42,7 @@ tags:
 |---|---|
 | `CoLD AND HEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] |
 | `HEAT AND COLD` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAT AND COLD|HEAT AND COLD]] |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 
 > [!warning] Segmentation flag (R2)
 > On EPUB `page_810`, prior entry See-list ends `… SLAUGHTER, SOLDIERS, STRIFE, SWORD, VICTORY, WEAPONS,` then lemma `WARM AND COLD :—`. Next lemma `WARP AND WOOF OF THE UNIVERSE :—` follows immediately after this entry's See list. Filename/`entry_id` retained. SLAUGHTER etc. are **not** this headword — they remain See-targets of the preceding entry (not deleted here).

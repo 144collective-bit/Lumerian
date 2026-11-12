@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `GLORY (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `GLORY (divine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `Hespomap` | **unresolved** (review queue) |
 | `Licut` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
-| `PERSEUS` | **candidate (first-segment only)** → possible `PERSEUS, SON OF ZEUS AND DANAE` (not linked) |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
+| `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

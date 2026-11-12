@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Marpen (heavenly)` | **unresolved** (review queue) |
-| `PERFUME` | **unresolved** (review queue) |
-| `ScENT (sweet). WIND` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `PERFUME` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
+| `ScENT (sweet). WIND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 
 ## Full OCR entry body (exact)
 

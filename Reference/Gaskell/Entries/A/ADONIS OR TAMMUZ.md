@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
-| `BoaRk` | **unresolved** (review queue) |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
+| `BoaRk` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `Haves` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `PERSEUS` | **candidate (first-segment only)** → possible `PERSEUS, SON OF ZEUS AND DANAE` (not linked) |
-| `TAMMUZ` | **candidate (first-segment only)** → possible `TAMMUZ, GOD,—LOWER` (not linked) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
+| `TAMMUZ` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `Assotuts` | **unresolved** (review queue) |
 | `Apiryas` | **unresolved** (review queue) |
-| `ASAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
+| `ASAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `780 URIM Founrarn` | **unresolved** (review queue) |
 | `Morar` | **unresolved** (review queue) |
-| `Nornoz` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `Swan` | **candidate (first-segment only)** → possible `SWAN, WHITE` (not linked) |
+| `Nornoz` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 | `TREE OF LiFe` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YoapRasIL` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

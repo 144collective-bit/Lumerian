@@ -35,9 +35,9 @@ tags:
 | `Aru-RA` | **unresolved** (review queue) |
 | `Crown (sekhet)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Derry (hidden)` | **unresolved** (review queue) |
-| `Mut` | **candidate (first-segment only)** → possible `MUT, THE GODDESS` (not linked) |
-| `PLumes` | **unresolved** (review queue) |
-| `SCEPTRE` | **candidate (first-segment only)** → possible `SCEPTRE, GOLDEN, APOLLO` (not linked) |
+| `Mut` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUT, THE GODDESS|MUT, THE GODDESS]] |
+| `PLumes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
+| `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 
 ## Full OCR entry body (exact)
 

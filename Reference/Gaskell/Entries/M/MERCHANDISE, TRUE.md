@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FRUIT oF THE SPIRIT` | **candidate (first-segment only)** → possible `FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE` (not linked) |
+| `FRUIT oF THE SPIRIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
 | `MarsHan` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
-| `VaIsya` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `VaIsya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `AtTMAN` | **unresolved** (review queue) |
 | `Baptism oF FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]] |
-| `BLASPHEMY` | **unresolved** (review queue) |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CuRIsT (pri.)` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Harr` | **unresolved** (review queue) |
-| `InsPtBATION` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `InsPtBATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `MALKHUTH` | **unresolved** (review queue) |
 | `OcrEaAN (fem.)` | **unresolved** (review queue) |
-| `PARACLETE` | **candidate (first-segment only)** → possible `PARACLETE, COMFORTER, INTERCESSOR` (not linked) |
+| `PARACLETE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
 | `SAPANDAR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAPANDAR|SAPANDAR]] |
 | `Setr` | **unresolved** (review queue) |
-| `STIFFNECKED` | **unresolved** (review queue) |
+| `STIFFNECKED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STIFFNECKED GENERATION|STIFFNECKED GENERATION]] |
 | `Trinity` | **unresolved** (review queue) |
 | `Wr` | **unresolved** (review queue) |
 

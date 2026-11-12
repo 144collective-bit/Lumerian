@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
-| `ASCENSION (Osiris)` | **unresolved** (review queue) |
-| `Ba` | **candidate (first-segment only)** → possible `BA, THE SOUL` (not linked) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
+| `ASCENSION (Osiris)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `Ba` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BA, THE SOUL|BA, THE SOUL]] |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Derrunct` | **unresolved** (review queue) |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `INCENSE` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
-| `Myrra` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
+| `Myrra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MYRRH|MYRRH]] |
 | `On` | **unresolved** (review queue) |
 | `PERFUMES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |

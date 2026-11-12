@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
-| `DELUGE` | **unresolved** (review queue) |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `Fisx (great)` | **unresolved** (review queue) |
 | `JEsus (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `Ocean` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `ReEsTau` | **unresolved** (review queue) |
+| `Ocean` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `ReEsTau` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
 | `Sarp (Manu)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eatrna (lower)` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `MEN (breast)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
-| `NAKEDNESS (lower)` | **unresolved** (review queue) |
+| `NAKEDNESS (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
 | `Stant` | **unresolved** (review queue) |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
 | `Urcuats. EYE` | **unresolved** (review queue) |
-| `‘‘ THIRD` | **unresolved** (review queue) |
+| `‘‘ THIRD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THIRD EYE|THIRD EYE]]; [[Reference/Gaskell/Entries/T/THIRD HOUR|THIRD HOUR]] |
 | `’’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

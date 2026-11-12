@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CANCER` | **candidate (first-segment only)** → possible `CANCER, THE ZODIACAL SIGN` (not linked) |
+| `CANCER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] |
 | `ELEPHANT` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ELEPHANT|ELEPHANT]] |
-| `GOAT (white)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `GOAT (white)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `LEVIATHAN` | **unresolved** (review queue) |
-| `WHALE` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

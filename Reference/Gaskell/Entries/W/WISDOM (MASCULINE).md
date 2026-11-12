@@ -35,14 +35,14 @@ tags:
 | `Crecie` | **unresolved** (review queue) |
 | `EpEN` | **unresolved** (review queue) |
 | `GARDEN OF EDEN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]] |
-| `HOKHMAH` | **candidate (first-segment only)** → possible `HOKHMAH, THE WORD, OR WISDOM (MASCULINE)` (not linked) |
-| `HOLy GHost` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
+| `HOKHMAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOKHMAH, THE WORD, OR WISDOM (MASCULINE)|HOKHMAH, THE WORD, OR WISDOM (MASCULINE)]] |
+| `HOLy GHost` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `MonapD` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `Ronoo` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
-| `SERPENT ZSCULAPIUS` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
+| `SERPENT ZSCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
 | `SeRPent (solar)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Trae` | **unresolved** (review queue) |
 | `Worn` | **unresolved** (review queue) |

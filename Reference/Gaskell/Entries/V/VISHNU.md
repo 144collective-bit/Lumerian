@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boar` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
-| `CHURNING` | **unresolved** (review queue) |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
 | `EYE OF VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EYE OF VISHNU|EYE OF VISHNU]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `KateEI` | **unresolved** (review queue) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MAHAVIBApot` | **unresolved** (review queue) |
+| `MAHAVIBApot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] |
 | `NARAYANA` | **unresolved** (review queue) |
-| `RAMA` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
+| `RAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 | `SERPENT (ananta)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Stripes` | **unresolved** (review queue) |
 | `ToRTOIsE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |

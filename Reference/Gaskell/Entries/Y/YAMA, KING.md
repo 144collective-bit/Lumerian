@@ -36,9 +36,9 @@ tags:
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CausaL-SELF` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
 | `DraTH (king)` | **unresolved** (review queue) |
-| `GARHApatya` | **unresolved** (review queue) |
+| `GARHApatya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
 | `InpBA` | **unresolved** (review queue) |
-| `NACHIKETAS` | **candidate (first-segment only)** → possible `NACHIKETAS, SON OF VAJASRAVASA` (not linked) |
+| `NACHIKETAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]] |
 | `PERSON:` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSON|PERSON]] |
 
 ## Full OCR entry body (exact)

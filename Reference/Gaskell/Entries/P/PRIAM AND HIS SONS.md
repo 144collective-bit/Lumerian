@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `CAUSAL-SELF` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
 | `GREECE` | **unresolved** (review queue) |
-| `ILIUM` | **unresolved** (review queue) |
+| `ILIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ILIUM (TROY)|ILIUM (TROY)]] |
 | `Suarrs ([lium)` | **unresolved** (review queue) |
-| `Trosans` | **unresolved** (review queue) |
+| `Trosans` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
 
 ## Full OCR entry body (exact)

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atoms` | **candidate (first-segment only)** → possible `ATOMS, PERMANENT, ON EACH PLANE` (not linked) |
+| `Atoms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `PRANA` | **unresolved** (review queue) |
+| `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `PROSPERITY` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 
 ## Full OCR entry body (exact)
 

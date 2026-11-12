@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIHOTRA` | **unresolved** (review queue) |
-| `AHAVANIYA` | **unresolved** (review queue) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
-| `CausAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `GEMINI` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `AHAVANIYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AHAVANIYA FIRE|AHAVANIYA FIRE]] |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `CausAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `GEMINI` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 | `HovusE IN HEAVEN. MENTAL PLANE` | **unresolved** (review queue) |
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 | `THUNDERBOLT` | **unresolved** (review queue) |

@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Demiurce` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FartH` | **unresolved** (review queue) |
+| `Demiurce` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FartH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FAITH|FAITH]] |
 | `Gop` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `Kwasit` | **unresolved** (review queue) |
-| `RULER (aeon)` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
+| `RULER (aeon)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
 
 ## Full OCR entry body (exact)
 

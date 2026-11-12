@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `MAN (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `Ricuss` | **unresolved** (review queue) |
-| `SERMON` | **unresolved** (review queue) |
+| `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
 
 ## Full OCR entry body (exact)
 

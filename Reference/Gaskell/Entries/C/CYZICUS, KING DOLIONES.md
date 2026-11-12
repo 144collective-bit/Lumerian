@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DOLIONES` | **unresolved** (review queue) |
-| `SHAVING` | **unresolved** (review queue) |
+| `DOLIONES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOLIONES PEOPLE|DOLIONES PEOPLE]] |
+| `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
 
 ## Full OCR entry body (exact)
 

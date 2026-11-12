@@ -35,11 +35,11 @@ tags:
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `EVOLUTI0oN` | **unresolved** (review queue) |
 | `Hing` | **unresolved** (review queue) |
-| `JoNAH` | **unresolved** (review queue) |
-| `Kuwan` | **unresolved** (review queue) |
+| `JoNAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JONAH OF THE OLD TESTAMENT|JONAH OF THE OLD TESTAMENT]] |
+| `Kuwan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
 | `LEvIATHAN` | **unresolved** (review queue) |
-| `SIGN` | **unresolved** (review queue) |
-| `SERPEN? (ananta)` | **unresolved** (review queue) |
+| `SIGN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIGN OR SYMBOL (SACRED)|SIGN OR SYMBOL (SACRED)]] |
+| `SERPEN? (ananta)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)
 

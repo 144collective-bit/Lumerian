@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (Noah)` | **unresolved** (review queue) |
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
+| `ARK (Noah)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `Noag` | **unresolved** (review queue) |
 | `Noau’s sons` | **unresolved** (review queue) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `ToKENs` | **candidate (first-segment only)** → possible `TOKENS, FOUR SACRED` (not linked) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `ToKENs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
 
 ## Full OCR entry body (exact)
 

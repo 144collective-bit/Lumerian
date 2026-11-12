@@ -43,10 +43,10 @@ tags:
 | `p. 382. The ‘Creator Ea” is the First Logos acting through the Second Logos (Merodach). The ‘“ Goddess Aruru” is the feminine principle buddhi` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—duality being necessary to manifestation` | **unresolved** (review queue) |
 | `—spirit and matter being essential thereunto. ‘‘ Ea` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `” ‘*Merodach` | **unresolved** (review queue) |
+| `” ‘*Merodach` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MERODACH OR MARDUE|MERODACH OR MARDUE]] |
 | `” and “ Aruru”’ are the Higher ‘Triad` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—Father` | **unresolved** (review queue) |
-| `Son` | **unresolved** (review queue) |
+| `Son` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]]; [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]]; [[Reference/Gaskell/Entries/S/SON OR DAUGHTER|SON OR DAUGHTER]] |
 | `and Holy Spirit. ‘Ea was god of the deep` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `both of the atmospheric deep` | **unresolved** (review queue) |
 | `and of that watery deep` | **unresolved** (review queue) |
@@ -56,14 +56,14 @@ tags:
 | `the “ firmament." The ‘‘ watery deep` | **unresolved** (review queue) |
 | `” the ‘celestial ocean” is the Divine Reality` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the Source of all. Truth (water) is the origin of all things. 236 EAGLE See Arr` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ArnuRu` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `ArnuRu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARURU, GODDESS|ARURU, GODDESS]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `MERODACH` | **unresolved** (review queue) |
-| `OcEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `MERODACH` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MERODACH OR MARDUE|MERODACH OR MARDUE]] |
+| `OcEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `Spreurr` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

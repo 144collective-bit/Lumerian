@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATTRACTION` | **unresolved** (review queue) |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
 | `Crry` | **unresolved** (review queue) |
 | `DECANS` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

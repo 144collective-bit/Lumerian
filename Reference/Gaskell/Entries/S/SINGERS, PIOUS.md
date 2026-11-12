@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `CHILDREN OF EAST` | **unresolved** (review queue) |
-| `DAWN` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `HARMONY` | **unresolved** (review queue) |
+| `DAWN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `HARMONY` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `HYMN-SINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
-| `JOB` | **unresolved** (review queue) |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `Licut` | **unresolved** (review queue) |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
-| `MELopy` | **unresolved** (review queue) |
-| `MoNnapD OF LIFE` | **unresolved** (review queue) |
+| `MELopy` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MELODY, MUSIC|MELODY, MUSIC]] |
+| `MoNnapD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `MORNING sTAR` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Sonc` | **unresolved** (review queue) |
-| `Sons or Gop` | **unresolved** (review queue) |
-| `SouL (middle)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
-| `Stars` | **unresolved** (review queue) |
-| `STONE (corner)` | **unresolved** (review queue) |
+| `Sons or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `SouL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
+| `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+| `STONE (corner)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SUN-RISING` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
-| `WEALTH` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

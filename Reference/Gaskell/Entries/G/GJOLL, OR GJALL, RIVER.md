@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `ANAURUS RIVER` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANAURUS RIVER|ANAURUS RIVER]] |
 | `BRIDGE OF GJALL` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] |
-| `GaTE` | **unresolved** (review queue) |
+| `GaTE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `Norts` | **unresolved** (review queue) |
 | `Styx` | **unresolved** (review queue) |
 

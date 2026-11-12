@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hanp` | **unresolved** (review queue) |
-| `SPARROWS` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
+| `SPARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

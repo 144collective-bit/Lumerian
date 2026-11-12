@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `FarTH` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `FarTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FAITH|FAITH]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INSIGNIA` | **unresolved** (review queue) |
 | `Mrmror` | **unresolved** (review queue) |
-| `MITEGURA` | **candidate (first-segment only)** → possible `MITEGURA, OR GOHEI` (not linked) |
-| `MOUNTAIN` | **unresolved** (review queue) |
+| `MITEGURA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MITEGURA, OR GOHEI|MITEGURA, OR GOHEI]] |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `OX-LEADER` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OX-LEADER|OX-LEADER]] |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `Prrests AND ELDERS` | **unresolved** (review queue) |
 | `SHINTAI` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 
 ## Full OCR entry body (exact)
 

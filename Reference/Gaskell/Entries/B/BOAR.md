@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADONIS` | **unresolved** (review queue) |
-| `ARES` | **unresolved** (review queue) |
-| `JUDAS` | **unresolved** (review queue) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
+| `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
 | `PIa Sow` | **unresolved** (review queue) |
 | `Swine` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWINE|SWINE]] |
 

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `HECATOMB` | **candidate (first-segment only)** → possible `HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS` (not linked) |
-| `HIDING` | **unresolved** (review queue) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `HECATOMB` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
+| `HIDING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIDING FROM GOD|HIDING FROM GOD]]; [[Reference/Gaskell/Entries/H/HIDING HIDDEKEL RIVER|HIDING HIDDEKEL RIVER]]; [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
 | `Kartcoas` | **unresolved** (review queue) |
 | `Nop OF ZEUS` | **unresolved** (review queue) |
 | `VOICE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |

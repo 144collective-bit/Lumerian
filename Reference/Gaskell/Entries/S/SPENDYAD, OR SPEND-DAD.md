@@ -35,15 +35,15 @@ tags:
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `ConQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `GLORIFYING` | **unresolved** (review queue) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `GLORIFYING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `MELCHIZEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `Setr` | **unresolved** (review queue) |
 | `Srrire` | **unresolved** (review queue) |
-| `Union` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `Union` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `VIcrory. SPENTO MAINYUSH` | **unresolved** (review queue) |
 | `AND ANGRO MAINYUSH;` | **unresolved** (review queue) |
 

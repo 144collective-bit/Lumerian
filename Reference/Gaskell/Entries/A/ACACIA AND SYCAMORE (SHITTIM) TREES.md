@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bows` | **unresolved** (review queue) |
+| `Bows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BOWS OF BOAT|BOWS OF BOAT]] |
 | `SYCAMORE` | **unresolved** (review queue) |
-| `ZACCHEUS` | **candidate (first-segment only)** → possible `ZACCHEUS, A CHIEF PUBLICAN` (not linked) |
+| `ZACCHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZACCHEUS, A CHIEF PUBLICAN|ZACCHEUS, A CHIEF PUBLICAN]] |
 
 ## Full OCR entry body (exact)
 

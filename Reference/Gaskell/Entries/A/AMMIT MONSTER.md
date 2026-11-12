@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Jesus (son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `JUDGMENT HALL` | **unresolved** (review queue) |
-| `NEHAKA` | **unresolved** (review queue) |
+| `NEHAKA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHAHA, THE FIEND|NEHAHA, THE FIEND]] |
 | `SCAPEGOAT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

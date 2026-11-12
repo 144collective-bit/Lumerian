@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Anc. CMAN` | **unresolved** (review queue) |
 | `ROSS` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Manivira-pot` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Manivira-pot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] |
 | `Pracipati` | **unresolved** (review queue) |
 | `PurvsnHa` | **unresolved** (review queue) |
-| `Sackiricer` | **unresolved** (review queue) |
+| `Sackiricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `Sian` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

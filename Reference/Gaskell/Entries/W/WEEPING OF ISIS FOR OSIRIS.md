@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `Faces` | **candidate (first-segment only)** → possible `FACES, DOUBLE` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `Faces` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FACES, DOUBLE|FACES, DOUBLE]]; [[Reference/Gaskell/Entries/F/FACES OF MEN|FACES OF MEN]]; [[Reference/Gaskell/Entries/F/FACES OF THE GODS|FACES OF THE GODS]] |
 | `Isis` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `Osrzis` | **unresolved** (review queue) |
-| `WIsDoM` | **unresolved** (review queue) |
+| `WIsDoM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

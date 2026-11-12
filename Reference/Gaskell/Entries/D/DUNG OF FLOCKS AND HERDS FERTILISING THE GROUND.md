@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FLocks` | **unresolved** (review queue) |
-| `GROUND` | **candidate (first-segment only)** → possible `GROUND, HOLY` (not linked) |
+| `FLocks` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP ON THE EARTH|FLOCKS OF SHEEP ON THE EARTH]]; [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP THE MOST GLORIOUS|FLOCKS OF SHEEP THE MOST GLORIOUS]]; [[Reference/Gaskell/Entries/F/FLOCKS PASSING GROUND|FLOCKS PASSING GROUND]] |
+| `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `MAN WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 
 ## Full OCR entry body (exact)

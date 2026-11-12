@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `AtTaR (fire)` | **unresolved** (review queue) |
 | `Brioxs` | **unresolved** (review queue) |
-| `Durva BRICK` | **candidate (first-segment only)** → possible `DURVA-BRICK, OF THE ALTAR` (not linked) |
+| `Durva BRICK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DURVA-BRICK, OF THE ALTAR|DURVA-BRICK, OF THE ALTAR]] |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |
-| `=PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `=PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaRON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `AaRON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `Baxzsom` | **unresolved** (review queue) |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
 | `FIRE pRIEsTS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE-PRIESTS|FIRE-PRIESTS]] |
 | `PoNnairy` | **unresolved** (review queue) |
 | `Pore` | **unresolved** (review queue) |
@@ -44,7 +44,7 @@ tags:
 | `THE SECOND MAN + A symbol of the Second or manifest Logos. ‘‘Athwysa was the second man who pre me (Homa) for the material world’? (Homa Yasht).—Haua` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Essays. This signifies the forth-pouring of the Second Logos upon the higher planes` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which prepared the Worldsoul (Homa) for its expression upon the lower planes. See Atua` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `SEtr¥` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

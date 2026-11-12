@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGATHODEMON` | **unresolved** (review queue) |
+| `AGATHODEMON` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AGATHODZMON|AGATHODZMON]] |
 
 ## Full OCR entry body (exact)
 

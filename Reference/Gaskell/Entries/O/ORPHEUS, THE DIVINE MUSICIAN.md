@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `EURYDICE` | **candidate (first-segment only)** → possible `EURYDICE, WIFE OF ORPHEUS` (not linked) |
-| `HARMONY` | **unresolved** (review queue) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `EURYDICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EURYDICE, WIFE OF ORPHEUS|EURYDICE, WIFE OF ORPHEUS]] |
+| `HARMONY` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `Me.opy` | **unresolved** (review queue) |
 | `Metis` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `Pan` | **unresolved** (review queue) |
-| `Varpour (white)` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `Pan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAN PALESTINUS OR PELUSIUS|PAN PALESTINUS OR PELUSIUS]] |
+| `Varpour (white)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 
 ## Full OCR entry body (exact)
 

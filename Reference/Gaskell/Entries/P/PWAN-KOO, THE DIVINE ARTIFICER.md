@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DESERTS` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `DESERTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `NAVIGATION` | **unresolved** (review queue) |
+| `NAVIGATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NAVIGATION (MARITIME)|NAVIGATION (MARITIME)]] |
 
 ## Full OCR entry body (exact)
 

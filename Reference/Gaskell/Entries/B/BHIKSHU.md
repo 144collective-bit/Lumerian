@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALMSGIVING` | **unresolved** (review queue) |
+| `ALMSGIVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALMSGIVING OR CHARITY|ALMSGIVING OR CHARITY]] |
 | `MENDIOAN?T` | **unresolved** (review queue) |
-| `MONK` | **unresolved** (review queue) |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `SANNYASIN. BHIMA` | **unresolved** (review queue) |
 | `SON OF VAYU AND PRITHA A symbol of the intellect` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the product of the higher mind and nature. ‘* Bhima’s great strength had to be maintained by plentiful supplies of food ; as his name Vrikodara` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -47,10 +47,10 @@ tags:
 | `and assimilates all it can for the support of its opinions` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and for the formation of its theories. ‘* Wolfstomached ™ indicates the appetite of the intellect for the facta of the lower nature. See Foop` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Mzat` | **unresolved** (review queue) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `PRITHA` | **unresolved** (review queue) |
 | `Sromacu` | **unresolved** (review queue) |
-| `Vayu` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 | `WOLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
 
 ## Full OCR entry body (exact)

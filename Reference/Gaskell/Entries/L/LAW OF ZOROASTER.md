@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `AHURA-MAZDA` | **candidate (first-segment only)** → possible `AHURA-MAZDA, OR ORMAZD` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `AHURA-MAZDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHURA-MAZDA, OR ORMAZD|AHURA-MAZDA, OR ORMAZD]] |
 | `AHURA RELIGION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AHURA RELIGION|AHURA RELIGION]] |
 | `DAEVAS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
-| `DARKNESS` | **unresolved** (review queue) |
-| `DEVAYANA` | **unresolved** (review queue) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
 | `Gop` | **unresolved** (review queue) |
 | `GosPreLt` | **unresolved** (review queue) |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `Intusion` | **unresolved** (review queue) |
 | `Mammen` | **unresolved** (review queue) |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `PauRvAS` | **candidate (first-segment only)** → possible `PAURVAS, THE GOOD MAZDAYASNIAN RELIGION` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `PauRvAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PAURVAS, THE GOOD MAZDAYASNIAN RELIGION|PAURVAS, THE GOOD MAZDAYASNIAN RELIGION]] |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `SALVATION` | **unresolved** (review queue) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `Sona` | **unresolved** (review queue) |
 | `SOCL` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

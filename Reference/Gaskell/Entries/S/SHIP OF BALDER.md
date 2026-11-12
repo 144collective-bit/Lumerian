@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
-| `RINGHORNE` | **candidate (first-segment only)** → possible `RINGHORNE, BALDER'S SHIP` (not linked) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `RINGHORNE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RINGHORNE, BALDER'S SHIP|RINGHORNE, BALDER'S SHIP]] |
 
 ## Full OCR entry body (exact)
 

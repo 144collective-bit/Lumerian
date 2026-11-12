@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `SAGES` | **candidate (first-segment only)** → possible `SAGES, GREAT` (not linked) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
+| `SAGES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAGES, GREAT|SAGES, GREAT]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 
 ## Full OCR entry body (exact)

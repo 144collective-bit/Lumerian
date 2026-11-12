@@ -35,7 +35,7 @@ tags:
 | `Anvprrya` | **unresolved** (review queue) |
 | `HeEuios` | **unresolved** (review queue) |
 | `HERoIc RUNNER` | **unresolved** (review queue) |
-| `SAVITRI` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
+| `SAVITRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VAISVANARA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
 

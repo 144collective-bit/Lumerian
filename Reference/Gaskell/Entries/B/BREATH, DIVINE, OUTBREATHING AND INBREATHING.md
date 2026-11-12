@@ -35,17 +35,17 @@ tags:
 | `Amitaucas` | **unresolved** (review queue) |
 | `Asuna` | **unresolved** (review queue) |
 | `EVENING AND MORNING` | **unresolved** (review queue) |
-| `GALE` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `GALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GALE FROM APOLLO|GALE FROM APOLLO]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `MORNING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
-| `PRALAYWA` | **unresolved** (review queue) |
-| `Prana` | **unresolved** (review queue) |
+| `PRALAYWA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `Prana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `Rima` | **unresolved** (review queue) |
-| `Remission` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `Remission` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SAPANDAR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAPANDAR|SAPANDAR]] |
-| `TEZOATLIPOOA` | **unresolved** (review queue) |
+| `TEZOATLIPOOA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TEZCATLIPOCA|TEZCATLIPOCA]] |
 | `WIND. |` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

@@ -43,15 +43,15 @@ tags:
 | `symbolised by the five sons of Pandu.’’—Mon. Witiiams` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Indian Wisdom` | **unresolved** (review queue) |
 | `p. 383. The ‘hundred brothers”? of Duryodhana are the desires. See ADVERSARY` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DEVIL` | **candidate (first-segment only)** → possible `DEVIL, THE ADVERSARY` (not linked) |
-| `Kurvus` | **unresolved** (review queue) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `DEVIL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
+| `Kurvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `RAVANA. Durira` | **unresolved** (review queue) |
 | `DUSAHK ABYSS ~— A symbol of the lower planes` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the arena of the desire-mental activities ; the lower life of suffering and discipline in which the incarnating egos find themselves. See BrincE (kinvat)` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `Haves` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 
 ## Full OCR entry body (exact)

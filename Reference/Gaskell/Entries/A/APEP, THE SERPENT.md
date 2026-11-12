@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `GREEN` | **unresolved** (review queue) |
-| `NET` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `GREEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GREEN COLOUR|GREEN COLOUR]]; [[Reference/Gaskell/Entries/G/GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS|GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS]]; [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
+| `NET` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `TUAT. APES (CYNOCEPHALI) NINE` | **unresolved** (review queue) |
@@ -57,16 +57,16 @@ tags:
 | `—if there were no power within ourselves impelling us to enter into relations with it.”"——-R. J. CaMPBELL` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Serm.` | **unresolved** (review queue) |
 | `Who Compels f See AMENT` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
 | `East` | **unresolved** (review queue) |
 | `GUARDrans` | **unresolved** (review queue) |
 | `NET-RA` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]] |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SERPENTS (emitting sparks)` | **unresolved** (review queue) |
-| `Sons or Gop` | **unresolved** (review queue) |
-| `STRIDES (soul)` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SERPENTS (emitting sparks)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+| `Sons or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `STRIDES (soul)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `Wit` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

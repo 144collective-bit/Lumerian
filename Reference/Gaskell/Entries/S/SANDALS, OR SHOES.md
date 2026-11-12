@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Feet` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
-| `SHOES` | **unresolved** (review queue) |
-| `WALKING` | **unresolved** (review queue) |
+| `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
+| `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

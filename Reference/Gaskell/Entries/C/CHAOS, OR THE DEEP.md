@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Asyss` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `DrsERTs` | **unresolved** (review queue) |
 | `EArtTH` | **unresolved** (review queue) |
 | `Erersvus` | **unresolved** (review queue) |
-| `ERos` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `ERos` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `GrinuUNGAGAP` | **unresolved** (review queue) |
 | `NARYANA` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TANAOA` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

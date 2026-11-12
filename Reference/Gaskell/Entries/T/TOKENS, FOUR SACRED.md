@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADAM’S DEAD BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
-| `ARK` | **unresolved** (review queue) |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `MELCHIZEDEK` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `Noa` | **unresolved** (review queue) |
 | `Noan’s SONS` | **unresolved** (review queue) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `TREASURES (cave)` | **unresolved** (review queue) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `TREASURES (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
 
 ## Full OCR entry body (exact)
 

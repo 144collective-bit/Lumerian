@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGRICULTURALIST` | **candidate (first-segment only)** → possible `AGRICULTURALIST, BANDMAN` (not linked) |
+| `AGRICULTURALIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGRICULTURALIST, BANDMAN|AGRICULTURALIST, BANDMAN]] |
 | `Frew` | **unresolved** (review queue) |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
-| `KNowER` | **unresolved** (review queue) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+| `KNowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KNOWER OF (KSHETRA)|KNOWER OF (KSHETRA)]] |
 | `PLovanine` | **unresolved** (review queue) |
 | `Rearinc. SEED (good)` | **unresolved** (review queue) |
-| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Sowrr` | **unresolved** (review queue) |
-| `Vine` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `Vine` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 
 ## Full OCR entry body (exact)

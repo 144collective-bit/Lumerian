@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATHENA` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
-| `KALLIOPEIA` | **candidate (first-segment only)** → possible `KALLIOPEIA, THE MUSE` (not linked) |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
+| `KALLIOPEIA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KALLIOPEIA, THE MUSE|KALLIOPEIA, THE MUSE]] |
 | `Prery` | **unresolved** (review queue) |
-| `WHITE-ARMED` | **unresolved** (review queue) |
+| `WHITE-ARMED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]] |
 
 ## Full OCR entry body (exact)
 

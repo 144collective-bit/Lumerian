@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `BLoop` | **unresolved** (review queue) |
-| `CRATER` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
+| `CRATER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
 | `Gra` | **unresolved** (review queue) |
 | `Homa-Juice` | **unresolved** (review queue) |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SomMa-JUICE` | **unresolved** (review queue) |
+| `SomMa-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `TABLE OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINE` | **unresolved** (review queue) |

@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CouncH` | **unresolved** (review queue) |
+| `CouncH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONCH, OR SHELL-TRUMPET|CONCH, OR SHELL-TRUMPET]] |
 | `Coma` | **unresolved** (review queue) |
 | `Evin` | **unresolved** (review queue) |
-| `PERSEUS` | **candidate (first-segment only)** → possible `PERSEUS, SON OF ZEUS AND DANAE` (not linked) |
+| `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
 | `SorpHIaA ACHAMOTH (lower)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

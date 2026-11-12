@@ -37,7 +37,7 @@ tags:
 | `Sosiyanrs` | **unresolved** (review queue) |
 | `WAY OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
 | `WORKS AND WISDOM` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

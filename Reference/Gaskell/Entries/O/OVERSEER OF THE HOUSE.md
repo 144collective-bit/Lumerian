@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CAavusAL - BODY` | **unresolved** (review queue) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `FrenDs` | **unresolved** (review queue) |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `INDIVIDUAalLiry` | **unresolved** (review queue) |

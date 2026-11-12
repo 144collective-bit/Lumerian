@@ -39,7 +39,7 @@ tags:
 | `Maar` | **unresolved** (review queue) |
 | `Myrrg. STaR IN CHE EAST` | **unresolved** (review queue) |
 | `TREAURES (cave)` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

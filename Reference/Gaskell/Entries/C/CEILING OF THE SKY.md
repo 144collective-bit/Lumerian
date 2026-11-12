@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABYSS` | **candidate (first-segment only)** → possible `ABYSS, THE` (not linked) |
+| `ABYSS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABYSS, THE|ABYSS, THE]] |
 | `BOAT` | **unresolved** (ambiguous full-head matches; not linked) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `Derunct` | **unresolved** (review queue) |
-| `Doors` | **candidate (first-segment only)** → possible `DOORS, HOUSE WITH FOUR` (not linked) |
+| `Doors` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]]; [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `KA` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `KA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `PANTHER SKIN` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] |
-| `REN` | **candidate (first-segment only)** → possible `REN, OR NAME` (not linked) |
-| `THRONE` | **unresolved** (review queue) |
+| `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

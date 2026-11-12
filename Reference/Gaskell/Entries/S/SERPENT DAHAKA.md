@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
-| `APOSTATES` | **unresolved** (review queue) |
+| `ANGRA-MAINYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
+| `APOSTATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APOSTATES WITH TWO LEGS|APOSTATES WITH TWO LEGS]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `NERYOSANG` | **candidate (first-segment only)** → possible `NERYOSANG, THE ANGEL` (not linked) |
+| `NERYOSANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `THRAETONA` | **unresolved** (review queue) |
+| `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
 
 ## Full OCR entry body (exact)
 

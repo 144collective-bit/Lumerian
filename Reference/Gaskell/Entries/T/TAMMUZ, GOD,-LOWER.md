@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ApapPa` | **unresolved** (review queue) |
 | `D&EvAcHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
-| `DoorKEEPERS` | **candidate (first-segment only)** → possible `DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN` (not linked) |
+| `DoorKEEPERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN|DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN]] |
 | `ERmDu` | **unresolved** (review queue) |
-| `Gates (Eridu)` | **unresolved** (review queue) |
+| `Gates (Eridu)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/G/GATES OF THE BODY, NINE|GATES OF THE BODY, NINE]] |
 | `MOURNER’S ROBE` | **unresolved** (review queue) |
 | `NIN-GIS-ZIDA Mosic` | **unresolved** (review queue) |
 | `and TANAOA TANAOA` | **unresolved** (review queue) |
-| `DARKNESS ;` | **unresolved** (review queue) |
+| `DARKNESS ;` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 
 ## Full OCR entry body (exact)
 

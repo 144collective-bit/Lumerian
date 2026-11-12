@@ -36,12 +36,12 @@ tags:
 | `ASCETICS` | **unresolved** (review queue) |
 | `BRAHMACARIN` | **candidate (first-segment only)** → possible `BRAHMA-CARIN, STUDENT OF THE VEDA` (not linked) |
 | `Forrest` | **unresolved** (review queue) |
-| `Hermit` | **unresolved** (review queue) |
-| `HovseHOLDER` | **unresolved** (review queue) |
+| `Hermit` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
+| `HovseHOLDER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `MONK` | **unresolved** (review queue) |
-| `ORDERS (four)` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
-| `Sannyasmns` | **unresolved** (review queue) |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
+| `ORDERS (four)` | resolved (qualified head) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]] |
+| `Sannyasmns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `Swatixa` | **unresolved** (review queue) |
 | `§rvDENT` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |

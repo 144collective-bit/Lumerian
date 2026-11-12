@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GOLGOTHA` | **candidate (first-segment only)** → possible `GOLGOTHA, THE PLACE OF A SKULL` (not linked) |
+| `GOLGOTHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOLGOTHA, THE PLACE OF A SKULL|GOLGOTHA, THE PLACE OF A SKULL]] |
 
 ## Full OCR entry body (exact)
 

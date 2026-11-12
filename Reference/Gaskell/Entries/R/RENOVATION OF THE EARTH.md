@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaT (waters)` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
+| `AaT (waters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
 | `ASGARD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] |
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `BuppuHa (maitreya)` | **unresolved** (review queue) |
 | `CHRIST’s SECOND COMING` | **unresolved** (review queue) |
 | `CoMETS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COMETS|COMETS]] |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `625 RE-STAU Horse (white)` | **unresolved** (review queue) |
 | `HvanrmartHa` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
-| `KaLki` | **unresolved** (review queue) |
-| `KaArsHVARES` | **unresolved** (review queue) |
-| `KINGDOM` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `REGIONS` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
-| `REGNAROKE` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `KaLki` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]]; [[Reference/Gaskell/Entries/K/KALKI KALI-YUGA|KALKI KALI-YUGA]] |
+| `KaArsHVARES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `KINGDOM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `REGNAROKE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SosHyans` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANS|SOSHYANS]] |
-| `SoOsSIOsH` | **unresolved** (review queue) |
-| `SPRINGTIME` | **unresolved** (review queue) |
+| `SoOsSIOsH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
+| `SPRINGTIME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]] |
 | `SURTUR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SURTUR|SURTUR]] |
-| `VOHUMAN` | **candidate (ambiguous first-segment)** → VOHUMAN, OR VOHUMANO, THE GOOD MIND; VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR (not linked) |
+| `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
 
 ## Full OCR entry body (exact)
 

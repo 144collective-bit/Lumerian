@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARENA` | **unresolved** (review queue) |
-| `BRIDGES (nine)` | **candidate (first-segment only)** → possible `BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT` (not linked) |
-| `COURSE` | **candidate (first-segment only)** → possible `COURSE, OR HORSE-RIDING GROUND` (not linked) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
+| `BRIDGES (nine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] |
+| `COURSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COURSE, OR HORSE-RIDING GROUND|COURSE, OR HORSE-RIDING GROUND]] |
 | `Door or VARA` | **unresolved** (review queue) |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `KarsuHirra` | **unresolved** (review queue) |
-| `KNOWER` | **unresolved** (review queue) |
+| `KNOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KNOWER OF (KSHETRA)|KNOWER OF (KSHETRA)]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SEEDS OF Six` | **unresolved** (review queue) |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |

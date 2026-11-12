@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `ALTsR (goddess)` | **unresolved** (review queue) |
-| `Armarti` | **unresolved** (review queue) |
+| `Armarti` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] |
 | `BarsoM` | **unresolved** (review queue) |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `BoupDDHI` | **unresolved** (review queue) |
 | `CARNELIAN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARNELIAN|CARNELIAN]] |
-| `CIVILISING` | **unresolved** (review queue) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `DA2MONS` | **unresolved** (review queue) |
 | `DrEaD` | **unresolved** (review queue) |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
@@ -52,24 +52,24 @@ tags:
 | `Osrpis` | **unresolved** (review queue) |
 | `Paryros` | **unresolved** (review queue) |
 | `PuzpkEvs` | **unresolved** (review queue) |
-| `PyLons` | **unresolved** (review queue) |
+| `PyLons` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
 | `Quatirizs` | **unresolved** (review queue) |
 | `Ri` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rires` | **unresolved** (review queue) |
 | `Rose` | **unresolved** (review queue) |
-| `Scent` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
-| `TauisMAN` | **unresolved** (review queue) |
+| `Scent` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
+| `TauisMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TALISMAN|TALISMAN]] |
 | `THROAT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THROAT|THROAT]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `UPLIFTING RA` | **unresolved** (review queue) |
-| `URNI` | **unresolved** (review queue) |
-| `VEIL` | **unresolved** (review queue) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
-| `WEEPING` | **unresolved** (review queue) |
+| `URNI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNI-TENTEN (HORUS)|URNI-TENTEN (HORUS)]] |
+| `VEIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEIL OF ISIS|VEIL OF ISIS]] |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+| `WEEPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WEEPING OF ISIS FOR OSIRIS|WEEPING OF ISIS FOR OSIRIS]]; [[Reference/Gaskell/Entries/W/WEEPING OF THE GODS FOR BALDER|WEEPING OF THE GODS FOR BALDER]] |
 | `W1sD0mM` | **unresolved** (review queue) |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
-| `WorsHIP` | **unresolved** (review queue) |
+| `WorsHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

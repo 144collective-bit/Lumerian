@@ -35,12 +35,12 @@ tags:
 | `BLIND MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `Fires` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Fires` | resolved (singular/plural) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `JONATHAN` | **unresolved** (review queue) |
+| `JONATHAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JONATHAN AND DAVID|JONATHAN AND DAVID]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `ResurRECTION` | **unresolved** (review queue) |
+| `ResurRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `ROCK OF SALVATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK OF SALVATION|ROCK OF SALVATION]] |
 
 ## Full OCR entry body (exact)

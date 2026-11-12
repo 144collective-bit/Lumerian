@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAH` | **unresolved** (review queue) |
-| `LAMEOCH` | **unresolved** (review queue) |
+| `ADAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAH AND ZILLAH, WIVES OF LAMECH|ADAH AND ZILLAH, WIVES OF LAMECH]] |
+| `LAMEOCH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMECH, SON OF METHUSHAEL|LAMECH, SON OF METHUSHAEL]] |
 
 ## Full OCR entry body (exact)
 

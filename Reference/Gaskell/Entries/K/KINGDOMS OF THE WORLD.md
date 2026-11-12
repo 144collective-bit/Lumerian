@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Mountain (lower)` | **unresolved** (review queue) |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `Mountain (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

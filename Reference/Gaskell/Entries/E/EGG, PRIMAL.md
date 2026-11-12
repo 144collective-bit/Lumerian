@@ -34,41 +34,41 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ADITI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADITI|ADITI]] |
-| `ADITYA` | **candidate (first-segment only)** → possible `ADITYA, THE SUN` (not linked) |
+| `ADITYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADITYA, THE SUN|ADITYA, THE SUN]] |
 | `ALON` | **unresolved** (review queue) |
 | `AETHER` | **unresolved** (review queue) |
-| `AKESI` | **unresolved** (review queue) |
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `AKESI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKESI CITY|AKESI CITY]] |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CHAOS` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CRANBERRY` | **unresolved** (review queue) |
-| `CUPID` | **unresolved** (review queue) |
-| `Duck` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CHAOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
+| `CUPID` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] |
+| `Duck` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUCK OF ILMATER|DUCK OF ILMATER]] |
 | `Eppy` | **unresolved** (review queue) |
 | `EvouvuTION` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `IMPERIAL` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `METIS` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
-| `MoTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
+| `MoTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `MovutTH` | **unresolved** (review queue) |
-| `MULA-PRAKRITI` | **candidate (first-segment only)** → possible `MULA-PRAKRITI, HAVAT` (not linked) |
+| `MULA-PRAKRITI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
 | `PHANES` | **unresolved** (review queue) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `SEB` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEB|SEB]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 | `Sprrir` | **unresolved** (review queue) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 
 ## Full OCR entry body (exact)
 

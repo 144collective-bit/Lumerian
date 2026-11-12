@@ -35,23 +35,23 @@ tags:
 | `Apam (higher)` | **unresolved** (review queue) |
 | `Apam (lower)` | **unresolved** (review queue) |
 | `ABO. MAN` | **unresolved** (review queue) |
-| `BORN AGAIN` | **candidate (first-segment only)** → possible `BORN AGAIN, OR FROM ABOVE` (not linked) |
+| `BORN AGAIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `DrvayaNna` | **unresolved** (review queue) |
-| `Earta` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
+| `Earta` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `ImaceE` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KINGDOM OF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `Monap OF LIFE` | **unresolved** (review queue) |
 | `MUSPELLHEIM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
 | `Prrpis (lunar` | **unresolved** (review queue) |
 | `solar)` | **unresolved** (review queue) |
-| `PrrRIyANA` | **unresolved** (review queue) |
+| `PrrRIyANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `SEKHET-HETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
+| `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 
 ## Full OCR entry body (exact)
 

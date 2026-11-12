@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Apam` | **unresolved** (review queue) |
 | `Hoa` | **unresolved** (review queue) |
-| `Oro` | **candidate (first-segment only)** → possible `ORO, THE TAHITIAN GOD` (not linked) |
+| `Oro` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
 | `Rarnsow` | **unresolved** (review queue) |
-| `VaIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
+| `VaIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 
 ## Full OCR entry body (exact)
 

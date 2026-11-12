@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ATHENA` | **unresolved** (review queue) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `Furrows` | **unresolved** (review queue) |
+| `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
 | `Herxzstus` | **unresolved** (review queue) |
 | `Hosse` | **unresolved** (review queue) |
 | `Sir` | **unresolved** (review queue) |

@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `GaTHAS (chanting)` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `GaTHAS (chanting)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `REMINISCENCE` | **unresolved** (review queue) |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `SHIPS OF GREEKS` | **unresolved** (review queue) |
-| `WorD (living). IN` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WorD (living). IN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

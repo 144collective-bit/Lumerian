@@ -36,16 +36,16 @@ tags:
 | `DEsERtTs` | **unresolved** (review queue) |
 | `Er. PHANT (white)` | **unresolved** (review queue) |
 | `Fane` | **unresolved** (review queue) |
-| `Horn` | **unresolved** (review queue) |
+| `Horn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
 | `TErxrt PROTRUDING` | **unresolved** (review queue) |
-| `TLALOC` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
+| `TLALOC` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
 | `TOOTH. Buppwa` | **unresolved** (review queue) |
 | `EysHIRANYAGABBEA` | **unresolved** (review queue) |
 | `TWELVE TUTE-WEHIWEHI` | **unresolved** (review queue) |
 | `THE FATHER OF REPTILES :-A symbol of the lower self which seeks gratification through the desires and sensations. See Ikarere` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Punca` | **unresolved** (review queue) |
 | `Ranai` | **unresolved** (review queue) |
-| `TanGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `TanGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 
 ## Full OCR entry body (exact)
 

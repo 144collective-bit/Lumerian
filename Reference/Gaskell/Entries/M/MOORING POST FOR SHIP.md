@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANCHORAGE` | **unresolved** (review queue) |
+| `ANCHORAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANCHORAGE OF THE SHIP|ANCHORAGE OF THE SHIP]] |
 | `DzEtuar` | **unresolved** (review queue) |
 | `Poon (zenith)` | **unresolved** (review queue) |
 | `Sur (Manu)` | **unresolved** (review queue) |
-| `SHRINE` | **unresolved** (review queue) |
-| `WHEA® AND BARLEY` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
+| `WHEA® AND BARLEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
 
 ## Full OCR entry body (exact)
 

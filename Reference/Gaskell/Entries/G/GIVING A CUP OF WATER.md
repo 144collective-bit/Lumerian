@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `Discrete` | **unresolved** (review queue) |
-| `Hyias` | **unresolved** (review queue) |
+| `Hyias` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
 | `PIrcHer` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

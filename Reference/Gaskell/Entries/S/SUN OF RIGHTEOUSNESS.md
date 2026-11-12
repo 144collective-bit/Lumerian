@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CALVES` | **candidate (first-segment only)** → possible `CALVES, THE MYRIAD` (not linked) |
-| `CREATION` | **unresolved** (review queue) |
+| `CALVES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CALVES, THE MYRIAD|CALVES, THE MYRIAD]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `HIGHER` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
+| `HIGHER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]]; [[Reference/Gaskell/Entries/H/HIGHER AND NATURES|HIGHER AND NATURES]] |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `NAMF` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `WInNGs. ’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

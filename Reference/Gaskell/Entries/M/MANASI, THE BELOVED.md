@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `FLOWERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
-| `Karana` | **unresolved** (review queue) |
+| `Karana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `MARES. MANCO CAPAC AND MAMA OGLLO` | **unresolved** (review queue) |
 | `OFFSPRING OF SUN AND MOON. Symbols of the Divine Will and Wisdom proceeding from primordial Spirit and Matter. ‘*Manco Capac and Mama Oglilo descended from heaven in the region of Lake Titicaca. They had received commands from their parent` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the sun-god` | **unresolved** (review queue) |
@@ -51,12 +51,12 @@ tags:
 | `and below to the centre of the astral plane` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and from these centres (city) the Soul was gradually built up. The Divine Will then prepared the way for the subsequent evolution of man and other entities. The mental qualities were involved and brought to perfection` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the Divine Wisdom fully adapted the higher emotions (women) to the laws and mechanism of the soulprocess. See CHENMMIS` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `CIVILISING` | **unresolved** (review queue) |
-| `DELOs` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
+| `DELOs` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `EartH (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `GoLp` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `Loom` | **unresolved** (review queue) |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
 | `NAvEL` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]] |
 | `OnNoGoRoJmmaA` | **unresolved** (review queue) |
 | `WARP. MANDHATRI’` | **unresolved** (review queue) |

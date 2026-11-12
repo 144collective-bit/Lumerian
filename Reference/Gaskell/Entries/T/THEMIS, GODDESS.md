@@ -35,15 +35,15 @@ tags:
 | `ASSEMBLY OF PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
 | `CoMPANY OF Gops` | **unresolved** (review queue) |
 | `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
-| `JUDGMENT` | **unresolved** (review queue) |
+| `JUDGMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDGMENT AND JUSTICE|JUDGMENT AND JUSTICE]]; [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]]; [[Reference/Gaskell/Entries/J/JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART|JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART]] |
 | `THEOPHILUS Karma` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `Morrmaz` | **unresolved** (review queue) |
-| `NECESsIry` | **unresolved** (review queue) |
-| `Nornox` | **unresolved** (review queue) |
-| `SHaAI` | **unresolved** (review queue) |
+| `NECESsIry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
+| `Nornox` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
+| `SHaAI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHAI, GOD OF LUCK OR DESTINY|SHAI, GOD OF LUCK OR DESTINY]] |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `WORD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

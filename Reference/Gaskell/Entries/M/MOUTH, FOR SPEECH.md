@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMENTET` | **unresolved** (review queue) |
-| `BORN AGAIN` | **candidate (first-segment only)** → possible `BORN AGAIN, OR FROM ABOVE` (not linked) |
-| `HETEP` | **candidate (ambiguous first-segment)** → HETEP, LAKE OF THE GOD; HETEP, THE GOD (not linked) |
-| `LaDDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `BORN AGAIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]] |
+| `HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HETEP, LAKE OF THE GOD|HETEP, LAKE OF THE GOD]]; [[Reference/Gaskell/Entries/H/HETEP, THE GOD|HETEP, THE GOD]] |
+| `LaDDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `Lies` | **unresolved** (review queue) |
 | `Mrrzz` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `RE-STAv` | **unresolved** (review queue) |
+| `RE-STAv` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
 | `Srprzou` | **unresolved** (review queue) |
-| `Starrcase` | **unresolved** (review queue) |
+| `Starrcase` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
 | `Steps` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 | `Toms` | **unresolved** (review queue) |
 | `TonavuE` | **unresolved** (review queue) |
 | `TuatT` | **unresolved** (review queue) |
-| `WoRD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WoRD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

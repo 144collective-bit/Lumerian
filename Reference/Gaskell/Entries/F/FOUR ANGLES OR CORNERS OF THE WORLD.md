@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `Swastika` | **candidate (first-segment only)** → possible `SWASTIKA, OR FYLFOT SIGN` (not linked) |
-| `WINDs (four)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
+| `WINDs (four)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, FOUR|WINDS, FOUR]] |
 
 ## Full OCR entry body (exact)
 

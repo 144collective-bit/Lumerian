@@ -35,8 +35,8 @@ tags:
 | `BLacK MaGicians` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK MAGICIANS|BLACK MAGICIANS]] |
 | `Briss` | **unresolved** (review queue) |
 | `Rart` | **unresolved** (review queue) |
-| `Vieara` | **unresolved** (review queue) |
-| `YATUS` | **unresolved** (review queue) |
+| `Vieara` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VIGARA, THE AGELESS RIVER|VIGARA, THE AGELESS RIVER]] |
+| `YATUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YATUS OF EVIL WITCHCRAFT|YATUS OF EVIL WITCHCRAFT]] |
 
 ## Full OCR entry body (exact)
 

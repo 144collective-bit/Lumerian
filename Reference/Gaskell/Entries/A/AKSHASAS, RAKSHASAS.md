@@ -36,10 +36,10 @@ tags:
 | `Darmons` | **unresolved** (review queue) |
 | `DrEMmons` | **unresolved** (review queue) |
 | `Devits` | **unresolved** (review queue) |
-| `LANKA` | **unresolved** (review queue) |
-| `MAHABHARATA` | **candidate (first-segment only)** → possible `MAHABHARATA, OR THE GREAT ORIGINATOR` (not linked) |
-| `RaIn` | **unresolved** (review queue) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
+| `MAHABHARATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAHABHARATA, OR THE GREAT ORIGINATOR|MAHABHARATA, OR THE GREAT ORIGINATOR]] |
+| `RaIn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 
 ## Full OCR entry body (exact)
 

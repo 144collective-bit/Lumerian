@@ -35,8 +35,8 @@ tags:
 | `FarHer` | **unresolved** (review queue) |
 | `Kner` | **unresolved** (review queue) |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `NATION` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
+| `NATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

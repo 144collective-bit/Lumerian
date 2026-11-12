@@ -36,8 +36,8 @@ tags:
 | `Ranai` | **unresolved** (review queue) |
 | `Ronao` | **unresolved** (review queue) |
 | `TaxtMAHUTA` | **unresolved** (review queue) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
-| `TAWHIRI` | **unresolved** (review queue) |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+| `TAWHIRI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `TRIBE. RULERS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIBE-RULERS|TRIBE-RULERS]] |
 
 ## Full OCR entry body (exact)

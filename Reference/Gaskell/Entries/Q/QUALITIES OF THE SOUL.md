@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `APPENDAGES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APPENDAGES|APPENDAGES]] |
-| `BLASPHEMY` | **unresolved** (review queue) |
-| `CHURCH (quarters)` | **unresolved** (review queue) |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
+| `CHURCH (quarters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Gops` | **unresolved** (review queue) |
 | `GosPEL oF xkKINGDOM` | **unresolved** (review queue) |
-| `GUILTY` | **unresolved** (review queue) |
+| `GUILTY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GUILTY GUHU (SPOON)|GUILTY GUHU (SPOON)]]; [[Reference/Gaskell/Entries/G/GUILTY PERSONS|GUILTY PERSONS]] |
 | `Gunas` | **unresolved** (review queue) |
-| `JUDAH` | **candidate (first-segment only)** → possible `JUDAH, THE TRIBE OF` (not linked) |
-| `MAISHAN` | **candidate (first-segment only)** → possible `MAISHAN, ON THE SHORES OF THE SEA` (not linked) |
-| `NAMES` | **unresolved** (review queue) |
-| `RIMTHURSAR` | **candidate (first-segment only)** → possible `RIMTHURSAR, FROST GIANTS` (not linked) |
-| `SAVIOURS` | **candidate (first-segment only)** → possible `SAVIOURS, THE TWELVE` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
-| `WEAPONS` | **unresolved** (review queue) |
+| `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
+| `MAISHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `NAMES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
+| `RIMTHURSAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]]; [[Reference/Gaskell/Entries/R/RIMTHURSAR RIGHTEOUS MAN|RIMTHURSAR RIGHTEOUS MAN]] |
+| `SAVIOURS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+| `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 
 ## Full OCR entry body (exact)
 

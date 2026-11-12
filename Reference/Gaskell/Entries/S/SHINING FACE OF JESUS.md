@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `RAMENT` | **unresolved** (review queue) |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `URNA` | **unresolved** (review queue) |
+| `URNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

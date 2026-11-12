@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BuUDDHIO FUNCTION` | **unresolved** (review queue) |
+| `BuUDDHIO FUNCTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC FUNCTION|BUDDHIC FUNCTION]] |
 | `Cow oF PLENTY` | **unresolved** (review queue) |
-| `EstTHER` | **unresolved** (review queue) |
-| `Ferast` | **unresolved** (review queue) |
+| `EstTHER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
+| `Ferast` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `HER0D` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `Mosi0o` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

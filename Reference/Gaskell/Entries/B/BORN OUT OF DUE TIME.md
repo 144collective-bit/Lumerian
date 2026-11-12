@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABORTION` | **unresolved** (review queue) |
+| `ABORTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ABORTION PRODUCED BY WISDOM|ABORTION PRODUCED BY WISDOM]] |
 | `ALON (thirteenth)` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CONVERSION OF PAUI.` | **unresolved** (review queue) |
-| `Monts` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `THIRTEEN` | **candidate (first-segment only)** → possible `THIRTEEN, NUMBER` (not linked) |
+| `Monts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONTH|MONTH]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

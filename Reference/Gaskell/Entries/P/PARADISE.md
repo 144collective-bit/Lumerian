@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arnsu` | **unresolved** (review queue) |
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `BUDDHIO PLANE` | **unresolved** (review queue) |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `EpEn` | **unresolved** (review queue) |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
-| `GARDEN (Eden)` | **unresolved** (review queue) |
-| `GARDEN (flowers)` | **unresolved** (review queue) |
-| `GARODMAN` | **candidate (first-segment only)** → possible `GARODMAN, OR GAROTMANO` (not linked) |
+| `GARDEN (Eden)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `GARDEN (flowers)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `GARODMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GARODMAN, OR GAROTMANO|GARODMAN, OR GAROTMANO]] |
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `Hours` | **unresolved** (review queue) |
+| `Hours` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
 | `Kinepom oF HEAVEN` | **unresolved** (review queue) |
 | `Korsi` | **unresolved** (review queue) |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `TUBA-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUBA TREE|TUBA TREE]] |
-| `WISDOM (masc.)` | **unresolved** (review queue) |
+| `WISDOM (masc.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

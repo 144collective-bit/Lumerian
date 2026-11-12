@@ -35,7 +35,7 @@ tags:
 | `DoLIonses` | **unresolved** (review queue) |
 | `Eunevs` | **unresolved** (review queue) |
 | `HyPpsiIryLe` | **unresolved** (review queue) |
-| `THOoas` | **unresolved** (review queue) |
+| `THOoas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
 
 ## Full OCR entry body (exact)
 

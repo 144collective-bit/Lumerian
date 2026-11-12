@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arsuna` | **unresolved** (review queue) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
-| `DHRITA-RASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
-| `FALL` | **unresolved** (review queue) |
-| `HASTINA-PUR` | **candidate (first-segment only)** → possible `HASTINA-PUR, THE CITY` (not linked) |
+| `Arsuna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
+| `DHRITA-RASHTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `HASTINA-PUR` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HASTINA-PUR, THE CITY|HASTINA-PUR, THE CITY]] |
 | `Karma` | **unresolved** (review queue) |
-| `PanpDavas` | **unresolved** (review queue) |
-| `Panpu` | **unresolved** (review queue) |
+| `PanpDavas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
+| `Panpu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDU, KING|PANDU, KING]] |
 | `SvunMOTIONLESS` | **unresolved** (review queue) |
-| `ZENITH` | **unresolved** (review queue) |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

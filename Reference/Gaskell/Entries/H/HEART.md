@@ -32,27 +32,27 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AB` | **candidate (first-segment only)** → possible `AB, THE HEART` (not linked) |
+| `AB` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AB, THE HEART|AB, THE HEART]] |
 | `BaLaNnog` | **unresolved** (review queue) |
 | `BLoop` | **unresolved** (review queue) |
-| `CaBIN` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `EMBALMMENT` | **unresolved** (review queue) |
-| `HAwkK` | **unresolved** (review queue) |
+| `CaBIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
+| `HAwkK` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `345 HEAVEN INCENSE` | **unresolved** (review queue) |
 | `JUDGMENT-HALL` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `Lorus` | **unresolved** (review queue) |
 | `PrRocEssION` | **unresolved** (review queue) |
-| `PYLoNns` | **unresolved** (review queue) |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
-| `QUETZALCOATL` | **unresolved** (review queue) |
+| `PYLoNns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
+| `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `SHRINE` | **unresolved** (review queue) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `VISCERA` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 
 ## Full OCR entry body (exact)
 

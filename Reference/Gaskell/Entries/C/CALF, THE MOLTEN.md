@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Aaron` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `Ear` | **unresolved** (review queue) |
-| `Eatino` | **unresolved** (review queue) |
+| `Aaron` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `Ear` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EAR EAR, OR HEARING|EAR EAR, OR HEARING]] |
+| `Eatino` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
 | `Ibo` | **unresolved** (review queue) |
-| `Mosks` | **unresolved** (review queue) |
+| `Mosks` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Prizsts AND ELDERS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

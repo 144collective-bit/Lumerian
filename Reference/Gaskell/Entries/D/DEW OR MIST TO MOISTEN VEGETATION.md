@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Eartu` | **unresolved** (review queue) |
 | `Grass` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRASS|GRASS]] |
-| `Grounp` | **unresolved** (review queue) |
+| `Grounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `Ics` | **unresolved** (review queue) |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 

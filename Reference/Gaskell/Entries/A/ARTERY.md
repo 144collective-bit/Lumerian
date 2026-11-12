@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bioop` | **unresolved** (review queue) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 
 ## Full OCR entry body (exact)

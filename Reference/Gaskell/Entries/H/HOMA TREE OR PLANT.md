@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AtTHwya` | **unresolved** (review queue) |
-| `Baptism` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `CONSECRATION` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `Foop` | **unresolved** (review queue) |
-| `GRAPES` | **candidate (first-segment only)** → possible `GRAPES, OR WINE` (not linked) |
+| `GRAPES` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
 | `Heratina` | **unresolved** (review queue) |
-| `Puants` | **unresolved** (review queue) |
-| `SacRaAMENT` | **unresolved** (review queue) |
+| `Puants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
+| `SacRaAMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `SomMaPLANT` | **unresolved** (review queue) |
 | `Sour` | **unresolved** (review queue) |
 | `SurratmMa` | **unresolved** (review queue) |
 | `TABLE OF vue Lorp` | **unresolved** (review queue) |
 | `TREE oF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINE` | **unresolved** (review queue) |
 | `ZOROASTER. HOME ;` | **unresolved** (review queue) |

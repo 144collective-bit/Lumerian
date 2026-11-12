@@ -36,8 +36,8 @@ tags:
 | `ARROW OF SPIRIT` | **unresolved** (review queue) |
 | `LRRows (divine)` | **unresolved** (review queue) |
 | `Horsz` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CavaMiTres` | **unresolved** (review queue) |
-| `Door (narrow)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Door (narrow)` | resolved (exact) → [[Reference/Gaskell/Entries/D/DOOR, NARROW|DOOR, NARROW]] |
 | `PrRoPueEts (false)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

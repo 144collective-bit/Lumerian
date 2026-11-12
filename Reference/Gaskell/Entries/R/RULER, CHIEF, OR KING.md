@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ark (Moses)` | **unresolved** (review queue) |
+| `Ark (Moses)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `GOVERNORS` | **unresolved** (review queue) |
 | `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Jarrus` | **unresolved** (review queue) |
 | `Kiva` | **unresolved** (review queue) |
-| `NaTIons` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
+| `NaTIons` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `SHEPHERDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEPHERDS|SHEPHERDS]] |
-| `TRIBES` | **unresolved** (review queue) |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `Evoturion` | **unresolved** (review queue) |
-| `INvoLUTION` | **unresolved** (review queue) |
-| `SaBBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `Six` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
-| `Sunpay` | **unresolved** (review queue) |
+| `INvoLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `SaBBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `Six` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
+| `Sunpay` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 
 ## Full OCR entry body (exact)
 

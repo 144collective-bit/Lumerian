@@ -36,7 +36,7 @@ tags:
 | `HapsEs` | **unresolved** (review queue) |
 | `Styx` | **unresolved** (review queue) |
 | `TRIAD. DOG` | **unresolved** (review queue) |
-| `GOOD` | **candidate (first-segment only)** → possible `GOOD, OR LIGHT CREATION` (not linked) |
+| `GOOD` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOOD, OR LIGHT CREATION|GOOD, OR LIGHT CREATION]] |
 | `PESOSCHOROUN :-— A symbol of the true will in the mentality` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `showing activity of the Divine nature within the soul. See WILL` | **unresolved** (prose-bleed / overlong token; not linked) |
 

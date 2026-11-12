@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Evoniorion` | **unresolved** (review queue) |
-| `OcEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `OcEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `PUuITiIKa` | **unresolved** (review queue) |
 | `‘UAT` | **unresolved** (review queue) |
 | `VOURUKASHA. (IVER` | **unresolved** (review queue) |

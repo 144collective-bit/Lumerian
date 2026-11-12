@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `Brrps (two)` | **unresolved** (review queue) |
 | `Buppar` | **unresolved** (review queue) |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `FiG-FRUIT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
 | `InpivipvuaLity` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Sprart. 707` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

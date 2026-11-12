@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `RULER` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
+| `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
 
 ## Full OCR entry body (exact)
 

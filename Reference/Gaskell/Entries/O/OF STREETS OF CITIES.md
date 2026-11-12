@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `Crry` | **unresolved** (review queue) |
-| `CRUCIFIXION OF cHRIsT (Rev.)` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `CRUCIFIXION OF cHRIsT (Rev.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `APOCATEQUIL` | **unresolved** (review queue) |
-| `Asvins` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
+| `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `DroscuRl` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PISCES` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
+| `PISCES` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `PoLitux` | **unresolved** (review queue) |
 | `Zopiac` | **unresolved** (review queue) |
 

@@ -34,22 +34,22 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `HEAVEN AXD EARTH` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `HEAVEN AXD EARTH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `IMPERIAL` | **unresolved** (review queue) |
-| `MacrRocosm` | **unresolved** (review queue) |
+| `MacrRocosm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Manayana` | **unresolved** (review queue) |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `OcEaNn` | **unresolved** (review queue) |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
-| `PRANAS` | **candidate (first-segment only)** → possible `PRANAS, FIVE LIFE-BREATHS` (not linked) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `SIMILITUDES` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
-| `SPERMATIO WORDS` | **unresolved** (review queue) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `PRANAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
+| `SPERMATIO WORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

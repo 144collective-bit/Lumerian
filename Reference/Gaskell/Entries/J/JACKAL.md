@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Nooss` | **unresolved** (review queue) |
-| `SHu` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 
 ## Full OCR entry body (exact)
 

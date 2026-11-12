@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
 | `Epru` | **unresolved** (review queue) |
 | `Otympus` | **unresolved** (review queue) |
 | `WaTER (higher). Ioucvus` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

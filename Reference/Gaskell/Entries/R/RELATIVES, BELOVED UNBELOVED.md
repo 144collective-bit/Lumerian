@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 
 ## Full OCR entry body (exact)
 

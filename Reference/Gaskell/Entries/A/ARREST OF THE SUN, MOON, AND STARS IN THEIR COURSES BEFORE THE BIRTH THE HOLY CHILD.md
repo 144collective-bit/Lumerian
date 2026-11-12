@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrows (divine)` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `Arrows (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `BiratH OF OF ZOROASTER` | **unresolved** (review queue) |
 | `Boat (sektet)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Moon (waxing)` | **unresolved** (review queue) |

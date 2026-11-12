@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 | `JUSTIFICATION` | **unresolved** (review queue) |
 | `LAW OF MOSES` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF MOSES|LAW OF MOSES]] |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 | `Woman (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

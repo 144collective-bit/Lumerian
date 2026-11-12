@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-rA` | **unresolved** (review queue) |
-| `APES (nine)` | **unresolved** (review queue) |
-| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
-| `NINE` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
-| `TEN` | **candidate (first-segment only)** → possible `TEN, NUMBER` (not linked) |
-| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `APES (nine)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
+| `ARIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
+| `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
+| `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
+| `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 
 ## Full OCR entry body (exact)
 

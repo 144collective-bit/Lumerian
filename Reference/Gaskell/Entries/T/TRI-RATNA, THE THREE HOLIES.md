@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARHATS` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
-| `DHARMA` | **unresolved** (review queue) |
-| `MONK` | **unresolved** (review queue) |
-| `PACCEKABUDDHAS` | **unresolved** (review queue) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
+| `DHARMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] |
+| `MONK` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
+| `PACCEKABUDDHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PACCEKABUDDHAS OR PRATYEKA-BUDDHAS|PACCEKABUDDHAS OR PRATYEKA-BUDDHAS]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 
 ## Full OCR entry body (exact)
 

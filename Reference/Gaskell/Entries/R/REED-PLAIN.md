@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF HORUS` | **unresolved** (review queue) |
+| `BIRTH OF HORUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF HORUS THE CHILD, OR HARPOCRATES|BIRTH OF HORUS THE CHILD, OR HARPOCRATES]] |
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
-| `HiIRUKO` | **unresolved** (review queue) |
-| `MarsH` | **unresolved** (review queue) |
-| `OHONAMOCHI` | **unresolved** (review queue) |
-| `PEACHES` | **unresolved** (review queue) |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `Union (reeds)` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `HiIRUKO` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRUKO (LEECH-CHILD)|HIRUKO (LEECH-CHILD)]] |
+| `MarsH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
+| `PEACHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEACHES OF IZANAGI, THREE|PEACHES OF IZANAGI, THREE]] |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `Union (reeds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

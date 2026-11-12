@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `ARGONAUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
-| `MELANTIAN NECKS` | **candidate (first-segment only)** → possible `MELANTIAN NECKS, ROCKS` (not linked) |
+| `MELANTIAN NECKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MELANTIAN NECKS, ROCKS|MELANTIAN NECKS, ROCKS]] |
 
 ## Full OCR entry body (exact)
 

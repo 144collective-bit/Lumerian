@@ -36,10 +36,10 @@ tags:
 | `Earrs (great)` | **unresolved** (review queue) |
 | `GoppEss` | **unresolved** (review queue) |
 | `Gorne In` | **unresolved** (review queue) |
-| `Mast` | **unresolved** (review queue) |
-| `MOTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `QUEEN` | **unresolved** (review queue) |
-| `UNEN` | **unresolved** (review queue) |
+| `Mast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]]; [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] |
+| `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `QUEEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUEEN OF HEAVEN|QUEEN OF HEAVEN]] |
+| `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 
 ## Full OCR entry body (exact)
 

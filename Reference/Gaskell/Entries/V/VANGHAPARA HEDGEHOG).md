@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BRIAREUS` | **candidate (ambiguous first-segment)** → BRIAREUS, MEN, ONE-LEGGED; BRIAREUS, OR AEGAEON (not linked) |
+| `BRIAREUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRIAREUS, MEN, ONE-LEGGED|BRIAREUS, MEN, ONE-LEGGED]]; [[Reference/Gaskell/Entries/B/BRIAREUS, OR AEGAEON|BRIAREUS, OR AEGAEON]] |
 | `CREEPING THINGS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] |
-| `TALus` | **candidate (first-segment only)** → possible `TALUS, THE BRAZEN MAN` (not linked) |
+| `TALus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
 
 ## Full OCR entry body (exact)
 

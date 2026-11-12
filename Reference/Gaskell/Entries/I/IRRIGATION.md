@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AQUEDUCT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AQUEDUCT|AQUEDUCT]] |
-| `CATTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
-| `CuLtivaTION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `CATTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
+| `CuLtivaTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `Drw` | **unresolved** (review queue) |
 | `HorseE (red)` | **unresolved** (review queue) |
 | `LanD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
@@ -43,7 +43,7 @@ tags:
 | `Riven` | **unresolved** (review queue) |
 | `Snow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
 | `VourvuKASHA` | **unresolved** (review queue) |
-| `YIMA` | **unresolved** (review queue) |
+| `YIMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DrEvastaTIon` | **unresolved** (review queue) |
+| `DrEvastaTIon` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVASTATION|DEVASTATION]] |
 | `DrovucHT` | **unresolved** (review queue) |
 | `SaBBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |

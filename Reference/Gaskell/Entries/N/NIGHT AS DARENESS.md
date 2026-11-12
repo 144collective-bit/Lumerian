@@ -37,7 +37,7 @@ tags:
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `JupDas` | **unresolved** (review queue) |
 | `NicoDEMUS` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `WOMEN’S LIFE` | **unresolved** (review queue) |
 

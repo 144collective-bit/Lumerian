@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `COUNTENANCE (greater)` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
+| `COUNTENANCE (greater)` | resolved (qualified head) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]] |
 | `WORLDS (five). ASEKA ADEPTSHIP :~— A symbol of the state of consciousness of the ego when raised to the highest possible point it can attain in the present cycle of twelve stages through which growth is accomplished. This would mean an atmabuddhic level` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `whereas the Arhat consciousness is buddhi-manasic. The next globe period will be capabie of carrying the advanced ego up to the Aseka stage of being ; so it may be imagined this stage will probably be achieved in the future. See Annats` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ASCETIOC` | **unresolved** (review queue) |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `MasrEeR OF wISDOM` | **unresolved** (review queue) |
+| `MasrEeR OF wISDOM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]] |
 | `WALES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,35 +33,35 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGNISHVATTAS` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
 | `Breath` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `CxHariot` | **unresolved** (review queue) |
+| `CxHariot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Fax` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `HorsEs (bay)` | **candidate (first-segment only)** → possible `HORSES, TWO BAY` (not linked) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `HorsEs (bay)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HORSES, TWO BAY|HORSES, TWO BAY]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
 | `MAZENDARANS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] |
 | `MONADS OF LIFE` | **unresolved** (review queue) |
-| `Nose` | **unresolved** (review queue) |
+| `Nose` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOSE AND NOSTRILS BREATHING|NOSE AND NOSTRILS BREATHING]] |
 | `PACCEKA-BUDDHAS` | **unresolved** (review queue) |
-| `Peasant` | **candidate (first-segment only)** → possible `PEASANT, OR CULTIVATOR OF THE GROUND` (not linked) |
+| `Peasant` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEASANT, OR CULTIVATOR OF THE GROUND|PEASANT, OR CULTIVATOR OF THE GROUND]] |
 | `Prrris (solar)` | **unresolved** (review queue) |
-| `PoTsHern` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `PoTsHern` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rupra` | **unresolved** (review queue) |
-| `SacriFicer` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `Sages` | **candidate (first-segment only)** → possible `SAGES, GREAT` (not linked) |
+| `SacriFicer` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `Sages` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAGES, GREAT|SAGES, GREAT]] |
 | `SrvcErs` | **unresolved** (review queue) |
-| `Sons oF Gop` | **unresolved** (review queue) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `SPEAR` | **unresolved** (review queue) |
 | `Sprrit` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `VAcH#` | **candidate (first-segment only)** → possible `VACH, DIVINE SPEECH` (not linked) |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `VAcH#` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

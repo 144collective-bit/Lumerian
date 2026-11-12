@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Beast` | **unresolved** (review queue) |
+| `Beast` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `CANDLESTICKS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
-| `CITY` | **candidate (first-segment only)** → possible `CITY, HOLY` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
-| `OLIVE` | **unresolved** (review queue) |
+| `CITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `Pata` | **unresolved** (review queue) |
 | `SaczkiFIiceR` | **unresolved** (review queue) |
 | `Sopom` | **unresolved** (review queue) |
-| `STREETS` | **unresolved** (review queue) |
-| `WITNESSES (two)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `STREETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREETS OF NINE|STREETS OF NINE]] |
+| `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

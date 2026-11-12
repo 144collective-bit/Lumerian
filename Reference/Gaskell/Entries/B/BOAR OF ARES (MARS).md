@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADONIS` | **unresolved** (review queue) |
-| `ARES` | **unresolved** (review queue) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `Mans` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

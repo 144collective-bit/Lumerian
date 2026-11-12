@@ -39,9 +39,9 @@ tags:
 | `GarTrHas (chanting)` | **unresolved** (review queue) |
 | `HoMA-JUICE` | **unresolved** (review queue) |
 | `HYMN SINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
-| `PRiaaPATI` | **unresolved** (review queue) |
-| `SINGERS` | **candidate (first-segment only)** → possible `SINGERS, PIOUS` (not linked) |
-| `SOMA-JUICE` | **candidate (first-segment only)** → possible `SOMA-JUICE, OR SAP` (not linked) |
+| `PRiaaPATI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
+| `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `VEDA. LITTLE ONES;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `GOLD (myrrh)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `INCENSE` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `SPICES` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
 
 ## Full OCR entry body (exact)

@@ -36,13 +36,13 @@ tags:
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Foop FoR sovut` | **unresolved** (review queue) |
 | `Marvuts` | **unresolved** (review queue) |
-| `MELopy` | **unresolved** (review queue) |
+| `MELopy` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MELODY, MUSIC|MELODY, MUSIC]] |
 | `Mrtx` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `SPEECH` | **unresolved** (review queue) |
-| `UDDER` | **unresolved** (review queue) |
-| `VOICE` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+| `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
+| `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

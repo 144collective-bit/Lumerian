@@ -35,18 +35,18 @@ tags:
 | `Barks` | **unresolved** (review queue) |
 | `Barsom` | **unresolved** (review queue) |
 | `Bioop` | **unresolved** (review queue) |
-| `DrFUNCT` | **unresolved** (review queue) |
+| `DrFUNCT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `FLOwERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
 | `GEMS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `Hann` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Kust1` | **unresolved** (review queue) |
-| `Magic` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
-| `Mummy` | **unresolved** (review queue) |
+| `Magic` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `NECK` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `TAMAGUSHI` | **unresolved** (review queue) |
-| `YAGNOPAVITA` | **unresolved** (review queue) |
+| `YAGNOPAVITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YAJNOPAVITA,-THE SACRED CORD, OR SACRIFICIAL THREAD|YAJNOPAVITA,—THE SACRED CORD, OR SACRIFICIAL THREAD]] |
 
 ## Full OCR entry body (exact)
 

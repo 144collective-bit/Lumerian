@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUDUMBLA` | **candidate (first-segment only)** → possible `AUDUMBLA, THE COW` (not linked) |
+| `AUDUMBLA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUDUMBLA, THE COW|AUDUMBLA, THE COW]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `OF cHRist` | **unresolved** (review queue) |
 | `Butt` | **unresolved** (review queue) |
 | `Matrern` | **unresolved** (review queue) |
 | `MAyd` | **unresolved** (review queue) |
 | `Morser` | **unresolved** (review queue) |
-| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `UrcHaT` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

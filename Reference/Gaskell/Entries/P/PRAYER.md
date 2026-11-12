@@ -35,7 +35,7 @@ tags:
 | `ASPIRATION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASPIRATION|ASPIRATION]] |
 | `AVALOKITESVARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AVALOKITESVARA|AVALOKITESVARA]] |
 | `Buessinc` | **unresolved** (review queue) |
-| `Horsx (red)` | **unresolved** (review queue) |
+| `Horsx (red)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Purrma SEA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

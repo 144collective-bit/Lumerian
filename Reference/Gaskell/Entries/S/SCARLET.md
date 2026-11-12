@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `BLoop` | **unresolved** (review queue) |
 | `Cotours` | **unresolved** (review queue) |
-| `LINEN` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
-| `Loom` | **unresolved** (review queue) |
+| `LINEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
 | `Maaic` | **unresolved** (review queue) |
 | `Rep` | **unresolved** (review queue) |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |

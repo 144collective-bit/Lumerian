@@ -38,9 +38,9 @@ tags:
 | `Mix` | **unresolved** (review queue) |
 | `Mik (goat)` | **unresolved** (review queue) |
 | `Rarn` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `VACH` | **candidate (first-segment only)** → possible `VACH, DIVINE SPEECH` (not linked) |
-| `WEALTH (shower)` | **unresolved** (review queue) |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `VACH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
+| `WEALTH (shower)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

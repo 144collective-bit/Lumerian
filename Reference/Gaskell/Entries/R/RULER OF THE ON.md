@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASON` | **unresolved** (review queue) |
-| `CuHrist` | **unresolved** (review queue) |
+| `CuHrist` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `Farre` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `lmaGE` | **unresolved** (review queue) |
 | `LOVE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
-| `REDEEMER` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 
 ## Full OCR entry body (exact)
 

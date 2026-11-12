@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `KHIEN` | **unresolved** (review queue) |
-| `LAO-KEUNTZE` | **candidate (first-segment only)** → possible `LAO-KEUN-TZE, THE FOUNDER OF TAOISM` (not linked) |
-| `MOTHER (Divine)` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
+| `KHIEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHIEN AND KHWAN|KHIEN AND KHWAN]] |
+| `LAO-KEUNTZE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
+| `MOTHER (Divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 
 ## Full OCR entry body (exact)
 

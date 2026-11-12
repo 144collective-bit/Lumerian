@@ -34,19 +34,19 @@ tags:
 |---|---|
 | `AIN sopH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
 | `ATMAN` | **unresolved** (review queue) |
-| `BINAH` | **candidate (first-segment only)** → possible `BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING` (not linked) |
+| `BINAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
 | `Curist` | **unresolved** (review queue) |
-| `GANESA` | **candidate (first-segment only)** → possible `GANESA, GOD OF WISDOM` (not linked) |
+| `GANESA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANESA, GOD OF WISDOM|GANESA, GOD OF WISDOM]] |
 | `Hoty GHost` | **unresolved** (review queue) |
-| `KETHER` | **candidate (first-segment only)** → possible `KETHER, THE CROWN` (not linked) |
+| `KETHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KETHER, THE CROWN|KETHER, THE CROWN]] |
 | `Matxnorn` | **unresolved** (review queue) |
 | `PanaD` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `SHEKmvaH` | **unresolved** (review queue) |
-| `SON OF Gop` | **unresolved** (review queue) |
+| `SON OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `TRInITy` | **unresolved** (review queue) |
-| `WISDOM (masc.)` | **unresolved** (review queue) |
-| `WORD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WISDOM (masc.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+| `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

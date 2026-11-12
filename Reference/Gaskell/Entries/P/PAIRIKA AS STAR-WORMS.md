@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `AMENTET` | **unresolved** (review queue) |
 | `CREEPING THINGS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] |
-| `Mountain (lower)` | **unresolved** (review queue) |
+| `Mountain (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `STAR-WORMS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STAR-WORMS|STAR-WORMS]] |
 
 ## Full OCR entry body (exact)

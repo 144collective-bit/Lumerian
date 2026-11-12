@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANNAS` | **candidate (ambiguous first-segment)** → ANNAS, CAIAPHAS, PRIESTS AND ELDERS; ANNAS, THE PRIEST (not linked) |
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
-| `CROWNING WITH THORNS` | **candidate (first-segment only)** → possible `CROWNING WITH THORNS, OF JESUS` (not linked) |
-| `GABBATHA` | **candidate (first-segment only)** → possible `GABBATHA, THE PAVEMENT` (not linked) |
-| `GOLGOTHA` | **candidate (first-segment only)** → possible `GOLGOTHA, THE PLACE OF A SKULL` (not linked) |
+| `ANNAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANNAS, CAIAPHAS, PRIESTS AND ELDERS|ANNAS, CAIAPHAS, PRIESTS AND ELDERS]]; [[Reference/Gaskell/Entries/A/ANNAS, THE PRIEST|ANNAS, THE PRIEST]] |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
+| `CROWNING WITH THORNS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CROWNING WITH THORNS, OF JESUS|CROWNING WITH THORNS, OF JESUS]] |
+| `GABBATHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GABBATHA, THE PAVEMENT|GABBATHA, THE PAVEMENT]] |
+| `GOLGOTHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOLGOTHA, THE PLACE OF A SKULL|GOLGOTHA, THE PLACE OF A SKULL]] |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
-| `PILATE` | **candidate (first-segment only)** → possible `PILATE, PONTIUS` (not linked) |
+| `PILATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
-| `ROMAN` | **unresolved** (review queue) |
+| `ROMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROMAN SOLDIER IN JUDEA|ROMAN SOLDIER IN JUDEA]] |
 | `SOLDIERS` | **unresolved** (review queue) |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
-| `WITNESSES (false)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (false)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]] |
 
 ## Full OCR entry body (exact)
 

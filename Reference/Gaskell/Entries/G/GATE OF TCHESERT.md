@@ -35,10 +35,10 @@ tags:
 | `Botts` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `East` | **unresolved** (review queue) |
-| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
-| `MANAS` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Horizons` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
+| `MANAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `PILLARS OF SHU` | **unresolved** (review queue) |
-| `Sau` | **unresolved** (review queue) |
+| `Sau` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `Tem` | **unresolved** (review queue) |
 | `Tuar` | **unresolved** (review queue) |
 

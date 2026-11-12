@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BERSERKS` | **candidate (first-segment only)** → possible `BERSERKS, OR WARRIORS` (not linked) |
-| `MURDERER` | **candidate (first-segment only)** → possible `MURDERER, THIEF, OR WOLF` (not linked) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `BERSERKS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] |
+| `MURDERER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDERER, THIEF, OR WOLF|MURDERER, THIEF, OR WOLF]] |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 
 ## Full OCR entry body (exact)
 

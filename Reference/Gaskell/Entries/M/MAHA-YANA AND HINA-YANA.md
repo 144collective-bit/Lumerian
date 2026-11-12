@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEVAYANA` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
-| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
+| `LUNAR CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `Man (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MoonWAXING` | **unresolved** (review queue) |
 | `-WANING` | **unresolved** (review queue) |
 | `Prreryana` | **unresolved** (review queue) |
-| `SOUL (middle)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
-| `SPaRK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SOUL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
+| `SPaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 
 ## Full OCR entry body (exact)
 

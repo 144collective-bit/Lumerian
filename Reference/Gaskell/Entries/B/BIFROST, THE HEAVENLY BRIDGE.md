@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bow` | **unresolved** (review queue) |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `Bripcr` | **unresolved** (review queue) |
 | `Cioups` | **unresolved** (review queue) |
 | `FA` | **unresolved** (review queue) |
-| `GanGLer` | **unresolved** (review queue) |
+| `GanGLer` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGLER OR GANGLERE|GANGLER OR GANGLERE]] |
 | `Gops` | **unresolved** (review queue) |
 | `HermpaLt` | **unresolved** (review queue) |
-| `MUSPELL` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `MUSPELL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `RAINBOW` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
 
 ## Full OCR entry body (exact)

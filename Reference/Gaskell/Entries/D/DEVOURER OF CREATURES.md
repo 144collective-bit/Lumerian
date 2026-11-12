@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ArsHM` | **unresolved** (review queue) |
-| `ASTODVIDAD` | **unresolved** (review queue) |
+| `ASTODVIDAD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASTOVIDAD, HOTU|ASTOVIDAD, HOTU]] |
 | `BorroMLESs PIr` | **unresolved** (review queue) |
-| `KABANDHA` | **candidate (first-segment only)** → possible `KABANDHA, A HEADLESS MONSTER` (not linked) |
+| `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 
 ## Full OCR entry body (exact)
 

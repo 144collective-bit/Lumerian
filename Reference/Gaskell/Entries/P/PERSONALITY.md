@@ -32,41 +32,41 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `ADAPA` | **candidate (first-segment only)** → possible `ADAPA, THE SON OF EA, OR OF ERIDU` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `ADAPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAPA, THE SON OF EA, OR OF ERIDU|ADAPA, THE SON OF EA, OR OF ERIDU]] |
 | `APPENDAGES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APPENDAGES|APPENDAGES]] |
-| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
-| `ARROW (self.)` | **unresolved** (review queue) |
-| `CoNnscrIoUsNess` | **unresolved** (review queue) |
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `ARJUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
+| `ARROW (self.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
+| `CoNnscrIoUsNess` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Dreap` | **unresolved** (review queue) |
 | `Derunctr` | **unresolved** (review queue) |
 | `Ea` | **unresolved** (review queue) |
-| `EPIMETHEUS` | **unresolved** (review queue) |
+| `EPIMETHEUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EPIMETHEUS (AFTERTHOUGHT)|EPIMETHEUS (AFTERTHOUGHT)]] |
 | `FIRE OF HELL` | **unresolved** (review queue) |
 | `FOOLS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOLS|FOOLS]] |
 | `GrusH-uURVA` | **unresolved** (review queue) |
 | `GosHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
-| `ImMORTALITY` | **unresolved** (review queue) |
+| `ImMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
 | `JESUS MORTAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
-| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `LUNAR CYCLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Man wiTHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 | `Monap OF LIFE. Moon` | **unresolved** (review queue) |
-| `MorRTAL MIND` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `MorRTAL MIND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORTAL MIND|MORTAL MIND]] |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Myrmrpons` | **unresolved** (review queue) |
-| `NACHIKETAS` | **candidate (first-segment only)** → possible `NACHIKETAS, SON OF VAJASRAVASA` (not linked) |
-| `NeEsTor` | **unresolved** (review queue) |
+| `NACHIKETAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]] |
+| `NeEsTor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NESTOR, THE SWEET-VOICED|NESTOR, THE SWEET-VOICED]] |
 | `Nop` | **unresolved** (review queue) |
 | `Prrris` | **unresolved** (review queue) |
 | `PrrrRIyaNA` | **unresolved** (review queue) |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `REcocnirion` | **unresolved** (review queue) |
 | `RvuaH` | **unresolved** (review queue) |
-| `SHABTI` | **unresolved** (review queue) |
+| `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
 | `SHal` | **unresolved** (review queue) |
 | `Sou. (lowest)` | **unresolved** (review queue) |
 | `THEetTis` | **unresolved** (review queue) |

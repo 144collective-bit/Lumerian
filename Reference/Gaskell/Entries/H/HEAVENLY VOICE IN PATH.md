@@ -35,7 +35,7 @@ tags:
 | `Astra` | **unresolved** (review queue) |
 | `BrmTreH OF BUDDHA` | **unresolved** (review queue) |
 | `BuppuHa` | **unresolved** (review queue) |
-| `SIMEON` | **candidate (ambiguous first-segment)** → SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE; SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL (not linked) |
+| `SIMEON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

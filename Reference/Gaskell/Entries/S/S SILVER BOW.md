@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `Arnows` | **unresolved** (review queue) |
-| `Bow (silver)` | **unresolved** (review queue) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `Arnows` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `Bow (silver)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 
 ## Full OCR entry body (exact)
 

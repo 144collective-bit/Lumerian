@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `AMBAYAVIS` | **unresolved** (review queue) |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `KORAN` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `KORAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `MyTHOLocy` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
-| `PEN` | **unresolved** (review queue) |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `SasTRA` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SasTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `UPANISHAD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

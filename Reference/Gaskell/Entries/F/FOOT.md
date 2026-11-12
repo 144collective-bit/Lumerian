@@ -35,8 +35,8 @@ tags:
 | `Fret` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
 | `RicHr root` | **unresolved** (review queue) |
-| `SanDaL` | **candidate (first-segment only)** → possible `SANDAL, OR SHOE` (not linked) |
-| `WALKING` | **unresolved** (review queue) |
+| `SanDaL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
+| `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

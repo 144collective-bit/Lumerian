@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CHurnina` | **unresolved** (review queue) |
 | `Men § (forest)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
-| `Moon-WaXING` | **unresolved** (review queue) |
+| `Moon-WaXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
 
 ## Full OCR entry body (exact)
 

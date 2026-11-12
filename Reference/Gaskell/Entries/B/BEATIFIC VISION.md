@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `GELS` | **unresolved** (review queue) |
 | `Buss` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
-| `SERMON` | **unresolved** (review queue) |
+| `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
 | `UNITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

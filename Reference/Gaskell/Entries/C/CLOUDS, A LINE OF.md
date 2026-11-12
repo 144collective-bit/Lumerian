@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Kapa` | **unresolved** (review queue) |
-| `Yao` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MeEtopy` | **unresolved** (review queue) |
-| `Tet` | **unresolved** (review queue) |
+| `Tet` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
 | `Trans` | **unresolved** (review queue) |
 | `UmBRELLA` | **unresolved** (review queue) |
 

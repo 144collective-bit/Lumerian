@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CEREMONIES` | **unresolved** (review queue) |
+| `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
 | `DeEruncr` | **unresolved** (review queue) |
 | `EmMBALMMENT` | **unresolved** (review queue) |
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 | `Gems (strings)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `Hovsss (friends)` | **unresolved** (review queue) |
 | `JEWELS` | **unresolved** (review queue) |
@@ -46,7 +46,7 @@ tags:
 | `PERFUMES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
 | `Rrres` | **unresolved** (review queue) |
 | `RirvaL` | **unresolved** (review queue) |
-| `SCENTS` | **unresolved** (review queue) |
+| `SCENTS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 
 ## Full OCR entry body (exact)
 

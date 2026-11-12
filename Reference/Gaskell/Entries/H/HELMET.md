@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SaLvaTIon` | **unresolved** (review queue) |
-| `SHIELD` | **unresolved** (review queue) |
-| `SwoORD` | **unresolved** (review queue) |
+| `SaLvaTIon` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `SHIELD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHIELD AND SPEAR|SHIELD AND SPEAR]] |
+| `SwoORD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
 
 ## Full OCR entry body (exact)
 

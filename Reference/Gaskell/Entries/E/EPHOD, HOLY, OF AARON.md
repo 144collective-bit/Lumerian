@@ -38,9 +38,9 @@ tags:
 | `and devotion (fine linen). The “ thin plates ’’ refer to an earlier and lessdifferentiated state of the qualities. The ‘‘shoulderpieces" represent the buddhic and astral centres of energy coupled together by the currents in the qualities. The ‘onyx stones engraved with the names of the twelve tribes”? stand for a variety of virtues involved in the currents. The “blue robe of the ephod" is a symbol of the causal-body which clothes the spiritual mind (Aaron). The “ binding" so that “it should not rend” indicates the permanence of the causal-body through the cycle. See Aaron` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Barsom` | **unresolved** (review queue) |
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `Linen` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
-| `RosBE` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
+| `Linen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
+| `RosBE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

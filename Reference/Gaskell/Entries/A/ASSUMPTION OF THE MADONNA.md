@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BinTH OF JESUS` | **unresolved** (review queue) |
+| `BinTH OF JESUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
 | `OF MAN-CHILD` | **unresolved** (review queue) |
 | `Baccuus` | **unresolved** (review queue) |
 | `CROWN OF TWELVE STARS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN OF TWELVE STARS|CROWN OF TWELVE STARS]] |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
 | `DraGon (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
 | `HapeEs` | **unresolved** (review queue) |
 | `Heit` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

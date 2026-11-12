@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AnuBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
-| `AsiTa` | **candidate (first-segment only)** → possible `ASITA, THE SAGE` (not linked) |
+| `AnuBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
+| `AsiTa` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BuppuHa` | **unresolved** (review queue) |
 | `Evo.urion` | **unresolved** (review queue) |
-| `Gate` | **unresolved** (review queue) |
+| `Gate` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `InvoLuTion` | **unresolved** (review queue) |
+| `InvoLuTion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LIon-cop` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 
 ## Full OCR entry body (exact)
 

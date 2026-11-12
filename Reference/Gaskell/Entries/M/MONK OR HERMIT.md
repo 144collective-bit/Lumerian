@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ascetic` | **unresolved** (review queue) |
-| `ARHAT` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
 | `MOON Cuurnon (four)` | **unresolved** (review queue) |
-| `Hermit` | **unresolved** (review queue) |
+| `Hermit` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `MENDICANT` | **unresolved** (review queue) |
-| `Nouns` | **unresolved** (review queue) |
-| `Orpers` | **unresolved** (review queue) |
-| `Sarnts` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
+| `Nouns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NUNS|NUNS]] |
+| `Orpers` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]] |
+| `Sarnts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `AURVAITO` | **unresolved** (review queue) |
+| `AURVAITO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
 | `BIRTH OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] |
-| `CREATION` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `Demons` | **unresolved** (review queue) |
-| `DuGHDHOVA` | **candidate (first-segment only)** → possible `DUGHDHOVA, MOTHER ZARATUST` (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `GLORY (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
-| `Homa` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
+| `DuGHDHOVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DUGHDHOVA, MOTHER ZARATUST|DUGHDHOVA, MOTHER ZARATUST]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `GLORY (divine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PRITHA’s` | **unresolved** (review queue) |
 | `RELIGION (good)` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
-| `SovurH WIND` | **unresolved** (review queue) |
+| `SovurH WIND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 | `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 | `YUDHI` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

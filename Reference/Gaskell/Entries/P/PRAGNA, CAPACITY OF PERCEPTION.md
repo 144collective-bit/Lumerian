@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `DxHarma` | **unresolved** (review queue) |
 | `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `WIsDOM` | **unresolved** (review queue) |
+| `WIsDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `Wart` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

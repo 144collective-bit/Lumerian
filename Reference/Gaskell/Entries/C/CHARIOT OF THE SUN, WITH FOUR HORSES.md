@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
-| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
+| `ARJUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `CAavusaLBODY` | **unresolved** (review queue) |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `EakRTHAH` | **unresolved** (review queue) |
-| `ELEMENTS (four)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS (four)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `FrrE` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
-| `INvoLuTion` | **unresolved** (review queue) |
-| `JupDGMENT DAY` | **unresolved** (review queue) |
-| `OpposiTes` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `Piety` | **unresolved** (review queue) |
-| `PraLAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `INvoLuTion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `JupDGMENT DAY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
+| `OpposiTes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `Piety` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PIETY IN CAR OR CHARIOT|PIETY IN CAR OR CHARIOT]] |
+| `PraLAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SavirTni` | **unresolved** (review queue) |
-| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
+| `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 | `Sprrit` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

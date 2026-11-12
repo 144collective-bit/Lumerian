@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANAPHE` | **candidate (first-segment only)** → possible `ANAPHE, THE ILLUMINED ISLAND` (not linked) |
+| `ANAPHE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANAPHE, THE ILLUMINED ISLAND|ANAPHE, THE ILLUMINED ISLAND]] |
 
 ## Full OCR entry body (exact)
 

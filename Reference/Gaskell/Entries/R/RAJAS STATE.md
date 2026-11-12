@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AUSTERITIES` | **unresolved** (review queue) |
-| `DROPNER` | **unresolved** (review queue) |
+| `DROPNER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DROPNER RING|DROPNER RING]] |
 | `GUNAS` | **unresolved** (review queue) |
-| `Ra` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `Ra` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 
 ## Full OCR entry body (exact)
 

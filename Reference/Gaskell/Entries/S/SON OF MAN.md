@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMENI` | **candidate (first-segment only)** → possible `AMENI, THE SON OF MAN` (not linked) |
+| `AMENI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `CHILD` | **unresolved** (review queue) |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `Foxes` | **unresolved** (review queue) |
-| `HorBEHUDTI` | **candidate (first-segment only)** → possible `HORBEHUDTI, OR HEROBEHUTET` (not linked) |
+| `Foxes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOXES HAVE HOLES|FOXES HAVE HOLES]] |
+| `HorBEHUDTI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
 | `INvoLuTiIon` | **unresolved** (review queue) |
 | `IsRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `JESUS (son of man)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
@@ -45,11 +45,11 @@ tags:
 | `MAN (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PamyLes` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SERPENT (brazen)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sout` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 | `VOICE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
 
 ## Full OCR entry body (exact)

@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Briarevus` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `TALUS` | **candidate (first-segment only)** → possible `TALUS, THE BRAZEN MAN` (not linked) |
+| `TALUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
 
 ## Full OCR entry body (exact)
 

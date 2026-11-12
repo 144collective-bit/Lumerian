@@ -32,33 +32,33 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bones` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
-| `BULL` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
+| `BULL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]]; [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `CoLumN` | **unresolved** (review queue) |
-| `Day AnD NiGaT` | **unresolved** (review queue) |
+| `Day AnD NiGaT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
 | `Dioscurl` | **unresolved** (review queue) |
 | `EAGLE` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EAGLE|EAGLE]] |
-| `EPIMETHEUS` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
+| `EPIMETHEUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EPIMETHEUS (AFTERTHOUGHT)|EPIMETHEUS (AFTERTHOUGHT)]] |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `GOSHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
-| `HERCULES` | **candidate (first-segment only)** → possible `HERCULES, SON OF ZEUS` (not linked) |
+| `HERCULES` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERCULES, SON OF ZEUS|HERCULES, SON OF ZEUS]] |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
-| `Hom (stem)` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Hom (stem)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOM-PLANT STEM|HOM-PLANT STEM]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `LIvER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIVER|LIVER]] |
-| `MOUNTAIN` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `PANDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
-| `PERSONALIry` | **unresolved** (review queue) |
+| `PERSONALIry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Sxkry` | **unresolved** (review queue) |
-| `Spark` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `SToMACH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STOMACH|STOMACH]] |
 | `SuTRaATMA` | **unresolved** (review queue) |
 | `VISCERA` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

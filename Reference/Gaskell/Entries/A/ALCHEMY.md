@@ -34,33 +34,33 @@ tags:
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
 | `Barsom` | **unresolved** (review queue) |
-| `BEAST` | **unresolved** (review queue) |
+| `BEAST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `Buiack` | **unresolved** (review queue) |
-| `Earto` | **unresolved** (review queue) |
+| `Earto` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Goip` | **unresolved** (review queue) |
-| `GREEN LION` | **unresolved** (review queue) |
+| `GREEN LION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `HicHerR` | **unresolved** (review queue) |
 | `Imnorep` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Licnt` | **unresolved** (review queue) |
-| `Mageic` | **unresolved** (review queue) |
+| `Mageic` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
 | `MeEtaLts` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
 | `Nort` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
-| `RED (rose)` | **candidate (first-segment only)** → possible `RED, ROSE, COLOUR` (not linked) |
-| `SERPENT XSCULAPIUS` | **unresolved** (review queue) |
-| `SILVER` | **unresolved** (review queue) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
+| `RED (rose)` | resolved (qualified head) → [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
+| `SERPENT XSCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
+| `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
 | `SPARE` | **unresolved** (review queue) |
-| `Stone` | **unresolved** (review queue) |
+| `Stone` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
 | `VALMIEI` | **unresolved** (review queue) |
-| `WHITE. “` | **unresolved** (review queue) |
+| `WHITE. “` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CarapHas` | **unresolved** (review queue) |
+| `CarapHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `NINIGI` | **unresolved** (review queue) |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `PRIESTS AND ELDERS. TRANSFIGURATION OF JESUS :-—A symbol of an initiation` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -42,29 +42,29 @@ tags:
 | `the nature being perfect exteriorly as interiorly. ‘‘And behold there appeared unto them Moses and Elijah talking with him.”— Mat. xvii. 3. The ethical (Moses) and the psychical (Elijah) natures were shown to be in harmony with the indwelling Spirit. The three disciples stand for the natural man (Peter)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the mental man 763 TRANSMUTATION (James)` | **unresolved** (review queue) |
 | `and the higher love-nature or philosophic man (John). These are exalted within the Christ-soul. ** The forms beheld in this allegory—of Moses and Elias—are the Hebrew correspondences of Buddha and Pythagoras. And they are described as beheld by the three Apostles in whom respectively are typified the functions severally fulfilled by Pythagoras` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Buddha` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `Buddha` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `and Jesus; namely` | **unresolved** (review queue) |
-| `Works` | **unresolved** (review queue) |
+| `Works` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
 | `Understanding` | **unresolved** (review queue) |
 | `and Love` | **unresolved** (review queue) |
 | `or Body` | **unresolved** (review queue) |
-| `Mind` | **candidate (ambiguous first-segment)** → MIND, GOOD; MIND, PRIAM, HEDGEHOG (not linked) |
+| `Mind` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]]; [[Reference/Gaskell/Entries/M/MIND, PRIAM, HEDGEHOG|MIND, PRIAM, HEDGEHOG]] |
 | `and Heart. And by their association on the Mount is denoted the junction of all three ele:nents` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the completion of the whole system comprising them` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `in Jesus as the representative of the Heart or Innermost` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and as in a special sense the ‘ beloved Son of God.’ ""—The Perfect Way` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `p. 250. See EtJaAn` | **unresolved** (review queue) |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `JAMES` | **candidate (first-segment only)** → possible `JAMES, THE APOSTLE` (not linked) |
-| `JOHN (apostle)` | **unresolved** (review queue) |
+| `JAMES` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JAMES, THE APOSTLE|JAMES, THE APOSTLE]] |
+| `JOHN (apostle)` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHN THE BAPTIST|JOHN THE BAPTIST]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MosEs` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
-| `Mountain` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `MosEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `RAIMENT` | **unresolved** (review queue) |
-| `SHINING` | **unresolved** (review queue) |
-| `TABEEBNACLE` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `SHINING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINING FACE OF JESUS|SHINING FACE OF JESUS]] |
+| `TABEEBNACLE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

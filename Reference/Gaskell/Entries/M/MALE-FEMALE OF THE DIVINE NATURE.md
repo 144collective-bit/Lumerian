@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `Apam (higher)` | **unresolved** (review queue) |
 | `Drvorce` | **unresolved** (review queue) |
-| `FEMININE` | **unresolved** (review queue) |
+| `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
 | `IMAGE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `Man (dual)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MaRRIaGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `MASCULINE` | **unresolved** (review queue) |
+| `MASCULINE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MASCULINE PRINCIPLE|MASCULINE PRINCIPLE]] |
 | `Ris` | **unresolved** (review queue) |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
-| `WomMAN` | **unresolved** (review queue) |
+| `WomMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)
 

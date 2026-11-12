@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Curist` | **unresolved** (review queue) |
 | `Door (shut)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
-| `Five (number)` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `Five (number)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `Frme_p` | **unresolved** (review queue) |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `KInapom or HEAVEN` | **unresolved** (review queue) |
-| `Lamp` | **unresolved** (review queue) |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `O11` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 

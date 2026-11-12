@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Inrorrion` | **unresolved** (review queue) |
-| `TREEs (tall)` | **candidate (first-segment only)** → possible `TREES, TALL` (not linked) |
+| `TREEs (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
 
 ## Full OCR entry body (exact)
 

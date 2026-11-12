@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `CIVILISING` | **unresolved** (review queue) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `NET FOR FISH` | **unresolved** (review queue) |
-| `OHONAMOCHI` | **unresolved** (review queue) |
-| `REAPING` | **unresolved** (review queue) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `Sra` | **unresolved** (review queue) |
 | `SowIna` | **unresolved** (review queue) |
 

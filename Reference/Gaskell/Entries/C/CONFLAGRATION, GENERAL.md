@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AavT (waters)` | **unresolved** (review queue) |
-| `CHARIOT (sun)` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `CHARIOT (sun)` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `FIRE (destroying)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
-| `KALKI AVATAR` | **unresolved** (review queue) |
+| `KALKI AVATAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]] |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SOSIOSH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 
 ## Full OCR entry body (exact)

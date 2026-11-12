@@ -33,28 +33,28 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `AROUERIS` | **candidate (first-segment only)** → possible `AROUERIS, THE ELDER HORUS` (not linked) |
-| `BuTO` | **unresolved** (review queue) |
-| `CHEmmis` | **unresolved** (review queue) |
+| `AROUERIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AROUERIS, THE ELDER HORUS|AROUERIS, THE ELDER HORUS]] |
+| `BuTO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUTO IN LOWER EGYPT|BUTO IN LOWER EGYPT]] |
+| `CHEmmis` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
 | `DEetos` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `EARTH (mother)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `EVoLUTION` | **unresolved** (review queue) |
+| `EVoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
-| `HARPOCRATES` | **unresolved** (review queue) |
-| `HORBEHUDTI` | **candidate (first-segment only)** → possible `HORBEHUDTI, OR HEROBEHUTET` (not linked) |
+| `HARPOCRATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
+| `HORBEHUDTI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
 | `Horvs` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
-| `MarsH` | **unresolved** (review queue) |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
+| `MarsH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] |
 | `NILE` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PEACHES` | **unresolved** (review queue) |
+| `PEACHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEACHES OF IZANAGI, THREE|PEACHES OF IZANAGI, THREE]] |
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
 | `SEaSONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `SIX` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

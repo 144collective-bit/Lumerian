@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDUISUR` | **unresolved** (review queue) |
-| `AQUARIUS` | **candidate (first-segment only)** → possible `AQUARIUS, THE ZODIACAL SIGN` (not linked) |
+| `ANDUISUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANDUISUR FOUNTAIN|ANDUISUR FOUNTAIN]] |
+| `AQUARIUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AQUARIUS, THE ZODIACAL SIGN|AQUARIUS, THE ZODIACAL SIGN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WELL` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

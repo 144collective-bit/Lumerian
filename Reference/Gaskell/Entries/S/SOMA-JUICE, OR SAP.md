@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apiryas` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `BLOOD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] |
 | `BLoop OF THE LAMB` | **unresolved** (review queue) |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
@@ -45,20 +45,20 @@ tags:
 | `Moon` | **unresolved** (review queue) |
 | `MounTAINS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNTAINS|MOUNTAINS]] |
 | `PARGANYA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] |
-| `PRAGAPATI RELAXED` | **candidate (first-segment only)** → possible `PRAGAPATI RELAXED, AND AFTERWARDS RESTORED` (not linked) |
-| `Priest` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
+| `PRAGAPATI RELAXED` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] |
+| `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `SacriFice` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SacriFice` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `Sap` | **unresolved** (review queue) |
-| `Stars` | **unresolved** (review queue) |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
 | `WoRD oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
-| `YAMA` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 
 ## Full OCR entry body (exact)
 

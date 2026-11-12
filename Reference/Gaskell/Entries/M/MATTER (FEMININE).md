@@ -33,34 +33,34 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BINAH` | **candidate (first-segment only)** → possible `BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING` (not linked) |
+| `BINAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `OF CHRIST` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `DARKNESS (lower)` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `DARKNESS (lower)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `Herura` | **unresolved** (review queue) |
 | `Hinz` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `InVoOLUTION` | **unresolved** (review queue) |
-| `KHIEN` | **unresolved** (review queue) |
-| `Kuwan` | **unresolved** (review queue) |
-| `LIGuHt` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `KHIEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHIEN AND KHWAN|KHIEN AND KHWAN]] |
+| `Kuwan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
+| `LIGuHt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Morner` | **unresolved** (review queue) |
-| `MULA-PRAKRIT!` | **unresolved** (review queue) |
+| `MULA-PRAKRIT!` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `Ranal` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Sriait` | **unresolved** (review queue) |
 | `SUDRA` | **unresolved** (review queue) |
 | `VEstTURES` | **unresolved** (review queue) |
-| `WomB` | **unresolved** (review queue) |
+| `WomB` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 | `YANG` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

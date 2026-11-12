@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Mans` | **unresolved** (review queue) |
-| `TIstryYa` | **unresolved** (review queue) |
+| `TIstryYa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 
 ## Full OCR entry body (exact)
 

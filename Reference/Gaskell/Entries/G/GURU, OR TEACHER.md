@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `ADEPT` | **unresolved** (review queue) |
 | `BRAHMACARIN` | **candidate (first-segment only)** → possible `BRAHMA-CARIN, STUDENT OF THE VEDA` (not linked) |
 | `BRAHMANA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAHMANA|BRAHMANA]] |
-| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
-| `MASTER` | **candidate (ambiguous first-segment)** → MASTER, NOT RULED BY A; MASTER, RULED BY A (not linked) |
-| `PRIEST` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `CHRYSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `MASTER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MASTER, NOT RULED BY A|MASTER, NOT RULED BY A]]; [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]]; [[Reference/Gaskell/Entries/M/MASTER, RULED BY A|MASTER, RULED BY A]] |
+| `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `VEDA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

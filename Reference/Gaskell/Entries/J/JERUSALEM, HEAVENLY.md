@@ -33,24 +33,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMARAVATI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `Crry OF Gop` | **unresolved** (review queue) |
 | `Discretes` | **unresolved** (review queue) |
 | `ERIDU` | **unresolved** (review queue) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Hoty GHost` | **unresolved** (review queue) |
 | `House (frequented)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `KaaBa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `Kapirta` | **unresolved** (review queue) |
 | `Maasex` | **unresolved** (review queue) |
 | `MorHer (divine)` | **unresolved** (review queue) |
-| `MOUNTAIN` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `SIDES` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
-| `ZION` | **unresolved** (review queue) |
+| `SIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIDES OF THE CITY|SIDES OF THE CITY]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

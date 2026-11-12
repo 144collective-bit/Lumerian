@@ -37,8 +37,8 @@ tags:
 | `Croup` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
 | `SacRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `TEMPTATION` | **unresolved** (review queue) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 
 ## Full OCR entry body (exact)
 

@@ -63,18 +63,18 @@ tags:
 | `and we learn that man has access to the entire mind of the Creator.’’—EMERSON` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Nature` | **unresolved** (review queue) |
 | `Ch. VIT. See ApiItT1` | **unresolved** (review queue) |
-| `AIR` | **unresolved** (review queue) |
+| `AIR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIR AND ATHER|AIR AND ATHER]] |
 | `CHILDREN OF EAST` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `East` | **unresolved** (review queue) |
 | `FATHER` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `Horizons` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
 | `HORSE SACRIFICE` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
 | `Lion-aop` | **unresolved** (review queue) |
-| `Rain` | **unresolved** (review queue) |
+| `Rain` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `SEF` | **unresolved** (review queue) |
 | `SPiRit` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
 

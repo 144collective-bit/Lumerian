@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `ATRI` | **unresolved** (review queue) |
+| `ATRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATRI AND HIS WISE SON|ATRI AND HIS WISE SON]] |
 | `CLOUD` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `EarruH` | **unresolved** (review queue) |
-| `EvoLuTion` | **unresolved** (review queue) |
+| `EvoLuTion` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `GERMS` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HusBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
-| `LUNAR CHAIN` | **unresolved** (review queue) |
-| `Moon (solar)` | **unresolved** (review queue) |
-| `Parcanya` | **unresolved** (review queue) |
+| `LUNAR CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]] |
+| `Moon (solar)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (SOLAR ASPECT)|MOON (SOLAR ASPECT)]] |
+| `Parcanya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |
 | `Pxuanrs` | **unresolved** (review queue) |
-| `Purusna` | **unresolved** (review queue) |
+| `Purusna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SELENE` | **unresolved** (review queue) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 
 ## Full OCR entry body (exact)

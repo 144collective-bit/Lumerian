@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARMS` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `BLACKSMITHS` | **candidate (first-segment only)** → possible `BLACKSMITHS, OR WORKERS IN METAL` (not linked) |
+| `ARMS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `BLACKSMITHS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 | `ConFiict` | **unresolved** (review queue) |
-| `POoNIARD` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SHIELD` | **unresolved** (review queue) |
+| `POoNIARD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PONIARD|PONIARD]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SHIELD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHIELD AND SPEAR|SHIELD AND SPEAR]] |
 | `SPEAR` | **unresolved** (review queue) |
 | `SworpD` | **unresolved** (review queue) |
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 | `WOo` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

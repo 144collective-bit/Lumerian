@@ -35,29 +35,29 @@ tags:
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BIRTH OF MAN: CHILD` | **unresolved** (review queue) |
 | `BuDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CIVILISING` | **unresolved** (review queue) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `CLoups` | **unresolved** (review queue) |
 | `CrirPLes` | **unresolved** (review queue) |
 | `DraGon (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
-| `Dynasty` | **resolved (R3 renamed dynasty heads)** → [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]] |
-| `ELements` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `Dynasty` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]] |
+| `ELements` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `Evorution` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Foop` | **unresolved** (review queue) |
-| `GoLpEN aGE` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GoLpEN aGE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Liuss` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Manco` | **unresolved** (review queue) |
-| `Maya (higher)` | **unresolved** (review queue) |
+| `Maya (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `Mempers` | **unresolved** (review queue) |
-| `OANnegs` | **unresolved** (review queue) |
+| `OANnegs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `UnonaMocHI` | **unresolved** (review queue) |
 | `RESPECTFUL MANNERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RESPECTFUL MANNERS|RESPECTFUL MANNERS]] |
 | `Rose` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Vistasp` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `Vistasp` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 
 ## Full OCR entry body (exact)
 

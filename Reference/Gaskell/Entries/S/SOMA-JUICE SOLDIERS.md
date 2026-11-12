@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ArMY` | **unresolved** (review queue) |
-| `BERSERKS` | **candidate (first-segment only)** → possible `BERSERKS, OR WARRIORS` (not linked) |
+| `ArMY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY|ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY]]; [[Reference/Gaskell/Entries/A/ARMY OF THE GODS, OR HOSTS OF THE LORD|ARMY OF THE GODS, OR HOSTS OF THE LORD]] |
+| `BERSERKS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] |
 | `CENTURION Hosts` | **unresolved** (review queue) |
 | `ROMAN SsOLDIER` | **unresolved** (review queue) |
 | `Tr1Al` | **unresolved** (review queue) |
-| `WARRIORS` | **candidate (first-segment only)** → possible `WARRIORS, TWIN` (not linked) |
+| `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

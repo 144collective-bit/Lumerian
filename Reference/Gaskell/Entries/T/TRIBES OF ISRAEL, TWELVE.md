@@ -34,21 +34,21 @@ tags:
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
 | `AZons (twelve)` | **unresolved** (review queue) |
-| `BREASTPLATE` | **unresolved** (review queue) |
-| `COMPARTMENTS` | **unresolved** (review queue) |
-| `DIsCIPLES (twelve)` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `BREASTPLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] |
+| `COMPARTMENTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COMPARTMENTS OR DIVISIONS OF THE TUAT|COMPARTMENTS OR DIVISIONS OF THE TUAT]] |
+| `DIsCIPLES (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `ErpHop` | **unresolved** (review queue) |
 | `ISRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `JUDAH` | **candidate (first-segment only)** → possible `JUDAH, THE TRIBE OF` (not linked) |
+| `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
 | `JUDGES` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGES|JUDGES]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
-| `THRONES (twelve)` | **candidate (first-segment only)** → possible `THRONES, TWELVE` (not linked) |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+| `THRONES (twelve)` | resolved (exact) → [[Reference/Gaskell/Entries/T/THRONES, TWELVE|THRONES, TWELVE]] |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

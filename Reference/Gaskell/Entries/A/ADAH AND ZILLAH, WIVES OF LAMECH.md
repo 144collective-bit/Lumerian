@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `LaMEcH` | **candidate (first-segment only)** → possible `LAMECH, SON OF METHUSHAEL` (not linked) |
+| `LaMEcH` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMECH, SON OF METHUSHAEL|LAMECH, SON OF METHUSHAEL]] |
 
 ## Full OCR entry body (exact)
 

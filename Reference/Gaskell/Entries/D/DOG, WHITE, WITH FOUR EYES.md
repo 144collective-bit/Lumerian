@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AssyRTus` | **unresolved** (review queue) |
-| `CoRPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `Houses (corpses)` | **unresolved** (review queue) |
+| `AssyRTus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ABSYRTUS, BROTHER OF MEDEA|ABSYRTUS, BROTHER OF MEDEA]] |
+| `CoRPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `Houses (corpses)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `Nasu` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

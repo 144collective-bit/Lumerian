@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BURNT OFFERING` | **unresolved** (review queue) |
-| `DIonNysts` | **unresolved** (review queue) |
+| `BURNT OFFERING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] |
+| `DIonNysts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
-| `HECATOMB` | **candidate (first-segment only)** → possible `HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS` (not linked) |
-| `SACRIFICE (burnt)` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `HECATOMB` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
+| `SACRIFICE (burnt)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VISCERA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

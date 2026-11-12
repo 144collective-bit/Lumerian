@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FIvE` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
-| `LazaRvs` | **unresolved** (review queue) |
+| `FIvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
+| `LazaRvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 
 ## Full OCR entry body (exact)
 

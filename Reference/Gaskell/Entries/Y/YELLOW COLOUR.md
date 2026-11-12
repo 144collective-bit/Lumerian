@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Cortours` | **unresolved** (review queue) |
 | `Goxip` | **unresolved** (review queue) |
-| `Poison (yellow)` | **candidate (ambiguous first-segment)** → POISON, OR POISON-DROPS; POISON, YELLOW (not linked) |
+| `Poison (yellow)` | resolved (exact) → [[Reference/Gaskell/Entries/P/POISON, YELLOW|POISON, YELLOW]] |
 
 ## Full OCR entry body (exact)
 

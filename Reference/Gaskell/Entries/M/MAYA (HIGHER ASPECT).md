@@ -33,28 +33,28 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aprr1` | **unresolved** (review queue) |
-| `AkasSA` | **unresolved** (review queue) |
-| `Binan` | **unresolved** (review queue) |
+| `AkasSA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AKASA, ETHER-SPACE|AKASA, ETHER-SPACE]] |
+| `Binan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] |
 | `Bre OF BUDDRA` | **unresolved** (review queue) |
 | `OF CHRIST` | **unresolved** (review queue) |
 | `Cow (mehurt)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `EartH (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `GARDEN (lumbini)` | **unresolved** (review queue) |
+| `GARDEN (lumbini)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]] |
 | `Goppgss` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `MoTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `MoTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SARASVATI` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `SUBSTANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUBSTANCE|SUBSTANCE]] |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `Woman (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `WoOMEN’s LIFE` | **unresolved** (review queue) |
 | `Woms` | **unresolved** (review queue) |
-| `Yao` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

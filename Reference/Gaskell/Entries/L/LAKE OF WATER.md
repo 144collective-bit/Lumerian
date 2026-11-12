@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaBIN` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CaBIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `Deuce` | **unresolved** (review queue) |
 | `Fisn (great)` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `Lotus` | **candidate (first-segment only)** → possible `LOTUS, WATER LILY` (not linked) |
+| `Lotus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]]; [[Reference/Gaskell/Entries/L/LOTUS, WATER LILY|LOTUS, WATER LILY]] |
 | `Manu` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `NeEpuruys` | **unresolved** (review queue) |
 | `Ne` | **unresolved** (review queue) |
-| `Osizis` | **unresolved** (review queue) |
+| `Osizis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `RIVER or Lire` | **unresolved** (review queue) |
 | `Sure (Manu)` | **unresolved** (review queue) |
-| `THRONE` | **unresolved** (review queue) |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

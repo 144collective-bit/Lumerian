@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Gres (strings)` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `RELATIVES` | **candidate (first-segment only)** → possible `RELATIVES, BELOVED UNBELOVED` (not linked) |
-| `STEWARD (unjust)` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
+| `RELATIVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RELATIVES, BELOVED UNBELOVED|RELATIVES, BELOVED UNBELOVED]] |
+| `STEWARD (unjust)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 
 ## Full OCR entry body (exact)
 

@@ -37,10 +37,10 @@ tags:
 | `Catris` | **unresolved** (review queue) |
 | `Fioop` | **unresolved** (review queue) |
 | `Frorr (spirit)` | **unresolved** (review queue) |
-| `GosHunun` | **unresolved** (review queue) |
+| `GosHunun` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
 | `Orrosrres` | **unresolved** (review queue) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `Two` | **candidate (first-segment only)** → possible `TWO, NUMBER` (not linked) |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

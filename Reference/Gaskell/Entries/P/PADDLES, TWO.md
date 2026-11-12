@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Boat (river)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `FINGERS OF HORTS` | **unresolved** (review queue) |
-| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `Oaks` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

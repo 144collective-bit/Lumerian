@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Srnprents (Nekhebit)` | **unresolved** (review queue) |
-| `SERPENTS (sparks)` | **unresolved** (review queue) |
+| `SERPENTS (sparks)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)
 

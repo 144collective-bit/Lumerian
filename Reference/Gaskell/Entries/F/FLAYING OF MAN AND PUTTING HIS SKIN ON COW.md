@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `FLESH OF JESUS` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `FLESH OF JESUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLESH OF JESUS AS BREAD FROM HEAVEN|FLESH OF JESUS AS BREAD FROM HEAVEN]] |
 | `LINEN GARMENT` | **unresolved** (review queue) |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `ProtoryPsEs` | **unresolved** (review queue) |
-| `SKIN` | **unresolved** (review queue) |
+| `ProtoryPsEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Capricogn` | **unresolved** (review queue) |
-| `CRATER` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
+| `CRATER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
 | `EQurNnox` | **unresolved** (review queue) |
 | `ZODIAC. CANDLES` | **unresolved** (review queue) |
 | `LIGHTED :~ Symbolic of the light of Truth in the human mind or soul (church). Held in the hands of acolytes` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -64,15 +64,15 @@ tags:
 | `Serm.` | **unresolved** (review queue) |
 | `Candle of the Lord. See ALTAR` | **unresolved** (review queue) |
 | `BEES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
-| `CANOPY` | **unresolved** (review queue) |
-| `CEREMONIES` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
+| `CANOPY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CANOPY OVER EUCHARIST|CANOPY OVER EUCHARIST]] |
+| `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `FLOWERs` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
-| `Lamp` | **unresolved** (review queue) |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
 | `Licut` | **unresolved** (review queue) |
-| `PRIEST` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `PROCESSION` | **unresolved** (review queue) |
+| `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 
 ## Full OCR entry body (exact)
 

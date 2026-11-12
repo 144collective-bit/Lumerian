@@ -32,29 +32,29 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Anuna` | **unresolved** (review queue) |
+| `Anuna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANNA, THE PROPHETESS|ANNA, THE PROPHETESS]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ASHAVAHIST` | **unresolved** (review queue) |
 | `AURVAITI` | **unresolved** (review queue) |
 | `BIRTH OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `FoRENOON` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FORENOON|FORENOON]] |
-| `FRAVASHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
+| `FRAVASHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
 | `HOMA-TRER` | **unresolved** (review queue) |
-| `Hymns` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `Hymns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MAGIO PRACTICES` | **unresolved** (review queue) |
-| `Ox` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
-| `PournvusHasPA` | **unresolved** (review queue) |
-| `REBIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
+| `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+| `PournvusHasPA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
+| `REBIRTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD|REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `SON oF Gop` | **unresolved** (review queue) |
+| `SON oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `SouL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 | `URnvarap` | **unresolved** (review queue) |
 | `Vauntsto` | **unresolved** (review queue) |
-| `VistasP` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
+| `VistasP` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 | `WALKING WITH GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 
 ## Full OCR entry body (exact)

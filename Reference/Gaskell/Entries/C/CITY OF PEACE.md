@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 
 ## Full OCR entry body (exact)
 

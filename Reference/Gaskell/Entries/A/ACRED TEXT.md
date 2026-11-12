@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAYAS` | **unresolved** (review queue) |
-| `BLASPHEMY` | **unresolved** (review queue) |
+| `AMBAYAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAYAS RIVERS|AMBAYAS RIVERS]] |
+| `BLASPHEMY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] |
 | `AND NIGHT` | **unresolved** (review queue) |
-| `GIRDLE (star)` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE (star)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `VEDA` | **unresolved** (review queue) |
-| `WORD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

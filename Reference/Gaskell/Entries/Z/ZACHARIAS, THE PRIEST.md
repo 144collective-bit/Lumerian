@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CHRIST INCREASES` | **unresolved** (review queue) |
-| `CONCEPTION` | **unresolved** (review queue) |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `HILL COUNTRY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 

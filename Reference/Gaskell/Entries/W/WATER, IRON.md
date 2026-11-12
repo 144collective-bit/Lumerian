@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Mertars` | **unresolved** (review queue) |
-| `Savitri` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
+| `Savitri` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
 | `Starr or TRON` | **unresolved** (review queue) |
-| `TUBAL CAIN` | **candidate (first-segment only)** → possible `TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL` (not linked) |
+| `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 
 ## Full OCR entry body (exact)
 

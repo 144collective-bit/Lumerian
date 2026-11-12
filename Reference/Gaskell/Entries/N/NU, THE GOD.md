@@ -35,12 +35,12 @@ tags:
 | `BrrTH OF osiIrRis` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Hart` | **unresolved** (review queue) |
-| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `KHEPER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHEPER, OR KHEPERA|KHEPER, OR KHEPERA]] |
 | `MEMBERS` | **unresolved** (review queue) |
-| `Names` | **unresolved** (review queue) |
-| `NUT` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Names` | resolved (singular/plural) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
+| `NUT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

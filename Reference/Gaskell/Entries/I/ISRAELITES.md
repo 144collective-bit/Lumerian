@@ -35,12 +35,12 @@ tags:
 | `ABRAHAM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABRAHAM|ABRAHAM]] |
 | `Boorus` | **unresolved** (review queue) |
 | `GENTILES` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GENTILES|GENTILES]] |
-| `JACOB` | **unresolved** (review queue) |
+| `JACOB` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JACOB OR ISRAEL|JACOB OR ISRAEL]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
-| `JEWS` | **unresolved** (review queue) |
+| `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
-| `JUDAH` | **candidate (first-segment only)** → possible `JUDAH, THE TRIBE OF` (not linked) |
-| `SIMEON. |` | **candidate (ambiguous first-segment)** → SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE; SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL (not linked) |
+| `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
+| `SIMEON. |` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

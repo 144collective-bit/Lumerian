@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `ApaM` | **unresolved** (review queue) |
 | `Apapa` | **unresolved** (review queue) |
-| `Asvins` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
-| `BataRaMA` | **unresolved** (review queue) |
+| `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
+| `BataRaMA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
 | `CoNnsclousNESSs` | **unresolved** (review queue) |
 | `Brrps (two)` | **unresolved** (review queue) |
 | `Derunct` | **unresolved** (review queue) |
 | `Drioscuri` | **unresolved** (review queue) |
 | `ENnocn` | **unresolved** (review queue) |
 | `FiaFRUIT` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `I am` | **unresolved** (review queue) |
-| `ImMORTALITY` | **unresolved** (review queue) |
+| `ImMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `Manu` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
@@ -54,7 +54,7 @@ tags:
 | `SEF` | **unresolved** (review queue) |
 | `SHrive` | **unresolved** (review queue) |
 | `Sou (middle)` | **unresolved** (review queue) |
-| `SuppDHODANA` | **unresolved** (review queue) |
+| `SuppDHODANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `WALKING WITH GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 
 ## Full OCR entry body (exact)

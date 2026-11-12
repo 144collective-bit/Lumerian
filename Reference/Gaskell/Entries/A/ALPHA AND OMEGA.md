@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cosmos (higher)` | **unresolved** (review queue) |
-| `First` | **unresolved** (review queue) |
+| `Cosmos (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `First` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FIRST AND LAST|FIRST AND LAST]]; [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `I A O` | **unresolved** (review queue) |
 | `Pracipati` | **unresolved** (review queue) |
-| `TIME` | **unresolved** (review queue) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 
 ## Full OCR entry body (exact)
 

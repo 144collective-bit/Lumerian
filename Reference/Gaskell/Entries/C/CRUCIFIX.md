@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `CROSS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `ACCORDING TO THE Ma` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

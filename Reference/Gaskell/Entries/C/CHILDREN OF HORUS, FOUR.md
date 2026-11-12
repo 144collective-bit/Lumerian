@@ -34,27 +34,27 @@ tags:
 |---|---|
 | `Aru-RA` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `Bur` | **candidate (first-segment only)** → possible `BUR, WHOSE SON WAS BORR` (not linked) |
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CEILING` | **unresolved** (review queue) |
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
-| `CLASSES` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
+| `Bur` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUR, WHOSE SON WAS BORR|BUR, WHOSE SON WAS BORR]] |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CEILING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CEILING OF THE SKY|CEILING OF THE SKY]] |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
+| `CLASSES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
 | `Cross (aukh)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `Four BEINGS` | **unresolved** (review queue) |
+| `Four BEINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `IRON PLATE` | **unresolved** (review queue) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `Isis` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
 | `Lapprr` | **unresolved** (review queue) |
 | `Liruss` | **unresolved** (review queue) |
-| `Lotus` | **candidate (first-segment only)** → possible `LOTUS, WATER LILY` (not linked) |
+| `Lotus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]]; [[Reference/Gaskell/Entries/L/LOTUS, WATER LILY|LOTUS, WATER LILY]] |
 | `MEmBERS` | **unresolved** (review queue) |
-| `NEPHTHYS` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 | `Osrmis` | **unresolved** (review queue) |
-| `PILLARS (four)` | **candidate (ambiguous first-segment)** → PILLARS, FOUR, OF SHU; PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN (not linked) |
+| `PILLARS (four)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]]; [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

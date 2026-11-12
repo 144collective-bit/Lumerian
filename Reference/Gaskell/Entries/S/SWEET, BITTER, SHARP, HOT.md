@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DraupaD!1` | **unresolved** (review queue) |
+| `DraupaD!1` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] |
 | `PERFUMES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
 
 ## Full OCR entry body (exact)

@@ -33,14 +33,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DISCIPLES SENT` | **unresolved** (review queue) |
-| `ENEMIES` | **unresolved** (review queue) |
+| `DISCIPLES SENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISCIPLES SENT FORTH|DISCIPLES SENT FORTH]] |
+| `ENEMIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `ScorPion` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCORPION|SCORPION]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SHEATHS` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `SHEATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEATHS OF THE SOUL|SHEATHS OF THE SOUL]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

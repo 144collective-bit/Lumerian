@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `ANAPHE` | **candidate (first-segment only)** → possible `ANAPHE, THE ILLUMINED ISLAND` (not linked) |
+| `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `ANAPHE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANAPHE, THE ILLUMINED ISLAND|ANAPHE, THE ILLUMINED ISLAND]] |
 | `ARGIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGIVES|ARGIVES]] |
-| `AROUERIS` | **candidate (first-segment only)** → possible `AROUERIS, THE ELDER HORUS` (not linked) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `DELOS` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `AROUERIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AROUERIS, THE ELDER HORUS|AROUERIS, THE ELDER HORUS]] |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `DELOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `EXILE` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EXILE|EXILE]] |
-| `Gate` | **unresolved** (review queue) |
-| `HecatomsB` | **unresolved** (review queue) |
+| `Gate` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `HecatomsB` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `Hers` | **unresolved** (review queue) |
-| `Hymn` | **unresolved** (review queue) |
-| `Latona` | **unresolved** (review queue) |
-| `NINE` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
+| `Hymn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
+| `Latona` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
+| `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `NINE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NINE DAYS|NINE DAYS]] |
-| `PESTILENCE` | **unresolved** (review queue) |
-| `PRIEST OF APOLLO` | **unresolved** (review queue) |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+| `PRIEST OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRIEST OF APOLLO (CHRYSE)|PRIEST OF APOLLO (CHRYSE)]] |
 | `WRATH OF APOLLO` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF APOLLO|WRATH OF APOLLO]] |
 
 ## Full OCR entry body (exact)

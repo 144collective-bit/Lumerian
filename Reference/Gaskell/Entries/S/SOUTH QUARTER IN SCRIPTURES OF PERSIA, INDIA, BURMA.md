@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIHOTRA` | **unresolved** (review queue) |
-| `HANUMAN` | **candidate (first-segment only)** → possible `HANUMAN, SON OF VAYU` (not linked) |
-| `LANKA` | **unresolved** (review queue) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `HANUMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
 
 ## Full OCR entry body (exact)
 

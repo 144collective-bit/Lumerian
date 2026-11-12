@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABSYRTUS` | **candidate (first-segment only)** → possible `ABSYRTUS, BROTHER OF MEDEA` (not linked) |
+| `ABSYRTUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABSYRTUS, BROTHER OF MEDEA|ABSYRTUS, BROTHER OF MEDEA]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
 | `Spear` | **unresolved** (review queue) |
-| `WIsDoM` | **unresolved** (review queue) |
+| `WIsDoM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

@@ -36,7 +36,7 @@ tags:
 | `LOKE` | **unresolved** (review queue) |
 | `NET OF 4ASAR` | **unresolved** (review queue) |
 | `PINEAL GLAND` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PINEAL GLAND|PINEAL GLAND]] |
-| `QUASER` | **candidate (first-segment only)** → possible `QUASER, OR KVASIR` (not linked) |
+| `QUASER` | resolved (first-segment) → [[Reference/Gaskell/Entries/Q/QUASER, OR KVASIR|QUASER, OR KVASIR]] |
 
 ## Full OCR entry body (exact)
 

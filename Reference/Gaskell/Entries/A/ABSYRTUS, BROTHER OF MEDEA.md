@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Aires` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
+| `Aires` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
 | `AUSONIA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AUSONIA|AUSONIA]] |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `Mangrnos` | **unresolved** (review queue) |
-| `Mepea` | **unresolved** (review queue) |
+| `Mepea` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
 | `Nasu` | **unresolved** (review queue) |
-| `SALVE` | **unresolved** (review queue) |
+| `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
 | `Toma` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

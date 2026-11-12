@@ -35,13 +35,13 @@ tags:
 | `AMARAvaTi` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
 | `ANDUISAR` | **unresolved** (review queue) |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `Heroic` | **unresolved** (review queue) |
+| `Heroic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEROIC HEROIC RUNNER,-THE SUN|HEROIC HEROIC RUNNER,—THE SUN]] |
 | `Himavan` | **unresolved** (review queue) |
 | `Kariasa` | **unresolved** (review queue) |
-| `KHORDaD` | **candidate (first-segment only)** → possible `KHORDAD, THE AMSHASPAND` (not linked) |
-| `MounTAIN` | **unresolved** (review queue) |
+| `KHORDaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHORDAD, THE AMSHASPAND|KHORDAD, THE AMSHASPAND]] |
+| `MounTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `OLyMPuUs` | **unresolved** (review queue) |
-| `PUITIKA` | **unresolved** (review queue) |
+| `PUITIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PUITIKA SEA|PUITIKA SEA]] |
 
 ## Full OCR entry body (exact)
 

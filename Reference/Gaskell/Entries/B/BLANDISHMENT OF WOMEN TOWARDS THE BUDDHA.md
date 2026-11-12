@@ -36,7 +36,7 @@ tags:
 | `Goris` | **unresolved** (review queue) |
 | `HovuRIss` | **unresolved** (review queue) |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
-| `MOON-LIKE` | **unresolved** (review queue) |
+| `MOON-LIKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-LIKE FACES OF WOMEN|MOON-LIKE FACES OF WOMEN]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

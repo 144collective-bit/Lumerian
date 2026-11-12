@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Intt1aTions` | **unresolved** (review queue) |
+| `Intt1aTions` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `WALES` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

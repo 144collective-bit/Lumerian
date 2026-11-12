@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Hop` | **unresolved** (review queue) |
-| `Mast` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `Storm` | **unresolved** (review queue) |
-| `WALKING (water)` | **unresolved** (review queue) |
+| `Mast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]]; [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
+| `WALKING (water)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 | `WaAvES` | **unresolved** (review queue) |
-| `WIND (adverse)` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+| `WIND (adverse)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WIND, ADVERSE|WIND, ADVERSE]] |
 
 ## Full OCR entry body (exact)
 

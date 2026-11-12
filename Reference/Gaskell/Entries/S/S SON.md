@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaLpEeR` | **unresolved** (review queue) |
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `DerarH OF BALDER` | **unresolved** (review queue) |
-| `Doors (four)` | **candidate (first-segment only)** → possible `DOORS, HOUSE WITH FOUR` (not linked) |
-| `Eve (third)` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `GaNGLER` | **unresolved** (review queue) |
+| `DerarH OF BALDER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
+| `Doors (four)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]] |
+| `Eve (third)` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `GaNGLER` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGLER OR GANGLERE|GANGLER OR GANGLERE]] |
 | `HEIMDALL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIMDALL|HEIMDALL]] |
 | `Heit` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `HopER` | **unresolved** (review queue) |
-| `NarE` | **candidate (first-segment only)** → possible `NARE, OR NARVE` (not linked) |
+| `NarE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NARE, OR NARVE|NARE, OR NARVE]] |
 | `NET or asaB` | **unresolved** (review queue) |
-| `VOICE` | **unresolved** (review queue) |
+| `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `WOMAN (Loke)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

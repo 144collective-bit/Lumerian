@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Noan’s sons` | **unresolved** (review queue) |
 | `Ono` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
-| `VAPOUR (white)` | **candidate (first-segment only)** → possible `VAPOUR, WHITE` (not linked) |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
+| `VAPOUR (white)` | resolved (exact) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 
 ## Full OCR entry body (exact)
 

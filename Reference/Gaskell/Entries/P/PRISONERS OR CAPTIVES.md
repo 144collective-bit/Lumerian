@@ -39,12 +39,12 @@ tags:
 | `FErErrers` | **unresolved** (review queue) |
 | `Houser OF BONDAGE` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `PasTURES` | **unresolved** (review queue) |
-| `PureaTory` | **unresolved** (review queue) |
+| `PasTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASTURES OF THE LORD|PASTURES OF THE LORD]] |
+| `PureaTory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `Sra` | **unresolved** (review queue) |
 | `Sons or GoD` | **unresolved** (review queue) |
 | `STRIDES oF soUL` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `WHALES. PRITHA’S BIRTH FROM THE HAND A symbol of the production of the emotion-nature from the activities of the kama-manasic nature. See Burma` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Currmp` | **unresolved** (review queue) |
 | `Kanna` | **unresolved** (review queue) |

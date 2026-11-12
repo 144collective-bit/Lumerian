@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `DEATH OF oOsIRIS` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `Erements` | **unresolved** (review queue) |
+| `DEATH OF oOsIRIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `Erements` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `Evo.turion` | **unresolved** (review queue) |
 | `Fart` | **unresolved** (review queue) |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Home` | **unresolved** (review queue) |
 | `Invoivution` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
-| `LAMB OF Gop` | **unresolved** (review queue) |
+| `LAMB OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Pracipati (relaxed)` | **unresolved** (review queue) |
 | `VOICE oF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
 

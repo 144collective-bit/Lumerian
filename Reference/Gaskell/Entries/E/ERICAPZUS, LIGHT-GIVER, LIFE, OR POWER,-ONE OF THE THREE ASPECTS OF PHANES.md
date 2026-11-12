@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eac` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `MeEris` | **unresolved** (review queue) |
 | `PHANES. ERIDANUS` | **unresolved** (review queue) |
 | `CELESTIAL RIVER :-— A symbol of the Divine Life of atmabuddhi flowing downwards through the quaternary. The river of life; thesame as the river of Eden` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the Nile` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
-| `Ganges` | **unresolved** (review queue) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
+| `Ganges` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGES RIVER|GANGES RIVER]] |
 | `Jordan` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
 | `etc. See EDEN (river)` | **unresolved** (review queue) |
 

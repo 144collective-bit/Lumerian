@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `Apsyss` | **unresolved** (review queue) |
 | `Cuaos` | **unresolved** (review queue) |
-| `DEEP` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `Fane` | **unresolved** (review queue) |
-| `Four TIMES` | **unresolved** (review queue) |
+| `Four TIMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUR TIMES TALLER THAN MAN, WAS PWAN-KOO|FOUR TIMES TALLER THAN MAN, WAS PWAN-KOO]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `HeicutT (Osiris)` | **unresolved** (review queue) |
-| `Horns` | **candidate (first-segment only)** → possible `HORNS, TEN, OF THE DRAGON` (not linked) |
-| `LAMB OF Gop` | **unresolved** (review queue) |
+| `Horns` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]]; [[Reference/Gaskell/Entries/H/HORNS OF THE GOD|HORNS OF THE GOD]]; [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
+| `LAMB OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `MEasurE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
-| `Pwankoo` | **candidate (first-segment only)** → possible `PWAN-KOO, THE DIVINE ARTIFICER` (not linked) |
-| `Stem` | **unresolved** (review queue) |
-| `TEETH` | **unresolved** (review queue) |
+| `Pwankoo` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] |
+| `Stem` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
+| `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TusK. r` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

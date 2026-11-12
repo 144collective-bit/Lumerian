@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BULL` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `BULL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]]; [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] |
 | `CANDLES` | **unresolved** (review queue) |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
 | `Honey` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
 | `INpR«a` | **unresolved** (review queue) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `Mrrpra` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
 | `Ox-Born` | **unresolved** (review queue) |

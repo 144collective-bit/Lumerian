@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `[RON AGE` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Root races` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounps` | **unresolved** (review queue) |
 

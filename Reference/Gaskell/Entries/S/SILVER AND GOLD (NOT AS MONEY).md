@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `Lost (silver)` | **unresolved** (review queue) |
+| `Lost (silver)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
 | `Maw (natural)` | **unresolved** (review queue) |
 | `MeTaLs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 
 ## Full OCR entry body (exact)
 

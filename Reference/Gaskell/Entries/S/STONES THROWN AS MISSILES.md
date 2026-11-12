@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLACKSMITHS` | **candidate (first-segment only)** → possible `BLACKSMITHS, OR WORKERS IN METAL` (not linked) |
+| `BLACKSMITHS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 
 ## Full OCR entry body (exact)
 

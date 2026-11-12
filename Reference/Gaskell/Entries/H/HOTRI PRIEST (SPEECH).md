@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVARYA` | **unresolved** (review queue) |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
 | `PRIEST OF ALTAR` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

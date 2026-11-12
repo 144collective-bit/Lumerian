@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMERDAD` | **candidate (first-segment only)** → possible `AMERDAD, KING OF VEGETATION` (not linked) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `GREEN` | **unresolved** (review queue) |
+| `AMERDAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMERDAD, KING OF VEGETATION|AMERDAD, KING OF VEGETATION]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `GREEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GREEN COLOUR|GREEN COLOUR]]; [[Reference/Gaskell/Entries/G/GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS|GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS]]; [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `Kama` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `SIMILITUDES` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `Woop` | **unresolved** (review queue) |
 | `Wor.Lps (five)` | **unresolved** (review queue) |
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `THRAETONA` | **unresolved** (review queue) |
-| `VARA` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
+| `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 
 ## Full OCR entry body (exact)
 

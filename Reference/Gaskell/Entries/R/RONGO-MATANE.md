@@ -35,10 +35,10 @@ tags:
 | `Cocoa-nut` | **unresolved** (review queue) |
 | `Haumra` | **unresolved** (review queue) |
 | `Heaven AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `RanGi` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `RanGi` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANGI AND PAPA|RANGI AND PAPA]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `TAWHIRIMATEA` | **candidate (first-segment only)** → possible `TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS` (not linked) |
+| `TAWHIRIMATEA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `TUMATAUENGA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

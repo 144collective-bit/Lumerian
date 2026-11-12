@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ox (splendid). 425` | **candidate (first-segment only)** → possible `OX, SPLENDID PRIMORDIAL` (not linked) |
+| `Ox (splendid). 425` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
 
 ## Full OCR entry body (exact)
 

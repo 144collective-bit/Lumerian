@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `PosEIDON` | **unresolved** (review queue) |
+| `PosEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 
 ## Full OCR entry body (exact)
 

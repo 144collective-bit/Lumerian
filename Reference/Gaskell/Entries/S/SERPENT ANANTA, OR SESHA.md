@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALaRAMA` | **unresolved** (review queue) |
+| `BALaRAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `KHWAN` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
 | `LEvVIATHAN` | **unresolved** (review queue) |

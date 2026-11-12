@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cronus` | **unresolved** (review queue) |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
 | `KnHorpap` | **unresolved** (review queue) |
 | `RaHEzEA` | **unresolved** (review queue) |
-| `SaTuRn` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
+| `SaTuRn` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 | `SEB` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEB|SEB]] |
 | `True` | **unresolved** (review queue) |
-| `URANUS` | **unresolved** (review queue) |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BERSERKS` | **candidate (first-segment only)** → possible `BERSERKS, OR WARRIORS` (not linked) |
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
+| `BERSERKS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `SOLDIERS` | **unresolved** (review queue) |
-| `TRIAL` | **unresolved** (review queue) |
+| `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

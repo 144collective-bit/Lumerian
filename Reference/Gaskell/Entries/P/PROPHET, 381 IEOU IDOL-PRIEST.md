@@ -35,7 +35,7 @@ tags:
 | `CaF (molten)` | **unresolved** (review queue) |
 | `Priests AND ELDERS` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
-| `RITUAL` | **unresolved** (review queue) |
+| `RITUAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RITUAL AND CEREMONIAL|RITUAL AND CEREMONIAL]] |
 
 ## Full OCR entry body (exact)
 

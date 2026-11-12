@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARETE` | **candidate (first-segment only)** → possible `ARETE, WIFE OF ALCINOUS` (not linked) |
+| `ARETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARETE, WIFE OF ALCINOUS|ARETE, WIFE OF ALCINOUS]] |
 | `HovusE` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Opyssrus` | **unresolved** (review queue) |
-| `OLympus` | **unresolved** (review queue) |
+| `OLympus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
 | `PHAEACIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 
 ## Full OCR entry body (exact)

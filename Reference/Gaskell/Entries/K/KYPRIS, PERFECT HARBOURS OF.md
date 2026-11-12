@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cince` | **unresolved** (review queue) |
+| `Cince` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CIRCE, DAUGHTER OF HELIOS|CIRCE, DAUGHTER OF HELIOS]] |
 
 ## Full OCR entry body (exact)
 

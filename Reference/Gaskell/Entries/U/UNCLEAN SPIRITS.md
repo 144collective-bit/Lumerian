@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asura` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
+| `Asura` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] |
 | `Darvas` | **unresolved** (review queue) |
 | `Darmons` | **unresolved** (review queue) |
 | `Drxons` | **unresolved** (review queue) |

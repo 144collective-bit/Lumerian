@@ -45,9 +45,9 @@ tags:
 | `Marrer` | **unresolved** (review queue) |
 | `Miva (lower)` | **unresolved** (review queue) |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `SEPARATION FROM` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `SEPARATION FROM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 
 ## Full OCR entry body (exact)
 

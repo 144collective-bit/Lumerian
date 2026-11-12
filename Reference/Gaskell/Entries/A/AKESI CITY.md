@@ -36,7 +36,7 @@ tags:
 | `Eac` | **unresolved** (review queue) |
 | `Kaus` | **unresolved** (review queue) |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
-| `MoNaD` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
+| `MoNaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 
 ## Full OCR entry body (exact)
 

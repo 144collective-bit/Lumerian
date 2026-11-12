@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSTINENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABSTINENCE|ABSTINENCE]] |
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `AsIra` | **unresolved** (review queue) |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `FASTING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `SCEPTICISM` | **candidate (first-segment only)** → possible `SCEPTICISM, OR PHILOSOPHIC DOUBT` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `SCEPTICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCEPTICISM, OR PHILOSOPHIC DOUBT|SCEPTICISM, OR PHILOSOPHIC DOUBT]] |
 
 ## Full OCR entry body (exact)
 

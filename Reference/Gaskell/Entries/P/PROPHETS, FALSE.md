@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CaLAMITIES` | **unresolved** (review queue) |
 | `COLD AND HEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] |
-| `ENDURING` | **candidate (first-segment only)** → possible `ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS` (not linked) |
+| `ENDURING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/ENDURING TO THE END|ENDURING TO THE END]]; [[Reference/Gaskell/Entries/E/ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS|ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS]] |
 | `IDOLATRY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IDOLATRY|IDOLATRY]] |
 | `IDOLS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IDOLS|IDOLS]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |

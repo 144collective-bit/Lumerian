@@ -36,10 +36,10 @@ tags:
 | `Karma` | **unresolved** (review queue) |
 | `LaBOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `MONEY` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SOWING AND REAPING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
-| `STEWARD` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
+| `STEWARD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STEWARD OF THE LORD OF THE VINEYARD|STEWARD OF THE LORD OF THE VINEYARD]]; [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `Waces` | **unresolved** (review queue) |
 | `WoRK. 9° e eR KA` | **unresolved** (review queue) |
@@ -62,10 +62,10 @@ tags:
 | `InrvrTION` | **unresolved** (review queue) |
 | `KanMA` | **unresolved** (review queue) |
 | `LAW OF MOSES` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF MOSES|LAW OF MOSES]] |
-| `MosAIc` | **unresolved** (review queue) |
+| `MosAIc` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `Mosrs` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

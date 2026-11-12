@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bysios` | **unresolved** (review queue) |
-| `CEREMONIES` | **unresolved** (review queue) |
+| `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
 | `Isi3` | **unresolved** (review queue) |
 | `MytTHoLocy` | **unresolved** (review queue) |
 | `PAPYRvUs BOAT` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `Reuiaions` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
 | `ScRrerurReEs` | **unresolved** (review queue) |

@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AviTI` | **unresolved** (review queue) |
-| `AIDONEUS` | **unresolved** (review queue) |
-| `BIRTH oF osrgis` | **unresolved** (review queue) |
-| `Cronus` | **unresolved** (review queue) |
-| `GE` | **candidate (first-segment only)** → possible `GE, GHA, OR TELLUS` (not linked) |
+| `AviTI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ADITI|ADITI]] |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
+| `BIRTH oF osrgis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `GE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GE, GHA, OR TELLUS|GE, GHA, OR TELLUS]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `MAyA` | **unresolved** (review queue) |
-| `Nut` | **unresolved** (review queue) |
-| `Satugn` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
+| `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
+| `Satugn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 | `Tre` | **unresolved** (review queue) |
 | `Trrans` | **unresolved** (review queue) |
-| `Uranus` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS. 629` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

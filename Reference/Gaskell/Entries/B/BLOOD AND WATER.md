@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRUCIFIXION OF JESUS` | **candidate (ambiguous first-segment)** → CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS; CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS (not linked) |
+| `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
 
 ## Full OCR entry body (exact)
 

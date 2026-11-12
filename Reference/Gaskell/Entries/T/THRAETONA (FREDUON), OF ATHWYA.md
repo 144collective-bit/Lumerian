@@ -39,7 +39,7 @@ tags:
 | `SEPARATE. NESS` | **unresolved** (review queue) |
 | `SERPENT-DAHAKA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT DAHAKA|SERPENT DAHAKA]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `VARENA` | **candidate (first-segment only)** → possible `VARENA, FOUR-CORNERED LAND` (not linked) |
+| `VARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VARENA, FOUR-CORNERED LAND|VARENA, FOUR-CORNERED LAND]] |
 
 ## Full OCR entry body (exact)
 

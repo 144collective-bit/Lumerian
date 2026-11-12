@@ -36,7 +36,7 @@ tags:
 | `p. 499.) See Amprosta` | **unresolved** (review queue) |
 | `Boar (avatar)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `CIRCLE LAKSHMT` | **unresolved** (review queue) |
-| `NECTAR` | **candidate (first-segment only)** → possible `NECTAR, SWEET` (not linked) |
+| `NECTAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NECTAR, SWEET|NECTAR, SWEET]] |
 | `ToRTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 | `TREASURE IN HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |

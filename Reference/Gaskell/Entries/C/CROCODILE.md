@@ -36,9 +36,9 @@ tags:
 | `Boat (sektet)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Laws OF GoD` | **unresolved** (review queue) |
 | `LEVIATHAN` | **unresolved** (review queue) |
-| `NEKHESIT` | **unresolved** (review queue) |
-| `Ostris` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
+| `NEKHESIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
+| `Ostris` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `UtcHar` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Currina` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Fiess` | **unresolved** (review queue) |
-| `Iron` | **unresolved** (review queue) |
+| `Iron` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `Mout#H (opening)` | **candidate (ambiguous first-segment)** → MOUTH, FOR SPEECH; MOUTH, OPENING OF THE (not linked) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Paryrus` | **unresolved** (review queue) |
-| `PLACE OF PEACE` | **unresolved** (review queue) |
-| `Prisst` | **unresolved** (review queue) |
-| `SastTra` | **unresolved** (review queue) |
-| `ScRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `PLACE OF PEACE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLACE OF PEACE IN ANNU|PLACE OF PEACE IN ANNU]] |
+| `Prisst` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `SastTra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `ScRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `TUBAL` | **unresolved** (review queue) |
+| `TUBAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WoRDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 

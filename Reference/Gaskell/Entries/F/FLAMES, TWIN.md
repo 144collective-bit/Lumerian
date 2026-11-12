@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CRysTaL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
-| `GARDEN` | **unresolved** (review queue) |
-| `POOL` | **unresolved** (review queue) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `POOL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/POOL OF BETHESDA|POOL OF BETHESDA]]; [[Reference/Gaskell/Entries/P/POOL OF PEACE|POOL OF PEACE]]; [[Reference/Gaskell/Entries/P/POOL OF THE ZENITH|POOL OF THE ZENITH]] |
 
 ## Full OCR entry body (exact)
 

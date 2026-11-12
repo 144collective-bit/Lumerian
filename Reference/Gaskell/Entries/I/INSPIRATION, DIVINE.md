@@ -32,32 +32,32 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmBaAS` | **unresolved** (review queue) |
+| `AmBaAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] |
 | `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
 | `BOOK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
-| `BreatrH (divine)` | **unresolved** (review queue) |
-| `GoOsPEL` | **unresolved** (review queue) |
-| `HERMES (tris.)` | **unresolved** (review queue) |
-| `Hoty oHost` | **unresolved** (review queue) |
-| `Kayan` | **unresolved** (review queue) |
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `BreatrH (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
+| `GoOsPEL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
+| `HERMES (tris.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `Hoty oHost` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
+| `Kayan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KAYAN MYSTERIES|KAYAN MYSTERIES]] |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
 | `I do not see INTELLECT Locos` | **unresolved** (review queue) |
 | `MytnHotocy` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `ParABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PEN` | **unresolved** (review queue) |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `RaMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `RITUAL` | **unresolved** (review queue) |
+| `RITUAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RITUAL AND CEREMONIAL|RITUAL AND CEREMONIAL]] |
 | `SacRED TExtT` | **unresolved** (review queue) |
-| `SastRa` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SastRa` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `Sian` | **unresolved** (review queue) |
 | `Srott` | **unresolved** (review queue) |
-| `THoru` | **unresolved** (review queue) |
+| `THoru` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `UPanisHaD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD. INTELLECT ;` | **unresolved** (review queue) |
 

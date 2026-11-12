@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DaRKNESS` | **unresolved** (review queue) |
+| `DaRKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `HEIGHT OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
 | `Horsz (black)` | **unresolved** (review queue) |
 

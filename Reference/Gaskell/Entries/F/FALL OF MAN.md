@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (lower)` | **unresolved** (review queue) |
-| `ATTACHMENT` | **unresolved** (review queue) |
+| `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
 | `CaUsaL-BopY` | **unresolved** (review queue) |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `EvE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `EvoLuTion` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `GARDEN` | **unresolved** (review queue) |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `EvoLuTion` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `HmIna-Piace` | **unresolved** (review queue) |
-| `IMMORTALITY` | **unresolved** (review queue) |
-| `INCAR.NATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `IMMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
+| `INCAR.NATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JOHN-BAPTIST` | **unresolved** (review queue) |
 | `Karma` | **unresolved** (review queue) |
 | `Law OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
@@ -53,18 +53,18 @@ tags:
 | `MAHAYANA` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Mrrsna` | **unresolved** (review queue) |
-| `NEPHILIM` | **unresolved** (review queue) |
+| `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
 | `PrrrrvaANA` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `RETURN` | **unresolved** (review queue) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `RETURN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RETURN OF THE GREAT GODDESS|RETURN OF THE GREAT GODDESS]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `Sons oF Gop` | **unresolved** (review queue) |
+| `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SoutH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 | `Srrirz` | **unresolved** (review queue) |
-| `Sweat` | **unresolved** (review queue) |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
+| `Sweat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEAT OF THE FACE|SWEAT OF THE FACE]] |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
 | `TykUs` | **unresolved** (review queue) |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

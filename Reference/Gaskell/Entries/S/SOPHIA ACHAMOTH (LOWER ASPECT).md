@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEMIUBGE` | **unresolved** (review queue) |
-| `MEDUSA` | **candidate (first-segment only)** → possible `MEDUSA, THE GORGON` (not linked) |
-| `RAVANA` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
+| `DEMIUBGE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `MEDUSA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEDUSA, THE GORGON|MEDUSA, THE GORGON]] |
+| `RAVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 
 ## Full OCR entry body (exact)
 

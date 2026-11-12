@@ -35,10 +35,10 @@ tags:
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `APSARAS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APSARAS|APSARAS]] |
 | `ABCHANGELS` | **unresolved** (review queue) |
-| `ABDEBEHESCHT` | **unresolved** (review queue) |
-| `ASHA` | **unresolved** (review queue) |
-| `BAHMAN` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `ABDEBEHESCHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARDEBEHESCHT, KING OF FIRE|ARDEBEHESCHT, KING OF FIRE]] |
+| `ASHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
+| `BAHMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `Gops` | **unresolved** (review queue) |
 | `GUARDIANS` | **unresolved** (review queue) |
 | `MESSENGERS` | **unresolved** (review queue) |

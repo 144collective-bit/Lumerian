@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNISHTOMA` | **candidate (first-segment only)** → possible `AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS` (not linked) |
+| `AGNISHTOMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS|AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS]] |
 | `BOOK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
 | `PaPpyRUS BOAT` | **unresolved** (review queue) |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
-| `READING` | **unresolved** (review queue) |
+| `READING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/READING BOOKS|READING BOOKS]] |
 | `Ritres` | **unresolved** (review queue) |
 | `RrruaLt` | **unresolved** (review queue) |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 
 ## Full OCR entry body (exact)
 

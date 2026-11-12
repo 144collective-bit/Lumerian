@@ -35,9 +35,9 @@ tags:
 | `Coarrers` | **unresolved** (review queue) |
 | `Hann (right)` | **unresolved** (review queue) |
 | `Lams OF GOD` | **unresolved** (review queue) |
-| `SACRIFIOER` | **unresolved** (review queue) |
-| `SEAL` | **candidate (first-segment only)** → possible `SEAL, GREAT SACRED` (not linked) |
-| `THRONE` | **unresolved** (review queue) |
+| `SACRIFIOER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `SEAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEAL, GREAT SACRED|SEAL, GREAT SACRED]] |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

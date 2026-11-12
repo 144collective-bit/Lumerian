@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Breap` | **unresolved** (review queue) |
 | `DovucH` | **unresolved** (review queue) |
-| `MEAL` | **candidate (first-segment only)** → possible `MEAL, OR WHEAT GROUND IN A MILL` (not linked) |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
+| `MEAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 
 ## Full OCR entry body (exact)

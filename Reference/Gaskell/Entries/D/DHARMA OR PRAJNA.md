@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppHA` | **unresolved** (review queue) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `Praani` | **unresolved** (review queue) |
-| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
-| `WISDOM` | **unresolved** (review queue) |
+| `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `YUDHI` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

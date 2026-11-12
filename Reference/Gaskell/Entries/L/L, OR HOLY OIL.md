@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANOINTING` | **unresolved** (review queue) |
+| `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `BUTTER` | **unresolved** (ambiguous full-head matches; not linked) |
 | `CANDLEsticks` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
 | `CHRESTOS` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `Foon (soul)` | **unresolved** (review queue) |
 | `Guer` | **unresolved** (review queue) |
 | `Heap` | **unresolved** (review queue) |
-| `IncENsE` | **unresolved** (review queue) |
-| `Lamp` | **unresolved** (review queue) |
-| `OLIVE` | **unresolved** (review queue) |
-| `UNcTION` | **candidate (first-segment only)** → possible `UNCTION, EXTREME` (not linked) |
+| `IncENsE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
+| `UNcTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNCTION, EXTREME|UNCTION, EXTREME]] |
 | `VIRGINS` | **unresolved** (review queue) |
 | `ZABEMAYA` | **unresolved** (review queue) |
 

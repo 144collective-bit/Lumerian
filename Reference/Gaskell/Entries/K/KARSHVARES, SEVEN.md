@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Aat (waters)` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
-| `BULL (man)` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
-| `CaTTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
+| `Aat (waters)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
+| `BULL (man)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]] |
+| `CaTTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
 | `HVANRATHA` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `REGIONS` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `RoorRACES` | **unresolved** (review queue) |
-| `ROUND` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `RoorRACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
+| `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 | `SABBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
-| `SUMMER` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anrzurna` | **unresolved** (review queue) |
-| `DaEva` | **unresolved** (review queue) |
+| `DaEva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `Doa (white)` | **unresolved** (review queue) |
 | `NAsvU` | **unresolved** (review queue) |
 

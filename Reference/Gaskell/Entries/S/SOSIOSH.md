@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AatT (waters)` | **unresolved** (review queue) |
-| `BuDDHA (maitreya)` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `BuDDHA (maitreya)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
-| `ConFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `ConFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
-| `JupcMENT-DAY` | **unresolved** (review queue) |
-| `KALKI AVATAR` | **unresolved** (review queue) |
+| `JupcMENT-DAY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
+| `KALKI AVATAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SPRINGTIME` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SPRINGTIME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]] |
 
 ## Full OCR entry body (exact)
 

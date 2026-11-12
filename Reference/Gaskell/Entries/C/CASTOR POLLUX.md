@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Amycus` | **candidate (first-segment only)** → possible `AMYCUS, KING OF BEBRYCIA` (not linked) |
+| `Amycus` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMYCUS, KING OF BEBRYCIA|AMYCUS, KING OF BEBRYCIA]] |
 | `APOCATEQUIL` | **unresolved** (review queue) |
-| `ASVINS` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
-| `Gemini` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
+| `ASVINS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
+| `Gemini` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 | `Hee` | **unresolved** (review queue) |
-| `HELen` | **unresolved** (review queue) |
+| `HELen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `InpIvipvaLiry` | **unresolved** (review queue) |
-| `LaTONA` | **unresolved** (review queue) |
+| `LaTONA` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `POLLUX` | **unresolved** (review queue) |
+| `POLLUX` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLLUX OR POLYDEUKES|POLLUX OR POLYDEUKES]] |
 | `ZEUS. AND DIPPING DIPPING A PITCHER INTO ‘` | **unresolved** (prose-bleed / overlong token; not linked) |
 
 ## Full OCR entry body (exact)

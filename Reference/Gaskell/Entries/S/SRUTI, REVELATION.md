@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAS` | **unresolved** (review queue) |
+| `AMBAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] |
 | `BOOK-8STUDIES` | **unresolved** (review queue) |
 | `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `KORAN` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
-| `MYTHOLOGY` | **unresolved** (review queue) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `KORAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
+| `MYTHOLOGY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYTHOLOGY MYTHOLOGY|MYTHOLOGY MYTHOLOGY]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
-| `PEN` | **unresolved** (review queue) |
+| `PEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] |
 | `RAMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `Sastra` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
+| `Sastra` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
 | `Scriprures` | **unresolved** (review queue) |
-| `SiGcN` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
-| `UPpaNISHAD` | **unresolved** (review queue) |
-| `UR-HEKAU` | **unresolved** (review queue) |
+| `SiGcN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIGYN, WIFE OF LOKE|SIGYN, WIFE OF LOKE]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `UPpaNISHAD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
+| `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD. SRUVA (MASGC.)` | **unresolved** (review queue) |
 

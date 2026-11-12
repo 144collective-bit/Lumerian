@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BuppH` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `Lovg` | **unresolved** (review queue) |
 | `PANDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `PritHa` | **unresolved** (review queue) |
-| `SELENE` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 
 ## Full OCR entry body (exact)
 

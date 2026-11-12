@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GILGOOLEM` | **candidate (first-segment only)** → possible `GILGOOLEM, OR REVOLUTION OF SOULS` (not linked) |
-| `LAUGHTER (gods)` | **unresolved** (review queue) |
-| `UzuMe` | **candidate (first-segment only)** → possible `UZUME, GODDESS` (not linked) |
+| `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
+| `LAUGHTER (gods)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAUGHTER OF THE GODS|LAUGHTER OF THE GODS]] |
+| `UzuMe` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

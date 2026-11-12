@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DHRITARASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
-| `LaxksHMI` | **unresolved** (review queue) |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `DHRITARASHTRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
+| `LaxksHMI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAEKSHMI, THE GODDESS|LAEKSHMI, THE GODDESS]] |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `VEDA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

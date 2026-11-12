@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Asak` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Matro` | **unresolved** (review queue) |
+| `Matro` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `RimrTHvurRsak` | **unresolved** (review queue) |
-| `SHORE` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `SHORE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `YMER` | **unresolved** (review queue) |

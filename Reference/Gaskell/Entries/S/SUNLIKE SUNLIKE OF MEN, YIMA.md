@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `YIMA` | **unresolved** (review queue) |
+| `YIMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
 
 ## Full OCR entry body (exact)
 

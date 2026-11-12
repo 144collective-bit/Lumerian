@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EMBALMENT` | **unresolved** (review queue) |
-| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `Hawk` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `MonaD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Son or GOD` | **unresolved** (review queue) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 
 ## Full OCR entry body (exact)
 

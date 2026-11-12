@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `BEasts (wild)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
-| `BongEs` | **unresolved** (review queue) |
+| `BEasts (wild)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BEASTS, WILD|BEASTS, WILD]] |
+| `BongEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `CrviLisinec` | **unresolved** (review queue) |
 | `Derunor` | **unresolved** (review queue) |
-| `EXPEriENCES` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
-| `FUH-HE` | **candidate (first-segment only)** → possible `FUH-HE, OR TAE-HAOU` (not linked) |
+| `EXPEriENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
+| `FUH-HE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `Gops` | **unresolved** (review queue) |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `Peter` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `Peter` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SEKHET-AARU. NET OF THE UNDERWORLD` | **unresolved** (review queue) |
 | `OR OF THE ‘ UNITER OF THE EARTH ”’ :— A symbol of the astral mechanism of sensation and desire which unites the individuality with the lower mature (earth); at first enmeshing the soul` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `but afterwards becoming a means of development. “The name of the Temple of Thoth at Khemennu` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -102,20 +102,20 @@ tags:
 | `shake out their nets and recite the formulas which shall have the effect of throwing Apep and Sessi into the state of stupefaction wherein it will be easy to slay them.’’— Bunge` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Egypt. Heaven and Hell` | **unresolved** (review queue) |
 | `Vol. I. p. 185. See A¥Fu-RA` | **unresolved** (review queue) |
-| `AKERU` | **unresolved** (review queue) |
-| `APE` | **candidate (first-segment only)** → possible `APE, DOG-HEADED (LOWER ASPECT)` (not linked) |
-| `APEP` | **candidate (first-segment only)** → possible `APEP, THE SERPENT` (not linked) |
+| `AKERU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AKERU GODS, OR GODS OF AKERT|AKERU GODS, OR GODS OF AKERT]] |
+| `APE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APE, DOG-HEADED (LOWER ASPECT)|APE, DOG-HEADED (LOWER ASPECT)]] |
+| `APEP` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `Boat SEKTET` | **unresolved** (review queue) |
-| `Bones` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
+| `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `CAvUSAL-BODY` | **unresolved** (review queue) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Fiso` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
 | `Isvara` | **unresolved** (review queue) |
 | `REBintTH` | **unresolved** (review queue) |
-| `SEKHET-HETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
+| `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `THOTH. NET OF THE ASAR TO CATCH LOKE ;:— A symbol of the astral mechanism of the physical eye which is to be used as a sense apparatus for the acquirement of knowledge and experience through which the mind may control the desire-nature. ** When the net was finished` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `they went out and cast it into the force. 533 NET Thor held the net on one side` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and all the Asar upon the other` | **unresolved** (review queue) |
@@ -134,10 +134,10 @@ tags:
 | `having first tied something so heavy to it that nothing could possibly escape under it.’’—Jbtd. And again the impacts from without are so strong that they are said to penetrate the “net.” And at this stage the sensorium is established` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which precludes the possibility of any vibration from the lower levels going unperceived. See AsaR` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `EYE (third)` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
+| `EYE (third)` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
 | `Franancer` | **unresolved** (review queue) |
 | `LoKse` | **unresolved** (review queue) |
-| `SALMON` | **candidate (first-segment only)** → possible `SALMON, FISH OF LOKE` (not linked) |
+| `SALMON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALMON, FISH OF LOKE|SALMON, FISH OF LOKE]]; [[Reference/Gaskell/Entries/S/SALMON SAKAKI TREE OF HEAVEN|SALMON SAKAKI TREE OF HEAVEN]] |
 | `THor` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `Water (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

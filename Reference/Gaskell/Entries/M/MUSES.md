@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `DaNocg (circle)` | **unresolved** (review queue) |
 | `Goris` | **unresolved** (review queue) |
-| `HOURIES` | **candidate (first-segment only)** → possible `HOURIES, NYMPHS OF PARADISE` (not linked) |
+| `HOURIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] |
 | `PHAEACIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 
 ## Full OCR entry body (exact)

@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
-| `Arms (body)` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
-| `BaRLey` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `CAKE` | **candidate (first-segment only)** → possible `CAKE, SACRIFICIAL` (not linked) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
-| `FRUIT OF THE SPIRIT` | **candidate (first-segment only)** → possible `FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE` (not linked) |
-| `HARVEST` | **unresolved** (review queue) |
+| `Arms (body)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
+| `BaRLey` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]]; [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `CAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
+| `FRUIT OF THE SPIRIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
+| `HARVEST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `LEFT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEFT|LEFT]] |
 | `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
 | `Rearine` | **unresolved** (review queue) |
-| `Rice` | **unresolved** (review queue) |
+| `Rice` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RICE AND BARLEY|RICE AND BARLEY]]; [[Reference/Gaskell/Entries/R/RICE GRAINS FROM WATERY FIELDS|RICE GRAINS FROM WATERY FIELDS]]; [[Reference/Gaskell/Entries/R/RICE GRAINS THROWN IN THE AIR TO DISPEL THE DARKNESS|RICE GRAINS THROWN IN THE AIR TO DISPEL THE DARKNESS]] |
 | `RiecsTr ARM` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `SowErR` | **unresolved** (review queue) |
 | `Sowrna` | **unresolved** (review queue) |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |

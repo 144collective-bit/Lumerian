@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNISHVATTA` | **unresolved** (review queue) |
-| `ATOM (permanent)` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `AGNISHVATTA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNISHVATTA PITRIS|AGNISHVATTA PITRIS]] |
+| `ATOM (permanent)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `BuppHa` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Monap OF FORM` | **unresolved** (review queue) |
-| `MUSPELL` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
-| `NAKEDNESS` | **unresolved** (review queue) |
+| `MUSPELL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
+| `NAKEDNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
 | `PAaCCEKABUDDHAS` | **unresolved** (review queue) |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARKS` | **unresolved** (review queue) |
 | `SuTRATMA` | **unresolved** (review queue) |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
-| `URNA` | **unresolved** (review queue) |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
+| `URNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

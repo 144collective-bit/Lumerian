@@ -35,30 +35,30 @@ tags:
 | `Aani` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ASHADHA` | **unresolved** (review queue) |
-| `AsHes` | **unresolved** (review queue) |
+| `AsHes` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
 | `Bricks` | **unresolved** (review queue) |
-| `Doruva` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `Durva` | **unresolved** (review queue) |
+| `Doruva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN|DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `Durva` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DURVA-BRICK, OF THE ALTAR|DURVA-BRICK, OF THE ALTAR]] |
 | `DvryaGcus` | **unresolved** (review queue) |
-| `GARHAPaTya` | **unresolved** (review queue) |
+| `GARHAPaTya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
 | `GoppEss` | **unresolved** (review queue) |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |
-| `LIMBS` | **unresolved** (review queue) |
-| `Lorus LeEaF` | **unresolved** (review queue) |
+| `LIMBS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIMBS LIMBS OF THE INEFFABLE|LIMBS LIMBS OF THE INEFFABLE]] |
+| `Lorus LeEaF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOTUS LEAF, OR LEAVES|LOTUS LEAF, OR LEAVES]] |
 | `Marrow` | **unresolved** (review queue) |
 | `MEASURE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
 | `MemBers` | **unresolved** (review queue) |
-| `PrRaGApati (relaxed)` | **unresolved** (review queue) |
-| `Priest (altar)` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `PrRaGApati (relaxed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `Priest (altar)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `Seasons (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `Stone (building)` | **unresolved** (review queue) |
-| `TEMPLE (fire)` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `Stone (building)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `TEMPLE (fire)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]] |
 | `THUNDERBOLT` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `ZION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

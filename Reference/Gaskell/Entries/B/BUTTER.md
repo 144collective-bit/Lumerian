@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmBROSIA` | **candidate (first-segment only)** → possible `AMBROSIA, FOOD OF GODS` (not linked) |
+| `AmBROSIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `Fat` | **unresolved** (review queue) |
-| `GHEE` | **candidate (first-segment only)** → possible `GHEE, OR BUTTER` (not linked) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
+| `GHEE` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GHEE, OR BUTTER|GHEE, OR BUTTER]] |
 | `Guuvu` | **unresolved** (review queue) |
 | `Mmx` | **unresolved** (review queue) |
 | `Om` | **unresolved** (review queue) |
-| `OLIVE` | **unresolved** (review queue) |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 
 ## Full OCR entry body (exact)
 

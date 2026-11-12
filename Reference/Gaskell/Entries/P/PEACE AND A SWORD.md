@@ -35,7 +35,7 @@ tags:
 | `CuIupD` | **unresolved** (review queue) |
 | `FATHER (lower)` | **unresolved** (review queue) |
 | `GrGAMES` | **unresolved** (review queue) |
-| `Parents` | **unresolved** (review queue) |
+| `Parents` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
 | `SCOURGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
 | `Sworp` | **unresolved** (review queue) |
 

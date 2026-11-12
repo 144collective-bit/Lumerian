@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CANDLE` | **unresolved** (review queue) |
-| `CANDLESTICK` | **unresolved** (review queue) |
+| `CANDLESTICK` | resolved (singular/plural) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
 | `DaRKWess` | **unresolved** (review queue) |
 | `Fine` | **unresolved** (review queue) |
 | `Fiame` | **unresolved** (review queue) |
 | `GoOLp` | **unresolved** (review queue) |
-| `Grace` | **unresolved** (review queue) |
+| `Grace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Licut` | **unresolved** (review queue) |
-| `Lost piece` | **unresolved** (review queue) |
-| `LOVE` | **candidate (first-segment only)** → possible `LOVE, THE UNITER OF ALL` (not linked) |
-| `Or` | **unresolved** (review queue) |
+| `Lost piece` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]] |
+| `LOVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
+| `Or` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
 | `TAE-KEIH` | **unresolved** (review queue) |
 | `VincrIns` | **unresolved** (review queue) |
 

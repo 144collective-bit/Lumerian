@@ -35,8 +35,8 @@ tags:
 | `Apam (higher)` | **unresolved** (review queue) |
 | `Boppy` | **unresolved** (review queue) |
 | `Hoty GHOST` | **unresolved** (review queue) |
-| `PARACLETE` | **candidate (first-segment only)** → possible `PARACLETE, COMFORTER, INTERCESSOR` (not linked) |
-| `VIRGIN` | **unresolved** (review queue) |
+| `PARACLETE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WISDOM. CHRIST’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

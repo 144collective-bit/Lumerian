@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `BIRTH OF CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF CHRIST|BIRTH OF CHRIST]] |
 | `Boar` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
-| `CIRCE` | **candidate (first-segment only)** → possible `CIRCE, DAUGHTER OF HELIOS` (not linked) |
+| `CIRCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIRCE, DAUGHTER OF HELIOS|CIRCE, DAUGHTER OF HELIOS]] |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `HapEes` | **unresolved** (review queue) |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
@@ -43,7 +43,7 @@ tags:
 | `Kino` | **unresolved** (review queue) |
 | `PEopite` | **unresolved** (review queue) |
 | `Pie` | **unresolved** (review queue) |
-| `Sow` | **unresolved** (review queue) |
+| `Sow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOW OR PIG|SOW OR PIG]] |
 | `Vici MARY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

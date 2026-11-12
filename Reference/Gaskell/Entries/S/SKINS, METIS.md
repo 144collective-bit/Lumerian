@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `ApitT1` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Ecc` | **unresolved** (review queue) |
-| `Ericapzvs` | **unresolved** (review queue) |
+| `Ericapzvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,-ONE OF THE THREE ASPECTS OF PHANES|ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,—ONE OF THE THREE ASPECTS OF PHANES]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `NOAH’S SONS` | **unresolved** (review queue) |
-| `ORPHEUS` | **candidate (first-segment only)** → possible `ORPHEUS, THE DIVINE MUSICIAN` (not linked) |
+| `ORPHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORPHEUS, THE DIVINE MUSICIAN|ORPHEUS, THE DIVINE MUSICIAN]] |
 | `PHANES` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

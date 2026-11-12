@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
-| `CURETES` | **unresolved** (review queue) |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
+| `CURETES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CURETES AND CORYBANTES|CURETES AND CORYBANTES]] |
 | `Herrop` | **unresolved** (review queue) |
 | `Hoper` | **unresolved** (review queue) |
 | `KIxinqa_ ovr` | **unresolved** (review queue) |

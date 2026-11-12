@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Apirya` | **unresolved** (review queue) |
 | `AMEN-RA` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SAVITRI` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SAVITRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Supya` | **unresolved** (review queue) |
+| `Supya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 
 ## Full OCR entry body (exact)
 

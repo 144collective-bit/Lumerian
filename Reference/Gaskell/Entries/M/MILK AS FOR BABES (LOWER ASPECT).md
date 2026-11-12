@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asark` | **unresolved** (review queue) |
+| `Asark` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
 | `Eves (two)` | **unresolved** (review queue) |
-| `FOUNTAIN` | **unresolved** (review queue) |
+| `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `Frica` | **unresolved** (review queue) |
 | `OpIn` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WELL` | **unresolved** (review queue) |
+| `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 
 ## Full OCR entry body (exact)
 

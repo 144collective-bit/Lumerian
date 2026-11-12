@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmeNrI` | **unresolved** (review queue) |
+| `AmeNrI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `ASSUMPTION` | **unresolved** (review queue) |
+| `ASSUMPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]]; [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] |
 | `BETHLEHEM` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BETHLEHEM|BETHLEHEM]] |
 | `BIRTH OF HORUS AND KRISHNA` | **unresolved** (review queue) |
-| `CAVE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `CONCEPTION` | **unresolved** (review queue) |
-| `DEmMIURGE` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `CAVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
+| `DEmMIURGE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `Gotp (frank.)` | **unresolved** (review queue) |
 | `JEsus (son of man)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Jos` | **unresolved** (review queue) |
 | `KING (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING|KING]] |
 | `Maci` | **unresolved** (review queue) |
-| `MANGER` | **unresolved** (review queue) |
+| `MANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANGER IN WHICH THE INFANT JESUS WAS LAID|MANGER IN WHICH THE INFANT JESUS WAS LAID]] |
 | `Mrruras Rock` | **unresolved** (review queue) |
 | `VEIL OF IS18` | **unresolved** (review queue) |
-| `VIRGIN` | **unresolved** (review queue) |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `VIRGINITY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VIRGINITY|VIRGINITY]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

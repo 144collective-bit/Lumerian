@@ -37,7 +37,7 @@ tags:
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `Foop` | **unresolved** (review queue) |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `Woop (holy)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

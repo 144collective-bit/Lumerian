@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ambrosia` | **candidate (first-segment only)** → possible `AMBROSIA, FOOD OF GODS` (not linked) |
+| `Ambrosia` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `Bees` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
 | `Buppu` | **unresolved** (review queue) |
 | `388 HORBEHUDTI Flowers` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
 | `Nrorar` | **unresolved** (review queue) |
-| `Norwnor` | **unresolved** (review queue) |
+| `Norwnor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
 | `Ox-BoRN` | **unresolved** (review queue) |
-| `PLantrs` | **unresolved** (review queue) |
+| `PLantrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `Toncuz` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `WATER. HONOUR` | **unresolved** (review queue) |
@@ -60,10 +60,10 @@ tags:
 | `or captured from without. It perceives that the knowledge it has already acquired has been applied to life (i.e. turned to personal advantage)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and the ends which were sought have been attained. These low ends which have been realised are not to be forfeited` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `but are to be expanded to the real objects of evolution. See ACHILLES` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `GREEKS (great)` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `GREEKS (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `TREASURE` | **unresolved** (review queue) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 
 ## Full OCR entry body (exact)
 

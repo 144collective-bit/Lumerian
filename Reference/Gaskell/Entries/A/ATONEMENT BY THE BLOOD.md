@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR` | **unresolved** (review queue) |
+| `ALTAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BLOOD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] |
 | `Foon` | **unresolved** (review queue) |
 | `Homa-svuicE` | **unresolved** (review queue) |
 | `ScaAPEGoat` | **unresolved** (review queue) |
-| `Soma-JUIOCE` | **unresolved** (review queue) |
+| `Soma-JUIOCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 
 ## Full OCR entry body (exact)
 

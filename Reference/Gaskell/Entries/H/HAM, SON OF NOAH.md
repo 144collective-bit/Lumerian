@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADAM'S DEAD BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
-| `CANAAN` | **candidate (first-segment only)** → possible `CANAAN, SON OF HAM` (not linked) |
+| `CANAAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CANAAN, SON OF HAM|CANAAN, SON OF HAM]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `Noan’s sons` | **unresolved** (review queue) |
-| `TOKENS` | **candidate (first-segment only)** → possible `TOKENS, FOUR SACRED` (not linked) |
+| `TOKENS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Crown (atef)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
 
 ## Full OCR entry body (exact)
 

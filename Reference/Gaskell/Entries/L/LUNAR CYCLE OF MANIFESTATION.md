@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `Goat (milch)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Goat (milch)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GOAT, MILCH|GOAT, MILCH]] |
 | `Moow (lower)` | **unresolved** (review queue) |
-| `Moon (solar)` | **unresolved** (review queue) |
+| `Moon (solar)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (SOLAR ASPECT)|MOON (SOLAR ASPECT)]] |
 | `MoonWAXING` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |
-| `PITRIYANA` | **unresolved** (review queue) |
+| `PITRIYANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 
 ## Full OCR entry body (exact)
 

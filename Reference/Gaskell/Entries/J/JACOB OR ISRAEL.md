@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `IsrarLites` | **unresolved** (review queue) |
-| `LADDER (Jacob’s). | JAIRUS’` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `IsrarLites` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
+| `LADDER (Jacob’s). | JAIRUS’` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 
 ## Full OCR entry body (exact)
 

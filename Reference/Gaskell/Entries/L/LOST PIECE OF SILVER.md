@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `FRIENDS` | **candidate (first-segment only)** → possible `FRIENDS, AND FOES` (not linked) |
-| `FRvUIT (spirit)` | **unresolved** (review queue) |
-| `HoUSE IN HEAVEN` | **candidate (first-segment only)** → possible `HOUSE IN HEAVEN, OR HOUSE OF GOD` (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
+| `FRvUIT (spirit)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
+| `HoUSE IN HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOUSE IN HEAVEN, OR HOUSE OF GOD|HOUSE IN HEAVEN, OR HOUSE OF GOD]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `Lamp` | **unresolved** (review queue) |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `NEIGHBOUR` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEIGHBOUR|NEIGHBOUR]] |
 | `Om` | **unresolved** (review queue) |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
-| `SILVER` | **unresolved** (review queue) |
+| `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
 | `Sout` | **unresolved** (review queue) |
 | `Wispom` | **unresolved** (review queue) |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

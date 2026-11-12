@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
+| `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 
 ## Full OCR entry body (exact)
 

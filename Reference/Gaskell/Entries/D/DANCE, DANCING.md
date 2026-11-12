@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Harmony` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `Music AND DANCING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSIC AND DANCING|MUSIC AND DANCING]] |
-| `SacKcLoTH` | **unresolved** (review queue) |
-| `Satyks` | **unresolved** (review queue) |
+| `SacKcLoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACKCLOTH ON FLESH|SACKCLOTH ON FLESH]] |
+| `Satyks` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
 
 ## Full OCR entry body (exact)
 

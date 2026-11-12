@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Mrmnor` | **unresolved** (review queue) |
-| `Uzumes` | **unresolved** (review queue) |
+| `Uzumes` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

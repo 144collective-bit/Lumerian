@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (higher)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (HIGHER ASPECT)|ADAM (HIGHER ASPECT)]] |
 | `Darmons` | **unresolved** (review queue) |
-| `Doors OPENED` | **unresolved** (review queue) |
+| `Doors OPENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `Epru` | **unresolved** (review queue) |
 | `Ecyrt` | **unresolved** (review queue) |
-| `HERMES` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `[B1s8` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
-| `InrTurTION` | **unresolved** (review queue) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `InrTurTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `Maaic` | **unresolved** (review queue) |
 | `Manat` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `NarapDa` | **unresolved** (review queue) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `NarapDa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NARADA, THE GREAT RISHI|NARADA, THE GREAT RISHI]] |
 | `NEBO` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEBO|NEBO]] |
-| `NEHEMAUT` | **candidate (first-segment only)** → possible `NEHE-MAUT, SPOUSE OF THOTH` (not linked) |
+| `NEHEMAUT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHE-MAUT, SPOUSE OF THOTH|NEHE-MAUT, SPOUSE OF THOTH]] |
 | `PraH` | **unresolved** (review queue) |
 | `ScrierurREes` | **unresolved** (review queue) |
-| `SHINATSU` | **unresolved** (review queue) |
+| `SHINATSU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINATSU-HIKO, WIND-GOD|SHINATSU-HIKO, WIND-GOD]] |
 | `THOR` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `WorRD` | **unresolved** (review queue) |
 

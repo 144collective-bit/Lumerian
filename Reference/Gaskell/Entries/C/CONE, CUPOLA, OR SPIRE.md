@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `PyRamMip` | **unresolved** (review queue) |
-| `SHRINE` | **unresolved** (review queue) |
-| `SPrre` | **unresolved** (review queue) |
-| `STUPA` | **candidate (first-segment only)** → possible `STUPA, MARVELLOUS, OF BUDDHA` (not linked) |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
+| `SPrre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPIRE|SPIRE]] |
+| `STUPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
-| `CUPID` | **unresolved** (review queue) |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
+| `CUPID` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] |
 | `Dravpap!I` | **unresolved** (review queue) |
 | `Erimetuevs` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Fax` | **unresolved** (review queue) |
-| `HEpHAIsTos` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
-| `Nestor` | **candidate (first-segment only)** → possible `NESTOR, THE SWEET-VOICED` (not linked) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `HEpHAIsTos` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+| `Nestor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NESTOR, THE SWEET-VOICED|NESTOR, THE SWEET-VOICED]] |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
-| `SELENE` | **unresolved** (review queue) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 | `WomAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

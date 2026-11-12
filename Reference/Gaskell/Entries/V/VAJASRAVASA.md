@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `NacHIKETAS` | **candidate (first-segment only)** → possible `NACHIKETAS, SON OF VAJASRAVASA` (not linked) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `NacHIKETAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]] |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `Priest` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SELF. | VALHALLA VALE` | **unresolved** (review queue) |
 | `LOKE’` | **unresolved** (review queue) |
 

@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Frost` | **unresolved** (review queue) |
-| `Ice` | **candidate (first-segment only)** → possible `ICE, FROST, OR SNOW` (not linked) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `Ice` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICE, FROST, OR SNOW|ICE, FROST, OR SNOW]] |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `JROoT-RACES` | **unresolved** (review queue) |
-| `RounD` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SUMMER` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `RounD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
 
 ## Full OCR entry body (exact)

@@ -35,16 +35,16 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `BopHisatva` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `EvoLuTION` | **unresolved** (review queue) |
-| `FIRST-BORN SON` | **unresolved** (review queue) |
+| `BopHisatva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `EvoLuTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FIRST-BORN SON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Gop` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
-| `HYRANYAGARBHA` | **unresolved** (review queue) |
+| `HYRANYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `MHvITZzILOPOCHTLI` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `InvoLutTion` | **unresolved** (review queue) |
 | `JEsus (son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Lamp or Gop` | **unresolved** (review queue) |
@@ -52,11 +52,11 @@ tags:
 | `Miyi (higher)` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `MorTruer` | **unresolved** (review queue) |
-| `REDEMPtion` | **unresolved** (review queue) |
+| `REDEMPtion` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `Sacrriviczer` | **unresolved** (review queue) |
 | `Seep` | **unresolved** (review queue) |
 | `Seitr` | **unresolved** (review queue) |
-| `Son oF cop` | **unresolved** (review queue) |
+| `Son oF cop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Tore` | **unresolved** (review queue) |
 | `Trimrry` | **unresolved** (review queue) |
 | `Woman (goddess)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Evs` | **unresolved** (review queue) |
-| `Ham (side-lock)` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
-| `Hera` | **unresolved** (review queue) |
+| `Ham (side-lock)` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 
 ## Full OCR entry body (exact)

@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atom` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `Atom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] |
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
-| `CHEMMIS` | **unresolved** (review queue) |
-| `CHURNING` | **unresolved** (review queue) |
-| `DELos` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
+| `DELos` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `I[zanaal` | **unresolved** (review queue) |
 | `ONYX JEWEL SPEAR` | **unresolved** (review queue) |
 | `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
 | `MANoo` | **unresolved** (review queue) |
-| `PaLace` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `PaLace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 
 ## Full OCR entry body (exact)
 

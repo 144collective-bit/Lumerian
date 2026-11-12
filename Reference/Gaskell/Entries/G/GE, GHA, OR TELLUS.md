@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APPLES` | **unresolved** (review queue) |
+| `APPLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APPLES OF THE HESPERIDES|APPLES OF THE HESPERIDES]] |
 | `HESPERIDES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HESPERIDES|HESPERIDES]] |
-| `OCEANUS` | **candidate (first-segment only)** → possible `OCEANUS, SON OF HEAVEN AND EARTH` (not linked) |
+| `OCEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
 | `RuEa` | **unresolved** (review queue) |
-| `URANUS` | **unresolved** (review queue) |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 
 ## Full OCR entry body (exact)
 

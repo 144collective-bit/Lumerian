@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBROSIA` | **candidate (first-segment only)** → possible `AMBROSIA, FOOD OF GODS` (not linked) |
+| `AMBROSIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Gops` | **unresolved** (review queue) |
-| `HERMES` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `USERT` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `USERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/USERT GODDESS, OR POOL|USERT GODDESS, OR POOL]] |
 
 ## Full OCR entry body (exact)
 

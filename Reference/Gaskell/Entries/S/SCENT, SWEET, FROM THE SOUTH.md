@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATALANTA` | **candidate (first-segment only)** → possible `ATALANTA, THE FAIR MAID` (not linked) |
+| `ATALANTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATALANTA, THE FAIR MAID|ATALANTA, THE FAIR MAID]] |
 | `BysBios` | **unresolved** (review queue) |
 | `InmnorTALITY` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
+| `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 | `OpouR` | **unresolved** (review queue) |
 | `Pex. FUME` | **unresolved** (review queue) |
-| `WIND (sweet)` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+| `WIND (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/W/WIND, SWEET, SOUTH|WIND, SWEET, SOUTH]] |
 
 ## Full OCR entry body (exact)
 

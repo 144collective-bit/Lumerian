@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Greeks` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `Mast` | **unresolved** (review queue) |
+| `Greeks` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `Mast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]]; [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] |
 | `Sup (black)` | **unresolved** (review queue) |
-| `Waves` | **unresolved** (review queue) |
+| `Waves` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
 
 ## Full OCR entry body (exact)

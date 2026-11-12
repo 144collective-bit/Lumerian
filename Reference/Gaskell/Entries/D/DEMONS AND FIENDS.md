@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `AsuRA` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `AsuRA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] |
 | `DAEVas` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `Darsons` | **unresolved** (review queue) |
 | `Devits` | **unresolved** (review queue) |
-| `Iron ace` | **unresolved** (review queue) |
+| `Iron ace` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]] |
 | `MrmBERS` | **unresolved** (review queue) |
 | `RAKSHASAS` | **unresolved** (review queue) |
 | `SPENTO` | **unresolved** (review queue) |
-| `VISTASP` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
+| `VISTASP` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 
 ## Full OCR entry body (exact)
 

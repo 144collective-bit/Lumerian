@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
-| `Hariot` | **unresolved** (review queue) |
+| `Hariot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
 
 ## Full OCR entry body (exact)

@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apirya` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `East` | **unresolved** (review queue) |
-| `HrranYAGARBHA` | **unresolved** (review queue) |
+| `HrranYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `POTSHERD` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] |
 | `SLEEPING (waking)` | **unresolved** (review queue) |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SUN-RISING` | **unresolved** (review queue) |
-| `SURYA` | **candidate (first-segment only)** → possible `SURYA, THE SUN` (not linked) |
+| `SURYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 
 ## Full OCR entry body (exact)
 

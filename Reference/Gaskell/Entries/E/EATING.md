@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHEMOGHA` | **candidate (first-segment only)** → possible `ASHEMOGHA, THE UNGODLY` (not linked) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `ASHEMOGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `CALF (molten)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CALF|CALF]] |
 | `FEED` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
 | `Manna` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
-| `MEat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `MEat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `MouvurH#H (opened)` | **unresolved** (review queue) |
-| `SacRaAMENT` | **unresolved** (review queue) |
-| `SUPPER` | **candidate (first-segment only)** → possible `SUPPER, LAST` (not linked) |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
+| `SacRaAMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
+| `SUPPER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUPPER, LAST|SUPPER, LAST]] |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
 | `OF LIFE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

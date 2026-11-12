@@ -33,31 +33,31 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BAcKBONE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BACKBONE|BACKBONE]] |
-| `BIRDS (heaven)` | **candidate (first-segment only)** → possible `BIRDS, TWO, OF THE HOLY FIGTREE` (not linked) |
+| `BIRDS (heaven)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRDS (LOWER ASPECT)|BIRDS (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/B/BIRDS OF THE HEAVEN|BIRDS OF THE HEAVEN]]; [[Reference/Gaskell/Entries/B/BIRDS, TWO, OF THE HOLY FIGTREE|BIRDS, TWO, OF THE HOLY FIGTREE]] |
 | `Brrps (two)` | **unresolved** (review queue) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `Fic-TREE` | **unresolved** (review queue) |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `Fic-TREE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] |
 | `F'Rvrt` | **unresolved** (review queue) |
-| `GaTHA DAYS` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
-| `HARVISPTOKHM` | **candidate (first-segment only)** → possible `HARVISPTOKHM, THE TREE OF ALL SEEDS` (not linked) |
+| `GaTHA DAYS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
+| `HARVISPTOKHM` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARVISPTOKHM, THE TREE OF ALL SEEDS|HARVISPTOKHM, THE TREE OF ALL SEEDS]] |
 | `HomaTREE` | **unresolved** (review queue) |
-| `IMMORTALITY` | **unresolved** (review queue) |
-| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `IMMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
+| `JESUS (mortal)` | resolved (exact) → [[Reference/Gaskell/Entries/J/JESUS, MORTAL|JESUS, MORTAL]] |
 | `Kinepom` | **unresolved** (review queue) |
 | `LEAVES` | **unresolved** (review queue) |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
 | `OakTREE` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
-| `Puants` | **unresolved** (review queue) |
+| `Puants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `RvuiLERS (world)` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SOMA-PLANT` | **unresolved** (review queue) |
+| `SOMA-PLANT` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `SYCAMORE` | **unresolved** (review queue) |
-| `TET` | **unresolved** (review queue) |
-| `‘TURA-TREE` | **unresolved** (review queue) |
+| `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
+| `‘TURA-TREE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUBA TREE|TUBA TREE]] |
 | `VALHALLA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALHALLA|VALHALLA]] |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `Worp` | **unresolved** (review queue) |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Aat` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
+| `Aat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
 | `(waters)` | **unresolved** (review queue) |
-| `Corist` | **unresolved** (review queue) |
-| `ConscmMATION` | **unresolved** (review queue) |
-| `DRINK` | **unresolved** (review queue) |
+| `Corist` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `ConscmMATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] |
+| `DRINK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DRINK OF WINE OR WATER|DRINK OF WINE OR WATER]] |
 | `HOUSE OF BONDAGE` | **unresolved** (review queue) |
 | `HunceEr` | **unresolved** (review queue) |
 | `ILLusion` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `LAW OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF BUDDHA|LAW OF BUDDHA]] |
 | `LIBERATIO‘` | **unresolved** (review queue) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `STREAM` | **unresolved** (review queue) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `STREAM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREAM OF HIS LAW|STREAM OF HIS LAW]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `THORNS` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

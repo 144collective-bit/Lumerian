@@ -38,9 +38,9 @@ tags:
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Harr` | **unresolved** (review queue) |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
-| `PHInevs` | **unresolved** (review queue) |
-| `SKIN` | **unresolved** (review queue) |
-| `SKY` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `PHInevs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+| `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
+| `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
-| `HARMONY` | **unresolved** (review queue) |
-| `Hymn sinoina` | **unresolved** (review queue) |
+| `HARMONY` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
+| `Hymn sinoina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `Moonta` | **unresolved** (review queue) |
-| `O1ive FRuIT` | **unresolved** (review queue) |
-| `Passion` | **unresolved** (review queue) |
+| `O1ive FRuIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]] |
+| `Passion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 
 ## Full OCR entry body (exact)

@@ -35,10 +35,10 @@ tags:
 | `East` | **unresolved** (review queue) |
 | `E:tHer` | **unresolved** (review queue) |
 | `Heron` | **unresolved** (review queue) |
-| `INTExLECT` | **unresolved** (review queue) |
-| `MaGi` | **unresolved** (review queue) |
+| `INTExLECT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
+| `MaGi` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAGI FROM THE EAST|MAGI FROM THE EAST]] |
 | `MORNING STAR` | **unresolved** (review queue) |
-| `STARS` | **unresolved** (review queue) |
+| `STARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 
 ## Full OCR entry body (exact)
 

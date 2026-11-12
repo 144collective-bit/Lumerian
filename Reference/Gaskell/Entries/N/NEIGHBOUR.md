@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `JUDGING OTHERS` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGING OTHERS|JUDGING OTHERS]] |
 | `LANDMARKS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LANDMARKS|LANDMARKS]] |
 

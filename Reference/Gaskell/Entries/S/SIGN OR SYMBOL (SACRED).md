@@ -36,24 +36,24 @@ tags:
 | `Eartu` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `ILxivSION` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `JONAH` | **unresolved** (review queue) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `JONAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JONAH OF THE OLD TESTAMENT|JONAH OF THE OLD TESTAMENT]] |
 | `LEVIATHAN` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MONSTERS` | **unresolved** (review queue) |
-| `MyTHOLOGY` | **unresolved** (review queue) |
+| `MONSTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MONSTERS OF TIAMAT|MONSTERS OF TIAMAT]] |
+| `MyTHOLOGY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYTHOLOGY MYTHOLOGY|MYTHOLOGY MYTHOLOGY]] |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
-| `SIMEON` | **candidate (ambiguous first-segment)** → SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE; SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL (not linked) |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
+| `SIMEON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
 | `Son oF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
-| `THREE` | **candidate (first-segment only)** → possible `THREE, NUMBER` (not linked) |
+| `THREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THREE, NUMBER|THREE, NUMBER]] |
 | `THREE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THREE DAYS|THREE DAYS]] |
 | `Toms` | **unresolved** (review queue) |
 | `VISCERA` | **unresolved** (review queue) |
-| `WHALE` | **unresolved** (review queue) |
+| `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
 
 ## Full OCR entry body (exact)
 

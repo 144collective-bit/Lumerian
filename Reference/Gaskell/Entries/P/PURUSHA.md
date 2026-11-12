@@ -33,44 +33,44 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ARMS` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `ARMS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 | `Buppsl` | **unresolved** (review queue) |
-| `CasTEs` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `CRUCIFIXION (Gnostic` | **unresolved** (review queue) |
+| `CasTEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `CRUCIFIXION (Gnostic` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `Purusha)` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `DISMEMBEER  a eo Lad -_ re PWAN-KOO MENT` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Evoturion` | **unresolved** (review queue) |
 | `Fret` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `Human sBopy` | **unresolved** (review queue) |
+| `Human sBopy` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUMAN BODY|HUMAN BODY]] |
 | `Imacr` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `InNDIvipuaLiry` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Kama` | **unresolved** (review queue) |
-| `KsnHarriya` | **unresolved** (review queue) |
+| `KsnHarriya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KSHATRIYA, OR MILITARY CASTE|KSHATRIYA, OR MILITARY CASTE]] |
 | `Luss` | **unresolved** (review queue) |
 | `Lies` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `Miyi` | **unresolved** (review queue) |
 | `Memprrs` | **unresolved** (review queue) |
 | `Mornuer` | **unresolved** (review queue) |
 | `Movrs` | **unresolved** (review queue) |
-| `Net (golden)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net (golden)` | resolved (exact) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]] |
 | `Pracipati` | **unresolved** (review queue) |
-| `PRAKRITI` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
-| `Saceiricer` | **unresolved** (review queue) |
+| `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
+| `Saceiricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `Setr` | **unresolved** (review queue) |
-| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Srrarr` | **unresolved** (review queue) |
 | `Supra` | **unresolved** (review queue) |
 | `Tuian` | **unresolved** (review queue) |
-| `Vaisya` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `Vimas` | **unresolved** (review queue) |
-| `ViIsHNU` | **unresolved** (review queue) |
+| `ViIsHNU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 | `Yuin` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 
 ## Full OCR entry body (exact)
 

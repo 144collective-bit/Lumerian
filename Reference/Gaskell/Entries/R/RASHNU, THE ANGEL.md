@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALANCE (spirits)` | **unresolved** (review queue) |
-| `SRos#H` | **candidate (first-segment only)** → possible `SROSH, OR SRAOSHA, RIGHTEOUS` (not linked) |
+| `BALANCE (spirits)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] |
+| `SRos#H` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
 
 ## Full OCR entry body (exact)
 

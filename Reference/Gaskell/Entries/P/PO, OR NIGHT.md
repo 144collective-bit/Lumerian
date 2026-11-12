@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AByss` | **candidate (first-segment only)** → possible `ABYSS, THE` (not linked) |
-| `CHAOS` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `DARKNESS (pri.)` | **unresolved** (review queue) |
-| `Deep` | **candidate (ambiguous first-segment)** → DEEP, OF EA THE CREATOR; DEEP, OF TIAMAT (not linked) |
+| `AByss` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABYSS, THE|ABYSS, THE]] |
+| `CHAOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `DARKNESS (pri.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `Deep` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `Hrne` | **unresolved** (review queue) |
 | `NieuT (matter)` | **unresolved** (review queue) |
 | `REINGA` | **unresolved** (review queue) |
-| `Taarnoa` | **unresolved** (review queue) |
+| `Taarnoa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `TANAOA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

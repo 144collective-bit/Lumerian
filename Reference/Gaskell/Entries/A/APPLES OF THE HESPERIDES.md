@@ -36,7 +36,7 @@ tags:
 | `GoLp` | **unresolved** (review queue) |
 | `Grart` | **unresolved** (review queue) |
 | `HESPERIDES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HESPERIDES|HESPERIDES]] |
-| `HikoBosHI` | **candidate (first-segment only)** → possible `HIKOBOSHI, A STAR-GOD` (not linked) |
+| `HikoBosHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 
 ## Full OCR entry body (exact)

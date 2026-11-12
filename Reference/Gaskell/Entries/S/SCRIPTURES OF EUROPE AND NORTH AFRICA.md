@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Eayrt (higher)` | **unresolved** (review queue) |
 | `MusPELLHEIM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
-| `PHANG` | **candidate (first-segment only)** → possible `PHANG, THE GREAT BIRD` (not linked) |
+| `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
 
 ## Full OCR entry body (exact)
 

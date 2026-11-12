@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Anrnows` | **unresolved** (review queue) |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `FuHHE` | **candidate (first-segment only)** → possible `FUH-HE, OR TAE-HAOU` (not linked) |
+| `FuHHE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `MIRROR` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
-| `QUETZALCOATL` | **unresolved** (review queue) |
-| `SHIELD` | **unresolved** (review queue) |
+| `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
+| `SHIELD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHIELD AND SPEAR|SHIELD AND SPEAR]] |
 | `Sprrir` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

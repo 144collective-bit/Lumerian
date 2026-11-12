@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Israevires` | **unresolved** (review queue) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
+| `Israevires` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `NACLES` | **unresolved** (review queue) |
-| `TENT` | **unresolved** (review queue) |
-| `VESSELS` | **unresolved** (review queue) |
+| `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
+| `VESSELS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 
 ## Full OCR entry body (exact)
 

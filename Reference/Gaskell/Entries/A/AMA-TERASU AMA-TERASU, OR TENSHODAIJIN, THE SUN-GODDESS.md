@@ -33,26 +33,26 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Buppui` | **unresolved** (review queue) |
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `Dance` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
-| `DaRKNESS` | **unresolved** (review queue) |
-| `EYES` | **candidate (ambiguous first-segment)** → EYES, TWIN; EYES, TWO, OF HEAVEN; EYES, TWO, SUPERIOR AND INFERIOR (not linked) |
-| `HIDING PLACE` | **unresolved** (review queue) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `Dance` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
+| `DaRKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `EYES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EYES OF HORUS OR OSIRIS|EYES OF HORUS OR OSIRIS]]; [[Reference/Gaskell/Entries/E/EYES, TWIN|EYES, TWIN]]; [[Reference/Gaskell/Entries/E/EYES, TWO, OF HEAVEN|EYES, TWO, OF HEAVEN]]; [[Reference/Gaskell/Entries/E/EYES, TWO, SUPERIOR AND INFERIOR|EYES, TWO, SUPERIOR AND INFERIOR]] |
+| `HIDING PLACE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
 | `INSIGNIA` | **unresolved** (review queue) |
-| `IzaNaGi` | **unresolved** (review queue) |
-| `LAUGHTER (gods)` | **unresolved** (review queue) |
-| `Mast` | **unresolved** (review queue) |
+| `IzaNaGi` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IZANAGI AND IZANAMI|IZANAGI AND IZANAMI]] |
+| `LAUGHTER (gods)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAUGHTER OF THE GODS|LAUGHTER OF THE GODS]] |
+| `Mast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]]; [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] |
 | `Merzrii1` | **unresolved** (review queue) |
-| `Mrrror` | **unresolved** (review queue) |
+| `Mrrror` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
 | `Mireaura` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
 | `Niaut` | **unresolved** (review queue) |
 | `Ninict` | **unresolved** (review queue) |
-| `Return` | **unresolved** (review queue) |
-| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `Return` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RETURN OF THE GREAT GODDESS|RETURN OF THE GREAT GODDESS]] |
+| `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `SusaNowo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
 | `UKEemocnui` | **unresolved** (review queue) |
-| `Uzumt` | **unresolved** (review queue) |
+| `Uzumt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 | `WoopENn PALACE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

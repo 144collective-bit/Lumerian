@@ -34,12 +34,12 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `AIR AND AETHER` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `Cronus` | **unresolved** (review queue) |
-| `DaRKNESS` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `DaRKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Kama` | **unresolved** (review queue) |
 | `Karen` | **unresolved** (review queue) |
 | `Miyd (lower)` | **unresolved** (review queue) |
@@ -52,11 +52,11 @@ tags:
 | `Ronoo` | **unresolved** (review queue) |
 | `Ru` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RU|RU]] |
 | `Sart` | **unresolved** (review queue) |
-| `Sex` | **unresolved** (review queue) |
+| `Sex` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEX PRINCIPLE IN DIVINE MANIFESTATION|SEX PRINCIPLE IN DIVINE MANIFESTATION]] |
 | `Sprarr` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Sun (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TaNnEMAHUTA` | **unresolved** (review queue) |
+| `TaNnEMAHUTA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `URANUS Yana` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -36,9 +36,9 @@ tags:
 | `Exemenrs` | **unresolved** (review queue) |
 | `FImMAMEN?` | **unresolved** (review queue) |
 | `MarsHan` | **unresolved** (review queue) |
-| `Manav` | **unresolved** (review queue) |
+| `Manav` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Mownap (life` | **unresolved** (review queue) |
-| `form)` | **unresolved** (review queue) |
+| `form)` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `Prororyrzes` | **unresolved** (review queue) |
 | `WorRLps (five)` | **unresolved** (review queue) |
 

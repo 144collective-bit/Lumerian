@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CREMATION` | **unresolved** (review queue) |
-| `Hermes` | **unresolved** (review queue) |
-| `MJOLNER` | **candidate (first-segment only)** → possible `MJOLNER, THE HAMMER OF THOR` (not linked) |
-| `HORNE` | **candidate (first-segment only)** → possible `HORNE, CHERUBIM AND SERAPHIM` (not linked) |
+| `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `MJOLNER` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] |
+| `HORNE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HORNE, CHERUBIM AND SERAPHIM|HORNE, CHERUBIM AND SERAPHIM]] |
 | `THOTH. FIRE` | **unresolved** (review queue) |
-| `FUNERAL` | **unresolved** (review queue) |
-| `Nanna` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
+| `FUNERAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] |
+| `Nanna` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `RIna755` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

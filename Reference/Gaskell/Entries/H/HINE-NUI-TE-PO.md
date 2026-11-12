@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Haprs` | **unresolved** (review queue) |
 | `LEVIATHAN` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
-| `MAYA (lower)` | **unresolved** (review queue) |
-| `MotHrer` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `MAYA (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
+| `MotHrer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `Niaut` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `Woms` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

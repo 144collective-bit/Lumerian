@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ps. xxxiv. 8. See Opour` | **unresolved** (review queue) |
-| `SaLaGyA` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
-| `TASTE` | **unresolved** (review queue) |
+| `SaLaGyA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
+| `TASTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

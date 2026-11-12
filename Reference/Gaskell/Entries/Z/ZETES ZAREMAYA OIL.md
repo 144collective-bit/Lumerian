@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AmBrosia` | **candidate (first-segment only)** → possible `AMBROSIA, FOOD OF GODS` (not linked) |
+| `AmBrosia` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `Foon` | **unresolved** (review queue) |
 | `Om` | **unresolved** (review queue) |
 

@@ -35,13 +35,13 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `AFU-RA` | **unresolved** (review queue) |
 | `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
-| `AMEN` | **candidate (first-segment only)** → possible `AMEN, OR AMON (THE HIDDEN ONE)` (not linked) |
+| `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
 | `FATHER` | **unresolved** (review queue) |
-| `GoD` | **candidate (first-segment only)** → possible `GOD, POTENTIAL AND ACTUAL` (not linked) |
+| `GoD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD, POTENTIAL AND ACTUAL|GOD, POTENTIAL AND ACTUAL]] |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Hipine` | **unresolved** (review queue) |
 | `TRINITY` | **unresolved** (review queue) |
-| `ZERANA` | **unresolved** (review queue) |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

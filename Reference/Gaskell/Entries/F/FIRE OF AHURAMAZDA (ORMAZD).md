@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `GatHas (chanting)` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
-| `KatcHas` | **unresolved** (review queue) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `GatHas (chanting)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
+| `KatcHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KALCHAS, OR CALCHAS, SON OF THESTOR|KALCHAS, OR CALCHAS, SON OF THESTOR]] |
 | `LovE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `RECOGNITION` | **unresolved** (review queue) |
-| `RECOLLECTION` | **unresolved** (review queue) |
-| `REMINISCENCE` | **unresolved** (review queue) |
-| `SHrps (Greeks)` | **unresolved** (review queue) |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
+| `SHrps (Greeks)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]] |
 
 ## Full OCR entry body (exact)
 

@@ -36,12 +36,12 @@ tags:
 | `Boar (serpent)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `CaDUCEUs` | **unresolved** (review queue) |
 | `Dracon` | **unresolved** (review queue) |
-| `NAASENE` | **candidate (first-segment only)** → possible `NAASENE, OR OPHITE` (not linked) |
-| `OPHIONETS` | **unresolved** (review queue) |
+| `NAASENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NAASENE, OR OPHITE|NAASENE, OR OPHITE]] |
+| `OPHIONETS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPHIONEUS, THE SERPENT|OPHIONEUS, THE SERPENT]] |
 | `ScorPIon` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCORPION|SCORPION]] |
-| `SEKER` | **unresolved** (review queue) |
-| `VITAL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
-| `VRITRA` | **unresolved** (review queue) |
+| `SEKER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKER OR SOKARIS|SEKER OR SOKARIS]] |
+| `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+| `VRITRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VRITRA DEMON|VRITRA DEMON]] |
 | `Wisponm` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

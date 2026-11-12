@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKERT` | **candidate (first-segment only)** → possible `AKERT, THE UNDERWORLD` (not linked) |
-| `BULL (man)` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `AKERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] |
+| `BULL (man)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]] |
 | `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
 | `LION` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |

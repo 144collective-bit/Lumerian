@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `FLAMES (twin)` | **candidate (first-segment only)** → possible `FLAMES, TWIN` (not linked) |
-| `GLass` | **candidate (first-segment only)** → possible `GLASS, OR CRYSTAL` (not linked) |
+| `FLAMES (twin)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FLAMES, TWIN|FLAMES, TWIN]] |
+| `GLass` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GLASS, OR CRYSTAL|GLASS, OR CRYSTAL]] |
 | `MAASEH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

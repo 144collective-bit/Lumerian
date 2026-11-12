@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GARMENTS` | **unresolved** (review queue) |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

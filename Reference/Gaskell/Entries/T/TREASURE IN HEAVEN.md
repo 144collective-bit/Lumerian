@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BONDAGE` | **unresolved** (review queue) |
-| `CAKE` | **candidate (first-segment only)** → possible `CAKE, SACRIFICIAL` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CHURNING` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
+| `CAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
 | `Herm` | **unresolved** (review queue) |
 | `Iwnprvipvvatrry` | **unresolved** (review queue) |
 | `Iwrorrion` | **unresolved** (review queue) |
@@ -44,7 +44,7 @@ tags:
 | `Poor PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `RIcH MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 
 ## Full OCR entry body (exact)
 

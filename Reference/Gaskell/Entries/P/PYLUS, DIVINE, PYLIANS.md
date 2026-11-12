@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `BEASTS (three sorts)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
 | `DyNastTres` | **unresolved** (review queue) |
 | `GREECE` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `Nestor` | **candidate (first-segment only)** → possible `NESTOR, THE SWEET-VOICED` (not linked) |
-| `Races` | **unresolved** (review queue) |
-| `RaGHa` | **unresolved** (review queue) |
-| `RoorT-RACES` | **unresolved** (review queue) |
+| `Nestor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NESTOR, THE SWEET-VOICED|NESTOR, THE SWEET-VOICED]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `RaGHa` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAGHA LAND|RAGHA LAND]] |
+| `RoorT-RACES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 
 ## Full OCR entry body (exact)
 

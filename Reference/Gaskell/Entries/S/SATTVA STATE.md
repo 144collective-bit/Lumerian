@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `GUNAS` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

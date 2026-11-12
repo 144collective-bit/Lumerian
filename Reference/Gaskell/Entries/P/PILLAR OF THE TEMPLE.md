@@ -39,10 +39,10 @@ tags:
 | `GOLDEN PILLar` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN PILLAR|GOLDEN PILLAR]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WAR. PILLARS OF THE LIGHT` | **unresolved** (review queue) |
 | `OR CURTAINS OF LIGHT` | **unresolved** (review queue) |
 

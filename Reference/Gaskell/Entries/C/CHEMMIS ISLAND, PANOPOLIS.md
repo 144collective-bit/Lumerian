@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrmrH oF HoRvS` | **unresolved** (review queue) |
-| `Buto` | **unresolved** (review queue) |
-| `DELOs` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `Buto` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUTO IN LOWER EGYPT|BUTO IN LOWER EGYPT]] |
+| `DELOs` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `Izanacl` | **unresolved** (review queue) |
 | `Manco` | **unresolved** (review queue) |
 | `Onocorosma` | **unresolved** (review queue) |

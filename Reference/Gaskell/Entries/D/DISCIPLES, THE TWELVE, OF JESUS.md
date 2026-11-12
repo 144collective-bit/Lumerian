@@ -34,37 +34,37 @@ tags:
 |---|---|
 | `ApitTyas_ (twelve)` | **unresolved** (review queue) |
 | `ASONS (twelve)` | **unresolved** (review queue) |
-| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
-| `ANTHROPOS` | **unresolved** (review queue) |
-| `APposTLES` | **unresolved** (review queue) |
+| `ANDREW` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] |
+| `ANTHROPOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] |
+| `APposTLES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
 | `BaPrrism` | **unresolved** (review queue) |
-| `BINDING` | **unresolved** (review queue) |
+| `BINDING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINDING AND LOOSING ON EARTH AND IN HEAVEN|BINDING AND LOOSING ON EARTH AND IN HEAVEN]] |
 | `BREASTPLAYE` | **unresolved** (review queue) |
-| `DANCE (circle)` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `DANCE (circle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] |
 | `FEEDING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 | `Germs` | **unresolved** (review queue) |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `HEROES` | **candidate (first-segment only)** → possible `HEROES, THE GREATEST OF THE DAY` (not linked) |
-| `JAMES` | **candidate (first-segment only)** → possible `JAMES, THE APOSTLE` (not linked) |
+| `HEROES` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
+| `JAMES` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JAMES, THE APOSTLE|JAMES, THE APOSTLE]] |
 | `JESUS OF THE GOSPELS` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESUS OF THE GOSPELS|JESUS OF THE GOSPELS]] |
-| `JOHN` | **unresolved** (review queue) |
+| `JOHN` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHN THE BAPTIST|JOHN THE BAPTIST]] |
 | `Jupas` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
 | `LIGHT-REALM` | **unresolved** (review queue) |
-| `NaTIons` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `NaTIons` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `Pap` | **unresolved** (review queue) |
-| `Saviouns (twelve)` | **unresolved** (review queue) |
+| `Saviouns (twelve)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `Sexr` | **unresolved** (review queue) |
-| `SPaRRows (twelve)` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
+| `SPaRRows (twelve)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Trrses (twelve)` | **unresolved** (review queue) |
 | `221 DISCIPLES Trintry` | **unresolved** (review queue) |
-| `TWELVE` | **candidate (ambiguous first-segment)** → TWELVE, NUMBER; TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN (not linked) |
-| `Urns (twelve)` | **candidate (first-segment only)** → possible `URNS, THE TWELVE` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+| `Urns (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

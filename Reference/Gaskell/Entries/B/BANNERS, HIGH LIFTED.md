@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BaKHDHI` | **unresolved** (review queue) |
+| `BaKHDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BAKHDHI THE BEAUTIFUL|BAKHDHI THE BEAUTIFUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -35,8 +35,8 @@ tags:
 | `Apoxtto` | **unresolved** (review queue) |
 | `BirrrwH OF HORUS` | **unresolved** (review queue) |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `GaTHA Days` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `GaTHA Days` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Wortups (five)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

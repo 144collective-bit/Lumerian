@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Davin` | **unresolved** (review queue) |
-| `GARMENTS` | **unresolved** (review queue) |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `Mrmaores (healing)` | **unresolved** (review queue) |
 | `Szzmxc` | **unresolved** (review queue) |
 | `Sieur` | **unresolved** (review queue) |

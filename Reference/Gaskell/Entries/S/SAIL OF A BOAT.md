@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Arr` | **unresolved** (review queue) |
 | `BOAT ON RIVER` | **unresolved** (review queue) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `Nor` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

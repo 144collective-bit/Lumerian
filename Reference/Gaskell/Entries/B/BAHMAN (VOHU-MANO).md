@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
 | `Bripa@E (kinvat)` | **unresolved** (review queue) |
-| `HIGH-PRIESTSHIP` | **unresolved** (review queue) |
+| `HIGH-PRIESTSHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIGH-PRIESTSHIP OF THE GLORIFIED ONE|HIGH-PRIESTSHIP OF THE GLORIFIED ONE]] |
 | `Maw (righteous)` | **unresolved** (review queue) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `VOHUMAN` | **candidate (ambiguous first-segment)** → VOHUMAN, OR VOHUMANO, THE GOOD MIND; VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR (not linked) |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
 
 ## Full OCR entry body (exact)
 

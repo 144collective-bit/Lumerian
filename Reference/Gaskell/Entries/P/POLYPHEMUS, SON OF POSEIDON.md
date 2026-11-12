@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cyciopses` | **unresolved** (review queue) |
-| `Fouat` | **unresolved** (review queue) |
+| `Fouat` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOHAT, OR WORLD OF AGNI|FOHAT, OR WORLD OF AGNI]] |
 | `Posemwon` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

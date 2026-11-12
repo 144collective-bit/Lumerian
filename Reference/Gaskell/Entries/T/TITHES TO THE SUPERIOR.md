@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BiEssine` | **unresolved** (review queue) |
-| `TRIBUTE` | **unresolved** (review queue) |
+| `TRIBUTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBUTE MONEY|TRIBUTE MONEY]] |
 
 ## Full OCR entry body (exact)
 

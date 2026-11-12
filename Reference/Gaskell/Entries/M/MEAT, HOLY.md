@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHEMOGHA` | **candidate (first-segment only)** → possible `ASHEMOGHA, THE UNGODLY` (not linked) |
-| `EatTING` | **unresolved** (review queue) |
-| `Mortar` | **unresolved** (review queue) |
+| `ASHEMOGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] |
+| `EatTING` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
+| `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 | `Woop (holy)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

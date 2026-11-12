@@ -35,12 +35,12 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `DEVAYANA FATHER` | **unresolved** (review queue) |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
-| `INCARNATIoN` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `Lost (forest)` | **unresolved** (review queue) |
-| `PatH (twofold)` | **candidate (first-segment only)** → possible `PATH, TWOFOLD` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `INCARNATIoN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
+| `PatH (twofold)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sout (middle)` | **unresolved** (review queue) |
-| `Works (path)` | **unresolved** (review queue) |
+| `Works (path)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
 
 ## Full OCR entry body (exact)
 

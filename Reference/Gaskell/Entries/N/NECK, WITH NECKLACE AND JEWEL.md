@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Anu` | **candidate (first-segment only)** → possible `ANU, GOD OF THE SKY` (not linked) |
+| `Anu` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANU, GOD OF THE SKY|ANU, GOD OF THE SKY]] |
 | `BrEt` | **unresolved** (review queue) |
 | `Brivecr` | **unresolved** (review queue) |
 | `GEM` | **unresolved** (review queue) |
 | `JEWELS` | **unresolved** (review queue) |
 | `Istvan` | **unresolved** (review queue) |
-| `NACHIKETAS` | **candidate (first-segment only)** → possible `NACHIKETAS, SON OF VAJASRAVASA` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `NACHIKETAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Amycus` | **candidate (first-segment only)** → possible `AMYCUS, KING OF BEBRYCIA` (not linked) |
-| `Asvins` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
+| `Amycus` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMYCUS, KING OF BEBRYCIA|AMYCUS, KING OF BEBRYCIA]] |
+| `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `Dioscunri` | **unresolved** (review queue) |
-| `Gemini` | **candidate (first-segment only)** → possible `GEMINI, THE ZODIACAL SIGN` (not linked) |
-| `HELEN` | **unresolved** (review queue) |
+| `Gemini` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 
 ## Full OCR entry body (exact)

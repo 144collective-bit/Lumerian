@@ -32,33 +32,33 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALMSGIVING` | **unresolved** (review queue) |
-| `ARMS` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `ALMSGIVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALMSGIVING OR CHARITY|ALMSGIVING OR CHARITY]] |
+| `ARMS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 | `AUSTERIts` | **unresolved** (review queue) |
 | `Brera (second)` | **unresolved** (review queue) |
 | `BRAHMANA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAHMANA|BRAHMANA]] |
 | `Cuanior` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `CATTLE Carrie` | **unresolved** (review queue) |
 | `CLassres` | **unresolved** (review queue) |
-| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `CULTIVATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]]; [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] |
 | `FEEr` | **unresolved** (review queue) |
 | `Hovssr (clan)` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
-| `KsHarrrya` | **unresolved** (review queue) |
+| `KsHarrrya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KSHATRIYA, OR MILITARY CASTE|KSHATRIYA, OR MILITARY CASTE]] |
 | `MarRIAGE (castes)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Mourn` | **unresolved** (review queue) |
 | `Puorvusna` | **unresolved** (review queue) |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `RaGaNnya` | **unresolved** (review queue) |
+| `RaGaNnya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAGANYA|RAGANYA]] |
 | `RvULERS (world)` | **unresolved** (review queue) |
-| `Sacririces` | **unresolved** (review queue) |
-| `SkanpHas` | **unresolved** (review queue) |
+| `Sacririces` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICES, BURNT|SACRIFICES, BURNT]] |
+| `SkanpHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]] |
 | `SvupRa` | **unresolved** (review queue) |
-| `THIGHS` | **unresolved** (review queue) |
-| `Vaisya` | **candidate (first-segment only)** → possible `VAISYA, OR THE AGRICULTURAL CASTE` (not linked) |
+| `THIGHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THIGHS OF BULLS AND GOATS|THIGHS OF BULLS AND GOATS]] |
+| `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VEDA` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -37,20 +37,20 @@ tags:
 | `Dovuas` | **unresolved** (review queue) |
 | `EAarTIna` | **unresolved** (review queue) |
 | `Freepine (five thousand)` | **unresolved** (review queue) |
-| `FLOuUR` | **unresolved** (review queue) |
+| `FLOuUR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FLOUR, FINE|FLOUR, FINE]] |
 | `Foop` | **unresolved** (review queue) |
-| `Host` | **candidate (first-segment only)** → possible `HOST, OR CONSECRATED WAFER` (not linked) |
+| `Host` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] |
 | `Kuaprr` | **unresolved** (review queue) |
 | `Manna` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANNA|MANNA]] |
-| `MEAL` | **candidate (first-segment only)** → possible `MEAL, OR WHEAT GROUND IN A MILL` (not linked) |
-| `PROcESSION` | **unresolved** (review queue) |
+| `MEAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] |
+| `PROcESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `SACRAMENTAL CAKES` | **unresolved** (review queue) |
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `STONES AND BREAD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
-| `UNLEAVENED` | **unresolved** (review queue) |
+| `UNLEAVENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNLEAVENED BREAD|UNLEAVENED BREAD]] |
 
 ## Full OCR entry body (exact)
 

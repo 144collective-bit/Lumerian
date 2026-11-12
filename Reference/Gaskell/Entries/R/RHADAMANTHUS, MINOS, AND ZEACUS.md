@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `TrraD` | **unresolved** (review queue) |
+| `TrraD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

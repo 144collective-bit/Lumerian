@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APES` | **unresolved** (review queue) |
+| `APES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
 | `BACKBONE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BACKBONE|BACKBONE]] |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `CROWN OF OSIRIS` | **unresolved** (review queue) |
-| `CRUCIFIXION OF CHRIST` | **candidate (first-segment only)** → possible `CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN` (not linked) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `DEATH OF osIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `Disk` | **candidate (first-segment only)** → possible `DISK, WINGED SUN-` (not linked) |
+| `Disk` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISK, WINGED SUN-|DISK, WINGED SUN-]] |
 | `East` | **unresolved** (review queue) |
-| `Four` | **candidate (first-segment only)** → possible `FOUR, NUMBER` (not linked) |
+| `Four` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `Horns` | **candidate (first-segment only)** → possible `HORNS, TEN, OF THE DRAGON` (not linked) |
+| `Horns` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]]; [[Reference/Gaskell/Entries/H/HORNS OF THE GOD|HORNS OF THE GOD]]; [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `Hovuss (four doors)` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
@@ -51,20 +51,20 @@ tags:
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `Neputuys` | **unresolved** (review queue) |
 | `Osrris` | **unresolved** (review queue) |
-| `PILLARS (four)` | **candidate (ambiguous first-segment)** → PILLARS, FOUR, OF SHU; PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN (not linked) |
+| `PILLARS (four)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]]; [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] |
 | `PLomMEs` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SUTRATMA` | **unresolved** (review queue) |
 | `Tatru` | **unresolved** (review queue) |
-| `TEE` | **candidate (first-segment only)** → possible `TEE, APEX ORNAMENT` (not linked) |
-| `TREASURE` | **unresolved** (review queue) |
+| `TEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEE, APEX ORNAMENT|TEE, APEX ORNAMENT]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `UNDERWORLD` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `URAEI` | **candidate (first-segment only)** → possible `URAEI, SERPENT EMBLEMS` (not linked) |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `URAEI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URAEI, SERPENT EMBLEMS|URAEI, SERPENT EMBLEMS]] |
 | `Vicrory` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

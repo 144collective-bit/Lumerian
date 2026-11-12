@@ -35,9 +35,9 @@ tags:
 | `Duerra` | **unresolved** (review queue) |
 | `Dxrista` | **unresolved** (review queue) |
 | `Drona` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRONA|DRONA]] |
-| `Karna` | **candidate (first-segment only)** → possible `KARNA, SON OF THE SUN AND PRITHA` (not linked) |
-| `Mara` | **candidate (first-segment only)** → possible `MARA, THE TEMPTER` (not linked) |
-| `PANDAVAS` | **candidate (first-segment only)** → possible `PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU` (not linked) |
+| `Karna` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KARNA, SON OF THE SUN AND PRITHA|KARNA, SON OF THE SUN AND PRITHA]] |
+| `Mara` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
+| `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 
 ## Full OCR entry body (exact)
 

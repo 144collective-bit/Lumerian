@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BonES` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
-| `FLAYING OF MAN` | **unresolved** (review queue) |
+| `BonES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
+| `FLAYING OF MAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FLAYING OF MAN AND PUTTING HIS SKIN ON COW|FLAYING OF MAN AND PUTTING HIS SKIN ON COW]] |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
-| `JoB` | **unresolved** (review queue) |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 
 ## Full OCR entry body (exact)

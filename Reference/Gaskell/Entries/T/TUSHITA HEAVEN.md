@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
-| `PHANT (white)` | **unresolved** (review queue) |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `PHANT (white)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
 | `Monap` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

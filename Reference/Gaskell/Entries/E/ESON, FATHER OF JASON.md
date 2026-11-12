@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CRETHEUS` | **candidate (first-segment only)** → possible `CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS` (not linked) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `CRETHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS|CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 
 ## Full OCR entry body (exact)
 

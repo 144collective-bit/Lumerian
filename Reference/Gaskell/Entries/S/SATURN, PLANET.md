@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cronus` | **unresolved** (review queue) |
-| `JUDAS` | **unresolved** (review queue) |
-| `JUPITER` | **candidate (first-segment only)** → possible `JUPITER, PLANET, (TISHTAR)` (not linked) |
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
+| `JUPITER` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUPITER, PLANET, (TISHTAR)|JUPITER, PLANET, (TISHTAR)]] |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Baptism` | **unresolved** (review queue) |
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
+| `Baptism` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]]; [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `CEREMONIES` | **unresolved** (review queue) |
-| `DisciPpLEs` | **unresolved** (review queue) |
+| `DisciPpLEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `Foop` | **unresolved** (review queue) |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `HeERop` | **unresolved** (review queue) |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
-| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+| `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
-| `PrRopHETs (false)` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
+| `PrRopHETs (false)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROPHETS, FALSE|PROPHETS, FALSE]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `RELIGIONS` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
-| `TAUROBOLIUM` | **candidate (first-segment only)** → possible `TAUROBOLIUM, MITHRAIC RITE` (not linked) |
-| `WORSHIP (wood)` | **unresolved** (review queue) |
+| `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
+| `WORSHIP (wood)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Buripers` | **unresolved** (review queue) |
-| `Fienps` | **unresolved** (review queue) |
+| `Fienps` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIENDS, OR DEMONS|FIENDS, OR DEMONS]] |
 | `Lorps 215 DEVAYANA (material)` | **unresolved** (review queue) |
 | `Nartaps` | **unresolved** (review queue) |
-| `SALAMANDERS` | **candidate (first-segment only)** → possible `SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE` (not linked) |
+| `SALAMANDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALAMANDERS AND SYLPHS|SALAMANDERS AND SYLPHS]]; [[Reference/Gaskell/Entries/S/SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE|SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE]] |
 | `PraH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

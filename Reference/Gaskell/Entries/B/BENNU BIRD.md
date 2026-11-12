@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABTU` | **unresolved** (review queue) |
-| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `ABTU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ABTU FISH, OR ANT FISH|ABTU FISH, OR ANT FISH]] |
+| `Hawk` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `Kansuipra` | **unresolved** (review queue) |
 | `MornING sTaR` | **unresolved** (review queue) |
-| `MoBROW` | **unresolved** (review queue) |
-| `PHANG` | **candidate (first-segment only)** → possible `PHANG, THE GREAT BIRD` (not linked) |
+| `MoBROW` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORROW, OR NEXT DAY|MORROW, OR NEXT DAY]] |
+| `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
 | `PHOENIX` | **unresolved** (review queue) |
 | `Sons or cop` | **unresolved** (review queue) |
 | `Strives` | **unresolved** (review queue) |

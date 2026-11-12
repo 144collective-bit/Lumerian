@@ -35,13 +35,13 @@ tags:
 | `BirtTH oF HORUS` | **unresolved** (review queue) |
 | `Disx` | **unresolved** (review queue) |
 | `Epruv` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Isis` | **unresolved** (review queue) |
-| `Son or Gop` | **unresolved** (review queue) |
+| `Son or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Son or MAN` | **unresolved** (review queue) |
-| `SUN-DISK` | **candidate (first-segment only)** → possible `SUN-DISK, WINGED` (not linked) |
-| `THoTH` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `SUN-DISK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN-DISK, WINGED|SUN-DISK, WINGED]] |
+| `THoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALARAMA` | **unresolved** (review queue) |
+| `BALARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
 | `BLANDISHMENTS` | **unresolved** (review queue) |
-| `CraTER` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DRUNKARD` | **unresolved** (review queue) |
-| `Grapes` | **candidate (first-segment only)** → possible `GRAPES, OR WINE` (not linked) |
-| `HusBpaNDMAN` | **unresolved** (review queue) |
+| `CraTER` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DRUNKARD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DRUNKARD ON WINE OR SOMAJUICE|DRUNKARD ON WINE OR SOMAJUICE]] |
+| `Grapes` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
+| `HusBpaNDMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `SATYRS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WINE` | **unresolved** (review queue) |
 

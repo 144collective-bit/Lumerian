@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `HEIGHT OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
-| `Stem` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `Stem` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

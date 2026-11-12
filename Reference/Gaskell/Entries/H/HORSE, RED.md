@@ -34,17 +34,17 @@ tags:
 |---|---|
 | `Aani` | **unresolved** (review queue) |
 | `Cioups` | **unresolved** (review queue) |
-| `Cows` | **unresolved** (review queue) |
-| `INDRA` | **candidate (first-segment only)** → possible `INDRA, THE THOUSAND-EYED` (not linked) |
+| `Cows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COWS OF APOLLO|COWS OF APOLLO]] |
+| `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
 | `Tnrs` | **unresolved** (review queue) |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
-| `PrayrR` | **unresolved** (review queue) |
-| `RED` | **candidate (first-segment only)** → possible `RED, ROSE, COLOUR` (not linked) |
+| `PrayrR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
+| `RED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RED COLOUR|RED COLOUR]]; [[Reference/Gaskell/Entries/R/RED FIRES|RED FIRES]]; [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
-| `Tistrya` | **unresolved** (review queue) |
+| `Tistrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

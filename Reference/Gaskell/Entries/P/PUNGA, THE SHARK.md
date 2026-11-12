@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DotpHiIn` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
-| `IKA-TERE` | **candidate (first-segment only)** → possible `IKA-TERE, THE FATHER OF FISH` (not linked) |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
+| `IKA-TERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IKA-TERE, THE FATHER OF FISH|IKA-TERE, THE FATHER OF FISH]] |
 | `Jxsus (fish)` | **unresolved** (review queue) |
 | `Ranoei` | **unresolved** (review queue) |
 | `Sout (middle)` | **unresolved** (review queue) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 | `TUTE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

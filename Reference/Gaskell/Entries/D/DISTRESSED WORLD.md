@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Boat OF wispoMm` | **unresolved** (review queue) |
+| `Boat OF wispoMm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOAT OF WISDOM|BOAT OF WISDOM]] |
 | `LION-GaIT. DIVORCE .— A symbol of an apparent or delusive separation of Love from Wisdom` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Emotion from Reason` | **unresolved** (review queue) |
 | `Goodness from Truth; for these pairs are indissolubly united by Divine law. *‘Have ye not read that he which made them from the beginning made them male and female` | **unresolved** (prose-bleed / overlong token; not linked) |

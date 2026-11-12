@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
-| `ASTOVIDAD` | **candidate (first-segment only)** → possible `ASTOVIDAD, HOTU` (not linked) |
-| `BorTOMLESS PIT` | **unresolved** (review queue) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
+| `ASTOVIDAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASTOVIDAD, HOTU|ASTOVIDAD, HOTU]] |
+| `BorTOMLESS PIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOTTOMLESS PIT|BOTTOMLESS PIT]] |
 | `Bripcr` | **unresolved** (review queue) |
 | `Devitt` | **unresolved** (review queue) |
 | `DrVOURER` | **unresolved** (review queue) |

@@ -40,7 +40,7 @@ tags:
 | `Mitk` | **unresolved** (review queue) |
 | `OIL` | **unresolved** (review queue) |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
-| `OLIVE` | **unresolved** (review queue) |
+| `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 
 ## Full OCR entry body (exact)
 

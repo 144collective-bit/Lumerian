@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CREEPING THINGS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] |
-| `PAIRIKA` | **unresolved** (review queue) |
-| `QEN-QUENTET` | **unresolved** (review queue) |
+| `PAIRIKA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAIRIKA AS STAR-WORMS|PAIRIKA AS STAR-WORMS]]; [[Reference/Gaskell/Entries/P/PAIRIKA KNATHAITI|PAIRIKA KNATHAITI]] |
+| `QEN-QUENTET` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QEN-QENTET, A POOL OF SEKHET-HETEPET|QEN-QENTET, A POOL OF SEKHET-HETEPET]] |
 
 ## Full OCR entry body (exact)
 

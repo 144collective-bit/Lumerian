@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `Butt (man-headed)` | **unresolved** (review queue) |
-| `EaGtE` | **unresolved** (review queue) |
+| `EaGtE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EAGLE|EAGLE]] |
 | `Lion` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |

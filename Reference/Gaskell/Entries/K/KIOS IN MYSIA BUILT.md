@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
-| `VANAR` | **unresolved** (review queue) |
-| `VIBHISHANA` | **candidate (first-segment only)** → possible `VIBHISHANA, RAVANA` (not linked) |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+| `VANAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VANAR PEOPLE|VANAR PEOPLE]] |
+| `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 
 ## Full OCR entry body (exact)
 

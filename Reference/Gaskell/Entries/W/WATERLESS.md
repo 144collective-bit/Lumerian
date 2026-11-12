@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `DEartTH` | **unresolved** (review queue) |
 | `DEVASTATION` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVASTATION|DEVASTATION]] |
-| `Dry` | **unresolved** (review queue) |
+| `Dry` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DRY AND MOIST|DRY AND MOIST]]; [[Reference/Gaskell/Entries/D/DRY-BACKED THROUGH THE DAEVAS|DRY-BACKED THROUGH THE DAEVAS]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
 
 ## Full OCR entry body (exact)

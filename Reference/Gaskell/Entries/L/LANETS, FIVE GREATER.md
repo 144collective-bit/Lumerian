@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `BuDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `BuDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `Crry` | **unresolved** (review queue) |
 | `East` | **unresolved** (review queue) |
-| `HeRMEs` | **unresolved** (review queue) |
-| `JUPITER` | **candidate (first-segment only)** → possible `JUPITER, PLANET, (TISHTAR)` (not linked) |
-| `Mars` | **candidate (first-segment only)** → possible `MARS, THE PLANET` (not linked) |
+| `HeRMEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `JUPITER` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUPITER, PLANET, (TISHTAR)|JUPITER, PLANET, (TISHTAR)]] |
+| `Mars` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARS, THE PLANET|MARS, THE PLANET]] |
 | `MERCURY` | **unresolved** (review queue) |
 | `Wesco` | **unresolved** (review queue) |
 | `Nortu` | **unresolved** (review queue) |
-| `SATURN` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
-| `STags (fixed)` | **unresolved** (review queue) |
+| `SATURN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
+| `STags (fixed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 | `Cistrya` | **unresolved** (review queue) |
-| `VENUs` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
-| `WEST` | **unresolved** (review queue) |
+| `VENUs` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
+| `WEST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEST QUARTER|WEST QUARTER]] |
 
 ## Full OCR entry body (exact)
 

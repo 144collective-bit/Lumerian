@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `LOKE` | **unresolved** (review queue) |
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
-| `NEPHTHYS` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
-| `THOCK` | **candidate (first-segment only)** → possible `THOCK,—A GIANTESS` (not linked) |
+| `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
+| `THOCK` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOCK,-A GIANTESS|THOCK,—A GIANTESS]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Dwetiine` | **unresolved** (review queue) |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `Kaasa` | **unresolved** (review queue) |
+| `Kaasa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `Onoacorosma` | **unresolved** (review queue) |
-| `STUPA` | **candidate (first-segment only)** → possible `STUPA, MARVELLOUS, OF BUDDHA` (not linked) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `STUPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

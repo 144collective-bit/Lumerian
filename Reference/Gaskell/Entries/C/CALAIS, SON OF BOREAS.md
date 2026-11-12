@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Boreas` | **candidate (first-segment only)** → possible `BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS` (not linked) |
+| `Boreas` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 
 ## Full OCR entry body (exact)

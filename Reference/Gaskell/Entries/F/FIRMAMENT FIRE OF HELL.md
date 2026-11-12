@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTARTE` | **candidate (first-segment only)** → possible `ASTARTE, GODDESS OR QUEEN` (not linked) |
+| `ASTARTE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASTARTE, GODDESS OR QUEEN|ASTARTE, GODDESS OR QUEEN]] |
 | `COLUMN` | **unresolved** (review queue) |
-| `Fan` | **candidate (first-segment only)** → possible `FAN, PRODUCING WIND` (not linked) |
+| `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
 | `FURNACE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
 | `Haprs` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `IMMORTALITY` | **unresolved** (review queue) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `IMMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
 | `Isis` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 

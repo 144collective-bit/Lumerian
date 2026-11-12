@@ -35,7 +35,7 @@ tags:
 | `AuTaR (fire)` | **unresolved** (review queue) |
 | `ASHADHA` | **unresolved** (review queue) |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
-| `DURVA-BRICK` | **candidate (first-segment only)** → possible `DURVA-BRICK, OF THE ALTAR` (not linked) |
+| `DURVA-BRICK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DURVA-BRICK, OF THE ALTAR|DURVA-BRICK, OF THE ALTAR]] |
 | `DvryaGuSs-BRICE` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |

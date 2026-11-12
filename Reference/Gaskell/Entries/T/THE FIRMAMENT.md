@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ALon` | **unresolved** (review queue) |
 | `Arm` | **unresolved** (review queue) |
-| `ATLAS` | **candidate (first-segment only)** → possible `ATLAS, THE HEAVEN-BEARER` (not linked) |
+| `ATLAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATLAS, THE HEAVEN-BEARER|ATLAS, THE HEAVEN-BEARER]] |
 | `FATHER` | **unresolved** (review queue) |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `Moon` | **unresolved** (review queue) |
-| `Moon (lower)` | **unresolved** (review queue) |
+| `Moon (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]] |
 | `Prreis (lunar)` | **unresolved** (review queue) |
-| `SHINATSU` | **unresolved** (review queue) |
+| `SHINATSU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINATSU-HIKO, WIND-GOD|SHINATSU-HIKO, WIND-GOD]] |
 
 ## Full OCR entry body (exact)
 

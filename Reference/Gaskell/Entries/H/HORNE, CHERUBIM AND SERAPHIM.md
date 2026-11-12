@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (test.)` | **unresolved** (review queue) |
-| `BORN AGAIN` | **candidate (first-segment only)** → possible `BORN AGAIN, OR FROM ABOVE` (not linked) |
-| `DoorKEEPERS` | **candidate (first-segment only)** → possible `DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN` (not linked) |
+| `ARK (test.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `BORN AGAIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]] |
+| `DoorKEEPERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN|DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN]] |
 | `East` | **unresolved** (review queue) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `FALL` | **unresolved** (review queue) |
-| `FLAME` | **unresolved** (review queue) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
+| `FLAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLAME OF A SWORD|FLAME OF A SWORD]] |
 | `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `SxRapHig` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `Srarorgz` | **unresolved** (review queue) |
-| `Scrtur` | **unresolved** (review queue) |
+| `Scrtur` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURTUR|SURTUR]] |
 | `Sworp` | **unresolved** (review queue) |
 | `TREE or LIFE` | **unresolved** (review queue) |
 

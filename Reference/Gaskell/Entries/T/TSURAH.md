@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `BuppgI` | **unresolved** (review queue) |
-| `MANAS` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `MANAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `PYRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
 | `TRIAD. TRIDENT` | **unresolved** (review queue) |
 | `TRINITY` | **unresolved** (review queue) |
-| `WITNESSES (three)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (three)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, ON EARTH|WITNESSES, THREE, ON EARTH]]; [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

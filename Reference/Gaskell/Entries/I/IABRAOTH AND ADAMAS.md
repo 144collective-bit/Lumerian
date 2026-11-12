@@ -35,16 +35,16 @@ tags:
 | `ApaMas (lower)` | **unresolved** (review queue) |
 | `Acons (twelve)` | **unresolved** (review queue) |
 | `Evo.LuTion` | **unresolved** (review queue) |
-| `FisH` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `Hour (mid-day)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
 | `I E OU` | **unresolved** (review queue) |
 | `Invorvurion` | **unresolved** (review queue) |
 | `Lrpra` | **unresolved** (review queue) |
 | `Lieut` | **unresolved** (review queue) |
-| `Mysteries` | **unresolved** (review queue) |
-| `Pisces` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
+| `Mysteries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYSTERIES OF LIGHT|MYSTERIES OF LIGHT]] |
+| `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `ZODIAC. “T AM”? :— A symbol of the self-conscious ‘“‘I"? of the Self` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `reflected on the plane of the mind as the individuality enthroned in the causal vehicle. ** For ‘I am’ is my rest in His seasons ; even he who when He manifesta His pe the Company of the Gods become is firstborn children.”—Book of the Dead` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Ch. CX. (trans. Blackden). The ‘“‘I am” is the true Individuality which is arrived at only as the cycles (seasons) are seen to be illusory and impermanent. The Individuality persists ; for even the Logos` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -55,16 +55,16 @@ tags:
 | `’’ 379 sey AM *! that is` | **unresolved** (review queue) |
 | `come forth first in order to do his will. (The “I am I” feeling is produced through the forthpouring of the Divine life-consciousness into the forms which are temporary conditions and set limits for a time to the consciousness. The consciousness itself is one` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `but in the forms it appears as many. The apparent breaks are due to the illusory limits of the forms.) See AHANKARA` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `APES` | **unresolved** (review queue) |
+| `APES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
-| `BUILDERS` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `BUILDERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUILDERS OF THE UNIVERSE|BUILDERS OF THE UNIVERSE]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `COMPANY (gods)` | **unresolved** (review queue) |
-| `CoNscrousNEss` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `Creation` | **unresolved** (review queue) |
-| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
+| `CoNscrousNEss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `Creation` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `Devas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
 | `InprvipvuALITY` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |

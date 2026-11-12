@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Army` | **unresolved** (review queue) |
-| `GALE` | **unresolved** (review queue) |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `Army` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY|ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY]]; [[Reference/Gaskell/Entries/A/ARMY OF THE GODS, OR HOSTS OF THE LORD|ARMY OF THE GODS, OR HOSTS OF THE LORD]] |
+| `GALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GALE FROM APOLLO|GALE FROM APOLLO]] |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 
 ## Full OCR entry body (exact)
 

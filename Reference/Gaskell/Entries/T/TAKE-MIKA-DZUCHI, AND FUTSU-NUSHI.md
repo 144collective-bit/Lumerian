@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BATTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
-| `ConFLICT` | **unresolved** (review queue) |
+| `ConFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `INsIGNIA` | **unresolved** (review queue) |
-| `Kurus` | **candidate (first-segment only)** → possible `KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA` (not linked) |
-| `MEAOU TRIBES` | **unresolved** (review queue) |
+| `Kurus` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
+| `MEAOU TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEAOU TRIBES OF CHINA|MEAOU TRIBES OF CHINA]] |
 | `SHINTAI` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 | `SWORD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
 | `Vicrory` | **unresolved** (review queue) |
 | `Wak` | **unresolved** (review queue) |

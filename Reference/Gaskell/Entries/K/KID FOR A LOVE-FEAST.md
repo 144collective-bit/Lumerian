@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Fairu` | **unresolved** (review queue) |
 | `FATreD CALF` | **unresolved** (review queue) |
-| `FEAST` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
+| `FEAST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 

@@ -33,31 +33,31 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApDAMAS` | **unresolved** (review queue) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `CADUCEUS` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Darmons` | **unresolved** (review queue) |
 | `Exopvus` | **unresolved** (review queue) |
 | `Grrp_z` | **unresolved** (review queue) |
 | `Horst` | **unresolved** (review queue) |
 | `Hovsr` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
-| `INTELLect` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INTELLect` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `Inrorrion` | **unresolved** (review queue) |
 | `Ins` | **unresolved** (review queue) |
 | `Maar` | **unresolved** (review queue) |
-| `MounTAIN` | **unresolved** (review queue) |
-| `NARADA` | **candidate (first-segment only)** → possible `NARADA, THE GREAT RISHI` (not linked) |
+| `MounTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `NARADA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NARADA, THE GREAT RISHI|NARADA, THE GREAT RISHI]] |
 | `NEBO` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEBO|NEBO]] |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SHINATSU` | **unresolved** (review queue) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SHINATSU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINATSU-HIKO, WIND-GOD|SHINATSU-HIKO, WIND-GOD]] |
 | `Stan IN EAST` | **unresolved** (review queue) |
-| `THIEVES` | **candidate (first-segment only)** → possible `THIEVES, THE FIVE` (not linked) |
+| `THIEVES` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]] |
 | `THOR` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
-| `THOTH` | **unresolved** (review queue) |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
-| `VIRGIN MARY` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

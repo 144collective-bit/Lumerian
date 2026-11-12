@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIHOTRA` | **unresolved** (review queue) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
 | `CHILDREN OF EAST` | **unresolved** (review queue) |
 | `CurisT` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `GATE (tchesert)` | **unresolved** (review queue) |
-| `Horisons` | **unresolved** (review queue) |
-| `JOB` | **unresolved** (review queue) |
-| `MaGi` | **unresolved** (review queue) |
-| `QUARTERS` | **unresolved** (review queue) |
-| `QUETZALCOATL` | **unresolved** (review queue) |
-| `SHINAR` | **unresolved** (review queue) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `GATE (tchesert)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `Horisons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `MaGi` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAGI FROM THE EAST|MAGI FROM THE EAST]] |
+| `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+| `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
+| `SHINAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHINAR LAND|SHINAR LAND]] |
 | `STAR IN EAST` | **unresolved** (review queue) |
 | `SuN-RISING` | **unresolved** (review queue) |
 

@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrrTH OF HORUS` | **unresolved** (review queue) |
-| `MARSH` | **unresolved** (review queue) |
-| `PEACHES` | **unresolved** (review queue) |
+| `MARSH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] |
+| `PEACHES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PEACHES OF IZANAGI, THREE|PEACHES OF IZANAGI, THREE]] |
 | `REED PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
-| `Union (reeds). GARDEN OF _` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+| `Union (reeds). GARDEN OF _` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

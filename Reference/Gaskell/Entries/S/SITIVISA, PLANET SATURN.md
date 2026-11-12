@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `SATURN` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
+| `SATURN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 
 ## Full OCR entry body (exact)
 

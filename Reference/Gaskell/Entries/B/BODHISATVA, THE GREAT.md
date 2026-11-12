@@ -35,13 +35,13 @@ tags:
 | `AVALOKITESVARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AVALOKITESVARA|AVALOKITESVARA]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `BuppHA` | **unresolved** (review queue) |
-| `CAVF OF NANDA` | **unresolved** (review queue) |
-| `CONCEPTION` | **unresolved** (review queue) |
+| `CAVF OF NANDA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]] |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `CRANBERRY. E.LEPHANT (sacred)` | **unresolved** (review queue) |
-| `FirsT-BORN SON` | **unresolved** (review queue) |
-| `HiRanyaGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `FirsT-BORN SON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
+| `HiRanyaGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `Insianta` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Monap` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `TussiTa` | **unresolved** (review queue) |

@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CLus` | **unresolved** (review queue) |
 | `Harm (side-lock)` | **unresolved** (review queue) |
-| `NrryoSaNG` | **unresolved** (review queue) |
+| `NrryoSaNG` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `SERPENT (svara)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

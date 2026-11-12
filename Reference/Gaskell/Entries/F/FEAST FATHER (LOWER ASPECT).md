@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Deap (burying)` | **unresolved** (review queue) |
-| `JEsus (severe)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `PARENTS` | **unresolved** (review queue) |
+| `JEsus (severe)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JESUS, DESCRIBED AS SEVERE AND TURBULENT|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] |
+| `PARENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
 | `SHASPA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

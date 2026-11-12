@@ -35,15 +35,15 @@ tags:
 | `BonpDaGE` | **unresolved** (review queue) |
 | `GosHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
 | `HEmzs` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Licut` | **unresolved** (review queue) |
 | `Lorus` | **unresolved** (review queue) |
-| `Marro` | **unresolved** (review queue) |
+| `Marro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `Rv` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEKER` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `Soma` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `SEKER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKER OR SOKARIS|SEKER OR SOKARIS]] |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `Soma` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 
 ## Full OCR entry body (exact)

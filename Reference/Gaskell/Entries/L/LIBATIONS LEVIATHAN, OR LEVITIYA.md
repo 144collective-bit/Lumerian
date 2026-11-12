@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEHEMOTH` | **candidate (first-segment only)** → possible `BEHEMOTH, THE GREAT BULL` (not linked) |
+| `BEHEMOTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEHEMOTH, THE GREAT BULL|BEHEMOTH, THE GREAT BULL]] |
 | `CAPRICORNTS` | **unresolved** (review queue) |
 | `Crrotz` | **unresolved** (review queue) |
 | `CrocoprmE` | **unresolved** (review queue) |
 | `Hrap` | **unresolved** (review queue) |
 | `He` | **unresolved** (review queue) |
-| `Kawan` | **unresolved** (review queue) |
+| `Kawan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
 | `MANvANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `NECE` | **unresolved** (review queue) |
 | `Ockan` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `SERPENT (anants)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sian` | **unresolved** (review queue) |
-| `WHALE (Jonah)` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `WHALE (Jonah)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

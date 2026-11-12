@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DANCES` | **unresolved** (review queue) |
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `FATreD` | **unresolved** (review queue) |
-| `FEast` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
+| `FEast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `Husks` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSKS|HUSKS]] |
-| `PRODIGAL` | **unresolved** (review queue) |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
 
 ## Full OCR entry body (exact)
 

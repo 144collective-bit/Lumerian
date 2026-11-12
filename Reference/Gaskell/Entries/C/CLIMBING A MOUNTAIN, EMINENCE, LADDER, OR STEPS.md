@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Goat (he)` | **candidate (ambiguous first-segment)** → GOAT, MILCH; GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED (not linked) |
+| `Goat (he)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]] |
 | `LappER` | **unresolved** (review queue) |
-| `MOUNTAIN` | **unresolved** (review queue) |
-| `StarrcasE` | **unresolved** (review queue) |
+| `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `StarrcasE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
 | `STEPs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 
 ## Full OCR entry body (exact)

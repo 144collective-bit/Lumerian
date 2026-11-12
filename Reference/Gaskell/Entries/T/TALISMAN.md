@@ -35,7 +35,7 @@ tags:
 | `AMULET` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Macio` | **unresolved** (review queue) |
-| `SUN-DISK` | **candidate (first-segment only)** → possible `SUN-DISK, WINGED` (not linked) |
+| `SUN-DISK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN-DISK, WINGED|SUN-DISK, WINGED]] |
 
 ## Full OCR entry body (exact)
 

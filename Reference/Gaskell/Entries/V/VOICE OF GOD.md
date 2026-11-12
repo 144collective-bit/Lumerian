@@ -36,27 +36,27 @@ tags:
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
-| `Ear` | **unresolved** (review queue) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
+| `Ear` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EAR EAR, OR HEARING|EAR EAR, OR HEARING]] |
 | `EvouutTion` | **unresolved** (review queue) |
-| `Exite` | **unresolved** (review queue) |
+| `Exite` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EXILE|EXILE]] |
 | `FAtTHer` | **unresolved** (review queue) |
-| `Feast` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
-| `Hecatoms` | **unresolved** (review queue) |
+| `Feast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
+| `Hecatoms` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `Hipine` | **unresolved** (review queue) |
 | `InprvipvuALITY` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Jos` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `NoIsE` | **candidate (first-segment only)** → possible `NOISE, SOUND` (not linked) |
-| `REDEEMER` | **unresolved** (review queue) |
+| `NoIsE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NOISE, SOUND|NOISE, SOUND]] |
+| `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
-| `SOUND` | **candidate (first-segment only)** → possible `SOUND, OR VOICE` (not linked) |
-| `Supper` | **candidate (first-segment only)** → possible `SUPPER, LAST` (not linked) |
-| `THRONE` | **unresolved** (review queue) |
-| `THUNDER` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `SOUND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
+| `Supper` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUPPER, LAST|SUPPER, LAST]] |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+| `THUNDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THUNDER OF GOD OR HEAVEN|THUNDER OF GOD OR HEAVEN]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 
 ## Full OCR entry body (exact)
 

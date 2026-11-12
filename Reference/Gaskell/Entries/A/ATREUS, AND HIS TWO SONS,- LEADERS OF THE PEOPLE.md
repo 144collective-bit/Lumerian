@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `CHRYSES` | **unresolved** (review queue) |
-| `GREEKS` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `MENELAUS` | **unresolved** (review queue) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `CHRYSES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
+| `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `MENELAUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MENELAUS MENELAUS, SON OF ATREUS|MENELAUS MENELAUS, SON OF ATREUS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
-| `TYRANT` | **candidate (first-segment only)** → possible `TYRANT, WICKED` (not linked) |
+| `TYRANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANT, WICKED|TYRANT, WICKED]] |
 
 ## Full OCR entry body (exact)
 

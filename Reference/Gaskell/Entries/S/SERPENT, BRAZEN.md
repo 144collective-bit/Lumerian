@@ -33,11 +33,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Brass` | **candidate (first-segment only)** → possible `BRASS, BRONZE, METAL` (not linked) |
+| `Brass` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `Mretayts` | **unresolved** (review queue) |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Son or MAN` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

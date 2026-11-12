@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ass (colt)` | **candidate (first-segment only)** → possible `ASS, OR MULE` (not linked) |
+| `Ass (colt)` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASS, OR MULE|ASS, OR MULE]] |
 | `Crry` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

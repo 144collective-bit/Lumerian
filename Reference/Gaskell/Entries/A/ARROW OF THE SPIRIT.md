@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APoLto` | **unresolved** (review queue) |
+| `APoLto` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `ARGIVES` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGIVES|ARGIVES]] |
 | `Om` | **unresolved** (review queue) |
 | `PrEstiLENCE` | **unresolved** (review queue) |

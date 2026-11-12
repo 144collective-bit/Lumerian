@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CatapHas` | **unresolved** (review queue) |
-| `GABBATHA` | **candidate (first-segment only)** → possible `GABBATHA, THE PAVEMENT` (not linked) |
-| `PILATE` | **candidate (first-segment only)** → possible `PILATE, PONTIUS` (not linked) |
+| `CatapHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
+| `GABBATHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GABBATHA, THE PAVEMENT|GABBATHA, THE PAVEMENT]] |
+| `PILATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `Priests AND ELDERS` | **unresolved** (review queue) |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `TRL` | **unresolved** (review queue) |

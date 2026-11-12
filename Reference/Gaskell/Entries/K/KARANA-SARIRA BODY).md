@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CavusaL-Bopy` | **unresolved** (review queue) |
-| `Lineam` | **unresolved** (review queue) |
-| `MaHavina-PoT` | **unresolved** (review queue) |
+| `Lineam` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LINGAM, THE SUBTILE BODY|LINGAM, THE SUBTILE BODY]] |
+| `MaHavina-PoT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] |
 | `SaAHU` | **unresolved** (review queue) |
-| `SAMKHARA` | **unresolved** (review queue) |
+| `SAMKHARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAMKHARA OR SANKHARA|SAMKHARA OR SANKHARA]] |
 | `SHINTAI` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `Sov. (middle)` | **unresolved** (review queue) |
-| `StHuLa` | **unresolved** (review queue) |
+| `StHuLa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STHULA-SARIRA, GROSS -BODY|STHULA-SARIRA, GROSS -BODY]] |
 | `VESTURES. (CAUSALKARMA The law of causation and interaction between the higher and lower planes to bring about equilibrium between them and gradually raise the soul. It binds the lower Self to the Higher` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and arises through the union of the will with knowledge of a moral standard involving choice. It estimates the experience of the ego and is expressed in effects (treasure in heaven) on the buddhic plane. It relates to the process underlying spiritual evolution and adjustment upon the higher planes. As the soul goes forth into the life of experience` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `KARNA so upon each succeeding level the account is squared` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -73,32 +73,32 @@ tags:
 | `He must be a comforting and guiding light or a consuming fire— one or the other—to every soul.’’— Puiiuies Brooxs` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Serm.` | **unresolved** (review queue) |
 | `An Evil Spirit from the Lord. See ADRASTIA` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BALANCE` | **unresolved** (review queue) |
-| `BHISMA` | **candidate (first-segment only)** → possible `BHISMA, SANTANAVA, THE TERRIBLE` (not linked) |
-| `BINDING` | **unresolved** (review queue) |
+| `BALANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] |
+| `BHISMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BHISMA, SANTANAVA, THE TERRIBLE|BHISMA, SANTANAVA, THE TERRIBLE]] |
+| `BINDING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BINDING AND LOOSING ON EARTH AND IN HEAVEN|BINDING AND LOOSING ON EARTH AND IN HEAVEN]] |
 | `Bripa@er (kinvat)` | **unresolved** (review queue) |
-| `DISEASES` | **candidate (first-segment only)** → possible `DISEASES, WASTING PUTRIFYING` (not linked) |
+| `DISEASES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISEASES, WASTING PUTRIFYING|DISEASES, WASTING PUTRIFYING]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
-| `EXPERIENCE` | **unresolved** (review queue) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
 | `FATE428 KARSHVARES SPHERE` | **unresolved** (review queue) |
 | `Fruit` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `GuNnas` | **unresolved** (review queue) |
 | `JUDGMENTHALL` | **unresolved** (review queue) |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `Kama` | **unresolved** (review queue) |
-| `METEMPSYCHOsis` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
+| `METEMPSYCHOsis` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
 | `MorraE` | **unresolved** (review queue) |
-| `Necessiry` | **unresolved** (review queue) |
-| `NoRNor` | **candidate (first-segment only)** → possible `NORNOR, OR NORNS` (not linked) |
+| `Necessiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
+| `NoRNor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
 | `ReapPina` | **unresolved** (review queue) |
-| `SAMKHARAS` | **unresolved** (review queue) |
-| `SHAI` | **candidate (first-segment only)** → possible `SHAI, GOD OF LUCK OR DESTINY` (not linked) |
-| `SHENTT` | **unresolved** (review queue) |
+| `SAMKHARAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAMKHARAS (AGGREGATE OF FORMATIONS)|SAMKHARAS (AGGREGATE OF FORMATIONS)]] |
+| `SHAI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAI, GOD OF LUCK OR DESTINY|SHAI, GOD OF LUCK OR DESTINY]] |
+| `SHENTT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
 | `S1-ostinI` | **unresolved** (review queue) |
 | `SOWING AND REAPING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
 | `TEsTAMENT` | **unresolved** (review queue) |
-| `THEMIS` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

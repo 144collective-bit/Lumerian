@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Book stupiEs` | **unresolved** (review queue) |
-| `MossEs` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
+| `Book stupiEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
+| `MossEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `Scriprures` | **unresolved** (review queue) |
 | `SIen` | **unresolved** (review queue) |
 

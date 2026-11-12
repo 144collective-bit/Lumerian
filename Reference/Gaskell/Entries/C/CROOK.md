@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FLAIL` | **candidate (first-segment only)** → possible `FLAIL, FOR THRESHING OUT WHEAT` (not linked) |
+| `FLAIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLAIL, FOR THRESHING OUT WHEAT|FLAIL, FOR THRESHING OUT WHEAT]] |
 
 ## Full OCR entry body (exact)
 

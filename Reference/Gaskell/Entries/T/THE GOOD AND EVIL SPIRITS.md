@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `AHURA` | **unresolved** (review queue) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `AHURA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AHURA-MAZDA, OR ORMAZD|AHURA-MAZDA, OR ORMAZD]]; [[Reference/Gaskell/Entries/A/AHURA RELIGION|AHURA RELIGION]] |
 | `DAEVAS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
-| `DEMONS` | **unresolved** (review queue) |
+| `DEMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `GatTHas (chanting)` | **unresolved** (review queue) |
+| `GatTHas (chanting)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
 | `TRIBE-RULERS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIBE-RULERS|TRIBE-RULERS]] |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

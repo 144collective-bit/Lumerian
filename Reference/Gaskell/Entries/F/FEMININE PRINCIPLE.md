@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADITI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADITI|ADITI]] |
-| `BuDpHI` | **unresolved** (review queue) |
+| `BuDpHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `GODDESS` | **unresolved** (review queue) |
 | `MALEFEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
-| `MASCULINE` | **unresolved** (review queue) |
-| `MOTHER` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `MASCULINE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MASCULINE PRINCIPLE|MASCULINE PRINCIPLE]] |
+| `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `Sopni1a` | **unresolved** (review queue) |
 | `Vacu` | **unresolved** (review queue) |
 | `WIspoM. FENSAL` | **unresolved** (review queue) |
 | `AN ABODE OF FRIGG :-— A symbol of the astral plane as a reflection (inverted) of the buddhic. See ASTRAL PLANE` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `FRIGG` | **candidate (first-segment only)** → possible `FRIGG, OR FRIKKA, WIFE OF ODIN` (not linked) |
+| `FRIGG` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRIGG, OR FRIKKA, WIFE OF ODIN|FRIGG, OR FRIKKA, WIFE OF ODIN]] |
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
 
 ## Full OCR entry body (exact)

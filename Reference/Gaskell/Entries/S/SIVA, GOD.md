@@ -38,9 +38,9 @@ tags:
 | `Durista` | **unresolved** (review queue) |
 | `Dunes` | **unresolved** (review queue) |
 | `Evo.Lurion` | **unresolved** (review queue) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `JEHOVAH` | **unresolved** (review queue) |
-| `MoTrHER` | **unresolved** (review queue) |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `JEHOVAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JEHOVAH OR YAHVEH|JEHOVAH OR YAHVEH]] |
+| `MoTrHER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
 
 ## Full OCR entry body (exact)

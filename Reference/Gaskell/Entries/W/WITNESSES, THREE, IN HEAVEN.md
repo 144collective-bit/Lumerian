@@ -36,9 +36,9 @@ tags:
 | `FATHER` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `GopHEAD` | **unresolved** (review queue) |
-| `HOLY GHOST` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `TriaD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `HOLY GHOST` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `TriaD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

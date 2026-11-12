@@ -35,26 +35,26 @@ tags:
 | `Ar` | **unresolved** (review queue) |
 | `Arc. MAN` | **unresolved** (review queue) |
 | `Binp` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
-| `CoUNTRIES` | **unresolved** (review queue) |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `CoUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
-| `CRUCIFIXION (gnostic)` | **unresolved** (review queue) |
+| `CRUCIFIXION (gnostic)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `DEATH OF BALDEB OF OSIRIS` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `East` | **unresolved** (review queue) |
 | `Evo.urion` | **unresolved** (review queue) |
 | `ExItz£` | **unresolved** (review queue) |
-| `FEATHER` | **unresolved** (review queue) |
+| `FEATHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] |
 | `HEazr` | **unresolved** (review queue) |
 | `Home` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MORNING STAB` | **unresolved** (review queue) |
-| `PLUMES` | **unresolved** (review queue) |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
+| `PLUMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
 | `QUARTEBS` | **unresolved** (review queue) |
-| `SacCRIFICER` | **unresolved** (review queue) |
+| `SacCRIFICER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SKY` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `TEZcartTLIPOOA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -35,7 +35,7 @@ tags:
 | `Boorus` | **unresolved** (review queue) |
 | `EvIJAH` | **unresolved** (review queue) |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Prrer` | **unresolved** (review queue) |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 

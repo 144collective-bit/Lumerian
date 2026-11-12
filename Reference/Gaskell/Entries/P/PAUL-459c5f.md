@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABORTION (Paul)` | **unresolved** (review queue) |
+| `ABORTION (Paul)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ABORTION PRODUCED BY WISDOM|ABORTION PRODUCED BY WISDOM]] |
 | `BORN ovT` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 

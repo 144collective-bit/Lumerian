@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ACHAIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ACHAIANS|ACHAIANS]] |
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `ARABS` | **unresolved** (review queue) |
-| `AtREus` | **candidate (first-segment only)** → possible `ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE` (not linked) |
-| `FUNERAL PILES` | **unresolved** (review queue) |
-| `SHIPS (Greeks)` | **candidate (first-segment only)** → possible `SHIPS, BEAKED` (not linked) |
-| `WARRIORS` | **candidate (first-segment only)** → possible `WARRIORS, TWIN` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `ARABS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARABS ENTERING IRAN|ARABS ENTERING IRAN]] |
+| `AtREus` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE]] |
+| `FUNERAL PILES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] |
+| `SHIPS (Greeks)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]]; [[Reference/Gaskell/Entries/S/SHIPS OF THE GREEKS|SHIPS OF THE GREEKS]]; [[Reference/Gaskell/Entries/S/SHIPS OF THE GREEKS GUIDED TO ILIUM (TROY)|SHIPS OF THE GREEKS GUIDED TO ILIUM (TROY)]] |
+| `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

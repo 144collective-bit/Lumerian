@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
-| `MonaD` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `MonaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Law OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF BUDDHA|LAW OF BUDDHA]] |
-| `STREAM` | **unresolved** (review queue) |
-| `WORLD (thirsty)` | **unresolved** (ambiguous full-head matches; not linked) |
+| `STREAM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREAM OF HIS LAW|STREAM OF HIS LAW]] |
+| `WORLD (thirsty)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WORLD, THIRSTY|WORLD, THIRSTY]] |
 
 ## Full OCR entry body (exact)
 

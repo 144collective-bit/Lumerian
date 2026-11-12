@@ -35,9 +35,9 @@ tags:
 | `BRAHMAN PRIESTS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]] |
 | `BRBEASTPLATE` | **unresolved** (review queue) |
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
-| `GIRDLE` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `GoLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `Kusti` | **unresolved** (review queue) |
+| `Kusti` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KUSTI OR KUSHTI|KUSTI OR KUSHTI]] |
 | `SutratmMa` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

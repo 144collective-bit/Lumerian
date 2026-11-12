@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ErecTuevus` | **unresolved** (review queue) |
+| `ErecTuevus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ERECTHEUS, SON OF HEPHASTUS|ERECTHEUS, SON OF HEPHASTUS]] |
 | `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `Furrow` | **unresolved** (review queue) |
-| `Hanuman` | **candidate (first-segment only)** → possible `HANUMAN, SON OF VAYU` (not linked) |
+| `Hanuman` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
 | `LAkSHMI` | **unresolved** (review queue) |
-| `LANKA` | **unresolved** (review queue) |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
 | `NARAYANA` | **unresolved** (review queue) |
-| `RAMA` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
+| `RAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 
 ## Full OCR entry body (exact)
 

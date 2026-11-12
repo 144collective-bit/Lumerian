@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BIRTH OF HORUS` | **unresolved** (review queue) |
-| `DOORS OPENED` | **unresolved** (review queue) |
+| `BIRTH OF HORUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF HORUS THE CHILD, OR HARPOCRATES|BIRTH OF HORUS THE CHILD, OR HARPOCRATES]] |
+| `DOORS OPENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `GaRDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
-| `GrEBAL` | **unresolved** (review queue) |
+| `GrEBAL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GEBAL, OR BYBLOS, SWAMP|GEBAL, OR BYBLOS, SWAMP]] |
 | `LmaaKAINEN` | **unresolved** (review queue) |
-| `Papyrus` | **unresolved** (review queue) |
+| `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `PracHes` | **unresolved** (review queue) |
 | `REEDPLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
-| `SEKHET-AARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
+| `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 
 ## Full OCR entry body (exact)
 

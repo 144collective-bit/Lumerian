@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `MULAPRAKRITI` | **candidate (first-segment only)** → possible `MULA-PRAKRITI, HAVAT` (not linked) |
+| `MULAPRAKRITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
 | `Nicut` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

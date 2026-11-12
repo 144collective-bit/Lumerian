@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Aprr1` | **unresolved** (review queue) |
 | `BrvaH` | **unresolved** (review queue) |
-| `Dove` | **candidate (first-segment only)** → possible `DOVE, OR PIGEON` (not linked) |
+| `Dove` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] |
 | `GoppDESS` | **unresolved** (review queue) |
 | `Hoty auost` | **unresolved** (review queue) |
 | `MAvA (higher)` | **unresolved** (review queue) |

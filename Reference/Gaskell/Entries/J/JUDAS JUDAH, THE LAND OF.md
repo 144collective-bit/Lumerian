@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hm. country` | **unresolved** (review queue) |
-| `IsRaELires` | **unresolved** (review queue) |
+| `IsRaELires` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `PRAISE OF GOD` | **unresolved** (review queue) |
 

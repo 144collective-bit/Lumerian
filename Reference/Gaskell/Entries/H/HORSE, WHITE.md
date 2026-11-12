@@ -32,26 +32,26 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AaT` | **candidate (first-segment only)** → possible `AAT,—REGION` (not linked) |
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
-| `Anres` | **unresolved** (review queue) |
-| `Bow` | **unresolved** (review queue) |
+| `AaT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]]; [[Reference/Gaskell/Entries/A/AAT REGION|AAT,—REGION]]; [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
+| `Anres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `BuppHa (Maitreya)` | **unresolved** (review queue) |
 | `CuRist’s SECOND COMING` | **unresolved** (review queue) |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `CROWN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
-| `KALKI` | **unresolved** (review queue) |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
+| `KALKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]]; [[Reference/Gaskell/Entries/K/KALKI KALI-YUGA|KALKI KALI-YUGA]] |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `RACE-COURSE` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RACE-COURSE|RACE-COURSE]] |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 | `Sprinerme` | **unresolved** (review queue) |
 | `Sraure` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Victory` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WHITE. HORSE` | **unresolved** (review queue) |
 | `ODIN’` | **unresolved** (review queue) |
 

@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ANDUISAR` | **unresolved** (review queue) |
 | `AQUEDUCT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AQUEDUCT|AQUEDUCT]] |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `CITy OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] |
-| `CORN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `EprEwN (rivers)` | **unresolved** (review queue) |
 | `ErmDANUS` | **unresolved** (review queue) |
-| `GANGES` | **unresolved** (review queue) |
+| `GANGES` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGES RIVER|GANGES RIVER]] |
 | `Hari` | **unresolved** (review queue) |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |

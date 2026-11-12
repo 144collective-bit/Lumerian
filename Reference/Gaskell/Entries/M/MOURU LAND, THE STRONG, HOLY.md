@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BupDDHIOC PLANE` | **unresolved** (review queue) |
-| `NISAYA` | **unresolved** (review queue) |
+| `BupDDHIOC PLANE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
+| `NISAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NISAYA LAND|NISAYA LAND]] |
 
 ## Full OCR entry body (exact)
 

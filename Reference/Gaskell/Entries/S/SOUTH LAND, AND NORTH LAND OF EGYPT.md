@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Eaypt (higher)` | **unresolved** (review queue) |
 | `(lower)` | **unresolved** (review queue) |
-| `NexHEBIT` | **unresolved** (review queue) |
+| `NexHEBIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 
 ## Full OCR entry body (exact)
 

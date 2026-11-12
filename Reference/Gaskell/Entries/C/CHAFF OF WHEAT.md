@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Corn` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
-| `Fan` | **candidate (first-segment only)** → possible `FAN, PRODUCING WIND` (not linked) |
-| `Husxs` | **unresolved** (review queue) |
+| `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+| `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
+| `Husxs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSKS|HUSKS]] |
 | `Way or DEATH` | **unresolved** (review queue) |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 

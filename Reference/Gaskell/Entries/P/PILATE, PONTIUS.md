@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASSEMBLY` | **unresolved** (review queue) |
-| `CAIAPHAS` | **candidate (first-segment only)** → possible `CAIAPHAS, THE HIGH PRIEST` (not linked) |
-| `GABBATHA` | **candidate (first-segment only)** → possible `GABBATHA, THE PAVEMENT` (not linked) |
-| `GOLGOTHA` | **candidate (first-segment only)** → possible `GOLGOTHA, THE PLACE OF A SKULL` (not linked) |
+| `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
+| `GABBATHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GABBATHA, THE PAVEMENT|GABBATHA, THE PAVEMENT]] |
+| `GOLGOTHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOLGOTHA, THE PLACE OF A SKULL|GOLGOTHA, THE PLACE OF A SKULL]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
-| `SIXTH HOUR` | **unresolved** (review queue) |
+| `SIXTH HOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIXTH HOUR FOR CRUCIFIXION OF JESUS|SIXTH HOUR FOR CRUCIFIXION OF JESUS]] |
 | `THREE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THREE DAYS|THREE DAYS]] |
-| `TRIAL` | **unresolved** (review queue) |
+| `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

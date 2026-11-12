@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Briss` | **unresolved** (review queue) |
-| `BraHMa` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `GLORIFYING` | **unresolved** (review queue) |
+| `BraHMa` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `GLORIFYING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
 | `Inya` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
 | `OpouR` | **unresolved** (review queue) |
-| `SALAGYA` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
-| `TasTE` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `SALAGYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
+| `TasTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 
 ## Full OCR entry body (exact)
 

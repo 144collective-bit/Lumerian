@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Homa` | **unresolved** (review queue) |
-| `NALI-KUVERA` | **unresolved** (review queue) |
-| `RICHES (higher)` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
-| `WEALTH` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `NALI-KUVERA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)|NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)]] |
+| `RICHES (higher)` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

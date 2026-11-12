@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALBORDJ` | **candidate (first-segment only)** → possible `ALBORDJ, OR ALBURZ, MOUNTAIN` (not linked) |
+| `ALBORDJ` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] |
 | `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
 | `COMPANY (gods)` | **unresolved** (review queue) |
 | `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `EvENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
 | `KING` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING|KING]] |
 | `Monap` | **unresolved** (review queue) |
-| `SEt¥` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SEt¥` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `ToNevE (higher) Water. HERPEST` | **unresolved** (review queue) |
 | `‘‘ON THE BACK ” :— This signifies the conquest of intellectual pride. ** As proof of victory Horus stood upon the back of a male hippopotamus` | **unresolved** (prose-bleed / overlong token; not linked) |

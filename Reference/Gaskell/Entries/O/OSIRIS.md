@@ -32,42 +32,42 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Apis` | **candidate (first-segment only)** → possible `APIS, BULL OF THE WEST` (not linked) |
+| `Apis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APIS, BULL OF THE WEST|APIS, BULL OF THE WEST]] |
 | `ARO. MAN` | **unresolved** (review queue) |
-| `ASOENSION OF OSIRIS` | **unresolved** (review queue) |
-| `BIRTH OF OSIRIS` | **candidate (first-segment only)** → possible `BIRTH OF OSIRIS, OR RA` (not linked) |
-| `CHAOS` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
+| `ASOENSION OF OSIRIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `BIRTH OF OSIRIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
+| `CHAOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
 | `CrvIuisinc` | **unresolved** (review queue) |
-| `CrocopiLE` | **unresolved** (review queue) |
+| `CrocopiLE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CROCODILE|CROCODILE]] |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `DEATH OF LEMMINEAINEN` | **unresolved** (review queue) |
 | `OF OSIRIS` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `EARTH (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `HEIGHT OF oOsrIRIs` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `HEIGHT OF oOsrIRIs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Isis` | **unresolved** (review queue) |
 | `MemsBers` | **unresolved** (review queue) |
 | `Morst` | **unresolved** (review queue) |
 | `Moura (speech)` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Muz` | **unresolved** (review queue) |
 | `Nur` | **unresolved** (review queue) |
-| `Oak` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
+| `Oak` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
 | `PaMYLES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] |
-| `PraGipaTi (relaxed)` | **unresolved** (review queue) |
-| `RE-stTavu` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `PraGipaTi (relaxed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `RE-stTavu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Szs` | **unresolved** (review queue) |
-| `TarrTarus` | **unresolved** (review queue) |
-| `Tattu` | **unresolved** (review queue) |
-| `TyPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
-| `WEEPING` | **unresolved** (review queue) |
-| `WoRD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `TarrTarus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
+| `Tattu` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TATTU TATTU, OR LOWER EGYPT|TATTU TATTU, OR LOWER EGYPT]] |
+| `TyPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
+| `WEEPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WEEPING OF ISIS FOR OSIRIS|WEEPING OF ISIS FOR OSIRIS]]; [[Reference/Gaskell/Entries/W/WEEPING OF THE GODS FOR BALDER|WEEPING OF THE GODS FOR BALDER]] |
+| `WoRD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 | `YUDHI` | **unresolved** (review queue) |
-| `ZAGREUS` | **candidate (first-segment only)** → possible `ZAGREUS, THE MYSTIC DIONYSUS` (not linked) |
+| `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 
 ## Full OCR entry body (exact)
 

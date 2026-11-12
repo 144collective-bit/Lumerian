@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Amprosia` | **unresolved** (review queue) |
+| `Amprosia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] |
 | `Burren` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
 | `Honry` | **unresolved** (review queue) |
@@ -54,22 +54,22 @@ tags:
 | `for the growth of the higher nature in our souls. Thus comes forth from the eternal Truth (waters) the spiritual life of the Divine Monads` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which outflows through all beings that exist in the seven globes of the planetary chain. See ALconeMY` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ATHORNE` | **unresolved** (review queue) |
-| `BARHIS` | **candidate (first-segment only)** → possible `BARHIS, SACRIFICIAL GRASS` (not linked) |
+| `BARHIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] |
 | `BrmtH (second) BiaspHemy BuvupDHI` | **unresolved** (review queue) |
 | `BucKLE Cranium` | **unresolved** (review queue) |
 | `Dz#mons` | **unresolved** (review queue) |
 | `Erxop` | **unresolved** (review queue) |
 | `GirmpLE` | **unresolved** (review queue) |
-| `Kusti` | **unresolved** (review queue) |
+| `Kusti` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KUSTI OR KUSHTI|KUSTI OR KUSHTI]] |
 | `Moon` | **unresolved** (review queue) |
-| `ReGIons` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
+| `ReGIons` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `RELIGION` | **unresolved** (review queue) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Tama-GusHl` | **unresolved** (review queue) |
 | `Woop (holy)` | **unresolved** (review queue) |
-| `YaanaPAVITA` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `YaanaPAVITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YAJNOPAVITA,-THE SACRED CORD, OR SACRIFICIAL THREAD|YAJNOPAVITA,—THE SACRED CORD, OR SACRIFICIAL THREAD]] |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

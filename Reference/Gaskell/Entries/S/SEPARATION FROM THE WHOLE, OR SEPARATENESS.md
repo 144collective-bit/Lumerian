@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
-| `ARROGANT` | **candidate (first-segment only)** → possible `ARROGANT, ONE OF THE THREE TRIPLE POWERS` (not linked) |
-| `ATTACHMENT` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
+| `ARROGANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROGANT, ONE OF THE THREE TRIPLE POWERS|ARROGANT, ONE OF THE THREE TRIPLE POWERS]] |
+| `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `Crry` | **unresolved** (review queue) |
 | `Eartu` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
@@ -43,7 +43,7 @@ tags:
 | `Hovusz` | **unresolved** (review queue) |
 | `I am` | **unresolved** (review queue) |
 | `Kama` | **unresolved** (review queue) |
-| `Loros` | **unresolved** (review queue) |
+| `Loros` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOGOS (REASON-SPEECH)|LOGOS (REASON-SPEECH)]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Moon` | **unresolved** (review queue) |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

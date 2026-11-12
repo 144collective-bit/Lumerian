@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
-| `CHBYSE` | **unresolved** (review queue) |
+| `CHBYSE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
 | `Heroatoms` | **unresolved** (review queue) |
 | `Porr` | **unresolved** (review queue) |
-| `Priest` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `RELIGION` | **unresolved** (review queue) |
-| `SACRIFIOR` | **unresolved** (review queue) |
+| `SACRIFIOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACRIFIOR CARAPACE OF THE TORTOISE|SACRIFIOR CARAPACE OF THE TORTOISE]] |
 
 ## Full OCR entry body (exact)
 

@@ -40,7 +40,7 @@ tags:
 | `Apoc. Rev.` | **unresolved** (review queue) |
 | `n. 572. See Cow (spotted)` | **unresolved** (review queue) |
 | `Sporrep` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

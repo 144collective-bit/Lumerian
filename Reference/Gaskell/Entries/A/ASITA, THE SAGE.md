@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ascetic` | **unresolved** (review queue) |
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `Buack` | **unresolved** (review queue) |
+| `Buack` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLACK|BLACK]] |
 | `BuppHa` | **unresolved** (review queue) |
-| `BuDDHA (marks)` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
-| `HEAVENLY VOICE` | **unresolved** (review queue) |
+| `BuDDHA (marks)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
+| `HEAVENLY VOICE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEAVENLY VOICE IN PATH|HEAVENLY VOICE IN PATH]] |
 | `KAPILA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `Miyvi` | **unresolved** (review queue) |
 | `Nugsr` | **unresolved** (review queue) |
 | `PENANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] |
-| `SIMEON` | **candidate (ambiguous first-segment)** → SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE; SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL (not linked) |
+| `SIMEON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

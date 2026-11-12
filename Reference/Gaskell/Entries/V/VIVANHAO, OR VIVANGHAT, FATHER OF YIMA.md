@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `FATHER` | **unresolved** (review queue) |
 | `GopHEap` | **unresolved** (review queue) |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Triap` | **unresolved** (review queue) |
 | `Tarovity` | **unresolved** (review queue) |
-| `Yima` | **unresolved** (review queue) |
+| `Yima` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
 | `ZOROASTER. 798` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

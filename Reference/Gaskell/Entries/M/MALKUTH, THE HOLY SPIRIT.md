@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `Bryan` | **unresolved** (review queue) |
 | `BuppH!I` | **unresolved** (review queue) |
-| `CHURCH` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `HEsED` | **unresolved** (review queue) |
-| `HoOKHMAH` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `HEsED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HESED (CHESED), THE SUN|HESED (CHESED), THE SUN]] |
+| `HoOKHMAH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOKHMAH, THE WORD, OR WISDOM (MASCULINE)|HOKHMAH, THE WORD, OR WISDOM (MASCULINE)]] |
 | `Hoxry Guost` | **unresolved** (review queue) |
 | `Kinepom` | **unresolved** (review queue) |
 | `MAyaA (higher)` | **unresolved** (review queue) |
 | `Morner (divine)` | **unresolved** (review queue) |
 | `PAHAD` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SzepHrroTH` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `TIPHERETH` | **unresolved** (review queue) |

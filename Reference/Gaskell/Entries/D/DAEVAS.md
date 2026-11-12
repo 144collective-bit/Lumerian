@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `AsuRA` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
-| `DAIMONS` | **candidate (first-segment only)** → possible `DAIMONS, OR DEMONS (LOWER ASPECT)` (not linked) |
-| `Demons` | **unresolved** (review queue) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `AsuRA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] |
+| `DAIMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DAIMONS, OR DEMONS (LOWER ASPECT)|DAIMONS, OR DEMONS (LOWER ASPECT)]] |
+| `Demons` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
 | `Devits` | **unresolved** (review queue) |
 | `Doa-star` | **unresolved** (review queue) |
 | `HomaJUICE` | **unresolved** (review queue) |
-| `Opposites` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
+| `Opposites` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `RaKSHASAS` | **unresolved** (review queue) |
 | `SPENTO` | **unresolved** (review queue) |
-| `ZAIRIMYANGURA` | **unresolved** (review queue) |
+| `ZAIRIMYANGURA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZAIRIMYANGURA (TORTOISE)|ZAIRIMYANGURA (TORTOISE)]] |
 
 ## Full OCR entry body (exact)
 

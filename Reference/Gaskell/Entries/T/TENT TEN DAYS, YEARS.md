@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
-| `FLOOD` | **unresolved** (review queue) |
-| `MounraIN` | **unresolved** (review queue) |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
+| `FLOOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]]; [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] |
+| `MounraIN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

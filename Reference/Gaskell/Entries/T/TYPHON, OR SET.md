@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `Devin` | **unresolved** (review queue) |
-| `Mara` | **candidate (first-segment only)** → possible `MARA, THE TEMPTER` (not linked) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `Devin` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
+| `Mara` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `Susanowo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
-| `TAuRT` | **candidate (first-segment only)** → possible `TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO` (not linked) |
+| `TAuRT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO|TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO]] |
 
 ## Full OCR entry body (exact)
 

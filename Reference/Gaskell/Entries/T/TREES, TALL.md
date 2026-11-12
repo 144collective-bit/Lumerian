@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Forest` | **unresolved** (review queue) |
+| `Forest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOREST PATHS OF LIFE|FOREST PATHS OF LIFE]] |
 | `OLIVES` | **unresolved** (review queue) |
 | `PALM TREES` | **unresolved** (review queue) |
 

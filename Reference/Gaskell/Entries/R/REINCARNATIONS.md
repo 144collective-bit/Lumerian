@@ -34,28 +34,28 @@ tags:
 |---|---|
 | `BOAT OF EARTH` | **unresolved** (review queue) |
 | `Day AND NIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] |
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `Forty (nights)` | **candidate (first-segment only)** → possible `FORTY, NUMBER` (not linked) |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `Forty (nights)` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
 | `Gata (kam.)` | **unresolved** (review queue) |
-| `GatHas (chanting)` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
+| `GatHas (chanting)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
 | `Gr_cooLEM` | **unresolved** (review queue) |
-| `GIRDLE (star)` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE (star)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `# HEAVENLY REGIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVENLY REGIONS|HEAVENLY REGIONS]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `Man _ (borni` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `METEMPSYCHOSIS` | **candidate (first-segment only)** → possible `METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES` (not linked) |
-| `NAKEDNESS` | **unresolved** (review queue) |
-| `NIGHTS (three)` | **candidate (first-segment only)** → possible `NIGHTS, THREE AFTER DEATH` (not linked) |
+| `METEMPSYCHOSIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] |
+| `NAKEDNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
+| `NIGHTS (three)` | resolved (qualified head) → [[Reference/Gaskell/Entries/N/NIGHTS, THREE AFTER DEATH|NIGHTS, THREE AFTER DEATH]] |
 | `Purgatory` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `REDEMPTIOX` | **unresolved** (review queue) |
 | `REINGA` | **unresolved** (review queue) |
 | `SAMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
 | `SENSE ORGANS` | **unresolved** (review queue) |
-| `SHEPHERD (good)` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `SHEPHERD (good)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `VESTURES` | **unresolved** (review queue) |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WHEELS OF BIRTH. REINGA :-— A symbol of the mind as _ the ‘‘bridge of manas ’’ from the higher nature to the lower; or of the lower planes. “The prevailing idea of the abode of spirits was that they went to the Reinga` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which is another name for Po or Hades; the word Reinga literally means the leaping place. The spins were supposed to trave] to the North Cape` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `or land’s end` | **unresolved** (review queue) |
@@ -80,9 +80,9 @@ tags:
 | `to re-incarnation ; but if they are perfected` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `they are liberated from tho lower nature and return again no more. See BRIDGE` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `LIBERATION` | **unresolved** (review queue) |
-| `Po` | **candidate (first-segment only)** → possible `PO, OR NIGHT` (not linked) |
+| `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `ReINCARNATION` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 
 ## Full OCR entry body (exact)
 

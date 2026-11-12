@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aro. MAN` | **unresolved** (review queue) |
-| `BripGes (nine)` | **unresolved** (review queue) |
+| `BripGes (nine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] |
 | `Crry` | **unresolved** (review queue) |
-| `COUNTENANCE` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
+| `COUNTENANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]]; [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] |
 | `GATES OF BODY` | **unresolved** (review queue) |
 | `Hzap` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Kuerrer` | **unresolved** (review queue) |
 | `NAVEL` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]] |
-| `PoveaL GLAND` | **unresolved** (review queue) |
+| `PoveaL GLAND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PINEAL GLAND|PINEAL GLAND]] |
 | `PraGdpati` | **unresolved** (review queue) |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 

@@ -35,11 +35,11 @@ tags:
 | `Hesrep` | **unresolved** (review queue) |
 | `Ixiusion` | **unresolved** (review queue) |
 | `InprvipvuALITY` | **unresolved** (review queue) |
-| `MALKUTH` | **candidate (first-segment only)** → possible `MALKUTH, THE HOLY SPIRIT` (not linked) |
+| `MALKUTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MALKUTH, THE HOLY SPIRIT|MALKUTH, THE HOLY SPIRIT]] |
 | `PAHAD` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 
 ## Full OCR entry body (exact)
 

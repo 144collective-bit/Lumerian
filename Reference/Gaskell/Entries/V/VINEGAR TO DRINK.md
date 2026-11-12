@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cow’s URINE` | **unresolved** (review queue) |
-| `CRUCIFIXION OF JESUS` | **candidate (ambiguous first-segment)** → CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS; CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS (not linked) |
+| `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
 | `GALL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GALL|GALL]] |
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
-| `PASSION` | **unresolved** (review queue) |
-| `REED` | **unresolved** (review queue) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SuFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `PASSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
+| `REED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REED IN THE RIGHT HAND|REED IN THE RIGHT HAND]]; [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]]; [[Reference/Gaskell/Entries/R/REED PLAIN, 364 HODER HOA-TABU-ITERAI|REED PLAIN, 364 HODER HOA-TABU-ITERAI]]; [[Reference/Gaskell/Entries/R/REED REED SHAKEN WITH THE WIND|REED REED SHAKEN WITH THE WIND]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SuFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

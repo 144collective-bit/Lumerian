@@ -38,22 +38,22 @@ tags:
 | `Buro` | **unresolved** (review queue) |
 | `Ciry` | **unresolved** (review queue) |
 | `COMPANY OF GoDs` | **unresolved** (review queue) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `CORPSE DEVOURED` | **unresolved** (review queue) |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `CORPSE DEVOURED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CORPSE DEVOURED BY BIRDS|CORPSE DEVOURED BY BIRDS]] |
 | `Derunct` | **unresolved** (review queue) |
-| `EaGLte` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `EaGLte` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EAGLE|EAGLE]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `FL Les` | **unresolved** (review queue) |
-| `Houses (corpse)` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Houses (corpse)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Isis` | **unresolved** (review queue) |
 | `MarsuH` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `PErSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
-| `SHOULDER` | **candidate (ambiguous first-segment)** → SHOULDER, LEFT; SHOULDER, RIGHT (not linked) |
+| `SHOULDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHOULDER, LEFT|SHOULDER, LEFT]]; [[Reference/Gaskell/Entries/S/SHOULDER, RIGHT|SHOULDER, RIGHT]] |
 | `TRANSMUTATION. VULTURE AS A BIRD OF PREY :-— A symbol of the Self emerging within the sou] in a terrific guise; which means that the Divine law of the Self is hard and obnoxious to the lower self` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which is threatened with extinction. See ANGER OF GOD` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `WRATH` | **candidate (first-segment only)** → possible `WRATH, THE EVIL DOER` (not linked) |

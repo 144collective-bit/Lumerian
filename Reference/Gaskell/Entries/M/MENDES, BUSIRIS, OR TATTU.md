@@ -39,9 +39,9 @@ tags:
 | `who with knowledge passes through the world` | **unresolved** (review queue) |
 | `he indeed is called a Bhikshu.’’— Dharmrnaapada` | **unresolved** (review queue) |
 | `XIX. 266-7. A mental quality to live by love must have fulfilled the law of righteousness and be above the opposites. It must be pure and wise as it passes through the soul. See ALMSGIVING` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BuiksHU` | **unresolved** (review queue) |
-| `Monk` | **unresolved** (review queue) |
-| `SANNYASIN` | **candidate (first-segment only)** → possible `SANNYASIN, OR BHIKSHU` (not linked) |
+| `BuiksHU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BHIKSHU|BHIKSHU]] |
+| `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
+| `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 
 ## Full OCR entry body (exact)
 

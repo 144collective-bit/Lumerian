@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CarapHas` | **unresolved** (review queue) |
+| `CarapHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `Foxrs` | **unresolved** (review queue) |
 | `HEALING (devils)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Hrrop` | **unresolved** (review queue) |
@@ -41,7 +41,7 @@ tags:
 | `Rrres` | **unresolved** (review queue) |
 | `THREE Days` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THREE DAYS|THREE DAYS]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
-| `TRIAL` | **unresolved** (review queue) |
+| `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

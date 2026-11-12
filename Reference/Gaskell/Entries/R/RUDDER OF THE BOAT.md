@@ -54,8 +54,8 @@ tags:
 | `and love are bestowed on all that are ready to receive. See Hearinc` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Marvuts` | **unresolved** (review queue) |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SERPENT ZEscuLaPivs` | **unresolved** (review queue) |
 | `Sona` | **unresolved** (review queue) |
 

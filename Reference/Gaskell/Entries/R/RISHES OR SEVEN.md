@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DELUGE` | **unresolved** (review queue) |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `Roor-races` | **unresolved** (review queue) |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
 

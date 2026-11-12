@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `ENIGORIO` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `ENIGORIO` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ENIGORIO AND ENIGOHATGEA|ENIGORIO AND ENIGOHATGEA]] |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `VoHUMANO` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

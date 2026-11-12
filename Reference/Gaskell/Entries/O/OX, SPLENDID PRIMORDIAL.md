@@ -35,9 +35,9 @@ tags:
 | `Butz` | **unresolved** (review queue) |
 | `Ivrorrion` | **unresolved** (review queue) |
 | `INVOLvUTION` | **unresolved** (review queue) |
-| `Kar us` | **unresolved** (review queue) |
+| `Kar us` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAI US, REIGN OF|KAI US, REIGN OF]] |
 | `Sout (highest)` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

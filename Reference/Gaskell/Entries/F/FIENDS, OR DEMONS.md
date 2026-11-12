@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEvas (lower)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `DEvas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
 | `Lonps (material)` | **unresolved** (review queue) |
 | `Mrrnra` | **unresolved** (review queue) |
 | `Naraps` | **unresolved** (review queue) |
 | `Nasu` | **unresolved** (review queue) |
-| `SALAMANDERS` | **candidate (first-segment only)** → possible `SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE` (not linked) |
+| `SALAMANDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALAMANDERS AND SYLPHS|SALAMANDERS AND SYLPHS]]; [[Reference/Gaskell/Entries/S/SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE|SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE]] |
 
 ## Full OCR entry body (exact)
 

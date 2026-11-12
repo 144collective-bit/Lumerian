@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Apis` | **candidate (first-segment only)** → possible `APIS, BULL OF THE WEST` (not linked) |
+| `Apis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APIS, BULL OF THE WEST|APIS, BULL OF THE WEST]] |
 
 ## Full OCR entry body (exact)
 

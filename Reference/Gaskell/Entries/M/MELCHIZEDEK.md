@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Breap` | **unresolved** (review queue) |
-| `HIGH-PRIEST` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `HIGH-PRIEST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `Kina (great)` | **unresolved** (review queue) |
-| `KINGDOM oF HEAVEN` | **candidate (first-segment only)** → possible `KINGDOM OF HEAVEN, OR OF GOD` (not linked) |
+| `KINGDOM oF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `LOVE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `SAckIFICER` | **unresolved** (review queue) |
-| `Son oF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
-| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
-| `TOKENS` | **candidate (first-segment only)** → possible `TOKENS, FOUR SACRED` (not linked) |
-| `VISVAKARMAN` | **candidate (first-segment only)** → possible `VISVAKARMAN, WEALTH SHOWER` (not linked) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `SAckIFICER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+| `Son oF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
+| `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
+| `TOKENS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
+| `VISVAKARMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VISVAKARMAN, WEALTH SHOWER|VISVAKARMAN, WEALTH SHOWER]] |
 | `WINE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

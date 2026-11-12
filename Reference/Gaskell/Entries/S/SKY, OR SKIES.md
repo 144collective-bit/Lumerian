@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANu` | **candidate (first-segment only)** → possible `ANU, GOD OF THE SKY` (not linked) |
+| `ANu` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANU, GOD OF THE SKY|ANU, GOD OF THE SKY]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CEILING` | **unresolved** (review queue) |
-| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `CEILING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CEILING OF THE SKY|CEILING OF THE SKY]] |
+| `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `Cow (spotted)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Freer` | **unresolved** (review queue) |
-| `FrrmaMENT` | **unresolved** (review queue) |
-| `FOUNTAIN` | **unresolved** (review queue) |
+| `FrrmaMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
+| `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `ZENITH. SLAUGHTER OF ENEMIES : A symbol of the subdual and dissipation of the passions` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `desires` | **unresolved** (review queue) |
 | `and illusions of the lower nature` | **unresolved** (review queue) |
@@ -70,19 +70,19 @@ tags:
 | `Serm.` | **unresolved** (review queue) |
 | `The Sword Bathed` | **unresolved** (review queue) |
 | `etc. See ANGER OF GOD` | **unresolved** (review queue) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
-| `BATTILE` | **unresolved** (review queue) |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
+| `BATTILE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
 | `ConFiict` | **unresolved** (review queue) |
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
-| `Duraa` | **unresolved** (review queue) |
+| `Duraa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DURGA, OR KALI, GODDESS|DURGA, OR KALI, GODDESS]] |
 | `EoyrTIANS` | **unresolved** (review queue) |
 | `ENEMIES OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
-| `KILLING-oUT` | **unresolved** (review queue) |
-| `PESTILENCE` | **unresolved** (review queue) |
+| `KILLING-oUT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KILLING-OUT OF DESIRE|KILLING-OUT OF DESIRE]] |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `Sworn` | **unresolved** (review queue) |
 | `TonaueEs` | **unresolved** (review queue) |
-| `WAR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
 
 ## Full OCR entry body (exact)

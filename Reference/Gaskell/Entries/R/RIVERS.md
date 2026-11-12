@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAYAS` | **unresolved** (review queue) |
+| `AMBAYAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAYAS RIVERS|AMBAYAS RIVERS]] |
 | `AQUEDUCT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AQUEDUCT|AQUEDUCT]] |
 | `Brrrz OF KRISHNA` | **unresolved** (review queue) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `EDEN RIVEE TREES AND RIVERS` | **unresolved** (review queue) |
-| `ZOROASTER` | **candidate (first-segment only)** → possible `ZOROASTER, ZARATHUSTRA, OR ZARTUST` (not linked) |
+| `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
 
 ## Full OCR entry body (exact)
 

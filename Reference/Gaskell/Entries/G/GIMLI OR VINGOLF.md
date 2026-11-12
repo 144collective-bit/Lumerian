@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Kincpom` | **unresolved** (review queue) |
-| `RIMTHURSAR` | **candidate (first-segment only)** → possible `RIMTHURSAR, FROST GIANTS` (not linked) |
+| `RIMTHURSAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]]; [[Reference/Gaskell/Entries/R/RIMTHURSAR RIGHTEOUS MAN|RIMTHURSAR RIGHTEOUS MAN]] |
 
 ## Full OCR entry body (exact)
 

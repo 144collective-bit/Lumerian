@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ba` | **candidate (first-segment only)** → possible `BA, THE SOUL` (not linked) |
-| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `Ba` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BA, THE SOUL|BA, THE SOUL]] |
+| `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `JUDGMENT-DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `Kuu` | **unresolved** (review queue) |
-| `Lazakus` | **unresolved** (review queue) |
+| `Lazakus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `LOVE or GOD` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
 | `Qanv` | **unresolved** (review queue) |
 | `SaHv` | **unresolved** (review queue) |
 | `SHEDVE` | **unresolved** (review queue) |
-| `SOUL (middle)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
+| `SOUL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
 | `Toms` | **unresolved** (review queue) |
-| `Tzetem` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `Tzetem` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TZELEM, DIVINE OR HOLY|TZELEM, DIVINE OR HOLY]] |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `VoOURUKASHA. KHAMUAS` | **unresolved** (review queue) |
 | `SETME AND WIFE :-~ Symbols of Spirit and Matter. See HEAVEN AND EARTH` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |

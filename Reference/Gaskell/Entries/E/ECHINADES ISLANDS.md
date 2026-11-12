@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arco` | **unresolved** (review queue) |
-| `OcyPETE` | **candidate (first-segment only)** → possible `OCYPETE, THE HARPY` (not linked) |
+| `OcyPETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
 
 ## Full OCR entry body (exact)
 

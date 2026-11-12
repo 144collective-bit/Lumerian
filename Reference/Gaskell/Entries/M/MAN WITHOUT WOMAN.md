@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Catrie` | **unresolved** (review queue) |
-| `Corpsr` | **unresolved** (review queue) |
+| `Corpsr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Dune` | **unresolved** (review queue) |
 | `Man Marrnrace` | **unresolved** (review queue) |
 | `Nasu` | **unresolved** (review queue) |

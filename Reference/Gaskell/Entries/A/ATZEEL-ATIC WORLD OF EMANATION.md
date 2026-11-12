@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Apam (higher)` | **unresolved** (review queue) |
 | `HicHrR` | **unresolved** (review queue) |
-| `ProroTYPES` | **unresolved** (review queue) |
+| `ProroTYPES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 
 ## Full OCR entry body (exact)
 

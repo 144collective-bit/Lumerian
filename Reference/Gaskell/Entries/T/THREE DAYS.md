@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
-| `PILateE` | **unresolved** (review queue) |
+| `PILateE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `SIGN. THREE ‘` | **unresolved** (review queue) |
 

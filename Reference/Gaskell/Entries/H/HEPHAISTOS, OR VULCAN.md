@@ -35,18 +35,18 @@ tags:
 | `Cagarvion` | **unresolved** (review queue) |
 | `Cur (double)` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `GOLDEN sOLEs` | **unresolved** (review queue) |
-| `Harpocrares` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
+| `GOLDEN sOLEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR|GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR]] |
+| `Harpocrares` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `Hovss (sleep)` | **unresolved** (review queue) |
-| `LamenEss` | **unresolved** (review queue) |
-| `LAUGHTER` | **unresolved** (review queue) |
+| `LamenEss` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAMENESS OF THE GOD|LAMENESS OF THE GOD]] |
+| `LAUGHTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAUGHTER OF THE GODS|LAUGHTER OF THE GODS]] |
 | `Manat` | **unresolved** (review queue) |
 | `Mrnp` | **unresolved** (review queue) |
 | `PanporRa` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
-| `WHITE-ARMED` | **unresolved** (review queue) |
+| `WHITE-ARMED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 
 ## Full OCR entry body (exact)

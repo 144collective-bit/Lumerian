@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Doors` | **candidate (first-segment only)** → possible `DOORS, HOUSE WITH FOUR` (not linked) |
+| `Doors` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]]; [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `VesToRnes` | **unresolved** (review queue) |
-| `WOODEN` | **unresolved** (review queue) |
+| `WOODEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WOODEN PALACE OR HOUSE|WOODEN PALACE OR HOUSE]] |
 
 ## Full OCR entry body (exact)
 

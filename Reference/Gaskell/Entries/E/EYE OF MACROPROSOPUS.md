@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `COUNTENANCE` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
+| `COUNTENANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]]; [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] |
 | `Face` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
 | `Heap` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `YMIR` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

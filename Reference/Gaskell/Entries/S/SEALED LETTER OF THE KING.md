@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Gnosis` | **unresolved** (review queue) |
+| `Gnosis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
 | `Kina` | **unresolved** (review queue) |
-| `LETTER` | **unresolved** (review queue) |
-| `PEARL` | **unresolved** (review queue) |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
+| `PEARL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `Rose` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
-| `ScripTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `ScripTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `SERPENT (loud)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `WorpDs oF POWER` | **unresolved** (review queue) |
+| `WorpDs oF POWER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 
 ## Full OCR entry body (exact)
 

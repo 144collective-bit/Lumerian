@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `THETIS` | **candidate (first-segment only)** → possible `THETIS, GODDESS` (not linked) |
+| `THETIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

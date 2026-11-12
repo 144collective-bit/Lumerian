@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
-| `DAYLIGHT` | **unresolved** (review queue) |
+| `DAYLIGHT` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DAYLIGHT AND DARENESS|DAYLIGHT AND DARENESS]] |
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `HIDING PLACE` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `HIDING PLACE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `Lieut` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
 | `NIcoDEMUS` | **unresolved** (review queue) |

@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `BuDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `BuDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `CAUSALBODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
 | `FACE OF GOD` | **unresolved** (review queue) |
 | `FACES OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACES OF MEN|FACES OF MEN]] |
 | `HovusrE` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `INSIGNIA OF JAPAN` | **unresolved** (review queue) |
 | `Isnt` | **unresolved** (review queue) |
 | `LaxsoMi` | **unresolved** (review queue) |
 | `Mrirecura` | **unresolved** (review queue) |
-| `Mosss` | **unresolved** (review queue) |
+| `Mosss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Ninior` | **unresolved** (review queue) |
-| `SHintar` | **unresolved** (review queue) |
+| `SHintar` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `Smmore` | **unresolved** (review queue) |
 | `Sxy` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `VEIL` | **unresolved** (review queue) |
+| `VEIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEIL OF ISIS|VEIL OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

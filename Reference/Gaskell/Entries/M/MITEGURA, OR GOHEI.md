@@ -36,10 +36,10 @@ tags:
 | `CHRISTMAS-TREE` | **unresolved** (review queue) |
 | `IwsiGnia` | **unresolved** (review queue) |
 | `Mrmrnor` | **unresolved** (review queue) |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `TaMA-GUSHI` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 
 ## Full OCR entry body (exact)

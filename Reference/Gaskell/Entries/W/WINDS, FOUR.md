@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM (lower)` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
-| `Biiss` | **unresolved** (review queue) |
+| `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
+| `Biiss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLISS|BLISS]] |
 | `GoppEss` | **unresolved** (review queue) |
 | `Gorna In` | **unresolved** (review queue) |
 | `Minp (good)` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
-| `QuarTERS` | **unresolved** (review queue) |
+| `QuarTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Swastika` | **candidate (first-segment only)** → possible `SWASTIKA, OR FYLFOT SIGN` (not linked) |
-| `TLaLoc` | **candidate (first-segment only)** → possible `TLALOC, GOD OF WATER` (not linked) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
+| `TLaLoc` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TLALOC, GOD OF WATER|TLALOC, GOD OF WATER]] |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

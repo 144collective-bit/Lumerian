@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CHILD` | **unresolved** (review queue) |
 | `CHILDREN` | **unresolved** (review queue) |
-| `DEATH OF ostnis` | **unresolved** (review queue) |
+| `DEATH OF ostnis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `Ecyprians` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `NILE` | **unresolved** (review queue) |

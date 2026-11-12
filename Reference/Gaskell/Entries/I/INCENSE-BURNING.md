@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CENSERS` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `Frere` | **unresolved** (review queue) |
 | `FRANKINCENSE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRANKINCENSE|FRANKINCENSE]] |
 | `HeEarr` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `INDIVIDUALITY Macr` | **unresolved** (review queue) |
-| `Mummy` | **unresolved** (review queue) |
-| `Myrra` | **unresolved** (review queue) |
+| `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
+| `Myrra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MYRRH|MYRRH]] |
 | `Om` | **unresolved** (review queue) |
-| `ProCESSION` | **unresolved** (review queue) |
-| `Savour` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `ProCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+| `Savour` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
-| `VIRGIN` | **unresolved** (review queue) |
+| `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

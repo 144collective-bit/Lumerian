@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMARAVAITI` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `AMARAVAITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `KAPILA. CELESTIAL Ciry` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

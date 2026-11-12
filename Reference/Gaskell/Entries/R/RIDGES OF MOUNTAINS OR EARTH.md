@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `Furrows` | **unresolved** (review queue) |
+| `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
 | `COUNTRY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

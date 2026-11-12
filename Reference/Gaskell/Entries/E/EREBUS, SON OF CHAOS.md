@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AUTHER` | **unresolved** (review queue) |
-| `CHAOS` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `CHARON` | **candidate (first-segment only)** → possible `CHARON, SON OF EREBUS` (not linked) |
-| `DARKNESS` | **unresolved** (review queue) |
-| `EROS` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `CHAOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `CHARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARON, SON OF EREBUS|CHARON, SON OF EREBUS]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+| `EROS` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `MonaD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `NIGHT (matter)` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
-| `Nox` | **candidate (first-segment only)** → possible `NOX, SISTER OF EREBUS` (not linked) |
+| `NIGHT (matter)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+| `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
 
 ## Full OCR entry body (exact)
 

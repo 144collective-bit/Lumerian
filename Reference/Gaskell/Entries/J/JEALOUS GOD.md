@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANGER OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
-| `IpoLs` | **unresolved** (review queue) |
+| `IpoLs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IDOLS|IDOLS]] |
 | `SEur (lower)` | **unresolved** (review queue) |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
 

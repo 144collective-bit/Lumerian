@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `InturTion` | **unresolved** (review queue) |
+| `InturTion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `Isis` | **unresolved** (review queue) |
 | `Maaic` | **unresolved** (review queue) |
 | `OsrRis` | **unresolved** (review queue) |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 
 ## Full OCR entry body (exact)
 

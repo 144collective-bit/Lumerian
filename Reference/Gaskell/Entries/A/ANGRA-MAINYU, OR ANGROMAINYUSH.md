@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `BLACK MAGICIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK MAGICIANS|BLACK MAGICIANS]] |
-| `DEviL` | **candidate (first-segment only)** → possible `DEVIL, THE ADVERSARY` (not linked) |
+| `DEviL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `OprosrrEs` | **unresolved** (review queue) |
 | `SERPENT DAHAKA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT DAHAKA|SERPENT DAHAKA]] |
 | `SERPENT (mighty)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

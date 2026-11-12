@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Discretes` | **unresolved** (review queue) |
-| `FEEpING` | **unresolved** (review queue) |
+| `FEEpING` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] |
 | `Karma` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `BIRD` | **unresolved** (review queue) |
-| `GREAT` | **unresolved** (review queue) |
+| `GREAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREAT INVISIBLE FOREFATHER|GREAT INVISIBLE FOREFATHER]] |
 | `—" the God-like Bird which sits upon the Tree of Life` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `’’—-under the names` | **unresolved** (review queue) |
-| `Hiranyagarbba` | **unresolved** (review queue) |
-| `Karshipta` | **candidate (first-segment only)** → possible `KARSHIPTA, THE BIRD` (not linked) |
+| `Hiranyagarbba` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `Karshipta` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
 | `Simorg Sinamru :— BIRDS A symbol of the Higher Self or the Individuality` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `seated` | **unresolved** (review queue) |
 | `as it were` | **unresolved** (review queue) |
@@ -63,11 +63,11 @@ tags:
 | `Breps (two)` | **unresolved** (review queue) |
 | `F1IG-FRurr` | **unresolved** (review queue) |
 | `HmaNYAGARBHA` | **unresolved** (review queue) |
-| `KALAHANSA` | **candidate (first-segment only)** → possible `KALAHANSA, THE SWAN AND OUT OF TIME` (not linked) |
-| `KaRsHipra` | **unresolved** (review queue) |
+| `KALAHANSA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KALAHANSA, THE SWAN AND OUT OF TIME|KALAHANSA, THE SWAN AND OUT OF TIME]] |
+| `KaRsHipra` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
 | `PHana` | **unresolved** (review queue) |
 | `Ses` | **unresolved** (review queue) |
-| `Smore` | **unresolved** (review queue) |
+| `Smore` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `Swan. BIRDS;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

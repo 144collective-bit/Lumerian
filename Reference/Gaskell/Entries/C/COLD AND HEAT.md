@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `CHURCHES OF ASIA` | **unresolved** (review queue) |
 | `CONTRAOTION` | **unresolved** (review queue) |
-| `HEatT AND COLD` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
-| `PROPHETS (false)` | **candidate (first-segment only)** → possible `PROPHETS, FALSE` (not linked) |
+| `HEatT AND COLD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEAT AND COLD|HEAT AND COLD]] |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `PROPHETS (false)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PROPHETS, FALSE|PROPHETS, FALSE]] |
 | `Tamas` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

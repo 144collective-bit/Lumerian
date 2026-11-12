@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CEnwraurns` | **unresolved** (review queue) |
 | `Carysk` | **unresolved** (review queue) |
-| `CRONUS` | **unresolved** (review queue) |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
+| `CRONUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 
 ## Full OCR entry body (exact)
 

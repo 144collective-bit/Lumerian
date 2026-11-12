@@ -35,7 +35,7 @@ tags:
 | `Cow OF PLENTY` | **unresolved** (review queue) |
 | `Cow (spotted)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `LEOPARD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEOPARD|LEOPARD]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `MANASI` | **candidate (first-segment only)** → possible `MANASI, THE BELOVED` (not linked) |
+| `MANASI` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] |
 
 ## Full OCR entry body (exact)
 

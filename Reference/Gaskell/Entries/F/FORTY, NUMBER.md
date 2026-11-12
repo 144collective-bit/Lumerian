@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Exopus` | **unresolved** (review queue) |
-| `Gnosis` | **unresolved** (review queue) |
+| `Gnosis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GNOSIS OF LIFE|GNOSIS OF LIFE]] |
 | `Ran (deluge)` | **unresolved** (review queue) |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAPA` | **candidate (first-segment only)** → possible `ADAPA, THE SON OF EA, OR OF ERIDU` (not linked) |
+| `ADAPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAPA, THE SON OF EA, OR OF ERIDU|ADAPA, THE SON OF EA, OR OF ERIDU]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BOLts` | **unresolved** (review queue) |
+| `BOLts` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BOLTS OF THE GATES OF ERIDU|BOLTS OF THE GATES OF ERIDU]] |
 | `Bripcr` | **unresolved** (review queue) |
-| `Dawn` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `Dawn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `Eripv` | **unresolved** (review queue) |
 | `Fiss` | **unresolved** (review queue) |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `Nieut` | **unresolved** (review queue) |
-| `Pytons` | **unresolved** (review queue) |
+| `Pytons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
 | `Sza` | **unresolved** (review queue) |
-| `TAMMUZ` | **candidate (first-segment only)** → possible `TAMMUZ, GOD,—LOWER` (not linked) |
+| `TAMMUZ` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
 
 ## Full OCR entry body (exact)
 

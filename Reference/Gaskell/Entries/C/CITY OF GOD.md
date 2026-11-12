@@ -35,12 +35,12 @@ tags:
 | `AMARAVATI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
 | `ANNU` | **unresolved** (review queue) |
 | `ERIDU` | **unresolved** (review queue) |
-| `GOLDEN PALACES` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `GOLDEN PALACES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLDEN PALACES OF THE CELESTIAL CITY|GOLDEN PALACES OF THE CELESTIAL CITY]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `Kaprua` | **unresolved** (review queue) |
 | `MEASURE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
-| `SIDES` | **unresolved** (review queue) |
-| `ZION` | **unresolved** (review queue) |
+| `SIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIDES OF THE CITY|SIDES OF THE CITY]] |
+| `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HaRPooraTes` | **unresolved** (review queue) |
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
+| `HaRPooraTes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 
 ## Full OCR entry body (exact)
 

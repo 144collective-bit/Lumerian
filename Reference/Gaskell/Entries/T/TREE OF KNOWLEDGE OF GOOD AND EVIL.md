@@ -36,14 +36,14 @@ tags:
 | `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
 | `DEATH` | **unresolved** (review queue) |
 | `EatTiIno` | **unresolved** (review queue) |
-| `Experience` | **unresolved** (review queue) |
-| `Eye` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
+| `Experience` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `Eye` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
 | `Fatt` | **unresolved** (review queue) |
 | `Foop FOR MAN` | **unresolved** (review queue) |
 | `FRvuIrT OF TREE` | **unresolved** (review queue) |
-| `GARDEN` | **unresolved** (review queue) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `KAIOMARTS` | **unresolved** (review queue) |
+| `KAIOMARTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KAIOMARTS KAIOMARTS OR GAYOMARD|KAIOMARTS KAIOMARTS OR GAYOMARD]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |

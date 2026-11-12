@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HmanYAGARBHA` | **unresolved** (review queue) |
+| `HmanYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 
 ## Full OCR entry body (exact)
 

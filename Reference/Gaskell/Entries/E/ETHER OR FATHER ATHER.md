@@ -32,28 +32,28 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNIHOTRA` | **unresolved** (review queue) |
-| `AMEN` | **candidate (first-segment only)** → possible `AMEN, OR AMON (THE HIDDEN ONE)` (not linked) |
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
+| `AGNIHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 | `AruaT` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ARK (safety)` | **unresolved** (review queue) |
-| `ASCENSION (Osiris)` | **unresolved** (review queue) |
+| `ARK (safety)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `ASCENSION (Osiris)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
-| `CaBIN` | **unresolved** (review queue) |
-| `CHILDREN OF HOEUS` | **unresolved** (review queue) |
-| `CoRPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DEITY` | **candidate (first-segment only)** → possible `DEITY, HIDDEN CEALED` (not linked) |
+| `CaBIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] |
+| `CHILDREN OF HOEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
+| `CoRPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DEITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEITY, HIDDEN CEALED|DEITY, HIDDEN CEALED]] |
 | `Equinox` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `JESUS (lamb)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `Kueren` | **unresolved** (review queue) |
 | `Lams or Gop` | **unresolved** (review queue) |
-| `NEt (under)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `NEt (under)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `Pracipati` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `RAM` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `RAM` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SEEKER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

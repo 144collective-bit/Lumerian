@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `CoukcH` | **unresolved** (review queue) |
 | `FLam` | **unresolved** (review queue) |
-| `HuspanD AND wirE` | **unresolved** (review queue) |
+| `HuspanD AND wirE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBAND AND WIFE|HUSBAND AND WIFE]] |
 | `Mrrre` | **unresolved** (review queue) |
-| `Prisst` | **unresolved** (review queue) |
-| `SHEPHERD` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `Prisst` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+| `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Wire` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

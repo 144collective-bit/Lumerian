@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `COMING FORTH` | **unresolved** (review queue) |
+| `COMING FORTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COMING FORTH BY DAY|COMING FORTH BY DAY]] |
 | `CornrsE` | **unresolved** (review queue) |
-| `DEFUNCT` | **candidate (first-segment only)** → possible `DEFUNCT, DECEASED OR DEPARTED PERSON` (not linked) |
+| `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `ENTOMBMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ENTOMBMENT|ENTOMBMENT]] |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
 | `Kuasit` | **unresolved** (review queue) |
 | `Knaus (higher)` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
@@ -47,14 +47,14 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `MRE-STAU` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `ROCK SEPULCHRE` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]] |
 | `Sanu` | **unresolved** (review queue) |
-| `SEPULCHRE` | **unresolved** (review queue) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SEPULCHRE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `SPICES` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 
 ## Full OCR entry body (exact)
 

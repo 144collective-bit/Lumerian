@@ -36,7 +36,7 @@ tags:
 | `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `I A O` | **unresolved** (review queue) |
-| `QUATERNABY` | **unresolved** (review queue) |
+| `QUATERNABY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
 
 ## Full OCR entry body (exact)

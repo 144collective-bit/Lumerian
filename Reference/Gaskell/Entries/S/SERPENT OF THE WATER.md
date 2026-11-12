@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
-| `CRANBERRY` | **unresolved** (review queue) |
-| `DEAD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
+| `ANGRA-MAINYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
+| `CRANBERRY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] |
+| `DEAD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `OF LEMMINKAINEN` | **unresolved** (review queue) |
-| `DHRITA-RASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
+| `DHRITA-RASHTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
 | `HODER` | **unresolved** (review queue) |
 | `LEMMINKAINEN` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEMMINKAINEN|LEMMINKAINEN]] |
 | `MANALA` | **unresolved** (review queue) |
-| `MARJATTA` | **unresolved** (review queue) |
-| `MOTHER (divine)` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `NORTH` | **unresolved** (review queue) |
+| `MARJATTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARJATTA OR MARIATTA|MARJATTA OR MARIATTA]] |
+| `MOTHER (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `NORTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
 | `SHEPHERDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEPHERDS|SHEPHERDS]] |
-| `UNDERWORLD` | **unresolved** (review queue) |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `VISCERA` | **unresolved** (review queue) |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 

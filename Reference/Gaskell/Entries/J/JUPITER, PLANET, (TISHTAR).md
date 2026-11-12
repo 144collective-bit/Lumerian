@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Butt` | **unresolved** (review queue) |
 | `Horns OF GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]] |
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
-| `SATURN` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
-| `TISTRYA` | **unresolved** (review queue) |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
+| `SATURN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
+| `TISTRYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 
 ## Full OCR entry body (exact)
 

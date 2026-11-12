@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Inon` | **unresolved** (review queue) |
-| `NAatTIons` | **unresolved** (review queue) |
-| `RopD OF CORRECTION` | **unresolved** (review queue) |
+| `NAatTIons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
+| `RopD OF CORRECTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROD OF CORRECTION|ROD OF CORRECTION]] |
 
 ## Full OCR entry body (exact)
 

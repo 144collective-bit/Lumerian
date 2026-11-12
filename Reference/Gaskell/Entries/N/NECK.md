@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Mrenat` | **unresolved** (review queue) |
-| `STIFFNECKED` | **unresolved** (review queue) |
+| `STIFFNECKED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STIFFNECKED GENERATION|STIFFNECKED GENERATION]] |
 
 ## Full OCR entry body (exact)
 

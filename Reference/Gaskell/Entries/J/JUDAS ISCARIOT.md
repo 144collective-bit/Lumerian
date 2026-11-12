@@ -37,12 +37,12 @@ tags:
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `CructiFIXION` | **unresolved** (review queue) |
 | `JESUS (gospels)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `MATTER` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `NIGHT AS DARKNESS` | **unresolved** (review queue) |
-| `OLYMPUS` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `SATURN` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
-| `THIRTEEN` | **candidate (first-segment only)** → possible `THIRTEEN, NUMBER` (not linked) |
+| `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `SATURN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
+| `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

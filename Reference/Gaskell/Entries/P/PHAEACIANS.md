@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Atcrnovus` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
-| `CONFLICT` | **unresolved** (review queue) |
-| `CorcyRa` | **candidate (first-segment only)** → possible `CORCYRA, THE ISLAND OF THE PHAACIANS` (not linked) |
-| `COUNTRIES` | **unresolved** (review queue) |
-| `DANCE (circle)` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
+| `CorcyRa` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORCYRA, THE ISLAND OF THE PHAACIANS|CORCYRA, THE ISLAND OF THE PHAACIANS]] |
+| `COUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
+| `DANCE (circle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] |
 | `Muses` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `NaTIoNs` | **candidate (first-segment only)** → possible `NATIONS, OR PEOPLES` (not linked) |
-| `ORPHEUS` | **candidate (first-segment only)** → possible `ORPHEUS, THE DIVINE MUSICIAN` (not linked) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `REaPING` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `NaTIoNs` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
+| `ORPHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORPHEUS, THE DIVINE MUSICIAN|ORPHEUS, THE DIVINE MUSICIAN]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `REaPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SE` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
-| `VAIMANIKA` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+| `VAIMANIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIMANIKA DEITIES|VAIMANIKA DEITIES]] |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 
 ## Full OCR entry body (exact)

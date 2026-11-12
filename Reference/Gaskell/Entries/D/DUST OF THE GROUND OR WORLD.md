@@ -35,7 +35,7 @@ tags:
 | `ApAM (lower)` | **unresolved** (review queue) |
 | `Bmrasts (earth)` | **unresolved** (review queue) |
 | `CursE (serpent)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
-| `Dry` | **unresolved** (review queue) |
+| `Dry` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DRY AND MOIST|DRY AND MOIST]]; [[Reference/Gaskell/Entries/D/DRY-BACKED THROUGH THE DAEVAS|DRY-BACKED THROUGH THE DAEVAS]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Sopa` | **unresolved** (review queue) |
 | `Swear` | **unresolved** (review queue) |

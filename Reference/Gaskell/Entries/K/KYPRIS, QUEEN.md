@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ark` | **unresolved** (review queue) |
+| `Ark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `Bees (libations)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
 | `BLoop (bulls)` | **unresolved** (review queue) |
-| `HaLLowED OFFERINGS` | **unresolved** (review queue) |
+| `HaLLowED OFFERINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HALLOWED OFFERINGS TO KYPRIS|HALLOWED OFFERINGS TO KYPRIS]] |
 
 ## Full OCR entry body (exact)
 

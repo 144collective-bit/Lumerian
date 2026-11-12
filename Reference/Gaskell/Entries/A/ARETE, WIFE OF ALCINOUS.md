@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALCINOUS` | **unresolved** (review queue) |
+| `ALCINOUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ALCINOUS ALCINOUS, KING OF THE PHAEACIANS|ALCINOUS ALCINOUS, KING OF THE PHAEACIANS]] |
 
 ## Full OCR entry body (exact)
 

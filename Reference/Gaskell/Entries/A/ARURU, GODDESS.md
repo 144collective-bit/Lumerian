@@ -37,7 +37,7 @@ tags:
 | `MiyA (higher)` | **unresolved** (review queue) |
 | `MeEropacu` | **unresolved** (review queue) |
 | `MorHER` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY. ARYANA-VAE£` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

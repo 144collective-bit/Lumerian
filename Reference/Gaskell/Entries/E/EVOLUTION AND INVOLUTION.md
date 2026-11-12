@@ -37,32 +37,32 @@ tags:
 | `ARC. MAN. CANCER` | **unresolved** (review queue) |
 | `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
 | `ComING rFoRTH` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `Crater` | **candidate (first-segment only)** → possible `CRATER, OR CUP` (not linked) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `Crater` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
 | `DEATH oF osiRis` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `DeEvaYana` | **unresolved** (review queue) |
 | `Equinox` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
 | `FALt` | **unresolved** (review queue) |
-| `ForM AND NAME` | **candidate (first-segment only)** → possible `FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH` (not linked) |
+| `ForM AND NAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `GoIna IN` | **unresolved** (review queue) |
-| `Image` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Lion-Gop` | **unresolved** (review queue) |
-| `MacrocosM` | **unresolved** (review queue) |
+| `Image` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Lion-Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LION-GOD, DOUBLE|LION-GOD, DOUBLE]] |
+| `MacrocosM` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MAHAYANA` | **unresolved** (review queue) |
 | `Mrrnra` | **unresolved** (review queue) |
 | `Musvusi` | **unresolved** (review queue) |
-| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SACRIFICER` | **candidate (first-segment only)** → possible `SACRIFICER, THE` (not linked) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `Szpnrmors` | **unresolved** (review queue) |
 | `Spiair` | **unresolved** (review queue) |
-| `T (letter)` | **candidate (ambiguous first-segment)** → T, ELIJAH THE RESTORER; T, THE LETTER SYCAMORE AND ACACIA; T, THE LETTER, OR THE TAU CROSS (not linked) |
-| `Tuart` | **unresolved** (review queue) |
+| `T (letter)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/T, ELIJAH THE RESTORER|T, ELIJAH THE RESTORER]]; [[Reference/Gaskell/Entries/T/T, THE LETTER, OR THE TAU CROSS|T, THE LETTER, OR THE TAU CROSS]]; [[Reference/Gaskell/Entries/T/T, THE LETTER SYCAMORE AND ACACIA|T, THE LETTER SYCAMORE AND ACACIA]] |
+| `Tuart` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

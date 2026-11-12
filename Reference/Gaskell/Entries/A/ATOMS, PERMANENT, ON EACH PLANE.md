@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMITAUGAS` | **unresolved** (review queue) |
+| `AMITAUGAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMITAUGAS COUCH (ENDLESS SPLENDOUR)|AMITAUGAS COUCH (ENDLESS SPLENDOUR)]] |
 | `GOLD-COLOURED spoT` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD-COLOURED SPOT|GOLD-COLOURED SPOT]] |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `PRANA` | **unresolved** (review queue) |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
+| `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `PROSPERITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

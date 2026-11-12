@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AFU-RA` | **unresolved** (review queue) |
-| `AHAVANIYA` | **unresolved** (review queue) |
-| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
+| `AHAVANIYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AHAVANIYA FIRE|AHAVANIYA FIRE]] |
+| `ARGO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
 | `East` | **unresolved** (review queue) |
-| `GARHAPATYA` | **unresolved** (review queue) |
-| `NoRTH` | **unresolved** (review queue) |
+| `GARHAPATYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
+| `NoRTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
 | `Sour` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

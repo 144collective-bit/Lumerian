@@ -32,43 +32,43 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAM` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAM, DUAL|ADAM, DUAL]]; [[Reference/Gaskell/Entries/A/ADAM (HIGHER ASPECT)|ADAM (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
 | `AIR-2THER` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BuppuHI` | **unresolved** (review queue) |
 | `CIRCLE oF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
-| `CREATION` | **unresolved** (review queue) |
-| `CRIPPLES` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `CRIPPLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRIPPLES ABSENT FROM THE VARA|CRIPPLES ABSENT FROM THE VARA]] |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FORM AND NAME` | **candidate (first-segment only)** → possible `FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FORM AND NAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `GEOMETRY` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
-| `GLoRy` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `GLoRy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
 | `GoIna In` | **unresolved** (review queue) |
 | `Goop (light)` | **unresolved** (review queue) |
 | `Hers (seed)` | **unresolved** (review queue) |
 | `Iasraorn` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `KHWAN` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
-| `LION-GOD` | **candidate (first-segment only)** → possible `LION-GOD, DOUBLE` (not linked) |
+| `LION-GOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LION-GOD, DOUBLE|LION-GOD, DOUBLE]]; [[Reference/Gaskell/Entries/L/LION-GOD LION-GAIT OF BUDDHA|LION-GOD LION-GAIT OF BUDDHA]] |
 | `MaTrer` | **unresolved** (review queue) |
-| `MEDIATOR` | **unresolved** (review queue) |
+| `MEDIATOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEDIATOR CHRIST|MEDIATOR CHRIST]] |
 | `MirHRA` | **unresolved** (review queue) |
-| `MonaD` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
+| `MonaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 | `Mvusvusli` | **unresolved** (review queue) |
-| `Necessiry` | **unresolved** (review queue) |
+| `Necessiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
 | `Nicut` | **unresolved** (review queue) |
 | `Ocpoap` | **unresolved** (review queue) |
-| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `PurusHa` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
 | `Sou. (highest)` | **unresolved** (review queue) |
 | `Sout anp sBopy` | **unresolved** (review queue) |
 | `fT letter` | **unresolved** (review queue) |
-| `VistasP` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
+| `VistasP` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
 
 ## Full OCR entry body (exact)

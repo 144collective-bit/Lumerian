@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARABS` | **unresolved** (review queue) |
-| `COUNTRIES` | **unresolved** (review queue) |
+| `ARABS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARABS ENTERING IRAN|ARABS ENTERING IRAN]] |
+| `COUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
 | `GREECE` | **unresolved** (review queue) |
-| `Hector` | **candidate (first-segment only)** → possible `HECTOR, SON OF PRIAM` (not linked) |
+| `Hector` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HECTOR, SON OF PRIAM|HECTOR, SON OF PRIAM]] |
 | `Heven` | **unresolved** (review queue) |
 | `Intum` | **unresolved** (review queue) |
-| `Priam` | **unresolved** (review queue) |
-| `Sares (Ilium)` | **unresolved** (review queue) |
+| `Priam` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
+| `Sares (Ilium)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAGES, GREAT|SAGES, GREAT]] |
 | `TRoy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
-| `WARRIORS` | **candidate (first-segment only)** → possible `WARRIORS, TWIN` (not linked) |
+| `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
 
 ## Full OCR entry body (exact)
 

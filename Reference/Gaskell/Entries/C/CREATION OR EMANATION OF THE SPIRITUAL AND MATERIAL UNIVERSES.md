@@ -36,32 +36,32 @@ tags:
 | `BREATIC` | **unresolved** (review queue) |
 | `CARPENTER` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CARPENTER|CARPENTER]] |
 | `Cotours` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Dayiicut` | **unresolved** (review queue) |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `ELremEnts` | **unresolved** (review queue) |
+| `ELremEnts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `EvoLutTion` | **unresolved** (review queue) |
 | `HEAL182 CREATURES tno` | **unresolved** (review queue) |
 | `Hrager` | **unresolved** (review queue) |
 | `Imacer` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Kuren` | **unresolved** (review queue) |
-| `Loom` | **unresolved** (review queue) |
-| `MacrocosM` | **unresolved** (review queue) |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
+| `MacrocosM` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Nicut` | **unresolved** (review queue) |
 | `PLERoMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
-| `PurusHaA` | **unresolved** (review queue) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `PurusHaA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SimMILitrupEs` | **unresolved** (review queue) |
 | `Soun (highest)` | **unresolved** (review queue) |
-| `Spermatic` | **unresolved** (review queue) |
+| `Spermatic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `Tes` | **unresolved** (review queue) |
-| `TIME` | **unresolved** (review queue) |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
 | `TyPE Vivannao` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
-| `WoRLDS (five)` | **unresolved** (review queue) |
+| `WoRLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `YI SYSTEM` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

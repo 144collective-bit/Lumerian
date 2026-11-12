@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `ALCINOUS` | **unresolved** (review queue) |
-| `ESTHER` | **candidate (first-segment only)** → possible `ESTHER, BOOK OF` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `ALCINOUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ALCINOUS ALCINOUS, KING OF THE PHAEACIANS|ALCINOUS ALCINOUS, KING OF THE PHAEACIANS]] |
+| `ESTHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]] |
 | `GOVERNORS` | **unresolved** (review queue) |
-| `HEROD` | **unresolved** (review queue) |
-| `JANAKA` | **candidate (first-segment only)** → possible `JANAKA, KING OF VIDEHA` (not linked) |
-| `MELCARTHUS` | **candidate (first-segment only)** → possible `MELCARTHUS, KING` (not linked) |
-| `RAVANA` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
-| `RULER` | **candidate (first-segment only)** → possible `RULER, CHIEF, OR KING` (not linked) |
-| `TRIBUTE` | **unresolved** (review queue) |
+| `HEROD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] |
+| `JANAKA` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JANAKA, KING OF VIDEHA|JANAKA, KING OF VIDEHA]] |
+| `MELCARTHUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MELCARTHUS, KING|MELCARTHUS, KING]] |
+| `RAVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
+| `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
+| `TRIBUTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBUTE MONEY|TRIBUTE MONEY]] |
 
 ## Full OCR entry body (exact)
 

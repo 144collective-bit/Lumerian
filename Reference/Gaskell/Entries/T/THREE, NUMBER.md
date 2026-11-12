@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SIGN` | **unresolved** (review queue) |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SIGN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIGN OR SYMBOL (SACRED)|SIGN OR SYMBOL (SACRED)]] |
 | `TRI«D` | **unresolved** (review queue) |
 | `TRINITY` | **unresolved** (review queue) |
 | `WALKING DAY BY DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]] |

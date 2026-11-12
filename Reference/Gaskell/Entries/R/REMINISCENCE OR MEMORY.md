@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GatHas (chanting)` | **candidate (first-segment only)** → possible `GATHAS, CHANTING THE` (not linked) |
-| `KawcHas` | **unresolved** (review queue) |
+| `GatHas (chanting)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
+| `KawcHas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KALCHAS, OR CALCHAS, SON OF THESTOR|KALCHAS, OR CALCHAS, SON OF THESTOR]] |
 | `RECOGNITION` | **unresolved** (review queue) |
-| `RECOLLECTION` | **unresolved** (review queue) |
-| `SHIPS (Greoks)` | **candidate (first-segment only)** → possible `SHIPS, BEAKED` (not linked) |
+| `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
+| `SHIPS (Greoks)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]]; [[Reference/Gaskell/Entries/S/SHIPS OF THE GREEKS|SHIPS OF THE GREEKS]]; [[Reference/Gaskell/Entries/S/SHIPS OF THE GREEKS GUIDED TO ILIUM (TROY)|SHIPS OF THE GREEKS GUIDED TO ILIUM (TROY)]] |
 
 ## Full OCR entry body (exact)
 

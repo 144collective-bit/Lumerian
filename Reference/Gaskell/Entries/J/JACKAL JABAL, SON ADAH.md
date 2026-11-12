@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADAH` | **unresolved** (review queue) |
+| `ADAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAH AND ZILLAH, WIVES OF LAMECH|ADAH AND ZILLAH, WIVES OF LAMECH]] |
 | `JUBAL` | **unresolved** (review queue) |
-| `PATRIARCHS` | **unresolved** (review queue) |
+| `PATRIARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
 
 ## Full OCR entry body (exact)
 

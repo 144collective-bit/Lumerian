@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABSYRTUS` | **candidate (first-segment only)** → possible `ABSYRTUS, BROTHER OF MEDEA` (not linked) |
-| `TONGUE (lower). divine` | **candidate (first-segment only)** → possible `TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS` (not linked) |
+| `ABSYRTUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABSYRTUS, BROTHER OF MEDEA|ABSYRTUS, BROTHER OF MEDEA]] |
+| `TONGUE (lower). divine` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

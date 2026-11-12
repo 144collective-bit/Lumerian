@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Om` | **unresolved** (review queue) |
-| `UpGITHA` | **unresolved** (review queue) |
+| `UpGITHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UDGITHA, OM|UDGITHA, OM]] |
 
 ## Full OCR entry body (exact)
 

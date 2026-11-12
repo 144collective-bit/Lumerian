@@ -35,9 +35,9 @@ tags:
 | `Crops` | **unresolved** (review queue) |
 | `Eoyrr (higher)` | **unresolved** (review queue) |
 | `GaLzs` | **unresolved** (review queue) |
-| `PHEDRUS` | **unresolved** (review queue) |
-| `SHARP AIR` | **candidate (first-segment only)** → possible `SHARP AIR, OR EVERY SORT OF WIND` (not linked) |
-| `STORM` | **unresolved** (review queue) |
+| `PHEDRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHEDRUS RIVER|PHEDRUS RIVER]] |
+| `SHARP AIR` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHARP AIR, OR EVERY SORT OF WIND|SHARP AIR, OR EVERY SORT OF WIND]] |
+| `STORM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
 | `TawHinrl` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

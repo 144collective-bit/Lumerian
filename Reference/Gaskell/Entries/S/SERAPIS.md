@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Apis` | **candidate (first-segment only)** → possible `APIS, BULL OF THE WEST` (not linked) |
+| `Apis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APIS, BULL OF THE WEST|APIS, BULL OF THE WEST]] |
 | `But (primeval)` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |

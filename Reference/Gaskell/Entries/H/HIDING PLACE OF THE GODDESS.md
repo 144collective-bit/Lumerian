@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `CavE` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `CavE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `EpEN` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
-| `Return` | **unresolved** (review queue) |
+| `Return` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RETURN OF THE GREAT GODDESS|RETURN OF THE GREAT GODDESS]] |
 | `Svusanowo` | **unresolved** (review queue) |
-| `Uzumk` | **unresolved** (review queue) |
+| `Uzumk` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

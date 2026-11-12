@@ -35,27 +35,27 @@ tags:
 | `Apam (higher)` | **unresolved** (review queue) |
 | `ARO. MAN` | **unresolved** (review queue) |
 | `Buppaa` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CRANIUM` | **candidate (first-segment only)** → possible `CRANIUM, OR MACROCOSM` (not linked) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CRANIUM` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRANIUM, OR MACROCOSM|CRANIUM, OR MACROCOSM]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Evo.urion` | **unresolved** (review queue) |
 | `First-sorn` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `Gop HEAD` | **unresolved** (review queue) |
 | `HicHER` | **unresolved** (review queue) |
 | `ImMace` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
 | `MoNap OF LIFE` | **unresolved** (review queue) |
 | `Pracfipati` | **unresolved** (review queue) |
-| `ProroryPes` | **unresolved** (review queue) |
-| `SEPHIROTH` | **unresolved** (review queue) |
+| `ProroryPes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `Som oF cop` | **unresolved** (review queue) |
 | `Sout (highest)` | **unresolved** (review queue) |
-| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
 | `Triniry` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -37,7 +37,7 @@ tags:
 | `ARC. MAN` | **unresolved** (review queue) |
 | `ASEEYATIO WORLD` | **unresolved** (review queue) |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `ATZEELOOTH` | **unresolved** (review queue) |
 | `BIn4#` | **unresolved** (review queue) |
 | `BREEATIC WORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
@@ -46,16 +46,16 @@ tags:
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `Hoxumau` | **unresolved** (review queue) |
 | `HuMAN Bopy` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JoB` | **unresolved** (review queue) |
-| `KETHER` | **candidate (first-segment only)** → possible `KETHER, THE CROWN` (not linked) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `KETHER` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KETHER, THE CROWN|KETHER, THE CROWN]] |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MicROCOSM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
-| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
-| `Warp` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
-| `YETZEERATIC WORLD` | **candidate (first-segment only)** → possible `YETZEERATIC WORLD, THE WORLD OF FORMATION` (not linked) |
+| `Warp` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+| `YETZEERATIC WORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YETZEERATIC WORLD, THE WORLD OF FORMATION|YETZEERATIC WORLD, THE WORLD OF FORMATION]] |
 
 ## Full OCR entry body (exact)
 

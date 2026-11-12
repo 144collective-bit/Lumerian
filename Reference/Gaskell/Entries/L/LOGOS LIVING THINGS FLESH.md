@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (dual)` | **unresolved** (review queue) |
-| `ARK (Noah)` | **unresolved** (review queue) |
+| `ARK (Noah)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `Muttiety` | **unresolved** (review queue) |
-| `SEEDS (creatures)` | **unresolved** (review queue) |
+| `SEEDS (creatures)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
-| `Two` | **candidate (first-segment only)** → possible `TWO, NUMBER` (not linked) |
-| `VITAL aIRs` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
+| `VITAL aIRs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 
 ## Full OCR entry body (exact)
 

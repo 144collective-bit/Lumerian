@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `FIG-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] |
-| `HOMA-TREE` | **unresolved** (review queue) |
-| `Piants` | **unresolved** (review queue) |
+| `HOMA-TREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
+| `Piants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `Sacriricr` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
-| `VINE` | **candidate (first-segment only)** → possible `VINE, AS THE TREE OF LIFE` (not linked) |
-| `VRITRA` | **unresolved** (review queue) |
+| `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
+| `VRITRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VRITRA DEMON|VRITRA DEMON]] |
 
 ## Full OCR entry body (exact)
 

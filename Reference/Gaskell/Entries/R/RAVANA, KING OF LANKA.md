@@ -32,22 +32,22 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `ALTAR (fire)` | **unresolved** (review queue) |
-| `ATONEMENT` | **unresolved** (review queue) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,—THE EARTH]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `DURODHANA` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `HANUMAN` | **candidate (first-segment only)** → possible `HANUMAN, SON OF VAYU` (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `HANUMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `KamA` | **unresolved** (review queue) |
-| `LANKA` | **unresolved** (review queue) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `SEPARATION (heaven)` | **unresolved** (review queue) |
+| `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `SEPARATION (heaven)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Sopsra (lower)` | **unresolved** (review queue) |
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `VIBHISHANA` | **candidate (first-segment only)** → possible `VIBHISHANA, RAVANA` (not linked) |
+| `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 | `VRITRA. RAVEN OF NOAH :-—A symbol of the lower mind` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which goes forth to the things of the world` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -61,7 +61,7 @@ tags:
 | `p. 120. ‘‘The raven washeth and rubbeth itself in a small pool in the desert; ite mind and body are full of demerits and RAVENS ite beak of filth” (Hymn of Guru Nanak). —MACAULIFFE` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `The Sikh Religion` | **unresolved** (review queue) |
 | `Vol. I. p. 380. See Dove` | **unresolved** (review queue) |
-| `OLIVE LEAF` | **unresolved** (review queue) |
+| `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 
 ## Full OCR entry body (exact)
 

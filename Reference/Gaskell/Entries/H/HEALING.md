@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `DISEASE` | **candidate (first-segment only)** → possible `DISEASE, OR SICKNESS` (not linked) |
-| `IMAGE` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DISEASE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISEASE, OR SICKNESS|DISEASE, OR SICKNESS]] |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `LEPER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LEPER|LEPER]] |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
 | `Mrractes` | **unresolved** (review queue) |
 | `MUuLITrupE` | **unresolved** (review queue) |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `Poot (Bethesda)` | **unresolved** (review queue) |
 | `Rrrzs` | **unresolved** (review queue) |
 | `Sun (of righteousness)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `TEN` | **candidate (first-segment only)** → possible `TEN, NUMBER` (not linked) |
+| `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

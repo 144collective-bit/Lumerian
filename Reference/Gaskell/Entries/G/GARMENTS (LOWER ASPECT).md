@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Buinp Man` | **unresolved** (review queue) |
+| `Buinp Man` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
-| `NAKEDNESS` | **unresolved** (review queue) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `NAKEDNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

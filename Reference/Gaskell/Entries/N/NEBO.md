@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hermes` | **unresolved** (review queue) |
-| `NARADA` | **candidate (first-segment only)** → possible `NARADA, THE GREAT RISHI` (not linked) |
-| `OVERSEER` | **unresolved** (review queue) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `NARADA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NARADA, THE GREAT RISHI|NARADA, THE GREAT RISHI]] |
+| `OVERSEER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OVERSEER OF THE HOUSE|OVERSEER OF THE HOUSE]] |
 | `THor` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `THOTH. NEBROPHONUS` | **unresolved** (review queue) |
 | `A SON _` | **unresolved** (review queue) |

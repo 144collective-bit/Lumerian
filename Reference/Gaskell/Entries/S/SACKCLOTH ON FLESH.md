@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
-| `ASHES` | **unresolved** (review queue) |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
+| `ASHES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]]; [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `CLOTHES` | **unresolved** (review queue) |
-| `DANCE` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `DANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
 | `RENDING GARMENTS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

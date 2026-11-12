@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `DEATH oF osrRis` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `Re-stavu` | **unresolved** (review queue) |
+| `Re-stavu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
 | `Rock sEPULCHRE` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]] |
-| `SPiczs` | **unresolved** (review queue) |
-| `Sunpay` | **unresolved** (review queue) |
+| `SPiczs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
+| `Sunpay` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 | `THroat` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THROAT|THROAT]] |
 | `Toms` | **unresolved** (review queue) |
 

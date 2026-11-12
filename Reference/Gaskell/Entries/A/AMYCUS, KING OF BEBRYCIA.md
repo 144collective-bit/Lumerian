@@ -35,7 +35,7 @@ tags:
 | `Anco` | **unresolved** (review queue) |
 | `BEBRycia` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEBRYCIA|BEBRYCIA]] |
 | `DIOSCURI` | **unresolved** (review queue) |
-| `PoLLux` | **unresolved** (review queue) |
+| `PoLLux` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLLUX OR POLYDEUKES|POLLUX OR POLYDEUKES]] |
 
 ## Full OCR entry body (exact)
 

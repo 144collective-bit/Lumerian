@@ -35,7 +35,7 @@ tags:
 | `AMATERASU` | **unresolved** (review queue) |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `Loom` | **unresolved** (review queue) |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
 | `SHELTER. WOOL` | **unresolved** (review queue) |
 | `WHITE : WISDOM. See CRANIUM` | **unresolved** (review queue) |
 

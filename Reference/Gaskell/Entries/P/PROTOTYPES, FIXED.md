@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ATMA` | **unresolved** (review queue) |
+| `ATMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `ATZEELATIC` | **unresolved** (review queue) |
 | `BuDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `CoLouR` | **candidate (first-segment only)** → possible `COLOUR, AND BLACK AND WHITE` (not linked) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `CoLouR` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COLOUR, AND BLACK AND WHITE|COLOUR, AND BLACK AND WHITE]] |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `GERMS` | **unresolved** (review queue) |
 | `GoDDESs` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
@@ -46,10 +46,10 @@ tags:
 | `[macE` | **unresolved** (review queue) |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `Smarropes` | **unresolved** (review queue) |
-| `Spark` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
-| `SPERMATIC WwORDS` | **unresolved** (review queue) |
-| `TYPE` | **unresolved** (review queue) |
-| `WORLDS (five)` | **unresolved** (review queue) |
+| `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+| `SPERMATIC WwORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
+| `TYPE` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPE AND ANTITYPE|TYPE AND ANTITYPE]] |
+| `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 
 ## Full OCR entry body (exact)
 

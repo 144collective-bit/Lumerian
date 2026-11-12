@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DEPRAVITY` | **candidate (first-segment only)** → possible `DEPRAVITY, UNIVERSAL` (not linked) |
+| `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
 | `FLoop` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

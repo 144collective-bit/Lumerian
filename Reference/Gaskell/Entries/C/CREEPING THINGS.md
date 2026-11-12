@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
 | `Birps` | **unresolved** (review queue) |
 | `CatTri_e` | **unresolved** (review queue) |
-| `Dwarrs` | **unresolved** (review queue) |
+| `Dwarrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DWARFS|DWARFS]] |
 | `Hepcrnoc` | **unresolved** (review queue) |
 | `Imaae` | **unresolved** (review queue) |
 | `STArworms` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STAR-WORMS|STAR-WORMS]] |

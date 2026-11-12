@@ -35,9 +35,9 @@ tags:
 | `1 Cor. v. 8. See Banquet` | **unresolved** (review queue) |
 | `Cautr (fatted)` | **unresolved** (review queue) |
 | `Cow (plenty)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `Fat` | **unresolved** (review queue) |
+| `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `Foop` | **unresolved** (review queue) |
-| `Movuntain` | **unresolved** (review queue) |
+| `Movuntain` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `Wr` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

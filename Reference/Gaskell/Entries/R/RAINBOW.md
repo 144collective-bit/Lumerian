@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `GARMENTS` | **unresolved** (review queue) |
-| `GATE OF SALUTATION` | **unresolved** (review queue) |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
+| `GATE OF SALUTATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]] |
 | `were` | **unresolved** (review queue) |
 | `between the higher and the Guest (wedding)` | **unresolved** (review queue) |
-| `Loven` | **unresolved** (review queue) |
-| `SHINING` | **unresolved** (review queue) |
+| `Loven` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
+| `SHINING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINING FACE OF JESUS|SHINING FACE OF JESUS]] |
 | `lower natures (heaven and earth). TRANSFIGURATION` | **unresolved** (review queue) |
 | `WHITE. The rainbow is a peculiarly appro: priate symbol of the ‘bridge of RAN heaven` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `’’ caused as it is by the A symbol of downpouring truth reflection of the sun (the Self) in the (water) from buddhi (cloud)` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -51,7 +51,7 @@ tags:
 | `Polynestan Researches` | **unresolved** (review queue) |
 | `Vol. I. p. 231. The Higher Self throws from the higher mental plane to the plane of the desires a bridge or pathway across which it may descend to the lower planes. And at regular intervals descents` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—evening` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
-| `night` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `night` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `morning` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
 | `— marking periods of incarnation` | **unresolved** (review queue) |
 | `would be made; after which the Self` | **unresolved** (review queue) |
@@ -64,7 +64,7 @@ tags:
 | `—‘ Upon it` | **unresolved** (review queue) |
 | `they say` | **unresolved** (review queue) |
 | `there are colours` | **unresolved** (review queue) |
-| `white` | **unresolved** (review queue) |
+| `white` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `and blue` | **unresolved** (review queue) |
 | `and brown` | **unresolved** (review queue) |
 | `and gold` | **unresolved** (review queue) |
@@ -109,24 +109,24 @@ tags:
 | `and assured of endless rest with Him. The lower world yet hides the rest of the ring ; but on high ‘ a rainbow’ shall be seen ‘in a circle round the throne.’ ”’—A. Juxrs` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Types of Gencsia` | **unresolved** (review queue) |
 | `p- 129. See Brrrost` | **unresolved** (review queue) |
-| `Bow` | **unresolved** (review queue) |
+| `Bow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]]; [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] |
 | `BRIDGE or HEAVEN` | **unresolved** (review queue) |
 | `CLoups` | **unresolved** (review queue) |
 | `CovVENANT` | **unresolved** (review queue) |
 | `DEvaCHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `EartTH` | **unresolved** (review queue) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `Fatt` | **unresolved** (review queue) |
 | `HEAVENLY REGIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVENLY REGIONS|HEAVENLY REGIONS]] |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `Ins` | **unresolved** (review queue) |
-| `MusPrELL (sons)` | **unresolved** (review queue) |
+| `MusPrELL (sons)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `Noa` | **unresolved** (review queue) |
-| `Oro` | **candidate (first-segment only)** → possible `ORO, THE TAHITIAN GOD` (not linked) |
+| `Oro` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `REINCARNATION` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `TAATA4` | **unresolved** (review queue) |
-| `Vapour (white)` | **candidate (first-segment only)** → possible `VAPOUR, WHITE` (not linked) |
+| `Vapour (white)` | resolved (exact) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 | `WartTER` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

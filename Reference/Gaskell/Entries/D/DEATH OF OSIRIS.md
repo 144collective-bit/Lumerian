@@ -33,27 +33,27 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `Aso` | **candidate (first-segment only)** → possible `ASO, QUEEN OF ETHIOPIA` (not linked) |
-| `AVENGING` | **unresolved** (review queue) |
+| `Aso` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASO, QUEEN OF ETHIOPIA|ASO, QUEEN OF ETHIOPIA]] |
+| `AVENGING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AVENGING THE DIVINE SACRIFICE|AVENGING THE DIVINE SACRIFICE]] |
 | `BreTtH OF osikis` | **unresolved** (review queue) |
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
 | `COLUMN` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
 | `DwaRF` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DWARF|DWARF]] |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FEast` | **candidate (first-segment only)** → possible `FEAST, ROYAL, OF TYPHON (SET)` (not linked) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FEast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `INvo.tvurion` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `Mummy or osrnis` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `PurusHé` | **unresolved** (review queue) |
-| `QEBHSENNUF` | **candidate (first-segment only)** → possible `QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM` (not linked) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
-| `SEKER` | **unresolved** (review queue) |
-| `SEPULCHRES` | **candidate (first-segment only)** → possible `SEPULCHRES, OR TOMBS` (not linked) |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `PurusHé` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+| `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+| `SEKER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKER OR SOKARIS|SEKER OR SOKARIS]] |
+| `SEPULCHRES` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YMIR` | **unresolved** (review queue) |
 | `ZAGREUS. DEATH` | **unresolved** (review queue) |

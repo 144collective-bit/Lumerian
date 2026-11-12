@@ -34,16 +34,16 @@ tags:
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `GERMS` | **unresolved** (review queue) |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
-| `IMAGE` | **unresolved** (review queue) |
-| `MONAD (form` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `MONAD (form` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 | `life)` | **unresolved** (review queue) |
 | `PRrororyPrs` | **unresolved** (review queue) |
-| `SEEDS` | **unresolved** (review queue) |
-| `SIMILITUDES` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `SEEDS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+| `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 
 ## Full OCR entry body (exact)
 

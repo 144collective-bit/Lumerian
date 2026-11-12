@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CaIn` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
-| `Forty Days` | **unresolved** (review queue) |
-| `GROUND` | **candidate (first-segment only)** → possible `GROUND, HOLY` (not linked) |
+| `Forty Days` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]]; [[Reference/Gaskell/Entries/F/FORTY DAYS OR YEARS|FORTY DAYS OR YEARS]] |
+| `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 
 ## Full OCR entry body (exact)
 

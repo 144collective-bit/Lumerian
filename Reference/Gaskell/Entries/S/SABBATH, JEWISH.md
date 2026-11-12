@@ -35,22 +35,22 @@ tags:
 | `Arc. MAN` | **unresolved** (review queue) |
 | `BrEaTH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Buppulc (plane)` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `EvoLuTION` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `EvoLuTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Hour (mid-day)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
 | `Imacr` | **unresolved** (review queue) |
 | `INcARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `MALKHUTH` | **unresolved** (review queue) |
-| `Manvanrara` | **unresolved** (review queue) |
+| `Manvanrara` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `Nicut` | **unresolved** (review queue) |
-| `Nox` | **candidate (first-segment only)** → possible `NOX, SISTER OF EREBUS` (not linked) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `Prataya` | **unresolved** (review queue) |
-| `PRoroTypes` | **unresolved** (review queue) |
-| `SaruRDAY` | **unresolved** (review queue) |
-| `SEVENTH` | **unresolved** (review queue) |
-| `SUNDAY` | **candidate (first-segment only)** → possible `SUNDAY, THE FIRST DAY` (not linked) |
+| `PRoroTypes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+| `SaruRDAY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATURDAY, THE SIXTH DAY|SATURDAY, THE SIXTH DAY]] |
+| `SEVENTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEVENTH DAY|SEVENTH DAY]]; [[Reference/Gaskell/Entries/S/SEVENTH HOUR OF THE NIGHT OF THE TUAT|SEVENTH HOUR OF THE NIGHT OF THE TUAT]] |
+| `SUNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 
 ## Full OCR entry body (exact)
 

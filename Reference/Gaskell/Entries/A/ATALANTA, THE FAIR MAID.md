@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
 | `ARGONAUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
-| `SCENT` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
+| `SCENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 
 ## Full OCR entry body (exact)
 

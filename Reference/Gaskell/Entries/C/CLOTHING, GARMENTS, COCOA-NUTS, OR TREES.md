@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Brains` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRAINS|BRAINS]] |
 | `ExEu-cop` | **unresolved** (review queue) |
-| `FisH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `Roneo` | **unresolved** (review queue) |
 | `Srva` | **unresolved** (review queue) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARMS OF BODY` | **unresolved** (review queue) |
-| `CORN` | **candidate (first-segment only)** → possible `CORN, OR WHEAT` (not linked) |
+| `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 
 ## Full OCR entry body (exact)
 

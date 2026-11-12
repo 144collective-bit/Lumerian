@@ -35,8 +35,8 @@ tags:
 | `Danret` | **unresolved** (review queue) |
 | `Ecyrt` | **unresolved** (review queue) |
 | `GENTILES JACOB` | **unresolved** (review queue) |
-| `JEWS` | **unresolved** (review queue) |
-| `JOB` | **unresolved** (review queue) |
+| `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 
 ## Full OCR entry body (exact)
 

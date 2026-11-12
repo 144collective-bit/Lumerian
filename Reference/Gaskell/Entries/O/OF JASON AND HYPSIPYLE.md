@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HyYPsipyLe` | **unresolved** (review queue) |
-| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `HyYPsipyLe` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYPSIPYLE, DAUGHTER OF THOAS|HYPSIPYLE, DAUGHTER OF THOAS]] |
+| `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 
 ## Full OCR entry body (exact)
 

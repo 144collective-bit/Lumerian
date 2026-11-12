@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BLACKSMITHS` | **candidate (first-segment only)** → possible `BLACKSMITHS, OR WORKERS IN METAL` (not linked) |
-| `Brass` | **candidate (first-segment only)** → possible `BRASS, BRONZE, METAL` (not linked) |
+| `BLACKSMITHS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
+| `Brass` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `GoLDEN aGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `Iron` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Iron` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `SERPENT (brazen)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sr.vER` | **unresolved** (review queue) |
-| `TUBAL CAIN` | **candidate (first-segment only)** → possible `TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL` (not linked) |
+| `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 | `498 METEMPSYCHOSIS METAL STATUES OF HORUS — A symbol of completion of the qualities of the soul` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and their mergence in the Divine. ‘And from that day there have been metal statues of Horbehidti.’’—Legend of the Winged Sun-disk. And from that period it was possible to define the fullness of stature of the Manifested God. See Inace` | **unresolved** (prose-bleed / overlong token; not linked) |
 

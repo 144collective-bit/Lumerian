@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABRAHAM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABRAHAM|ABRAHAM]] |
-| `Door (narrow)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Door (narrow)` | resolved (exact) → [[Reference/Gaskell/Entries/D/DOOR, NARROW|DOOR, NARROW]] |
 | `FurNACE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] |
 | `JESUS (severity)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `KiINnGpoM OF HEAVEN. TEETH PROTRUDING MOUTH :-These symbolise power; the force of that which is uttered ; the spoken FROM 747 TEM Word of God which goes forth and manifests in act and form. See Boar (wild)` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DesERTs` | **candidate (ambiguous first-segment)** → DESERTS, OR FORESTS; DESERTS, VAST AND UNKNOWN (not linked) |
+| `DesERTs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]]; [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] |
 | `Fano` | **unresolved** (review queue) |
 | `TUSK. TEFNUT` | **unresolved** (review queue) |
 | `WIFE OF SHU :-A symbol of the receptive formside of primordial matter on the buddhic plane` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -49,9 +49,9 @@ tags:
 | `Ch. CXXX. The Supreme Being outpoured the Divine Life` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which emanated on the highest plane` | **unresolved** (review queue) |
 | `and there was added receptiveness to form and quality on the buddhic plane. See BreatH (divine)` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Nut` | **unresolved** (review queue) |
-| `Ra` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `SHu` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
+| `Ra` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 
 ## Full OCR entry body (exact)
 

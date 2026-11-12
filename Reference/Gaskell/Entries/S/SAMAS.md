@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NERYOSANG` | **candidate (first-segment only)** → possible `NERYOSANG, THE ANGEL` (not linked) |
+| `NERYOSANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `Upairna` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

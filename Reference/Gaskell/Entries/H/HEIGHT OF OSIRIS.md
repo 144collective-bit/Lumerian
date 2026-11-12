@@ -38,8 +38,8 @@ tags:
 | `Four crm™ES` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PLaNEs` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `STEM` | **unresolved** (review queue) |
+| `PLaNEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
+| `STEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
 
 ## Full OCR entry body (exact)
 

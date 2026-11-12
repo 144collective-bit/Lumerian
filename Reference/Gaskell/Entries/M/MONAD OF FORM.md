@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BaRHISHAD` | **unresolved** (review queue) |
-| `BODHISATVAS` | **unresolved** (review queue) |
-| `Devas (builders)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `Forms` | **candidate (first-segment only)** → possible `FORMS, PHENOMENAL` (not linked) |
-| `FRavasHis` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `GENERATIVE` | **unresolved** (review queue) |
+| `BaRHISHAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BARHISHAD PITRIS, OR LUNAR SPIRITS|BARHISHAD PITRIS, OR LUNAR SPIRITS]] |
+| `BODHISATVAS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `Devas (builders)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+| `Forms` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] |
+| `FRavasHis` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `GENERATIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]]; [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION TRANSMUTED|GENERATIVE FUNCTION TRANSMUTED]] |
 | `GERMS` | **unresolved** (review queue) |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `Manes` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANES|MANES]] |
 | `Mrruras` | **unresolved** (review queue) |
 | `Prrris` | **unresolved** (review queue) |
 | `Prororyrses` | **unresolved** (review queue) |
-| `SrmMILITUDEs` | **unresolved** (review queue) |
+| `SrmMILITUDEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 
 ## Full OCR entry body (exact)

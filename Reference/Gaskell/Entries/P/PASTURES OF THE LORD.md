@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Doorn (higher)` | **unresolved** (review queue) |
-| `Prisoners` | **unresolved** (review queue) |
+| `Prisoners` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 | `SHEEP. PATERAGTARASPO’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

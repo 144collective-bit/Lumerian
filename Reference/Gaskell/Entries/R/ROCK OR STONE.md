@@ -33,15 +33,15 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ADAM’S DEAD BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
-| `CHEST` | **candidate (first-segment only)** → possible `CHEST, OR COFFER (ARCA), OF OSIRIS` (not linked) |
+| `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
 | `Fre` | **unresolved** (review queue) |
-| `Fortress` | **unresolved** (review queue) |
-| `MELCHIZEDEC` | **unresolved** (review queue) |
+| `Fortress` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORTRESS OR ROCK|FORTRESS OR ROCK]] |
+| `MELCHIZEDEC` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] |
 | `NOAH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
-| `SALVATION` | **unresolved** (review queue) |
-| `STONE` | **unresolved** (review queue) |
-| `TOKENS` | **candidate (first-segment only)** → possible `TOKENS, FOUR SACRED` (not linked) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+| `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+| `TOKENS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

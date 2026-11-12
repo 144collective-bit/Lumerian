@@ -52,22 +52,22 @@ tags:
 | `his religious intuitions (sacred learning)` | **unresolved** (review queue) |
 | `and his social obligations (race). See ANCHORITE` | **unresolved** (review queue) |
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
 | `CiorHinc` | **unresolved** (review queue) |
-| `EarTrH` | **unresolved** (review queue) |
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `Forest` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `HERMIT` | **unresolved** (review queue) |
+| `EarTrH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `Forest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOREST PATHS OF LIFE|FOREST PATHS OF LIFE]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `HERMIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `MonaD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `ORDERS` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
+| `ORDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]]; [[Reference/Gaskell/Entries/O/ORDERS OF THE SPACES|ORDERS OF THE SPACES]] |
 | `SACRED TEXT` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
 | `WALKING DAY BY DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]] |
-| `WEALTH` | **unresolved** (review queue) |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

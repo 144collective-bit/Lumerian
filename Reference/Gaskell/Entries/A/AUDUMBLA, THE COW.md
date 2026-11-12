@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arno. man` | **unresolved** (review queue) |
-| `Bur` | **candidate (first-segment only)** → possible `BUR, WHOSE SON WAS BORR` (not linked) |
+| `Bur` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUR, WHOSE SON WAS BORR|BUR, WHOSE SON WAS BORR]] |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Frost` | **unresolved** (review queue) |
 | `Ick` | **unresolved** (review queue) |

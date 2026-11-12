@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `HUSBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SOWER` | **unresolved** (review queue) |
+| `SOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 
 ## Full OCR entry body (exact)
 

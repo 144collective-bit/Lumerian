@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARHATS` | **unresolved** (review queue) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
-| `CausaL` | **unresolved** (review queue) |
-| `DWELLING (palace)` | **unresolved** (review queue) |
-| `Forest` | **unresolved** (review queue) |
-| `HERMIT` | **unresolved** (review queue) |
-| `ORDERS` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
-| `OVERSEER` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `SNATAKA` | **unresolved** (review queue) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
+| `CausaL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]]; [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] |
+| `DWELLING (palace)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
+| `Forest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOREST PATHS OF LIFE|FOREST PATHS OF LIFE]] |
+| `HERMIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
+| `ORDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]]; [[Reference/Gaskell/Entries/O/ORDERS OF THE SPACES|ORDERS OF THE SPACES]] |
+| `OVERSEER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OVERSEER OF THE HOUSE|OVERSEER OF THE HOUSE]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `SNATAKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
 
 ## Full OCR entry body (exact)
 

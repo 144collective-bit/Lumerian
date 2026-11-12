@@ -34,35 +34,35 @@ tags:
 |---|---|
 | `ApEPT` | **unresolved** (review queue) |
 | `ANAGAMIN` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANAGAMIN|ANAGAMIN]] |
-| `ARHAT` | **unresolved** (review queue) |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ASEKA` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
 | `BIRTH OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
-| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `CONJUNCTION` | **candidate (first-segment only)** → possible `CONJUNCTION, SECOND FORTUNATE` (not linked) |
+| `CaUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `CONJUNCTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONJUNCTION, SECOND FORTUNATE|CONJUNCTION, SECOND FORTUNATE]] |
 | `CRUCTIFIXION OF JESUS` | **unresolved** (review queue) |
 | `DEATH` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FYELp` | **unresolved** (review queue) |
 | `Foorsrers` | **unresolved** (review queue) |
 | `ForrTUNATE` | **unresolved** (review queue) |
-| `GosPEL sTORY` | **unresolved** (review queue) |
+| `GosPEL sTORY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOSPEL STORY OF CHRIST|GOSPEL STORY OF CHRIST]] |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
-| `JESUS (severe)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `JESUS (severe)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JESUS, DESCRIBED AS SEVERE AND TURBULENT|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] |
 | `MAN (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `NIRVANA` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
-| `PATRIARCHS` | **unresolved** (review queue) |
+| `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
+| `PATRIARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `SAKRIDAGAMIN` | **unresolved** (review queue) |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `SAKRIDAGAMIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAKRIDAGAMIN INITIATION|SAKRIDAGAMIN INITIATION]] |
 | `SROTAPANNA` | **unresolved** (review queue) |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Book` | **unresolved** (review queue) |
-| `GOING IN` | **unresolved** (review queue) |
+| `Book` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]]; [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
+| `GOING IN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOING IN AND COMING FORTH IN MANIFESTATION|GOING IN AND COMING FORTH IN MANIFESTATION]] |
 | `MANIFESTATION UNTO DAY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

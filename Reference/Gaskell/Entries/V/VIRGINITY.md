@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BrrtTH OF BUDDHA` | **unresolved** (review queue) |
+| `BrrtTH OF BUDDHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `OF JESUS` | **unresolved** (review queue) |
 | `Crurcn` | **unresolved** (review queue) |
-| `Hetura` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `Hetura` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HETHRA, THE MOTHER OF ALL LIVING|HETHRA, THE MOTHER OF ALL LIVING]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `VEIL oF 1818` | **unresolved** (review queue) |
-| `WALKING` | **unresolved** (review queue) |
-| `WOMB or MAydA` | **unresolved** (review queue) |
+| `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
+| `WOMB or MAydA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 
 ## Full OCR entry body (exact)
 

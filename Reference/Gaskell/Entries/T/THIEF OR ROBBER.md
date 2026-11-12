@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
-| `SHEPHERD (good)` | **candidate (first-segment only)** → possible `SHEPHERD, GOOD` (not linked) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
+| `SHEPHERD (good)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 
 ## Full OCR entry body (exact)
 

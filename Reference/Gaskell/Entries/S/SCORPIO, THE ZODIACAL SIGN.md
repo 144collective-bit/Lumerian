@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATHYR` | **unresolved** (review queue) |
+| `ATHYR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATHYR (HATHOR) MONTH|ATHYR (HATHOR) MONTH]] |
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
 | `EVOo.Lourion` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
-| `GENERATIVE` | **unresolved** (review queue) |
+| `GENERATIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]]; [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION TRANSMUTED|GENERATIVE FUNCTION TRANSMUTED]] |
 | `[RON AGE` | **unresolved** (review queue) |
 | `KALE-yuGcs` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
-| `REINCARNATION` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
+| `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

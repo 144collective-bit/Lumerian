@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Surps (beaked)` | **unresolved** (review queue) |
+| `Surps (beaked)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 
 ## Full OCR entry body (exact)
 

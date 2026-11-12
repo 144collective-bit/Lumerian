@@ -36,8 +36,8 @@ tags:
 | `14; Rom. iv. 13-16; Hes. vi. 12-17; 2 Peter i. 3` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `4. See BuiaspHemy` | **unresolved** (review queue) |
 | `Buiessine` | **unresolved** (review queue) |
-| `Hory GHOST` | **unresolved** (review queue) |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `Hory GHOST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
 | `Maw` | **unresolved** (review queue) |
-| `NEPHILIM` | **unresolved** (review queue) |
+| `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
 | `SONS AND DAUGHTERS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS AND DAUGHTERS|SONS AND DAUGHTERS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 

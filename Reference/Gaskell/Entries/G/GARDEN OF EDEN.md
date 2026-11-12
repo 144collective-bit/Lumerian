@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `HIDING` | **unresolved** (review queue) |
-| `HovurIes` | **unresolved** (review queue) |
+| `HIDING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIDING FROM GOD|HIDING FROM GOD]]; [[Reference/Gaskell/Entries/H/HIDING HIDDEKEL RIVER|HIDING HIDDEKEL RIVER]]; [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
+| `HovurIes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `TREASURES (cave)` | **unresolved** (review queue) |
-| `TYRUS` | **unresolved** (review queue) |
+| `TREASURES (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
+| `TYRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
 
 ## Full OCR entry body (exact)
 

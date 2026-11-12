@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALARAMA` | **unresolved** (review queue) |
-| `CHIRON` | **candidate (first-segment only)** → possible `CHIRON, THE DIVINE CENTAUR, SON OF CRONUS` (not linked) |
-| `DIONYsvs` | **unresolved** (review queue) |
-| `DRUNKARD` | **unresolved** (review queue) |
-| `HERMES` | **unresolved** (review queue) |
+| `BALARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
+| `CHIRON` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHIRON, THE DIVINE CENTAUR, SON OF CRONUS|CHIRON, THE DIVINE CENTAUR, SON OF CRONUS]] |
+| `DIONYsvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
+| `DRUNKARD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DRUNKARD ON WINE OR SOMAJUICE|DRUNKARD ON WINE OR SOMAJUICE]] |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
 | `Satyrs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
-| `Surps (lium)` | **unresolved** (review queue) |
+| `Surps (lium)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 | `Wove` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

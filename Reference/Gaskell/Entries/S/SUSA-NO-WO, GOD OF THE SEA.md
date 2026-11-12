@@ -32,32 +32,32 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `AMATERASU` | **unresolved** (review queue) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
 | `CHILD` | **unresolved** (review queue) |
 | `CHILDREN` | **unresolved** (review queue) |
-| `COUNTRIES` | **unresolved** (review queue) |
-| `FALL` | **unresolved** (review queue) |
+| `COUNTRIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] |
+| `FALL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
-| `HIDING PLACE` | **unresolved** (review queue) |
+| `HIDING PLACE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] |
 | `JEWELS` | **unresolved** (review queue) |
-| `MyTHOLOGY` | **unresolved** (review queue) |
+| `MyTHOLOGY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYTHOLOGY MYTHOLOGY|MYTHOLOGY MYTHOLOGY]] |
 | `NECKLACE` | **unresolved** (review queue) |
-| `OPPOSITES` | **candidate (first-segment only)** → possible `OPPOSITES, PAIRS OF` (not linked) |
+| `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `QuauiTies` | **unresolved** (review queue) |
-| `River` | **unresolved** (review queue) |
+| `River` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 | `Ruiers` | **unresolved** (review queue) |
-| `SEA` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `SUTRATMA Sst` | **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
 | `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `TYPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
-| `UKEMOCHI` | **candidate (first-segment only)** → possible `UKEMOCHI, THE FOOD GODDESS` (not linked) |
-| `UNDERWORLD` | **unresolved** (review queue) |
-| `WEAPONS` | **unresolved** (review queue) |
+| `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
+| `UKEMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UKEMOCHI, THE FOOD GODDESS|UKEMOCHI, THE FOOD GODDESS]] |
+| `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
+| `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 | `Yomi. SUTRATMA` | **unresolved** (review queue) |
 | `THE SOUL ”’ :— Symbol of the Divine Ray` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Buddhimanas` | **unresolved** (review queue) |
@@ -103,17 +103,17 @@ tags:
 | `Brmps (two)` | **unresolved** (review queue) |
 | `BRAHMARANDHRAM` | **unresolved** (review queue) |
 | `FIG-FRUIT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
-| `FILLET` | **unresolved** (review queue) |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
-| `HOMA-TREE` | **unresolved** (review queue) |
+| `FILLET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `HOMA-TREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `IsvARA` | **unresolved** (review queue) |
 | `JEWEL SPEAR` | **unresolved** (review queue) |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `Son` | **unresolved** (review queue) |
-| `Tatus` | **unresolved** (review queue) |
+| `Son` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]]; [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]]; [[Reference/Gaskell/Entries/S/SON OR DAUGHTER|SON OR DAUGHTER]] |
+| `Tatus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
 | `Ter` | **unresolved** (review queue) |
 | `TRipeEntr` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 
 ## Full OCR entry body (exact)
 

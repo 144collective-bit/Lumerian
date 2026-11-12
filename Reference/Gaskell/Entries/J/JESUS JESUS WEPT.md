@@ -34,18 +34,18 @@ tags:
 |---|---|
 | `CaLamMITIEs` | **unresolved** (review queue) |
 | `CrTy OR TOWN` | **unresolved** (review queue) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `TEARS. JESUS AS THE FISH }— A symbol of the Higher Self as the Saviour of the human soul. ‘*He (God) had his dwelling in the Great Sea` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and was a Fish therein.’’— Zohar. ** Jesus is a Fish that lives in the midst of waters.”"—St. AUGUSTINE. The ‘Great Sea” is the primeval “‘ water` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `” the symbol of Truth- Reality which outpours from the Absolute. The Higher Self abides and manifests in that Ocean of Truth; hence the symbol of the Fish` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `as the spiritual Life within the reality of Being. See ABTU-FISH` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `DELUGE` | **unresolved** (review queue) |
-| `FisH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
-| `JONAH` | **unresolved** (review queue) |
-| `Pisces` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
-| `PosEIDON` | **unresolved** (review queue) |
-| `Punea` | **unresolved** (review queue) |
-| `TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
+| `FisH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
+| `JONAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JONAH OF THE OLD TESTAMENT|JONAH OF THE OLD TESTAMENT]] |
+| `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
+| `PosEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
+| `Punea` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PUNGA, THE SHARK|PUNGA, THE SHARK]] |
+| `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 
 ## Full OCR entry body (exact)
 

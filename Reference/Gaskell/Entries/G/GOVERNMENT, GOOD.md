@@ -35,9 +35,9 @@ tags:
 | `CIvVILIsING` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `KINGLy orricr` | **unresolved** (review queue) |
-| `Ministers` | **unresolved** (review queue) |
+| `Ministers` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `OHONAMOCHI` | **unresolved** (review queue) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
 
 ## Full OCR entry body (exact)
 

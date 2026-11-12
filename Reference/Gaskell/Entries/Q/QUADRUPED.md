@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANIMAL` | **unresolved** (review queue) |
-| `BULL (man)` | **candidate (ambiguous first-segment)** → BULL, MAN-HEADED; BULL, PRIMEVAL (not linked) |
+| `BULL (man)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]] |
 | `ELEPHANT` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ELEPHANT|ELEPHANT]] |
 | `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
-| `Rat` | **unresolved** (review queue) |
+| `Rat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAT OF GANESA|RAT OF GANESA]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |
 | `SuUTRATMA` | **unresolved** (review queue) |
 

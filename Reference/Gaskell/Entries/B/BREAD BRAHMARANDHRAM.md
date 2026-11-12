@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Backsone` | **unresolved** (review queue) |
+| `Backsone` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BACKBONE|BACKBONE]] |
 | `Door (vara)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
 | `SUN (as door)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Surzatma` | **unresolved** (review queue) |
-| `TET` | **unresolved** (review queue) |
-| `WINDOW` | **unresolved** (review queue) |
+| `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
+| `WINDOW` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WINDOW OR SKYLIGHT|WINDOW OR SKYLIGHT]]; [[Reference/Gaskell/Entries/W/WINDOW WINDOW OF ARK OF NOAH|WINDOW WINDOW OF ARK OF NOAH]] |
 
 ## Full OCR entry body (exact)
 

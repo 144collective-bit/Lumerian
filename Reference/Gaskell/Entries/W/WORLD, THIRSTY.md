@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARENA` | **unresolved** (review queue) |
+| `ARENA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] |
 | `FIELD` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIELD|FIELD]] |
 | `LAW OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF BUDDHA|LAW OF BUDDHA]] |
-| `STREAM` | **unresolved** (review queue) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `STREAM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREAM OF HIS LAW|STREAM OF HIS LAW]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 
 ## Full OCR entry body (exact)
 

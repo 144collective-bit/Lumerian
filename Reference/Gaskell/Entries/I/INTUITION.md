@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AN-RUT-F` | **unresolved** (review queue) |
+| `AN-RUT-F` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AN-RUT-F DISTRICT|AN-RUT-F DISTRICT]] |
 | `BRIDGE OF GJALL` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] |
-| `Briseis` | **unresolved** (review queue) |
+| `Briseis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRISEIS OF THE FAIR CHEEKS|BRISEIS OF THE FAIR CHEEKS]] |
 | `BuppHI` | **unresolved** (review queue) |
-| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `Farru` | **unresolved** (review queue) |
-| `Iris` | **candidate (first-segment only)** → possible `IRIS, THE GODDESS` (not linked) |
+| `Iris` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IRIS, THE GODDESS|IRIS, THE GODDESS]] |
 | `KartcHas` | **unresolved** (review queue) |
-| `Magaic` | **unresolved** (review queue) |
+| `Magaic` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
-| `NEHEMAUT` | **candidate (first-segment only)** → possible `NEHE-MAUT, SPOUSE OF THOTH` (not linked) |
+| `NEHEMAUT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHE-MAUT, SPOUSE OF THOTH|NEHE-MAUT, SPOUSE OF THOTH]] |
 | `PALESTINUS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

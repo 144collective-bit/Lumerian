@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATTRACTION` | **unresolved** (review queue) |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
 | `Crry` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

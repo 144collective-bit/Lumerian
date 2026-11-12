@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADONIS` | **unresolved** (review queue) |
-| `AIDONEUS` | **unresolved** (review queue) |
-| `ANDROMEDA` | **candidate (first-segment only)** → possible `ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA` (not linked) |
-| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
-| `CHARIOT` | **candidate (first-segment only)** → possible `CHARIOT, OR CAR` (not linked) |
+| `ADONIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
+| `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
+| `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
+| `CHARIOT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] |
 | `COMB` | **unresolved** (review queue) |
-| `CUPID` | **unresolved** (review queue) |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
-| `GUARDIAN SPIRITS` | **unresolved** (review queue) |
+| `CUPID` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
+| `GUARDIAN SPIRITS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GUARDIAN SPIRITS OF MEN|GUARDIAN SPIRITS OF MEN]] |
 | `HADES` | **unresolved** (review queue) |
 | `MeEapow` | **unresolved** (review queue) |
 | `Monap or Lire` | **unresolved** (review queue) |
 | `NyMpuHs` | **unresolved** (review queue) |
-| `PaNnDORA` | **unresolved** (review queue) |
-| `SELENE` | **unresolved** (review queue) |
+| `PaNnDORA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `Wispom` | **unresolved** (review queue) |
 | `Woman` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 

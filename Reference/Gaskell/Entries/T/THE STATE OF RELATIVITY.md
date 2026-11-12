@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Evi` | **unresolved** (review queue) |
-| `Opposirres` | **unresolved** (review queue) |
-| `RESPECTFUL` | **unresolved** (review queue) |
-| `STRIFE` | **unresolved** (review queue) |
+| `Opposirres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+| `RESPECTFUL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESPECTFUL MANNERS|RESPECTFUL MANNERS]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 
 ## Full OCR entry body (exact)
 

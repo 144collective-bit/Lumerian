@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARHATS` | **unresolved** (review queue) |
+| `ARHATS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] |
 | `CHRIST'S SECOND COMING` | **unresolved** (review queue) |
-| `INVOCATION` | **unresolved** (review queue) |
+| `INVOCATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INVOCATION OF SAINTS|INVOCATION OF SAINTS]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `Monks` | **unresolved** (review queue) |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
-| `REDEMPTION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `RE&GENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `REMISSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `RisHeEs` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SOSHYANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANTS|SOSHYANTS]] |
-| `TRI-RATNA` | **candidate (first-segment only)** → possible `TRI-RATNA, THE THREE HOLIES` (not linked) |
+| `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 | `VICTORY. 648` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

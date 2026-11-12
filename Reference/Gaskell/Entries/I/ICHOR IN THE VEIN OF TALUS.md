@@ -35,7 +35,7 @@ tags:
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Mepra` | **unresolved** (review queue) |
-| `Personatiry` | **unresolved** (review queue) |
+| `Personatiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Tavs` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

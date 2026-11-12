@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
-| `EDEN RIVER` | **unresolved** (review queue) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
+| `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
 | `Riv1 TREES AND RIVERS. AMBAYAVIS (UNDERSTAND. ING) — A symbol of the spiritual vi awakened in the soul` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which ret nises the inner meanings of the sa scriptures; for the meanings already engraven on the secret ta of the heart. “In the same Kingdom of Chris things are inward and spiritual; an: true religion of Christ is written it soul and spirit of man by the Spi God; and the believer is the only in which God Himself writes His Testament’’ (William Dell).—R. Jones` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Mystical Religion` | **unresolved** (review queue) |
 | `p. 493. “In addition to reason man 1} certain faculty by which he can u stand hidden mysteries. It is calk Shams-i-Tabrizi the ‘eye of the f which is constant in its desire for and by Jelélu’d-din the ‘inward ¢& This idea is not peculiar to Sufi was held by other mystics.” —-Vau Hours with the Mystics` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Vol. I. p. 1E See GOSPEL` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `K: Pen` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED UPpanisHaD` | **unresolved** (review queue) |

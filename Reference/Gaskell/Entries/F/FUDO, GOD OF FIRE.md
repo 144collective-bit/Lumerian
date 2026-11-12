@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
-| `ARDEBERESOCHT` | **unresolved** (review queue) |
+| `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
+| `ARDEBERESOCHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARDEBEHESCHT, KING OF FIRE|ARDEBEHESCHT, KING OF FIRE]] |
 | `FIRe` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
-| `FLAME` | **unresolved** (review queue) |
-| `GIRDLE ROPE` | **unresolved** (review queue) |
+| `FLAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLAME OF A SWORD|FLAME OF A SWORD]] |
+| `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
 | `SwoRD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
 
 ## Full OCR entry body (exact)

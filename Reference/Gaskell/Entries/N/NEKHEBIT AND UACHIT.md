@@ -35,7 +35,7 @@ tags:
 | `Crocopriz` | **unresolved** (review queue) |
 | `Crown (double)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Hrerororam!` | **unresolved** (review queue) |
-| `NORTH LAND` | **unresolved** (review queue) |
+| `NORTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]] |
 | `SERPENT (south)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sours` | **unresolved** (review queue) |
 | `Uatcarr` | **unresolved** (review queue) |

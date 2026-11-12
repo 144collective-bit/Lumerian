@@ -39,7 +39,7 @@ tags:
 | `O¥ OSIRIS` | **unresolved** (review queue) |
 | `190 CRUCIFIXION EgL-cop` | **unresolved** (review queue) |
 | `Fou-HE` | **unresolved** (review queue) |
-| `ImaGE` | **unresolved** (review queue) |
+| `ImaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `LamB o` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

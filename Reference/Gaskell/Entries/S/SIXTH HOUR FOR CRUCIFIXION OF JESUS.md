@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANTHROPOS` | **unresolved** (review queue) |
-| `CRUCIFIXION OF JESUS` | **candidate (ambiguous first-segment)** → CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS; CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS (not linked) |
+| `ANTHROPOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] |
+| `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
 | `FATE SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `Hour (mid-day)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
 | `IasnaotH` | **unresolved** (review queue) |
 | `I E O U` | **unresolved** (review queue) |
 | `Luka` | **unresolved** (review queue) |
-| `PiLate` | **candidate (first-segment only)** → possible `PILATE, PONTIUS` (not linked) |
-| `Races` | **unresolved** (review queue) |
+| `PiLate` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rounp` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

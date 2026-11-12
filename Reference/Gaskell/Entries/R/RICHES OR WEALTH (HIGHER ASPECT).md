@@ -36,8 +36,8 @@ tags:
 | `HussBanp (good)` | **unresolved** (review queue) |
 | `Pook PEOPLE` | **unresolved** (review queue) |
 | `PooR IN SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR IN SPIRIT|POOR IN SPIRIT]] |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
-| `WEALTH` | **unresolved** (review queue) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

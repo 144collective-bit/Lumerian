@@ -37,9 +37,9 @@ tags:
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `LAW OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
 | `POOR IN SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR IN SPIRIT|POOR IN SPIRIT]] |
-| `Rico MAN` | **unresolved** (review queue) |
-| `RioHEs (lower)` | **unresolved** (review queue) |
-| `SERMON` | **unresolved** (review queue) |
+| `Rico MAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
+| `RioHEs (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
+| `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
 | `Worx` | **unresolved** (review queue) |
 | `837` | **unresolved** (review queue) |
 

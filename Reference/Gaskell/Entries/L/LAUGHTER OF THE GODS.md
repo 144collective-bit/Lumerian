@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
-| `NAKEDNEss` | **unresolved** (review queue) |
-| `NEcTaR` | **candidate (first-segment only)** → possible `NECTAR, SWEET` (not linked) |
-| `PALAce` | **unresolved** (review queue) |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+| `NAKEDNEss` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
+| `NEcTaR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NECTAR, SWEET|NECTAR, SWEET]] |
+| `PALAce` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `Usumi` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
 

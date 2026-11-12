@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AxnSOLUTE` | **unresolved** (review queue) |
-| `Fountain` | **unresolved** (review queue) |
+| `Fountain` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `HAp!` | **unresolved** (review queue) |
 | `Lorvus` | **unresolved** (review queue) |
 | `Morst` | **unresolved** (review queue) |
-| `NoRTH LAND` | **unresolved** (review queue) |
-| `PAPYRUS` | **unresolved** (review queue) |
+| `NoRTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]] |
+| `PAPYRUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `RIvER oF Lire` | **unresolved** (review queue) |
 | `Sours` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |

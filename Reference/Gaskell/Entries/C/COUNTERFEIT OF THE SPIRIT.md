@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
 | `ANTIcHRIsT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `Son OF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `Son OF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 
 ## Full OCR entry body (exact)
 

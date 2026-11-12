@@ -33,23 +33,23 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARC. MAN` | **unresolved** (review queue) |
-| `Ba` | **candidate (first-segment only)** → possible `BA, THE SOUL` (not linked) |
-| `CORPSE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
-| `DeaD` | **candidate (ambiguous first-segment)** → DEAD, BURYING OF THE; DEAD, RISING FROM THE (not linked) |
-| `DeEFUNCT` | **unresolved** (review queue) |
-| `EMBALMMENT` | **unresolved** (review queue) |
+| `Ba` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BA, THE SOUL|BA, THE SOUL]] |
+| `CORPSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
+| `DeaD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]]; [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]]; [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] |
+| `DeEFUNCT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
+| `EMBALMMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EMBALMMENT OF A CORPSE|EMBALMMENT OF A CORPSE]]; [[Reference/Gaskell/Entries/E/EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS|EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS]] |
 | `Finocrrs (two)` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `Loss` | **unresolved** (review queue) |
 | `MeEmsBeERs` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PHENIX` | **candidate (first-segment only)** → possible `PHENIX, THE BIRD OF ARABIA` (not linked) |
+| `PHENIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHENIX, THE BIRD OF ARABIA|PHENIX, THE BIRD OF ARABIA]] |
 | `PrLLows (mummies)` | **unresolved** (review queue) |
 | `Sanu` | **unresolved** (review queue) |
 | `SPicEs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
-| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+| `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 
 ## Full OCR entry body (exact)
 

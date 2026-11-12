@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `ExPERIENCES` | **unresolved** (review queue) |
-| `GREEKS (great)` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
-| `ILium` | **unresolved** (review queue) |
-| `KaLcHAS` | **candidate (first-segment only)** → possible `KALCHAS, OR CALCHAS, SON OF THESTOR` (not linked) |
-| `PRIAM` | **unresolved** (review queue) |
+| `ExPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `GREEKS (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+| `ILium` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ILIUM (TROY)|ILIUM (TROY)]] |
+| `KaLcHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KALCHAS, OR CALCHAS, SON OF THESTOR|KALCHAS, OR CALCHAS, SON OF THESTOR]] |
+| `PRIAM` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
-| `REMINISCENCE` | **unresolved** (review queue) |
-| `SILENUS` | **candidate (first-segment only)** → possible `SILENUS, LEADER OF SATYRS` (not linked) |
-| `TIME` | **unresolved** (review queue) |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
+| `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
+| `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
 | `TROJANS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `TROY. ‘SHIP’` | **unresolved** (review queue) |
 

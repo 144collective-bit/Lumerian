@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
-| `PATH (birds)` | **candidate (first-segment only)** → possible `PATH, TWOFOLD` (not linked) |
-| `WatEE (lower)` | **unresolved** (review queue) |
+| `PATH (birds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATH OF THE BIRDS ON HIGH|PATH OF THE BIRDS ON HIGH]]; [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] |
+| `WatEE (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINGS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

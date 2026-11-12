@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Barrie` | **unresolved** (review queue) |
 | `Biacxsmirns` | **unresolved** (review queue) |
-| `ConFLICT` | **unresolved** (review queue) |
+| `ConFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
-| `FinGERs` | **candidate (ambiguous first-segment)** → FINGERS, FOUR; FINGERS, TWO, OF HORUS (not linked) |
+| `FinGERs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FINGERS, FOUR|FINGERS, FOUR]]; [[Reference/Gaskell/Entries/F/FINGERS, TWO, OF HORUS|FINGERS, TWO, OF HORUS]] |
 | `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Hanps` | **unresolved** (review queue) |
 | `Mas` | **unresolved** (review queue) |

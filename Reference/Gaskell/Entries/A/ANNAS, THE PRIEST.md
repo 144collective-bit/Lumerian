@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CaAIAPHAS` | **unresolved** (review queue) |
-| `HiGH PRIEST (lower)` | **unresolved** (review queue) |
+| `CaAIAPHAS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
+| `HiGH PRIEST (lower)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

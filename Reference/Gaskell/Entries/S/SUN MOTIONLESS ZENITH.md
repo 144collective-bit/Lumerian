@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARREST` | **unresolved** (review queue) |
-| `AUSHEDAR` | **candidate (first-segment only)** → possible `AUSHEDAR, OR HUSHEDAR` (not linked) |
+| `ARREST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] |
+| `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
 | `I am (bull)` | **unresolved** (review queue) |
-| `Pisces` | **candidate (first-segment only)** → possible `PISCES, THE ZODIACAL SIGN` (not linked) |
-| `SUMMER` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
-| `ZENITH` | **unresolved** (review queue) |
+| `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
+| `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

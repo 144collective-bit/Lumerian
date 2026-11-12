@@ -38,7 +38,7 @@ tags:
 | `LaMB OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Rose` | **unresolved** (review queue) |
-| `SKIN` | **unresolved** (review queue) |
+| `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 
 ## Full OCR entry body (exact)
 

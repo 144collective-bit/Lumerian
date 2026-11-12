@@ -35,20 +35,20 @@ tags:
 | `AnrTHROPOs` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `BonpaGE` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CRUCIFIXION` | **unresolved** (review queue) |
-| `DisgasEs` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
+| `DisgasEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISEASES, WASTING PUTRIFYING|DISEASES, WASTING PUTRIFYING]] |
 | `I E O JU` | **unresolved** (review queue) |
 | `INvo.turion` | **unresolved** (review queue) |
 | `Karma` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
-| `MAZENDARENS` | **unresolved** (review queue) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
+| `MAZENDARENS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] |
 | `Mors` | **unresolved** (review queue) |
 | `FATHER Necessity` | **unresolved** (review queue) |
 | `NonNork` | **unresolved** (review queue) |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `SON OF Gop` | **unresolved** (review queue) |
-| `THEMIS` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
+| `SON OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
+| `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Heir` | **unresolved** (review queue) |
-| `HusBanp (good)` | **unresolved** (review queue) |
-| `Kuvera` | **candidate (first-segment only)** → possible `KUVERA, THE LORD WEALTH` (not linked) |
+| `Heir` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEIR ACCORDING TO PROMISE|HEIR ACCORDING TO PROMISE]] |
+| `HusBanp (good)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBAND, GOOD AND RICH|HUSBAND, GOOD AND RICH]] |
+| `Kuvera` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KUVERA, THE LORD WEALTH|KUVERA, THE LORD WEALTH]] |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MERCHANDISE` | **candidate (first-segment only)** → possible `MERCHANDISE, TRUE` (not linked) |
+| `MERCHANDISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] |
 | `Nata` | **unresolved** (review queue) |
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `RicHes` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
+| `RicHes` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
 | `Srncers` | **unresolved** (review queue) |
-| `Tistrya` | **unresolved** (review queue) |
+| `Tistrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 
 ## Full OCR entry body (exact)
 

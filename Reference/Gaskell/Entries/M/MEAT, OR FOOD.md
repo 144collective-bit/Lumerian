@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHEMOGHA` | **candidate (first-segment only)** → possible `ASHEMOGHA, THE UNGODLY` (not linked) |
+| `ASHEMOGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] |
 | `BHimaA` | **unresolved** (review queue) |
 | `EaTtina` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |

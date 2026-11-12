@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `CoME INTO THEE` | **unresolved** (review queue) |
 | `FiarL` | **unresolved** (review queue) |
-| `HvusBANDMAN` | **unresolved** (review queue) |
+| `HvusBANDMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
 | `Kina` | **unresolved** (review queue) |
-| `Mountain` | **unresolved** (review queue) |
-| `OsInis` | **unresolved** (review queue) |
-| `SERPEent (south)` | **unresolved** (review queue) |
-| `Smam` | **candidate (first-segment only)** → possible `SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET` (not linked) |
-| `WHITE` | **unresolved** (review queue) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `OsInis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
+| `SERPEent (south)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+| `Smam` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET|SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

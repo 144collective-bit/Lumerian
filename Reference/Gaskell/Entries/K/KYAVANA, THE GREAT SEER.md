@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AsiTa` | **candidate (first-segment only)** → possible `ASITA, THE SAGE` (not linked) |
+| `AsiTa` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
 
 ## Full OCR entry body (exact)
 

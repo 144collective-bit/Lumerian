@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bupp#HI` | **unresolved** (review queue) |
-| `NortH` | **unresolved** (review queue) |
+| `NortH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
 | `WIspoM. COWS’` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

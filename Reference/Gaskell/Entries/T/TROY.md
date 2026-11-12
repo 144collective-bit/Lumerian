@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATREUS` | **candidate (first-segment only)** → possible `ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE` (not linked) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `HELEN` | **unresolved** (review queue) |
+| `ATREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE]] |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `Ixtrom` | **unresolved** (review queue) |
-| `Priam` | **unresolved** (review queue) |
-| `SHrips (Ilium)` | **unresolved** (review queue) |
+| `Priam` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] |
+| `SHrips (Ilium)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]] |
 | `Trojans` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 
 ## Full OCR entry body (exact)

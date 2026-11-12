@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `ADVARYA` | **unresolved** (review queue) |
-| `AGNIDHRA` | **unresolved** (review queue) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
-| `CHIRON` | **candidate (first-segment only)** → possible `CHIRON, THE DIVINE CENTAUR, SON OF CRONUS` (not linked) |
+| `CHIRON` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHIRON, THE DIVINE CENTAUR, SON OF CRONUS|CHIRON, THE DIVINE CENTAUR, SON OF CRONUS]] |
 | `HiaH PRIEST` | **unresolved** (review queue) |
 | `CHURCH Hotiow suxips` | **unresolved** (review queue) |
 | `Opyssrus` | **unresolved** (review queue) |
 | `Pont` | **unresolved** (review queue) |
-| `Pope` | **unresolved** (review queue) |
-| `PRIEST OF APOLLO` | **unresolved** (review queue) |
-| `TENEDOS` | **unresolved** (review queue) |
+| `Pope` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POPE OF ROME|POPE OF ROME]] |
+| `PRIEST OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRIEST OF APOLLO (CHRYSE)|PRIEST OF APOLLO (CHRYSE)]] |
+| `TENEDOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TENEDOS ISLAND|TENEDOS ISLAND]] |
 
 ## Full OCR entry body (exact)
 

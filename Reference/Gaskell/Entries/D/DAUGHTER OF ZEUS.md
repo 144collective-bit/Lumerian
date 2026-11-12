@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AcHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `AcHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `BuppH` | **unresolved** (review queue) |
 | `Goppess` | **unresolved** (review queue) |
-| `Hera` | **unresolved** (review queue) |
-| `Muse` | **candidate (first-segment only)** → possible `MUSE, THE WHITE-ARMED MAIDEN` (not linked) |
+| `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
+| `Muse` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSE, THE WHITE-ARMED MAIDEN|MUSE, THE WHITE-ARMED MAIDEN]] |
 | `Prery` | **unresolved** (review queue) |
 | `WHITEABMED` | **unresolved** (review queue) |
 | `WISDOM. ATHORNE; ATHRAVA; ATHARVAN ;` | **unresolved** (review queue) |

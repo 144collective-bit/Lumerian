@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FILLET OF APOLLO` | **unresolved** (review queue) |
+| `FILLET OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] |
 
 ## Full OCR entry body (exact)
 

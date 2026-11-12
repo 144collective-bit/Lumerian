@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `Dunca` | **unresolved** (review queue) |
 | `Exopus` | **unresolved** (review queue) |
-| `Forty Days` | **unresolved** (review queue) |
+| `Forty Days` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]]; [[Reference/Gaskell/Entries/F/FORTY DAYS OR YEARS|FORTY DAYS OR YEARS]] |
 | `ELEMENTS PARABLE` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
-| `SHORE (sea)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
-| `Siva` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+| `SHORE (sea)` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
+| `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 | `SLauGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `TONGUES` | **candidate (first-segment only)** → possible `TONGUES, GIFT OF` (not linked) |
+| `TONGUES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TONGUES, GIFT OF|TONGUES, GIFT OF]] |
 | `Wak` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

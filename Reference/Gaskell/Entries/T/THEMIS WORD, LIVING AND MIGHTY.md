@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `FETTERS` | **unresolved** (review queue) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `FETTERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FETTERS ON A MAN|FETTERS ON A MAN]]; [[Reference/Gaskell/Entries/F/FETTERS ON THE SELF, OR SOUL|FETTERS ON THE SELF, OR SOUL]] |
 | `I am` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KaLcHas` | **candidate (first-segment only)** → possible `KALCHAS, OR CALCHAS, SON OF THESTOR` (not linked) |
-| `Macic` | **unresolved** (review queue) |
-| `MouTH` | **candidate (ambiguous first-segment)** → MOUTH, FOR SPEECH; MOUTH, OPENING OF THE (not linked) |
+| `KaLcHas` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KALCHAS, OR CALCHAS, SON OF THESTOR|KALCHAS, OR CALCHAS, SON OF THESTOR]] |
+| `Macic` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
+| `MouTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUTH FOR RECEIVING FOOD|MOUTH FOR RECEIVING FOOD]]; [[Reference/Gaskell/Entries/M/MOUTH, FOR SPEECH|MOUTH, FOR SPEECH]]; [[Reference/Gaskell/Entries/M/MOUTH, OPENING OF THE|MOUTH, OPENING OF THE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `REMINISCENCE` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
-| `THoTH` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+| `THoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

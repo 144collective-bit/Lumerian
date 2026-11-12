@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Banness` | **unresolved** (review queue) |
+| `Banness` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BANNERS, HIGH LIFTED|BANNERS, HIGH LIFTED]] |
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
-| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `NIsAYA` | **unresolved** (review queue) |
+| `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `NIsAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NISAYA LAND|NISAYA LAND]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `FLOWERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
 | `HAND` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HAND|HAND]] |
 | `HoxkMad` | **unresolved** (review queue) |
-| `PERFUME` | **unresolved** (review queue) |
-| `Rat` | **unresolved** (review queue) |
+| `PERFUME` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
+| `Rat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAT OF GANESA|RAT OF GANESA]] |
 | `REp (rose)` | **unresolved** (review queue) |
 | `TUsK` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
 

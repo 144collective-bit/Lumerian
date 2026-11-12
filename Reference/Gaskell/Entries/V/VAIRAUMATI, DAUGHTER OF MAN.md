@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FairH` | **unresolved** (review queue) |
+| `FairH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FAITH|FAITH]] |
 | `HEAVENLY REGIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVENLY REGIONS|HEAVENLY REGIONS]] |
 | `Hoa` | **unresolved** (review queue) |
-| `Mountain` | **unresolved** (review queue) |
-| `Oro` | **candidate (first-segment only)** → possible `ORO, THE TAHITIAN GOD` (not linked) |
-| `TAATA` | **candidate (first-segment only)** → possible `TAATA, THE FIRST MAN` (not linked) |
-| `TAHITIAN` | **unresolved** (review queue) |
+| `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `Oro` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
+| `TAATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAATA, THE FIRST MAN|TAATA, THE FIRST MAN]] |
+| `TAHITIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAHITIAN ISLANDS|TAHITIAN ISLANDS]] |
 | `TUFARA` | **unresolved** (review queue) |
-| `VAPOUR` | **candidate (first-segment only)** → possible `VAPOUR, WHITE` (not linked) |
+| `VAPOUR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAPOUR AND SMOKE|VAPOUR AND SMOKE]]; [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 
 ## Full OCR entry body (exact)
 

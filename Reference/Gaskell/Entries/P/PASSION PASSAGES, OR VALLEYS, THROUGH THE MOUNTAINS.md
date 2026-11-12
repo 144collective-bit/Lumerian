@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrRmpcGE oF GJaLL` | **unresolved** (review queue) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `Mountains` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNTAINS|MOUNTAINS]] |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
 

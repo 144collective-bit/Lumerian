@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `GARMENTS` | **unresolved** (review queue) |
-| `SackCLOTH` | **unresolved** (review queue) |
+| `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
+| `SackCLOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACKCLOTH ON FLESH|SACKCLOTH ON FLESH]] |
 
 ## Full OCR entry body (exact)
 

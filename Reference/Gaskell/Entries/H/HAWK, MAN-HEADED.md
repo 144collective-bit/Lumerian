@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `JUDGMENT (righteous)` | **unresolved** (review queue) |
+| `JUDGMENT (righteous)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDGMENT AND JUSTICE|JUDGMENT AND JUSTICE]]; [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]]; [[Reference/Gaskell/Entries/J/JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART|JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART]] |
 
 ## Full OCR entry body (exact)
 

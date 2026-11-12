@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CIVILISING` | **unresolved** (review queue) |
+| `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `Oannes` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `YAO. Gov` | **unresolved** (review queue) |
 

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BrrTo oF JESUS` | **unresolved** (review queue) |
-| `BODHISATVA` | **candidate (first-segment only)** → possible `BODHISATVA, THE GREAT` (not linked) |
-| `Giory (divine)` | **unresolved** (review queue) |
+| `BrrTo oF JESUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] |
+| `BODHISATVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+| `Giory (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `Szzp` | **unresolved** (review queue) |
 | `Vim` | **unresolved** (review queue) |
 

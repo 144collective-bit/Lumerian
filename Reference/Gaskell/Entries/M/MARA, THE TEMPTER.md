@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Asura (lower)` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
+| `Asura (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]] |
 | `Devit` | **unresolved** (review queue) |
 | `Kama` | **unresolved** (review queue) |
-| `Kourus` | **unresolved** (review queue) |
+| `Kourus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `Swan` | **candidate (first-segment only)** → possible `SWAN, WHITE` (not linked) |
+| `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 
 ## Full OCR entry body (exact)
 

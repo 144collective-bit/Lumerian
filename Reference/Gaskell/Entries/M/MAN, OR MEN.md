@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (lower)` | **unresolved** (review queue) |
-| `ASPAHI` | **unresolved** (review queue) |
-| `BREATE OF LIFE` | **unresolved** (review queue) |
-| `Corpse` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `ASPAHI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASPAHI-ASTRA WHIP|ASPAHI-ASTRA WHIP]] |
+| `BREATE OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREATH OF LIFE|BREATH OF LIFE]] |
+| `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `Deap` | **unresolved** (review queue) |
-| `Dust` | **unresolved** (review queue) |
+| `Dust` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] |
 | `Earrsa (ground)` | **unresolved** (review queue) |
 | `Farrag` | **unresolved** (review queue) |
 | `Fart` | **unresolved** (review queue) |
 | `Farxes` | **unresolved** (review queue) |
-| `Frienps` | **unresolved** (review queue) |
+| `Frienps` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `Hers` | **unresolved** (review queue) |
 | `ImmMorvariry FORFEITED` | **unresolved** (review queue) |
@@ -50,11 +50,11 @@ tags:
 | `Ma-a’sEH` | **unresolved** (review queue) |
 | `Marzo` | **unresolved** (review queue) |
 | `Megat` | **unresolved** (review queue) |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Propiaat` | **unresolved** (review queue) |
 | `Ruan` | **unresolved** (review queue) |
-| `SAVOUR` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `SAVOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

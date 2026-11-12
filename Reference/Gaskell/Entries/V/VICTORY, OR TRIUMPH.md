@@ -32,30 +32,30 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASCENSION` | **unresolved** (review queue) |
-| `BRAHMAN` | **unresolved** (review queue) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `BRAHMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]]; [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS GOLDEN HORSES|BRAHMAN PRIESTS GOLDEN HORSES]] |
 | `BaTTr Le` | **unresolved** (review queue) |
 | `CoNnFLICT` | **unresolved** (review queue) |
 | `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
-| `COURSE` | **candidate (first-segment only)** → possible `COURSE, OR HORSE-RIDING GROUND` (not linked) |
+| `COURSE` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COURSE, OR HORSE-RIDING GROUND|COURSE, OR HORSE-RIDING GROUND]] |
 | `CRUCI  VIGARA ¥FIXION (Jesus)` | **unresolved** (review queue) |
 | `DEATH` | **unresolved** (review queue) |
 | `HiIGH-PRIESTSHIP` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KILLING OUT` | **unresolved** (review queue) |
+| `KILLING OUT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KILLING-OUT OF DESIRE|KILLING-OUT OF DESIRE]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `PiutaR (temple)` | **unresolved** (review queue) |
-| `REDEMPTION` | **unresolved** (review queue) |
-| `REMISSION` | **unresolved** (review queue) |
-| `RESURRECTION` | **unresolved** (review queue) |
-| `SAINTS` | **candidate (first-segment only)** → possible `SAINTS, OR THE SANCTIFIED` (not linked) |
-| `SALVATION` | **unresolved** (review queue) |
+| `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
+| `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+| `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
-| `STRIFE` | **unresolved** (review queue) |
-| `THRONE` | **unresolved** (review queue) |
-| `VOHUMAN` | **candidate (ambiguous first-segment)** → VOHUMAN, OR VOHUMANO, THE GOOD MIND; VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR (not linked) |
-| `WAR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
+| `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+| `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
+| `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

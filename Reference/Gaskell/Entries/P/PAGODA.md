@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CHURCH` | **unresolved** (review queue) |
-| `SHRINE` | **unresolved** (review queue) |
+| `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
+| `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `TEMPLE. PAHAD (GEBURAH)` | **unresolved** (review queue) |
 | `PUNISHMENT` | **unresolved** (review queue) |
-| `JUDGMENT` | **unresolved** (review queue) |
+| `JUDGMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDGMENT AND JUSTICE|JUDGMENT AND JUSTICE]]; [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]]; [[Reference/Gaskell/Entries/J/JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART|JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART]] |
 | `SEVERITY;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

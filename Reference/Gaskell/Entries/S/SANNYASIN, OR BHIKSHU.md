@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALMSGIVING` | **unresolved** (review queue) |
+| `ALMSGIVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALMSGIVING OR CHARITY|ALMSGIVING OR CHARITY]] |
 | `ASCETIC` | **unresolved** (review queue) |
-| `ASRAMAS` | **candidate (first-segment only)** → possible `ASRAMAS, FOUR LIFE-STAGES` (not linked) |
+| `ASRAMAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] |
 | `BRAHMACARIN` | **candidate (first-segment only)** → possible `BRAHMA-CARIN, STUDENT OF THE VEDA` (not linked) |
 | `Harr (side-lock)` | **unresolved** (review queue) |
-| `Hermit` | **unresolved** (review queue) |
+| `Hermit` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] |
 | `Kusti1` | **unresolved** (review queue) |
 | `MENDICANT` | **unresolved** (review queue) |
-| `ORDERS` | **candidate (first-segment only)** → possible `ORDERS, FOUR OF MANU` (not linked) |
+| `ORDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/ORDERS, FOUR OF MANU|ORDERS, FOUR OF MANU]]; [[Reference/Gaskell/Entries/O/ORDERS OF THE SPACES|ORDERS OF THE SPACES]] |
 | `YAJNOPAVITA. 652` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

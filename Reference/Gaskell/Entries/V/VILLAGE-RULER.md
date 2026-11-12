@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `House (clan)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `RULERS` | **unresolved** (review queue) |
+| `RULERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
 
 ## Full OCR entry body (exact)
 

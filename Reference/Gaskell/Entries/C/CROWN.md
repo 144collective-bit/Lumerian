@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CournsE` | **unresolved** (review queue) |
+| `CournsE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/COURSE, OR HORSE-RIDING GROUND|COURSE, OR HORSE-RIDING GROUND]] |
 | `Keturr` | **unresolved** (review queue) |
 | `LION (man)` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
-| `TIARA` | **candidate (first-segment only)** → possible `TIARA, THE PAPAL CROWN` (not linked) |
+| `TIARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIARA, THE PAPAL CROWN|TIARA, THE PAPAL CROWN]] |
 
 ## Full OCR entry body (exact)
 

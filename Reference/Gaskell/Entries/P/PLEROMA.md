@@ -35,12 +35,12 @@ tags:
 | `ABRAXAS` | **unresolved** (review queue) |
 | `AZONS` | **unresolved** (review queue) |
 | `ARC. MAX` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
 | `Evortution` | **unresolved** (review queue) |
 | `IAO` | **unresolved** (review queue) |
 | `InyrrtaTIONS` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Lost PIECE` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Lost PIECE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]] |
 
 ## Full OCR entry body (exact)
 

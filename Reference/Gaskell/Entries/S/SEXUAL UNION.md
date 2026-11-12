@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `ALONS` | **unresolved** (review queue) |
 | `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
-| `GENERATIVE` | **unresolved** (review queue) |
-| `MULTIPLY` | **unresolved** (review queue) |
-| `SOPHIA` | **unresolved** (review queue) |
+| `GENERATIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]]; [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION TRANSMUTED|GENERATIVE FUNCTION TRANSMUTED]] |
+| `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
+| `SOPHIA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
 
 ## Full OCR entry body (exact)
 

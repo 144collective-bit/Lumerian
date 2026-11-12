@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANCHORAGE` | **unresolved** (review queue) |
-| `MOORING POST` | **unresolved** (review queue) |
+| `ANCHORAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANCHORAGE OF THE SHIP|ANCHORAGE OF THE SHIP]] |
+| `MOORING POST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOORING POST FOR SHIP|MOORING POST FOR SHIP]] |
 
 ## Full OCR entry body (exact)
 

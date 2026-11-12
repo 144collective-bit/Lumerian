@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `ARMS OF BODY` | **unresolved** (review queue) |
 | `HEALING (hand)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `STRIKING` | **unresolved** (review queue) |
+| `STRIKING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIKING THE HANDS TOGETHER|STRIKING THE HANDS TOGETHER]] |
 
 ## Full OCR entry body (exact)
 

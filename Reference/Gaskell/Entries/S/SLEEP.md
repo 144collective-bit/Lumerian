@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Curip` | **unresolved** (review queue) |
 | `LIGHT-woRLD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT-WORLD|LIGHT-WORLD]] |
-| `SELENE` | **unresolved** (review queue) |
+| `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 
 ## Full OCR entry body (exact)
 

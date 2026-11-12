@@ -33,27 +33,27 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `AIN-SUPH` | **unresolved** (review queue) |
-| `APARAGITa` | **candidate (first-segment only)** → possible `APARAGITA, PALACE (UNCONQUERABLE)` (not linked) |
-| `ARHAT` | **unresolved** (review queue) |
+| `AIN-SUPH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
+| `APARAGITa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ATMAN` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `CoNDITIONED` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `CoNDITIONED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONDITIONED FINITE|CONDITIONED FINITE]] |
 | `Derry` | **unresolved** (review queue) |
 | `FarTHER` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Mriyp (good)` | **unresolved** (review queue) |
 | `Mownap` | **unresolved** (review queue) |
 | `Oapoap` | **unresolved** (review queue) |
-| `PatH (two-fold)` | **candidate (first-segment only)** → possible `PATH, TWOFOLD` (not linked) |
-| `PraaiPATI` | **unresolved** (review queue) |
+| `PatH (two-fold)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATH OF THE BIRDS ON HIGH|PATH OF THE BIRDS ON HIGH]]; [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] |
+| `PraaiPATI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SEasons` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SELF (supreme)` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Trinity` | **unresolved** (review queue) |
-| `VIVANHAO` | **candidate (first-segment only)** → possible `VIVANHAO, OR VIVANGHAT, FATHER OF YIMA` (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `VIVANHAO` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIVANHAO, OR VIVANGHAT, FATHER OF YIMA|VIVANHAO, OR VIVANGHAT, FATHER OF YIMA]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

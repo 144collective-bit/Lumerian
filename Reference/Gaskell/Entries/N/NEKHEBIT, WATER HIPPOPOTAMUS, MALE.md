@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEL` | **unresolved** (review queue) |
-| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `BEL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEL OF NIPUR, OR MUL-LILLA, THE LORD OF THE LOWER WORLD|BEL OF NIPUR, OR MUL-LILLA, THE LORD OF THE LOWER WORLD]] |
+| `Hawk` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `Henrpest` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `TYPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
+| `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
 
 ## Full OCR entry body (exact)
 

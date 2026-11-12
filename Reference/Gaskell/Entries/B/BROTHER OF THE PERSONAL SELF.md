@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALARAMA` | **unresolved** (review queue) |
-| `POLLUX` | **unresolved** (review queue) |
+| `BALARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
+| `POLLUX` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLLUX OR POLYDEUKES|POLLUX OR POLYDEUKES]] |
 
 ## Full OCR entry body (exact)
 

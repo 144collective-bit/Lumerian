@@ -33,20 +33,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `ASEEYATIC` | **unresolved** (review queue) |
+| `ASEEYATIC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASEEYATIC WORLD-THE WORLD OF ACTION|ASEEYATIC WORLD—THE WORLD OF ACTION]] |
 | `ATZELOOTHIC` | **unresolved** (review queue) |
-| `Book (God)` | **unresolved** (review queue) |
-| `BREEATIC` | **unresolved** (review queue) |
-| `EvoLUTION` | **unresolved** (review queue) |
+| `Book (God)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]]; [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
+| `BREEATIC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
+| `EvoLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `Imace` | **unresolved** (review queue) |
 | `INDiIvipuatity` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
-| `NEPHESH` | **candidate (first-segment only)** → possible `NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE` (not linked) |
-| `NESHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
+| `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
+| `NESHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `RUAH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

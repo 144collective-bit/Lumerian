@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anso.turs` | **unresolved** (review queue) |
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `Eac` | **unresolved** (review queue) |
-| `ErRicaPaus` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
-| `HIrRANYAGARBHA` | **unresolved** (review queue) |
-| `Lao` | **unresolved** (review queue) |
+| `ErRicaPaus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,-ONE OF THE THREE ASPECTS OF PHANES|ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,—ONE OF THE THREE ASPECTS OF PHANES]] |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
+| `HIrRANYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `Metis` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `Noan’s sons` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 
 ## Full OCR entry body (exact)
 

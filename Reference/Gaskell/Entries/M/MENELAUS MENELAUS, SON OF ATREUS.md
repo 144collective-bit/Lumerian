@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arreus` | **unresolved** (review queue) |
+| `Arreus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE]] |
 | `Mars. MENIS ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JUBAL` | **unresolved** (review queue) |
-| `Musio` | **unresolved** (review queue) |
-| `Uzume` | **candidate (first-segment only)** → possible `UZUME, GODDESS` (not linked) |
+| `Musio` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `Uzume` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
-| `HvERGELMIR` | **unresolved** (review queue) |
+| `HvERGELMIR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HVERGELMIR FOUNTAIN|HVERGELMIR FOUNTAIN]] |
 | `MiIpGaRD` | **unresolved** (review queue) |
 | `Qary` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `YaGpRasIL` | **unresolved** (review queue) |
+| `YaGpRasIL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `MANSIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] |
-| `PaLace` | **unresolved** (review queue) |
+| `PaLace` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `Prataya` | **unresolved** (review queue) |
 | `SLEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP|SLEEP]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |

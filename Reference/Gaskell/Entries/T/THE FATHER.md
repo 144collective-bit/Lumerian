@@ -33,19 +33,19 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
-| `APARAGITA` | **candidate (first-segment only)** → possible `APARAGITA, PALACE (UNCONQUERABLE)` (not linked) |
-| `ARHAT` | **unresolved** (review queue) |
+| `APARAGITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] |
+| `ARHAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] |
 | `ATMAN` | **unresolved** (review queue) |
 | `BrauMa` | **unresolved** (review queue) |
-| `Deity` | **candidate (first-segment only)** → possible `DEITY, HIDDEN CEALED` (not linked) |
+| `Deity` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEITY, HIDDEN CEALED|DEITY, HIDDEN CEALED]] |
 | `FATHER` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `Monap` | **unresolved** (review queue) |
 | `TRINtrTy` | **unresolved** (review queue) |
-| `VIVANHAO` | **candidate (first-segment only)** → possible `VIVANHAO, OR VIVANGHAT, FATHER OF YIMA` (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `VIVANHAO` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIVANHAO, OR VIVANGHAT, FATHER OF YIMA|VIVANHAO, OR VIVANGHAT, FATHER OF YIMA]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

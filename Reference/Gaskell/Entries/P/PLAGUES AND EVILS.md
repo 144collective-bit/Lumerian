@@ -34,7 +34,7 @@ tags:
 |---|---|
 | `Eviz` | **unresolved** (review queue) |
 | `OpposirEs` | **unresolved** (review queue) |
-| `PESTILENCE` | **unresolved** (review queue) |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 
 ## Full OCR entry body (exact)
 

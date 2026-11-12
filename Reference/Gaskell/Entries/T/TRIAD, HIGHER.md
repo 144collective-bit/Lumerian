@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABRAHAM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABRAHAM|ABRAHAM]] |
-| `Lao` | **unresolved** (review queue) |
+| `Lao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAO-KEUN-TZE, THE FOUNDER OF TAOISM|LAO-KEUN-TZE, THE FOUNDER OF TAOISM]] |
 | `LION (man)` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `Minos` | **unresolved** (review queue) |
 | `Pyrammp` | **unresolved** (review queue) |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
 | `TRINITY TsuRAH` | **unresolved** (review queue) |
-| `WITNESSES (three)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
+| `WITNESSES (three)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, ON EARTH|WITNESSES, THREE, ON EARTH]]; [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
 
 ## Full OCR entry body (exact)
 

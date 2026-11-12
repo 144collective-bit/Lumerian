@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APEP` | **candidate (first-segment only)** → possible `APEP, THE SERPENT` (not linked) |
+| `APEP` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
 
 ## Full OCR entry body (exact)
 

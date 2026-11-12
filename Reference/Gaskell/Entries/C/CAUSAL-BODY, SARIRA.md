@@ -34,35 +34,35 @@ tags:
 |---|---|
 | `As` | **unresolved** (review queue) |
 | `ADYTUM` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADYTUM|ADYTUM]] |
-| `BIRTH-CHAMBER` | **unresolved** (review queue) |
+| `BIRTH-CHAMBER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BIRTH-CHAMBER OF THE DIVINE CITY|BIRTH-CHAMBER OF THE DIVINE CITY]] |
 | `DerunctT` | **unresolved** (review queue) |
-| `DWELLING` | **unresolved** (review queue) |
-| `GLory` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
+| `GLory` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Hrsren` | **unresolved** (review queue) |
-| `HERMES` | **unresolved** (review queue) |
-| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
-| `Karana` | **unresolved** (review queue) |
+| `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
+| `Ka` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KA, GOD|KA, GOD]]; [[Reference/Gaskell/Entries/K/KA, OR DOUBLE|KA, OR DOUBLE]] |
+| `Karana` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARANA-SARIRA BODY)|KARANA-SARIRA BODY)]] |
 | `KwaBir` | **unresolved** (review queue) |
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `Lincam` | **unresolved** (review queue) |
+| `Lincam` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LINGAM, THE SUBTILE BODY|LINGAM, THE SUBTILE BODY]] |
 | `MAnAVmaPot` | **unresolved** (review queue) |
-| `Manasi` | **candidate (first-segment only)** → possible `MANASI, THE BELOVED` (not linked) |
-| `Mrrror` | **unresolved** (review queue) |
-| `NEsHAMAH` | **candidate (first-segment only)** → possible `NESHAMAH, HIGHEST SOUL` (not linked) |
-| `PRANA` | **unresolved** (review queue) |
+| `Manasi` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] |
+| `Mrrror` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] |
+| `NEsHAMAH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/N/NESHAMAH, HIGHEST SOUL|NESHAMAH, HIGHEST SOUL]] |
+| `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `PROVINCE-RULER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROVINCE-RULER|PROVINCE-RULER]] |
 | `RESURRECgion` | **unresolved** (review queue) |
 | `Sanu` | **unresolved** (review queue) |
 | `Swrtar` | **unresolved** (review queue) |
-| `SAMKHARA` | **unresolved** (review queue) |
+| `SAMKHARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAMKHARA OR SANKHARA|SAMKHARA OR SANKHARA]] |
 | `Sout (middle)` | **unresolved** (review queue) |
 | `StHuna` | **unresolved** (review queue) |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `TENT` | **unresolved** (review queue) |
-| `TZELEM` | **candidate (first-segment only)** → possible `TZELEM, DIVINE OR HOLY` (not linked) |
-| `VESTURES` | **unresolved** (review queue) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
+| `TZELEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TZELEM, DIVINE OR HOLY|TZELEM, DIVINE OR HOLY]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

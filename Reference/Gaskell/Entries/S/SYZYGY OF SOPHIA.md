@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Love or Gop` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `Love or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

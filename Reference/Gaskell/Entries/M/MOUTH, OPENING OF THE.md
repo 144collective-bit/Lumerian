@@ -36,16 +36,16 @@ tags:
 | `Crry` | **unresolved** (review queue) |
 | `CLEANSING` | **unresolved** (review queue) |
 | `Derunct` | **unresolved** (review queue) |
-| `Eatine` | **unresolved** (review queue) |
+| `Eatine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/E/EATING|EATING]] |
 | `Ferrers` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `Irnon` | **unresolved** (review queue) |
-| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `Puiace` | **unresolved** (review queue) |
 | `Pra` | **unresolved** (review queue) |
 | `Scournce` | **unresolved** (review queue) |
-| `Sau` | **unresolved** (review queue) |
+| `Sau` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `Tem` | **unresolved** (review queue) |
 | `TxHorn` | **unresolved** (review queue) |
 | `UrRHEKAU` | **unresolved** (review queue) |

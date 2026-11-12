@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ALTAR (fire)` | **unresolved** (review queue) |
+| `ALTAR (fire)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]]; [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]]; [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SACRIFIOER. ALTAR BUILDING TO THE LORD: A symbol of the setting up in the mind of a structure of spiritual idealism on which the lower qualities may be sacrificed for the sake of the higher. 41 ALTAR “* And Nosh builded an altar unto the Lord; and took of every clean beast` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and of every clean fowl` | **unresolved** (review queue) |
 | `and offered burnt offerings on the ‘altar.’ —GEn` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `viii. 20. And the individuality is said to ‘build an altar` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `” that is` | **unresolved** (review queue) |
 | `to raise a means of reciprocal action between it and the Self of which it is the manifest embodiment. And every desire and emotion become the means of this offering of the lower self to the Higher Self. See Beasts` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BURNT OFFERING` | **unresolved** (review queue) |
+| `BURNT OFFERING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] |
 | `Gop (smelling)` | **unresolved** (review queue) |
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
-| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
-| `SAVIOUR` | **unresolved** (review queue) |
+| `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+| `SAVIOUR` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 
 ## Full OCR entry body (exact)
 

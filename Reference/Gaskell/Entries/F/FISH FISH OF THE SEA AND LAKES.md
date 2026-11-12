@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASPIRATION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASPIRATION|ASPIRATION]] |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `IKATERE` | **candidate (first-segment only)** → possible `IKA-TERE, THE FATHER OF FISH` (not linked) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `IKATERE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IKA-TERE, THE FATHER OF FISH|IKA-TERE, THE FATHER OF FISH]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
 | `KNEES. FISH Man` | **unresolved** (review queue) |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `(lower)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

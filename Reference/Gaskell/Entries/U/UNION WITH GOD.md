@@ -35,23 +35,23 @@ tags:
 | `ADOPTION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADOPTION|ADOPTION]] |
 | `AZON` | **unresolved** (review queue) |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `ASCENSION` | **unresolved** (review queue) |
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASCENSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]]; [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `ATMAN` | **unresolved** (review queue) |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `BLISS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLISS|BLISS]] |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `BROTHER OF JESUS` | **unresolved** (review queue) |
 | `CONSUMMATION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] |
 | `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `Gop` | **unresolved** (review queue) |
 | `GRacr` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `INDIVIDUALIty` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `PEACE` | **candidate (first-segment only)** → possible `PEACE, OR REST` (not linked) |
-| `RESURRECTION` | **unresolved** (review queue) |
+| `PEACE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+| `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Srmora` | **unresolved** (review queue) |

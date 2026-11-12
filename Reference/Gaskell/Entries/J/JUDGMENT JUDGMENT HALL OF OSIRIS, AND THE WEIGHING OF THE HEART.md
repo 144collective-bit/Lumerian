@@ -33,29 +33,29 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `As` | **unresolved** (review queue) |
-| `Ammit` | **unresolved** (review queue) |
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
+| `Ammit` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMMIT MONSTER|AMMIT MONSTER]] |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 | `APE BALANCE` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `EXPERIENCE` | **unresolved** (review queue) |
-| `FEATHER` | **unresolved** (review queue) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `EXPERIENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCE OF THE EGO|EXPERIENCE OF THE EGO]] |
+| `FEATHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] |
 | `Gops` | **unresolved** (review queue) |
-| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `Hawk` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
-| `HEBEN` | **unresolved** (review queue) |
+| `HEBEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEBEN TEMPLE GROUND|HEBEN TEMPLE GROUND]] |
 | `Homes` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `Karma` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `MESKHENTT` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `RECTANGLE` | **candidate (first-segment only)** → possible `RECTANGLE, PERFECT` (not linked) |
-| `RENENIT` | **unresolved** (review queue) |
-| `Sau` | **unresolved** (review queue) |
+| `RECTANGLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RECTANGLE, PERFECT|RECTANGLE, PERFECT]] |
+| `RENENIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RENENET, GODDESS OF NURSING|RENENET, GODDESS OF NURSING]] |
+| `Sau` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `SHar` | **unresolved** (review queue) |
-| `SHENTIT` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
+| `SHENTIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASCETICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] |
 | `CREATURES (small)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `Eco` | **unresolved** (review queue) |
-| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Eros` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]] |
 | `FimsrBORN SON` | **unresolved** (review queue) |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
@@ -45,13 +45,13 @@ tags:
 | `Manes` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANES|MANES]] |
 | `Monap` | **unresolved** (review queue) |
 | `PHANES` | **unresolved** (review queue) |
-| `PRaGAPpatt` | **unresolved** (review queue) |
+| `PRaGAPpatt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Szep` | **unresolved** (review queue) |
 | `Szir` | **unresolved** (review queue) |
-| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SurraTma` | **unresolved** (review queue) |
-| `Swan` | **candidate (first-segment only)** → possible `SWAN, WHITE` (not linked) |
+| `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 | `VAISVANARA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
 
 ## Full OCR entry body (exact)

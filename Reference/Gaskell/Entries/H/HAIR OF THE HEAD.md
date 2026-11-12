@@ -35,10 +35,10 @@ tags:
 | `Farru` | **unresolved** (review queue) |
 | `GoLtpEN HaIR` | **unresolved** (review queue) |
 | `HOLY Guost` | **unresolved** (review queue) |
-| `Maui` | **candidate (first-segment only)** → possible `MAUI, THE POTIKI` (not linked) |
+| `Maui` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAUI, THE POTIKI|MAUI, THE POTIKI]] |
 | `MEN (forest)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
-| `MounTAIN` | **unresolved** (review queue) |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `MounTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 
 ## Full OCR entry body (exact)
 

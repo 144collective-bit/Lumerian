@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `CoLD AND HEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] |
 | `Day AND NicHT` | **unresolved** (review queue) |
-| `Harvest` | **unresolved** (review queue) |
+| `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `Karma` | **unresolved** (review queue) |
-| `Orposites` | **unresolved** (review queue) |
+| `Orposites` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
 
 ## Full OCR entry body (exact)

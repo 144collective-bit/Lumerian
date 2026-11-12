@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGNiHOTRA` | **unresolved** (review queue) |
-| `GARHAPATYA` | **unresolved** (review queue) |
-| `Yama` | **candidate (first-segment only)** → possible `YAMA, KING` (not linked) |
+| `AGNiHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
+| `GARHAPATYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
+| `Yama` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
 
 ## Full OCR entry body (exact)
 

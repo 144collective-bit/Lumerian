@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANGRA` | **unresolved** (review queue) |
-| `DEARTH` | **unresolved** (review queue) |
+| `ANGRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
+| `DEARTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEARTH IN THE LAND|DEARTH IN THE LAND]] |
 | `DEVASTATION` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVASTATION|DEVASTATION]] |
 | `Frost` | **unresolved** (review queue) |
-| `PRALAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
+| `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `SABBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `SNOw` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
-| `SUMMER` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
+| `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 
 ## Full OCR entry body (exact)
 

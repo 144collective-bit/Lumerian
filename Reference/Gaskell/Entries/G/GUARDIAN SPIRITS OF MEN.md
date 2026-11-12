@@ -32,24 +32,24 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AEGAEON` | **candidate (first-segment only)** → possible `AEGAEON, ONE OF THE URANIDS` (not linked) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AEGAEON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AEGAEON, ONE OF THE URANIDS|AEGAEON, ONE OF THE URANIDS]] |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `AHURAMAZDA` | **candidate (first-segment only)** → possible `AHURA-MAZDA, OR ORMAZD` (not linked) |
-| `BONDAGE` | **unresolved** (review queue) |
-| `FRAvAsHIs` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
+| `FRAvAsHIs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
-| `MOoONAD OF LIFE` | **unresolved** (review queue) |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `MOoONAD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `Pirris (solar)` | **unresolved** (review queue) |
 | `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Sons OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `Strive` | **unresolved** (review queue) |
-| `TREE OF KNOWLEDGE` | **unresolved** (review queue) |
-| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+| `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
+| `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `WokRLp. 332 GUESTS GUARDIANS OF THE WORLD :-— These are High Intelligences or Souls` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `agents of the Supreme to guide and guard the expression of the Divine Wisdom in the Sacred Scriptures` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and to aid in human evolution. *‘The guardians of the world hastened from heaven to mount watch over the world’s one true ruler; thus the moonbeams` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -62,14 +62,14 @@ tags:
 | `though they are everywhere discernible` | **unresolved** (review queue) |
 | `are especially brilliant through the intuition proceeding from the buddhic plane. See AMSHASPANDS` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
-| `APES` | **unresolved** (review queue) |
+| `APES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] |
 | `AROHANGELS` | **unresolved** (review queue) |
-| `COLCHIS` | **unresolved** (review queue) |
-| `CURETES` | **unresolved** (review queue) |
+| `COLCHIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COLCHIS AND THE COLCHIANS|COLCHIS AND THE COLCHIANS]] |
+| `CURETES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CURETES AND CORYBANTES|CURETES AND CORYBANTES]] |
 | `DeEvas` | **unresolved** (review queue) |
 | `Kar.asa` | **unresolved** (review queue) |
 | `MEsSsENGEES` | **unresolved** (review queue) |
-| `VALKYBIOR` | **unresolved** (review queue) |
+| `VALKYBIOR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VALEYRIOR|VALEYRIOR]] |
 
 ## Full OCR entry body (exact)
 

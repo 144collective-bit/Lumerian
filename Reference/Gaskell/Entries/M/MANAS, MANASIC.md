@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BakHDHI` | **unresolved** (review queue) |
-| `BREATIC WORLD` | **unresolved** (review queue) |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `BakHDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BAKHDHI THE BEAUTIFUL|BAKHDHI THE BEAUTIFUL]] |
+| `BREATIC WORLD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `Manat` | **unresolved** (review queue) |
-| `MaisHaNn` | **unresolved** (review queue) |
-| `Sworps` | **unresolved** (review queue) |
-| `THOTH` | **unresolved** (review queue) |
+| `MaisHaNn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+| `Sworps` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SWORDS, TWO|SWORDS, TWO]] |
+| `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 
 ## Full OCR entry body (exact)
 

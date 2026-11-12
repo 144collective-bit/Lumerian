@@ -33,13 +33,13 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMENTI` | **unresolved** (review queue) |
-| `JOB` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `KARMA` | **unresolved** (review queue) |
 | `LAZARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
-| `Pureatrory` | **unresolved** (review queue) |
+| `Pureatrory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `STRIDES (soul)` | **unresolved** (review queue) |
+| `STRIDES (soul)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
 
 ## Full OCR entry body (exact)
 

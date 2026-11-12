@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fasric` | **unresolved** (review queue) |
-| `Loom` | **unresolved** (review queue) |
-| `Muia-PRAKRITI` | **unresolved** (review queue) |
+| `Loom` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LOOM OF ISIS OR HERA|LOOM OF ISIS OR HERA]] |
+| `Muia-PRAKRITI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] |
 | `RammENT` | **unresolved** (review queue) |
-| `WarP` | **unresolved** (review queue) |
-| `WHITE` | **unresolved** (review queue) |
+| `WarP` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
+| `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 
 ## Full OCR entry body (exact)
 

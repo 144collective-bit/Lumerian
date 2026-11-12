@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEGETTING` | **unresolved** (review queue) |
-| `DAUGHTERS` | **unresolved** (review queue) |
-| `CONCEPTION` | **unresolved** (review queue) |
+| `BEGETTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] |
+| `DAUGHTERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DAUGHTER|DAUGHTER]] |
+| `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `GENERA` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -33,22 +33,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Apam’s sBopy` | **unresolved** (review queue) |
-| `ARK` | **unresolved** (review queue) |
-| `BrEasrs` | **unresolved** (review queue) |
+| `ARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `BrEasrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
 | `EvoLutTion` | **unresolved** (review queue) |
 | `FLoop` | **unresolved** (review queue) |
 | `Gop sMELLING` | **unresolved** (review queue) |
-| `Ham` | **candidate (first-segment only)** → possible `HAM, SON OF NOAH` (not linked) |
+| `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `HovsE (frequented)` | **unresolved** (review queue) |
-| `INcarRnaTION` | **unresolved** (review queue) |
+| `INcarRnaTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `Inprvipuarrry` | **unresolved** (review queue) |
-| `InToxIcaATIoN` | **unresolved** (review queue) |
+| `InToxIcaATIoN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `Maw (righteous)` | **unresolved** (review queue) |
-| `OLIVE LEAF` | **unresolved** (review queue) |
+| `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `RansBOW` | **unresolved** (review queue) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
-| `SAvour` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
+| `SAvour` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 | `Sera` | **unresolved** (review queue) |
 | `SrLENvs` | **unresolved** (review queue) |
 | `WALKING WITH GOD. NOAH’` | **unresolved** (review queue) |

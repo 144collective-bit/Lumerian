@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Buppua` | **unresolved** (review queue) |
-| `CaLves` | **candidate (first-segment only)** → possible `CALVES, THE MYRIAD` (not linked) |
+| `CaLves` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CALVES, THE MYRIAD|CALVES, THE MYRIAD]] |
 | `Cow (milch)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Ersop` | **unresolved** (review queue) |
 | `GotpEn` | **unresolved** (review queue) |
-| `Horns` | **candidate (first-segment only)** → possible `HORNS, TEN, OF THE DRAGON` (not linked) |
+| `Horns` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]]; [[Reference/Gaskell/Entries/H/HORNS OF THE GOD|HORNS OF THE GOD]]; [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
 
 ## Full OCR entry body (exact)
 

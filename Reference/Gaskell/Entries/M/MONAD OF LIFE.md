@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
-| `CHARON` | **candidate (first-segment only)** → possible `CHARON, SON OF EREBUS` (not linked) |
+| `AARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] |
+| `CHARON` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHARON, SON OF EREBUS|CHARON, SON OF EREBUS]] |
 | `HOUSEHOLDER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `Lzvires` | **unresolved** (review queue) |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Mosrs` | **unresolved** (review queue) |
-| `Poou OF BETHESDA` | **unresolved** (review queue) |
+| `Poou OF BETHESDA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POOL OF BETHESDA|POOL OF BETHESDA]] |
 | `RicH MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RICH MAN|RICH MAN]] |
-| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WaGEs` | **unresolved** (review queue) |
 | `WORK` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |

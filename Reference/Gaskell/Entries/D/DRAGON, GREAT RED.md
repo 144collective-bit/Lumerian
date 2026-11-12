@@ -37,11 +37,11 @@ tags:
 | `CoNSTELLATIONS` | **unresolved** (review queue) |
 | `CROWN (stars)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Drvit` | **unresolved** (review queue) |
-| `GREEN` | **unresolved** (review queue) |
-| `Horns (ten)` | **candidate (first-segment only)** → possible `HORNS, TEN, OF THE DRAGON` (not linked) |
+| `GREEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GREEN COLOUR|GREEN COLOUR]]; [[Reference/Gaskell/Entries/G/GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS|GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS]]; [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
+| `Horns (ten)` | resolved (qualified head) → [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Stars` | **unresolved** (review queue) |
-| `Yao` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+| `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 
 ## Full OCR entry body (exact)
 

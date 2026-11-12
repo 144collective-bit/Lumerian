@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `BorTromiess Pit` | **unresolved** (review queue) |
 | `Druc` | **unresolved** (review queue) |
-| `HarPres` | **unresolved** (review queue) |
-| `NicorHea` | **unresolved** (review queue) |
+| `HarPres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
+| `NicorHea` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
 | `Prr` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 

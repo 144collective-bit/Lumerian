@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `CHaos` | **candidate (first-segment only)** → possible `CHAOS, OR THE DEEP` (not linked) |
-| `TIAMAT` | **candidate (first-segment only)** → possible `TIAMAT, THE SPIRIT OF CHAOS` (not linked) |
+| `CHaos` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
+| `TIAMAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]] |
 | `WaTER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BALDER` | **unresolved** (review queue) |
-| `Birrost` | **unresolved** (review queue) |
-| `DawN` | **candidate (first-segment only)** → possible `DAWN, DAYBREAK, DAYSPRING` (not linked) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `Birrost` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIFROST, THE HEAVENLY BRIDGE|BIFROST, THE HEAVENLY BRIDGE]] |
+| `DawN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
-| `GULDTOPP` | **unresolved** (review queue) |
+| `GULDTOPP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GULDTOPP HORSE RIDDEN BY HEIMDALL|GULDTOPP HORSE RIDDEN BY HEIMDALL]] |
 | `HORSE` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `LOKE` | **unresolved** (review queue) |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `TEETH` | **unresolved** (review queue) |
+| `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TUSK` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
 
 ## Full OCR entry body (exact)

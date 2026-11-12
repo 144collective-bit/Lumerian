@@ -35,7 +35,7 @@ tags:
 | `Founrain (deep)` | **unresolved** (review queue) |
 | `NipHoce` | **unresolved** (review queue) |
 | `NIFLHEM` | **unresolved** (review queue) |
-| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+| `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 
 ## Full OCR entry body (exact)
 

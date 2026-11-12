@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BLEssiInG` | **unresolved** (review queue) |
-| `GoD BLESSING` | **unresolved** (review queue) |
-| `GRACE` | **unresolved** (review queue) |
+| `GoD BLESSING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD BLESSING CREATURES|GOD BLESSING CREATURES]] |
+| `GRACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 
 ## Full OCR entry body (exact)

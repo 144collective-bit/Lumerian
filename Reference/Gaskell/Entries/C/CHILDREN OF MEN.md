@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BaBEL` | **unresolved** (review queue) |
+| `BaBEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]]; [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] |
 | `LANGUAGE` | **unresolved** (review queue) |
-| `PARENTS` | **unresolved** (review queue) |
-| `SPEECH` | **unresolved** (review queue) |
+| `PARENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
+| `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 
 ## Full OCR entry body (exact)
 

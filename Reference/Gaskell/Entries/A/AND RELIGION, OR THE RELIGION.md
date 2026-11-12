@@ -35,20 +35,20 @@ tags:
 | `AHURA RELIGION` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AHURA RELIGION|AHURA RELIGION]] |
 | `ATMAN` | **unresolved** (review queue) |
 | `EvoLurion` | **unresolved** (review queue) |
-| `GIRDLE (star)` | **candidate (first-segment only)** → possible `GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)` (not linked) |
+| `GIRDLE (star)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
 | `Hien PRIEST` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `INOARNATION` | **unresolved** (review queue) |
-| `LETTER` | **unresolved** (review queue) |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
 | `Matrer` | **unresolved** (review queue) |
 | `MiAyA (lower)` | **unresolved** (review queue) |
 | `PapPyRvus` | **unresolved** (review queue) |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `SEALED LETTER` | **unresolved** (review queue) |
+| `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
 | `SxetF` | **unresolved** (review queue) |
-| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `Vistasp` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
+| `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `Vistasp` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 
 ## Full OCR entry body (exact)
 

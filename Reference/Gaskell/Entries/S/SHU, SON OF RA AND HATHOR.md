@@ -34,24 +34,24 @@ tags:
 |---|---|
 | `ASCENSION OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
-| `EYE` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
-| `EYES OF HORUS` | **unresolved** (review queue) |
-| `GaTE (tchesert)` | **unresolved** (review queue) |
-| `HaTHor` | **candidate (first-segment only)** → possible `HATHOR, COW AND MOON GODDESS` (not linked) |
+| `EYE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
+| `EYES OF HORUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYES OF HORUS OR OSIRIS|EYES OF HORUS OR OSIRIS]] |
+| `GaTE (tchesert)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+| `HaTHor` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
 | `JACKAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JACKAL|JACKAL]] |
 | `Matrer` | **unresolved** (review queue) |
-| `MAyA` | **unresolved** (review queue) |
+| `MAyA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Moon` | **unresolved** (review queue) |
-| `Nut` | **unresolved** (review queue) |
+| `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
 | `Pitvars OF sHU` | **unresolved** (review queue) |
 | `Ses` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Ternot` | **unresolved** (review queue) |
 | `Tem` | **unresolved** (review queue) |
-| `Utcwats` | **unresolved** (review queue) |
-| `Vayu` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `Utcwats` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UTCHATS,-THE TWO EYES OF HORUS|UTCHATS,—THE TWO EYES OF HORUS]] |
+| `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 
 ## Full OCR entry body (exact)
 

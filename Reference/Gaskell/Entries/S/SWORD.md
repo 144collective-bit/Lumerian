@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Arrows (divine)` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `Arrows (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `Batre` | **unresolved** (review queue) |
-| `CHERUBIM` | **unresolved** (review queue) |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
 | `ConFiicr` | **unresolved** (review queue) |
 | `Fupo` | **unresolved** (review queue) |
 | `IwnSIGNIA` | **unresolved** (review queue) |
@@ -44,8 +44,8 @@ tags:
 | `SIcKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `STRIP` | **unresolved** (review queue) |
-| `TAKE-MIKA` | **unresolved** (review queue) |
-| `WaR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `TAKE-MIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI|TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI]] |
+| `WaR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

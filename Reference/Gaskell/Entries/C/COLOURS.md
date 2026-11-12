@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `DaNIEL` | **unresolved** (review queue) |
-| `Dwarrs` | **unresolved** (review queue) |
+| `DaNIEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DANIEL AND JOSEPH|DANIEL AND JOSEPH]] |
+| `Dwarrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DWARFS|DWARFS]] |
 | `Eatinea` | **unresolved** (review queue) |
-| `Eve` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
+| `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Izawaci` | **unresolved** (review queue) |
 | `Meapow` | **unresolved** (review queue) |
 | `Mepvusa` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `YOMI. ** COME INTO THEE` | **unresolved** (review queue) |
 | `’’ OR ‘* COME UP HITHER ”’ A symbol of the flal abandonment of the lower nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the rise of consciousness and perception. ‘‘Consummation! I have come into Thee (O Goddess). My heart watches` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -55,8 +55,8 @@ tags:
 | `CrowN (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `GoppeEss` | **unresolved** (review queue) |
 | `HrEakt` | **unresolved** (review queue) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
-| `ZENITH` | **unresolved** (review queue) |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+| `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ApamM (lower)` | **unresolved** (review queue) |
-| `BONDAGE` | **unresolved** (review queue) |
+| `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CIVILISING PEOPLE` | **unresolved** (review queue) |
-| `CrIPPLES` | **unresolved** (review queue) |
-| `DEMONS` | **unresolved** (review queue) |
-| `DWELLINGS` | **unresolved** (review queue) |
-| `Dynasty` | **resolved (R3 renamed dynasty heads)** → [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]] |
-| `EDEN` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
-| `ELEMENTS` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `CrIPPLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRIPPLES ABSENT FROM THE VARA|CRIPPLES ABSENT FROM THE VARA]] |
+| `DEMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
+| `DWELLINGS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DWELLINGS FOR THE SEEDS OF THE BEST CREATURES|DWELLINGS FOR THE SEEDS OF THE BEST CREATURES]]; [[Reference/Gaskell/Entries/D/DWELLINGS SUPPLIED WITH CATTLE|DWELLINGS SUPPLIED WITH CATTLE]] |
+| `Dynasty` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]]; [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]] |
+| `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
+| `ELEMENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
 | `EVvoLuTION` | **unresolved** (review queue) |
-| `GARDEN` | **unresolved** (review queue) |
+| `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `Graz` | **unresolved** (review queue) |
 | `Goon (light)` | **unresolved** (review queue) |
-| `GOVERNMENT` | **candidate (first-segment only)** → possible `GOVERNMENT, GOOD` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `GOVERNMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOVERNMENT, GOOD|GOVERNMENT, GOOD]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `IRON AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]] |
 | `322 GOLDEN JOTUNHEIM` | **unresolved** (review queue) |
 | `KaLiI-yuGa` | **unresolved** (review queue) |
@@ -55,17 +55,17 @@ tags:
 | `Mrrarts` | **unresolved** (review queue) |
 | `Mnovusters` | **unresolved** (review queue) |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
-| `OHONAMOCHI` | **unresolved** (review queue) |
-| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `OHONAMOCHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OHONAMOCHI -THE CREATOR|OHONAMOCHI —THE CREATOR]] |
+| `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `Pytvus` | **unresolved** (review queue) |
-| `RAcES` | **unresolved** (review queue) |
-| `RAGHA` | **unresolved** (review queue) |
+| `RAcES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+| `RAGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAGHA LAND|RAGHA LAND]] |
 | `RESPECTFUL MANNERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RESPECTFUL MANNERS|RESPECTFUL MANNERS]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `Vara` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
-| `VISTASP (king)` | **candidate (first-segment only)** → possible `VISTASP, KING` (not linked) |
+| `Vara` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+| `VISTASP (king)` | resolved (exact) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 | `Wokrtps (five)` | **unresolved** (review queue) |
-| `Yao` | **candidate (first-segment only)** → possible `YAO, CELESTIAL EMPEROR` (not linked) |
+| `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
 | `Yuasa` | **unresolved** (review queue) |
 | `Zopiac` | **unresolved** (review queue) |
 

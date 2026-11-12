@@ -32,20 +32,20 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Bacass` | **unresolved** (review queue) |
-| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `Bacass` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BACABS, FOUR|BACABS, FOUR]] |
+| `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `EVENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
-| `GaTE (tchesert)` | **unresolved** (review queue) |
+| `GaTE (tchesert)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `Heaven AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `HeEtTsEP` | **unresolved** (review queue) |
-| `IRON PLATE` | **unresolved** (review queue) |
-| `Mornina` | **unresolved** (review queue) |
+| `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `Mornina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
 | `Nor` | **unresolved** (review queue) |
 | `Rana` | **unresolved** (review queue) |
 | `Ses` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `SHu` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
-| `TET` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
+| `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
 
 ## Full OCR entry body (exact)
 

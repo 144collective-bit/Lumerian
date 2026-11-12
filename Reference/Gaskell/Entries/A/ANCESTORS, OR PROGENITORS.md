@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Anits` | **unresolved** (review queue) |
+| `Anits` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANTS|ANTS]] |
 | `Frmiat` | **unresolved** (review queue) |
 | `PatTRiaRcus` | **unresolved** (review queue) |
 

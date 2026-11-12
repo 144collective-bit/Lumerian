@@ -35,17 +35,17 @@ tags:
 | `AMBAYAVIS` | **unresolved** (review queue) |
 | `CAUSAL-BODPY` | **unresolved** (review queue) |
 | `GosPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
-| `INSprraTION` | **unresolved** (review queue) |
-| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
-| `PapyRus` | **unresolved** (review queue) |
+| `INSprraTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
+| `Koran` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KORAN,-THAT WHICH IS FOR MORTALS TO READ (KARAA)|KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)]] |
+| `PapyRus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SACRED ‘TEX?` | **unresolved** (review queue) |
-| `Sastra` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
+| `Sastra` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SASTRA, OR VEDA|SASTRA, OR VEDA]] |
 | `Scarprures` | **unresolved** (review queue) |
 | `SHintTal` | **unresolved** (review queue) |
-| `UPANISHADS` | **unresolved** (review queue) |
+| `UPANISHADS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
 | `VEDA` | **unresolved** (review queue) |
-| `WORD` | **candidate (first-segment only)** → possible `WORD, DIVINE — UNUTTERED AND UTTERED` (not linked) |
+| `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 
 ## Full OCR entry body (exact)
 

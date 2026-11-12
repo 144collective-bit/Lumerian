@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANUBIS` | **candidate (first-segment only)** → possible `ANUBIS, SON OF OSIRIS AND NEPTHYS` (not linked) |
-| `ARTIFICER` | **candidate (first-segment only)** → possible `ARTIFICER, OR ARTISAN` (not linked) |
-| `BIRTH (second)` | **candidate (first-segment only)** → possible `BIRTH, SECOND, OF AN ARYAN` (not linked) |
+| `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
+| `ARTIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARTIFICER, OR ARTISAN|ARTIFICER, OR ARTISAN]] |
+| `BIRTH (second)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BIRTH, SECOND, OF AN ARYAN|BIRTH, SECOND, OF AN ARYAN]] |
 | `Castres` | **unresolved** (review queue) |
-| `CLassEs` | **candidate (ambiguous first-segment)** → CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT; CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER (not linked) |
+| `CLassEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
 | `HESTIA` | **unresolved** (review queue) |
 | `MARRIAGE (castes)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
-| `MATTER` | **unresolved** (review queue) |
-| `NEPHtTHys` | **unresolved** (review queue) |
-| `SIGYN` | **candidate (first-segment only)** → possible `SIGYN, WIFE OF LOKE` (not linked) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `NEPHtTHys` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
+| `SIGYN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIGYN, WIFE OF LOKE|SIGYN, WIFE OF LOKE]] |
 
 ## Full OCR entry body (exact)
 

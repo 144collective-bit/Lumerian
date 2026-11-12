@@ -32,33 +32,33 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Apres (nine)` | **unresolved** (review queue) |
+| `Apres (nine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `BopwHisaTvas` | **unresolved** (review queue) |
 | `CHILDREN OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] |
-| `DAUGHTERS` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
+| `DAUGHTERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DAUGHTER|DAUGHTER]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `FAut` | **unresolved** (review queue) |
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
 | `HrxoBosui` | **unresolved** (review queue) |
 | `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
-| `JOB` | **unresolved** (review queue) |
-| `MANASAPUTRAS` | **candidate (first-segment only)** → possible `MANASAPUTRAS, MIND` (not linked) |
-| `MarutTs` | **unresolved** (review queue) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `MANASAPUTRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] |
+| `MarutTs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
-| `MUSPELL` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
-| `NEPHILIM` | **unresolved** (review queue) |
-| `PaccEKaBUDDHAS` | **unresolved** (review queue) |
+| `MUSPELL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
+| `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
+| `PaccEKaBUDDHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PACCEKABUDDHAS OR PRATYEKA-BUDDHAS|PACCEKABUDDHAS OR PRATYEKA-BUDDHAS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PrrRis (solar)` | **unresolved** (review queue) |
-| `Saces` | **unresolved** (review queue) |
-| `Satryrs` | **unresolved** (review queue) |
-| `Saviourns` | **unresolved** (review queue) |
+| `Saces` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAGES, GREAT|SAGES, GREAT]] |
+| `Satryrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
+| `Saviourns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SmnaEerRs` | **unresolved** (review queue) |
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
-| `SPARK` | **candidate (first-segment only)** → possible `SPARK, DIVINE` (not linked) |
+| `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 
 ## Full OCR entry body (exact)
 

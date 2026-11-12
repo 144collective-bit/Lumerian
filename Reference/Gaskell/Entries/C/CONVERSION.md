@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CONVICTION` | **unresolved** (review queue) |
+| `CONVICTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONVICTION OF SIN|CONVICTION OF SIN]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `LITTLE ONES. CONVERSION OF ST` | **unresolved** (review queue) |
 

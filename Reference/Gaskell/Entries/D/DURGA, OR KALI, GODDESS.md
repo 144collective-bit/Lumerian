@@ -37,8 +37,8 @@ tags:
 | `Exopvs` | **unresolved** (review queue) |
 | `Srva` | **unresolved** (review queue) |
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
-| `TONGUES` | **candidate (first-segment only)** → possible `TONGUES, GIFT OF` (not linked) |
-| `WAR` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `TONGUES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TONGUES, GIFT OF|TONGUES, GIFT OF]] |
+| `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

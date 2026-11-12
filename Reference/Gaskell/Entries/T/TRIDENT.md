@@ -32,15 +32,15 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `BuppuI` | **unresolved** (review queue) |
-| `Hermes` | **unresolved** (review queue) |
+| `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `TRISMEGISTUS` | **unresolved** (review queue) |
-| `MANAs` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
-| `POSEIDON` | **unresolved** (review queue) |
+| `MANAs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
+| `POSEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 | `SuTRATMA` | **unresolved** (review queue) |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TSURAH. TRINITY` | **unresolved** (review queue) |
 | `HOLY :-— A symbol of the Godhead in three aspects. Father—-Absolute` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Unconditioned` | **unresolved** (review queue) |
@@ -53,7 +53,7 @@ tags:
 | `Love. Spirtt— Means of creation and sustentation` | **unresolved** (review queue) |
 | `Wisdom. In Hindu terms` | **unresolved** (review queue) |
 | `the Trinity is expressed in Paranatma` | **unresolved** (review queue) |
-| `Atma` | **unresolved** (review queue) |
+| `Atma` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] |
 | `and Buddhi. “The Father uttered himself and all creatures in the Word` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `his Son` | **unresolved** (review queue) |
 | `and the return of the Father into himself includes the like return of all creatures into the same Eternal Source. The logical genesis of the Son furnishes a type of all evolution or creation ; the Son is the unity of all the works of God. ... God is in all things` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -101,14 +101,14 @@ tags:
 | `LX). ae R. 8. Mean` | **unresolved** (review queue) |
 | `Z'. G. Hermes` | **unresolved** (review queue) |
 | `Vol. LL. p. 134. ** The terms Father` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Son` | **unresolved** (review queue) |
+| `Son` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]]; [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]]; [[Reference/Gaskell/Entries/S/SON OR DAUGHTER|SON OR DAUGHTER]] |
 | `and Spirit are but symbols which stand for three manifestations of God` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `three constituents of the Divine nature` | **unresolved** (review queue) |
 | `three relationships essential to the perfect life of Deity. God goes forth from Himself in the eternal Son` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `returning to Himself in the Eternal Spirit.”"—R. J. CamrpBELL` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `A Faith for To-day` | **unresolved** (review queue) |
 | `p. 283. ‘** Medieval theology generally distinguished the Three Persons as Power` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `Wisdom` | **unresolved** (review queue) |
+| `Wisdom` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `and Love` | **unresolved** (review queue) |
 | `the Holy Ghost being the copula between the Father and the Son. It is instructive to notice that to each of the Three Persons is assigned all these attributes. ... May we say not further that Wisdom` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Power and Love have been the Divine attributes which the Greek Church` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -118,7 +118,7 @@ tags:
 | `as is done in transactional theories of the Atonement.’’—W. R. Incg` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Paddock Lectures` | **unresolved** (review queue) |
 | `p. 28. “The two points which I wish to emphasise about the doctrine of the Trinity are` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `first` | **unresolved** (review queue) |
+| `first` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FIRST AND LAST|FIRST AND LAST]]; [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `that popular theology` | **unresolved** (review queue) |
 | `when it thinks of the Three Persons in one God` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `is usually much more tritheistic than the orthodox faith. This error has come about through the unfortunate use of the word ‘ Person` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -129,28 +129,28 @@ tags:
 | `ATMAN` | **unresolved** (review queue) |
 | `Buppual` | **unresolved** (review queue) |
 | `Cuarist` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `DEMIURGE` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] |
 | `FaTHER` | **unresolved** (review queue) |
-| `First-BoRN` | **unresolved** (review queue) |
+| `First-BoRN` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Gop` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `HERMES TRISMEGISTUS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
-| `HOLY GHosT` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
-| `ImaGE` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `HOLY GHosT` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
+| `ImaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `ISvaRA` | **unresolved** (review queue) |
 | `Macro  TRI-RATNA cosmM` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `Pyramip` | **unresolved** (review queue) |
 | `Setr` | **unresolved** (review queue) |
-| `Son OF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `Son OF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Spirit` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
-| `TRIAD` | **candidate (first-segment only)** → possible `TRIAD, HIGHER` (not linked) |
+| `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
 | `TsuRAH` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TSURAH|TSURAH]] |
-| `WITNESSES (three)` | **candidate (ambiguous first-segment)** → WITNESSES, FALSE; WITNESSES, THREE, IN HEAVEN; WITNESSES, THREE, ON EARTH; WITNESSES, TWO (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `WITNESSES (three)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, ON EARTH|WITNESSES, THREE, ON EARTH]]; [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

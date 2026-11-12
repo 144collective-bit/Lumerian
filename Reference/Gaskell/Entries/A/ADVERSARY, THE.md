@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AESHM` | **unresolved** (review queue) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `ANTICHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] |
 | `CouNnTERFEIT` | **unresolved** (review queue) |
-| `DEviL` | **candidate (first-segment only)** → possible `DEVIL, THE ADVERSARY` (not linked) |
+| `DEviL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `Jos` | **unresolved** (review queue) |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 

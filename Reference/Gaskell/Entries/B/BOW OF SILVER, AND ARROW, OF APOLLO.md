@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `ARROWS` | **candidate (first-segment only)** → possible `ARROWS, DIVINE` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `ARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] |
 | `Mrrat` | **unresolved** (review queue) |
-| `PESTILENCE` | **unresolved** (review queue) |
-| `SILVER` | **unresolved** (review queue) |
+| `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+| `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
 
 ## Full OCR entry body (exact)
 

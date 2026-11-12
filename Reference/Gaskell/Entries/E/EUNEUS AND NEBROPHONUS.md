@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `HypsrpyLe` | **unresolved** (review queue) |
-| `Lemnos` | **unresolved** (review queue) |
-| `THoas` | **candidate (first-segment only)** → possible `THOAS, FATHER OF HYPSIPYLE` (not linked) |
+| `HypsrpyLe` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYPSIPYLE, DAUGHTER OF THOAS|HYPSIPYLE, DAUGHTER OF THOAS]] |
+| `Lemnos` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEMNOS ISLAND|LEMNOS ISLAND]] |
+| `THoas` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
 
 ## Full OCR entry body (exact)
 

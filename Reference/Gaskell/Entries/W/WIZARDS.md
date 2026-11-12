@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BLACK MAGICIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLACK MAGICIANS|BLACK MAGICIANS]] |
-| `SORCEREBS` | **unresolved** (review queue) |
+| `SORCEREBS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SORCERORS, OR WIZARDS|SORCERORS, OR WIZARDS]] |
 
 ## Full OCR entry body (exact)
 

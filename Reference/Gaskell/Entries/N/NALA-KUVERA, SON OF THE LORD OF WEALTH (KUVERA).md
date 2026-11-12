@@ -34,9 +34,9 @@ tags:
 |---|---|
 | `Hem` | **unresolved** (review queue) |
 | `Husspanp (good)` | **unresolved** (review queue) |
-| `KvVERA` | **unresolved** (review queue) |
+| `KvVERA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KUVERA, THE LORD WEALTH|KUVERA, THE LORD WEALTH]] |
 | `POVERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
-| `WEALTH` | **unresolved** (review queue) |
+| `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 
 ## Full OCR entry body (exact)
 

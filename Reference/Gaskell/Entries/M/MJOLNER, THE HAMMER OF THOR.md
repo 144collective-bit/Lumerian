@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Brerserks` | **unresolved** (review queue) |
+| `Brerserks` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
-| `HyYRROCKEN` | **unresolved** (review queue) |
+| `HyYRROCKEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYRROCKEN, THE GIANTESS|HYRROCKEN, THE GIANTESS]] |
 | `Mas` | **unresolved** (review queue) |
 | `THOR` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 

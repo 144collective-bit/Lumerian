@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BraHMa` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `BraHMa` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
 | `FLavourn` | **unresolved** (review queue) |
 | `ILYA TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILYA TREE|ILYA TREE]] |
 | `PERFUMES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] |
-| `SALAGYA` | **candidate (first-segment only)** → possible `SALAGYA, CITY` (not linked) |
-| `SCENT (sweet)` | **candidate (first-segment only)** → possible `SCENT, SWEET, FROM THE SOUTH` (not linked) |
-| `Taste` | **unresolved** (review queue) |
+| `SALAGYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
+| `SCENT (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
+| `Taste` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
 | `VIBHU` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

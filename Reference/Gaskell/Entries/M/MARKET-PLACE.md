@@ -35,9 +35,9 @@ tags:
 | `Mat. xx. 3. See ARENA` | **unresolved** (review queue) |
 | `FiELtpD` | **unresolved** (review queue) |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
-| `LanpD` | **unresolved** (review queue) |
+| `LanpD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
-| `Vara` | **candidate (first-segment only)** → possible `VARA,—AN ENCLOSURE, FOUR SQUARE` (not linked) |
+| `Vara` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

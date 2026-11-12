@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BirtH or HORUS` | **unresolved** (review queue) |
-| `HEPHAISTOS` | **candidate (first-segment only)** → possible `HEPHAISTOS, OR VULCAN` (not linked) |
+| `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `Horvus (child)` | **unresolved** (review queue) |
-| `Lameness` | **unresolved** (review queue) |
+| `Lameness` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAMENESS OF THE GOD|LAMENESS OF THE GOD]] |
 | `Las` | **unresolved** (review queue) |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |

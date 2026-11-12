@@ -36,8 +36,8 @@ tags:
 | `Cow (spotted)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `FicJUICE` | **unresolved** (review queue) |
 | `HoMA-JUICE` | **unresolved** (review queue) |
-| `PRAGAPATTI (relaxed)` | **unresolved** (review queue) |
-| `SomMA-JUICE` | **unresolved** (review queue) |
+| `PRAGAPATTI (relaxed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `SomMA-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 
 ## Full OCR entry body (exact)

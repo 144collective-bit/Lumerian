@@ -41,16 +41,16 @@ tags:
 | `whose cyclic progression corresponds with the Twelve signs of the Zodiac` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `or fields of the Tuat. The ‘“ amazement '’ among the activities of nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `is simply the process of awakenment of the qualities and potencies (evolution) which takes place in the spiritual ascent. See Apamas` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ADITyas` | **candidate (first-segment only)** → possible `ADITYAS, THE TWELVE` (not linked) |
-| `ANTHROPOS` | **unresolved** (review queue) |
-| `APOSTLES` | **candidate (first-segment only)** → possible `APOSTLES, THE TWELVE` (not linked) |
-| `DISCIPLES` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `ADITyas` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] |
+| `ANTHROPOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] |
+| `APOSTLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] |
+| `DISCIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JABRAOTH` | **unresolved** (review queue) |
-| `Saviourns` | **unresolved** (review queue) |
-| `SEXUAL` | **unresolved** (review queue) |
-| `TRIBES` | **unresolved** (review queue) |
+| `Saviourns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+| `SEXUAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEXUAL UNION|SEXUAL UNION]] |
+| `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 | `TuaT TWELVE` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

@@ -38,7 +38,7 @@ tags:
 | `MEart` | **unresolved** (review queue) |
 | `Pxiant` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
-| `SEEDS OF FOODS` | **unresolved** (review queue) |
+| `SEEDS OF FOODS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEEDS OF FOODS AND PLANTS|SEEDS OF FOODS AND PLANTS]] |
 
 ## Full OCR entry body (exact)
 

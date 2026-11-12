@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Crry oF GOD` | **unresolved** (review queue) |
-| `EXPERIENCES` | **unresolved** (review queue) |
-| `FRAVASHIS` | **candidate (ambiguous first-segment)** → FRAVASHIS, FRAVAHAR, OR FEREUERS; FRAVASHIS, PROMETHEUS, HOMA-JUICE (not linked) |
-| `FUGITIVE` | **unresolved** (review queue) |
-| `Hymns` | **unresolved** (review queue) |
+| `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
+| `FRAVASHIS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]]; [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]]; [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] |
+| `FUGITIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUGITIVE AND WANDERER|FUGITIVE AND WANDERER]] |
+| `Hymns` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `PILGRIM` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] |
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
-| `WANDERERS` | **candidate (first-segment only)** → possible `WANDERERS, OR WAYFARERS` (not linked) |
-| `WAYFAERING MEN` | **unresolved** (review queue) |
+| `WANDERERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
+| `WAYFAERING MEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WAYFARING MEN|WAYFARING MEN]] |
 
 ## Full OCR entry body (exact)
 

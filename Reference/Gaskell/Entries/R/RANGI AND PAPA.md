@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `Darkness` | **unresolved** (review queue) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `Darkness` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `EA&tTH (prim.)` | **unresolved** (review queue) |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `IKATEBE` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `PILLARS OF SHU` | **unresolved** (review queue) |
-| `PUNGA` | **candidate (first-segment only)** → possible `PUNGA, THE SHARK` (not linked) |
+| `PUNGA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PUNGA, THE SHARK|PUNGA, THE SHARK]] |
 | `Ronco` | **unresolved** (review queue) |
 | `Ru` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RU|RU]] |
-| `SEPARATION` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SPIKi` | **unresolved** (review queue) |
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `TAWHIRIMATEA` | **candidate (first-segment only)** → possible `TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS` (not linked) |
+| `TAWHIRIMATEA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `TUMATAUENGA` | **unresolved** (review queue) |
 | `TUTE` | **unresolved** (review queue) |
-| `URANUS` | **unresolved** (review queue) |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 
 ## Full OCR entry body (exact)
 

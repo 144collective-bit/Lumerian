@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FatTe-SPHERE` | **unresolved** (review queue) |
+| `FatTe-SPHERE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
 | `Karma` | **unresolved** (review queue) |
-| `Maat` | **candidate (first-segment only)** → possible `MAAT, GODDESS` (not linked) |
+| `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `Necessity` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
-| `Net` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `Nornor` | **candidate (first-segment only)** → possible `NORNOR, OR NORNS` (not linked) |
+| `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
+| `Nornor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
-| `THemis` | **candidate (first-segment only)** → possible `THEMIS, GODDESS` (not linked) |
-| `URDAR` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `THemis` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+| `URDAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URDAR FOUNTAIN|URDAR FOUNTAIN]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARYAVARTA` | **candidate (first-segment only)** → possible `ARYAVARTA, THE LAND OF THE ARYAS` (not linked) |
-| `BarHis` | **candidate (first-segment only)** → possible `BARHIS, SACRIFICIAL GRASS` (not linked) |
+| `ARYAVARTA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARYAVARTA, THE LAND OF THE ARYAS|ARYAVARTA, THE LAND OF THE ARYAS]] |
+| `BarHis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] |
 | `Barsom` | **unresolved** (review queue) |
 | `Buoxie` | **unresolved** (review queue) |
-| `Castes` | **candidate (first-segment only)** → possible `CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA` (not linked) |
-| `DEVAYANA` | **unresolved** (review queue) |
-| `GIRDLE ROPE` | **unresolved** (review queue) |
+| `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
+| `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
+| `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
 | `Imnorer` | **unresolved** (review queue) |
 | `Kus` | **unresolved** (review queue) |
 | `Supra` | **unresolved** (review queue) |
 | `TAaMAGUSHI` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |
-| `YAGNAPAVITA` | **unresolved** (review queue) |
+| `YAGNAPAVITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAGNAPAVITA TAMAS STATE|YAGNAPAVITA TAMAS STATE]] |
 
 ## Full OCR entry body (exact)
 

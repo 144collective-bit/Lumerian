@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Caucasus` | **unresolved** (review queue) |
+| `Caucasus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] |
 | `HILL country` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] |
 | `QaFr. MOURNER’` | **unresolved** (review queue) |
 

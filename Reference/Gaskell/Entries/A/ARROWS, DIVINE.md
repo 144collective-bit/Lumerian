@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVARYA` | **unresolved** (review queue) |
-| `ARREST` | **unresolved** (review queue) |
-| `BHISMA` | **candidate (first-segment only)** → possible `BHISMA, SANTANAVA, THE TERRIBLE` (not linked) |
-| `FUNERAL` | **unresolved** (review queue) |
+| `ADVARYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] |
+| `ARREST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] |
+| `BHISMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BHISMA, SANTANAVA, THE TERRIBLE|BHISMA, SANTANAVA, THE TERRIBLE]] |
+| `FUNERAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] |
 | `NINE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NINE DAYS|NINE DAYS]] |
 | `PESTILENOCE` | **unresolved** (review queue) |
 | `SiavGHTER` | **unresolved** (review queue) |
-| `SOUND` | **candidate (first-segment only)** → possible `SOUND, OR VOICE` (not linked) |
+| `SOUND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `SPEak` | **unresolved** (review queue) |
 | `VRITRA. ARSH` | **unresolved** (review queue) |
 | `THE ‘“*THRONE OF GOD :-— A symbol of the plane of atma` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the highest of the five planes of existence. See Atma` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Kunst` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
-| `THRONE` | **unresolved** (review queue) |
+| `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
 
 ## Full OCR entry body (exact)
 

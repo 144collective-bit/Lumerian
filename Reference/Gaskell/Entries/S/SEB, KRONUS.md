@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bmp (great)` | **unresolved** (review queue) |
-| `BIRTH OF OSIRIS` | **candidate (first-segment only)** → possible `BIRTH OF OSIRIS, OR RA` (not linked) |
-| `Cronus` | **unresolved** (review queue) |
-| `Cursz` | **unresolved** (review queue) |
+| `BIRTH OF OSIRIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `Cursz` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
 | `Ecc` | **unresolved** (review queue) |
 | `Harnor` | **unresolved** (review queue) |
-| `InVOLUTION` | **unresolved** (review queue) |
+| `InVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `KHorpap` | **unresolved** (review queue) |
 | `Kronos` | **unresolved** (review queue) |
 | `Not` | **unresolved** (review queue) |
 | `PILLARS OF sHU` | **unresolved** (review queue) |
-| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
-| `Saturn` | **candidate (first-segment only)** → possible `SATURN, PLANET` (not linked) |
+| `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+| `Saturn` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 | `Sav` | **unresolved** (review queue) |
 | `Steps` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 | `Tuas` | **unresolved** (review queue) |

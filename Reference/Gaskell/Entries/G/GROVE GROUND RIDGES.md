@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eartu` | **unresolved** (review queue) |
-| `Furrows` | **unresolved** (review queue) |
-| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
-| `TONGUE` | **candidate (first-segment only)** → possible `TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS` (not linked) |
+| `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
+| `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
+| `TONGUE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

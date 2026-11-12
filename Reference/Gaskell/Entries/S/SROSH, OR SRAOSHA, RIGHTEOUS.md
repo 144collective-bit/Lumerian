@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASHA-VANUHI` | **candidate (first-segment only)** → possible `ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA` (not linked) |
+| `ASHA-VANUHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
 | `Darvas` | **unresolved** (review queue) |
-| `IcGnorRANCE` | **unresolved** (review queue) |
+| `IcGnorRANCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
-| `MitTRO` | **unresolved** (review queue) |
-| `NERYOSANG` | **candidate (first-segment only)** → possible `NERYOSANG, THE ANGEL` (not linked) |
+| `MitTRO` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MITRO, SROSH, AND RASHNU|MITRO, SROSH, AND RASHNU]] |
+| `NERYOSANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `RELIGION (good). SROTAPANNA` | **unresolved** (review queue) |
 | `SROTAPATTI` | **unresolved** (review queue) |
 | `OR SOTAPANNA:` | **unresolved** (review queue) |

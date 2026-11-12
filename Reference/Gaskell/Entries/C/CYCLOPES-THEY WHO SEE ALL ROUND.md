@@ -35,8 +35,8 @@ tags:
 | `Buitpers` | **unresolved** (review queue) |
 | `MEN (one-eyed)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `PoLYPHEMUS` | **candidate (first-segment only)** → possible `POLYPHEMUS, SON OF POSEIDON` (not linked) |
-| `PrRoTOTYPES` | **unresolved** (review queue) |
+| `PoLYPHEMUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLYPHEMUS, SON OF POSEIDON|POLYPHEMUS, SON OF POSEIDON]] |
+| `PrRoTOTYPES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 
 ## Full OCR entry body (exact)
 

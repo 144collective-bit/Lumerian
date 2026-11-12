@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKERU` | **unresolved** (review queue) |
-| `AROUERIS` | **candidate (first-segment only)** → possible `AROUERIS, THE ELDER HORUS` (not linked) |
-| `ASCENSION OF osinis` | **unresolved** (review queue) |
-| `AVENGING` | **unresolved** (review queue) |
+| `AKERU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AKERU GODS, OR GODS OF AKERT|AKERU GODS, OR GODS OF AKERT]] |
+| `AROUERIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AROUERIS, THE ELDER HORUS|AROUERIS, THE ELDER HORUS]] |
+| `ASCENSION OF osinis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] |
+| `AVENGING` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AVENGING THE DIVINE SACRIFICE|AVENGING THE DIVINE SACRIFICE]] |
 | `BinTH oF HORUS` | **unresolved** (review queue) |
 | `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
-| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
-| `Pytons` | **unresolved** (review queue) |
+| `Horizons` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] |
+| `Pytons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
 | `Tatrv` | **unresolved** (review queue) |
-| `URNI` | **unresolved** (review queue) |
+| `URNI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNI-TENTEN (HORUS)|URNI-TENTEN (HORUS)]] |
 | `UR-UATOHI` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

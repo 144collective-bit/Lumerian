@@ -34,13 +34,13 @@ tags:
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
-| `Homa` | **unresolved** (review queue) |
+| `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Imnorer` | **unresolved** (review queue) |
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 | `RupDRA` | **unresolved** (review queue) |
-| `SERPENT ASCULAPIUS` | **unresolved** (review queue) |
-| `VALMIKI` | **candidate (ambiguous first-segment)** → VALMIKI, KYDOIMOS (UPROAR); VALMIKI, THE POET (not linked) |
+| `SERPENT ASCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
+| `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
 
 ## Full OCR entry body (exact)
 

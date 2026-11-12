@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FoorsTers OF BUDDHA` | **unresolved** (review queue) |
+| `FoorsTers OF BUDDHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOOTSTEPS OF BUDDHA|FOOTSTEPS OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

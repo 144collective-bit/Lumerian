@@ -36,7 +36,7 @@ tags:
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `[RON AGE` | **unresolved** (review queue) |
 | `Kaki` | **unresolved** (review queue) |
-| `Scorpio` | **candidate (first-segment only)** → possible `SCORPIO, THE ZODIACAL SIGN` (not linked) |
+| `Scorpio` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
 
 ## Full OCR entry body (exact)
 

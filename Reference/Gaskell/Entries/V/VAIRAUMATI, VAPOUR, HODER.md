@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Asan` | **unresolved** (review queue) |
-| `BALDER` | **unresolved** (review queue) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
 | `BLIND MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
-| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Cave` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `OF LEMMINKAINEN` | **unresolved** (review queue) |
-| `DHRITA-RASHTRA` | **candidate (first-segment only)** → possible `DHRITA-RASHTRA, THE BLIND KING` (not linked) |
-| `EYE` | **candidate (first-segment only)** → possible `EYE, OR EYESIGHT` (not linked) |
-| `Fresa` | **unresolved** (review queue) |
+| `DHRITA-RASHTRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] |
+| `EYE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]] |
+| `Fresa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FREJA, FRIEJA, FREYA, OR FREYJA, WIFE OF HODER|FREJA, FRIEJA, FREYA, OR FREYJA, WIFE OF HODER]] |
 | `Loker` | **unresolved** (review queue) |
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

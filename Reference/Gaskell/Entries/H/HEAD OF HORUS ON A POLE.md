@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Honus` | **unresolved** (review queue) |
-| `POLE` | **candidate (first-segment only)** → possible `POLE, UPRIGHT` (not linked) |
+| `POLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `Set` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 
 ## Full OCR entry body (exact)
 

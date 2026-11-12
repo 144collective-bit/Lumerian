@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AROHED GaTEWays. GREEKS` | **unresolved** (review queue) |
-| `Taz` | **candidate (first-segment only)** → possible `TAZ, MAN, AND TAZAK, WOMAN, ON THE PLAIN OF THE TAZIKAN (ARABS)` (not linked) |
+| `Taz` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAZ, MAN, AND TAZAK, WOMAN, ON THE PLAIN OF THE TAZIKAN (ARABS)|TAZ, MAN, AND TAZAK, WOMAN, ON THE PLAIN OF THE TAZIKAN (ARABS)]] |
 | `57` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

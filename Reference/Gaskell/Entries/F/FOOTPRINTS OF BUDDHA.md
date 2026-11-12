@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Bupp#a (marks)` | **unresolved** (review queue) |
-| `Margs oF JESUS` | **unresolved** (review queue) |
+| `Margs oF JESUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARES OF JESUS|MARES OF JESUS]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,21 +34,21 @@ tags:
 |---|---|
 | `Asan` | **unresolved** (review queue) |
 | `ASGARD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] |
-| `BALDER` | **unresolved** (review queue) |
-| `Doors` | **candidate (first-segment only)** → possible `DOORS, HOUSE WITH FOUR` (not linked) |
+| `BALDER` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] |
+| `Doors` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]]; [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `Drorner` | **unresolved** (review queue) |
 | `Fart` | **unresolved** (review queue) |
 | `Friec` | **unresolved** (review queue) |
-| `HEmDALL` | **unresolved** (review queue) |
+| `HEmDALL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEIMDALL|HEIMDALL]] |
 | `Hermop` | **unresolved** (review queue) |
 | `Hoprer` | **unresolved** (review queue) |
-| `HyRRocKEN` | **candidate (first-segment only)** → possible `HYRROCKEN, THE GIANTESS` (not linked) |
+| `HyRRocKEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HYRROCKEN, THE GIANTESS|HYRROCKEN, THE GIANTESS]] |
 | `LOKE` | **unresolved** (review queue) |
 | `MisTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
-| `MJoLNER` | **candidate (first-segment only)** → possible `MJOLNER, THE HAMMER OF THOR` (not linked) |
-| `Nanna` | **candidate (first-segment only)** → possible `NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER` (not linked) |
+| `MJoLNER` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] |
+| `Nanna` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `ODIN` | **unresolved** (review queue) |
-| `RINGHORNE` | **candidate (first-segment only)** → possible `RINGHORNE, BALDER'S SHIP` (not linked) |
+| `RINGHORNE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RINGHORNE, BALDER'S SHIP|RINGHORNE, BALDER'S SHIP]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `VALHALLA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALHALLA|VALHALLA]] |
 | `WEEPING. 206` | **unresolved** (review queue) |

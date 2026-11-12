@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CoME INTO THEE` | **unresolved** (review queue) |
-| `HawK` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `HawK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]]; [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]]; [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Proumes` | **unresolved** (review queue) |
-| `SERPENTS` | **unresolved** (review queue) |
-| `URAEI` | **candidate (first-segment only)** → possible `URAEI, SERPENT EMBLEMS` (not linked) |
+| `SERPENTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+| `URAEI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URAEI, SERPENT EMBLEMS|URAEI, SERPENT EMBLEMS]] |
 
 ## Full OCR entry body (exact)
 

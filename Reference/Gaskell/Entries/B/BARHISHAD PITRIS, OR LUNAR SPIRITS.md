@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `LuNaR OYCLE` | **unresolved** (review queue) |
-| `MoNnapD oF FORM` | **unresolved** (review queue) |
+| `MoNnapD oF FORM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `Moon (waxing)` | **unresolved** (review queue) |
 | `Prrris (lunar)` | **unresolved** (review queue) |
 

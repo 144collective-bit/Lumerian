@@ -32,10 +32,10 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ItLusion` | **unresolved** (review queue) |
+| `ItLusion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `Law OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF BUDDHA|LAW OF BUDDHA]] |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `THIEST` | **unresolved** (review queue) |
+| `THIEST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `THIRSTY. Waves` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

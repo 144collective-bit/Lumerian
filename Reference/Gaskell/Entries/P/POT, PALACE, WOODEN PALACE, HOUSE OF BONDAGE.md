@@ -34,20 +34,20 @@ tags:
 |---|---|
 | `Bonpaae` | **unresolved** (review queue) |
 | `Captiviry` | **unresolved** (review queue) |
-| `Dry` | **unresolved** (review queue) |
+| `Dry` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DRY AND MOIST|DRY AND MOIST]]; [[Reference/Gaskell/Entries/D/DRY-BACKED THROUGH THE DAEVAS|DRY-BACKED THROUGH THE DAEVAS]] |
 | `Ecypr` | **unresolved** (review queue) |
 | `Exopus` | **unresolved** (review queue) |
 | `Hrrmes` | **unresolved** (review queue) |
 | `Horse` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `IsRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
-| `Moses` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
-| `PasSsovER` | **unresolved** (review queue) |
-| `Rock (spir.)` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
+| `Moses` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `PasSsovER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
+| `Rock (spir.)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `Scorpion` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCORPION|SCORPION]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `Wartrer` | **unresolved** (review queue) |
-| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 
 ## Full OCR entry body (exact)
 

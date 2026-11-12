@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANCESTORS` | **candidate (first-segment only)** → possible `ANCESTORS, OR PROGENITORS` (not linked) |
+| `ANCESTORS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANCESTORS, OR PROGENITORS|ANCESTORS, OR PROGENITORS]] |
 | `COME UNTO THEE` | **unresolved** (review queue) |
 | `CoNSUMMATION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] |
-| `Hast` | **candidate (first-segment only)** → possible `HAST, OR COMPLETION` (not linked) |
+| `Hast` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAST, OR COMPLETION|HAST, OR COMPLETION]] |
 | `PaTRIAROHS` | **unresolved** (review queue) |
-| `Tuart` | **unresolved** (review queue) |
+| `Tuart` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 
 ## Full OCR entry body (exact)
 

@@ -34,11 +34,11 @@ tags:
 |---|---|
 | `Dances` | **unresolved** (review queue) |
 | `Gorm` | **unresolved** (review queue) |
-| `Harmony` | **unresolved** (review queue) |
+| `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `Hymn sinoemna` | **unresolved** (review queue) |
 | `Inrurrion` | **unresolved** (review queue) |
-| `PHaxkacians` | **unresolved** (review queue) |
-| `Uzume#` | **candidate (first-segment only)** → possible `UZUME, GODDESS` (not linked) |
+| `PHaxkacians` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
+| `Uzume#` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AEGAEON` | **candidate (first-segment only)** → possible `AEGAEON, ONE OF THE URANIDS` (not linked) |
+| `AEGAEON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AEGAEON, ONE OF THE URANIDS|AEGAEON, ONE OF THE URANIDS]] |
 | `Corrus` | **unresolved** (review queue) |
 | `Firsz` | **unresolved** (review queue) |
 | `HepGcenoc` | **unresolved** (review queue) |
 | `I[vre.wecr` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
-| `MEN (centimani)` | **candidate (ambiguous first-segment)** → MEN, BAT-WINGED; MEN, BREAST-EARED; MEN, BREAST-EYED; MEN, HUNDRED-HANDED ,—THE CENTIMANI (not linked) |
-| `TaLus` | **candidate (first-segment only)** → possible `TALUS, THE BRAZEN MAN` (not linked) |
+| `MEN (centimani)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MEN, HUNDRED-HANDED ,-THE CENTIMANI|MEN, HUNDRED-HANDED ,—THE CENTIMANI]] |
+| `TaLus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
 
 ## Full OCR entry body (exact)
 

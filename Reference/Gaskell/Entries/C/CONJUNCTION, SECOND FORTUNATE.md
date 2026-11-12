@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FORTUNATE` | **unresolved** (review queue) |
+| `FORTUNATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORTUNATE CONJUNCTION|FORTUNATE CONJUNCTION]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `WALKS` | **candidate (first-segment only)** → possible `WALKS, SIX` (not linked) |
+| `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 
 ## Full OCR entry body (exact)
 

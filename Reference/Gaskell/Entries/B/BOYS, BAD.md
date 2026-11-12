@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `JosEPH (Mary)` | **candidate (ambiguous first-segment)** → JOSEPH, HUSBAND OF MARY; JOSEPH, SON OF JACOB (not linked) |
-| `Man (bad)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `Sparrows` | **candidate (first-segment only)** → possible `SPARROWS, TWELVE` (not linked) |
+| `JosEPH (Mary)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]] |
+| `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
+| `Sparrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 
 ## Full OCR entry body (exact)
 

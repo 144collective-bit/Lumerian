@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BripGEs (nine)` | **unresolved** (review queue) |
+| `BripGEs (nine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] |
 | `GATES OF BODY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

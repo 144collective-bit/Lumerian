@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMBAYAS` | **unresolved** (review queue) |
+| `AMBAYAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMBAYAS RIVERS|AMBAYAS RIVERS]] |
 | `AQUEDUCT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AQUEDUCT|AQUEDUCT]] |
 | `ARTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARTERY|ARTERY]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |

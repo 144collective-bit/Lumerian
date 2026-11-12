@@ -48,18 +48,18 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 | `BuppHa` | **unresolved** (review queue) |
 | `CHRIST’s SECOND COMING` | **unresolved** (review queue) |
 | `COMETS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COMETS|COMETS]] |
-| `CONFLAGRATION` | **candidate (first-segment only)** → possible `CONFLAGRATION, GENERAL` (not linked) |
+| `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `JUDGMENT Day` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `Kaiki` | **unresolved** (review queue) |
-| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `PLANETABRY` | **unresolved** (review queue) |
 | `AB REGIONS` | **unresolved** (review queue) |
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
-| `RENOVATION` | **unresolved** (review queue) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
-| `SPRINGTIME` | **unresolved** (review queue) |
-| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `SPRINGTIME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]] |
+| `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 
 ## Aliases / OCR variants (evidenced only)
 

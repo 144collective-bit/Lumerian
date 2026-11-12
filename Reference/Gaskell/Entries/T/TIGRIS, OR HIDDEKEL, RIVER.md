@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AssyRIA` | **unresolved** (review queue) |
+| `AssyRIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASSYRIA IN THE EAST|ASSYRIA IN THE EAST]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
-| `EDEN (rivers)` | **candidate (first-segment only)** → possible `EDEN, GARDEN OF` (not linked) |
+| `EDEN (rivers)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `HIDDEKEL` | **unresolved** (review queue) |
-| `NICOTHEA` | **candidate (first-segment only)** → possible `NICOTHEA, ZETES CALAMITIES` (not linked) |
+| `NICOTHEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NICOTHEA HARPY|NICOTHEA HARPY]]; [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
 
 ## Full OCR entry body (exact)
 

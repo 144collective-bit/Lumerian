@@ -36,11 +36,11 @@ tags:
 | `APE AND {fIGER` | **unresolved** (review queue) |
 | `CreaTURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `Fisu` | **unresolved** (review queue) |
-| `FUnH-HE` | **unresolved** (review queue) |
+| `FUnH-HE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `NE` | **unresolved** (review queue) |
 | `Prorie` | **unresolved** (review queue) |
-| `SacRIvICcE` | **unresolved** (review queue) |
-| `VESSEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `SacRIvICcE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
+| `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 
 ## Full OCR entry body (exact)
 

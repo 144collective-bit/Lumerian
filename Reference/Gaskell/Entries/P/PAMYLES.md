@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BreTH OF OsIRis` | **unresolved** (review queue) |
+| `BreTH OF OsIRis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
 | `Kina (great)` | **unresolved** (review queue) |
 | `Osrnis` | **unresolved** (review queue) |
 | `Prrsonatiry` | **unresolved** (review queue) |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
-| `THEBES` | **unresolved** (review queue) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+| `THEBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THEBES IN EGYPT|THEBES IN EGYPT]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arao` | **unresolved** (review queue) |
-| `Lycvus` | **unresolved** (review queue) |
+| `Lycvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LYCUS, KING OF THE MARIANDYNI|LYCUS, KING OF THE MARIANDYNI]] |
 
 ## Full OCR entry body (exact)
 

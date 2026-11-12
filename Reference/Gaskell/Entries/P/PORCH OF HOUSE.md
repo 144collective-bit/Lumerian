@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Door (lower)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
-| `GaTE (lower)` | **unresolved** (review queue) |
+| `Door (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (LOWER ASPECT)|DOOR (LOWER ASPECT)]] |
+| `GaTE (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]] |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 
 ## Full OCR entry body (exact)

@@ -32,11 +32,11 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Forry` | **unresolved** (review queue) |
-| `JOHANNA` | **unresolved** (review queue) |
+| `Forry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
+| `JOHANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHANNA THE BAPTISER|JOHANNA THE BAPTISER]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `LETTER` | **unresolved** (review queue) |
-| `Mystery (first)` | **candidate (first-segment only)** → possible `MYSTERY, FIRST` (not linked) |
+| `LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST|LETTER FROM THE FATHER, MOTHER, AND BROTHER OF THE EAST]] |
+| `Mystery (first)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]] |
 | `PEaRt` | **unresolved** (review queue) |
 | `SERPENT (loud breathing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sout` | **unresolved** (review queue) |

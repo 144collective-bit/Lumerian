@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARES` | **unresolved** (review queue) |
-| `Mars` | **candidate (first-segment only)** → possible `MARS, THE PLANET` (not linked) |
-| `PLANETS` | **candidate (first-segment only)** → possible `PLANETS, FIVE SMALLER` (not linked) |
+| `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
+| `Mars` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARS, THE PLANET|MARS, THE PLANET]] |
+| `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
 
 ## Full OCR entry body (exact)
 

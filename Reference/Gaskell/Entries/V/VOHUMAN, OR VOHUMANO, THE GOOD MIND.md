@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AKEM-MANO` | **unresolved** (review queue) |
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
-| `BAHMAN` | **unresolved** (review queue) |
-| `HIGH-PRIESTsHIP` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `LicHT` | **unresolved** (review queue) |
-| `MIND (good)` | **candidate (ambiguous first-segment)** → MIND, GOOD; MIND, PRIAM, HEDGEHOG (not linked) |
+| `BAHMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] |
+| `HIGH-PRIESTsHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIGH-PRIESTSHIP OF THE GLORIFIED ONE|HIGH-PRIESTSHIP OF THE GLORIFIED ONE]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `LicHT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
+| `MIND (good)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]] |
 | `RELIGION` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
-| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+| `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 
 ## Full OCR entry body (exact)
 

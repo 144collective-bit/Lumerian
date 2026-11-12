@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
 | `Ansuné` | **unresolved** (review queue) |
-| `BRISEIS` | **unresolved** (review queue) |
+| `BRISEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRISEIS OF THE FAIR CHEEKS|BRISEIS OF THE FAIR CHEEKS]] |
 | `GoLpEN Harr` | **unresolved** (review queue) |
 | `Heer` | **unresolved** (review queue) |
 | `Honour` | **unresolved** (review queue) |
 | `MENIS` | **unresolved** (review queue) |
 | `Myrmipons` | **unresolved** (review queue) |
 | `Nov` | **unresolved** (review queue) |
-| `Parrocius` | **unresolved** (review queue) |
+| `Parrocius` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PATROCLUS|PATROCLUS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SuHrps` | **unresolved** (review queue) |
 | `Sout (lowest)` | **unresolved** (review queue) |

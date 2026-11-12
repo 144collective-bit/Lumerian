@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AsHEMOGHA` | **candidate (first-segment only)** → possible `ASHEMOGHA, THE UNGODLY` (not linked) |
-| `ATREUS` | **candidate (first-segment only)** → possible `ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE` (not linked) |
+| `AsHEMOGHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] |
+| `ATREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE]] |
 | `HiIPPoPOTAMUS` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 

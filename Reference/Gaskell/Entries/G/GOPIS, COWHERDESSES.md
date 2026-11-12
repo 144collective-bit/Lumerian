@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ArsunA` | **unresolved** (review queue) |
-| `BIRTH OF KRISHNA` | **candidate (first-segment only)** → possible `BIRTH OF KRISHNA, VAULT OF HEAVEN` (not linked) |
+| `ArsunA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
+| `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
 | `BLANDISHMENTS OF WOMEN` | **unresolved** (review queue) |
 | `Bupp3&l` | **unresolved** (review queue) |
-| `Dance (circle)` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `Dance (circle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] |
 | `Esrurr` | **unresolved** (review queue) |
 | `Goxroxa` | **unresolved** (review queue) |
-| `Hovuries` | **unresolved** (review queue) |
-| `Krisona` | **unresolved** (review queue) |
+| `Hovuries` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] |
+| `Krisona` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `Muses` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
-| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
-| `QuaLitiEs` | **unresolved** (review queue) |
-| `Saryrs` | **unresolved** (review queue) |
+| `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+| `QuaLitiEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `Saryrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

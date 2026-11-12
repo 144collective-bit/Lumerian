@@ -42,7 +42,7 @@ tags:
 | `Heap` | **unresolved** (review queue) |
 | `Horse (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `RaIMENT` | **unresolved** (review queue) |
-| `SHINING` | **unresolved** (review queue) |
+| `SHINING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINING FACE OF JESUS|SHINING FACE OF JESUS]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 | `WEDDING GARMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEDDING GARMENT|WEDDING GARMENT]] |
 

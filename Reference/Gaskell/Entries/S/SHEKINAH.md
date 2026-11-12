@@ -32,21 +32,21 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARK (test.)` | **unresolved** (review queue) |
+| `ARK (test.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `BarsomM` | **unresolved** (review queue) |
 | `Brnag` | **unresolved** (review queue) |
-| `CHERUBIM` | **unresolved** (review queue) |
+| `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `MALKHUTH` | **unresolved** (review queue) |
 | `MaN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `MAN WITHOUT woMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
 | `Marriacz` | **unresolved** (review queue) |
-| `MAYA` | **unresolved** (review queue) |
+| `MAYA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `MorHeEr` | **unresolved** (review queue) |
-| `OCEAN` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `WISDOM. SHELTER FROM THE SUN` | **unresolved** (review queue) |
 | `WwoOoD :— A symbol of the astral nature (wood) which is now developed and utilised` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `for the astral sheath of the soul has been formed and specialised. This sheath` | **unresolved** (prose-bleed / overlong token; not linked) |
@@ -59,10 +59,10 @@ tags:
 | `the astral body became organised according to the Divine scheme` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and this led to the obscuration of tho higher nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which was now no longer perceived by the lower consciousness. See AMERDAD` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
-| `Date` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `Date` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DATE-PALM LEAVES, SCREEN|DATE-PALM LEAVES, SCREEN]] |
 | `TRON (beaten)` | **unresolved** (review queue) |
-| `MatTro` | **unresolved** (review queue) |
+| `MatTro` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]] |
 | `SUN-CATCHInc` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
 | `WoopeEN` | **unresolved** (review queue) |

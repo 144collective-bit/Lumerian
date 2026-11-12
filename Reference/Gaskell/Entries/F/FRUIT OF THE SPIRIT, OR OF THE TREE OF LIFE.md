@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cake (sacrificial)` | **candidate (first-segment only)** → possible `CAKE, SACRIFICIAL` (not linked) |
+| `Cake (sacrificial)` | resolved (exact) → [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] |
 | `Hem` | **unresolved** (review queue) |
 | `LicxtTREASURE` | **unresolved** (review queue) |
-| `MENAT` | **unresolved** (review queue) |
-| `MERCHANDISE` | **candidate (first-segment only)** → possible `MERCHANDISE, TRUE` (not linked) |
+| `MENAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MENAT SIGN OR AMULET|MENAT SIGN OR AMULET]] |
+| `MERCHANDISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] |
 | `Preacues` | **unresolved** (review queue) |
-| `SHEWBREAD` | **candidate (first-segment only)** → possible `SHEWBREAD, OR BREAD OF THE FACES` (not linked) |
-| `TREASURE` | **unresolved** (review queue) |
+| `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 
 ## Full OCR entry body (exact)

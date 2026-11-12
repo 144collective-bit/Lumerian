@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Kaasa` | **unresolved** (review queue) |
+| `Kaasa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `Pruuars (light)` | **unresolved** (review queue) |
 | `Ta` | **unresolved** (review queue) |
 

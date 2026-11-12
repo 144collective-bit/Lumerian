@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `Aso` | **candidate (first-segment only)** → possible `ASO, QUEEN OF ETHIOPIA` (not linked) |
+| `Aso` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASO, QUEEN OF ETHIOPIA|ASO, QUEEN OF ETHIOPIA]] |
 | `COLUMN` | **unresolved** (review queue) |
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `EGyYPTIaAns` | **unresolved** (review queue) |

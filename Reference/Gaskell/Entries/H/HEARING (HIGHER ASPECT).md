@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `CoNSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `Hipine` | **unresolved** (review queue) |
-| `Sounn` | **unresolved** (review queue) |
-| `VoICcE OF GOD` | **unresolved** (review queue) |
+| `Sounn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
+| `VoICcE OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

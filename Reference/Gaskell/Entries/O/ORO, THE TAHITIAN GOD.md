@@ -37,9 +37,9 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Rarnpow` | **unresolved** (review queue) |
 | `Taaroa` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
-| `TaatTa` | **unresolved** (review queue) |
+| `TaatTa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAATA, THE FIRST MAN|TAATA, THE FIRST MAN]] |
 | `TUFARA` | **unresolved** (review queue) |
-| `VAIRAUMATI` | **candidate (ambiguous first-segment)** → VAIRAUMATI, DAUGHTER OF MAN; VAIRAUMATI, VAPOUR, HODER (not linked) |
+| `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 
 ## Full OCR entry body (exact)

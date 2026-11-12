@@ -35,7 +35,7 @@ tags:
 | `Mart. v. 16; Rom. xv. 6). See ASCENSION OF OSIRIS` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `JESUS (son of man)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `KING OF GLORY` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING OF GLORY|KING OF GLORY]] |
-| `SrENDyaD` | **unresolved** (review queue) |
+| `SrENDyaD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
 | `Sun (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 
 ## Full OCR entry body (exact)

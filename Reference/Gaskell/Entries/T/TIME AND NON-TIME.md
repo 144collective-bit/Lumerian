@@ -33,21 +33,21 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `ALPHA` | **unresolved** (review queue) |
+| `ALPHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALPHA AND OMEGA|ALPHA AND OMEGA]] |
 | `BIRD’S NEST` | **unresolved** (review queue) |
-| `CrrcLe` | **unresolved** (review queue) |
-| `Cronus` | **unresolved** (review queue) |
-| `First` | **unresolved** (review queue) |
+| `CrrcLe` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
+| `Cronus` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
+| `First` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FIRST AND LAST|FIRST AND LAST]]; [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Foon` | **unresolved** (review queue) |
 | `IttvSION` | **unresolved** (review queue) |
 | `MANVANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
 | `Matrer` | **unresolved** (review queue) |
-| `MAYA` | **unresolved** (review queue) |
+| `MAYA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Nur` | **unresolved** (review queue) |
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
-| `PRAGAPATI` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `PraLAYA` | **candidate (first-segment only)** → possible `PRALAYA, OR NIGHT` (not linked) |
-| `RHEA` | **candidate (first-segment only)** → possible `RHEA, GODDESS (NUT)` (not linked) |
+| `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `PraLAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+| `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SEB` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEB|SEB]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 

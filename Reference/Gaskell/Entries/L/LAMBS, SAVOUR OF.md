@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ABEL` | **candidate (first-segment only)** → possible `ABEL, A KEEPER OF SHEEP` (not linked) |
+| `ABEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] |
 | `ALTAR OF SACRIFICE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]] |
-| `Savour` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `Savour` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

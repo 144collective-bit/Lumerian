@@ -37,10 +37,10 @@ tags:
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `DaYLieHt` | **unresolved** (review queue) |
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `GATE OF SALUTATION` | **unresolved** (review queue) |
-| `Gtory` | **unresolved** (review queue) |
-| `Lamp` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
+| `GATE OF SALUTATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]] |
+| `Gtory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
+| `Lamp` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMP AND OIL|LAMP AND OIL]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `Quatriies` | **unresolved** (review queue) |
 | `Rarment` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |

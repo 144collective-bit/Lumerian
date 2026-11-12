@@ -35,17 +35,17 @@ tags:
 | `Arc. MAN` | **unresolved** (review queue) |
 | `Butt (pri.)` | **unresolved** (review queue) |
 | `DEATH OF osrris` | **unresolved** (review queue) |
-| `Dionysus` | **candidate (first-segment only)** → possible `DIONYSUS, OR BACCHUS` (not linked) |
+| `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `DISsSMEMBERMENT` | **unresolved** (review queue) |
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Liwss` | **unresolved** (review queue) |
 | `MEMBERS` | **unresolved** (review queue) |
-| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
-| `PRAGAPATI (relaxed)` | **candidate (first-segment only)** → possible `PRAGAPATI, THE LORD OF CREATURES` (not linked) |
-| `PurnvusHa` | **unresolved** (review queue) |
+| `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
+| `PRAGAPATI (relaxed)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+| `PurnvusHa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
 | `Rua` | **unresolved** (review queue) |
-| `Titans` | **unresolved** (review queue) |
-| `URANUS` | **unresolved** (review queue) |
+| `Titans` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TITANS TITANS, TWELVE|TITANS TITANS, TWELVE]] |
+| `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `YmeER` | **unresolved** (review queue) |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 

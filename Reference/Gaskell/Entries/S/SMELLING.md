@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `NosE` | **unresolved** (review queue) |
-| `SAVOUR` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `NosE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOSE AND NOSTRILS BREATHING|NOSE AND NOSTRILS BREATHING]] |
+| `SAVOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

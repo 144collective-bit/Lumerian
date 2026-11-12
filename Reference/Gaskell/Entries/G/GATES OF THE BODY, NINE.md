@@ -35,7 +35,7 @@ tags:
 | `Bhag. Gita.` | **unresolved** (review queue) |
 | `V. 13. See Bripaes (nine)` | **unresolved** (review queue) |
 | `HUMAN BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUMAN BODY|HUMAN BODY]] |
-| `NINE` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
+| `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `STREETS OF EARTH` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Desert` | **unresolved** (review queue) |
+| `Desert` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DESERT PLACE|DESERT PLACE]] |
 | `ForREsT` | **unresolved** (review queue) |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 

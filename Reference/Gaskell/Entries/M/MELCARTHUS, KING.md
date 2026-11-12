@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTARTE` | **candidate (first-segment only)** → possible `ASTARTE, GODDESS OR QUEEN` (not linked) |
+| `ASTARTE` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASTARTE, GODDESS OR QUEEN|ASTARTE, GODDESS OR QUEEN]] |
 | `FIRE OF HELL` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

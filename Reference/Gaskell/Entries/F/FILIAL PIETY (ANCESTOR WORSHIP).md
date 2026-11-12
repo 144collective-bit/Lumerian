@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ConrFuctus` | **unresolved** (review queue) |
+| `ConrFuctus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONFUCIUS|CONFUCIUS]] |
 | `DYNASTIES` | **unresolved** (review queue) |
-| `PITRIs (solar)` | **candidate (ambiguous first-segment)** → PITRIS, LUNAR; PITRIS, SOLAR (not linked) |
-| `RoBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `PITRIs (solar)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PITRIS, SOLAR|PITRIS, SOLAR]] |
+| `RoBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `Sacrkiricr` | **unresolved** (review queue) |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 
 ## Full OCR entry body (exact)
 

@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASTRAL` | **unresolved** (review queue) |
-| `BirtH (forms)` | **candidate (first-segment only)** → possible `BIRTH, SECOND, OF AN ARYAN` (not linked) |
-| `Devas (builders)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
-| `MENTAL` | **unresolved** (review queue) |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
+| `BirtH (forms)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BIRTH, SECOND, OF AN ARYAN|BIRTH, SECOND, OF AN ARYAN]] |
+| `Devas (builders)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+| `MENTAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MENTAL-PLANE|MENTAL-PLANE]]; [[Reference/Gaskell/Entries/M/MENTAL SHEATH, OR BODY, OF THE HUMAN BEING|MENTAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
-| `SIMILITUDEs` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
-| `SIVA` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+| `SIMILITUDEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
+| `SIVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
 
 ## Full OCR entry body (exact)
 

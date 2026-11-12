@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Savrrat` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
-| `Surya` | **candidate (first-segment only)** → possible `SURYA, THE SUN` (not linked) |
-| `VarsviNARA` | **unresolved** (review queue) |
+| `Surya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
+| `VarsviNARA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
 
 ## Full OCR entry body (exact)
 

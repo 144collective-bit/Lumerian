@@ -38,15 +38,15 @@ tags:
 | `Buiack` | **unresolved** (review queue) |
 | `DEap` | **unresolved** (review queue) |
 | `DEATH OF LEMMINKAINEN` | **unresolved** (review queue) |
-| `HIRANYAGARBHA` | **candidate (first-segment only)** → possible `HIRANYAGARBHA, GERM` (not linked) |
+| `HIRANYAGARBHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `KaALAHANSA` | **unresolved** (review queue) |
-| `Magic` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
-| `Mara` | **candidate (first-segment only)** → possible `MARA, THE TEMPTER` (not linked) |
-| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `KaALAHANSA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KALAHANSA, THE SWAN AND OUT OF TIME|KALAHANSA, THE SWAN AND OUT OF TIME]] |
+| `Magic` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] |
+| `Mara` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
+| `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Urnpar` | **unresolved** (review queue) |
-| `Vayu` | **candidate (first-segment only)** → possible `VAYU, THE WIND, BREATHING` (not linked) |
+| `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 
 ## Full OCR entry body (exact)

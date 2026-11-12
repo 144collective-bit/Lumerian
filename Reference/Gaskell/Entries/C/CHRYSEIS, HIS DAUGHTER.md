@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
-| `BRISEIS` | **unresolved** (review queue) |
+| `AGAMEMNON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]]; [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] |
+| `BRISEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRISEIS OF THE FAIR CHEEKS|BRISEIS OF THE FAIR CHEEKS]] |
 | `CENSE! Inrurrion` | **unresolved** (review queue) |
 | `Kuiyrammnestrna` | **unresolved** (review queue) |
-| `NEE mAut` | **unresolved** (review queue) |
-| `OpyssEvus` | **unresolved** (review queue) |
+| `NEE mAut` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHE-MAUT, SPOUSE OF THOTH|NEHE-MAUT, SPOUSE OF THOTH]] |
+| `OpyssEvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/ODYSSEUS, ULYSSES|ODYSSEUS, ULYSSES]] |
 | `Prizk` | **unresolved** (review queue) |
-| `Ransom` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
+| `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
 
 ## Full OCR entry body (exact)
 

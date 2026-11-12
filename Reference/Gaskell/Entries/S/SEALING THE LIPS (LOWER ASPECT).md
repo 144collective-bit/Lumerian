@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Lips` | **unresolved** (review queue) |
+| `Lips` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIPS IN SPEECH|LIPS IN SPEECH]] |
 | `Moutn (opening)` | **unresolved** (review queue) |
 | `PErSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 

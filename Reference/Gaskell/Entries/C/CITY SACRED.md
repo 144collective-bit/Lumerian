@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ACROPOLIS` | **unresolved** (review queue) |
-| `AKRAGAS` | **candidate (first-segment only)** → possible `AKRAGAS, THE SACRED CITY` (not linked) |
-| `GLORY` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `AKRAGAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKRAGAS, THE SACRED CITY|AKRAGAS, THE SACRED CITY]] |
+| `GLORY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
 
 ## Full OCR entry body (exact)
 

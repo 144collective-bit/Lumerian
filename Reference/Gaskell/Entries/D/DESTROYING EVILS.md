@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BrrTH OF BUDDHA` | **unresolved** (review queue) |
-| `BUDDHA` | **candidate (first-segment only)** → possible `BUDDHA, MARKS OF THE` (not linked) |
+| `BUDDHA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]]; [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MAyA (higher)` | **unresolved** (review queue) |
-| `SEPaRaTION` | **unresolved** (review queue) |
-| `WomB (Maya)` | **unresolved** (review queue) |
+| `MAyA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
+| `SEPaRaTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `WomB (Maya)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
 
 ## Full OCR entry body (exact)
 

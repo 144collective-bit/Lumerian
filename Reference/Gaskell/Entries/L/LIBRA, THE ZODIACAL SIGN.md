@@ -36,12 +36,12 @@ tags:
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Equinox` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EQUINOX|EQUINOX]] |
 | `EvotuLIGHT TION` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Lowss` | **unresolved** (review queue) |
-| `SABBATH` | **candidate (first-segment only)** → possible `SABBATH, JEWISH` (not linked) |
-| `SEVENTH` | **unresolved** (review queue) |
+| `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+| `SEVENTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEVENTH DAY|SEVENTH DAY]]; [[Reference/Gaskell/Entries/S/SEVENTH HOUR OF THE NIGHT OF THE TUAT|SEVENTH HOUR OF THE NIGHT OF THE TUAT]] |
 | `Vimco` | **unresolved** (review queue) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

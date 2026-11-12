@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `FIvE (number)` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `FIvE (number)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 
 ## Full OCR entry body (exact)
 

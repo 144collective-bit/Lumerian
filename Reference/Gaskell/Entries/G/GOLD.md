@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `APppLes` | **unresolved** (review queue) |
-| `ARMAITI` | **candidate (first-segment only)** → possible `ARMAITI, THE HOLY SPIRIT` (not linked) |
+| `ARMAITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CRYSTAL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
-| `GLass` | **candidate (first-segment only)** → possible `GLASS, OR CRYSTAL` (not linked) |
-| `HavILaH` | **unresolved** (review queue) |
+| `GLass` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GLASS, OR CRYSTAL|GLASS, OR CRYSTAL]] |
+| `HavILaH` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAVILAH LAND|HAVILAH LAND]] |
 | `MeErTALs` | **unresolved** (review queue) |
-| `NEt (golden)` | **candidate (first-segment only)** → possible `NET, GOLDEN` (not linked) |
-| `Savitri` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
-| `SILVER` | **unresolved** (review queue) |
-| `TREASURE` | **unresolved** (review queue) |
-| `WISDOM` | **unresolved** (review queue) |
+| `NEt (golden)` | resolved (exact) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]] |
+| `Savitri` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
+| `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
+| `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 
 ## Full OCR entry body (exact)
 

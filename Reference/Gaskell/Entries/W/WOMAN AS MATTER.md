@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BIRTH OF CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF CHRIST|BIRTH OF CHRIST]] |
-| `HETHRA` | **candidate (first-segment only)** → possible `HETHRA, THE MOTHER OF ALL LIVING` (not linked) |
-| `MATTER` | **unresolved** (review queue) |
-| `MAYA` | **unresolved** (review queue) |
+| `HETHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HETHRA, THE MOTHER OF ALL LIVING|HETHRA, THE MOTHER OF ALL LIVING]] |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+| `MAYA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `MotTRer` | **unresolved** (review queue) |
 | `Movwt` | **unresolved** (review queue) |
 | `TEFNUT` | **unresolved** (review queue) |

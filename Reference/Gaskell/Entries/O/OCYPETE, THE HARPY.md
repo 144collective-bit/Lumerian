@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
-| `NICOTHEA` | **candidate (first-segment only)** → possible `NICOTHEA, ZETES CALAMITIES` (not linked) |
-| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
+| `NICOTHEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NICOTHEA HARPY|NICOTHEA HARPY]]; [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
+| `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 | `ZETES. 546` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

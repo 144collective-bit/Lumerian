@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ANGER OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
-| `ARK (bul.)` | **unresolved** (review queue) |
-| `ARK (test.)` | **unresolved** (review queue) |
+| `ARK (bul.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+| `ARK (test.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]]; [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]]; [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
 | `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `HOUSE OF BONDAGE` | **unresolved** (review queue) |
@@ -42,14 +42,14 @@ tags:
 | `JOHN sBaprist` | **unresolved** (review queue) |
 | `Law oF MOSES` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF MOSES|LAW OF MOSES]] |
 | `Mrreror` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
-| `READING` | **unresolved** (review queue) |
-| `Rock (spiritual)` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
+| `READING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/READING BOOKS|READING BOOKS]] |
+| `Rock (spiritual)` | resolved (exact) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `SHoES PUT OFF` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
-| `TABERNACLES` | **candidate (first-segment only)** → possible `TABERNACLES, OR BOOTHS, OF PETER` (not linked) |
+| `TABERNACLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TABERNACLES, OR BOOTHS, OF PETER|TABERNACLES, OR BOOTHS, OF PETER]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 | `WOMAN (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
-| `WRAGH OF GOD` | **unresolved** (review queue) |
+| `WRAGH OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
 
 ## Full OCR entry body (exact)
 

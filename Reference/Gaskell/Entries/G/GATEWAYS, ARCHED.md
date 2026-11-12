@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARCHED` | **unresolved** (review queue) |
+| `ARCHED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARCHED GATEWAYS|ARCHED GATEWAYS]] |
 
 ## Full OCR entry body (exact)
 

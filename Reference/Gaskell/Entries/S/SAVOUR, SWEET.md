@@ -36,7 +36,7 @@ tags:
 | `BURNT OFFERIna` | **unresolved** (review queue) |
 | `Goats (unblemished)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Gop (smelling)` | **unresolved** (review queue) |
-| `INcENsE` | **unresolved** (review queue) |
+| `INcENsE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Noau` | **unresolved** (review queue) |
 | `Nostrizs` | **unresolved** (review queue) |

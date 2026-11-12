@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
-| `BALARAMA` | **unresolved** (review queue) |
-| `CAVE (Nanda)` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
-| `Devaxi` | **unresolved** (review queue) |
-| `Durasroso` | **unresolved** (review queue) |
-| `GLORY (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `ARJUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
+| `BALARAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
+| `CAVE (Nanda)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]]; [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]]; [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] |
+| `Devaxi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVAKI, THE MOTHER OF KRISHNA|DEVAKI, THE MOTHER OF KRISHNA]] |
+| `Durasroso` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
+| `GLORY (divine)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `GOoLOKA` | **unresolved** (review queue) |
-| `GoPis` | **candidate (first-segment only)** → possible `GOPIS, COWHERDESSES` (not linked) |
-| `HEBDOMAD` | **candidate (first-segment only)** → possible `HEBDOMAD, SON OF THE` (not linked) |
-| `HEROD` | **unresolved** (review queue) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `GoPis` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOPIS, COWHERDESSES|GOPIS, COWHERDESSES]] |
+| `HEBDOMAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEBDOMAD, SON OF THE|HEBDOMAD, SON OF THE]] |
+| `HEROD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `OX-LEADER` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OX-LEADER|OX-LEADER]] |
 | `RIVERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 

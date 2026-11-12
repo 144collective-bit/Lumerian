@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APHRODITE` | **candidate (first-segment only)** → possible `APHRODITE, FOAM-SPRUNG` (not linked) |
+| `APHRODITE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] |
 | `CrRONUS` | **unresolved** (review queue) |
 | `EVOLvUTION` | **unresolved** (review queue) |
-| `GENERATIVE` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `IRON` | **unresolved** (review queue) |
-| `PHALLIPHORIA` | **candidate (first-segment only)** → possible `PHALLIPHORIA, PRIAPEIA, OR DIONYSIA` (not linked) |
+| `GENERATIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]]; [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION TRANSMUTED|GENERATIVE FUNCTION TRANSMUTED]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `IRON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
+| `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
-| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+| `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `Sza` | **unresolved** (review queue) |
-| `Uranus` | **unresolved** (review queue) |
-| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+| `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+| `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 
 ## Full OCR entry body (exact)
 

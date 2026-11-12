@@ -32,14 +32,14 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BEasT` | **unresolved** (review queue) |
+| `BEasT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `BOOK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
 | `BREATH` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `CANDLESTICKS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
-| `CRUCIFIXION (in Revelation)` | **unresolved** (review queue) |
+| `CRUCIFIXION (in Revelation)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `FEET` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `RetrurRN` | **unresolved** (review queue) |
-| `THREE` | **candidate (first-segment only)** → possible `THREE, NUMBER` (not linked) |
+| `THREE` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THREE, NUMBER|THREE, NUMBER]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 
 ## Full OCR entry body (exact)

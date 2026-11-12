@@ -32,25 +32,25 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATTRACTION` | **unresolved** (review queue) |
+| `ATTRACTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] |
 | `BATTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
-| `CONFLICT` | **unresolved** (review queue) |
-| `ConquEeROR` | **unresolved** (review queue) |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
+| `ConquEeROR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
 | `Eppy` | **unresolved** (review queue) |
 | `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `HorsE (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Limss` | **unresolved** (review queue) |
-| `Lost (forest)` | **unresolved** (review queue) |
+| `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
 | `LovE OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `MENIS` | **unresolved** (review queue) |
-| `Mrxture` | **unresolved** (review queue) |
+| `Mrxture` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MIXTURE, PHILIP THE APOSTLE|MIXTURE, PHILIP THE APOSTLE]] |
 | `Monap oF LIfe` | **unresolved** (review queue) |
-| `PILLAR (temple)` | **unresolved** (review queue) |
+| `PILLAR (temple)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILLAR OF THE TEMPLE|PILLAR OF THE TEMPLE]] |
 | `SEPARATENESS` | **unresolved** (review queue) |
-| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
-| `‘TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
-| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
-| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+| `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
+| `‘TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+| `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+| `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 
 ## Full OCR entry body (exact)
 

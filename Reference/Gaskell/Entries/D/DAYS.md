@@ -32,16 +32,16 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Darkness` | **unresolved** (review queue) |
+| `Darkness` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `EVENING` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EVENING|EVENING]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
-| `Mornina` | **unresolved** (review queue) |
+| `Mornina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
 | `Nieat` | **unresolved** (review queue) |
 | `Seasons (six)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SxerHmorTn` | **unresolved** (review queue) |
-| `Six` | **candidate (first-segment only)** → possible `SIX, NUMBER` (not linked) |
+| `Six` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
 | `WEEK. DAYS` | **unresolved** (review queue) |
-| `FIVE` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `FIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `SUPERADDED TO 360 DAYS :~— The five days are taken as signifying the five manifest planes of nature. When these five planes are emanated` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `they are` | **unresolved** (review queue) |
 | `as it were` | **unresolved** (review queue) |
@@ -55,28 +55,28 @@ tags:
 | `Isis and Osiris` | **unresolved** (review queue) |
 | `§ 12. 202 DEAD Prior to the Earth cycle the Lunar cycle was established` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `which gives rise to the evolution of the human race. The higher mind (Thoth) becomes related to 72 conditions on the physical` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `astral` | **unresolved** (review queue) |
+| `astral` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `and mental planes` | **unresolved** (review queue) |
 | `which serve to correlate the five planes upon which manifestation now proceeds` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and within which related planes are chronically comprised the 360 degrees of the Zodiac (year)—symbol of the life-cycle through which the development of the soul is accomplished. On the five planes of primordial nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the Divire life (the gods) in five © aspects takes birth. See AROUVERIS` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `BIRTH OF OSIRIS` | **candidate (first-segment only)** → possible `BIRTH OF OSIRIS, OR RA` (not linked) |
-| `CREATION` | **unresolved** (review queue) |
+| `BIRTH OF OSIRIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `DEcANS` | **unresolved** (review queue) |
-| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
-| `Five` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `ELEMENTS (five)` | resolved (exact) → [[Reference/Gaskell/Entries/E/ELEMENTS, FIVE|ELEMENTS, FIVE]] |
+| `Five` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `GaTHa pays (five)` | **unresolved** (review queue) |
-| `Horus` | **candidate (ambiguous first-segment)** → HORUS, THE CHILD; HORUS, THE ELDER, OR AROUERIS; HORUS, THE YOUNGER (not linked) |
+| `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Lunak Cyc Le` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
-| `PITRIYANA` | **unresolved** (review queue) |
-| `PLANES (five)` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
-| `RULERS (five)` | **unresolved** (review queue) |
-| `THIEVES (five)` | **candidate (first-segment only)** → possible `THIEVES, THE FIVE` (not linked) |
-| `THoru` | **unresolved** (review queue) |
+| `PITRIYANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+| `PLANES (five)` | resolved (qualified head) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]] |
+| `RULERS (five)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
+| `THIEVES (five)` | resolved (qualified head) → [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]] |
+| `THoru` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `Wor.ups (five)` | **unresolved** (review queue) |
-| `YEAR` | **candidate (first-segment only)** → possible `YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM` (not linked) |
-| `ZODIAC` | **unresolved** (review queue) |
+| `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+| `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
 
 ## Full OCR entry body (exact)
 

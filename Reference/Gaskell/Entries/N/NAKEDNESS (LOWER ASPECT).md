@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Apam (lower)` | **unresolved** (review queue) |
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
-| `EvE` | **candidate (first-segment only)** → possible `EVE, WIFE OF ADAM` (not linked) |
-| `GARMENTS (lower)` | **unresolved** (review queue) |
+| `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+| `GARMENTS (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 
 ## Full OCR entry body (exact)
 

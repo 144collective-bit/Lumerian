@@ -50,14 +50,14 @@ tags:
 | `who thereby arises by evolution from the lower planes (earth)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `who makes manifest the higher qualities from the spiritual germs (seed) placed in the forms; the ordainer of all future development; who is the originator of the ideals (gods). He is the selfexistent source of Life` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `the energiser of the Divine attributes. See COMPANY OF GODS` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `CREATION` | **unresolved** (review queue) |
-| `DISMEMBERMENT` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `GATE (tchesert)` | **unresolved** (review queue) |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `DISMEMBERMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `GATE (tchesert)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `INvoLturion` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SHU. APHRODITE` | **unresolved** (review queue) |
-| `OR` | **unresolved** (review queue) |
+| `OR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
 
 ## Full OCR entry body (exact)
 

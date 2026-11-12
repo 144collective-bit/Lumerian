@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arnans` | **unresolved** (review queue) |
-| `FEMININE` | **unresolved** (review queue) |
+| `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
 | `MASCULIXE` | **unresolved** (review queue) |
-| `Races` | **unresolved** (review queue) |
+| `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Root-Races` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 
 ## Full OCR entry body (exact)

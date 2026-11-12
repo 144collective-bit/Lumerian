@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Cone` | **candidate (first-segment only)** → possible `CONE, CUPOLA, OR SPIRE` (not linked) |
+| `Cone` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONE, CUPOLA, OR SPIRE|CONE, CUPOLA, OR SPIRE]] |
 | `HovusE (frequented)` | **unresolved** (review queue) |
 | `KaaBa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
-| `PALAce` | **unresolved** (review queue) |
+| `PALAce` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `PyRAMID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
-| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `TONGUE. STYx` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

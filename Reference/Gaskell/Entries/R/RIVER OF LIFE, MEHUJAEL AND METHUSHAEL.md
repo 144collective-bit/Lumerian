@@ -33,7 +33,7 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Inap` | **unresolved** (review queue) |
-| `PaTRIARCHS` | **unresolved** (review queue) |
+| `PaTRIARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
 
 ## Full OCR entry body (exact)
 

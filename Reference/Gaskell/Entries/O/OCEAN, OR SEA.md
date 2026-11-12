@@ -33,33 +33,33 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ABSOLUTE` | **unresolved** (review queue) |
-| `ABTU-FISH` | **candidate (first-segment only)** → possible `ABTU FISH, OR ANT FISH` (not linked) |
+| `ABTU-FISH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABTU FISH, OR ANT FISH|ABTU FISH, OR ANT FISH]] |
 | `AIN Cosmos` | **unresolved** (review queue) |
 | `SOPH` | **unresolved** (review queue) |
 | `ATMAN` | **unresolved** (review queue) |
-| `BRAHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
-| `DELUGE` | **unresolved** (review queue) |
+| `BRAHMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] |
+| `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `FirrRwaMENT` | **unresolved** (review queue) |
-| `FisH (great)` | **candidate (first-segment only)** → possible `FISH, GREAT` (not linked) |
+| `FisH (great)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `GopHEAD` | **unresolved** (review queue) |
 | `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
-| `IMAGE` | **unresolved** (review queue) |
+| `IMAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
 | `KHWAN (fish)` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Musto (spheres)` | **unresolved** (review queue) |
-| `PHANG` | **candidate (first-segment only)** → possible `PHANG, THE GREAT BIRD` (not linked) |
-| `PosEIDON` | **unresolved** (review queue) |
+| `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
+| `PosEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 | `RIVERS or LIFE` | **unresolved** (review queue) |
 | `Ska` | **unresolved** (review queue) |
 | `Saip (Manu)` | **unresolved** (review queue) |
 | `Tuer` | **unresolved** (review queue) |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
-| `WarTER` | **unresolved** (review queue) |
+| `WarTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YI` | **unresolved** (review queue) |
-| `ZERANA` | **unresolved** (review queue) |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

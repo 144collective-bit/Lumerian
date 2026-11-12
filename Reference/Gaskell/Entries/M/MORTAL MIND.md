@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Hecror` | **unresolved** (review queue) |
+| `Hecror` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECTOR, SON OF PRIAM|HECTOR, SON OF PRIAM]] |
 | `HEEL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEEL|HEEL]] |
 | `IMMORTALITY FORFEITED` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]] |
 | `MAN (lower)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |

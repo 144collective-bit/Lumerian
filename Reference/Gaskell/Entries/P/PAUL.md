@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Born (due time)` | **unresolved** (review queue) |
+| `Born (due time)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]]; [[Reference/Gaskell/Entries/B/BORN OUT OF DUE TIME|BORN OUT OF DUE TIME]] |
 | `CoNVERSION (Paul)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
 
 ## Full OCR entry body (exact)

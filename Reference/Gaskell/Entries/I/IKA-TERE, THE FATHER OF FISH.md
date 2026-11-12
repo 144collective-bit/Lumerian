@@ -35,7 +35,7 @@ tags:
 | `Fisu` | **unresolved** (review queue) |
 | `Ponca` | **unresolved** (review queue) |
 | `Ranal` | **unresolved** (review queue) |
-| `TANGABROA` | **unresolved** (review queue) |
+| `TANGABROA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 | `TUTE` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

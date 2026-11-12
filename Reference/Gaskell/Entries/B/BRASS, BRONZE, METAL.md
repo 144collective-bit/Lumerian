@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Inon` | **unresolved** (review queue) |
-| `Metars` | **unresolved** (review queue) |
-| `TUBAL CAIN` | **candidate (first-segment only)** → possible `TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL` (not linked) |
+| `Metars` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
+| `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
 
 ## Full OCR entry body (exact)
 

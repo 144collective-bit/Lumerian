@@ -34,14 +34,14 @@ tags:
 |---|---|
 | `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
 | `Bers` | **unresolved** (review queue) |
-| `CATTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
+| `CATTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
 | `CuILp` | **unresolved** (review queue) |
 | `Fiso` | **unresolved** (review queue) |
 | `GENERATIVE FUNCTION` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GENERATIVE FUNCTION|GENERATIVE FUNCTION]] |
 | `Mrrgras` | **unresolved** (review queue) |
 | `Pasrorat` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
-| `SEXUAL` | **unresolved** (review queue) |
+| `SEXUAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEXUAL UNION|SEXUAL UNION]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `VINE. PHANES` | **unresolved** (review queue) |
 | `GOD THE Ma` | **unresolved** (review queue) |

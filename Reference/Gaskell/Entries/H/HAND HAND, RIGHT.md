@@ -32,9 +32,9 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Book OF THE LORD` | **unresolved** (review queue) |
+| `Book OF THE LORD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]] |
 | `CHRIST's SECOND COMING` | **unresolved** (review queue) |
-| `CLOUDS OF HEAVEN` | **candidate (first-segment only)** → possible `CLOUDS OF HEAVEN, AS MIST` (not linked) |
+| `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
 | `RIGHT HAND` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIGHT HAND|RIGHT HAND]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 

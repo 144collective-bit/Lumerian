@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANNAS` | **candidate (ambiguous first-segment)** → ANNAS, CAIAPHAS, PRIESTS AND ELDERS; ANNAS, THE PRIEST (not linked) |
-| `ASSEMBLY (PRIESTS)` | **unresolved** (review queue) |
-| `HIGH PRIEST (LOWER)` | **unresolved** (review queue) |
-| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `ANNAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANNAS, CAIAPHAS, PRIESTS AND ELDERS|ANNAS, CAIAPHAS, PRIESTS AND ELDERS]]; [[Reference/Gaskell/Entries/A/ANNAS, THE PRIEST|ANNAS, THE PRIEST]] |
+| `ASSEMBLY (PRIESTS)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
+| `HIGH PRIEST (LOWER)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]]; [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] |
+| `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
-| `PILATE` | **candidate (first-segment only)** → possible `PILATE, PONTIUS` (not linked) |
+| `PILATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `Rrres` | **unresolved** (review queue) |
-| `RoMAN` | **unresolved** (review queue) |
-| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `RoMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROMAN SOLDIER IN JUDEA|ROMAN SOLDIER IN JUDEA]] |
+| `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 
 ## Full OCR entry body (exact)

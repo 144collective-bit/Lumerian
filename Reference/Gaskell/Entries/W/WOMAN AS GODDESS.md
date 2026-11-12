@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AMATERASU` | **unresolved** (review queue) |
-| `ARMAITI` | **candidate (first-segment only)** → possible `ARMAITI, THE HOLY SPIRIT` (not linked) |
+| `ARMAITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] |
 | `ATHENA` | **unresolved** (review queue) |
-| `DEMETER` | **candidate (first-segment only)** → possible `DEMETER, OR CERES` (not linked) |
+| `DEMETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] |
 | `Fricc` | **unresolved** (review queue) |
 | `Hatnuor` | **unresolved** (review queue) |
-| `HERA` | **unresolved** (review queue) |
+| `HERA` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `Isis` | **unresolved** (review queue) |
-| `Istar` | **candidate (first-segment only)** → possible `ISTAR, OR ISHTAR, GODDESS` (not linked) |
-| `LATONA` | **unresolved** (review queue) |
-| `Sita` | **candidate (first-segment only)** → possible `SITA, WIFE OF RAMA` (not linked) |
-| `THETTS` | **unresolved** (review queue) |
+| `Istar` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
+| `LATONA` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LATONA OR LETO, MOTHER OF APGLLO|LATONA OR LETO, MOTHER OF APGLLO]] |
+| `Sita` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SITA, WIFE OF RAMA|SITA, WIFE OF RAMA]] |
+| `THETTS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 
 ## Full OCR entry body (exact)
 

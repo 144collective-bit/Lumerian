@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `Breats (divine)` | **unresolved** (review queue) |
 | `East` | **unresolved** (review queue) |
-| `KarsuVARES` | **unresolved** (review queue) |
+| `KarsuVARES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `MORNING AND EVENING` | **unresolved** (review queue) |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `RENOVATION` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 
 ## Full OCR entry body (exact)
 

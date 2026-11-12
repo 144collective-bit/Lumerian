@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASAR` | **candidate (first-segment only)** → possible `ASAR, SIR, OR ASES` (not linked) |
-| `ASTRAL` | **unresolved** (review queue) |
+| `ASAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] |
+| `ASTRAL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]]; [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] |
 | `F1G-TREE` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `HvERGELMER` | **unresolved** (review queue) |
 | `Mipearp` | **unresolved** (review queue) |
 | `Nimxoase` | **unresolved** (review queue) |
-| `NiFLHEIM` | **candidate (ambiguous first-segment)** → NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS; NIFLHEIM, THE SHADOWY REGION OF DEATH (not linked) |
-| `NorNor` | **candidate (first-segment only)** → possible `NORNOR, OR NORNS` (not linked) |
-| `Oak` | **unresolved** (review queue) |
-| `RIMTHURsan` | **unresolved** (review queue) |
+| `NiFLHEIM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS|NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS]]; [[Reference/Gaskell/Entries/N/NIFLHEIM, THE SHADOWY REGION OF DEATH|NIFLHEIM, THE SHADOWY REGION OF DEATH]] |
+| `NorNor` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NORNOR, OR NORNS|NORNOR, OR NORNS]] |
+| `Oak` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]] |
+| `RIMTHURsan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SYCAMORE` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |

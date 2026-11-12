@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Aru-ni` | **unresolved** (review queue) |
-| `Aries` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
+| `Aries` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] |
 | `Lams` | **unresolved** (review queue) |
-| `LAMB OF Gop` | **unresolved** (review queue) |
-| `Passover` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `LAMB OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
+| `Passover` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `Raq. 411` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

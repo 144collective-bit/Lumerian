@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
-| `AIDONEUS` | **unresolved** (review queue) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
 | `AKEMMANO` | **unresolved** (review queue) |
-| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
+| `ANGRA-MAINYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
 | `ANTICHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] |
-| `ApEep` | **unresolved** (review queue) |
-| `Devin` | **unresolved** (review queue) |
+| `ApEep` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] |
+| `Devin` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `Enicorio` | **unresolved** (review queue) |
 | `Evit` | **unresolved** (review queue) |
 | `Law OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
-| `OPHIONEUS` | **candidate (first-segment only)** → possible `OPHIONEUS, THE SERPENT` (not linked) |
+| `OPHIONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OPHIONEUS, THE SERPENT|OPHIONEUS, THE SERPENT]] |
 | `OPPOsires` | **unresolved** (review queue) |
-| `Saran` | **unresolved** (review queue) |
+| `Saran` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 | `SERPENT (mighty)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SPENTO` | **unresolved** (review queue) |
-| `TYPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
-| `ZERANA` | **unresolved** (review queue) |
+| `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
+| `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 
 ## Full OCR entry body (exact)
 

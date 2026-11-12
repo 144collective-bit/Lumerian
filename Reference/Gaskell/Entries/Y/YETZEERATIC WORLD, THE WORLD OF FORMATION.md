@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ASEEYATIC WORLD` | **unresolved** (review queue) |
+| `ASEEYATIC WORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASEEYATIC WORLD-THE WORLD OF ACTION|ASEEYATIC WORLD—THE WORLD OF ACTION]] |
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `ATZEELOOTH` | **unresolved** (review queue) |
 | `BREEATIC ‘WORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
-| `SIMILITUDES` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `SHEKINAGH` | **unresolved** (review queue) |
 | `Wor.ps (five)` | **unresolved** (review queue) |
 

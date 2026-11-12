@@ -32,19 +32,19 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Ammit` | **unresolved** (review queue) |
+| `Ammit` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AMMIT MONSTER|AMMIT MONSTER]] |
 | `ARC. MAN` | **unresolved** (review queue) |
 | `Brraps (two)` | **unresolved** (review queue) |
 | `Curist` | **unresolved** (review queue) |
 | `FIG-FRUIT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] |
-| `FIRST-BORN SON` | **unresolved** (review queue) |
+| `FIRST-BORN SON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] |
 | `Gop` | **unresolved** (review queue) |
 | `ImaaE` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `Setr` | **unresolved** (review queue) |
-| `SHOE-LATCHET` | **unresolved** (review queue) |
-| `SON OF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `SHOE-LATCHET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOE-LATCHET OF JESUS|SHOE-LATCHET OF JESUS]] |
+| `SON OF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `TRINITY` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

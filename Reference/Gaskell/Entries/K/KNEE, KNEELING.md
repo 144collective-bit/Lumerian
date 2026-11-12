@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Famity` | **unresolved** (review queue) |
+| `Famity` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FAMILY|FAMILY]] |
 | `Lzas` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

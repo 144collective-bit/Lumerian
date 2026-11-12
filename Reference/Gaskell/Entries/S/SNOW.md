@@ -33,11 +33,11 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BatpER` | **unresolved** (review queue) |
-| `Ice` | **candidate (first-segment only)** → possible `ICE, FROST, OR SNOW` (not linked) |
+| `Ice` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICE, FROST, OR SNOW|ICE, FROST, OR SNOW]] |
 | `RoO«crHuRsaAR` | **unresolved** (review queue) |
 | `Snow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
-| `Summer (unfruitful)` | **candidate (first-segment only)** → possible `SUMMER, SEVEN MONTHS` (not linked) |
-| `THocx` | **unresolved** (review queue) |
+| `Summer (unfruitful)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
+| `THocx` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOCK,-A GIANTESS|THOCK,—A GIANTESS]] |
 
 ## Full OCR entry body (exact)
 

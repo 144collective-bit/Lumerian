@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `COVENANT` | **unresolved** (review queue) |
+| `COVENANT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] |
 | `DISPENSATIONS` | **unresolved** (review queue) |
 | `JUSTIFICATION` | **unresolved** (review queue) |
-| `Mosaic` | **unresolved** (review queue) |
-| `MosEs` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
-| `SHOES (off)` | **unresolved** (review queue) |
+| `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
+| `MosEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
+| `SHOES (off)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

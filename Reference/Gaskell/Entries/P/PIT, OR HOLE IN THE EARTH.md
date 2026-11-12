@@ -33,17 +33,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `ARIZURA` | **candidate (first-segment only)** → possible `ARIZURA, NECK OF` (not linked) |
-| `BEasT` | **unresolved** (review queue) |
+| `ARIZURA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARIZURA, NECK OF|ARIZURA, NECK OF]] |
+| `BEasT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
 | `Boat (wisdom)` | **unresolved** (ambiguous full-head matches; not linked) |
-| `BorroMLEss PIT` | **unresolved** (review queue) |
+| `BorroMLEss PIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BOTTOMLESS PIT|BOTTOMLESS PIT]] |
 | `EarrH` | **unresolved** (review queue) |
-| `IRON BEATEN` | **unresolved** (review queue) |
+| `IRON BEATEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]] |
 | `LIBERATION` | **unresolved** (review queue) |
 | `Lieut` | **unresolved** (review queue) |
 | `PHARISEES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] |
-| `PoLe` | **candidate (first-segment only)** → possible `POLE, UPRIGHT` (not linked) |
-| `Rock` | **candidate (first-segment only)** → possible `ROCK, SPIRITUAL` (not linked) |
+| `PoLe` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] |
+| `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 
 ## Full OCR entry body (exact)

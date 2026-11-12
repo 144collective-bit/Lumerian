@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CiaAssEs` | **unresolved** (review queue) |
-| `DWELLINGS` | **unresolved** (review queue) |
+| `DWELLINGS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DWELLINGS FOR THE SEEDS OF THE BEST CREATURES|DWELLINGS FOR THE SEEDS OF THE BEST CREATURES]]; [[Reference/Gaskell/Entries/D/DWELLINGS SUPPLIED WITH CATTLE|DWELLINGS SUPPLIED WITH CATTLE]] |
 | `Hovuss` | **unresolved** (review queue) |
-| `PALACE` | **unresolved** (review queue) |
-| `VESTURES` | **unresolved** (review queue) |
+| `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
+| `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 
 ## Full OCR entry body (exact)
 

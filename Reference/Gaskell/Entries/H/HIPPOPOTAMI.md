@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `MarsH` | **unresolved** (review queue) |
+| `MarsH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] |
 | `(lower)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

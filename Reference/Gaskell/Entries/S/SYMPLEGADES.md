@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Anco` | **unresolved** (review queue) |
-| `FEAR` | **unresolved** (review queue) |
-| `HERogs` | **unresolved** (review queue) |
-| `Rocks (floating)` | **candidate (first-segment only)** → possible `ROCKS, FLOATING` (not linked) |
+| `FEAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEAR OF GOD OR THE LORD|FEAR OF GOD OR THE LORD]] |
+| `HERogs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
+| `Rocks (floating)` | resolved (exact) → [[Reference/Gaskell/Entries/R/ROCKS, FLOATING|ROCKS, FLOATING]] |
 
 ## Full OCR entry body (exact)
 

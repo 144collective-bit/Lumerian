@@ -35,10 +35,10 @@ tags:
 | `Evotution` | **unresolved** (review queue) |
 | `Gorna m` | **unresolved** (review queue) |
 | `IAO` | **unresolved** (review queue) |
-| `INVOLUTION` | **unresolved** (review queue) |
-| `MANIFESTATION` | **unresolved** (review queue) |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+| `MANIFESTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MANIFESTATION INTO DAY|MANIFESTATION INTO DAY]] |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
-| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `ZODIAC. COMPANY OF THE GODS` | **unresolved** (review queue) |
 | `OR THE GODS OF HEAVEN :-— A symbol of the activities on the higher planes; or the Divine attributes` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `that is` | **unresolved** (review queue) |
@@ -57,10 +57,10 @@ tags:
 | `Drvas` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `GuarRDIANS` | **unresolved** (review queue) |
-| `Hast` | **candidate (first-segment only)** → possible `HAST, OR COMPLETION` (not linked) |
-| `Heroic` | **unresolved** (review queue) |
+| `Hast` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAST, OR COMPLETION|HAST, OR COMPLETION]] |
+| `Heroic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HEROIC HEROIC RUNNER,-THE SUN|HEROIC HEROIC RUNNER,—THE SUN]] |
 | `I am` | **unresolved** (review queue) |
-| `Nusia` | **unresolved** (review queue) |
+| `Nusia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NUBIA|NUBIA]] |
 | `Quvuatrties (higher)` | **unresolved** (review queue) |
 | `TrEm` | **unresolved** (review queue) |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |

@@ -35,14 +35,14 @@ tags:
 | `Eons` | **unresolved** (review queue) |
 | `Gunas` | **unresolved** (review queue) |
 | `Hour` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUR|HOUR]] |
-| `HovussHOLDER` | **unresolved** (review queue) |
+| `HovussHOLDER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] |
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `MARKET-PLACE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARKET-PLACE|MARKET-PLACE]] |
 | `Money` | **unresolved** (review queue) |
 | `MoRNING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
-| `PLANETARY CHAIN` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `STEWARD` | **candidate (first-segment only)** → possible `STEWARD, UNJUST, OF THE PARABLE` (not linked) |
+| `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `STEWARD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STEWARD OF THE LORD OF THE VINEYARD|STEWARD OF THE LORD OF THE VINEYARD]]; [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `Waces` | **unresolved** (review queue) |
 | `WoRkK. LAD LAD;` | **unresolved** (review queue) |

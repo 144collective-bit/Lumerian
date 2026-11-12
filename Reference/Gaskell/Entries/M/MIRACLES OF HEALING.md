@@ -34,18 +34,18 @@ tags:
 |---|---|
 | `ALCHEMY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] |
 | `ARC. MAN` | **unresolved** (review queue) |
-| `BLIND` | **unresolved** (review queue) |
+| `BLIND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
 | `BonpDaGE` | **unresolved** (review queue) |
 | `FarrH (miracles)` | **unresolved** (review queue) |
-| `Gurts OF GOD` | **unresolved** (review queue) |
-| `GRACE` | **unresolved** (review queue) |
-| `HeaLine` | **unresolved** (review queue) |
+| `Gurts OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIFTS OF GOD|GIFTS OF GOD]] |
+| `GRACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
+| `HeaLine` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
-| `IntourTion` | **unresolved** (review queue) |
-| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
-| `MEpDIcINE` | **unresolved** (review queue) |
-| `PARABLES` | **unresolved** (review queue) |
-| `PHYSICIAN` | **candidate (first-segment only)** → possible `PHYSICIAN, SUCCESSFUL` (not linked) |
+| `IntourTion` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+| `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
+| `MEpDIcINE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
+| `PARABLES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+| `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `SERPENT 4ESCULAPIUS` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

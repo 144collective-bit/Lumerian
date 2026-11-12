@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arn` | **unresolved** (review queue) |
-| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
-| `GODS` | **candidate (first-segment only)** → possible `GODS, DEITIES` (not linked) |
-| `Hepuaistos` | **unresolved** (review queue) |
+| `GODS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GODS, DEITIES|GODS, DEITIES]] |
+| `Hepuaistos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `Ska` | **unresolved** (review queue) |
-| `SHOES` | **unresolved** (review queue) |
+| `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 
 ## Full OCR entry body (exact)
 

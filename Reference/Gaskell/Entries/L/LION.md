@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
+| `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
 | `Breasts (wild)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
-| `GREEN LION` | **unresolved** (review queue) |
+| `GREEN LION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `GrirriIn` | **unresolved** (review queue) |
-| `LEO` | **candidate (first-segment only)** → possible `LEO, THE ZODIACAL SIGN` (not linked) |
-| `QUATERNAEY` | **unresolved** (review queue) |
+| `LEO` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEO, THE ZODIACAL SIGN|LEO, THE ZODIACAL SIGN]] |
+| `QUATERNAEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SERPENT (solar)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |
 

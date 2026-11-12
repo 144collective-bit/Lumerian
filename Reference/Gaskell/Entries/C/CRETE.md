@@ -33,9 +33,9 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ArnconavutTs` | **unresolved** (review queue) |
-| `IcHor` | **unresolved** (review queue) |
+| `IcHor` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICHOR IN THE VEIN OF TALUS|ICHOR IN THE VEIN OF TALUS]] |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
-| `TaLus` | **candidate (first-segment only)** → possible `TALUS, THE BRAZEN MAN` (not linked) |
+| `TaLus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
 
 ## Full OCR entry body (exact)
 

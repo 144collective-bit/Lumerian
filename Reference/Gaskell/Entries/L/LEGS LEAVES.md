@@ -33,14 +33,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HEaLmnc` | **unresolved** (review queue) |
-| `MULTITUDES` | **unresolved** (review queue) |
+| `MULTITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MULTITUDES HEALED|MULTITUDES HEALED]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 | `TREE OF LIFE. ideas LEES; DREGS :-— A symbol of the lower instincts and desires which remain unpurified. **Moab hath been at ease from his youth` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and he hath settled on his less. and hath not been emptied from veasel to veasel.”—JER. xIviii. 11. The lower nature at first is at ease in the soul; there is little effort towards improvement` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and habits of thought bind down to things below (lees)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `The lower nature has not been purified by being passed into mental forms (vessels) of better thought` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `so as to leave the lowest forms (the lees) behind. See Tamas` | **unresolved** (prose-bleed / overlong token; not linked) |
-| `VESSEL` | **candidate (first-segment only)** → possible `VESSEL, OR RECEPTACLE` (not linked) |
+| `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 
 ## Full OCR entry body (exact)
 

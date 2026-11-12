@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Mystery` | **candidate (first-segment only)** → possible `MYSTERY, FIRST` (not linked) |
+| `Mystery` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]]; [[Reference/Gaskell/Entries/M/MYSTERY MYRTLE, BURNT|MYSTERY MYRTLE, BURNT]]; [[Reference/Gaskell/Entries/M/MYSTERY-NAME|MYSTERY-NAME]] |
 
 ## Full OCR entry body (exact)
 

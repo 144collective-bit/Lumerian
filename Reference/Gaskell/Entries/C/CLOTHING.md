@@ -32,8 +32,8 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `Coat` | **unresolved** (review queue) |
-| `GaRMENTS` | **unresolved** (review queue) |
+| `Coat` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] |
+| `GaRMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `NAKEDNESS Rose` | **unresolved** (review queue) |
 | `Toca` | **unresolved** (review queue) |
 | `WoopDEN` | **unresolved** (review queue) |

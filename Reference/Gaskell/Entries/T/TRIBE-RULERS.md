@@ -32,17 +32,17 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `CONFLICT` | **unresolved** (review queue) |
+| `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `GEORGE AND DRAGON` | **unresolved** (review queue) |
 | `HovseE (clan)` | **unresolved** (review queue) |
 | `House (ruler)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
-| `INTELLECT` | **candidate (first-segment only)** → possible `INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)` (not linked) |
+| `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `MENTAL-BODY` | **unresolved** (review queue) |
-| `MiTHRA (bull)` | **unresolved** (review queue) |
-| `QUALITIES` | **unresolved** (review queue) |
-| `RULERS` | **unresolved** (review queue) |
+| `MiTHRA (bull)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MITHRA SLAYING THE BULL|MITHRA SLAYING THE BULL]] |
+| `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+| `RULERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
 | `SPENTO` | **unresolved** (review queue) |
-| `TIAMAT` | **candidate (first-segment only)** → possible `TIAMAT, THE SPIRIT OF CHAOS` (not linked) |
+| `TIAMAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,8 +33,8 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
-| `ORO` | **candidate (first-segment only)** → possible `ORO, THE TAHITIAN GOD` (not linked) |
-| `RaAINBOw` | **unresolved** (review queue) |
+| `ORO` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
+| `RaAINBOw` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
 | `Rk-` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

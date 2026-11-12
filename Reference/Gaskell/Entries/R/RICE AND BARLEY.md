@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `BARLEY` | **unresolved** (review queue) |
+| `BARLEY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]]; [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
 
 ## Full OCR entry body (exact)
 

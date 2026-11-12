@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BROTHER OF JESUS` | **unresolved** (review queue) |
-| `CHANNELS` | **candidate (first-segment only)** → possible `CHANNELS, OR PASSAGES` (not linked) |
-| `JOSEPH (Mary)` | **candidate (ambiguous first-segment)** → JOSEPH, HUSBAND OF MARY; JOSEPH, SON OF JACOB (not linked) |
+| `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
+| `JOSEPH (Mary)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]] |
 | `TREES AND RIVERS` | **unresolved** (review queue) |
-| `VIRGIN MARY` | **unresolved** (review queue) |
+| `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 
 ## Full OCR entry body (exact)
 

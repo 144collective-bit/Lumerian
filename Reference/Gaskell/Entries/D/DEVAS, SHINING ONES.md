@@ -32,23 +32,23 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AMSHASPANDS` | **unresolved** (review queue) |
+| `AMSHASPANDS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] |
 | `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
 | `APSARAS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/APSARAS|APSARAS]] |
 | `ARCHANGELS` | **unresolved** (review queue) |
-| `ARDEBEHESCHT` | **candidate (first-segment only)** → possible `ARDEBEHESCHT, KING OF FIRE` (not linked) |
-| `ASHA` | **unresolved** (review queue) |
-| `BaHMAN` | **unresolved** (review queue) |
-| `BUILDERS` | **unresolved** (review queue) |
-| `CoLcHis` | **unresolved** (review queue) |
+| `ARDEBEHESCHT` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARDEBEHESCHT, KING OF FIRE|ARDEBEHESCHT, KING OF FIRE]] |
+| `ASHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] |
+| `BaHMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] |
+| `BUILDERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUILDERS OF THE UNIVERSE|BUILDERS OF THE UNIVERSE]] |
+| `CoLcHis` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COLCHIS AND THE COLCHIANS|COLCHIS AND THE COLCHIANS]] |
 | `ComPANY (gods)` | **unresolved** (review queue) |
 | `D2mMons` | **unresolved** (review queue) |
-| `GANDHARVAS` | **candidate (first-segment only)** → possible `GANDHARVAS, OR SIRENS` (not linked) |
+| `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `Guarprans (world)` | **unresolved** (review queue) |
 | `MESSENGERS` | **unresolved** (review queue) |
-| `PorsHERD` | **unresolved** (review queue) |
-| `SIRENS` | **candidate (ambiguous first-segment)** → SIRENS, GANDHARVAS, COLCHIANS; SIRENS, OR GANDHARVAS (not linked) |
-| `VALKYRIOR` | **unresolved** (review queue) |
+| `PorsHERD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] |
+| `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
+| `VALKYRIOR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VALEYRIOR|VALEYRIOR]] |
 
 ## Full OCR entry body (exact)
 

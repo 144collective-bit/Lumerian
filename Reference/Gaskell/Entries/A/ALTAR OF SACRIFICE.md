@@ -32,13 +32,13 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ATONEMENT` | **unresolved** (review queue) |
-| `BURNT OFFERING` | **unresolved** (review queue) |
+| `ATONEMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]]; [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] |
+| `BURNT OFFERING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] |
 | `CuuncH` | **unresolved** (review queue) |
 | `Foop` | **unresolved** (review queue) |
-| `INCENSE` | **unresolved** (review queue) |
-| `PROCESSION` | **unresolved** (review queue) |
-| `TaBLE` | **unresolved** (review queue) |
+| `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
+| `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+| `TaBLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
 | `THUNDERBOLT` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

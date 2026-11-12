@@ -32,12 +32,12 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
-| `BURNT OFFERING` | **unresolved** (review queue) |
-| `GoD (smelling)` | **candidate (first-segment only)** → possible `GOD, POTENTIAL AND ACTUAL` (not linked) |
+| `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
+| `BURNT OFFERING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] |
+| `GoD (smelling)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD, POTENTIAL AND ACTUAL|GOD, POTENTIAL AND ACTUAL]] |
 | `Lams` | **unresolved** (review queue) |
 | `PestrLENcE` | **unresolved** (review queue) |
-| `SAVOUR (sweet)` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `SAVOUR (sweet)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 
 ## Full OCR entry body (exact)
 

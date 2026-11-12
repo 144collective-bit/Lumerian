@@ -33,12 +33,12 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
-| `Door (higher)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
-| `GARMENT` | **unresolved** (review queue) |
-| `NAKEDNESS` | **unresolved** (review queue) |
+| `Door (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] |
+| `GARMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]] |
+| `NAKEDNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NAKEDNESS (HIGHER ASPECT)|NAKEDNESS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/N/NAKEDNESS (LOWER ASPECT)|NAKEDNESS (LOWER ASPECT)]] |
 | `MJRAIMENT` | **unresolved** (review queue) |
 | `Rose` | **unresolved** (review queue) |
-| `Toga` | **candidate (first-segment only)** → possible `TOGA, OR ROBE` (not linked) |
+| `Toga` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TOGA, OR ROBE|TOGA, OR ROBE]] |
 
 ## Full OCR entry body (exact)
 

@@ -33,10 +33,10 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JOHN BAPTIST` | **unresolved** (review queue) |
-| `MAHABHARata` | **candidate (first-segment only)** → possible `MAHABHARATA, OR THE GREAT ORIGINATOR` (not linked) |
-| `Rama` | **candidate (first-segment only)** → possible `RAMA, AVATAR OF VISHNU` (not linked) |
-| `SHOE-LATCHET` | **unresolved** (review queue) |
-| `SHOES` | **unresolved** (review queue) |
+| `MAHABHARata` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAHABHARATA, OR THE GREAT ORIGINATOR|MAHABHARATA, OR THE GREAT ORIGINATOR]] |
+| `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+| `SHOE-LATCHET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOE-LATCHET OF JESUS|SHOE-LATCHET OF JESUS]] |
+| `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 
 ## Full OCR entry body (exact)
 

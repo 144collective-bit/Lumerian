@@ -34,10 +34,10 @@ tags:
 |---|---|
 | `AvustTertrizs` | **unresolved** (review queue) |
 | `BuppHa` | **unresolved** (review queue) |
-| `D1sCIPLES (seated)` | **unresolved** (review queue) |
+| `D1sCIPLES (seated)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `GLORIFYING OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
-| `Hosts (Lord of)` | **candidate (first-segment only)** → possible `HOSTS, LORD OF` (not linked) |
-| `SUDDHODANA` | **candidate (first-segment only)** → possible `SUDDHODANA, KING, THE FATHER OF BUDDHA` (not linked) |
+| `Hosts (Lord of)` | resolved (exact) → [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] |
+| `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 
 ## Full OCR entry body (exact)
 

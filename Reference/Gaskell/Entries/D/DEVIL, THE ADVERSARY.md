@@ -32,28 +32,28 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `ADVERSARY` | **candidate (first-segment only)** → possible `ADVERSARY, THE` (not linked) |
+| `ADVERSARY` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] |
 | `AESHM` | **unresolved** (review queue) |
-| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
-| `AIDONEUS` | **unresolved** (review queue) |
-| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
+| `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
+| `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
+| `ANGRA-MAINYU` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
 | `ANTIcHRIsT` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] |
-| `Beast` | **unresolved** (review queue) |
-| `DurasROBO` | **candidate (first-segment only)** → possible `DURASROBO, THE KARAP` (not linked) |
+| `Beast` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
+| `DurasROBO` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] |
 | `DRacon (red)` | **unresolved** (review queue) |
 | `Evm` | **unresolved** (review queue) |
 | `Hrrop` | **unresolved** (review queue) |
 | `Loxr` | **unresolved** (review queue) |
-| `Mara` | **candidate (first-segment only)** → possible `MARA, THE TEMPTER` (not linked) |
+| `Mara` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
 | `MICTLAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICTLAN|MICTLAN]] |
 | `MIDGARD'S SERPENT` | resolved (R3 renamed path) → [[Reference/Gaskell/Entries/M/MIDGARD'S SERPENT|MIDGARD'S SERPENT]] |
-| `RavaNA` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
+| `RavaNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
-| `SET` | **candidate (first-segment only)** → possible `SET, OR TYPHON` (not linked) |
+| `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `SUSANOWO` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
 | `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
-| `TEMPTATION` | **unresolved** (review queue) |
+| `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `TYPHON. DEVILS ;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

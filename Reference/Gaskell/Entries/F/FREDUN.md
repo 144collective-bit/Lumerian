@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `THRAETONA` | **unresolved** (review queue) |
+| `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
 
 ## Full OCR entry body (exact)
 

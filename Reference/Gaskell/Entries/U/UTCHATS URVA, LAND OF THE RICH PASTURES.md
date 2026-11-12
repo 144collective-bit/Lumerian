@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `PasTuREs` | **unresolved** (review queue) |
+| `PasTuREs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASTURES OF THE LORD|PASTURES OF THE LORD]] |
 
 ## Full OCR entry body (exact)
 

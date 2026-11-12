@@ -33,18 +33,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Arc. MAN` | **unresolved** (review queue) |
-| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
-| `BaLarama` | **unresolved** (review queue) |
+| `ARJUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] |
+| `BaLarama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] |
 | `KRONOS BIRTH OF KRISHNA` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
-| `DANCE (circle)` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
-| `DEVAKI` | **candidate (first-segment only)** → possible `DEVAKI, THE MOTHER OF KRISHNA` (not linked) |
+| `DANCE (circle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] |
+| `DEVAKI` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAKI, THE MOTHER OF KRISHNA|DEVAKI, THE MOTHER OF KRISHNA]] |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
-| `GOLOKA` | **unresolved** (review queue) |
+| `GOLOKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOLOKA GOLOKA OR GOKALA, WORLD OF COWS|GOLOKA GOLOKA OR GOKALA, WORLD OF COWS]] |
 | `Goris` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `MOTHER (divine)` | **candidate (first-segment only)** → possible `MOTHER, DIVINE` (not linked) |
-| `Ravana` | **candidate (first-segment only)** → possible `RAVANA, KING OF LANKA` (not linked) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `MOTHER (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+| `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `VISHNU. KRONOS ; SATURN;` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

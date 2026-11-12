@@ -32,18 +32,18 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `AKERU` | **unresolved** (review queue) |
+| `AKERU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AKERU GODS, OR GODS OF AKERT|AKERU GODS, OR GODS OF AKERT]] |
 | `Devit` | **unresolved** (review queue) |
 | `Heap (Set)` | **unresolved** (review queue) |
 | `Hotp` | **unresolved** (review queue) |
-| `Moist` | **unresolved** (review queue) |
+| `Moist` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOIST AND DRY|MOIST AND DRY]]; [[Reference/Gaskell/Entries/M/MOIST ESSENCE|MOIST ESSENCE]] |
 | `Mourn (food)` | **unresolved** (review queue) |
 | `PErREREHU` | **unresolved** (review queue) |
 | `Pia` | **unresolved** (review queue) |
 | `Satan` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
 | `Susanowo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
-| `TYPHON` | **candidate (first-segment only)** → possible `TYPHON, OR SET` (not linked) |
-| `URNI-TENTEN` | **unresolved** (review queue) |
+| `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
+| `URNI-TENTEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNI-TENTEN (HORUS)|URNI-TENTEN (HORUS)]] |
 
 ## Full OCR entry body (exact)
 

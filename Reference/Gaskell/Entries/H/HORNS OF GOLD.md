@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `JUPITER (planet)` | **candidate (first-segment only)** → possible `JUPITER, PLANET, (TISHTAR)` (not linked) |
+| `JUPITER (planet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JUPITER, PLANET, (TISHTAR)|JUPITER, PLANET, (TISHTAR)]] |
 
 ## Full OCR entry body (exact)
 

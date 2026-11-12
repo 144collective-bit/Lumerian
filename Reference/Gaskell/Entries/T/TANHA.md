@@ -32,7 +32,7 @@ tags:
 
 | Target (OCR) | Status |
 |---|---|
-| `THrrst` | **unresolved** (review queue) |
+| `THrrst` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 
 ## Full OCR entry body (exact)
 

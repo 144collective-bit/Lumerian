@@ -37,18 +37,18 @@ tags:
 | `and is Hos. vi. 3. now subject to ignorance and sorrow See CLoups` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Drew` | **unresolved** (review queue) |
 | `Drovaenut` | **unresolved** (review queue) |
-| `HERB` | **unresolved** (review queue) |
+| `HERB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERB OF THE FIELD, OR GREEN HERB|HERB OF THE FIELD, OR GREEN HERB]] |
 | `while he works his way upward. MAZENDARANS` | **unresolved** (review queue) |
-| `UDDER` | **unresolved** (review queue) |
+| `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
 | `See BonpbDaGE` | **unresolved** (review queue) |
-| `DARKNESS` | **unresolved** (review queue) |
+| `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
 | `IGNO- WaTER` | **unresolved** (review queue) |
 | `WEALTH SHOWER` | **unresolved** (review queue) |
 | `WINDOWS. RANCE` | **unresolved** (review queue) |
-| `JOB` | **unresolved** (review queue) |
-| `SORROW` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SUFFERING` | **candidate (first-segment only)** → possible `SUFFERING, TRUTH` (not linked) |
+| `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+| `SORROW` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 
 ## Full OCR entry body (exact)
 

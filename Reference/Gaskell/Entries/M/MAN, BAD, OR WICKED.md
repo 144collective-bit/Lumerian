@@ -34,29 +34,29 @@ tags:
 |---|---|
 | `ADAM’S DEAD BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
 | `BLOOD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] |
-| `BRIDGE (kinvat)` | **candidate (first-segment only)** → possible `BRIDGE, KINVAT, OR CHINVAT` (not linked) |
-| `ConscrENcE` | **unresolved** (review queue) |
+| `BRIDGE (kinvat)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BRIDGE, KINVAT, OR CHINVAT|BRIDGE, KINVAT, OR CHINVAT]] |
+| `ConscrENcE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `DAEVas` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `Doa-staR` | **unresolved** (review queue) |
 | `DuUSAHK` | **unresolved** (review queue) |
-| `GaTHA (kam.)` | **unresolved** (review queue) |
+| `GaTHA (kam.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATHA AHUNA-VAIRYA, TIMES CHANTED|GATHA AHUNA-VAIRYA, TIMES CHANTED]]; [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]] |
 | `HAND OF BEAST` | **unresolved** (review queue) |
 | `Hanitot` | **unresolved** (review queue) |
-| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `IMMORTALITY FORFEITED` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]] |
 | `JUDGMENT-DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `KARMA` | **unresolved** (review queue) |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PRIEST` | **candidate (first-segment only)** → possible `PRIEST, OR SOOTHSAYER` (not linked) |
+| `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
-| `REAPING` | **unresolved** (review queue) |
+| `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `RE-INOARNATION` | **unresolved** (review queue) |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `UNRBIGHTEOUS MAN` | **unresolved** (review queue) |
-| `WAY OF THE LOED` | **unresolved** (review queue) |
-| `WICKEDNESS` | **unresolved** (review queue) |
+| `WAY OF THE LOED` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
+| `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 
 ## Full OCR entry body (exact)
 

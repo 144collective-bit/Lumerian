@@ -34,15 +34,15 @@ tags:
 |---|---|
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `CrucIFIxXION` | **unresolved** (review queue) |
-| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `IGNORANCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IGNORANCE, AVIDYA|IGNORANCE, AVIDYA]] |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `LIBERATION` | **unresolved** (review queue) |
-| `MATTER` | **unresolved** (review queue) |
+| `MATTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
 | `Nipinas` | **unresolved** (review queue) |
-| `Nirvana` | **candidate (first-segment only)** → possible `NIRVANA, OR NIBBANA` (not linked) |
-| `Sorrow` | **candidate (first-segment only)** → possible `SORROW, OR EVIL` (not linked) |
-| `SPIBiT` | **unresolved** (review queue) |
-| `VINEGAR` | **unresolved** (review queue) |
+| `Nirvana` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
+| `Sorrow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
+| `SPIBiT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
+| `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
 
 ## Full OCR entry body (exact)
 

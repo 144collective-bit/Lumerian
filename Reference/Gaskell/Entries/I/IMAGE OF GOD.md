@@ -33,45 +33,45 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `As` | **unresolved** (review queue) |
-| `ADAM` | **candidate (first-segment only)** → possible `ADAM, DUAL` (not linked) |
+| `ADAM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ADAM, DUAL|ADAM, DUAL]]; [[Reference/Gaskell/Entries/A/ADAM (HIGHER ASPECT)|ADAM (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] |
 | `ARO. MAN` | **unresolved** (review queue) |
-| `ATZEEL` | **unresolved** (review queue) |
+| `ATZEEL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ATZEEL-ATIC WORLD OF EMANATION|ATZEEL-ATIC WORLD OF EMANATION]]; [[Reference/Gaskell/Entries/A/ATZEEL-OOTHIC WORLD|ATZEEL-OOTHIC WORLD]] |
 | `BreatH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `BUDDHIO PLANE` | **unresolved** (review queue) |
-| `Cosmos` | **unresolved** (review queue) |
-| `CREATION` | **unresolved** (review queue) |
-| `CREEPING` | **unresolved** (review queue) |
-| `EVOLUTION` | **unresolved** (review queue) |
-| `FRavasHI` | **candidate (first-segment only)** → possible `FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER` (not linked) |
+| `Cosmos` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] |
+| `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+| `CREEPING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] |
+| `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
+| `FRavasHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] |
 | `Gop` | **unresolved** (review queue) |
 | `Goop (light)` | **unresolved** (review queue) |
-| `HEaLtiInG` | **unresolved** (review queue) |
-| `HIGHER AND LOWER` | **unresolved** (review queue) |
+| `HEaLtiInG` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
+| `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `IMPERIAL` | **unresolved** (review queue) |
-| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
-| `INVOLUTION` | **unresolved** (review queue) |
+| `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+| `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `JEsus (son of God)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
-| `Macrocosm` | **unresolved** (review queue) |
+| `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `MALE-FEMALE (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
 | `PRororyres` | **unresolved** (review queue) |
-| `PurvusHa` | **unresolved** (review queue) |
-| `SALVATION` | **unresolved** (review queue) |
+| `PurvusHa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+| `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `Seat` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SmanirupEs` | **unresolved** (review queue) |
-| `Son oF Gop` | **unresolved** (review queue) |
+| `Son oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Sovun (highest)` | **unresolved** (review queue) |
-| `SourH WIND` | **unresolved** (review queue) |
-| `SParkK` | **unresolved** (review queue) |
+| `SourH WIND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
+| `SParkK` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `SUTRATMA` | **unresolved** (review queue) |
-| `TREE OF LirzE` | **unresolved** (review queue) |
+| `TREE OF LirzE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `Trinity` | **unresolved** (review queue) |
 | `Tyrr` | **unresolved** (review queue) |
-| `TzELEM` | **candidate (first-segment only)** → possible `TZELEM, DIVINE OR HOLY` (not linked) |
+| `TzELEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TZELEM, DIVINE OR HOLY|TZELEM, DIVINE OR HOLY]] |
 | `WorLps (five)` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

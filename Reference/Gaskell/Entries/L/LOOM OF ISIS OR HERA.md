@@ -37,7 +37,7 @@ tags:
 | `Isis` | **unresolved** (review queue) |
 | `Manco` | **unresolved** (review queue) |
 | `Nerutuys` | **unresolved** (review queue) |
-| `WaRP` | **unresolved** (review queue) |
+| `WaRP` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
 | `WoopDEN` | **unresolved** (review queue) |
 
 ## Full OCR entry body (exact)

@@ -34,8 +34,8 @@ tags:
 |---|---|
 | `Asuras` | **unresolved** (review queue) |
 | `Buss` | **unresolved** (review queue) |
-| `SEPARATION` | **unresolved** (review queue) |
-| `SopHia` | **unresolved** (review queue) |
+| `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+| `SopHia` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
 
 ## Full OCR entry body (exact)
 

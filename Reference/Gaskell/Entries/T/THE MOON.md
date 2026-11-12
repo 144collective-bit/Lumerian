@@ -33,16 +33,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Fatt` | **unresolved** (review queue) |
-| `GoD REPENTING` | **unresolved** (review queue) |
-| `HESED` | **unresolved** (review queue) |
+| `GoD REPENTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GOD REPENTING OF PREVIOUS ACTION|GOD REPENTING OF PREVIOUS ACTION]] |
+| `HESED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HESED (CHESED), THE SUN|HESED (CHESED), THE SUN]] |
 | `JHOKuMAH` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
-| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `Karma` | **unresolved** (review queue) |
 | `PanDoRA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
-| `PRODIGAL` | **unresolved** (review queue) |
+| `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
 | `SEPHImotTH` | **unresolved** (review queue) |
 | `Svorrerinc` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
