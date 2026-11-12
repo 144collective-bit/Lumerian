@@ -65,4 +65,5 @@ A symbol of primordial formless matter. Matter in its primal state, devoid of qu
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ATEA, LIGHT|ATEA, LIGHT]]; [[Reference/Gaskell/Entries/B/BYTHOS|BYTHOS]]; [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/E/EGG, PRIMAL|EGG, PRIMAL]]; [[Reference/Gaskell/Entries/E/EREBUS, SON OF CHAOS|EREBUS, SON OF CHAOS]]; [[Reference/Gaskell/Entries/E/EROS, OR PHANES|EROS, OR PHANES]]; [[Reference/Gaskell/Entries/G/GINUNGA-GAP, THE YAWNING GULF|GINUNGA-GAP, THE YAWNING GULF]]; [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]]; [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]]; [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]]
+- **Concept hub:** [[Symbols & Concepts/Darkness|Darkness]]
 <!-- cited-by:end -->

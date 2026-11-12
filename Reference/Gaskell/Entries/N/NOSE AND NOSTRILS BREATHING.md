@@ -57,4 +57,5 @@ Symbolic of volition and freewill, since the nose is allied with the breathing f
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]]; [[Reference/Gaskell/Entries/S/SMELLING|SMELLING]]
+- **Concept hub:** [[Symbols & Concepts/Breath|Breath]]
 <!-- cited-by:end -->

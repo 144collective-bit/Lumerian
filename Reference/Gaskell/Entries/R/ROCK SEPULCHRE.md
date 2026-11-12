@@ -59,6 +59,6 @@ A symbol of a condition of hardness of feeling and stagnation in religious thoug
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-25-2|ROCK SEPULCHRE]]; [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-27-60|ROCK SEPULCHRE]]
+- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-27-60|ROCK SEPULCHRE]]; [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-28-2|ROCK SEPULCHRE]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]]; [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]]; [[Reference/Gaskell/Entries/S/SPICES|SPICES]]; [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]]; [[Reference/Gaskell/Entries/T/TOMB|TOMB]]
 <!-- cited-by:end -->

@@ -242,5 +242,5 @@ They have stricken me, shalt thou say, and I was not sick; they have beaten me, 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **23:26** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/heart__proverbs-23-26|HEART]]
+- **23:26** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/heart__proverbs-23-26|HEART]] · Concept hub: [[Symbols & Concepts/Heart|Heart]]
 <!-- cited-by:end -->

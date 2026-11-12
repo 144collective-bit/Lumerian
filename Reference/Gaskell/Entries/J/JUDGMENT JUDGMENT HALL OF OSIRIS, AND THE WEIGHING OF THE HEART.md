@@ -77,4 +77,5 @@ Symbolical of the soul's evolution on the lower planes to ultimate perfection an
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]]; [[Reference/Gaskell/Entries/P/PAGODA|PAGODA]]; [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]]
+- **Concept hub:** [[Symbols & Concepts/Heart|Heart]]
 <!-- cited-by:end -->

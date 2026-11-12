@@ -141,5 +141,5 @@ But we will bless the LORD from this time forth and for evermore.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **115:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-115-14|printed citation]]
-- **115:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-115-15|printed citation]]
+- **115:15** — Concept hub: [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-115-15|printed citation]]
 <!-- cited-by:end -->

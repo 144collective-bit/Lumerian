@@ -182,7 +182,7 @@ And Balaam rose up, and went and returned to his place: and Balak also went his 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **24:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Numbers-24-7|printed citation ×2]]
+- **24:7** — Concept hub: [[Symbols & Concepts/Seed|Seed]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Numbers-24-7|printed citation ×2]]
 - **24:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Numbers-24-8|printed citation]]
 - **24:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Numbers-24-9|printed citation]]
 - **24:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Numbers-24-17|printed citation]]

@@ -288,7 +288,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **10:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-10-15-18|printed citation]]
 - **10:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-10-15-18|printed citation]]
 - **10:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-10-15-18|printed citation]]
-- **10:18** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-10-15-18|printed citation]]
+- **10:18** — Concept hub: [[Symbols & Concepts/Sacrifice|Sacrifice]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-10-15-18|printed citation]]
 - **10:28** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-10-28|printed citation]]
 - **10:34** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter I Old Things with New Names - Analytical Note|Chapter I, “Old Things with New Names”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-10-34|printed citation]]
 - **10:35** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-10-35|printed citation]]

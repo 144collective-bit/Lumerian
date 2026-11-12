@@ -62,5 +62,5 @@ A symbol of Truth as consciousness in the union of Spirit and Matter at the comm
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **Concept hub:** [[Symbols & Concepts/Light|Light]]
+- **Concept hub:** [[Symbols & Concepts/Darkness|Darkness]]; [[Symbols & Concepts/Light|Light]]
 <!-- cited-by:end -->

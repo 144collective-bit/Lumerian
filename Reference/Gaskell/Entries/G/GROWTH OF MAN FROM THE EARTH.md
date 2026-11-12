@@ -58,4 +58,5 @@ A symbol of the upward increasing stature of the manhood or mentality from the l
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]]
+- **Concept hub:** [[Symbols & Concepts/Earth|Earth]]
 <!-- cited-by:end -->

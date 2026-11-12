@@ -62,4 +62,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/man-blind__psalms-146-8|MAN, BLIND]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]]; [[Reference/Gaskell/Entries/D/DOOR (LOWER ASPECT)|DOOR (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/E/EYE, OR EYESIGHT|EYE, OR EYESIGHT]]; [[Reference/Gaskell/Entries/F/FOOLS|FOOLS]]; [[Reference/Gaskell/Entries/M/MIRACLES OF HEALING|MIRACLES OF HEALING]]; [[Reference/Gaskell/Entries/O/OF GOD, SIGHT|OF GOD, SIGHT]]
+- **Concept hub:** [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

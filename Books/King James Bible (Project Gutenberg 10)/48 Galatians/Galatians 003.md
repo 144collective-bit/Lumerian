@@ -207,5 +207,5 @@ And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to th
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/justice__galatians-3-chapter|JUSTICE]]
-- **3:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/abraham__galatians-3-29|ABRAHAM]]
+- **3:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/abraham__galatians-3-29|ABRAHAM]] · Concept hub: [[Symbols & Concepts/Seed|Seed]]
 <!-- cited-by:end -->

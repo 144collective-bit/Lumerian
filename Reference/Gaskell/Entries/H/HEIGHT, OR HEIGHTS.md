@@ -60,4 +60,5 @@ A symbol of the higher planes of manifestation. The buddhic plane, heaven. It ha
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/G/GOAT,-WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED|GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED]]
+- **Concept hub:** [[Symbols & Concepts/Mountain|Mountain]]
 <!-- cited-by:end -->

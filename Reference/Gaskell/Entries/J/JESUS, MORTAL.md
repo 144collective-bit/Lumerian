@@ -58,4 +58,5 @@ A symbol of the Christ-soul, or almost perfected personality, subject to the dea
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/C/CROSS|CROSS]]; [[Reference/Gaskell/Entries/D/DEATH OF THE PERSONALITY|DEATH OF THE PERSONALITY]]; [[Reference/Gaskell/Entries/H/HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE|HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE]]; [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/J/JESUS JESUS THY SERVANT|JESUS JESUS THY SERVANT]]; [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]]; [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]]; [[Reference/Gaskell/Entries/T/TREE|TREE]]; [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]]; [[Reference/Gaskell/Entries/W/WORLD|WORLD]]
+- **Concept hub:** [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

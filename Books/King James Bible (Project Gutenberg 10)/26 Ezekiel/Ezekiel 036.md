@@ -264,7 +264,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **36:11** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-11|printed citation]]
 - **36:24** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
 - **36:25** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
-- **36:26** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
+- **36:26** — Concept hub: [[Symbols & Concepts/Heart|Heart]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
 - **36:27** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
 - **36:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-36-24-28|printed citation]]
 <!-- cited-by:end -->

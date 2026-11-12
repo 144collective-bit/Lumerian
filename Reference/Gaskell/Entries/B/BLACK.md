@@ -56,4 +56,5 @@ Indicates either the unmanifest and potential, or igmorance and evil. This expla
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]]; [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/H/HAIR ,-SIDE-LOCK|HAIR ,—SIDE-LOCK]]
+- **Concept hub:** [[Symbols & Concepts/Darkness|Darkness]]
 <!-- cited-by:end -->

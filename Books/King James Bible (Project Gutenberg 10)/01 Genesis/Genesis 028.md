@@ -165,5 +165,5 @@ And this stone, which I have set for a pillar, shall be God’s house: and of al
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **28:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/pillow-of-stone__genesis-28-11|PILLOW OF STONE]]
-- **28:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/gate-higher-aspect__genesis-28-17|GATE (HIGHER ASPECT)]]
+- **28:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/gate-higher-aspect__genesis-28-17|GATE (HIGHER ASPECT)]] · Concept hub: [[Symbols & Concepts/Heaven|Heaven]]
 <!-- cited-by:end -->

@@ -54,4 +54,5 @@ A symbol of a period of evolution of animal-man, during which the astro-physical
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HIRUKO (LEECH-CHILD)|HIRUKO (LEECH-CHILD)]]; [[Reference/Gaskell/Entries/L/LUNATIC, MIND|LUNATIC, MIND]]; [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]]; [[Reference/Gaskell/Entries/M/MONTH|MONTH]]; [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MUSCULAR AND HAIRY MEN|MUSCULAR AND HAIRY MEN]]; [[Reference/Gaskell/Entries/P/PITRIS, LUNAR|PITRIS, LUNAR]]; [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

@@ -153,5 +153,6 @@ Teaching them to observe all things whatsoever I have commanded you: and, lo, I 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **28:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sunday-the-first-day__matthew-28-1|SUNDAY, THE FIRST DAY]]
+- **28:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-28-2|ROCK SEPULCHRE]]
 - **28:19** — Gaskell citation (corrected locator): [[Studies/Bible–Gaskell Cross References/Citation Corrections/baptism-of-water__matthew-28-19-image-validated|BAPTISM OF WATER]] · Concept hub: [[Symbols & Concepts/Baptism|Baptism]] · Study: [[Studies/Gaskell Page-Image Checks - 2026-11-06|Gaskell page-image checks — 6 November 2026 (Europe/London)]]
 <!-- cited-by:end -->

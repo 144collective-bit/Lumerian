@@ -65,4 +65,5 @@ A symbol of the Second Logos, or the Divine Life involved in matter. ‘“A ram
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/ram-of-sacrifice__genesis-22-13|RAM OF SACRIFICE]]
+- **Concept hub:** [[Symbols & Concepts/Sacrifice|Sacrifice]]
 <!-- cited-by:end -->

@@ -111,5 +111,5 @@ A symbol of the indwelling Higher Self (Christ), or Divine Spirit in man, evolvi
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]]; [[Reference/Gaskell/Entries/M/MARY, BETRAYAL OF JESUS|MARY, BETRAYAL OF JESUS]]
-- **Concept hub:** [[Symbols & Concepts/Christ|Christ]]
+- **Concept hub:** [[Symbols & Concepts/Christ|Christ]]; [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

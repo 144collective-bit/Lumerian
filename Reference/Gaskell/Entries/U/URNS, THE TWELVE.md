@@ -72,4 +72,5 @@ Symbols of the twelve virtues, or highest qualities of the evolving soul. Epipha
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]]; [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOON-WANING PERIOD, OR THE DEVAYANA|MOON—WANING PERIOD, OR THE DEVAYANA]]; [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

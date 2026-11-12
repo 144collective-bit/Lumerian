@@ -343,6 +343,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **22:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/deluge-of-water__2-samuel-22-2-5|DELUGE OF WATER]]; [[Studies/Bible–Gaskell Cross References/Bridges/horn-of-salvation__2-samuel-22-3|HORN OF SALVATION]]
 - **22:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/deluge-of-water__2-samuel-22-2-5|DELUGE OF WATER]]
 - **22:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/deluge-of-water__2-samuel-22-2-5|DELUGE OF WATER]]
-- **22:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/darkness-lower-aspect__2-samuel-22-29|DARKNESS—LOWER ASPECT]]
+- **22:29** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/darkness-lower-aspect__2-samuel-22-29|DARKNESS—LOWER ASPECT]] · Concept hub: [[Symbols & Concepts/Darkness|Darkness]]
 - **22:32** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/rock-or-stone__2-samuel-22-32|ROCK OR STONE]]
 <!-- cited-by:end -->

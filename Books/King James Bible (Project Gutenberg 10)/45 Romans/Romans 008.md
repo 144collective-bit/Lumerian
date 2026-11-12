@@ -271,7 +271,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **8:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/children-of-god__romans-8-16|CHILDREN OF GOD]]
 - **8:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/salvation-salvation__romans-8-17|SALVATION SALVATION]]
 - **8:19** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sons-of-god__romans-8-19|SONS OF GOD]]
-- **8:22** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/adoption__romans-8-22|ADOPTION]]
+- **8:22** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/adoption__romans-8-22|ADOPTION]] · Concept hub: [[Symbols & Concepts/Creation|Creation]]
 - **8:28** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/mula-praekriti-akem-mano-the-evil-mind__romans-8-28|MULA-PRAEKRITI, AKEM-MANO, THE EVIL MIND]]
 - **8:34** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/death-of-the-spirit-soul-or-higher-self__romans-8-34|DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF]]
 - **8:38** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Romans-8-38|printed citation]]

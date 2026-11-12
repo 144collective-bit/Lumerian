@@ -177,4 +177,5 @@ Save only that which the young men have eaten, and the portion of the men which 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **14:18** — Concept hub: [[Symbols & Concepts/Melchizedek|Melchizedek]]
+- **14:19** — Concept hub: [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

@@ -215,6 +215,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **2:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Philippians-2-5-8|printed citation]]
 - **2:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Philippians-2-5-8|printed citation]]
 - **2:7** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Philippians-2-5-8|printed citation]]
-- **2:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Philippians-2-5-8|printed citation]]
+- **2:8** — Concept hub: [[Symbols & Concepts/Jesus|Jesus]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Philippians-2-5-8|printed citation]]
+- **2:10** — Concept hub: [[Symbols & Concepts/Jesus|Jesus]]
 - **2:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/in-the-sun-catching-and-sunbinding__philippians-2-13|IN THE SUN-CATCHING AND SUNBINDING]]
 <!-- cited-by:end -->

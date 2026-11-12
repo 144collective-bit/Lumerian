@@ -69,4 +69,5 @@ A symbol of the positive, energetic, forceful, qualitative, and formative aspect
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/E/EARTH ,-PRIMORDIAL|EARTH ,—PRIMORDIAL]]; [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]]; [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]]; [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]]; [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]]; [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUN|SUN]]; [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]]; [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]]
+- **Concept hub:** [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

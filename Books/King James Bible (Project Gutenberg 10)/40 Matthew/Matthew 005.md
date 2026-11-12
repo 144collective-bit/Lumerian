@@ -320,8 +320,9 @@ Be ye therefore perfect, even as your Father which is in heaven is perfect.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
+- **5:1** — Concept hub: [[Symbols & Concepts/Mountain|Mountain]]
 - **5:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/exodus-of-egypt__matthew-5-6|EXODUS OF EGYPT]]
-- **5:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-8|printed citation]]
+- **5:8** — Concept hub: [[Symbols & Concepts/Heart|Heart]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-8|printed citation]]
 - **5:17** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-17|printed citation]]
 - **5:33** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-33|printed citation]]
 - **5:34** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-34-37|printed citation]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-5-34|printed citation]]

@@ -63,4 +63,5 @@ A symbol of Buddhi as containing the transmuted results of the experience of the
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/W/WIND, WORD, SPIRIT, MARUT, BREATH|WIND, WORD, SPIRIT, MARUT, BREATH]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

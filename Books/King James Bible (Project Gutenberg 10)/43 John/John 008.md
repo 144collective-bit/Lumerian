@@ -389,6 +389,7 @@ Then took they up stones to cast at him: but Jesus hid himself, and went out of 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **8:40** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-8-40|printed citation]]
+- **8:3** — Concept hub: [[Symbols & Concepts/Woman|Woman]]
+- **8:40** — Concept hub: [[Symbols & Concepts/Jesus|Jesus]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__John-8-40|printed citation]]
 - **8:44** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Chapter IV Theories Respecting Psychic Phenomena - Analytical Note|Chapter IV, “Theories Respecting Psychic Phenomena”]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 <!-- cited-by:end -->

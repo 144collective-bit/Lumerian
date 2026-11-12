@@ -71,4 +71,5 @@ A symbol of the Higher Self or Divine Life in all things. ‘In the Upanishads w
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]]; [[Reference/Gaskell/Entries/A/AMITAUGAS COUCH (ENDLESS SPLENDOUR)|AMITAUGAS COUCH (ENDLESS SPLENDOUR)]]; [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]]; [[Reference/Gaskell/Entries/B/BREATH, DIVINE, OUTBREATHING AND INBREATHING|BREATH, DIVINE, OUTBREATHING AND INBREATHING]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]]; [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]]; [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]]
+- **Concept hub:** [[Symbols & Concepts/Breath|Breath]]
 <!-- cited-by:end -->

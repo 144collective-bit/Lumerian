@@ -473,7 +473,7 @@ Only entries with at least one published bridge note.
 ## EARTH
 
 - Entry: [[Reference/Gaskell/Entries/E/EARTH|EARTH]]
-- [[Studies/Bible–Gaskell Cross References/Bridges/earth__genesis-50-23|Genesis 50:23]] (`explicit_citation_parser_validated_unreviewed`)
+- [[Studies/Bible–Gaskell Cross References/Bridges/earth__genesis-3-23|Genesis 3:23]] (`explicit_citation_parser_validated_unreviewed`)
 
 ## EARTH (SPECIALISED)
 
@@ -526,7 +526,7 @@ Only entries with at least one published bridge note.
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-21-9|Genesis 21:9]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-5|Genesis 3:5]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-7|Genesis 3:7]] (`explicit_citation_parser_validated_unreviewed`)
-- [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-50-7|Genesis 50:7]] (`explicit_citation_parser_validated_unreviewed`)
+- [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-7|Genesis 3:7]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__proverbs-15-3|Proverbs 15:3]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__psalms-11-4|Psalms 11:4]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__romans-11-10|Romans 11:10]] (`explicit_citation_parser_validated_unreviewed`)
@@ -618,7 +618,7 @@ Only entries with at least one published bridge note.
 ## FORTY DAYS AND NIGHTS
 
 - Entry: [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]]
-- [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-44-4|Genesis 44:4]] (`explicit_citation_parser_validated_unreviewed`)
+- [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-7-4|Genesis 7:4]] (`explicit_citation_parser_validated_unreviewed`)
 
 ## FOUNTAIN OF WATER
 
@@ -1357,7 +1357,7 @@ Only entries with at least one published bridge note.
 ## ROCK SEPULCHRE
 
 - Entry: [[Reference/Gaskell/Entries/R/ROCK SEPULCHRE|ROCK SEPULCHRE]]
-- [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-25-2|Matthew 25:2]] (`explicit_citation_parser_validated_unreviewed`)
+- [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-28-2|Matthew 28:2]] (`explicit_citation_parser_validated_unreviewed`)
 - [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-27-60|Matthew 27:60]] (`explicit_citation_parser_validated_unreviewed`)
 
 ## ROCK, SPIRITUAL
@@ -1780,7 +1780,7 @@ Only entries with at least one published bridge note.
 ## WIFE
 
 - Entry: [[Reference/Gaskell/Entries/W/WIFE|WIFE]]
-- [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-49-24|Genesis 49:24]] (`explicit_citation_parser_validated_unreviewed`)
+- [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-2-24|Genesis 2:24]] (`explicit_citation_parser_validated_unreviewed`)
 
 ## WIND, WORD, SPIRIT, MARUT, BREATH
 

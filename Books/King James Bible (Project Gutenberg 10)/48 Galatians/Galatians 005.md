@@ -190,5 +190,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **5:2** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Galatians-5-2|printed citation]]
 - **5:6** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/healing__galatians-5-6|HEALING]]
+- **5:17** — Concept hub: [[Symbols & Concepts/Self|Self]]
 - **5:22** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/fruit-of-the-spirit-or-of-the-tree-of-life__galatians-5-22|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]]
 <!-- cited-by:end -->

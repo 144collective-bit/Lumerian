@@ -333,6 +333,6 @@ Great deliverance giveth he to his king; and sheweth mercy to his anointed, to D
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **18:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/horizons-the-two__psalms-18-2|HORIZONS, THE TWO]]
-- **18:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/water-higher-aspect__psalms-18-11|WATER (HIGHER ASPECT)]]
+- **18:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/water-higher-aspect__psalms-18-11|WATER (HIGHER ASPECT)]] · Concept hub: [[Symbols & Concepts/Darkness|Darkness]]
 - **18:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/thunder-of-god-or-heaven__psalms-18-13|THUNDER OF GOD OR HEAVEN]]
 <!-- cited-by:end -->

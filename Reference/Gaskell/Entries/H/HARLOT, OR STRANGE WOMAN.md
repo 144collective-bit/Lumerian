@@ -63,4 +63,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/harlot-or-strange-woman__1-corinthians-6-13-20|HARLOT, OR STRANGE WOMAN]]; [[Studies/Bible–Gaskell Cross References/Bridges/harlot-or-strange-woman__proverbs-7-6-27|HARLOT, OR STRANGE WOMAN]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]]; [[Reference/Gaskell/Entries/F/FOOD FOLLY|FOOD FOLLY]]; [[Reference/Gaskell/Entries/G/GATHA KAM-NEMOI-ZAM CHANTED|GATHA KAM-NEMOI-ZAM CHANTED]]; [[Reference/Gaskell/Entries/U/UNRIGHTEOUS, OR WICKED MAN|UNRIGHTEOUS, OR WICKED MAN]]; [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]]
+- **Concept hub:** [[Symbols & Concepts/Woman|Woman]]
 <!-- cited-by:end -->

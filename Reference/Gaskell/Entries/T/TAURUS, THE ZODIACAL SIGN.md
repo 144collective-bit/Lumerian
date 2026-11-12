@@ -62,4 +62,5 @@ A symbol of the second period of the cycle of life. It signifies the Divine out-
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]]; [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]]; [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]]
+- **Concept hub:** [[Symbols & Concepts/Zodiac|Zodiac]]
 <!-- cited-by:end -->

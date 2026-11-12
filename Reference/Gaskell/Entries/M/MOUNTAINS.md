@@ -56,4 +56,5 @@ A symbol of aspirations; the attainment of ideals ; and the higher states of con
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ARARAT MOUNTAINS|ARARAT MOUNTAINS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]
+- **Concept hub:** [[Symbols & Concepts/Mountain|Mountain]]
 <!-- cited-by:end -->

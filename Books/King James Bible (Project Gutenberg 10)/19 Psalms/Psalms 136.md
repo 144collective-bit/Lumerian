@@ -192,5 +192,5 @@ O give thanks unto the God of heaven: for his mercy endureth for ever.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **136:8** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-136-8|printed citation]]
-- **136:9** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-136-9|printed citation]]
+- **136:9** — Concept hub: [[Symbols & Concepts/Moon|Moon]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-136-9|printed citation]]
 <!-- cited-by:end -->

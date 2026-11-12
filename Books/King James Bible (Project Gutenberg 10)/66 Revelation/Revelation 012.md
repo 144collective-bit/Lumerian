@@ -135,9 +135,9 @@ And the dragon was wroth with the woman, and went to make war with the remnant o
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/yao-celestial-emperor__revelation-12-chapter|YAO, CELESTIAL EMPEROR]]
-- **12:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/crown-of-twelve-stars__revelation-12-1|CROWN OF TWELVE STARS]]
+- **12:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/crown-of-twelve-stars__revelation-12-1|CROWN OF TWELVE STARS]] · Concept hub: [[Symbols & Concepts/Moon|Moon]]; [[Symbols & Concepts/Woman|Woman]]
 - **12:3** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/horns-ten-of-the-dragon__revelation-12-3|HORNS, TEN, OF THE DRAGON]]
 - **12:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/birth-of-the-man-child__revelation-12-5|BIRTH OF THE MAN-CHILD]]
-- **12:9** — Concept hub: [[Symbols & Concepts/Serpent|Serpent]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-12-9|printed citation ×2]]
+- **12:9** — Concept hub: [[Symbols & Concepts/Heaven|Heaven]]; [[Symbols & Concepts/Serpent|Serpent]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-12-9|printed citation ×2]]
 - **12:10** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Revelation-12-10|printed citation]]
 <!-- cited-by:end -->

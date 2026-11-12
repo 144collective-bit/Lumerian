@@ -69,4 +69,5 @@ Symbolic of five energies of conscious life in the soul, both higher and lower. 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]]; [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]]; [[Reference/Gaskell/Entries/H/HIGHER AND NATURES|HIGHER AND NATURES]]; [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]]; [[Reference/Gaskell/Entries/L/LINGAM, THE SUBTILE BODY|LINGAM, THE SUBTILE BODY]]; [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]]; [[Reference/Gaskell/Entries/S/SAHU OF OSIRIS|SAHU OF OSIRIS]]; [[Reference/Gaskell/Entries/S/SENSE SENSE ORGANS, OR FIVE ORGANS OF KNOWLEDGE|SENSE SENSE ORGANS, OR FIVE ORGANS OF KNOWLEDGE]]; [[Reference/Gaskell/Entries/S/SKANDHAS, FIVE|SKANDHAS, FIVE]]; [[Reference/Gaskell/Entries/V/VISHNU VISCERA, OR VITALS|VISHNU VISCERA, OR VITALS]]; [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]]
+- **Concept hub:** [[Symbols & Concepts/Heart|Heart]]
 <!-- cited-by:end -->

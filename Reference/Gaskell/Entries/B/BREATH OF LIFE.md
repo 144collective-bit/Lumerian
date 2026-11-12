@@ -60,4 +60,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/breath-of-life__genesis-2-7|BREATH OF LIFE]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/F/FLESH IN WHICH IS LIFE|FLESH IN WHICH IS LIFE]]; [[Reference/Gaskell/Entries/M/MAN, OR MEN|MAN, OR MEN]]
+- **Concept hub:** [[Symbols & Concepts/Breath|Breath]]
 <!-- cited-by:end -->

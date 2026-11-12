@@ -58,4 +58,5 @@ A symbol of the physical nature, or the physical plane, as the lowest plane of m
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/earth-specialised__genesis-1-22|EARTH (SPECIALISED)]]
+- **Concept hub:** [[Symbols & Concepts/Earth|Earth]]
 <!-- cited-by:end -->

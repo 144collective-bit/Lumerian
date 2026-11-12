@@ -68,5 +68,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/crown-of-twelve-stars__revelation-12-1|CROWN OF TWELVE STARS]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]]; [[Reference/Gaskell/Entries/B/BIRTH OF THE MAN-CHILD|BIRTH OF THE MAN-CHILD]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]; [[Symbols & Concepts/Woman|Woman]]
 - **Hall:** [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/46-The-Mystery-of-the-Apocalypse|Evidence — The Mystery of the Apocalypse]]
 <!-- cited-by:end -->

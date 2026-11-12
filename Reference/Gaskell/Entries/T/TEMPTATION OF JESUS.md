@@ -69,4 +69,5 @@ A symbolic epitome of the soul’s evolution from the period when TEN the Son of
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]]; [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]]; [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]]; [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]]; [[Reference/Gaskell/Entries/J/JESUS OF THE GOSPELS|JESUS OF THE GOSPELS]]; [[Reference/Gaskell/Entries/K/KINGDOMS OF THE WORLD|KINGDOMS OF THE WORLD]]; [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]]; [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]]
+- **Concept hub:** [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

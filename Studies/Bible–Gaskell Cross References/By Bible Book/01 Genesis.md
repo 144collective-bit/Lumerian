@@ -44,13 +44,13 @@ tags:
 - [[Studies/Bible–Gaskell Cross References/Bridges/days__genesis-1-5|Genesis 1:5]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/depravity-universal__genesis-6-5|Genesis 6:5]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/dove-or-pigeon__genesis-8-8|Genesis 8:8]] ← parser-validated
-- [[Studies/Bible–Gaskell Cross References/Bridges/earth__genesis-50-23|Genesis 50:23]] ← parser-validated
+- [[Studies/Bible–Gaskell Cross References/Bridges/earth__genesis-3-23|Genesis 3:23]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/earth-specialised__genesis-1-22|Genesis 1:22]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/eden-garden-of__genesis-2-8|Genesis 2:8]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-21-9|Genesis 21:9]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-5|Genesis 3:5]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-7|Genesis 3:7]] ← parser-validated
-- [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-50-7|Genesis 50:7]] ← parser-validated
+- [[Studies/Bible–Gaskell Cross References/Bridges/eye-or-eyesight__genesis-3-7|Genesis 3:7]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/face-of-the-ground__genesis-4-14|Genesis 4:14]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/fig-leaves-as-aprons__genesis-3-7|Genesis 3:7]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/firmament__genesis-1-6|Genesis 1:6]] ← parser-validated
@@ -58,7 +58,7 @@ tags:
 - [[Studies/Bible–Gaskell Cross References/Bridges/flood-of-noah__genesis-7-17-19|Genesis 7:17-19]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/flood-of-noah__genesis-8-2|Genesis 8:2]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/food-for-man__genesis-6-21|Genesis 6:21]] ← parser-validated
-- [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-44-4|Genesis 44:4]] ← parser-validated
+- [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-7-4|Genesis 7:4]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/fountains-of-the-deep__genesis-8-2|Genesis 8:2]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/fruit-of-the-ground__genesis-4-3|Genesis 4:3]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/fruit-tree-bearing-fruit-and-seed__genesis-1-29|Genesis 1:29]] ← parser-validated
@@ -106,7 +106,7 @@ tags:
 - [[Studies/Bible–Gaskell Cross References/Bridges/walking-with-god__genesis-5-23|Genesis 5:23]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/water-lower-aspect__genesis-1-9|Genesis 1:9]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/wheat-whales-or-great-seamonsters__genesis-1-21|Genesis 1:21]] ← parser-validated
-- [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-49-24|Genesis 49:24]] ← parser-validated
+- [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-2-24|Genesis 2:24]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/window-window-of-ark-of-noah__genesis-6-16|Genesis 6:16]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/windows-of-heaven-stopped__genesis-8-2|Genesis 8:2]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/world__genesis-1-10|Genesis 1:10]] ← parser-validated

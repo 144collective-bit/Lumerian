@@ -59,4 +59,5 @@ Symbolic of the spiritual and the material aspects of existence. Perception and 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]]
+- **Concept hub:** [[Symbols & Concepts/Darkness|Darkness]]
 <!-- cited-by:end -->

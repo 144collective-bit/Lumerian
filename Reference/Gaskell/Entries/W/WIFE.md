@@ -72,6 +72,7 @@ A symbol of the emotion-nature (woman) in alliance with the mind (man). ** There
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-49-24|WIFE]]
+- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/wife__genesis-2-24|WIFE]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/E/EPIMETHEUS (AFTERTHOUGHT)|EPIMETHEUS (AFTERTHOUGHT)]]; [[Reference/Gaskell/Entries/G/GILGAMES AND EA-BANI|GILGAMES AND EA-BANI]]; [[Reference/Gaskell/Entries/H/HOUSE PROVIDED WITH FIRE, CATTLE, WIFE, SON, AND PLENTY|HOUSE PROVIDED WITH FIRE, CATTLE, WIFE, SON, AND PLENTY]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]]; [[Reference/Gaskell/Entries/M/MALE-FEMALE OF THE DIVINE NATURE|MALE-FEMALE OF THE DIVINE NATURE]]; [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]]; [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]]; [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]]
+- **Concept hub:** [[Symbols & Concepts/Woman|Woman]]
 <!-- cited-by:end -->

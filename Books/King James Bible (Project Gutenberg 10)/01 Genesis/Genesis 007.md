@@ -176,7 +176,8 @@ And the waters prevailed upon the earth an hundred and fifty days.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **7:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sacrifice-beasts-clean__genesis-7-2|SACRIFICE, BEASTS, CLEAN]]
+- **7:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sacrifice-beasts-clean__genesis-7-2|SACRIFICE, BEASTS, CLEAN]] · Concept hub: [[Symbols & Concepts/Sacrifice|Sacrifice]]
+- **7:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-7-4|FORTY DAYS AND NIGHTS]]
 - **7:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/s-sons__genesis-7-7|S SONS]]
 - **7:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/beasts-unclean__genesis-7-8|BEASTS, UNCLEAN]]
 - **7:17** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/flood-of-noah__genesis-7-17-19|FLOOD OF NOAH]]

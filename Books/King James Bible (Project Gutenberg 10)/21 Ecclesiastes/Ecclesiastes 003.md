@@ -164,5 +164,5 @@ Wherefore I perceive that there is nothing better, than that a man should rejoic
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **3:11** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ecclesiastes-3-11|printed citation]]
+- **3:11** — Concept hub: [[Symbols & Concepts/Involution|Involution]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Ecclesiastes-3-11|printed citation]]
 <!-- cited-by:end -->

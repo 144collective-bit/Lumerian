@@ -99,6 +99,6 @@ Thou art worthy, O Lord, to receive glory and honour and power: for thou hast cr
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Hall: [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/Hall__Revelation-4-4|Hall *Mystic Christianity* ↔ Revelation 4:4 (twenty-four elders)]]
-- **4:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/colours__revelation-4-1|COLOURS]]
+- **4:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/colours__revelation-4-1|COLOURS]] · Concept hub: [[Symbols & Concepts/Heaven|Heaven]]
 - **4:5** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Revelation-4-5|printed citation]]
 <!-- cited-by:end -->

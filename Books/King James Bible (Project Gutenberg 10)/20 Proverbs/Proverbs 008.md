@@ -253,7 +253,7 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **8:22** — Concept hub: [[Symbols & Concepts/Wisdom and Sophia|Wisdom and Sophia]]
 - **8:23** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/dharma-or-prajna__proverbs-8-23|DHARMA OR PRAJNA]]; [[Studies/Bible–Gaskell Cross References/Bridges/fountain-of-water__proverbs-8-23|FOUNTAIN OF WATER]]; [[Studies/Bible–Gaskell Cross References/Bridges/sun__proverbs-8-23|SUN]]; [[Studies/Bible–Gaskell Cross References/Bridges/veil-of-isis__proverbs-8-23|VEIL OF ISIS]] · Concept hub: [[Symbols & Concepts/Isis|Isis]]; [[Symbols & Concepts/Veil|Veil]]; [[Symbols & Concepts/Wisdom and Sophia|Wisdom and Sophia]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Proverbs-8-23|printed citation]]
 - **8:24** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/deep-or-depths__proverbs-8-24|DEEP OR DEPTHS]]
-- **8:27** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/zodiac-of-twelve-signs__proverbs-8-27|ZODIAC OF TWELVE SIGNS]]
+- **8:27** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/zodiac-of-twelve-signs__proverbs-8-27|ZODIAC OF TWELVE SIGNS]] · Concept hub: [[Symbols & Concepts/Zodiac|Zodiac]]
 - **8:28** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/fountains-of-the-deep__proverbs-8-28|FOUNTAINS OF THE DEEP]]; [[Studies/Bible–Gaskell Cross References/Bridges/sky-or-skies__proverbs-8-28|SKY, OR SKIES]]
 - **8:30** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/wisdom-masculine__proverbs-8-30|WISDOM (MASCULINE)]] · Concept hub: [[Symbols & Concepts/Wisdom and Sophia|Wisdom and Sophia]]
 <!-- cited-by:end -->

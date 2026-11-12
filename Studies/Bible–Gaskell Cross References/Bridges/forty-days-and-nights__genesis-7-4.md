@@ -1,16 +1,16 @@
 ---
 type: bible-gaskell-bridge
 tier: explicit_citation
-evidence_quality: explicit_citation_parser_validated_unreviewed
+evidence_quality: explicit_citation_ocr_numeral_corrected
 gaskell_entry_id: gaskell-1960-entry-forty-days-and-nights
-bible_ref: "Genesis 44:4"
+bible_ref: "Genesis 7:4"
 created: 2026-11-06
 tags:
   - crossref/bible-gaskell
   - tier/citation
 ---
 
-# FORTY DAYS AND NIGHTS → Genesis 44:4
+# FORTY DAYS AND NIGHTS → Genesis 7:4
 
 **Tier:** `explicit_citation` — reference resolution is **not** a claim that Gaskell’s wording equals the KJV text, nor that the symbols agree.
 
@@ -27,10 +27,11 @@ tags:
 
 ## Bible targets (installed PG#10 KJV)
 
-- [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 044#^kjv-gen-44-4|Genesis 44:4]]
+- [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 007#^kjv-gen-7-4|Genesis 7:4]]
 
 ## Provenance notes
 
 - Parser-validated against installed verse/chapter IDs.
 - Evidence quality: `explicit_citation_parser_validated_unreviewed`.
 - Do not treat this bridge as interpretive agreement.
+- Corrected 12 November 2026: the OCR chapter numeral `vil` is a misread `vii`. The import resolved it to Genesis 44:4; the words Gaskell quotes are Genesis 7:4.

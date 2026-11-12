@@ -71,4 +71,5 @@ This is the higher mental Self which arises from the duality of mind and emotion
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]]; [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]]; [[Reference/Gaskell/Entries/N/NACHIKETAS, SON OF VAJASRAVASA|NACHIKETAS, SON OF VAJASRAVASA]]; [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]]; [[Reference/Gaskell/Entries/S/SLEEP AND WAKING|SLEEP AND WAKING]]; [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]]; [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]]
+- **Concept hub:** [[Symbols & Concepts/Personality|Personality]]
 <!-- cited-by:end -->

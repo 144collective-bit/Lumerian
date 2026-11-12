@@ -314,7 +314,7 @@ Praising God, and having favour with all the people. And the Lord added to the c
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **2:22** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Acts-2-22|printed citation]]
+- **2:22** — Concept hub: [[Symbols & Concepts/Jesus|Jesus]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Acts-2-22|printed citation]]
 - **2:44** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Acts-2-44|printed citation]]
 - **2:45** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Acts-2-45|printed citation]]
 <!-- cited-by:end -->

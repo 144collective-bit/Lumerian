@@ -308,6 +308,5 @@ And these shall go away into everlasting punishment: but the righteous into life
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **25:2** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-25-2|ROCK SEPULCHRE]]
 - **25:33** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/sheep__matthew-25-33|SHEEP]]
 <!-- cited-by:end -->

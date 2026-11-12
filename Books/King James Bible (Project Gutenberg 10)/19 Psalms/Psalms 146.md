@@ -93,6 +93,6 @@ The LORD shall reign for ever, even thy God, O Zion, unto all generations. Prais
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Whole chapter** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/waves-of-the-sea__psalms-146-chapter|WAVES OF THE SEA]]
-- **146:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/darkness-lower-aspect__psalms-146-4|DARKNESS—LOWER ASPECT]]
-- **146:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/man-blind__psalms-146-8|MAN, BLIND]]
+- **146:4** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/darkness-lower-aspect__psalms-146-4|DARKNESS—LOWER ASPECT]] · Concept hub: [[Symbols & Concepts/Breath|Breath]]
+- **146:8** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/man-blind__psalms-146-8|MAN, BLIND]] · Concept hub: [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

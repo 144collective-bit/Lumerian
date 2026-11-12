@@ -62,4 +62,5 @@ Symbols of emanation, to which the forthpouring from the Absolute is comparable.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/wind-word-spirit-marut-breath__psalms-104-3|WIND, WORD, SPIRIT, MARUT, BREATH]]
+- **Concept hub:** [[Symbols & Concepts/Breath|Breath]]
 <!-- cited-by:end -->

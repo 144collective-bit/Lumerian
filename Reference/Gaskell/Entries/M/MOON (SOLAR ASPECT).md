@@ -62,4 +62,5 @@ A symbol of the lower self—the Personality. This includes the astral principle
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/L/LUNAR CYCLE OF MANIFESTATION|LUNAR CYCLE OF MANIFESTATION]]; [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

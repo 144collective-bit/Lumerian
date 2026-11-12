@@ -194,7 +194,7 @@ But if ye will not hearken unto me to hallow the sabbath day, and not to bear a 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **17:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/fruit__jeremiah-17-10|FRUIT]]
+- **17:10** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/fruit__jeremiah-17-10|FRUIT]] · Concept hub: [[Symbols & Concepts/Heart|Heart]]
 - **17:11** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/legs-leaves__jeremiah-17-11|LEGS LEAVES]]; [[Studies/Bible–Gaskell Cross References/Bridges/vessel-or-receptacle__jeremiah-17-11|VESSEL, OR RECEPTACLE]]
 - **17:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/healing__jeremiah-17-14|HEALING]]
 <!-- cited-by:end -->

@@ -335,5 +335,5 @@ And I know that his commandment is life everlasting: whatsoever I speak therefor
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **12:24** — Concept hub: [[Symbols & Concepts/Death, Resurrection, and Initiation|Death, Resurrection, and Initiation]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-12-24|printed citation]]
+- **12:24** — Concept hub: [[Symbols & Concepts/Death, Resurrection, and Initiation|Death, Resurrection, and Initiation]]; [[Symbols & Concepts/Seed|Seed]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Crossrefs/Supported Connections|Supported connections]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - Second Book The Redeemed|Thematic reading — Second Book (The Redeemed)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__John-12-24|printed citation]]
 <!-- cited-by:end -->

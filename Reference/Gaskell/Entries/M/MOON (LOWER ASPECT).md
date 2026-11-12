@@ -71,4 +71,5 @@ A symbol of the astral plane, the plane of the desires by means of which the sou
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/M/MOON-WANING PERIOD, OR THE DEVAYANA|MOON—WANING PERIOD, OR THE DEVAYANA]]; [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]]; [[Reference/Gaskell/Entries/T/THE FIRMAMENT|THE FIRMAMENT]]; [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

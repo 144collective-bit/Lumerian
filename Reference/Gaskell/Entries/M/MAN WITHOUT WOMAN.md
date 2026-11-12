@@ -58,4 +58,5 @@ A symbol of mind subject to desire and uninfluenced by emotion (woman). ‘*Man 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]]; [[Reference/Gaskell/Entries/C/CORPSE-CARRYING|CORPSE-CARRYING]]; [[Reference/Gaskell/Entries/D/DUNG OF FLOCKS AND HERDS FERTILISING THE GROUND|DUNG OF FLOCKS AND HERDS FERTILISING THE GROUND]]; [[Reference/Gaskell/Entries/F/FLOCKS PASSING GROUND|FLOCKS PASSING GROUND]]; [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]]; [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]]; [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]]; [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]]; [[Reference/Gaskell/Entries/W/WIFE|WIFE]]; [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]]
+- **Concept hub:** [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

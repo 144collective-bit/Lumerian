@@ -61,4 +61,5 @@ A symbol of the kama-manas, or lower mind; the mountains on each side signifying
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]]; [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]]; [[Reference/Gaskell/Entries/H/HOLLOW OF THE HILLS|HOLLOW OF THE HILLS]]; [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/N/NAVIGATION (MARITIME)|NAVIGATION (MARITIME)]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]]
+- **Concept hub:** [[Symbols & Concepts/Mountain|Mountain]]
 <!-- cited-by:end -->

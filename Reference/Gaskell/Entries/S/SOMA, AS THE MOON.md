@@ -72,4 +72,5 @@ A symbol of the Divine Life reflected upon the astral plane as desire which is i
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]]; [[Reference/Gaskell/Entries/L/LUNAR CHAIN OF GLOBES|LUNAR CHAIN OF GLOBES]]; [[Reference/Gaskell/Entries/M/MOON (SOLAR ASPECT)|MOON (SOLAR ASPECT)]]; [[Reference/Gaskell/Entries/O/OUT787 VEHICLES VEDA, OR SASTRA|OUT787 VEHICLES VEDA, OR SASTRA]]; [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]]; [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]]; [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]]; [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]]; [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VRITRA DEMON|VRITRA DEMON]]; [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

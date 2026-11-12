@@ -161,5 +161,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 - **10:7** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/deep-or-depths__romans-10-7|DEEP OR DEPTHS]]
 - **10:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Romans-10-8|printed citation]]
 - **10:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-10-16|printed citation]]
-- **10:18** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-10-18|printed citation]]
+- **10:18** — Concept hub: [[Symbols & Concepts/Earth|Earth]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Romans-10-18|printed citation]]
 <!-- cited-by:end -->

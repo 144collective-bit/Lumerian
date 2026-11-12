@@ -110,5 +110,5 @@ Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **96:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-96-13|printed citation]]
+- **96:13** — Concept hub: [[Symbols & Concepts/Earth|Earth]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Notes/Thematic Reading - First Book The Redeemer|Thematic reading — First Book (The Redeemer)]]; [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Psalms-96-13|printed citation]]
 <!-- cited-by:end -->

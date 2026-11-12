@@ -116,5 +116,5 @@ For this God is our God for ever and ever: he will be our guide even unto death.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **48:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/mountain-or-mount__psalms-48-1|MOUNTAIN OR MOUNT]]
+- **48:1** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/mountain-or-mount__psalms-48-1|MOUNTAIN OR MOUNT]] · Concept hub: [[Symbols & Concepts/Mountain|Mountain]]
 <!-- cited-by:end -->

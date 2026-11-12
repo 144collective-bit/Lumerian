@@ -213,4 +213,5 @@ For my yoke is easy, and my burden is light.
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **11:12** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/helen-of-troy__matthew-11-12|HELEN OF TROY]]; [[Studies/Bible–Gaskell Cross References/Bridges/horne-cherubim-and-seraphim__matthew-11-12|HORNE, CHERUBIM AND SERAPHIM]]
+- **11:25** — Concept hub: [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

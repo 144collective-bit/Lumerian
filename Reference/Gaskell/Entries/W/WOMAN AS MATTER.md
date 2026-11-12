@@ -60,4 +60,5 @@ A symbol of the veil of matter in which manifestation takes place. Matter is the
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/woman-as-matter__galatians-4-4|WOMAN AS MATTER]]
+- **Concept hub:** [[Symbols & Concepts/Woman|Woman]]
 <!-- cited-by:end -->

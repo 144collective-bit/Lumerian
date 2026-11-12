@@ -70,4 +70,5 @@ Symbols of Spirit and Matter, or of the higher and lower natures. **Men had but 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/R/RONGO-MATANE|RONGO-MATANE]]; [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]]; [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]]
+- **Concept hub:** [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

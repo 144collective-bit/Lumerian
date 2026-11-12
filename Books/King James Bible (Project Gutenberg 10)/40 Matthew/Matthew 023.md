@@ -266,5 +266,5 @@ For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed i
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **23:33** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/jesus-described-as-severe-and-turbulent__matthew-23-33|JESUS, DESCRIBED AS SEVERE AND TURBULENT]]
+- **23:33** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/jesus-described-as-severe-and-turbulent__matthew-23-33|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] · Concept hub: [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

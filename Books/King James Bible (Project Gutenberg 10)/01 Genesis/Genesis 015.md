@@ -158,5 +158,5 @@ And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **15:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-15-5|printed citation]]
+- **15:5** — Concept hub: [[Symbols & Concepts/Seed|Seed]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-15-5|printed citation]]
 <!-- cited-by:end -->

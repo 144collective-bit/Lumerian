@@ -141,6 +141,6 @@ And Moses went into the midst of the cloud, and gat him up into the mount: and M
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **24:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Exodus-24-9|printed citation]]
-- **24:10** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Exodus-24-10|printed citation ×2]]
+- **24:10** — Concept hub: [[Symbols & Concepts/Heaven|Heaven]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Exodus-24-10|printed citation ×2]]
 - **24:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Exodus-24-17|printed citation]]
 <!-- cited-by:end -->

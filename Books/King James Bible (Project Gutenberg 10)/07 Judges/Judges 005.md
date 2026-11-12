@@ -219,4 +219,5 @@ So let all thine enemies perish, O LORD: but let them that love him be as the su
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **5:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Judges-5-16|printed citation]]
+- **5:20** — Concept hub: [[Symbols & Concepts/Zodiac|Zodiac]]
 <!-- cited-by:end -->

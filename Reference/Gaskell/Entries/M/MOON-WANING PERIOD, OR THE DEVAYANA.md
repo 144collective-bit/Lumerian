@@ -76,4 +76,5 @@ A symbol of the present period of the evolution of humanity in which, as time pr
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]
 <!-- cited-by:end -->

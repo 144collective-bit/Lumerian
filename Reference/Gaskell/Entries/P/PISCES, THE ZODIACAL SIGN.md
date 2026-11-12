@@ -61,4 +61,5 @@ A symbol of the twelfth period of the cycle of life, which is the final period o
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]]; [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]]; [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]]; [[Reference/Gaskell/Entries/I/IABRAOTH AND ADAMAS|IABRAOTH AND ADAMAS]]; [[Reference/Gaskell/Entries/J/JESUS JESUS WEPT|JESUS JESUS WEPT]]; [[Reference/Gaskell/Entries/S/SUN MOTIONLESS ZENITH|SUN MOTIONLESS ZENITH]]; [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]]
+- **Concept hub:** [[Symbols & Concepts/Zodiac|Zodiac]]
 <!-- cited-by:end -->

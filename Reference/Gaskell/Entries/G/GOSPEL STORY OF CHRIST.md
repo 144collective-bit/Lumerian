@@ -68,4 +68,5 @@ A Divine Drama of the Soul’s descent in Involution, ascent in Evolution, and f
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ARCHETYPAL MAN|ARCHETYPAL MAN]]; [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]]; [[Reference/Gaskell/Entries/J/JESUS JESUS THY SERVANT|JESUS JESUS THY SERVANT]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]]
+- **Concept hub:** [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

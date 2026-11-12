@@ -254,6 +254,6 @@ And he did that which was evil in the sight of the LORD, according to all that h
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **23:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__2-Kings-23-5|printed citation]]
+- **23:5** — Concept hub: [[Symbols & Concepts/Zodiac|Zodiac]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__2-Kings-23-5|printed citation]]
 - **23:7** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__2-Kings-23-7|printed citation]]
 <!-- cited-by:end -->

@@ -59,4 +59,5 @@ Symbols of the higher nature and the lower nature—the Triad and the Quaternary
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]]
+- **Concept hub:** [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

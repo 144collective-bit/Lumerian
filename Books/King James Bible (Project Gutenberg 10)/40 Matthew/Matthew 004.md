@@ -182,7 +182,7 @@ And there followed him great multitudes of people from Galilee, and from Decapol
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **4:8** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-4-8|printed citation]]
+- **4:8** — Concept hub: [[Symbols & Concepts/Mountain|Mountain]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-4-8|printed citation]]
 - **4:9** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-4-9|printed citation]]
 - **4:19** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-4-19|printed citation]]
 <!-- cited-by:end -->

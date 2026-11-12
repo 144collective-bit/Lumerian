@@ -71,4 +71,5 @@ This symbol signifies properly the feminine aspect of the Divine Trinity, and ha
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/E/EAGLE|EAGLE]]; [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]]; [[Reference/Gaskell/Entries/F/FIRE|FIRE]]; [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]]; [[Reference/Gaskell/Entries/P/PROMISES OF GOD|PROMISES OF GOD]]; [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]]; [[Reference/Gaskell/Entries/V/VEIL OF ISIS|VEIL OF ISIS]]; [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]]; [[Reference/Gaskell/Entries/W/WITNESSES, THREE, IN HEAVEN|WITNESSES, THREE, IN HEAVEN]]
+- **Concept hub:** [[Symbols & Concepts/Breath|Breath]]
 <!-- cited-by:end -->

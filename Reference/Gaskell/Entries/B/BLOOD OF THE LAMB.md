@@ -72,4 +72,5 @@ A symbol of the Divine Life primordially involved in the World-soul. ‘*These a
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HORSE HORSE, SACRIFICIAL|HORSE HORSE, SACRIFICIAL]]; [[Reference/Gaskell/Entries/L/LEPER|LEPER]]
+- **Concept hub:** [[Symbols & Concepts/Incarnation|Incarnation]]
 <!-- cited-by:end -->

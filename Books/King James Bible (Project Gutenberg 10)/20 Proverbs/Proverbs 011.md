@@ -218,5 +218,5 @@ Behold, the righteous shall be recompensed in the earth: much more the wicked an
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **11:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/man-bad-or-wicked__proverbs-11-5|MAN, BAD, OR WICKED]]
+- **11:5** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/man-bad-or-wicked__proverbs-11-5|MAN, BAD, OR WICKED]] · Concept hub: [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

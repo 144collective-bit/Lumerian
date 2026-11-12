@@ -69,4 +69,5 @@ Symbolic of the purified emotionnature giving birth to the Christ-soul. 793 VIRG
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]]; [[Reference/Gaskell/Entries/C/CHRIST-PRINCIPLE|CHRIST-PRINCIPLE]]; [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]]; [[Reference/Gaskell/Entries/E/ESTHER, BOOK OF|ESTHER, BOOK OF]]; [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]]; [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]]; [[Reference/Gaskell/Entries/L/LEAVEN (HIGHER ASPECT)|LEAVEN (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/L/LOVER OF THE HEAVENLY MAIDEN|LOVER OF THE HEAVENLY MAIDEN]]; [[Reference/Gaskell/Entries/R/RITUAL AND CEREMONIAL|RITUAL AND CEREMONIAL]]; [[Reference/Gaskell/Entries/T/TIPHYS, THE SON OF AGNIUS|TIPHYS, THE SON OF AGNIUS]]
+- **Concept hub:** [[Symbols & Concepts/Woman|Woman]]
 <!-- cited-by:end -->

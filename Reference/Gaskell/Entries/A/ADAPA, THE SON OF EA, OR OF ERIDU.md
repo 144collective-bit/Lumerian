@@ -63,4 +63,5 @@ A symbol of the Archetypal Man, son of the First Logos, the Lord from Heaven, â€
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/G/GATES OF ERIDU|GATES OF ERIDU]]; [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]]; [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]]
+- **Concept hub:** [[Symbols & Concepts/Personality|Personality]]
 <!-- cited-by:end -->

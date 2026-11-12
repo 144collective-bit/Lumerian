@@ -231,10 +231,10 @@ For Tophet is ordained of old; yea, for the king it is prepared; he hath made it
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **30:27** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
-- **30:28** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
+- **30:28** — Concept hub: [[Symbols & Concepts/Breath|Breath]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
 - **30:29** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
 - **30:30** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
 - **30:31** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
 - **30:32** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
-- **30:33** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
+- **30:33** — Concept hub: [[Symbols & Concepts/Breath|Breath]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Isaiah-30-27-33|printed citation]]
 <!-- cited-by:end -->

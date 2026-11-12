@@ -62,4 +62,5 @@ A symbol of the purifying (fire) buddhic process, by which the lower qualities a
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]]; [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]]
+- **Concept hub:** [[Symbols & Concepts/Sacrifice|Sacrifice]]
 <!-- cited-by:end -->

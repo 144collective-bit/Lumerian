@@ -59,4 +59,5 @@ A symbol of ignorance and error, that is, the absence of the real, the true. ** 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/scarabazus-scapegoat__leviticus-16-7|SCARABAZUS SCAPEGOAT]]
+- **Concept hub:** [[Symbols & Concepts/Sacrifice|Sacrifice]]
 <!-- cited-by:end -->

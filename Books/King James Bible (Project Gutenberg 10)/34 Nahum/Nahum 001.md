@@ -122,6 +122,6 @@ Behold upon the mountains the feet of him that bringeth good tidings, that publi
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **1:5** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Nahum-1-5|printed citation]]
+- **1:5** — Concept hub: [[Symbols & Concepts/Mountain|Mountain]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Nahum-1-5|printed citation]]
 - **1:6** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Nahum-1-6|printed citation ×2]]
 <!-- cited-by:end -->

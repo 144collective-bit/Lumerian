@@ -158,7 +158,7 @@ And lest, when I come again, my God will humble me among you, and that I shall b
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **12:2** — Concept hub: [[Symbols & Concepts/Tree of Life|Tree of Life]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Analytical Overview|Analytical overview (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
+- **12:2** — Concept hub: [[Symbols & Concepts/Heaven|Heaven]]; [[Symbols & Concepts/Tree of Life|Tree of Life]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Analytical Overview|Analytical overview (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 - **12:4** — Concept hub: [[Symbols & Concepts/Tree of Life|Tree of Life]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Notes/Analytical Overview|Analytical overview (from prose actually read)]]; [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Crossrefs/Supported Connections|Supported connections (from prose actually read)]]
 - **12:14** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/parents-of-children__2-corinthians-12-14|PARENTS OF CHILDREN]]
 <!-- cited-by:end -->

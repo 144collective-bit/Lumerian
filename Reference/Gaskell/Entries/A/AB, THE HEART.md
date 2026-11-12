@@ -81,4 +81,5 @@ A symbol of the causal-self, or the atma-buddhic principle in the causalbody,—
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/H/HEART|HEART]]
+- **Concept hub:** [[Symbols & Concepts/Heart|Heart]]
 <!-- cited-by:end -->

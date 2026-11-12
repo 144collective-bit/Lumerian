@@ -65,4 +65,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/jesus-described-as-severe-and-turbulent__matthew-23-33|JESUS, DESCRIBED AS SEVERE AND TURBULENT]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]]; [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]]
+- **Concept hub:** [[Symbols & Concepts/Jesus|Jesus]]
 <!-- cited-by:end -->

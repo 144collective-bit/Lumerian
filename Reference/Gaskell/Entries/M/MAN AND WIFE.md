@@ -68,4 +68,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/man-and-wife__genesis-2-24|MAN AND WIFE]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/D/DISTRESSED WORLD|DISTRESSED WORLD]]; [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]]; [[Reference/Gaskell/Entries/G/GARMENT OF SHAME|GARMENT OF SHAME]]; [[Reference/Gaskell/Entries/H/HIDING FROM GOD|HIDING FROM GOD]]; [[Reference/Gaskell/Entries/H/HUSBAND AND WIFE|HUSBAND AND WIFE]]; [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]]; [[Reference/Gaskell/Entries/M/MASCULINE PRINCIPLE|MASCULINE PRINCIPLE]]; [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),—THE FIRST HUMAN PAIR]]; [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]]; [[Reference/Gaskell/Entries/W/WIFE|WIFE]]; [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]]
+- **Concept hub:** [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

@@ -56,6 +56,6 @@ A complete series of re-incarnations in a stage or period of the soul’s evolut
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-44-4|FORTY DAYS AND NIGHTS]]
+- **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/forty-days-and-nights__genesis-7-4|FORTY DAYS AND NIGHTS]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/F/F GOD, EGYPTIANS|F GOD, EGYPTIANS]]; [[Reference/Gaskell/Entries/F/FACE OF THE GROUND|FACE OF THE GROUND]]; [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]]
 <!-- cited-by:end -->

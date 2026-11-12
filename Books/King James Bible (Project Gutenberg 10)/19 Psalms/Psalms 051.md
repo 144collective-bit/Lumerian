@@ -146,5 +146,5 @@ Then shalt thou be pleased with the sacrifices of righteousness, with burnt offe
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **51:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/potsherd__psalms-51-16|POTSHERD]]
+- **51:16** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/potsherd__psalms-51-16|POTSHERD]] · Concept hub: [[Symbols & Concepts/Sacrifice|Sacrifice]]
 <!-- cited-by:end -->

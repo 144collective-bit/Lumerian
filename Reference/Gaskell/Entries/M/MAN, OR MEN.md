@@ -76,4 +76,5 @@ A universal symbol of mind in two aspects, higher mind or lower. It signifies in
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/man-or-men__genesis-3-16|MAN, OR MEN]]
+- **Concept hub:** [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

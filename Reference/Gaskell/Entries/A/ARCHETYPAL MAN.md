@@ -132,4 +132,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__1-corinthians-15-24-28|ARCHETYPAL MAN]]; [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__1-corinthians-3-11|ARCHETYPAL MAN]]; [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__1-corinthians-8-6|ARCHETYPAL MAN]]; [[Studies/Bible–Gaskell Cross References/Bridges/archetypal-man__genesis-2-2|ARCHETYPAL MAN]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/R/RAGHA LAND|RAGHA LAND]]
+- **Concept hub:** [[Symbols & Concepts/Evolution|Evolution]]; [[Symbols & Concepts/Incarnation|Incarnation]]; [[Symbols & Concepts/Involution|Involution]]; [[Symbols & Concepts/Man|Man]]; [[Symbols & Concepts/Zodiac|Zodiac]]
 <!-- cited-by:end -->

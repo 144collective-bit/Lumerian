@@ -176,7 +176,7 @@ And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Th
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **22:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ram-of-sacrifice__genesis-22-13|RAM OF SACRIFICE]]
+- **22:13** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/ram-of-sacrifice__genesis-22-13|RAM OF SACRIFICE]] · Concept hub: [[Symbols & Concepts/Sacrifice|Sacrifice]]
 - **22:14** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Genesis-22-14|printed citation]]
-- **22:17** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-22-17|printed citation]]
+- **22:17** — Concept hub: [[Symbols & Concepts/Seed|Seed]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Genesis-22-17|printed citation]]
 <!-- cited-by:end -->

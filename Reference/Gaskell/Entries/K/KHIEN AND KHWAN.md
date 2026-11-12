@@ -65,4 +65,5 @@ Symbols of Spirit and Matter, the dual elements of manifestation. ‘* Khien is 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/A/ALITY, SOMA-JUICE, 831 YANG YANG AND YIN|ALITY, SOMA-JUICE, 831 YANG YANG AND YIN]]; [[Reference/Gaskell/Entries/E/EARTH ,-PRIMORDIAL|EARTH ,—PRIMORDIAL]]; [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]]; [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]]; [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]]; [[Reference/Gaskell/Entries/S/SEX PRINCIPLE IN DIVINE MANIFESTATION|SEX PRINCIPLE IN DIVINE MANIFESTATION]]; [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]]; [[Reference/Gaskell/Entries/S/SYSTEM|SYSTEM]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]]; [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]]
+- **Concept hub:** [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
 <!-- cited-by:end -->

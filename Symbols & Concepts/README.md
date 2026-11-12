@@ -48,6 +48,31 @@ Editorial groupings used while choosing those hubs (not identities): temple / ta
 
 See [[Studies/Linking Pass 3 - 2026-11-06|Linking pass 3]].
 
+## Hubs opened 12 November 2026
+
+The top 20 of the ranked list in [[Studies/Concept Hub Candidates - 2026-11-12|Concept hub candidates]]. Each was written from a scripted evidence dossier and a reading pass through the sources; links, verse IDs and quotations were checked by script.
+
+- [[Symbols & Concepts/Man|Man]]
+- [[Symbols & Concepts/Personality|Personality]]
+- [[Symbols & Concepts/Incarnation|Incarnation]]
+- [[Symbols & Concepts/Evolution|Evolution]]
+- [[Symbols & Concepts/Creation|Creation]]
+- [[Symbols & Concepts/Earth|Earth]]
+- [[Symbols & Concepts/Involution|Involution]]
+- [[Symbols & Concepts/Jesus|Jesus]]
+- [[Symbols & Concepts/Woman|Woman]]
+- [[Symbols & Concepts/Seed|Seed]]
+- [[Symbols & Concepts/Sacrifice|Sacrifice]]
+- [[Symbols & Concepts/Heaven and Earth|Heaven and Earth]]
+- [[Symbols & Concepts/Heart|Heart]]
+- [[Symbols & Concepts/Breath|Breath]]
+- [[Symbols & Concepts/Heaven|Heaven]]
+- [[Symbols & Concepts/Self|Self]]
+- [[Symbols & Concepts/Darkness|Darkness]]
+- [[Symbols & Concepts/Moon|Moon]]
+- [[Symbols & Concepts/Mountain|Mountain]]
+- [[Symbols & Concepts/Zodiac|Zodiac]]
+
 ## How to use
 
 1. Start at a hub, not at a keyword search alone.

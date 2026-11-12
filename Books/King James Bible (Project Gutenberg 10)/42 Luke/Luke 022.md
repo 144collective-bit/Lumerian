@@ -460,5 +460,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **22:42** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Luke-22-42|printed citation]]
 - **22:43** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Luke-22-43|printed citation]]
-- **22:53** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Luke-22-53|printed citation]]
+- **22:53** — Concept hub: [[Symbols & Concepts/Darkness|Darkness]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Luke-22-53|printed citation]]
 <!-- cited-by:end -->

@@ -59,4 +59,5 @@ A symbol of the lower quaternary, —the lower planes of the soul, or ‘* natur
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/land-dry__genesis-1-10|LAND, DRY]]
+- **Concept hub:** [[Symbols & Concepts/Earth|Earth]]
 <!-- cited-by:end -->

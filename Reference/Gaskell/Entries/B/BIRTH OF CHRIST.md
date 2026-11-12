@@ -85,6 +85,6 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/birth-of-christ__galatians-4-4|BIRTH OF CHRIST]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SWINE|SWINE]]; [[Reference/Gaskell/Entries/W/WOMAN AS MATTER|WOMAN AS MATTER]]
-- **Concept hub:** [[Symbols & Concepts/Christ|Christ]]
+- **Concept hub:** [[Symbols & Concepts/Christ|Christ]]; [[Symbols & Concepts/Incarnation|Incarnation]]
 - **Hall:** [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Notes/Atlantis and the Godsof Antiquity - Analytical Note|Atlantis and the Godsof Antiquity — analytical note (deep pass)]]; [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/07-Atlantis-and-the-Godsof-Antiquity|Evidence — Atlantis and the Godsof Antiquity]]; [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Evidence/Crossrefs/06-The-Ancient-Mysteries-and-Secret-Societies-Part-Three|Evidence — The Ancient Mysteries and Secret Societies Part Three]]; [[Books/The Secret Teachings of All Ages (Manly P. Hall)/Notes/The Ancient Mysteries and Secret Societies Part Three - Analytical Note|The Ancient Mysteries and Secret Societies Part Three — analytical …]]
 <!-- cited-by:end -->

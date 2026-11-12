@@ -40,7 +40,7 @@ tags:
 - [[Studies/Bible–Gaskell Cross References/Bridges/passion-of-jesus__matthew-26-38|Matthew 26:38]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/pilate-pontius__matthew-27-24|Matthew 27:24]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/reaping-after-sowing__matthew-13-28-30|Matthew 13:28-30]] ← parser-validated
-- [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-25-2|Matthew 25:2]] ← parser-validated
+- [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-28-2|Matthew 28:2]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/rock-sepulchre__matthew-27-60|Matthew 27:60]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/sheep__matthew-25-33|Matthew 25:33]] ← parser-validated
 - [[Studies/Bible–Gaskell Cross References/Bridges/ship-or-boat-on-the-sea__matthew-14-24|Matthew 14:24]] ← parser-validated

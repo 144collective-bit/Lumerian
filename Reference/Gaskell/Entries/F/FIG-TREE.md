@@ -59,4 +59,5 @@ A symbol of the Divine life in the scheme of things. The Tree of Life, which gro
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BIRDS, TWO, OF THE HOLY FIGTREE|BIRDS, TWO, OF THE HOLY FIGTREE]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/O/OAK-TREE|OAK-TREE]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]]; [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]]
+- **Concept hub:** [[Symbols & Concepts/Seed|Seed]]
 <!-- cited-by:end -->

@@ -242,5 +242,5 @@ And Samuel came no more to see Saul until the day of his death: nevertheless Sam
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **15:22** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Samuel-15-22|printed citation]]
+- **15:22** — Concept hub: [[Symbols & Concepts/Sacrifice|Sacrifice]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__1-Samuel-15-22|printed citation]]
 <!-- cited-by:end -->

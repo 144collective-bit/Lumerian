@@ -266,6 +266,6 @@ And he sent away the multitude, and took ship, and came into the coasts of Magda
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **15:19** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/heart__matthew-15-19|HEART]]
+- **15:19** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/heart__matthew-15-19|HEART]] · Concept hub: [[Symbols & Concepts/Heart|Heart]]
 - **15:22** — Gaskell citation: [[Studies/Bible–Gaskell Cross References/Bridges/david-son-of__matthew-15-22|DAVID, SON OF]]
 <!-- cited-by:end -->

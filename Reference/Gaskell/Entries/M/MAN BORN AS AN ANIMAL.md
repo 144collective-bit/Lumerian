@@ -202,4 +202,5 @@ Notes in this vault that link here. Generated list; edit the citing note, not th
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/man-born-as-an-animal__1-corinthians-2-14|MAN BORN AS AN ANIMAL]]
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BIRTH AND DEATH OF FORMS|BIRTH AND DEATH OF FORMS]]; [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]]; [[Reference/Gaskell/Entries/H/HIRUKO (LEECH-CHILD)|HIRUKO (LEECH-CHILD)]]; [[Reference/Gaskell/Entries/M/MIXTURE MITHRAS OR MITHRA|MIXTURE MITHRAS OR MITHRA]]; [[Reference/Gaskell/Entries/M/MOON-WANING PERIOD, OR THE DEVAYANA|MOON—WANING PERIOD, OR THE DEVAYANA]]; [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]]
+- **Concept hub:** [[Symbols & Concepts/Man|Man]]
 <!-- cited-by:end -->

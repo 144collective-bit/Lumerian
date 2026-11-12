@@ -239,6 +239,6 @@ Take therefore no thought for the morrow: for the morrow shall take thought for 
 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
-- **6:6** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-6-6|printed citation]]
+- **6:6** — Concept hub: [[Symbols & Concepts/Self|Self]] · Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-6-6|printed citation]]
 - **6:19** — Blavatsky: [[Books/Isis Unveiled (H. P. Blavatsky)/Evidence/Scripture Bridges/Blavatsky__Matthew-6-19|printed citation]]
 <!-- cited-by:end -->

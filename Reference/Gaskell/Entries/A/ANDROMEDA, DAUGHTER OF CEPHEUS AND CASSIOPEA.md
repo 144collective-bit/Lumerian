@@ -60,4 +60,5 @@ A symbol of the emotion-nature produced by the astral and buddhic principles. *â
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Other Gaskell entries (See-references):** [[Reference/Gaskell/Entries/B/BERNACLE, CUSH, OR ZTHIOPES|BERNACLE, CUSH, OR ZTHIOPES]]; [[Reference/Gaskell/Entries/C/CAPTIVE WOMAN|CAPTIVE WOMAN]]; [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]]; [[Reference/Gaskell/Entries/G/GIHON RIVER|GIHON RIVER]]; [[Reference/Gaskell/Entries/K/KNIGHT-ERRANT|KNIGHT-ERRANT]]; [[Reference/Gaskell/Entries/M/MYTHOLOGY MYTHOLOGY|MYTHOLOGY MYTHOLOGY]]; [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]]; [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]]; [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]]; [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]]; [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]]
+- **Concept hub:** [[Symbols & Concepts/Woman|Woman]]
 <!-- cited-by:end -->

@@ -62,5 +62,5 @@ Symbols of the Individuality, Personality, and mental qualities, or of the Highe
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **Gaskell citation:** [[Studies/Bible–Gaskell Cross References/Bridges/sun-moon-and-stars__genesis-1-16|SUN, MOON, AND STARS]]
-- **Concept hub:** [[Symbols & Concepts/Sun|Sun]]
+- **Concept hub:** [[Symbols & Concepts/Moon|Moon]]; [[Symbols & Concepts/Sun|Sun]]
 <!-- cited-by:end -->

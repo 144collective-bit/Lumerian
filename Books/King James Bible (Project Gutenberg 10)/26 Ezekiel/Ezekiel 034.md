@@ -219,8 +219,8 @@ And ye my flock, the flock of my pasture, are men, and I am your God, saith the 
 Notes in this vault that link here. Generated list; edit the citing note, not this section.
 
 - **34:12** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
-- **34:13** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
-- **34:14** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
+- **34:13** — Concept hub: [[Symbols & Concepts/Mountain|Mountain]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
+- **34:14** — Concept hub: [[Symbols & Concepts/Mountain|Mountain]] · Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
 - **34:15** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
 - **34:16** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-12-16|printed citation]]
 - **34:22** — Bullinger: [[Books/The Witness of the Stars (E. W. Bullinger)/Evidence/Scripture Bridges/Bullinger__Ezekiel-34-22|printed citation]]
