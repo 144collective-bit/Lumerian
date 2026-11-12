@@ -21,6 +21,7 @@ Research wiki for comparing symbols and concepts across sources. Gaskell’s dic
 - [[Books/Isis Unveiled (H. P. Blavatsky)/Start Here|Blavatsky, Isis Unveiled — Start Here]]
 - [[Studies/Bible–Gaskell Cross References/Start Here|Bible–Gaskell Cross References]]
 - [[Symbols & Concepts/README|Symbols & Concepts]] (first shared research hubs)
+- [[Studies/Concept Hub Candidates - 2026-11-12|Concept hub candidates]] (ranked proposals, not yet built)
 - [[Studies/Linking Pass - 2026-11-06|Linking pass — 6 November 2026]]
 - [[Studies/Linking Pass 2 - 2026-11-06|Linking pass 2 — reliability]]
 - [[Studies/Gaskell Page-Image Checks - 2026-11-06|Gaskell page-image checks]]
