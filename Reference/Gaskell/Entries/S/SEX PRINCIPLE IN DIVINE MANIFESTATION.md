@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_687`, `page_688`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_687|page_687]], [[Supporting Material/Gaskell/Source Text/page_688|page_688]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > When the Divine Monad, or Worldegg, divides into two essences, the sex principle is shown in the one 680 SEX essence being dynamic, replete, and fecundating, and the other being static, receptive, and reproductive.
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

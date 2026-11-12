@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_391`, `page_392`, `page_393`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_391|page_391]], [[Supporting Material/Gaskell/Source Text/page_392|page_392]], [[Supporting Material/Gaskell/Source Text/page_393|page_393]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > This expression signifies a projection of the Divine nature on the two highest planes of the soul, and constitutes, when united with mind, the Archetypal Man energising as Love and Wisdom (atma-buddhi).
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

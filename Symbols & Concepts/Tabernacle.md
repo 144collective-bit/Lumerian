@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Tabernacle
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 In Scripture, the wilderness sanctuary and its later heavenly counterpart; in Gaskell, a symbol of bodies (causal or astro-mental); in Hall, a patterned mystery-temple. Keep those three uses labelled.

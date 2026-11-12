@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_329`, `page_330`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_329|page_329]], [[Supporting Material/Gaskell/Source Text/page_330|page_330]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > A symbol of the buddhic vesture of the indwelling Spirit (atma)—the Incarnate Self, the ‘‘ Lamb of God.”’ ‘*On the arrival of Jason at Iolous, Peleas, the king, remembered the oracle about being on his guard against the man with the one shoe, and so asked Jason what he would do if he were told by an oracle that he should be killed by one of his subjects f Jason, at the suggestion of Hera, who hated Peleas, answered…
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

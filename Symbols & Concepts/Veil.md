@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Veil
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 A covering that hides what is inward or holy. Keep Gaskell’s “Veil of Isis,” the tabernacle/temple curtain in the installed KJV, and Hall’s veiled Isis as separate readings. The same English word is not one symbol.

@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Body as Temple
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 Paul’s “ye are the temple of God”; John’s report that Jesus spoke of “the temple of his body”; Gaskell’s TEMPLE OF GOD as causal-body / higher mental condition; Hall’s teaching that mystery-temples were built like a human body and that the body is a house or prison of a divine principle. Related to, but not the same as, the wilderness [[Symbols & Concepts/Tabernacle|Tabernacle]].

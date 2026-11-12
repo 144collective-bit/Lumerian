@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_25`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_25|page_25]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > A MYSTERY NAME OF JESUS IN THE **PISTIS SOPHIA ”’ :— An appellation signifying the **Glory of the Sun,’’ or the ‘‘ Radiance of the Light.”’ A ‘‘Mystery name ’’ is a name used to obscure the meaning of a symbol from the lower personality, but one which serves to identify the individuality signified to the higher mind.
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

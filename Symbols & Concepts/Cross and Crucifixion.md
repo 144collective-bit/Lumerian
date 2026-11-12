@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Cross and Crucifixion
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 A figure (the cross) and an event-pattern (crucifixion) that the vault’s sources treat both historically and cosmically. Do not collapse “the Latin cross,” “the Tau / crux ansata,” and “the crucifixion of Jesus” into one meaning.

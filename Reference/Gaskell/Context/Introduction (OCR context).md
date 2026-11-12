@@ -28,9 +28,6 @@ Gaskell’s introduction (OCR) argues that popular religious systems are unstabl
 
 ## Exact OCR quotations (short)
 
-> [!warning] OCR quotation
-> Exact substrings from the OCR EPUB. Not verified against scan images in this stage.
-
 > CTION PoPruLak religious systems and theories are notoriously unstable and changeful.
 
 > Max Miller was probably, in his day, the greatest of all investigators of the world-scriptures. He died disappointed of his

@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Logos and the Word
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 A cluster, not one lemma: Gaskell’s `LOGOS (REASON-SPEECH)` and `WORD OF GOD`, the Johannine “Word,” and Hall’s later use of “Logos” in solar and Qabbalistic settings. Do not treat these labels as interchangeable.

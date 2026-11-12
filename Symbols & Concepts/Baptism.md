@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Baptism
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 In the installed Gospels, a rite of water (and a saying about baptizing “with the Holy Ghost, and with fire”). In Gaskell, two interior purifications — by Truth (water) and by the buddhic function (fire). Keep the rite, the saying, and Gaskell’s pair labelled separately.

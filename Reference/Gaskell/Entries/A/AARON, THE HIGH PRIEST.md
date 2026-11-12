@@ -21,16 +21,12 @@ aliases:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_24`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_24|page_24]]
-- **Citation rule:** locators are EPUB `page_N` file IDs, **not** verified print-page numbers.
 
 ## OCR headword (exact)
 
 `AARON, THE HIGH PRIEST :—`
 
 ## Quoted definition / text (OCR exact; short)
-
-> [!warning] OCR quotation
-> Exact substring from the OCR EPUB text. **Not** verified against the page image/typography in this stage.
 
 > A symbol of the spiritual mind, that is, the inner mind which is moved by the higher emotions.
 

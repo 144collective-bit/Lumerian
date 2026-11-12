@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_837`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_837|page_837]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > A symbol of the out-going energy of the Higher Self in the exercise of the striving functions for the overcoming of the lower desires and instincts.
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

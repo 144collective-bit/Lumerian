@@ -36,9 +36,6 @@ On [[Supporting Material/Gaskell/Source Text/page_849]], a “Life-cycle of twel
 
 ## Exact OCR quotations (short)
 
-> [!warning] OCR quotation
-> Exact substrings from the OCR EPUB. Not verified against scan images in this stage.
-
 > The names between brackets are symbols of the Absolute or Godunmanifest, while the names on the highest of the five planes indicate God-manifest,—the Higher Self. In some sys
 
 > THE FIVE PLANES OF MANIFESTATION. These range from the most outward below, to the most inward above. Behind or within, all physical things are the four o

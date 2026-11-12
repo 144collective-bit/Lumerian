@@ -21,16 +21,12 @@ aliases:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_25`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_25|page_25]]
-- **Citation rule:** locators are EPUB `page_N` file IDs, **not** verified print-page numbers.
 
 ## OCR headword (exact)
 
 `ABEL, A KEEPER OF SHEEP :—`
 
 ## Quoted definition / text (OCR exact; short)
-
-> [!warning] OCR quotation
-> Exact substring from the OCR EPUB text. **Not** verified against the page image/typography in this stage.
 
 > A symbol of the dawning of, that moral element in the soul which works by love.
 

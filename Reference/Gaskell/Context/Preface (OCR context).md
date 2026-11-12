@@ -28,9 +28,6 @@ In the preface OCR, Gaskell states that the dictionary claims to solve the origi
 
 ## Exact OCR quotations (short)
 
-> [!warning] OCR quotation
-> Exact substring from EPUB `page_12`. Not verified against the scan image in this stage.
-
 > Txis Dictionary of the Sacred Language claims to give the true solution of the age-long problem of the origin, nature and meaning of the Scriptures and Myths which are attached to the various religions of the wo
 
 ## Source pages

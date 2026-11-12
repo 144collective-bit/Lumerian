@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_358`, `page_359`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_358|page_358]], [[Supporting Material/Gaskell/Source Text/page_359|page_359]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > A symbol of the perfected Individuality seated in the causal-body, which succeeds the Personality and inherits the ‘‘ treasures laid up in heaven,’’ becoming ‘‘heir of the righteousness which is according to faith,’’ that is, of the transmuted qualities of the lower nature, awaiting recognition upon the buddhic plane, when the consciousness rises to the heaven plane.
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

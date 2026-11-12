@@ -10,8 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Christ
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
 aliases in vault: Christos, Higher Self (Gaskell’s usage), inner / solar god-man (Hall’s usage).
 
 ## Working definition (editorial scaffolding)

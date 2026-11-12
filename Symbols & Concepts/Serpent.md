@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Serpent
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 A dual or many-valued symbol in this vault: wisdom and desire, healer and accuser, brazen sign and cursed beast. Gaskell himself insists on higher and lower serpents. Do not treat every “serpent” or “dragon” hit as the same figure.

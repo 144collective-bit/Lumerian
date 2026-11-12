@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Quaternary
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 Several installed “fours”: Gaskell’s QUATERNARY as four planes of manifestation; Gaskell’s CROSS opening, in which a “Divine Ray” passes through the quaternary; Hall’s tetrad / tetractys and the four arms of the cross as four elements. Counting to four is not a proof that these schemes are the same.

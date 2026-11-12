@@ -22,9 +22,6 @@ The foreword OCR restores “Verbal Inspiration” as central: Gaskell argues tr
 
 ## Exact OCR quotation (short)
 
-> [!warning] OCR quotation
-> Exact substring from EPUB `page_15`. Not verified against the scan image in this stage.
-
 > In this Dictionary the ancient doctrine of Verbal Inspiration is restored to its pristine position in the study of the Scriptures.
 
 ## Source pages

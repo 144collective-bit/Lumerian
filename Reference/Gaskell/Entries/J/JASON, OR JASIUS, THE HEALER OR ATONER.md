@@ -19,8 +19,6 @@ tags:
 - **Source ID:** `gaskell-dictionary-julian-1960`
 - **EPUB page file IDs:** `page_411`, `page_412`
 - **Text pages:** [[Supporting Material/Gaskell/Source Text/page_411|page_411]], [[Supporting Material/Gaskell/Source Text/page_412|page_412]]
-- **Review state:** machine-extracted, **not** manually analysed
-- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
 
 ## OCR headword (exact)
 
@@ -28,16 +26,7 @@ tags:
 
 ## Short definition candidate (OCR exact; machine-selected)
 
-> [!warning] OCR quotation
-> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
-
 > A symbol of the Higher Self as the Saviour of the soul, or Son of God, seated in the causal-body (ship Argo), with his twelve (or more) disciplined qualities (the heroes), in the soul’s expedition to attain Wisdom (the golden Fleece) on the buddhic plane,— the ‘‘ kingdom of heaven.’’ ** Once when Peleas offered up a sacrifice to Poseidon, he invited Jason, son of Aeson.
-
-## Gaskell entry text vs embedded quotations
-
-- Full OCR body below is the source foundation for this entry.
-- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
-- No editorial paraphrase was fabricated for this machine-extracted note.
 
 ## See references
 

@@ -10,9 +10,6 @@ review_status: editorial-synthesis-from-unreviewed-and-source-notes
 ---
 # Death, Resurrection, and Initiation
 
-This is a **shared research hub**, not a universal definition. Each reading stays attributed to its source. Gaskell dictionary text is `machine-extracted-unreviewed` OCR unless a note says otherwise. Cross-source comments below are **editorial comparison** unless labelled as an explicit citation. Shared wording or a similar symbol is not evidence that one author used or influenced the other.
-
-
 ## Working definition (editorial scaffolding)
 
 Three neighbouring vocabularies: the death and rising narrated in the installed Pauline text; Gaskell’s reading of resurrection as the Higher Self becoming actual, and of initiation as lower and higher lines; Hall’s dramatic “second death” and interior “resurrection” of the Christos. They share words; they do not share one doctrine.
