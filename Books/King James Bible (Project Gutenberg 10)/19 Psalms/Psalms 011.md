@@ -1,0 +1,70 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-11
+book_name: "Psalms"
+chapter: 11
+verses: 7
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 11"
+  - "KJV Psalms 11"
+---
+
+# Psalms 11
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 010|Psalms 10]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 012|Psalms 12]]
+
+## Text
+
+###### Psalms 11:1
+
+In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?
+
+^kjv-psa-11-1
+
+###### Psalms 11:2
+
+For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
+
+^kjv-psa-11-2
+
+###### Psalms 11:3
+
+If the foundations be destroyed, what can the righteous do?
+
+^kjv-psa-11-3
+
+###### Psalms 11:4
+
+The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.
+
+^kjv-psa-11-4
+
+###### Psalms 11:5
+
+The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.
+
+^kjv-psa-11-5
+
+###### Psalms 11:6
+
+Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.
+
+^kjv-psa-11-6
+
+###### Psalms 11:7
+
+For the righteous LORD loveth righteousness; his countenance doth behold the upright.
+
+^kjv-psa-11-7

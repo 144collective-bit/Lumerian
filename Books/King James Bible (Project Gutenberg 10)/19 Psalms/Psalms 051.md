@@ -1,0 +1,142 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-51
+book_name: "Psalms"
+chapter: 51
+verses: 19
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 51"
+  - "KJV Psalms 51"
+---
+
+# Psalms 51
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 050|Psalms 50]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 052|Psalms 52]]
+
+## Text
+
+###### Psalms 51:1
+
+Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+
+^kjv-psa-51-1
+
+###### Psalms 51:2
+
+Wash me throughly from mine iniquity, and cleanse me from my sin.
+
+^kjv-psa-51-2
+
+###### Psalms 51:3
+
+For I acknowledge my transgressions: and my sin is ever before me.
+
+^kjv-psa-51-3
+
+###### Psalms 51:4
+
+Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+
+^kjv-psa-51-4
+
+###### Psalms 51:5
+
+Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+
+^kjv-psa-51-5
+
+###### Psalms 51:6
+
+Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
+
+^kjv-psa-51-6
+
+###### Psalms 51:7
+
+Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+
+^kjv-psa-51-7
+
+###### Psalms 51:8
+
+Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
+
+^kjv-psa-51-8
+
+###### Psalms 51:9
+
+Hide thy face from my sins, and blot out all mine iniquities.
+
+^kjv-psa-51-9
+
+###### Psalms 51:10
+
+Create in me a clean heart, O God; and renew a right spirit within me.
+
+^kjv-psa-51-10
+
+###### Psalms 51:11
+
+Cast me not away from thy presence; and take not thy holy spirit from me.
+
+^kjv-psa-51-11
+
+###### Psalms 51:12
+
+Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+
+^kjv-psa-51-12
+
+###### Psalms 51:13
+
+Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
+
+^kjv-psa-51-13
+
+###### Psalms 51:14
+
+Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
+
+^kjv-psa-51-14
+
+###### Psalms 51:15
+
+O Lord, open thou my lips; and my mouth shall shew forth thy praise.
+
+^kjv-psa-51-15
+
+###### Psalms 51:16
+
+For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
+
+^kjv-psa-51-16
+
+###### Psalms 51:17
+
+The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+
+^kjv-psa-51-17
+
+###### Psalms 51:18
+
+Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
+
+^kjv-psa-51-18
+
+###### Psalms 51:19
+
+Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
+
+^kjv-psa-51-19

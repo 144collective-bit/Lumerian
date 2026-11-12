@@ -1,0 +1,130 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rev
+chapter_id: kjv-rev-7
+book_name: "Revelation"
+chapter: 7
+verses: 17
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Revelation 7"
+  - "KJV Revelation 7"
+---
+
+# Revelation 7
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation|Revelation]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 006|Revelation 6]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 008|Revelation 8]]
+
+## Text
+
+###### Revelation 7:1
+
+And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
+
+^kjv-rev-7-1
+
+###### Revelation 7:2
+
+And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
+
+^kjv-rev-7-2
+
+###### Revelation 7:3
+
+Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.
+
+^kjv-rev-7-3
+
+###### Revelation 7:4
+
+And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
+
+^kjv-rev-7-4
+
+###### Revelation 7:5
+
+Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
+
+^kjv-rev-7-5
+
+###### Revelation 7:6
+
+Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
+
+^kjv-rev-7-6
+
+###### Revelation 7:7
+
+Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
+
+^kjv-rev-7-7
+
+###### Revelation 7:8
+
+Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
+
+^kjv-rev-7-8
+
+###### Revelation 7:9
+
+After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+
+^kjv-rev-7-9
+
+###### Revelation 7:10
+
+And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
+
+^kjv-rev-7-10
+
+###### Revelation 7:11
+
+And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
+
+^kjv-rev-7-11
+
+###### Revelation 7:12
+
+Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+
+^kjv-rev-7-12
+
+###### Revelation 7:13
+
+And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
+
+^kjv-rev-7-13
+
+###### Revelation 7:14
+
+And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+
+^kjv-rev-7-14
+
+###### Revelation 7:15
+
+Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
+
+^kjv-rev-7-15
+
+###### Revelation 7:16
+
+They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+
+^kjv-rev-7-16
+
+###### Revelation 7:17
+
+For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
+
+^kjv-rev-7-17

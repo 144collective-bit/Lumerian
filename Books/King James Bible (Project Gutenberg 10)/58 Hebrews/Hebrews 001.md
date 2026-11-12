@@ -1,0 +1,112 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-heb
+chapter_id: kjv-heb-1
+book_name: "Hebrews"
+chapter: 1
+verses: 14
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Hebrews 1"
+  - "KJV Hebrews 1"
+---
+
+# Hebrews 1
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews|Hebrews]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/57 Philemon/Philemon 001|Philemon 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews 002|Hebrews 2]]
+
+## Text
+
+###### Hebrews 1:1
+
+God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
+
+^kjv-heb-1-1
+
+###### Hebrews 1:2
+
+Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+
+^kjv-heb-1-2
+
+###### Hebrews 1:3
+
+Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:
+
+^kjv-heb-1-3
+
+###### Hebrews 1:4
+
+Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
+
+^kjv-heb-1-4
+
+###### Hebrews 1:5
+
+For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
+
+^kjv-heb-1-5
+
+###### Hebrews 1:6
+
+And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
+
+^kjv-heb-1-6
+
+###### Hebrews 1:7
+
+And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
+
+^kjv-heb-1-7
+
+###### Hebrews 1:8
+
+But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
+
+^kjv-heb-1-8
+
+###### Hebrews 1:9
+
+Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
+
+^kjv-heb-1-9
+
+###### Hebrews 1:10
+
+And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
+
+^kjv-heb-1-10
+
+###### Hebrews 1:11
+
+They shall perish; but thou remainest; and they all shall wax old as doth a garment;
+
+^kjv-heb-1-11
+
+###### Hebrews 1:12
+
+And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
+
+^kjv-heb-1-12
+
+###### Hebrews 1:13
+
+But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?
+
+^kjv-heb-1-13
+
+###### Hebrews 1:14
+
+Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
+
+^kjv-heb-1-14

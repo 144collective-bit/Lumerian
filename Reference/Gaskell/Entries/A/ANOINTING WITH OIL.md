@@ -1,0 +1,98 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-anointing-with-oil
+headword: "ANOINTING WITH OIL"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ANOINTING WITH OIL
+
+- **Entry ID:** `gaskell-1960-entry-anointing-with-oil`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_57`, `page_58`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_57|page_57]], [[Supporting Material/Gaskell/Source Text/page_58|page_58]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ANOINTING WITH OIL :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the endowment of the soul with Divine Love, arousing sympathy with all beings.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Curistos` | **unresolved** (review queue) |
+| `Cur` | **unresolved** (review queue) |
+| `Heap` | **unresolved** (review queue) |
+| `LAayIneG ON OF HANDS` | **unresolved** (review queue) |
+| `OIL` | **unresolved** (review queue) |
+| `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
+| `TABLE. ANPU (ANUBIS)` | **unresolved** (review queue) |
+| `THE ‘‘OPENER OF THE PATH" :— A symbol of the astro-physical body with its mechanism of sensation and action` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `which opens the pathway of the soul’s development` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `life after life. “The god Anpu` | **unresolved** (review queue) |
+| `who dwelleth in the city of the embalmment` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `the governor of the divine house` | **unresolved** (review queue) |
+| `placeth his two hands upon the lord of life of Nebseni` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `-.. end he furnisheth him with the things which belong to him. ‘ Homage to thee` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `O sas a divine lord (Osiris Nebseni)... h Seker hath bound thee up` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `Anpu hath exalted thee` | **unresolved** (review queue) |
+| `and Shu hath caused thee to be lifted up` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `.. . Thy brow is in the protection of Anpu.”’ —Bupae` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `Book of the Dead` | **unresolved** (review queue) |
+| `Ch. CLIn` | **unresolved** (review queue) |
+| `p. 507. The physical body equipped with its powers` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `is at the service of the personality whose need is purification in the interest of the causal-body (divine house). The physical activities` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `active and passive` | **unresolved** (review queue) |
+| `are to subserve the Divine life within the soul` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `and be the means of bringing experience to the ego` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `which shall lead to the acquirement of spiritual capacities. AN-RUT-F The Spirit has been involved in the lower nature by the will of the Supreme` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `and in the life of the physical human body` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `the evolution of the Spirit commences` | **unresolved** (review queue) |
+| `for the Divine Will draws it forth. The truth-acquiring faculty is dependent upon the physical lives. See ANUBIS` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `ApuaT` | **unresolved** (review queue) |
+| `CrTy` | **unresolved** (review queue) |
+| `EMBALMMENT` | **unresolved** (review queue) |
+| `HoUsE` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
+| `JACKAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JACKAL|JACKAL]] |
+| `Pran` | **unresolved** (review queue) |
+| `Rope` | **unresolved** (review queue) |
+| `SEEKER` | **unresolved** (review queue) |
+| `SHU` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-anointing-with-oil-ocr-body`
+
+```text
+A symbol of the endowment of the soul with Divine Love, arousing sympathy with all beings. “Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; my cup runneth over.’’—Ps. xxiii. 5. The Self hath prepared for the ego the ‘fruits of the Spirit” on the higher planes, to be the food of the soul; and the desires (enemies) have been transmuted to this end. The Divine love has been bestowed upon the aspiring mind, and Wisdom has filled the understanding. See Curistos, Cur, Heap, LAayIneG ON OF HANDS, OIL, OINTMENT, TABLE. ANPU (ANUBIS), THE ‘‘OPENER OF THE PATH" :— A symbol of the astro-physical body with its mechanism of sensation and action, which opens the pathway of the soul’s development, life after life. “The god Anpu, who dwelleth in the city of the embalmment, the governor of the divine house, placeth his two hands upon the lord of life of Nebseni, -.. end he furnisheth him with the things which belong to him. ‘ Homage to thee, O sas a divine lord (Osiris Nebseni)... h Seker hath bound thee up, Anpu hath exalted thee, and Shu hath caused thee to be lifted up, .. . Thy brow is in the protection of Anpu.”’ —Bupae, Book of the Dead, Ch. CLIn, p. 507. The physical body equipped with its powers, is at the service of the personality whose need is purification in the interest of the causal-body (divine house). The physical activities, active and passive, are to subserve the Divine life within the soul, and be the means of bringing experience to the ego, which shall lead to the acquirement of spiritual capacities. AN-RUT-F The Spirit has been involved in the lower nature by the will of the Supreme, and in the life of the physical human body, the evolution of the Spirit commences, for the Divine Will draws it forth. The truth-acquiring faculty is dependent upon the physical lives. See ANUBIS, ApuaT, CrTy, EMBALMMENT, HoUsE, JACKAL, Pran, Rope, SEEKER, SHU.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_57|page_57]], [[Supporting Material/Gaskell/Source Text/page_58|page_58]]
+

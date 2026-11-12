@@ -1,0 +1,208 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-pro
+chapter_id: kjv-pro-20
+book_name: "Proverbs"
+chapter: 20
+verses: 30
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Proverbs 20"
+  - "KJV Proverbs 20"
+---
+
+# Proverbs 20
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 019|Proverbs 19]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 021|Proverbs 21]]
+
+## Text
+
+###### Proverbs 20:1
+
+Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
+
+^kjv-pro-20-1
+
+###### Proverbs 20:2
+
+The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.
+
+^kjv-pro-20-2
+
+###### Proverbs 20:3
+
+It is an honour for a man to cease from strife: but every fool will be meddling.
+
+^kjv-pro-20-3
+
+###### Proverbs 20:4
+
+The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.
+
+^kjv-pro-20-4
+
+###### Proverbs 20:5
+
+Counsel in the heart of man is like deep water; but a man of understanding will draw it out.
+
+^kjv-pro-20-5
+
+###### Proverbs 20:6
+
+Most men will proclaim every one his own goodness: but a faithful man who can find?
+
+^kjv-pro-20-6
+
+###### Proverbs 20:7
+
+The just man walketh in his integrity: his children are blessed after him.
+
+^kjv-pro-20-7
+
+###### Proverbs 20:8
+
+A king that sitteth in the throne of judgment scattereth away all evil with his eyes.
+
+^kjv-pro-20-8
+
+###### Proverbs 20:9
+
+Who can say, I have made my heart clean, I am pure from my sin?
+
+^kjv-pro-20-9
+
+###### Proverbs 20:10
+
+Divers weights, and divers measures, both of them are alike abomination to the LORD.
+
+^kjv-pro-20-10
+
+###### Proverbs 20:11
+
+Even a child is known by his doings, whether his work be pure, and whether it be right.
+
+^kjv-pro-20-11
+
+###### Proverbs 20:12
+
+The hearing ear, and the seeing eye, the LORD hath made even both of them.
+
+^kjv-pro-20-12
+
+###### Proverbs 20:13
+
+Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.
+
+^kjv-pro-20-13
+
+###### Proverbs 20:14
+
+It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.
+
+^kjv-pro-20-14
+
+###### Proverbs 20:15
+
+There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.
+
+^kjv-pro-20-15
+
+###### Proverbs 20:16
+
+Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.
+
+^kjv-pro-20-16
+
+###### Proverbs 20:17
+
+Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.
+
+^kjv-pro-20-17
+
+###### Proverbs 20:18
+
+Every purpose is established by counsel: and with good advice make war.
+
+^kjv-pro-20-18
+
+###### Proverbs 20:19
+
+He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
+
+^kjv-pro-20-19
+
+###### Proverbs 20:20
+
+Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.
+
+^kjv-pro-20-20
+
+###### Proverbs 20:21
+
+An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.
+
+^kjv-pro-20-21
+
+###### Proverbs 20:22
+
+Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.
+
+^kjv-pro-20-22
+
+###### Proverbs 20:23
+
+Divers weights are an abomination unto the LORD; and a false balance is not good.
+
+^kjv-pro-20-23
+
+###### Proverbs 20:24
+
+Man’s goings are of the LORD; how can a man then understand his own way?
+
+^kjv-pro-20-24
+
+###### Proverbs 20:25
+
+It is a snare to the man who devoureth that which is holy, and after vows to make enquiry.
+
+^kjv-pro-20-25
+
+###### Proverbs 20:26
+
+A wise king scattereth the wicked, and bringeth the wheel over them.
+
+^kjv-pro-20-26
+
+###### Proverbs 20:27
+
+The spirit of man is the candle of the LORD, searching all the inward parts of the belly.
+
+^kjv-pro-20-27
+
+###### Proverbs 20:28
+
+Mercy and truth preserve the king: and his throne is upholden by mercy.
+
+^kjv-pro-20-28
+
+###### Proverbs 20:29
+
+The glory of young men is their strength: and the beauty of old men is the grey head.
+
+^kjv-pro-20-29
+
+###### Proverbs 20:30
+
+The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly.
+
+^kjv-pro-20-30

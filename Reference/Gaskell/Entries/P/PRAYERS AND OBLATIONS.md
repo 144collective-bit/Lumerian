@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-prayers-and-oblations
+headword: "PRAYERS AND OBLATIONS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# PRAYERS AND OBLATIONS
+
+- **Entry ID:** `gaskell-1960-entry-prayers-and-oblations`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_599`, `page_600`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_599|page_599]], [[Supporting Material/Gaskell/Source Text/page_600|page_600]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`PRAYERS AND OBLATIONS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of aspirations after ideals; and of the acts of devotion and sacrifice which are to secure the safety of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BupDHa` | **unresolved** (review queue) |
+| `OBLATION` | **unresolved** (review queue) |
+| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-prayers-and-oblations-ocr-body`
+
+```text
+Symbols of aspirations after ideals; and of the acts of devotion and sacrifice which are to secure the safety of the soul. **'When ten days were fulfilled after his son's birth, with his thoughts kept under restraint, and filled with excessive joy, the king offered for his son (Buddha) most elaborate sacrifices to the gods with muttered prayers, oblations, and all kinds of auspicious ceremonies.’’"—BuddhaKarita, Bk. I, 88. The ten cycles (days) process is the elaboration of the mechanism through which the Self is to manifest in the physical, astral, and mental bodies on their respective planes. When this process was accomplished, with His Will directed to the completion of Divine achievement and full of hope and courage, aspiration is awakened within the lower self, which is the free-will offering to the aspects of the qualities which are of the Self. The ‘‘prayers and oblations” are the ideals that are followed, and the acts of devotion to PRECIOUS right and truth which are to make sure the salvation of the soul. ** How closely connected with whatever is lovely and of good report is this detachment from the near and the visible. A man that is living for remote objects is, in so far, a better man than one who is living for the present. He will become thereby the subject of a mental and moral discipline that will do him good. And, on the other hand, a life which has no far-off light for its guiding star has ‘none of the unity, of the selfrestraint, of the tension, of the conscious power which makes our days noble and strong. Whether he accomplish them or fail, the man who lets future objects rule present action is in advance of the other.’"—A. MAcLAREN, Sermons, 2nd Series, p. 142. See BupDHa, OBLATION, SACRIFICE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_599|page_599]], [[Supporting Material/Gaskell/Source Text/page_600|page_600]]
+

@@ -1,0 +1,166 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gen
+chapter_id: kjv-gen-40
+book_name: "Genesis"
+chapter: 40
+verses: 23
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Genesis 40"
+  - "KJV Genesis 40"
+---
+
+# Genesis 40
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis|Genesis]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 039|Genesis 39]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 041|Genesis 41]]
+
+## Text
+
+###### Genesis 40:1
+
+And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
+
+^kjv-gen-40-1
+
+###### Genesis 40:2
+
+And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
+
+^kjv-gen-40-2
+
+###### Genesis 40:3
+
+And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.
+
+^kjv-gen-40-3
+
+###### Genesis 40:4
+
+And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
+
+^kjv-gen-40-4
+
+###### Genesis 40:5
+
+And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
+
+^kjv-gen-40-5
+
+###### Genesis 40:6
+
+And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
+
+^kjv-gen-40-6
+
+###### Genesis 40:7
+
+And he asked Pharaoh’s officers that were with him in the ward of his lord’s house, saying, Wherefore look ye so sadly to day?
+
+^kjv-gen-40-7
+
+###### Genesis 40:8
+
+And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
+
+^kjv-gen-40-8
+
+###### Genesis 40:9
+
+And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
+
+^kjv-gen-40-9
+
+###### Genesis 40:10
+
+And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
+
+^kjv-gen-40-10
+
+###### Genesis 40:11
+
+And Pharaoh’s cup was in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.
+
+^kjv-gen-40-11
+
+###### Genesis 40:12
+
+And Joseph said unto him, This is the interpretation of it: The three branches are three days:
+
+^kjv-gen-40-12
+
+###### Genesis 40:13
+
+Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.
+
+^kjv-gen-40-13
+
+###### Genesis 40:14
+
+But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
+
+^kjv-gen-40-14
+
+###### Genesis 40:15
+
+For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+
+^kjv-gen-40-15
+
+###### Genesis 40:16
+
+When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:
+
+^kjv-gen-40-16
+
+###### Genesis 40:17
+
+And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
+
+^kjv-gen-40-17
+
+###### Genesis 40:18
+
+And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:
+
+^kjv-gen-40-18
+
+###### Genesis 40:19
+
+Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
+
+^kjv-gen-40-19
+
+###### Genesis 40:20
+
+And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
+
+^kjv-gen-40-20
+
+###### Genesis 40:21
+
+And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:
+
+^kjv-gen-40-21
+
+###### Genesis 40:22
+
+But he hanged the chief baker: as Joseph had interpreted to them.
+
+^kjv-gen-40-22
+
+###### Genesis 40:23
+
+Yet did not the chief butler remember Joseph, but forgat him.
+
+^kjv-gen-40-23

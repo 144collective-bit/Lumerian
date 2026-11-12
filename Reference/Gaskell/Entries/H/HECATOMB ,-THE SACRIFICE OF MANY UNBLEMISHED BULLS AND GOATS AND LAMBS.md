@@ -1,0 +1,84 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-hecatomb-the-sacrifice-of-many-unblemished-bulls-and-goats-and-lambs
+headword: "HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS
+
+- **Entry ID:** `gaskell-1960-entry-hecatomb-the-sacrifice-of-many-unblemished-bulls-and-goats-and-lambs`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_355`, `page_356`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_355|page_355]], [[Supporting Material/Gaskell/Source Text/page_356|page_356]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the tribute offered by the lower self to the Higher Self: the tribute being the karmic results of the ethical activity of the mind in the sacrifice of the lower qualities which implies exercise of the higher (unblemished).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
+| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `BLioop OF BULLS` | **unresolved** (review queue) |
+| `BURNT OFFERING` | **unresolved** (review queue) |
+| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
+| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
+| `Greeks` | **candidate (first-segment only)** → possible `GREEKS, GREAT-HEARTED` (not linked) |
+| `Hipina` | **unresolved** (review queue) |
+| `IntuITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+| `KALCHAS` | **candidate (first-segment only)** → possible `KALCHAS, OR CALCHAS, SON OF THESTOR` (not linked) |
+| `KarMa` | **unresolved** (review queue) |
+| `Papyrus` | **unresolved** (review queue) |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `PESTILENCE` | **unresolved** (review queue) |
+| `RANSOM` | **candidate (first-segment only)** → possible `RANSOM, OR PRICE PAID FOR LIBERATION` (not linked) |
+| `RELIGION` | **unresolved** (review queue) |
+| `ROASTED` | **unresolved** (review queue) |
+| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+| `SAVOUR` | **candidate (first-segment only)** → possible `SAVOUR, SWEET` (not linked) |
+| `TREASURE` | **unresolved** (review queue) |
+| `VOICE` | **unresolved** (review queue) |
+| `Vow` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOW|VOW]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-hecatomb-the-sacrifice-of-many-unblemished-bulls-and-goats-and-lambs-ocr-body`
+
+```text
+A symbol of the tribute offered by the lower self to the Higher Self: the tribute being the karmic results of the ethical activity of the mind in the sacrifice of the lower qualities which implies exercise of the higher (unblemished). ‘** Let us (said Achilles) consult some prophet or priest, or even one who is informed by dreams,—for dream also is from Jove,—who would tell us on what account Phobus Apollo is so much enraged with us: whether he blames us on account of a vow unperformed, or a hecatomb unoffered ; and whether haply he may be willing, having partaken of the savour of lambs and unblemished Hatt to avert from us the pestilence.”’— liad, Bk. I., trans. Buckley. An effort is made by the personality (Achilles) through the mind to find authority and sanction for ite selfpreservative course of action, in the opinion or tradition current at that period of its activity. The ‘‘ dream, etc.”’ stands for the first theory of religion and life that is at hand. And thus a dim conception is gradually atrived at as to the nature of the activities of the Higher Self (Apollo). But a sense of doubt and uncertainty gains possession of the mind, on the question as to whether the mind is held accountable because it possesses the germ of conscience, or whether it is so from the karmic law of action and reaction exemplified in the moral nature ? The mind further inquires, whether it will be that the Higher Self, having accepted the tribute and contribution of the lower self in the thought of loving service (lambs) and_ sincere faith (unblemished goats), will afford the lower self the means for over348 HECTOR coming the adverse conditions which surround it, and profiting from the destruction of the lower qualities. ‘*Then was the noble seer (Kalchas) of good courage, and spake : ‘ Neither by reason of a vow is Apollo displeased, nor for any hecatomb, but for his priest's sake to whom Agamemnon did despite, and set not his daughter free and accepted not the ransom; therefore hath the Far-darter brought woes upon us, yea, and will bring. Nor will he ever remove the loathly pestilence from the Greeks till we have given the bright-eyed damsel (Chryseis) to her father (Chryse, Apollo's priest), unbought, unransomed, and carried a holy hecatomb to Chryse ;— then might we propitiate Apollo to our prayer.’ '’— Ibid. Then the inner memory (Kalchas) of the soul’s true nature comes into play. Not on account of the surrender of the lower self to a partial conception of higher activities and cosmic law, nor because of the limiting and binding nature of the karmic order on the lower planes, will the indwelling Self (Apollo) fail to express its latent,— or as yet unmanifest,—potencies for good, but for the sake of restoring to action the spiritual mind (priest),— to which the desire-mind (Agamemnon) was opposed which took the intuition of Truth (Chryseis) captive, and would not seek to recover that which was to ransom the intuition, namely, by treasure or higher qualities above. Hence the Self is the means of disquieting the lower self. Nor will the erroneous theories of the lower mind be got rid of until the intuition of Truth is recovered by the inner memory, and voluntary effort is made on the part of the lower self to raise the consciousness to the spiritual understanding, in which case the reconciliation between the Higher Will (Apollo) and the lower mind will have been effected. See ACHILLES, AGAMEMNON, APOLLO, BLioop OF BULLS, BURNT OFFERING, CHRYSE, CHRYSEIS, CONSCIENCE, Greeks, Hipina, IntuITION, KALCHAS, KarMa, Papyrus, PERSONALITY, PESTILENCE, RANSOM, RELIGION, ROASTED, SACRIFICE, SAVOUR, TREASURE, VOICE, Vow.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_355|page_355]], [[Supporting Material/Gaskell/Source Text/page_356|page_356]]
+

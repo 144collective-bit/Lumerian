@@ -1,0 +1,124 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1ti
+chapter_id: kjv-1ti-3
+book_name: "1 Timothy"
+chapter: 3
+verses: 16
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Timothy 3"
+  - "KJV 1 Timothy 3"
+---
+
+# 1 Timothy 3
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/54 1 Timothy/1 Timothy|1 Timothy]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/54 1 Timothy/1 Timothy 002|1 Timothy 2]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/54 1 Timothy/1 Timothy 004|1 Timothy 4]]
+
+## Text
+
+###### 1 Timothy 3:1
+
+This is a true saying, If a man desire the office of a bishop, he desireth a good work.
+
+^kjv-1ti-3-1
+
+###### 1 Timothy 3:2
+
+A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
+
+^kjv-1ti-3-2
+
+###### 1 Timothy 3:3
+
+Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;
+
+^kjv-1ti-3-3
+
+###### 1 Timothy 3:4
+
+One that ruleth well his own house, having his children in subjection with all gravity;
+
+^kjv-1ti-3-4
+
+###### 1 Timothy 3:5
+
+(For if a man know not how to rule his own house, how shall he take care of the church of God?)
+
+^kjv-1ti-3-5
+
+###### 1 Timothy 3:6
+
+Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
+
+^kjv-1ti-3-6
+
+###### 1 Timothy 3:7
+
+Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
+
+^kjv-1ti-3-7
+
+###### 1 Timothy 3:8
+
+Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
+
+^kjv-1ti-3-8
+
+###### 1 Timothy 3:9
+
+Holding the mystery of the faith in a pure conscience.
+
+^kjv-1ti-3-9
+
+###### 1 Timothy 3:10
+
+And let these also first be proved; then let them use the office of a deacon, being found blameless.
+
+^kjv-1ti-3-10
+
+###### 1 Timothy 3:11
+
+Even so must their wives be grave, not slanderers, sober, faithful in all things.
+
+^kjv-1ti-3-11
+
+###### 1 Timothy 3:12
+
+Let the deacons be the husbands of one wife, ruling their children and their own houses well.
+
+^kjv-1ti-3-12
+
+###### 1 Timothy 3:13
+
+For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
+
+^kjv-1ti-3-13
+
+###### 1 Timothy 3:14
+
+These things write I unto thee, hoping to come unto thee shortly:
+
+^kjv-1ti-3-14
+
+###### 1 Timothy 3:15
+
+But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+
+^kjv-1ti-3-15
+
+###### 1 Timothy 3:16
+
+And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
+
+^kjv-1ti-3-16

@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-onogorojima-island
+headword: "ONOGOROJIMA ISLAND"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ONOGOROJIMA ISLAND
+
+- **Entry ID:** `gaskell-1960-entry-onogorojima-island`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_557`, `page_558`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_557|page_557]], [[Supporting Material/Gaskell/Source Text/page_558|page_558]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ONOGOROJIMA ISLAND :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of a centre of operation established in the astral body of the nascent soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Atom` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `BRIDGE OF HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] |
+| `CHEMMIS` | **unresolved** (review queue) |
+| `CHURNING` | **unresolved** (review queue) |
+| `DELos` | **candidate (first-segment only)** → possible `DELOS, THE ISLAND` (not linked) |
+| `I[zanaal` | **unresolved** (review queue) |
+| `ONYX JEWEL SPEAR` | **unresolved** (review queue) |
+| `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
+| `MANoo` | **unresolved** (review queue) |
+| `PaLace` | **unresolved** (review queue) |
+| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-onogorojima-island-ocr-body`
+
+```text
+A symbol of a centre of operation established in the astral body of the nascent soul. **Before Izanagi and Izanami produced the land generally, an island for them to rest upon was ne to be created. The two Deities, standing upon the Bridge of Heaven, pushed down the * Jewel-spear of Heaven’ into the green plain of the Sea, and stirred it round and round, when they drew it up, the drops which fell from its end consolidated and became an island, Onogorojima. They then descended on to the island, and planting the spear in the ground point downwards, built a palace round it, taking that for the central roof-pillar. The spear became the axis of the earth, which had been caused to revolve by the stirring round.’’—Japanese Nthongi. Before the soul could be formed it was necessary first to fix a centre in the lower nature to construct from. Therefore the Divine Will and Wisdom manifested on the higher mental plane (the bridge), and from thence they vibrated a ray of Divine Life and intelligence downward to the astral plane (the sea), with the result that upon its fourth sub-plane a centre for the lower soul was established. To this formative matter was attracted. Then Will and Wisdom manifested in the laws of growth upon the astral plane, in which the Divine Life (spear) operated from within outwardly. The “ palace” signifies the astral-body of desire and sensation, which becomes the focus of the soul’s activities in the lower worlds (earth). But the Divine Ray is the true axis of the soul, causing it to revolve as a ‘‘ wheel of life,” in a cycle of births and deaths. See Atom, BRIDGE OF HEAVEN, CHEMMIS, CHURNING, DELos, I[zanaal, ONYX JEWEL SPEAR, LAND, MANoo, PaLace, Sea.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_557|page_557]], [[Supporting Material/Gaskell/Source Text/page_558|page_558]]
+

@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-star-in-the-east
+headword: "STAR IN THE EAST"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# STAR IN THE EAST
+
+- **Entry ID:** `gaskell-1960-entry-star-in-the-east`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_727`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_727|page_727]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`STAR IN THE EAST :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the rise of knowledge .
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `East` | **unresolved** (review queue) |
+| `E:tHer` | **unresolved** (review queue) |
+| `Heron` | **unresolved** (review queue) |
+| `INTExLECT` | **unresolved** (review queue) |
+| `MaGi` | **unresolved** (review queue) |
+| `MORNING STAR` | **unresolved** (review queue) |
+| `STARS` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-star-in-the-east-ocr-body`
+
+```text
+A symbol of the rise of knowledge . forecasting perception of the Truth —Christ born in the soul. ‘* And the wise men, having heard the king, went their way; and lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.”’—Mart. ii. 9. The intellectual faculties, having observed the apparently favourable attitude of the lower principle (Herod), pursued their course, enlightened by the knowledge dawning through philosophy and science, which led them to the inner abode of the Christ-soul. ‘* But wherefore is it to a Cave and a Stable that the Star of the Understanding directs the steps of the Wise Men when seeking the birthplace of the Christ ? Because, ‘In the elements of the Body is he imprisoned, lying asleep in the caves of Iacchos, in the crib of the Oxen of Demeter.’ Because, that is, in constituting the culmination of the returning and ascending stream of emanation, Christ is attained by evolution from the lowest :—‘ From the dust of the ground to the throne of the Most High.’ ’’—The Perfect Way, p. 240. See East, E:tHer, Heron, INTExLECT, MaGi, MORNING STAR, STARS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_727|page_727]]
+

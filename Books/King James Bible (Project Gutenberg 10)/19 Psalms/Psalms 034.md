@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-34
+book_name: "Psalms"
+chapter: 34
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 34"
+  - "KJV Psalms 34"
+---
+
+# Psalms 34
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 033|Psalms 33]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 035|Psalms 35]]
+
+## Text
+
+###### Psalms 34:1
+
+I will bless the LORD at all times: his praise shall continually be in my mouth.
+
+^kjv-psa-34-1
+
+###### Psalms 34:2
+
+My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.
+
+^kjv-psa-34-2
+
+###### Psalms 34:3
+
+O magnify the LORD with me, and let us exalt his name together.
+
+^kjv-psa-34-3
+
+###### Psalms 34:4
+
+I sought the LORD, and he heard me, and delivered me from all my fears.
+
+^kjv-psa-34-4
+
+###### Psalms 34:5
+
+They looked unto him, and were lightened: and their faces were not ashamed.
+
+^kjv-psa-34-5
+
+###### Psalms 34:6
+
+This poor man cried, and the LORD heard him, and saved him out of all his troubles.
+
+^kjv-psa-34-6
+
+###### Psalms 34:7
+
+The angel of the LORD encampeth round about them that fear him, and delivereth them.
+
+^kjv-psa-34-7
+
+###### Psalms 34:8
+
+O taste and see that the LORD is good: blessed is the man that trusteth in him.
+
+^kjv-psa-34-8
+
+###### Psalms 34:9
+
+O fear the LORD, ye his saints: for there is no want to them that fear him.
+
+^kjv-psa-34-9
+
+###### Psalms 34:10
+
+The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.
+
+^kjv-psa-34-10
+
+###### Psalms 34:11
+
+Come, ye children, hearken unto me: I will teach you the fear of the LORD.
+
+^kjv-psa-34-11
+
+###### Psalms 34:12
+
+What man is he that desireth life, and loveth many days, that he may see good?
+
+^kjv-psa-34-12
+
+###### Psalms 34:13
+
+Keep thy tongue from evil, and thy lips from speaking guile.
+
+^kjv-psa-34-13
+
+###### Psalms 34:14
+
+Depart from evil, and do good; seek peace, and pursue it.
+
+^kjv-psa-34-14
+
+###### Psalms 34:15
+
+The eyes of the LORD are upon the righteous, and his ears are open unto their cry.
+
+^kjv-psa-34-15
+
+###### Psalms 34:16
+
+The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.
+
+^kjv-psa-34-16
+
+###### Psalms 34:17
+
+The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.
+
+^kjv-psa-34-17
+
+###### Psalms 34:18
+
+The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
+
+^kjv-psa-34-18
+
+###### Psalms 34:19
+
+Many are the afflictions of the righteous: but the LORD delivereth him out of them all.
+
+^kjv-psa-34-19
+
+###### Psalms 34:20
+
+He keepeth all his bones: not one of them is broken.
+
+^kjv-psa-34-20
+
+###### Psalms 34:21
+
+Evil shall slay the wicked: and they that hate the righteous shall be desolate.
+
+^kjv-psa-34-21
+
+###### Psalms 34:22
+
+The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.
+
+^kjv-psa-34-22

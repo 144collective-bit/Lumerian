@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-colour-and-black-and-white
+headword: "COLOUR, AND BLACK AND WHITE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# COLOUR, AND BLACK AND WHITE
+
+- **Entry ID:** `gaskell-1960-entry-colour-and-black-and-white`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_172`, `page_173`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_172|page_172]], [[Supporting Material/Gaskell/Source Text/page_173|page_173]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`COLOUR, AND BLACK AND WHITE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the different qualities COLOURS within the soul, and their various aspects.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `CREATION` | **unresolved** (review queue) |
+| `Kapiua` | **unresolved** (review queue) |
+| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-colour-and-black-and-white-ocr-body`
+
+```text
+Symbolic of the different qualities COLOURS within the soul, and their various aspects. “Colour is intended for qualities, differences, etc.’"—Max MULLER, S. B. of E., Vol. XV. p. 249. ‘*And since these thing are so, it is necessary to think that in all the objecte that are compound, there existed many things of all sorts and germs of all objects, having all sorts of forms and colours and tastes.” — Anaxagoras, FAIRBANKS, 3. And as the universe is so appointed (of Spirit and Matter), it is logical to accept the thesis that in all nature heterogeneity exists potentially. There was infinite diversity, in that, with the material was involved the spiritual, and within the spiritual lay the ideal forms (archetypal) of all objects that were to exist, and these were to be replete in ‘‘form, colour, and taste,’’ that is, as regards their astral, mental and physical contributions to requirement. “* The tissues of the life to be we weave with colours all our own, and in the fields of destiny we reap as we have sown.” — R. Be CaMPBELL, The New Theology, p. e **Some years ago in going through an exhibition of art and industry, I was taken to a place where a fabric of many colours was being woven by skilled workers. Each worker had a separate colour to insert in the piece, and I noted to my surprise that they were all seated on the wrong side of the frame in which the fabric was fixed, so that they could not see what they were producing, and they actually had a wrong-side pattern given them to work from ; the pattern, as each operator held it in his or her hand, was quite different from, and utterly inadequate as @ representation of, what was appearing on the further side. Every movement on the hitherside was producing something much better and more beautiful on the other, the completed whole of which was @ harmony of colour. We are all like those pattern-weavers. We are weaving on the wrong side of the fabric, and our best earthly efforts are other than they seem, and are producing a diviner result than this world shall ever see. God t us all to weave faithfully according to such pattern as we have, that the glory of the fullest revelation may be ours.”—R. J. CampsBeiyt, Serm., Life's Delusions. See CREATION, Kapiua, PROTOTYPES.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_172|page_172]], [[Supporting Material/Gaskell/Source Text/page_173|page_173]]
+

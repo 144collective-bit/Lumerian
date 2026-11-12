@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rev
+chapter_id: kjv-rev-8
+book_name: "Revelation"
+chapter: 8
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Revelation 8"
+  - "KJV Revelation 8"
+---
+
+# Revelation 8
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation|Revelation]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 007|Revelation 7]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 009|Revelation 9]]
+
+## Text
+
+###### Revelation 8:1
+
+And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+
+^kjv-rev-8-1
+
+###### Revelation 8:2
+
+And I saw the seven angels which stood before God; and to them were given seven trumpets.
+
+^kjv-rev-8-2
+
+###### Revelation 8:3
+
+And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne.
+
+^kjv-rev-8-3
+
+###### Revelation 8:4
+
+And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel’s hand.
+
+^kjv-rev-8-4
+
+###### Revelation 8:5
+
+And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
+
+^kjv-rev-8-5
+
+###### Revelation 8:6
+
+And the seven angels which had the seven trumpets prepared themselves to sound.
+
+^kjv-rev-8-6
+
+###### Revelation 8:7
+
+The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.
+
+^kjv-rev-8-7
+
+###### Revelation 8:8
+
+And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
+
+^kjv-rev-8-8
+
+###### Revelation 8:9
+
+And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
+
+^kjv-rev-8-9
+
+###### Revelation 8:10
+
+And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;
+
+^kjv-rev-8-10
+
+###### Revelation 8:11
+
+And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
+
+^kjv-rev-8-11
+
+###### Revelation 8:12
+
+And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
+
+^kjv-rev-8-12
+
+###### Revelation 8:13
+
+And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
+
+^kjv-rev-8-13

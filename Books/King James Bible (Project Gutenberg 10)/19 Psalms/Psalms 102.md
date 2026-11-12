@@ -1,0 +1,196 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-102
+book_name: "Psalms"
+chapter: 102
+verses: 28
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 102"
+  - "KJV Psalms 102"
+---
+
+# Psalms 102
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 101|Psalms 101]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 103|Psalms 103]]
+
+## Text
+
+###### Psalms 102:1
+
+Hear my prayer, O LORD, and let my cry come unto thee.
+
+^kjv-psa-102-1
+
+###### Psalms 102:2
+
+Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.
+
+^kjv-psa-102-2
+
+###### Psalms 102:3
+
+For my days are consumed like smoke, and my bones are burned as an hearth.
+
+^kjv-psa-102-3
+
+###### Psalms 102:4
+
+My heart is smitten, and withered like grass; so that I forget to eat my bread.
+
+^kjv-psa-102-4
+
+###### Psalms 102:5
+
+By reason of the voice of my groaning my bones cleave to my skin.
+
+^kjv-psa-102-5
+
+###### Psalms 102:6
+
+I am like a pelican of the wilderness: I am like an owl of the desert.
+
+^kjv-psa-102-6
+
+###### Psalms 102:7
+
+I watch, and am as a sparrow alone upon the house top.
+
+^kjv-psa-102-7
+
+###### Psalms 102:8
+
+Mine enemies reproach me all the day; and they that are mad against me are sworn against me.
+
+^kjv-psa-102-8
+
+###### Psalms 102:9
+
+For I have eaten ashes like bread, and mingled my drink with weeping.
+
+^kjv-psa-102-9
+
+###### Psalms 102:10
+
+Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.
+
+^kjv-psa-102-10
+
+###### Psalms 102:11
+
+My days are like a shadow that declineth; and I am withered like grass.
+
+^kjv-psa-102-11
+
+###### Psalms 102:12
+
+But thou, O LORD, shall endure for ever; and thy remembrance unto all generations.
+
+^kjv-psa-102-12
+
+###### Psalms 102:13
+
+Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.
+
+^kjv-psa-102-13
+
+###### Psalms 102:14
+
+For thy servants take pleasure in her stones, and favour the dust thereof.
+
+^kjv-psa-102-14
+
+###### Psalms 102:15
+
+So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.
+
+^kjv-psa-102-15
+
+###### Psalms 102:16
+
+When the LORD shall build up Zion, he shall appear in his glory.
+
+^kjv-psa-102-16
+
+###### Psalms 102:17
+
+He will regard the prayer of the destitute, and not despise their prayer.
+
+^kjv-psa-102-17
+
+###### Psalms 102:18
+
+This shall be written for the generation to come: and the people which shall be created shall praise the LORD.
+
+^kjv-psa-102-18
+
+###### Psalms 102:19
+
+For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;
+
+^kjv-psa-102-19
+
+###### Psalms 102:20
+
+To hear the groaning of the prisoner; to loose those that are appointed to death;
+
+^kjv-psa-102-20
+
+###### Psalms 102:21
+
+To declare the name of the LORD in Zion, and his praise in Jerusalem;
+
+^kjv-psa-102-21
+
+###### Psalms 102:22
+
+When the people are gathered together, and the kingdoms, to serve the LORD.
+
+^kjv-psa-102-22
+
+###### Psalms 102:23
+
+He weakened my strength in the way; he shortened my days.
+
+^kjv-psa-102-23
+
+###### Psalms 102:24
+
+I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.
+
+^kjv-psa-102-24
+
+###### Psalms 102:25
+
+Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.
+
+^kjv-psa-102-25
+
+###### Psalms 102:26
+
+They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:
+
+^kjv-psa-102-26
+
+###### Psalms 102:27
+
+But thou art the same, and thy years shall have no end.
+
+^kjv-psa-102-27
+
+###### Psalms 102:28
+
+The children of thy servants shall continue, and their seed shall be established before thee.
+
+^kjv-psa-102-28

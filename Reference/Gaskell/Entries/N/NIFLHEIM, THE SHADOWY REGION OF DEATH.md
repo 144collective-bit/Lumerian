@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-niflheim-the-shadowy-region-of-death
+headword: "NIFLHEIM, THE SHADOWY REGION OF DEATH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NIFLHEIM, THE SHADOWY REGION OF DEATH
+
+- **Entry ID:** `gaskell-1960-entry-niflheim-the-shadowy-region-of-death`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_542`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_542|page_542]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NIFLHEIM, THE SHADOWY REGION OF DEATH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the astro-physical region, or of the lower planes.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `FatHer` | **unresolved** (review queue) |
+| `HapEs` | **unresolved** (review queue) |
+| `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
+| `HELL` | **candidate (first-segment only)** → possible `HELL, HEL, HADES, SHEOL` (not linked) |
+| `HVERGELMIR` | **unresolved** (review queue) |
+| `JOTUNHEIM` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JOTUNHEIM|JOTUNHEIM]] |
+| `NINE` | **candidate (first-segment only)** → possible `NINE, NUMBER` (not linked) |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `REINCARNATION` | **unresolved** (review queue) |
+| `UNDERWORLD` | **unresolved** (review queue) |
+| `YGGDRASIL` | **candidate (first-segment only)** → possible `YGGDRASIL, GREAT ASH TREE` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-niflheim-the-shadowy-region-of-death-ocr-body`
+
+```text
+A symbol of the astro-physical region, or of the lower planes. ** Alfadir hath formed heaven and earth, and the air, and all things thereunto belonging. And what is more, he hath made man, and given him a soul which shall live and never perish, though the body shall have mouldered away, or have been burnt to ashes. And all that are righteous shall dwell with him in the place called Gimli, or Vingolf; but the wicked shall go to Hel, and thence to Nifihel (or Nifiheim), which is below in the ninth world” (Prose Edda).— Matiet, North. Antiq., p. 401. The Logos hath emanated the higher and the lower natures, and centrally the mental plane (air) and all that appertains to it. The object of existence is the formation and growth of the soul which is immortal while its lower vehicles are subject to decay and extinction while the soul is being purified stage by stage. The purified souls, or individualities, shall 535 NIGHT rise from the lower planes, and become conscious on the higher planes; but the unpurified personalities shall continue to re-incarnate below until they are perfected. See FatHer, HapEs, HEAVEN AND EARTH, HELL, HVERGELMIR, JOTUNHEIM, NINE, PERSONALITY, REINCARNATION, UNDERWORLD, YGGDRASIL.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_542|page_542]]
+

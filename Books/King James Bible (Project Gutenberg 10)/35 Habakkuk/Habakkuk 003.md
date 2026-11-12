@@ -1,0 +1,142 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-hab
+chapter_id: kjv-hab-3
+book_name: "Habakkuk"
+chapter: 3
+verses: 19
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Habakkuk 3"
+  - "KJV Habakkuk 3"
+---
+
+# Habakkuk 3
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/35 Habakkuk/Habakkuk|Habakkuk]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/35 Habakkuk/Habakkuk 002|Habakkuk 2]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/36 Zephaniah/Zephaniah 001|Zephaniah 1]]
+
+## Text
+
+###### Habakkuk 3:1
+
+A prayer of Habakkuk the prophet upon Shigionoth.
+
+^kjv-hab-3-1
+
+###### Habakkuk 3:2
+
+O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.
+
+^kjv-hab-3-2
+
+###### Habakkuk 3:3
+
+God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
+
+^kjv-hab-3-3
+
+###### Habakkuk 3:4
+
+And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
+
+^kjv-hab-3-4
+
+###### Habakkuk 3:5
+
+Before him went the pestilence, and burning coals went forth at his feet.
+
+^kjv-hab-3-5
+
+###### Habakkuk 3:6
+
+He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
+
+^kjv-hab-3-6
+
+###### Habakkuk 3:7
+
+I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
+
+^kjv-hab-3-7
+
+###### Habakkuk 3:8
+
+Was the LORD displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?
+
+^kjv-hab-3-8
+
+###### Habakkuk 3:9
+
+Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.
+
+^kjv-hab-3-9
+
+###### Habakkuk 3:10
+
+The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
+
+^kjv-hab-3-10
+
+###### Habakkuk 3:11
+
+The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
+
+^kjv-hab-3-11
+
+###### Habakkuk 3:12
+
+Thou didst march through the land in indignation, thou didst thresh the heathen in anger.
+
+^kjv-hab-3-12
+
+###### Habakkuk 3:13
+
+Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
+
+^kjv-hab-3-13
+
+###### Habakkuk 3:14
+
+Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
+
+^kjv-hab-3-14
+
+###### Habakkuk 3:15
+
+Thou didst walk through the sea with thine horses, through the heap of great waters.
+
+^kjv-hab-3-15
+
+###### Habakkuk 3:16
+
+When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
+
+^kjv-hab-3-16
+
+###### Habakkuk 3:17
+
+Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:
+
+^kjv-hab-3-17
+
+###### Habakkuk 3:18
+
+Yet I will rejoice in the LORD, I will joy in the God of my salvation.
+
+^kjv-hab-3-18
+
+###### Habakkuk 3:19
+
+The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
+
+^kjv-hab-3-19

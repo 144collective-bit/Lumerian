@@ -1,0 +1,178 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-pro
+chapter_id: kjv-pro-13
+book_name: "Proverbs"
+chapter: 13
+verses: 25
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Proverbs 13"
+  - "KJV Proverbs 13"
+---
+
+# Proverbs 13
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 012|Proverbs 12]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 014|Proverbs 14]]
+
+## Text
+
+###### Proverbs 13:1
+
+A wise son heareth his father’s instruction: but a scorner heareth not rebuke.
+
+^kjv-pro-13-1
+
+###### Proverbs 13:2
+
+A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
+
+^kjv-pro-13-2
+
+###### Proverbs 13:3
+
+He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
+
+^kjv-pro-13-3
+
+###### Proverbs 13:4
+
+The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
+
+^kjv-pro-13-4
+
+###### Proverbs 13:5
+
+A righteous man hateth lying: but a wicked man is loathsome, and cometh to shame.
+
+^kjv-pro-13-5
+
+###### Proverbs 13:6
+
+Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner.
+
+^kjv-pro-13-6
+
+###### Proverbs 13:7
+
+There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.
+
+^kjv-pro-13-7
+
+###### Proverbs 13:8
+
+The ransom of a man’s life are his riches: but the poor heareth not rebuke.
+
+^kjv-pro-13-8
+
+###### Proverbs 13:9
+
+The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.
+
+^kjv-pro-13-9
+
+###### Proverbs 13:10
+
+Only by pride cometh contention: but with the well advised is wisdom.
+
+^kjv-pro-13-10
+
+###### Proverbs 13:11
+
+Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.
+
+^kjv-pro-13-11
+
+###### Proverbs 13:12
+
+Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
+
+^kjv-pro-13-12
+
+###### Proverbs 13:13
+
+Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.
+
+^kjv-pro-13-13
+
+###### Proverbs 13:14
+
+The law of the wise is a fountain of life, to depart from the snares of death.
+
+^kjv-pro-13-14
+
+###### Proverbs 13:15
+
+Good understanding giveth favour: but the way of transgressors is hard.
+
+^kjv-pro-13-15
+
+###### Proverbs 13:16
+
+Every prudent man dealeth with knowledge: but a fool layeth open his folly.
+
+^kjv-pro-13-16
+
+###### Proverbs 13:17
+
+A wicked messenger falleth into mischief: but a faithful ambassador is health.
+
+^kjv-pro-13-17
+
+###### Proverbs 13:18
+
+Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.
+
+^kjv-pro-13-18
+
+###### Proverbs 13:19
+
+The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.
+
+^kjv-pro-13-19
+
+###### Proverbs 13:20
+
+He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
+
+^kjv-pro-13-20
+
+###### Proverbs 13:21
+
+Evil pursueth sinners: but to the righteous good shall be repayed.
+
+^kjv-pro-13-21
+
+###### Proverbs 13:22
+
+A good man leaveth an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
+
+^kjv-pro-13-22
+
+###### Proverbs 13:23
+
+Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.
+
+^kjv-pro-13-23
+
+###### Proverbs 13:24
+
+He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.
+
+^kjv-pro-13-24
+
+###### Proverbs 13:25
+
+The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.
+
+^kjv-pro-13-25

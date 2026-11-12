@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-sons-and-daughters
+headword: "SONS AND DAUGHTERS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SONS AND DAUGHTERS
+
+- **Entry ID:** `gaskell-1960-entry-sons-and-daughters`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_710`, `page_711`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_710|page_710]], [[Supporting Material/Gaskell/Source Text/page_711|page_711]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SONS AND DAUGHTERS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of opinions or ideas, and of feelings or emotions,—the progeny of mind and emotion.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `DAUGHTERS` | **unresolved** (review queue) |
+| `CHILDREN OF MEN AND WOMEN` | **unresolved** (review queue) |
+| `FATHER` | **unresolved** (review queue) |
+| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `TRANSMUTATION` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-sons-and-daughters-ocr-body`
+
+```text
+Symbols of opinions or ideas, and of feelings or emotions,—the progeny of mind and emotion. Or, the higher mental qualities and the buddhic emotions,—the progeny of the Spirit. ‘*‘ Wherefore come ye out from aimong them, and be ye separate, saith the Lord, and touch no unclean thing; and I will receive you, and will be to you a Father, and ye shall be to me sons and daughters, saith the Lord Almighty.”—2 Cor. vi. 17, 18. The indwelling Self exhorts those qualities which have in them a measure of the Divine Life to separate themselves from their lower elements, SONS and have no alliance with selfish desires. Then the Self will transmute them, and so become their progenitor, and they will be the higher mental and buddhic qualities on spiritual planes. ‘* A son denotes truth and good in the paperiseeea amas and thence in the thought ; a daughter denotes truth and good in arg will and thence in the affections. . Young men signify truths, and affections thereof.’’ — SwEDENBORG, Apoc. Rev., n. 543, 620. See DAUGHTERS, CHILDREN OF MEN AND WOMEN, FATHER, INCARNATION, TRANSMUTATION.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_710|page_710]], [[Supporting Material/Gaskell/Source Text/page_711|page_711]]
+

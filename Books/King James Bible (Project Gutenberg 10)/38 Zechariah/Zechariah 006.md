@@ -1,0 +1,118 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-zec
+chapter_id: kjv-zec-6
+book_name: "Zechariah"
+chapter: 6
+verses: 15
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Zechariah 6"
+  - "KJV Zechariah 6"
+---
+
+# Zechariah 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah|Zechariah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 005|Zechariah 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 007|Zechariah 7]]
+
+## Text
+
+###### Zechariah 6:1
+
+And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.
+
+^kjv-zec-6-1
+
+###### Zechariah 6:2
+
+In the first chariot were red horses; and in the second chariot black horses;
+
+^kjv-zec-6-2
+
+###### Zechariah 6:3
+
+And in the third chariot white horses; and in the fourth chariot grisled and bay horses.
+
+^kjv-zec-6-3
+
+###### Zechariah 6:4
+
+Then I answered and said unto the angel that talked with me, What are these, my lord?
+
+^kjv-zec-6-4
+
+###### Zechariah 6:5
+
+And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth.
+
+^kjv-zec-6-5
+
+###### Zechariah 6:6
+
+The black horses which are therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
+
+^kjv-zec-6-6
+
+###### Zechariah 6:7
+
+And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
+
+^kjv-zec-6-7
+
+###### Zechariah 6:8
+
+Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.
+
+^kjv-zec-6-8
+
+###### Zechariah 6:9
+
+And the word of the LORD came unto me, saying,
+
+^kjv-zec-6-9
+
+###### Zechariah 6:10
+
+Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
+
+^kjv-zec-6-10
+
+###### Zechariah 6:11
+
+Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;
+
+^kjv-zec-6-11
+
+###### Zechariah 6:12
+
+And speak unto him, saying, Thus speaketh the LORD of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the LORD:
+
+^kjv-zec-6-12
+
+###### Zechariah 6:13
+
+Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both.
+
+^kjv-zec-6-13
+
+###### Zechariah 6:14
+
+And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD.
+
+^kjv-zec-6-14
+
+###### Zechariah 6:15
+
+And they that are far off shall come and build in the temple of the LORD, and ye shall know that the LORD of hosts hath sent me unto you. And this shall come to pass, if ye will diligently obey the voice of the LORD your God.
+
+^kjv-zec-6-15

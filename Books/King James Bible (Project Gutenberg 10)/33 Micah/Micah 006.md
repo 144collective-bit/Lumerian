@@ -1,0 +1,124 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-mic
+chapter_id: kjv-mic-6
+book_name: "Micah"
+chapter: 6
+verses: 16
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Micah 6"
+  - "KJV Micah 6"
+---
+
+# Micah 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/33 Micah/Micah|Micah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/33 Micah/Micah 005|Micah 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/33 Micah/Micah 007|Micah 7]]
+
+## Text
+
+###### Micah 6:1
+
+Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
+
+^kjv-mic-6-1
+
+###### Micah 6:2
+
+Hear ye, O mountains, the LORD’s controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.
+
+^kjv-mic-6-2
+
+###### Micah 6:3
+
+O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.
+
+^kjv-mic-6-3
+
+###### Micah 6:4
+
+For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
+
+^kjv-mic-6-4
+
+###### Micah 6:5
+
+O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.
+
+^kjv-mic-6-5
+
+###### Micah 6:6
+
+Wherewith shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?
+
+^kjv-mic-6-6
+
+###### Micah 6:7
+
+Will the LORD be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?
+
+^kjv-mic-6-7
+
+###### Micah 6:8
+
+He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
+
+^kjv-mic-6-8
+
+###### Micah 6:9
+
+The LORD’s voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it.
+
+^kjv-mic-6-9
+
+###### Micah 6:10
+
+Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?
+
+^kjv-mic-6-10
+
+###### Micah 6:11
+
+Shall I count them pure with the wicked balances, and with the bag of deceitful weights?
+
+^kjv-mic-6-11
+
+###### Micah 6:12
+
+For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.
+
+^kjv-mic-6-12
+
+###### Micah 6:13
+
+Therefore also will I make thee sick in smiting thee, in making thee desolate because of thy sins.
+
+^kjv-mic-6-13
+
+###### Micah 6:14
+
+Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword.
+
+^kjv-mic-6-14
+
+###### Micah 6:15
+
+Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.
+
+^kjv-mic-6-15
+
+###### Micah 6:16
+
+For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
+
+^kjv-mic-6-16

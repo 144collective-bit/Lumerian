@@ -1,0 +1,72 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-cain
+headword: "CAIN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CAIN
+
+- **Entry ID:** `gaskell-1960-entry-cain`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_143`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_143|page_143]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CAIN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the centre of the personality—the I am I feeling in the lower mind, which causes the illusion of separateness, and represents the lower self.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ABEL` | **candidate (first-segment only)** → possible `ABEL, A KEEPER OF SHEEP` (not linked) |
+| `AHANKARA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AHANKARA|AHANKARA]] |
+| `ATOM (perm.)` | **candidate (first-segment only)** → possible `ATOM, PERMANENT ASTRAL` (not linked) |
+| `Crry` | **unresolved** (review queue) |
+| `COUNTENANCE` | **candidate (ambiguous first-segment)** → COUNTENANCE, GREATER AND LESSER; COUNTENANCE, OR FACE (not linked) |
+| `FacE (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
+| `Fruir (ground)` | **unresolved** (review queue) |
+| `FuarrivE` | **unresolved** (review queue) |
+| `Monap OF LIFE` | **unresolved** (review queue) |
+| `Nop (land)` | **unresolved** (review queue) |
+| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
+| `WanDERERS` | **candidate (first-segment only)** → possible `WANDERERS, OR WAYFARERS` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-cain-ocr-body`
+
+```text
+A symbol of the centre of the personality—the I am I feeling in the lower mind, which causes the illusion of separateness, and represents the lower self. CAKE “Cain was a tillor of the ground.’’°— Gen. iv. 2. The sense of self and separateness supervises the growth of the lower desires which spring from the lower nature. ‘That is not first which is spiritual, but that which is natural; and afterwards that which is spiritual (1 Cor. xv. 46). What is first developed out of man is carnal,—that ‘carnal mind which is enmity against God ; which is not subject to the law of God, neither indeed can be.’ (Rom. viii. 7). This is Cain. But there is @ second birth; another life is born, which by grace springs out of the same old Adam; and this second birth, this ‘spiritual mind,’ is Abel.”—-A. JuKES, Types of Genesis, p. 88. ** By ‘Cain’ is signified faith separate from love.’ ‘‘A ‘tiller of the ground ° is one who is without charity, whatever pretensions he may make to faith which when separated from love is no faith.’?— SwEDENBORG, Arc. Cel. to Gen. iv. ‘* Cain, who refers everything to himself, is the self-loving opinion. Abel, who refers everything to God, is the God-loving Opinion.’’"— PHILO JuDzus, Yonge’s trans. orks, Vol. IV. p. 249. ‘Cain, whereby is understood in the language of nature, a source out of the centre of the fiery desire, a self-ful will of the fiery might of the soul.”-—J. BEHMEN, Mystertum Magnum, p. 166. See ABEL, AHANKARA, ATOM (perm.), Crry, COUNTENANCE, FacE (ground), Fruir (ground), FuarrivE, Monap OF LIFE, Nop (land), SETH, WanDERERS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_143|page_143]]
+

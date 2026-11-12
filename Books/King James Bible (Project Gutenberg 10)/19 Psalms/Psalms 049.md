@@ -1,0 +1,148 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-49
+book_name: "Psalms"
+chapter: 49
+verses: 20
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 49"
+  - "KJV Psalms 49"
+---
+
+# Psalms 49
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 048|Psalms 48]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 050|Psalms 50]]
+
+## Text
+
+###### Psalms 49:1
+
+Hear this, all ye people; give ear, all ye inhabitants of the world:
+
+^kjv-psa-49-1
+
+###### Psalms 49:2
+
+Both low and high, rich and poor, together.
+
+^kjv-psa-49-2
+
+###### Psalms 49:3
+
+My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.
+
+^kjv-psa-49-3
+
+###### Psalms 49:4
+
+I will incline mine ear to a parable: I will open my dark saying upon the harp.
+
+^kjv-psa-49-4
+
+###### Psalms 49:5
+
+Wherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?
+
+^kjv-psa-49-5
+
+###### Psalms 49:6
+
+They that trust in their wealth, and boast themselves in the multitude of their riches;
+
+^kjv-psa-49-6
+
+###### Psalms 49:7
+
+None of them can by any means redeem his brother, nor give to God a ransom for him:
+
+^kjv-psa-49-7
+
+###### Psalms 49:8
+
+(For the redemption of their soul is precious, and it ceaseth for ever:)
+
+^kjv-psa-49-8
+
+###### Psalms 49:9
+
+That he should still live for ever, and not see corruption.
+
+^kjv-psa-49-9
+
+###### Psalms 49:10
+
+For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.
+
+^kjv-psa-49-10
+
+###### Psalms 49:11
+
+Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.
+
+^kjv-psa-49-11
+
+###### Psalms 49:12
+
+Nevertheless man being in honour abideth not: he is like the beasts that perish.
+
+^kjv-psa-49-12
+
+###### Psalms 49:13
+
+This their way is their folly: yet their posterity approve their sayings. Selah.
+
+^kjv-psa-49-13
+
+###### Psalms 49:14
+
+Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.
+
+^kjv-psa-49-14
+
+###### Psalms 49:15
+
+But God will redeem my soul from the power of the grave: for he shall receive me. Selah.
+
+^kjv-psa-49-15
+
+###### Psalms 49:16
+
+Be not thou afraid when one is made rich, when the glory of his house is increased;
+
+^kjv-psa-49-16
+
+###### Psalms 49:17
+
+For when he dieth he shall carry nothing away: his glory shall not descend after him.
+
+^kjv-psa-49-17
+
+###### Psalms 49:18
+
+Though while he lived he blessed his soul: and men will praise thee, when thou doest well to thyself.
+
+^kjv-psa-49-18
+
+###### Psalms 49:19
+
+He shall go to the generation of his fathers; they shall never see light.
+
+^kjv-psa-49-19
+
+###### Psalms 49:20
+
+Man that is in honour, and understandeth not, is like the beasts that perish.
+
+^kjv-psa-49-20

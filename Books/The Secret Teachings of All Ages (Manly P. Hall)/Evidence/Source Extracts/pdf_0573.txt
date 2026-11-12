@@ -1,0 +1,46 @@
+Manly Palmer Hall
+    4. The numerical cipher. Many cryptograms have been produced in which numbers in
+various sequences are substituted for letters, words, or even complete thoughts. The read-
+ing of numerical ciphers usually depends upon the possession of specially arranged tables
+of correspondences. The numerical cryptograms of the Old Testament are so complicated
+that only a few scholars versed in rabbinical lore have ever sought to unravel their myster-
+ies. In his Œdipus Ægyptiacus, Athanasius Kircher describes several Arabian Qabbalistic
+theorems, and a great part of the Pythagorean mystery was concealed in a secret method
+in vogue among Greek mystics of substituting letters for numbers.
+    The most simple numerical cipher is that in which the letters of the alphabet are
+exchanged for numbers in ordinary sequence. Thus A becomes 1, B 2, C 3, and so on,
+counting both I and J as 9 and both U and V as 20. The word yes by this system would
+be written 23-5-18. This cipher can be made more difficult by reversing the alphabet so
+that Z becomes 1, Y 2, X 3, and so on. By inserting a non-significant, or uncounted, num-
+ber after each of the significant numbers the cipher is still more effectively concealed,
+thus: 23-16-5-9-18. The word yes is found by eliminating the second and fourth num-
+bers. By adding 23, 5, and 18 together the sum 46 results. Therefore 46 is the numerical
+equivalent of the word yes. According to the simple numerical cipher, the sum 138 is
+equal to the words Note carefully. Therefore in a book using this method, line 138, page
+138, or paragraph 138 may contain the concealed message. In addition to this simple
+numerical cipher there are scores of others so complicated that no one without the key
+can hope to solve them.
+    Authors sometimes based their cryptograms upon the numerical value of their own
+names; for example, Sir Francis Bacon repeatedly used the cryptic number 33 – the nu-
+merical equivalent of his name. Numerical ciphers often involve the pagination of a book.
+Imperfect pagination, though generally attributed to carelessness, often conceals impor-
+tant secrets. The mispaginations found in the 1623 folio of “Shakespeare” and the consis-
+tent recurrence of similar errors in various volumes printed about the same period have
+occasioned considerable thought among scholars and cryptogrammatists. In Baconian
+cryptograms, all page numbers ending in 89 seem to have a special significance. The 89th
+page of the Comedies in the 1623 folio of “Shakespeare” shows an error of type in the
+pagination, the “9” being from a considerably smaller font than the “8.” The 189th page is
+entirely missing, there being two pages numbered 187; and page 188 shows the second “ 8
+“ scarcely more than half the size of the first one. Page 289 is correctly numbered and has
+no unusual features, but page 89 of the Histories is missing. Several volumes published
+by Bacon show similar errors, page 89 being often involved.
+    There are also numerical ciphers from which the cryptic message may be extracted by
+counting every tenth word, every twentieth word, or every fiftieth word. In some cases the
+count is irregular. The first important word may be found by counting 100, the second by
+counting 90, the third by counting 80, and so on until the count of 10 is reached. The count
+then returns to 100 and the process is repeated.
+    5. The musical cipher. John Wilkins, afterwards Bishop of Chester, in 1641 cir-
+culated an anonymous essay entitled Mercury, or the Secret and Swift Messenger.
+In this little volume, which was largely derived from the more voluminous treatises
+
+572

@@ -1,0 +1,178 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-mat
+chapter_id: kjv-mat-4
+book_name: "Matthew"
+chapter: 4
+verses: 25
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Matthew 4"
+  - "KJV Matthew 4"
+---
+
+# Matthew 4
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/40 Matthew/Matthew|Matthew]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/40 Matthew/Matthew 003|Matthew 3]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/40 Matthew/Matthew 005|Matthew 5]]
+
+## Text
+
+###### Matthew 4:1
+
+Then was Jesus led up of the spirit into the wilderness to be tempted of the devil.
+
+^kjv-mat-4-1
+
+###### Matthew 4:2
+
+And when he had fasted forty days and forty nights, he was afterward an hungred.
+
+^kjv-mat-4-2
+
+###### Matthew 4:3
+
+And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.
+
+^kjv-mat-4-3
+
+###### Matthew 4:4
+
+But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+
+^kjv-mat-4-4
+
+###### Matthew 4:5
+
+Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
+
+^kjv-mat-4-5
+
+###### Matthew 4:6
+
+And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+
+^kjv-mat-4-6
+
+###### Matthew 4:7
+
+Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.
+
+^kjv-mat-4-7
+
+###### Matthew 4:8
+
+Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
+
+^kjv-mat-4-8
+
+###### Matthew 4:9
+
+And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.
+
+^kjv-mat-4-9
+
+###### Matthew 4:10
+
+Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+^kjv-mat-4-10
+
+###### Matthew 4:11
+
+Then the devil leaveth him, and, behold, angels came and ministered unto him.
+
+^kjv-mat-4-11
+
+###### Matthew 4:12
+
+Now when Jesus had heard that John was cast into prison, he departed into Galilee;
+
+^kjv-mat-4-12
+
+###### Matthew 4:13
+
+And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
+
+^kjv-mat-4-13
+
+###### Matthew 4:14
+
+That it might be fulfilled which was spoken by Esaias the prophet, saying,
+
+^kjv-mat-4-14
+
+###### Matthew 4:15
+
+The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
+
+^kjv-mat-4-15
+
+###### Matthew 4:16
+
+The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
+
+^kjv-mat-4-16
+
+###### Matthew 4:17
+
+From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
+
+^kjv-mat-4-17
+
+###### Matthew 4:18
+
+And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
+
+^kjv-mat-4-18
+
+###### Matthew 4:19
+
+And he saith unto them, Follow me, and I will make you fishers of men.
+
+^kjv-mat-4-19
+
+###### Matthew 4:20
+
+And they straightway left their nets, and followed him.
+
+^kjv-mat-4-20
+
+###### Matthew 4:21
+
+And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
+
+^kjv-mat-4-21
+
+###### Matthew 4:22
+
+And they immediately left the ship and their father, and followed him.
+
+^kjv-mat-4-22
+
+###### Matthew 4:23
+
+And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
+
+^kjv-mat-4-23
+
+###### Matthew 4:24
+
+And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+
+^kjv-mat-4-24
+
+###### Matthew 4:25
+
+And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
+
+^kjv-mat-4-25

@@ -1,0 +1,166 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-50
+book_name: "Psalms"
+chapter: 50
+verses: 23
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 50"
+  - "KJV Psalms 50"
+---
+
+# Psalms 50
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 049|Psalms 49]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 051|Psalms 51]]
+
+## Text
+
+###### Psalms 50:1
+
+The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
+
+^kjv-psa-50-1
+
+###### Psalms 50:2
+
+Out of Zion, the perfection of beauty, God hath shined.
+
+^kjv-psa-50-2
+
+###### Psalms 50:3
+
+Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.
+
+^kjv-psa-50-3
+
+###### Psalms 50:4
+
+He shall call to the heavens from above, and to the earth, that he may judge his people.
+
+^kjv-psa-50-4
+
+###### Psalms 50:5
+
+Gather my saints together unto me; those that have made a covenant with me by sacrifice.
+
+^kjv-psa-50-5
+
+###### Psalms 50:6
+
+And the heavens shall declare his righteousness: for God is judge himself. Selah.
+
+^kjv-psa-50-6
+
+###### Psalms 50:7
+
+Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God.
+
+^kjv-psa-50-7
+
+###### Psalms 50:8
+
+I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me.
+
+^kjv-psa-50-8
+
+###### Psalms 50:9
+
+I will take no bullock out of thy house, nor he goats out of thy folds.
+
+^kjv-psa-50-9
+
+###### Psalms 50:10
+
+For every beast of the forest is mine, and the cattle upon a thousand hills.
+
+^kjv-psa-50-10
+
+###### Psalms 50:11
+
+I know all the fowls of the mountains: and the wild beasts of the field are mine.
+
+^kjv-psa-50-11
+
+###### Psalms 50:12
+
+If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof.
+
+^kjv-psa-50-12
+
+###### Psalms 50:13
+
+Will I eat the flesh of bulls, or drink the blood of goats?
+
+^kjv-psa-50-13
+
+###### Psalms 50:14
+
+Offer unto God thanksgiving; and pay thy vows unto the most High:
+
+^kjv-psa-50-14
+
+###### Psalms 50:15
+
+And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
+
+^kjv-psa-50-15
+
+###### Psalms 50:16
+
+But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
+
+^kjv-psa-50-16
+
+###### Psalms 50:17
+
+Seeing thou hatest instruction, and casteth my words behind thee.
+
+^kjv-psa-50-17
+
+###### Psalms 50:18
+
+When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
+
+^kjv-psa-50-18
+
+###### Psalms 50:19
+
+Thou givest thy mouth to evil, and thy tongue frameth deceit.
+
+^kjv-psa-50-19
+
+###### Psalms 50:20
+
+Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+
+^kjv-psa-50-20
+
+###### Psalms 50:21
+
+These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+
+^kjv-psa-50-21
+
+###### Psalms 50:22
+
+Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+
+^kjv-psa-50-22
+
+###### Psalms 50:23
+
+Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
+
+^kjv-psa-50-23

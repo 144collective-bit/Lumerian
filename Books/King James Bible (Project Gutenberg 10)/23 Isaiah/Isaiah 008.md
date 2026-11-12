@@ -1,0 +1,163 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-8
+book_name: "Isaiah"
+chapter: 8
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 8"
+  - "KJV Isaiah 8"
+---
+
+# Isaiah 8
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 007|Isaiah 7]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 009|Isaiah 9]]
+
+## Text
+
+> [!note] Unnumbered preface / superscription (before Isaiah 8:4)
+> Then said the LORD to me, Call his name Mahershalalhashbaz. Then said the LORD to me, Call his name Mahershalalhashbaz.
+
+###### Isaiah 8:1
+
+Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Mahershalalhashbaz.
+
+^kjv-isa-8-1
+
+###### Isaiah 8:2
+
+And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
+
+^kjv-isa-8-2
+
+###### Isaiah 8:3
+
+And I went unto the prophetess; and she conceived, and bare a son.
+
+^kjv-isa-8-3
+
+###### Isaiah 8:4
+
+For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
+
+^kjv-isa-8-4
+
+###### Isaiah 8:5
+
+The LORD spake also unto me again, saying,
+
+^kjv-isa-8-5
+
+###### Isaiah 8:6
+
+Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son;
+
+^kjv-isa-8-6
+
+###### Isaiah 8:7
+
+Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
+
+^kjv-isa-8-7
+
+###### Isaiah 8:8
+
+And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
+
+^kjv-isa-8-8
+
+###### Isaiah 8:9
+
+Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
+
+^kjv-isa-8-9
+
+###### Isaiah 8:10
+
+Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
+
+^kjv-isa-8-10
+
+###### Isaiah 8:11
+
+For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
+
+^kjv-isa-8-11
+
+###### Isaiah 8:12
+
+Say ye not, A confederacy, to all them to whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
+
+^kjv-isa-8-12
+
+###### Isaiah 8:13
+
+Sanctify the LORD of hosts himself; and let him be your fear, and let him be your dread.
+
+^kjv-isa-8-13
+
+###### Isaiah 8:14
+
+And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
+
+^kjv-isa-8-14
+
+###### Isaiah 8:15
+
+And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
+
+^kjv-isa-8-15
+
+###### Isaiah 8:16
+
+Bind up the testimony, seal the law among my disciples.
+
+^kjv-isa-8-16
+
+###### Isaiah 8:17
+
+And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.
+
+^kjv-isa-8-17
+
+###### Isaiah 8:18
+
+Behold, I and the children whom the LORD hath given me are for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion.
+
+^kjv-isa-8-18
+
+###### Isaiah 8:19
+
+And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
+
+^kjv-isa-8-19
+
+###### Isaiah 8:20
+
+To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
+
+^kjv-isa-8-20
+
+###### Isaiah 8:21
+
+And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
+
+^kjv-isa-8-21
+
+###### Isaiah 8:22
+
+And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness.
+
+^kjv-isa-8-22

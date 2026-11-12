@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-2sa
+chapter_id: kjv-2sa-9
+book_name: "2 Samuel"
+chapter: 9
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "2 Samuel 9"
+  - "KJV 2 Samuel 9"
+---
+
+# 2 Samuel 9
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/10 2 Samuel/2 Samuel|2 Samuel]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/10 2 Samuel/2 Samuel 008|2 Samuel 8]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/10 2 Samuel/2 Samuel 010|2 Samuel 10]]
+
+## Text
+
+###### 2 Samuel 9:1
+
+And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?
+
+^kjv-2sa-9-1
+
+###### 2 Samuel 9:2
+
+And there was of the house of Saul a servant whose name was Ziba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he.
+
+^kjv-2sa-9-2
+
+###### 2 Samuel 9:3
+
+And the king said, Is there not yet any of the house of Saul, that I may shew the kindness of God unto him? And Ziba said unto the king, Jonathan hath yet a son, which is lame on his feet.
+
+^kjv-2sa-9-3
+
+###### 2 Samuel 9:4
+
+And the king said unto him, Where is he? And Ziba said unto the king, Behold, he is in the house of Machir, the son of Ammiel, in Lodebar.
+
+^kjv-2sa-9-4
+
+###### 2 Samuel 9:5
+
+Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.
+
+^kjv-2sa-9-5
+
+###### 2 Samuel 9:6
+
+Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
+
+^kjv-2sa-9-6
+
+###### 2 Samuel 9:7
+
+And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.
+
+^kjv-2sa-9-7
+
+###### 2 Samuel 9:8
+
+And he bowed himself, and said, What is thy servant, that thou shouldest look upon such a dead dog as I am?
+
+^kjv-2sa-9-8
+
+###### 2 Samuel 9:9
+
+Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house.
+
+^kjv-2sa-9-9
+
+###### 2 Samuel 9:10
+
+Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in the fruits, that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
+
+^kjv-2sa-9-10
+
+###### 2 Samuel 9:11
+
+Then said Ziba unto the king, According to all that my lord the king hath commanded his servant, so shall thy servant do. As for Mephibosheth, said the king, he shall eat at my table, as one of the king’s sons.
+
+^kjv-2sa-9-11
+
+###### 2 Samuel 9:12
+
+And Mephibosheth had a young son, whose name was Micha. And all that dwelt in the house of Ziba were servants unto Mephibosheth.
+
+^kjv-2sa-9-12
+
+###### 2 Samuel 9:13
+
+So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.
+
+^kjv-2sa-9-13

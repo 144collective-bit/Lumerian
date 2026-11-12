@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-hollow-ships
+headword: "HOLLOW SHIPS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HOLLOW SHIPS
+
+- **Entry ID:** `gaskell-1960-entry-hollow-ships`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_372`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_372|page_372]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HOLLOW SHIPS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the prototypes of the soul-vehicles (ships) ; hence they are the ideal patterns on the higher mental plane, and are therefore beyond the form levels.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `APOLLO` | **candidate (first-segment only)** → possible `APOLLO, SON OF ZEUS` (not linked) |
+| `CHRYSE` | **candidate (first-segment only)** → possible `CHRYSE, PRIEST OF APOLLO` (not linked) |
+| `FILLET` | **unresolved** (review queue) |
+| `KapMa` | **unresolved** (review queue) |
+| `PROTOTYPES` | **candidate (first-segment only)** → possible `PROTOTYPES, FIXED` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-hollow-ships-ocr-body`
+
+```text
+A symbol of the prototypes of the soul-vehicles (ships) ; hence they are the ideal patterns on the higher mental plane, and are therefore beyond the form levels. “Let me not find thee, old man, (Chryse, priest of Apollo), at the hollow ships, either now loitering, or hereafter returning, lest the staff and fillet of the god (Apollo) avail thee not.’’—Jiiad, Bk. I. The lower self or desire-mind (Agamemnon) soliloquises thus :—‘I look not to thee—spiritual mind (Chryse),—nor would I see thee at the ideal prototypes on the higher mental subplanes, either now or hereafter’: that is, ‘I apprehend thee not in the operation of those laws which make for the karmic compensation of deeds committed ; in case the will and wisdom of the Spirit (Apollo) satisfy not at the same time the lower needs of the personality.’ The desiremind does not recognise the place of the spiritual mind in the moral order, and it relies on the course of the natural order. See APOLLO, CHRYSE, FILLET, KapMa, PROTOTYPES.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_372|page_372]]
+

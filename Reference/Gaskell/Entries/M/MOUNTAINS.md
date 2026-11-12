@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-mountains
+headword: "MOUNTAINS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# MOUNTAINS
+
+- **Entry ID:** `gaskell-1960-entry-mountains`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_523`, `page_524`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_523|page_523]], [[Supporting Material/Gaskell/Source Text/page_524|page_524]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`MOUNTAINS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of aspirations; the attainment of ideals ; and the higher states of consciousness.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Caucasus` | **unresolved** (review queue) |
+| `HILL country` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] |
+| `QaFr. MOURNER’` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-mountains-ocr-body`
+
+```text
+A symbol of aspirations; the attainment of ideals ; and the higher states of consciousness. ‘* T praise the cloud and rain which make thy body grow on the summit of the mountains. I praise the high mountains where thou hast grown, O Homa!”’— Homa Yasht, Hava, Essays. ‘‘ Praise,”’ or the sense of appreciative love, is extended to the wisdom (cloud) and truth (rain) which are the means of accelerating the growth of the aspiring higher emotions. The “high mountains ’? symbolise the state of 616 MOUNTAINS | highest attainment,—tke Atman,— and through this consummation the Self (Homa) knows and becomes Iteelf. “The Spirit of Wisdom answered thus :—‘ Of these mountains which are n the world, there are some which are moderators of the wind, and there are some which are warders off ; there are some which are the place and vent, the resting-place and support of the rainy cloud; and there are some which are smiters of Aharman and the demons, and maintainers and vivifiers of the creation of Auharmazd, the Lord.’ "— Mainogi Khirad, Ch. LVI. S. B. of £. The principle of Buddhi uttered the truth from within :—Of the various aspirations which arise in the lower nature, there are some which moderate the desire-mental energy, and there are some which guide it into harmless channels. There are some which are the occasion and means, the reason and justification of the forthpouring of Truth and Love into the soul; and there are some which destroy the love of self, and self-seeking desires, and draw out and energise the higher emotions which proceed from the Divine Nature within. ‘‘By mountains are understood those who are in the good of love, by reason that the angels dwell upon mountains ; such as are in love to the Lord dwelling on high mountains, and such as are in love to their neighbour dwelling on lower ones; wherefore by every mountain is signified every good of love.” —SwEDENBora, Apoc. Rev., n. 336. ‘* Let the mountains receive peace for thy people, and the hills righteousness" (Ps. Ixxii. 3). ‘‘The ‘mountains’ are lofty souls, the ‘hills’ little souls. But for this reason do the mountains receive peace, that the hills may be able to receive righteousness. What is the righteousness which the hills receive? Faith, for ‘the just doth live by faith.’ The smaller souls, however, would not receive faith unless the greater souls, which are called mountains, were illuminated by Wisdom herself, that they may be able to transmit to the little ones what the little ones can receive ; and the ‘hills’ live by faith, because the ‘ mountains’ receive peace.’’—AUGUSTINE, Gospel of John, Vol. I. p. 2. ‘‘The more profoundly we feel the reality of the great eternity whither we are being drawn, the greater do all things here become. When the mist lifts, and shows the snowy summits of the ‘mountains of God,’ the nearer lower ranges which we thought the highest dwindle indeed, but gain in sublimity MOURNER’S ROBE and meaning by the loftier peaks to which they lead up. Unless men and women live for eternity, they are ‘merely players,’ and all their busy days ‘like a tale told by an idiot, full of sound and fury, signifying nothing.’’’—A. MACLAREN, Sermons, 2nd Series, p. 146. See Caucasus, HILL country, QaFr. MOURNER’
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_523|page_523]], [[Supporting Material/Gaskell/Source Text/page_524|page_524]]
+

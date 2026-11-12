@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-gjoll-or-gjall-river
+headword: "GJOLL, OR GJALL, RIVER"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GJOLL, OR GJALL, RIVER
+
+- **Entry ID:** `gaskell-1960-entry-gjoll-or-gjall-river`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_319`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GJOLL, OR GJALL, RIVER :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the higher faculties of the mind which lead to truth through the intuition.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ANAURUS RIVER` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANAURUS RIVER|ANAURUS RIVER]] |
+| `BRIDGE OF GJALL` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] |
+| `GaTE` | **unresolved** (review queue) |
+| `Norts` | **unresolved** (review queue) |
+| `Styx` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-gjoll-or-gjall-river-ocr-body`
+
+```text
+A symbol of the higher faculties of the mind which lead to truth through the intuition. ‘The Gjoll river being the nearest to the gate of the abode of death *’ (Prose Edda).—Ma..et, North. Anttg., p. 401. The higher mental] faculties are at the entrance of the higher planes which the consciousness attains to through the death of the lower nature. See ANAURUS RIVER, BRIDGE OF GJALL, GaTE, Norts, Styx.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+

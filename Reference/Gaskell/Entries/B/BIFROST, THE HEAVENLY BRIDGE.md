@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-bifrost-the-heavenly-bridge
+headword: "BIFROST, THE HEAVENLY BRIDGE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BIFROST, THE HEAVENLY BRIDGE
+
+- **Entry ID:** `gaskell-1960-entry-bifrost-the-heavenly-bridge`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_109`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_109|page_109]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BIFROST, THE HEAVENLY BRIDGE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the higher mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Bow` | **unresolved** (review queue) |
+| `Bripcr` | **unresolved** (review queue) |
+| `Cioups` | **unresolved** (review queue) |
+| `FA` | **unresolved** (review queue) |
+| `GanGLer` | **unresolved** (review queue) |
+| `Gops` | **unresolved** (review queue) |
+| `HermpaLt` | **unresolved** (review queue) |
+| `MUSPELL` | **candidate (first-segment only)** → possible `MUSPELL, SONS OF` (not linked) |
+| `RAINBOW` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-bifrost-the-heavenly-bridge-ocr-body`
+
+```text
+A symbol of the higher mind. *““Which is the path leading from earth to heaven? ‘That is a senseless uestion,’ replied Har, with a smile of rision. ‘ Hast thou not been told that the gods made a bridge from earth to heaven, and called it Bifrost? You must surely have seen it; but perhaps thou callest it the rainbow. It is of three hues, and is constructed with more art than any other work. But strong though it be, it will be broken to pieces when the sons of Muspell, after having traversed great rivers, shall ride over it.”""—-MaLLet, North. Antig., Prose Edda, pp. 408-9. This refers to the period before the spiritual egos (sons of Muspell) had descended to incarnate in the lower nature. After traversing the buddhic states (rivers) they passed by means of the higher mind (bridge) to be attached to the personalities of the lower mind. Then, as it were, the bridge is broken down, for the lower consciousness is unable to rise to higher levels. The ‘‘ three hues” are the three sub-planes of the higher mind. See Bow, Bripcr, Cioups, FA, GanGLer, Gops, HermpaLt, MUSPELL, RAINBOW.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_109|page_109]]
+

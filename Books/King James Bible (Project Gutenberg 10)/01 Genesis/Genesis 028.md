@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gen
+chapter_id: kjv-gen-28
+book_name: "Genesis"
+chapter: 28
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Genesis 28"
+  - "KJV Genesis 28"
+---
+
+# Genesis 28
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis|Genesis]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 027|Genesis 27]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 029|Genesis 29]]
+
+## Text
+
+###### Genesis 28:1
+
+And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.
+
+^kjv-gen-28-1
+
+###### Genesis 28:2
+
+Arise, go to Padanaram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother.
+
+^kjv-gen-28-2
+
+###### Genesis 28:3
+
+And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;
+
+^kjv-gen-28-3
+
+###### Genesis 28:4
+
+And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.
+
+^kjv-gen-28-4
+
+###### Genesis 28:5
+
+And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother.
+
+^kjv-gen-28-5
+
+###### Genesis 28:6
+
+When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;
+
+^kjv-gen-28-6
+
+###### Genesis 28:7
+
+And that Jacob obeyed his father and his mother, and was gone to Padanaram;
+
+^kjv-gen-28-7
+
+###### Genesis 28:8
+
+And Esau seeing that the daughters of Canaan pleased not Isaac his father;
+
+^kjv-gen-28-8
+
+###### Genesis 28:9
+
+Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife.
+
+^kjv-gen-28-9
+
+###### Genesis 28:10
+
+And Jacob went out from Beersheba, and went toward Haran.
+
+^kjv-gen-28-10
+
+###### Genesis 28:11
+
+And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep.
+
+^kjv-gen-28-11
+
+###### Genesis 28:12
+
+And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
+
+^kjv-gen-28-12
+
+###### Genesis 28:13
+
+And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;
+
+^kjv-gen-28-13
+
+###### Genesis 28:14
+
+And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
+
+^kjv-gen-28-14
+
+###### Genesis 28:15
+
+And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.
+
+^kjv-gen-28-15
+
+###### Genesis 28:16
+
+And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.
+
+^kjv-gen-28-16
+
+###### Genesis 28:17
+
+And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.
+
+^kjv-gen-28-17
+
+###### Genesis 28:18
+
+And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it.
+
+^kjv-gen-28-18
+
+###### Genesis 28:19
+
+And he called the name of that place Bethel: but the name of that city was called Luz at the first.
+
+^kjv-gen-28-19
+
+###### Genesis 28:20
+
+And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
+
+^kjv-gen-28-20
+
+###### Genesis 28:21
+
+So that I come again to my father’s house in peace; then shall the LORD be my God:
+
+^kjv-gen-28-21
+
+###### Genesis 28:22
+
+And this stone, which I have set for a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee.
+
+^kjv-gen-28-22

@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-censers-of-burning-incense
+headword: "CENSERS OF BURNING INCENSE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CENSERS OF BURNING INCENSE
+
+- **Entry ID:** `gaskell-1960-entry-censers-of-burning-incense`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_151`, `page_152`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_151|page_151]], [[Supporting Material/Gaskell/Source Text/page_152|page_152]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CENSERS OF BURNING INCENSE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the purifying fire and aroma of the spiritual nature (buddhi) which permeates the mind (air) or disciplined and devout lower qualities (worshippers) in the human soul (church).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `ALTAR` | **unresolved** (review queue) |
+| `ATONEMENT` | **unresolved** (review queue) |
+| `Curyszis` | **unresolved** (review queue) |
+| `Fire` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
+| `INcensz` | **unresolved** (review queue) |
+| `MOsEs` | **candidate (first-segment only)** → possible `MOSES, THE SERVANT OF GOD` (not linked) |
+| `PESTILENCE` | **unresolved** (review queue) |
+| `PROCESSION` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-censers-of-burning-incense-ocr-body`
+
+```text
+Symbolic of the purifying fire and aroma of the spiritual nature (buddhi) which permeates the mind (air) or disciplined and devout lower qualities (worshippers) in the human soul (church). The swinging of the censers signifies the functioning of buddhi in the lower nature, whereby the purifying and transmutation of the lower qualities are brought about. *‘And Moses said unto Aaron, Take thy censer, and put fire therein from off the altar, and lay incense thereon, and carry wo oe «Oh OMe OOF aa — Ss eh ae FA me CENTAURS it quickly unto the co ion, and make atonement for them: for there is wrath gone out from the Lord; the plague is begun.”’—Noum. xvi. 46. The moral nature (Moses) enjoins the spiritual mind (Aaron) to ally itself with buddhi (fire) and bring about the purification of the qualities (congregation) during a spiritual outpouring which shall destroy the lowest qualities. The atonement signifies transmutation in response to aspiration, and the substitution of higher for lower. See AARON, ALTAR, ATONEMENT, Curyszis, Fire, INcensz, MOsEs, PESTILENCE, PROCESSION.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_151|page_151]], [[Supporting Material/Gaskell/Source Text/page_152|page_152]]
+

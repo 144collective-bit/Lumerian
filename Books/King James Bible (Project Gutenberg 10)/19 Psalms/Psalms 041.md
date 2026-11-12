@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-41
+book_name: "Psalms"
+chapter: 41
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 41"
+  - "KJV Psalms 41"
+---
+
+# Psalms 41
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 040|Psalms 40]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 042|Psalms 42]]
+
+## Text
+
+###### Psalms 41:1
+
+Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.
+
+^kjv-psa-41-1
+
+###### Psalms 41:2
+
+The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.
+
+^kjv-psa-41-2
+
+###### Psalms 41:3
+
+The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.
+
+^kjv-psa-41-3
+
+###### Psalms 41:4
+
+I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.
+
+^kjv-psa-41-4
+
+###### Psalms 41:5
+
+Mine enemies speak evil of me, When shall he die, and his name perish?
+
+^kjv-psa-41-5
+
+###### Psalms 41:6
+
+And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.
+
+^kjv-psa-41-6
+
+###### Psalms 41:7
+
+All that hate me whisper together against me: against me do they devise my hurt.
+
+^kjv-psa-41-7
+
+###### Psalms 41:8
+
+An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.
+
+^kjv-psa-41-8
+
+###### Psalms 41:9
+
+Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.
+
+^kjv-psa-41-9
+
+###### Psalms 41:10
+
+But thou, O LORD, be merciful unto me, and raise me up, that I may requite them.
+
+^kjv-psa-41-10
+
+###### Psalms 41:11
+
+By this I know that thou favourest me, because mine enemy doth not triumph over me.
+
+^kjv-psa-41-11
+
+###### Psalms 41:12
+
+And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.
+
+^kjv-psa-41-12
+
+###### Psalms 41:13
+
+Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.
+
+^kjv-psa-41-13

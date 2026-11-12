@@ -1,0 +1,183 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: D
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter D
+
+Entries whose normalized head begins with **D** (161).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/D/D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM|D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM]] — `gaskell-1960-entry-d-of-life-personality-re-birth-resurrection-separation-death-of-the-form` — EPUB p.211
+- [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] — `gaskell-1960-entry-daevas` — EPUB p.204
+- [[Reference/Gaskell/Entries/D/DAHAKA, THE SERPENT|DAHAKA, THE SERPENT]] — `gaskell-1960-entry-dahaka-the-serpent` — EPUB p.205
+- [[Reference/Gaskell/Entries/D/DAIMONS, OR DEMONS (LOWER ASPECT)|DAIMONS, OR DEMONS (LOWER ASPECT)]] — `gaskell-1960-entry-daimons-or-demons-lower-aspect` — EPUB p.204,205
+- [[Reference/Gaskell/Entries/D/DAITYA, THE GOOD RIVER|DAITYA, THE GOOD RIVER]] — `gaskell-1960-entry-daitya-the-good-river` — EPUB p.205
+- [[Reference/Gaskell/Entries/D/DAMONS|DAMONS]] — `gaskell-1960-entry-damons` — EPUB p.204
+- [[Reference/Gaskell/Entries/D/DANAANS (GREEKS)|DANAANS (GREEKS)]] — `gaskell-1960-entry-danaans-greeks` — EPUB p.205
+- [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]] — `gaskell-1960-entry-dance-circle-centre` — EPUB p.205,206
+- [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] — `gaskell-1960-entry-dance-dancing` — EPUB p.205
+- [[Reference/Gaskell/Entries/D/DANIEL AND JOSEPH|DANIEL AND JOSEPH]] — `gaskell-1960-entry-daniel-and-joseph` — EPUB p.206
+- [[Reference/Gaskell/Entries/D/DARDANUS, SON OF ZEUS|DARDANUS, SON OF ZEUS]] — `gaskell-1960-entry-dardanus-son-of-zeus` — EPUB p.206
+- [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS-HIGHER ASPECT]] — `gaskell-1960-entry-darkness-higher-aspect` — EPUB p.206,207
+- [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS-LOWER ASPECT]] — `gaskell-1960-entry-darkness-lower-aspect` — EPUB p.207
+- [[Reference/Gaskell/Entries/D/DATE-PALM LEAVES, SCREEN|DATE-PALM LEAVES, SCREEN]] — `gaskell-1960-entry-date-palm-leaves-screen` — EPUB p.207
+- [[Reference/Gaskell/Entries/D/DAUGHTER|DAUGHTER]] — `gaskell-1960-entry-daughter` — EPUB p.411
+- [[Reference/Gaskell/Entries/D/DAUGHTER DANCING|DAUGHTER DANCING]] — `gaskell-1960-entry-daughter-dancing` — EPUB p.364
+- [[Reference/Gaskell/Entries/D/DAUGHTER OF ZEUS|DAUGHTER OF ZEUS]] — `gaskell-1960-entry-daughter-of-zeus` — EPUB p.88
+- [[Reference/Gaskell/Entries/D/DAUGHTERS OF MEN|DAUGHTERS OF MEN]] — `gaskell-1960-entry-daughters-of-men` — EPUB p.207
+- [[Reference/Gaskell/Entries/D/DAVID, KING OF ISRAEL|DAVID, KING OF ISRAEL]] — `gaskell-1960-entry-david-king-of-israel` — EPUB p.207,208
+- [[Reference/Gaskell/Entries/D/DAVID, SON OF|DAVID, SON OF]] — `gaskell-1960-entry-david-son-of` — EPUB p.208
+- [[Reference/Gaskell/Entries/D/DAWN, DAYBREAK, DAYSPRING|DAWN, DAYBREAK, DAYSPRING]] — `gaskell-1960-entry-dawn-daybreak-dayspring` — EPUB p.208,209
+- [[Reference/Gaskell/Entries/D/DAY|DAY]] — `gaskell-1960-entry-day` — EPUB p.209
+- [[Reference/Gaskell/Entries/D/DAY AND NIGHT|DAY AND NIGHT]] — `gaskell-1960-entry-day-and-night` — EPUB p.209
+- [[Reference/Gaskell/Entries/D/DAY, GREAT, OF BRAHMA|DAY, GREAT, OF BRAHMA]] — `gaskell-1960-entry-day-great-of-brahma` — EPUB p.209
+- [[Reference/Gaskell/Entries/D/DAYLIGHT AND DARENESS|DAYLIGHT AND DARENESS]] — `gaskell-1960-entry-daylight-and-dareness` — EPUB p.209
+- [[Reference/Gaskell/Entries/D/DAYS|DAYS]] — `gaskell-1960-entry-days` — EPUB p.209,210
+- [[Reference/Gaskell/Entries/D/DEAD, BURYING OF THE|DEAD, BURYING OF THE]] — `gaskell-1960-entry-dead-burying-of-the` — EPUB p.210
+- [[Reference/Gaskell/Entries/D/DEAD, RISING FROM THE|DEAD, RISING FROM THE]] — `gaskell-1960-entry-dead-rising-from-the` — EPUB p.210,211
+- [[Reference/Gaskell/Entries/D/DEAD TO BE JUDGED|DEAD TO BE JUDGED]] — `gaskell-1960-entry-dead-to-be-judged` — EPUB p.210
+- [[Reference/Gaskell/Entries/D/DEAFNESS AND DUMBNESS|DEAFNESS AND DUMBNESS]] — `gaskell-1960-entry-deafness-and-dumbness` — EPUB p.211
+- [[Reference/Gaskell/Entries/D/DEARTH IN THE LAND|DEARTH IN THE LAND]] — `gaskell-1960-entry-dearth-in-the-land` — EPUB p.211
+- [[Reference/Gaskell/Entries/D/DEATH DEATH OF LEMMINKAINEN|DEATH DEATH OF LEMMINKAINEN]] — `gaskell-1960-entry-death-death-of-lemminkainen` — EPUB p.213
+- [[Reference/Gaskell/Entries/D/DEATH OF A CONDITION|DEATH OF A CONDITION]] — `gaskell-1960-entry-death-of-a-condition` — EPUB p.212
+- [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] — `gaskell-1960-entry-death-of-balder` — EPUB p.212,213
+- [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] — `gaskell-1960-entry-death-of-osiris` — EPUB p.213,214
+- [[Reference/Gaskell/Entries/D/DEATH OF THE PERSONALITY|DEATH OF THE PERSONALITY]] — `gaskell-1960-entry-death-of-the-personality` — EPUB p.211,212
+- [[Reference/Gaskell/Entries/D/DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF|DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF]] — `gaskell-1960-entry-death-of-the-spirit-soul-or-higher-self` — EPUB p.212
+- [[Reference/Gaskell/Entries/D/DEATH UNTO LIFE|DEATH UNTO LIFE]] — `gaskell-1960-entry-death-unto-life` — EPUB p.211
+- [[Reference/Gaskell/Entries/D/DEATHS OF THE HIGHER SELF|DEATHS OF THE HIGHER SELF]] — `gaskell-1960-entry-deaths-of-the-higher-self` — EPUB p.215
+- [[Reference/Gaskell/Entries/D/DECEASED|DECEASED]] — `gaskell-1960-entry-deceased` — EPUB p.215
+- [[Reference/Gaskell/Entries/D/DECEIT (MAYA)|DECEIT (MAYA)]] — `gaskell-1960-entry-deceit-maya` — EPUB p.215
+- [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]] — `gaskell-1960-entry-deep-of-ea-the-creator` — EPUB p.216
+- [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]] — `gaskell-1960-entry-deep-of-tiamat` — EPUB p.216
+- [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] — `gaskell-1960-entry-deep-or-depths` — EPUB p.215,216
+- [[Reference/Gaskell/Entries/D/DEER, THAT SPRING|DEER, THAT SPRING]] — `gaskell-1960-entry-deer-that-spring` — EPUB p.216
+- [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] — `gaskell-1960-entry-defunct-deceased-or-departed-person` — EPUB p.216
+- [[Reference/Gaskell/Entries/D/DEITY, HIDDEN CEALED|DEITY, HIDDEN CEALED]] — `gaskell-1960-entry-deity-hidden-cealed` — EPUB p.216,217
+- [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] — `gaskell-1960-entry-delos-the-island` — EPUB p.217
+- [[Reference/Gaskell/Entries/D/DELPHI|DELPHI]] — `gaskell-1960-entry-delphi` — EPUB p.217
+- [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] — `gaskell-1960-entry-deluge-of-water` — EPUB p.217
+- [[Reference/Gaskell/Entries/D/DEMETER, OR CERES|DEMETER, OR CERES]] — `gaskell-1960-entry-demeter-or-ceres` — EPUB p.217,218
+- [[Reference/Gaskell/Entries/D/DEMIURGE, OR DEMIURGUS|DEMIURGE, OR DEMIURGUS]] — `gaskell-1960-entry-demiurge-or-demiurgus` — EPUB p.218,219,220
+- [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] — `gaskell-1960-entry-demons-and-fiends` — EPUB p.220
+- [[Reference/Gaskell/Entries/D/DENDERA|DENDERA]] — `gaskell-1960-entry-dendera` — EPUB p.220
+- [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] — `gaskell-1960-entry-depravity-universal` — EPUB p.220,221
+- [[Reference/Gaskell/Entries/D/DESERT PLACE|DESERT PLACE]] — `gaskell-1960-entry-desert-place` — EPUB p.221
+- [[Reference/Gaskell/Entries/D/DESERTS, OR FORESTS|DESERTS, OR FORESTS]] — `gaskell-1960-entry-deserts-or-forests` — EPUB p.221
+- [[Reference/Gaskell/Entries/D/DESERTS, VAST AND UNKNOWN|DESERTS, VAST AND UNKNOWN]] — `gaskell-1960-entry-deserts-vast-and-unknown` — EPUB p.221
+- [[Reference/Gaskell/Entries/D/DESTROYING EVILS|DESTROYING EVILS]] — `gaskell-1960-entry-destroying-evils` — EPUB p.221
+- [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] — `gaskell-1960-entry-devachan` — EPUB p.221
+- [[Reference/Gaskell/Entries/D/DEVAKI, THE MOTHER OF KRISHNA|DEVAKI, THE MOTHER OF KRISHNA]] — `gaskell-1960-entry-devaki-the-mother-of-krishna` — EPUB p.221,222
+- [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] — `gaskell-1960-entry-devas-or-lower-builders` — EPUB p.222
+- [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] — `gaskell-1960-entry-devas-shining-ones` — EPUB p.222
+- [[Reference/Gaskell/Entries/D/DEVASTATION|DEVASTATION]] — `gaskell-1960-entry-devastation` — EPUB p.222
+- [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA-THE PATH OF THE GODS]] — `gaskell-1960-entry-devayana-the-path-of-the-gods` — EPUB p.222,223
+- [[Reference/Gaskell/Entries/D/DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS|DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS]] — `gaskell-1960-entry-development-of-humanity-through-millions-of-years` — EPUB p.223
+- [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] — `gaskell-1960-entry-devil-the-adversary` — EPUB p.223
+- [[Reference/Gaskell/Entries/D/DEVOTION|DEVOTION]] — `gaskell-1960-entry-devotion` — EPUB p.224
+- [[Reference/Gaskell/Entries/D/DEVOURER OF CREATURES|DEVOURER OF CREATURES]] — `gaskell-1960-entry-devourer-of-creatures` — EPUB p.224
+- [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] — `gaskell-1960-entry-dew-or-mist-to-moisten-vegetation` — EPUB p.224
+- [[Reference/Gaskell/Entries/D/DHARMA OR PRAJNA|DHARMA OR PRAJNA]] — `gaskell-1960-entry-dharma-or-prajna` — EPUB p.224
+- [[Reference/Gaskell/Entries/D/DHRISTA-DYUMNA|DHRISTA-DYUMNA]] — `gaskell-1960-entry-dhrista-dyumna` — EPUB p.224,225
+- [[Reference/Gaskell/Entries/D/DHRITA-RASHTRA, THE BLIND KING|DHRITA-RASHTRA, THE BLIND KING]] — `gaskell-1960-entry-dhrita-rashtra-the-blind-king` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN|DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN]] — `gaskell-1960-entry-dhruva-as-the-trunk-body-of-the-sacrificial-man` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DIADEM|DIADEM]] — `gaskell-1960-entry-diadem` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DIANA, OR ARTEMIS, GODDESS OF LIGHT AND THE MOON|DIANA, OR ARTEMIS, GODDESS OF LIGHT AND THE MOON]] — `gaskell-1960-entry-diana-or-artemis-goddess-of-light-and-the-moon` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DICE, OR COUNTERS|DICE, OR COUNTERS]] — `gaskell-1960-entry-dice-or-counters` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DIGGING A PIT IN EARTH|DIGGING A PIT IN EARTH]] — `gaskell-1960-entry-digging-a-pit-in-earth` — EPUB p.225
+- [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] — `gaskell-1960-entry-dionysus-or-bacchus` — EPUB p.225,226
+- [[Reference/Gaskell/Entries/D/DIRT|DIRT]] — `gaskell-1960-entry-dirt` — EPUB p.227
+- [[Reference/Gaskell/Entries/D/DISCIPLE|DISCIPLE]] — `gaskell-1960-entry-disciple` — EPUB p.227
+- [[Reference/Gaskell/Entries/D/DISCIPLE, CALLING OF A|DISCIPLE, CALLING OF A]] — `gaskell-1960-entry-disciple-calling-of-a` — EPUB p.227
+- [[Reference/Gaskell/Entries/D/DISCIPLES SEATED UPON TWELVE THRONES|DISCIPLES SEATED UPON TWELVE THRONES]] — `gaskell-1960-entry-disciples-seated-upon-twelve-thrones` — EPUB p.228,229
+- [[Reference/Gaskell/Entries/D/DISCIPLES SENT FORTH|DISCIPLES SENT FORTH]] — `gaskell-1960-entry-disciples-sent-forth` — EPUB p.228
+- [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] — `gaskell-1960-entry-disciples-the-twelve-of-jesus` — EPUB p.227,228
+- [[Reference/Gaskell/Entries/D/DISEASE, OR SICKNESS|DISEASE, OR SICKNESS]] — `gaskell-1960-entry-disease-or-sickness` — EPUB p.229
+- [[Reference/Gaskell/Entries/D/DISEASES, WASTING PUTRIFYING|DISEASES, WASTING PUTRIFYING]] — `gaskell-1960-entry-diseases-wasting-putrifying` — EPUB p.229
+- [[Reference/Gaskell/Entries/D/DISH, OR BOWL|DISH, OR BOWL]] — `gaskell-1960-entry-dish-or-bowl` — EPUB p.229
+- [[Reference/Gaskell/Entries/D/DISK, WINGED SUN-|DISK, WINGED SUN-]] — `gaskell-1960-entry-disk-winged-sun` — EPUB p.229
+- [[Reference/Gaskell/Entries/D/DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD|DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD]] — `gaskell-1960-entry-dismemberment-after-death-of-the-body-of-the-god` — EPUB p.229,230,231
+- [[Reference/Gaskell/Entries/D/DISTRESSED WORLD|DISTRESSED WORLD]] — `gaskell-1960-entry-distressed-world` — EPUB p.231,232
+- [[Reference/Gaskell/Entries/D/DIVORCING A WIFE AND MARRYING ANOTHER WOMAN|DIVORCING A WIFE AND MARRYING ANOTHER WOMAN]] — `gaskell-1960-entry-divorcing-a-wife-and-marrying-another-woman` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOER OF ACTIONS|DOER OF ACTIONS]] — `gaskell-1960-entry-doer-of-actions` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG|DOG]] — `gaskell-1960-entry-dog` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES|DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES]] — `gaskell-1960-entry-dog-cerberus-the-threeheaded-guardian-of-hades` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG DOG, BAD, VESCHEROUN|DOG DOG, BAD, VESCHEROUN]] — `gaskell-1960-entry-dog-dog-bad-vescheroun` — EPUB p.233
+- [[Reference/Gaskell/Entries/D/DOG (HIGHEST ASPECT)|DOG (HIGHEST ASPECT)]] — `gaskell-1960-entry-dog-highest-aspect` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG, HOUSE|DOG, HOUSE]] — `gaskell-1960-entry-dog-house` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG, SHEPHERD'S|DOG, SHEPHERD'S]] — `gaskell-1960-entry-dog-shepherd-s` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG, TRAINED|DOG, TRAINED]] — `gaskell-1960-entry-dog-trained` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG, VOHUNASGA|DOG, VOHUNASGA]] — `gaskell-1960-entry-dog-vohunasga` — EPUB p.232,233
+- [[Reference/Gaskell/Entries/D/DOG, WATER, HOLIEST OF ALL DOGS|DOG, WATER, HOLIEST OF ALL DOGS]] — `gaskell-1960-entry-dog-water-holiest-of-all-dogs` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOG, WHITE, WITH FOUR EYES|DOG, WHITE, WITH FOUR EYES]] — `gaskell-1960-entry-dog-white-with-four-eyes` — EPUB p.233
+- [[Reference/Gaskell/Entries/D/DOG, ZAIRIMYANGURA (THE TORTOISE)|DOG, ZAIRIMYANGURA (THE TORTOISE)]] — `gaskell-1960-entry-dog-zairimyangura-the-tortoise` — EPUB p.233
+- [[Reference/Gaskell/Entries/D/DOG-STAR SIRIUS, OR SURA, AT THE KINVAT BRIDGE|DOG-STAR SIRIUS, OR SURA, AT THE KINVAT BRIDGE]] — `gaskell-1960-entry-dog-star-sirius-or-sura-at-the-kinvat-bridge` — EPUB p.233
+- [[Reference/Gaskell/Entries/D/DOLIONES PEOPLE|DOLIONES PEOPLE]] — `gaskell-1960-entry-doliones-people` — EPUB p.233,234
+- [[Reference/Gaskell/Entries/D/DOLPHIN OF POSEIDON|DOLPHIN OF POSEIDON]] — `gaskell-1960-entry-dolphin-of-poseidon` — EPUB p.234
+- [[Reference/Gaskell/Entries/D/DOM, ZOROASTER, VAHRAM THE STRONG|DOM, ZOROASTER, VAHRAM THE STRONG]] — `gaskell-1960-entry-dom-zoroaster-vahram-the-strong` — EPUB p.790
+- [[Reference/Gaskell/Entries/D/DONDONA SPEAKING OAK|DONDONA SPEAKING OAK]] — `gaskell-1960-entry-dondona-speaking-oak` — EPUB p.232
+- [[Reference/Gaskell/Entries/D/DOOR (HIGHER ASPECT)|DOOR (HIGHER ASPECT)]] — `gaskell-1960-entry-door-higher-aspect` — EPUB p.234
+- [[Reference/Gaskell/Entries/D/DOOR (LOWER ASPECT)|DOOR (LOWER ASPECT)]] — `gaskell-1960-entry-door-lower-aspect` — EPUB p.234
+- [[Reference/Gaskell/Entries/D/DOOR, NARROW|DOOR, NARROW]] — `gaskell-1960-entry-door-narrow` — EPUB p.234
+- [[Reference/Gaskell/Entries/D/DOOR OF THE ARK OF NOAH|DOOR OF THE ARK OF NOAH]] — `gaskell-1960-entry-door-of-the-ark-of-noah` — EPUB p.235
+- [[Reference/Gaskell/Entries/D/DOOR OF THE VARA CLOSURE)|DOOR OF THE VARA CLOSURE)]] — `gaskell-1960-entry-door-of-the-vara-closure` — EPUB p.235
+- [[Reference/Gaskell/Entries/D/DOOR SHUT BY THE LOGOS|DOOR SHUT BY THE LOGOS]] — `gaskell-1960-entry-door-shut-by-the-logos` — EPUB p.234,235
+- [[Reference/Gaskell/Entries/D/DOORKEEPER (FEMININE)|DOORKEEPER (FEMININE)]] — `gaskell-1960-entry-doorkeeper-feminine` — EPUB p.235
+- [[Reference/Gaskell/Entries/D/DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN|DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN]] — `gaskell-1960-entry-doorkeepers-indra-and-pragapati-of-the-hall-of-brahman` — EPUB p.235
+- [[Reference/Gaskell/Entries/D/DOORS, HOUSE WITH FOUR|DOORS, HOUSE WITH FOUR]] — `gaskell-1960-entry-doors-house-with-four` — EPUB p.235,236
+- [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] — `gaskell-1960-entry-doors-opened-by-thoth` — EPUB p.236
+- [[Reference/Gaskell/Entries/D/DOUBLE FOLD OF FLESH AND FAT|DOUBLE FOLD OF FLESH AND FAT]] — `gaskell-1960-entry-double-fold-of-flesh-and-fat` — EPUB p.236
+- [[Reference/Gaskell/Entries/D/DOUGH OF MEAL, WATER AND LEAVEN|DOUGH OF MEAL, WATER AND LEAVEN]] — `gaskell-1960-entry-dough-of-meal-water-and-leaven` — EPUB p.236
+- [[Reference/Gaskell/Entries/D/DOVE, OR PIGEON|DOVE, OR PIGEON]] — `gaskell-1960-entry-dove-or-pigeon` — EPUB p.236,237
+- [[Reference/Gaskell/Entries/D/DOVE-SELLERS|DOVE-SELLERS]] — `gaskell-1960-entry-dove-sellers` — EPUB p.237
+- [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] — `gaskell-1960-entry-dragon` — EPUB p.237
+- [[Reference/Gaskell/Entries/D/DRAGON, GREAT RED|DRAGON, GREAT RED]] — `gaskell-1960-entry-dragon-great-red` — EPUB p.237,238
+- [[Reference/Gaskell/Entries/D/DRAGON OF WISDOM|DRAGON OF WISDOM]] — `gaskell-1960-entry-dragon-of-wisdom` — EPUB p.237
+- [[Reference/Gaskell/Entries/D/DRAGON RISING FROM THE DEEP|DRAGON RISING FROM THE DEEP]] — `gaskell-1960-entry-dragon-rising-from-the-deep` — EPUB p.237
+- [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] — `gaskell-1960-entry-draupadi-daughter-of-king-drupada` — EPUB p.238
+- [[Reference/Gaskell/Entries/D/DRAWER OF WATER|DRAWER OF WATER]] — `gaskell-1960-entry-drawer-of-water` — EPUB p.238
+- [[Reference/Gaskell/Entries/D/DREAMS, CHAOTIC|DREAMS, CHAOTIC]] — `gaskell-1960-entry-dreams-chaotic` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DREAMS OF THE SUPREME|DREAMS OF THE SUPREME]] — `gaskell-1960-entry-dreams-of-the-supreme` — EPUB p.238,239
+- [[Reference/Gaskell/Entries/D/DRINK OF WINE OR WATER|DRINK OF WINE OR WATER]] — `gaskell-1960-entry-drink-of-wine-or-water` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DRONA|DRONA]] — `gaskell-1960-entry-drona` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DROPNER RING|DROPNER RING]] — `gaskell-1960-entry-dropner-ring` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DROUGHT, FREEDOM FROM|DROUGHT, FREEDOM FROM]] — `gaskell-1960-entry-drought-freedom-from` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DRUG, OR DRUJ NASU, OR DROUK|DRUG, OR DRUJ NASU, OR DROUK]] — `gaskell-1960-entry-drug-or-druj-nasu-or-drouk` — EPUB p.239
+- [[Reference/Gaskell/Entries/D/DRUGS OF MEDEA|DRUGS OF MEDEA]] — `gaskell-1960-entry-drugs-of-medea` — EPUB p.239,240
+- [[Reference/Gaskell/Entries/D/DRUNKARD ON WINE OR SOMAJUICE|DRUNKARD ON WINE OR SOMAJUICE]] — `gaskell-1960-entry-drunkard-on-wine-or-somajuice` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DRUPADA, KING|DRUPADA, KING]] — `gaskell-1960-entry-drupada-king` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DRY AND MOIST|DRY AND MOIST]] — `gaskell-1960-entry-dry-and-moist` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DRYAD OF THE FOREST|DRYAD OF THE FOREST]] — `gaskell-1960-entry-dryad-of-the-forest` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DRY-BACKED THROUGH THE DAEVAS|DRY-BACKED THROUGH THE DAEVAS]] — `gaskell-1960-entry-dry-backed-through-the-daevas` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DUCK OF ILMATER|DUCK OF ILMATER]] — `gaskell-1960-entry-duck-of-ilmater` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DUGHDHOVA, MOTHER ZARATUST|DUGHDHOVA, MOTHER ZARATUST]] — `gaskell-1960-entry-dughdhova-mother-zaratust` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DUNG OF FLOCKS AND HERDS FERTILISING THE GROUND|DUNG OF FLOCKS AND HERDS FERTILISING THE GROUND]] — `gaskell-1960-entry-dung-of-flocks-and-herds-fertilising-the-ground` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DURASROBO, THE KARAP|DURASROBO, THE KARAP]] — `gaskell-1960-entry-durasrobo-the-karap` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DURGA, OR KALI, GODDESS|DURGA, OR KALI, GODDESS]] — `gaskell-1960-entry-durga-or-kali-goddess` — EPUB p.240
+- [[Reference/Gaskell/Entries/D/DURVA-BRICK, OF THE ALTAR|DURVA-BRICK, OF THE ALTAR]] — `gaskell-1960-entry-durva-brick-of-the-altar` — EPUB p.240,241
+- [[Reference/Gaskell/Entries/D/DUST OF THE GROUND OR WORLD|DUST OF THE GROUND OR WORLD]] — `gaskell-1960-entry-dust-of-the-ground-or-world` — EPUB p.241
+- [[Reference/Gaskell/Entries/D/DVIYAGUS BRICK OF ALTAR|DVIYAGUS BRICK OF ALTAR]] — `gaskell-1960-entry-dviyagus-brick-of-altar` — EPUB p.241
+- [[Reference/Gaskell/Entries/D/DWARF|DWARF]] — `gaskell-1960-entry-dwarf` — EPUB p.241,242
+- [[Reference/Gaskell/Entries/D/DWARF DUTY, WEALTH AND PLEASURE|DWARF DUTY, WEALTH AND PLEASURE]] — `gaskell-1960-entry-dwarf-duty-wealth-and-pleasure` — EPUB p.241
+- [[Reference/Gaskell/Entries/D/DWARF, MISSHAPEN|DWARF, MISSHAPEN]] — `gaskell-1960-entry-dwarf-misshapen` — EPUB p.242
+- [[Reference/Gaskell/Entries/D/DWARFS|DWARFS]] — `gaskell-1960-entry-dwarfs` — EPUB p.242
+- [[Reference/Gaskell/Entries/D/DWELLER ON HIGH|DWELLER ON HIGH]] — `gaskell-1960-entry-dweller-on-high` — EPUB p.242
+- [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] — `gaskell-1960-entry-dwelling-in-the-recesses-of-the-palace` — EPUB p.242
+- [[Reference/Gaskell/Entries/D/DWELLINGS FOR THE SEEDS OF THE BEST CREATURES|DWELLINGS FOR THE SEEDS OF THE BEST CREATURES]] — `gaskell-1960-entry-dwellings-for-the-seeds-of-the-best-creatures` — EPUB p.242
+- [[Reference/Gaskell/Entries/D/DWELLINGS SUPPLIED WITH CATTLE|DWELLINGS SUPPLIED WITH CATTLE]] — `gaskell-1960-entry-dwellings-supplied-with-cattle` — EPUB p.242,243
+- [[Reference/Gaskell/Entries/D/DYNASTY, EARTH'S (OF CHINA)|DYNASTY, EARTH'S (OF CHINA)]] - `gaskell-1960-entry-s-of-china-18d33759` - EPUB p.243
+- [[Reference/Gaskell/Entries/D/DYNASTY, HEAVEN'S (OF CHINA)|DYNASTY, HEAVEN'S (OF CHINA)]] - `gaskell-1960-entry-s-of-china` - EPUB p.243
+- [[Reference/Gaskell/Entries/D/DYNASTY, MAN'S (OF CHINA)|DYNASTY, MAN'S (OF CHINA)]] — `gaskell-1960-entry-dynasty-man-s-of-china` — EPUB p.243
+- [[Reference/Gaskell/Entries/D/DZMON CUTTING INSTRUMENTS OF BRASS AND IRON|DZMON CUTTING INSTRUMENTS OF BRASS AND IRON]] — `gaskell-1960-entry-dzmon-cutting-instruments-of-brass-and-iron` — EPUB p.203
+- [[Reference/Gaskell/Entries/D/DZMON, OR GOOD DAIMON|DZMON, OR GOOD DAIMON]] — `gaskell-1960-entry-dzmon-or-good-daimon` — EPUB p.203,204
+

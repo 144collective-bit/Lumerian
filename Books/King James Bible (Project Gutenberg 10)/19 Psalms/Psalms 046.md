@@ -1,0 +1,94 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-46
+book_name: "Psalms"
+chapter: 46
+verses: 11
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 46"
+  - "KJV Psalms 46"
+---
+
+# Psalms 46
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 045|Psalms 45]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 047|Psalms 47]]
+
+## Text
+
+###### Psalms 46:1
+
+God is our refuge and strength, a very present help in trouble.
+
+^kjv-psa-46-1
+
+###### Psalms 46:2
+
+Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
+
+^kjv-psa-46-2
+
+###### Psalms 46:3
+
+Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.
+
+^kjv-psa-46-3
+
+###### Psalms 46:4
+
+There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.
+
+^kjv-psa-46-4
+
+###### Psalms 46:5
+
+God is in the midst of her; she shall not be moved: God shall help her, and that right early.
+
+^kjv-psa-46-5
+
+###### Psalms 46:6
+
+The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
+
+^kjv-psa-46-6
+
+###### Psalms 46:7
+
+The LORD of hosts is with us; the God of Jacob is our refuge. Selah.
+
+^kjv-psa-46-7
+
+###### Psalms 46:8
+
+Come, behold the works of the LORD, what desolations he hath made in the earth.
+
+^kjv-psa-46-8
+
+###### Psalms 46:9
+
+He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.
+
+^kjv-psa-46-9
+
+###### Psalms 46:10
+
+Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.
+
+^kjv-psa-46-10
+
+###### Psalms 46:11
+
+The LORD of hosts is with us; the God of Jacob is our refuge. Selah.
+
+^kjv-psa-46-11

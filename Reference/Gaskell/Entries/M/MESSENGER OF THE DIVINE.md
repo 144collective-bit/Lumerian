@@ -1,0 +1,72 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-messenger-of-the-divine
+headword: "MESSENGER OF THE DIVINE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# MESSENGER OF THE DIVINE
+
+- **Entry ID:** `gaskell-1960-entry-messenger-of-the-divine`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_504`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_504|page_504]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`MESSENGER OF THE DIVINE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of an outpouring of the Spirit according to cyclic law.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ABODE` | **candidate (first-segment only)** → possible `ABODE, HOUSE, DWELLING` (not linked) |
+| `AMSHASPANDS` | **unresolved** (review queue) |
+| `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
+| `ARCHANGELS` | **unresolved** (review queue) |
+| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CONScIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `HErieuzs` | **unresolved** (review queue) |
+| `SEs` | **unresolved** (review queue) |
+| `Szrvanrs` | **unresolved** (review queue) |
+| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `Tue` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-messenger-of-the-divine-ocr-body`
+
+```text
+A symbol of an outpouring of the Spirit according to cyclic law. ** Behold I send my messenger, and he shall prepare the way before me: and the Lord whom ye seek, shall suddenly come to his temple ; and the messenger of the covenant whom ye delight in, behold he cometh, saith the Lord.”’"—MAL. iii. 1. This is the assurance of the gift of the Spirit, which independent of the limitations of time and space ‘‘ cometh without observation.” The temple is the ‘‘temple not made with hands, eternal in the heavens"; and into that ‘‘temple* or causal-body,—so soon as the Lord’s “ willing servants,’’ or lower functionings of the consciousness in the virtues, are ready to receive him,—will come the Sun of Righteousness, the Higher Self or Higher oconsciousness, who will for ever make his abode among the chosen of the Lord; i.e. among the transmuted qualities. ‘God dwells in the highest part of the soul. He who ascends this height has all things under his feet. We are united to God when, in the practice of the virtues, we deny and forsake our. selves, loving and following God above all creatures” (Ruysbroek).—VAauGHAN. Hours, etc., Vol. I. p. 328. See ABODE, AMSHASPANDS, ANGELS, ARCHANGELS, CAUSAL-BODY, CONScIOUSNESS, Devas, HErieuzs, SEs, Szrvanrs, TEMPLE, Tue,
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_504|page_504]]
+

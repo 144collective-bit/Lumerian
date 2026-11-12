@@ -1,0 +1,94 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-63
+book_name: "Psalms"
+chapter: 63
+verses: 11
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 63"
+  - "KJV Psalms 63"
+---
+
+# Psalms 63
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 062|Psalms 62]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 064|Psalms 64]]
+
+## Text
+
+###### Psalms 63:1
+
+O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
+
+^kjv-psa-63-1
+
+###### Psalms 63:2
+
+To see thy power and thy glory, so as I have seen thee in the sanctuary.
+
+^kjv-psa-63-2
+
+###### Psalms 63:3
+
+Because thy lovingkindness is better than life, my lips shall praise thee.
+
+^kjv-psa-63-3
+
+###### Psalms 63:4
+
+Thus will I bless thee while I live: I will lift up my hands in thy name.
+
+^kjv-psa-63-4
+
+###### Psalms 63:5
+
+My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:
+
+^kjv-psa-63-5
+
+###### Psalms 63:6
+
+When I remember thee upon my bed, and meditate on thee in the night watches.
+
+^kjv-psa-63-6
+
+###### Psalms 63:7
+
+Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.
+
+^kjv-psa-63-7
+
+###### Psalms 63:8
+
+My soul followeth hard after thee: thy right hand upholdeth me.
+
+^kjv-psa-63-8
+
+###### Psalms 63:9
+
+But those that seek my soul, to destroy it, shall go into the lower parts of the earth.
+
+^kjv-psa-63-9
+
+###### Psalms 63:10
+
+They shall fall by the sword: they shall be a portion for foxes.
+
+^kjv-psa-63-10
+
+###### Psalms 63:11
+
+But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.
+
+^kjv-psa-63-11

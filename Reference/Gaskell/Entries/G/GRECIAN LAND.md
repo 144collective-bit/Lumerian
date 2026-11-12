@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-grecian-land
+headword: "GRECIAN LAND"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GRECIAN LAND
+
+- **Entry ID:** `gaskell-1960-entry-grecian-land`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_336`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_336|page_336]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GRECIAN LAND :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the mental plane in the sacred scriptures of Greece.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ACHILLES` | **candidate (first-segment only)** → possible `ACHILLES, PELEUS, FATHER OF ACHILLES` (not linked) |
+| `AGAMEMNON` | **candidate (first-segment only)** → possible `AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET` (not linked) |
+| `CoUNTries` | **unresolved** (review queue) |
+| `Gops` | **unresolved** (review queue) |
+| `NEstor` | **candidate (first-segment only)** → possible `NESTOR, THE SWEET-VOICED` (not linked) |
+| `Priam` | **unresolved** (review queue) |
+| `Pyius` | **unresolved** (review queue) |
+| `TROJANS. GREEKS ;x` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-grecian-land-ocr-body`
+
+```text
+A symbol of the mental plane in the sacred scriptures of Greece. **O Gods! surely a great sorrow comes upon the Grecian land. Verily, Priam would exult, and the sons of Priam, and the other Trojans would greatly rejoice in their souls, were they to hear these things of you twain (Agamemnon and Achilles) contending : you who in council and in fighting surpass the Greeks.’’—Iliad, Bk. I, trans. Buckley. O Ideals! certainly a great trial shall forthwith assail the mind. Assuredly the Causal Self (Priam) and its assemblage of high faculties shall thereby be developed ; and the lower emotions (Trojans) will be greatly stimulated if the Desire-mind and the Personality be stirred into more activity. For in the unwisdom of the emotional lower self there consists greater wisdom in latency than in the mental faculties. See ACHILLES, AGAMEMNON, CoUNTries, Gops, NEstor, Priam, Pyius, TROJANS. GREEKS ;x
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_336|page_336]]
+

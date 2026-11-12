@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1ti
+chapter_id: kjv-1ti-6
+book_name: "1 Timothy"
+chapter: 6
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Timothy 6"
+  - "KJV 1 Timothy 6"
+---
+
+# 1 Timothy 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/54 1 Timothy/1 Timothy|1 Timothy]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/54 1 Timothy/1 Timothy 005|1 Timothy 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/55 2 Timothy/2 Timothy 001|2 Timothy 1]]
+
+## Text
+
+###### 1 Timothy 6:1
+
+Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
+
+^kjv-1ti-6-1
+
+###### 1 Timothy 6:2
+
+And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.
+
+^kjv-1ti-6-2
+
+###### 1 Timothy 6:3
+
+If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+
+^kjv-1ti-6-3
+
+###### 1 Timothy 6:4
+
+He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
+
+^kjv-1ti-6-4
+
+###### 1 Timothy 6:5
+
+Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
+
+^kjv-1ti-6-5
+
+###### 1 Timothy 6:6
+
+But godliness with contentment is great gain.
+
+^kjv-1ti-6-6
+
+###### 1 Timothy 6:7
+
+For we brought nothing into this world, and it is certain we can carry nothing out.
+
+^kjv-1ti-6-7
+
+###### 1 Timothy 6:8
+
+And having food and raiment let us be therewith content.
+
+^kjv-1ti-6-8
+
+###### 1 Timothy 6:9
+
+But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
+
+^kjv-1ti-6-9
+
+###### 1 Timothy 6:10
+
+For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+
+^kjv-1ti-6-10
+
+###### 1 Timothy 6:11
+
+But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+
+^kjv-1ti-6-11
+
+###### 1 Timothy 6:12
+
+Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
+
+^kjv-1ti-6-12
+
+###### 1 Timothy 6:13
+
+I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+
+^kjv-1ti-6-13
+
+###### 1 Timothy 6:14
+
+That thou keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ:
+
+^kjv-1ti-6-14
+
+###### 1 Timothy 6:15
+
+Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;
+
+^kjv-1ti-6-15
+
+###### 1 Timothy 6:16
+
+Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen.
+
+^kjv-1ti-6-16
+
+###### 1 Timothy 6:17
+
+Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
+
+^kjv-1ti-6-17
+
+###### 1 Timothy 6:18
+
+That they do good, that they be rich in good works, ready to distribute, willing to communicate;
+
+^kjv-1ti-6-18
+
+###### 1 Timothy 6:19
+
+Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
+
+^kjv-1ti-6-19
+
+###### 1 Timothy 6:20
+
+O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+
+^kjv-1ti-6-20
+
+###### 1 Timothy 6:21
+
+Which some professing have erred concerning the faith. Grace be with thee. Amen.
+
+^kjv-1ti-6-21

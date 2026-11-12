@@ -1,0 +1,100 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-62
+book_name: "Isaiah"
+chapter: 62
+verses: 12
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 62"
+  - "KJV Isaiah 62"
+---
+
+# Isaiah 62
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 061|Isaiah 61]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 063|Isaiah 63]]
+
+## Text
+
+###### Isaiah 62:1
+
+For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
+
+^kjv-isa-62-1
+
+###### Isaiah 62:2
+
+And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name.
+
+^kjv-isa-62-2
+
+###### Isaiah 62:3
+
+Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem in the hand of thy God.
+
+^kjv-isa-62-3
+
+###### Isaiah 62:4
+
+Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the LORD delighteth in thee, and thy land shall be married.
+
+^kjv-isa-62-4
+
+###### Isaiah 62:5
+
+For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.
+
+^kjv-isa-62-5
+
+###### Isaiah 62:6
+
+I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,
+
+^kjv-isa-62-6
+
+###### Isaiah 62:7
+
+And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
+
+^kjv-isa-62-7
+
+###### Isaiah 62:8
+
+The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:
+
+^kjv-isa-62-8
+
+###### Isaiah 62:9
+
+But they that have gathered it shall eat it, and praise the LORD; and they that have brought it together shall drink it in the courts of my holiness.
+
+^kjv-isa-62-9
+
+###### Isaiah 62:10
+
+Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.
+
+^kjv-isa-62-10
+
+###### Isaiah 62:11
+
+Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.
+
+^kjv-isa-62-11
+
+###### Isaiah 62:12
+
+And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.
+
+^kjv-isa-62-12

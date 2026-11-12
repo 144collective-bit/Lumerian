@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-cow-goddess-meh-urt
+headword: "COW, GODDESS MEH-URT"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# COW, GODDESS MEH-URT
+
+- **Entry ID:** `gaskell-1960-entry-cow-goddess-meh-urt`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_187`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_187|page_187]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`COW, GODDESS MEH-URT :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of primordial matter, Truth-Reality, which brings forth the Self (Bull) on the highest plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AUDUMBLA` | **candidate (first-segment only)** → possible `AUDUMBLA, THE COW` (not linked) |
+| `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
+| `OF cHRist` | **unresolved** (review queue) |
+| `Butt` | **unresolved** (review queue) |
+| `Matrern` | **unresolved** (review queue) |
+| `MAyd` | **unresolved** (review queue) |
+| `Morser` | **unresolved** (review queue) |
+| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `UrcHaT` | **unresolved** (review queue) |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-cow-goddess-meh-urt-ocr-body`
+
+```text
+A symbol of primordial matter, Truth-Reality, which brings forth the Self (Bull) on the highest plane. ‘*The homage of the scribe Nebseni to the goddess Meh-urt, lady of heaven, and mistress of earth."—BupDGE, Book of the Dead, Ch. LXXL **I behold R& who was born yesterday from the buttocks of the goddess Meh-urt ; 180 cow his strength is my strength, and my strength is his strength. What then is this? It is the watery abyss of heaven, or as others say,—It is the image of the Eye of Ra in the morning at his daily birth. Meh-urt is the Eye (Utchat) of Ra.°°— Ibid., Ch. XVII. The soul acclaims the Self, who, at the beginning of the cycle, was brought forth from primordial matter. The life and energy of the Self is within the soul, and the soul’s life and energy is the Self’s. What then is Meh-urt ? It is Truth-Reality (water); or in other terms,—It is the counterpart of the Self at his forthgoing into manifestation ;—It is the mode by which the Self perceives Himself. See AUDUMBLA, BIRTH OF BUDDHA, OF cHRist, Butt, Matrern, MAyd, Morser, Prakriti, UrcHaT, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_187|page_187]]
+

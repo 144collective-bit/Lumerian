@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-kether-the-crown
+headword: "KETHER, THE CROWN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# KETHER, THE CROWN
+
+- **Entry ID:** `gaskell-1960-entry-kether-the-crown`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_436`, `page_437`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_436|page_436]], [[Supporting Material/Gaskell/Source Text/page_437|page_437]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`KETHER, THE CROWN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Atman, or the plane of atma.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ABSOLUTE` | **unresolved** (review queue) |
+| `AIN-SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
+| `ATMA` | **unresolved** (review queue) |
+| `ATMAN` | **unresolved** (review queue) |
+| `CROWN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
+| `HoOKHMAH` | **unresolved** (review queue) |
+| `Monap` | **unresolved** (review queue) |
+| `SEPHIROTH` | **unresolved** (review queue) |
+| `TAE-KEIH` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-kether-the-crown-ocr-body`
+
+```text
+A symbol of the Atman, or the plane of atma. The Higher Self supreme. **'When the Unknown of the Unknown wished to manifest Itself, It began by roducing a point; as long as that uminous point had not gone out of Its bosom, the Infinite was still completely unknown and diffused no light (Zohar). This emanated point is the Kether or Crown, the first Sephirah.’”-—Myer, Qabbalah, p. 127. When the Absolute determined to outpour its Life-energy, it emanated a centre of consciousness and operation,—the Atman or Higher Self. ‘** St. Thomas Aquinas virtually accepts the doctrine of Emanations when he writes: ‘As all the perfections of creatures descend in order from God, who is the height of perfection, man should begin from the lower creatures and ascend by degrees, and so advance to the knowledge of God. ... And because in that roof and crown of all things, God, we find the most perfect KEYS unity; and everything is stronger and more excellent the more thoroughly it is one ; it follows that diversity and variety increase in things the further they are removed from Him who is the first principle of all.’’"—E. UNDERHILL, Mysttcism, p. 117. See ABSOLUTE, AIN-SOPH, ATMA, ATMAN, CROWN, HoOKHMAH, Monap, SEPHIROTH, TAE-KEIH.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_436|page_436]], [[Supporting Material/Gaskell/Source Text/page_437|page_437]]
+

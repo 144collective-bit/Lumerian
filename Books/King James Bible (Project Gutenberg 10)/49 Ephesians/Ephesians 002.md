@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-eph
+chapter_id: kjv-eph-2
+book_name: "Ephesians"
+chapter: 2
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ephesians 2"
+  - "KJV Ephesians 2"
+---
+
+# Ephesians 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/49 Ephesians/Ephesians|Ephesians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/49 Ephesians/Ephesians 001|Ephesians 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/49 Ephesians/Ephesians 003|Ephesians 3]]
+
+## Text
+
+###### Ephesians 2:1
+
+And you hath he quickened, who were dead in trespasses and sins;
+
+^kjv-eph-2-1
+
+###### Ephesians 2:2
+
+Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
+
+^kjv-eph-2-2
+
+###### Ephesians 2:3
+
+Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+
+^kjv-eph-2-3
+
+###### Ephesians 2:4
+
+But God, who is rich in mercy, for his great love wherewith he loved us,
+
+^kjv-eph-2-4
+
+###### Ephesians 2:5
+
+Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
+
+^kjv-eph-2-5
+
+###### Ephesians 2:6
+
+And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:
+
+^kjv-eph-2-6
+
+###### Ephesians 2:7
+
+That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
+
+^kjv-eph-2-7
+
+###### Ephesians 2:8
+
+For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+
+^kjv-eph-2-8
+
+###### Ephesians 2:9
+
+Not of works, lest any man should boast.
+
+^kjv-eph-2-9
+
+###### Ephesians 2:10
+
+For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+
+^kjv-eph-2-10
+
+###### Ephesians 2:11
+
+Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
+
+^kjv-eph-2-11
+
+###### Ephesians 2:12
+
+That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
+
+^kjv-eph-2-12
+
+###### Ephesians 2:13
+
+But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
+
+^kjv-eph-2-13
+
+###### Ephesians 2:14
+
+For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
+
+^kjv-eph-2-14
+
+###### Ephesians 2:15
+
+Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
+
+^kjv-eph-2-15
+
+###### Ephesians 2:16
+
+And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:
+
+^kjv-eph-2-16
+
+###### Ephesians 2:17
+
+And came and preached peace to you which were afar off, and to them that were nigh.
+
+^kjv-eph-2-17
+
+###### Ephesians 2:18
+
+For through him we both have access by one Spirit unto the Father.
+
+^kjv-eph-2-18
+
+###### Ephesians 2:19
+
+Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
+
+^kjv-eph-2-19
+
+###### Ephesians 2:20
+
+And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
+
+^kjv-eph-2-20
+
+###### Ephesians 2:21
+
+In whom all the building fitly framed together groweth unto an holy temple in the Lord:
+
+^kjv-eph-2-21
+
+###### Ephesians 2:22
+
+In whom ye also are builded together for an habitation of God through the Spirit.
+
+^kjv-eph-2-22

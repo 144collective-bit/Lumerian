@@ -1,0 +1,148 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1co
+chapter_id: kjv-1co-6
+book_name: "1 Corinthians"
+chapter: 6
+verses: 20
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Corinthians 6"
+  - "KJV 1 Corinthians 6"
+---
+
+# 1 Corinthians 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians|1 Corinthians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians 005|1 Corinthians 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians 007|1 Corinthians 7]]
+
+## Text
+
+###### 1 Corinthians 6:1
+
+Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
+
+^kjv-1co-6-1
+
+###### 1 Corinthians 6:2
+
+Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?
+
+^kjv-1co-6-2
+
+###### 1 Corinthians 6:3
+
+Know ye not that we shall judge angels? how much more things that pertain to this life?
+
+^kjv-1co-6-3
+
+###### 1 Corinthians 6:4
+
+If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
+
+^kjv-1co-6-4
+
+###### 1 Corinthians 6:5
+
+I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
+
+^kjv-1co-6-5
+
+###### 1 Corinthians 6:6
+
+But brother goeth to law with brother, and that before the unbelievers.
+
+^kjv-1co-6-6
+
+###### 1 Corinthians 6:7
+
+Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+
+^kjv-1co-6-7
+
+###### 1 Corinthians 6:8
+
+Nay, ye do wrong, and defraud, and that your brethren.
+
+^kjv-1co-6-8
+
+###### 1 Corinthians 6:9
+
+Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
+
+^kjv-1co-6-9
+
+###### 1 Corinthians 6:10
+
+Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
+
+^kjv-1co-6-10
+
+###### 1 Corinthians 6:11
+
+And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
+
+^kjv-1co-6-11
+
+###### 1 Corinthians 6:12
+
+All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.
+
+^kjv-1co-6-12
+
+###### 1 Corinthians 6:13
+
+Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.
+
+^kjv-1co-6-13
+
+###### 1 Corinthians 6:14
+
+And God hath both raised up the Lord, and will also raise up us by his own power.
+
+^kjv-1co-6-14
+
+###### 1 Corinthians 6:15
+
+Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.
+
+^kjv-1co-6-15
+
+###### 1 Corinthians 6:16
+
+What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.
+
+^kjv-1co-6-16
+
+###### 1 Corinthians 6:17
+
+But he that is joined unto the Lord is one spirit.
+
+^kjv-1co-6-17
+
+###### 1 Corinthians 6:18
+
+Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
+
+^kjv-1co-6-18
+
+###### 1 Corinthians 6:19
+
+What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?
+
+^kjv-1co-6-19
+
+###### 1 Corinthians 6:20
+
+For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.
+
+^kjv-1co-6-20

@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-nu-the-god
+headword: "NU, THE GOD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NU, THE GOD
+
+- **Entry ID:** `gaskell-1960-entry-nu-the-god`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_548`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_548|page_548]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NU, THE GOD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Divine powers operating in the hidden universe and subserving the evolution of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BrrTH OF osiIrRis` | **unresolved** (review queue) |
+| `Gops` | **unresolved** (review queue) |
+| `Hart` | **unresolved** (review queue) |
+| `KHEPER` | **candidate (first-segment only)** → possible `KHEPER, OR KHEPERA` (not linked) |
+| `MEMBERS` | **unresolved** (review queue) |
+| `Names` | **unresolved** (review queue) |
+| `NUT` | **unresolved** (review queue) |
+| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-nu-the-god-ocr-body`
+
+```text
+A symbol of the Divine powers operating in the hidden universe and subserving the evolution of the soul. ‘I am the great god who created himself, that is to say, I am Water, that is to say, Nu the father of the gods, or as others say, Ra, the creator of the names of his members which turned into the a aaa Papyrus of Hunefer «AT From the self-derived Truth-reality (water) proceeds the manifesting Self (R&) with its differentiated ideals (gods) of the Divine scheme. See BrrTH OF osiIrRis, Gops, Hart, KHEPER, MEMBERS, Names, NUT, RA, SELF, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_548|page_548]]
+

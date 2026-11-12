@@ -1,0 +1,73 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-or-the-great-invisible-forefather
+headword: "OR THE GREAT INVISIBLE FOREFATHER"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# OR THE GREAT INVISIBLE FOREFATHER
+
+- **Entry ID:** `gaskell-1960-entry-or-the-great-invisible-forefather`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_275`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_275|page_275]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`OR THE GREAT INVISIBLE FOREFATHER :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol to indicate Absolute Being ,—the First or unmanifest Logos, —the Source of all that is.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ABSOLUTE` | **unresolved** (review queue) |
+| `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
+| `ARHAT` | **unresolved** (review queue) |
+| `ATMAN` | **unresolved** (review queue) |
+| `BraHMA` | **candidate (first-segment only)** → possible `BRAHMA, OR BRAHMAN` (not linked) |
+| `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
+| `MacrocosM` | **unresolved** (review queue) |
+| `Monap` | **unresolved** (review queue) |
+| `Oapoap` | **unresolved** (review queue) |
+| `PRraGAPpamti` | **unresolved** (review queue) |
+| `Truouty` | **unresolved** (review queue) |
+| `VIVANHAO` | **candidate (first-segment only)** → possible `VIVANHAO, OR VIVANGHAT, FATHER OF YIMA` (not linked) |
+| `ZERANA` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-or-the-great-invisible-forefather-ocr-body`
+
+```text
+A symbol to indicate Absolute Being ,—the First or unmanifest Logos, —the Source of all that is. No conception is possible of Potential Deity, —it is a ‘‘ thrice unknown Darkness "’ to the lower mind. From the Father proceeds the Son, —the Second Logos, God manifest and limited in His creation. ** Jesus calls the Life-Force Our Father. ‘My Father worketh hitherto, and I work.’ Then all the working of the Life-Force in the past—even in what to our perception has been most gross and dreadful—has been the working of a Mind and Will which means well by us and could not do otherwise, for it is our Father....We must work that God's work may be done and our own destiny fulfilled. And we know it; we all know it. There is that within us all which makes us know that that alone is great and worthy of reverence in human character and deed which is the outcome of life spent in the service of objects wider and higher than the purely selfish and personal.’’— R. J. CamMpPBELL, Serm., Jesus and the Life-Force. ‘*There was, he (a Gnostic) says, at first nothing whatever that is begotten ; the Father was in solitude, unbegotten, not circumscribed either by space or time, with none to counsel Him, with no kind of substance that can be apprehended by any ordinary mode of apprehension. He was in solitude, as they say quiescent, and reposing in Himself alone. But inasmuch as He had the faculty of generation, it seemed good to Him at last to bring to birth and to put forth what He had within Himself that was fairest and most perfect; for He was no lover of solitude. For He was, the writer says, all Love; but love is not love, unless there be an object of love.’"—HirrotytTus, Refutation, VI. 29. See ABSOLUTE, AIN SOPH, ARHAT, ATMAN, BraHMA, GODHEAD, MacrocosM, Monap, Oapoap, PRraGAPpamti, Truouty, VIVANHAO, ZERANA.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_275|page_275]]
+

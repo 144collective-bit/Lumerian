@@ -1,0 +1,84 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-countenance-greater-and-lesser
+headword: "COUNTENANCE, GREATER AND LESSER"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# COUNTENANCE, GREATER AND LESSER
+
+- **Entry ID:** `gaskell-1960-entry-countenance-greater-and-lesser`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_184`, `page_185`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_184|page_184]], [[Supporting Material/Gaskell/Source Text/page_185|page_185]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`COUNTENANCE, GREATER AND LESSER :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of the Higher Self and the Lower Self—the Self unmanifest and the Self incarnate and partly manifest in the soul on the plane of mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ApamM (higher)` | **unresolved** (review queue) |
+| `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
+| `ARC. MAN` | **unresolved** (review queue) |
+| `ASEEYATIO WORLD` | **unresolved** (review queue) |
+| `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
+| `ATMA` | **unresolved** (review queue) |
+| `ATZEELOOTH` | **unresolved** (review queue) |
+| `BIn4#` | **unresolved** (review queue) |
+| `BREEATIC WORLD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
+| `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
+| `Face` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
+| `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
+| `Hoxumau` | **unresolved** (review queue) |
+| `HuMAN Bopy` | **unresolved** (review queue) |
+| `INCARNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `JoB` | **unresolved** (review queue) |
+| `KETHER` | **candidate (first-segment only)** → possible `KETHER, THE CROWN` (not linked) |
+| `Macrocosm` | **unresolved** (review queue) |
+| `MicROCOSM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
+| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `SERVANT OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
+| `Warp` | **unresolved** (review queue) |
+| `WHITE` | **unresolved** (review queue) |
+| `YETZEERATIC WORLD` | **candidate (first-segment only)** → possible `YETZEERATIC WORLD, THE WORLD OF FORMATION` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-countenance-greater-and-lesser-ocr-body`
+
+```text
+Symbols of the Higher Self and the Lower Self—the Self unmanifest and the Self incarnate and partly manifest in the soul on the plane of mind. ** The White Head, the Ancient, or the Great Countenance is described as Ancient of Ancients, concealed of all concealed. He who is symbolised thereby is the Master with the white mantle and resplendent visage, and he is also called Holy of Holies. - - - Connected by means of a white thread or bond of union with the Great Countenance, there is that which is called the Lesser Countenance, Little Form or Figure, which presents, however, a complete t of humanity and is extended through three symbolical worlds. The distinction between the two heads is that in this caee the hair and beard are black.’ —A. E. Warts, Secret Doctrine in Ierael, pp. 45, 46, Theo177 COUNTENANCE The Supreme Self, who is beyond time and space, is perfect in potentiality and hidden within all things. He is the Central Ruler and promulgator of the scheme of existence, and in him is the perfection of all Wisdom, Love, and Truth. Essentially united with the Supreme Self is the Conditioned Self, the complete prototype of perfect humanity, but as yet little evolved on the three lower planes. The black hair is significant of youthfulness. **The Lesser Countenance has eyelids, because it has periods of sleep, a complete visage in manifestation because severity is one of its attributes, and a distinctive name, being Lord, whereas the Great Countenance is called Ain, or Nothing. It is laid down (1) that the Lesser Countenance emanates from the Greater, (2) that the Greater metamorphoses into the Lesser, (3) that the latter is actually the former, as if seen through a curtain, and more specifically that they are one and the same.”’—Jbid. The incarnate Self withdraws from outward perception, between periods of reincarnation. The mental aspect of the lower consciousness is that of a “*man of sorrows and acquainted with grief," yet behind this visage is the Divine Ruler obscured by a curtain of imperfections, but destined to shine forth in his beauty when the soul has become pure and translucent, and the two Selves become One Self. “According to the symbolism of the Idras, the Great Countenance is in Atztluth, abode of the three supreme Sephiroth, which are Kether, Chokmah and Binah. It is located especially in Kether. Below this there is the Lesser Countenance and Form, the head of which is in Daath (knowledge), while the body is extended through Briah, Yetzirah and Assiah, the ere being not without the female.—Jbid., The abode of the Higher Self is on the three higher planes (Atziluth), atma, buddhi, and higher manas, but essentially on atma (Kether). The incarnate Self is involved in the lower nature of the soul,—mental (Briah) astral (Yetzirah), and physical (Assiah). It is centred in tha mind as the Individuality (Daath) which is in alliance with the higher emotion nature, buddhi (fein.). ‘** According to later Kabalism, the Great Countenance is Macroprosopus, the soul of the greater world, while the Lesser Countenance or Figure is Microprosopue, the soul of the lesser world and Adam COUNTERFEIT Protoplastes, his Bride being the archetypal Eve.”’—ZJbid., p. 49. The first Adam (GEN. i.) is the Archetypal Man containing the duality of mind (man) and emotion-nature (woman). See ApamM (higher), AIN SOPH, ARC. MAN, ASEEYATIO WORLD, ASTRAL PLANE, ATMA, ATZEELOOTH, BIn4#, BREEATIC WORLD, BUDDHIC PLANE, Face, HIGHER AND LOWER SELVES, Hoxumau, HuMAN Bopy, INCARNATION, JoB, KETHER, Macrocosm, MicROCOSM, PLANES, SERVANT OF GOD, Warp, WHITE, YETZEERATIC WORLD.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_184|page_184]], [[Supporting Material/Gaskell/Source Text/page_185|page_185]]
+

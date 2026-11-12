@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-disk-winged-sun
+headword: "DISK, WINGED SUN-"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DISK, WINGED SUN-
+
+- **Entry ID:** `gaskell-1960-entry-disk-winged-sun`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_229`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_229|page_229]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DISK, WINGED SUN- :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> This symbol signifies the higher Individuality which dwells on the buddhic plane and ensouls the causalbody.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BoaT ON RIVER` | **unresolved** (review queue) |
+| `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
+| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `HoRBEHUDTI` | **candidate (first-segment only)** → possible `HORBEHUDTI, OR HEROBEHUTET` (not linked) |
+| `INDIvipuALITy` | **unresolved** (review queue) |
+| `SON oF GOD` | **candidate (first-segment only)** → possible `SON OF GOD, FIRST-BORN` (not linked) |
+| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+| `SuN-DISK` | **candidate (first-segment only)** → possible `SUN-DISK, WINGED` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-disk-winged-sun-ocr-body`
+
+```text
+This symbol signifies the higher Individuality which dwells on the buddhic plane and ensouls the causalbody. It is the buddhic vehicle or vesture of the Atman. “‘ Horbehudti (Horus) changed his form into that of a winged sun-disk, that which reste over the prow of the bark of Ra.” —Legend of the Winged Sun-disk. Now from the perfect form of man on the lower planes, the Son of God assumed the vesture of the higher Individuality,—the buddhic, which ensouls the causal-body (the bark of Ra). *‘'When perfect and fully winged, she (the soul) soars upward, and is the Ruler of the universe.”—Priato, Phodrus, JoweEtTT, Vol. II. p. 123. ‘“*Almost every jot or tittle in the Egyptian worship had a _ symbolical meaning. The round disk so frequent in the sacred emblems of Egypt symbolised the sun. Now, when Osrris, the sun divinity, became _ incarnate, and was born, it was not merely that he should give his life as a sacrifice for men, but that he might also be the life and nourishment of the souls of men.”’ —A. Histor, Two Babylons, p. 160. See BoaT ON RIVER, BUDDHIC PLANE, CaUSAL-BODY, HoRBEHUDTI, INDIvipuALITy, SON oF GOD, SPHERE, Sun, SuN-DISK.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_229|page_229]]
+

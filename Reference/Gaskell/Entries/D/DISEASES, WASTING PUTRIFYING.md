@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-diseases-wasting-putrifying
+headword: "DISEASES, WASTING PUTRIFYING"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DISEASES, WASTING PUTRIFYING
+
+- **Entry ID:** `gaskell-1960-entry-diseases-wasting-putrifying`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_229`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_229|page_229]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DISEASES, WASTING PUTRIFYING :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the lowest states of the instinct and desire nature, which become obnoxious and gradually disappear.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `FATE-SPHERE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] |
+| `KARMA` | **unresolved** (review queue) |
+| `MURDER` | **candidate (first-segment only)** → possible `MURDER, WRATH, AND HATRED` (not linked) |
+| `PESTILENCE` | **unresolved** (review queue) |
+| `STRIFE` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-diseases-wasting-putrifying-ocr-body`
+
+```text
+Symbolic of the lowest states of the instinct and desire nature, which become obnoxious and gradually disappear. ‘““And I wept and shrieked on beholding the unwonted land where are murder and wrath, and other species of fates, and wasting diseases, and putrefactions and fluxes,’”—Hm : FaIRBANKS, 3865. The lower self, through the awakenment within, ‘“‘ wept and shrieked,” that is, feared, trembled, and suffered, AND DISMEMBERMENT: all through the earlier troubles and’ difficulties which befell it. ‘‘ Murder and wrath ” signify the primitive and fearsome manifestations of the Divine | indwelling principle. The ‘other species of fates” are the karmic liabilities which are incurred during the early state of strife. The “‘ wasting diseases, etc.” are the lowest aspects | of the soul’s lower desires. | See FATE-SPHERE, KARMA, MURDER, PESTILENCE, STRIFE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_229|page_229]]
+

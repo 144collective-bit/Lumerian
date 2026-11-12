@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-pool-of-bethesda
+headword: "POOL OF BETHESDA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# POOL OF BETHESDA
+
+- **Entry ID:** `gaskell-1960-entry-pool-of-bethesda`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_591`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_591|page_591]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`POOL OF BETHESDA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the intuition or perception of the truth.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BETHESDA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BETHESDA|BETHESDA]] |
+| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `Crry` | **unresolved** (review queue) |
+| `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
+| `HraLiInc` | **unresolved** (review queue) |
+| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `Mal. SHAN` | **unresolved** (review queue) |
+| `PorcHes` | **candidate (first-segment only)** → possible `PORCHES, FIVE` (not linked) |
+| `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-pool-of-bethesda-ocr-body`
+
+```text
+A symbol of the intuition or perception of the truth. “Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches. In these lay a at multitude of impotent folk, of blind, halt and withered, waiting for the moving of the water.” —JoHN v. 2, 3. Near Jerusalem,—the ‘‘ City of the Great King,’’—that is, the causalbody, the seat of the Higher Self, is the ‘‘sheep market,” which is the state where “sheep ™ or living truths are got in exchange for ‘‘ money” their lower equivalent, i.e. for desires and sense-objects. The “‘ pool ” signifies mental enlightenment by intuition. ** Bethesda ” signifies a state of bliss, because enlightenment is the haven of rest for those who have outgrown the tribulations and fetters of the “flesh.” The ‘‘five porches” are the five senses, and the “impotent folk” are the qualities who put their trust in the senses. The “water” is the perception of truth. The qualities wait until their intuitions are stirred. See BETHESDA, CAUSAL-BODY, Crry, Cross, HraLiInc, JERUSALEM, Mal. SHAN, PorcHes, SHEEP, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_591|page_591]]
+

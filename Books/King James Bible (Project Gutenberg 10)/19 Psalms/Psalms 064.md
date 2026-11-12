@@ -1,0 +1,88 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-64
+book_name: "Psalms"
+chapter: 64
+verses: 10
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 64"
+  - "KJV Psalms 64"
+---
+
+# Psalms 64
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 063|Psalms 63]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 065|Psalms 65]]
+
+## Text
+
+###### Psalms 64:1
+
+Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
+
+^kjv-psa-64-1
+
+###### Psalms 64:2
+
+Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+
+^kjv-psa-64-2
+
+###### Psalms 64:3
+
+Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+
+^kjv-psa-64-3
+
+###### Psalms 64:4
+
+That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+
+^kjv-psa-64-4
+
+###### Psalms 64:5
+
+They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+
+^kjv-psa-64-5
+
+###### Psalms 64:6
+
+They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
+^kjv-psa-64-6
+
+###### Psalms 64:7
+
+But God shall shoot at them with an arrow; suddenly shall they be wounded.
+
+^kjv-psa-64-7
+
+###### Psalms 64:8
+
+So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
+
+^kjv-psa-64-8
+
+###### Psalms 64:9
+
+And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.
+
+^kjv-psa-64-9
+
+###### Psalms 64:10
+
+The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.
+
+^kjv-psa-64-10

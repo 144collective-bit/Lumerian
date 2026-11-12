@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-25
+book_name: "Psalms"
+chapter: 25
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 25"
+  - "KJV Psalms 25"
+---
+
+# Psalms 25
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 024|Psalms 24]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 026|Psalms 26]]
+
+## Text
+
+###### Psalms 25:1
+
+Unto thee, O LORD, do I lift up my soul.
+
+^kjv-psa-25-1
+
+###### Psalms 25:2
+
+O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.
+
+^kjv-psa-25-2
+
+###### Psalms 25:3
+
+Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.
+
+^kjv-psa-25-3
+
+###### Psalms 25:4
+
+Shew me thy ways, O LORD; teach me thy paths.
+
+^kjv-psa-25-4
+
+###### Psalms 25:5
+
+Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.
+
+^kjv-psa-25-5
+
+###### Psalms 25:6
+
+Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.
+
+^kjv-psa-25-6
+
+###### Psalms 25:7
+
+Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD.
+
+^kjv-psa-25-7
+
+###### Psalms 25:8
+
+Good and upright is the LORD: therefore will he teach sinners in the way.
+
+^kjv-psa-25-8
+
+###### Psalms 25:9
+
+The meek will he guide in judgment: and the meek will he teach his way.
+
+^kjv-psa-25-9
+
+###### Psalms 25:10
+
+All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.
+
+^kjv-psa-25-10
+
+###### Psalms 25:11
+
+For thy name’s sake, O LORD, pardon mine iniquity; for it is great.
+
+^kjv-psa-25-11
+
+###### Psalms 25:12
+
+What man is he that feareth the LORD? him shall he teach in the way that he shall choose.
+
+^kjv-psa-25-12
+
+###### Psalms 25:13
+
+His soul shall dwell at ease; and his seed shall inherit the earth.
+
+^kjv-psa-25-13
+
+###### Psalms 25:14
+
+The secret of the LORD is with them that fear him; and he will shew them his covenant.
+
+^kjv-psa-25-14
+
+###### Psalms 25:15
+
+Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net.
+
+^kjv-psa-25-15
+
+###### Psalms 25:16
+
+Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.
+
+^kjv-psa-25-16
+
+###### Psalms 25:17
+
+The troubles of my heart are enlarged: O bring thou me out of my distresses.
+
+^kjv-psa-25-17
+
+###### Psalms 25:18
+
+Look upon mine affliction and my pain; and forgive all my sins.
+
+^kjv-psa-25-18
+
+###### Psalms 25:19
+
+Consider mine enemies; for they are many; and they hate me with cruel hatred.
+
+^kjv-psa-25-19
+
+###### Psalms 25:20
+
+O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.
+
+^kjv-psa-25-20
+
+###### Psalms 25:21
+
+Let integrity and uprightness preserve me; for I wait on thee.
+
+^kjv-psa-25-21
+
+###### Psalms 25:22
+
+Redeem Israel, O God, out of all his troubles.
+
+^kjv-psa-25-22

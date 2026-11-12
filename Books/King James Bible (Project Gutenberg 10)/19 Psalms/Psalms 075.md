@@ -1,0 +1,88 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-75
+book_name: "Psalms"
+chapter: 75
+verses: 10
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 75"
+  - "KJV Psalms 75"
+---
+
+# Psalms 75
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 074|Psalms 74]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 076|Psalms 76]]
+
+## Text
+
+###### Psalms 75:1
+
+Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
+
+^kjv-psa-75-1
+
+###### Psalms 75:2
+
+When I shall receive the congregation I will judge uprightly.
+
+^kjv-psa-75-2
+
+###### Psalms 75:3
+
+The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.
+
+^kjv-psa-75-3
+
+###### Psalms 75:4
+
+I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:
+
+^kjv-psa-75-4
+
+###### Psalms 75:5
+
+Lift not up your horn on high: speak not with a stiff neck.
+
+^kjv-psa-75-5
+
+###### Psalms 75:6
+
+For promotion cometh neither from the east, nor from the west, nor from the south.
+
+^kjv-psa-75-6
+
+###### Psalms 75:7
+
+But God is the judge: he putteth down one, and setteth up another.
+
+^kjv-psa-75-7
+
+###### Psalms 75:8
+
+For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.
+
+^kjv-psa-75-8
+
+###### Psalms 75:9
+
+But I will declare for ever; I will sing praises to the God of Jacob.
+
+^kjv-psa-75-9
+
+###### Psalms 75:10
+
+All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.
+
+^kjv-psa-75-10

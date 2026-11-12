@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-ecc
+chapter_id: kjv-ecc-3
+book_name: "Ecclesiastes"
+chapter: 3
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ecclesiastes 3"
+  - "KJV Ecclesiastes 3"
+---
+
+# Ecclesiastes 3
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes|Ecclesiastes]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes 002|Ecclesiastes 2]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes 004|Ecclesiastes 4]]
+
+## Text
+
+###### Ecclesiastes 3:1
+
+To every thing there is a season, and a time to every purpose under the heaven:
+
+^kjv-ecc-3-1
+
+###### Ecclesiastes 3:2
+
+A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
+
+^kjv-ecc-3-2
+
+###### Ecclesiastes 3:3
+
+A time to kill, and a time to heal; a time to break down, and a time to build up;
+
+^kjv-ecc-3-3
+
+###### Ecclesiastes 3:4
+
+A time to weep, and a time to laugh; a time to mourn, and a time to dance;
+
+^kjv-ecc-3-4
+
+###### Ecclesiastes 3:5
+
+A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
+
+^kjv-ecc-3-5
+
+###### Ecclesiastes 3:6
+
+A time to get, and a time to lose; a time to keep, and a time to cast away;
+
+^kjv-ecc-3-6
+
+###### Ecclesiastes 3:7
+
+A time to rend, and a time to sew; a time to keep silence, and a time to speak;
+
+^kjv-ecc-3-7
+
+###### Ecclesiastes 3:8
+
+A time to love, and a time to hate; a time of war, and a time of peace.
+
+^kjv-ecc-3-8
+
+###### Ecclesiastes 3:9
+
+What profit hath he that worketh in that wherein he laboureth?
+
+^kjv-ecc-3-9
+
+###### Ecclesiastes 3:10
+
+I have seen the travail, which God hath given to the sons of men to be exercised in it.
+
+^kjv-ecc-3-10
+
+###### Ecclesiastes 3:11
+
+He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
+
+^kjv-ecc-3-11
+
+###### Ecclesiastes 3:12
+
+I know that there is no good in them, but for a man to rejoice, and to do good in his life.
+
+^kjv-ecc-3-12
+
+###### Ecclesiastes 3:13
+
+And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.
+
+^kjv-ecc-3-13
+
+###### Ecclesiastes 3:14
+
+I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.
+
+^kjv-ecc-3-14
+
+###### Ecclesiastes 3:15
+
+That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
+
+^kjv-ecc-3-15
+
+###### Ecclesiastes 3:16
+
+And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
+
+^kjv-ecc-3-16
+
+###### Ecclesiastes 3:17
+
+I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.
+
+^kjv-ecc-3-17
+
+###### Ecclesiastes 3:18
+
+I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+
+^kjv-ecc-3-18
+
+###### Ecclesiastes 3:19
+
+For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.
+
+^kjv-ecc-3-19
+
+###### Ecclesiastes 3:20
+
+All go unto one place; all are of the dust, and all turn to dust again.
+
+^kjv-ecc-3-20
+
+###### Ecclesiastes 3:21
+
+Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
+
+^kjv-ecc-3-21
+
+###### Ecclesiastes 3:22
+
+Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
+
+^kjv-ecc-3-22

@@ -1,0 +1,82 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-zec
+chapter_id: kjv-zec-13
+book_name: "Zechariah"
+chapter: 13
+verses: 9
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Zechariah 13"
+  - "KJV Zechariah 13"
+---
+
+# Zechariah 13
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah|Zechariah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 012|Zechariah 12]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 014|Zechariah 14]]
+
+## Text
+
+###### Zechariah 13:1
+
+In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
+
+^kjv-zec-13-1
+
+###### Zechariah 13:2
+
+And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
+
+^kjv-zec-13-2
+
+###### Zechariah 13:3
+
+And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth.
+
+^kjv-zec-13-3
+
+###### Zechariah 13:4
+
+And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:
+
+^kjv-zec-13-4
+
+###### Zechariah 13:5
+
+But he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.
+
+^kjv-zec-13-5
+
+###### Zechariah 13:6
+
+And one shall say unto him, What are these wounds in thine hands? Then he shall answer, Those with which I was wounded in the house of my friends.
+
+^kjv-zec-13-6
+
+###### Zechariah 13:7
+
+Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.
+
+^kjv-zec-13-7
+
+###### Zechariah 13:8
+
+And it shall come to pass, that in all the land, saith the LORD, two parts therein shall be cut off and die; but the third shall be left therein.
+
+^kjv-zec-13-8
+
+###### Zechariah 13:9
+
+And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.
+
+^kjv-zec-13-9

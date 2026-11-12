@@ -1,0 +1,112 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1pe
+chapter_id: kjv-1pe-5
+book_name: "1 Peter"
+chapter: 5
+verses: 14
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Peter 5"
+  - "KJV 1 Peter 5"
+---
+
+# 1 Peter 5
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/60 1 Peter/1 Peter|1 Peter]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/60 1 Peter/1 Peter 004|1 Peter 4]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/61 2 Peter/2 Peter 001|2 Peter 1]]
+
+## Text
+
+###### 1 Peter 5:1
+
+The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
+
+^kjv-1pe-5-1
+
+###### 1 Peter 5:2
+
+Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
+
+^kjv-1pe-5-2
+
+###### 1 Peter 5:3
+
+Neither as being lords over God’s heritage, but being ensamples to the flock.
+
+^kjv-1pe-5-3
+
+###### 1 Peter 5:4
+
+And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.
+
+^kjv-1pe-5-4
+
+###### 1 Peter 5:5
+
+Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
+
+^kjv-1pe-5-5
+
+###### 1 Peter 5:6
+
+Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
+
+^kjv-1pe-5-6
+
+###### 1 Peter 5:7
+
+Casting all your care upon him; for he careth for you.
+
+^kjv-1pe-5-7
+
+###### 1 Peter 5:8
+
+Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
+
+^kjv-1pe-5-8
+
+###### 1 Peter 5:9
+
+Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
+
+^kjv-1pe-5-9
+
+###### 1 Peter 5:10
+
+But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
+
+^kjv-1pe-5-10
+
+###### 1 Peter 5:11
+
+To him be glory and dominion for ever and ever. Amen.
+
+^kjv-1pe-5-11
+
+###### 1 Peter 5:12
+
+By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
+
+^kjv-1pe-5-12
+
+###### 1 Peter 5:13
+
+The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.
+
+^kjv-1pe-5-13
+
+###### 1 Peter 5:14
+
+Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.
+
+^kjv-1pe-5-14

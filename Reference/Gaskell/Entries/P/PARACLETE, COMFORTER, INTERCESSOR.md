@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-paraclete-comforter-intercessor
+headword: "PARACLETE, COMFORTER, INTERCESSOR"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# PARACLETE, COMFORTER, INTERCESSOR
+
+- **Entry ID:** `gaskell-1960-entry-paraclete-comforter-intercessor`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_567`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_567|page_567]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`PARACLETE, COMFORTER, INTERCESSOR :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of Wisdom, the buddhic function, allied with the highest principle (atma-buddhi).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ABSOLUTE` | **unresolved** (review queue) |
+| `ATMA` | **unresolved** (review queue) |
+| `BLASPHEMY` | **unresolved** (review queue) |
+| `BupD8ICc FUNCTION` | **unresolved** (review queue) |
+| `CHRIST PRINCIPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST-PRINCIPLE|CHRIST-PRINCIPLE]] |
+| `Harm or HEAD` | **unresolved** (review queue) |
+| `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
+| `Houy ca#osr` | **unresolved** (review queue) |
+| `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
+| `WISDOM` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-paraclete-comforter-intercessor-ocr-body`
+
+```text
+A symbol of Wisdom, the buddhic function, allied with the highest principle (atma-buddhi). ** And I will pray the Father, and he shall give you another Comforter, that he may be with you for ever, even the Spirit of truth; whom the world cannot receive; for it beholdeth him not, neither knoweth him: ye know him; for he abideth with you, and shall be in you.’’—JouNn xiv. 16, 17. ‘‘The Spirit, the Paraclete, she shal} teach you everything.’’—JOHN xiv. 26 (Old Syriac Version). To the aspiring Christ-soul there will come the response from the Absolute in the bestowal of the intuition of Truth through the buddhic function, which the unpurified lower nature cannot receive, it being unapparent and unknown. But to the disciplined qualities the holy Spirit is perceptible, and has become the inner guide and teacher, abiding always in the soul. ‘** Christ knew what was most expedient for the disciples, because that inward sight, wherewith the Holy Spirit was yet to comfort them, was undoubtedly superior; not by bringing a human body into the bodies of those who saw, but by infusing Himself into the hearte of those who believed.’’—AvuGustTine, Gospel of John, Vol. II. p. 357. ** Holiness comes from the operation and indwelling in our spirits of a Divine Spirit, which draws away our love from self to fix it on Him, which changes our blindness into light, and makes us by degrees like itself, ‘ holy, harmless, undefiled, separate from sinners.’ The Spirit of the Lord is the energy which produces all righteousness and purity in human spirits.”"-—A. MacLaren, Sermons, 2nd Series, p. 119. ‘**These three—justice, love, truth— are the three great attributes of the divine nature, aspects of the one perOR 660 PARADISE fection which Godis. When they meet in our heart God may be said to take up His abode within us."—B. Jowert, Serm., The Subjection of the Son. See ABSOLUTE, ATMA, BLASPHEMY, BupD8ICc FUNCTION, CHRIST PRINCIPLE, Harm or HEAD, Heart, Houy ca#osr, SHEKINAH, WISDOM.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_567|page_567]]
+

@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-zetes-and-calais-the-winged-sons-of-boreas
+headword: "ZETES AND CALAIS, THE WINGED SONS OF BOREAS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ZETES AND CALAIS, THE WINGED SONS OF BOREAS
+
+- **Entry ID:** `gaskell-1960-entry-zetes-and-calais-the-winged-sons-of-boreas`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_845`, `page_846`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_845|page_845]], [[Supporting Material/Gaskell/Source Text/page_846|page_846]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ZETES AND CALAIS, THE WINGED SONS OF BOREAS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of the will and mind, begotten of the higher mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Anconavuts` | **unresolved** (review queue) |
+| `Boreas` | **candidate (first-segment only)** → possible `BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS` (not linked) |
+| `HARPIES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
+| `NICOTHEA` | **candidate (first-segment only)** → possible `NICOTHEA, ZETES CALAMITIES` (not linked) |
+| `OCYPETE` | **candidate (first-segment only)** → possible `OCYPETE, THE HARPY` (not linked) |
+| `PHINEUS` | **candidate (first-segment only)** → possible `PHINEUS, THE PROPHETPRINCE` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-zetes-and-calais-the-winged-sons-of-boreas-ocr-body`
+
+```text
+Symbols of the will and mind, begotten of the higher mind. They . are said to fiy through the “ air,’’ a symbol of the mental plane. ‘‘The table was spread for Phineus: the Harpies instantly descended on and seized the victuals. Zetes and Calais, the winged sons of Boreas, drew their swords and pursued them through the air.”"—Argonautic Expedition. When the higher qualities (Argonauts) have undertaken to deliver the ego’s mental discrimination (Phineus) from the astral ensnaremente of desire and sense (Harpies), opportunities are offered for the soul’s exercise, and the ZEUS pense-nature (Harpies) rushes forth to accomplish its purpose and so appropriate knowledge (food) to itself for its own ends. Then it is that the will (Zetes) and the mind (Calais) are brought into play on behalf of the ego; the result being that they are said to pursue the senses on the plane of manas (air}—the great creator of illusion—wherein the senses’ are dangerous and deceitful. See Anconavuts, Boreas, HARPIES, NICOTHEA, OCYPETE, PHINEUS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_845|page_845]], [[Supporting Material/Gaskell/Source Text/page_846|page_846]]
+

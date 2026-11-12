@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-96
+book_name: "Psalms"
+chapter: 96
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 96"
+  - "KJV Psalms 96"
+---
+
+# Psalms 96
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 095|Psalms 95]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 097|Psalms 97]]
+
+## Text
+
+###### Psalms 96:1
+
+O sing unto the LORD a new song: sing unto the LORD, all the earth.
+
+^kjv-psa-96-1
+
+###### Psalms 96:2
+
+Sing unto the LORD, bless his name; shew forth his salvation from day to day.
+
+^kjv-psa-96-2
+
+###### Psalms 96:3
+
+Declare his glory among the heathen, his wonders among all people.
+
+^kjv-psa-96-3
+
+###### Psalms 96:4
+
+For the LORD is great, and greatly to be praised: he is to be feared above all gods.
+
+^kjv-psa-96-4
+
+###### Psalms 96:5
+
+For all the gods of the nations are idols: but the LORD made the heavens.
+
+^kjv-psa-96-5
+
+###### Psalms 96:6
+
+Honour and majesty are before him: strength and beauty are in his sanctuary.
+
+^kjv-psa-96-6
+
+###### Psalms 96:7
+
+Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.
+
+^kjv-psa-96-7
+
+###### Psalms 96:8
+
+Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.
+
+^kjv-psa-96-8
+
+###### Psalms 96:9
+
+O worship the LORD in the beauty of holiness: fear before him, all the earth.
+
+^kjv-psa-96-9
+
+###### Psalms 96:10
+
+Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+
+^kjv-psa-96-10
+
+###### Psalms 96:11
+
+Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
+
+^kjv-psa-96-11
+
+###### Psalms 96:12
+
+Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
+
+^kjv-psa-96-12
+
+###### Psalms 96:13
+
+Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
+
+^kjv-psa-96-13

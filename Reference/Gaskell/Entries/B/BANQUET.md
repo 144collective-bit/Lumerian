@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-banquet
+headword: "BANQUET"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BANQUET
+
+- **Entry ID:** `gaskell-1960-entry-banquet`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_275`, `page_276`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_275|page_275]], [[Supporting Material/Gaskell/Source Text/page_276|page_276]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BANQUET :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Realisation of Truth, Wisdom and Love, in a state of bliss on higher planes.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `1 Cor. v. 8. See Banquet` | **unresolved** (review queue) |
+| `Cautr (fatted)` | **unresolved** (review queue) |
+| `Cow (plenty)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
+| `Fat` | **unresolved** (review queue) |
+| `Foop` | **unresolved** (review queue) |
+| `Movuntain` | **unresolved** (review queue) |
+| `Wr` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-banquet-ocr-body`
+
+```text
+A symbol of the Realisation of Truth, Wisdom and Love, in a state of bliss on higher planes. ‘“So when they had rest from the task, and had made ready the banquet, they feasted, nor was their heart aught stinted of the fair banquet. But when they had put away from them the desire of meat and drink, the young men crowned the bowls with wine, and gave each man his portion after the drink-offering had been poured into the cups.”’—Jliad, Bk. I, trans. Buckley. And when this process of evolution was completed, and the resulte of the labours of the Self were accom  FEATHER plished, the period arrived when the Soul should enjoy that which it had earned. Nor was aught lacking, for when the desires and appetites of the lower self were restrained (i.e. when the Ego no longer identified itself with its baser nature) the mental qualities brought truth from above to the lower Self. And each department of the Soul received satisfaction so soon as it had been nourished by Truth from on High. ‘** And in this mountain shall the Lord of hosts make unto all peoples a feast of fat things, a feast of wines on the lees well refined.’’—Is. xxv. 6. On the higher planes (mountain) the qualities shall partake of the ** fruits of the Spirit”’ bringing joy and satisfaction to the soul.—See 1 Cor. v. 8. See Banquet, Cautr (fatted), Cow (plenty), Fat, Foop, Movuntain, Wr.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_275|page_275]], [[Supporting Material/Gaskell/Source Text/page_276|page_276]]
+

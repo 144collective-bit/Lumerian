@@ -1,0 +1,172 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-139
+book_name: "Psalms"
+chapter: 139
+verses: 24
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 139"
+  - "KJV Psalms 139"
+---
+
+# Psalms 139
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 138|Psalms 138]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 140|Psalms 140]]
+
+## Text
+
+###### Psalms 139:1
+
+O lord, thou hast searched me, and known me.
+
+^kjv-psa-139-1
+
+###### Psalms 139:2
+
+Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
+
+^kjv-psa-139-2
+
+###### Psalms 139:3
+
+Thou compassest my path and my lying down, and art acquainted with all my ways.
+
+^kjv-psa-139-3
+
+###### Psalms 139:4
+
+For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.
+
+^kjv-psa-139-4
+
+###### Psalms 139:5
+
+Thou hast beset me behind and before, and laid thine hand upon me.
+
+^kjv-psa-139-5
+
+###### Psalms 139:6
+
+Such knowledge is too wonderful for me; it is high, I cannot attain unto it.
+
+^kjv-psa-139-6
+
+###### Psalms 139:7
+
+Whither shall I go from thy spirit? or whither shall I flee from thy presence?
+
+^kjv-psa-139-7
+
+###### Psalms 139:8
+
+If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.
+
+^kjv-psa-139-8
+
+###### Psalms 139:9
+
+If I take the wings of the morning, and dwell in the uttermost parts of the sea;
+
+^kjv-psa-139-9
+
+###### Psalms 139:10
+
+Even there shall thy hand lead me, and thy right hand shall hold me.
+
+^kjv-psa-139-10
+
+###### Psalms 139:11
+
+If I say, Surely the darkness shall cover me; even the night shall be light about me.
+
+^kjv-psa-139-11
+
+###### Psalms 139:12
+
+Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.
+
+^kjv-psa-139-12
+
+###### Psalms 139:13
+
+For thou hast possessed my reins: thou hast covered me in my mother’s womb.
+
+^kjv-psa-139-13
+
+###### Psalms 139:14
+
+I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
+
+^kjv-psa-139-14
+
+###### Psalms 139:15
+
+My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.
+
+^kjv-psa-139-15
+
+###### Psalms 139:16
+
+Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
+
+^kjv-psa-139-16
+
+###### Psalms 139:17
+
+How precious also are thy thoughts unto me, O God! how great is the sum of them!
+
+^kjv-psa-139-17
+
+###### Psalms 139:18
+
+If I should count them, they are more in number than the sand: when I awake, I am still with thee.
+
+^kjv-psa-139-18
+
+###### Psalms 139:19
+
+Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.
+
+^kjv-psa-139-19
+
+###### Psalms 139:20
+
+For they speak against thee wickedly, and thine enemies take thy name in vain.
+
+^kjv-psa-139-20
+
+###### Psalms 139:21
+
+Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?
+
+^kjv-psa-139-21
+
+###### Psalms 139:22
+
+I hate them with perfect hatred: I count them mine enemies.
+
+^kjv-psa-139-22
+
+###### Psalms 139:23
+
+Search me, O God, and know my heart: try me, and know my thoughts:
+
+^kjv-psa-139-23
+
+###### Psalms 139:24
+
+And see if there be any wicked way in me, and lead me in the way everlasting.
+
+^kjv-psa-139-24

@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-ephod-holy-of-aaron
+headword: "EPHOD, HOLY, OF AARON"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# EPHOD, HOLY, OF AARON
+
+- **Entry ID:** `gaskell-1960-entry-ephod-holy-of-aaron`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_257`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_257|page_257]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`EPHOD, HOLY, OF AARON :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the buddhic functioninge between the higher and lower natures in the human soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `also verses 4~7. The vibratory currents established between the buddhic and astral natures were produced in the mental qualities (colours) of the soul. The buddhic responses to the mental aspirations are indicated by the wires of gold (buddhi) worked into the structure of the ephod. The qualities of the structure are of intellect (blue)` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `wiedom (purple)` | **unresolved** (review queue) |
+| `life-energy (scarlet)` | **unresolved** (review queue) |
+| `and devotion (fine linen). The “ thin plates ’’ refer to an earlier and lessdifferentiated state of the qualities. The ‘‘shoulderpieces" represent the buddhic and astral centres of energy coupled together by the currents in the qualities. The ‘onyx stones engraved with the names of the twelve tribes”? stand for a variety of virtues involved in the currents. The “blue robe of the ephod" is a symbol of the causal-body which clothes the spiritual mind (Aaron). The “ binding" so that “it should not rend” indicates the permanence of the causal-body through the cycle. See Aaron` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `Barsom` | **unresolved** (review queue) |
+| `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
+| `Linen` | **candidate (first-segment only)** → possible `LINEN, WHITE AND SHINING` (not linked) |
+| `RosBE` | **unresolved** (review queue) |
+| `TRIBES` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-ephod-holy-of-aaron-ocr-body`
+
+```text
+A symbol of the buddhic functioninge between the higher and lower natures in the human soul. “* And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen. And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in SEPUL250 EPIMETHEUS the scarlet, and in the fine linen, the work of the cunning workman.’"—Exop. xxxix. 2,3. See also verses 4~7. The vibratory currents established between the buddhic and astral natures were produced in the mental qualities (colours) of the soul. The buddhic responses to the mental aspirations are indicated by the wires of gold (buddhi) worked into the structure of the ephod. The qualities of the structure are of intellect (blue), wiedom (purple), life-energy (scarlet), and devotion (fine linen). The “ thin plates ’’ refer to an earlier and lessdifferentiated state of the qualities. The ‘‘shoulderpieces" represent the buddhic and astral centres of energy coupled together by the currents in the qualities. The ‘onyx stones engraved with the names of the twelve tribes”? stand for a variety of virtues involved in the currents. The “blue robe of the ephod" is a symbol of the causal-body which clothes the spiritual mind (Aaron). The “ binding" so that “it should not rend” indicates the permanence of the causal-body through the cycle. See Aaron, Barsom, CoLours, Linen, RosBE, TRIBES.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_257|page_257]]
+

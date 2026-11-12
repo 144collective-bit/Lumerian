@@ -1,0 +1,130 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-sng
+chapter_id: kjv-sng-1
+book_name: "Song of Solomon"
+chapter: 1
+verses: 17
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Song of Solomon 1"
+  - "KJV Song of Solomon 1"
+---
+
+# Song of Solomon 1
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/22 Song of Solomon/Song of Solomon|Song of Solomon]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes 012|Ecclesiastes 12]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/22 Song of Solomon/Song of Solomon 002|Song of Solomon 2]]
+
+## Text
+
+###### Song of Solomon 1:1
+
+The song of songs, which is Solomon’s.
+
+^kjv-sng-1-1
+
+###### Song of Solomon 1:2
+
+Let him kiss me with the kisses of his mouth: for thy love is better than wine.
+
+^kjv-sng-1-2
+
+###### Song of Solomon 1:3
+
+Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee.
+
+^kjv-sng-1-3
+
+###### Song of Solomon 1:4
+
+Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.
+
+^kjv-sng-1-4
+
+###### Song of Solomon 1:5
+
+I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
+
+^kjv-sng-1-5
+
+###### Song of Solomon 1:6
+
+Look not upon me, because I am black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
+
+^kjv-sng-1-6
+
+###### Song of Solomon 1:7
+
+Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?
+
+^kjv-sng-1-7
+
+###### Song of Solomon 1:8
+
+If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds’ tents.
+
+^kjv-sng-1-8
+
+###### Song of Solomon 1:9
+
+I have compared thee, O my love, to a company of horses in Pharaoh’s chariots.
+
+^kjv-sng-1-9
+
+###### Song of Solomon 1:10
+
+Thy cheeks are comely with rows of jewels, thy neck with chains of gold.
+
+^kjv-sng-1-10
+
+###### Song of Solomon 1:11
+
+We will make thee borders of gold with studs of silver.
+
+^kjv-sng-1-11
+
+###### Song of Solomon 1:12
+
+While the king sitteth at his table, my spikenard sendeth forth the smell thereof.
+
+^kjv-sng-1-12
+
+###### Song of Solomon 1:13
+
+A bundle of myrrh is my well-beloved unto me; he shall lie all night betwixt my breasts.
+
+^kjv-sng-1-13
+
+###### Song of Solomon 1:14
+
+My beloved is unto me as a cluster of camphire in the vineyards of Engedi.
+
+^kjv-sng-1-14
+
+###### Song of Solomon 1:15
+
+Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes.
+
+^kjv-sng-1-15
+
+###### Song of Solomon 1:16
+
+Behold, thou art fair, my beloved, yea, pleasant: also our bed is green.
+
+^kjv-sng-1-16
+
+###### Song of Solomon 1:17
+
+The beams of our house are cedar, and our rafters of fir.
+
+^kjv-sng-1-17

@@ -1,0 +1,184 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gen
+chapter_id: kjv-gen-4
+book_name: "Genesis"
+chapter: 4
+verses: 26
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Genesis 4"
+  - "KJV Genesis 4"
+---
+
+# Genesis 4
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis|Genesis]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 003|Genesis 3]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 005|Genesis 5]]
+
+## Text
+
+###### Genesis 4:1
+
+And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
+
+^kjv-gen-4-1
+
+###### Genesis 4:2
+
+And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
+
+^kjv-gen-4-2
+
+###### Genesis 4:3
+
+And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.
+
+^kjv-gen-4-3
+
+###### Genesis 4:4
+
+And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
+
+^kjv-gen-4-4
+
+###### Genesis 4:5
+
+But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
+
+^kjv-gen-4-5
+
+###### Genesis 4:6
+
+And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?
+
+^kjv-gen-4-6
+
+###### Genesis 4:7
+
+If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
+
+^kjv-gen-4-7
+
+###### Genesis 4:8
+
+And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
+
+^kjv-gen-4-8
+
+###### Genesis 4:9
+
+And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?
+
+^kjv-gen-4-9
+
+###### Genesis 4:10
+
+And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.
+
+^kjv-gen-4-10
+
+###### Genesis 4:11
+
+And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;
+
+^kjv-gen-4-11
+
+###### Genesis 4:12
+
+When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
+
+^kjv-gen-4-12
+
+###### Genesis 4:13
+
+And Cain said unto the LORD, My punishment is greater than I can bear.
+
+^kjv-gen-4-13
+
+###### Genesis 4:14
+
+Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
+
+^kjv-gen-4-14
+
+###### Genesis 4:15
+
+And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.
+
+^kjv-gen-4-15
+
+###### Genesis 4:16
+
+And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.
+
+^kjv-gen-4-16
+
+###### Genesis 4:17
+
+And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.
+
+^kjv-gen-4-17
+
+###### Genesis 4:18
+
+And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
+
+^kjv-gen-4-18
+
+###### Genesis 4:19
+
+And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.
+
+^kjv-gen-4-19
+
+###### Genesis 4:20
+
+And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.
+
+^kjv-gen-4-20
+
+###### Genesis 4:21
+
+And his brother’s name was Jubal: he was the father of all such as handle the harp and organ.
+
+^kjv-gen-4-21
+
+###### Genesis 4:22
+
+And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain was Naamah.
+
+^kjv-gen-4-22
+
+###### Genesis 4:23
+
+And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
+
+^kjv-gen-4-23
+
+###### Genesis 4:24
+
+If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
+
+^kjv-gen-4-24
+
+###### Genesis 4:25
+
+And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.
+
+^kjv-gen-4-25
+
+###### Genesis 4:26
+
+And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.
+
+^kjv-gen-4-26

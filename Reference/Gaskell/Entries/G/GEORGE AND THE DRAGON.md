@@ -1,0 +1,64 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-george-and-the-dragon
+headword: "GEORGE AND THE DRAGON"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GEORGE AND THE DRAGON
+
+- **Entry ID:** `gaskell-1960-entry-george-and-the-dragon`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_314`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_314|page_314]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GEORGE AND THE DRAGON :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Emblematical of Reason overcoming the lower Emotion nature; or of Mind controlling Desire.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Dracon` | **unresolved** (review queue) |
+| `Horst` | **unresolved** (review queue) |
+| `MITHRA AND BULL` | **unresolved** (review queue) |
+| `PrRsons` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-george-and-the-dragon-ocr-body`
+
+```text
+Emblematical of Reason overcoming the lower Emotion nature; or of Mind controlling Desire. The horse and rider signify intelligence under the direction of the will; and the dragon is the lower nature which wars against the soul,—the selfish nature which devours the innocent and obetructs liberty and justice. ‘The true end of man is moral per307 GERMS fection, not pleasure. And it is in bringing the animal nature into obedience to the rational, the particular will into subjection to the universal, that he advances towards that end. The moral que. subjectively considered,—of course the act has also, or rather primarily, a moral quality,—resides, not in the result achieved, nor in the end pursued by him, but in the motive which prompts him in the inner spring of action, in volition. The only real and absolute good for man is a good will: that is a will determined by the moral law. The desire to do right, as right, is morality. No act is really ethical which is not motived by Duty, by obedience to the moral law. And that law, as Kant admirably teaches, is not a higher self, but an independent reality, which evokes the higher self within us.’’— W Sz Litiy, The Great Enigma, p. 2). ““We want a diffusion of knowledge and a prevailing habit of intellectual activity. The reason why the morally best men are so often in our experience the least intelligent and the most bigoted is the fact that they are intellectually undeveloped. The ancient and obstinate error of asceticism is rearing its head again among us, and wherever asceticism appears, fanaticism is not far distant. I mark already the familiar burden of ascetic preaching, the exaltation of the non-natural, the contempt of the intellectual, the parade of self-suppression, the depreciation of liberty. By authoritative lips and in persuasive terms you are often enough encouraged to absolve yourselves from the arduous yet uplifting labours of the intellect, and to drown thought in the hustle and bustle of social work. Against all such counsels I raise the short and pregnant sentence of St. Pnul : ‘ Brethren, be not children in mind, howbeit in malice be ye babes, but in mind be men’ (1 Cor. xiv. 20)."— H. Henstey Henson Christ and the Nation, p. 261. See Dracon, Horst, MITHRA AND BULL, PrRsons,
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_314|page_314]]
+

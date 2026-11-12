@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-exo
+chapter_id: kjv-exo-27
+book_name: "Exodus"
+chapter: 27
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Exodus 27"
+  - "KJV Exodus 27"
+---
+
+# Exodus 27
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus|Exodus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 026|Exodus 26]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 028|Exodus 28]]
+
+## Text
+
+###### Exodus 27:1
+
+And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.
+
+^kjv-exo-27-1
+
+###### Exodus 27:2
+
+And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass.
+
+^kjv-exo-27-2
+
+###### Exodus 27:3
+
+And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.
+
+^kjv-exo-27-3
+
+###### Exodus 27:4
+
+And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof.
+
+^kjv-exo-27-4
+
+###### Exodus 27:5
+
+And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar.
+
+^kjv-exo-27-5
+
+###### Exodus 27:6
+
+And thou shalt make staves for the altar, staves of shittim wood, and overlay them with brass.
+
+^kjv-exo-27-6
+
+###### Exodus 27:7
+
+And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
+
+^kjv-exo-27-7
+
+###### Exodus 27:8
+
+Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.
+
+^kjv-exo-27-8
+
+###### Exodus 27:9
+
+And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:
+
+^kjv-exo-27-9
+
+###### Exodus 27:10
+
+And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver.
+
+^kjv-exo-27-10
+
+###### Exodus 27:11
+
+And likewise for the north side in length there shall be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver.
+
+^kjv-exo-27-11
+
+###### Exodus 27:12
+
+And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten.
+
+^kjv-exo-27-12
+
+###### Exodus 27:13
+
+And the breadth of the court on the east side eastward shall be fifty cubits.
+
+^kjv-exo-27-13
+
+###### Exodus 27:14
+
+The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three.
+
+^kjv-exo-27-14
+
+###### Exodus 27:15
+
+And on the other side shall be hangings fifteen cubits: their pillars three, and their sockets three.
+
+^kjv-exo-27-15
+
+###### Exodus 27:16
+
+And for the gate of the court shall be an hanging of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework: and their pillars shall be four, and their sockets four.
+
+^kjv-exo-27-16
+
+###### Exodus 27:17
+
+All the pillars round about the court shall be filleted with silver; their hooks shall be of silver, and their sockets of brass.
+
+^kjv-exo-27-17
+
+###### Exodus 27:18
+
+The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass.
+
+^kjv-exo-27-18
+
+###### Exodus 27:19
+
+All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.
+
+^kjv-exo-27-19
+
+###### Exodus 27:20
+
+And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
+
+^kjv-exo-27-20
+
+###### Exodus 27:21
+
+In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel.
+
+^kjv-exo-27-21

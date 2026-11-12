@@ -1,0 +1,206 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: P
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter P
+
+Entries whose normalized head begins with **P** (186).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/P/PACCEKABUDDHAS OR PRATYEKA-BUDDHAS|PACCEKABUDDHAS OR PRATYEKA-BUDDHAS]] — `gaskell-1960-entry-paccekabuddhas-or-pratyeka-buddhas` — EPUB p.563
+- [[Reference/Gaskell/Entries/P/PADDLES, TWO|PADDLES, TWO]] — `gaskell-1960-entry-paddles-two` — EPUB p.563
+- [[Reference/Gaskell/Entries/P/PAGODA|PAGODA]] — `gaskell-1960-entry-pagoda` — EPUB p.563
+- [[Reference/Gaskell/Entries/P/PAIRIKA AS STAR-WORMS|PAIRIKA AS STAR-WORMS]] — `gaskell-1960-entry-pairika-as-star-worms` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PAIRIKA KNATHAITI|PAIRIKA KNATHAITI]] — `gaskell-1960-entry-pairika-knathaiti` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]] — `gaskell-1960-entry-palace-of-the-deity` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] — `gaskell-1960-entry-palace-or-house` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PALANQUIN OF THE CHILD BUDDHA|PALANQUIN OF THE CHILD BUDDHA]] — `gaskell-1960-entry-palanquin-of-the-child-buddha` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PALMS|PALMS]] — `gaskell-1960-entry-palms` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] — `gaskell-1960-entry-pamyles` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PAN PALESTINUS OR PELUSIUS|PAN PALESTINUS OR PELUSIUS]] — `gaskell-1960-entry-pan-palestinus-or-pelusius` — EPUB p.564
+- [[Reference/Gaskell/Entries/P/PANACEA|PANACEA]] — `gaskell-1960-entry-panacea` — EPUB p.565
+- [[Reference/Gaskell/Entries/P/PANCALA, KINGDOM OF DRUPADA|PANCALA, KINGDOM OF DRUPADA]] — `gaskell-1960-entry-pancala-kingdom-of-drupada` — EPUB p.565
+- [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] — `gaskell-1960-entry-pandavas-or-five-pandu-princes-the-sons-of-pandu` — EPUB p.565
+- [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] — `gaskell-1960-entry-pandora` — EPUB p.565
+- [[Reference/Gaskell/Entries/P/PANDU, KING|PANDU, KING]] — `gaskell-1960-entry-pandu-king` — EPUB p.565
+- [[Reference/Gaskell/Entries/P/PANIC TERRORS|PANIC TERRORS]] — `gaskell-1960-entry-panic-terrors` — EPUB p.565,566
+- [[Reference/Gaskell/Entries/P/PANS|PANS]] — `gaskell-1960-entry-pans` — EPUB p.566
+- [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] — `gaskell-1960-entry-panther-skin` — EPUB p.566
+- [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]] — `gaskell-1960-entry-papyrus-boat-of-isis` — EPUB p.566
+- [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] — `gaskell-1960-entry-papyrus-panopolis-or-chemmis` — EPUB p.566
+- [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] — `gaskell-1960-entry-parable` — EPUB p.566,567
+- [[Reference/Gaskell/Entries/P/PARABLE, PEARL, SOUTH LAND, THOTH EGYPT, HIGHER OR SOUTHERN|PARABLE, PEARL, SOUTH LAND, THOTH EGYPT, HIGHER OR SOUTHERN]] — `gaskell-1960-entry-parable-pearl-south-land-thoth-egypt-higher-or-southern` — EPUB p.251
+- [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] — `gaskell-1960-entry-paraclete-comforter-intercessor` — EPUB p.567
+- [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] — `gaskell-1960-entry-paradise` — EPUB p.567,568
+- [[Reference/Gaskell/Entries/P/PARADISE (LOWER)|PARADISE (LOWER)]] — `gaskell-1960-entry-paradise-lower` — EPUB p.568
+- [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] — `gaskell-1960-entry-parents-of-children` — EPUB p.568
+- [[Reference/Gaskell/Entries/P/PARGANYA|PARGANYA]] — `gaskell-1960-entry-parganya` — EPUB p.568
+- [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]] — `gaskell-1960-entry-passion-of-jesus` — EPUB p.568,569
+- [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] — `gaskell-1960-entry-passion-passages-or-valleys-through-the-mountains` — EPUB p.568
+- [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] — `gaskell-1960-entry-passover-jewish` — EPUB p.569
+- [[Reference/Gaskell/Entries/P/PASTORAL LIFE|PASTORAL LIFE]] — `gaskell-1960-entry-pastoral-life` — EPUB p.569
+- [[Reference/Gaskell/Entries/P/PASTURES OF THE LORD|PASTURES OF THE LORD]] — `gaskell-1960-entry-pastures-of-the-lord` — EPUB p.569
+- [[Reference/Gaskell/Entries/P/PATH OF THE BIRDS ON HIGH|PATH OF THE BIRDS ON HIGH]] — `gaskell-1960-entry-path-of-the-birds-on-high` — EPUB p.569,570
+- [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] — `gaskell-1960-entry-path-twofold` — EPUB p.570
+- [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]] — `gaskell-1960-entry-patriarchs-of-genesis` — EPUB p.570
+- [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] — `gaskell-1960-entry-patriarchs-path-eight-fold` — EPUB p.570
+- [[Reference/Gaskell/Entries/P/PATROCLUS|PATROCLUS]] — `gaskell-1960-entry-patroclus` — EPUB p.570
+- [[Reference/Gaskell/Entries/P/PAUL|PAUL]] — `gaskell-1960-entry-paul` — EPUB p.26
+- [[Reference/Gaskell/Entries/P/PAUL-459c5f|PAUL-459c5f]] — `gaskell-1960-entry-paul` — EPUB p.180
+- [[Reference/Gaskell/Entries/P/PAURVAS, THE GOOD MAZDAYASNIAN RELIGION|PAURVAS, THE GOOD MAZDAYASNIAN RELIGION]] — `gaskell-1960-entry-paurvas-the-good-mazdayasnian-religion` — EPUB p.570
+- [[Reference/Gaskell/Entries/P/PEACE AND A SWORD|PEACE AND A SWORD]] — `gaskell-1960-entry-peace-and-a-sword` — EPUB p.571
+- [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] — `gaskell-1960-entry-peace-or-rest` — EPUB p.570,571
+- [[Reference/Gaskell/Entries/P/PEACHES OF IZANAGI, THREE|PEACHES OF IZANAGI, THREE]] — `gaskell-1960-entry-peaches-of-izanagi-three` — EPUB p.571
+- [[Reference/Gaskell/Entries/P/PEARL OF GREAT PRICE|PEARL OF GREAT PRICE]] — `gaskell-1960-entry-pearl-of-great-price` — EPUB p.571,572
+- [[Reference/Gaskell/Entries/P/PEARL PEARL, PRECIOUS|PEARL PEARL, PRECIOUS]] — `gaskell-1960-entry-pearl-pearl-precious` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PEARLS|PEARLS]] — `gaskell-1960-entry-pearls` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PEASANT, OR CULTIVATOR OF THE GROUND|PEASANT, OR CULTIVATOR OF THE GROUND]] — `gaskell-1960-entry-peasant-or-cultivator-of-the-ground` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PELASGIANS|PELASGIANS]] — `gaskell-1960-entry-pelasgians` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PELEAS, KING OF IOLCUS|PELEAS, KING OF IOLCUS]] — `gaskell-1960-entry-peleas-king-of-iolcus` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PELEIDES,-(DERIVED FROM PELEUS)|PELEIDES,-(DERIVED FROM PELEUS)]] — `gaskell-1960-entry-peleides-derived-from-peleus` — EPUB p.572
+- [[Reference/Gaskell/Entries/P/PEN OF IRON|PEN OF IRON]] — `gaskell-1960-entry-pen-of-iron` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] — `gaskell-1960-entry-penance` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PENANCES|PENANCES]] — `gaskell-1960-entry-penances` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]] — `gaskell-1960-entry-people-men-and-women` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] — `gaskell-1960-entry-people-of-a-particular-nation` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PERFUMES|PERFUMES]] — `gaskell-1960-entry-perfumes` — EPUB p.573
+- [[Reference/Gaskell/Entries/P/PERMANALA, THE ABODE OF THE DEAD, OR POHJOLA|PERMANALA, THE ABODE OF THE DEAD, OR POHJOLA]] — `gaskell-1960-entry-permanala-the-abode-of-the-dead-or-pohjola` — EPUB p.484
+- [[Reference/Gaskell/Entries/P/PERMANENT ATOMS|PERMANENT ATOMS]] — `gaskell-1960-entry-permanent-atoms` — EPUB p.573,574
+- [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] — `gaskell-1960-entry-persephone-daughter-of-demeter` — EPUB p.574
+- [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] — `gaskell-1960-entry-perseus-son-of-zeus-and-danae` — EPUB p.574
+- [[Reference/Gaskell/Entries/P/PERSON|PERSON]] — `gaskell-1960-entry-person` — EPUB p.574
+- [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] — `gaskell-1960-entry-personality` — EPUB p.574,575,576
+- [[Reference/Gaskell/Entries/P/PERSONALITY, PHARISEES, SON OF MAN, FRANANGER WATERFALL|PERSONALITY, PHARISEES, SON OF MAN, FRANANGER WATERFALL]] — `gaskell-1960-entry-personality-pharisees-son-of-man-frananger-waterfall` — EPUB p.300
+- [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] — `gaskell-1960-entry-pestilence-caused-by-apollo` — EPUB p.576
+- [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] — `gaskell-1960-entry-peter-the-apostle` — EPUB p.576,577
+- [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] — `gaskell-1960-entry-phaeacians` — EPUB p.577
+- [[Reference/Gaskell/Entries/P/PHAEACIANS, SATYRS, DANCES OF HEAVENLY NYMPHS|PHAEACIANS, SATYRS, DANCES OF HEAVENLY NYMPHS]] — `gaskell-1960-entry-phaeacians-satyrs-dances-of-heavenly-nymphs` — EPUB p.206
+- [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] — `gaskell-1960-entry-phalliphoria-priapeia-or-dionysia` — EPUB p.577,578
+- [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] — `gaskell-1960-entry-phang-the-great-bird` — EPUB p.578
+- [[Reference/Gaskell/Entries/P/PHARISEES|PHARISEES]] — `gaskell-1960-entry-pharisees` — EPUB p.578
+- [[Reference/Gaskell/Entries/P/PHEDRUS RIVER|PHEDRUS RIVER]] — `gaskell-1960-entry-phedrus-river` — EPUB p.579
+- [[Reference/Gaskell/Entries/P/PHENIX, THE BIRD OF ARABIA|PHENIX, THE BIRD OF ARABIA]] — `gaskell-1960-entry-phenix-the-bird-of-arabia` — EPUB p.579,580
+- [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] — `gaskell-1960-entry-phenomena` — EPUB p.578,579
+- [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] — `gaskell-1960-entry-phineus-the-prophetprince` — EPUB p.579
+- [[Reference/Gaskell/Entries/P/PHTHIA, THE NURSE OF MEN|PHTHIA, THE NURSE OF MEN]] — `gaskell-1960-entry-phthia-the-nurse-of-men` — EPUB p.580
+- [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] — `gaskell-1960-entry-physician-successful` — EPUB p.580
+- [[Reference/Gaskell/Entries/P/PICTURE|PICTURE]] — `gaskell-1960-entry-picture` — EPUB p.96,97
+- [[Reference/Gaskell/Entries/P/PIETY IN CAR OR CHARIOT|PIETY IN CAR OR CHARIOT]] — `gaskell-1960-entry-piety-in-car-or-chariot` — EPUB p.580
+- [[Reference/Gaskell/Entries/P/PIG, OR SWINE|PIG, OR SWINE]] — `gaskell-1960-entry-pig-or-swine` — EPUB p.580
+- [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] — `gaskell-1960-entry-pilate-pontius` — EPUB p.580,581
+- [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] — `gaskell-1960-entry-pilgrim` — EPUB p.581
+- [[Reference/Gaskell/Entries/P/PILLAR OF THE TEMPLE|PILLAR OF THE TEMPLE]] — `gaskell-1960-entry-pillar-of-the-temple` — EPUB p.581
+- [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OF SHU|PILLARS, FOUR, OF SHU]] — `gaskell-1960-entry-pillars-four-of-shu` — EPUB p.582
+- [[Reference/Gaskell/Entries/P/PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN|PILLARS, FOUR, OR FOUR SUPPORTS, OR COLUMNS, OF HEAVEN]] — `gaskell-1960-entry-pillars-four-or-four-supports-or-columns-of-heaven` — EPUB p.582
+- [[Reference/Gaskell/Entries/P/PILLOW OF STONE|PILLOW OF STONE]] — `gaskell-1960-entry-pillow-of-stone` — EPUB p.582,583
+- [[Reference/Gaskell/Entries/P/PILLOW OF SUPPORT AND REST|PILLOW OF SUPPORT AND REST]] — `gaskell-1960-entry-pillow-of-support-and-rest` — EPUB p.582
+- [[Reference/Gaskell/Entries/P/PILLOWS FOR MUMMIES|PILLOWS FOR MUMMIES]] — `gaskell-1960-entry-pillows-for-mummies` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PILLOWS PILLOWS (LOWER ASPECT)|PILLOWS PILLOWS (LOWER ASPECT)]] — `gaskell-1960-entry-pillows-pillows-lower-aspect` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PINEAL GLAND|PINEAL GLAND]] — `gaskell-1960-entry-pineal-gland` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PINIONS|PINIONS]] — `gaskell-1960-entry-pinions` — EPUB p.825,826
+- [[Reference/Gaskell/Entries/P/PINNACLES|PINNACLES]] — `gaskell-1960-entry-pinnacles` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PIRITHOUS|PIRITHOUS]] — `gaskell-1960-entry-pirithous` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] — `gaskell-1960-entry-pisces-the-zodiacal-sign` — EPUB p.583
+- [[Reference/Gaskell/Entries/P/PISHON RIVER|PISHON RIVER]] — `gaskell-1960-entry-pishon-river` — EPUB p.583,584
+- [[Reference/Gaskell/Entries/P/PIT, OR HOLE IN THE EARTH|PIT, OR HOLE IN THE EARTH]] — `gaskell-1960-entry-pit-or-hole-in-the-earth` — EPUB p.584
+- [[Reference/Gaskell/Entries/P/PITCH FOR CAULKING|PITCH FOR CAULKING]] — `gaskell-1960-entry-pitch-for-caulking` — EPUB p.584
+- [[Reference/Gaskell/Entries/P/PITCHER OF WATER|PITCHER OF WATER]] — `gaskell-1960-entry-pitcher-of-water` — EPUB p.584
+- [[Reference/Gaskell/Entries/P/PITRIS, LUNAR|PITRIS, LUNAR]] — `gaskell-1960-entry-pitris-lunar` — EPUB p.584
+- [[Reference/Gaskell/Entries/P/PITRIS, SOLAR|PITRIS, SOLAR]] — `gaskell-1960-entry-pitris-solar` — EPUB p.584,585
+- [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] — `gaskell-1960-entry-pitriyana-path-of-the-fathers` — EPUB p.585
+- [[Reference/Gaskell/Entries/P/PLACE OF BIRTH|PLACE OF BIRTH]] — `gaskell-1960-entry-place-of-birth` — EPUB p.374
+- [[Reference/Gaskell/Entries/P/PLACE OF PEACE IN ANNU|PLACE OF PEACE IN ANNU]] — `gaskell-1960-entry-place-of-peace-in-annu` — EPUB p.585,586
+- [[Reference/Gaskell/Entries/P/PLACES, FIVE, WHERE THE EARTH FEELS MOST JOY|PLACES, FIVE, WHERE THE EARTH FEELS MOST JOY]] — `gaskell-1960-entry-places-five-where-the-earth-feels-most-joy` — EPUB p.586
+- [[Reference/Gaskell/Entries/P/PLACES, FIVE, WHEREON IS MOST SORROW|PLACES, FIVE, WHEREON IS MOST SORROW]] — `gaskell-1960-entry-places-five-whereon-is-most-sorrow` — EPUB p.586
+- [[Reference/Gaskell/Entries/P/PLAGUES AND EVILS|PLAGUES AND EVILS]] — `gaskell-1960-entry-plagues-and-evils` — EPUB p.586
+- [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]] — `gaskell-1960-entry-planes-five-or-seven` — EPUB p.586
+- [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] — `gaskell-1960-entry-planes-isis-goddess` — EPUB p.408,409
+- [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] — `gaskell-1960-entry-planetary-chain-system` — EPUB p.586,587,588
+- [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] — `gaskell-1960-entry-planets-five-smaller` — EPUB p.588
+- [[Reference/Gaskell/Entries/P/PLANKS OF THE BOAT|PLANKS OF THE BOAT]] — `gaskell-1960-entry-planks-of-the-boat` — EPUB p.588
+- [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] — `gaskell-1960-entry-plants` — EPUB p.588,589
+- [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] — `gaskell-1960-entry-pleroma` — EPUB p.589
+- [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] — `gaskell-1960-entry-ploughing` — EPUB p.589,590
+- [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] — `gaskell-1960-entry-plumes-on-the-atef-crown` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] — `gaskell-1960-entry-po-or-night` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POET, BARD, OR HYMN WRITER|POET, BARD, OR HYMN WRITER]] — `gaskell-1960-entry-poet-bard-or-hymn-writer` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POHJOLA|POHJOLA]] — `gaskell-1960-entry-pohjola` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POISON, OR POISON-DROPS|POISON, OR POISON-DROPS]] — `gaskell-1960-entry-poison-or-poison-drops` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POISON, YELLOW|POISON, YELLOW]] — `gaskell-1960-entry-poison-yellow` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POISONOUS FOOD OR ODOUR|POISONOUS FOOD OR ODOUR]] — `gaskell-1960-entry-poisonous-food-or-odour` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] — `gaskell-1960-entry-pole-upright` — EPUB p.590
+- [[Reference/Gaskell/Entries/P/POLLUX OR POLYDEUKES|POLLUX OR POLYDEUKES]] — `gaskell-1960-entry-pollux-or-polydeukes` — EPUB p.590,591
+- [[Reference/Gaskell/Entries/P/POLYPHEMUS, SON OF POSEIDON|POLYPHEMUS, SON OF POSEIDON]] — `gaskell-1960-entry-polyphemus-son-of-poseidon` — EPUB p.591
+- [[Reference/Gaskell/Entries/P/POLYTHEISM|POLYTHEISM]] — `gaskell-1960-entry-polytheism` — EPUB p.591
+- [[Reference/Gaskell/Entries/P/PONIARD|PONIARD]] — `gaskell-1960-entry-poniard` — EPUB p.591
+- [[Reference/Gaskell/Entries/P/PONTIFF, OR PONTIFEX|PONTIFF, OR PONTIFEX]] — `gaskell-1960-entry-pontiff-or-pontifex` — EPUB p.591
+- [[Reference/Gaskell/Entries/P/POOL OF BETHESDA|POOL OF BETHESDA]] — `gaskell-1960-entry-pool-of-bethesda` — EPUB p.591
+- [[Reference/Gaskell/Entries/P/POOL OF PEACE|POOL OF PEACE]] — `gaskell-1960-entry-pool-of-peace` — EPUB p.591,592
+- [[Reference/Gaskell/Entries/P/POOL OF THE ZENITH|POOL OF THE ZENITH]] — `gaskell-1960-entry-pool-of-the-zenith` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/POOLS OF CLAY, SEVEN|POOLS OF CLAY, SEVEN]] — `gaskell-1960-entry-pools-of-clay-seven` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/POOLS OF THE HOLY GODDESS|POOLS OF THE HOLY GODDESS]] — `gaskell-1960-entry-pools-of-the-holy-goddess` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/POOR IN SPIRIT|POOR IN SPIRIT]] — `gaskell-1960-entry-poor-in-spirit` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] — `gaskell-1960-entry-poor-people` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/POPE OF ROME|POPE OF ROME]] — `gaskell-1960-entry-pope-of-rome` — EPUB p.592
+- [[Reference/Gaskell/Entries/P/PORCH OF HOUSE|PORCH OF HOUSE]] — `gaskell-1960-entry-porch-of-house` — EPUB p.592,593
+- [[Reference/Gaskell/Entries/P/PORCHES, FIVE|PORCHES, FIVE]] — `gaskell-1960-entry-porches-five` — EPUB p.593
+- [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] — `gaskell-1960-entry-poseidon-or-neptune` — EPUB p.593
+- [[Reference/Gaskell/Entries/P/POT (HIGHER ASPECT)|POT (HIGHER ASPECT)]] — `gaskell-1960-entry-pot-higher-aspect` — EPUB p.593
+- [[Reference/Gaskell/Entries/P/POT, PALACE, WOODEN PALACE, HOUSE OF BONDAGE|POT, PALACE, WOODEN PALACE, HOUSE OF BONDAGE]] — `gaskell-1960-entry-pot-palace-wooden-palace-house-of-bondage` — EPUB p.380,381
+- [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] — `gaskell-1960-entry-potsherd` — EPUB p.593,594
+- [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] — `gaskell-1960-entry-pourushaspa-the-father-of-zoroaster` — EPUB p.594
+- [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] — `gaskell-1960-entry-poverty` — EPUB p.594
+- [[Reference/Gaskell/Entries/P/POWER AND AMBITION|POWER AND AMBITION]] — `gaskell-1960-entry-power-and-ambition` — EPUB p.594
+- [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] — `gaskell-1960-entry-pragapati-relaxed-and-afterwards-restored` — EPUB p.595,596
+- [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] — `gaskell-1960-entry-pragapati-the-lord-of-creatures` — EPUB p.594,595
+- [[Reference/Gaskell/Entries/P/PRAGNA, CAPACITY OF PERCEPTION|PRAGNA, CAPACITY OF PERCEPTION]] — `gaskell-1960-entry-pragna-capacity-of-perception` — EPUB p.596
+- [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] — `gaskell-1960-entry-prakriti-or-mula-praeriti-being-that-out-of-which-everything-in-nature-is-produc` — EPUB p.596,597
+- [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] — `gaskell-1960-entry-pralaya-or-night` — EPUB p.597
+- [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] — `gaskell-1960-entry-prana-breath-or-life` — EPUB p.597,598
+- [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] — `gaskell-1960-entry-pranas-five-life-breaths` — EPUB p.598,599
+- [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] — `gaskell-1960-entry-prayer` — EPUB p.599
+- [[Reference/Gaskell/Entries/P/PRAYERS AND OBLATIONS|PRAYERS AND OBLATIONS]] — `gaskell-1960-entry-prayers-and-oblations` — EPUB p.599,600
+- [[Reference/Gaskell/Entries/P/PRECIOUS STONES|PRECIOUS STONES]] — `gaskell-1960-entry-precious-stones` — EPUB p.600
+- [[Reference/Gaskell/Entries/P/PRIAM AND HIS SONS|PRIAM AND HIS SONS]] — `gaskell-1960-entry-priam-and-his-sons` — EPUB p.600
+- [[Reference/Gaskell/Entries/P/PRIEST OF APOLLO (CHRYSE)|PRIEST OF APOLLO (CHRYSE)]] — `gaskell-1960-entry-priest-of-apollo-chryse` — EPUB p.600
+- [[Reference/Gaskell/Entries/P/PRIEST OF THE ALTAR|PRIEST OF THE ALTAR]] — `gaskell-1960-entry-priest-of-the-altar` — EPUB p.600
+- [[Reference/Gaskell/Entries/P/PRIEST OF THE ALTAR OR FIRE|PRIEST OF THE ALTAR OR FIRE]] — `gaskell-1960-entry-priest-of-the-altar-or-fire` — EPUB p.88,89
+- [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] — `gaskell-1960-entry-priest-or-soothsayer` — EPUB p.600
+- [[Reference/Gaskell/Entries/P/PRINCES OF THE GREEKS|PRINCES OF THE GREEKS]] — `gaskell-1960-entry-princes-of-the-greeks` — EPUB p.601
+- [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] — `gaskell-1960-entry-prisoners-or-captives` — EPUB p.601,602
+- [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]] — `gaskell-1960-entry-procession-prize-of-honour-gained` — EPUB p.602
+- [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] — `gaskell-1960-entry-procession-rist` — EPUB p.602
+- [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] — `gaskell-1960-entry-prodigal-son-parable` — EPUB p.602,603
+- [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] — `gaskell-1960-entry-prometheus` — EPUB p.603,604
+- [[Reference/Gaskell/Entries/P/PROMISES OF GOD|PROMISES OF GOD]] — `gaskell-1960-entry-promises-of-god` — EPUB p.604
+- [[Reference/Gaskell/Entries/P/PROPHECY|PROPHECY]] — `gaskell-1960-entry-prophecy` — EPUB p.604
+- [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] — `gaskell-1960-entry-prophet` — EPUB p.604
+- [[Reference/Gaskell/Entries/P/PROPHET, 381 IEOU IDOL-PRIEST|PROPHET, 381 IEOU IDOL-PRIEST]] — `gaskell-1960-entry-prophet-381-ieou-idol-priest` — EPUB p.388
+- [[Reference/Gaskell/Entries/P/PROPHET, QUALITIES, SHOE-LATCHET, TREE OF KNOWLEDGE, WATER, WILDERNESS, ZACHARBIAS, JOHN, THE APOSTLE|PROPHET, QUALITIES, SHOE-LATCHET, TREE OF KNOWLEDGE, WATER, WILDERNESS, ZACHARBIAS, JOHN, THE APOSTLE]] — `gaskell-1960-entry-prophet-qualities-shoe-latchet-tree-of-knowledge-water-wilderness-zacharbias-joh` — EPUB p.423,424
+- [[Reference/Gaskell/Entries/P/PROPHETIC DREAMS|PROPHETIC DREAMS]] — `gaskell-1960-entry-prophetic-dreams` — EPUB p.604
+- [[Reference/Gaskell/Entries/P/PROPHETS, FALSE|PROPHETS, FALSE]] — `gaskell-1960-entry-prophets-false` — EPUB p.604,605
+- [[Reference/Gaskell/Entries/P/PROPONTIS (SEA OF MARMORA)|PROPONTIS (SEA OF MARMORA)]] — `gaskell-1960-entry-propontis-sea-of-marmora` — EPUB p.605
+- [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] — `gaskell-1960-entry-prototypes-fixed` — EPUB p.605
+- [[Reference/Gaskell/Entries/P/PROVINCE-RULER|PROVINCE-RULER]] — `gaskell-1960-entry-province-ruler` — EPUB p.605,606
+- [[Reference/Gaskell/Entries/P/PSYCHE|PSYCHE]] — `gaskell-1960-entry-psyche` — EPUB p.606
+- [[Reference/Gaskell/Entries/P/PTAH|PTAH]] — `gaskell-1960-entry-ptah` — EPUB p.606
+- [[Reference/Gaskell/Entries/P/PUITIKA SEA|PUITIKA SEA]] — `gaskell-1960-entry-puitika-sea` — EPUB p.606
+- [[Reference/Gaskell/Entries/P/PUNGA, THE SHARK|PUNGA, THE SHARK]] — `gaskell-1960-entry-punga-the-shark` — EPUB p.606
+- [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] — `gaskell-1960-entry-purgatory` — EPUB p.606,607
+- [[Reference/Gaskell/Entries/P/PURPLE COLOUR|PURPLE COLOUR]] — `gaskell-1960-entry-purple-colour` — EPUB p.607
+- [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] — `gaskell-1960-entry-purusha` — EPUB p.607,608
+- [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] — `gaskell-1960-entry-pwan-koo-the-divine-artificer` — EPUB p.608
+- [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] — `gaskell-1960-entry-pylons-gateways-of-the-still-heart-the-house-of-osiris` — EPUB p.608
+- [[Reference/Gaskell/Entries/P/PYLUS, DIVINE, PYLIANS|PYLUS, DIVINE, PYLIANS]] — `gaskell-1960-entry-pylus-divine-pylians` — EPUB p.608
+- [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] — `gaskell-1960-entry-pyramid` — EPUB p.608,609
+

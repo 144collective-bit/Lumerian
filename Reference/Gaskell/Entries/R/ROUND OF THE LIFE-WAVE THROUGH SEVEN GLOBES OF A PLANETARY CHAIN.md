@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-round-of-the-life-wave-through-seven-globes-of-a-planetary-chain
+headword: "ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN
+
+- **Entry ID:** `gaskell-1960-entry-round-of-the-life-wave-through-seven-globes-of-a-planetary-chain`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_645`, `page_646`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_645|page_645]], [[Supporting Material/Gaskell/Source Text/page_646|page_646]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> There have been seven rounds completed on the lunar’ chain.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `LUNAR CHAIN` | **unresolved** (review queue) |
+| `MOON-WAXING` | **unresolved** (review queue) |
+| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `RacEs` | **unresolved** (review queue) |
+| `RacHa` | **unresolved** (review queue) |
+| `REGIONS` | **candidate (first-segment only)** → possible `REGIONS, SEVEN` (not linked) |
+| `ROOT-RACES` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
+| `SaBBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
+| `SNOW` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
+| `WHEELS (holy)` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-round-of-the-life-wave-through-seven-globes-of-a-planetary-chain-ocr-body`
+
+```text
+There have been seven rounds completed on the lunar’ chain. Humanity is now in the fourth round, and on the fourth globe of the terrene chain. “The One Indivisible Monad called Tae-keih (the highest point) is considered as the restorer of reason, who has by incarnation assumed some form or other in seven different periods from the highest antiquity downwards.”’—Kipp, China, p. 141. The Supreme evolves within nature and the soul until the stage of reason or wisdom (buddhi-manas) is arrived at; and during seven world-periods of embodiment and incarnation completes the growth of wisdom in the soul which thereby is raised to the buddhic consciousness. ‘‘Every sidereal body, every planet, whether visible or invisible, is credited with six companion globes. The evolvtion of Life proceeds on these seven globes or bodies, from the first to the seventh, in Seven Rounds or Seven Cycles. . . . When the seventh and last round of (a planetary chain) has been entered upon, the highest or first globe, A, followed by all the others down to the last, instead of entering upon 4s certain time of rest—or ‘ obscuration,’ as in the previous rounds—begins to die out. The planetary dissolution (pralaya) is at hand, and its hour has struck; each globe has to transfer ita life and energy to another planet.” —H. P. Beavatsxy, Secret Doctrine, Mee . 182. “ Evolution appears to be cyclical, from the simplest etherio tres Appt RU thing is simple—up to the highest and most complex cosmic products and back again. On, on it goes, age after age, without pause or rest, as it always has been, as it always will be, world without end, repeating the same process, following the same sequences, but never reaching @ culmination or arriving at a_ final goal; it is one perpetual round, or round of rounds. ‘That which hath been is now; and that which is to be hath already been; and God requireth that which is past’ (Eccugs. iii. 15).”—R. J. CAMPBELL, Serm., Elernal and Temporal. See KARSHVARES, LUNAR CHAIN, MOON-WAXING, PLANETARY CHAIN, RacEs, RacHa, REGIONS, ROOT-RACES, SaBBATHS, SNOW, WHEELS (holy).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_645|page_645]], [[Supporting Material/Gaskell/Source Text/page_646|page_646]]
+

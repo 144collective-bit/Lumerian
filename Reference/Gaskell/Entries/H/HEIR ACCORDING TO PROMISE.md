@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-heir-according-to-promise
+headword: "HEIR ACCORDING TO PROMISE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HEIR ACCORDING TO PROMISE
+
+- **Entry ID:** `gaskell-1960-entry-heir-according-to-promise`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_358`, `page_359`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_358|page_358]], [[Supporting Material/Gaskell/Source Text/page_359|page_359]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HEIR ACCORDING TO PROMISE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the perfected Individuality seated in the causal-body, which succeeds the Personality and inherits the ‘‘ treasures laid up in heaven,’’ becoming ‘‘heir of the righteousness which is according to faith,’’ that is, of the transmuted qualities of the lower nature, awaiting recognition upon the buddhic plane, when the consciousness rises to the heaven plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Fnurr oF sprit` | **unresolved** (review queue) |
+| `NALA-KUVERA` | **candidate (first-segment only)** → possible `NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)` (not linked) |
+| `TRANSMUTATION` | **unresolved** (review queue) |
+| `TREASURE` | **unresolved** (review queue) |
+| `WEALTH` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-heir-according-to-promise-ocr-body`
+
+```text
+A symbol of the perfected Individuality seated in the causal-body, which succeeds the Personality and inherits the ‘‘ treasures laid up in heaven,’’ becoming ‘‘heir of the righteousness which is according to faith,’’ that is, of the transmuted qualities of the lower nature, awaiting recognition upon the buddhic plane, when the consciousness rises to the heaven plane. ** Everything that your heart has ever longed for or posseased of things holy and blessed is yours now in Christ, part of his unsearchable riches, your eternal inheritance, marked with your name. There is something better for you than (the past), something vaster and grander. Make towards it at once. Delay not a moment. Christ is your way there, the companion of your pilgrimage and the al of your eects . J. CaMPBELL; rm., Sacred Memories. **This eternal God is of necessity to be the object of our hope. The church in heaven, called the body and temple of God, is to be a habitation for himself when it is finished, to dwell in for ever.” —J. Bunyan, Jerael’s Hope. HELEN See Fnurr oF sprit, NALA-KUVERA, TRANSMUTATION, TREASURE, WEALTH.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_358|page_358]], [[Supporting Material/Gaskell/Source Text/page_359|page_359]]
+

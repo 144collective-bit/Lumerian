@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-height-of-osiris
+headword: "HEIGHT OF OSIRIS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HEIGHT OF OSIRIS
+
+- **Entry ID:** `gaskell-1960-entry-height-of-osiris`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_358`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_358|page_358]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HEIGHT OF OSIRIS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the planes of manifestation of the Logos.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Buiack` | **unresolved** (review queue) |
+| `DresErrs` | **unresolved** (review queue) |
+| `FacE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
+| `Four crm™ES` | **unresolved** (review queue) |
+| `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
+| `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
+| `PLaNEs` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `STEM` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-height-of-osiris-ocr-body`
+
+```text
+A symbol of the planes of manifestation of the Logos. ** Osiris was beautiful of face, but with a dull and black complexion ; his height exceeded five and a half yards.’’—PLuvTaARCH, [sie and Osiris. The Higher Self (Osiris) was beautiful and perfect potentially, but was actually non-existent, and, as it were, ‘* black,”? which stands for negation of existence. His ‘‘height”’ refers to the five planes whereon his complete evolution would be accomplished. The excess above five refers to two unmanifest planes above atma, which will become manifest in other cycles. See Buiack, DresErrs, FacE, Four crm™ES, HEAVEN AND EARTH, OSIRIS, PLaNEs, STEM.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_358|page_358]]
+

@@ -1,0 +1,286 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-exo
+chapter_id: kjv-exo-28
+book_name: "Exodus"
+chapter: 28
+verses: 43
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Exodus 28"
+  - "KJV Exodus 28"
+---
+
+# Exodus 28
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus|Exodus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 027|Exodus 27]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 029|Exodus 29]]
+
+## Text
+
+###### Exodus 28:1
+
+And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.
+
+^kjv-exo-28-1
+
+###### Exodus 28:2
+
+And thou shalt make holy garments for Aaron thy brother for glory and for beauty.
+
+^kjv-exo-28-2
+
+###### Exodus 28:3
+
+And thou shalt speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office.
+
+^kjv-exo-28-3
+
+###### Exodus 28:4
+
+And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.
+
+^kjv-exo-28-4
+
+###### Exodus 28:5
+
+And they shall take gold, and blue, and purple, and scarlet, and fine linen.
+
+^kjv-exo-28-5
+
+###### Exodus 28:6
+
+And they shall make the ephod of gold, of blue, and of purple, of scarlet, and fine twined linen, with cunning work.
+
+^kjv-exo-28-6
+
+###### Exodus 28:7
+
+It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together.
+
+^kjv-exo-28-7
+
+###### Exodus 28:8
+
+And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen.
+
+^kjv-exo-28-8
+
+###### Exodus 28:9
+
+And thou shalt take two onyx stones, and grave on them the names of the children of Israel:
+
+^kjv-exo-28-9
+
+###### Exodus 28:10
+
+Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.
+
+^kjv-exo-28-10
+
+###### Exodus 28:11
+
+With the work of an engraver in stone, like the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.
+
+^kjv-exo-28-11
+
+###### Exodus 28:12
+
+And thou shalt put the two stones upon the shoulders of the ephod for stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.
+
+^kjv-exo-28-12
+
+###### Exodus 28:13
+
+And thou shalt make ouches of gold;
+
+^kjv-exo-28-13
+
+###### Exodus 28:14
+
+And two chains of pure gold at the ends; of wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.
+
+^kjv-exo-28-14
+
+###### Exodus 28:15
+
+And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it.
+
+^kjv-exo-28-15
+
+###### Exodus 28:16
+
+Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.
+
+^kjv-exo-28-16
+
+###### Exodus 28:17
+
+And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
+
+^kjv-exo-28-17
+
+###### Exodus 28:18
+
+And the second row shall be an emerald, a sapphire, and a diamond.
+
+^kjv-exo-28-18
+
+###### Exodus 28:19
+
+And the third row a ligure, an agate, and an amethyst.
+
+^kjv-exo-28-19
+
+###### Exodus 28:20
+
+And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.
+
+^kjv-exo-28-20
+
+###### Exodus 28:21
+
+And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.
+
+^kjv-exo-28-21
+
+###### Exodus 28:22
+
+And thou shalt make upon the breastplate chains at the ends of wreathen work of pure gold.
+
+^kjv-exo-28-22
+
+###### Exodus 28:23
+
+And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.
+
+^kjv-exo-28-23
+
+###### Exodus 28:24
+
+And thou shalt put the two wreathen chains of gold in the two rings which are on the ends of the breastplate.
+
+^kjv-exo-28-24
+
+###### Exodus 28:25
+
+And the other two ends of the two wreathen chains thou shalt fasten in the two ouches, and put them on the shoulderpieces of the ephod before it.
+
+^kjv-exo-28-25
+
+###### Exodus 28:26
+
+And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which is in the side of the ephod inward.
+
+^kjv-exo-28-26
+
+###### Exodus 28:27
+
+And two other rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the other coupling thereof, above the curious girdle of the ephod.
+
+^kjv-exo-28-27
+
+###### Exodus 28:28
+
+And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that it may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.
+
+^kjv-exo-28-28
+
+###### Exodus 28:29
+
+And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD continually.
+
+^kjv-exo-28-29
+
+###### Exodus 28:30
+
+And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
+
+^kjv-exo-28-30
+
+###### Exodus 28:31
+
+And thou shalt make the robe of the ephod all of blue.
+
+^kjv-exo-28-31
+
+###### Exodus 28:32
+
+And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.
+
+^kjv-exo-28-32
+
+###### Exodus 28:33
+
+And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:
+
+^kjv-exo-28-33
+
+###### Exodus 28:34
+
+A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.
+
+^kjv-exo-28-34
+
+###### Exodus 28:35
+
+And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy place before the LORD, and when he cometh out, that he die not.
+
+^kjv-exo-28-35
+
+###### Exodus 28:36
+
+And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE LORD.
+
+^kjv-exo-28-36
+
+###### Exodus 28:37
+
+And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.
+
+^kjv-exo-28-37
+
+###### Exodus 28:38
+
+And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD.
+
+^kjv-exo-28-38
+
+###### Exodus 28:39
+
+And thou shalt embroider the coat of fine linen, and thou shalt make the mitre of fine linen, and thou shalt make the girdle of needlework.
+
+^kjv-exo-28-39
+
+###### Exodus 28:40
+
+And for Aaron’s sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.
+
+^kjv-exo-28-40
+
+###### Exodus 28:41
+
+And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.
+
+^kjv-exo-28-41
+
+###### Exodus 28:42
+
+And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
+
+^kjv-exo-28-42
+
+###### Exodus 28:43
+
+And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him.
+
+^kjv-exo-28-43

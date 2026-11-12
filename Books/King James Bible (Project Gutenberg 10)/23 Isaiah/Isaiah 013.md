@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-13
+book_name: "Isaiah"
+chapter: 13
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 13"
+  - "KJV Isaiah 13"
+---
+
+# Isaiah 13
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 012|Isaiah 12]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 014|Isaiah 14]]
+
+## Text
+
+###### Isaiah 13:1
+
+The burden of Babylon, which Isaiah the son of Amoz did see.
+
+^kjv-isa-13-1
+
+###### Isaiah 13:2
+
+Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
+
+^kjv-isa-13-2
+
+###### Isaiah 13:3
+
+I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+
+^kjv-isa-13-3
+
+###### Isaiah 13:4
+
+The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.
+
+^kjv-isa-13-4
+
+###### Isaiah 13:5
+
+They come from a far country, from the end of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land.
+
+^kjv-isa-13-5
+
+###### Isaiah 13:6
+
+Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty.
+
+^kjv-isa-13-6
+
+###### Isaiah 13:7
+
+Therefore shall all hands be faint, and every man’s heart shall melt:
+
+^kjv-isa-13-7
+
+###### Isaiah 13:8
+
+And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
+
+^kjv-isa-13-8
+
+###### Isaiah 13:9
+
+Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
+
+^kjv-isa-13-9
+
+###### Isaiah 13:10
+
+For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
+
+^kjv-isa-13-10
+
+###### Isaiah 13:11
+
+And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
+
+^kjv-isa-13-11
+
+###### Isaiah 13:12
+
+I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
+
+^kjv-isa-13-12
+
+###### Isaiah 13:13
+
+Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger.
+
+^kjv-isa-13-13
+
+###### Isaiah 13:14
+
+And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+
+^kjv-isa-13-14
+
+###### Isaiah 13:15
+
+Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+
+^kjv-isa-13-15
+
+###### Isaiah 13:16
+
+Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
+
+^kjv-isa-13-16
+
+###### Isaiah 13:17
+
+Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
+
+^kjv-isa-13-17
+
+###### Isaiah 13:18
+
+Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eyes shall not spare children.
+
+^kjv-isa-13-18
+
+###### Isaiah 13:19
+
+And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah.
+
+^kjv-isa-13-19
+
+###### Isaiah 13:20
+
+It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
+
+^kjv-isa-13-20
+
+###### Isaiah 13:21
+
+But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
+
+^kjv-isa-13-21
+
+###### Isaiah 13:22
+
+And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
+
+^kjv-isa-13-22

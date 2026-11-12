@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-atoms-permanent-on-each-plane
+headword: "ATOMS, PERMANENT, ON EACH PLANE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ATOMS, PERMANENT, ON EACH PLANE
+
+- **Entry ID:** `gaskell-1960-entry-atoms-permanent-on-each-plane`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_89`, `page_90`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_89|page_89]], [[Supporting Material/Gaskell/Source Text/page_90|page_90]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ATOMS, PERMANENT, ON EACH PLANE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Buddhi, mental, astral, and phystcal, atoms attached to each Individuality as centres of life and form on the several planes.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AMITAUGAS` | **unresolved** (review queue) |
+| `GOLD-COLOURED spoT` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD-COLOURED SPOT|GOLD-COLOURED SPOT]] |
+| `PLANES` | **candidate (ambiguous first-segment)** → PLANES, FIVE OR SEVEN; PLANES, ISIS, GODDESS (not linked) |
+| `PRANA` | **unresolved** (review queue) |
+| `PROSPERITY` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-atoms-permanent-on-each-plane-ocr-body`
+
+```text
+Buddhi, mental, astral, and phystcal, atoms attached to each Individuality as centres of life and form on the several planes. “* He approaches the couch Amitaugas : that is prina (breath, speech). The sag and the future are its eastern feet. Prosperity and earth its western feet." —Kaush. Upanishad, I. 2. The soul comes to the state which signifies the sense of infinite rest and serenity,—which is comparable to the rhythm of the Great Breath. The “ past and the future’ symbolise the course which evolution has taken to enable this state of consciousness to be arrived at, and so the Eternal Now is verily realised. ‘‘ Prosperity and earth "’ signify the sublimated lower or natural man, through which the Higher Ego has attained ite final liberation. Although the lower is Fuarrivez, Soun ATONEMENT “unreality,” it has been absorbed into the Self. The germ of this state exists and will persist through eternity ; for nothing is ever Jost. The state is transformed, but still visible to the Self, though now seen to be of It. There is a permanent atom or centre on each plane, which, when communicated with, will respond to vibrations which answer to the varied espects of the Self. See AMITAUGAS, GOLD-COLOURED spoT, PLANES, PRANA, PROSPERITY.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_89|page_89]], [[Supporting Material/Gaskell/Source Text/page_90|page_90]]
+

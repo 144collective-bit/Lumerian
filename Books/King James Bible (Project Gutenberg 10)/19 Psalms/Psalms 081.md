@@ -1,0 +1,127 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-81
+book_name: "Psalms"
+chapter: 81
+verses: 16
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 81"
+  - "KJV Psalms 81"
+---
+
+# Psalms 81
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 080|Psalms 80]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 082|Psalms 82]]
+
+## Text
+
+> [!note] Unnumbered preface / superscription (before Psalms 81:8)
+> Selah. Selah.
+
+###### Psalms 81:1
+
+Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
+
+^kjv-psa-81-1
+
+###### Psalms 81:2
+
+Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.
+
+^kjv-psa-81-2
+
+###### Psalms 81:3
+
+Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.
+
+^kjv-psa-81-3
+
+###### Psalms 81:4
+
+For this was a statute for Israel, and a law of the God of Jacob.
+
+^kjv-psa-81-4
+
+###### Psalms 81:5
+
+This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.
+
+^kjv-psa-81-5
+
+###### Psalms 81:6
+
+I removed his shoulder from the burden: his hands were delivered from the pots.
+
+^kjv-psa-81-6
+
+###### Psalms 81:7
+
+Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah.
+
+^kjv-psa-81-7
+
+###### Psalms 81:8
+
+Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;
+
+^kjv-psa-81-8
+
+###### Psalms 81:9
+
+There shall no strange god be in thee; neither shalt thou worship any strange god.
+
+^kjv-psa-81-9
+
+###### Psalms 81:10
+
+I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.
+
+^kjv-psa-81-10
+
+###### Psalms 81:11
+
+But my people would not hearken to my voice; and Israel would none of me.
+
+^kjv-psa-81-11
+
+###### Psalms 81:12
+
+So I gave them up unto their own hearts’ lust: and they walked in their own counsels.
+
+^kjv-psa-81-12
+
+###### Psalms 81:13
+
+Oh that my people had hearkened unto me, and Israel had walked in my ways!
+
+^kjv-psa-81-13
+
+###### Psalms 81:14
+
+I should soon have subdued their enemies, and turned my hand against their adversaries.
+
+^kjv-psa-81-14
+
+###### Psalms 81:15
+
+The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.
+
+^kjv-psa-81-15
+
+###### Psalms 81:16
+
+He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
+
+^kjv-psa-81-16

@@ -1,0 +1,46 @@
+Manly Palmer Hall
+number, the latter becomes even, thereby making the masculine to be feminine. Unity, or
+1, therefore, was considered an androgynous number, partaking of both the masculine and
+the feminine attributes; consequently both odd and even. For this reason the Pythagoreans
+called it evenly-odd. It was customary for the Pythagoreans to offer sacrifices of an uneven
+number of objects to the superior gods, while to the goddesses and subterranean spirits an
+even number was offered.
+    Any even number may be divided into two equal parts, which are always either both
+odd or both even. Thus, 10 by equal division gives 5+5, both odd numbers. The same prin-
+ciple holds true if the 10 be unequally divided. For example, in 6+4, both parts are even;
+in 7+3, both parts are odd; in 8+2, both parts are again even; and in 9+1, both parts are
+again odd. Thus, in the even number, however it may be divided, the parts will always be
+both odd or both even. The Pythagoreans considered the even number-of which the duad
+was the prototype – to be indefinite and feminine.
+    The odd numbers are divided by a mathematical contrivance – called “the Sieve
+of Eratosthenes” – into three general classes: incomposite, composite, and incom-
+posite-composite.
+    The incomposite numbers are those which have no divisor other than themselves and
+unity, such as 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, and so forth. For example, 7 is
+divisible only by 7, which goes into itself once, and unity, which goes into 7 seven times.
+    The composite numbers are those which are divisible not only by themselves and unity
+but also by some other number, such as 9, 15, 21, 25, 27, 33, 39, 45, 51, 57, and so forth.
+For example, 21 is divisible not only by itself and by unity, but also by 3 and by 7.
+    The incomposite-composite numbers are those which have no common divisor, al-
+though each of itself is capable of division, such as 9 and 25. For example, 9 is divisible
+by 3 and 25 by 5, but neither is divisible by the divisor of the other; thus they have no
+common divisor. Because they have individual divisors, they are called composite; and
+because they have no common divisor, they are called in, composite. Accordingly, the
+term incomposite-composite was created to describe their properties.
+    Even numbers are divided into three classes: evenly-even, evenly-odd, and oddly-odd.
+    The evenly-even numbers are all in duple ratio from unity; thus: 1, 2, 4, 8, 16, 32, 64,
+128, 256, 512, and 1,024. The proof of the perfect evenly-even number is that it can be
+halved and the halves again halved back to unity, as 1/2 of 64 = 32; 1/2 of 32 = 16; 1/2 of
+16 = 8; 1/2 of 8 = 4; 1/2 of 4 = 2; 1/2 of 2 = 1; beyond unity it is impossible to go.
+    The evenly-even numbers possess certain unique properties. The sum of any number
+of terms but the last term is always equal to the last term minus one. For example: the sum
+of the first and second terms (1+2) equals the third term (4) minus one; or, the sum of the
+first, second, third, and fourth terms (1+2+4+8) equals the fifth term (16) minus one.
+    In a series of evenly-even numbers, the first multiplied by the last equals the last, the
+second multiplied by the second from the last equals the last, and so on until in an odd series
+one number remains, which multiplied by itself equals the last number of the series; or, in an
+even series two numbers remain, which multiplied by each other give the last number of the
+series. For example: 1, 2, 4, 8, 16 is an odd series. The first number (1) multiplied by the last
+number (16) equals the last number (16). The second number (2) multiplied by the second
+
+206

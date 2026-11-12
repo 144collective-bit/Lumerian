@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-d-of-life-personality-re-birth-resurrection-separation-death-of-the-form
+headword: "D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM
+
+- **Entry ID:** `gaskell-1960-entry-d-of-life-personality-re-birth-resurrection-separation-death-of-the-form`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_211`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_211|page_211]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the withdrawal of life from the form in which it has been DEATH manifesting its qualities.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ASTRAL` | **unresolved** (review queue) |
+| `BirtH (forms)` | **candidate (first-segment only)** → possible `BIRTH, SECOND, OF AN ARYAN` (not linked) |
+| `Devas (builders)` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `MENTAL` | **unresolved** (review queue) |
+| `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
+| `SIMILITUDEs` | **candidate (first-segment only)** → possible `SIMILITUDES, WORLD OF` (not linked) |
+| `SIVA` | **candidate (first-segment only)** → possible `SIVA, GOD` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-d-of-life-personality-re-birth-resurrection-separation-death-of-the-form-ocr-body`
+
+```text
+A symbol of the withdrawal of life from the form in which it has been DEATH manifesting its qualities. All vehicles of a monad of life die after a period, and are dissipated into their primary atoms, but life and consciousness endure for ever, as they are aspects of the eternal Spirit. The human body yields up its life only in relation to its organising human monad which has withdrawn itself; but the lives of its molecules remain, and these set up the changes called decomposition. **When we know what form really is, we know what is life and what is death.’’ ** Thus nothing is ever annihilated but the accidental, the exterior, material form; both matter and the substantial form, i.e. spirit, being eternal ’’ (Bruno).— - L. McINtTYRE, Giordano Bruno, pp. 160, 165. “‘There is in ever living organism a law of Death. We are wont to imagine that Nature is full of Life. In reality it is full of Death. One cannot say it is natural for a plant to live. Examine its nature fully, and you have to admit that its natural tendency is to die. It is kept from dying by a mere temporary endowment, which gives it an ephemeral dominion over the elements—gives it power to utilise for a brief span the rain, the sunshine, and the air, Withdraw this temporary endowment for a moment and its true nature is revealed. Instead of overcoming Nature it is overcome. The very things which appeared to minister to its growth and beauty now turn against it and make it decay. ... Life is merely a temporary suspension of these destructive powers; and this is truly one of the most accurate definitions of life we have yet received—‘ the sum total of the functions which resist death.’ ’’ —H. Drummonp, Natural Law, etc., pp. 103-4. The above presents only a negative view of life. Life is a_ directive agency from higher planes, guiding growth according to specific patterns of animal, vegetal, and mineral forms. The withdrawal of the directive agency is death of the form. See ASTRAL, BirtH (forms), Devas (builders), MENTAL, MONAD OF FORM, SIMILITUDEs, SIVA.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_211|page_211]]
+

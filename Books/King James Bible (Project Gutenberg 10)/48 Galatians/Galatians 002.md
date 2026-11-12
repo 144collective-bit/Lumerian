@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gal
+chapter_id: kjv-gal-2
+book_name: "Galatians"
+chapter: 2
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Galatians 2"
+  - "KJV Galatians 2"
+---
+
+# Galatians 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/48 Galatians/Galatians|Galatians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/48 Galatians/Galatians 001|Galatians 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/48 Galatians/Galatians 003|Galatians 3]]
+
+## Text
+
+###### Galatians 2:1
+
+Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
+
+^kjv-gal-2-1
+
+###### Galatians 2:2
+
+And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
+
+^kjv-gal-2-2
+
+###### Galatians 2:3
+
+But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
+
+^kjv-gal-2-3
+
+###### Galatians 2:4
+
+And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+
+^kjv-gal-2-4
+
+###### Galatians 2:5
+
+To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
+
+^kjv-gal-2-5
+
+###### Galatians 2:6
+
+But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:
+
+^kjv-gal-2-6
+
+###### Galatians 2:7
+
+But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;
+
+^kjv-gal-2-7
+
+###### Galatians 2:8
+
+(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+
+^kjv-gal-2-8
+
+###### Galatians 2:9
+
+And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
+
+^kjv-gal-2-9
+
+###### Galatians 2:10
+
+Only they would that we should remember the poor; the same which I also was forward to do.
+
+^kjv-gal-2-10
+
+###### Galatians 2:11
+
+But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
+
+^kjv-gal-2-11
+
+###### Galatians 2:12
+
+For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
+
+^kjv-gal-2-12
+
+###### Galatians 2:13
+
+And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
+
+^kjv-gal-2-13
+
+###### Galatians 2:14
+
+But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
+
+^kjv-gal-2-14
+
+###### Galatians 2:15
+
+We who are Jews by nature, and not sinners of the Gentiles,
+
+^kjv-gal-2-15
+
+###### Galatians 2:16
+
+Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
+
+^kjv-gal-2-16
+
+###### Galatians 2:17
+
+But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.
+
+^kjv-gal-2-17
+
+###### Galatians 2:18
+
+For if I build again the things which I destroyed, I make myself a transgressor.
+
+^kjv-gal-2-18
+
+###### Galatians 2:19
+
+For I through the law am dead to the law, that I might live unto God.
+
+^kjv-gal-2-19
+
+###### Galatians 2:20
+
+I am crucified with Christ: neverthless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+
+^kjv-gal-2-20
+
+###### Galatians 2:21
+
+I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
+
+^kjv-gal-2-21

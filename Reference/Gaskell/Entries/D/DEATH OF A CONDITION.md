@@ -1,0 +1,64 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-death-of-a-condition
+headword: "DEATH OF A CONDITION"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DEATH OF A CONDITION
+
+- **Entry ID:** `gaskell-1960-entry-death-of-a-condition`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_212`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DEATH OF A CONDITION :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the withdrawal of life from a stage of growth or development of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AsSYRTvusS` | **unresolved** (review queue) |
+| `MULTIPLY` | **unresolved** (review queue) |
+| `PatTRIiakcss` | **unresolved** (review queue) |
+| `SETH` | **candidate (first-segment only)** → possible `SETH, SON OF ADAM` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-death-of-a-condition-ocr-body`
+
+```text
+A symbol of the withdrawal of life from a stage of growth or development of the soul. This occurs when the stage has effected the purpose for which it existed. Each soulstate is a specific limitation of the life within, and as the life evolves, the states begin to cramp, so that old states have to pass away and new states take their place after many degrees of overlapping. ** A truth or principle is that all life tends to encrust itself, to imprison iteelf within iteelf, and that its crust needs to be constantly broken and returned into the general mass out of which it was formed, in order that the best influences may be received. Ever there must be a return to primitive simplicity, to a condition of first principles, in which the power to receive may be freshened and renewed.’’—PHILLIPS Brooks, Mystery of Iniquity, p. 160. See AsSYRTvusS, MULTIPLY, PatTRIiakcss, SETH.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+

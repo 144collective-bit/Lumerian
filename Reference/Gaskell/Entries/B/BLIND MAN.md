@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-blind-man
+headword: "BLIND MAN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BLIND MAN
+
+- **Entry ID:** `gaskell-1960-entry-blind-man`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_121`, `page_122`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_121|page_121]], [[Supporting Material/Gaskell/Source Text/page_122|page_122]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BLIND MAN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of mentality immersed in the concerns of the lower life, and devoid of spiritual perception.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Davin` | **unresolved** (review queue) |
+| `GARMENTS` | **unresolved** (review queue) |
+| `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
+| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Mrmaores (healing)` | **unresolved** (review queue) |
+| `Szzmxc` | **unresolved** (review queue) |
+| `Sieur` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-blind-man-ocr-body`
+
+```text
+A symbol of mentality immersed in the concerns of the lower life, and devoid of spiritual perception. *‘ Bartimejus, a blind beggar, was sitting by the wayside. And when he heard that it was Jesus of Nazareth, he began to cry out and say, Jesus thou son of David have mercy on me,”— Mark x. 46, 47. This “blind man” is he who is not spiritually awakened, but who reveres the form of religion, and who addresses his God according to hearsay, not recognising the Divine,—the Son of God. He has to learn the truth and aspire, ere his eyes can be opened. ‘‘ New spiritual sight does not create, but reveals, the reality. And in all such openings, whether gradual or sudden, the Lord cometh, and his coming is more often than not connected with some pain of the new birth, fires and purgings that accompany the operations for cataract performed by the Great Physician on the reals eye. He to whose intuitions the Lord has thus come is positively 6 new man; I mean, all limitations are removed from his Godward thought.”"— Basi WILBERFORCE, Serm., The Message of Advent. ‘* The blind (spiritually blind) man hath forgotten the Name; the perverse is stone-blind. His transmigration shall cease not; he shall be ruined by death and birth.”—‘‘ Hymn of Gura Nanak.” —MacavuLir¥Fe, The Sikh Religion, Vol. 1 263. ‘“* Blind and naked signifies that they BLISS are without the understanding of truth, and without the will of good.”—SwEpEnNBora, Apoc. Rev., n. 153. See Davin, GARMENTS, HEALING, Man (blind), Mrmaores (healing), Szzmxc, Sieur.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_121|page_121]], [[Supporting Material/Gaskell/Source Text/page_122|page_122]]
+

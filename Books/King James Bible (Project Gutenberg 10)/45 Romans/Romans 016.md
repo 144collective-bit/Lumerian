@@ -1,0 +1,190 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rom
+chapter_id: kjv-rom-16
+book_name: "Romans"
+chapter: 16
+verses: 27
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Romans 16"
+  - "KJV Romans 16"
+---
+
+# Romans 16
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans|Romans]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans 015|Romans 15]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians 001|1 Corinthians 1]]
+
+## Text
+
+###### Romans 16:1
+
+I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:
+
+^kjv-rom-16-1
+
+###### Romans 16:2
+
+That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.
+
+^kjv-rom-16-2
+
+###### Romans 16:3
+
+Greet Priscilla and Aquila my helpers in Christ Jesus:
+
+^kjv-rom-16-3
+
+###### Romans 16:4
+
+Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.
+
+^kjv-rom-16-4
+
+###### Romans 16:5
+
+Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the firstfruits of Achaia unto Christ.
+
+^kjv-rom-16-5
+
+###### Romans 16:6
+
+Greet Mary, who bestowed much labour on us.
+
+^kjv-rom-16-6
+
+###### Romans 16:7
+
+Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.
+
+^kjv-rom-16-7
+
+###### Romans 16:8
+
+Greet Amplias my beloved in the Lord.
+
+^kjv-rom-16-8
+
+###### Romans 16:9
+
+Salute Urbane, our helper in Christ, and Stachys my beloved.
+
+^kjv-rom-16-9
+
+###### Romans 16:10
+
+Salute Apelles approved in Christ. Salute them which are of Aristobulus’ household.
+
+^kjv-rom-16-10
+
+###### Romans 16:11
+
+Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.
+
+^kjv-rom-16-11
+
+###### Romans 16:12
+
+Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.
+
+^kjv-rom-16-12
+
+###### Romans 16:13
+
+Salute Rufus chosen in the Lord, and his mother and mine.
+
+^kjv-rom-16-13
+
+###### Romans 16:14
+
+Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.
+
+^kjv-rom-16-14
+
+###### Romans 16:15
+
+Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.
+
+^kjv-rom-16-15
+
+###### Romans 16:16
+
+Salute one another with an holy kiss. The churches of Christ salute you.
+
+^kjv-rom-16-16
+
+###### Romans 16:17
+
+Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.
+
+^kjv-rom-16-17
+
+###### Romans 16:18
+
+For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
+
+^kjv-rom-16-18
+
+###### Romans 16:19
+
+For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.
+
+^kjv-rom-16-19
+
+###### Romans 16:20
+
+And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.
+
+^kjv-rom-16-20
+
+###### Romans 16:21
+
+Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
+
+^kjv-rom-16-21
+
+###### Romans 16:22
+
+I Tertius, who wrote this epistle, salute you in the Lord.
+
+^kjv-rom-16-22
+
+###### Romans 16:23
+
+Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
+
+^kjv-rom-16-23
+
+###### Romans 16:24
+
+The grace of our Lord Jesus Christ be with you all. Amen.
+
+^kjv-rom-16-24
+
+###### Romans 16:25
+
+Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
+
+^kjv-rom-16-25
+
+###### Romans 16:26
+
+But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+
+^kjv-rom-16-26
+
+###### Romans 16:27
+
+To God only wise, be glory through Jesus Christ for ever. Amen.
+
+^kjv-rom-16-27

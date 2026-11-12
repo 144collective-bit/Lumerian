@@ -1,0 +1,73 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-birth-of-krishna-an-incarnation-of-vishnu
+headword: "BIRTH OF KRISHNA AN INCARNATION OF VISHNU"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BIRTH OF KRISHNA AN INCARNATION OF VISHNU
+
+- **Entry ID:** `gaskell-1960-entry-birth-of-krishna-an-incarnation-of-vishnu`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_116`, `page_117`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_116|page_116]], [[Supporting Material/Gaskell/Source Text/page_117|page_117]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BIRTH OF KRISHNA AN INCARNATION OF VISHNU :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the bringing forth of the Self (Krishna), Son of God (Vishnu), in the human soul during the present period of evolution.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ARJUNA` | **candidate (first-segment only)** → possible `ARJUNA, SON OF INDRA AND PRITHA` (not linked) |
+| `BALARAMA` | **unresolved** (review queue) |
+| `CAVE (Nanda)` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Devaxi` | **unresolved** (review queue) |
+| `Durasroso` | **unresolved** (review queue) |
+| `GLORY (divine)` | **candidate (first-segment only)** → possible `GLORY, DIVINE SACERDOTAL AND KINGLY` (not linked) |
+| `GOoLOKA` | **unresolved** (review queue) |
+| `GoPis` | **candidate (first-segment only)** → possible `GOPIS, COWHERDESSES` (not linked) |
+| `HEBDOMAD` | **candidate (first-segment only)** → possible `HEBDOMAD, SON OF THE` (not linked) |
+| `HEROD` | **unresolved** (review queue) |
+| `KRISHNA` | **candidate (first-segment only)** → possible `KRISHNA, GOSVAMIN—LORD OF COWS` (not linked) |
+| `OX-LEADER` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OX-LEADER|OX-LEADER]] |
+| `RIVERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-birth-of-krishna-an-incarnation-of-vishnu-ocr-body`
+
+```text
+Symbolic of the bringing forth of the Self (Krishna), Son of God (Vishnu), in the human soul during the present period of evolution. ‘**Like Astyages and Herod, in order to ward off the danger arising from his sister's son, of which he had been warned by an oracle, King Kansa caused his sister and her husband Vasudewa to be cast into prison. Here, in the darkness of a dungeon, Krishna comes into the world as Jesus did in the stable at Bethlehem. The nearer the hour of birth approaches, the more beautiful the mother becomes. Soon the whole dungeon is filled with light. Rejoicing choirs gound in the air, the waters of the rivers and brooks make sweet music. The Gods come down from heaven, and blessed spirits dance and sing for joy. At midnight his mother Dewaki (i.e. the divine) brings the child into the world, at the commencement of a new epoch. The parente themselves fall down before 109 BIRTH him and pray, but a voice from heaven admonishes them to convey him from the machinations of the tyrant to Gokala, the land of the cow, and to exchange him for the daughter of the herdsman Nanda. Immediately the chains fall from the father’s hands, the dungeon doors are opened, and he passes out. Another Christopher, he bears the child upon his shoulders through the river amuna, the waters of which recede in reverence before the son of God, and he exchanges Krishna for the new-born daughter of Nanda. Hoe then returns to the dungeon, where the chains again immediately fasten of their own accord upon his limbs. Kansa now makes his way into the dungeon. In vain Dewaki entreats her brother to leave her the child. He is on the point of tearing it forcibly from her hands when it disaprons before his eyes, and Kansa gives e order that all newly born children in his country under the age of two years shall be killed.”—-A. Drews, The Christ Myth, pp. 105-6. The meaning of this is similar to that of the birth story of Jesus. The lower principle (Kansa) perceives subjectively the coming of that power which will eventually exterminate it. It therefore in self-protection sete limits to the spiritual activities from within, and strives to control the purified lower nature (Dewaki) and the Holy Spirit (Vasudewa). Then from latency (darkness) there comes forth the incarnate Self, the Christsoul, bringing with him the light of Truth which illumines the purified nature (Dewaki), while joy and energy suffuse the soul. The higher qualities (gods) arise from latency, and in harmony and gladness they surround the new-born Self. The period of the manifestation of the Self in the soul is a turning point (midnight) in evolution, and the beginning of a new process of moral and spiritual development. The purified emotion-nature allied with the Spirit (the parente) reverence the Love-nature which has appeared, but at the call of Wisdom from above they prepare to convey the Holy Babe to an exalted condition safe from the power of the lower principle. Then the liberated Spirit caught up the child unto God and unto his throne, passing inwards and upwards through the higher mind (river) to the buddhic plane (Gokala), leaving the reflection, as it were, of BIRTH the Divine presence (Nanda’s daughter) on the planes below. But the Spirit is still in touch with the purified lower nature (Dewaki), which is threatened by the lower principle, now powerless to expel the Divine reflection from within the soul. Thwarted by the higher nature, the lower principle is stirred to take action against all newly evolved higher qualities, for the ‘evil one” seeks to destroy all germs of the virtues which would eventually abolish his sovereignty. See ARJUNA, BALARAMA, CAVE (Nanda), Devaxi, Durasroso, GLORY (divine), GOoLOKA, GoPis, HEBDOMAD, HEROD, KRISHNA, OX-LEADER, RIVERS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_116|page_116]], [[Supporting Material/Gaskell/Source Text/page_117|page_117]]
+

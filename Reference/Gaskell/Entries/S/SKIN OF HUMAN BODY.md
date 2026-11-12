@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-skin-of-human-body
+headword: "SKIN OF HUMAN BODY"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SKIN OF HUMAN BODY
+
+- **Entry ID:** `gaskell-1960-entry-skin-of-human-body`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_703`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_703|page_703]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SKIN OF HUMAN BODY :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the outer envelope of the soul, which is the means of functioning upon the astral or physical plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BonES` | **candidate (first-segment only)** → possible `BONES, WHITE` (not linked) |
+| `FLAYING OF MAN` | **unresolved** (review queue) |
+| `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
+| `JoB` | **unresolved** (review queue) |
+| `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-skin-of-human-body-ocr-body`
+
+```text
+A symbol of the outer envelope of the soul, which is the means of functioning upon the astral or physical plane. ‘ The interior man ia ‘ clothed with akin and flesh’ (Jos x. 9), since wherein it is raised up to things above, it is straightly blockaded with the besieging of fleshly motions. . . . ‘And hast fenced me with bones and sinews.’ With flesh and skin we are clothed, but we are ‘fenced with bones and sinews,’ in that though we receive a shock by temptation assaulting us from without, yet the hand of the Creator strengthens us within, that we should not be shattered. And so by the promptings of the flesh, He abases us in respect of His gifts, but by the bones of virtue He strengthens us against temptations.”—-St. Greaory, Morals on the Book of Job, Vol. I. p. 552. See BonES, FLAYING OF MAN, FLESH, JoB, PROMETHEUS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_703|page_703]]
+

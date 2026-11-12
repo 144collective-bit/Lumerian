@@ -1,0 +1,82 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-khabit-or-shadow
+headword: "KHABIT, OR SHADOW"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# KHABIT, OR SHADOW
+
+- **Entry ID:** `gaskell-1960-entry-khabit-or-shadow`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_437`, `page_438`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_437|page_437]], [[Supporting Material/Gaskell/Source Text/page_438|page_438]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`KHABIT, OR SHADOW :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the causal-body which develops by mcans of the aspirations and experiences of the lower self.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Ba` | **candidate (first-segment only)** → possible `BA, THE SOUL` (not linked) |
+| `BREAD` | **candidate (first-segment only)** → possible `BREAD, OR BREAD OF HEAVEN` (not linked) |
+| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
+| `JUDGMENT-DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
+| `Ka` | **candidate (ambiguous first-segment)** → KA, GOD; KA, OR DOUBLE (not linked) |
+| `Kuu` | **unresolved** (review queue) |
+| `Lazakus` | **unresolved** (review queue) |
+| `LOVE or GOD` | **unresolved** (review queue) |
+| `MULTIPLY` | **unresolved** (review queue) |
+| `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
+| `Qanv` | **unresolved** (review queue) |
+| `SaHv` | **unresolved** (review queue) |
+| `SHEDVE` | **unresolved** (review queue) |
+| `SOUL (middle)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
+| `Toms` | **unresolved** (review queue) |
+| `Tzetem` | **unresolved** (review queue) |
+| `UNION` | **candidate (first-segment only)** → possible `UNION, ARROW, THE SELF-MOVING` (not linked) |
+| `VoOURUKASHA. KHAMUAS` | **unresolved** (review queue) |
+| `SETME AND WIFE :-~ Symbols of Spirit and Matter. See HEAVEN AND EARTH` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+| `S1-osra1` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-khabit-or-shadow-ocr-body`
+
+```text
+A symbol of the causal-body which develops by mcans of the aspirations and experiences of the lower self. *“‘The Khabit seems to have been nourished by the offerings which were made in the tomb of the person to whom it belonged.... In Ch. XCII the deceased is made to say, ‘O keep not captive my soul, O keep not ward over my Shadow, but let a way be opened for my soul and for my Shadow, and let them see the Great God in the shrine on the day of the judgment of souls.’ *"°— BupaeE, Book of the Dead, Vol. I. p. 1xi. The functioning of the personality on the lower planes (tomb of the person) is to provide, through aspiration and sacrifice, goodness and truth, the ‘‘bread of heaven” for the nourishment and building up, by love, of the causal-body in the higher mind. When this is perfected then the union of the Soul with the Self (Great God) will be accomplished at the close of the cycle. ** It is Love which builds up the soul. It is Love that goes to the ing of your man’s amount. It is Love which fabricates your inward spiritual body, in which you shall continue to express yourself when the outer mortal y shall have been slipped.”—E. W. Lewis, Christ. Com., April 23, 1913. ‘* Religion is harmony with God ; that harmony is produced by love; and that love is produced by faith. To be religious we must be like God, that to be like Him we must love Him, and that to love Him we must be sure that He loves us. And is it not true that faith must precede our love to God, and affords the only ssible basis on which that can be uilt ? How can we love Him so long as we are in doubt of His heart, or misconceive His character, as if it were only Power and Wisdom, or awful Severity ? Men cannot love an unseen person at all without some very special token of his personal affection for them. . . . love is secondary, His is primary; ours KHAMUAS is reflection, His the original beam ; ours is echo, His the mother-tone. Heaven must bend to earth, before earth can rise to heaven. The skies must open and drop down love, ere love can spring in the fruitful fields..".—A. MacLarEn, Sermons, 2nd Series, p. 216. See Ba, BREAD, CAUSAL-BODY, IRRIGATION, JUDGMENT-DAY, Ka, Kuu, Lazakus, LOVE or GOD, MULTIPLY, OFFERING, Qanv, SaHv, SHEDVE, SOUL (middle), Toms, Tzetem, UNION, VoOURUKASHA. KHAMUAS, SETME AND WIFE :-~ Symbols of Spirit and Matter. See HEAVEN AND EARTH, SEED (good), S1-osra1.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_437|page_437]], [[Supporting Material/Gaskell/Source Text/page_438|page_438]]
+

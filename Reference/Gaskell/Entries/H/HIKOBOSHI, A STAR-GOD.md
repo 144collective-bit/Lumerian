@@ -1,0 +1,76 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-hikoboshi-a-star-god
+headword: "HIKOBOSHI, A STAR-GOD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HIKOBOSHI, A STAR-GOD
+
+- **Entry ID:** `gaskell-1960-entry-hikoboshi-a-star-god`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_369`, `page_370`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_369|page_369]], [[Supporting Material/Gaskell/Source Text/page_370|page_370]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HIKOBOSHI, A STAR-GOD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the spiritual ego on the mental plane, or the incarnate Self.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Apptes` | **unresolved** (review queue) |
+| `Brivcs` | **unresolved** (review queue) |
+| `BvuppuHI` | **unresolved** (review queue) |
+| `CHARON'S FERRY` | **unresolved** (review queue) |
+| `CUPID` | **unresolved** (review queue) |
+| `GOLDEN FLEECE` | **candidate (ambiguous first-segment)** → GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD; GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES (not linked) |
+| `LOVER` | **unresolved** (review queue) |
+| `MAIDEN` | **candidate (first-segment only)** → possible `MAIDEN, HEAVENLY` (not linked) |
+| `RECOLLECTION` | **unresolved** (review queue) |
+| `Rose` | **unresolved** (review queue) |
+| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `SEVEN` | **candidate (first-segment only)** → possible `SEVEN, NUMBER` (not linked) |
+| `SHORE (other)` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `Sons oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+| `STARS OF SOULS` | **unresolved** (review queue) |
+| `WatTER` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-hikoboshi-a-star-god-ocr-body`
+
+```text
+A symbol of the spiritual ego on the mental plane, or the incarnate Self. HIKOBOSHI ** By the ferry of Yasu, on the River of Heaven, the boat is floating: I pray you tell my younger sister (wife) that I stand here and wait. Though I (being a Stargod) can pass freely to and fro, through the great sky,—yet to cross over the River of Heaven, for your sake, was weary work indeed!... From the time when heaven and earth were parted she has been my own wife ;—yet to be with her, I must always wait till autumn” (Legend from the Manydshu).— L. Hearn, Milky Way, pp. 36, 37. The ‘ferry of Yasu" has the same meaning as the “ bridge of heaven,” and signifies the higher mind which the consciousness most traverse in order to rise to the buddhic level. The “boat floating on the River of Heaven ™ signifies the causal-body on the higher mental plane. The “ wife (Tanabata) » is Wisdom,—the buddhic principle,—the ‘‘ younger sister*™ of the Higher Self. The Self can pass freely through the higher planes, but when it is incarnate it is ‘“‘ weary work indeed * to struggle upward, so that Love from below may be united to Wisdom above. From the time of the commencement of evolution when Spirit and Matter were dissevered,— matter alone being left apparent,—the Self-incarnate claimed his true mate ; but to be again united with her, he must wait until the cycle’s close. ** (Footnote). By the ancient calendar, the seventh day of the seventh month would fall in the autumn season.” — L. Hearn, Ibid. The number seven signifies perfection and completion, and the “‘ seventh period ”* therefore signifies the completion of the cycle, when the lower being perfected it unites with the Higher. ‘*In mysticism the will is united with the emotions in an impassioned desire to transcend the sense-world in order that the self may be joined by love to the one eternal and ultimate Object of love; whose existence is intuitively perceived by that which we used to call the soul. . . . We at once see that these two activities correspond to the two eternal passions of the self, the desire of love and the desire of knowledge: severally representing the hunyer of heart and intellect for ultimate truth.”— E. UNDERHILL, Mysticiem, pp. 84, 85. **Thou hast ravished my heart, my sister, my bride; thou hast ravished my heart with one of thine eyes with one chain of thy neck. How fair is thy love, may sister, my bride! How much better HILL is thy love than wine !'’—Song of Songz, iv. 9, 10. See Apptes, Brivcs, BvuppuHI, CHARON'S FERRY, CUPID, GOLDEN FLEECE, LOVER, MAIDEN, RECOLLECTION, Rose, SELF, SEVEN, SHORE (other), Sons oF GoD, STARS OF SOULS, WatTER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_369|page_369]], [[Supporting Material/Gaskell/Source Text/page_370|page_370]]
+

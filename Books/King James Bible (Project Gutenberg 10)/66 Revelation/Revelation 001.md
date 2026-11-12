@@ -1,0 +1,148 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rev
+chapter_id: kjv-rev-1
+book_name: "Revelation"
+chapter: 1
+verses: 20
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Revelation 1"
+  - "KJV Revelation 1"
+---
+
+# Revelation 1
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation|Revelation]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/65 Jude/Jude 001|Jude 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 002|Revelation 2]]
+
+## Text
+
+###### Revelation 1:1
+
+The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
+
+^kjv-rev-1-1
+
+###### Revelation 1:2
+
+Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+
+^kjv-rev-1-2
+
+###### Revelation 1:3
+
+Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+
+^kjv-rev-1-3
+
+###### Revelation 1:4
+
+John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+
+^kjv-rev-1-4
+
+###### Revelation 1:5
+
+And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+
+^kjv-rev-1-5
+
+###### Revelation 1:6
+
+And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
+
+^kjv-rev-1-6
+
+###### Revelation 1:7
+
+Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+
+^kjv-rev-1-7
+
+###### Revelation 1:8
+
+I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+
+^kjv-rev-1-8
+
+###### Revelation 1:9
+
+I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+
+^kjv-rev-1-9
+
+###### Revelation 1:10
+
+I was in the Spirit on the Lord’s day, and heard behind me a great voice, as of a trumpet,
+
+^kjv-rev-1-10
+
+###### Revelation 1:11
+
+Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+
+^kjv-rev-1-11
+
+###### Revelation 1:12
+
+And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
+
+^kjv-rev-1-12
+
+###### Revelation 1:13
+
+And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
+
+^kjv-rev-1-13
+
+###### Revelation 1:14
+
+His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
+
+^kjv-rev-1-14
+
+###### Revelation 1:15
+
+And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+
+^kjv-rev-1-15
+
+###### Revelation 1:16
+
+And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.
+
+^kjv-rev-1-16
+
+###### Revelation 1:17
+
+And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
+
+^kjv-rev-1-17
+
+###### Revelation 1:18
+
+I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+
+^kjv-rev-1-18
+
+###### Revelation 1:19
+
+Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;
+
+^kjv-rev-1-19
+
+###### Revelation 1:20
+
+The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+
+^kjv-rev-1-20

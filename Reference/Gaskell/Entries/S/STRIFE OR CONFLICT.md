@@ -1,0 +1,79 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-strife-or-conflict
+headword: "STRIFE OR CONFLICT"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# STRIFE OR CONFLICT
+
+- **Entry ID:** `gaskell-1960-entry-strife-or-conflict`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_732`, `page_733`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_732|page_732]], [[Supporting Material/Gaskell/Source Text/page_733|page_733]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`STRIFE OR CONFLICT :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the diversity which induces the struggle for separate existence among the evolving qualities and forms on the lower planes.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ATTRACTION` | **unresolved** (review queue) |
+| `BATTLE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] |
+| `CONFLICT` | **unresolved** (review queue) |
+| `ConquEeROR` | **unresolved** (review queue) |
+| `Eppy` | **unresolved** (review queue) |
+| `HIGHER AND LOWER WORLDS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
+| `HorsE (white)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
+| `Limss` | **unresolved** (review queue) |
+| `Lost (forest)` | **unresolved** (review queue) |
+| `LovE OF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
+| `MENIS` | **unresolved** (review queue) |
+| `Mrxture` | **unresolved** (review queue) |
+| `Monap oF LIfe` | **unresolved** (review queue) |
+| `PILLAR (temple)` | **unresolved** (review queue) |
+| `SEPARATENESS` | **unresolved** (review queue) |
+| `SPENDYAD` | **candidate (first-segment only)** → possible `SPENDYAD, OR SPEND-DAD` (not linked) |
+| `‘TANGAROA` | **candidate (first-segment only)** → possible `TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN` (not linked) |
+| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+| `War` | **candidate (first-segment only)** → possible `WAR, FIGHTING` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-strife-or-conflict-ocr-body`
+
+```text
+A symbol of the diversity which induces the struggle for separate existence among the evolving qualities and forms on the lower planes. “In strife all things are endued with form and separate from each other ; but they come together in Love and are desired by each other.’’—Hmpledocles, FAIRBANKS, 96. Through ‘“‘strife,’’ or the struggle for existence on the physical plane, all the lower forms of life subsist. But the sense of separateness is overcome so far as Souls unite in knowledge and realisation of Truth, for wisdom brings them together in love. The instinct of attraction (love) serves to build up cellular tissues, organisms, communities, societies, and the great World-soul. ‘‘And as they were joining together, Strife departed to the utmost boundary. But many things remained unmixed, alternating with those that were mixed, even as many as Strife, remaining aloft, still retained ; for not yet had it entirely departed to the utmost boundaries of the circle, but some of its members were remaining within, and others had gone outside.”’—Jbid., 169. And as the effort is made by the monads of life to come together (through attraction, and through the principle of sex, both active and passive), ‘‘strife,”’ or diversity and separateness, is eventually put to flight. The ‘‘ unmixed alternating with the mixed ”’ refers to the emotions and desires, the higher of which STRIKING (the buddhic) cannot be said to mix with the lower, although there is reciprocal action from below to above, and vice-versa. But until manifestation ceases, strife or separateness cannot be entirely gotten rid of. There were some phases of Self-manifestation latent, whilst other phases were actual, or had become transmuted. “The Life itself standeth in strife, that it may be made manifest, sensible, and palpable, and that the Wisdom may be made separable and known.”— BruMEN, The Supersensual Life, p. 109. “We are advancing towards collectivism both within and without.’”’—Rev. W. Ricumonn, Personality, p. 28. ‘** But just as far as strife is constantly rushing forth, just so far there ever keeps coming in a gentle, immortal stream of perfect Love.’’—Empedocles, 180. To that degree in which the struggling lower self responds to the vibrations from above, the Higher Self reciprocally forthpours energy and raises the self to the Self by Love Divine. **God cannot sanctify us unless we freely contribute our effort. There is a reciprocal desire on our part and that of God. The free inspiration of God is the ring of all our spiritual life. Thence ows into us knowledge—an inner Revelation which preserves our spirit open, and lifting us above all images and all disturbance, brings us to an inw silence. . . . Then the riches of God are o to us’’ (Ruysbroeck).—VauGHAN, ours, etc., Vol. I. p. 328. ** The importance of manifold forms of struggle for the evolution of all kinds and stages of existence, surely has not been neglected by modern science and modern philosophy. Religion, however, has to feel the potent working of a conflict which is more interior than that between external nature and man as a totality, or between the body and the mind of man. This conflict emerges in consciousness when the obligations of the world of Ideals meet with the tendencies and forces which determine the world of present actual existence. The feeling of the incongruity between the two worlds, in both of which man seems bound to live, to discharge his many functions and to fulfil his destiny, together with the consciousness of his powerlessness to realise these Ideals under the existing conditions of reality, occasions a painful state of longing and of spiritual — unrest. This condition becomes an incitement and a challenge to free the soul by an act of will and thus to establish the desired harmony. But the way for accomplishing this desirable result is that voluntary abandonment of the human self, which religion proposes, to 726 STUPA the Other and Divine Self.”—G T. Lapp, Phil. of Religivn, Vol. I. p. 340. See ATTRACTION, BATTLE, CONFLICT, ConquEeROR, Eppy, HIGHER AND LOWER WORLDS, HorsE (white), Limss, Lost (forest), LovE OF GoD, MENIS, Mrxture, Monap oF LIfe, PILLAR (temple), SEPARATENESS, SPENDYAD, ‘TANGAROA, VICTORY, War.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_732|page_732]], [[Supporting Material/Gaskell/Source Text/page_733|page_733]]
+

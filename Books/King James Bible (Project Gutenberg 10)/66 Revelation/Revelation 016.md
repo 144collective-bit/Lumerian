@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rev
+chapter_id: kjv-rev-16
+book_name: "Revelation"
+chapter: 16
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Revelation 16"
+  - "KJV Revelation 16"
+---
+
+# Revelation 16
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation|Revelation]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 015|Revelation 15]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 017|Revelation 17]]
+
+## Text
+
+###### Revelation 16:1
+
+And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
+
+^kjv-rev-16-1
+
+###### Revelation 16:2
+
+And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image.
+
+^kjv-rev-16-2
+
+###### Revelation 16:3
+
+And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
+
+^kjv-rev-16-3
+
+###### Revelation 16:4
+
+And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
+
+^kjv-rev-16-4
+
+###### Revelation 16:5
+
+And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.
+
+^kjv-rev-16-5
+
+###### Revelation 16:6
+
+For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
+
+^kjv-rev-16-6
+
+###### Revelation 16:7
+
+And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.
+
+^kjv-rev-16-7
+
+###### Revelation 16:8
+
+And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.
+
+^kjv-rev-16-8
+
+###### Revelation 16:9
+
+And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
+
+^kjv-rev-16-9
+
+###### Revelation 16:10
+
+And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
+
+^kjv-rev-16-10
+
+###### Revelation 16:11
+
+And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
+
+^kjv-rev-16-11
+
+###### Revelation 16:12
+
+And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
+
+^kjv-rev-16-12
+
+###### Revelation 16:13
+
+And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
+
+^kjv-rev-16-13
+
+###### Revelation 16:14
+
+For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
+
+^kjv-rev-16-14
+
+###### Revelation 16:15
+
+Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
+
+^kjv-rev-16-15
+
+###### Revelation 16:16
+
+And he gathered them together into a place called in the Hebrew tongue Armageddon.
+
+^kjv-rev-16-16
+
+###### Revelation 16:17
+
+And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
+
+^kjv-rev-16-17
+
+###### Revelation 16:18
+
+And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.
+
+^kjv-rev-16-18
+
+###### Revelation 16:19
+
+And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
+
+^kjv-rev-16-19
+
+###### Revelation 16:20
+
+And every island fled away, and the mountains were not found.
+
+^kjv-rev-16-20
+
+###### Revelation 16:21
+
+And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
+
+^kjv-rev-16-21

@@ -1,0 +1,186 @@
+---
+type: bible-book
+source_id: pg-kjv-10
+book_id: kjv-psa
+book_number: 19
+book_name: "Psalms"
+full_title: "The Book of Psalms"
+testament: "Old Testament"
+chapters: 150
+verses: 2461
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-book
+  - testament/ot
+aliases:
+  - "Psalms"
+  - "The Book of Psalms"
+  - "KJV Psalms"
+---
+
+# Psalms
+
+**Full title (source):** The Book of Psalms  
+**Testament:** Old Testament  
+**Chapters:** 150 · **Verses (imported):** 2461
+
+## Navigation
+
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Prev book: [[Books/King James Bible (Project Gutenberg 10)/18 Job/Job|Job]]
+- Next book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+
+## Chapters
+
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 001|Psalms 1]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 002|Psalms 2]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 003|Psalms 3]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 004|Psalms 4]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 005|Psalms 5]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 006|Psalms 6]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 007|Psalms 7]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 008|Psalms 8]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 009|Psalms 9]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 010|Psalms 10]] (18 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 011|Psalms 11]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 012|Psalms 12]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 013|Psalms 13]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 014|Psalms 14]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 015|Psalms 15]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 016|Psalms 16]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 017|Psalms 17]] (15 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 018|Psalms 18]] (50 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 019|Psalms 19]] (14 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 020|Psalms 20]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 021|Psalms 21]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 022|Psalms 22]] (31 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 023|Psalms 23]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 024|Psalms 24]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 025|Psalms 25]] (22 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 026|Psalms 26]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 027|Psalms 27]] (14 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 028|Psalms 28]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 029|Psalms 29]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 030|Psalms 30]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 031|Psalms 31]] (24 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 032|Psalms 32]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 033|Psalms 33]] (22 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 034|Psalms 34]] (22 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 035|Psalms 35]] (28 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 036|Psalms 36]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 037|Psalms 37]] (40 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 038|Psalms 38]] (22 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 039|Psalms 39]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 040|Psalms 40]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 041|Psalms 41]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 042|Psalms 42]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 043|Psalms 43]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 044|Psalms 44]] (26 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 045|Psalms 45]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 046|Psalms 46]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 047|Psalms 47]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 048|Psalms 48]] (14 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 049|Psalms 49]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 050|Psalms 50]] (23 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 051|Psalms 51]] (19 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 052|Psalms 52]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 053|Psalms 53]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 054|Psalms 54]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 055|Psalms 55]] (23 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 056|Psalms 56]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 057|Psalms 57]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 058|Psalms 58]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 059|Psalms 59]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 060|Psalms 60]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 061|Psalms 61]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 062|Psalms 62]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 063|Psalms 63]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 064|Psalms 64]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 065|Psalms 65]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 066|Psalms 66]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 067|Psalms 67]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 068|Psalms 68]] (35 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 069|Psalms 69]] (36 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 070|Psalms 70]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 071|Psalms 71]] (24 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 072|Psalms 72]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 073|Psalms 73]] (28 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 074|Psalms 74]] (23 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 075|Psalms 75]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 076|Psalms 76]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 077|Psalms 77]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 078|Psalms 78]] (72 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 079|Psalms 79]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 080|Psalms 80]] (19 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 081|Psalms 81]] (16 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 082|Psalms 82]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 083|Psalms 83]] (18 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 084|Psalms 84]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 085|Psalms 85]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 086|Psalms 86]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 087|Psalms 87]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 088|Psalms 88]] (18 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 089|Psalms 89]] (52 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 090|Psalms 90]] (17 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 091|Psalms 91]] (16 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 092|Psalms 92]] (15 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 093|Psalms 93]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 094|Psalms 94]] (23 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 095|Psalms 95]] (11 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 096|Psalms 96]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 097|Psalms 97]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 098|Psalms 98]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 099|Psalms 99]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 100|Psalms 100]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 101|Psalms 101]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 102|Psalms 102]] (28 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 103|Psalms 103]] (22 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 104|Psalms 104]] (35 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 105|Psalms 105]] (45 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 106|Psalms 106]] (48 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 107|Psalms 107]] (43 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 108|Psalms 108]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 109|Psalms 109]] (31 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 110|Psalms 110]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 111|Psalms 111]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 112|Psalms 112]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 113|Psalms 113]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 114|Psalms 114]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 115|Psalms 115]] (18 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 116|Psalms 116]] (19 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 117|Psalms 117]] (2 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 118|Psalms 118]] (29 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 119|Psalms 119]] (176 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 120|Psalms 120]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 121|Psalms 121]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 122|Psalms 122]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 123|Psalms 123]] (4 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 124|Psalms 124]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 125|Psalms 125]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 126|Psalms 126]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 127|Psalms 127]] (5 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 128|Psalms 128]] (6 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 129|Psalms 129]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 130|Psalms 130]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 131|Psalms 131]] (3 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 132|Psalms 132]] (18 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 133|Psalms 133]] (3 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 134|Psalms 134]] (3 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 135|Psalms 135]] (21 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 136|Psalms 136]] (26 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 137|Psalms 137]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 138|Psalms 138]] (8 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 139|Psalms 139]] (24 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 140|Psalms 140]] (13 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 141|Psalms 141]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 142|Psalms 142]] (7 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 143|Psalms 143]] (12 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 144|Psalms 144]] (15 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 145|Psalms 145]] (21 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 146|Psalms 146]] (10 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 147|Psalms 147]] (20 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 148|Psalms 148]] (14 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 149|Psalms 149]] (9 verses)
+- [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 150|Psalms 150]] (6 verses)

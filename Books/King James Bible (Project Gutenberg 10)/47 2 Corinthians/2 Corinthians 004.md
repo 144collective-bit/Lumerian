@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-2co
+chapter_id: kjv-2co-4
+book_name: "2 Corinthians"
+chapter: 4
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "2 Corinthians 4"
+  - "KJV 2 Corinthians 4"
+---
+
+# 2 Corinthians 4
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians|2 Corinthians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians 003|2 Corinthians 3]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians 005|2 Corinthians 5]]
+
+## Text
+
+###### 2 Corinthians 4:1
+
+Therefore seeing we have this ministry, as we have received mercy, we faint not;
+
+^kjv-2co-4-1
+
+###### 2 Corinthians 4:2
+
+But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
+
+^kjv-2co-4-2
+
+###### 2 Corinthians 4:3
+
+But if our gospel be hid, it is hid to them that are lost:
+
+^kjv-2co-4-3
+
+###### 2 Corinthians 4:4
+
+In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
+
+^kjv-2co-4-4
+
+###### 2 Corinthians 4:5
+
+For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus’ sake.
+
+^kjv-2co-4-5
+
+###### 2 Corinthians 4:6
+
+For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+
+^kjv-2co-4-6
+
+###### 2 Corinthians 4:7
+
+But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.
+
+^kjv-2co-4-7
+
+###### 2 Corinthians 4:8
+
+We are troubled on every side, yet not distressed; we are perplexed, but not in despair;
+
+^kjv-2co-4-8
+
+###### 2 Corinthians 4:9
+
+Persecuted, but not forsaken; cast down, but not destroyed;
+
+^kjv-2co-4-9
+
+###### 2 Corinthians 4:10
+
+Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+
+^kjv-2co-4-10
+
+###### 2 Corinthians 4:11
+
+For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
+
+^kjv-2co-4-11
+
+###### 2 Corinthians 4:12
+
+So then death worketh in us, but life in you.
+
+^kjv-2co-4-12
+
+###### 2 Corinthians 4:13
+
+We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;
+
+^kjv-2co-4-13
+
+###### 2 Corinthians 4:14
+
+Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
+
+^kjv-2co-4-14
+
+###### 2 Corinthians 4:15
+
+For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.
+
+^kjv-2co-4-15
+
+###### 2 Corinthians 4:16
+
+For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.
+
+^kjv-2co-4-16
+
+###### 2 Corinthians 4:17
+
+For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;
+
+^kjv-2co-4-17
+
+###### 2 Corinthians 4:18
+
+While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
+
+^kjv-2co-4-18

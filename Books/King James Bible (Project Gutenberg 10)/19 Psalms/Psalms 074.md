@@ -1,0 +1,166 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-74
+book_name: "Psalms"
+chapter: 74
+verses: 23
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 74"
+  - "KJV Psalms 74"
+---
+
+# Psalms 74
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 073|Psalms 73]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 075|Psalms 75]]
+
+## Text
+
+###### Psalms 74:1
+
+O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?
+
+^kjv-psa-74-1
+
+###### Psalms 74:2
+
+Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt.
+
+^kjv-psa-74-2
+
+###### Psalms 74:3
+
+Lift up thy feet unto the perpetual desolations; even all that the enemy hath done wickedly in the sanctuary.
+
+^kjv-psa-74-3
+
+###### Psalms 74:4
+
+Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.
+
+^kjv-psa-74-4
+
+###### Psalms 74:5
+
+A man was famous according as he had lifted up axes upon the thick trees.
+
+^kjv-psa-74-5
+
+###### Psalms 74:6
+
+But now they break down the carved work thereof at once with axes and hammers.
+
+^kjv-psa-74-6
+
+###### Psalms 74:7
+
+They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground.
+
+^kjv-psa-74-7
+
+###### Psalms 74:8
+
+They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.
+
+^kjv-psa-74-8
+
+###### Psalms 74:9
+
+We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long.
+
+^kjv-psa-74-9
+
+###### Psalms 74:10
+
+O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?
+
+^kjv-psa-74-10
+
+###### Psalms 74:11
+
+Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.
+
+^kjv-psa-74-11
+
+###### Psalms 74:12
+
+For God is my King of old, working salvation in the midst of the earth.
+
+^kjv-psa-74-12
+
+###### Psalms 74:13
+
+Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.
+
+^kjv-psa-74-13
+
+###### Psalms 74:14
+
+Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
+
+^kjv-psa-74-14
+
+###### Psalms 74:15
+
+Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
+
+^kjv-psa-74-15
+
+###### Psalms 74:16
+
+The day is thine, the night also is thine: thou hast prepared the light and the sun.
+
+^kjv-psa-74-16
+
+###### Psalms 74:17
+
+Thou hast set all the borders of the earth: thou hast made summer and winter.
+
+^kjv-psa-74-17
+
+###### Psalms 74:18
+
+Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed thy name.
+
+^kjv-psa-74-18
+
+###### Psalms 74:19
+
+O deliver not the soul of thy turtledove unto the multitude of the wicked: forget not the congregation of thy poor for ever.
+
+^kjv-psa-74-19
+
+###### Psalms 74:20
+
+Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.
+
+^kjv-psa-74-20
+
+###### Psalms 74:21
+
+O let not the oppressed return ashamed: let the poor and needy praise thy name.
+
+^kjv-psa-74-21
+
+###### Psalms 74:22
+
+Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.
+
+^kjv-psa-74-22
+
+###### Psalms 74:23
+
+Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.
+
+^kjv-psa-74-23

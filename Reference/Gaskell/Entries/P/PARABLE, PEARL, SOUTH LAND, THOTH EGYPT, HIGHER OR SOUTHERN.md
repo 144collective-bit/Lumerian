@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-parable-pearl-south-land-thoth-egypt-higher-or-southern
+headword: "PARABLE, PEARL, SOUTH LAND, THOTH EGYPT, HIGHER OR SOUTHERN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# PARABLE, PEARL, SOUTH LAND, THOTH EGYPT, HIGHER OR SOUTHERN
+
+- **Entry ID:** `gaskell-1960-entry-parable-pearl-south-land-thoth-egypt-higher-or-southern`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_251`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_251|page_251]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`PARABLE, PEARL, SOUTH LAND, THOTH EGYPT, HIGHER OR SOUTHERN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the higher mental plane, or of the buddhi-manas level of the consciousness.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Ament` | **candidate (first-segment only)** → possible `AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT` (not linked) |
+| `Cuest` | **unresolved** (review queue) |
+| `Isis` | **unresolved** (review queue) |
+| `Norte LAND` | **unresolved** (review queue) |
+| `Nusia` | **unresolved** (review queue) |
+| `SoutH` | **unresolved** (review queue) |
+| `SouTH LAND` | **candidate (first-segment only)** → possible `SOUTH LAND, AND NORTH LAND OF EGYPT` (not linked) |
+| `THOTH` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-parable-pearl-south-land-thoth-egypt-higher-or-southern-ocr-body`
+
+```text
+A symbol of the higher mental plane, or of the buddhi-manas level of the consciousness. *““The half-mythical country in the south was known to the Egyptians as ‘the land of the Gods.’ ’’—Saycr, Gifford Lectures, p. 134. ‘*And Cronus (Ammon), going to the EGYPT land of the South, gave the whole of Egypt to the God Taaut (Thoth) to be his kingdom.”—SaNncHUNIATHON, Cory’s Fragments. ‘‘But the elder of the two children Isis took with her and set sail with the chest to Egypt; and it being now about morning, the rivor Phedrus sending forth a sharp air, she in her anger dried up its eee Isis and Osirie, But the mental faculty was raised by buddhi (Isis) so that the consciousness was elevated to the plane of the higher intellect, it being now the dawn of Truth, or perception of ' Reality. Then the lower mind, which 244 was filled with cut-and-dried opinions and wind of doctrine, was superseded. ‘‘But there were others who said that the struggle between Horus and Set went on with alternating success, until at last Thoth was appointed arbiter and divided Egypt between the two foes. Southern Egypt was given to Horus, Northern Egypt to Set.” PLUTARCH, Ists and Osiris, § 19. But those minds of narrow vision who saw not the Life entering into glory, and who perceived only the shattering of form after form, as they watched from below the struggle between good and evil, said that union of the soul with God was not fully accomplished until the mind (Thoth) was appointed arbiter and reserved for the Spirit and the emotionnature each its appointed sphere, which arrangement at length on the higher planes appears inverted, as Spirit operates seemingly on the lower planes. Spirit (Horus) manifests on the astral plane under the aspect of love through which the soul’s evolution is proceeded with. Egypt signifies kama-manas. Southern Egypt (for Horus) is the more manasic and solar: Northern Egypt (for Set) is the more kamic and lunar. See Ament, Cuest, Isis, Norte LAND, Nusia, SoutH, SouTH LAND, THOTH.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_251|page_251]]
+

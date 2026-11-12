@@ -1,0 +1,46 @@
+                                        THE SECRET TEACHINGS OF ALL AGES
+of Trithemius and Selenus, the author sets forth a method whereby musicians can
+converse with each other by substituting musical notes for the letters of the alpha-
+bet. Two persons understanding the code could converse with each other by merely
+playing certain notes upon a piano or other instrument. Musical cryptograms can be
+involved to an inconceivable point; by certain systems it is possible to take an already
+existing musical theme and conceal in it a cryptogram without actually changing the
+composition in any way. The pennants upon the notes may conceal the cipher, or the
+actual sounds of the notes may be exchanged for syllables of similar sound. This latter
+method is effective but its scope is somewhat limited. Several musical compositions
+by Sir Francis Bacon are still in existence. An examination of them might reveal mu-
+sical cryptograms, for it is quite certain that Lord Bacon was well acquainted with the
+manner of their construction.
+    6. The arbitrary cipher. The system of exchanging letters of the alphabet for hiero-
+glyphic figures is too easily decoded to be popular. Albert: Pike describes an arbitrary
+cipher based upon the various parts of the Knights Templars’ cross, each angle represent-
+ing a letter. The many curious alphabets that have been devised are rendered worthless,
+however, by the table of recurrence. According to Edgar Allan Poe, a great cryptogram-
+matist, the most common letter of the English language is E, the other letters in their order
+of frequency are as follows: A, O, I, D, H, N, R, S, T, V, Y, C, F, Q L, M, W, B, K, P, Q, X, Z.
+Other authorities declare the table of frequency to be: E, T, A, O, N, I, R, S, H, D, L, C, W,
+U, M, F, Y, G, P, B, V, K, X, Q, J, Z. By merely counting the number of times each character
+appears in the message, the law of recurrence discloses the English letter for which the
+arbitrary character stands. Further help is also rendered by the fact that if the cryptogram
+be split up into words there are only three single letters which may form words: A, I, O.
+Thus any single character set off from the rest of the text must be one of these three letters.
+For details of this System see The Gold Bug, by Edgar Allan Poe.
+    To render more difficult the decoding of arbitrary ciphers, however, the characters are
+seldom broken up into words, and, further, the table of recurrence is partly nullified by
+assigning two or more different characters to each letter, thereby making it impossible
+to estimate accurately the frequency of recurrence. Therefore, the greater the number of
+arbitrary characters used to represent any single letter of the alphabet, the more difficult it
+is to decipher an arbitrary cryptogram. The secret alphabets of the ancients are compara-
+tively easy to decode, the only requisites being a table of frequency, a knowledge of the
+language in which the cryptogram was originally written, a moderate amount of patience,
+and a little ingenuity.
+    7. The code cipher. The most modem form of cryptogram is the code system. Its most
+familiar form is the Morse code for use in telegraphic and wireless communication. This
+form of cipher may be complicated somewhat by embodying dots and dashes into a docu-
+ment in which periods and colons are dots, while commas and semicolons are dashes.
+There are also codes used by the business world which can be solved only by the use of a
+private code book. Because they furnish an economical and efficient method of transmit-
+ting confidential information, the use of such codes is far more prevalent than the average
+person has any suspicion.
+
+                                                                                          573

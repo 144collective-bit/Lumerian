@@ -1,0 +1,202 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-118
+book_name: "Psalms"
+chapter: 118
+verses: 29
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 118"
+  - "KJV Psalms 118"
+---
+
+# Psalms 118
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 117|Psalms 117]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 119|Psalms 119]]
+
+## Text
+
+###### Psalms 118:1
+
+O give thanks unto the LORD; for he is good: because his mercy endureth for ever.
+
+^kjv-psa-118-1
+
+###### Psalms 118:2
+
+Let Israel now say, that his mercy endureth for ever.
+
+^kjv-psa-118-2
+
+###### Psalms 118:3
+
+Let the house of Aaron now say, that his mercy endureth for ever.
+
+^kjv-psa-118-3
+
+###### Psalms 118:4
+
+Let them now that fear the LORD say, that his mercy endureth for ever.
+
+^kjv-psa-118-4
+
+###### Psalms 118:5
+
+I called upon the LORD in distress: the LORD answered me, and set me in a large place.
+
+^kjv-psa-118-5
+
+###### Psalms 118:6
+
+The LORD is on my side; I will not fear: what can man do unto me?
+
+^kjv-psa-118-6
+
+###### Psalms 118:7
+
+The LORD taketh my part with them that help me: therefore shall I see my desire upon them that hate me.
+
+^kjv-psa-118-7
+
+###### Psalms 118:8
+
+It is better to trust in the LORD than to put confidence in man.
+
+^kjv-psa-118-8
+
+###### Psalms 118:9
+
+It is better to trust in the LORD than to put confidence in princes.
+
+^kjv-psa-118-9
+
+###### Psalms 118:10
+
+All nations compassed me about: but in the name of the LORD will I destroy them.
+
+^kjv-psa-118-10
+
+###### Psalms 118:11
+
+They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.
+
+^kjv-psa-118-11
+
+###### Psalms 118:12
+
+They compassed me about like bees: they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.
+
+^kjv-psa-118-12
+
+###### Psalms 118:13
+
+Thou hast thrust sore at me that I might fall: but the LORD helped me.
+
+^kjv-psa-118-13
+
+###### Psalms 118:14
+
+The LORD is my strength and song, and is become my salvation.
+
+^kjv-psa-118-14
+
+###### Psalms 118:15
+
+The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.
+
+^kjv-psa-118-15
+
+###### Psalms 118:16
+
+The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.
+
+^kjv-psa-118-16
+
+###### Psalms 118:17
+
+I shall not die, but live, and declare the works of the LORD.
+
+^kjv-psa-118-17
+
+###### Psalms 118:18
+
+The LORD hath chastened me sore: but he hath not given me over unto death.
+
+^kjv-psa-118-18
+
+###### Psalms 118:19
+
+Open to me the gates of righteousness: I will go into them, and I will praise the LORD:
+
+^kjv-psa-118-19
+
+###### Psalms 118:20
+
+This gate of the LORD, into which the righteous shall enter.
+
+^kjv-psa-118-20
+
+###### Psalms 118:21
+
+I will praise thee: for thou hast heard me, and art become my salvation.
+
+^kjv-psa-118-21
+
+###### Psalms 118:22
+
+The stone which the builders refused is become the head stone of the corner.
+
+^kjv-psa-118-22
+
+###### Psalms 118:23
+
+This is the LORD’s doing; it is marvellous in our eyes.
+
+^kjv-psa-118-23
+
+###### Psalms 118:24
+
+This is the day which the LORD hath made; we will rejoice and be glad in it.
+
+^kjv-psa-118-24
+
+###### Psalms 118:25
+
+Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.
+
+^kjv-psa-118-25
+
+###### Psalms 118:26
+
+Blessed be he that cometh in the name of the LORD: we have blessed you out of the house of the LORD.
+
+^kjv-psa-118-26
+
+###### Psalms 118:27
+
+God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.
+
+^kjv-psa-118-27
+
+###### Psalms 118:28
+
+Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
+
+^kjv-psa-118-28
+
+###### Psalms 118:29
+
+O give thanks unto the LORD; for he is good: for his mercy endureth for ever.
+
+^kjv-psa-118-29

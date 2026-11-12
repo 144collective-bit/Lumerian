@@ -1,0 +1,64 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-staircase-stairs
+headword: "STAIRCASE, STAIRS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# STAIRCASE, STAIRS
+
+- **Entry ID:** `gaskell-1960-entry-staircase-stairs`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_726`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_726|page_726]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`STAIRCASE, STAIRS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the means of evolution from a-lower to a higher state.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Atma` | **unresolved** (review queue) |
+| `LADDER` | **candidate (first-segment only)** → possible `LADDER, JACOB'S` (not linked) |
+| `Mouth (speech)` | **candidate (ambiguous first-segment)** → MOUTH, FOR SPEECH; MOUTH, OPENING OF THE (not linked) |
+| `STEPs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-staircase-stairs-ocr-body`
+
+```text
+A symbol of the means of evolution from a-lower to a higher state. ** Osiris is called ‘the god on the top of the staircase.’ ’’—Bunce, Book of the Dead, p. liv. The Higher Self manifests on the plane of atma—the height of aspiration in the human soul. ‘The height of the Christian life is the glorious consciousness where all is light, and all is peace. A few have a genius for it and reach it without much effort; it may be that they have had their struggles in some previous existence—I know not. For most the only way to it is by the narrow stair of arduous duty, a stair that often winds through dark places, where discouragement and fear and despair are apt to come upon the soul. At such times, keep an open ear for the voices that say: ‘It is lighter up above.’ As the realisations of God grow fuller, and all the selfish instincts die down, and the desires for personal aggrandisement are overcome, you shall gradually cease from your labour, though living to do greater and better work, and the word of Christ shall come to rule in your heart, and you shall find your life in that ‘ Immortal Love, within whose righteous will is always peace.’ ’’—T. RHONDDA WILLIAMS, Serm., Dying in the Lord. See Atma, LADDER, Mouth (speech), STEPs.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_726|page_726]]
+

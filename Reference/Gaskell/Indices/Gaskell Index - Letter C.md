@@ -1,0 +1,236 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: C
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter C
+
+Entries whose normalized head begins with **C** (216).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/C/CABIN OF AFU-RA|CABIN OF AFU-RA]] — `gaskell-1960-entry-cabin-of-afu-ra` — EPUB p.142
+- [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] — `gaskell-1960-entry-cadmus-son-of-agenor` — EPUB p.142
+- [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] — `gaskell-1960-entry-caiaphas-the-high-priest` — EPUB p.142,143
+- [[Reference/Gaskell/Entries/C/CAIN|CAIN]] — `gaskell-1960-entry-cain` — EPUB p.143
+- [[Reference/Gaskell/Entries/C/CAKE, SACRIFICIAL|CAKE, SACRIFICIAL]] — `gaskell-1960-entry-cake-sacrificial` — EPUB p.143,144
+- [[Reference/Gaskell/Entries/C/CALAIS, SON OF BOREAS|CALAIS, SON OF BOREAS]] — `gaskell-1960-entry-calais-son-of-boreas` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CALF|CALF]] — `gaskell-1960-entry-calf` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CALF, THE FATTED, EATEN WITH JOY|CALF, THE FATTED, EATEN WITH JOY]] — `gaskell-1960-entry-calf-the-fatted-eaten-with-joy` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CALF, THE MOLTEN|CALF, THE MOLTEN]] — `gaskell-1960-entry-calf-the-molten` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CALL OF GOD|CALL OF GOD]] — `gaskell-1960-entry-call-of-god` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CALVES, THE MYRIAD|CALVES, THE MYRIAD]] — `gaskell-1960-entry-calves-the-myriad` — EPUB p.144
+- [[Reference/Gaskell/Entries/C/CANA MARRIAGE|CANA MARRIAGE]] — `gaskell-1960-entry-cana-marriage` — EPUB p.145
+- [[Reference/Gaskell/Entries/C/CANAAN, SON OF HAM|CANAAN, SON OF HAM]] — `gaskell-1960-entry-canaan-son-of-ham` — EPUB p.145
+- [[Reference/Gaskell/Entries/C/CANCER, THE ZODIACAL SIGN|CANCER, THE ZODIACAL SIGN]] — `gaskell-1960-entry-cancer-the-zodiacal-sign` — EPUB p.145
+- [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] — `gaskell-1960-entry-candlesticks` — EPUB p.145,146
+- [[Reference/Gaskell/Entries/C/CANOPY OVER EUCHARIST|CANOPY OVER EUCHARIST]] — `gaskell-1960-entry-canopy-over-eucharist` — EPUB p.146
+- [[Reference/Gaskell/Entries/C/CAPTIVE WOMAN|CAPTIVE WOMAN]] — `gaskell-1960-entry-captive-woman` — EPUB p.146
+- [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] — `gaskell-1960-entry-captivity-of-the-israelites` — EPUB p.146
+- [[Reference/Gaskell/Entries/C/CARAPACE CAPRICORN, THE ZODIACAL SIGN|CARAPACE CAPRICORN, THE ZODIACAL SIGN]] — `gaskell-1960-entry-carapace-capricorn-the-zodiacal-sign` — EPUB p.146
+- [[Reference/Gaskell/Entries/C/CARAPACE, THE COSMIC|CARAPACE, THE COSMIC]] — `gaskell-1960-entry-carapace-the-cosmic` — EPUB p.146,147
+- [[Reference/Gaskell/Entries/C/CARDINAL POINTS|CARDINAL POINTS]] — `gaskell-1960-entry-cardinal-points` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARNELIAN|CARNELIAN]] — `gaskell-1960-entry-carnelian` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARPENTER|CARPENTER]] — `gaskell-1960-entry-carpenter` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARRIAGE AND OXEN|CARRIAGE AND OXEN]] — `gaskell-1960-entry-carriage-and-oxen` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARRIAGES AND OXEN DECKED WITH RICH GARMENTS|CARRIAGES AND OXEN DECKED WITH RICH GARMENTS]] — `gaskell-1960-entry-carriages-and-oxen-decked-with-rich-garments` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARRIAGES OF GOLD|CARRIAGES OF GOLD]] — `gaskell-1960-entry-carriages-of-gold` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CARTS GAY WITH SILVER AND GOLD|CARTS GAY WITH SILVER AND GOLD]] — `gaskell-1960-entry-carts-gay-with-silver-and-gold` — EPUB p.147
+- [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] — `gaskell-1960-entry-castes-four-of-mankind-in-the-scriptures-of-india` — EPUB p.147,148
+- [[Reference/Gaskell/Entries/C/CASTOR POLLUX|CASTOR POLLUX]] — `gaskell-1960-entry-castor-pollux` — EPUB p.226,227
+- [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]] — `gaskell-1960-entry-cattle-cows-or-kine` — EPUB p.148
+- [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]] — `gaskell-1960-entry-cattle-of-nomads` — EPUB p.148,149
+- [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] — `gaskell-1960-entry-cattle-or-oxen` — EPUB p.148
+- [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] — `gaskell-1960-entry-caucasus-mountains` — EPUB p.149
+- [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]] — `gaskell-1960-entry-causal-body-house-in-heaven-sacrifice-stone-stone-black-of-the-kaaba` — EPUB p.730
+- [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] — `gaskell-1960-entry-causal-body-sarira` — EPUB p.149
+- [[Reference/Gaskell/Entries/C/CAUSAL-SELF|CAUSAL-SELF]] — `gaskell-1960-entry-causal-self` — EPUB p.149,150
+- [[Reference/Gaskell/Entries/C/CAVE OF NANDA|CAVE OF NANDA]] — `gaskell-1960-entry-cave-of-nanda` — EPUB p.151
+- [[Reference/Gaskell/Entries/C/CAVE, OR CAVERN|CAVE, OR CAVERN]] — `gaskell-1960-entry-cave-or-cavern` — EPUB p.150,151
+- [[Reference/Gaskell/Entries/C/CAVE, THE OVER-ROOFED|CAVE, THE OVER-ROOFED]] — `gaskell-1960-entry-cave-the-over-roofed` — EPUB p.151
+- [[Reference/Gaskell/Entries/C/CEILING OF THE SKY|CEILING OF THE SKY]] — `gaskell-1960-entry-ceiling-of-the-sky` — EPUB p.151
+- [[Reference/Gaskell/Entries/C/CELESTIAL|CELESTIAL]] — `gaskell-1960-entry-celestial` — EPUB p.151
+- [[Reference/Gaskell/Entries/C/CELESTIAL STEMS|CELESTIAL STEMS]] — `gaskell-1960-entry-celestial-stems` — EPUB p.151
+- [[Reference/Gaskell/Entries/C/CEMENT|CEMENT]] — `gaskell-1960-entry-cement` — EPUB p.520
+- [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] — `gaskell-1960-entry-censers-of-burning-incense` — EPUB p.151,152
+- [[Reference/Gaskell/Entries/C/CENTAURS|CENTAURS]] — `gaskell-1960-entry-centaurs` — EPUB p.152
+- [[Reference/Gaskell/Entries/C/CENTURION|CENTURION]] — `gaskell-1960-entry-centurion` — EPUB p.152
+- [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] — `gaskell-1960-entry-ceremonies-and-obin-popular-rites-servances-religions` — EPUB p.638,639
+- [[Reference/Gaskell/Entries/C/CERESUDRA, THE FOURTH CASTE|CERESUDRA, THE FOURTH CASTE]] — `gaskell-1960-entry-ceresudra-the-fourth-caste` — EPUB p.734,735
+- [[Reference/Gaskell/Entries/C/CHAFF OF WHEAT|CHAFF OF WHEAT]] — `gaskell-1960-entry-chaff-of-wheat` — EPUB p.152
+- [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] — `gaskell-1960-entry-channels-or-passages` — EPUB p.152
+- [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] — `gaskell-1960-entry-chaos-or-the-deep` — EPUB p.152,153
+- [[Reference/Gaskell/Entries/C/CHAPTERS|CHAPTERS]] — `gaskell-1960-entry-chapters` — EPUB p.153
+- [[Reference/Gaskell/Entries/C/CHAPTERS OF MAGIC|CHAPTERS OF MAGIC]] — `gaskell-1960-entry-chapters-of-magic` — EPUB p.153
+- [[Reference/Gaskell/Entries/C/CHARIOT OF THE SUN, WITH FOUR HORSES|CHARIOT OF THE SUN, WITH FOUR HORSES]] — `gaskell-1960-entry-chariot-of-the-sun-with-four-horses` — EPUB p.154,155
+- [[Reference/Gaskell/Entries/C/CHARIOT, OR CAR|CHARIOT, OR CAR]] — `gaskell-1960-entry-chariot-or-car` — EPUB p.153,154
+- [[Reference/Gaskell/Entries/C/CHARON, SON OF EREBUS|CHARON, SON OF EREBUS]] — `gaskell-1960-entry-charon-son-of-erebus` — EPUB p.155
+- [[Reference/Gaskell/Entries/C/CHEEKS, FAIR, OF WOMEN|CHEEKS, FAIR, OF WOMEN]] — `gaskell-1960-entry-cheeks-fair-of-women` — EPUB p.155
+- [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] — `gaskell-1960-entry-chemmis-island-panopolis` — EPUB p.155
+- [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] — `gaskell-1960-entry-cherubim-cheeks-and-hair-of-demons` — EPUB p.155
+- [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] — `gaskell-1960-entry-chest-or-coffer-arca-of-osiris` — EPUB p.156
+- [[Reference/Gaskell/Entries/C/CHILDREN CHILDREN OF JERUSALEM|CHILDREN CHILDREN OF JERUSALEM]] — `gaskell-1960-entry-children-children-of-jerusalem` — EPUB p.159
+- [[Reference/Gaskell/Entries/C/CHILDREN OF GOD|CHILDREN OF GOD]] — `gaskell-1960-entry-children-of-god` — EPUB p.156,157
+- [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] — `gaskell-1960-entry-children-of-horus-four` — EPUB p.157,158
+- [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] — `gaskell-1960-entry-children-of-men` — EPUB p.158,159
+- [[Reference/Gaskell/Entries/C/CHILDREN OF THE EAST|CHILDREN OF THE EAST]] — `gaskell-1960-entry-children-of-the-east` — EPUB p.156
+- [[Reference/Gaskell/Entries/C/CHILDREN OF WOMEN|CHILDREN OF WOMEN]] — `gaskell-1960-entry-children-of-women` — EPUB p.157
+- [[Reference/Gaskell/Entries/C/CHIP OF THE SACRIFICIAL STAKE|CHIP OF THE SACRIFICIAL STAKE]] — `gaskell-1960-entry-chip-of-the-sacrificial-stake` — EPUB p.159
+- [[Reference/Gaskell/Entries/C/CHIRON, THE DIVINE CENTAUR, SON OF CRONUS|CHIRON, THE DIVINE CENTAUR, SON OF CRONUS]] — `gaskell-1960-entry-chiron-the-divine-centaur-son-of-cronus` — EPUB p.159,160
+- [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] — `gaskell-1960-entry-christ` — EPUB p.160,161
+- [[Reference/Gaskell/Entries/C/CHRIST MUST INCREASE, BUT JOHN MUST DECREASE|CHRIST MUST INCREASE, BUT JOHN MUST DECREASE]] — `gaskell-1960-entry-christ-must-increase-but-john-must-decrease` — EPUB p.161
+- [[Reference/Gaskell/Entries/C/CHRISTOS AND CHRESTOS|CHRISTOS AND CHRESTOS]] — `gaskell-1960-entry-christos-and-chrestos` — EPUB p.162
+- [[Reference/Gaskell/Entries/C/CHRIST-PRINCIPLE|CHRIST-PRINCIPLE]] — `gaskell-1960-entry-christ-principle` — EPUB p.162
+- [[Reference/Gaskell/Entries/C/CHRYSA AND DIVINE CILLA|CHRYSA AND DIVINE CILLA]] — `gaskell-1960-entry-chrysa-and-divine-cilla` — EPUB p.163
+- [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] — `gaskell-1960-entry-chryse-priest-of-apollo` — EPUB p.163
+- [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] — `gaskell-1960-entry-chryseis-his-daughter` — EPUB p.163
+- [[Reference/Gaskell/Entries/C/CHTHONIE (EARTH)|CHTHONIE (EARTH)]] — `gaskell-1960-entry-chthonie-earth` — EPUB p.163
+- [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]] — `gaskell-1960-entry-church-of-god` — EPUB p.163,164
+- [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] — `gaskell-1960-entry-church-of-quarters` — EPUB p.164
+- [[Reference/Gaskell/Entries/C/CHURCHES IN ASIA, SEVEN|CHURCHES IN ASIA, SEVEN]] — `gaskell-1960-entry-churches-in-asia-seven` — EPUB p.164
+- [[Reference/Gaskell/Entries/C/CHURINGA OF AUSTRALIAN TRIBES|CHURINGA OF AUSTRALIAN TRIBES]] — `gaskell-1960-entry-churinga-of-australian-tribes` — EPUB p.164
+- [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] — `gaskell-1960-entry-churning-of-the-ocean-of-milk-for-the-recovery-of-goddess-lakshmi-and-the-lost-t` — EPUB p.164,165
+- [[Reference/Gaskell/Entries/C/CIRCE, DAUGHTER OF HELIOS|CIRCE, DAUGHTER OF HELIOS]] — `gaskell-1960-entry-circe-daughter-of-helios` — EPUB p.165
+- [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] — `gaskell-1960-entry-circle` — EPUB p.165
+- [[Reference/Gaskell/Entries/C/CIRCLE AND SQUARE|CIRCLE AND SQUARE]] — `gaskell-1960-entry-circle-and-square` — EPUB p.166
+- [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] — `gaskell-1960-entry-circle-of-existence` — EPUB p.165,166
+- [[Reference/Gaskell/Entries/C/CIRCLE OF HAIR BETWEEN THE EYEBROWS OF BUDDHA|CIRCLE OF HAIR BETWEEN THE EYEBROWS OF BUDDHA]] — `gaskell-1960-entry-circle-of-hair-between-the-eyebrows-of-buddha` — EPUB p.166
+- [[Reference/Gaskell/Entries/C/CIRCULAR BOX OR DRUM|CIRCULAR BOX OR DRUM]] — `gaskell-1960-entry-circular-box-or-drum` — EPUB p.166
+- [[Reference/Gaskell/Entries/C/CIRCUMCISION|CIRCUMCISION]] — `gaskell-1960-entry-circumcision` — EPUB p.166,167
+- [[Reference/Gaskell/Entries/C/CIRCUMCISION, EUPHRATES, RIVER OUT OF EDEN|CIRCUMCISION, EUPHRATES, RIVER OUT OF EDEN]] — `gaskell-1960-entry-circumcision-euphrates-river-out-of-eden` — EPUB p.261
+- [[Reference/Gaskell/Entries/C/CITY CITY OR TOWN|CITY CITY OR TOWN]] — `gaskell-1960-entry-city-city-or-town` — EPUB p.167
+- [[Reference/Gaskell/Entries/C/CITY, HOLY|CITY, HOLY]] — `gaskell-1960-entry-city-holy` — EPUB p.167
+- [[Reference/Gaskell/Entries/C/CITY OF GOD|CITY OF GOD]] — `gaskell-1960-entry-city-of-god` — EPUB p.167
+- [[Reference/Gaskell/Entries/C/CITY OF PEACE|CITY OF PEACE]] — `gaskell-1960-entry-city-of-peace` — EPUB p.167
+- [[Reference/Gaskell/Entries/C/CITY SACRED|CITY SACRED]] — `gaskell-1960-entry-city-sacred` — EPUB p.167
+- [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] — `gaskell-1960-entry-civilising-the-people` — EPUB p.167,168
+- [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]] — `gaskell-1960-entry-classes-four-of-mankind-in-the-scriptures-of-egypt` — EPUB p.168,169
+- [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] — `gaskell-1960-entry-classes-four-of-mankind-in-the-scriptures-of-zoroaster` — EPUB p.169,170
+- [[Reference/Gaskell/Entries/C/CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE|CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE]] — `gaskell-1960-entry-cleopatra-daughter-of-boreas-and-wife-of-phineus-the-blind-prince` — EPUB p.170
+- [[Reference/Gaskell/Entries/C/CLIMBING A MOUNTAIN, EMINENCE, LADDER, OR STEPS|CLIMBING A MOUNTAIN, EMINENCE, LADDER, OR STEPS]] — `gaskell-1960-entry-climbing-a-mountain-eminence-ladder-or-steps` — EPUB p.170
+- [[Reference/Gaskell/Entries/C/CLOAK|CLOAK]] — `gaskell-1960-entry-cloak` — EPUB p.170
+- [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] — `gaskell-1960-entry-clothing` — EPUB p.170,171
+- [[Reference/Gaskell/Entries/C/CLOTHING, GARMENTS, COCOA-NUTS, OR TREES|CLOTHING, GARMENTS, COCOA-NUTS, OR TREES]] — `gaskell-1960-entry-clothing-garments-cocoa-nuts-or-trees` — EPUB p.172
+- [[Reference/Gaskell/Entries/C/CLOUDS, A LINE OF|CLOUDS, A LINE OF]] — `gaskell-1960-entry-clouds-a-line-of` — EPUB p.171
+- [[Reference/Gaskell/Entries/C/CLOUDS CLOUD, WHITE|CLOUDS CLOUD, WHITE]] — `gaskell-1960-entry-clouds-cloud-white` — EPUB p.171
+- [[Reference/Gaskell/Entries/C/CLOUDS, DARK AND COLD|CLOUDS, DARK AND COLD]] — `gaskell-1960-entry-clouds-dark-and-cold` — EPUB p.171
+- [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] — `gaskell-1960-entry-clouds-of-heaven-as-mist` — EPUB p.171,172
+- [[Reference/Gaskell/Entries/C/CLOUDS WHICH DROP RAIN|CLOUDS WHICH DROP RAIN]] — `gaskell-1960-entry-clouds-which-drop-rain` — EPUB p.171
+- [[Reference/Gaskell/Entries/C/CLUB AS A WEAPON|CLUB AS A WEAPON]] — `gaskell-1960-entry-club-as-a-weapon` — EPUB p.172
+- [[Reference/Gaskell/Entries/C/COAST|COAST]] — `gaskell-1960-entry-coast` — EPUB p.436
+- [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] — `gaskell-1960-entry-coat-and-cloak` — EPUB p.172
+- [[Reference/Gaskell/Entries/C/COLCHIS AND THE COLCHIANS|COLCHIS AND THE COLCHIANS]] — `gaskell-1960-entry-colchis-and-the-colchians` — EPUB p.172
+- [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] — `gaskell-1960-entry-cold-and-heat` — EPUB p.172
+- [[Reference/Gaskell/Entries/C/COLOUR, AND BLACK AND WHITE|COLOUR, AND BLACK AND WHITE]] — `gaskell-1960-entry-colour-and-black-and-white` — EPUB p.172,173
+- [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] — `gaskell-1960-entry-colours` — EPUB p.173,174
+- [[Reference/Gaskell/Entries/C/COMETS|COMETS]] — `gaskell-1960-entry-comets` — EPUB p.174
+- [[Reference/Gaskell/Entries/C/COMING FORTH BY DAY|COMING FORTH BY DAY]] — `gaskell-1960-entry-coming-forth-by-day` — EPUB p.174
+- [[Reference/Gaskell/Entries/C/COMPARTMENTS OR DIVISIONS OF THE TUAT|COMPARTMENTS OR DIVISIONS OF THE TUAT]] — `gaskell-1960-entry-compartments-or-divisions-of-the-tuat` — EPUB p.174,175
+- [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]] — `gaskell-1960-entry-conception-concentration-effort` — EPUB p.175
+- [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]] — `gaskell-1960-entry-conception-of-children` — EPUB p.175
+- [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] — `gaskell-1960-entry-conception-of-the-divine-germ` — EPUB p.175
+- [[Reference/Gaskell/Entries/C/CONCH, OR SHELL-TRUMPET|CONCH, OR SHELL-TRUMPET]] — `gaskell-1960-entry-conch-or-shell-trumpet` — EPUB p.175
+- [[Reference/Gaskell/Entries/C/CONDITIONED FINITE|CONDITIONED FINITE]] — `gaskell-1960-entry-conditioned-finite` — EPUB p.175,176
+- [[Reference/Gaskell/Entries/C/CONE, CUPOLA, OR SPIRE|CONE, CUPOLA, OR SPIRE]] — `gaskell-1960-entry-cone-cupola-or-spire` — EPUB p.176
+- [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] — `gaskell-1960-entry-conflagration-general` — EPUB p.176
+- [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] — `gaskell-1960-entry-conflict-and-victory` — EPUB p.176
+- [[Reference/Gaskell/Entries/C/CONFUCIUS|CONFUCIUS]] — `gaskell-1960-entry-confucius` — EPUB p.176,177
+- [[Reference/Gaskell/Entries/C/CONFUSION BABEL|CONFUSION BABEL]] — `gaskell-1960-entry-confusion-babel` — EPUB p.177
+- [[Reference/Gaskell/Entries/C/CONGREGATION OF PEOPLE|CONGREGATION OF PEOPLE]] — `gaskell-1960-entry-congregation-of-people` — EPUB p.177
+- [[Reference/Gaskell/Entries/C/CONJUNCTION, SECOND FORTUNATE|CONJUNCTION, SECOND FORTUNATE]] — `gaskell-1960-entry-conjunction-second-fortunate` — EPUB p.177
+- [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] — `gaskell-1960-entry-conqueror` — EPUB p.177
+- [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] — `gaskell-1960-entry-conscience` — EPUB p.177,178
+- [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] — `gaskell-1960-entry-consciousness` — EPUB p.178,179
+- [[Reference/Gaskell/Entries/C/CONSCIOUSNESS, VINNANA|CONSCIOUSNESS, VINNANA]] — `gaskell-1960-entry-consciousness-vinnana` — EPUB p.179
+- [[Reference/Gaskell/Entries/C/CONSTELLATION OF THE SEVEN RISHIS|CONSTELLATION OF THE SEVEN RISHIS]] — `gaskell-1960-entry-constellation-of-the-seven-rishis` — EPUB p.179,180
+- [[Reference/Gaskell/Entries/C/CONSTELLATION PUSHYA|CONSTELLATION PUSHYA]] — `gaskell-1960-entry-constellation-pushya` — EPUB p.179
+- [[Reference/Gaskell/Entries/C/CONSULTING AN ORACLE|CONSULTING AN ORACLE]] — `gaskell-1960-entry-consulting-an-oracle` — EPUB p.180
+- [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] — `gaskell-1960-entry-consummation` — EPUB p.180
+- [[Reference/Gaskell/Entries/C/CONTRACTION AND SION|CONTRACTION AND SION]] — `gaskell-1960-entry-contraction-and-sion` — EPUB p.180
+- [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] — `gaskell-1960-entry-conversion` — EPUB p.180
+- [[Reference/Gaskell/Entries/C/CONVICTION OF SIN|CONVICTION OF SIN]] — `gaskell-1960-entry-conviction-of-sin` — EPUB p.180,181
+- [[Reference/Gaskell/Entries/C/CORCYRA, THE ISLAND OF THE PHAACIANS|CORCYRA, THE ISLAND OF THE PHAACIANS]] — `gaskell-1960-entry-corcyra-the-island-of-the-phaacians` — EPUB p.181
+- [[Reference/Gaskell/Entries/C/CORD DESTROYED IN PLACE OF SERPENT|CORD DESTROYED IN PLACE OF SERPENT]] — `gaskell-1960-entry-cord-destroyed-in-place-of-serpent` — EPUB p.181
+- [[Reference/Gaskell/Entries/C/CORN COOL WITH CONTEMPLATION|CORN COOL WITH CONTEMPLATION]] — `gaskell-1960-entry-corn-cool-with-contemplation` — EPUB p.181
+- [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] — `gaskell-1960-entry-corn-or-wheat` — EPUB p.181
+- [[Reference/Gaskell/Entries/C/CORNER STONE|CORNER STONE]] — `gaskell-1960-entry-corner-stone` — EPUB p.181
+- [[Reference/Gaskell/Entries/C/CORPSE DEVOURED BY BIRDS|CORPSE DEVOURED BY BIRDS]] — `gaskell-1960-entry-corpse-devoured-by-birds` — EPUB p.182
+- [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] — `gaskell-1960-entry-corpse-or-dead-human` — EPUB p.181,182
+- [[Reference/Gaskell/Entries/C/CORPSE-CARRYING|CORPSE-CARRYING]] — `gaskell-1960-entry-corpse-carrying` — EPUB p.182
+- [[Reference/Gaskell/Entries/C/CORPSES OF DOGS AND MEN|CORPSES OF DOGS AND MEN]] — `gaskell-1960-entry-corpses-of-dogs-and-men` — EPUB p.182
+- [[Reference/Gaskell/Entries/C/CORRUPTION AND VIOLENCE ON THE EARTH|CORRUPTION AND VIOLENCE ON THE EARTH]] — `gaskell-1960-entry-corruption-and-violence-on-the-earth` — EPUB p.182,183
+- [[Reference/Gaskell/Entries/C/COSMOS (HIGHER ASPECT)|COSMOS (HIGHER ASPECT)]] — `gaskell-1960-entry-cosmos-higher-aspect` — EPUB p.183,184
+- [[Reference/Gaskell/Entries/C/COTTUS COTTAGE, WELL-FASTENED|COTTUS COTTAGE, WELL-FASTENED]] — `gaskell-1960-entry-cottus-cottage-well-fastened` — EPUB p.184
+- [[Reference/Gaskell/Entries/C/COTTUS, HUNDRED-HANDED|COTTUS, HUNDRED-HANDED]] — `gaskell-1960-entry-cottus-hundred-handed` — EPUB p.184
+- [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]] — `gaskell-1960-entry-countenance-greater-and-lesser` — EPUB p.184,185
+- [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] — `gaskell-1960-entry-countenance-or-face` — EPUB p.184
+- [[Reference/Gaskell/Entries/C/COUNTERFEIT OF THE SPIRIT|COUNTERFEIT OF THE SPIRIT]] — `gaskell-1960-entry-counterfeit-of-the-spirit` — EPUB p.185
+- [[Reference/Gaskell/Entries/C/COUNTRIES OF SACRED SCRIPTURES|COUNTRIES OF SACRED SCRIPTURES]] — `gaskell-1960-entry-countries-of-sacred-scriptures` — EPUB p.185
+- [[Reference/Gaskell/Entries/C/COURSE, OR HORSE-RIDING GROUND|COURSE, OR HORSE-RIDING GROUND]] — `gaskell-1960-entry-course-or-horse-riding-ground` — EPUB p.185,186
+- [[Reference/Gaskell/Entries/C/COVENANT COURTEZAN, WOMAN|COVENANT COURTEZAN, WOMAN]] — `gaskell-1960-entry-covenant-courtezan-woman` — EPUB p.186
+- [[Reference/Gaskell/Entries/C/COVENANT OF LAW, AND COVENANT OF GRACE|COVENANT OF LAW, AND COVENANT OF GRACE]] — `gaskell-1960-entry-covenant-of-law-and-covenant-of-grace` — EPUB p.231
+- [[Reference/Gaskell/Entries/C/COW|COW]] — `gaskell-1960-entry-cow` — EPUB p.186,187
+- [[Reference/Gaskell/Entries/C/COW, BLACK|COW, BLACK]] — `gaskell-1960-entry-cow-black` — EPUB p.187
+- [[Reference/Gaskell/Entries/C/COW, GODDESS MEH-URT|COW, GODDESS MEH-URT]] — `gaskell-1960-entry-cow-goddess-meh-urt` — EPUB p.187
+- [[Reference/Gaskell/Entries/C/COW, MILCH|COW, MILCH]] — `gaskell-1960-entry-cow-milch` — EPUB p.187,188
+- [[Reference/Gaskell/Entries/C/COW, SPOTTED, IS THE EARTH|COW, SPOTTED, IS THE EARTH]] — `gaskell-1960-entry-cow-spotted-is-the-earth` — EPUB p.188,189
+- [[Reference/Gaskell/Entries/C/COW-PASSIVE|COW-PASSIVE]] — `gaskell-1960-entry-cow-passive` — EPUB p.187
+- [[Reference/Gaskell/Entries/C/COW'S MILE|COW'S MILE]] — `gaskell-1960-entry-cow-s-mile` — EPUB p.189
+- [[Reference/Gaskell/Entries/C/COW'S MILK POURED OUT TOWARDS THE NORTH|COW'S MILK POURED OUT TOWARDS THE NORTH]] — `gaskell-1960-entry-cow-s-milk-poured-out-towards-the-north` — EPUB p.189
+- [[Reference/Gaskell/Entries/C/COWS OF APOLLO|COWS OF APOLLO]] — `gaskell-1960-entry-cows-of-apollo` — EPUB p.189
+- [[Reference/Gaskell/Entries/C/CRANBERRY (MARJA)|CRANBERRY (MARJA)]] — `gaskell-1960-entry-cranberry-marja` — EPUB p.189
+- [[Reference/Gaskell/Entries/C/CRANIUM, OR MACROCOSM|CRANIUM, OR MACROCOSM]] — `gaskell-1960-entry-cranium-or-macrocosm` — EPUB p.189,190
+- [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] — `gaskell-1960-entry-crater-or-cup` — EPUB p.190
+- [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] — `gaskell-1960-entry-creation-or-emanation-of-the-spiritual-and-material-universes` — EPUB p.190,191
+- [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] — `gaskell-1960-entry-creatures` — EPUB p.191
+- [[Reference/Gaskell/Entries/C/CREATURES, SMALL LIVING|CREATURES, SMALL LIVING]] — `gaskell-1960-entry-creatures-small-living` — EPUB p.191,192
+- [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] — `gaskell-1960-entry-creeping-things` — EPUB p.192
+- [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] — `gaskell-1960-entry-cremation-of-the-corpse` — EPUB p.192
+- [[Reference/Gaskell/Entries/C/CRETE|CRETE]] — `gaskell-1960-entry-crete` — EPUB p.192
+- [[Reference/Gaskell/Entries/C/CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS|CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS]] — `gaskell-1960-entry-cretheus-father-of-zson-and-founder-of-iolcus` — EPUB p.192
+- [[Reference/Gaskell/Entries/C/CRIMINALS WITH TWO LEGS|CRIMINALS WITH TWO LEGS]] — `gaskell-1960-entry-criminals-with-two-legs` — EPUB p.192
+- [[Reference/Gaskell/Entries/C/CRIPPLES ABSENT FROM THE VARA|CRIPPLES ABSENT FROM THE VARA]] — `gaskell-1960-entry-cripples-absent-from-the-vara` — EPUB p.192,193
+- [[Reference/Gaskell/Entries/C/CROCODILE|CROCODILE]] — `gaskell-1960-entry-crocodile` — EPUB p.193
+- [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] — `gaskell-1960-entry-cronus-or-saturn` — EPUB p.193,194
+- [[Reference/Gaskell/Entries/C/CROOK|CROOK]] — `gaskell-1960-entry-crook` — EPUB p.194
+- [[Reference/Gaskell/Entries/C/CROSS|CROSS]] — `gaskell-1960-entry-cross` — EPUB p.194
+- [[Reference/Gaskell/Entries/C/CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE|CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE]] — `gaskell-1960-entry-cross-ankh-crux-ansata-a-symbol-of-life` — EPUB p.194,195
+- [[Reference/Gaskell/Entries/C/CROWD OF PEOPLE|CROWD OF PEOPLE]] — `gaskell-1960-entry-crowd-of-people` — EPUB p.195
+- [[Reference/Gaskell/Entries/C/CROWN|CROWN]] — `gaskell-1960-entry-crown` — EPUB p.195
+- [[Reference/Gaskell/Entries/C/CROWN, ATEF|CROWN, ATEF]] — `gaskell-1960-entry-crown-atef` — EPUB p.195
+- [[Reference/Gaskell/Entries/C/CROWN, DOUBLE SERPENT|CROWN, DOUBLE SERPENT]] — `gaskell-1960-entry-crown-double-serpent` — EPUB p.195
+- [[Reference/Gaskell/Entries/C/CROWN OF LOWER EGYPT|CROWN OF LOWER EGYPT]] — `gaskell-1960-entry-crown-of-lower-egypt` — EPUB p.195
+- [[Reference/Gaskell/Entries/C/CROWN OF TWELVE STARS|CROWN OF TWELVE STARS]] — `gaskell-1960-entry-crown-of-twelve-stars` — EPUB p.196
+- [[Reference/Gaskell/Entries/C/CROWN OF UPPER AND LOWER EGYPT-THE SEKHET OR PSCHENT CROWN|CROWN OF UPPER AND LOWER EGYPT-THE SEKHET OR PSCHENT CROWN]] — `gaskell-1960-entry-crown-of-upper-and-lower-egypt-the-sekhet-or-pschent-crown` — EPUB p.196
+- [[Reference/Gaskell/Entries/C/CROWNING WITH THORNS, OF JESUS|CROWNING WITH THORNS, OF JESUS]] — `gaskell-1960-entry-crowning-with-thorns-of-jesus` — EPUB p.196,197
+- [[Reference/Gaskell/Entries/C/CROWNS, RED AND WHITE|CROWNS, RED AND WHITE]] — `gaskell-1960-entry-crowns-red-and-white` — EPUB p.196
+- [[Reference/Gaskell/Entries/C/CRUCIFIX|CRUCIFIX]] — `gaskell-1960-entry-crucifix` — EPUB p.197
+- [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] — `gaskell-1960-entry-crucifixion-of-christ-according-to-the-revelation-of-john` — EPUB p.198,199
+- [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]] — `gaskell-1960-entry-crucifixion-of-jesus-according-to-cerinthus` — EPUB p.199,200
+- [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] — `gaskell-1960-entry-crucifixion-of-jesus-according-to-the-canonical-gospels` — EPUB p.199
+- [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] — `gaskell-1960-entry-crucifixion-of-purusha-or-the-sacrifice-of-the-man` — EPUB p.200
+- [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] — `gaskell-1960-entry-crystal` — EPUB p.200
+- [[Reference/Gaskell/Entries/C/CULTIVATION OF THE GROUND|CULTIVATION OF THE GROUND]] — `gaskell-1960-entry-cultivation-of-the-ground` — EPUB p.200,201
+- [[Reference/Gaskell/Entries/C/CULTIVATION, OX-BORN|CULTIVATION, OX-BORN]] — `gaskell-1960-entry-cultivation-ox-born` — EPUB p.562
+- [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]] — `gaskell-1960-entry-cup-double` — EPUB p.201
+- [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]] — `gaskell-1960-entry-cup-or-chalice` — EPUB p.201
+- [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] — `gaskell-1960-entry-cup-with-wine` — EPUB p.201,202
+- [[Reference/Gaskell/Entries/C/CUPID AND PSYCHE|CUPID AND PSYCHE]] — `gaskell-1960-entry-cupid-and-psyche` — EPUB p.202
+- [[Reference/Gaskell/Entries/C/CURETES AND CORYBANTES|CURETES AND CORYBANTES]] — `gaskell-1960-entry-curetes-and-corybantes` — EPUB p.202
+- [[Reference/Gaskell/Entries/C/CURSE|CURSE]] — `gaskell-1960-entry-curse` — EPUB p.202
+- [[Reference/Gaskell/Entries/C/CURSE ON THE GROUND|CURSE ON THE GROUND]] — `gaskell-1960-entry-curse-on-the-ground` — EPUB p.202,203
+- [[Reference/Gaskell/Entries/C/CURSE ON THE SERPENT|CURSE ON THE SERPENT]] — `gaskell-1960-entry-curse-on-the-serpent` — EPUB p.203
+- [[Reference/Gaskell/Entries/C/CURTAINS OF THE TABERNACLE OR OF THE KAABA|CURTAINS OF THE TABERNACLE OR OF THE KAABA]] — `gaskell-1960-entry-curtains-of-the-tabernacle-or-of-the-kaaba` — EPUB p.203
+- [[Reference/Gaskell/Entries/C/CYBELE, GODDESS RHEA|CYBELE, GODDESS RHEA]] — `gaskell-1960-entry-cybele-goddess-rhea` — EPUB p.203
+- [[Reference/Gaskell/Entries/C/CYCLOPES-THEY WHO SEE ALL ROUND|CYCLOPES-THEY WHO SEE ALL ROUND]] — `gaskell-1960-entry-cyclopes-they-who-see-all-round` — EPUB p.203
+- [[Reference/Gaskell/Entries/C/CYNO-CEPHALI, NINE PORTERS OF THIS GREAT SOUL|CYNO-CEPHALI, NINE PORTERS OF THIS GREAT SOUL]] — `gaskell-1960-entry-cyno-cephali-nine-porters-of-this-great-soul` — EPUB p.203
+- [[Reference/Gaskell/Entries/C/CYZICUS, KING DOLIONES|CYZICUS, KING DOLIONES]] — `gaskell-1960-entry-cyzicus-king-doliones` — EPUB p.203
+

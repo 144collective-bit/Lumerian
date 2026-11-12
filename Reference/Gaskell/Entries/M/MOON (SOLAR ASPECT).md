@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-moon-solar-aspect
+headword: "MOON (SOLAR ASPECT)"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# MOON (SOLAR ASPECT)
+
+- **Entry ID:** `gaskell-1960-entry-moon-solar-aspect`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_517`, `page_518`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_517|page_517]], [[Supporting Material/Gaskell/Source Text/page_518|page_518]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`MOON (SOLAR ASPECT) :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the lower self—the Personality.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
+| `LUNAR CYCLE` | **unresolved** (review queue) |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
+| `SELENE` | **unresolved** (review queue) |
+| `Soma (moon)` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+| `SuN (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-moon-solar-aspect-ocr-body`
+
+```text
+A symbol of the lower self—the Personality. This includes the astral principle of the lower nature, namely, desire, and also the form or matter side of nature, which were developed in the lunar cycle on the lunar globes. “The sun is Spirit, matter is the moon.’’—Praena Upanishad, I. 5. MOON ‘The aun is the great symbol of the Higher Self; the moon, of the lower Self involved in matter. ** For the moon herself, out of desire for the sun, revolves round and comes in contact with him because she longs to derive from him the generative principle.” —Puutarcu, Face in the Moon’s Orb. The lower Self, being attracted to the Higher Self, evolves through the life cycle; for the soul longs for regeneration and immortal union with the Higher Self in the causalbody wherein the two Selves become “* Two things are needed for the burning of a lamp: that it should be lit, and that it should be fed. In both respects the light with which we shine is derived. We are not suns, we are moons ; reflected, not self-originated, is all our radiance. That is true in all senses of the figure: It is truest in the highest. It is true about all in every man which is of the nature of light. Christ is the true light which lighteth every man that cometh into the world. Whatsoever beam of wisdom, whatsoever ray of purity, whatsoever sunshine of gladness has ever been in any human spirit, from Him it came, who is the Light and Life of men.”— A. ao Sermons, 2nd Sertea, ji See HIGHER AND LOWER SELVES, LUNAR CYCLE, PERSONALITY, PLANETARY CHAIN, REGENERATION, SELENE, Soma (moon), Sun, SuN (moon).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_517|page_517]], [[Supporting Material/Gaskell/Source Text/page_518|page_518]]
+

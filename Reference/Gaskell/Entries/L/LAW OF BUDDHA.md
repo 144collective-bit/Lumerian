@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-law-of-buddha
+headword: "LAW OF BUDDHA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# LAW OF BUDDHA
+
+- **Entry ID:** `gaskell-1960-entry-law-of-buddha`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_451`, `page_452`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_451|page_451]], [[Supporting Material/Gaskell/Source Text/page_452|page_452]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`LAW OF BUDDHA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> The law of the manifesting Self is that through the phenomenal or outward activity there is displayed gradually by evolution the spiritual or inward activity.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Evo.vurion` | **unresolved** (review queue) |
+| `INVOLUTION` | **unresolved** (review queue) |
+| `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
+| `Sipes` | **unresolved** (review queue) |
+| `STREAM` | **unresolved** (review queue) |
+| `THIRST` | **candidate (first-segment only)** → possible `THIRST, OR TANHA` (not linked) |
+| `Turery` | **unresolved** (review queue) |
+| `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+| `Wort (thirsty)` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-law-of-buddha-ocr-body`
+
+```text
+The law of the manifesting Self is that through the phenomenal or outward activity there is displayed gradually by evolution the spiritual or inward activity. “The thirsty world of living beings will drink the Bowing stream of his Law, bursting forth with the water of wisdom enclosed by the banks of strong moral rules, delightfully cool with contemplation, and filled with religious vows as with ruddy geese.’’—Buddha-Karita, Bk. I. 76, S. B. of £. The illusory or phenomenal existence, with ita cravings for expression of that which is within it, is, as it were, LAW the means whereby the Self-nature is realised. Through the phenomenal is displayed in various aspects that which is within the Self, and this is spoken of as the Law, since the finite-conditioned is but the symbol and evidence of the infinite-unconditioned. Through all the planes of its manifestation proceed the TruthWisdom (water of wisdom) aspects of the Self. On the planes of nature (the banks) the laws of the Self are operative, and these are the means of revealing that which is above the ‘*Law and the Prophets,” or duty and obedience. Under the rule of Love there is cessation from trouble, strife, or emotional stress, while aspirations (religious vows) yield such results as are capable of directing the evolution of the Self. ‘* No commandment is right and good merely because God wills it and has the wer to enforce it; God wills it because it is right and good, and it is right and good because it marks the way by which the soul achieves itself.’—R. J. CampBELL, Serm., Who Compels ? **The law. of the Lord is perfect, restoring the soul. The testimony of the Lord is sure, making wise the simple.”’— Ps. xix. 7. The law of the Self in the soul is to manifest ita potential perfection, by restoring the actual imperfection to the perfection which completeness of evolution will give. The revelation of the Divine within brings wisdom to the attentive mind. See Evo.vurion, INVOLUTION, PHENOMENA, Sipes, STREAM, THIRST, Turery, Water, Wort (thirsty).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_451|page_451]], [[Supporting Material/Gaskell/Source Text/page_452|page_452]]
+

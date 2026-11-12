@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-145
+book_name: "Psalms"
+chapter: 145
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 145"
+  - "KJV Psalms 145"
+---
+
+# Psalms 145
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 144|Psalms 144]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 146|Psalms 146]]
+
+## Text
+
+###### Psalms 145:1
+
+I will extol thee, my God, O king; and I will bless thy name for ever and ever.
+
+^kjv-psa-145-1
+
+###### Psalms 145:2
+
+Every day will I bless thee; and I will praise thy name for ever and ever.
+
+^kjv-psa-145-2
+
+###### Psalms 145:3
+
+Great is the LORD, and greatly to be praised; and his greatness is unsearchable.
+
+^kjv-psa-145-3
+
+###### Psalms 145:4
+
+One generation shall praise thy works to another, and shall declare thy mighty acts.
+
+^kjv-psa-145-4
+
+###### Psalms 145:5
+
+I will speak of the glorious honour of thy majesty, and of thy wondrous works.
+
+^kjv-psa-145-5
+
+###### Psalms 145:6
+
+And men shall speak of the might of thy terrible acts: and I will declare thy greatness.
+
+^kjv-psa-145-6
+
+###### Psalms 145:7
+
+They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.
+
+^kjv-psa-145-7
+
+###### Psalms 145:8
+
+The LORD is gracious, and full of compassion; slow to anger, and of great mercy.
+
+^kjv-psa-145-8
+
+###### Psalms 145:9
+
+The LORD is good to all: and his tender mercies are over all his works.
+
+^kjv-psa-145-9
+
+###### Psalms 145:10
+
+All thy works shall praise thee, O LORD; and thy saints shall bless thee.
+
+^kjv-psa-145-10
+
+###### Psalms 145:11
+
+They shall speak of the glory of thy kingdom, and talk of thy power;
+
+^kjv-psa-145-11
+
+###### Psalms 145:12
+
+To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
+
+^kjv-psa-145-12
+
+###### Psalms 145:13
+
+Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.
+
+^kjv-psa-145-13
+
+###### Psalms 145:14
+
+The LORD upholdeth all that fall, and raiseth up all those that be bowed down.
+
+^kjv-psa-145-14
+
+###### Psalms 145:15
+
+The eyes of all wait upon thee; and thou givest them their meat in due season.
+
+^kjv-psa-145-15
+
+###### Psalms 145:16
+
+Thou openest thine hand, and satisfiest the desire of every living thing.
+
+^kjv-psa-145-16
+
+###### Psalms 145:17
+
+The LORD is righteous in all his ways, and holy in all his works.
+
+^kjv-psa-145-17
+
+###### Psalms 145:18
+
+The LORD is nigh unto all them that call upon him, to all that call upon him in truth.
+
+^kjv-psa-145-18
+
+###### Psalms 145:19
+
+He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.
+
+^kjv-psa-145-19
+
+###### Psalms 145:20
+
+The LORD preserveth all them that love him: but all the wicked will he destroy.
+
+^kjv-psa-145-20
+
+###### Psalms 145:21
+
+My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.
+
+^kjv-psa-145-21

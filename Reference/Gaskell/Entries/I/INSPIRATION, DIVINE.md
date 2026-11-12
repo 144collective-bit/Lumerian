@@ -1,0 +1,88 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-inspiration-divine
+headword: "INSPIRATION, DIVINE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# INSPIRATION, DIVINE
+
+- **Entry ID:** `gaskell-1960-entry-inspiration-divine`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_400`, `page_401`, `page_402`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_400|page_400]], [[Supporting Material/Gaskell/Source Text/page_401|page_401]], [[Supporting Material/Gaskell/Source Text/page_402|page_402]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`INSPIRATION, DIVINE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> This means the “ breathing of the Spirit,’’ or the ‘‘speaking of the Word,’’ into the mind of man.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AmBaAS` | **unresolved** (review queue) |
+| `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
+| `BOOK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
+| `BreatrH (divine)` | **unresolved** (review queue) |
+| `GoOsPEL` | **unresolved** (review queue) |
+| `HERMES (tris.)` | **unresolved** (review queue) |
+| `Hoty oHost` | **unresolved** (review queue) |
+| `Kayan` | **unresolved** (review queue) |
+| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `I do not see INTELLECT Locos` | **unresolved** (review queue) |
+| `MytnHotocy` | **unresolved** (review queue) |
+| `Papyrus` | **unresolved** (review queue) |
+| `ParABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+| `PEN` | **unresolved** (review queue) |
+| `PRIESTS AND ELDERS` | **unresolved** (review queue) |
+| `RaMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
+| `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
+| `RITUAL` | **unresolved** (review queue) |
+| `SacRED TExtT` | **unresolved** (review queue) |
+| `SastRa` | **candidate (first-segment only)** → possible `SASTRA, OR VEDA` (not linked) |
+| `SCRIPTURES` | **candidate (ambiguous first-segment)** → SCRIPTURES, PONDERING ON THE; SCRIPTURES, SACRED (not linked) |
+| `Sian` | **unresolved** (review queue) |
+| `Srott` | **unresolved** (review queue) |
+| `THoru` | **unresolved** (review queue) |
+| `UPanisHaD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
+| `UR-HEKAU` | **unresolved** (review queue) |
+| `VEDA` | **unresolved** (review queue) |
+| `WORD OF GOD. INTELLECT ;` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-inspiration-divine-ocr-body`
+
+```text
+This means the “ breathing of the Spirit,’’ or the ‘‘speaking of the Word,’’ into the mind of man. The **Word’’ is the Divine expression of Truth from above, made possible of reception by the mind, when union between the mental and buddhic natures has been attained. Inspiration is given whenever there is a receptiveness towards the eternal theme of Truth, Love, and Wisdom, and, however the truths may be presented,—into whosesoever mind they may have been put,—the recognition of the Truths themselves in the sacred scriptures will furnish the proof that the scriptures are what they profess to be, namely, the utterance of the Holy Spirit from the buddhic plane. The scriptures are to be judged by their fruits, and by what they imply as_ suggesting conceptions of the inner life of the soul, embodied in symbols which provided a sheath for their perfect preservation through the ages of the past. The persons who received these buddhic communications, evidently understood but little of their meaning, but being profoundly impressed by the spiritual influx, earnestly gave them out to others, and in many cases set them down in writing. Knowledge of the inner nature of humanity and of the soul’s evolution, flowing down from above into the mind, can only find expression through the ideas that happen to be in the mind. Now these ideas are incompetent to express hidden mysteries; but there are ideas of concrete facts of experience which offer analogies and resemblances to facts of the super-physical planes. These correspondences are utilised by the Spirit of Wisdom to serve as symbols of inward truths, and are woven into mysterious, absurd, and dramatic statements, to rivet the attention of mankind, promote enquiry into the meanings of the sacred symbols, and so raise the souls by means of the various religions established upon The evidence in modern times 393 INSPIRATION relating to the phenomena of inspiration and automatic writing overwhelmingly shows that the objective and deliberative mind has no part whatever in the production of inspired statements. Yet the whole of modern Biblical criticism is founded upon the assumption that the sacred writings are ‘‘composed,’’ ‘‘ worked over,’’ ‘** altered,’’ and ‘‘ amended *’ by many minds ;—a process obviously destructive of Divine inspiration. ‘*Madame Guyon states in her autobiography, that when she was composing her works she would experience a sudden and irresistible inclination to take up her pen ; though feeling wholly incapable of literary composition, and not even knowing the subject on which she would be impelled to write. If she rcsisted this impulse it was at the cost of the most intense discomfort. She would then begin to write with extraordinary swiftness; words, elaborate arguments, and appropriate quotations coming to her without reflection, and so quickly that one of her longest books was written in one and a half days. ‘In writing I saw that I was writing of things which I had never seen: and during the time of this manifestation, I was given light to perceive that I had in me treasures of knowledge and understanding which I did not know that I possessed’ (VrIz). Similar statements are made of St. Teresa, who declared that in writing her books she was powerless to set down anything but that which her Master ut into her mind.” —EveLyn UNDERHILL, ysticism, pp. 78, 79. ““If God sends a message, he will choose the messenger. ... We can all agree to the first step—that if man is not purely passive in receiving the message, it cannot escape the touch of human infirmity. The believer in verbal inspiration says that revelation is real, and therefore man’s part is passive... . Some things the prophet could not understand if they were told him, and some that he does understand he will only understand in part ; for he can only understand them in terms of his own knowledge. He might no doubt be kept from error by a supernatural dictation overriding his human weakness as often as might be necessary ; and the believers in verbal inspiration had to suppose that this dictation was given.’"—H. M. eel The Knowledge of God, Vol. I P ‘““We now know (from a study of telepathy) that, not merely are we bombarded unconsciously by stray thoughts from other minds, but that it is possible so to discipline the conscious mind that it may become a resonator to thought, even to a long series of precise impressions of words from beyond the threshold of consciousness. I could INSPIRATION place my hand on a quantity of inspired writing which sounded without premeditation through the mind of one who belo to the order of Illuminati.”—J. Cousins, Address on Psychical Research. Inspiration is of many grades. Madame Guyon obviously did not receive Divine inspiration whose only known expression is in sacred symbols. Nevertheless her inspiration was submental and passively received by the objective mind in words chosen subconsciously, not consciously. The lower inspirations may have all the outward features of Divine inspiration ; therefore the one and only test of the Divine Word is the presence, in writings, of the specific symbolism which is the same in all inspired scriptures of the world. *‘In accordance with what is said in 1 Cor. ii. 14, the truth of the Scriptures must be ‘spiritually discerned.’ But what does this mean except that the inspired element is underneath the phraseology rather than in it.” ‘If no conditions in the spiritual world can ever be communicated to men except through the use of material symbols or forms, and if these can never represent the conditions fully or adequately, nor to minds, differently constituted or cultured, in an exactly similar way, then different symbols or forms may be used, in different nations, for the purpose of expressing exactly the same truth or rinciple, and not only in Christianity, ut in all these nations, they may be inspired.’’—G. L. Raymonp, Psychology of Inspiration, pp. 154, 131. “In his Who ie the Heir to Divine Things (II. 52) Philo says: ‘ For a prophet says nothing of his own, but everythin which he says is strange and prompted by someone else.... He alone is a sounding instrument of God’s voice, being struck and moved to sound in an invisible manner by him.’ Again, in par. 53, speaking of inspiration, he says : For the mind that is in us is removed from its place at the arrival of the Divine Spirit, but is again restored to its previous habitation when that Spirit departs ; for it is contrary to holy law for what is mortal to dwell with what is immortal.’ Volz quotes several other passages, in which Philo speaks in the same strain. Interesting in this connection is the sarge in Josephus, which runs: ‘ Thus id Balaam speak by inspiration, as not being in his own power, but moved to say what he did by the Divine Spirit’ (Antiquities, Bk. IV. Ch. vi. 5). In the same paragraph Josephus makes Balaam reply to Balak as follows: ‘O Balak, if thou rightly considerest this whole matter, canst thou suppose that it is in our power to be silent, or to say anything 394 INSPIRATION when the spirit of God seizes upon us ? For He puts such words as He pleases in our mouths and such discourses as we are not ourselves conscious of.’ ’’—J. ABELSON, The Immanence of God, p. 256. ‘*The Scriptures were written by the Spirit of God, and have a meaning, not such only as is apparent at first sight, but also another, which escapes the notice of most. For those words which are written are the forms of certain mysteries, and the images of divine things. Respecting which there is one opinion throughout the whole Church; that the whole law is indeed spiritual ; but that the spiritual meaning which the law conveys is not known to all, but to those only on whom the grace of the Holy Spirit is bestowed in the word of wiedom and knowledge.”"—Oricen, De Principtis, Preface. *“Let us notice, then, whether the apparent and superficial and obvious meaning of Scripture does not resemble a field filled with plants of every kind, while the things lying in it, and not visible at all, but buried, as it were, under the plante that are seen, are the hidden treasures of wisdom and know. ledge." —TIbid., Bk. IV. 23. *** All Scripture was held (by Origen) to be written ‘‘ ab intus,” from the inward mystery, and not ‘‘ab extra,”’ with a mystical sense put into tt. In every case the historical account is the rind or coating, the mystical meaning the essence of Holy Scripture, not the former the essential truth containing a mystical sense’ (Writer unknown).’’—Sr. GnREGoRY, Morals on the Book of Job, Vol. I. p. 13. ‘* Inspiration is the deepest question of our day; the one which lies beneath all others. . . . It is this grand question of Inspiration which is given to this to solve. Our subject will break itself up into questions such as these,—What the Bible is, and what it is not ? What is meant by inspiration? Whether inspiration is the same thing as infallibility ? When God inspired the minds, did He dictate the words? Does the inspiration of men mean the infallibility of their words ?_ Is inspiration the same as dictation ? Whether, granting that we have the Word of God, we have also the words of God? Are the operations of the Holy Spirit inspiring men, compat ible with partial error? ... How are we to interpret and apply the Scriptures?” —F. W. RosBerrson, Sermons, 4th Series, p. 298. Replying to these questions seriatim. (1) The Bible is a revelation of Truth expressed in Divine symbolism ; it is not a human composition. (2) By Divine inspiration is meant a forthpouring of Ideas from the Holy Spirit (Wisdom-buddhi) into the mind of a selected person who probably INTELLECT does not apprehend the real meaning of the symbols in which the ideas take form. (3) The inspiration being Divine is infallible, but infallibility does not attach to the. symbols, for they may be either correctly or incorrectly interpreted. (4) When God inspired the minds, he dictated the words, otherwise there could have been no symbology. (5) In_ the inspiration of the minds, the minds are receptive only, and the resulting words are not their words. Directly these minds resume activity, error clings to their words. (6) Dictation to @ passive and receptive mind is an operation of Divine inspiration. (7) We possess the scripture words which have been Divinely selected from the contents of the minds, except where mistakes or alterations have supervened. (8) If inspired minds have correctly set down what has been Divinely dictated to them, there is no error so far. But it must be remembered that symbols can only be very partially suggestive of the truths they stand for. (9) The Scriptures have to be interpreted by a knowledge of the meanings and relations of the symbols, in accordance with a general knowledge of the scheme of existence, and of the origin of the soul and the process of its growth. These knowledges are inseparable and essential to interpretation, and seem hardly to be acquired except by attention to a great variety of scriptures. ‘Doctrine is the vertebration of religion. Still it must be ever remembered that Christian teaching professes to be symbolical and an economy of divine things.”"—W. 8S. Lrtty, The Great Enigma, p. 313. **The same principle of symbolic language must be applied to all that lies outside our present human experience. The Bible begins with an account of creation and ends with an anticipation of the end of the world—things which lie outside our possibilities of present experience. Thus it begins and ends in pictures and symbolical narratives. that any Christian either can reasonably deny this or has any interest in doing so.""—C. GoreE, Bp. of Oxford, art. “‘ The Place of Symbolism in Religion,’’ Constructive Quarterly, March 1914. See AmBaAS, AXE, BOOK STUDIES, BreatrH (divine), GoOsPEL, HERMES (tris.), Hoty oHost, Kayan, Koran, I do not see INTELLECT Locos, MytnHotocy, Papyrus, ParABLE, PEN, PRIESTS AND ELDERS, RaMAYANA, REVELATION, RITUAL, SacRED TExtT, SastRa, SCRIPTURES, Sian, Srott, THoru, UPanisHaD, UR-HEKAU, VEDA, WORD OF GOD. INTELLECT ;
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_400|page_400]], [[Supporting Material/Gaskell/Source Text/page_401|page_401]], [[Supporting Material/Gaskell/Source Text/page_402|page_402]]
+

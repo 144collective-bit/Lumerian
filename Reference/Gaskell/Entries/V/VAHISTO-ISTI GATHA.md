@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-vahisto-isti-gatha
+headword: "VAHISTO-ISTI GATHA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# VAHISTO-ISTI GATHA
+
+- **Entry ID:** `gaskell-1960-entry-vahisto-isti-gatha`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_790`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_790|page_790]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`VAHISTO-ISTI GATHA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the buddhic functioning of wisdom.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Barsom` | **unresolved** (review queue) |
+| `Buppsi` | **unresolved** (review queue) |
+| `HeEazt` | **unresolved** (review queue) |
+| `MovutH` | **unresolved** (review queue) |
+| `TRANSMUTATION` | **unresolved** (review queue) |
+| `WuIs` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-vahisto-isti-gatha-ocr-body`
+
+```text
+Symbolic of the buddhic functioning of wisdom. 783 VAIRAUMATI “‘ That progress which is in the Vahistoisti Gatha the supreme Zaratust should carry on.”’—Shayast La-Shayast, XIII. 14. That development of the soul which is brought about by the functioning of the buddhic nature in transmuting the lower into the higher emotions, is due to the activity of the Higher Self in disciplining and purifying the lower nature. “For the Lord giveth wisdom ; out of his mouth cometh knowledge and understanding. ... For wisdom shall enter into thine heart, and knowledge shall be pleasant unto thy soul.”—Prov. ii. 6, 10. See Barsom, Buppsi, HeEazt, MovutH, TRANSMUTATION, WuIs
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_790|page_790]]
+

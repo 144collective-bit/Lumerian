@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-churning-of-the-ocean-of-milk-for-the-recovery-of-goddess-lakshmi-and-the-lost-t
+headword: "CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES
+
+- **Entry ID:** `gaskell-1960-entry-churning-of-the-ocean-of-milk-for-the-recovery-of-goddess-lakshmi-and-the-lost-t`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_164`, `page_165`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_164|page_164]], [[Supporting Material/Gaskell/Source Text/page_165|page_165]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the process by which the soul attains to its ideals.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `the account from the Puranas given in Indian Wisdom` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `p. 499.) See Amprosta` | **unresolved** (review queue) |
+| `Boar (avatar)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
+| `CIRCLE LAKSHMT` | **unresolved** (review queue) |
+| `NECTAR` | **candidate (first-segment only)** → possible `NECTAR, SWEET` (not linked) |
+| `ToRTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
+| `TREASURE IN HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+| `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-churning-of-the-ocean-of-milk-for-the-recovery-of-goddess-lakshmi-and-the-lost-t-ocr-body`
+
+```text
+Symbolic of the process by which the soul attains to its ideals. THE FOUR CIRCE “In the Tortoise incarnation, Vishnu descended to aid in recovering certain valuable articles lost in the deluge. For this purpose he stationed himself as a tortoise at the bottom of the ocean, that his back might serve as a pivot for the mountain Mandara, around which the gods and demons twisted the great serpent Vasuki. They then stood opposite to each other, and using the snake as a rope, and the mountain as a churning stick, churned the ocean for the recovery of the Amrita or ‘nectar,’ the goddess Lakshmi, and twelve other sacred things which had been lost in the depths.”— Mon. Wituiams, Indian Wisdom, p. 330. Involution being accomplished, the treasures of wisdom, love, and truth are in abscondito, and can only be recovered through a process of evolution. The Higher Self (Vishnu), therefore, has to operate from below through matter, first in evolving simple desires and instincts (plants and herbs) and afterwards in arousing the stronger desires and the mind. The “sea of milk” is the buddhic nature reflected in the astral plane. This is stirred by the desire-mind (the serpent) by means of mental aspiration (mountain), in alliance with the forces of the ideals (gods) and of the desires (demons), which as “‘opposites” pull in contrary directions and so produce the strife between good and evil, error and truth, which is necessary to bring about development of the lower nature. The Higher Self is, as it were, the pivot of the whole process, the result of which is the recovery of the higher qualities of the soul which were lost at the ‘fall of man,” or descent of mind into the lower nature. First to appear is the intuition (sacred cow) bestowing wisdom (milk) and love (butter): next comes direct spiritual perception (wine); then the perceived universality of the Divine Life (tree of Paradise). To crown all, as the consciousness rises through the buddhic plane, Wisdom herself (Lakshmi), as a “robe of glory,” is conferred, while Love the Divine physician (Dhanvantari) holds high the “nectar of Truth and loving service to ideals, without which sustenance Ideals (the Gods) cannot live.—(See the account from the Puranas given in Indian Wisdom, p. 499.) See Amprosta, Boar (avatar), CIRCLE LAKSHMT, NECTAR, ToRTOISE, TREASURE IN HEAVEN, VISHNU.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_164|page_164]], [[Supporting Material/Gaskell/Source Text/page_165|page_165]]
+

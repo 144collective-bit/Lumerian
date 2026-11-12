@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-26
+book_name: "Isaiah"
+chapter: 26
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 26"
+  - "KJV Isaiah 26"
+---
+
+# Isaiah 26
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 025|Isaiah 25]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 027|Isaiah 27]]
+
+## Text
+
+###### Isaiah 26:1
+
+In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.
+
+^kjv-isa-26-1
+
+###### Isaiah 26:2
+
+Open ye the gates, that the righteous nation which keepeth the truth may enter in.
+
+^kjv-isa-26-2
+
+###### Isaiah 26:3
+
+Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
+
+^kjv-isa-26-3
+
+###### Isaiah 26:4
+
+Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:
+
+^kjv-isa-26-4
+
+###### Isaiah 26:5
+
+For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, even to the ground; he bringeth it even to the dust.
+
+^kjv-isa-26-5
+
+###### Isaiah 26:6
+
+The foot shall tread it down, even the feet of the poor, and the steps of the needy.
+
+^kjv-isa-26-6
+
+###### Isaiah 26:7
+
+The way of the just is uprightness: thou, most upright, dost weigh the path of the just.
+
+^kjv-isa-26-7
+
+###### Isaiah 26:8
+
+Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of our soul is to thy name, and to the remembrance of thee.
+
+^kjv-isa-26-8
+
+###### Isaiah 26:9
+
+With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments are in the earth, the inhabitants of the world will learn righteousness.
+
+^kjv-isa-26-9
+
+###### Isaiah 26:10
+
+Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD.
+
+^kjv-isa-26-10
+
+###### Isaiah 26:11
+
+LORD, when thy hand is lifted up, they will not see: but they shall see, and be ashamed for their envy at the people; yea, the fire of thine enemies shall devour them.
+
+^kjv-isa-26-11
+
+###### Isaiah 26:12
+
+LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us.
+
+^kjv-isa-26-12
+
+###### Isaiah 26:13
+
+O LORD our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name.
+
+^kjv-isa-26-13
+
+###### Isaiah 26:14
+
+They are dead, they shall not live; they are deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.
+
+^kjv-isa-26-14
+
+###### Isaiah 26:15
+
+Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth.
+
+^kjv-isa-26-15
+
+###### Isaiah 26:16
+
+LORD, in trouble have they visited thee, they poured out a prayer when thy chastening was upon them.
+
+^kjv-isa-26-16
+
+###### Isaiah 26:17
+
+Like as a woman with child, that draweth near the time of her delivery, is in pain, and crieth out in her pangs; so have we been in thy sight, O LORD.
+
+^kjv-isa-26-17
+
+###### Isaiah 26:18
+
+We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
+
+^kjv-isa-26-18
+
+###### Isaiah 26:19
+
+Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead.
+
+^kjv-isa-26-19
+
+###### Isaiah 26:20
+
+Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
+
+^kjv-isa-26-20
+
+###### Isaiah 26:21
+
+For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
+
+^kjv-isa-26-21

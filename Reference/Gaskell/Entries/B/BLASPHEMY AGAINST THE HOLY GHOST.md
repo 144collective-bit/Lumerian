@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-blasphemy-against-the-holy-ghost
+headword: "BLASPHEMY AGAINST THE HOLY GHOST"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BLASPHEMY AGAINST THE HOLY GHOST
+
+- **Entry ID:** `gaskell-1960-entry-blasphemy-against-the-holy-ghost`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_121`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_121|page_121]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BLASPHEMY AGAINST THE HOLY GHOST :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the turning away from the means of salvation.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Barnsom` | **unresolved** (review queue) |
+| `Buppug1` | **unresolved** (review queue) |
+| `Cow’s URINE` | **unresolved** (review queue) |
+| `Escarz` | **unresolved** (review queue) |
+| `Hoty cuHost` | **unresolved** (review queue) |
+| `PARaOLETE` | **unresolved** (review queue) |
+| `QUALITIES` | **unresolved** (review queue) |
+| `SACRED TEXT` | **unresolved** (review queue) |
+| `TRANSMUTATION` | **unresolved** (review queue) |
+| `WISDOM` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-blasphemy-against-the-holy-ghost-ocr-body`
+
+```text
+A symbol of the turning away from the means of salvation. ‘Whosoever shall speak against the Holy Spirit, it shall not be forgiven him, neither in this world nor in that which is to come.”’—Mar. xii. 32. This is the attempt which must always be unsuccessful (hence there can be really no blasphemy) to substitute for the living Spirit the dead letter of convention and authority. This attempt is made, not only by theologian and ecclesiastical formalists, but by all men who do not live in accordance with the Divine guidance within them, who do not take up what is committed to them to spiritually profit by, and who fail to accept the Holy Spirit as it comes to them to become the sustaining power in their daily lives. There is much of this incipient blasphemy, for which there can be no forgiveness and no remitting, since there can be no substitute for the Holy Spirit which is the means of the soul’s evolution. Until the atma-buddhic vibrations are allowed to permeate the lower nature, and so raise it, there can be no salvation for the soul. See Barnsom, Buppug1, Cow’s URINE, Escarz, Hoty cuHost, PARaOLETE, QUALITIES, SACRED TEXT, TRANSMUTATION, WISDOM.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_121|page_121]]
+

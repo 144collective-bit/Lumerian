@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-filial-piety-ancestor-worship
+headword: "FILIAL PIETY (ANCESTOR WORSHIP)"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# FILIAL PIETY (ANCESTOR WORSHIP)
+
+- **Entry ID:** `gaskell-1960-entry-filial-piety-ancestor-worship`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_280`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_280|page_280]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`FILIAL PIETY (ANCESTOR WORSHIP) :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the soul's reverence for its Divine nature, and of its determination to follow the will of its Father in heaven.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ConrFuctus` | **unresolved** (review queue) |
+| `DYNASTIES` | **unresolved** (review queue) |
+| `PITRIs (solar)` | **candidate (ambiguous first-segment)** → PITRIS, LUNAR; PITRIS, SOLAR (not linked) |
+| `RoBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `Sacrkiricr` | **unresolved** (review queue) |
+| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-filial-piety-ancestor-worship-ocr-body`
+
+```text
+A symbol of the soul's reverence for its Divine nature, and of its determination to follow the will of its Father in heaven. ** Asked what filial Master (Confucius) said, ‘It is not being disobedient. That parents, when alive, should be served according to propriety ; that when dead, they should be buried according to propriety; and that they should be sacrificed to, according to propriety ’’ (Confucian Analects). a Lecox, Life and Teachinga, etc., p. 123. The Higher Self within teaches that the spiritual ego should be obedient to its Divine parentage: that the Parents (Atma-buddhi), when recognised (alive) should be intuitively served according to the divine ordinance of the higher life: that when piety was, the 273 FILLETS the Spirit within is obscured (dead) in the lower life, it yet should be held in reverence according to the divine ordinance; and the lower qualities should be sacrificed to the higher according to the divine law of the evolution of the Spirit within. ** Now filial piety is seen in the skilful carrying out of the wishes of our forefathers, and the skilful carrying forward of their undertakings. In spring and autumn, they repaired and beautified the temple-halls of their fathers, set forth their ancestral vessels, displayed their various robes, and presented the offerings of the several seasons. By means of the ceremonies of the ancestral temple, they distinguished the imperial kindred according to their order of descent.’’—Jbid., p. 296. Now true religion is exemplified in the soul’s methodical endeavour to accomplish the purpose of all prior manifestations of the Self, and to make use of all the means provided for the ego’s spiritual evolution. During the times of manifestation (spring, etc.) the causal-bodies (temples) of the incarnating egos are developed and perfected, and the inherited mental-vehicles (vessels) are endowed with higher qualities (robes) as they relinquish the lower qualities (offerings) in the several stages of evolution. In the successive transmutations of the qualities for the enrichment of the causal-body, the corresponding phases of the evolving Self are represented. See ConrFuctus, DYNASTIES, PITRIs (solar), RoBE, Sacrkiricr, TEMPLE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_280|page_280]]
+

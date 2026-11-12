@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-21
+book_name: "Psalms"
+chapter: 21
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 21"
+  - "KJV Psalms 21"
+---
+
+# Psalms 21
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 020|Psalms 20]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 022|Psalms 22]]
+
+## Text
+
+###### Psalms 21:1
+
+The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
+
+^kjv-psa-21-1
+
+###### Psalms 21:2
+
+Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah.
+
+^kjv-psa-21-2
+
+###### Psalms 21:3
+
+For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
+
+^kjv-psa-21-3
+
+###### Psalms 21:4
+
+He asked life of thee, and thou gavest it him, even length of days for ever and ever.
+
+^kjv-psa-21-4
+
+###### Psalms 21:5
+
+His glory is great in thy salvation: honour and majesty hast thou laid upon him.
+
+^kjv-psa-21-5
+
+###### Psalms 21:6
+
+For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.
+
+^kjv-psa-21-6
+
+###### Psalms 21:7
+
+For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.
+
+^kjv-psa-21-7
+
+###### Psalms 21:8
+
+Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.
+
+^kjv-psa-21-8
+
+###### Psalms 21:9
+
+Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.
+
+^kjv-psa-21-9
+
+###### Psalms 21:10
+
+Their fruit shalt thou destroy from the earth, and their seed from among the children of men.
+
+^kjv-psa-21-10
+
+###### Psalms 21:11
+
+For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.
+
+^kjv-psa-21-11
+
+###### Psalms 21:12
+
+Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.
+
+^kjv-psa-21-12
+
+###### Psalms 21:13
+
+Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power.
+
+^kjv-psa-21-13

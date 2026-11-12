@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-dawn-daybreak-dayspring
+headword: "DAWN, DAYBREAK, DAYSPRING"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DAWN, DAYBREAK, DAYSPRING
+
+- **Entry ID:** `gaskell-1960-entry-dawn-daybreak-dayspring`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_208`, `page_209`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_208|page_208]], [[Supporting Material/Gaskell/Source Text/page_209|page_209]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DAWN, DAYBREAK, DAYSPRING :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the commencement of manifestation—the period of the Self’s forthgoing to establish the planes of nature.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Apit1` | **unresolved** (review queue) |
+| `ARIES` | **candidate (first-segment only)** → possible `ARIES, THE ZODIACAL SIGN` (not linked) |
+| `ASURA` | **candidate (first-segment only)** → possible `ASURA, SURA, AHURA (HIGHER ASPECT)` (not linked) |
+| `CREATION` | **unresolved** (review queue) |
+| `East` | **unresolved** (review queue) |
+| `HORSE-SACRIFICE` | **unresolved** (review queue) |
+| `MAYA (higher)` | **unresolved** (review queue) |
+| `Mornine` | **unresolved** (review queue) |
+| `Nut` | **unresolved** (review queue) |
+| `Sun-Rismva` | **unresolved** (review queue) |
+| `ValsVANARA` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-dawn-daybreak-dayspring-ocr-body`
+
+```text
+A symbol of the commencement of manifestation—the period of the Self’s forthgoing to establish the planes of nature. This is typified in the approach of sunrise when the sun (the Self) appears. “Verily, the Dawn is the head of the Horse which is fit for sacrifice; the Sun its eye, the Wind its breath, the Mouth the Vaisvanara fire, the Year the body of the sacrificial Horse, etc.” —Brihad. Upanishad, V. 1. The ‘‘ Horse sacrifice "’ has the same meaning as the ‘‘ Lamb sacrifice,” and is @ symbol of the sacrifice of the Logos in the involution of Himself in matter. Hence the ‘‘ Horse” often stands for the ‘‘ Ram ”’ in the first sign of the Zodiac, which represents the sun’s (the Self’s) entrance upon his course. The “head of the Horse ”’ signifies the beginning of manifestation. The ** Year the body ”’ represents the whole Cycle of Life. The ‘Sun ita eye” stands for the Higher Self, the perceiving consciousness. The ‘“ Wind its DAY breath’ signifies the Divine Life active upon the mental plane. The ** Mouth the Vaisvanara fire ’’ signifies the Divine Will expressed in the energies of the atma-buddhic plane. See Apit1, ARIES, ASURA, CREATION, East, HORSE-SACRIFICE, MAYA (higher), Mornine, Nut, Sun-Rismva, ValsVANARA.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_208|page_208]], [[Supporting Material/Gaskell/Source Text/page_209|page_209]]
+

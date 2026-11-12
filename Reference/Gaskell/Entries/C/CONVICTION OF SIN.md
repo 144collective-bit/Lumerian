@@ -1,0 +1,62 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-conviction-of-sin
+headword: "CONVICTION OF SIN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CONVICTION OF SIN
+
+- **Entry ID:** `gaskell-1960-entry-conviction-of-sin`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_180`, `page_181`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_180|page_180]], [[Supporting Material/Gaskell/Source Text/page_181|page_181]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CONVICTION OF SIN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A sense of dissatisfaction with a course of life which comes to the emotion-nature, and is the precursor of an extension of the moral range and of a resolution to arise and seek a higher spiritual condition.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `CONVERSION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
+| `PRODIGAL. KINGDOM OF` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-conviction-of-sin-ocr-body`
+
+```text
+A sense of dissatisfaction with a course of life which comes to the emotion-nature, and is the precursor of an extension of the moral range and of a resolution to arise and seek a higher spiritual condition. ‘*The very problems of evil are really the marks of an eternal progress; how man’s very consciousness as a sinner is the evidence of a movement towards an infinitely glorious ideal yet to be realised in him.”—J. BrierRtey, Zhe Eternal Religion, p. 45. ** Presently I found two things within me, at which I did sometimes marvel, especially considering what a_ blind, ignorant, sordid and ungodly wretch but just before I was; the one was & very great softness and tenderness of heart, which caused me to fall under the conviction (of the blessed condition of a truly godly man); and the other was a great bending in my mind to a continual meditating on it, and on all other good things which at any time I heard or read of.”—Joun Bunyan, Grace Abounding. See CONVERSION, PRODIGAL. KINGDOM OF
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_180|page_180]], [[Supporting Material/Gaskell/Source Text/page_181|page_181]]
+

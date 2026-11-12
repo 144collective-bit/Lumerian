@@ -1,0 +1,82 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-8
+book_name: "Psalms"
+chapter: 8
+verses: 9
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 8"
+  - "KJV Psalms 8"
+---
+
+# Psalms 8
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 007|Psalms 7]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 009|Psalms 9]]
+
+## Text
+
+###### Psalms 8:1
+
+O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+
+^kjv-psa-8-1
+
+###### Psalms 8:2
+
+Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
+
+^kjv-psa-8-2
+
+###### Psalms 8:3
+
+When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;
+
+^kjv-psa-8-3
+
+###### Psalms 8:4
+
+What is man, that thou art mindful of him? and the son of man, that thou visitest him?
+
+^kjv-psa-8-4
+
+###### Psalms 8:5
+
+For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+
+^kjv-psa-8-5
+
+###### Psalms 8:6
+
+Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
+
+^kjv-psa-8-6
+
+###### Psalms 8:7
+
+All sheep and oxen, yea, and the beasts of the field;
+
+^kjv-psa-8-7
+
+###### Psalms 8:8
+
+The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
+
+^kjv-psa-8-8
+
+###### Psalms 8:9
+
+O LORD our Lord, how excellent is thy name in all the earth!
+
+^kjv-psa-8-9

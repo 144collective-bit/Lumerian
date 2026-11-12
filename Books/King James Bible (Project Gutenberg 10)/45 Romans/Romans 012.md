@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rom
+chapter_id: kjv-rom-12
+book_name: "Romans"
+chapter: 12
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Romans 12"
+  - "KJV Romans 12"
+---
+
+# Romans 12
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans|Romans]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans 011|Romans 11]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans 013|Romans 13]]
+
+## Text
+
+###### Romans 12:1
+
+I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+
+^kjv-rom-12-1
+
+###### Romans 12:2
+
+And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
+^kjv-rom-12-2
+
+###### Romans 12:3
+
+For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
+
+^kjv-rom-12-3
+
+###### Romans 12:4
+
+For as we have many members in one body, and all members have not the same office:
+
+^kjv-rom-12-4
+
+###### Romans 12:5
+
+So we, being many, are one body in Christ, and every one members one of another.
+
+^kjv-rom-12-5
+
+###### Romans 12:6
+
+Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
+
+^kjv-rom-12-6
+
+###### Romans 12:7
+
+Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
+
+^kjv-rom-12-7
+
+###### Romans 12:8
+
+Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
+
+^kjv-rom-12-8
+
+###### Romans 12:9
+
+Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+
+^kjv-rom-12-9
+
+###### Romans 12:10
+
+Be kindly affectioned one to another with brotherly love; in honour preferring one another;
+
+^kjv-rom-12-10
+
+###### Romans 12:11
+
+Not slothful in business; fervent in spirit; serving the Lord;
+
+^kjv-rom-12-11
+
+###### Romans 12:12
+
+Rejoicing in hope; patient in tribulation; continuing instant in prayer;
+
+^kjv-rom-12-12
+
+###### Romans 12:13
+
+Distributing to the necessity of saints; given to hospitality.
+
+^kjv-rom-12-13
+
+###### Romans 12:14
+
+Bless them which persecute you: bless, and curse not.
+
+^kjv-rom-12-14
+
+###### Romans 12:15
+
+Rejoice with them that do rejoice, and weep with them that weep.
+
+^kjv-rom-12-15
+
+###### Romans 12:16
+
+Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
+
+^kjv-rom-12-16
+
+###### Romans 12:17
+
+Recompense to no man evil for evil. Provide things honest in the sight of all men.
+
+^kjv-rom-12-17
+
+###### Romans 12:18
+
+If it be possible, as much as lieth in you, live peaceably with all men.
+
+^kjv-rom-12-18
+
+###### Romans 12:19
+
+Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+
+^kjv-rom-12-19
+
+###### Romans 12:20
+
+Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.
+
+^kjv-rom-12-20
+
+###### Romans 12:21
+
+Be not overcome of evil, but overcome evil with good.
+
+^kjv-rom-12-21

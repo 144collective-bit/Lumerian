@@ -1,0 +1,148 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-heb
+chapter_id: kjv-heb-6
+book_name: "Hebrews"
+chapter: 6
+verses: 20
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Hebrews 6"
+  - "KJV Hebrews 6"
+---
+
+# Hebrews 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews|Hebrews]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews 005|Hebrews 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews 007|Hebrews 7]]
+
+## Text
+
+###### Hebrews 6:1
+
+Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
+
+^kjv-heb-6-1
+
+###### Hebrews 6:2
+
+Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
+
+^kjv-heb-6-2
+
+###### Hebrews 6:3
+
+And this will we do, if God permit.
+
+^kjv-heb-6-3
+
+###### Hebrews 6:4
+
+For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
+
+^kjv-heb-6-4
+
+###### Hebrews 6:5
+
+And have tasted the good word of God, and the powers of the world to come,
+
+^kjv-heb-6-5
+
+###### Hebrews 6:6
+
+If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
+
+^kjv-heb-6-6
+
+###### Hebrews 6:7
+
+For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:
+
+^kjv-heb-6-7
+
+###### Hebrews 6:8
+
+But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned.
+
+^kjv-heb-6-8
+
+###### Hebrews 6:9
+
+But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
+
+^kjv-heb-6-9
+
+###### Hebrews 6:10
+
+For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.
+
+^kjv-heb-6-10
+
+###### Hebrews 6:11
+
+And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:
+
+^kjv-heb-6-11
+
+###### Hebrews 6:12
+
+That ye be not slothful, but followers of them who through faith and patience inherit the promises.
+
+^kjv-heb-6-12
+
+###### Hebrews 6:13
+
+For when God made promise to Abraham, because he could swear by no greater, he sware by himself,
+
+^kjv-heb-6-13
+
+###### Hebrews 6:14
+
+Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
+
+^kjv-heb-6-14
+
+###### Hebrews 6:15
+
+And so, after he had patiently endured, he obtained the promise.
+
+^kjv-heb-6-15
+
+###### Hebrews 6:16
+
+For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
+
+^kjv-heb-6-16
+
+###### Hebrews 6:17
+
+Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:
+
+^kjv-heb-6-17
+
+###### Hebrews 6:18
+
+That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
+
+^kjv-heb-6-18
+
+###### Hebrews 6:19
+
+Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
+
+^kjv-heb-6-19
+
+###### Hebrews 6:20
+
+Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.
+
+^kjv-heb-6-20

@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-cross-ankh-crux-ansata-a-symbol-of-life
+headword: "CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE
+
+- **Entry ID:** `gaskell-1960-entry-cross-ankh-crux-ansata-a-symbol-of-life`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_194`, `page_195`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_194|page_194]], [[Supporting Material/Gaskell/Source Text/page_195|page_195]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> This Egyptian cross has the same meaning as the Latin cross.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `CHILDREN OF HORUS` | **candidate (first-segment only)** → possible `CHILDREN OF HORUS, FOUR` (not linked) |
+| `CIRCLE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE|CIRCLE]] |
+| `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+| `SPHERE` | **candidate (first-segment only)** → possible `SPHERE, OR SPHAIROS` (not linked) |
+| `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
+| `ZODIAC` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-cross-ankh-crux-ansata-a-symbol-of-life-ocr-body`
+
+```text
+This Egyptian cross has the same meaning as the Latin cross. The circular handle is a symbol of the higher planes, but inasmuch as the handle is not a perfect circle, it indicates that activities pass from above to the quaternary below. “According to Pythagoras, when the Soul descends from the boundary where CROWD the Zodiac and Galaxy meet, from a spherical form, which is the only divine one, it is elongated into a conical one wie downward tendency.” —Macrobiue, When the soul enters upon the limitations of the cycle of life (Zodiac) it is no longer wholly divine, but its lower part gravitates towards desire and sensation. The ‘“ Galaxy” is a symbol of the celestial regions (atmabuddhi) from which the Soul has come. The World-soul descends to be involved in the matter of the lower planes, that it may rise again in the myriad souls of humanity. See CHILDREN OF HORUS, CIRCLE, QUATERNARY, SPHERE, SQUARE, ZODIAC.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_194|page_194]], [[Supporting Material/Gaskell/Source Text/page_195|page_195]]
+

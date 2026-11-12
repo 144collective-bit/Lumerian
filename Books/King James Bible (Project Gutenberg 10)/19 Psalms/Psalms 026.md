@@ -1,0 +1,100 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-26
+book_name: "Psalms"
+chapter: 26
+verses: 12
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 26"
+  - "KJV Psalms 26"
+---
+
+# Psalms 26
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 025|Psalms 25]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 027|Psalms 27]]
+
+## Text
+
+###### Psalms 26:1
+
+Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.
+
+^kjv-psa-26-1
+
+###### Psalms 26:2
+
+Examine me, O LORD, and prove me; try my reins and my heart.
+
+^kjv-psa-26-2
+
+###### Psalms 26:3
+
+For thy lovingkindness is before mine eyes: and I have walked in thy truth.
+
+^kjv-psa-26-3
+
+###### Psalms 26:4
+
+I have not sat with vain persons, neither will I go in with dissemblers.
+
+^kjv-psa-26-4
+
+###### Psalms 26:5
+
+I have hated the congregation of evil doers; and will not sit with the wicked.
+
+^kjv-psa-26-5
+
+###### Psalms 26:6
+
+I will wash mine hands in innocency: so will I compass thine altar, O LORD:
+
+^kjv-psa-26-6
+
+###### Psalms 26:7
+
+That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.
+
+^kjv-psa-26-7
+
+###### Psalms 26:8
+
+LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.
+
+^kjv-psa-26-8
+
+###### Psalms 26:9
+
+Gather not my soul with sinners, nor my life with bloody men:
+
+^kjv-psa-26-9
+
+###### Psalms 26:10
+
+In whose hands is mischief, and their right hand is full of bribes.
+
+^kjv-psa-26-10
+
+###### Psalms 26:11
+
+But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.
+
+^kjv-psa-26-11
+
+###### Psalms 26:12
+
+My foot standeth in an even place: in the congregations will I bless the LORD.
+
+^kjv-psa-26-12

@@ -1,0 +1,76 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-lion-god-double
+headword: "LION-GOD, DOUBLE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# LION-GOD, DOUBLE
+
+- **Entry ID:** `gaskell-1960-entry-lion-god-double`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_462`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_462|page_462]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`LION-GOD, DOUBLE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> ~ ** Two lions seated back to back and supporting the horizon with the sun’s disk, over which extends the sky; the lion on the right is called Sef, i.e.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Arc. MAN` | **unresolved** (review queue) |
+| `Buro` | **unresolved** (review queue) |
+| `Day` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAY|DAY]] |
+| `EvotvTron` | **unresolved** (review queue) |
+| `Horizons` | **candidate (first-segment only)** → possible `HORIZONS, THE TWO` (not linked) |
+| `Invoturion` | **unresolved** (review queue) |
+| `Musvusr` | **unresolved** (review queue) |
+| `Nou` | **unresolved** (review queue) |
+| `RA` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
+| `Sexuet-aakvu` | **unresolved** (review queue) |
+| `SHu (double)` | **candidate (first-segment only)** → possible `SHU, SON OF RA AND HATHOR` (not linked) |
+| `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+| `Sun-risivna` | **unresolved** (review queue) |
+| `Tem` | **unresolved** (review queue) |
+| `Tuat` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `ZODIAC` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-lion-god-double-ocr-body`
+
+```text
+~ ** Two lions seated back to back and supporting the horizon with the sun’s disk, over which extends the sky; the lion on the right is called Sef, i.e. ‘ Yesterday, and that on the left, Tuau, i.e. *To-day.’’’—Bupar, Book of the Dead, . 90. ‘ The “two lions” signify respectively the former period and process of involution (Yesterday), and the present period and process of evolution (To-day). **I (Nu) am the double Lion-god, the first-born of R& and Tem of Ah-khebti (as Buto), the gods who dwell in their divine chambers.’”’—Jbid., Ch. 38, p. 166. The Divine power in the universe (Nu) proceeds first, from the celestial Logos (R&) in the process of involution, and second, from the terrestrial Logos (Tem),—the Archetypal Man,— in the process of evolution. ‘‘The two Lion-gods watch, one at each end, the path of the night Sun.” — Ibid., p. 216. | 455 LITANY The cycle of life on the lower planes (the Tuat), wherein the Self (sun) is unapparent, is divided into two parts,—the descent of Spirit into matter, and the ascent of Spirit therefrom. See Arc. MAN, Buro, Day, EvotvTron, Horizons, Invoturion, Musvusr, Nou, RA, Sexuet-aakvu, SHu (double), Sun, Sun-risivna, Tem, Tuat, ZODIAC.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_462|page_462]]
+

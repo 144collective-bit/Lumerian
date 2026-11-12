@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-shoe-latchet-of-jesus
+headword: "SHOE-LATCHET OF JESUS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SHOE-LATCHET OF JESUS
+
+- **Entry ID:** `gaskell-1960-entry-shoe-latchet-of-jesus`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_694`, `page_695`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_694|page_694]], [[Supporting Material/Gaskell/Source Text/page_695|page_695]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SHOE-LATCHET OF JESUS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of spiritual power through love.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BHARATA` | **candidate (first-segment only)** → possible `BHARATA, THE VICE-KING` (not linked) |
+| `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `CHRIST (increase)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `JOHN BAPTIST. SHOES OF RAMA :-A symbol of advancing spiritual power. See BHARATA` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `RAMA. SHOES ON THE FEET :-A symbol of power to advance. See FEET` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `Foor` | **unresolved** (review queue) |
+| `GOLDEN SOLES` | **unresolved** (review queue) |
+| `RoBE` | **candidate (first-segment only)** → possible `ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY` (not linked) |
+| `SANDALS` | **candidate (first-segment only)** → possible `SANDALS, OR SHOES` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-shoe-latchet-of-jesus-ocr-body`
+
+```text
+Symbolic of spiritual power through love. “In the midst of you standeth one whom ye know not, even he that cometh after me, the latchet of whose shoe I am not worthy to unloose.’’—JOHN i. 26, 27. In the midst of the qualities of the soul is the central Ideal—the Christ, even the Spiritual nature which is evolved after the moral nature. The suggestion of unworthiness refers to the fact that the moral nature (John) embraces the sense of veneration and is inwardly aware of the greater Love  SHOES nature which is to supersede it. “John” speaks thus in order to emphasise the fact that whilst the Spiritual nature stands upon, or is supported by, the moral nature, the moral nature itself may not presume to question or interfere in any way with the Christ, who is whole and entire, without spot or blemish, and wanting nothing. See BHARATA, CHRIST, CHRIST (increase), JESUS, JOHN BAPTIST. SHOES OF RAMA :-A symbol of advancing spiritual power. See BHARATA, RAMA. SHOES ON THE FEET :-A symbol of power to advance. See FEET, Foor, GOLDEN SOLES, RoBE, SANDALS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_694|page_694]], [[Supporting Material/Gaskell/Source Text/page_695|page_695]]
+

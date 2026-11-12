@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-birth-of-confucius
+headword: "BIRTH OF CONFUCIUS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BIRTH OF CONFUCIUS
+
+- **Entry ID:** `gaskell-1960-entry-birth-of-confucius`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_114`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_114|page_114]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BIRTH OF CONFUCIUS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the entrance of the Higher Self into the mentality of the lower nature during the cycle of Involution.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Cave` | **candidate (ambiguous first-segment)** → CAVE, OR CAVERN; CAVE, THE OVER-ROOFED (not linked) |
+| `Conrucrus` | **unresolved** (review queue) |
+| `Draaon` | **unresolved** (review queue) |
+| `Fruiau prery` | **unresolved** (review queue) |
+| `Sout` | **unresolved** (review queue) |
+| `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-birth-of-confucius-ocr-body`
+
+```text
+A symbol of the entrance of the Higher Self into the mentality of the lower nature during the cycle of Involution. ** The birth of Confucius is surrounded with many prodigious occurrences. ... As her time drew near, the mother, Ching-tsae, asked her husband if there was any place near called ‘The hollow mulberry tree.’ He told her there was a dry cave in the south hill of that name. She said, ‘I will go there.’ On the night when the child was born, two dragons came and kept watch, etc.’’—J. LEGGE, Life and Teachings of Confucius, p. 58. When the emotion-nature (Chingteae) was sufficiently advanced, and it aspired upward, there was a presentiment of spiritual] influx, and in due time the Self was born in the purified soul (dry cave). The ‘hollow mulberry tree’ refers to the Divine Ray to which all souls are attached, and which proceeds from the higher planes (south hill). The ‘two dragons’ symbolise wisdom and love which protect the infant Self by keeping it close within. See Cave, Conrucrus, Draaon, Fruiau prery, Sout, TREE OF LIFE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_114|page_114]]
+

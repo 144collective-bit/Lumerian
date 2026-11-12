@@ -1,0 +1,88 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-146
+book_name: "Psalms"
+chapter: 146
+verses: 10
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 146"
+  - "KJV Psalms 146"
+---
+
+# Psalms 146
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 145|Psalms 145]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 147|Psalms 147]]
+
+## Text
+
+###### Psalms 146:1
+
+Praise ye the LORD. Praise the LORD, O my soul.
+
+^kjv-psa-146-1
+
+###### Psalms 146:2
+
+While I live will I praise the LORD: I will sing praises unto my God while I have any being.
+
+^kjv-psa-146-2
+
+###### Psalms 146:3
+
+Put not your trust in princes, nor in the son of man, in whom there is no help.
+
+^kjv-psa-146-3
+
+###### Psalms 146:4
+
+His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.
+
+^kjv-psa-146-4
+
+###### Psalms 146:5
+
+Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:
+
+^kjv-psa-146-5
+
+###### Psalms 146:6
+
+Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:
+
+^kjv-psa-146-6
+
+###### Psalms 146:7
+
+Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:
+
+^kjv-psa-146-7
+
+###### Psalms 146:8
+
+The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:
+
+^kjv-psa-146-8
+
+###### Psalms 146:9
+
+The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
+
+^kjv-psa-146-9
+
+###### Psalms 146:10
+
+The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.
+
+^kjv-psa-146-10

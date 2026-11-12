@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-spade-to-dig-the-earth
+headword: "SPADE TO DIG THE EARTH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SPADE TO DIG THE EARTH
+
+- **Entry ID:** `gaskell-1960-entry-spade-to-dig-the-earth`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_719`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_719|page_719]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SPADE TO DIG THE EARTH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the buddhic function in its action on the lower nature (earth).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Arms` | **candidate (first-segment only)** → possible `ARMS, WEAPONS` (not linked) |
+| `ASVINS` | **candidate (first-segment only)** → possible `ASVINS, THE TWO` (not linked) |
+| `BUDDHI` | **candidate (first-segment only)** → possible `BUDDHI, OR THE WISDOM PRINCIPLE` (not linked) |
+| `Savitri` | **candidate (first-segment only)** → possible `SAVITRI, THE SUN` (not linked) |
+| `TRANSMUTATION` | **unresolved** (review queue) |
+| `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-spade-to-dig-the-earth-ocr-body`
+
+```text
+A symbol of the buddhic function in its action on the lower nature (earth). ‘“‘The sacrificer takes the spade with, ‘I take thee, at the impulse of the divine Savitri, with the arms of the Asvins, with the hands of Paishan: thou art a woman.’ ’’—Sata. Bréh., III. 7, 1, 1. The incarnate Self energised by the Supreme (Savitri), and becoming active in the Individuality and the Personality (the Asvins), functions in the lower nature to bring about the buddhic (woman) transmutations of the lower qualities. See Arms, ASVINS, BUDDHI, Savitri, TRANSMUTATION, WOMAN.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_719|page_719]]
+

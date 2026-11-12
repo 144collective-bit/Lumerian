@@ -1,0 +1,48 @@
+Manly Palmer Hall
+within the words “Wisdom and understanding are more to be desired than riches” will
+now be deciphered.
+     The first step is to discover [he letters of each alphabet and replace them by their
+equivalent a or b in accordance with the key given by Lord Bacon in his biliteral alphabet
+(q.v.). In the word wisdom, the W is from the b alphabet; therefore it is replaced by a b. The
+i is from the a alphabet; therefore an a is put in its place. The s is also from the a alpha-
+bet, but the d belongs to the b alphabet. The o and the m both belong to the a alphabet is
+replaced by a. By this process the word WISDOM become baabaa. Treating the remain-
+ing words of the sentence in a similar manner, AND becomes aba; UNDERSTANDING,
+aaabaaaaaabab; ARE, aba; MORE, abbb; TO, ab; BE, ab; DESIRED, abaabaa; THAN,
+aaba; RICHES, aaaaaa.
+     The next step is to run all the letters together; thus: baabaaabaaaabaaaaaababa-
+baabbbabababaabaaaabaaaaaaa. All the combinations used in the Baconian biliteral ci-
+pher consist of groups containing five letters each. Therefore the solid line of letters must
+be broken into groups of five in the following manner: baaba aabaa aabaa aaaab ababa
+abbba babab aabaa aabaa aaaaa. Each of these groups of five letters now represents one
+letter of the cipher, and the actual letter can now be determined by comparing the groups
+with the alphabetical table, The Key to the Biliteral Cipher, from De Augmentis Scientia-
+rum (q.v.): baaba = T, aabaa = E, aabaa = E; aaaab = B; ababa = L; abbba = P; babab =
+X; aabaa = E, aabaa = E; aaaaa = A; but the last five letters of the word riches being set
+off by a period from the initial r, the last five a’s do not count in the cipher. The letters thus
+extracted are now brought together in order, resulting in TEEBLPXEE.
+
+                                                             AN EXAMPLE OF
+                                                             BILITERAL WRITING.
+
+                                                              In the above sentence note carefully the forma-
+                                                              tion of the letters. Compare each letter with
+                                                              the two types of letters in the biliteral alphabet
+                                                              table reproduced from Lord Bacon’s De Aug-
+mentis Scientiarum. A comparison of the “d” in “wisdom” with the “d” in “and” discloses a large loop at
+the top of the first, while the second shows practically no loop at all. Contrast the “i” in “wisdom” with
+the “i” in “understanding.” In the former, the lines are curved and in the latter angular. A similar analysis
+of the two “r’s” in “desired” reveals obvious differences. The “o” in “more” differs only from the “o” in
+“wisdom” in that it a tiny line continues from the top over towards the “r.” The “a” in “than” is thinner and
+more angular than the “a” in “are,” while the “r” in “riches” differs from that in “desired” in that the final
+upright stroke terminates in a ball instead of a sharp point. These minor differences disclose the presence
+of the two alphabets employed in writing the sentence.
+
+    At this point the inquirer might reasonably expect the letters to make intelligible words;
+but he will very likely be disappointed, for, as in the case above, the letters thus extracted
+are themselves a cryptogram, doubly involved to discourage those who might have a
+casual acquaintance with the biliteral system. The next step is to apply the nine letters to
+what is commonly called a wheel (or disc) cipher (q.v.), which consists of two alphabets,
+one revolving around the other in such a manner that numerous transpositions of letters
+
+566

@@ -1,0 +1,106 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-46
+book_name: "Isaiah"
+chapter: 46
+verses: 13
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 46"
+  - "KJV Isaiah 46"
+---
+
+# Isaiah 46
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 045|Isaiah 45]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 047|Isaiah 47]]
+
+## Text
+
+###### Isaiah 46:1
+
+Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
+
+^kjv-isa-46-1
+
+###### Isaiah 46:2
+
+They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
+
+^kjv-isa-46-2
+
+###### Isaiah 46:3
+
+Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:
+
+^kjv-isa-46-3
+
+###### Isaiah 46:4
+
+And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.
+
+^kjv-isa-46-4
+
+###### Isaiah 46:5
+
+To whom will ye liken me, and make me equal, and compare me, that we may be like?
+
+^kjv-isa-46-5
+
+###### Isaiah 46:6
+
+They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
+
+^kjv-isa-46-6
+
+###### Isaiah 46:7
+
+They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, one shall cry unto him, yet can he not answer, nor save him out of his trouble.
+
+^kjv-isa-46-7
+
+###### Isaiah 46:8
+
+Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.
+
+^kjv-isa-46-8
+
+###### Isaiah 46:9
+
+Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
+
+^kjv-isa-46-9
+
+###### Isaiah 46:10
+
+Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
+
+^kjv-isa-46-10
+
+###### Isaiah 46:11
+
+Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.
+
+^kjv-isa-46-11
+
+###### Isaiah 46:12
+
+Hearken unto me, ye stouthearted, that are far from righteousness:
+
+^kjv-isa-46-12
+
+###### Isaiah 46:13
+
+I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.
+
+^kjv-isa-46-13

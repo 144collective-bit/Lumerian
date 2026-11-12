@@ -1,0 +1,61 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-amazons
+headword: "AMAZONS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# AMAZONS
+
+- **Entry ID:** `gaskell-1960-entry-amazons`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_51`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_51|page_51]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`AMAZONS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the higher emotions ,— the buddhic,—which oppose the desires.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Caucasus` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-amazons-ocr-body`
+
+```text
+A symbol of the higher emotions ,— the buddhic,—which oppose the desires. **A mythical race of warlike females, are said to have come from the Caucasus, and to have settled in the country about the river Thermoden. Their country was inhabited only by the Amazons, who were governed by a queen: but in order to propagate their race, they met once a year the Gargarians in Mount Caucasus.” —Smith’s Clase. Dict. 44 AMBROSL The higher emotions which conten against the desire-mental qualitie arise upon the buddhic plane as result of aspiration from below, ar are contiguous to the “ river of life They are above the mental qualitic and are co-ordinated by Wisdo1 At one period of the cycle (yee they become allied with the high mental faculties, and this allian brings into activity many qualiti buddhic and mental. See Caucasus.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_51|page_51]]
+

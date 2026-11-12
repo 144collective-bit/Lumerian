@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-adapa-the-son-of-ea-or-of-eridu
+headword: "ADAPA, THE SON OF EA, OR OF ERIDU"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ADAPA, THE SON OF EA, OR OF ERIDU
+
+- **Entry ID:** `gaskell-1960-entry-adapa-the-son-of-ea-or-of-eridu`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_32`, `page_33`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_32|page_32]], [[Supporting Material/Gaskell/Source Text/page_33|page_33]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ADAPA, THE SON OF EA, OR OF ERIDU :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Archetypal Man, son of the First Logos, the Lord from Heaven, ‘*Ea had created Adapa without a helpmate; he had endowed him with wisdom and knowledge, but had denied to him the gift of immortality.” —Saycer, Rel.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Apam (higher)` | **unresolved** (review queue) |
+| `ARC. MAN` | **unresolved** (review queue) |
+| `Botts` | **unresolved** (review queue) |
+| `Gates` | **unresolved** (review queue) |
+| `Heer` | **unresolved** (review queue) |
+| `IMMORTALITY` | **unresolved** (review queue) |
+| `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
+| `TAMMUZ. ADEPT;` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-adapa-the-son-of-ea-or-of-eridu-ocr-body`
+
+```text
+A symbol of the Archetypal Man, son of the First Logos, the Lord from Heaven, ‘*Ea had created Adapa without a helpmate; he had endowed him with wisdom and knowledge, but had denied to him the gift of immortality.” —Saycer, Rel. of Anc. Egypt. and Babyl., p. 383. At this stage creation on the lower planes had not taken place, and it is upon the lower planes that duality is involved. Man’s Prototype is endowed with ‘‘ wisdom and know: ledge,’’ that is, with buddhi and manas, yet is devoid at this stage of those aspects of the Self which shall entitle him to life eternal, and ADEPT which justify his individual existence in the manifested Cosmos. ““Man (Adapa) remained mortal, and it was never again in his power to eat of the tree of life.”’—Ibid., p. 384. Humanity in its lower nature so continued mortal; nor was it possible for man, i.e. man limited to the three lower plancs, ever to become more than man and immortal. *“‘Adapa is called the ‘seed of mankind.’ "—-Dr. Frrrz Hommet. See Apam (higher), ARC. MAN, Botts, Gates, Heer, IMMORTALITY, INDIVIDUALITY, PERSONALITY, SOUTH WIND, TAMMUZ. ADEPT;
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_32|page_32]], [[Supporting Material/Gaskell/Source Text/page_33|page_33]]
+

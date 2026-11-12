@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-peaches-of-izanagi-three
+headword: "PEACHES OF IZANAGI, THREE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# PEACHES OF IZANAGI, THREE
+
+- **Entry ID:** `gaskell-1960-entry-peaches-of-izanagi-three`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_571`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_571|page_571]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`PEACHES OF IZANAGI, THREE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of the fruit of the Spirit, —Truth, Love, and Wisdom.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BrRTH OF HORUS` | **unresolved** (review queue) |
+| `FRUIT oFr THE SPIRIT` | **unresolved** (review queue) |
+| `GARDEN OF REEDS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
+| `IzZaNaAGI` | **unresolved** (review queue) |
+| `MansH` | **unresolved** (review queue) |
+| `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
+| `SEKHETAARU` | **candidate (first-segment only)** → possible `SEKHET-AARU, OR FIELD OF REEDS` (not linked) |
+| `YOML` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-peaches-of-izanagi-three-ocr-body`
+
+```text
+Symbols of the fruit of the Spirit, —Truth, Love, and Wisdom. **On reaching the foot of the ‘ Even Pass of Yomi,’ Izanagi gathered three peaches that were growing there, and smote his pursuers (the Ugly Females) with them, so that they all fled back. Moreover, he said to the peaches, ‘As ye have helped me, 80 must ye help all living people in the Central Land of Reed plains when they are in trouble.” — The Kojiki. The consciousness rising to the higher mental plane perceives the Truth, Love, and Wisdom, to be found there. These are effectual in withstanding the lower emotions (Ugly Females), and are made accessible in the soul, so that the striving mental qualities (the people), having in them the germ of Divine life, may be nourished by them. The ‘ Land of Reed-plains ’”’ is the astro-mentality. See BrRTH OF HORUS, FRUIT oFr THE SPIRIT, GARDEN OF REEDS, IzZaNaAGI, MansH, REED-PLAIN, SEKHETAARU, YOML.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_571|page_571]]
+

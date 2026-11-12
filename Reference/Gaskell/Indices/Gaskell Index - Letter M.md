@@ -1,0 +1,219 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: M
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter M
+
+Entries whose normalized head begins with **M** (198).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] — `gaskell-1960-entry-maat-goddess` — EPUB p.470
+- [[Reference/Gaskell/Entries/M/MAB, A WEAPON OF HORUS|MAB, A WEAPON OF HORUS]] — `gaskell-1960-entry-mab-a-weapon-of-horus` — EPUB p.470,471
+- [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] — `gaskell-1960-entry-macrocosm-and-microcosm` — EPUB p.471,472
+- [[Reference/Gaskell/Entries/M/MAGI FROM THE EAST|MAGI FROM THE EAST]] — `gaskell-1960-entry-magi-from-the-east` — EPUB p.472
+- [[Reference/Gaskell/Entries/M/MAGIC, OR MAGICAL POWERS|MAGIC, OR MAGICAL POWERS]] — `gaskell-1960-entry-magic-or-magical-powers` — EPUB p.472,473,474
+- [[Reference/Gaskell/Entries/M/MAHABHARATA MAGICAL PRACTICES (LOWER)|MAHABHARATA MAGICAL PRACTICES (LOWER)]] — `gaskell-1960-entry-mahabharata-magical-practices-lower` — EPUB p.474
+- [[Reference/Gaskell/Entries/M/MAHABHARATA, OR THE GREAT ORIGINATOR|MAHABHARATA, OR THE GREAT ORIGINATOR]] — `gaskell-1960-entry-mahabharata-or-the-great-originator` — EPUB p.474
+- [[Reference/Gaskell/Entries/M/MAHAT|MAHAT]] — `gaskell-1960-entry-mahat` — EPUB p.474
+- [[Reference/Gaskell/Entries/M/MAHAVIRA, SOVEREIGN LORD|MAHAVIRA, SOVEREIGN LORD]] — `gaskell-1960-entry-mahavira-sovereign-lord` — EPUB p.474
+- [[Reference/Gaskell/Entries/M/MAHAVIRA-POT|MAHAVIRA-POT]] — `gaskell-1960-entry-mahavira-pot` — EPUB p.474
+- [[Reference/Gaskell/Entries/M/MAHA-YANA AND HINA-YANA|MAHA-YANA AND HINA-YANA]] — `gaskell-1960-entry-maha-yana-and-hina-yana` — EPUB p.474,475
+- [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] — `gaskell-1960-entry-maiden-heavenly` — EPUB p.475
+- [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] — `gaskell-1960-entry-maishan-on-the-shores-of-the-sea` — EPUB p.475,476
+- [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] — `gaskell-1960-entry-male-female` — EPUB p.476
+- [[Reference/Gaskell/Entries/M/MALE-FEMALE OF THE DIVINE NATURE|MALE-FEMALE OF THE DIVINE NATURE]] — `gaskell-1960-entry-male-female-of-the-divine-nature` — EPUB p.476
+- [[Reference/Gaskell/Entries/M/MALKUTH, THE HOLY SPIRIT|MALKUTH, THE HOLY SPIRIT]] — `gaskell-1960-entry-malkuth-the-holy-spirit` — EPUB p.476,477
+- [[Reference/Gaskell/Entries/M/MAMMON OF UNRIGHTEOUSNESS|MAMMON OF UNRIGHTEOUSNESS]] — `gaskell-1960-entry-mammon-of-unrighteousness` — EPUB p.477
+- [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] — `gaskell-1960-entry-man-and-wife` — EPUB p.477,478
+- [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] — `gaskell-1960-entry-man-bad-or-wicked` — EPUB p.478
+- [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] — `gaskell-1960-entry-man-blind` — EPUB p.478
+- [[Reference/Gaskell/Entries/M/MAN BORN AS AN ANIMAL|MAN BORN AS AN ANIMAL]] — `gaskell-1960-entry-man-born-as-an-animal` — EPUB p.478,479,480,481
+- [[Reference/Gaskell/Entries/M/MAN MAN, RIGHTEOUS|MAN MAN, RIGHTEOUS]] — `gaskell-1960-entry-man-man-righteous` — EPUB p.483
+- [[Reference/Gaskell/Entries/M/MAN, OR MEN|MAN, OR MEN]] — `gaskell-1960-entry-man-or-men` — EPUB p.477
+- [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] — `gaskell-1960-entry-man-without-woman` — EPUB p.483,484
+- [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]] — `gaskell-1960-entry-manas-as-a-centre` — EPUB p.484
+- [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] — `gaskell-1960-entry-manas-manasic` — EPUB p.484
+- [[Reference/Gaskell/Entries/M/MANASAPUTRAS, MIND|MANASAPUTRAS, MIND]] — `gaskell-1960-entry-manasaputras-mind` — EPUB p.484
+- [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] — `gaskell-1960-entry-manasi-the-beloved` — EPUB p.484,485
+- [[Reference/Gaskell/Entries/M/MANEROS, THE LITTLE BOY|MANEROS, THE LITTLE BOY]] — `gaskell-1960-entry-maneros-the-little-boy` — EPUB p.485
+- [[Reference/Gaskell/Entries/M/MANES|MANES]] — `gaskell-1960-entry-manes` — EPUB p.485
+- [[Reference/Gaskell/Entries/M/MANGER IN WHICH THE INFANT JESUS WAS LAID|MANGER IN WHICH THE INFANT JESUS WAS LAID]] — `gaskell-1960-entry-manger-in-which-the-infant-jesus-was-laid` — EPUB p.485,486
+- [[Reference/Gaskell/Entries/M/MANIFESTATION INTO DAY|MANIFESTATION INTO DAY]] — `gaskell-1960-entry-manifestation-into-day` — EPUB p.486
+- [[Reference/Gaskell/Entries/M/MANNA|MANNA]] — `gaskell-1960-entry-manna` — EPUB p.486,487
+- [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] — `gaskell-1960-entry-mansions` — EPUB p.487
+- [[Reference/Gaskell/Entries/M/MANU|MANU]] — `gaskell-1960-entry-manu` — EPUB p.487
+- [[Reference/Gaskell/Entries/M/MANU VAIVASVATA|MANU VAIVASVATA]] — `gaskell-1960-entry-manu-vaivasvata` — EPUB p.487
+- [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] — `gaskell-1960-entry-manvantara` — EPUB p.487,488
+- [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] — `gaskell-1960-entry-mara-the-tempter` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARE|MARE]] — `gaskell-1960-entry-mare` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARES OF JESUS|MARES OF JESUS]] — `gaskell-1960-entry-mares-of-jesus` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARIANDYNI|MARIANDYNI]] — `gaskell-1960-entry-mariandyni` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARJATTA OR MARIATTA|MARJATTA OR MARIATTA]] — `gaskell-1960-entry-marjatta-or-mariatta` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARK ON CAIN|MARK ON CAIN]] — `gaskell-1960-entry-mark-on-cain` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARKET-PLACE|MARKET-PLACE]] — `gaskell-1960-entry-market-place` — EPUB p.488
+- [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] — `gaskell-1960-entry-marriage` — EPUB p.488,489
+- [[Reference/Gaskell/Entries/M/MARRIAGE, LOWER ASPECT|MARRIAGE, LOWER ASPECT]] — `gaskell-1960-entry-marriage-lower-aspect` — EPUB p.489
+- [[Reference/Gaskell/Entries/M/MARRIAGE OF THE LAMB|MARRIAGE OF THE LAMB]] — `gaskell-1960-entry-marriage-of-the-lamb` — EPUB p.489,490
+- [[Reference/Gaskell/Entries/M/MARRIAGE WITHIN CASTES|MARRIAGE WITHIN CASTES]] — `gaskell-1960-entry-marriage-within-castes` — EPUB p.490
+- [[Reference/Gaskell/Entries/M/MARS, THE PLANET|MARS, THE PLANET]] — `gaskell-1960-entry-mars-the-planet` — EPUB p.490
+- [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] — `gaskell-1960-entry-marsh-marrow` — EPUB p.490
+- [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] — `gaskell-1960-entry-maruts` — EPUB p.491
+- [[Reference/Gaskell/Entries/M/MARUTS MARTHA AND MARY|MARUTS MARTHA AND MARY]] — `gaskell-1960-entry-maruts-martha-and-mary` — EPUB p.491
+- [[Reference/Gaskell/Entries/M/MARY, BETRAYAL OF JESUS|MARY, BETRAYAL OF JESUS]] — `gaskell-1960-entry-mary-betrayal-of-jesus` — EPUB p.107,108
+- [[Reference/Gaskell/Entries/M/MASCULINE PRINCIPLE|MASCULINE PRINCIPLE]] — `gaskell-1960-entry-masculine-principle` — EPUB p.491,492
+- [[Reference/Gaskell/Entries/M/MASONRY MASONRY|MASONRY MASONRY]] — `gaskell-1960-entry-masonry-masonry` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MASS|MASS]] — `gaskell-1960-entry-mass` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]] — `gaskell-1960-entry-mast-lowered` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] — `gaskell-1960-entry-mast-of-a-ship` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MASTER, NOT RULED BY A|MASTER, NOT RULED BY A]] — `gaskell-1960-entry-master-not-ruled-by-a` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]] — `gaskell-1960-entry-master-of-wisdom` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MASTER, RULED BY A|MASTER, RULED BY A]] — `gaskell-1960-entry-master-ruled-by-a` — EPUB p.492
+- [[Reference/Gaskell/Entries/M/MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR|MATRO (MESCHIA) AND MATROYAO (MESCHIANE),-THE FIRST HUMAN PAIR]] — `gaskell-1960-entry-matro-meschia-and-matroyao-meschiane-the-first-human-pair` — EPUB p.492,493
+- [[Reference/Gaskell/Entries/M/MATS OF FLOOR OF DWELLING|MATS OF FLOOR OF DWELLING]] — `gaskell-1960-entry-mats-of-floor-of-dwelling` — EPUB p.493
+- [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] — `gaskell-1960-entry-matter-feminine` — EPUB p.493,494
+- [[Reference/Gaskell/Entries/M/MAUI, THE POTIKI|MAUI, THE POTIKI]] — `gaskell-1960-entry-maui-the-potiki` — EPUB p.494,495
+- [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] — `gaskell-1960-entry-maya-higher-aspect` — EPUB p.495
+- [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] — `gaskell-1960-entry-maya-lower-aspect` — EPUB p.495
+- [[Reference/Gaskell/Entries/M/MAZENDARANS|MAZENDARANS]] — `gaskell-1960-entry-mazendarans` — EPUB p.495,496
+- [[Reference/Gaskell/Entries/M/MEADOW OF ATE OR HADES|MEADOW OF ATE OR HADES]] — `gaskell-1960-entry-meadow-of-ate-or-hades` — EPUB p.496
+- [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] — `gaskell-1960-entry-meal-or-wheat-ground-in-a-mill` — EPUB p.496
+- [[Reference/Gaskell/Entries/M/MEAOU TRIBES OF CHINA|MEAOU TRIBES OF CHINA]] — `gaskell-1960-entry-meaou-tribes-of-china` — EPUB p.496
+- [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] — `gaskell-1960-entry-measure` — EPUB p.496
+- [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]] — `gaskell-1960-entry-meat-and-drink` — EPUB p.497
+- [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]] — `gaskell-1960-entry-meat-holy` — EPUB p.497
+- [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] — `gaskell-1960-entry-meat-or-food` — EPUB p.496,497
+- [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] — `gaskell-1960-entry-medea` — EPUB p.497
+- [[Reference/Gaskell/Entries/M/MEDIATOR CHRIST|MEDIATOR CHRIST]] — `gaskell-1960-entry-mediator-christ` — EPUB p.497,498
+- [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] — `gaskell-1960-entry-medicine` — EPUB p.498
+- [[Reference/Gaskell/Entries/M/MEDUSA, THE GORGON|MEDUSA, THE GORGON]] — `gaskell-1960-entry-medusa-the-gorgon` — EPUB p.498,499
+- [[Reference/Gaskell/Entries/M/MEH, THE WATER OF|MEH, THE WATER OF]] — `gaskell-1960-entry-meh-the-water-of` — EPUB p.499
+- [[Reference/Gaskell/Entries/M/MELANTIAN NECKS, ROCKS|MELANTIAN NECKS, ROCKS]] — `gaskell-1960-entry-melantian-necks-rocks` — EPUB p.499
+- [[Reference/Gaskell/Entries/M/MELCARTHUS, KING|MELCARTHUS, KING]] — `gaskell-1960-entry-melcarthus-king` — EPUB p.499
+- [[Reference/Gaskell/Entries/M/MELCHIZEDEK|MELCHIZEDEK]] — `gaskell-1960-entry-melchizedek` — EPUB p.499
+- [[Reference/Gaskell/Entries/M/MELODY, MUSIC|MELODY, MUSIC]] — `gaskell-1960-entry-melody-music` — EPUB p.499,500,501
+- [[Reference/Gaskell/Entries/M/MEMPHIS|MEMPHIS]] — `gaskell-1960-entry-memphis` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MEN, BAT-WINGED|MEN, BAT-WINGED]] — `gaskell-1960-entry-men-bat-winged` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MEN, BREAST-EARED|MEN, BREAST-EARED]] — `gaskell-1960-entry-men-breast-eared` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MEN, BREAST-EYED|MEN, BREAST-EYED]] — `gaskell-1960-entry-men-breast-eyed` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MEN, HUNDRED-HANDED ,-THE CENTIMANI|MEN, HUNDRED-HANDED ,-THE CENTIMANI]] — `gaskell-1960-entry-men-hundred-handed-the-centimani` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MEN OF THE FOREST WITH TAILS, AND WHO HAVE HAIR ON THE BODY|MEN OF THE FOREST WITH TAILS, AND WHO HAVE HAIR ON THE BODY]] — `gaskell-1960-entry-men-of-the-forest-with-tails-and-who-have-hair-on-the-body` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MENAT SIGN OR AMULET|MENAT SIGN OR AMULET]] — `gaskell-1960-entry-menat-sign-or-amulet` — EPUB p.501
+- [[Reference/Gaskell/Entries/M/MENDES, BUSIRIS, OR TATTU|MENDES, BUSIRIS, OR TATTU]] — `gaskell-1960-entry-mendes-busiris-or-tattu` — EPUB p.501,502
+- [[Reference/Gaskell/Entries/M/MENELAUS MENELAUS, SON OF ATREUS|MENELAUS MENELAUS, SON OF ATREUS]] — `gaskell-1960-entry-menelaus-menelaus-son-of-atreus` — EPUB p.502
+- [[Reference/Gaskell/Entries/M/MENTAL SHEATH, OR BODY, OF THE HUMAN BEING|MENTAL SHEATH, OR BODY, OF THE HUMAN BEING]] — `gaskell-1960-entry-mental-sheath-or-body-of-the-human-being` — EPUB p.503
+- [[Reference/Gaskell/Entries/M/MENTAL-PLANE|MENTAL-PLANE]] — `gaskell-1960-entry-mental-plane` — EPUB p.502,503
+- [[Reference/Gaskell/Entries/M/MERCABA|MERCABA]] — `gaskell-1960-entry-mercaba` — EPUB p.503
+- [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] — `gaskell-1960-entry-merchandise-true` — EPUB p.503
+- [[Reference/Gaskell/Entries/M/MERCHANTS OF THE EAST|MERCHANTS OF THE EAST]] — `gaskell-1960-entry-merchants-of-the-east` — EPUB p.503
+- [[Reference/Gaskell/Entries/M/MERODACH OR MARDUE|MERODACH OR MARDUE]] — `gaskell-1960-entry-merodach-or-mardue` — EPUB p.503,504
+- [[Reference/Gaskell/Entries/M/MERT, CITY OR GOD OF|MERT, CITY OR GOD OF]] — `gaskell-1960-entry-mert-city-or-god-of` — EPUB p.504
+- [[Reference/Gaskell/Entries/M/MERTET SEA|MERTET SEA]] — `gaskell-1960-entry-mertet-sea` — EPUB p.504
+- [[Reference/Gaskell/Entries/M/MESCH, OR MESCHGAH, PLANET VENUS|MESCH, OR MESCHGAH, PLANET VENUS]] — `gaskell-1960-entry-mesch-or-meschgah-planet-venus` — EPUB p.504
+- [[Reference/Gaskell/Entries/M/MESSENGER OF THE DIVINE|MESSENGER OF THE DIVINE]] — `gaskell-1960-entry-messenger-of-the-divine` — EPUB p.504
+- [[Reference/Gaskell/Entries/M/MESSIAH|MESSIAH]] — `gaskell-1960-entry-messiah` — EPUB p.504,505
+- [[Reference/Gaskell/Entries/M/METALS|METALS]] — `gaskell-1960-entry-metals` — EPUB p.505
+- [[Reference/Gaskell/Entries/M/METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES|METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES]] — `gaskell-1960-entry-metempsychosis-or-the-transmigration-of-souls-through-animal-and-human-bodies` — EPUB p.505,506
+- [[Reference/Gaskell/Entries/M/METZTLI, MOON-GODDESS|METZTLI, MOON-GODDESS]] — `gaskell-1960-entry-metztli-moon-goddess` — EPUB p.506
+- [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] — `gaskell-1960-entry-michael-the-archangel` — EPUB p.506
+- [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] — `gaskell-1960-entry-microcosm` — EPUB p.506,507
+- [[Reference/Gaskell/Entries/M/MICTLAN|MICTLAN]] — `gaskell-1960-entry-mictlan` — EPUB p.507
+- [[Reference/Gaskell/Entries/M/MIDGARD|MIDGARD]] — `gaskell-1960-entry-midgard` — EPUB p.507
+- [[Reference/Gaskell/Entries/M/MIDGARD'S SERPENT|MIDGARD'S SERPENT]] - `gaskell-1960-entry-s-serpent` - EPUB p.507,508
+- [[Reference/Gaskell/Entries/M/MIDST, SECOND SPACE IN THE|MIDST, SECOND SPACE IN THE]] — `gaskell-1960-entry-midst-second-space-in-the` — EPUB p.508
+- [[Reference/Gaskell/Entries/M/MIDST, WAY OF THE|MIDST, WAY OF THE]] — `gaskell-1960-entry-midst-way-of-the` — EPUB p.508
+- [[Reference/Gaskell/Entries/M/MILE FROM COW|MILE FROM COW]] — `gaskell-1960-entry-mile-from-cow` — EPUB p.508
+- [[Reference/Gaskell/Entries/M/MILK AS FOR BABES (LOWER ASPECT)|MILK AS FOR BABES (LOWER ASPECT)]] — `gaskell-1960-entry-milk-as-for-babes-lower-aspect` — EPUB p.508,509
+- [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]] — `gaskell-1960-entry-mind-good` — EPUB p.509
+- [[Reference/Gaskell/Entries/M/MIND, PRIAM, HEDGEHOG|MIND, PRIAM, HEDGEHOG]] — `gaskell-1960-entry-mind-priam-hedgehog` — EPUB p.356
+- [[Reference/Gaskell/Entries/M/MINERVA, OR ATHENA|MINERVA, OR ATHENA]] — `gaskell-1960-entry-minerva-or-athena` — EPUB p.509
+- [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] — `gaskell-1960-entry-ministers-of-the-state` — EPUB p.509,510
+- [[Reference/Gaskell/Entries/M/MIRACLES OF HEALING|MIRACLES OF HEALING]] — `gaskell-1960-entry-miracles-of-healing` — EPUB p.510
+- [[Reference/Gaskell/Entries/M/MIRROR|MIRROR]] — `gaskell-1960-entry-mirror` — EPUB p.510,511
+- [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] — `gaskell-1960-entry-mistletoe` — EPUB p.511
+- [[Reference/Gaskell/Entries/M/MITEGURA, OR GOHEI|MITEGURA, OR GOHEI]] — `gaskell-1960-entry-mitegura-or-gohei` — EPUB p.511,512
+- [[Reference/Gaskell/Entries/M/MITHRA SLAYING THE BULL|MITHRA SLAYING THE BULL]] — `gaskell-1960-entry-mithra-slaying-the-bull` — EPUB p.512
+- [[Reference/Gaskell/Entries/M/MITRE|MITRE]] — `gaskell-1960-entry-mitre` — EPUB p.512
+- [[Reference/Gaskell/Entries/M/MITRO, SROSH, AND RASHNU|MITRO, SROSH, AND RASHNU]] — `gaskell-1960-entry-mitro-srosh-and-rashnu` — EPUB p.512,513
+- [[Reference/Gaskell/Entries/M/MIXTURE MITHRAS OR MITHRA|MIXTURE MITHRAS OR MITHRA]] — `gaskell-1960-entry-mixture-mithras-or-mithra` — EPUB p.512
+- [[Reference/Gaskell/Entries/M/MIXTURE, PHILIP THE APOSTLE|MIXTURE, PHILIP THE APOSTLE]] — `gaskell-1960-entry-mixture-philip-the-apostle` — EPUB p.579
+- [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] — `gaskell-1960-entry-mjolner-the-hammer-of-thor` — EPUB p.513
+- [[Reference/Gaskell/Entries/M/MODGUNN, THE BRIDGE MAIDEN|MODGUNN, THE BRIDGE MAIDEN]] — `gaskell-1960-entry-modgunn-the-bridge-maiden` — EPUB p.513
+- [[Reference/Gaskell/Entries/M/MOIRAE OR FATES, DAUGHTERS OF ZEUS AND THEMIS|MOIRAE OR FATES, DAUGHTERS OF ZEUS AND THEMIS]] — `gaskell-1960-entry-moirae-or-fates-daughters-of-zeus-and-themis` — EPUB p.513,514
+- [[Reference/Gaskell/Entries/M/MOIST AND DRY|MOIST AND DRY]] — `gaskell-1960-entry-moist-and-dry` — EPUB p.514
+- [[Reference/Gaskell/Entries/M/MOIST ESSENCE|MOIST ESSENCE]] — `gaskell-1960-entry-moist-essence` — EPUB p.514
+- [[Reference/Gaskell/Entries/M/MOISTURE AND HEAT|MOISTURE AND HEAT]] — `gaskell-1960-entry-moisture-and-heat` — EPUB p.514
+- [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] — `gaskell-1960-entry-monad-of-form` — EPUB p.514,515
+- [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] — `gaskell-1960-entry-monad-of-life` — EPUB p.515,516
+- [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] — `gaskell-1960-entry-monad-the-one` — EPUB p.514
+- [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] — `gaskell-1960-entry-monk-or-hermit` — EPUB p.516
+- [[Reference/Gaskell/Entries/M/MONKEY, OR APE|MONKEY, OR APE]] — `gaskell-1960-entry-monkey-or-ape` — EPUB p.516
+- [[Reference/Gaskell/Entries/M/MONSTERS OF TIAMAT|MONSTERS OF TIAMAT]] — `gaskell-1960-entry-monsters-of-tiamat` — EPUB p.516
+- [[Reference/Gaskell/Entries/M/MONTH|MONTH]] — `gaskell-1960-entry-month` — EPUB p.516
+- [[Reference/Gaskell/Entries/M/MOON (HIGHER ASPECT)|MOON (HIGHER ASPECT)]] — `gaskell-1960-entry-moon-higher-aspect` — EPUB p.516,517
+- [[Reference/Gaskell/Entries/M/MOON (LOWER ASPECT)|MOON (LOWER ASPECT)]] — `gaskell-1960-entry-moon-lower-aspect` — EPUB p.517
+- [[Reference/Gaskell/Entries/M/MOON (SOLAR ASPECT)|MOON (SOLAR ASPECT)]] — `gaskell-1960-entry-moon-solar-aspect` — EPUB p.517,518
+- [[Reference/Gaskell/Entries/M/MOON-BEAMS|MOON-BEAMS]] — `gaskell-1960-entry-moon-beams` — EPUB p.518
+- [[Reference/Gaskell/Entries/M/MOONLIGHT|MOONLIGHT]] — `gaskell-1960-entry-moonlight` — EPUB p.518,519
+- [[Reference/Gaskell/Entries/M/MOON-LIKE FACES OF WOMEN|MOON-LIKE FACES OF WOMEN]] — `gaskell-1960-entry-moon-like-faces-of-women` — EPUB p.519
+- [[Reference/Gaskell/Entries/M/MOON-WANING PERIOD, OR THE DEVAYANA|MOON-WANING PERIOD, OR THE DEVAYANA]] — `gaskell-1960-entry-moon-waning-period-or-the-devayana` — EPUB p.518
+- [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON-WAXING PERIOD, OR THE PITRIYANA]] — `gaskell-1960-entry-moon-waxing-period-or-the-pitriyana` — EPUB p.518
+- [[Reference/Gaskell/Entries/M/MOORING POST FOR SHIP|MOORING POST FOR SHIP]] — `gaskell-1960-entry-mooring-post-for-ship` — EPUB p.519
+- [[Reference/Gaskell/Entries/M/MORNING|MORNING]] — `gaskell-1960-entry-morning` — EPUB p.519
+- [[Reference/Gaskell/Entries/M/MORROW, OR NEXT DAY|MORROW, OR NEXT DAY]] — `gaskell-1960-entry-morrow-or-next-day` — EPUB p.519
+- [[Reference/Gaskell/Entries/M/MORTAL MIND|MORTAL MIND]] — `gaskell-1960-entry-mortal-mind` — EPUB p.519,520
+- [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] — `gaskell-1960-entry-mortar-and-pestle` — EPUB p.520
+- [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] — `gaskell-1960-entry-mosaic-dispensation` — EPUB p.520
+- [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] — `gaskell-1960-entry-moses-the-servant-of-god` — EPUB p.520,521
+- [[Reference/Gaskell/Entries/M/MOSQUITO|MOSQUITO]] — `gaskell-1960-entry-mosquito` — EPUB p.521
+- [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] — `gaskell-1960-entry-mother-divine` — EPUB p.521
+- [[Reference/Gaskell/Entries/M/MOTION AND STABILITY|MOTION AND STABILITY]] — `gaskell-1960-entry-motion-and-stability` — EPUB p.521
+- [[Reference/Gaskell/Entries/M/MOUNT OF OLIVES|MOUNT OF OLIVES]] — `gaskell-1960-entry-mount-of-olives` — EPUB p.521,522
+- [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] — `gaskell-1960-entry-mountain-lower-aspect` — EPUB p.522,523
+- [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]] — `gaskell-1960-entry-mountain-or-mount` — EPUB p.522
+- [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] — `gaskell-1960-entry-mountain-top` — EPUB p.522
+- [[Reference/Gaskell/Entries/M/MOUNTAINS|MOUNTAINS]] — `gaskell-1960-entry-mountains` — EPUB p.523,524
+- [[Reference/Gaskell/Entries/M/MOURU LAND, THE STRONG, HOLY|MOURU LAND, THE STRONG, HOLY]] — `gaskell-1960-entry-mouru-land-the-strong-holy` — EPUB p.524
+- [[Reference/Gaskell/Entries/M/MOUTH FOR RECEIVING FOOD|MOUTH FOR RECEIVING FOOD]] — `gaskell-1960-entry-mouth-for-receiving-food` — EPUB p.524
+- [[Reference/Gaskell/Entries/M/MOUTH, FOR SPEECH|MOUTH, FOR SPEECH]] — `gaskell-1960-entry-mouth-for-speech` — EPUB p.524
+- [[Reference/Gaskell/Entries/M/MOUTH, OPENING OF THE|MOUTH, OPENING OF THE]] — `gaskell-1960-entry-mouth-opening-of-the` — EPUB p.524,525
+- [[Reference/Gaskell/Entries/M/MULA-PRAEKRITI, AKEM-MANO, THE EVIL MIND|MULA-PRAEKRITI, AKEM-MANO, THE EVIL MIND]] — `gaskell-1960-entry-mula-praekriti-akem-mano-the-evil-mind` — EPUB p.43,44
+- [[Reference/Gaskell/Entries/M/MULA-PRAKRITI, HAVAT|MULA-PRAKRITI, HAVAT]] — `gaskell-1960-entry-mula-prakriti-havat` — EPUB p.525
+- [[Reference/Gaskell/Entries/M/MULES AND SWIFT DOGS|MULES AND SWIFT DOGS]] — `gaskell-1960-entry-mules-and-swift-dogs` — EPUB p.525
+- [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] — `gaskell-1960-entry-multiply-and-be-fruitful` — EPUB p.525
+- [[Reference/Gaskell/Entries/M/MULTITUDES HEALED|MULTITUDES HEALED]] — `gaskell-1960-entry-multitudes-healed` — EPUB p.525,526
+- [[Reference/Gaskell/Entries/M/MUMMIES OF ANIMALS|MUMMIES OF ANIMALS]] — `gaskell-1960-entry-mummies-of-animals` — EPUB p.526
+- [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]] — `gaskell-1960-entry-mummy-of-a-human-body` — EPUB p.526
+- [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] — `gaskell-1960-entry-mummy-of-osiris` — EPUB p.526
+- [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] — `gaskell-1960-entry-murder-wrath-and-hatred` — EPUB p.526
+- [[Reference/Gaskell/Entries/M/MURDERER, THIEF, OR WOLF|MURDERER, THIEF, OR WOLF]] — `gaskell-1960-entry-murderer-thief-or-wolf` — EPUB p.526
+- [[Reference/Gaskell/Entries/M/MUSCULAR AND HAIRY MEN|MUSCULAR AND HAIRY MEN]] — `gaskell-1960-entry-muscular-and-hairy-men` — EPUB p.526,527
+- [[Reference/Gaskell/Entries/M/MUSE, THE WHITE-ARMED MAIDEN|MUSE, THE WHITE-ARMED MAIDEN]] — `gaskell-1960-entry-muse-the-white-armed-maiden` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSES|MUSES]] — `gaskell-1960-entry-muses` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSIC AND DANCING|MUSIC AND DANCING]] — `gaskell-1960-entry-music-and-dancing` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSIC OF THE SPHERES|MUSIC OF THE SPHERES]] — `gaskell-1960-entry-music-of-the-spheres` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] — `gaskell-1960-entry-music-or-melody` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSICIAN|MUSICIAN]] — `gaskell-1960-entry-musician` — EPUB p.527
+- [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] — `gaskell-1960-entry-muspell-sons-of` — EPUB p.527,528
+- [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] — `gaskell-1960-entry-muspellheim` — EPUB p.528
+- [[Reference/Gaskell/Entries/M/MUSUBI, THE GOD OF GROWTH|MUSUBI, THE GOD OF GROWTH]] — `gaskell-1960-entry-musubi-the-god-of-growth` — EPUB p.528
+- [[Reference/Gaskell/Entries/M/MUT, THE GODDESS|MUT, THE GODDESS]] — `gaskell-1960-entry-mut-the-goddess` — EPUB p.528
+- [[Reference/Gaskell/Entries/M/MYRMIDONS OF ACHILLES|MYRMIDONS OF ACHILLES]] — `gaskell-1960-entry-myrmidons-of-achilles` — EPUB p.528
+- [[Reference/Gaskell/Entries/M/MYRRH|MYRRH]] — `gaskell-1960-entry-myrrh` — EPUB p.528
+- [[Reference/Gaskell/Entries/M/MYRRH POURED OVER OFFERING|MYRRH POURED OVER OFFERING]] — `gaskell-1960-entry-myrrh-poured-over-offering` — EPUB p.528,529
+- [[Reference/Gaskell/Entries/M/MYSIA REGION|MYSIA REGION]] — `gaskell-1960-entry-mysia-region` — EPUB p.529
+- [[Reference/Gaskell/Entries/M/MYSTERIES OF LIGHT|MYSTERIES OF LIGHT]] — `gaskell-1960-entry-mysteries-of-light` — EPUB p.529
+- [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]] — `gaskell-1960-entry-mystery-first` — EPUB p.529
+- [[Reference/Gaskell/Entries/M/MYSTERY MYRTLE, BURNT|MYSTERY MYRTLE, BURNT]] — `gaskell-1960-entry-mystery-myrtle-burnt` — EPUB p.529
+- [[Reference/Gaskell/Entries/M/MYSTERY-NAME|MYSTERY-NAME]] — `gaskell-1960-entry-mystery-name` — EPUB p.529
+- [[Reference/Gaskell/Entries/M/MYTHOLOGY MYTHOLOGY|MYTHOLOGY MYTHOLOGY]] — `gaskell-1960-entry-mythology-mythology` — EPUB p.529,530
+

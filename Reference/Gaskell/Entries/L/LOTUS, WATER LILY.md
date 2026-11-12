@@ -1,0 +1,72 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-lotus-water-lily
+headword: "LOTUS, WATER LILY"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# LOTUS, WATER LILY
+
+- **Entry ID:** `gaskell-1960-entry-lotus-water-lily`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_466`, `page_467`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_466|page_466]], [[Supporting Material/Gaskell/Source Text/page_467|page_467]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`LOTUS, WATER LILY :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of Wisdom.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ASTHER` | **unresolved** (review queue) |
+| `BuDpDHI` | **unresolved** (review queue) |
+| `CHILDREN OF HokvS` | **unresolved** (review queue) |
+| `Firr` | **unresolved** (review queue) |
+| `Ftowrers` | **unresolved** (review queue) |
+| `Foon` | **unresolved** (review queue) |
+| `FoorSTEPS OF BUDDHA` | **unresolved** (review queue) |
+| `HEaRT` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
+| `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
+| `QUARTERS` | **unresolved** (review queue) |
+| `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+| `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-lotus-water-lily-ocr-body`
+
+```text
+A symbol of Wisdom. The buddhic nature is that of Truth (water) and Beauty (flower). ind or we ** Water-lilies symbolise the free sion of all the treasures of God. notice four things in the water-lily. It keeps always above the water, and has four green leaves between the air and the water; and it is rooted in the earth, and above it is opened out to the sun.”’— Ruyssrorck, Stoddart’s trans., p. 52. ‘*He who, having entered the inner lotus of the heart, devours food, the same having gone to the sky as the fire of the BROTHER’S LOTUS sun, called Time, and being invisible devours all beings as his food. . . . That lotus is the same as the ether: the four quarters, and the four intermediate pointe are its leaves.''"—Mait. Upanishad, VI. 2. The indwelling Self being liberated from the lower nature enters the buddhic vehicle and partakes of the fruit of his experience,—wisdom and love; then having passed higher to the plane of atma at the end of the cycle, and becoming unmanifest, all qualities and beings become absorbed within Him. That buddhic nature is of the spiritual tree of Life, whose leaves may represent the lower quaternary and its centres of consciousness. ** The lotus plant was as sacred with the tians as with the Indians. According to Rouge, it was the symbol of the new birth; but Lepsius considers that it was the symbol of inexhaustible life.” —Baxtow, Essays on Symbolism, p. 32. See ASTHER, BuDpDHI, CHILDREN OF HokvS, Firr, Ftowrers, Foon, FoorSTEPS OF BUDDHA, HEaRT, PLANTS, QUARTERS, QUATERNARY, SUN.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_466|page_466]], [[Supporting Material/Gaskell/Source Text/page_467|page_467]]
+

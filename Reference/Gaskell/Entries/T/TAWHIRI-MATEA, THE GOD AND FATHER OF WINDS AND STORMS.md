@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-tawhiri-matea-the-god-and-father-of-winds-and-storms
+headword: "TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS
+
+- **Entry ID:** `gaskell-1960-entry-tawhiri-matea-the-god-and-father-of-winds-and-storms`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_753`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_753|page_753]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the negative condition of ignorance and illusion which produces disharmony and strife.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Crops` | **unresolved** (review queue) |
+| `GALES` | **unresolved** (review queue) |
+| `MENIS` | **unresolved** (review queue) |
+| `Rawnci` | **unresolved** (review queue) |
+| `Ronco` | **unresolved** (review queue) |
+| `SEParaTiIon` | **unresolved** (review queue) |
+| `Storm` | **unresolved** (review queue) |
+| `StTRire` | **unresolved** (review queue) |
+| `TANE-MAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
+| `TUMA-TAUENGA` | **unresolved** (review queue) |
+| `WINDS (various)` | **candidate (ambiguous first-segment)** → WINDS, FOUR; WINDS, VARIOUS (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-tawhiri-matea-the-god-and-father-of-winds-and-storms-ocr-body`
+
+```text
+A symbol of the negative condition of ignorance and illusion which produces disharmony and strife. ‘*Then also there arose in the breast of Tawhiri-matea a fierce desire to wage war with his brothers, because they had rent apart their common Parents. He from the first had refused to consent to his Mother being torn from her Lord and Children; it was his brothers alone that wished for this separation, and desired that Papa-tuanuku, or the Earth alone, should be left as a Parent for them. The god of hurricanes and storms dreads also that the world should become too fair and beautiful, so he rises, follows his Father to the realms above, and hurries to the sheltered hollows in the boundless skies.".—G. Grey, Polynesian Mythology, p. 5. Then the negative condition of ignorance, in which the entities were necessarily involved, had the effect of producing incessant conflicts throughout nature as soon as the entities became active on their own account. Ignorance could not have consented to soparation of matter (Papa), and spirit (Rangi), because, through the consequent evolution, ignorance would be dispelled. But all nature in its five planes (the brothers) was ready for manifestation and to pour out the Divine Life that was in it, while matter (earth) alone was apparent to the consciousness as containing all that was needful. Ignorance is said to dread the development of the soul ‘world), so it apparently rises and 746 TCHESERT becomes. as it were, the negation of Spirit, taking refuge negatively in the obscurity of the Infinite Reality ; for the lower nature is ignorant § and cannot comprehend the Higher, even as the lesser cannot contain the greater. See Crops, GALES, MENIS, Rawnci, Ronco, SEParaTiIon, Storm, StTRire, TANE-MAHUTA, TUMA-TAUENGA, WINDS (various).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_753|page_753]]
+

@@ -1,0 +1,94 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-eze
+chapter_id: kjv-eze-9
+book_name: "Ezekiel"
+chapter: 9
+verses: 11
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ezekiel 9"
+  - "KJV Ezekiel 9"
+---
+
+# Ezekiel 9
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel|Ezekiel]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel 008|Ezekiel 8]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel 010|Ezekiel 10]]
+
+## Text
+
+###### Ezekiel 9:1
+
+He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
+
+^kjv-eze-9-1
+
+###### Ezekiel 9:2
+
+And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer’s inkhorn by his side: and they went in, and stood beside the brasen altar.
+
+^kjv-eze-9-2
+
+###### Ezekiel 9:3
+
+And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer’s inkhorn by his side;
+
+^kjv-eze-9-3
+
+###### Ezekiel 9:4
+
+And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.
+
+^kjv-eze-9-4
+
+###### Ezekiel 9:5
+
+And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity:
+
+^kjv-eze-9-5
+
+###### Ezekiel 9:6
+
+Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house.
+
+^kjv-eze-9-6
+
+###### Ezekiel 9:7
+
+And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city.
+
+^kjv-eze-9-7
+
+###### Ezekiel 9:8
+
+And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
+
+^kjv-eze-9-8
+
+###### Ezekiel 9:9
+
+Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.
+
+^kjv-eze-9-9
+
+###### Ezekiel 9:10
+
+And as for me also, mine eye shall not spare, neither will I have pity, but I will recompense their way upon their head.
+
+^kjv-eze-9-10
+
+###### Ezekiel 9:11
+
+And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
+
+^kjv-eze-9-11

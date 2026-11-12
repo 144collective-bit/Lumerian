@@ -1,0 +1,78 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-seker-or-sokaris
+headword: "SEKER OR SOKARIS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SEKER OR SOKARIS
+
+- **Entry ID:** `gaskell-1960-entry-seker-or-sokaris`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_674`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_674|page_674]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SEKER OR SOKARIS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the primitive motivepower of evolution, which is the desire-principle active on the astralplane, and the life (astro-mental) of the physical organisms.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `A¥Fu-RA` | **unresolved** (review queue) |
+| `ARC. MAN` | **unresolved** (review queue) |
+| `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
+| `BOAT ON RIVER` | **unresolved** (review queue) |
+| `DARKNESS` | **unresolved** (review queue) |
+| `DEATH OF osiRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
+| `DEsERT` | **unresolved** (review queue) |
+| `Hawk` | **candidate (first-segment only)** → possible `HAWK, MAN-HEADED` (not linked) |
+| `Heap` | **unresolved** (review queue) |
+| `INvotuTion` | **unresolved** (review queue) |
+| `Kama` | **unresolved** (review queue) |
+| `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `NortH` | **unresolved** (review queue) |
+| `Priants` | **unresolved** (review queue) |
+| `Serrent` | **unresolved** (review queue) |
+| `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
+| `TUAT` | **candidate (first-segment only)** → possible `TUAT, OR DUAT, THE UNDERWORLD` (not linked) |
+| `WINGS` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-seker-or-sokaris-ocr-body`
+
+```text
+A symbol of the primitive motivepower of evolution, which is the desire-principle active on the astralplane, and the life (astro-mental) of the physical organisms. 667 SEKHET-AARU “The form (of Seker) in which this god (Ra) is depicted is that of a hawk. headed man, who stands between a pair of wings that project from the back of a huge serpent having two heads and necks, and a tail terminating in a bearded human head.”—Bupar, Egypt. Heaven and Hell, Vol. III. p. 135. This description symbolises the Higher Self (Ra) manifesting in the aspiration (wings) proceeding from desire (serpent) through mind and emotion (two heads) in physical humanity (head extremity). Ré’s lower realm, ‘“‘the kingdom of Seker,”’ is the astral plane where he lives obscured in thick darkness under the guise of desire (Seker). “The kingdom of Seker was shrouded in thick darkness, and instead of consisting of fertile plains and fields, intersected by streams of running water, was formed of bare, barren, sandy deserts, wherein lived monster serpents of terrifying aspect, some having two, and some three heads, and some having wings. This region offered so many difficulties to the passage of the Boat of Afu-Raé that special means had to be found for overcoming them, and for enabling the god and his followers to proceed northMal to the House of Osiris.” —Jbid., This region being in the fourth division of the Tuat signifies the involution of the qualities of kamamanas. The soul-state is barren of all higher qualities and filled with desires (serpents) and passions. Hence the obscurity of the indwelling Self (Afu-R&) and the apparent difficulties of progress wherein the Spirit cannot express itself. Progress in the involutionary cycle is ‘“‘ northwards ’”’ to culminate in the lowest condition (house) in which is encased the perfected Soul—the Archetvpal Man (Osiris). See A¥Fu-RA, ARC. MAN, ASTRAL PLANE, BOAT ON RIVER, DARKNESS, DEATH OF osiRIS, DEsERT, Hawk, Heap, INvotuTion, Kama, Man, NortH, Priants, Serrent, TANEMAHUTA, TUAT, WINGS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_674|page_674]]
+

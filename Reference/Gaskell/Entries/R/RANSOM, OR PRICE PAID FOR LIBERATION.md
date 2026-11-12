@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-ransom-or-price-paid-for-liberation
+headword: "RANSOM, OR PRICE PAID FOR LIBERATION"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# RANSOM, OR PRICE PAID FOR LIBERATION
+
+- **Entry ID:** `gaskell-1960-entry-ransom-or-price-paid-for-liberation`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_619`, `page_620`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_619|page_619]], [[Supporting Material/Gaskell/Source Text/page_620|page_620]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`RANSOM, OR PRICE PAID FOR LIBERATION :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the higher qualities, which are potential or latent withia the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ATONEMENT` | **unresolved** (review queue) |
+| `CHRYSEIS` | **candidate (first-segment only)** → possible `CHRYSEIS, HIS DAUGHTER` (not linked) |
+| `MEDIATOR` | **unresolved** (review queue) |
+| `REDEMPTION` | **unresolved** (review queue) |
+| `RicHEs` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
+| `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
+| `ZION` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-ransom-or-price-paid-for-liberation-ocr-body`
+
+```text
+A symbol of the higher qualities, which are potential or latent withia the soul. When the conditions are fulfilled, offering is made by the lower Self of its highest qualities in order that still higher qualities (ransom) shall become active, and release the soul from its thraldom to the lower nature. This process implies the transmutation of the lower qualities into the higher. “The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.”— Marr. xx. 28. The first among the qualities shall assist those qualities next below. The indwelling Self born in the mind (man) came to raise the qualities, and by his outflowing Life become the potential perfection which brings actual perfection to those qualities which approach nearest to him. ‘Two conceptions of human life are uncovered and contrasted in the text. To live at all involves for every one s double experience of ministering and being administered unto. Character is developed and revealed in the article of service received and service rendered. . .. Of some, wherever placed in the vast and manifold system of society, the Master's Words about Himself may, in a measure. be spoken; they, like Him, carry ever on the earth the sacred and sanctifying character of service ; they also have come to minister, and to give their lives for the rescue and help of others... (Somo again) grow to regard society s: an organisation directly designed for their comfort and advancement. Less and less does the thought of service as due from them to society find admission to their minds ; more and more it is barred out from entrance by the ever-multiplying requirements of self. Of them, also, the word of Christ is true; their whok RASHNU life from cradle to grave might be summed up in the simple and luminous sentence, “they came to be ministered unto.’ Society is full of them, and, unless the rophets of our time speak falsely, ming yearly more full of them. The old World has to carry on its weary shoulders an ever-waxing burden of useless drones, who take all and give nothing back, and worse still, of social wolves, who are abroad in society only to prey upon it.”—H. Henstry HENson, The Value of the Bible, pp. 265-8. See ATONEMENT, CHRYSEIS, MEDIATOR, REDEMPTION, RicHEs, SON OF MAN, ZION.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_619|page_619]], [[Supporting Material/Gaskell/Source Text/page_620|page_620]]
+

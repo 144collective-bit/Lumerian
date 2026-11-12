@@ -1,0 +1,211 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: B
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter B
+
+Entries whose normalized head begins with **B** (191).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/B/BA, THE SOUL|BA, THE SOUL]] — `gaskell-1960-entry-ba-the-soul` — EPUB p.95
+- [[Reference/Gaskell/Entries/B/BABEL CITY|BABEL CITY]] — `gaskell-1960-entry-babel-city` — EPUB p.95
+- [[Reference/Gaskell/Entries/B/BABEL TOWER|BABEL TOWER]] — `gaskell-1960-entry-babel-tower` — EPUB p.95
+- [[Reference/Gaskell/Entries/B/BABYLON|BABYLON]] — `gaskell-1960-entry-babylon` — EPUB p.95,96
+- [[Reference/Gaskell/Entries/B/BACABS, FOUR|BACABS, FOUR]] — `gaskell-1960-entry-bacabs-four` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BACCH OS|BACCH OS]] — `gaskell-1960-entry-bacch-os` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BACK PARTS OF THE DEITY|BACK PARTS OF THE DEITY]] — `gaskell-1960-entry-back-parts-of-the-deity` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BACKBONE|BACKBONE]] — `gaskell-1960-entry-backbone` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BAHMAN (VOHU-MANO)|BAHMAN (VOHU-MANO)]] — `gaskell-1960-entry-bahman-vohu-mano` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BAKHDHI THE BEAUTIFUL|BAKHDHI THE BEAUTIFUL]] — `gaskell-1960-entry-bakhdhi-the-beautiful` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] — `gaskell-1960-entry-balance-of-spirits` — EPUB p.96
+- [[Reference/Gaskell/Entries/B/BALARAMA (RAMA THE STRONG)|BALARAMA (RAMA THE STRONG)]] — `gaskell-1960-entry-balarama-rama-the-strong` — EPUB p.97
+- [[Reference/Gaskell/Entries/B/BALDER THE GOOD|BALDER THE GOOD]] — `gaskell-1960-entry-balder-the-good` — EPUB p.97,98
+- [[Reference/Gaskell/Entries/B/BANNERS, HIGH LIFTED|BANNERS, HIGH LIFTED]] — `gaskell-1960-entry-banners-high-lifted` — EPUB p.98
+- [[Reference/Gaskell/Entries/B/BANQUET|BANQUET]] — `gaskell-1960-entry-banquet` — EPUB p.275,276
+- [[Reference/Gaskell/Entries/B/BANQUET OR FEAST|BANQUET OR FEAST]] — `gaskell-1960-entry-banquet-or-feast` — EPUB p.98
+- [[Reference/Gaskell/Entries/B/BAPTISM OF FIRE|BAPTISM OF FIRE]] — `gaskell-1960-entry-baptism-of-fire` — EPUB p.99
+- [[Reference/Gaskell/Entries/B/BAPTISM OF WATER|BAPTISM OF WATER]] — `gaskell-1960-entry-baptism-of-water` — EPUB p.98,99
+- [[Reference/Gaskell/Entries/B/BARABBAS, MURDERER AND ROBBER|BARABBAS, MURDERER AND ROBBER]] — `gaskell-1960-entry-barabbas-murderer-and-robber` — EPUB p.99
+- [[Reference/Gaskell/Entries/B/BARHIS, SACRIFICIAL GRASS|BARHIS, SACRIFICIAL GRASS]] — `gaskell-1960-entry-barhis-sacrificial-grass` — EPUB p.99,100
+- [[Reference/Gaskell/Entries/B/BARHISHAD PITRIS, OR LUNAR SPIRITS|BARHISHAD PITRIS, OR LUNAR SPIRITS]] — `gaskell-1960-entry-barhishad-pitris-or-lunar-spirits` — EPUB p.100
+- [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]] — `gaskell-1960-entry-barley-and-wheat-or-rice` — EPUB p.100
+- [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] — `gaskell-1960-entry-barley-corns` — EPUB p.100,101
+- [[Reference/Gaskell/Entries/B/BATTLE|BATTLE]] — `gaskell-1960-entry-battle` — EPUB p.101
+- [[Reference/Gaskell/Entries/B/BDELLIUM AND THE ONYX STONE|BDELLIUM AND THE ONYX STONE]] — `gaskell-1960-entry-bdellium-and-the-onyx-stone` — EPUB p.101
+- [[Reference/Gaskell/Entries/B/BEANS|BEANS]] — `gaskell-1960-entry-beans` — EPUB p.101
+- [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] — `gaskell-1960-entry-beast-of-the-bottomless-pit` — EPUB p.101,102
+- [[Reference/Gaskell/Entries/B/BEASTS AND BIRDS SACRIFICED|BEASTS AND BIRDS SACRIFICED]] — `gaskell-1960-entry-beasts-and-birds-sacrificed` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEASTS, ANIMALS|BEASTS, ANIMALS]] — `gaskell-1960-entry-beasts-animals` — EPUB p.102
+- [[Reference/Gaskell/Entries/B/BEASTS, BIRDS, AND FISHES|BEASTS, BIRDS, AND FISHES]] — `gaskell-1960-entry-beasts-birds-and-fishes` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEASTS OF THE EARTH|BEASTS OF THE EARTH]] — `gaskell-1960-entry-beasts-of-the-earth` — EPUB p.102,103
+- [[Reference/Gaskell/Entries/B/BEASTS OF THE MOUNTAINS|BEASTS OF THE MOUNTAINS]] — `gaskell-1960-entry-beasts-of-the-mountains` — EPUB p.103
+- [[Reference/Gaskell/Entries/B/BEASTS OF THREE SORTS ON EARTH|BEASTS OF THREE SORTS ON EARTH]] — `gaskell-1960-entry-beasts-of-three-sorts-on-earth` — EPUB p.103,104
+- [[Reference/Gaskell/Entries/B/BEASTS, UNCLEAN|BEASTS, UNCLEAN]] — `gaskell-1960-entry-beasts-unclean` — EPUB p.102
+- [[Reference/Gaskell/Entries/B/BEASTS, WILD|BEASTS, WILD]] — `gaskell-1960-entry-beasts-wild` — EPUB p.103
+- [[Reference/Gaskell/Entries/B/BEATIFIC VISION|BEATIFIC VISION]] — `gaskell-1960-entry-beatific-vision` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEATRICE OF DANTE|BEATRICE OF DANTE]] — `gaskell-1960-entry-beatrice-of-dante` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEBRYCIA|BEBRYCIA]] — `gaskell-1960-entry-bebrycia` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BED|BED]] — `gaskell-1960-entry-bed` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BED, OR COUCH OF ZEUS|BED, OR COUCH OF ZEUS]] — `gaskell-1960-entry-bed-or-couch-of-zeus` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEE-INMATE OF LOTUS|BEE-INMATE OF LOTUS]] — `gaskell-1960-entry-bee-inmate-of-lotus` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEELZEBUB|BEELZEBUB]] — `gaskell-1960-entry-beelzebub` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEES|BEES]] — `gaskell-1960-entry-bees` — EPUB p.104,105
+- [[Reference/Gaskell/Entries/B/BEES BEAUTY AND UGLINESS|BEES BEAUTY AND UGLINESS]] — `gaskell-1960-entry-bees-beauty-and-ugliness` — EPUB p.104
+- [[Reference/Gaskell/Entries/B/BEES, LIBATIONS FROM|BEES, LIBATIONS FROM]] — `gaskell-1960-entry-bees-libations-from` — EPUB p.105
+- [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] — `gaskell-1960-entry-begetting-sons-and-daughters` — EPUB p.105
+- [[Reference/Gaskell/Entries/B/BEHEADING|BEHEADING]] — `gaskell-1960-entry-beheading` — EPUB p.105
+- [[Reference/Gaskell/Entries/B/BEHEMOTH, THE GREAT BULL|BEHEMOTH, THE GREAT BULL]] — `gaskell-1960-entry-behemoth-the-great-bull` — EPUB p.105,106
+- [[Reference/Gaskell/Entries/B/BEL OF NIPUR, OR MUL-LILLA, THE LORD OF THE LOWER WORLD|BEL OF NIPUR, OR MUL-LILLA, THE LORD OF THE LOWER WORLD]] — `gaskell-1960-entry-bel-of-nipur-or-mul-lilla-the-lord-of-the-lower-world` — EPUB p.106
+- [[Reference/Gaskell/Entries/B/BELIEF|BELIEF]] — `gaskell-1960-entry-belief` — EPUB p.106
+- [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] — `gaskell-1960-entry-bennu-bird` — EPUB p.106,107
+- [[Reference/Gaskell/Entries/B/BERNACLE, CUSH, OR ZTHIOPES|BERNACLE, CUSH, OR ZTHIOPES]] — `gaskell-1960-entry-bernacle-cush-or-zthiopes` — EPUB p.203
+- [[Reference/Gaskell/Entries/B/BERSERKS, OR WARRIORS|BERSERKS, OR WARRIORS]] — `gaskell-1960-entry-berserks-or-warriors` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BERYLS AND GOLD|BERYLS AND GOLD]] — `gaskell-1960-entry-beryls-and-gold` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BES, GOD|BES, GOD]] — `gaskell-1960-entry-bes-god` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BETHANY|BETHANY]] — `gaskell-1960-entry-bethany` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BETHESDA|BETHESDA]] — `gaskell-1960-entry-bethesda` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BETHLEHEM|BETHLEHEM]] — `gaskell-1960-entry-bethlehem` — EPUB p.107
+- [[Reference/Gaskell/Entries/B/BHARATA, THE VICE-KING|BHARATA, THE VICE-KING]] — `gaskell-1960-entry-bharata-the-vice-king` — EPUB p.108
+- [[Reference/Gaskell/Entries/B/BHIKSHU|BHIKSHU]] — `gaskell-1960-entry-bhikshu` — EPUB p.108
+- [[Reference/Gaskell/Entries/B/BHISMA, SANTANAVA, THE TERRIBLE|BHISMA, SANTANAVA, THE TERRIBLE]] — `gaskell-1960-entry-bhisma-santanava-the-terrible` — EPUB p.108,109
+- [[Reference/Gaskell/Entries/B/BIFROST, THE HEAVENLY BRIDGE|BIFROST, THE HEAVENLY BRIDGE]] — `gaskell-1960-entry-bifrost-the-heavenly-bridge` — EPUB p.109
+- [[Reference/Gaskell/Entries/B/BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING|BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING]] — `gaskell-1960-entry-binah-the-sephirah-or-immah-the-mother-understanding` — EPUB p.109
+- [[Reference/Gaskell/Entries/B/BINDING AND LOOSING ON EARTH AND IN HEAVEN|BINDING AND LOOSING ON EARTH AND IN HEAVEN]] — `gaskell-1960-entry-binding-and-loosing-on-earth-and-in-heaven` — EPUB p.109,110
+- [[Reference/Gaskell/Entries/B/BIRDS (LOWER ASPECT)|BIRDS (LOWER ASPECT)]] — `gaskell-1960-entry-birds-lower-aspect` — EPUB p.111
+- [[Reference/Gaskell/Entries/B/BIRDS OF THE HEAVEN|BIRDS OF THE HEAVEN]] — `gaskell-1960-entry-birds-of-the-heaven` — EPUB p.110
+- [[Reference/Gaskell/Entries/B/BIRDS, TWO, OF THE HOLY FIGTREE|BIRDS, TWO, OF THE HOLY FIGTREE]] — `gaskell-1960-entry-birds-two-of-the-holy-figtree` — EPUB p.110,111
+- [[Reference/Gaskell/Entries/B/BIRTH AND DEATH OF FORMS|BIRTH AND DEATH OF FORMS]] — `gaskell-1960-entry-birth-and-death-of-forms` — EPUB p.112
+- [[Reference/Gaskell/Entries/B/BIRTH CEREMONIES OF THE BUDDHA|BIRTH CEREMONIES OF THE BUDDHA]] — `gaskell-1960-entry-birth-ceremonies-of-the-buddha` — EPUB p.119
+- [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] — `gaskell-1960-entry-birth-of-buddha` — EPUB p.112,113
+- [[Reference/Gaskell/Entries/B/BIRTH OF CHRIST|BIRTH OF CHRIST]] — `gaskell-1960-entry-birth-of-christ` — EPUB p.113,114
+- [[Reference/Gaskell/Entries/B/BIRTH OF CONFUCIUS|BIRTH OF CONFUCIUS]] — `gaskell-1960-entry-birth-of-confucius` — EPUB p.114
+- [[Reference/Gaskell/Entries/B/BIRTH OF HORUS THE CHILD, OR HARPOCRATES|BIRTH OF HORUS THE CHILD, OR HARPOCRATES]] — `gaskell-1960-entry-birth-of-horus-the-child-or-harpocrates` — EPUB p.114,115
+- [[Reference/Gaskell/Entries/B/BIRTH OF JESUS|BIRTH OF JESUS]] — `gaskell-1960-entry-birth-of-jesus` — EPUB p.115,116
+- [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]] — `gaskell-1960-entry-birth-of-krishna-an-incarnation-of-vishnu` — EPUB p.116,117
+- [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] — `gaskell-1960-entry-birth-of-krishna-vault-of-heaven` — EPUB p.794
+- [[Reference/Gaskell/Entries/B/BIRTH OF OSIRIS, OR RA|BIRTH OF OSIRIS, OR RA]] — `gaskell-1960-entry-birth-of-osiris-or-ra` — EPUB p.117,118
+- [[Reference/Gaskell/Entries/B/BIRTH OF THE MAN-CHILD|BIRTH OF THE MAN-CHILD]] — `gaskell-1960-entry-birth-of-the-man-child` — EPUB p.117
+- [[Reference/Gaskell/Entries/B/BIRTH OF ZOROASTER|BIRTH OF ZOROASTER]] — `gaskell-1960-entry-birth-of-zoroaster` — EPUB p.118
+- [[Reference/Gaskell/Entries/B/BIRTH, SECOND, OF AN ARYAN|BIRTH, SECOND, OF AN ARYAN]] — `gaskell-1960-entry-birth-second-of-an-aryan` — EPUB p.118,119
+- [[Reference/Gaskell/Entries/B/BIRTH-CHAMBER OF THE DIVINE CITY|BIRTH-CHAMBER OF THE DIVINE CITY]] — `gaskell-1960-entry-birth-chamber-of-the-divine-city` — EPUB p.119
+- [[Reference/Gaskell/Entries/B/BISHOP|BISHOP]] — `gaskell-1960-entry-bishop` — EPUB p.119,120
+- [[Reference/Gaskell/Entries/B/BITTER|BITTER]] — `gaskell-1960-entry-bitter` — EPUB p.120
+- [[Reference/Gaskell/Entries/B/BLACK|BLACK]] — `gaskell-1960-entry-black` — EPUB p.120
+- [[Reference/Gaskell/Entries/B/BLACK MAGICIANS|BLACK MAGICIANS]] — `gaskell-1960-entry-black-magicians` — EPUB p.120
+- [[Reference/Gaskell/Entries/B/BLACK STONE OF THE KAABA|BLACK STONE OF THE KAABA]] — `gaskell-1960-entry-black-stone-of-the-kaaba` — EPUB p.120
+- [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] — `gaskell-1960-entry-blacksmiths-or-workers-in-metal` — EPUB p.120
+- [[Reference/Gaskell/Entries/B/BLANDISHMENT OF WOMEN TOWARDS THE BUDDHA|BLANDISHMENT OF WOMEN TOWARDS THE BUDDHA]] — `gaskell-1960-entry-blandishment-of-women-towards-the-buddha` — EPUB p.120,121
+- [[Reference/Gaskell/Entries/B/BLASPHEMY AGAINST THE HOLY GHOST|BLASPHEMY AGAINST THE HOLY GHOST]] — `gaskell-1960-entry-blasphemy-against-the-holy-ghost` — EPUB p.121
+- [[Reference/Gaskell/Entries/B/BLASTS OF WIND BLOWING DOWN CROPS|BLASTS OF WIND BLOWING DOWN CROPS]] — `gaskell-1960-entry-blasts-of-wind-blowing-down-crops` — EPUB p.306
+- [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]] — `gaskell-1960-entry-blessing-of-god` — EPUB p.121
+- [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] — `gaskell-1960-entry-blessing-of-the-less-by-the-greater` — EPUB p.121
+- [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] — `gaskell-1960-entry-blind-man` — EPUB p.121,122
+- [[Reference/Gaskell/Entries/B/BLISS|BLISS]] — `gaskell-1960-entry-bliss` — EPUB p.122
+- [[Reference/Gaskell/Entries/B/BLOOD|BLOOD]] — `gaskell-1960-entry-blood` — EPUB p.122
+- [[Reference/Gaskell/Entries/B/BLOOD AND WATER|BLOOD AND WATER]] — `gaskell-1960-entry-blood-and-water` — EPUB p.122
+- [[Reference/Gaskell/Entries/B/BLOOD OF THE LAMB|BLOOD OF THE LAMB]] — `gaskell-1960-entry-blood-of-the-lamb` — EPUB p.122,123
+- [[Reference/Gaskell/Entries/B/BLOODY SWEAT OF JESUS|BLOODY SWEAT OF JESUS]] — `gaskell-1960-entry-bloody-sweat-of-jesus` — EPUB p.123
+- [[Reference/Gaskell/Entries/B/BLUE|BLUE]] — `gaskell-1960-entry-blue` — EPUB p.123
+- [[Reference/Gaskell/Entries/B/BLUE BLOOD OF BULLS|BLUE BLOOD OF BULLS]] — `gaskell-1960-entry-blue-blood-of-bulls` — EPUB p.123
+- [[Reference/Gaskell/Entries/B/BLUE HEAVEN|BLUE HEAVEN]] — `gaskell-1960-entry-blue-heaven` — EPUB p.123,124
+- [[Reference/Gaskell/Entries/B/BOAR|BOAR]] — `gaskell-1960-entry-boar` — EPUB p.124
+- [[Reference/Gaskell/Entries/B/BOAR AVATAR OF VISHNU|BOAR AVATAR OF VISHNU]] — `gaskell-1960-entry-boar-avatar-of-vishnu` — EPUB p.124
+- [[Reference/Gaskell/Entries/B/BOAR OF ARES (MARS)|BOAR OF ARES (MARS)]] — `gaskell-1960-entry-boar-of-ares-mars` — EPUB p.124
+- [[Reference/Gaskell/Entries/B/BOAR, WILD|BOAR, WILD]] — `gaskell-1960-entry-boar-wild` — EPUB p.124,125
+- [[Reference/Gaskell/Entries/B/BOAT|BOAT]] — `gaskell-1960-entry-boat` — EPUB p.125
+- [[Reference/Gaskell/Entries/B/BOAT-7049f5|BOAT-7049f5]] — `gaskell-1960-entry-boat` — EPUB p.645
+- [[Reference/Gaskell/Entries/B/BOAT OF THE EARTH|BOAT OF THE EARTH]] — `gaskell-1960-entry-boat-of-the-earth` — EPUB p.125
+- [[Reference/Gaskell/Entries/B/BOAT OF THE TWO-HEADEDSERPENT|BOAT OF THE TWO-HEADEDSERPENT]] — `gaskell-1960-entry-boat-of-the-two-headedserpent` — EPUB p.126
+- [[Reference/Gaskell/Entries/B/BOAT OF WISDOM|BOAT OF WISDOM]] — `gaskell-1960-entry-boat-of-wisdom` — EPUB p.126
+- [[Reference/Gaskell/Entries/B/BOAT ON THE RIVER|BOAT ON THE RIVER]] — `gaskell-1960-entry-boat-on-the-river` — EPUB p.125
+- [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] — `gaskell-1960-entry-bodhisatva-the-great` — EPUB p.126,127
+- [[Reference/Gaskell/Entries/B/BODHISATVAS BODHISATVAS|BODHISATVAS BODHISATVAS]] — `gaskell-1960-entry-bodhisatvas-bodhisatvas` — EPUB p.127
+- [[Reference/Gaskell/Entries/B/BODY OF OSIRIS, OR OF JASON|BODY OF OSIRIS, OR OF JASON]] — `gaskell-1960-entry-body-of-osiris-or-of-jason` — EPUB p.127
+- [[Reference/Gaskell/Entries/B/BOLTS OF THE GATES OF ERIDU|BOLTS OF THE GATES OF ERIDU]] — `gaskell-1960-entry-bolts-of-the-gates-of-eridu` — EPUB p.127
+- [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] — `gaskell-1960-entry-bondage-under-the-rudiments-of-the-world` — EPUB p.127,128
+- [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]] — `gaskell-1960-entry-bones-or-skeleton` — EPUB p.128
+- [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] — `gaskell-1960-entry-bones-white` — EPUB p.128
+- [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]] — `gaskell-1960-entry-book-of-the-lord-god` — EPUB p.128,129
+- [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] — `gaskell-1960-entry-book-studies` — EPUB p.129
+- [[Reference/Gaskell/Entries/B/BOOTHS|BOOTHS]] — `gaskell-1960-entry-booths` — EPUB p.129
+- [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS]] — `gaskell-1960-entry-boreas-the-north-wind-son-of-astrzus-and-eos` — EPUB p.129
+- [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]] — `gaskell-1960-entry-born-again-or-from-above` — EPUB p.129
+- [[Reference/Gaskell/Entries/B/BORN OUT OF DUE TIME|BORN OUT OF DUE TIME]] — `gaskell-1960-entry-born-out-of-due-time` — EPUB p.129
+- [[Reference/Gaskell/Entries/B/BOTTOMLESS PIT|BOTTOMLESS PIT]] — `gaskell-1960-entry-bottomless-pit` — EPUB p.129,130
+- [[Reference/Gaskell/Entries/B/BOUGH TO LEAN UPON|BOUGH TO LEAN UPON]] — `gaskell-1960-entry-bough-to-lean-upon` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOW IN THE CLOUD|BOW IN THE CLOUD]] — `gaskell-1960-entry-bow-in-the-cloud` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOW OF SILVER, AND ARROW, OF APOLLO|BOW OF SILVER, AND ARROW, OF APOLLO]] — `gaskell-1960-entry-bow-of-silver-and-arrow-of-apollo` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOWL OF PURE WATER|BOWL OF PURE WATER]] — `gaskell-1960-entry-bowl-of-pure-water` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOWS OF BOAT|BOWS OF BOAT]] — `gaskell-1960-entry-bows-of-boat` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOX-TREE WOOD, AND LOTEPLUM WOOD, FOR BURNING|BOX-TREE WOOD, AND LOTEPLUM WOOD, FOR BURNING]] — `gaskell-1960-entry-box-tree-wood-and-loteplum-wood-for-burning` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOY|BOY]] — `gaskell-1960-entry-boy` — EPUB p.446
+- [[Reference/Gaskell/Entries/B/BOY, OR YOUNG MAN|BOY, OR YOUNG MAN]] — `gaskell-1960-entry-boy-or-young-man` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BOYS, BAD|BOYS, BAD]] — `gaskell-1960-entry-boys-bad` — EPUB p.130
+- [[Reference/Gaskell/Entries/B/BRAHMA, OR BRAHMAN|BRAHMA, OR BRAHMAN]] — `gaskell-1960-entry-brahma-or-brahman` — EPUB p.130,131
+- [[Reference/Gaskell/Entries/B/BRAHMA-CARIN, STUDENT OF THE VEDA|BRAHMA-CARIN, STUDENT OF THE VEDA]] — `gaskell-1960-entry-brahma-carin-student-of-the-veda` — EPUB p.131
+- [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS|BRAHMAN PRIESTS]] — `gaskell-1960-entry-brahman-priests` — EPUB p.131,132
+- [[Reference/Gaskell/Entries/B/BRAHMAN PRIESTS GOLDEN HORSES|BRAHMAN PRIESTS GOLDEN HORSES]] — `gaskell-1960-entry-brahman-priests-golden-horses` — EPUB p.330
+- [[Reference/Gaskell/Entries/B/BRAHMANA|BRAHMANA]] — `gaskell-1960-entry-brahmana` — EPUB p.131
+- [[Reference/Gaskell/Entries/B/BRAHMA-WEAPON OF DRONA|BRAHMA-WEAPON OF DRONA]] — `gaskell-1960-entry-brahma-weapon-of-drona` — EPUB p.131
+- [[Reference/Gaskell/Entries/B/BRAINS|BRAINS]] — `gaskell-1960-entry-brains` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BRASS, BRONZE, METAL|BRASS, BRONZE, METAL]] — `gaskell-1960-entry-brass-bronze-metal` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BRATROK-RISH, THE KARAP|BRATROK-RISH, THE KARAP]] — `gaskell-1960-entry-bratrok-rish-the-karap` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BRAVERA LAND|BRAVERA LAND]] — `gaskell-1960-entry-bravera-land` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BREAD BRAHMARANDHRAM|BREAD BRAHMARANDHRAM]] — `gaskell-1960-entry-bread-brahmarandhram` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] — `gaskell-1960-entry-bread-or-bread-of-heaven` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BREAST-EARED RACE|BREAST-EARED RACE]] — `gaskell-1960-entry-breast-eared-race` — EPUB p.132
+- [[Reference/Gaskell/Entries/B/BREAST-EYED RACE|BREAST-EYED RACE]] — `gaskell-1960-entry-breast-eyed-race` — EPUB p.132,133
+- [[Reference/Gaskell/Entries/B/BREASTPLATE OF JUDGMENT|BREASTPLATE OF JUDGMENT]] — `gaskell-1960-entry-breastplate-of-judgment` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] — `gaskell-1960-entry-breasts` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BREATH|BREATH]] — `gaskell-1960-entry-breath` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BREATH, DIVINE, OUTBREATHING AND INBREATHING|BREATH, DIVINE, OUTBREATHING AND INBREATHING]] — `gaskell-1960-entry-breath-divine-outbreathing-and-inbreathing` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BREATH OF LIFE|BREATH OF LIFE]] — `gaskell-1960-entry-breath-of-life` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] — `gaskell-1960-entry-breeatic-world` — EPUB p.133
+- [[Reference/Gaskell/Entries/B/BRIAREUS, MEN, ONE-LEGGED|BRIAREUS, MEN, ONE-LEGGED]] — `gaskell-1960-entry-briareus-men-one-legged` — EPUB p.501
+- [[Reference/Gaskell/Entries/B/BRIAREUS, OR AEGAEON|BRIAREUS, OR AEGAEON]] — `gaskell-1960-entry-briareus-or-aegaeon` — EPUB p.133,134
+- [[Reference/Gaskell/Entries/B/BRICES FOR ALTAR, NATURALLY PERFORATED|BRICES FOR ALTAR, NATURALLY PERFORATED]] — `gaskell-1960-entry-brices-for-altar-naturally-perforated` — EPUB p.134
+- [[Reference/Gaskell/Entries/B/BRICK FOR STONE|BRICK FOR STONE]] — `gaskell-1960-entry-brick-for-stone` — EPUB p.134
+- [[Reference/Gaskell/Entries/B/BRIDGE, KINVAT, OR CHINVAT|BRIDGE, KINVAT, OR CHINVAT]] — `gaskell-1960-entry-bridge-kinvat-or-chinvat` — EPUB p.135
+- [[Reference/Gaskell/Entries/B/BRIDGE OF GJALL|BRIDGE OF GJALL]] — `gaskell-1960-entry-bridge-of-gjall` — EPUB p.134,135
+- [[Reference/Gaskell/Entries/B/BRIDGE OF HEAVEN|BRIDGE OF HEAVEN]] — `gaskell-1960-entry-bridge-of-heaven` — EPUB p.134
+- [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] — `gaskell-1960-entry-bridges-nine-six-and-three-in-the-settlement` — EPUB p.135
+- [[Reference/Gaskell/Entries/B/BRIGHT AND DARK|BRIGHT AND DARK]] — `gaskell-1960-entry-bright-and-dark` — EPUB p.135
+- [[Reference/Gaskell/Entries/B/BRIHAT AND RATHANTERA VERSES|BRIHAT AND RATHANTERA VERSES]] — `gaskell-1960-entry-brihat-and-rathantera-verses` — EPUB p.135
+- [[Reference/Gaskell/Entries/B/BRISEIS OF THE FAIR CHEEKS|BRISEIS OF THE FAIR CHEEKS]] — `gaskell-1960-entry-briseis-of-the-fair-cheeks` — EPUB p.135
+- [[Reference/Gaskell/Entries/B/BROTHER BROTHER OF JESUS|BROTHER BROTHER OF JESUS]] — `gaskell-1960-entry-brother-brother-of-jesus` — EPUB p.136
+- [[Reference/Gaskell/Entries/B/BROTHER OF THE PERSONAL SELF|BROTHER OF THE PERSONAL SELF]] — `gaskell-1960-entry-brother-of-the-personal-self` — EPUB p.135,136
+- [[Reference/Gaskell/Entries/B/BROTHERS, FIVE, OF DIVES|BROTHERS, FIVE, OF DIVES]] — `gaskell-1960-entry-brothers-five-of-dives` — EPUB p.136
+- [[Reference/Gaskell/Entries/B/BROTHERS, THE FIVE KARAP|BROTHERS, THE FIVE KARAP]] — `gaskell-1960-entry-brothers-the-five-karap` — EPUB p.136
+- [[Reference/Gaskell/Entries/B/BUCKLE OF ISIS|BUCKLE OF ISIS]] — `gaskell-1960-entry-buckle-of-isis` — EPUB p.136
+- [[Reference/Gaskell/Entries/B/BUDDHA AS GAUTAMA AND AS MAITREYA|BUDDHA AS GAUTAMA AND AS MAITREYA]] — `gaskell-1960-entry-buddha-as-gautama-and-as-maitreya` — EPUB p.136,137
+- [[Reference/Gaskell/Entries/B/BUDDHA, MARKS OF THE|BUDDHA, MARKS OF THE]] — `gaskell-1960-entry-buddha-marks-of-the` — EPUB p.137
+- [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] — `gaskell-1960-entry-buddhi-or-the-wisdom-principle` — EPUB p.137,138
+- [[Reference/Gaskell/Entries/B/BUDDHIC FUNCTION|BUDDHIC FUNCTION]] — `gaskell-1960-entry-buddhic-function` — EPUB p.139
+- [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] — `gaskell-1960-entry-buddhic-plane` — EPUB p.139
+- [[Reference/Gaskell/Entries/B/BUDDHIC-BODY|BUDDHIC-BODY]] — `gaskell-1960-entry-buddhic-body` — EPUB p.138,139
+- [[Reference/Gaskell/Entries/B/BUILDERS OF THE UNIVERSE|BUILDERS OF THE UNIVERSE]] — `gaskell-1960-entry-builders-of-the-universe` — EPUB p.139,140
+- [[Reference/Gaskell/Entries/B/BULL, MAN-HEADED|BULL, MAN-HEADED]] — `gaskell-1960-entry-bull-man-headed` — EPUB p.140,141
+- [[Reference/Gaskell/Entries/B/BULL, PRIMEVAL|BULL, PRIMEVAL]] — `gaskell-1960-entry-bull-primeval` — EPUB p.140
+- [[Reference/Gaskell/Entries/B/BULLS, TWO BRASS-FOOTED|BULLS, TWO BRASS-FOOTED]] — `gaskell-1960-entry-bulls-two-brass-footed` — EPUB p.141
+- [[Reference/Gaskell/Entries/B/BUR, WHOSE SON WAS BORR|BUR, WHOSE SON WAS BORR]] — `gaskell-1960-entry-bur-whose-son-was-borr` — EPUB p.141
+- [[Reference/Gaskell/Entries/B/BURNING FOCUS|BURNING FOCUS]] — `gaskell-1960-entry-burning-focus` — EPUB p.141
+- [[Reference/Gaskell/Entries/B/BURNING OF CORPSES|BURNING OF CORPSES]] — `gaskell-1960-entry-burning-of-corpses` — EPUB p.141
+- [[Reference/Gaskell/Entries/B/BURNT-OFFERING LORD|BURNT-OFFERING LORD]] — `gaskell-1960-entry-burnt-offering-lord` — EPUB p.141,142
+- [[Reference/Gaskell/Entries/B/BURYING OF THE DEAD|BURYING OF THE DEAD]] — `gaskell-1960-entry-burying-of-the-dead` — EPUB p.142
+- [[Reference/Gaskell/Entries/B/BUTES, THE ARGONAUT|BUTES, THE ARGONAUT]] — `gaskell-1960-entry-butes-the-argonaut` — EPUB p.142
+- [[Reference/Gaskell/Entries/B/BUTO IN LOWER EGYPT|BUTO IN LOWER EGYPT]] — `gaskell-1960-entry-buto-in-lower-egypt` — EPUB p.142
+- [[Reference/Gaskell/Entries/B/BUTTER|BUTTER]] — `gaskell-1960-entry-butter` — EPUB p.142
+- [[Reference/Gaskell/Entries/B/BUTTER-d697e1|BUTTER-d697e1]] — `gaskell-1960-entry-butter` — EPUB p.274
+- [[Reference/Gaskell/Entries/B/BYBLOS IN LOWER EGYPT|BYBLOS IN LOWER EGYPT]] — `gaskell-1960-entry-byblos-in-lower-egypt` — EPUB p.142
+- [[Reference/Gaskell/Entries/B/BYTHOS|BYTHOS]] — `gaskell-1960-entry-bythos` — EPUB p.221
+

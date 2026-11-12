@@ -1,0 +1,130 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-zec
+chapter_id: kjv-zec-9
+book_name: "Zechariah"
+chapter: 9
+verses: 17
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Zechariah 9"
+  - "KJV Zechariah 9"
+---
+
+# Zechariah 9
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah|Zechariah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 008|Zechariah 8]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/38 Zechariah/Zechariah 010|Zechariah 10]]
+
+## Text
+
+###### Zechariah 9:1
+
+The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD.
+
+^kjv-zec-9-1
+
+###### Zechariah 9:2
+
+And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.
+
+^kjv-zec-9-2
+
+###### Zechariah 9:3
+
+And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
+
+^kjv-zec-9-3
+
+###### Zechariah 9:4
+
+Behold, the LORD will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.
+
+^kjv-zec-9-4
+
+###### Zechariah 9:5
+
+Ashkelon shall see it, and fear; Gaza also shall see it, and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited.
+
+^kjv-zec-9-5
+
+###### Zechariah 9:6
+
+And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.
+
+^kjv-zec-9-6
+
+###### Zechariah 9:7
+
+And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, shall be for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
+
+^kjv-zec-9-7
+
+###### Zechariah 9:8
+
+And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
+
+^kjv-zec-9-8
+
+###### Zechariah 9:9
+
+Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+
+^kjv-zec-9-9
+
+###### Zechariah 9:10
+
+And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth.
+
+^kjv-zec-9-10
+
+###### Zechariah 9:11
+
+As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
+
+^kjv-zec-9-11
+
+###### Zechariah 9:12
+
+Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
+
+^kjv-zec-9-12
+
+###### Zechariah 9:13
+
+When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.
+
+^kjv-zec-9-13
+
+###### Zechariah 9:14
+
+And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the LORD God shall blow the trumpet, and shall go with whirlwinds of the south.
+
+^kjv-zec-9-14
+
+###### Zechariah 9:15
+
+The LORD of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar.
+
+^kjv-zec-9-15
+
+###### Zechariah 9:16
+
+And the LORD their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land.
+
+^kjv-zec-9-16
+
+###### Zechariah 9:17
+
+For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
+
+^kjv-zec-9-17

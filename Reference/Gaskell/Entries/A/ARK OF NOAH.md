@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-ark-of-noah
+headword: "ARK OF NOAH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ARK OF NOAH
+
+- **Entry ID:** `gaskell-1960-entry-ark-of-noah`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_72`, `page_73`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_72|page_72]], [[Supporting Material/Gaskell/Source Text/page_73|page_73]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ARK OF NOAH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the causal-body as a means for the preservation of the ARK individuality and the qualities of the soul, while lower conditions of growth are swept away.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Apam’s Bopy` | **unresolved** (review queue) |
+| `Beasts (clean)` | **candidate (ambiguous first-segment)** → BEASTS, ANIMALS; BEASTS, BIRDS, AND FISHES; BEASTS, UNCLEAN; BEASTS, WILD (not linked) |
+| `CavusaL-Bopy` | **unresolved** (review queue) |
+| `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
+| `DeLuas` | **unresolved** (review queue) |
+| `FLoop` | **unresolved** (review queue) |
+| `Foop (man)` | **unresolved** (review queue) |
+| `Livive rune` | **unresolved** (review queue) |
+| `Noax` | **unresolved** (review queue) |
+| `Wrnpow (ark). wood ; e ark` | **unresolved** (review queue) |
+| `and` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-ark-of-noah-ocr-body`
+
+```text
+A symbol of the causal-body as a means for the preservation of the ARK individuality and the qualities of the soul, while lower conditions of growth are swept away. **Make thee an ark of gopher rooms shalt thou make in shalt pitch it within and without with pitch.” —Gen. vi. 14. The Divine command is given the individuality (Noah) to form a causalbody, and in this higher mental vehicle several compartments for different functions are to be made. And it is to be limited in its nature within and without. ‘“ Pitch” is a symbol of limitation which provides for the distinguishment of truth. - “The ark, by which Nosh (the spiritual mind) goes through the judgment,— formed by cutting down and judgi the pride and strength of that soil in which the curse works,—figures the cross by which we are severed from the world, by which it is crucified to us, and we unto the world. As that ark was made up of many beams, so is the cross which delivers us from the world com of many parts. ... While in the old world, or amid the waves, the cross, like the ark, is our safety.”—A. Juxxs The Types of Genesis, pp. 109, 110. The “Ark” does in a measure correspond with the ‘‘ Cross,’’ in that they both indicate the junction between the higher and lower natures. *“*The stories of the Ark are the three Principles. The seven persons point at the seven properties of the material life, that God will have children out of all the properties into his eternal Ark. The eighth person was Noah—the Righteous one.”—J. Boxume, Myst. Mag., p. 196. The ‘lower, second, and third stories’’ are the three higher subplanes of the mental plane; as the causal-body is situate on the higher -mind plane above the lower consciousness which perceives it not. See Apam’s Bopy, Beasts (clean), CavusaL-Bopy, Cross, DeLuas, FLoop, Foop (man), Livive rune, Noax, Wrnpow (ark). wood ; e ark, and
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_72|page_72]], [[Supporting Material/Gaskell/Source Text/page_73|page_73]]
+

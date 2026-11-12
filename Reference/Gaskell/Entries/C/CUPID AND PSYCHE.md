@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-cupid-and-psyche
+headword: "CUPID AND PSYCHE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CUPID AND PSYCHE
+
+- **Entry ID:** `gaskell-1960-entry-cupid-and-psyche`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_202`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_202|page_202]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CUPID AND PSYCHE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of the indwelling Self and the Emotion-nature.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BuppH` | **unresolved** (review queue) |
+| `Eros` | **candidate (first-segment only)** → possible `EROS, OR PHANES` (not linked) |
+| `Lovg` | **unresolved** (review queue) |
+| `PANDORA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANDORA|PANDORA]] |
+| `PERSEPHONE` | **candidate (first-segment only)** → possible `PERSEPHONE, DAUGHTER OF DEMETER` (not linked) |
+| `PritHa` | **unresolved** (review queue) |
+| `SELENE` | **unresolved** (review queue) |
+| `SEPHIROTH` | **unresolved** (review queue) |
+| `VENUS` | **candidate (first-segment only)** → possible `VENUS, GODDESS, OR THE PLANET` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-cupid-and-psyche-ocr-body`
+
+```text
+Symbols of the indwelling Self and the Emotion-nature. The two eldest daughters of the Archetypal Man (king) are appetite and instinct, born on the astral plane. The third daughter, Emotion (Psyche), is born subjectively on the buddhic plane. Love of form life (Venus) draws, as it were, the Self (Cupid) to effect in the forms union between Emotion and Desire, but the Self is in harmony with buddhic Emotion and nurtures that subjectively (night) during periods of incarnation. Then, when all is prepared, Emotion awakens in the mind, and the Self disappears from consciousness. This constitutes the ** fall ’’ of mind and emotion into the lower life of desire and sensation. Love of form life (Venus) enslaves Emotion amid the sufferings and sorrows of the lives on earth. But the indwelling Self (Cupid) ‘‘ who etili loved her in secret, invisibly comforted and assisted her in her tolls.’ As evolution proceeds, the Emotion nature becomes more and more apparent and active in love of righteousness, truth, justice, wisdom, and all the virtues, until at the end of the cycle, love of life in the forms (Venus) is overcome, and the soul rises immortal to be joined with the Self for ever. ** This fable, it is said is a representation of the destiny of the human soul. The soul, which is of divine origin, is here below subjected to error in its prison the body. Hence trials and purifications are set before it, that it may become capable of a higher view of things, and of true desire. Two loves meet it,—the earthly, a deceiver who draws it down to earthly things ; ; the heavenly who directs ite view to the original, fair and divine, and who, gaining the victory over Soma 195 CURSE his rival, leads off the soul as his bride " (Hirt, apup CreorTzer, Symbokk ITI. 573).— KEIGHTLEY, Mythology, p. 117. See BuppH, Eros, Lovg, PANDORA, PERSEPHONE, PritHa, SELENE, SEPHIROTH, VENUS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_202|page_202]]
+

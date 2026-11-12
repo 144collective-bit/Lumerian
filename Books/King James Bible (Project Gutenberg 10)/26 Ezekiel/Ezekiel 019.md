@@ -1,0 +1,112 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-eze
+chapter_id: kjv-eze-19
+book_name: "Ezekiel"
+chapter: 19
+verses: 14
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ezekiel 19"
+  - "KJV Ezekiel 19"
+---
+
+# Ezekiel 19
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel|Ezekiel]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel 018|Ezekiel 18]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/26 Ezekiel/Ezekiel 020|Ezekiel 20]]
+
+## Text
+
+###### Ezekiel 19:1
+
+Moreover take thou up a lamentation for the princes of Israel,
+
+^kjv-eze-19-1
+
+###### Ezekiel 19:2
+
+And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
+
+^kjv-eze-19-2
+
+###### Ezekiel 19:3
+
+And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.
+
+^kjv-eze-19-3
+
+###### Ezekiel 19:4
+
+The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
+
+^kjv-eze-19-4
+
+###### Ezekiel 19:5
+
+Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion.
+
+^kjv-eze-19-5
+
+###### Ezekiel 19:6
+
+And he went up and down among the lions, he became a young lion, and learned to catch the prey, and devoured men.
+
+^kjv-eze-19-6
+
+###### Ezekiel 19:7
+
+And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring.
+
+^kjv-eze-19-7
+
+###### Ezekiel 19:8
+
+Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in their pit.
+
+^kjv-eze-19-8
+
+###### Ezekiel 19:9
+
+And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
+
+^kjv-eze-19-9
+
+###### Ezekiel 19:10
+
+Thy mother is like a vine in thy blood, planted by the waters: she was fruitful and full of branches by reason of many waters.
+
+^kjv-eze-19-10
+
+###### Ezekiel 19:11
+
+And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
+
+^kjv-eze-19-11
+
+###### Ezekiel 19:12
+
+But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
+
+^kjv-eze-19-12
+
+###### Ezekiel 19:13
+
+And now she is planted in the wilderness, in a dry and thirsty ground.
+
+^kjv-eze-19-13
+
+###### Ezekiel 19:14
+
+And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.
+
+^kjv-eze-19-14

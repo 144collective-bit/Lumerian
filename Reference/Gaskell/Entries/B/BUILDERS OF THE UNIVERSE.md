@@ -1,0 +1,73 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-builders-of-the-universe
+headword: "BUILDERS OF THE UNIVERSE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BUILDERS OF THE UNIVERSE
+
+- **Entry ID:** `gaskell-1960-entry-builders-of-the-universe`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_139`, `page_140`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_139|page_139]], [[Supporting Material/Gaskell/Source Text/page_140|page_140]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BUILDERS OF THE UNIVERSE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Those Devas or Arch-angels who become the first-born children of the manifesting God, i.e.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AMSHASPANDS` | **unresolved** (review queue) |
+| `ANGELS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] |
+| `ARCHANGELS` | **unresolved** (review queue) |
+| `COMPANY OF aGoDSs` | **unresolved** (review queue) |
+| `CycLores` | **unresolved** (review queue) |
+| `Devas` | **candidate (ambiguous first-segment)** → DEVAS, OR LOWER BUILDERS; DEVAS, SHINING ONES (not linked) |
+| `FIRE ALTAR` | **unresolved** (review queue) |
+| `GUARDIANS` | **unresolved** (review queue) |
+| `I am` | **unresolved** (review queue) |
+| `MESSENGERS` | **unresolved** (review queue) |
+| `MONAD (life)` | **candidate (first-segment only)** → possible `MONAD, THE ONE` (not linked) |
+| `Pracipamt (relaxed)` | **unresolved** (review queue) |
+| `VALKYRIOR` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-builders-of-the-universe-ocr-body`
+
+```text
+Those Devas or Arch-angels who become the first-born children of the manifesting God, i.e. who come forth first upon the highest planes in order to commence the structure of the innermost invisible universe of the solar system. **To whom then will ye liken me, that I should be equal to him? saith the Holy One. Lift up your eyes on high, and see who hath created these, that bringeth out their host by number: he calleth them all by name; by the greatness of his might, and for that he is BULL strong in power, not one is lacking.”’— Is. xi. 25, 26. In the emanation of spiritual intelligences, the monads of life (stars) are produced in their differentiations (names) and in the order of their greatness. “Nature, according to the Zohar, is the garment of God; it is that in which He appears and wherein He is veiled, so that we can look upon Him in His vestired aspect ; but it is not the body of God—which is more properly Shekinah, at least in one of her aspects—and it is still less God manifest. It is that which He took upon Himself for the purpose ofappearing. (Footnote.) In the transcence God and Elohim are inseparable, being male and female, and the first movement towards the production of a manifested universe was to send forth their living images below. That which was of the nature of God became of the nature of the Cosmos.’’-—A. E. WalITE, Secret Doctrine in Israel, p. 59. The ‘‘ Holy One ”’ and ‘‘ Shekinah ” are symbols of Buddhi; ‘‘ Elohim” of Atma-buddhi, Love-Wisdom, “male and female.” See AMSHASPANDS, ANGELS, ARCHANGELS, COMPANY OF aGoDSs, CycLores, Devas, FIRE ALTAR, GUARDIANS, I am, MESSENGERS, MONAD (life), Pracipamt (relaxed), VALKYRIOR.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_139|page_139]], [[Supporting Material/Gaskell/Source Text/page_140|page_140]]
+

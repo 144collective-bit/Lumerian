@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-healing-of-the-withered-hand-of-a-mason
+headword: "HEALING OF THE WITHERED HAND OF A MASON"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HEALING OF THE WITHERED HAND OF A MASON
+
+- **Entry ID:** `gaskell-1960-entry-healing-of-the-withered-hand-of-a-mason`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_349`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_349|page_349]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HEALING OF THE WITHERED HAND OF A MASON :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the energising of the will by the Spirit.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Hanp` | **unresolved** (review queue) |
+| `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-healing-of-the-withered-hand-of-a-mason-ocr-body`
+
+```text
+A symbol of the energising of the will by the Spirit. “*Then saith he to the man, Stretch forth thy hand. And he stretched it 342 HEALING forth; and it was restored whole as the other.”’°—Mar. xii. 13. The hand is the active and constructive instrument under the control of the will; and Christ’s cure refers to the energising of the will by the indwelling Self. See Hanp, Man (natural), WILL.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_349|page_349]]
+

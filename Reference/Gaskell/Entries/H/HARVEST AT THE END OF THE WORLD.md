@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-harvest-at-the-end-of-the-world
+headword: "HARVEST AT THE END OF THE WORLD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HARVEST AT THE END OF THE WORLD
+
+- **Entry ID:** `gaskell-1960-entry-harvest-at-the-end-of-the-world`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_345`, `page_346`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_345|page_345]], [[Supporting Material/Gaskell/Source Text/page_346|page_346]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HARVEST AT THE END OF THE WORLD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the gathering in of the ‘‘ fruits of the Spirit ’’ at the close of the cycle; that is, the attainment of the spiritual results of experience and aspiration when the consciousness rises to the buddhic plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
+| `CLOUDS` | **candidate (ambiguous first-segment)** → CLOUDS, A LINE OF; CLOUDS, DARK AND COLD (not linked) |
+| `CULTIVATION` | **candidate (first-segment only)** → possible `CULTIVATION, OX-BORN` (not linked) |
+| `FRUITFUL` | **unresolved** (review queue) |
+| `PLoUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
+| `REapPInc` | **unresolved** (review queue) |
+| `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+| `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+| `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
+| `SowER` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-harvest-at-the-end-of-the-world-ocr-body`
+
+```text
+A symbol of the gathering in of the ‘‘ fruits of the Spirit ’’ at the close of the cycle; that is, the attainment of the spiritual results of experience and aspiration when the consciousness rises to the buddhic plane. It is the acquisition of perfected qualities of wisdom, love, and truth. ‘‘The hour to reap is come; for the harvest of the earth is over-ripe. And he that sat on the cloud cast his sickle upon the earth ; and the earth was reaped.’’— Rev. xiv. 15, 16. The period has arrived in the soul’s evolution when the consciousness is ready to rise to higher planes. The Higher Self, therefore, having conquered the lower nature, sends forth from the plane of buddhi (cloud) his outgoing spiritual energy (sickle) to cut down all attachments to the desires 338 HARVISPTOKHM and objects of sense, and so liberate the ego from the lower nature (earth) and enable it to rise to peace and bliss, and inherit the treasures above which are the fruit of its aspirations and efforts during the protracted period of conflict and suffering on the planes below. ** By harvest is signified the state of the church as to divine truth ; the reason is, because from a harvest corn is procured, from which comes bread, and by corn and bread is signified the good of the church, this being procured by truths.” —SwEDENBORG, Apoc. Rev., n. 645. See AGRICULTURE, CLOUDS, CULTIVATION, FRUITFUL, PLoUGHING, REapPInc, SEED, SEED (good), SICKLE, SowER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_345|page_345]], [[Supporting Material/Gaskell/Source Text/page_346|page_346]]
+

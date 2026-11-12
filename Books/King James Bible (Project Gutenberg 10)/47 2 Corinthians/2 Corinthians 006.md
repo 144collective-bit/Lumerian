@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-2co
+chapter_id: kjv-2co-6
+book_name: "2 Corinthians"
+chapter: 6
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "2 Corinthians 6"
+  - "KJV 2 Corinthians 6"
+---
+
+# 2 Corinthians 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians|2 Corinthians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians 005|2 Corinthians 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/47 2 Corinthians/2 Corinthians 007|2 Corinthians 7]]
+
+## Text
+
+###### 2 Corinthians 6:1
+
+We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.
+
+^kjv-2co-6-1
+
+###### 2 Corinthians 6:2
+
+(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
+
+^kjv-2co-6-2
+
+###### 2 Corinthians 6:3
+
+Giving no offence in any thing, that the ministry be not blamed:
+
+^kjv-2co-6-3
+
+###### 2 Corinthians 6:4
+
+But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
+
+^kjv-2co-6-4
+
+###### 2 Corinthians 6:5
+
+In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
+
+^kjv-2co-6-5
+
+###### 2 Corinthians 6:6
+
+By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
+
+^kjv-2co-6-6
+
+###### 2 Corinthians 6:7
+
+By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,
+
+^kjv-2co-6-7
+
+###### 2 Corinthians 6:8
+
+By honour and dishonour, by evil report and good report: as deceivers, and yet true;
+
+^kjv-2co-6-8
+
+###### 2 Corinthians 6:9
+
+As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;
+
+^kjv-2co-6-9
+
+###### 2 Corinthians 6:10
+
+As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
+
+^kjv-2co-6-10
+
+###### 2 Corinthians 6:11
+
+O ye Corinthians, our mouth is open unto you, our heart is enlarged.
+
+^kjv-2co-6-11
+
+###### 2 Corinthians 6:12
+
+Ye are not straitened in us, but ye are straitened in your own bowels.
+
+^kjv-2co-6-12
+
+###### 2 Corinthians 6:13
+
+Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
+
+^kjv-2co-6-13
+
+###### 2 Corinthians 6:14
+
+Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
+
+^kjv-2co-6-14
+
+###### 2 Corinthians 6:15
+
+And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
+
+^kjv-2co-6-15
+
+###### 2 Corinthians 6:16
+
+And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+
+^kjv-2co-6-16
+
+###### 2 Corinthians 6:17
+
+Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.
+
+^kjv-2co-6-17
+
+###### 2 Corinthians 6:18
+
+And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
+
+^kjv-2co-6-18

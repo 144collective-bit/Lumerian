@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-serpent-dahaka
+headword: "SERPENT DAHAKA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SERPENT DAHAKA
+
+- **Entry ID:** `gaskell-1960-entry-serpent-dahaka`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_681`, `page_682`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_681|page_681]], [[Supporting Material/Gaskell/Source Text/page_682|page_682]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SERPENT DAHAKA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the unreal astromental lower principle, or illusion of the manasic function and sense of separateness.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ANGRA-MAINYU` | **candidate (first-segment only)** → possible `ANGRA-MAINYU, OR ANGROMAINYUSH` (not linked) |
+| `APOSTATES` | **unresolved** (review queue) |
+| `CONQUEROR` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONQUEROR|CONQUEROR]] |
+| `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
+| `NERYOSANG` | **candidate (first-segment only)** → possible `NERYOSANG, THE ANGEL` (not linked) |
+| `SEPARATENESS` | **unresolved** (review queue) |
+| `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
+| `THRAETONA` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-serpent-dahaka-ocr-body`
+
+```text
+A symbol of the unreal astromental lower principle, or illusion of the manasic function and sense of separateness. *Thraetona (Fredun) of the Hero tribe, who smote the Serpent (Ashi) Dahaka which had three mouths, three heads, six eyes, a thousand spies ; which was of enormous strength, a devastator of the settlements, and what was a destroyer which Angra Mainyush produced in the material world for the destruction of the settlements of righteousness,” —Homa Yasht, Have, Essays. ‘‘Thraetona or Fredun from the Hero tribe”’ signifies that the Third Divine outpouring is a Conqueror from the Celestial hierarchies, and he gives the deathblow to illusion. The ‘“‘Serpent Dahéika” is the sense of separateness which continues to ensnare until] the soul has advanced considerably ; hence the strength required to circumvent it is great. The ‘‘ three mouths” are Lust, Envy, and Greed ; the “‘ three heads,” Ignorance, Falsity, and Pride; the ‘six eyes ’’ are various perceptive functions. The “spies ’’ are symbolic of limitation, i.e. the inclination to trust in the ‘‘flesh”’ instead of the Spirit. The great creator of illusion—the astro-mental ‘Serpent ’’—-is said to devastate the soul, inasmuch as it is the cause of the sense of desolation, emptiness, and satiety, which follows SERPENT the protracted employment of the sense-nature and lower mind. The desire-mind (Angra Mainyush) is the great creator of this illusory principle, and it is only after it has fully functioned and disappeared, that the planes below it which have been used for the evolution of righteousness, can be said to be destroyed. See ANGRA-MAINYU, APOSTATES, CONQUEROR, ILLUSION, NERYOSANG, SEPARATENESS, SETTLEMENTS, THRAETONA.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_681|page_681]], [[Supporting Material/Gaskell/Source Text/page_682|page_682]]
+

@@ -1,0 +1,124 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-lev
+chapter_id: kjv-lev-2
+book_name: "Leviticus"
+chapter: 2
+verses: 16
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Leviticus 2"
+  - "KJV Leviticus 2"
+---
+
+# Leviticus 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus|Leviticus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus 001|Leviticus 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus 003|Leviticus 3]]
+
+## Text
+
+###### Leviticus 2:1
+
+And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:
+
+^kjv-lev-2-1
+
+###### Leviticus 2:2
+
+And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:
+
+^kjv-lev-2-2
+
+###### Leviticus 2:3
+
+And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire.
+
+^kjv-lev-2-3
+
+###### Leviticus 2:4
+
+And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+
+^kjv-lev-2-4
+
+###### Leviticus 2:5
+
+And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil.
+
+^kjv-lev-2-5
+
+###### Leviticus 2:6
+
+Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.
+
+^kjv-lev-2-6
+
+###### Leviticus 2:7
+
+And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil.
+
+^kjv-lev-2-7
+
+###### Leviticus 2:8
+
+And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar.
+
+^kjv-lev-2-8
+
+###### Leviticus 2:9
+
+And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD.
+
+^kjv-lev-2-9
+
+###### Leviticus 2:10
+
+And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire.
+
+^kjv-lev-2-10
+
+###### Leviticus 2:11
+
+No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.
+
+^kjv-lev-2-11
+
+###### Leviticus 2:12
+
+As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.
+
+^kjv-lev-2-12
+
+###### Leviticus 2:13
+
+And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.
+
+^kjv-lev-2-13
+
+###### Leviticus 2:14
+
+And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears.
+
+^kjv-lev-2-14
+
+###### Leviticus 2:15
+
+And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering.
+
+^kjv-lev-2-15
+
+###### Leviticus 2:16
+
+And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.
+
+^kjv-lev-2-16

@@ -1,0 +1,77 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-death-of-the-spirit-soul-or-higher-self
+headword: "DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF
+
+- **Entry ID:** `gaskell-1960-entry-death-of-the-spirit-soul-or-higher-self`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_212`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the descent of Spirit into Matter, or involution of spirit STATE OR 205 DEATH in matter.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Aru-RA` | **unresolved** (review queue) |
+| `ARC. MAN` | **unresolved** (review queue) |
+| `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
+| `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
+| `CRUCIFIXION` | **unresolved** (review queue) |
+| `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
+| `DISMEMBERMENT` | **unresolved** (review queue) |
+| `EVOLUTION` | **unresolved** (review queue) |
+| `FALL` | **unresolved** (review queue) |
+| `Hanp (right)` | **unresolved** (review queue) |
+| `INcaRNATION` | **candidate (first-segment only)** → possible `INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME` (not linked) |
+| `INVOLUTION` | **unresolved** (review queue) |
+| `PRAGAPATI RELAXED` | **candidate (first-segment only)** → possible `PRAGAPATI RELAXED, AND AFTERWARDS RESTORED` (not linked) |
+| `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+| `RESURRECTION` | **unresolved** (review queue) |
+| `Sout` | **unresolved** (review queue) |
+| `Sprit` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-death-of-the-spirit-soul-or-higher-self-ocr-body`
+
+```text
+A symbol of the descent of Spirit into Matter, or involution of spirit STATE OR 205 DEATH in matter. Of the obscuration of Spirit in the lower consciousness— the apparent withdrawal of the Self through the fall of the lower mind to the plane of desire and sense. Of an apparent passage of the Soul from a lower to a higher state of consciousness, implying death out of one state and birth into another. “It is Christ Jesus that died, yea rather, that was raised from the dead, who is at the right hand of God, who also maketh intercession for us.’°— Rom. viii. 34. It is the Higher-Self as Archetypal Man that died in the involution of the Soul, yea rather, that was in us raised from the dead in the evolution of our souls, who now is seated in our hearts to actively assist us in all well-doing and to bring our souls to perfection. The death of the Divine Being is said to occur in the manifestation of @ universe, for Spirit is unapparent in the realm of phenomena. God is always within and never without. See Aru-RA, ARC. MAN, CHRIST, Cross, CRUCIFIXION, DEATH OF OSIRIS, DISMEMBERMENT, EVOLUTION, FALL, Hanp (right), INcaRNATION, INVOLUTION, PRAGAPATI RELAXED, PURUSHA, RESURRECTION, Sout, Sprit.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+

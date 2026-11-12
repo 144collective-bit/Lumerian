@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-115
+book_name: "Psalms"
+chapter: 115
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 115"
+  - "KJV Psalms 115"
+---
+
+# Psalms 115
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 114|Psalms 114]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 116|Psalms 116]]
+
+## Text
+
+###### Psalms 115:1
+
+Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
+
+^kjv-psa-115-1
+
+###### Psalms 115:2
+
+Wherefore should the heathen say, Where is now their God?
+
+^kjv-psa-115-2
+
+###### Psalms 115:3
+
+But our God is in the heavens: he hath done whatsoever he hath pleased.
+
+^kjv-psa-115-3
+
+###### Psalms 115:4
+
+Their idols are silver and gold, the work of men’s hands.
+
+^kjv-psa-115-4
+
+###### Psalms 115:5
+
+They have mouths, but they speak not: eyes have they, but they see not:
+
+^kjv-psa-115-5
+
+###### Psalms 115:6
+
+They have ears, but they hear not: noses have they, but they smell not:
+
+^kjv-psa-115-6
+
+###### Psalms 115:7
+
+They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.
+
+^kjv-psa-115-7
+
+###### Psalms 115:8
+
+They that make them are like unto them; so is every one that trusteth in them.
+
+^kjv-psa-115-8
+
+###### Psalms 115:9
+
+O Israel, trust thou in the LORD: he is their help and their shield.
+
+^kjv-psa-115-9
+
+###### Psalms 115:10
+
+O house of Aaron, trust in the LORD: he is their help and their shield.
+
+^kjv-psa-115-10
+
+###### Psalms 115:11
+
+Ye that fear the LORD, trust in the LORD: he is their help and their shield.
+
+^kjv-psa-115-11
+
+###### Psalms 115:12
+
+The LORD hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.
+
+^kjv-psa-115-12
+
+###### Psalms 115:13
+
+He will bless them that fear the LORD, both small and great.
+
+^kjv-psa-115-13
+
+###### Psalms 115:14
+
+The LORD shall increase you more and more, you and your children.
+
+^kjv-psa-115-14
+
+###### Psalms 115:15
+
+Ye are blessed of the LORD which made heaven and earth.
+
+^kjv-psa-115-15
+
+###### Psalms 115:16
+
+The heaven, even the heavens, are the LORD’s: but the earth hath he given to the children of men.
+
+^kjv-psa-115-16
+
+###### Psalms 115:17
+
+The dead praise not the LORD, neither any that go down into silence.
+
+^kjv-psa-115-17
+
+###### Psalms 115:18
+
+But we will bless the LORD from this time forth and for evermore.
+
+^kjv-psa-115-18

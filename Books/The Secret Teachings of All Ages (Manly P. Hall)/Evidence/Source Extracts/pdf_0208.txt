@@ -1,0 +1,38 @@
+                                              THE SECRET TEACHINGS OF ALL AGES
+from the last number (8) equals the last number (16). Being an odd series, the 4 is left in the
+center, and this multiplied by itself also equals the last number (16).
+    The evenly-odd numbers are those which, when halved, are incapable of further divi-
+sion by halving. They are formed by taking the odd numbers in sequential order and multi-
+plying them by 2. By this process the odd numbers 1, 3, 5, 7, 9, 11 produce the evenly-odd
+numbers, 2, 6, 10, 14, 18, 22. Thus, every fourth number is evenly-odd. Each of the even-
+odd numbers may be divided once, as 2, which becomes two 1’s and cannot be divided
+further; or 6, which becomes two 3’s and cannot be divided further.
+
+
+
+
+                                 THE SIEVE OF ERATOSTHENES.
+                               Redrawn from Taylor’s Theoretic Arithmetic.
+
+     This sieve is a mathematical device originated by Eratosthenes about 230 B.C. far the purpose of seg-
+regating the composite and incomposite odd numbers. Its use is extremely simple after the theory has once
+been mastered. All the odd numbers are first arranged in their natural order as shown in the second panel
+from the bottom, designated Odd Numbers. It will then be seen that every third number (beginning with 3)
+is divisible by 3, every fifth number (beginning with 5;) is divisible by 5, every seventh number (beginning
+with 7) is divisible by 7, every ninth number (beginning with 9) is divisible by 9, every eleventh number (be-
+ginning with 11) is divisible by 11, and so on to infinity. This system finally sifts out what the Pythagoreans
+called the “incomposite” numbers, or those having no divisor other than themselves and unity. These will
+be found in the lowest panel, designated Primary and Incomposite Numbers. In his History of Mathematics,
+David Eugene Smith states that Eratosthenes was one of the greatest scholars of Alexandria and was called
+by his admirers “the second Plato.” Eratosthenes was educated at Athens, and is renowned not only for his
+sieve but for having computed, by a very ingenious method, the circumference and diameter of the earth.
+His estimate of the earth’s diameter was only 50 miles less than the polar diameter accepted by modern
+scientists. This and other mathematical achievements of Eratosthenes, are indisputable evidence that in the
+third century before Christ the Greeks not only knew the earth to be spherical in farm but could also ap-
+proximate, with amazing accuracy, its actual size and distance from both the sun and the moon. Aristarchus
+of Samos, another great Greek astronomer and mathematician, who lived about 250 B.C., established by
+philosophical deduction and a few simple scientific instruments that the earth revolved around the sun.
+While Copernicus actually believed himself to be the discoverer of this fact, he but restated the findings
+advanced by Aristarchus seventeen hundred years earlier.
+
+                                                                                                        207

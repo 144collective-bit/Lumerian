@@ -1,0 +1,64 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-metztli-moon-goddess
+headword: "METZTLI, MOON-GODDESS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# METZTLI, MOON-GODDESS
+
+- **Entry ID:** `gaskell-1960-entry-metztli-moon-goddess`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_506`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_506|page_506]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`METZTLI, MOON-GODDESS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the buddhic principle, and also the buddhic reflected in the astral.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ARMATERASU` | **unresolved** (review queue) |
+| `BuUDDHI` | **unresolved** (review queue) |
+| `(natural)` | **unresolved** (review queue) |
+| `Moon (higher). Man` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-metztli-moon-goddess-ocr-body`
+
+```text
+A symbol of the buddhic principle, and also the buddhic reflected in the astral. ‘*The moon-goddess of the Asteos or ancient Mexicans. Her myth relates that in the absence of a luminary of day all humanity was plunged into darkness, which a human sacrifice alone could relieve. Metztli thereupon brought to the sacrifice Nanahuatl the Leprous, and cast him into a huge e which stood ready for the victim. She herself followed him into the furnace, and on her disappearance the sun rose.’’—Non-classical Mythology, p. 117. This is a concise account of the process of the soul’s salvation. The Higher Self (sun) is obscured to our consciousness, and only by the sacrifice of the “natural man” will it be possible for the Self to shine in tho soul. Therefore it is provided that through the functioning of the buddhic principle (Metztli) the corrupt lower self or personality (the Leper) is put through the experiences of life and gradually purified through suffering until it is perfocted. The last sentence 499 MICROCOSM refers to the final consummation, when the buddhic is withdrawn and the Highest (atma) alone remains. See ARMATERASU, BuUDDHI, (natural), Moon (higher). Man
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_506|page_506]]
+

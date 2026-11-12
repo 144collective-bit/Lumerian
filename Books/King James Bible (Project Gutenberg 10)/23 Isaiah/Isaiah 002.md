@@ -1,0 +1,160 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-2
+book_name: "Isaiah"
+chapter: 2
+verses: 22
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 2"
+  - "KJV Isaiah 2"
+---
+
+# Isaiah 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 001|Isaiah 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 003|Isaiah 3]]
+
+## Text
+
+###### Isaiah 2:1
+
+The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
+
+^kjv-isa-2-1
+
+###### Isaiah 2:2
+
+And it shall come to pass in the last days, that the mountain of the LORD’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
+
+^kjv-isa-2-2
+
+###### Isaiah 2:3
+
+And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
+
+^kjv-isa-2-3
+
+###### Isaiah 2:4
+
+And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
+
+^kjv-isa-2-4
+
+###### Isaiah 2:5
+
+O house of Jacob, come ye, and let us walk in the light of the LORD.
+
+^kjv-isa-2-5
+
+###### Isaiah 2:6
+
+Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
+
+^kjv-isa-2-6
+
+###### Isaiah 2:7
+
+Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:
+
+^kjv-isa-2-7
+
+###### Isaiah 2:8
+
+Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
+
+^kjv-isa-2-8
+
+###### Isaiah 2:9
+
+And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.
+
+^kjv-isa-2-9
+
+###### Isaiah 2:10
+
+Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
+
+^kjv-isa-2-10
+
+###### Isaiah 2:11
+
+The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
+
+^kjv-isa-2-11
+
+###### Isaiah 2:12
+
+For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
+
+^kjv-isa-2-12
+
+###### Isaiah 2:13
+
+And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,
+
+^kjv-isa-2-13
+
+###### Isaiah 2:14
+
+And upon all the high mountains, and upon all the hills that are lifted up,
+
+^kjv-isa-2-14
+
+###### Isaiah 2:15
+
+And upon every high tower, and upon every fenced wall,
+
+^kjv-isa-2-15
+
+###### Isaiah 2:16
+
+And upon all the ships of Tarshish, and upon all pleasant pictures.
+
+^kjv-isa-2-16
+
+###### Isaiah 2:17
+
+And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.
+
+^kjv-isa-2-17
+
+###### Isaiah 2:18
+
+And the idols he shall utterly abolish.
+
+^kjv-isa-2-18
+
+###### Isaiah 2:19
+
+And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
+
+^kjv-isa-2-19
+
+###### Isaiah 2:20
+
+In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;
+
+^kjv-isa-2-20
+
+###### Isaiah 2:21
+
+To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
+
+^kjv-isa-2-21
+
+###### Isaiah 2:22
+
+Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?
+
+^kjv-isa-2-22

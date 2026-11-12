@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-wheel-of-life
+headword: "WHEEL OF LIFE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# WHEEL OF LIFE
+
+- **Entry ID:** `gaskell-1960-entry-wheel-of-life`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_818`, `page_819`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_818|page_818]], [[Supporting Material/Gaskell/Source Text/page_819|page_819]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`WHEEL OF LIFE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the great cycle of Life,—the progress of the Spirit or Self through the lower nature.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `CIRCLE Or EXISTENCE` | **unresolved** (review queue) |
+| `DEMIURGE` | **candidate (first-segment only)** → possible `DEMIURGE, OR DEMIURGUS` (not linked) |
+| `EVOLUTION` | **unresolved** (review queue) |
+| `INVOLUTION` | **unresolved** (review queue) |
+| `Isvana` | **unresolved** (review queue) |
+| `Sparks` | **unresolved** (review queue) |
+| `Swastrxa` | **unresolved** (review queue) |
+| `Timez` | **unresolved** (review queue) |
+| `VitaL aims` | **unresolved** (review queue) |
+| `Zopiac` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-wheel-of-life-ocr-body`
+
+```text
+A symbol of the great cycle of Life,—the progress of the Spirit or Self through the lower nature. In it the Spirit descends, as it were, in involution on the one side, and rises in evolution on the other, thus completing the circle. ‘*The progression and the return (of things) form a circular activity. ... the t circle to and from the Principle of all, all things are involved ’’ (Proclus). —T. WaHrrraKER, The Neo-Platoniste, p. 167. ‘““We meditate upon that deity, the Demiurgus (Isvara), as the wheel with one felly and three tires, with sixteen peripheries, with fifty spokes and twenty wedges to fix the spokes, a wheel that is multiform, with one cord, with three diverse paths, and with one illusion proceeding from two causes.”’—Svetas. Upanishad, I. The one “ felly ”’ signifies the whole cycle of life; the ‘‘ three tires”’ are the three gunas that bind the qualities to the cycle; the ‘‘ sixteen peripheries ”’ are sixteen powers and qualities exercised by the soul; the “ fifty spokes and twenty wedges’’ are the many conditions of the manifesting life on the different planes. The “‘ one cord ”’ is the one Divine Life; the ‘‘ three paths’ are of duty, truth, and love; and the ‘“‘ two causes’”’ are the sense of separateness and ignorance which make the unreal appear to be the real. ‘The originating principle is the glory of the deity that keeps the wheel of Brahman, the cosmic cycle, stil] revolving. It is the all-knowing author of time, perfect, by whom this world is eternally pervaded. °"—Svetas. Upanishad, VI. WHEELS ** He is the reality of reality ; from him ring forth, as sparks from the fire, all © vital spirits, all worlds, all gods, all living creatures; in him they are all fixed, like spokes in the nave of a lars ’—DervussEN, Phil. of Upanishads, Pra Universe after Universe is like an interminable succession of wheels for ever coming into view, for ever rolling onwards, disappearing and reappearing ; for ever passing from being to non-boing, and again from non-being to being. . In short, the constant revolving of th wheel of life in one eternal circle, according to fixed and immutable laws, is perhaps after all the sum and substance of the philosophy of Buddhisin. And this eternal wheel or circle has, so to speak, six spokes representing six forms of existence.”’"——-Mon. WiLLiamMs, Buddhism, pp. 119, 122. See CIRCLE Or EXISTENCE, DEMIURGE, EVOLUTION, INVOLUTION, Isvana, Sparks, Swastrxa, Timez, VitaL aims, Zopiac.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_818|page_818]], [[Supporting Material/Gaskell/Source Text/page_819|page_819]]
+

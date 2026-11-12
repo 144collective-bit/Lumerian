@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-scarabazus-scapegoat
+headword: "SCARABAZUS SCAPEGOAT"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SCARABAZUS SCAPEGOAT
+
+- **Entry ID:** `gaskell-1960-entry-scarabazus-scapegoat`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_662`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_662|page_662]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SCARABAZUS SCAPEGOAT :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of ignorance and error, that is, the absence of the real, the true.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AARON` | **candidate (first-segment only)** → possible `AARON, THE HIGH PRIEST` (not linked) |
+| `AMMIT` | **unresolved** (review queue) |
+| `ATONEMENT` | **unresolved** (review queue) |
+| `Goats` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
+| `IGNORANCE` | **candidate (first-segment only)** → possible `IGNORANCE, AVIDYA` (not linked) |
+| `SACRIFICE` | **candidate (first-segment only)** → possible `SACRIFICE, BEASTS, CLEAN` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-scarabazus-scapegoat-ocr-body`
+
+```text
+A symbol of ignorance and error, that is, the absence of the real, the true. ** And he shall take the two goats, and set them before the Lord at the door of the tent of meeting. And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for Azazel.”’ —LEv. xvi. 7, 8. The ‘two he-goats’”’ signify, (1) Desire for lower things, and (2) Ignorance and error, which are negative and illusory conditions. The first must be offered up to the Higher Self (the Lord), and the second must bear, as an excuse, the sins of the qualities, and be dismissed to nullity or negation (Azazel). Ignorance dissipated and replaced by true knowledge atones for sin. “This very circumstance of a word (Azazel) having been coined for the occasion, suggests what seems to me the right view. ... To have tho iniquities conveyed by asymbolical action into that desert and separate region, into a state of oblivion, was manifestly the whole intention and design of the rite.”—P. FarmmrnaIrn, The Typology of Scripture, Vol. II. p. 536. ** Azazel (in the Book of Enoch) was conceived as chained in the wilderness into which the scapegoat was Ied. The Jerusalem Targum (Ps. Jonathan) on Leviticus says that ‘the goat was sent to die in a hard and rough place in the wilderness of jagged rocks, i.e. Beth Chaduda.”—R. H. Cuaries, Book of Enoch, p. 72. See AARON, AMMIT, ATONEMENT, Goats, IGNORANCE, SACRIFICE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_662|page_662]]
+

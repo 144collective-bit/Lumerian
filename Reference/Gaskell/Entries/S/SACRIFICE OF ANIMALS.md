@@ -1,0 +1,88 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-sacrifice-of-animals
+headword: "SACRIFICE OF ANIMALS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SACRIFICE OF ANIMALS
+
+- **Entry ID:** `gaskell-1960-entry-sacrifice-of-animals`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_650`, `page_651`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_650|page_650]], [[Supporting Material/Gaskell/Source Text/page_651|page_651]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SACRIFICE OF ANIMALS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the devitalising and offering up of the lower desires and affections for the sake of making a place in the soul for the higher .
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Acni` | **unresolved** (review queue) |
+| `ALTAR` | **unresolved** (review queue) |
+| `ANIMALS` | **candidate (ambiguous first-segment)** → ANIMALS, REARED AND DOMESTICATED; ANIMALS, TAMED AND WILD (not linked) |
+| `ARC. MAN` | **unresolved** (review queue) |
+| `BEaAsts` | **unresolved** (review queue) |
+| `BURNT OFFERING` | **unresolved** (review queue) |
+| `CaTTLE` | **candidate (ambiguous first-segment)** → CATTLE, COWS, OR KINE; CATTLE, OR OXEN (not linked) |
+| `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
+| `DrEmons` | **unresolved** (review queue) |
+| `Foop or cops` | **unresolved** (review queue) |
+| `Gops` | **unresolved** (review queue) |
+| `HECATOMB` | **candidate (first-segment only)** → possible `HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS` (not linked) |
+| `Laws` | **unresolved** (review queue) |
+| `OBLATION` | **unresolved** (review queue) |
+| `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
+| `PASSOVER` | **candidate (first-segment only)** → possible `PASSOVER, JEWISH` (not linked) |
+| `Pracdpatr (relaxed)` | **unresolved** (review queue) |
+| `PRAYERS (ob lations)` | **unresolved** (review queue) |
+| `RaGaANya` | **unresolved** (review queue) |
+| `RaM` | **candidate (first-segment only)** → possible `RAM, THE CELESTIAL BREATH` (not linked) |
+| `REGENERa«TION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
+| `ROASTED FLESH` | **unresolved** (review queue) |
+| `SACRAMENTAL CAKES` | **unresolved** (review queue) |
+| `SALVATION` | **unresolved** (review queue) |
+| `SoMA` | **candidate (first-segment only)** → possible `SOMA, AS THE MOON` (not linked) |
+| `VAGAPEYA` | **unresolved** (review queue) |
+| `ViTaL AIRS` | **candidate (first-segment only)** → possible `VITAL AIRS, UPPER AND LOWER` (not linked) |
+| `WASHED (blood)` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-sacrifice-of-animals-ocr-body`
+
+```text
+Symbolic of the devitalising and offering up of the lower desires and affections for the sake of making a place in the soul for the higher . qualities of goodness, love, and truth. **Svayambhu (the Self-existent) himself created animals for the sake of sacrifices ; sacrifices have been instituted for the good of this whole world; hence the slaughtering of beasts for sacrifices is not slaughtering in the ordinary sense of the word.’’—Laws of Manu, V. 39. This signifies that the Supreme brought the lower qualities—the desires, etc. (animals) into existence for the express purpose of providing the means whereby the higher qualities should be developed in the soul (world). The lower qualities have to be overcome and exchanged for the higher. They must be sacrificed. ** Sacrifice is the law of life-manifestation which not even omnipotence can escape. .. . The very qualities which to us are most admirable in human nature, which we reverence most in human character and conduct, and associate specially with the Christ ideal, are qualities which could not become manifest,— however really they might be latent in the Life-Force,—were it not for the conflict with evil. Where would be pity, fidelity, heroism, integrity, and the like, if our moral nature had never had anything to cut its teeth on, so to speak ?”’— R. J. CAMPBELL, Serm., Nature of LifeForce. ‘** Herbs, trees, cattle, birds, and other animals that have been destroyed for sacrifices receive, being re-born, higher existences.’’—Laws of Manu, V. 40. This refers to the transmutation of lower qualities (animals, etc.) into higher qualities, as taught in all scriptures. The qualities are “‘re-born on to a higher plane of existence. “* Sacrifice is the true type of progress. We sacrifice a lower life to cultivate and enjoy a higher. All improvement is a Day PEN, SACRIFICES sacrifice in this sense. But in growing up from the root, it begins at the bare and barren rock that affords no nourishment to the soul. The blood of the beast is this lowest idea. ... It is by sacrificing the lower grades that we ascend to the higher. . . . The highest of all sacrifices are the everlasting sacrifices of righteousness, the sacrifices of selfish and inferior feelings and passions; for these are the true beasts, best represented by clean or domestic animals as they belong to ourselves, and are transubstantiated into ourselves by being used as food. And therefore it is for ever a sacrifice of beasts; only the lower is translated into the higher meaning, as the rock is translated into alluvial and nourishing soil.”—J. Smrrn, The Divine Drama of History, pp. 56, 57. ‘‘To sacrifice is to stir up, actually to beget, two divinities of the first rank, the two principles of life par ercellence, Agni and Soma.’’—A. Bartnu, The Relsgions of India, p. 36. ‘Agni’ is the force aspect of atma-buddhi, and ‘‘Soma” is the Divine Life; these emerge in the soul as growth proceeds. ‘¢* By sacrifices,’ says the Taittiriyabrahmana, ‘the gods obtained heaven.’ ”’ —Mon. Wituiams, Religious Thought tn India, p. 23. The ‘‘ gods ’’ are the Divine Sparks, who descend to rise. ‘‘ The Indian gods even look to mortals for their daily sustenance, and are represented as actually living on the sacrifices offered to them by human beings, and at every sacrificial ceremony assemble in troops, eager to feed upon their shares. In fact. sacrifice with the Hindus is not merely expiatory or placatory; it is necessary for the food and appPe of the gods. lf there were no sacrifices the gods would starve to death. This alone will account for the interest they take in the destruction of demons whose great aim was to obstruct these sources of their sustenance.’’—MoNn. WILLIAMS, Indian Wisdom, pp. 428-9. The ‘“‘ gods’ are the highest ideals, or highest qualities within the human goul. They always grow in strength and beauty as the lower desirss and passions are overcome and abandoned. It is said, therefore, that ‘ sacrifices are for the sust nance of the gods.”’ The ‘‘demons” signify evil habits and erroneous opinions which obstruct the offering up of the desires, and consequently retard the growth of the ideals (gods). “The main object of sacrificial performances generally is the re-construction of Pragfpati, the personified universe, and the divine body of the Sacrificer.”— e 644 SACRIFICES J. Eoortma, S.B. of E., Vol. XLIV. p- xivii. The soul’s evolution is the rforming or gradual building up c Christ, the Archetypal Man, “* for we are members of his body"; and this re-formation of Divinity in humanity is effected by the offering up of the lower nature to the higher, so that ‘** Christ be formed in us,’* and grow to perfection. ‘*Man’s regeneration is an image of the Lord’s glorification.” —SwEDENBORG, Are. Cel., n. 10,042. | *‘ All the animals on earth signify such things as pertain to man; which in general refer to the affections which are of his will, and to the thoughts which are of his understanding, and therefore | to goods and truths. . . . The sacrifices and burnt-offerings in general signify the regeneration of man by the truths o faith and the goods of love. The whok aaa of regeneration is also descnbed y the particular rituals of each sacrifice and burnt offering.’ —SwEDENBORG, [hid See Acni, ALTAR, ANIMALS, ARC. MAN, BEaAsts, BURNT OFFERING, CaTTLE, Cow, DrEmons, Foop or cops, Gops, HECATOMB, Laws, OBLATION, OFFERING, PASSOVER, Pracdpatr (relaxed), PRAYERS (ob lations), RaGaANya, RaM, REGENERa«TION, ROASTED FLESH, SACRAMENTAL CAKES, SALVATION, SoMA, VAGAPEYA, ViTaL AIRS, WASHED (blood).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_650|page_650]], [[Supporting Material/Gaskell/Source Text/page_651|page_651]]
+

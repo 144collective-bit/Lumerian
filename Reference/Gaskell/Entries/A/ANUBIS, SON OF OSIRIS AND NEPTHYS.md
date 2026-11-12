@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-anubis-son-of-osiris-and-nepthys
+headword: "ANUBIS, SON OF OSIRIS AND NEPTHYS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ANUBIS, SON OF OSIRIS AND NEPTHYS
+
+- **Entry ID:** `gaskell-1960-entry-anubis-son-of-osiris-and-nepthys`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_59`, `page_60`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_59|page_59]], [[Supporting Material/Gaskell/Source Text/page_60|page_60]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ANUBIS, SON OF OSIRIS AND NEPTHYS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the physical body as the most outward vehicle of the soul ; the product of Divine energy and matter on the physical plane (Nepthys).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Aru-RA` | **unresolved** (review queue) |
+| `AnPu` | **unresolved** (review queue) |
+| `ApuatT` | **unresolved** (review queue) |
+| `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
+| `EMBALMMENT` | **unresolved** (review queue) |
+| `Isis` | **unresolved** (review queue) |
+| `JACKAL` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JACKAL|JACKAL]] |
+| `NEPHTHys` | **candidate (first-segment only)** → possible `NEPHTHYS, OR NEBKHAT, GODDESS` (not linked) |
+| `Ropr` | **unresolved** (review queue) |
+| `SUDRA` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-anubis-son-of-osiris-and-nepthys-ocr-body`
+
+```text
+A symbol of the physical body as the most outward vehicle of the soul ; the product of Divine energy and matter on the physical plane (Nepthys). ‘‘Isis found the child and bred it; so that in process of time it became her constant guard and attendant, and from hence obtained the name of Anubis, being thought to watch and guard the Gods, as dogs do mankind.”’—PLutTaRcH, Isis and Osiris, § 14. Wisdom (buddhi) takes charge of the physical body and tends it, and assumes direction of its evolution while it guards the Divine nature within. In this way a perfect reciprocity is established between the higher and lower planes, through the actions and re-actions of the physical vehicle which thus becomes the constant attendant and nurturer of the Ideals (gods), or higher activities within the soul. ‘** According to Egyptian belief Anubis was a special patron of the dead, guarding them and superintending their embalmment, he or Thoth being their guide into the next world, and leading them by the hand into the Hall of Judgment.” —WIEDEMANN, Rel. of Anc. Egyptians, p- 230. ‘‘ Anubis who is at the head of the divine hall and who dwelleth upon his mountain, the lord of Ta-tchesert, saith :— I have come to protect Osiris Mut-hetep, triumphant.’’—. he Book of the Dead, Ch. p. 5 APARAGITA “Anubis hath bestowed upon thee (Osiris Nebseni) thy winding-sheet, he hath wrought for thee according to his will, he hath provided thee with the ornaments of his bandages, for he is the overseer of the great god.’’—Ibid., CLXXITI. p. 586. The physical body (Anubis) is a great factor in the mental expression of the personality (corpse), its activities, and its purification (embalmment). The physical mechanism and the higher mind (Thoth) lead the personality by its activities (hand) to the test of completeness of the perfecting process when the consciousness should rise to the higher planes. The physical body is in the forefront of the means of developing the causalbody (divine hall) which is exalted above it; and it serves the spiritual ego (Osiris) within. It is also the external means provided for the education and enlargement of the ego. See Aru-RA, AnPu, ApuatT, Boat, EMBALMMENT, Isis, JACKAL, NEPHTHys, Ropr, SUDRA.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_59|page_59]], [[Supporting Material/Gaskell/Source Text/page_60|page_60]]
+

@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gen
+chapter_id: kjv-gen-13
+book_name: "Genesis"
+chapter: 13
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Genesis 13"
+  - "KJV Genesis 13"
+---
+
+# Genesis 13
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis|Genesis]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 012|Genesis 12]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 014|Genesis 14]]
+
+## Text
+
+###### Genesis 13:1
+
+And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
+
+^kjv-gen-13-1
+
+###### Genesis 13:2
+
+And Abram was very rich in cattle, in silver, and in gold.
+
+^kjv-gen-13-2
+
+###### Genesis 13:3
+
+And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;
+
+^kjv-gen-13-3
+
+###### Genesis 13:4
+
+Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
+
+^kjv-gen-13-4
+
+###### Genesis 13:5
+
+And Lot also, which went with Abram, had flocks, and herds, and tents.
+
+^kjv-gen-13-5
+
+###### Genesis 13:6
+
+And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
+
+^kjv-gen-13-6
+
+###### Genesis 13:7
+
+And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
+
+^kjv-gen-13-7
+
+###### Genesis 13:8
+
+And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren.
+
+^kjv-gen-13-8
+
+###### Genesis 13:9
+
+Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.
+
+^kjv-gen-13-9
+
+###### Genesis 13:10
+
+And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
+
+^kjv-gen-13-10
+
+###### Genesis 13:11
+
+Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
+
+^kjv-gen-13-11
+
+###### Genesis 13:12
+
+Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.
+
+^kjv-gen-13-12
+
+###### Genesis 13:13
+
+But the men of Sodom were wicked and sinners before the LORD exceedingly.
+
+^kjv-gen-13-13
+
+###### Genesis 13:14
+
+And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
+
+^kjv-gen-13-14
+
+###### Genesis 13:15
+
+For all the land which thou seest, to thee will I give it, and to thy seed for ever.
+
+^kjv-gen-13-15
+
+###### Genesis 13:16
+
+And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.
+
+^kjv-gen-13-16
+
+###### Genesis 13:17
+
+Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
+
+^kjv-gen-13-17
+
+###### Genesis 13:18
+
+Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
+
+^kjv-gen-13-18

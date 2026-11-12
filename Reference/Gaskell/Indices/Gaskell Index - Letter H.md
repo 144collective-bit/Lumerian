@@ -1,0 +1,193 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: H
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter H
+
+Entries whose normalized head begins with **H** (173).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/H/H, LANKA|H, LANKA]] — `gaskell-1960-entry-h-lanka` — EPUB p.451
+- [[Reference/Gaskell/Entries/H/HABIT|HABIT]] — `gaskell-1960-entry-habit` — EPUB p.341
+- [[Reference/Gaskell/Entries/H/HAETUMANT, THE GLORIOUS LAND|HAETUMANT, THE GLORIOUS LAND]] — `gaskell-1960-entry-haetumant-the-glorious-land` — EPUB p.341
+- [[Reference/Gaskell/Entries/H/HAIGI-NO-KAMI, DEITY|HAIGI-NO-KAMI, DEITY]] — `gaskell-1960-entry-haigi-no-kami-deity` — EPUB p.341
+- [[Reference/Gaskell/Entries/H/HAIR HAIR OF THE DIVINE BODY,- ITS SMOOTHNESS|HAIR HAIR OF THE DIVINE BODY,- ITS SMOOTHNESS]] — `gaskell-1960-entry-hair-hair-of-the-divine-body-its-smoothness` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAIR OF MACROPROSOPUS|HAIR OF MACROPROSOPUS]] — `gaskell-1960-entry-hair-of-macroprosopus` — EPUB p.342
+- [[Reference/Gaskell/Entries/H/HAIR OF THE HEAD|HAIR OF THE HEAD]] — `gaskell-1960-entry-hair-of-the-head` — EPUB p.341,342
+- [[Reference/Gaskell/Entries/H/HAIR SHAVEN FROM CROWN OF THE HEAD|HAIR SHAVEN FROM CROWN OF THE HEAD]] — `gaskell-1960-entry-hair-shaven-from-crown-of-the-head` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAIR ,-SIDE-LOCK|HAIR ,-SIDE-LOCK]] — `gaskell-1960-entry-hair-side-lock` — EPUB p.342
+- [[Reference/Gaskell/Entries/H/HAIR TOP-KNOT|HAIR TOP-KNOT]] — `gaskell-1960-entry-hair-top-knot` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAIR TUFT BETWEEN THE EYEBROWS OF BUDDHA|HAIR TUFT BETWEEN THE EYEBROWS OF BUDDHA]] — `gaskell-1960-entry-hair-tuft-between-the-eyebrows-of-buddha` — EPUB p.342,343
+- [[Reference/Gaskell/Entries/H/HALLOWED OFFERINGS TO KYPRIS|HALLOWED OFFERINGS TO KYPRIS]] — `gaskell-1960-entry-hallowed-offerings-to-kypris` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] — `gaskell-1960-entry-ham-son-of-noah` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAMMER OF THOR|HAMMER OF THOR]] — `gaskell-1960-entry-hammer-of-thor` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAND|HAND]] — `gaskell-1960-entry-hand` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAND HAND, RIGHT|HAND HAND, RIGHT]] — `gaskell-1960-entry-hand-hand-right` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAND, LEFT|HAND, LEFT]] — `gaskell-1960-entry-hand-left` — EPUB p.343
+- [[Reference/Gaskell/Entries/H/HAND OF EVERY BEAST AND MAN|HAND OF EVERY BEAST AND MAN]] — `gaskell-1960-entry-hand-of-every-beast-and-man` — EPUB p.343,344
+- [[Reference/Gaskell/Entries/H/HANDS RAISED UPWARDS|HANDS RAISED UPWARDS]] — `gaskell-1960-entry-hands-raised-upwards` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HANGING TENDRILS OF HOMA|HANGING TENDRILS OF HOMA]] — `gaskell-1960-entry-hanging-tendrils-of-homa` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HANUMAN, SON OF VAYU|HANUMAN, SON OF VAYU]] — `gaskell-1960-entry-hanuman-son-of-vayu` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HAPI GOD, OR NILE|HAPI GOD, OR NILE]] — `gaskell-1960-entry-hapi-god-or-nile` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HAPTO-IRINGA, (MARS PLANET)|HAPTO-IRINGA, (MARS PLANET)]] — `gaskell-1960-entry-hapto-iringa-mars-planet` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HARAVAITI, THE BEAUTIFUL LAND|HARAVAITI, THE BEAUTIFUL LAND]] — `gaskell-1960-entry-haravaiti-the-beautiful-land` — EPUB p.344
+- [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] — `gaskell-1960-entry-harlot-or-strange-woman` — EPUB p.344,345
+- [[Reference/Gaskell/Entries/H/HARMAKHIS, LIVING|HARMAKHIS, LIVING]] — `gaskell-1960-entry-harmakhis-living` — EPUB p.345
+- [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] — `gaskell-1960-entry-harmony-and-music` — EPUB p.345
+- [[Reference/Gaskell/Entries/H/HAROYN LAND AND LAKE|HAROYN LAND AND LAKE]] — `gaskell-1960-entry-haroyn-land-and-lake` — EPUB p.345
+- [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] — `gaskell-1960-entry-harpies` — EPUB p.345
+- [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] — `gaskell-1960-entry-harpocrates-young-horus-son-of-osiris-and-isis` — EPUB p.345
+- [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] — `gaskell-1960-entry-harvest-at-the-end-of-the-world` — EPUB p.345,346
+- [[Reference/Gaskell/Entries/H/HARVISPTOKHM, THE TREE OF ALL SEEDS|HARVISPTOKHM, THE TREE OF ALL SEEDS]] — `gaskell-1960-entry-harvisptokhm-the-tree-of-all-seeds` — EPUB p.346
+- [[Reference/Gaskell/Entries/H/HAST, OR COMPLETION|HAST, OR COMPLETION]] — `gaskell-1960-entry-hast-or-completion` — EPUB p.346
+- [[Reference/Gaskell/Entries/H/HASTINA-PUR, THE CITY|HASTINA-PUR, THE CITY]] — `gaskell-1960-entry-hastina-pur-the-city` — EPUB p.346
+- [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] — `gaskell-1960-entry-hathor-cow-and-moon-goddess` — EPUB p.346
+- [[Reference/Gaskell/Entries/H/HAVILAH LAND|HAVILAH LAND]] — `gaskell-1960-entry-havilah-land` — EPUB p.346,347
+- [[Reference/Gaskell/Entries/H/HAWK, MAN-HEADED|HAWK, MAN-HEADED]] — `gaskell-1960-entry-hawk-man-headed` — EPUB p.347
+- [[Reference/Gaskell/Entries/H/HAWK-HEADED HUMAN BODIES|HAWK-HEADED HUMAN BODIES]] — `gaskell-1960-entry-hawk-headed-human-bodies` — EPUB p.347
+- [[Reference/Gaskell/Entries/H/HAWK-HEADED POLE|HAWK-HEADED POLE]] — `gaskell-1960-entry-hawk-headed-pole` — EPUB p.347
+- [[Reference/Gaskell/Entries/H/HEAD|HEAD]] — `gaskell-1960-entry-head` — EPUB p.347
+- [[Reference/Gaskell/Entries/H/HEAD HEAD, LIVING WITHOUT A|HEAD HEAD, LIVING WITHOUT A]] — `gaskell-1960-entry-head-head-living-without-a` — EPUB p.348
+- [[Reference/Gaskell/Entries/H/HEAD OF HORUS ON A POLE|HEAD OF HORUS ON A POLE]] — `gaskell-1960-entry-head-of-horus-on-a-pole` — EPUB p.347
+- [[Reference/Gaskell/Entries/H/HEAD OF SET CUT OFF|HEAD OF SET CUT OFF]] — `gaskell-1960-entry-head-of-set-cut-off` — EPUB p.347,348
+- [[Reference/Gaskell/Entries/H/HEALING|HEALING]] — `gaskell-1960-entry-healing` — EPUB p.348,349
+- [[Reference/Gaskell/Entries/H/HEALING A MAN SICK OF THE PALSY|HEALING A MAN SICK OF THE PALSY]] — `gaskell-1960-entry-healing-a-man-sick-of-the-palsy` — EPUB p.349,350
+- [[Reference/Gaskell/Entries/H/HEALING BY CASTING OUT DEVILS|HEALING BY CASTING OUT DEVILS]] — `gaskell-1960-entry-healing-by-casting-out-devils` — EPUB p.350
+- [[Reference/Gaskell/Entries/H/HEALING BY RAISING THE DEAD|HEALING BY RAISING THE DEAD]] — `gaskell-1960-entry-healing-by-raising-the-dead` — EPUB p.350,351
+- [[Reference/Gaskell/Entries/H/HEALING OF AN EPILEPTIC|HEALING OF AN EPILEPTIC]] — `gaskell-1960-entry-healing-of-an-epileptic` — EPUB p.349
+- [[Reference/Gaskell/Entries/H/HEALING OF THE WITHERED HAND OF A MASON|HEALING OF THE WITHERED HAND OF A MASON]] — `gaskell-1960-entry-healing-of-the-withered-hand-of-a-mason` — EPUB p.349
+- [[Reference/Gaskell/Entries/H/HEARING (HIGHER ASPECT)|HEARING (HIGHER ASPECT)]] — `gaskell-1960-entry-hearing-higher-aspect` — EPUB p.351
+- [[Reference/Gaskell/Entries/H/HEARING (LOWER ASPECT)|HEARING (LOWER ASPECT)]] — `gaskell-1960-entry-hearing-lower-aspect` — EPUB p.351
+- [[Reference/Gaskell/Entries/H/HEART|HEART]] — `gaskell-1960-entry-heart` — EPUB p.351,352
+- [[Reference/Gaskell/Entries/H/HEAT AND COLD|HEAT AND COLD]] — `gaskell-1960-entry-heat-and-cold` — EPUB p.352
+- [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] — `gaskell-1960-entry-heaven` — EPUB p.352,353
+- [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] — `gaskell-1960-entry-heaven-and-earth` — EPUB p.353,354
+- [[Reference/Gaskell/Entries/H/HEAVENLY REGIONS|HEAVENLY REGIONS]] — `gaskell-1960-entry-heavenly-regions` — EPUB p.354
+- [[Reference/Gaskell/Entries/H/HEAVENLY VOICE IN PATH|HEAVENLY VOICE IN PATH]] — `gaskell-1960-entry-heavenly-voice-in-path` — EPUB p.354,355
+- [[Reference/Gaskell/Entries/H/HEBDOMAD, SON OF THE|HEBDOMAD, SON OF THE]] — `gaskell-1960-entry-hebdomad-son-of-the` — EPUB p.355
+- [[Reference/Gaskell/Entries/H/HEBDOMAD WHICH PROCEEDS FROM THE OGDOAD|HEBDOMAD WHICH PROCEEDS FROM THE OGDOAD]] — `gaskell-1960-entry-hebdomad-which-proceeds-from-the-ogdoad` — EPUB p.355
+- [[Reference/Gaskell/Entries/H/HEBEN TEMPLE GROUND|HEBEN TEMPLE GROUND]] — `gaskell-1960-entry-heben-temple-ground` — EPUB p.355
+- [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] — `gaskell-1960-entry-hecatomb-the-sacrifice-of-many-unblemished-bulls-and-goats-and-lambs` — EPUB p.355,356
+- [[Reference/Gaskell/Entries/H/HECTOR, SON OF PRIAM|HECTOR, SON OF PRIAM]] — `gaskell-1960-entry-hector-son-of-priam` — EPUB p.356
+- [[Reference/Gaskell/Entries/H/HEEDAH|HEEDAH]] — `gaskell-1960-entry-heedah` — EPUB p.840,841
+- [[Reference/Gaskell/Entries/H/HEEL|HEEL]] — `gaskell-1960-entry-heel` — EPUB p.356,357
+- [[Reference/Gaskell/Entries/H/HEIFER, RED, PERFECT|HEIFER, RED, PERFECT]] — `gaskell-1960-entry-heifer-red-perfect` — EPUB p.357,358
+- [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] — `gaskell-1960-entry-height-of-osiris` — EPUB p.358
+- [[Reference/Gaskell/Entries/H/HEIGHT, OR HEIGHTS|HEIGHT, OR HEIGHTS]] — `gaskell-1960-entry-height-or-heights` — EPUB p.358
+- [[Reference/Gaskell/Entries/H/HEIMDALL|HEIMDALL]] — `gaskell-1960-entry-heimdall` — EPUB p.358
+- [[Reference/Gaskell/Entries/H/HEIR ACCORDING TO PROMISE|HEIR ACCORDING TO PROMISE]] — `gaskell-1960-entry-heir-according-to-promise` — EPUB p.358,359
+- [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] — `gaskell-1960-entry-helen-of-troy` — EPUB p.359
+- [[Reference/Gaskell/Entries/H/HELIOPE AND CHTHONIE, OR SUN AND EARTH|HELIOPE AND CHTHONIE, OR SUN AND EARTH]] — `gaskell-1960-entry-heliope-and-chthonie-or-sun-and-earth` — EPUB p.359
+- [[Reference/Gaskell/Entries/H/HELIOS, THE SUN-GOD, RA|HELIOS, THE SUN-GOD, RA]] — `gaskell-1960-entry-helios-the-sun-god-ra` — EPUB p.359
+- [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] — `gaskell-1960-entry-hell-hel-hades-sheol` — EPUB p.359,360
+- [[Reference/Gaskell/Entries/H/HELMET|HELMET]] — `gaskell-1960-entry-helmet` — EPUB p.360
+- [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] — `gaskell-1960-entry-hephaistos-or-vulcan` — EPUB p.360
+- [[Reference/Gaskell/Entries/H/HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE|HER AND LOWER SELVES, JOHN BAPTIST, ZACHARIAS CHRISTMAS-TREE]] — `gaskell-1960-entry-her-and-lower-selves-john-baptist-zacharias-christmas-tree` — EPUB p.161,162
+- [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] — `gaskell-1960-entry-hera-or-juno` — EPUB p.360,361
+- [[Reference/Gaskell/Entries/H/HERB OF THE FIELD, OR GREEN HERB|HERB OF THE FIELD, OR GREEN HERB]] — `gaskell-1960-entry-herb-of-the-field-or-green-herb` — EPUB p.361
+- [[Reference/Gaskell/Entries/H/HERCULES, SON OF ZEUS|HERCULES, SON OF ZEUS]] — `gaskell-1960-entry-hercules-son-of-zeus` — EPUB p.361
+- [[Reference/Gaskell/Entries/H/HERDS OF CATTLE|HERDS OF CATTLE]] — `gaskell-1960-entry-herds-of-cattle` — EPUB p.361
+- [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] — `gaskell-1960-entry-hermes-trismegistus` — EPUB p.362
+- [[Reference/Gaskell/Entries/H/HERMIT OR ANCHORITE|HERMIT OR ANCHORITE]] — `gaskell-1960-entry-hermit-or-anchorite` — EPUB p.362,363
+- [[Reference/Gaskell/Entries/H/HERMOD, SON OF ODIN|HERMOD, SON OF ODIN]] — `gaskell-1960-entry-hermod-son-of-odin` — EPUB p.363
+- [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] — `gaskell-1960-entry-herod-the-king` — EPUB p.363,364
+- [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] — `gaskell-1960-entry-heroes-the-greatest-of-the-day` — EPUB p.364,365
+- [[Reference/Gaskell/Entries/H/HEROIC HEROIC RUNNER,-THE SUN|HEROIC HEROIC RUNNER,-THE SUN]] — `gaskell-1960-entry-heroic-heroic-runner-the-sun` — EPUB p.365
+- [[Reference/Gaskell/Entries/H/HESED (CHESED), THE SUN|HESED (CHESED), THE SUN]] — `gaskell-1960-entry-hesed-chesed-the-sun` — EPUB p.365
+- [[Reference/Gaskell/Entries/H/HESPERIDES|HESPERIDES]] — `gaskell-1960-entry-hesperides` — EPUB p.365
+- [[Reference/Gaskell/Entries/H/HETEP, LAKE OF THE GOD|HETEP, LAKE OF THE GOD]] — `gaskell-1960-entry-hetep-lake-of-the-god` — EPUB p.366
+- [[Reference/Gaskell/Entries/H/HETEP, THE GOD|HETEP, THE GOD]] — `gaskell-1960-entry-hetep-the-god` — EPUB p.366
+- [[Reference/Gaskell/Entries/H/HETHRA, THE MOTHER OF ALL LIVING|HETHRA, THE MOTHER OF ALL LIVING]] — `gaskell-1960-entry-hethra-the-mother-of-all-living` — EPUB p.366
+- [[Reference/Gaskell/Entries/H/HI RIGHT ARM AND LEFT|HI RIGHT ARM AND LEFT]] — `gaskell-1960-entry-hi-right-arm-and-left` — EPUB p.637
+- [[Reference/Gaskell/Entries/H/HIDING FROM GOD|HIDING FROM GOD]] — `gaskell-1960-entry-hiding-from-god` — EPUB p.366
+- [[Reference/Gaskell/Entries/H/HIDING HIDDEKEL RIVER|HIDING HIDDEKEL RIVER]] — `gaskell-1960-entry-hiding-hiddekel-river` — EPUB p.366
+- [[Reference/Gaskell/Entries/H/HIDING PLACE OF THE GODDESS|HIDING PLACE OF THE GODDESS]] — `gaskell-1960-entry-hiding-place-of-the-goddess` — EPUB p.366,367
+- [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] — `gaskell-1960-entry-higher-and-lower-selves` — EPUB p.368,369
+- [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] — `gaskell-1960-entry-higher-and-lower-worlds` — EPUB p.367,368
+- [[Reference/Gaskell/Entries/H/HIGHER AND NATURES|HIGHER AND NATURES]] — `gaskell-1960-entry-higher-and-natures` — EPUB p.367
+- [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF A DEAD FAITH|HIGH-PRIEST OF A DEAD FAITH]] — `gaskell-1960-entry-high-priest-of-a-dead-faith` — EPUB p.369
+- [[Reference/Gaskell/Entries/H/HIGH-PRIEST OF THE GOOD RELIGION|HIGH-PRIEST OF THE GOOD RELIGION]] — `gaskell-1960-entry-high-priest-of-the-good-religion` — EPUB p.369
+- [[Reference/Gaskell/Entries/H/HIGH-PRIESTSHIP OF THE GLORIFIED ONE|HIGH-PRIESTSHIP OF THE GLORIFIED ONE]] — `gaskell-1960-entry-high-priestship-of-the-glorified-one` — EPUB p.369
+- [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] — `gaskell-1960-entry-hikoboshi-a-star-god` — EPUB p.369,370
+- [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] — `gaskell-1960-entry-hill-country` — EPUB p.370
+- [[Reference/Gaskell/Entries/H/HINE-NUI-TE-PO|HINE-NUI-TE-PO]] — `gaskell-1960-entry-hine-nui-te-po` — EPUB p.370
+- [[Reference/Gaskell/Entries/H/HIPPOPOTAMI|HIPPOPOTAMI]] — `gaskell-1960-entry-hippopotami` — EPUB p.370
+- [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] — `gaskell-1960-entry-hiranyagarbha-germ` — EPUB p.370,371
+- [[Reference/Gaskell/Entries/H/HIRUKO (LEECH-CHILD)|HIRUKO (LEECH-CHILD)]] — `gaskell-1960-entry-hiruko-leech-child` — EPUB p.371
+- [[Reference/Gaskell/Entries/H/HIS SWEET GODDESS, LADY, OR WOMAN (CELESTIAL)|HIS SWEET GODDESS, LADY, OR WOMAN (CELESTIAL)]] — `gaskell-1960-entry-his-sweet-goddess-lady-or-woman-celestial` — EPUB p.324
+- [[Reference/Gaskell/Entries/H/HIT, SERPENT, LOUD-BREATHING|HIT, SERPENT, LOUD-BREATHING]] — `gaskell-1960-entry-hit-serpent-loud-breathing` — EPUB p.682,683
+- [[Reference/Gaskell/Entries/H/HOKHMAH, THE WORD, OR WISDOM (MASCULINE)|HOKHMAH, THE WORD, OR WISDOM (MASCULINE)]] — `gaskell-1960-entry-hokhmah-the-word-or-wisdom-masculine` — EPUB p.372
+- [[Reference/Gaskell/Entries/H/HOLD OF THE SHIP|HOLD OF THE SHIP]] — `gaskell-1960-entry-hold-of-the-ship` — EPUB p.372
+- [[Reference/Gaskell/Entries/H/HOLLOW OF THE HILLS|HOLLOW OF THE HILLS]] — `gaskell-1960-entry-hollow-of-the-hills` — EPUB p.372
+- [[Reference/Gaskell/Entries/H/HOLLOW SHIPS|HOLLOW SHIPS]] — `gaskell-1960-entry-hollow-ships` — EPUB p.372
+- [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] — `gaskell-1960-entry-holy-ghost-or-spirit` — EPUB p.372,373
+- [[Reference/Gaskell/Entries/H/HOLY PLACES AND FEELINGS|HOLY PLACES AND FEELINGS]] — `gaskell-1960-entry-holy-places-and-feelings` — EPUB p.373
+- [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] — `gaskell-1960-entry-homa-tree-or-plant` — EPUB p.373,374
+- [[Reference/Gaskell/Entries/H/HOM-PLANT STEM|HOM-PLANT STEM]] — `gaskell-1960-entry-hom-plant-stem` — EPUB p.373
+- [[Reference/Gaskell/Entries/H/HONEY|HONEY]] — `gaskell-1960-entry-honey` — EPUB p.374,375
+- [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] — `gaskell-1960-entry-horbehudti-or-herobehutet` — EPUB p.375,376
+- [[Reference/Gaskell/Entries/H/HORIZONS, THE TWO|HORIZONS, THE TWO]] — `gaskell-1960-entry-horizons-the-two` — EPUB p.376
+- [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] — `gaskell-1960-entry-horn-of-salvation` — EPUB p.376
+- [[Reference/Gaskell/Entries/H/HORNE, CHERUBIM AND SERAPHIM|HORNE, CHERUBIM AND SERAPHIM]] — `gaskell-1960-entry-horne-cherubim-and-seraphim` — EPUB p.155,156
+- [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]] — `gaskell-1960-entry-horns-of-gold` — EPUB p.376
+- [[Reference/Gaskell/Entries/H/HORNS OF THE GOD|HORNS OF THE GOD]] — `gaskell-1960-entry-horns-of-the-god` — EPUB p.376
+- [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] — `gaskell-1960-entry-horns-ten-of-the-dragon` — EPUB p.376
+- [[Reference/Gaskell/Entries/H/HORSE|HORSE]] — `gaskell-1960-entry-horse` — EPUB p.376,377
+- [[Reference/Gaskell/Entries/H/HORSE, BLACK|HORSE, BLACK]] — `gaskell-1960-entry-horse-black` — EPUB p.377
+- [[Reference/Gaskell/Entries/H/HORSE HORSE, SACRIFICIAL|HORSE HORSE, SACRIFICIAL]] — `gaskell-1960-entry-horse-horse-sacrificial` — EPUB p.379
+- [[Reference/Gaskell/Entries/H/HORSE, RED|HORSE, RED]] — `gaskell-1960-entry-horse-red` — EPUB p.377,378
+- [[Reference/Gaskell/Entries/H/HORSE, WHITE|HORSE, WHITE]] — `gaskell-1960-entry-horse-white` — EPUB p.378
+- [[Reference/Gaskell/Entries/H/HORSE, WINGED|HORSE, WINGED]] — `gaskell-1960-entry-horse-winged` — EPUB p.378,379
+- [[Reference/Gaskell/Entries/H/HORSES, TWO BAY|HORSES, TWO BAY]] — `gaskell-1960-entry-horses-two-bay` — EPUB p.379
+- [[Reference/Gaskell/Entries/H/HORSES WITH LONG FLOWING MANES|HORSES WITH LONG FLOWING MANES]] — `gaskell-1960-entry-horses-with-long-flowing-manes` — EPUB p.379
+- [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]] — `gaskell-1960-entry-horus-the-child` — EPUB p.379,380
+- [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]] — `gaskell-1960-entry-horus-the-elder-or-aroueris` — EPUB p.379
+- [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] — `gaskell-1960-entry-horus-the-younger` — EPUB p.379
+- [[Reference/Gaskell/Entries/H/HOST HOSHANG AND GUZAK|HOST HOSHANG AND GUZAK]] — `gaskell-1960-entry-host-hoshang-and-guzak` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOST, OR CONSECRATED WAFER|HOST, OR CONSECRATED WAFER]] — `gaskell-1960-entry-host-or-consecrated-wafer` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] — `gaskell-1960-entry-hosts-lord-of` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOTRI PRIEST (SPEECH)|HOTRI PRIEST (SPEECH)]] — `gaskell-1960-entry-hotri-priest-speech` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOUR|HOUR]] — `gaskell-1960-entry-hour` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOUR OF MID-DAY|HOUR OF MID-DAY]] — `gaskell-1960-entry-hour-of-mid-day` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] — `gaskell-1960-entry-houries-nymphs-of-paradise` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] — `gaskell-1960-entry-house` — EPUB p.380
+- [[Reference/Gaskell/Entries/H/HOUSE, CLAN, TRIBE, COUNTRY|HOUSE, CLAN, TRIBE, COUNTRY]] — `gaskell-1960-entry-house-clan-tribe-country` — EPUB p.382
+- [[Reference/Gaskell/Entries/H/HOUSE, FREQUENTED|HOUSE, FREQUENTED]] — `gaskell-1960-entry-house-frequented` — EPUB p.381
+- [[Reference/Gaskell/Entries/H/HOUSE IN HEAVEN, OR HOUSE OF GOD|HOUSE IN HEAVEN, OR HOUSE OF GOD]] — `gaskell-1960-entry-house-in-heaven-or-house-of-god` — EPUB p.381,382
+- [[Reference/Gaskell/Entries/H/HOUSE OF A MAN|HOUSE OF A MAN]] — `gaskell-1960-entry-house-of-a-man` — EPUB p.382
+- [[Reference/Gaskell/Entries/H/HOUSE PROVIDED WITH FIRE, CATTLE, WIFE, SON, AND PLENTY|HOUSE PROVIDED WITH FIRE, CATTLE, WIFE, SON, AND PLENTY]] — `gaskell-1960-entry-house-provided-with-fire-cattle-wife-son-and-plenty` — EPUB p.382
+- [[Reference/Gaskell/Entries/H/HOUSE TO SLEEP IN|HOUSE TO SLEEP IN]] — `gaskell-1960-entry-house-to-sleep-in` — EPUB p.382,383
+- [[Reference/Gaskell/Entries/H/HOUSE WITH FOUR DOORS|HOUSE WITH FOUR DOORS]] — `gaskell-1960-entry-house-with-four-doors` — EPUB p.382
+- [[Reference/Gaskell/Entries/H/HOUSEHOLDER|HOUSEHOLDER]] — `gaskell-1960-entry-householder` — EPUB p.383
+- [[Reference/Gaskell/Entries/H/HOUSEHOLDER HOUSEHOLDER (HIGHEST ASPECT)|HOUSEHOLDER HOUSEHOLDER (HIGHEST ASPECT)]] — `gaskell-1960-entry-householder-householder-highest-aspect` — EPUB p.383
+- [[Reference/Gaskell/Entries/H/HOUSES FOR CORPSES|HOUSES FOR CORPSES]] — `gaskell-1960-entry-houses-for-corpses` — EPUB p.383
+- [[Reference/Gaskell/Entries/H/HOUSES OF BUDDHA'S FRIENDS|HOUSES OF BUDDHA'S FRIENDS]] — `gaskell-1960-entry-houses-of-buddha-s-friends` — EPUB p.383
+- [[Reference/Gaskell/Entries/H/HUITZILOPOCHTLI, WAR-GOD|HUITZILOPOCHTLI, WAR-GOD]] — `gaskell-1960-entry-huitzilopochtli-war-god` — EPUB p.383
+- [[Reference/Gaskell/Entries/H/HUMAN BODY|HUMAN BODY]] — `gaskell-1960-entry-human-body` — EPUB p.383,384
+- [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]] — `gaskell-1960-entry-hunger` — EPUB p.384
+- [[Reference/Gaskell/Entries/H/HUSBAND AND WIFE|HUSBAND AND WIFE]] — `gaskell-1960-entry-husband-and-wife` — EPUB p.384
+- [[Reference/Gaskell/Entries/H/HUSBAND, GOOD AND RICH|HUSBAND, GOOD AND RICH]] — `gaskell-1960-entry-husband-good-and-rich` — EPUB p.384
+- [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] — `gaskell-1960-entry-husbandman` — EPUB p.384
+- [[Reference/Gaskell/Entries/H/HUSKS|HUSKS]] — `gaskell-1960-entry-husks` — EPUB p.384,385
+- [[Reference/Gaskell/Entries/H/HUT, OR TENT|HUT, OR TENT]] — `gaskell-1960-entry-hut-or-tent` — EPUB p.385
+- [[Reference/Gaskell/Entries/H/HVANIRATHA OR KHVANIRAS|HVANIRATHA OR KHVANIRAS]] — `gaskell-1960-entry-hvaniratha-or-khvaniras` — EPUB p.385
+- [[Reference/Gaskell/Entries/H/HVERGELMIR FOUNTAIN|HVERGELMIR FOUNTAIN]] — `gaskell-1960-entry-hvergelmir-fountain` — EPUB p.385
+- [[Reference/Gaskell/Entries/H/HYANTS, WANDERERS, WEALTH OF THE TREASURY|HYANTS, WANDERERS, WEALTH OF THE TREASURY]] — `gaskell-1960-entry-hyants-wanderers-wealth-of-the-treasury` — EPUB p.815
+- [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] — `gaskell-1960-entry-hylas-an-argonaut` — EPUB p.385
+- [[Reference/Gaskell/Entries/H/HYMNS HYMNS, TWO PRAISE|HYMNS HYMNS, TWO PRAISE]] — `gaskell-1960-entry-hymns-hymns-two-praise` — EPUB p.386
+- [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] — `gaskell-1960-entry-hymn-singing` — EPUB p.385,386
+- [[Reference/Gaskell/Entries/H/HYPERION, SON OF URANUS AND GE|HYPERION, SON OF URANUS AND GE]] — `gaskell-1960-entry-hyperion-son-of-uranus-and-ge` — EPUB p.386
+- [[Reference/Gaskell/Entries/H/HYPSIPYLE, DAUGHTER OF THOAS|HYPSIPYLE, DAUGHTER OF THOAS]] — `gaskell-1960-entry-hypsipyle-daughter-of-thoas` — EPUB p.386
+- [[Reference/Gaskell/Entries/H/HYRCANIA HEIGHTS|HYRCANIA HEIGHTS]] — `gaskell-1960-entry-hyrcania-heights` — EPUB p.386
+- [[Reference/Gaskell/Entries/H/HYRROCKEN, THE GIANTESS|HYRROCKEN, THE GIANTESS]] — `gaskell-1960-entry-hyrrocken-the-giantess` — EPUB p.386
+

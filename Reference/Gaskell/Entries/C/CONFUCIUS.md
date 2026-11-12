@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-confucius
+headword: "CONFUCIUS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# CONFUCIUS
+
+- **Entry ID:** `gaskell-1960-entry-confucius`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_176`, `page_177`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_176|page_176]], [[Supporting Material/Gaskell/Source Text/page_177|page_177]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`CONFUCIUS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Higher Self active on the mental plane of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BIRTH OF CONFUCIUS` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF CONFUCIUS|BIRTH OF CONFUCIUS]] |
+| `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `Fiurat prety` | **unresolved** (review queue) |
+| `Heaven` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
+| `Moon` | **unresolved** (review queue) |
+| `SEasons` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
+| `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-confucius-ocr-body`
+
+```text
+A symbol of the Higher Self active on the mental plane of the soul. ‘*Chung-ne (Confucius) handed down the doctrines of Yaou and Shun, as if they had been his ancestors. Above, he harmonised with the times of heaven, and below, he was conformed to the water and land. He may be compared to heaven and earth, in their supporti and containing, their overshadowing an curtaining, all things. He may be compared to the four seasons in their alternating progress, and to the sun and moon in their successive shining ”’ (Doctrine of the Mean).—J. Lraar, Teachings of Confucius, p. 315. The Self on the plane of mind inherited, as it were, the powers and qualities of the Self on the planes of atma and buddhi Above, he conformed to the laws of the higher planes ; and below he was reflected in the activities of the astral and physical planes. For in him were all things CONFUSION created upon the higher and lower planes. By him the soul progresses through the periods of the cycle. He is the Divine Life in the successive changes of the individuality and the personality. See BIRTH OF CONFUCIUS, EARTH, Fiurat prety, Heaven, Moon, SEasons, SUN.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_176|page_176]], [[Supporting Material/Gaskell/Source Text/page_177|page_177]]
+

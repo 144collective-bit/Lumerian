@@ -1,0 +1,80 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-house-in-heaven-or-house-of-god
+headword: "HOUSE IN HEAVEN, OR HOUSE OF GOD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# HOUSE IN HEAVEN, OR HOUSE OF GOD
+
+- **Entry ID:** `gaskell-1960-entry-house-in-heaven-or-house-of-god`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_381`, `page_382`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_381|page_381]], [[Supporting Material/Gaskell/Source Text/page_382|page_382]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`HOUSE IN HEAVEN, OR HOUSE OF GOD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the causal-body or immortal soul, the seat of the Divine nature of humanity.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ARK` | **unresolved** (review queue) |
+| `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
+| `CavusaL-BOoDy` | **unresolved** (review queue) |
+| `Curistr` | **unresolved** (review queue) |
+| `CourncH` | **unresolved** (review queue) |
+| `Corracs` | **unresolved** (review queue) |
+| `DWELLING` | **unresolved** (review queue) |
+| `GaRHAPATYA` | **unresolved** (review queue) |
+| `Lost SILVER` | **unresolved** (review queue) |
+| `Lorvus` | **unresolved** (review queue) |
+| `Mansions` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANSIONS|MANSIONS]] |
+| `PyYtons` | **unresolved** (review queue) |
+| `Pyramip` | **unresolved** (review queue) |
+| `SHIP` | **candidate (first-segment only)** → possible `SHIP, BLACK` (not linked) |
+| `Surmve` | **unresolved** (review queue) |
+| `Stone (building)` | **unresolved** (review queue) |
+| `TaserNACLE` | **unresolved** (review queue) |
+| `TEMPLE` | **candidate (first-segment only)** → possible `TEMPLE, FIRE` (not linked) |
+| `TREASURE` | **unresolved** (review queue) |
+| `VICTORY` | **candidate (first-segment only)** → possible `VICTORY, OR TRIUMPH` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-house-in-heaven-or-house-of-god-ocr-body`
+
+```text
+A symbol of the causal-body or immortal soul, the seat of the Divine nature of humanity. ** But Christ as a son, over his (God's) house; whose house are we, if we hold fast our boldness and the glorying of our hope firm unto the end.”’°—HEB. iii. "The indwelling Self is the manifest Divine,—the son of the Unmanifest,— who is seated in the potential causalbody. To evolve the actual from the potential, the egos build up in the spirit of Christ, the causal-body, and become one with it in actuality as they are victorious over the lower nature and persevere unto the end of the cycle. ‘* The piece of money—the groat, as he (Walter Hylton) calls it—is lost in thy house. That is to say, the Divine treasure lies holden in thy soul. Jesus sleeps in thy ship, as he once slept in the little ship on the lake of Gennesaret.”— Dr. Incr, English Mystics, p. 89. **The body is the prana’s habitation, of which the head forms the roof, in which it is bound to the breath as posta, by food as the rope. . Usually following Brih. II. 5, 18, and especially Chand Vill. 1, I, the body is described as the city of Brahman, heavenly, desirable, the highest dwelling of Brahman, in which as a houge the lotus flower of the heart abides, in which during sleep the fires of the prana keep watch.’’—-DEUSSEN, Phil. of Upanishads, p. 283. The causal-body is the vehicle of the Self (prina) in the underworld, who is attached to it by the processes of soul-nourishment and growth. The causal-body is the soul's centre (city), perfect potentially if not actually; it is the seat of the Higher Self (Brahman); it is also the soul’s innermost shrine in which wisdom and _ love abide. When the causal Self indraws the life (sleep) after an incarnation, the soul’s energies await further outpouring. ** Catherine of Siena gave her testimony to the fact that the soul ‘ bears ever within it the place where God lives by grace —the house of our soul wherein holy Myer pba meee } = M. Jonzs, eligion, p. 305 ai HOUSE “The second place of earth's joy is whereon the fai one erecta a house wherein every blessing of life is thriving.” —Vendidad. III. “Earth’s joy” is so expressed, since the awakenment of the Self must proceed first from the physical plane. The “second place ™ signifies the plane of the higher mind whereon the indwelling Self, through the egos, builds up the causal-body within which the transmuted experiences are collected together. ** The earth brings forth for them many things of all sorts, of which they carry the most serviceable into the house and use them.’’—Anazagoras, FAIRBANKS, 10. The lower nature yields experiences for the mind, of which those which are capable of transmutation are conveyed to the causal-body wherewith to build it up. See ARK, Boat, CavusaL-BOoDy, Curistr, CourncH, Corracs, DWELLING, GaRHAPATYA, Lost SILVER, Lorvus, Mansions, PyYtons, Pyramip, SHIP, Surmve, Stone (building), TaserNACLE, TEMPLE, TREASURE, VICTORY.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_381|page_381]], [[Supporting Material/Gaskell/Source Text/page_382|page_382]]
+

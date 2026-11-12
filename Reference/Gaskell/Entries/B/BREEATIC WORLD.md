@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-breeatic-world
+headword: "BREEATIC WORLD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BREEATIC WORLD
+
+- **Entry ID:** `gaskell-1960-entry-breeatic-world`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_133`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_133|page_133]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BREEATIC WORLD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the mental plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ATZEELOOTHIC` | **unresolved** (review queue) |
+| `COUNTENANCR` | **unresolved** (review queue) |
+| `CREATION` | **unresolved** (review queue) |
+| `KursayaH` | **candidate (first-segment only)** → possible `KURSAYAH, A THRONE WITH FOUR FEET AND SIX STEPS` (not linked) |
+| `Manat` | **unresolved** (review queue) |
+| `MaLKHUTH` | **unresolved** (review queue) |
+| `Manas` | **candidate (first-segment only)** → possible `MANAS, MANASIC` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-breeatic-world-ocr-body`
+
+```text
+A symbol of the mental plane. ‘*‘From the Atzeeloothic World, through the conjunction of the King and Queen, proceeds the World of Creation, called the Breeatic, or Olam Breeah, also Qursaiyah, i.e. the Throne. In this condition, creation, as we understand the word, begun.”’—I. Myrr, Qabbaiah, p. 328. From the atma-buddhic plane, by means of the alliance of the Self (king) and Wisdom (queen), there proceeds the establishment of the mental plane as the plane of ideas to take forms on the astral and physical planes. Also on the higher mental plane there is the causal-body (throne). See ATZEELOOTHIC, COUNTENANCR, CREATION, KursayaH, Manat, MaLKHUTH, Manas.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_133|page_133]]
+

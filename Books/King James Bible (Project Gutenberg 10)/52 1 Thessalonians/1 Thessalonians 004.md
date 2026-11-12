@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1th
+chapter_id: kjv-1th-4
+book_name: "1 Thessalonians"
+chapter: 4
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Thessalonians 4"
+  - "KJV 1 Thessalonians 4"
+---
+
+# 1 Thessalonians 4
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/52 1 Thessalonians/1 Thessalonians|1 Thessalonians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/52 1 Thessalonians/1 Thessalonians 003|1 Thessalonians 3]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/52 1 Thessalonians/1 Thessalonians 005|1 Thessalonians 5]]
+
+## Text
+
+###### 1 Thessalonians 4:1
+
+Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
+
+^kjv-1th-4-1
+
+###### 1 Thessalonians 4:2
+
+For ye know what commandments we gave you by the Lord Jesus.
+
+^kjv-1th-4-2
+
+###### 1 Thessalonians 4:3
+
+For this is the will of God, even your sanctification, that ye should abstain from fornication:
+
+^kjv-1th-4-3
+
+###### 1 Thessalonians 4:4
+
+That every one of you should know how to possess his vessel in sanctification and honour;
+
+^kjv-1th-4-4
+
+###### 1 Thessalonians 4:5
+
+Not in the lust of concupiscence, even as the Gentiles which know not God:
+
+^kjv-1th-4-5
+
+###### 1 Thessalonians 4:6
+
+That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.
+
+^kjv-1th-4-6
+
+###### 1 Thessalonians 4:7
+
+For God hath not called us unto uncleanness, but unto holiness.
+
+^kjv-1th-4-7
+
+###### 1 Thessalonians 4:8
+
+He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.
+
+^kjv-1th-4-8
+
+###### 1 Thessalonians 4:9
+
+But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.
+
+^kjv-1th-4-9
+
+###### 1 Thessalonians 4:10
+
+And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;
+
+^kjv-1th-4-10
+
+###### 1 Thessalonians 4:11
+
+And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
+
+^kjv-1th-4-11
+
+###### 1 Thessalonians 4:12
+
+That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
+
+^kjv-1th-4-12
+
+###### 1 Thessalonians 4:13
+
+But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
+
+^kjv-1th-4-13
+
+###### 1 Thessalonians 4:14
+
+For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
+
+^kjv-1th-4-14
+
+###### 1 Thessalonians 4:15
+
+For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
+
+^kjv-1th-4-15
+
+###### 1 Thessalonians 4:16
+
+For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
+
+^kjv-1th-4-16
+
+###### 1 Thessalonians 4:17
+
+Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+^kjv-1th-4-17
+
+###### 1 Thessalonians 4:18
+
+Wherefore comfort one another with these words.
+
+^kjv-1th-4-18

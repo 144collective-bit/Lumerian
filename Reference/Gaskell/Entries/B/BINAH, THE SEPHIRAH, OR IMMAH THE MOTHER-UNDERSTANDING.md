@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-binah-the-sephirah-or-immah-the-mother-understanding
+headword: "BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING
+
+- **Entry ID:** `gaskell-1960-entry-binah-the-sephirah-or-immah-the-mother-understanding`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_109`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_109|page_109]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the principle of matter in which Spirit (Hokhmah-wisdom) becomes involved.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
+| `HOKHMAH` | **candidate (first-segment only)** → possible `HOKHMAH, THE WORD, OR WISDOM (MASCULINE)` (not linked) |
+| `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
+| `MALKHUTH` | **unresolved** (review queue) |
+| `Miyi` | **unresolved** (review queue) |
+| `OcEan (feminine)` | **candidate (ambiguous first-segment)** → OCEAN, OR SEA (FEMININE); OCEAN, OR SEA (not linked) |
+| `Prakriti` | **candidate (first-segment only)** → possible `PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED` (not linked) |
+| `SEPHIROTH` | **unresolved** (review queue) |
+| `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-binah-the-sephirah-or-immah-the-mother-understanding-ocr-body`
+
+```text
+A symbol of the principle of matter in which Spirit (Hokhmah-wisdom) becomes involved. The Understanding is receptive of Wisdom. 102 BIRD ‘For Divine Matter receiving that which defines and bounds it, possesses a definite and intellectual life.”°—PLormrovs, On Matter, § 5. **From the bosom of this Unity (Kether), two parallel principles proceed in apparent opposition, but which in reality are inseparable; one is female, passive, negative, called Binah, Understanding ; the other male, active, positive, called Hokhmah, i.e. Wisdom.’’—Isaac Myer, Qabbalah, p. 193. “The universal spiritual paesive matter of Ibn Geberol is paralleled by Binah. In the Qabbalah matter always corresponds with the female passive principle, to be influenced by the active, or male, the forming.’’—TIbid., p. 261. At the manifestation of a solar universe, the Absolute outbreathes the Relative, which is dual as Spirit and Matter. The first is the active informing agent, and the second the passive, receptive condition. See HEAVEN AND EARTH, HOKHMAH, MALE-FEMALE, MALKHUTH, Miyi, OcEan (feminine), Prakriti, SEPHIROTH, SHEKINAH.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_109|page_109]]
+

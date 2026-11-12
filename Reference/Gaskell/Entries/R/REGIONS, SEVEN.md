@@ -1,0 +1,75 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-regions-seven
+headword: "REGIONS, SEVEN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# REGIONS, SEVEN
+
+- **Entry ID:** `gaskell-1960-entry-regions-seven`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_626`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_626|page_626]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`REGIONS, SEVEN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the seven globes of the terrene planetary chain.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AaT OF WATERS` | **unresolved** (review queue) |
+| `BARSOM` | **unresolved** (review queue) |
+| `EarTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
+| `HIGHER AND LOWER NATURES` | **unresolved** (review queue) |
+| `HORSE SACRIFICE` | **unresolved** (review queue) |
+| `HVANRATHA` | **unresolved** (review queue) |
+| `KARSHVARES` | **candidate (first-segment only)** → possible `KARSHVARES, SEVEN` (not linked) |
+| `PLANETARY CHAIN` | **unresolved** (review queue) |
+| `RENOVATION` | **unresolved** (review queue) |
+| `ROooT-RACES` | **unresolved** (review queue) |
+| `Rounn` | **unresolved** (review queue) |
+| `Sky` | **candidate (first-segment only)** → possible `SKY, OR SKIES` (not linked) |
+| `Sprinctime` | **unresolved** (review queue) |
+| `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-regions-seven-ocr-body`
+
+```text
+A symbol of the seven globes of the terrene planetary chain. All are invisible with the exception of the Earth. “The Drop (sun) moving along the common seat (of sky and earth); the Drop I offer along the seven hotras,— the seven hotras are the regions: he thus establishes yonder sun in_ the regions.”’— Sata. Bréh., VIT. 4, 1, 19. The indwelling Self, progressing through the cycle of life and commencing small as a drop of water (Truth) within the higher and lower natures, is furnished by the Supreme with the globes of the planetary chain as an arena whereon the Divine Life may be evolved, and the Higher Self manifested in his glory. In the Indian sacred books the seven regions (dvipas) are given the names of—Plaksha, Shalmalia, Kusha, Krauncha, Shaka, Pushkara, and Jambu-dvipa, which last is said to be central to the others. Each region is surrounded by great oceans respectively of sweet juice, wine, butter, curds, milk, etc. (Vishnu Purana, II. 109). Jambu-dvipa is a symbol of our earth, and this dvipa is said to be surrounded by a “sea of salt water,’’ which is suggestive both of the proximate astral plane (sea) and of the habitable land of the earth globe. The ‘‘ oceans’ refer to the buddhic, the mental, and the astral planes. ** And of these seven regions every benefit was created most in Khvaniras, and the evil spirit also produced most for Khvaniras, on account of the superiority which he saw in it.’’—Bundahis, Ch. XI. 5. And of these seven globe-conditions of being, the conditions prevailing in the present world (Khvaniras) 619 REINCARNATIONS are the most effective for the Divine purpose. The possibilities of evil being great ; great also is the scope for good overcoming evil. See AaT OF WATERS, BARSOM, EarTH, HIGHER AND LOWER NATURES, HORSE SACRIFICE, HVANRATHA, KARSHVARES, PLANETARY CHAIN, RENOVATION, ROooT-RACES, Rounn, Sky, Sprinctime, Sun, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_626|page_626]]
+

@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-sirius-the-dog-star-sura
+headword: "SIRIUS, THE DOG-STAR, SURA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SIRIUS, THE DOG-STAR, SURA
+
+- **Entry ID:** `gaskell-1960-entry-sirius-the-dog-star-sura`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_701`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_701|page_701]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SIRIUS, THE DOG-STAR, SURA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the fixed will in concentration through the steadying of the mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AHRIMAN` | **candidate (first-segment only)** → possible `AHRIMAN, OR AHARMAN` (not linked) |
+| `BRIDGE (kinvat)` | **candidate (first-segment only)** → possible `BRIDGE, KINVAT, OR CHINVAT` (not linked) |
+| `CaUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `Doa-staR` | **unresolved** (review queue) |
+| `DUSAKH` | **unresolved** (review queue) |
+| `Karma` | **unresolved** (review queue) |
+| `Stars` | **unresolved** (review queue) |
+| `WILL` | **candidate (first-segment only)** → possible `WILL, GERMS, OR SEEDS` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-sirius-the-dog-star-sura-ocr-body`
+
+```text
+A symbol of the fixed will in concentration through the steadying of the mind. Until the mind is stilled from the surgings of desire, there is no fixity of purpose. “The Dog Sirius (Sura) is another watchman of the heavens; but he is fixed in one place, at the bridge Kinvat, keeping guard over the Abyss Dusakh out of which Ahriman comes.’’—Zoroastrian System, J. F. CLarke, Ten Religions. The ‘‘ Dog Sirius ’’ at the “‘ bridge ”’ of the higher mind represents power, tenacity and will,—the mind as recorder and agent of karma, seated in the causal-body, and guarding the soul from desire so far as the soul is emancipated from the lower nature. See AHRIMAN, BRIDGE (kinvat), CaUSAL-BODY, Doa-staR, DUSAKH, Karma, Stars, WILL.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_701|page_701]]
+

@@ -1,0 +1,73 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-storm-storm-of-wind
+headword: "STORM STORM OF WIND"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# STORM STORM OF WIND
+
+- **Entry ID:** `gaskell-1960-entry-storm-storm-of-wind`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_731`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_731|page_731]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`STORM STORM OF WIND :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the surgings of the astro-mental nature.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Arr` | **unresolved** (review queue) |
+| `Crops` | **unresolved** (review queue) |
+| `DiscipLes` | **candidate (first-segment only)** → possible `DISCIPLES, THE TWELVE, OF JESUS` (not linked) |
+| `GALES` | **unresolved** (review queue) |
+| `HIGHER AND LOWER 8ELVES` | **unresolved** (review queue) |
+| `MAGIC` | **candidate (first-segment only)** → possible `MAGIC, OR MAGICAL POWERS` (not linked) |
+| `Menis` | **unresolved** (review queue) |
+| `Sea` | **candidate (first-segment only)** → possible `SEA, UNVINTAGED OR DARREN` (not linked) |
+| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `Snip (sea)` | **unresolved** (review queue) |
+| `SHIPS 724 STREETS (beaked)` | **unresolved** (review queue) |
+| `TAWHIRI-MATEA` | **candidate (first-segment only)** → possible `TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS` (not linked) |
+| `WInpDs` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-storm-storm-of-wind-ocr-body`
+
+```text
+A symbol of the surgings of the astro-mental nature. Also of winds of doctrine implying ignorance, which prevent the appearance of truth from within. ““Then Jesus arose, and rebuked the winds and the sea; and there was a t calm.” —Mar. viii. 26. At the right moment the qualities (disciples), being actuated by the highest motives, are thereby able to awaken the indwelling Christ, who immediately responds and subdues the tempest of passion and ignorance, for ‘‘ without Me ye can do nothing.” ‘‘The Christ, the Christ-nature, the God-germ, is within, in the ship, slumbering, waiting to be awakened. The storm, the suffering, the distress, the fear causes the Divine within to be recognised, voluntarily chosen, obeyed. When the storm has done its work, He who has always been there, arises, and there is @ great calm.”—-BasiIL WILBERFORCE, Problems, p. 41. ‘‘ In every man there is a latent Christ. The touch of the Divine Spirit wakens that Christ within and brings Him into union with the Christ above. As Origen so sweetly put it centuries ago, ‘ Christ sleeps in the soul of every man as He slept in the boat on the Lake of Galilee, and He wakes at the cry of penitence to still the storm of sinful passion in our lives.’—R. J. CamMpBELL, Song of Ages, p- 152. ‘“The hurricane of the passions, Jealousy, Hatred, Revenge, Love, breaks out suddenly from some secret and sleeping quality in our nature of which we knew nothing before, and the surprise of it as it dashes upon us in the midst of our innocent and peaceful life is terrible and perilous. These are the hours of frenzy in @ man’s or woman’s life, when one passion seizes as tyrant on the whole nature, and devours all the other passions, enslaves the imagination, the will, the intellect, the heart, and the body. There is but one thing which may save us from utter shipwreck in that hour, and that ig daily strengthening of character. ... We may by such preparation escape its worst consequences ; we may be shattered, but not betrayed into irremediable evil ; we may not be able to sail freely for years, but we shall spread our canvas again and court a happier gale. For the best of having gone through and conquered such a storm, if there be any good in it at all, is that having conquered it we have conquered all other storms of the same kind.”"—Srorrorp A. BROOKE, Serm., Shipwrecks of Ltfe. See Arr, Crops, DiscipLes, GALES, HIGHER AND LOWER 8ELVES, MAGIC, Menis, Sea, SELF, Snip (sea), SHIPS 724 STREETS (beaked), TAWHIRI-MATEA, WInpDs.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_731|page_731]]
+

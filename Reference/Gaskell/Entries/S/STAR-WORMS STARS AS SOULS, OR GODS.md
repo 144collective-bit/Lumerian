@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-star-worms-stars-as-souls-or-gods
+headword: "STAR-WORMS STARS AS SOULS, OR GODS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# STAR-WORMS STARS AS SOULS, OR GODS
+
+- **Entry ID:** `gaskell-1960-entry-star-worms-stars-as-souls-or-gods`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_727`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_727|page_727]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`STAR-WORMS STARS AS SOULS, OR GODS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the Divine Sparks or Monads of life (atma-buddhic), which descend into the lower vehicles, and are the spiritual egos in the causalbodies of every human being.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `HikoxposH1` | **unresolved** (review queue) |
+| `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
+| `MonaD or LIFE` | **unresolved** (review queue) |
+| `SincErs` | **unresolved** (review queue) |
+| `Sons or aon` | **unresolved** (review queue) |
+| `SPARKS` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-star-worms-stars-as-souls-or-gods-ocr-body`
+
+```text
+Symbolic of the Divine Sparks or Monads of life (atma-buddhic), which descend into the lower vehicles, and are the spiritual egos in the causalbodies of every human being. “‘God divided the whole mixture into souls equal in number to the stars, and assigned each soul to a star.’’—Pxraro, Timeeus, 41. ** Souls equal in number to the stars.” —PHILO, De Som., I; § 22. ** Philo also (besides Plotinus) accepted the opinion attributing life and mind to the stars. '—WHITTAKEER, Neo-Piatonists, p. 88. ** At the time when the pictorial hierogly hics were first being formed (in lonia), the star was already the symbol and representation of the divine. - « - At most we can only suggest that the 23, or spirit, was localised in the star. A spirit of the sun was as conceivable ans @ spirit of Ea, and the son of Ea, it must be remembered, became a sun-god. * The 2+ of the god ’ meant originally ‘ the spirit of the star.’ ’’—Saycr, Rel. of Egyyt. and Babyl., p. 481. “The fixed stars are also the essences, or souls of matter. ... A living soul, the sublimated essence of matter, is denominated a star. These stars and essences became Gods. They were regarded as having divine attributes. The stars look down from thoir region of purity and stillness on the world of men, and they influence the fortunes of men invisibly, but most powerfully. ... There is a remarkable analogy in the double meaning of our word spirit and that of the Chinese word sing (star). The terms for soul and for essence—in Chinese shin and tsing—are often convertible, as they are in our language.’—J. Epxins, Religion tn China, pp. 106-7. In the Greek and the Japanese legends ‘‘star-gods”’ are also mentioned. They are the Divine spirits within the souls of humanity powerfully influencing their development. “Our forefathers in the most remote ages have handed down to us their posterity, a tradition in the form of a myth that these substances (i.e. the stars) are gods, and that the divine encloses the whole of nature.”—ARISTOTLE, Metaphysics. “By the stars we understand two things : (1) How innumerable the saints, those spiritual stars shall be (HEB. xi. 12). (2) How they shall differ each from other in glory” (1 Cor. xv. 41).—J. Bunyan, Exposition of Genesis. See HikoxposH1, Maruts, MonaD or LIFE, SincErs, Sons or aon, SPARKS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_727|page_727]]
+

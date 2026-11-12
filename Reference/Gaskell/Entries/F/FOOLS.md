@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-fools
+headword: "FOOLS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# FOOLS
+
+- **Entry ID:** `gaskell-1960-entry-fools`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_294`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_294|page_294]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`FOOLS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the lower minds or personalities entangled in the errors and illusions of sense and desire.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BLIND MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BLIND MAN|BLIND MAN]] |
+| `FOLLY` | **unresolved** (review queue) |
+| `Man (blind)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `PRIESTS AND ELDERS` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-fools-ocr-body`
+
+```text
+A symbol of the lower minds or personalities entangled in the errors and illusions of sense and desire. ** Fools! for they have no far-reaching studious thoughts who think that what was not before comes into being or that anything dies and perishes utterly.”— Empedocles, V. 45, FarrBANKS. The lower mind is foolish because it falsely imagines that the unreal can exist of itself, and the Real cease to be. ‘* Fools dwelling in darkness, wise in their own conceit and puffed up with vain knowledge, go round and round, ataggering to and fro, like blind men ed by the blind.’’—Katha. Upanishad, 6. The lower mind, full of ignorance, self-esteem and illusion, passes from life to life in the world, buffeted by circumstances, and without true knowledge and wisdom. See BLIND MAN, FOLLY, Man (blind), PERSONALITY, PRIESTS AND ELDERS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_294|page_294]]
+

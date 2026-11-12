@@ -1,0 +1,139 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-ecc
+chapter_id: kjv-ecc-1
+book_name: "Ecclesiastes"
+chapter: 1
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ecclesiastes 1"
+  - "KJV Ecclesiastes 1"
+---
+
+# Ecclesiastes 1
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes|Ecclesiastes]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 031|Proverbs 31]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes 002|Ecclesiastes 2]]
+
+## Text
+
+> [!note] Unnumbered preface / superscription (before Ecclesiastes 1:1)
+> or or The Preacher The Preacher
+
+###### Ecclesiastes 1:1
+
+The words of the Preacher, the son of David, king in Jerusalem.
+
+^kjv-ecc-1-1
+
+###### Ecclesiastes 1:2
+
+Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.
+
+^kjv-ecc-1-2
+
+###### Ecclesiastes 1:3
+
+What profit hath a man of all his labour which he taketh under the sun?
+
+^kjv-ecc-1-3
+
+###### Ecclesiastes 1:4
+
+One generation passeth away, and another generation cometh: but the earth abideth for ever.
+
+^kjv-ecc-1-4
+
+###### Ecclesiastes 1:5
+
+The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
+
+^kjv-ecc-1-5
+
+###### Ecclesiastes 1:6
+
+The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
+
+^kjv-ecc-1-6
+
+###### Ecclesiastes 1:7
+
+All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
+
+^kjv-ecc-1-7
+
+###### Ecclesiastes 1:8
+
+All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
+
+^kjv-ecc-1-8
+
+###### Ecclesiastes 1:9
+
+The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+
+^kjv-ecc-1-9
+
+###### Ecclesiastes 1:10
+
+Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
+
+^kjv-ecc-1-10
+
+###### Ecclesiastes 1:11
+
+There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
+
+^kjv-ecc-1-11
+
+###### Ecclesiastes 1:12
+
+I the Preacher was king over Israel in Jerusalem.
+
+^kjv-ecc-1-12
+
+###### Ecclesiastes 1:13
+
+And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
+
+^kjv-ecc-1-13
+
+###### Ecclesiastes 1:14
+
+I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
+
+^kjv-ecc-1-14
+
+###### Ecclesiastes 1:15
+
+That which is crooked cannot be made straight: and that which is wanting cannot be numbered.
+
+^kjv-ecc-1-15
+
+###### Ecclesiastes 1:16
+
+I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
+
+^kjv-ecc-1-16
+
+###### Ecclesiastes 1:17
+
+And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
+
+^kjv-ecc-1-17
+
+###### Ecclesiastes 1:18
+
+For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
+
+^kjv-ecc-1-18

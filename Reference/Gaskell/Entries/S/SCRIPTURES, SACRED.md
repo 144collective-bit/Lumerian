@@ -1,0 +1,86 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-scriptures-sacred
+headword: "SCRIPTURES, SACRED"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SCRIPTURES, SACRED
+
+- **Entry ID:** `gaskell-1960-entry-scriptures-sacred`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_665`, `page_666`, `page_667`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_665|page_665]], [[Supporting Material/Gaskell/Source Text/page_666|page_666]], [[Supporting Material/Gaskell/Source Text/page_667|page_667]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SCRIPTURES, SACRED :—`
+
+## Short definition candidate
+
+- No high-confidence short definition auto-selected (see full OCR body).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AmBAS` | **unresolved** (review queue) |
+| `AXE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AXE|AXE]] |
+| `BooK STUDIES` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
+| `DEVELOPMENT` | **unresolved** (review queue) |
+| `GOSPEL` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSPEL|GOSPEL]] |
+| `GOSPEL STORY` | **unresolved** (review queue) |
+| `HERMES (tris.)` | **unresolved** (review queue) |
+| `INSPIRATION` | **candidate (first-segment only)** → possible `INSPIRATION, DIVINE` (not linked) |
+| `Kayays` | **unresolved** (review queue) |
+| `Koran` | **candidate (first-segment only)** → possible `KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)` (not linked) |
+| `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
+| `MIRacites` | **unresolved** (review queue) |
+| `MyrnoLoGy` | **unresolved** (review queue) |
+| `Paryrus` | **unresolved** (review queue) |
+| `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+| `PEN` | **unresolved** (review queue) |
+| `PeoritE` | **unresolved** (review queue) |
+| `RAMAYANA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAMAYANA|RAMAYANA]] |
+| `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
+| `RriTvuAL` | **unresolved** (review queue) |
+| `SACRED TExT` | **unresolved** (review queue) |
+| `SasTrRa` | **unresolved** (review queue) |
+| `Siew` | **unresolved** (review queue) |
+| `Sroti` | **unresolved** (review queue) |
+| `THoru` | **unresolved** (review queue) |
+| `UrpanisHaD` | **unresolved** (review queue) |
+| `URB-HeKan` | **unresolved** (review queue) |
+| `VEDA` | **unresolved** (review queue) |
+| `WorRD OF GOD` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-scriptures-sacred-ocr-body`
+
+```text
+These are ancient writings which profess to be of Divine origin, and to be correct transcriptions of verbal communications received into the minds of selected persons, who have fatihfully set down the statements they were entrusted with. “Thoth, the most mighty god, the lord of Khemennu, cometh to thee, and he writeth for thee the Book of Breathings with his own fingers.”—Bupa@E, Book of the Dead, p. 659. “Thy fingers (O Scribe Nebseni) are stablished with written works in the presence of the lord of Khemennu, Thoth, who hath given to me the speech of the sacred books.’’—J6id., p. 507. ‘*I am Thoth, the perfect scribe whose hands are pure, ... the scribe of right and truth; who abominateth sin.”’— Ibid., p. 621. ** Thoth ”’ is a symbol of the higher mind through which the Divine messages, as ideas, are projectcd into the subjective lower mind, there to be expressed in words which make their appearance in the receptive objective mind. Thus the message is, as it were, breathed into the mind of a devout recipient. “* Just as, when a fire is laid with dam wood, clouds of smoke spread all around, so in truth from this great Being have been hreathed forth the Rigveda, the Yajurveda, the SAamaveda, the (hymns) of the Atharvans and the Angirases, the narratives, the histories, the sciences, the mystical doctrines (upanishads), the poems, the proverbs, the parables, and expositions,—all these have been breathed forth from him.’’—Brthad. Upanishad, II. 4, 10. The sacred writings are veiled in mystery and obscurity (clouds of smoke) because of human _ inability to apprehend subjective truths in early stages of thought. The truths being hidden in symbolism, it follows 658 SCRIPTURES that the outer appearance of the scriptures is usually nonsensical, historic, poetic, allegorical, and didactic ; and the whole has been inspired of the Spirit of Truth. “The language of religion is plainer and more direct than the language oi common life. Symbolism can be looked at with gross eyes or with idealised eyes.” —W.M. Ramsay, Ency. Brit. ‘* Mysteries.” **Men are saved not by the historical. but by the metaphysical.’’—MawnseEL, Gnostic Heresies, p. 10. *‘ Language, it has been said, is a storehouse of faded metaphors; and if this be true of language in general, it is still more true of theological languag=. We can understand the spiritual and the abstract only through the help of the material ; the words by which we denote them must be drawn, in the first instance, from the world of the senses. ... Thought is impossible without the brain through which it can act, and we cannot convey to others or even to ourselves our conceptions of right and wrong, «i beauty and goodness, without having recourse to analogies from the world c! phenomena, to metaphor and imagery, to parable and allegory. If we would deal with the spiritual and moral, we must have recourse to metaphorical forms of speech. A religion is necessarily built up on a foundation of metapher. To interpret such metaphors in_ their purely natural sense would therefore land us in gross error. Unfortunately modem students of the religious history of the past have not always been careful to avoid doing so.”-——A. H. Saycer, Religions of Anc. Egypt. and Babyl., p. 15. ** We must recognise that the Biblica! language is symbolic, but we must recognise, if we would be Christian believers, that what the symbols teach is true. ... The symbolical principk must be admitted: the language in true symbolically and not literally.’’—-C. Gore, Bp. of Oxford, Constructive Quarterly, March 1914. ‘* It seems neither best nor possible for sacred writings to give expression to truth in any other way than by that -: suggestion,—not best because of what 1s required for the development of reasca in man; and not possible because of the essential differences between the spiritua: and the material, which latter furnishes the only means in this world of enablirz us to interpret that which issues from the former.” ‘“‘TIf this be a universal fact with reference to the degree in which the spiritual can be communicated through the material, how mistaken must he be who acts upon the theory that the Scriptures should or can be understood literally ? We can probably understand and interpret them thus to some extent. Almost every word, which originally had SCRIPTURES more or less of a figurative or merely representative meaning, becomes apparently literal when it comes to be used conventionally with only one meaning. But when we consider such words, phrases, and prolonged descriptions of the Scriptures as attempt to describe conditions that can never come to be conventionally understood because they have never and can never be experienced or conceived by mortals, we would better be humble, and gratefully accept what is revealed to us upon the hypothesis that it is merely suggestive.’—G. L. Raymonn, Psychology of Inspiration, pp. 177, 178. *‘ I say there is not one word (of Scripture) true according to the letter. Yet I say that every word, every syllable, every letter, is true. But they sre true as He intended them that spake them ; they are true as God meant them, not as man will have them.’’—Dr. EvERARD, Gospel Treasury Opened (1659). *““Now Scripture language bolical."—F. W. let Series, Pp: 117. ‘* A spiritual and symbolical interpretation alone yields truth, whilst a carnal and literal acceptation profits nothing. The spirit quickens; the flesh is of no avail.’’—SLADE BuTLER, Nineteenth Cent., Nov. 1906. “Ta with Professor Flint that by the historical method we obtain only history. But we want more than that; we wish to understand and to explain.’”’— C. P. TiEiE, Science of Religion, Vol. I. «17. Pra In the internal sense there is no respect to any person, or anything determined to a person. But there are three things which disappear from the sense of the letter of the Word when the internal sense is unfolded ; that which is of time, that which is of space, and that which is of person.’’—SwEDENBORG, Arc. Cel. n. 6253. ** All the mistakes made*in Biblical interpretation come of referring statements of which the intention is spiritual and mystical, implying principles or states,—to times, persons or places.’’— The Perfect Way, p. 194. ‘*He who follows the letter takes figurative words as if they were proper, and does not carry out what is indicated by a proper word into its secondary nignification. ... Now it is surely a muserable slavery of the soul to take signs for things, and to be unable to lift the eye of the mind above what is corporeal and created, that it may drink in eternal light."—Str. AvuausTINE, Christian Doctrine, is symRoBERTsoN, Sermons, p. 86. | r religious vocabulary, to begin with, consists almost entirely of images. It is a set of concepts borrowed from the region of the material and the visible to set forth the invisible and the spiritual.”’ —J. BRIERLEY, Studtes of the Soul, p. 146. ** All religious expression is symbolism, 659 SCRIPTURES since we can describe only what we see, and the true objects of religion are unreen.’’—-R. W. Mackay, Progress of the Intellect, p. 13-4. There appears to have been no other way for the Divine Spirit to impart to mankind knowledge of hidden things of the soul but through a method of symbolism. The necessary ideas had to be expressed in the only way possible, that is, by using the images of the material and visible to express the spiritual and invisible. These images, relating to history and life in the physical world, would be found ready at hand in the minds of the inspired writers, and the most appropriate would be employed as symbols for the higher knowledge. Fragmentary notions of history in these minds will explain why history sometimes creeps into the inspired writings, and also account for the fact that the history is often erroneous, a matter which is not of the smallest consequence, from the religious point of view. ** The fourth Gospel is not history, and never was intended to be understood as history. I[t contains historical elements, but these are always used as a picture language of great ideas; this is the writer's method all through, and was quite in accordance with the whole school in which he had been trained. It is more than probable that there was at one time a large literature in existence of the same general character as this gospel. Understand, then, when you read this book, that every saying it contains, and every incident it relates, has an inner spimtual meaning. The book is a connected whole, but every separate saying is profound and complete. For instance, there are no parables in this gospel, and the miracles recorded are for the most part quite different from those in the other gospels. The very first one, the turning of water into wine, is not alluded to elsewhere ; and as for the raising of Lazarus, which we might suppose to have been the most astounding of all, not a word is said about it in the older gospels. The truth is that in this gospel the miracles are parables, and every one of them is designed to bring out some special aspect of spiritual truth.” —R. J. CAMPBELL, Thursday Mornsngs, p. 140. ‘*It is now generally recognised by liberal scholars that considerable portions of the gospels are unhistoric.””—PRESERVED SmirH, Htbbert J., July 1913. ‘In the region of historical inquiry resulta are surprisingly contradictory, and there seems at present to be no SCRIPTURES likelihood of agreements being reached.” —W. C. ALLEN, Critictem (N.T.), Ency. Religion and Ethics. ‘* For St. John the whole drama is a kind of mystery play, in which the eternal counsels of God and his love for the world are revealed.’’—W. R. Inacz, Constructive Quarterly, June 1913. “St. John’s treatment of history is very characteristic. He combines Philo’s allegoriam with the positivism which is more natural to Jewish thought. He would accept Goethe’s dictum that ‘all that is transitory is only a symbol,’ with the exception of the word only. In his hands every event is a type, a symbol, an illustration of some aspect of the nature and character of the Divine Logon. Our Lord’s miracles are all acted parables, and the evangelist generally gives us the key to their interpretation, e.g. ‘I am the Bread of Life,’ ‘I am the Light of the World.’ Even accidental coincidences have a meaning for him, as when Judas turns away from the supper-table and goes out to his doom—‘and it was night’; or when Caiaphas spoke more truly than he knew, and said, ‘It is expedient that one man should die for the people.’ Every incident in the Gospel is selected for its symbolical value; the events, miracles, and discourses are 80 @rranged as to exhibit in oa series of pictures the various aspects of the Incarnate Word. But even when so treated, St. John does not wish us to make the outward history the basis of our faith.’’—W. R. Ina, Paddock Lectures, p. 47. “Clement and Origen considered that what is important in history is not the facts themselves, but the universal truths which they illustrate or symbolise. So Origen speaks of the actions of Christ during his ministry as—acted parables.” —Ibid., p. 58. ** What we have now to do is to transform the sensible Gospel into a spiritual one. For what would the narrative of the sensible Gospel amount to if it were not developed to a spiritual one? It would be of little account or none; any one can read it and assure himself of the facts it tella—no more. But our whole energy is now to be directed to the effort to penetrate to the deep things of the meaning uf the Gospel and to search out the truth that is in it when divested of types.’’—Oricen, Comm. on John, Bk. I. 10. “The Bible’s authority is wholly spiritual ; it depends not upon the letter, but the spirit of the Scriptures, and appeals to the mind and heart. It is freely accepted, because it exists only so far as it becomes one with the experiences or the present aspirations of piety. It has no more need of official verification, of outward attestation, than the light which enlightens the eye; or the duty which commands the conscience, or the beauty which ravishes the imagination. The efficacy of the divine word is 660 SCRIPTURES at once the inward sign, the measure, and the foundation of ita authority.” —A. Sasatrern, The Religions, etc. pp. 241-2. “The inner light can only testify to spiritual truths. It always speake in the resent tense; it cannot guarantee any istorical event, past or future. It cannot guarantee either the Gospel history or @ future judgment. It can tell us that Christ is risen, and that He is alive for evermore, but not that he rose again the third day.’”—W. R. Ince, CaAristiaa Mysticism, p- 326. ‘With Scotus (Erigena) the historical element in religion was reduced to s minimum. It seems hardly too much to say that the historical Jesus of Nazareth scarcely existed for thousands of medinxval Christians. Christ was tho Second Person of the Trinity, enthroned on high, ... the inspiring and creative Word which brought order out of chaos in each Christian soul.’-—ALicE GARDNER, John the Scot, p. 143. See AmBAS, AXE, BooK STUDIES, DEVELOPMENT, GOSPEL, GOSPEL STORY, HERMES (tris.), INSPIRATION, Kayays, Koran, Lazarus, MIRacites, MyrnoLoGy, Paryrus, PARABLE, PEN, PeoritE, RAMAYANA, REVELATION, RriTvuAL, SACRED TExT, SasTrRa, Siew, Sroti, THoru, UrpanisHaD, URB-HeKan, VEDA, WorRD OF GOD.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_665|page_665]], [[Supporting Material/Gaskell/Source Text/page_666|page_666]], [[Supporting Material/Gaskell/Source Text/page_667|page_667]]
+

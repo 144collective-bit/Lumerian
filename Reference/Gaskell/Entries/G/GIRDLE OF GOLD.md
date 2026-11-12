@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-girdle-of-gold
+headword: "GIRDLE OF GOLD"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GIRDLE OF GOLD
+
+- **Entry ID:** `gaskell-1960-entry-girdle-of-gold`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_318`, `page_319`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_318|page_318]], [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GIRDLE OF GOLD :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Embiem of the endowment of wisdom ;—the consciousness upon the buddhic plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Banuis` | **unresolved** (review queue) |
+| `BarsomM` | **unresolved** (review queue) |
+| `BREasts` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREASTS|BREASTS]] |
+| `BucKLE` | **unresolved** (review queue) |
+| `ConsciousnEss` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
+| `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-girdle-of-gold-ocr-body`
+
+```text
+Embiem of the endowment of wisdom ;—the consciousness upon the buddhic plane. ** And girt about at the breasts with a golden girdle —Rev. i. 13. This signifies the Higher Self having the aspects of Love (breasts, and Wisdom (gold). ‘To ‘have a golden girdle about the paps’ is to restrain all the movements of our changeful thoughts by the bands GIRDLE-ROPE of love alone.” —St. Grecory, Morale on the Book of Job, Vol III. p. 639. See Banuis, BarsomM, BREasts, BucKLE, ConsciousnEss, GOLD.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_318|page_318]], [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+

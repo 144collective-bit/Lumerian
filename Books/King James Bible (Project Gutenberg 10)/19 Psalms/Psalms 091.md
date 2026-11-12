@@ -1,0 +1,124 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-91
+book_name: "Psalms"
+chapter: 91
+verses: 16
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 91"
+  - "KJV Psalms 91"
+---
+
+# Psalms 91
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 090|Psalms 90]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 092|Psalms 92]]
+
+## Text
+
+###### Psalms 91:1
+
+He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+
+^kjv-psa-91-1
+
+###### Psalms 91:2
+
+I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.
+
+^kjv-psa-91-2
+
+###### Psalms 91:3
+
+Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+
+^kjv-psa-91-3
+
+###### Psalms 91:4
+
+He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
+
+^kjv-psa-91-4
+
+###### Psalms 91:5
+
+Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
+
+^kjv-psa-91-5
+
+###### Psalms 91:6
+
+Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+
+^kjv-psa-91-6
+
+###### Psalms 91:7
+
+A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
+
+^kjv-psa-91-7
+
+###### Psalms 91:8
+
+Only with thine eyes shalt thou behold and see the reward of the wicked.
+
+^kjv-psa-91-8
+
+###### Psalms 91:9
+
+Because thou hast made the LORD, which is my refuge, even the most High, thy habitation;
+
+^kjv-psa-91-9
+
+###### Psalms 91:10
+
+There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+
+^kjv-psa-91-10
+
+###### Psalms 91:11
+
+For he shall give his angels charge over thee, to keep thee in all thy ways.
+
+^kjv-psa-91-11
+
+###### Psalms 91:12
+
+They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+
+^kjv-psa-91-12
+
+###### Psalms 91:13
+
+Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
+
+^kjv-psa-91-13
+
+###### Psalms 91:14
+
+Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
+
+^kjv-psa-91-14
+
+###### Psalms 91:15
+
+He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.
+
+^kjv-psa-91-15
+
+###### Psalms 91:16
+
+With long life will I satisfy him, and shew him my salvation.
+
+^kjv-psa-91-16

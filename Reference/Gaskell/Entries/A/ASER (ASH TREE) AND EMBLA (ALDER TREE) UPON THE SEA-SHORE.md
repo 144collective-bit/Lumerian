@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-aser-ash-tree-and-embla-alder-tree-upon-the-sea-shore
+headword: "ASER (ASH TREE) AND EMBLA (ALDER TREE) UPON THE SEA-SHORE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ASER (ASH TREE) AND EMBLA (ALDER TREE) UPON THE SEA-SHORE
+
+- **Entry ID:** `gaskell-1960-entry-aser-ash-tree-and-embla-alder-tree-upon-the-sea-shore`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_82`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_82|page_82]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ASER (ASH TREE) AND EMBLA (ALDER TREE) UPON THE SEA-SHORE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of the desire-nature and the instinct nature, fully developed through the astral evolution.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Asak` | **unresolved** (review queue) |
+| `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `Matro` | **unresolved** (review queue) |
+| `RimrTHvurRsak` | **unresolved** (review queue) |
+| `SHORE` | **candidate (first-segment only)** → possible `SHORE, THE OTHER` (not linked) |
+| `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
+| `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+| `YMER` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-aser-ash-tree-and-embla-alder-tree-upon-the-sea-shore-ocr-body`
+
+```text
+Symbols of the desire-nature and the instinct nature, fully developed through the astral evolution. “‘The most perfect objects of vegetetion are two trees Askr and Embla, upon the sea-shore. The Gods change these trees into man and woman by giving them the human soul and body’ (Voluspa, V. 33-40).—Ipa PFEIFFER, Iceland, p. 314. This refers to the perfecting of the desire and instinct natures in the forms on the astro-physical plane (sea-shore), and the conferring by the higher nature, of mind and spirit on the lower personalities. This development requires the union of mind (man) with emotion (woman) in & fitting human body. See Asak, Man, Matro, RimrTHvurRsak, SHORE, TREE, WOMAN, YMER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_82|page_82]]
+

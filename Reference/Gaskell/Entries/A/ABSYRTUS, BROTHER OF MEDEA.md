@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-absyrtus-brother-of-medea
+headword: "ABSYRTUS, BROTHER OF MEDEA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ABSYRTUS, BROTHER OF MEDEA
+
+- **Entry ID:** `gaskell-1960-entry-absyrtus-brother-of-medea`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_27`, `page_28`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_27|page_27]], [[Supporting Material/Gaskell/Source Text/page_28|page_28]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ABSYRTUS, BROTHER OF MEDEA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of divine outgoing energy in the lower vehicles, allied to the buddhic principle.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Aires` | **unresolved** (review queue) |
+| `ARGO` | **candidate (first-segment only)** → possible `ARGO, THE SHIP OF JASON` (not linked) |
+| `AUSONIA` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AUSONIA|AUSONIA]] |
+| `JASON` | **candidate (first-segment only)** → possible `JASON, OR JASIUS, THE HEALER OR ATONER` (not linked) |
+| `Mangrnos` | **unresolved** (review queue) |
+| `Mepea` | **unresolved** (review queue) |
+| `Nasu` | **unresolved** (review queue) |
+| `SALVE` | **unresolved** (review queue) |
+| `Toma` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-absyrtus-brother-of-medea-ocr-body`
+
+```text
+A symbol of divine outgoing energy in the lower vehicles, allied to the buddhic principle. ‘** Medea seeing her father Atetes gaining on the Argo, cut her brother to pieces, and scattered his limbs on the waves: while ASetes was engaged in collecting them, the Argo escaped. He ABTU went back and buried the remains of his son at a place which he called Tomi.” —Argonautic Expedition, KEIGHTLEY. The Logos (etes) descends, as it were, from above to aid the Wisdom and Love principles to return to their Source. The intuition (Medea) realising the accession of power within, acquires strength such as shatters the astro-mental vehicle in which the lower mind is ensheathed, and thereby the consciousness rises, being free of the lower vehicle, the fragments of which the Logos uses in the formation of other vehicles: acting through the monad of form, he works the discarded matter into forms of the lower planes. ““No part of the universe has value in and for itself alone; it has value only as it expresses God. To see one form break up and another take its place is no calamity, however terrible it may seem, for it only means that the life contained in that form has gone back to the universal life, and will express itself again in some higher and better form.”—R. J. CamMPBELL, The New Theology, p. 24. See Aires, ARGO, AUSONIA, JASON, Mangrnos, Mepea, Nasu, SALVE, Toma.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_27|page_27]], [[Supporting Material/Gaskell/Source Text/page_28|page_28]]
+

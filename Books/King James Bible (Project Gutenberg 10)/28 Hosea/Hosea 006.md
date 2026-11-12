@@ -1,0 +1,94 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-hos
+chapter_id: kjv-hos-6
+book_name: "Hosea"
+chapter: 6
+verses: 11
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Hosea 6"
+  - "KJV Hosea 6"
+---
+
+# Hosea 6
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea|Hosea]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea 005|Hosea 5]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea 007|Hosea 7]]
+
+## Text
+
+###### Hosea 6:1
+
+Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
+
+^kjv-hos-6-1
+
+###### Hosea 6:2
+
+After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
+
+^kjv-hos-6-2
+
+###### Hosea 6:3
+
+Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.
+
+^kjv-hos-6-3
+
+###### Hosea 6:4
+
+O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.
+
+^kjv-hos-6-4
+
+###### Hosea 6:5
+
+Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.
+
+^kjv-hos-6-5
+
+###### Hosea 6:6
+
+For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
+
+^kjv-hos-6-6
+
+###### Hosea 6:7
+
+But they like men have transgressed the covenant: there have they dealt treacherously against me.
+
+^kjv-hos-6-7
+
+###### Hosea 6:8
+
+Gilead is a city of them that work iniquity, and is polluted with blood.
+
+^kjv-hos-6-8
+
+###### Hosea 6:9
+
+And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.
+
+^kjv-hos-6-9
+
+###### Hosea 6:10
+
+I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.
+
+^kjv-hos-6-10
+
+###### Hosea 6:11
+
+Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.
+
+^kjv-hos-6-11

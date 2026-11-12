@@ -1,0 +1,32 @@
+---
+type: source-text-page
+source_id: gaskell-dictionary-julian-1960
+epub_page_id: page_822
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: ocr-raw
+tags:
+  - source/gaskell
+  - text/raw-ocr
+  - review/needed
+---
+
+# Text — EPUB `page_822`
+
+Source file ID: `page_822.html` inside the Internet Archive OCR EPUB.
+
+> [!warning] OCR raw text
+> Transcribed from the Internet Archive OCR EPUB. **Not** verified against the page image/scan.
+
+## Block `gaskell-1960-p822-full`
+
+```text
+WILL experience.’—G. T. Lapp, Phil. of Religion, p. 342. ** Matter causes nothing at all; force causes nothing but motion, and cannot determine ite own direction. Therefore whatever problem of originating and directing power arises from the present arrangement of things arises equally from their arrangement in the furthest past we can discern. One true original directing cause, and only one, is known to us in will. Our own will we know by direct experience, and other wills we infer from outward actions. . . . Deliberate choice as opposed to unreasoning impulse implies a pause for deliberation ; and we know as certainly as we know any scientific fact that in the deliberation, we contribute from ourselves an irreducible element which prevents the issue from being ing like a mechanical result of those motives (which stir the will)... . Though we are conscious of power to do anything whatever within certain limits, @ man in his right mind has some principle or general aim, good or bad, to which he endeavours to subject that power, so that a choice of motives in particular cases resolves itself into a choice of means for carrying out such principle or eral aim."—H. M. Gwarkin, The nowledge of God, Vol. I. PP. 64, 65. ** The only transcendental thing in the world is Will, and this we know directly in ourselves. We are on the inside of thinge because we will, and we know everything to be part of the one evolution of life or will. ere is no explanation of will; it itself is not known by the mere intellect although ite different assertions may be. ... As soon, then, as a man has grasped the notion of volition as the keynote of the self, he ceases to explain himself by things outside of himself. He has also at the same time done with external explanations of the world, and he is pre to find the reality of the world in the one Will that is manifesting iteelf in himself and in all things. I must take to myself all the guilt of my finite existence, and admit that I too have willed to live, have willed the world. ... It is literally true that liberty is a mystery. As finite will I am enslaved, but as infinite will I am free. The finite will must be made to die unto iteelf, and to affirm the eternal Ideas of the eternal Will. Whatever else religion is, it is first and foremost &@ perception of the radical evil that is in the finite will.”"—W. CaLDWELL, Schopenhauer's System, pp. 393, 396-7. ** Nothing can make any change in you but the change of your will. For everything, be it what it will, te a btrth of that will which worketh in you. You have nothing, therefore, to inquire after, nor anything that you can judge of yourself by, but the state of your will and desire. . . - where these are, there are you ; and what these are, that are you: there you live, and to that you belong; and there you must have al] the and evil 815 WIND that can be called yours. ... If your will is with God, you work with God ; God is then the life of your soul, and you will have your life with bod to all eternity." —Wsn. Law, The Way to Divine Knowledge, p. 137. ** Now let us remember that ‘ our wills are ours, we know not how,’ but they are ours: it is equally true that they are ours to make them God’s. But when they are made God’s, made to accord with His, they are no less ours; indeed, they will be ours more than ever when we have made them His; we shall never be our full and true selves until we have found ourselves in God. ... The self that is lost is the little self ; not the ego, but the egotism; the self that dreams it ig separate, and seeks advantages as a separate entity.”"—T. RHONDDA Witiiams, Serm., Dying tn the Lord. “All the events that meet a man in his Outward Life are nothing else than the necessary and unalterable Outward manifestation of the Divine Work fulfilling itself in him, and he cannot wish that anything in these events should be otherwise than what it is, without wishing that the Inward Life which can only thus manifest itself should be otherwise ; and without thereby separating his will from the Will of God, and setting it in opposition thereto. He cannot any longer reserve to himself a choice in these things, for he must accept everything just as it happens; for everything that comes to pasa is the Will of God with him, and therefore the best that can possibly come to pass. To those who love God, all things must work together for good, absolutely and immediately. ... To those who do not love God, all thi must work together immediately for pain and torment, until by means of this torment, they are at last led to salvation.'’’"—J. G. Ficute, The Way Towards the Blessed Infe, pp. 164, 5. See AEGAEON, APES, BRBIAREUS, Doc, Doa-star, GEORGE AND DRAGON, GUARDIAN __ SPIRITS, JERUSALEM, MaisHan, SERVANT OF GOD, SHEEP (lost) SworpD or sPIRiIT, UNION. WIND, WORD, SPIRIT, MARUT, BREATH :— Symbols of emanation, to which the forthpouring from the Absolute is comparable. Otherwise, ‘‘ Wind °’ is a symbol of Spirit energising on the mental plane. “It is not the wind, but the Divine energy, that is regarded as vitalising the germs which the Divine Word is about to call forth.’"—T. K. CHrynez, Origin of the Pealter, p. 322. “And made a wind to pass over the earth, and waters GEN, Viii. 1. And the Divine power energises the mental vehicle of the soul, so
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub]]
+- Overview: [[Reference/Gaskell/Context/00 Overview]]
+

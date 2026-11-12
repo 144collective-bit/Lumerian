@@ -1,0 +1,196 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-pro
+chapter_id: kjv-pro-12
+book_name: "Proverbs"
+chapter: 12
+verses: 28
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Proverbs 12"
+  - "KJV Proverbs 12"
+---
+
+# Proverbs 12
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 011|Proverbs 11]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 013|Proverbs 13]]
+
+## Text
+
+###### Proverbs 12:1
+
+Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
+
+^kjv-pro-12-1
+
+###### Proverbs 12:2
+
+A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn.
+
+^kjv-pro-12-2
+
+###### Proverbs 12:3
+
+A man shall not be established by wickedness: but the root of the righteous shall not be moved.
+
+^kjv-pro-12-3
+
+###### Proverbs 12:4
+
+A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.
+
+^kjv-pro-12-4
+
+###### Proverbs 12:5
+
+The thoughts of the righteous are right: but the counsels of the wicked are deceit.
+
+^kjv-pro-12-5
+
+###### Proverbs 12:6
+
+The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.
+
+^kjv-pro-12-6
+
+###### Proverbs 12:7
+
+The wicked are overthrown, and are not: but the house of the righteous shall stand.
+
+^kjv-pro-12-7
+
+###### Proverbs 12:8
+
+A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.
+
+^kjv-pro-12-8
+
+###### Proverbs 12:9
+
+He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.
+
+^kjv-pro-12-9
+
+###### Proverbs 12:10
+
+A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.
+
+^kjv-pro-12-10
+
+###### Proverbs 12:11
+
+He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.
+
+^kjv-pro-12-11
+
+###### Proverbs 12:12
+
+The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.
+
+^kjv-pro-12-12
+
+###### Proverbs 12:13
+
+The wicked is snared by the transgression of his lips: but the just shall come out of trouble.
+
+^kjv-pro-12-13
+
+###### Proverbs 12:14
+
+A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man’s hands shall be rendered unto him.
+
+^kjv-pro-12-14
+
+###### Proverbs 12:15
+
+The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+
+^kjv-pro-12-15
+
+###### Proverbs 12:16
+
+A fool’s wrath is presently known: but a prudent man covereth shame.
+
+^kjv-pro-12-16
+
+###### Proverbs 12:17
+
+He that speaketh truth sheweth forth righteousness: but a false witness deceit.
+
+^kjv-pro-12-17
+
+###### Proverbs 12:18
+
+There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+
+^kjv-pro-12-18
+
+###### Proverbs 12:19
+
+The lip of truth shall be established for ever: but a lying tongue is but for a moment.
+
+^kjv-pro-12-19
+
+###### Proverbs 12:20
+
+Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.
+
+^kjv-pro-12-20
+
+###### Proverbs 12:21
+
+There shall no evil happen to the just: but the wicked shall be filled with mischief.
+
+^kjv-pro-12-21
+
+###### Proverbs 12:22
+
+Lying lips are abomination to the LORD: but they that deal truly are his delight.
+
+^kjv-pro-12-22
+
+###### Proverbs 12:23
+
+A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
+
+^kjv-pro-12-23
+
+###### Proverbs 12:24
+
+The hand of the diligent shall bear rule: but the slothful shall be under tribute.
+
+^kjv-pro-12-24
+
+###### Proverbs 12:25
+
+Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.
+
+^kjv-pro-12-25
+
+###### Proverbs 12:26
+
+The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
+
+^kjv-pro-12-26
+
+###### Proverbs 12:27
+
+The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
+
+^kjv-pro-12-27
+
+###### Proverbs 12:28
+
+In the way of righteousness is life: and in the pathway thereof there is no death.
+
+^kjv-pro-12-28

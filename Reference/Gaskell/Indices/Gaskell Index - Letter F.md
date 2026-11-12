@@ -1,0 +1,182 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: F
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter F
+
+Entries whose normalized head begins with **F** (162).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/F/F GOD, EGYPTIANS|F GOD, EGYPTIANS]] — `gaskell-1960-entry-f-god-egyptians` — EPUB p.252
+- [[Reference/Gaskell/Entries/F/F GOD, QUETZALCOATL, SACRIFICER CRUCIFIXION ACCORDING GNOSTICS|F GOD, QUETZALCOATL, SACRIFICER CRUCIFIXION ACCORDING GNOSTICS]] — `gaskell-1960-entry-f-god-quetzalcoatl-sacrificer-crucifixion-according-gnostics` — EPUB p.198
+- [[Reference/Gaskell/Entries/F/FABLES AND GENEALOGIES|FABLES AND GENEALOGIES]] — `gaskell-1960-entry-fables-and-genealogies` — EPUB p.268
+- [[Reference/Gaskell/Entries/F/FABRIC|FABRIC]] — `gaskell-1960-entry-fabric` — EPUB p.268
+- [[Reference/Gaskell/Entries/F/FACE|FACE]] — `gaskell-1960-entry-face` — EPUB p.268
+- [[Reference/Gaskell/Entries/F/FACE OF THE GROUND|FACE OF THE GROUND]] — `gaskell-1960-entry-face-of-the-ground` — EPUB p.268,269
+- [[Reference/Gaskell/Entries/F/FACE OF THE LORD|FACE OF THE LORD]] — `gaskell-1960-entry-face-of-the-lord` — EPUB p.269
+- [[Reference/Gaskell/Entries/F/FACES, DOUBLE|FACES, DOUBLE]] — `gaskell-1960-entry-faces-double` — EPUB p.269
+- [[Reference/Gaskell/Entries/F/FACES OF MEN|FACES OF MEN]] — `gaskell-1960-entry-faces-of-men` — EPUB p.269
+- [[Reference/Gaskell/Entries/F/FACES OF THE GODS|FACES OF THE GODS]] — `gaskell-1960-entry-faces-of-the-gods` — EPUB p.269
+- [[Reference/Gaskell/Entries/F/FAITH|FAITH]] — `gaskell-1960-entry-faith` — EPUB p.269,270
+- [[Reference/Gaskell/Entries/F/FAITH TO DO MIRACLES|FAITH TO DO MIRACLES]] — `gaskell-1960-entry-faith-to-do-miracles` — EPUB p.270
+- [[Reference/Gaskell/Entries/F/FALL OF MAN|FALL OF MAN]] — `gaskell-1960-entry-fall-of-man` — EPUB p.270,271,272,273
+- [[Reference/Gaskell/Entries/F/FAMILY|FAMILY]] — `gaskell-1960-entry-family` — EPUB p.273
+- [[Reference/Gaskell/Entries/F/FAMINE IN THE LAND|FAMINE IN THE LAND]] — `gaskell-1960-entry-famine-in-the-land` — EPUB p.273
+- [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] — `gaskell-1960-entry-fan-producing-wind` — EPUB p.273
+- [[Reference/Gaskell/Entries/F/FANG OF THY MOUTH|FANG OF THY MOUTH]] — `gaskell-1960-entry-fang-of-thy-mouth` — EPUB p.273
+- [[Reference/Gaskell/Entries/F/FAR-DARTING APOLLO|FAR-DARTING APOLLO]] — `gaskell-1960-entry-far-darting-apollo` — EPUB p.273
+- [[Reference/Gaskell/Entries/F/FASTING|FASTING]] — `gaskell-1960-entry-fasting` — EPUB p.273,274
+- [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] — `gaskell-1960-entry-fat-dripping-down` — EPUB p.274
+- [[Reference/Gaskell/Entries/F/FATE, EVIL|FATE, EVIL]] — `gaskell-1960-entry-fate-evil` — EPUB p.274
+- [[Reference/Gaskell/Entries/F/FATES|FATES]] — `gaskell-1960-entry-fates` — EPUB p.275
+- [[Reference/Gaskell/Entries/F/FATES, SPECIES OF|FATES, SPECIES OF]] — `gaskell-1960-entry-fates-species-of` — EPUB p.275
+- [[Reference/Gaskell/Entries/F/FATE-SPHERE|FATE-SPHERE]] — `gaskell-1960-entry-fate-sphere` — EPUB p.274,275
+- [[Reference/Gaskell/Entries/F/FATTED CALF EATEN|FATTED CALF EATEN]] — `gaskell-1960-entry-fatted-calf-eaten` — EPUB p.275
+- [[Reference/Gaskell/Entries/F/FEAR OF GOD OR THE LORD|FEAR OF GOD OR THE LORD]] — `gaskell-1960-entry-fear-of-god-or-the-lord` — EPUB p.275
+- [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]] — `gaskell-1960-entry-feast-father-lower-aspect` — EPUB p.275
+- [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] — `gaskell-1960-entry-feast-royal-of-typhon-set` — EPUB p.276
+- [[Reference/Gaskell/Entries/F/FEATHER OF MAAT|FEATHER OF MAAT]] — `gaskell-1960-entry-feather-of-maat` — EPUB p.276
+- [[Reference/Gaskell/Entries/F/FEEDING|FEEDING]] — `gaskell-1960-entry-feeding` — EPUB p.276
+- [[Reference/Gaskell/Entries/F/FEEDING OF THE FIVE THOUSAND|FEEDING OF THE FIVE THOUSAND]] — `gaskell-1960-entry-feeding-of-the-five-thousand` — EPUB p.276,277
+- [[Reference/Gaskell/Entries/F/FEEDING OF THE FOUR THOUSAND|FEEDING OF THE FOUR THOUSAND]] — `gaskell-1960-entry-feeding-of-the-four-thousand` — EPUB p.277
+- [[Reference/Gaskell/Entries/F/FEET|FEET]] — `gaskell-1960-entry-feet` — EPUB p.277
+- [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] — `gaskell-1960-entry-feminine-principle` — EPUB p.277
+- [[Reference/Gaskell/Entries/F/FEN|FEN]] — `gaskell-1960-entry-fen` — EPUB p.490,491
+- [[Reference/Gaskell/Entries/F/FESTIVAL, SACRED|FESTIVAL, SACRED]] — `gaskell-1960-entry-festival-sacred` — EPUB p.277
+- [[Reference/Gaskell/Entries/F/FESTIVE ARBOURS|FESTIVE ARBOURS]] — `gaskell-1960-entry-festive-arbours` — EPUB p.277
+- [[Reference/Gaskell/Entries/F/FETTERS ON A MAN|FETTERS ON A MAN]] — `gaskell-1960-entry-fetters-on-a-man` — EPUB p.277,278
+- [[Reference/Gaskell/Entries/F/FETTERS ON THE SELF, OR SOUL|FETTERS ON THE SELF, OR SOUL]] — `gaskell-1960-entry-fetters-on-the-self-or-soul` — EPUB p.278
+- [[Reference/Gaskell/Entries/F/FIELD|FIELD]] — `gaskell-1960-entry-field` — EPUB p.278,279
+- [[Reference/Gaskell/Entries/F/FIEND OF THE FOUR-LEGGED RACE|FIEND OF THE FOUR-LEGGED RACE]] — `gaskell-1960-entry-fiend-of-the-four-legged-race` — EPUB p.279
+- [[Reference/Gaskell/Entries/F/FIENDS, OR DEMONS|FIENDS, OR DEMONS]] — `gaskell-1960-entry-fiends-or-demons` — EPUB p.279
+- [[Reference/Gaskell/Entries/F/FIENDS RUSHING FORTH FROM BURROWS|FIENDS RUSHING FORTH FROM BURROWS]] — `gaskell-1960-entry-fiends-rushing-forth-from-burrows` — EPUB p.279
+- [[Reference/Gaskell/Entries/F/FIFTEEN, NUMBER|FIFTEEN, NUMBER]] — `gaskell-1960-entry-fifteen-number` — EPUB p.279
+- [[Reference/Gaskell/Entries/F/FIG-FRUIT|FIG-FRUIT]] — `gaskell-1960-entry-fig-fruit` — EPUB p.279
+- [[Reference/Gaskell/Entries/F/FIG-JUICE|FIG-JUICE]] — `gaskell-1960-entry-fig-juice` — EPUB p.279,280
+- [[Reference/Gaskell/Entries/F/FIG-LEAVES AS APRONS|FIG-LEAVES AS APRONS]] — `gaskell-1960-entry-fig-leaves-as-aprons` — EPUB p.280
+- [[Reference/Gaskell/Entries/F/FIG-TREE|FIG-TREE]] — `gaskell-1960-entry-fig-tree` — EPUB p.280
+- [[Reference/Gaskell/Entries/F/FIG-TREE WITHERED AWAY|FIG-TREE WITHERED AWAY]] — `gaskell-1960-entry-fig-tree-withered-away` — EPUB p.280
+- [[Reference/Gaskell/Entries/F/FILIAL PIETY (ANCESTOR WORSHIP)|FILIAL PIETY (ANCESTOR WORSHIP)]] — `gaskell-1960-entry-filial-piety-ancestor-worship` — EPUB p.280
+- [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] — `gaskell-1960-entry-fillet-of-apollo-upon-a-golden-staff` — EPUB p.280
+- [[Reference/Gaskell/Entries/F/FILLETS AND GARLANDS, CROWNED WITH|FILLETS AND GARLANDS, CROWNED WITH]] — `gaskell-1960-entry-fillets-and-garlands-crowned-with` — EPUB p.280,281
+- [[Reference/Gaskell/Entries/F/FINGER, FOREFINGER|FINGER, FOREFINGER]] — `gaskell-1960-entry-finger-forefinger` — EPUB p.281
+- [[Reference/Gaskell/Entries/F/FINGERS, FOUR|FINGERS, FOUR]] — `gaskell-1960-entry-fingers-four` — EPUB p.281
+- [[Reference/Gaskell/Entries/F/FINGERS, TWO, OF HORUS|FINGERS, TWO, OF HORUS]] — `gaskell-1960-entry-fingers-two-of-horus` — EPUB p.281
+- [[Reference/Gaskell/Entries/F/FIRE|FIRE]] — `gaskell-1960-entry-fire` — EPUB p.281,282
+- [[Reference/Gaskell/Entries/F/FIRE AND STEEL|FIRE AND STEEL]] — `gaskell-1960-entry-fire-and-steel` — EPUB p.284
+- [[Reference/Gaskell/Entries/F/FIRE, DESTROYING|FIRE, DESTROYING]] — `gaskell-1960-entry-fire-destroying` — EPUB p.283,284
+- [[Reference/Gaskell/Entries/F/FIRE, ELEMENTAL BRANES|FIRE, ELEMENTAL BRANES]] — `gaskell-1960-entry-fire-elemental-branes` — EPUB p.284
+- [[Reference/Gaskell/Entries/F/FIRE OF AHRIMAN|FIRE OF AHRIMAN]] — `gaskell-1960-entry-fire-of-ahriman` — EPUB p.282
+- [[Reference/Gaskell/Entries/F/FIRE OF AHURAMAZDA (ORMAZD)|FIRE OF AHURAMAZDA (ORMAZD)]] — `gaskell-1960-entry-fire-of-ahuramazda-ormazd` — EPUB p.282,283
+- [[Reference/Gaskell/Entries/F/FIRE-PRIESTS|FIRE-PRIESTS]] — `gaskell-1960-entry-fire-priests` — EPUB p.284
+- [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] — `gaskell-1960-entry-firmament` — EPUB p.284,285
+- [[Reference/Gaskell/Entries/F/FIRMAMENT FIRE OF HELL|FIRMAMENT FIRE OF HELL]] — `gaskell-1960-entry-firmament-fire-of-hell` — EPUB p.284
+- [[Reference/Gaskell/Entries/F/FIRMAMENT, LOWER|FIRMAMENT, LOWER]] — `gaskell-1960-entry-firmament-lower` — EPUB p.285
+- [[Reference/Gaskell/Entries/F/FIRST AND LAST|FIRST AND LAST]] — `gaskell-1960-entry-first-and-last` — EPUB p.285
+- [[Reference/Gaskell/Entries/F/FIRST-BORN SON OF GOD|FIRST-BORN SON OF GOD]] — `gaskell-1960-entry-first-born-son-of-god` — EPUB p.285,286
+- [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]] — `gaskell-1960-entry-fish-caught-in-a-net` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]] — `gaskell-1960-entry-fish-fish-of-the-sea-and-lakes` — EPUB p.286,287
+- [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] — `gaskell-1960-entry-fish-great` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] — `gaskell-1960-entry-five-number` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FLABELLUM, OR SACRED FAN|FLABELLUM, OR SACRED FAN]] — `gaskell-1960-entry-flabellum-or-sacred-fan` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FLAIL, FOR THRESHING OUT WHEAT|FLAIL, FOR THRESHING OUT WHEAT]] — `gaskell-1960-entry-flail-for-threshing-out-wheat` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FLAME OF A SWORD|FLAME OF A SWORD]] — `gaskell-1960-entry-flame-of-a-sword` — EPUB p.287
+- [[Reference/Gaskell/Entries/F/FLAMES, TWIN|FLAMES, TWIN]] — `gaskell-1960-entry-flames-twin` — EPUB p.287,288
+- [[Reference/Gaskell/Entries/F/FLAVOUR OF BRAHMAN|FLAVOUR OF BRAHMAN]] — `gaskell-1960-entry-flavour-of-brahman` — EPUB p.288
+- [[Reference/Gaskell/Entries/F/FLAYING OF MAN AND PUTTING HIS SKIN ON COW|FLAYING OF MAN AND PUTTING HIS SKIN ON COW]] — `gaskell-1960-entry-flaying-of-man-and-putting-his-skin-on-cow` — EPUB p.288
+- [[Reference/Gaskell/Entries/F/FLESH|FLESH]] — `gaskell-1960-entry-flesh` — EPUB p.288
+- [[Reference/Gaskell/Entries/F/FLESH IN WHICH IS LIFE|FLESH IN WHICH IS LIFE]] — `gaskell-1960-entry-flesh-in-which-is-life` — EPUB p.288
+- [[Reference/Gaskell/Entries/F/FLESH OF JESUS AS BREAD FROM HEAVEN|FLESH OF JESUS AS BREAD FROM HEAVEN]] — `gaskell-1960-entry-flesh-of-jesus-as-bread-from-heaven` — EPUB p.288,289
+- [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP ON THE EARTH|FLOCKS OF SHEEP ON THE EARTH]] — `gaskell-1960-entry-flocks-of-sheep-on-the-earth` — EPUB p.289
+- [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP THE MOST GLORIOUS|FLOCKS OF SHEEP THE MOST GLORIOUS]] — `gaskell-1960-entry-flocks-of-sheep-the-most-glorious` — EPUB p.289
+- [[Reference/Gaskell/Entries/F/FLOCKS PASSING GROUND|FLOCKS PASSING GROUND]] — `gaskell-1960-entry-flocks-passing-ground` — EPUB p.289
+- [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]] — `gaskell-1960-entry-flood-of-noah` — EPUB p.289,290
+- [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] — `gaskell-1960-entry-flood-of-water` — EPUB p.289
+- [[Reference/Gaskell/Entries/F/FLOUR, FINE|FLOUR, FINE]] — `gaskell-1960-entry-flour-fine` — EPUB p.290
+- [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] — `gaskell-1960-entry-flowers` — EPUB p.290
+- [[Reference/Gaskell/Entries/F/FLOWERS, WHITE|FLOWERS, WHITE]] — `gaskell-1960-entry-flowers-white` — EPUB p.290
+- [[Reference/Gaskell/Entries/F/FOAM OF THE SEA|FOAM OF THE SEA]] — `gaskell-1960-entry-foam-of-the-sea` — EPUB p.290,291
+- [[Reference/Gaskell/Entries/F/FOCUS, BURNING|FOCUS, BURNING]] — `gaskell-1960-entry-focus-burning` — EPUB p.291
+- [[Reference/Gaskell/Entries/F/FOHAT, OR WORLD OF AGNI|FOHAT, OR WORLD OF AGNI]] — `gaskell-1960-entry-fohat-or-world-of-agni` — EPUB p.291
+- [[Reference/Gaskell/Entries/F/FOLK|FOLK]] — `gaskell-1960-entry-folk` — EPUB p.291
+- [[Reference/Gaskell/Entries/F/FOOD|FOOD]] — `gaskell-1960-entry-food` — EPUB p.291,292
+- [[Reference/Gaskell/Entries/F/FOOD, AS GOD, BRAHMAN, VISHNU, JESUS, HORUS, RA, CHRIST|FOOD, AS GOD, BRAHMAN, VISHNU, JESUS, HORUS, RA, CHRIST]] — `gaskell-1960-entry-food-as-god-brahman-vishnu-jesus-horus-ra-christ` — EPUB p.292,293
+- [[Reference/Gaskell/Entries/F/FOOD FOLLY|FOOD FOLLY]] — `gaskell-1960-entry-food-folly` — EPUB p.291
+- [[Reference/Gaskell/Entries/F/FOOD FOR MAN|FOOD FOR MAN]] — `gaskell-1960-entry-food-for-man` — EPUB p.293
+- [[Reference/Gaskell/Entries/F/FOOD FOR THE SOUL|FOOD FOR THE SOUL]] — `gaskell-1960-entry-food-for-the-soul` — EPUB p.293,294
+- [[Reference/Gaskell/Entries/F/FOOD OF THE GODS|FOOD OF THE GODS]] — `gaskell-1960-entry-food-of-the-gods` — EPUB p.293
+- [[Reference/Gaskell/Entries/F/FOOLS|FOOLS]] — `gaskell-1960-entry-fools` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOOT|FOOT]] — `gaskell-1960-entry-foot` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOOT OF HERA (JUNO)|FOOT OF HERA (JUNO)]] — `gaskell-1960-entry-foot-of-hera-juno` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOOTPRINTS|FOOTPRINTS]] — `gaskell-1960-entry-footprints` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOOTPRINTS OF BUDDHA|FOOTPRINTS OF BUDDHA]] — `gaskell-1960-entry-footprints-of-buddha` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOOTSTEPS IN FOLLOWING A LEADER|FOOTSTEPS IN FOLLOWING A LEADER]] — `gaskell-1960-entry-footsteps-in-following-a-leader` — EPUB p.294,295
+- [[Reference/Gaskell/Entries/F/FOOTSTEPS OF BUDDHA|FOOTSTEPS OF BUDDHA]] — `gaskell-1960-entry-footsteps-of-buddha` — EPUB p.294
+- [[Reference/Gaskell/Entries/F/FOREHEAD|FOREHEAD]] — `gaskell-1960-entry-forehead` — EPUB p.295
+- [[Reference/Gaskell/Entries/F/FORENOON|FORENOON]] — `gaskell-1960-entry-forenoon` — EPUB p.295
+- [[Reference/Gaskell/Entries/F/FOREST PATHS OF LIFE|FOREST PATHS OF LIFE]] — `gaskell-1960-entry-forest-paths-of-life` — EPUB p.295
+- [[Reference/Gaskell/Entries/F/FORK, FIVE-PRONGED|FORK, FIVE-PRONGED]] — `gaskell-1960-entry-fork-five-pronged` — EPUB p.295
+- [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] — `gaskell-1960-entry-form-and-name-which-are-said-in-the-scriptures-to-be-the-same-as-mind-and-speech` — EPUB p.295
+- [[Reference/Gaskell/Entries/F/FORMS, PHENOMENAL|FORMS, PHENOMENAL]] — `gaskell-1960-entry-forms-phenomenal` — EPUB p.295,296,297
+- [[Reference/Gaskell/Entries/F/FORTRESS OR ROCK|FORTRESS OR ROCK]] — `gaskell-1960-entry-fortress-or-rock` — EPUB p.297
+- [[Reference/Gaskell/Entries/F/FORTUNATE CONJUNCTION|FORTUNATE CONJUNCTION]] — `gaskell-1960-entry-fortunate-conjunction` — EPUB p.297
+- [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]] — `gaskell-1960-entry-forty-days-and-nights` — EPUB p.297
+- [[Reference/Gaskell/Entries/F/FORTY DAYS OR YEARS|FORTY DAYS OR YEARS]] — `gaskell-1960-entry-forty-days-or-years` — EPUB p.297
+- [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] — `gaskell-1960-entry-forty-number` — EPUB p.297
+- [[Reference/Gaskell/Entries/F/FORTY-TWO AND FORTYNINE|FORTY-TWO AND FORTYNINE]] — `gaskell-1960-entry-forty-two-and-fortynine` — EPUB p.297,298
+- [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] — `gaskell-1960-entry-fountain-of-water` — EPUB p.298
+- [[Reference/Gaskell/Entries/F/FOUNTAINS OF THE DEEP|FOUNTAINS OF THE DEEP]] — `gaskell-1960-entry-fountains-of-the-deep` — EPUB p.298
+- [[Reference/Gaskell/Entries/F/FOUR ANGLES OR CORNERS OF THE WORLD|FOUR ANGLES OR CORNERS OF THE WORLD]] — `gaskell-1960-entry-four-angles-or-corners-of-the-world` — EPUB p.298
+- [[Reference/Gaskell/Entries/F/FOUR BEINGS AT THE CARDINAL POINTS|FOUR BEINGS AT THE CARDINAL POINTS]] — `gaskell-1960-entry-four-beings-at-the-cardinal-points` — EPUB p.298,299
+- [[Reference/Gaskell/Entries/F/FOUR DAYS|FOUR DAYS]] — `gaskell-1960-entry-four-days` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOUR ELEMENTS|FOUR ELEMENTS]] — `gaskell-1960-entry-four-elements` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOUR GOSPELS|FOUR GOSPELS]] — `gaskell-1960-entry-four-gospels` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOUR, NUMBER|FOUR, NUMBER]] — `gaskell-1960-entry-four-number` — EPUB p.298
+- [[Reference/Gaskell/Entries/F/FOUR SEASONS, PERIODS|FOUR SEASONS, PERIODS]] — `gaskell-1960-entry-four-seasons-periods` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOUR TIMES TALLER THAN MAN, WAS PWAN-KOO|FOUR TIMES TALLER THAN MAN, WAS PWAN-KOO]] — `gaskell-1960-entry-four-times-taller-than-man-was-pwan-koo` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOUR YEARS OF AGE|FOUR YEARS OF AGE]] — `gaskell-1960-entry-four-years-of-age` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOWLS OF THE AIR|FOWLS OF THE AIR]] — `gaskell-1960-entry-fowls-of-the-air` — EPUB p.110
+- [[Reference/Gaskell/Entries/F/FOWLS OF THE AIR-0f9c25|FOWLS OF THE AIR-0f9c25]] — `gaskell-1960-entry-fowls-of-the-air` — EPUB p.299
+- [[Reference/Gaskell/Entries/F/FOXES HAVE HOLES|FOXES HAVE HOLES]] — `gaskell-1960-entry-foxes-have-holes` — EPUB p.299,300
+- [[Reference/Gaskell/Entries/F/FRANKINCENSE|FRANKINCENSE]] — `gaskell-1960-entry-frankincense` — EPUB p.300
+- [[Reference/Gaskell/Entries/F/FRANKINCENSE AND MYRRH BROUGHT BY ANGELS|FRANKINCENSE AND MYRRH BROUGHT BY ANGELS]] — `gaskell-1960-entry-frankincense-and-myrrh-brought-by-angels` — EPUB p.300
+- [[Reference/Gaskell/Entries/F/FRAVAK AND FRAVAKAIN|FRAVAK AND FRAVAKAIN]] — `gaskell-1960-entry-fravak-and-fravakain` — EPUB p.300
+- [[Reference/Gaskell/Entries/F/FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER|FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER]] — `gaskell-1960-entry-fravashi-or-ideal-image-of-zoroaster` — EPUB p.300
+- [[Reference/Gaskell/Entries/F/FRAVASHIS, FRAVAHAR, OR FEREUERS|FRAVASHIS, FRAVAHAR, OR FEREUERS]] — `gaskell-1960-entry-fravashis-fravahar-or-fereuers` — EPUB p.300,301
+- [[Reference/Gaskell/Entries/F/FRAVASHIS FRAVASHI OF ORMAZD|FRAVASHIS FRAVASHI OF ORMAZD]] — `gaskell-1960-entry-fravashis-fravashi-of-ormazd` — EPUB p.300
+- [[Reference/Gaskell/Entries/F/FRAVASHIS, PROMETHEUS, HOMA-JUICE|FRAVASHIS, PROMETHEUS, HOMA-JUICE]] — `gaskell-1960-entry-fravashis-prometheus-homa-juice` — EPUB p.373
+- [[Reference/Gaskell/Entries/F/FRAZISHTO THE DEMON|FRAZISHTO THE DEMON]] — `gaskell-1960-entry-frazishto-the-demon` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FREDUN|FREDUN]] — `gaskell-1960-entry-fredun` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FREJA, FRIEJA, FREYA, OR FREYJA, WIFE OF HODER|FREJA, FRIEJA, FREYA, OR FREYJA, WIFE OF HODER]] — `gaskell-1960-entry-freja-frieja-freya-or-freyja-wife-of-hoder` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FREQUENTED HOUSE|FREQUENTED HOUSE]] — `gaskell-1960-entry-frequented-house` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]] — `gaskell-1960-entry-friends-and-foes` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] — `gaskell-1960-entry-friends-houses` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FRIGG, OR FRIKKA, WIFE OF ODIN|FRIGG, OR FRIKKA, WIFE OF ODIN]] — `gaskell-1960-entry-frigg-or-frikka-wife-of-odin` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FROM THE SOUTH|FROM THE SOUTH]] — `gaskell-1960-entry-from-the-south` — EPUB p.823
+- [[Reference/Gaskell/Entries/F/FRUCTIFYING PRINCIPLE|FRUCTIFYING PRINCIPLE]] — `gaskell-1960-entry-fructifying-principle` — EPUB p.301
+- [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] — `gaskell-1960-entry-fruit` — EPUB p.301,302
+- [[Reference/Gaskell/Entries/F/FRUIT OF THE GROUND|FRUIT OF THE GROUND]] — `gaskell-1960-entry-fruit-of-the-ground` — EPUB p.302
+- [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] — `gaskell-1960-entry-fruit-of-the-spirit-or-of-the-tree-of-life` — EPUB p.302
+- [[Reference/Gaskell/Entries/F/FRUIT OF THE TREE OF KNOWLEDGE OF GOOD AND EVIL|FRUIT OF THE TREE OF KNOWLEDGE OF GOOD AND EVIL]] — `gaskell-1960-entry-fruit-of-the-tree-of-knowledge-of-good-and-evil` — EPUB p.302
+- [[Reference/Gaskell/Entries/F/FRUITFUL CROP|FRUITFUL CROP]] — `gaskell-1960-entry-fruitful-crop` — EPUB p.302
+- [[Reference/Gaskell/Entries/F/FRUIT-TREE BEARING FRUIT AND SEED|FRUIT-TREE BEARING FRUIT AND SEED]] — `gaskell-1960-entry-fruit-tree-bearing-fruit-and-seed` — EPUB p.302
+- [[Reference/Gaskell/Entries/F/FUDO, GOD OF FIRE|FUDO, GOD OF FIRE]] — `gaskell-1960-entry-fudo-god-of-fire` — EPUB p.302,303
+- [[Reference/Gaskell/Entries/F/FUGITIVE AND WANDERER|FUGITIVE AND WANDERER]] — `gaskell-1960-entry-fugitive-and-wanderer` — EPUB p.303,304
+- [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] — `gaskell-1960-entry-fuh-he-or-tae-haou` — EPUB p.304
+- [[Reference/Gaskell/Entries/F/FULFILLING THE LAW WITH LOVE|FULFILLING THE LAW WITH LOVE]] — `gaskell-1960-entry-fulfilling-the-law-with-love` — EPUB p.304
+- [[Reference/Gaskell/Entries/F/FUNERAL-PILES OF THE DEAD BURNING|FUNERAL-PILES OF THE DEAD BURNING]] — `gaskell-1960-entry-funeral-piles-of-the-dead-burning` — EPUB p.304
+- [[Reference/Gaskell/Entries/F/FURNACE|FURNACE]] — `gaskell-1960-entry-furnace` — EPUB p.304,305
+- [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] — `gaskell-1960-entry-furrows-in-ploughed-earth` — EPUB p.305
+- [[Reference/Gaskell/Entries/F/FUTSU-NUSHI|FUTSU-NUSHI]] — `gaskell-1960-entry-futsu-nushi` — EPUB p.305
+- [[Reference/Gaskell/Entries/F/FYLLA RECEIVES A GOLD RING FROM NANNA|FYLLA RECEIVES A GOLD RING FROM NANNA]] — `gaskell-1960-entry-fylla-receives-a-gold-ring-from-nanna` — EPUB p.305
+

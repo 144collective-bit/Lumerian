@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-mal
+chapter_id: kjv-mal-3
+book_name: "Malachi"
+chapter: 3
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Malachi 3"
+  - "KJV Malachi 3"
+---
+
+# Malachi 3
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/39 Malachi/Malachi|Malachi]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/39 Malachi/Malachi 002|Malachi 2]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/39 Malachi/Malachi 004|Malachi 4]]
+
+## Text
+
+###### Malachi 3:1
+
+Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
+
+^kjv-mal-3-1
+
+###### Malachi 3:2
+
+But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:
+
+^kjv-mal-3-2
+
+###### Malachi 3:3
+
+And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
+
+^kjv-mal-3-3
+
+###### Malachi 3:4
+
+Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
+
+^kjv-mal-3-4
+
+###### Malachi 3:5
+
+And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the LORD of hosts.
+
+^kjv-mal-3-5
+
+###### Malachi 3:6
+
+For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.
+
+^kjv-mal-3-6
+
+###### Malachi 3:7
+
+Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
+
+^kjv-mal-3-7
+
+###### Malachi 3:8
+
+Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
+
+^kjv-mal-3-8
+
+###### Malachi 3:9
+
+Ye are cursed with a curse: for ye have robbed me, even this whole nation.
+
+^kjv-mal-3-9
+
+###### Malachi 3:10
+
+Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
+
+^kjv-mal-3-10
+
+###### Malachi 3:11
+
+And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
+
+^kjv-mal-3-11
+
+###### Malachi 3:12
+
+And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.
+
+^kjv-mal-3-12
+
+###### Malachi 3:13
+
+Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?
+
+^kjv-mal-3-13
+
+###### Malachi 3:14
+
+Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?
+
+^kjv-mal-3-14
+
+###### Malachi 3:15
+
+And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
+
+^kjv-mal-3-15
+
+###### Malachi 3:16
+
+Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.
+
+^kjv-mal-3-16
+
+###### Malachi 3:17
+
+And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.
+
+^kjv-mal-3-17
+
+###### Malachi 3:18
+
+Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
+
+^kjv-mal-3-18

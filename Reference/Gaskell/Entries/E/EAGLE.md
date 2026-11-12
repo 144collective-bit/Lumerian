@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-eagle
+headword: "EAGLE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# EAGLE
+
+- **Entry ID:** `gaskell-1960-entry-eagle`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_243`, `page_244`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_243|page_243]], [[Supporting Material/Gaskell/Source Text/page_244|page_244]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`EAGLE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Holy Spirit, which flies, as it were, through the mind (air) from the higher nature (heaven) to the lower nature (earth) and soars aloft to the Self (sun).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Faruer` | **unresolved** (review queue) |
+| `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
+| `HOLY GHOST` | **candidate (first-segment only)** → possible `HOLY GHOST, OR SPIRIT` (not linked) |
+| `Lerrer` | **unresolved** (review queue) |
+| `PHOENIX` | **unresolved** (review queue) |
+| `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
+| `Spercu` | **unresolved** (review queue) |
+| `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+| `VULTURE` | **candidate (first-segment only)** → possible `VULTURE, THE BIRD OF ISIS` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-eagle-ocr-body`
+
+```text
+A symbol of the Holy Spirit, which flies, as it were, through the mind (air) from the higher nature (heaven) to the lower nature (earth) and soars aloft to the Self (sun). “‘Aléla, the eagle, is stated to be ‘the symbol of the noon-tide sun’; and Al&éla, whose name is of Accadian origin, signifies ‘ the great Spirit.’ ”_A.H. Sa¥ceE, Rel. of Anc. Egypt. and Babyl., p. 248. “The dove is the well-known of meek innocence. The eagle’s lofty flight and keen vision represent but another form of the same Divine Spirit.” —A. Jukes, Types of Genesis, p. 34. “Flying eagle signifies the divine truth of the Word as to knowledge and thence understanding.’’—SwEDENBORG, Apoc. Rev., n. 244. “(The letter from the king, my Father) flew in the likeness of an eagle, the king of all birds; it flew and alighted beside me, and became all speech " (Hymn of the Soul).—Gnost10, Acts of Judas Thomas. The message to the soul appealed through the higher side of the consciousness. It sped forth with a directness and sureness of aim that might be compared to the flight of an eagle, which is a symbol of the Holy Spirit descending. It took possession of the soul mightily, so that it had to express outwardly that which was communicated to it from within. “There is a great deal of meaning in the fact that the Bible in our English churches is put to rest on the outspread wings of an eagle. The meaning of it has to do with the fact that the letter killeth, but the spirit giveth life. You have very often got to put the literal Bible on the wings of the bird that can soar high, i.e. the spiritual imagination, the insight of the seer, before you reach its heavenly meaning. Yet many & clergyman, while hia Bible is on eagle's wings, the very symbol that tells him to carry it to high spiritual realms of meaning, will give 8 wooden interpretation. In sacred symbolism the eagle stands for that power of rising above the earth, above the physical and the literal, into the high heavens of a rarefied faith, a mystic intuition, a penetrating iritual imagination.”—-T. RHonppa iziiasts: Serm., Dying in the Lord. See Faruer, GRIFFIN, HOLY GHOST, Lerrer, PHOENIX, PROMETHEUS, Spercu, Sun, VULTURE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_243|page_243]], [[Supporting Material/Gaskell/Source Text/page_244|page_244]]
+

@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-messiah
+headword: "MESSIAH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# MESSIAH
+
+- **Entry ID:** `gaskell-1960-entry-messiah`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_504`, `page_505`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_504|page_504]], [[Supporting Material/Gaskell/Source Text/page_505|page_505]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`MESSIAH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the incoming Truth and Love,—the Higher Self born in the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ANDREW` | **candidate (first-segment only)** → possible `ANDREW, THE DISCIPLE` (not linked) |
+| `BREaTH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
+| `CHRIST’S SECOND COMING` | **unresolved** (review queue) |
+| `MEDIATOR` | **unresolved** (review queue) |
+| `SELF` | **candidate (first-segment only)** → possible `SELF, LOWER` (not linked) |
+| `PETER` | **candidate (first-segment only)** → possible `PETER, THE APOSTLE` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-messiah-ocr-body`
+
+```text
+A symbol of the incoming Truth and Love,—the Higher Self born in the soul. ** Andrew findeth first his own brother Simon and saith unto him, We have found the Messiah (which is, being interpreted, Christ).'’—JOHN i. 41. The astro-mental nature was enabled to modify the closely allied physical brain and make it a better mental instrument for the needs of the Christ, who had now appeared within the soul. METALS ** Andrew stays with the Lord ‘at the tenth hour’ and finds the Son of God the Word and Wisdom, and is ruled by him as king. That is why he saya, ‘We have found the Messiah,’ and this is a thing which every one can say who has found this Word of God and is ruled, as by a king, by his Divinity. As a fruit he at once brings his brother to Christ, and Christ deigned to look upon Simon, that is to say, by looking at him to visit and enlighten his ruling principle; and Simon, by Jesus looking at him, was enabled to grow strong, s0 as to earn a new name for that work of firmness and strength, and to be called Peter.”’—ORIGEN, Comm. on John, Bk. III. 29. : ‘*The coming of the Messiah is Divine knowledge gained by experience through the power of the Breath of Life inbreathed, that is the Mediator between God and man. ... But of the Breath of Life, in union with the human essence, Messiah was to be made, by the mind going oe a fiery purgation, in which it leaves dross behind, namely, the old evil nature. The Living Breath uniting with the upright and purified mind of the creature, and the human spirit of the man with it ; thus Messiah is made, born, and comes forth. Charity bears him into the ‘ world’ for this principle (charity) is the ‘ Virgin *"- JOHN Warp, Zion's Works, Vol. III. pp. 200, 202. ** According to the Midrash Talpigoth, the Messiah wil] bring eternal peace. . . It is said in the Zohar that, according to tradition, wherever Solomon is mentioned in the Song of Solomon this King of Peace is designated.” ‘‘ This is the Spirit of the Messiah, as it is written: ‘ Renew a right spirit within me.’ (Ps. Ji. 12)."— A. E. Warts, Secret Doctrine in Israel, pp. 143, 147. See ANDREW, BREaTH (divine), CHRIST’S SECOND COMING, MEDIATOR, SELF, PETER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_504|page_504]], [[Supporting Material/Gaskell/Source Text/page_505|page_505]]
+

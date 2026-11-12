@@ -1,0 +1,112 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-48
+book_name: "Psalms"
+chapter: 48
+verses: 14
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 48"
+  - "KJV Psalms 48"
+---
+
+# Psalms 48
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 047|Psalms 47]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 049|Psalms 49]]
+
+## Text
+
+###### Psalms 48:1
+
+Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.
+
+^kjv-psa-48-1
+
+###### Psalms 48:2
+
+Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.
+
+^kjv-psa-48-2
+
+###### Psalms 48:3
+
+God is known in her palaces for a refuge.
+
+^kjv-psa-48-3
+
+###### Psalms 48:4
+
+For, lo, the kings were assembled, they passed by together.
+
+^kjv-psa-48-4
+
+###### Psalms 48:5
+
+They saw it, and so they marvelled; they were troubled, and hasted away.
+
+^kjv-psa-48-5
+
+###### Psalms 48:6
+
+Fear took hold upon them there, and pain, as of a woman in travail.
+
+^kjv-psa-48-6
+
+###### Psalms 48:7
+
+Thou breakest the ships of Tarshish with an east wind.
+
+^kjv-psa-48-7
+
+###### Psalms 48:8
+
+As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.
+
+^kjv-psa-48-8
+
+###### Psalms 48:9
+
+We have thought of thy lovingkindness, O God, in the midst of thy temple.
+
+^kjv-psa-48-9
+
+###### Psalms 48:10
+
+According to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness.
+
+^kjv-psa-48-10
+
+###### Psalms 48:11
+
+Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.
+
+^kjv-psa-48-11
+
+###### Psalms 48:12
+
+Walk about Zion, and go round about her: tell the towers thereof.
+
+^kjv-psa-48-12
+
+###### Psalms 48:13
+
+Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following.
+
+^kjv-psa-48-13
+
+###### Psalms 48:14
+
+For this God is our God for ever and ever: he will be our guide even unto death.
+
+^kjv-psa-48-14

@@ -1,0 +1,46 @@
+                                        THE SECRET TEACHINGS OF ALL AGES
+    To illustrate the basic differences in their construction and use, the various forms of
+ciphers are here grouped under seven general headings:
+    1. The literal cipher. The most famous of all literal cryptograms is the famous bilit-
+eral cipher described by Sir Francis Bacon in his De Augmentis Scientiarum. Lord Bacon
+originated the system while still a young man residing in Paris. The biliteral cipher re-
+quires the use of two styles of type, one an ordinary face and the other specially cut. The
+differences between the two fonts are in many case so minute that it requires a powerful
+magnifying glass to detect them. Originally, the cipher messages were concealed only in
+the italicized words, sentences, or paragraphs, because the italic letters, being more ornate
+than the Roman letters, offered greater opportunity for concealing the slight but necessary
+variations. Sometimes the letters vary a trifle in size; at other times in thickness or in their
+ornamental flourishes. Later, Lord Bacon is believed to have had two Roman alphabets
+specially prepared in which the differences were so trivial that it is almost impossible for
+experts to distinguish them.
+    A careful inspection of the first four “Shakespeare” folios discloses the use throughout
+the volumes of several styles of type differing in minute but distinguishable details. It is
+possible that all the “Shakespeare” folios contain ciphers running through the text. These
+ciphers may have been added to the original plays, which are much longer in the folios
+than in the original quartos, full scenes having been added in some instances.
+    The biliteral cipher was not confined to the writings of Bacon and “Shakespeare,”
+however, but appears in many books published during Lord Bacon’s lifetime and for
+nearly a century after his b death. In referring to the biliteral cipher, Lord Bacon terms it
+omnia per omnia. The cipher may run through an entire book and be placed therein at the
+time of printing without the knowledge of the original author, for it does not necessitate
+the changing of either words or punctuation. It is possible that this cipher was inserted for
+political purposes into many documents and volumes published during the seventeenth
+century. It is well known that ciphers were used for the same reason as early as the Council
+of Nicæa.
+    The Baconian biliteral cipher is difficult to use today, owing to the present exact stan-
+dardization of type and the fact that so few books are now hand set. Accompanying this
+chapter are facsimiles of Lord Bacon’s biliteral alphabet as it appeared in the 1640 English
+translation of De Augmentis Scientiarum. There are four alphabets, two for the capital and
+two for the small letters. Consider carefully the differences between these four and note
+that each alphabet has the power of either the letter a or the letter b, and that when read-
+ing a word its letters are divisible into one of two groups: those which correspond to the
+letter a and those which correspond to the letter b. In order to employ the biliteral cipher,
+a document must contain five times as many letters as there are in the cipher message
+to be concealed, for it requires five letters to conceal one. The biliteral cipher somewhat
+resembles a telegraph code in which letters are changed into dots and dashes; according
+to the biliteral system, however, the dots and dashes are represented respectively by a’s
+and b’s. The word biliteral is derived from the fact that all letters of the alphabet may be
+reduced to either a or b. An example of biliteral writing is shown in one of the accompany-
+ing diagrams. In order to demonstrate the working of this cipher, the message concealed
+
+                                                                                          565

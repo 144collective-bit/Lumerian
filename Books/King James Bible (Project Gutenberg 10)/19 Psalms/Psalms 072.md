@@ -1,0 +1,148 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-72
+book_name: "Psalms"
+chapter: 72
+verses: 20
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 72"
+  - "KJV Psalms 72"
+---
+
+# Psalms 72
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 071|Psalms 71]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 073|Psalms 73]]
+
+## Text
+
+###### Psalms 72:1
+
+Give the king thy judgments, O God, and thy righteousness unto the king’s son.
+
+^kjv-psa-72-1
+
+###### Psalms 72:2
+
+He shall judge thy people with righteousness, and thy poor with judgment.
+
+^kjv-psa-72-2
+
+###### Psalms 72:3
+
+The mountains shall bring peace to the people, and the little hills, by righteousness.
+
+^kjv-psa-72-3
+
+###### Psalms 72:4
+
+He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
+
+^kjv-psa-72-4
+
+###### Psalms 72:5
+
+They shall fear thee as long as the sun and moon endure, throughout all generations.
+
+^kjv-psa-72-5
+
+###### Psalms 72:6
+
+He shall come down like rain upon the mown grass: as showers that water the earth.
+
+^kjv-psa-72-6
+
+###### Psalms 72:7
+
+In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.
+
+^kjv-psa-72-7
+
+###### Psalms 72:8
+
+He shall have dominion also from sea to sea, and from the river unto the ends of the earth.
+
+^kjv-psa-72-8
+
+###### Psalms 72:9
+
+They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.
+
+^kjv-psa-72-9
+
+###### Psalms 72:10
+
+The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
+
+^kjv-psa-72-10
+
+###### Psalms 72:11
+
+Yea, all kings shall fall down before him: all nations shall serve him.
+
+^kjv-psa-72-11
+
+###### Psalms 72:12
+
+For he shall deliver the needy when he crieth; the poor also, and him that hath no helper.
+
+^kjv-psa-72-12
+
+###### Psalms 72:13
+
+He shall spare the poor and needy, and shall save the souls of the needy.
+
+^kjv-psa-72-13
+
+###### Psalms 72:14
+
+He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.
+
+^kjv-psa-72-14
+
+###### Psalms 72:15
+
+And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.
+
+^kjv-psa-72-15
+
+###### Psalms 72:16
+
+There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.
+
+^kjv-psa-72-16
+
+###### Psalms 72:17
+
+His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.
+
+^kjv-psa-72-17
+
+###### Psalms 72:18
+
+Blessed be the LORD God, the God of Israel, who only doeth wondrous things.
+
+^kjv-psa-72-18
+
+###### Psalms 72:19
+
+And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.
+
+^kjv-psa-72-19
+
+###### Psalms 72:20
+
+The prayers of David the son of Jesse are ended.
+
+^kjv-psa-72-20

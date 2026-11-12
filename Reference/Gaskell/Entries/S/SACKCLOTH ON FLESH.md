@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-sackcloth-on-flesh
+headword: "SACKCLOTH ON FLESH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SACKCLOTH ON FLESH
+
+- **Entry ID:** `gaskell-1960-entry-sackcloth-on-flesh`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_648`, `page_649`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_648|page_648]], [[Supporting Material/Gaskell/Source Text/page_649|page_649]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SACKCLOTH ON FLESH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of severe discipline and restraint put upon the lower nature during periods of re-incarnation of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ASCETICISM` | **candidate (first-segment only)** → possible `ASCETICISM, OR AUSTERITY` (not linked) |
+| `ASHES` | **unresolved** (review queue) |
+| `AUSTERITIES` | **unresolved** (review queue) |
+| `CLOTHES` | **unresolved** (review queue) |
+| `DANCE` | **candidate (ambiguous first-segment)** → DANCE, CIRCLE, CENTRE; DANCE, DANCING (not linked) |
+| `RENDING GARMENTS` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-sackcloth-on-flesh-ocr-body`
+
+```text
+A symbol of severe discipline and restraint put upon the lower nature during periods of re-incarnation of the soul. SACRAMENT **And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the Lord.’’—Isa. xxxvii. 1. This refers to the turning of the personality from the allurements of desire, and to the change of opinions, and restraint of the lower nature, and reliance upon the Divine. ** Thou hast turned for me my mourning into dancing ; thou hast loosed my sackcloth, and girded mo with gladness.” — Ps. xxix. 11. At the end of the cycle the soul rises from the lower nature, liberated from desire, and enters into the harmony and joy of life on the higher planes. *‘For by ‘sackcloth’ is set forth the roughness and the piercing of sin, but by ‘ashes’ the dust of the déad.... Let piercing sins then be considered in sackcloth, Ict the just punishment of sins, which succeeds by the sentence of death, be considered in ashes.’’-— St. Grecory, Morals on the Book of Job, Vol. III. p. 666. See ASCETICISM, ASHES, AUSTERITIES, CLOTHES, DANCE, RENDING GARMENTS.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_648|page_648]], [[Supporting Material/Gaskell/Source Text/page_649|page_649]]
+

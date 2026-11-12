@@ -1,0 +1,73 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-nare-or-narve
+headword: "NARE, OR NARVE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NARE, OR NARVE
+
+- **Entry ID:** `gaskell-1960-entry-nare-or-narve`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_533`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_533|page_533]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NARE, OR NARVE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of greed.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Asak` | **unresolved** (review queue) |
+| `LOKE` | **unresolved** (review queue) |
+| `WoLF. NASU` | **unresolved** (review queue) |
+| `THE FIEND` | **unresolved** (review queue) |
+| `AS A RAGING FLY :-— A symbol of time` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `which` | **unresolved** (review queue) |
+| `as it were` | **unresolved** (review queue) |
+| `captures residual astral elements o the lower self` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `and sets them aside as astral matter for future use. See Assyrtus` | **unresolved** (prose-bleed / overlong token; not linked) |
+| `Doa (white)` | **unresolved** (review queue) |
+| `Frenps. MaN WITHOUT WOMAN` | **unresolved** (review queue) |
+| `Mosqurr` | **unresolved** (review queue) |
+| `Tre` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-nare-or-narve-ocr-body`
+
+```text
+A symbol of greed. “The Asar then took Loke’s sons, Vale and Nare, or Nerve. Vale they changed into a wolf, and it then tore hs brother Nare, and with his entrails th Asar bound Loke upon the three stonea’ —The Story of Loke, Prose Edda. And then in the Divine scheme, the offspring of the astral nature,— force and desire,—are taken as factors: and these now assume the forms of energy and greed ; and it is said that the latter binds the mind, through the desire-nature for a time to three of its modes, namely, will, feeling, and intelligence (the stones). See Asak, LOKE, WoLF. NASU, THE FIEND, AS A RAGING FLY :-— A symbol of time, which, as it were, captures residual astral elements o the lower self, and sets them aside as astral matter for future use. See Assyrtus, Doa (white), Frenps. MaN WITHOUT WOMAN, Mosqurr, Tre.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_533|page_533]]
+

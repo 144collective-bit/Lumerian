@@ -1,0 +1,66 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-zaccheus-a-chief-publican
+headword: "ZACCHEUS, A CHIEF PUBLICAN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ZACCHEUS, A CHIEF PUBLICAN
+
+- **Entry ID:** `gaskell-1960-entry-zaccheus-a-chief-publican`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_843`, `page_844`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_843|page_843]], [[Supporting Material/Gaskell/Source Text/page_844|page_844]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ZACCHEUS, A CHIEF PUBLICAN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the soul exercised about the things of this world, but actuated by better motives in regard thereunto than is ordinary.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Crowp` | **unresolved** (review queue) |
+| `DEVACHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
+| `NICODEMUS` | **unresolved** (review queue) |
+| `RicHEs (lower)` | **candidate (first-segment only)** → possible `RICHES, OR WEALTH (LOWER ASPECT)` (not linked) |
+| `SycaMORE` | **unresolved** (review queue) |
+| `TREASURE` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-zaccheus-a-chief-publican-ocr-body`
+
+```text
+A symbol of the soul exercised about the things of this world, but actuated by better motives in regard thereunto than is ordinary. *“‘And he (Zaccheus) sought to see Jesus who he wae; and he could not for the crowd, because he was little of stature. And he ran on before, and ZACHARIAS climbed up into a sycamore tree to see him.”’—LvuKE xix. 3, 4. The well-intentioned mind desired to raise an ideal, and, as it were, to catch a glimpse of the “ King in his beauty ”’ (the Self), but is too much entangled with the cares of this world and the deceitfulness of desires to be able to do 80, except by adopting the expedient of “climbing up a tree,” that is of getting a view in advance of the means whereby progress could be accomplished. This ‘“‘ bird’s-eye ’’ view corresponds with an intuition of a condition beyond the state actually arrived at. It therefore answers to an aspiration of the subjective mind upon the devachanic plane, which had not yet been realised in the world of effects. ** Zaccheus ”’ is one “ little of stature,”’ that is to say, a soul not up till now raised beyond a certain point or degree of development: yet one who shall surely rise eventually and claim his inheritance. The “crowd ”’ signifies the lower mental qualities which obscure the view of that which is higher. “Zaccheus being small of stature, ascended a sycamore, and saw the Lord, because they who humbly choose the foolishness of the world, do themselves minutely contemplate the wisdom, of God. For the crowd hinders smallnees of stature from beholding the Lord, because the tumult of worldly cares keeps the infirmity of the human mind from looking at the light of truth.”’-—Sr. Grecory, Morals on the Book of Job, Vol. IIT. p. 259. See Crowp, DEVACHAN, NICODEMUS, RicHEs (lower), SycaMORE, TREASURE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_843|page_843]], [[Supporting Material/Gaskell/Source Text/page_844|page_844]]
+

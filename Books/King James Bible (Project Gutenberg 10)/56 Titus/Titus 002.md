@@ -1,0 +1,118 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-tit
+chapter_id: kjv-tit-2
+book_name: "Titus"
+chapter: 2
+verses: 15
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Titus 2"
+  - "KJV Titus 2"
+---
+
+# Titus 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/56 Titus/Titus|Titus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/56 Titus/Titus 001|Titus 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/56 Titus/Titus 003|Titus 3]]
+
+## Text
+
+###### Titus 2:1
+
+But speak thou the things which become sound doctrine:
+
+^kjv-tit-2-1
+
+###### Titus 2:2
+
+That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.
+
+^kjv-tit-2-2
+
+###### Titus 2:3
+
+The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
+
+^kjv-tit-2-3
+
+###### Titus 2:4
+
+That they may teach the young women to be sober, to love their husbands, to love their children,
+
+^kjv-tit-2-4
+
+###### Titus 2:5
+
+To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
+
+^kjv-tit-2-5
+
+###### Titus 2:6
+
+Young men likewise exhort to be sober minded.
+
+^kjv-tit-2-6
+
+###### Titus 2:7
+
+In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
+
+^kjv-tit-2-7
+
+###### Titus 2:8
+
+Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
+
+^kjv-tit-2-8
+
+###### Titus 2:9
+
+Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;
+
+^kjv-tit-2-9
+
+###### Titus 2:10
+
+Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+
+^kjv-tit-2-10
+
+###### Titus 2:11
+
+For the grace of God that bringeth salvation hath appeared to all men,
+
+^kjv-tit-2-11
+
+###### Titus 2:12
+
+Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
+
+^kjv-tit-2-12
+
+###### Titus 2:13
+
+Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+
+^kjv-tit-2-13
+
+###### Titus 2:14
+
+Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
+
+^kjv-tit-2-14
+
+###### Titus 2:15
+
+These things speak, and exhort, and rebuke with all authority. Let no man despise thee.
+
+^kjv-tit-2-15

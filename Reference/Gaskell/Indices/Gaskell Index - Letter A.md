@@ -1,0 +1,292 @@
+---
+type: index
+source_id: gaskell-dictionary-julian-1960
+letter: A
+created: 2026-11-06
+tags:
+  - source/gaskell
+  - index/letter
+---
+
+# Gaskell Index — Letter A
+
+Entries whose normalized head begins with **A** (272).
+
+- Parent: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Stage-1 hub: [[Reference/Gaskell/Context/Gaskell Dictionary Hub|Gaskell Dictionary Hub]]
+
+## Entries
+
+- [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] — `gaskell-1960-entry-aaron-the-high-priest` — EPUB p.24 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/AARU|AARU]] — `gaskell-1960-entry-aaru` — EPUB p.24 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/AAT OF THE WATERS|AAT OF THE WATERS]] — `gaskell-1960-entry-aat-of-the-waters` — EPUB p.24,25 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/AAT REGION|AAT REGION]] — `gaskell-1960-entry-aat-region` — EPUB p.24 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/AAT-SHATET|AAT-SHATET]] — `gaskell-1960-entry-aat-shatet` — EPUB p.24 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/AB, THE HEART|AB, THE HEART]] — `gaskell-1960-entry-ab-the-heart` — EPUB p.25 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] — `gaskell-1960-entry-abel-a-keeper-of-sheep` — EPUB p.25 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/ABERAMENTHO|ABERAMENTHO]] — `gaskell-1960-entry-aberamentho` — EPUB p.25
+- [[Reference/Gaskell/Entries/A/ABLUTION BY USE OF WATER|ABLUTION BY USE OF WATER]] — `gaskell-1960-entry-ablution-by-use-of-water` — EPUB p.25 *(Stage-1 sample note)*
+- [[Reference/Gaskell/Entries/A/ABODE, HOUSE, DWELLING|ABODE, HOUSE, DWELLING]] — `gaskell-1960-entry-abode-house-dwelling` — EPUB p.25
+- [[Reference/Gaskell/Entries/A/ABODE OF CATTLE|ABODE OF CATTLE]] — `gaskell-1960-entry-abode-of-cattle` — EPUB p.25
+- [[Reference/Gaskell/Entries/A/ABORTION PRODUCED BY WISDOM|ABORTION PRODUCED BY WISDOM]] — `gaskell-1960-entry-abortion-produced-by-wisdom` — EPUB p.25,26
+- [[Reference/Gaskell/Entries/A/ABOVE THE EARTH|ABOVE THE EARTH]] — `gaskell-1960-entry-above-the-earth` — EPUB p.26
+- [[Reference/Gaskell/Entries/A/ABRAHAM|ABRAHAM]] — `gaskell-1960-entry-abraham` — EPUB p.26
+- [[Reference/Gaskell/Entries/A/ABRAHAM, ISAAC, AND JACOB|ABRAHAM, ISAAC, AND JACOB]] — `gaskell-1960-entry-abraham-isaac-and-jacob` — EPUB p.26
+- [[Reference/Gaskell/Entries/A/AB-SHAW|AB-SHAW]] — `gaskell-1960-entry-ab-shaw` — EPUB p.27
+- [[Reference/Gaskell/Entries/A/ABSTINENCE|ABSTINENCE]] — `gaskell-1960-entry-abstinence` — EPUB p.27
+- [[Reference/Gaskell/Entries/A/ABSYRTEAN-ISLES, CIRCE, AUSTERITIES, PRACTISING|ABSYRTEAN-ISLES, CIRCE, AUSTERITIES, PRACTISING]] — `gaskell-1960-entry-absyrtean-isles-circe-austerities-practising` — EPUB p.93,94
+- [[Reference/Gaskell/Entries/A/ABSYRTIAN ISLES|ABSYRTIAN ISLES]] — `gaskell-1960-entry-absyrtian-isles` — EPUB p.27
+- [[Reference/Gaskell/Entries/A/ABSYRTUS, BROTHER OF MEDEA|ABSYRTUS, BROTHER OF MEDEA]] — `gaskell-1960-entry-absyrtus-brother-of-medea` — EPUB p.27,28
+- [[Reference/Gaskell/Entries/A/ABTU FISH, OR ANT FISH|ABTU FISH, OR ANT FISH]] — `gaskell-1960-entry-abtu-fish-or-ant-fish` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ABYSS, THE|ABYSS, THE]] — `gaskell-1960-entry-abyss-the` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ACACIA AND SYCAMORE (SHITTIM) TREES|ACACIA AND SYCAMORE (SHITTIM) TREES]] — `gaskell-1960-entry-acacia-and-sycamore-shittim-trees` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ACHAIANS|ACHAIANS]] — `gaskell-1960-entry-achaians` — EPUB p.336
+- [[Reference/Gaskell/Entries/A/ACHAIANS (GREEKS)|ACHAIANS (GREEKS)]] — `gaskell-1960-entry-achaians-greeks` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ACHAIANS, SONS OF THE|ACHAIANS, SONS OF THE]] — `gaskell-1960-entry-achaians-sons-of-the` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ACHAIANS, THE GREATHEARTED|ACHAIANS, THE GREATHEARTED]] — `gaskell-1960-entry-achaians-the-greathearted` — EPUB p.28
+- [[Reference/Gaskell/Entries/A/ACHE, OR PAIN|ACHE, OR PAIN]] — `gaskell-1960-entry-ache-or-pain` — EPUB p.28,29
+- [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]] — `gaskell-1960-entry-achilles-achilles-son-of-peleus-and-thetis` — EPUB p.29
+- [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] — `gaskell-1960-entry-achilles-peleus-father-of-achilles` — EPUB p.572
+- [[Reference/Gaskell/Entries/A/ACRAMENTAL CAKES|ACRAMENTAL CAKES]] — `gaskell-1960-entry-acramental-cakes` — EPUB p.650
+- [[Reference/Gaskell/Entries/A/ACRED TEXT|ACRED TEXT]] — `gaskell-1960-entry-acred-text` — EPUB p.650
+- [[Reference/Gaskell/Entries/A/ACUS, AND RHADAMANTHUS, SONS OF ZEUS|ACUS, AND RHADAMANTHUS, SONS OF ZEUS]] — `gaskell-1960-entry-acus-and-rhadamanthus-sons-of-zeus` — EPUB p.510
+- [[Reference/Gaskell/Entries/A/ADAH AND ZILLAH, WIVES OF LAMECH|ADAH AND ZILLAH, WIVES OF LAMECH]] — `gaskell-1960-entry-adah-and-zillah-wives-of-lamech` — EPUB p.29
+- [[Reference/Gaskell/Entries/A/ADAM, DUAL|ADAM, DUAL]] — `gaskell-1960-entry-adam-dual` — EPUB p.31,32
+- [[Reference/Gaskell/Entries/A/ADAM (HIGHER ASPECT)|ADAM (HIGHER ASPECT)]] — `gaskell-1960-entry-adam-higher-aspect` — EPUB p.30,31
+- [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] — `gaskell-1960-entry-adam-lower-aspect` — EPUB p.29,30
+- [[Reference/Gaskell/Entries/A/ADAMANT|ADAMANT]] — `gaskell-1960-entry-adamant` — EPUB p.32
+- [[Reference/Gaskell/Entries/A/ADAMAS (HIGHER ASPECT)|ADAMAS (HIGHER ASPECT)]] — `gaskell-1960-entry-adamas-higher-aspect` — EPUB p.32
+- [[Reference/Gaskell/Entries/A/ADAMAS (LOWER ASPECT)|ADAMAS (LOWER ASPECT)]] — `gaskell-1960-entry-adamas-lower-aspect` — EPUB p.32
+- [[Reference/Gaskell/Entries/A/ADAM'S DEAD BODY|ADAM'S DEAD BODY]] — `gaskell-1960-entry-adam-s-dead-body` — EPUB p.32
+- [[Reference/Gaskell/Entries/A/ADAPA, THE SON OF EA, OR OF ERIDU|ADAPA, THE SON OF EA, OR OF ERIDU]] — `gaskell-1960-entry-adapa-the-son-of-ea-or-of-eridu` — EPUB p.32,33
+- [[Reference/Gaskell/Entries/A/ADITI|ADITI]] — `gaskell-1960-entry-aditi` — EPUB p.33
+- [[Reference/Gaskell/Entries/A/ADITYA, THE SUN|ADITYA, THE SUN]] — `gaskell-1960-entry-aditya-the-sun` — EPUB p.33
+- [[Reference/Gaskell/Entries/A/ADITYAS, THE TWELVE|ADITYAS, THE TWELVE]] — `gaskell-1960-entry-adityas-the-twelve` — EPUB p.33
+- [[Reference/Gaskell/Entries/A/ADONAI OF THE HEAVENS|ADONAI OF THE HEAVENS]] — `gaskell-1960-entry-adonai-of-the-heavens` — EPUB p.33
+- [[Reference/Gaskell/Entries/A/ADONIS OR TAMMUZ|ADONIS OR TAMMUZ]] — `gaskell-1960-entry-adonis-or-tammuz` — EPUB p.33,34
+- [[Reference/Gaskell/Entries/A/ADOPTION|ADOPTION]] — `gaskell-1960-entry-adoption` — EPUB p.34
+- [[Reference/Gaskell/Entries/A/ADRASTIA, CRETAN NYMPH|ADRASTIA, CRETAN NYMPH]] — `gaskell-1960-entry-adrastia-cretan-nymph` — EPUB p.34
+- [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] — `gaskell-1960-entry-adultery` — EPUB p.34,35
+- [[Reference/Gaskell/Entries/A/ADUMBLA|ADUMBLA]] — `gaskell-1960-entry-adumbla` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/ADVARYA PRIEST|ADVARYA PRIEST]] — `gaskell-1960-entry-advarya-priest` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/ADVERSARY, THE|ADVERSARY, THE]] — `gaskell-1960-entry-adversary-the` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/ADYTUM|ADYTUM]] — `gaskell-1960-entry-adytum` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/AEA|AEA]] — `gaskell-1960-entry-aea` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/AEGAEON, ONE OF THE URANIDS|AEGAEON, ONE OF THE URANIDS]] — `gaskell-1960-entry-aegaeon-one-of-the-uranids` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/AELOPUS, OR NICOTHEA, THE HARPY|AELOPUS, OR NICOTHEA, THE HARPY]] — `gaskell-1960-entry-aelopus-or-nicothea-the-harpy` — EPUB p.35
+- [[Reference/Gaskell/Entries/A/AFRICA, WHOSE FRUIT MADE STRANGERS FORGET THEIR HOME|AFRICA, WHOSE FRUIT MADE STRANGERS FORGET THEIR HOME]] — `gaskell-1960-entry-africa-whose-fruit-made-strangers-forget-their-home` — EPUB p.466
+- [[Reference/Gaskell/Entries/A/AGAMEMNON (ATREIDES), SON OF ATREUS|AGAMEMNON (ATREIDES), SON OF ATREUS]] — `gaskell-1960-entry-agamemnon-atreides-son-of-atreus` — EPUB p.38
+- [[Reference/Gaskell/Entries/A/AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET|AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET]] — `gaskell-1960-entry-agamemnon-ships-of-greeks-pen-and-tablet` — EPUB p.572,573
+- [[Reference/Gaskell/Entries/A/AGATE STONE|AGATE STONE]] — `gaskell-1960-entry-agate-stone` — EPUB p.38
+- [[Reference/Gaskell/Entries/A/AGATHODZMON|AGATHODZMON]] — `gaskell-1960-entry-agathodzmon` — EPUB p.38
+- [[Reference/Gaskell/Entries/A/AGENOR, SON OF POSEIDON|AGENOR, SON OF POSEIDON]] — `gaskell-1960-entry-agenor-son-of-poseidon` — EPUB p.38
+- [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] — `gaskell-1960-entry-agni-the-fire-god` — EPUB p.38,39
+- [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] — `gaskell-1960-entry-agnidhra-priest` — EPUB p.39
+- [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] — `gaskell-1960-entry-agnihotra-house-or-ship` — EPUB p.39
+- [[Reference/Gaskell/Entries/A/AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS|AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS]] — `gaskell-1960-entry-agnishtoma-a-place-of-worship-built-towards-the-cardinal-points` — EPUB p.39,40
+- [[Reference/Gaskell/Entries/A/AGNISHVATTA PITRIS|AGNISHVATTA PITRIS]] — `gaskell-1960-entry-agnishvatta-pitris` — EPUB p.40
+- [[Reference/Gaskell/Entries/A/AGRICULTURALIST, BANDMAN|AGRICULTURALIST, BANDMAN]] — `gaskell-1960-entry-agriculturalist-bandman` — EPUB p.40
+- [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] — `gaskell-1960-entry-agriculture` — EPUB p.40
+- [[Reference/Gaskell/Entries/A/AHANKARA|AHANKARA]] — `gaskell-1960-entry-ahankara` — EPUB p.40,41
+- [[Reference/Gaskell/Entries/A/AHAVANIYA FIRE|AHAVANIYA FIRE]] — `gaskell-1960-entry-ahavaniya-fire` — EPUB p.41
+- [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] — `gaskell-1960-entry-ahriman-or-aharman` — EPUB p.41
+- [[Reference/Gaskell/Entries/A/AHURA RELIGION|AHURA RELIGION]] — `gaskell-1960-entry-ahura-religion` — EPUB p.42
+- [[Reference/Gaskell/Entries/A/AHURA-MAZDA, OR ORMAZD|AHURA-MAZDA, OR ORMAZD]] — `gaskell-1960-entry-ahura-mazda-or-ormazd` — EPUB p.41,42
+- [[Reference/Gaskell/Entries/A/AIAS|AIAS]] — `gaskell-1960-entry-aias` — EPUB p.42
+- [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] — `gaskell-1960-entry-aidoneus-or-hades` — EPUB p.42
+- [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] — `gaskell-1960-entry-ain-soph` — EPUB p.42
+- [[Reference/Gaskell/Entries/A/AIR AND ATHER|AIR AND ATHER]] — `gaskell-1960-entry-air-and-ather` — EPUB p.43
+- [[Reference/Gaskell/Entries/A/AKASA, ETHER-SPACE|AKASA, ETHER-SPACE]] — `gaskell-1960-entry-akasa-ether-space` — EPUB p.43
+- [[Reference/Gaskell/Entries/A/AKERT, THE UNDERWORLD|AKERT, THE UNDERWORLD]] — `gaskell-1960-entry-akert-the-underworld` — EPUB p.44
+- [[Reference/Gaskell/Entries/A/AKERU GODS, OR GODS OF AKERT|AKERU GODS, OR GODS OF AKERT]] — `gaskell-1960-entry-akeru-gods-or-gods-of-akert` — EPUB p.44
+- [[Reference/Gaskell/Entries/A/AKESI CITY|AKESI CITY]] — `gaskell-1960-entry-akesi-city` — EPUB p.44
+- [[Reference/Gaskell/Entries/A/AKRAGAS, THE SACRED CITY|AKRAGAS, THE SACRED CITY]] — `gaskell-1960-entry-akragas-the-sacred-city` — EPUB p.44
+- [[Reference/Gaskell/Entries/A/AKSHASAS, RAKSHASAS|AKSHASAS, RAKSHASAS]] — `gaskell-1960-entry-akshasas-rakshasas` — EPUB p.618
+- [[Reference/Gaskell/Entries/A/ALAGHOM NAOM (MOTHER OF MIND)|ALAGHOM NAOM (MOTHER OF MIND)]] — `gaskell-1960-entry-alaghom-naom-mother-of-mind` — EPUB p.44
+- [[Reference/Gaskell/Entries/A/ALBORDJ, OR ALBURZ, MOUNTAIN|ALBORDJ, OR ALBURZ, MOUNTAIN]] — `gaskell-1960-entry-albordj-or-alburz-mountain` — EPUB p.44,45
+- [[Reference/Gaskell/Entries/A/ALCHEMY|ALCHEMY]] — `gaskell-1960-entry-alchemy` — EPUB p.45,46,47
+- [[Reference/Gaskell/Entries/A/ALCINOUS ALCINOUS, KING OF THE PHAEACIANS|ALCINOUS ALCINOUS, KING OF THE PHAEACIANS]] — `gaskell-1960-entry-alcinous-alcinous-king-of-the-phaeacians` — EPUB p.47
+- [[Reference/Gaskell/Entries/A/ALITY, SOMA-JUICE, 831 YANG YANG AND YIN|ALITY, SOMA-JUICE, 831 YANG YANG AND YIN]] — `gaskell-1960-entry-ality-soma-juice-831-yang-yang-and-yin` — EPUB p.838,839
+- [[Reference/Gaskell/Entries/A/ALMSGIVING OR CHARITY|ALMSGIVING OR CHARITY]] — `gaskell-1960-entry-almsgiving-or-charity` — EPUB p.47
+- [[Reference/Gaskell/Entries/A/ALPHA AND OMEGA|ALPHA AND OMEGA]] — `gaskell-1960-entry-alpha-and-omega` — EPUB p.47,48
+- [[Reference/Gaskell/Entries/A/ALTAR ALTAR, FIRE|ALTAR ALTAR, FIRE]] — `gaskell-1960-entry-altar-altar-fire` — EPUB p.49,50
+- [[Reference/Gaskell/Entries/A/ALTAR GROUND,-THE EARTH|ALTAR GROUND,-THE EARTH]] — `gaskell-1960-entry-altar-ground-the-earth` — EPUB p.48
+- [[Reference/Gaskell/Entries/A/ALTAR OF SACRIFICE|ALTAR OF SACRIFICE]] — `gaskell-1960-entry-altar-of-sacrifice` — EPUB p.48
+- [[Reference/Gaskell/Entries/A/ALTAR OF THE GODDESS|ALTAR OF THE GODDESS]] — `gaskell-1960-entry-altar-of-the-goddess` — EPUB p.48,49
+- [[Reference/Gaskell/Entries/A/AMAKHIU|AMAKHIU]] — `gaskell-1960-entry-amakhiu` — EPUB p.50
+- [[Reference/Gaskell/Entries/A/AMALTHEA, THE GOAT WHO SUCKLED ZEUS|AMALTHEA, THE GOAT WHO SUCKLED ZEUS]] — `gaskell-1960-entry-amalthea-the-goat-who-suckled-zeus` — EPUB p.50
+- [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] — `gaskell-1960-entry-amaravati` — EPUB p.50
+- [[Reference/Gaskell/Entries/A/AMA-TERASU AMA-TERASU, OR TENSHODAIJIN, THE SUN-GODDESS|AMA-TERASU AMA-TERASU, OR TENSHODAIJIN, THE SUN-GODDESS]] — `gaskell-1960-entry-ama-terasu-ama-terasu-or-tenshodaijin-the-sun-goddess` — EPUB p.50,51
+- [[Reference/Gaskell/Entries/A/AMAZEMENT|AMAZEMENT]] — `gaskell-1960-entry-amazement` — EPUB p.51
+- [[Reference/Gaskell/Entries/A/AMAZONS|AMAZONS]] — `gaskell-1960-entry-amazons` — EPUB p.51
+- [[Reference/Gaskell/Entries/A/AMBAS (SCRIPTURES)|AMBAS (SCRIPTURES)]] — `gaskell-1960-entry-ambas-scriptures` — EPUB p.51
+- [[Reference/Gaskell/Entries/A/AMBAYAS RIVERS|AMBAYAS RIVERS]] — `gaskell-1960-entry-ambayas-rivers` — EPUB p.51
+- [[Reference/Gaskell/Entries/A/AMBROSIA, FOOD OF GODS|AMBROSIA, FOOD OF GODS]] — `gaskell-1960-entry-ambrosia-food-of-gods` — EPUB p.51,52
+- [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] — `gaskell-1960-entry-amen-or-amon-the-hidden-one` — EPUB p.52
+- [[Reference/Gaskell/Entries/A/AMENI, THE SON OF MAN|AMENI, THE SON OF MAN]] — `gaskell-1960-entry-ameni-the-son-of-man` — EPUB p.52,53
+- [[Reference/Gaskell/Entries/A/AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT|AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT]] — `gaskell-1960-entry-ament-amenti-or-amentet-in-its-higher-aspect` — EPUB p.53
+- [[Reference/Gaskell/Entries/A/AMERDAD, KING OF VEGETATION|AMERDAD, KING OF VEGETATION]] — `gaskell-1960-entry-amerdad-king-of-vegetation` — EPUB p.53
+- [[Reference/Gaskell/Entries/A/AMITAUGAS COUCH (ENDLESS SPLENDOUR)|AMITAUGAS COUCH (ENDLESS SPLENDOUR)]] — `gaskell-1960-entry-amitaugas-couch-endless-splendour` — EPUB p.53
+- [[Reference/Gaskell/Entries/A/AMMIT MONSTER|AMMIT MONSTER]] — `gaskell-1960-entry-ammit-monster` — EPUB p.53
+- [[Reference/Gaskell/Entries/A/AMRAPHEL, KING OF SHINAR|AMRAPHEL, KING OF SHINAR]] — `gaskell-1960-entry-amraphel-king-of-shinar` — EPUB p.53
+- [[Reference/Gaskell/Entries/A/AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS|AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS]] — `gaskell-1960-entry-amshaspands-or-ameshaspentas-the-immortal-benefactors` — EPUB p.53,54
+- [[Reference/Gaskell/Entries/A/AMULETS AMULETS|AMULETS AMULETS]] — `gaskell-1960-entry-amulets-amulets` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/AMYCUS, KING OF BEBRYCIA|AMYCUS, KING OF BEBRYCIA]] — `gaskell-1960-entry-amycus-king-of-bebrycia` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANAGAMIN|ANAGAMIN]] — `gaskell-1960-entry-anagamin` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANAPHE, THE ILLUMINED ISLAND|ANAPHE, THE ILLUMINED ISLAND]] — `gaskell-1960-entry-anaphe-the-illumined-island` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANAURUS RIVER|ANAURUS RIVER]] — `gaskell-1960-entry-anaurus-river` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANCESTORS, OR PROGENITORS|ANCESTORS, OR PROGENITORS]] — `gaskell-1960-entry-ancestors-or-progenitors` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANCEUS, THE PILOT|ANCEUS, THE PILOT]] — `gaskell-1960-entry-anceus-the-pilot` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANCHORAGE OF THE SHIP|ANCHORAGE OF THE SHIP]] — `gaskell-1960-entry-anchorage-of-the-ship` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/ANCHORITE OR HERMIT|ANCHORITE OR HERMIT]] — `gaskell-1960-entry-anchorite-or-hermit` — EPUB p.54
+- [[Reference/Gaskell/Entries/A/AND GEUSH - URVA (GOSHURUN)|AND GEUSH - URVA (GOSHURUN)]] — `gaskell-1960-entry-and-geush-urva-goshurun` — EPUB p.315
+- [[Reference/Gaskell/Entries/A/AND HARMONY OF SEDATE FACE|AND HARMONY OF SEDATE FACE]] — `gaskell-1960-entry-and-harmony-of-sedate-face` — EPUB p.180
+- [[Reference/Gaskell/Entries/A/AND LIVING, OR INDIVIDUAL SELF|AND LIVING, OR INDIVIDUAL SELF]] — `gaskell-1960-entry-and-living-or-individual-self` — EPUB p.675,676
+- [[Reference/Gaskell/Entries/A/AND PHYSICAL|AND PHYSICAL]] — `gaskell-1960-entry-and-physical` — EPUB p.267
+- [[Reference/Gaskell/Entries/A/AND RELIGION, OR THE RELIGION|AND RELIGION, OR THE RELIGION]] — `gaskell-1960-entry-and-religion-or-the-religion` — EPUB p.628,629
+- [[Reference/Gaskell/Entries/A/AND TANABATA|AND TANABATA]] — `gaskell-1960-entry-and-tanabata` — EPUB p.750
+- [[Reference/Gaskell/Entries/A/AND THE DISTRICT|AND THE DISTRICT]] — `gaskell-1960-entry-and-the-district` — EPUB p.753,754
+- [[Reference/Gaskell/Entries/A/ANDREW, THE DISCIPLE|ANDREW, THE DISCIPLE]] — `gaskell-1960-entry-andrew-the-disciple` — EPUB p.54,55
+- [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] — `gaskell-1960-entry-andromeda-daughter-of-cepheus-and-cassiopea` — EPUB p.55
+- [[Reference/Gaskell/Entries/A/ANDUISUR FOUNTAIN|ANDUISUR FOUNTAIN]] — `gaskell-1960-entry-anduisur-fountain` — EPUB p.55
+- [[Reference/Gaskell/Entries/A/ANGELS|ANGELS]] — `gaskell-1960-entry-angels` — EPUB p.55,56
+- [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] — `gaskell-1960-entry-anger-of-god` — EPUB p.56
+- [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] — `gaskell-1960-entry-angra-mainyu-or-angromainyush` — EPUB p.56
+- [[Reference/Gaskell/Entries/A/ANHAT AND TEHAR OR TANIS|ANHAT AND TEHAR OR TANIS]] — `gaskell-1960-entry-anhat-and-tehar-or-tanis` — EPUB p.56
+- [[Reference/Gaskell/Entries/A/ANICHZZANS|ANICHZZANS]] — `gaskell-1960-entry-anichzzans` — EPUB p.197,198
+- [[Reference/Gaskell/Entries/A/ANIFESTATOR|ANIFESTATOR]] — `gaskell-1960-entry-anifestator` — EPUB p.578
+- [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]] — `gaskell-1960-entry-animals-reared-and-domesticated` — EPUB p.57
+- [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] — `gaskell-1960-entry-animals-tamed-and-wild` — EPUB p.56,57
+- [[Reference/Gaskell/Entries/A/ANNA, THE PROPHETESS|ANNA, THE PROPHETESS]] — `gaskell-1960-entry-anna-the-prophetess` — EPUB p.57
+- [[Reference/Gaskell/Entries/A/ANNAS, CAIAPHAS, PRIESTS AND ELDERS|ANNAS, CAIAPHAS, PRIESTS AND ELDERS]] — `gaskell-1960-entry-annas-caiaphas-priests-and-elders` — EPUB p.600,601
+- [[Reference/Gaskell/Entries/A/ANNAS, THE PRIEST|ANNAS, THE PRIEST]] — `gaskell-1960-entry-annas-the-priest` — EPUB p.57
+- [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] — `gaskell-1960-entry-anointing-with-oil` — EPUB p.57,58
+- [[Reference/Gaskell/Entries/A/AN-RUT-F DISTRICT|AN-RUT-F DISTRICT]] — `gaskell-1960-entry-an-rut-f-district` — EPUB p.58
+- [[Reference/Gaskell/Entries/A/ANTELOPE, SKIN OF BLACK|ANTELOPE, SKIN OF BLACK]] — `gaskell-1960-entry-antelope-skin-of-black` — EPUB p.58
+- [[Reference/Gaskell/Entries/A/ANTHROPOS AND ECCLESIA|ANTHROPOS AND ECCLESIA]] — `gaskell-1960-entry-anthropos-and-ecclesia` — EPUB p.58,59
+- [[Reference/Gaskell/Entries/A/ANTICHRIST|ANTICHRIST]] — `gaskell-1960-entry-antichrist` — EPUB p.59
+- [[Reference/Gaskell/Entries/A/ANTS|ANTS]] — `gaskell-1960-entry-ants` — EPUB p.59
+- [[Reference/Gaskell/Entries/A/ANU, GOD OF THE SKY|ANU, GOD OF THE SKY]] — `gaskell-1960-entry-anu-god-of-the-sky` — EPUB p.59
+- [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] — `gaskell-1960-entry-anubis-son-of-osiris-and-nepthys` — EPUB p.59,60
+- [[Reference/Gaskell/Entries/A/AON, THE THIRTEENTH|AON, THE THIRTEENTH]] — `gaskell-1960-entry-aon-the-thirteenth` — EPUB p.36
+- [[Reference/Gaskell/Entries/A/APARAGITA, PALACE (UNCONQUERABLE)|APARAGITA, PALACE (UNCONQUERABLE)]] — `gaskell-1960-entry-aparagita-palace-unconquerable` — EPUB p.60
+- [[Reference/Gaskell/Entries/A/APE, DOG-HEADED (LOWER ASPECT)|APE, DOG-HEADED (LOWER ASPECT)]] — `gaskell-1960-entry-ape-dog-headed-lower-aspect` — EPUB p.60
+- [[Reference/Gaskell/Entries/A/APEP, THE SERPENT|APEP, THE SERPENT]] — `gaskell-1960-entry-apep-the-serpent` — EPUB p.60,61
+- [[Reference/Gaskell/Entries/A/APES APE AND TIGER NATURE|APES APE AND TIGER NATURE]] — `gaskell-1960-entry-apes-ape-and-tiger-nature` — EPUB p.60
+- [[Reference/Gaskell/Entries/A/APHRODITE, FOAM-SPRUNG|APHRODITE, FOAM-SPRUNG]] — `gaskell-1960-entry-aphrodite-foam-sprung` — EPUB p.61
+- [[Reference/Gaskell/Entries/A/APIAN LAND|APIAN LAND]] — `gaskell-1960-entry-apian-land` — EPUB p.61
+- [[Reference/Gaskell/Entries/A/APIS, BULL OF THE WEST|APIS, BULL OF THE WEST]] — `gaskell-1960-entry-apis-bull-of-the-west` — EPUB p.61
+- [[Reference/Gaskell/Entries/A/APOLLO APOCATEQUIL, SON OF GUAMANSURI|APOLLO APOCATEQUIL, SON OF GUAMANSURI]] — `gaskell-1960-entry-apollo-apocatequil-son-of-guamansuri` — EPUB p.61
+- [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] — `gaskell-1960-entry-apollo-son-of-zeus` — EPUB p.61,62
+- [[Reference/Gaskell/Entries/A/APOSTATES WITH TWO LEGS|APOSTATES WITH TWO LEGS]] — `gaskell-1960-entry-apostates-with-two-legs` — EPUB p.62
+- [[Reference/Gaskell/Entries/A/APOSTLES APOSTLE OR DISCIPLE|APOSTLES APOSTLE OR DISCIPLE]] — `gaskell-1960-entry-apostles-apostle-or-disciple` — EPUB p.62
+- [[Reference/Gaskell/Entries/A/APOSTLES, THE TWELVE|APOSTLES, THE TWELVE]] — `gaskell-1960-entry-apostles-the-twelve` — EPUB p.62,63
+- [[Reference/Gaskell/Entries/A/APPENDAGES|APPENDAGES]] — `gaskell-1960-entry-appendages` — EPUB p.63
+- [[Reference/Gaskell/Entries/A/APPLES OF THE HESPERIDES|APPLES OF THE HESPERIDES]] — `gaskell-1960-entry-apples-of-the-hesperides` — EPUB p.63
+- [[Reference/Gaskell/Entries/A/APSARAS|APSARAS]] — `gaskell-1960-entry-apsaras` — EPUB p.63
+- [[Reference/Gaskell/Entries/A/AQUARIUS, THE ZODIACAL SIGN|AQUARIUS, THE ZODIACAL SIGN]] — `gaskell-1960-entry-aquarius-the-zodiacal-sign` — EPUB p.63,64
+- [[Reference/Gaskell/Entries/A/AQUEDUCT|AQUEDUCT]] — `gaskell-1960-entry-aqueduct` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARA LAKE|ARA LAKE]] — `gaskell-1960-entry-ara-lake` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARABS ENTERING IRAN|ARABS ENTERING IRAN]] — `gaskell-1960-entry-arabs-entering-iran` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARARAT MOUNTAINS|ARARAT MOUNTAINS]] — `gaskell-1960-entry-ararat-mountains` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARBOURS, FESTIVE|ARBOURS, FESTIVE]] — `gaskell-1960-entry-arbours-festive` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARCHED GATEWAYS|ARCHED GATEWAYS]] — `gaskell-1960-entry-arched-gateways` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARCHETYPAL ARCHANGELS|ARCHETYPAL ARCHANGELS]] — `gaskell-1960-entry-archetypal-archangels` — EPUB p.64
+- [[Reference/Gaskell/Entries/A/ARCHETYPAL MAN|ARCHETYPAL MAN]] — `gaskell-1960-entry-archetypal-man` — EPUB p.64,65,66,67
+- [[Reference/Gaskell/Entries/A/ARDEBEHESCHT, KING OF FIRE|ARDEBEHESCHT, KING OF FIRE]] — `gaskell-1960-entry-ardebehescht-king-of-fire` — EPUB p.68
+- [[Reference/Gaskell/Entries/A/ARE OF SAFETY|ARE OF SAFETY]] — `gaskell-1960-entry-are-of-safety` — EPUB p.72
+- [[Reference/Gaskell/Entries/A/ARENA OF LIFE|ARENA OF LIFE]] — `gaskell-1960-entry-arena-of-life` — EPUB p.68
+- [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] — `gaskell-1960-entry-ares-mars` — EPUB p.68,69
+- [[Reference/Gaskell/Entries/A/ARETE, WIFE OF ALCINOUS|ARETE, WIFE OF ALCINOUS]] — `gaskell-1960-entry-arete-wife-of-alcinous` — EPUB p.69
+- [[Reference/Gaskell/Entries/A/ARGIVES|ARGIVES]] — `gaskell-1960-entry-argives` — EPUB p.69
+- [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] — `gaskell-1960-entry-argo-the-ship-of-jason` — EPUB p.69
+- [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] — `gaskell-1960-entry-argonauts` — EPUB p.69,70
+- [[Reference/Gaskell/Entries/A/ARGOS ARGOS (PELASGIC)|ARGOS ARGOS (PELASGIC)]] — `gaskell-1960-entry-argos-argos-pelasgic` — EPUB p.70
+- [[Reference/Gaskell/Entries/A/ARGUS, SON OF PHRIXUS|ARGUS, SON OF PHRIXUS]] — `gaskell-1960-entry-argus-son-of-phrixus` — EPUB p.70
+- [[Reference/Gaskell/Entries/A/ARHAT WITHOUT A COUNTERPART|ARHAT WITHOUT A COUNTERPART]] — `gaskell-1960-entry-arhat-without-a-counterpart` — EPUB p.70
+- [[Reference/Gaskell/Entries/A/ARHATS OF THREE GRADES|ARHATS OF THREE GRADES]] — `gaskell-1960-entry-arhats-of-three-grades` — EPUB p.70
+- [[Reference/Gaskell/Entries/A/ARID|ARID]] — `gaskell-1960-entry-arid` — EPUB p.70
+- [[Reference/Gaskell/Entries/A/ARIES, THE ZODIACAL SIGN|ARIES, THE ZODIACAL SIGN]] — `gaskell-1960-entry-aries-the-zodiacal-sign` — EPUB p.70,71
+- [[Reference/Gaskell/Entries/A/ARIZURA, NECK OF|ARIZURA, NECK OF]] — `gaskell-1960-entry-arizura-neck-of` — EPUB p.71
+- [[Reference/Gaskell/Entries/A/ARJUNA ARITS, SEVEN, - HALLS OR GATEWAYS OF OSIRIS|ARJUNA ARITS, SEVEN, - HALLS OR GATEWAYS OF OSIRIS]] — `gaskell-1960-entry-arjuna-arits-seven-halls-or-gateways-of-osiris` — EPUB p.71
+- [[Reference/Gaskell/Entries/A/ARJUNA, SON OF INDRA AND PRITHA|ARJUNA, SON OF INDRA AND PRITHA]] — `gaskell-1960-entry-arjuna-son-of-indra-and-pritha` — EPUB p.71,72
+- [[Reference/Gaskell/Entries/A/ARK ARK OF BULRUSHES OF THE BABE MOSES|ARK ARK OF BULRUSHES OF THE BABE MOSES]] — `gaskell-1960-entry-ark-ark-of-bulrushes-of-the-babe-moses` — EPUB p.72
+- [[Reference/Gaskell/Entries/A/ARK OF NOAH|ARK OF NOAH]] — `gaskell-1960-entry-ark-of-noah` — EPUB p.72,73
+- [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] — `gaskell-1960-entry-ark-of-the-testimony` — EPUB p.73
+- [[Reference/Gaskell/Entries/A/ARMAITI, THE HOLY SPIRIT|ARMAITI, THE HOLY SPIRIT]] — `gaskell-1960-entry-armaiti-the-holy-spirit` — EPUB p.73
+- [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]] — `gaskell-1960-entry-arms-of-the-body` — EPUB p.73,74
+- [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] — `gaskell-1960-entry-arms-weapons` — EPUB p.73
+- [[Reference/Gaskell/Entries/A/ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY|ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY]] — `gaskell-1960-entry-army-being-formed-of-the-people-of-a-country` — EPUB p.74
+- [[Reference/Gaskell/Entries/A/ARMY OF THE GODS, OR HOSTS OF THE LORD|ARMY OF THE GODS, OR HOSTS OF THE LORD]] — `gaskell-1960-entry-army-of-the-gods-or-hosts-of-the-lord` — EPUB p.74
+- [[Reference/Gaskell/Entries/A/AROUERIS, THE ELDER HORUS|AROUERIS, THE ELDER HORUS]] — `gaskell-1960-entry-aroueris-the-elder-horus` — EPUB p.74
+- [[Reference/Gaskell/Entries/A/ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD|ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD]] — `gaskell-1960-entry-arrest-of-the-sun-moon-and-stars-in-their-courses-before-the-birth-the-holy-chil` — EPUB p.74
+- [[Reference/Gaskell/Entries/A/ARROGANT, ONE OF THE THREE TRIPLE POWERS|ARROGANT, ONE OF THE THREE TRIPLE POWERS]] — `gaskell-1960-entry-arrogant-one-of-the-three-triple-powers` — EPUB p.74,75
+- [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] — `gaskell-1960-entry-arrow-of-the-spirit` — EPUB p.75
+- [[Reference/Gaskell/Entries/A/ARROWS, DIVINE|ARROWS, DIVINE]] — `gaskell-1960-entry-arrows-divine` — EPUB p.75,76
+- [[Reference/Gaskell/Entries/A/ARTEMIS, THE GODDESS|ARTEMIS, THE GODDESS]] — `gaskell-1960-entry-artemis-the-goddess` — EPUB p.76
+- [[Reference/Gaskell/Entries/A/ARTERY|ARTERY]] — `gaskell-1960-entry-artery` — EPUB p.76
+- [[Reference/Gaskell/Entries/A/ARTIFICER, OR ARTISAN|ARTIFICER, OR ARTISAN]] — `gaskell-1960-entry-artificer-or-artisan` — EPUB p.76
+- [[Reference/Gaskell/Entries/A/ARURU, GODDESS|ARURU, GODDESS]] — `gaskell-1960-entry-aruru-goddess` — EPUB p.76
+- [[Reference/Gaskell/Entries/A/ARYAVARTA, THE LAND OF THE ARYAS|ARYAVARTA, THE LAND OF THE ARYAS]] — `gaskell-1960-entry-aryavarta-the-land-of-the-aryas` — EPUB p.76
+- [[Reference/Gaskell/Entries/A/ASAR, SIR, OR ASES|ASAR, SIR, OR ASES]] — `gaskell-1960-entry-asar-sir-or-ases` — EPUB p.76,77
+- [[Reference/Gaskell/Entries/A/ASCENSION OF JESUS|ASCENSION OF JESUS]] — `gaskell-1960-entry-ascension-of-jesus` — EPUB p.77
+- [[Reference/Gaskell/Entries/A/ASCENSION OF OSIRIS|ASCENSION OF OSIRIS]] — `gaskell-1960-entry-ascension-of-osiris` — EPUB p.77,78
+- [[Reference/Gaskell/Entries/A/ASCETICISM, OR AUSTERITY|ASCETICISM, OR AUSTERITY]] — `gaskell-1960-entry-asceticism-or-austerity` — EPUB p.79
+- [[Reference/Gaskell/Entries/A/ASEEYATIC WORLD-THE WORLD OF ACTION|ASEEYATIC WORLD-THE WORLD OF ACTION]] — `gaskell-1960-entry-aseeyatic-world-the-world-of-action` — EPUB p.79
+- [[Reference/Gaskell/Entries/A/ASER (ASH TREE) AND EMBLA (ALDER TREE) UPON THE SEA-SHORE|ASER (ASH TREE) AND EMBLA (ALDER TREE) UPON THE SEA-SHORE]] — `gaskell-1960-entry-aser-ash-tree-and-embla-alder-tree-upon-the-sea-shore` — EPUB p.82
+- [[Reference/Gaskell/Entries/A/ASGARD|ASGARD]] — `gaskell-1960-entry-asgard` — EPUB p.79,80
+- [[Reference/Gaskell/Entries/A/ASHADRA BRICK FOR ALTAR|ASHADRA BRICK FOR ALTAR]] — `gaskell-1960-entry-ashadra-brick-for-altar` — EPUB p.80
+- [[Reference/Gaskell/Entries/A/ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA|ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA]] — `gaskell-1960-entry-asha-vanuhi-or-ashish-vanuhi-daughter-of-ahura-mazda` — EPUB p.80
+- [[Reference/Gaskell/Entries/A/ASHEMOGHA, THE UNGODLY|ASHEMOGHA, THE UNGODLY]] — `gaskell-1960-entry-ashemogha-the-ungodly` — EPUB p.80
+- [[Reference/Gaskell/Entries/A/ASHES AS DUST|ASHES AS DUST]] — `gaskell-1960-entry-ashes-as-dust` — EPUB p.81
+- [[Reference/Gaskell/Entries/A/ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI|ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI]] — `gaskell-1960-entry-ashes-of-plants-scattered-on-the-water-for-the-birth-of-agni` — EPUB p.80,81
+- [[Reference/Gaskell/Entries/A/ASHNYMPHS|ASHNYMPHS]] — `gaskell-1960-entry-ashnymphs` — EPUB p.81
+- [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] — `gaskell-1960-entry-asita-the-sage` — EPUB p.81,82
+- [[Reference/Gaskell/Entries/A/ASO, QUEEN OF ETHIOPIA|ASO, QUEEN OF ETHIOPIA]] — `gaskell-1960-entry-aso-queen-of-ethiopia` — EPUB p.82
+- [[Reference/Gaskell/Entries/A/ASPAHI-ASTRA WHIP|ASPAHI-ASTRA WHIP]] — `gaskell-1960-entry-aspahi-astra-whip` — EPUB p.82
+- [[Reference/Gaskell/Entries/A/ASPIRATION|ASPIRATION]] — `gaskell-1960-entry-aspiration` — EPUB p.82,83
+- [[Reference/Gaskell/Entries/A/ASRAMAS, FOUR LIFE-STAGES|ASRAMAS, FOUR LIFE-STAGES]] — `gaskell-1960-entry-asramas-four-life-stages` — EPUB p.83
+- [[Reference/Gaskell/Entries/A/ASS AND COLT|ASS AND COLT]] — `gaskell-1960-entry-ass-and-colt` — EPUB p.83,84
+- [[Reference/Gaskell/Entries/A/ASS, OR MULE|ASS, OR MULE]] — `gaskell-1960-entry-ass-or-mule` — EPUB p.83
+- [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]] — `gaskell-1960-entry-assembly-of-adjudicating-priests-elders-and-scribes` — EPUB p.84
+- [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] — `gaskell-1960-entry-assembly-of-people` — EPUB p.84
+- [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE BLESSED VIRGIN MARY|ASSUMPTION OF THE BLESSED VIRGIN MARY]] — `gaskell-1960-entry-assumption-of-the-blessed-virgin-mary` — EPUB p.84
+- [[Reference/Gaskell/Entries/A/ASSUMPTION OF THE MADONNA|ASSUMPTION OF THE MADONNA]] — `gaskell-1960-entry-assumption-of-the-madonna` — EPUB p.84,85
+- [[Reference/Gaskell/Entries/A/ASSYRIA IN THE EAST|ASSYRIA IN THE EAST]] — `gaskell-1960-entry-assyria-in-the-east` — EPUB p.85
+- [[Reference/Gaskell/Entries/A/ASTABET|ASTABET]] — `gaskell-1960-entry-astabet` — EPUB p.85
+- [[Reference/Gaskell/Entries/A/ASTARTE, GODDESS OR QUEEN|ASTARTE, GODDESS OR QUEEN]] — `gaskell-1960-entry-astarte-goddess-or-queen` — EPUB p.85
+- [[Reference/Gaskell/Entries/A/ASTER, FOREST|ASTER, FOREST]] — `gaskell-1960-entry-aster-forest` — EPUB p.295
+- [[Reference/Gaskell/Entries/A/ASTOVIDAD, HOTU|ASTOVIDAD, HOTU]] — `gaskell-1960-entry-astovidad-hotu` — EPUB p.85
+- [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] — `gaskell-1960-entry-astral-plane` — EPUB p.85
+- [[Reference/Gaskell/Entries/A/ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING|ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING]] — `gaskell-1960-entry-astral-sheath-or-body-of-the-human-being` — EPUB p.85,86
+- [[Reference/Gaskell/Entries/A/ASTRO-MENTAL AND ASTROPHYSICAL PLANES|ASTRO-MENTAL AND ASTROPHYSICAL PLANES]] — `gaskell-1960-entry-astro-mental-and-astrophysical-planes` — EPUB p.86
+- [[Reference/Gaskell/Entries/A/ASURA (LOWER ASPECT)|ASURA (LOWER ASPECT)]] — `gaskell-1960-entry-asura-lower-aspect` — EPUB p.86,87
+- [[Reference/Gaskell/Entries/A/ASURA, SURA, AHURA (HIGHER ASPECT)|ASURA, SURA, AHURA (HIGHER ASPECT)]] — `gaskell-1960-entry-asura-sura-ahura-higher-aspect` — EPUB p.86
+- [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] — `gaskell-1960-entry-asvins-the-two` — EPUB p.87
+- [[Reference/Gaskell/Entries/A/ATALANTA, THE FAIR MAID|ATALANTA, THE FAIR MAID]] — `gaskell-1960-entry-atalanta-the-fair-maid` — EPUB p.87,88
+- [[Reference/Gaskell/Entries/A/ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN|ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN]] — `gaskell-1960-entry-atea-and-atanua-god-of-light-and-goddess-of-dawn` — EPUB p.88
+- [[Reference/Gaskell/Entries/A/ATEA, LIGHT|ATEA, LIGHT]] — `gaskell-1960-entry-atea-light` — EPUB p.750
+- [[Reference/Gaskell/Entries/A/ATHYR (HATHOR) MONTH|ATHYR (HATHOR) MONTH]] — `gaskell-1960-entry-athyr-hathor-month` — EPUB p.89
+- [[Reference/Gaskell/Entries/A/ATLAS, THE HEAVEN-BEARER|ATLAS, THE HEAVEN-BEARER]] — `gaskell-1960-entry-atlas-the-heaven-bearer` — EPUB p.89
+- [[Reference/Gaskell/Entries/A/ATMA PLANE|ATMA PLANE]] — `gaskell-1960-entry-atma-plane` — EPUB p.89
+- [[Reference/Gaskell/Entries/A/ATOM, PERMANENT ASTRAL|ATOM, PERMANENT ASTRAL]] — `gaskell-1960-entry-atom-permanent-astral` — EPUB p.89
+- [[Reference/Gaskell/Entries/A/ATOMS, PERMANENT, ON EACH PLANE|ATOMS, PERMANENT, ON EACH PLANE]] — `gaskell-1960-entry-atoms-permanent-on-each-plane` — EPUB p.89,90
+- [[Reference/Gaskell/Entries/A/ATONEMENT BY THE BLOOD|ATONEMENT BY THE BLOOD]] — `gaskell-1960-entry-atonement-by-the-blood` — EPUB p.90
+- [[Reference/Gaskell/Entries/A/ATONEMENT OF CHRIST|ATONEMENT OF CHRIST]] — `gaskell-1960-entry-atonement-of-christ` — EPUB p.90,91
+- [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE]] — `gaskell-1960-entry-atreus-and-his-two-sons-leaders-of-the-people` — EPUB p.91
+- [[Reference/Gaskell/Entries/A/ATRI AND HIS WISE SON|ATRI AND HIS WISE SON]] — `gaskell-1960-entry-atri-and-his-wise-son` — EPUB p.91
+- [[Reference/Gaskell/Entries/A/ATROPOS|ATROPOS]] — `gaskell-1960-entry-atropos` — EPUB p.91
+- [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] — `gaskell-1960-entry-attachment-to-the-world-or-the-objects-of-sense` — EPUB p.91,92
+- [[Reference/Gaskell/Entries/A/ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL|ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL]] — `gaskell-1960-entry-attraction-which-builds-up-the-structure-of-the-soul` — EPUB p.92
+- [[Reference/Gaskell/Entries/A/ATZEEL-ATIC WORLD OF EMANATION|ATZEEL-ATIC WORLD OF EMANATION]] — `gaskell-1960-entry-atzeel-atic-world-of-emanation` — EPUB p.92
+- [[Reference/Gaskell/Entries/A/ATZEEL-OOTHIC WORLD|ATZEEL-OOTHIC WORLD]] — `gaskell-1960-entry-atzeel-oothic-world` — EPUB p.92
+- [[Reference/Gaskell/Entries/A/AUDUMBLA, THE COW|AUDUMBLA, THE COW]] — `gaskell-1960-entry-audumbla-the-cow` — EPUB p.92
+- [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] — `gaskell-1960-entry-aurvaito-dih-aurvaito-dih-the-tur` — EPUB p.93
+- [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] — `gaskell-1960-entry-aushedar-or-hushedar` — EPUB p.93
+- [[Reference/Gaskell/Entries/A/AUSONIA|AUSONIA]] — `gaskell-1960-entry-ausonia` — EPUB p.93
+- [[Reference/Gaskell/Entries/A/AVALOKITESVARA|AVALOKITESVARA]] — `gaskell-1960-entry-avalokitesvara` — EPUB p.94
+- [[Reference/Gaskell/Entries/A/AVENGING THE DIVINE SACRIFICE|AVENGING THE DIVINE SACRIFICE]] — `gaskell-1960-entry-avenging-the-divine-sacrifice` — EPUB p.94
+- [[Reference/Gaskell/Entries/A/AVIDYA|AVIDYA]] — `gaskell-1960-entry-avidya` — EPUB p.94
+- [[Reference/Gaskell/Entries/A/AXE|AXE]] — `gaskell-1960-entry-axe` — EPUB p.94,95
+- [[Reference/Gaskell/Entries/A/AZETES, KING OF COLCHIS|AZETES, KING OF COLCHIS]] — `gaskell-1960-entry-azetes-king-of-colchis` — EPUB p.37
+

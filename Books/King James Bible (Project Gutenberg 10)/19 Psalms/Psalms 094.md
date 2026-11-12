@@ -1,0 +1,166 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-94
+book_name: "Psalms"
+chapter: 94
+verses: 23
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 94"
+  - "KJV Psalms 94"
+---
+
+# Psalms 94
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 093|Psalms 93]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 095|Psalms 95]]
+
+## Text
+
+###### Psalms 94:1
+
+O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
+
+^kjv-psa-94-1
+
+###### Psalms 94:2
+
+Lift up thyself, thou judge of the earth: render a reward to the proud.
+
+^kjv-psa-94-2
+
+###### Psalms 94:3
+
+LORD, how long shall the wicked, how long shall the wicked triumph?
+
+^kjv-psa-94-3
+
+###### Psalms 94:4
+
+How long shall they utter and speak hard things? and all the workers of iniquity boast themselves?
+
+^kjv-psa-94-4
+
+###### Psalms 94:5
+
+They break in pieces thy people, O LORD, and afflict thine heritage.
+
+^kjv-psa-94-5
+
+###### Psalms 94:6
+
+They slay the widow and the stranger, and murder the fatherless.
+
+^kjv-psa-94-6
+
+###### Psalms 94:7
+
+Yet they say, The LORD shall not see, neither shall the God of Jacob regard it.
+
+^kjv-psa-94-7
+
+###### Psalms 94:8
+
+Understand, ye brutish among the people: and ye fools, when will ye be wise?
+
+^kjv-psa-94-8
+
+###### Psalms 94:9
+
+He that planted the ear, shall he not hear? he that formed the eye, shall he not see?
+
+^kjv-psa-94-9
+
+###### Psalms 94:10
+
+He that chastiseth the heathen, shall not he correct? he that teacheth man knowledge, shall not he know?
+
+^kjv-psa-94-10
+
+###### Psalms 94:11
+
+The LORD knoweth the thoughts of man, that they are vanity.
+
+^kjv-psa-94-11
+
+###### Psalms 94:12
+
+Blessed is the man whom thou chastenest, O LORD, and teachest him out of thy law;
+
+^kjv-psa-94-12
+
+###### Psalms 94:13
+
+That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.
+
+^kjv-psa-94-13
+
+###### Psalms 94:14
+
+For the LORD will not cast off his people, neither will he forsake his inheritance.
+
+^kjv-psa-94-14
+
+###### Psalms 94:15
+
+But judgment shall return unto righteousness: and all the upright in heart shall follow it.
+
+^kjv-psa-94-15
+
+###### Psalms 94:16
+
+Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
+
+^kjv-psa-94-16
+
+###### Psalms 94:17
+
+Unless the LORD had been my help, my soul had almost dwelt in silence.
+
+^kjv-psa-94-17
+
+###### Psalms 94:18
+
+When I said, My foot slippeth; thy mercy, O LORD, held me up.
+
+^kjv-psa-94-18
+
+###### Psalms 94:19
+
+In the multitude of my thoughts within me thy comforts delight my soul.
+
+^kjv-psa-94-19
+
+###### Psalms 94:20
+
+Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
+
+^kjv-psa-94-20
+
+###### Psalms 94:21
+
+They gather themselves together against the soul of the righteous, and condemn the innocent blood.
+
+^kjv-psa-94-21
+
+###### Psalms 94:22
+
+But the LORD is my defence; and my God is the rock of my refuge.
+
+^kjv-psa-94-22
+
+###### Psalms 94:23
+
+And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off.
+
+^kjv-psa-94-23

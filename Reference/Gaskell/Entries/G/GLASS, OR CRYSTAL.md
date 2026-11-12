@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-glass-or-crystal
+headword: "GLASS, OR CRYSTAL"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GLASS, OR CRYSTAL
+
+- **Entry ID:** `gaskell-1960-entry-glass-or-crystal`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_319`, `page_320`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_319|page_319]], [[Supporting Material/Gaskell/Source Text/page_320|page_320]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GLASS, OR CRYSTAL :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of Truth on the higher mental plane.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Ciry OF GoD` | **unresolved** (review queue) |
+| `CRYSTAL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
+| `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
+| `Four BEINGS` | **unresolved** (review queue) |
+| `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
+| `JERUSALEM` | **candidate (first-segment only)** → possible `JERUSALEM, HEAVENLY` (not linked) |
+| `JCEAN` | **unresolved** (review queue) |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-glass-or-crystal-ocr-body`
+
+```text
+A symbol of Truth on the higher mental plane. ‘*And I saw as it were a glassy sea mingled with fire.”"—Rrv. xv. 2 This represents the Truth and Love of the Spirit, which are the foundation on which the higher qualities of the soul rest. (Osiris is often depicted seated upon a throne which rests upon a ‘‘ glassy sea”™ of water,—Truth.) ‘* What other thing, then do we understand by ‘gold and glass,’ but that heavenly Country, that society of blessed citizens whose hearts mutually one with another at once shine with brightness, and are transparent by pureness; which John in Revelations had beheld, when he said, ‘ And the building of the wall of it was of jasper, and the city was of pure gold like unto clear glass.’’’—St. Grecory, Morals on the Book of Job, Vol Il. p. 377. ** You cannot fail to observe that the writer speaks of God as posseseing the same attributes as the glassy sea which surrounds His throne. He speaks of the nature of God as crystal-clear and yet as filled with fire. I think I see 312 sLORIFYING vhat he means. ‘God is light, and in Tim is no darkness at all.’ But He is so love, the burning flame that is lever quenched and in whose embrace ll foulness and corruption are destroyed. Che sea before the throne is the truth tbout God, and about all being, made nanifest to those who are worthy to xehold it with unclouded vision. ... It s crystal-clear with the light of truth, ind mingled with the flame of eternal ove that streams from the throne itself. Che glassy sea is thus a beautiful figure or the perfect revelation of the glory und the grace of God.’’—R. J. CAMPBELL, serm., The Crystal Sea. See Ciry OF GoD, CRYSTAL, FIRE, Four BEINGS, GOLD, JERUSALEM, JCEAN, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_319|page_319]], [[Supporting Material/Gaskell/Source Text/page_320|page_320]]
+

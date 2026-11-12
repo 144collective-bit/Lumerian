@@ -1,0 +1,64 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-infirmity-spirit-of
+headword: "INFIRMITY, SPIRIT OF"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# INFIRMITY, SPIRIT OF
+
+- **Entry ID:** `gaskell-1960-entry-infirmity-spirit-of`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_398`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_398|page_398]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`INFIRMITY, SPIRIT OF :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> An aspect of a spiritual quality exercised through the astral nature, and which has been misdirected.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
+| `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
+| `Jarmmus` | **unresolved** (review queue) |
+| `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-infirmity-spirit-of-ocr-body`
+
+```text
+An aspect of a spiritual quality exercised through the astral nature, and which has been misdirected. ** And behold a woman which had a x of infirmity eighteen years; and was bowed together, and could in no wise lift herself up. And when Jesus saw her, he called her, and said to her, Woman, thou art loosed from i infirmity.’"’—LukKE xiii. 11, 12. The indwelling Christ is teaching the qualities, when his wisdom attracts a contracted and well-nigh dead affection of the lower nature, i.e. a starved emotion. The Christ responds to the aspiration, and calls the emotion to a higher use, thus releasing it from its bonds and making ite path straight. See ASTRAL PLANE, HEALING (dead), Jarmmus, WOMAN.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_398|page_398]]
+

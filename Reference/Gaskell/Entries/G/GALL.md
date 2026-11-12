@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-gall
+headword: "GALL"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GALL
+
+- **Entry ID:** `gaskell-1960-entry-gall`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_306`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_306|page_306]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GALL :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of a sensuous gratification which would appear nauseous to the higher nature.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Cow's URINE` | **unresolved** (review queue) |
+| `BITTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BITTER|BITTER]] |
+| `VINEGAR` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-gall-ocr-body`
+
+```text
+Symbolic of a sensuous gratification which would appear nauseous to the higher nature. ‘‘ They gave me also gall for my meat ; and in my thirst they gave me vinegar to drink.’’—-Ps. Ixix. 21 The lower qualities, ‘‘ enemies” of the higher, offer the soul the pleasures of the life of the senses to satisfy its cravings for goodness and peace ; and to its thirst for Truth, they offer ignorance which brings sorrow and strife. Not by indulgences from without can the soul be nourished and satisfied. ‘‘T see that thou art in tho yall of bitterness and in the bond of iniquity.” —ACcTS viii. 23. ‘‘ They gave him wine to drink mingled with gall: aud when he had tasted it, he would not drink.”’—Mart. xxvii. 34. See Cow's URINE, BITTER, VINEGAR.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_306|page_306]]
+

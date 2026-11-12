@@ -1,0 +1,100 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-hos
+chapter_id: kjv-hos-11
+book_name: "Hosea"
+chapter: 11
+verses: 12
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Hosea 11"
+  - "KJV Hosea 11"
+---
+
+# Hosea 11
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea|Hosea]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea 010|Hosea 10]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/28 Hosea/Hosea 012|Hosea 12]]
+
+## Text
+
+###### Hosea 11:1
+
+When Israel was a child, then I loved him, and called my son out of Egypt.
+
+^kjv-hos-11-1
+
+###### Hosea 11:2
+
+As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.
+
+^kjv-hos-11-2
+
+###### Hosea 11:3
+
+I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.
+
+^kjv-hos-11-3
+
+###### Hosea 11:4
+
+I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.
+
+^kjv-hos-11-4
+
+###### Hosea 11:5
+
+He shall not return into the land of Egypt, and the Assyrian shall be his king, because they refused to return.
+
+^kjv-hos-11-5
+
+###### Hosea 11:6
+
+And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.
+
+^kjv-hos-11-6
+
+###### Hosea 11:7
+
+And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.
+
+^kjv-hos-11-7
+
+###### Hosea 11:8
+
+How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.
+
+^kjv-hos-11-8
+
+###### Hosea 11:9
+
+I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.
+
+^kjv-hos-11-9
+
+###### Hosea 11:10
+
+They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.
+
+^kjv-hos-11-10
+
+###### Hosea 11:11
+
+They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.
+
+^kjv-hos-11-11
+
+###### Hosea 11:12
+
+Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.
+
+^kjv-hos-11-12

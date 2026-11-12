@@ -1,0 +1,68 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-serpent-ananta-or-sesha
+headword: "SERPENT ANANTA, OR SESHA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SERPENT ANANTA, OR SESHA
+
+- **Entry ID:** `gaskell-1960-entry-serpent-ananta-or-sesha`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_681`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_681|page_681]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SERPENT ANANTA, OR SESHA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Cycle of Life, which is inclusive of the higher and lower forces (serpents) of existence.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BALaRAMA` | **unresolved** (review queue) |
+| `CIRCLE OF EXISTENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CIRCLE OF EXISTENCE|CIRCLE OF EXISTENCE]] |
+| `KHWAN` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KHWAN|KHWAN]] |
+| `LEvVIATHAN` | **unresolved** (review queue) |
+| `MOoOIstT ESSENCE` | **unresolved** (review queue) |
+| `NARAYANA` | **unresolved** (review queue) |
+| `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+| `WATER. -` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-serpent-ananta-or-sesha-ocr-body`
+
+```text
+A symbol of the Cycle of Life, which is inclusive of the higher and lower forces (serpents) of existence. ‘‘ Narayana, with whom Vishnu _ is identified, the oldest of all beings, who, carried on the coils of Sesha or Ananta, the serpent ‘without end,’ the symbol of eternity, appeared at the beginning of things floating above the primordial lag 7 cerca Religions of India, p- : The Spirit of Truth, from whom arises the Higher Self (Vishnu), calls into being in time and space the cycle of Life (Sesha) at the commencement of e solar universe. Then the Spirit of Truth broods over the expanse of the Divine Reality. ‘** Moreover, the Naasenes say that the Serpent is the Moist Essence—just as did Thales the Milesian.’’—Hrrerotytvs, Philosophumena. Here the cycle of Life is identified with the primordial reality—Truth (celestial water). See BALaRAMA, CIRCLE OF EXISTENCE, KHWAN, LEvVIATHAN, MOoOIstT ESSENCE, NARAYANA, VISHNU, WATER. -
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_681|page_681]]
+

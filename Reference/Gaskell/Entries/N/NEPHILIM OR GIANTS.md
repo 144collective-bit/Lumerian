@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-nephilim-or-giants
+headword: "NEPHILIM OR GIANTS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NEPHILIM OR GIANTS
+
+- **Entry ID:** `gaskell-1960-entry-nephilim-or-giants`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_536`, `page_537`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_536|page_536]], [[Supporting Material/Gaskell/Source Text/page_537|page_537]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NEPHILIM OR GIANTS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Early physical human forms; mostly Lemurian, some Atlantean.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `CHILDREN OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHILDREN OF MEN|CHILDREN OF MEN]] |
+| `DAUGHTERS` | **unresolved** (review queue) |
+| `GaDERINE DEMONIACS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GADERINE DEMONIACS|GADERINE DEMONIACS]] |
+| `Giants` | **candidate (first-segment only)** → possible `GIANTS, NEPHILIM, MIGHTY MEN` (not linked) |
+| `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-nephilim-or-giants-ocr-body`
+
+```text
+Early physical human forms; mostly Lemurian, some Atlantean. In these rugged forms mind is firet aroused. **The Nephilim were in the earth in those days, and also after that, when the sons of God came in unto the daughters of men, and they bare children to i —GEeN. vi. 4. These Nephilim are the monsters which are pre-human and semianimal. They correspond in soul life to the early attempts at Selfrealisation, which are possible only NEPHTHYS through the agency of such clumsy modes of expression as are appropriate to the sub-human kingdoms of nature. The ideals of the minds, or spiritual egos (sons of God), conjoined to the processes of the lower planes, give rise to the ‘children of men,’’ the progeny of mind, or mental —astro-physical forms. It is as the cosmic forces work through the personality while guided from the individuality, that the ‘“‘sons of men” are born, that is, the successive incarnations are engendered. ‘Like a beautiful seedling hidden away within a rough and ugly husk, through which it must break in order to achieve itself, our divine selfhood has been hidden and compressed within material conditions. Consciousness has had to use first one kind of vehicle and then another, and as the vehicle so has been the quality of the self-expression.” — R. J. Campsett, Serm., Solidarity of Spiritual Hxzperience. See CHILDREN OF MEN, DAUGHTERS, GaDERINE DEMONIACS, Giants, SONS OF GOD.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_536|page_536]], [[Supporting Material/Gaskell/Source Text/page_537|page_537]]
+

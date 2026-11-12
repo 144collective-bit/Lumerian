@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-giving-a-cup-of-water
+headword: "GIVING A CUP OF WATER"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# GIVING A CUP OF WATER
+
+- **Entry ID:** `gaskell-1960-entry-giving-a-cup-of-water`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_319`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`GIVING A CUP OF WATER :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Significant of presenting truth in a mental form as expressed by the giver.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Cup` | **candidate (first-segment only)** → possible `CUP, DOUBLE` (not linked) |
+| `Discrete` | **unresolved** (review queue) |
+| `Hyias` | **unresolved** (review queue) |
+| `PIrcHer` | **unresolved** (review queue) |
+| `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-giving-a-cup-of-water-ocr-body`
+
+```text
+Significant of presenting truth in a mental form as expressed by the giver. ‘“And whosoever shal] give to drink unto one of these little ones a cup of cold water only, in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.’’—Mar. x. 42. The mental quality that shall convey truth to an incarnating ego (little one), while identifying itself with a disciplined emotion, shall be transmuted to a higher plane. See Cup, Discrete, Hyias, PIrcHer, WATER.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_319|page_319]]
+

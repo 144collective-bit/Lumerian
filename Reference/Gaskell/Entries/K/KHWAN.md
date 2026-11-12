@@ -1,0 +1,67 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-khwan
+headword: "KHWAN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# KHWAN
+
+- **Entry ID:** `gaskell-1960-entry-khwan`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_439`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_439|page_439]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`KHWAN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of matter, the complement of spirit.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `INVOLUTION` | **unresolved** (review queue) |
+| `KHIEN` | **unresolved** (review queue) |
+| `MarTrer` | **unresolved** (review queue) |
+| `MivyA` | **unresolved** (review queue) |
+| `Morser (divine)` | **unresolved** (review queue) |
+| `Sprair` | **unresolved** (review queue) |
+| `Yano` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-khwan-ocr-body`
+
+```text
+A symbol of matter, the complement of spirit. ** Complete is the great and originating capacity dicated by Khwan! All owe to it their birth ;—it receives obediently the influences of Heaven. Khwan in its largeness supports and contains all things. Its excellent enna matches the unlimited power of Khien. Its comprehension is wide and its brightness great. The various things obtain by it their full sae aaa "—-Ys King, Appendix I. § 1, Ch. 2. Matter in its ae is completely adapted to be the means by which the originating ideas can be expressed in forms. All forms and qualities owe to it their manifestation. It is fully receptive of the modifications of Spirit. Matter in its extension throughout the lower planes is the basis and container of all expressions of life. Its receptive capacity entirely corresponds with the unlimited energy of Spirit acting through it. “Any good that God bestows ws richer with our experience of it—it never grows poorer; any truth He reveals is seen to be larger as we gain closer acquaintance with it,—it never grows less.”"—R. J. CAMPBELL, Serm., Our Eternal Glory. See INVOLUTION, KHIEN, MarTrer, MivyA, Morser (divine), Sprair, Yano.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_439|page_439]]
+

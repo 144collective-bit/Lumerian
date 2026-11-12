@@ -1,0 +1,178 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-rom
+chapter_id: kjv-rom-4
+book_name: "Romans"
+chapter: 4
+verses: 25
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Romans 4"
+  - "KJV Romans 4"
+---
+
+# Romans 4
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans|Romans]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans 003|Romans 3]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/45 Romans/Romans 005|Romans 5]]
+
+## Text
+
+###### Romans 4:1
+
+What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
+
+^kjv-rom-4-1
+
+###### Romans 4:2
+
+For if Abraham were justified by works, he hath whereof to glory; but not before God.
+
+^kjv-rom-4-2
+
+###### Romans 4:3
+
+For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
+
+^kjv-rom-4-3
+
+###### Romans 4:4
+
+Now to him that worketh is the reward not reckoned of grace, but of debt.
+
+^kjv-rom-4-4
+
+###### Romans 4:5
+
+But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.
+
+^kjv-rom-4-5
+
+###### Romans 4:6
+
+Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
+
+^kjv-rom-4-6
+
+###### Romans 4:7
+
+Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
+
+^kjv-rom-4-7
+
+###### Romans 4:8
+
+Blessed is the man to whom the Lord will not impute sin.
+
+^kjv-rom-4-8
+
+###### Romans 4:9
+
+Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
+
+^kjv-rom-4-9
+
+###### Romans 4:10
+
+How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
+
+^kjv-rom-4-10
+
+###### Romans 4:11
+
+And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:
+
+^kjv-rom-4-11
+
+###### Romans 4:12
+
+And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.
+
+^kjv-rom-4-12
+
+###### Romans 4:13
+
+For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.
+
+^kjv-rom-4-13
+
+###### Romans 4:14
+
+For if they which are of the law be heirs, faith is made void, and the promise made of none effect:
+
+^kjv-rom-4-14
+
+###### Romans 4:15
+
+Because the law worketh wrath: for where no law is, there is no transgression.
+
+^kjv-rom-4-15
+
+###### Romans 4:16
+
+Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
+
+^kjv-rom-4-16
+
+###### Romans 4:17
+
+(As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were.
+
+^kjv-rom-4-17
+
+###### Romans 4:18
+
+Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be.
+
+^kjv-rom-4-18
+
+###### Romans 4:19
+
+And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah’s womb:
+
+^kjv-rom-4-19
+
+###### Romans 4:20
+
+He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
+
+^kjv-rom-4-20
+
+###### Romans 4:21
+
+And being fully persuaded that, what he had promised, he was able also to perform.
+
+^kjv-rom-4-21
+
+###### Romans 4:22
+
+And therefore it was imputed to him for righteousness.
+
+^kjv-rom-4-22
+
+###### Romans 4:23
+
+Now it was not written for his sake alone, that it was imputed to him;
+
+^kjv-rom-4-23
+
+###### Romans 4:24
+
+But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
+
+^kjv-rom-4-24
+
+###### Romans 4:25
+
+Who was delivered for our offences, and was raised again for our justification.
+
+^kjv-rom-4-25

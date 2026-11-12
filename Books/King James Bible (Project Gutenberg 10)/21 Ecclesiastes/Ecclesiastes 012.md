@@ -1,0 +1,112 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-ecc
+chapter_id: kjv-ecc-12
+book_name: "Ecclesiastes"
+chapter: 12
+verses: 14
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Ecclesiastes 12"
+  - "KJV Ecclesiastes 12"
+---
+
+# Ecclesiastes 12
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes|Ecclesiastes]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/21 Ecclesiastes/Ecclesiastes 011|Ecclesiastes 11]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/22 Song of Solomon/Song of Solomon 001|Song of Solomon 1]]
+
+## Text
+
+###### Ecclesiastes 12:1
+
+Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
+
+^kjv-ecc-12-1
+
+###### Ecclesiastes 12:2
+
+While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
+
+^kjv-ecc-12-2
+
+###### Ecclesiastes 12:3
+
+In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
+
+^kjv-ecc-12-3
+
+###### Ecclesiastes 12:4
+
+And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
+
+^kjv-ecc-12-4
+
+###### Ecclesiastes 12:5
+
+Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
+
+^kjv-ecc-12-5
+
+###### Ecclesiastes 12:6
+
+Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
+
+^kjv-ecc-12-6
+
+###### Ecclesiastes 12:7
+
+Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
+
+^kjv-ecc-12-7
+
+###### Ecclesiastes 12:8
+
+Vanity of vanities, saith the preacher; all is vanity.
+
+^kjv-ecc-12-8
+
+###### Ecclesiastes 12:9
+
+And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.
+
+^kjv-ecc-12-9
+
+###### Ecclesiastes 12:10
+
+The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.
+
+^kjv-ecc-12-10
+
+###### Ecclesiastes 12:11
+
+The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
+
+^kjv-ecc-12-11
+
+###### Ecclesiastes 12:12
+
+And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
+
+^kjv-ecc-12-12
+
+###### Ecclesiastes 12:13
+
+Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
+
+^kjv-ecc-12-13
+
+###### Ecclesiastes 12:14
+
+For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
+
+^kjv-ecc-12-14

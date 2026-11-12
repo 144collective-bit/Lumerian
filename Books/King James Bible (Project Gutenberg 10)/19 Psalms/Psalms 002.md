@@ -1,0 +1,100 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-2
+book_name: "Psalms"
+chapter: 2
+verses: 12
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 2"
+  - "KJV Psalms 2"
+---
+
+# Psalms 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 001|Psalms 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 003|Psalms 3]]
+
+## Text
+
+###### Psalms 2:1
+
+Why do the heathen rage, and the people imagine a vain thing?
+
+^kjv-psa-2-1
+
+###### Psalms 2:2
+
+The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,
+
+^kjv-psa-2-2
+
+###### Psalms 2:3
+
+Let us break their bands asunder, and cast away their cords from us.
+
+^kjv-psa-2-3
+
+###### Psalms 2:4
+
+He that sitteth in the heavens shall laugh: the LORD shall have them in derision.
+
+^kjv-psa-2-4
+
+###### Psalms 2:5
+
+Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
+
+^kjv-psa-2-5
+
+###### Psalms 2:6
+
+Yet have I set my king upon my holy hill of Zion.
+
+^kjv-psa-2-6
+
+###### Psalms 2:7
+
+I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.
+
+^kjv-psa-2-7
+
+###### Psalms 2:8
+
+Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
+
+^kjv-psa-2-8
+
+###### Psalms 2:9
+
+Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
+
+^kjv-psa-2-9
+
+###### Psalms 2:10
+
+Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
+
+^kjv-psa-2-10
+
+###### Psalms 2:11
+
+Serve the LORD with fear, and rejoice with trembling.
+
+^kjv-psa-2-11
+
+###### Psalms 2:12
+
+Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
+
+^kjv-psa-2-12

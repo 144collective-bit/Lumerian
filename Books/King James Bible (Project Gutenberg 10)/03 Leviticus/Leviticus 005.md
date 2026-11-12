@@ -1,0 +1,142 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-lev
+chapter_id: kjv-lev-5
+book_name: "Leviticus"
+chapter: 5
+verses: 19
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Leviticus 5"
+  - "KJV Leviticus 5"
+---
+
+# Leviticus 5
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus|Leviticus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus 004|Leviticus 4]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/03 Leviticus/Leviticus 006|Leviticus 6]]
+
+## Text
+
+###### Leviticus 5:1
+
+And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.
+
+^kjv-lev-5-1
+
+###### Leviticus 5:2
+
+Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.
+
+^kjv-lev-5-2
+
+###### Leviticus 5:3
+
+Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty.
+
+^kjv-lev-5-3
+
+###### Leviticus 5:4
+
+Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.
+
+^kjv-lev-5-4
+
+###### Leviticus 5:5
+
+And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:
+
+^kjv-lev-5-5
+
+###### Leviticus 5:6
+
+And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
+
+^kjv-lev-5-6
+
+###### Leviticus 5:7
+
+And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.
+
+^kjv-lev-5-7
+
+###### Leviticus 5:8
+
+And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:
+
+^kjv-lev-5-8
+
+###### Leviticus 5:9
+
+And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.
+
+^kjv-lev-5-9
+
+###### Leviticus 5:10
+
+And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.
+
+^kjv-lev-5-10
+
+###### Leviticus 5:11
+
+But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.
+
+^kjv-lev-5-11
+
+###### Leviticus 5:12
+
+Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering.
+
+^kjv-lev-5-12
+
+###### Leviticus 5:13
+
+And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest’s, as a meat offering.
+
+^kjv-lev-5-13
+
+###### Leviticus 5:14
+
+And the LORD spake unto Moses, saying,
+
+^kjv-lev-5-14
+
+###### Leviticus 5:15
+
+If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.
+
+^kjv-lev-5-15
+
+###### Leviticus 5:16
+
+And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
+
+^kjv-lev-5-16
+
+###### Leviticus 5:17
+
+And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist it not, yet is he guilty, and shall bear his iniquity.
+
+^kjv-lev-5-17
+
+###### Leviticus 5:18
+
+And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.
+
+^kjv-lev-5-18
+
+###### Leviticus 5:19
+
+It is a trespass offering: he hath certainly trespassed against the LORD.
+
+^kjv-lev-5-19

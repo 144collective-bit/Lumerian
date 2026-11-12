@@ -1,0 +1,36 @@
+---
+type: bible-gaskell-bridge
+tier: explicit_citation
+evidence_quality: explicit_citation_parser_validated_unreviewed
+gaskell_entry_id: gaskell-1960-entry-book-of-the-lord-god
+bible_ref: "Revelation 5:7"
+created: 2026-11-06
+tags:
+  - crossref/bible-gaskell
+  - tier/citation
+---
+
+# BOOK OF THE LORD GOD → Revelation 5:7
+
+**Tier:** `explicit_citation` — reference resolution is **not** a claim that Gaskell’s wording equals the KJV text, nor that the symbols agree.
+
+## Gaskell source
+
+- Entry: [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]]
+- Entry file: `Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD.md`
+- OCR page note: [[Supporting Material/Gaskell/Source Text/page_128|page_128]]
+- Raw locator(s): `Rev. v. 7` @650
+
+### Exact OCR snippet (window)
+
+> d he taketh it out of the ight hand of him that sat on the throne.”’ —Rev. v. 7. Only the Higher Self who had laid down his life in Self-limitation c
+
+## Bible targets (installed PG#10 KJV)
+
+- [[Books/King James Bible (Project Gutenberg 10)/66 Revelation/Revelation 005#^kjv-rev-5-7|Revelation 5:7]]
+
+## Provenance notes
+
+- Parser-validated against installed verse/chapter IDs.
+- Evidence quality: `explicit_citation_parser_validated_unreviewed`.
+- Do not treat this bridge as interpretive agreement.

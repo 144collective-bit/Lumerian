@@ -1,0 +1,76 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-82
+book_name: "Psalms"
+chapter: 82
+verses: 8
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 82"
+  - "KJV Psalms 82"
+---
+
+# Psalms 82
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 081|Psalms 81]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 083|Psalms 83]]
+
+## Text
+
+###### Psalms 82:1
+
+God standeth in the congregation of the mighty; he judgeth among the gods.
+
+^kjv-psa-82-1
+
+###### Psalms 82:2
+
+How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+
+^kjv-psa-82-2
+
+###### Psalms 82:3
+
+Defend the poor and fatherless: do justice to the afflicted and needy.
+
+^kjv-psa-82-3
+
+###### Psalms 82:4
+
+Deliver the poor and needy: rid them out of the hand of the wicked.
+
+^kjv-psa-82-4
+
+###### Psalms 82:5
+
+They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+
+^kjv-psa-82-5
+
+###### Psalms 82:6
+
+I have said, Ye are gods; and all of you are children of the most High.
+
+^kjv-psa-82-6
+
+###### Psalms 82:7
+
+But ye shall die like men, and fall like one of the princes.
+
+^kjv-psa-82-7
+
+###### Psalms 82:8
+
+Arise, O God, judge the earth: for thou shalt inherit all nations.
+
+^kjv-psa-82-8

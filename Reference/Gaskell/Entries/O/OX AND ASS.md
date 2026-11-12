@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-ox-and-ass
+headword: "OX AND ASS"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# OX AND ASS
+
+- **Entry ID:** `gaskell-1960-entry-ox-and-ass`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_562`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_562|page_562]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`OX AND ASS :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbols of higher activities operating upon qualities of the lower planes.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AGRICULTURE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AGRICULTURE|AGRICULTURE]] |
+| `PLOUGHING` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLOUGHING|PLOUGHING]] |
+| `REAPING` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-ox-and-ass-ocr-body`
+
+```text
+Symbols of higher activities operating upon qualities of the lower planes. ‘*Ox,—the image of patient labour and eas hl energy.” —P. FAIRBAIRN, Typology, Vol. I. p. 263. ‘* What are the ozen plowing, except we understand our serious thoughts, while they wear the heart with diligent tillage, yield abundant fruits of increase ? And what do we take to be the asses feeding beside them, but the simple emotions of the soul, which whilst carefully withheld from straying in double ways, we feed in the free pasture of purity ? ’’— GREGORY THE GREAT, Morals on the Book of Job, Vol. I. p. 114. See AGRICULTURE, PLOUGHING, REAPING.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_562|page_562]]
+

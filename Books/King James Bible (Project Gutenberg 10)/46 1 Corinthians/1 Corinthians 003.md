@@ -1,0 +1,166 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-1co
+chapter_id: kjv-1co-3
+book_name: "1 Corinthians"
+chapter: 3
+verses: 23
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "1 Corinthians 3"
+  - "KJV 1 Corinthians 3"
+---
+
+# 1 Corinthians 3
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians|1 Corinthians]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians 002|1 Corinthians 2]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/46 1 Corinthians/1 Corinthians 004|1 Corinthians 4]]
+
+## Text
+
+###### 1 Corinthians 3:1
+
+And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
+
+^kjv-1co-3-1
+
+###### 1 Corinthians 3:2
+
+I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
+
+^kjv-1co-3-2
+
+###### 1 Corinthians 3:3
+
+For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
+
+^kjv-1co-3-3
+
+###### 1 Corinthians 3:4
+
+For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
+
+^kjv-1co-3-4
+
+###### 1 Corinthians 3:5
+
+Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
+
+^kjv-1co-3-5
+
+###### 1 Corinthians 3:6
+
+I have planted, Apollos watered; but God gave the increase.
+
+^kjv-1co-3-6
+
+###### 1 Corinthians 3:7
+
+So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+
+^kjv-1co-3-7
+
+###### 1 Corinthians 3:8
+
+Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
+
+^kjv-1co-3-8
+
+###### 1 Corinthians 3:9
+
+For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
+
+^kjv-1co-3-9
+
+###### 1 Corinthians 3:10
+
+According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
+
+^kjv-1co-3-10
+
+###### 1 Corinthians 3:11
+
+For other foundation can no man lay than that is laid, which is Jesus Christ.
+
+^kjv-1co-3-11
+
+###### 1 Corinthians 3:12
+
+Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
+
+^kjv-1co-3-12
+
+###### 1 Corinthians 3:13
+
+Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is.
+
+^kjv-1co-3-13
+
+###### 1 Corinthians 3:14
+
+If any man’s work abide which he hath built thereupon, he shall receive a reward.
+
+^kjv-1co-3-14
+
+###### 1 Corinthians 3:15
+
+If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
+
+^kjv-1co-3-15
+
+###### 1 Corinthians 3:16
+
+Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
+
+^kjv-1co-3-16
+
+###### 1 Corinthians 3:17
+
+If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.
+
+^kjv-1co-3-17
+
+###### 1 Corinthians 3:18
+
+Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
+
+^kjv-1co-3-18
+
+###### 1 Corinthians 3:19
+
+For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.
+
+^kjv-1co-3-19
+
+###### 1 Corinthians 3:20
+
+And again, The Lord knoweth the thoughts of the wise, that they are vain.
+
+^kjv-1co-3-20
+
+###### 1 Corinthians 3:21
+
+Therefore let no man glory in men. For all things are yours;
+
+^kjv-1co-3-21
+
+###### 1 Corinthians 3:22
+
+Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
+
+^kjv-1co-3-22
+
+###### 1 Corinthians 3:23
+
+And ye are Christ’s; and Christ is God’s.
+
+^kjv-1co-3-23

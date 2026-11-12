@@ -1,0 +1,172 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-pro
+chapter_id: kjv-pro-18
+book_name: "Proverbs"
+chapter: 18
+verses: 24
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Proverbs 18"
+  - "KJV Proverbs 18"
+---
+
+# Proverbs 18
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 017|Proverbs 17]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 019|Proverbs 19]]
+
+## Text
+
+###### Proverbs 18:1
+
+Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
+
+^kjv-pro-18-1
+
+###### Proverbs 18:2
+
+A fool hath no delight in understanding, but that his heart may discover itself.
+
+^kjv-pro-18-2
+
+###### Proverbs 18:3
+
+When the wicked cometh, then cometh also contempt, and with ignominy reproach.
+
+^kjv-pro-18-3
+
+###### Proverbs 18:4
+
+The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook.
+
+^kjv-pro-18-4
+
+###### Proverbs 18:5
+
+It is not good to accept the person of the wicked, to overthrow the righteous in judgment.
+
+^kjv-pro-18-5
+
+###### Proverbs 18:6
+
+A fool’s lips enter into contention, and his mouth calleth for strokes.
+
+^kjv-pro-18-6
+
+###### Proverbs 18:7
+
+A fool’s mouth is his destruction, and his lips are the snare of his soul.
+
+^kjv-pro-18-7
+
+###### Proverbs 18:8
+
+The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
+
+^kjv-pro-18-8
+
+###### Proverbs 18:9
+
+He also that is slothful in his work is brother to him that is a great waster.
+
+^kjv-pro-18-9
+
+###### Proverbs 18:10
+
+The name of the LORD is a strong tower: the righteous runneth into it, and is safe.
+
+^kjv-pro-18-10
+
+###### Proverbs 18:11
+
+The rich man’s wealth is his strong city, and as an high wall in his own conceit.
+
+^kjv-pro-18-11
+
+###### Proverbs 18:12
+
+Before destruction the heart of man is haughty, and before honour is humility.
+
+^kjv-pro-18-12
+
+###### Proverbs 18:13
+
+He that answereth a matter before he heareth it, it is folly and shame unto him.
+
+^kjv-pro-18-13
+
+###### Proverbs 18:14
+
+The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
+
+^kjv-pro-18-14
+
+###### Proverbs 18:15
+
+The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.
+
+^kjv-pro-18-15
+
+###### Proverbs 18:16
+
+A man’s gift maketh room for him, and bringeth him before great men.
+
+^kjv-pro-18-16
+
+###### Proverbs 18:17
+
+He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.
+
+^kjv-pro-18-17
+
+###### Proverbs 18:18
+
+The lot causeth contentions to cease, and parteth between the mighty.
+
+^kjv-pro-18-18
+
+###### Proverbs 18:19
+
+A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.
+
+^kjv-pro-18-19
+
+###### Proverbs 18:20
+
+A man’s belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.
+
+^kjv-pro-18-20
+
+###### Proverbs 18:21
+
+Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.
+
+^kjv-pro-18-21
+
+###### Proverbs 18:22
+
+Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.
+
+^kjv-pro-18-22
+
+###### Proverbs 18:23
+
+The poor useth intreaties; but the rich answereth roughly.
+
+^kjv-pro-18-23
+
+###### Proverbs 18:24
+
+A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.
+
+^kjv-pro-18-24

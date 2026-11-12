@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-man-without-woman
+headword: "MAN WITHOUT WOMAN"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# MAN WITHOUT WOMAN
+
+- **Entry ID:** `gaskell-1960-entry-man-without-woman`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_483`, `page_484`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_483|page_483]], [[Supporting Material/Gaskell/Source Text/page_484|page_484]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`MAN WITHOUT WOMAN :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of mind subject to desire and uninfluenced by emotion (woman).
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Catrie` | **unresolved** (review queue) |
+| `Corpsr` | **unresolved** (review queue) |
+| `Dune` | **unresolved** (review queue) |
+| `Man Marrnrace` | **unresolved** (review queue) |
+| `Nasu` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-man-without-woman-ocr-body`
+
+```text
+A symbol of mind subject to desire and uninfluenced by emotion (woman). ‘*Man by himself must not carry a corpse or he will be defiled by the Nasu. The penalty for ing @ corpse is that @ man shall be placed whats there is least water and fewest plants, and on ground 476 MAN least passed over by flocks and herds.""— Vendidad, Ill. 8. B. of £. The carrying of a corpse by one man alone signifies the attempt to allow the intellect (man) to function alone in the personality (corpse). Mind acting without emotion, without love, is calculated to defile a soul, for it becomes captive to desire (Nasu) ; and the consequence of such functioning would be a landing in ignorance and error, that is, in a state of mind where truth (water) and goodness (plants) are scarcest, and there are fewest gleams of wisdom through the lack of virtues (flocks) and moralised emotions (herds). ‘*The power of man to stand between abstract truth upon the one side, and the concrete facts of life upon the other, comes from the co-existence in his human nature of two different powers, without the possession of both of which no man possesses a complete humanity. One of these powers is the power of knowing, and the other is the power of loving. . « » From this it will immediately follow that the more perfectly these two constituents of human nature meet, the more absolutely they are proportioned to each other, and the more completely they are blended, so much the more ready will the human nature be for the fulfilment of every function of humanity. And if, as we have seen, one of the loftiest functions of humanity is to stand between the absolute truth and the world’s needs, and to transmit the one in such way that it can really reach and help the other, then it will also follow that the more perfectly the knowing faculty and the loving faculty meet in any man, the more that man’s life will become a transmitter and interpreter of truth to other men.’’—PHILLIPs Brooks, Serm., Visions and Tasks. ‘*It is often asserted that emotion is modified only by emotion, that reason without emotion remains a dead letter; and this is certainly the case. The dictates of reason, therefore, must be combined with love, which we may call the positive norm of emotion; then will reason become effective. The ideal must become the object of love ; then will this supreme affection—enthusiasm for the ideal— work its effect upon the other forms. Such enthusiasm cannot, of course, be manufactured, it is something free— the unforced persistent glow of love for rfection, the practical interest in the deal of reason. ... Finally, the ideal comes to us in the impressions wrought by God within the soul. The mental impression in question, therefore, results not from any external object, but from our being, eid ehprriacts by our reason’s own ideal, or by the Divine spirit within MANALA us.""—A. Dorner, Emotions, Ency. Rel. and Ethics. See Catrie, Corpsr, Dune, Man Marrnrace, Nasu,
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_483|page_483]], [[Supporting Material/Gaskell/Source Text/page_484|page_484]]
+

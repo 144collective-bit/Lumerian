@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-10
+book_name: "Psalms"
+chapter: 10
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 10"
+  - "KJV Psalms 10"
+---
+
+# Psalms 10
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 009|Psalms 9]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 011|Psalms 11]]
+
+## Text
+
+###### Psalms 10:1
+
+Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?
+
+^kjv-psa-10-1
+
+###### Psalms 10:2
+
+The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
+
+^kjv-psa-10-2
+
+###### Psalms 10:3
+
+For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the LORD abhorreth.
+
+^kjv-psa-10-3
+
+###### Psalms 10:4
+
+The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
+
+^kjv-psa-10-4
+
+###### Psalms 10:5
+
+His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.
+
+^kjv-psa-10-5
+
+###### Psalms 10:6
+
+He hath said in his heart, I shall not be moved: for I shall never be in adversity.
+
+^kjv-psa-10-6
+
+###### Psalms 10:7
+
+His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.
+
+^kjv-psa-10-7
+
+###### Psalms 10:8
+
+He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
+
+^kjv-psa-10-8
+
+###### Psalms 10:9
+
+He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
+
+^kjv-psa-10-9
+
+###### Psalms 10:10
+
+He croucheth, and humbleth himself, that the poor may fall by his strong ones.
+
+^kjv-psa-10-10
+
+###### Psalms 10:11
+
+He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.
+
+^kjv-psa-10-11
+
+###### Psalms 10:12
+
+Arise, O LORD; O God, lift up thine hand: forget not the humble.
+
+^kjv-psa-10-12
+
+###### Psalms 10:13
+
+Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.
+
+^kjv-psa-10-13
+
+###### Psalms 10:14
+
+Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
+
+^kjv-psa-10-14
+
+###### Psalms 10:15
+
+Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.
+
+^kjv-psa-10-15
+
+###### Psalms 10:16
+
+The LORD is King for ever and ever: the heathen are perished out of his land.
+
+^kjv-psa-10-16
+
+###### Psalms 10:17
+
+LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:
+
+^kjv-psa-10-17
+
+###### Psalms 10:18
+
+To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
+
+^kjv-psa-10-18

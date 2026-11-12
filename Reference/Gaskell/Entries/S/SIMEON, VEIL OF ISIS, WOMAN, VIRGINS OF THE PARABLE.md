@@ -1,0 +1,71 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-simeon-veil-of-isis-woman-virgins-of-the-parable
+headword: "SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE
+
+- **Entry ID:** `gaskell-1960-entry-simeon-veil-of-isis-woman-virgins-of-the-parable`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_802`, `page_803`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_802|page_802]], [[Supporting Material/Gaskell/Source Text/page_803|page_803]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of ten faculties of perception.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Curist` | **unresolved** (review queue) |
+| `Door (shut)` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
+| `Five (number)` | **candidate (first-segment only)** → possible `FIVE, NUMBER` (not linked) |
+| `Frme_p` | **unresolved** (review queue) |
+| `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
+| `KInapom or HEAVEN` | **unresolved** (review queue) |
+| `Lamp` | **unresolved** (review queue) |
+| `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
+| `NIGHT` | **candidate (first-segment only)** → possible `NIGHT, PRIMORDIAL` (not linked) |
+| `O11` | **unresolved** (review queue) |
+| `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-simeon-veil-of-isis-woman-virgins-of-the-parable-ocr-body`
+
+```text
+Symbolic of ten faculties of perception. The five wise virgins signify five inner means of contacting higher planes. The five foolish virgins signify the five senses. ‘** Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. And five of them were foolish and five were wise. For the foolish, when they took their lamps, took no oil with them; but the wise took oil in their vessels with their Jamps.’”-—Mart. xxv. 1-4. The state of consciousness on higher planes is foreshadowed in the process of achieving that state. The “ bridegroom ”’ is the Christ, and the marriage is the union of Wisdom and Love, the bride being the condition which is implied in the soul’s arriving at the higher state. The five senses have not the substance of love and Truth wherewith the Spirit feeds the Mume of life in the causal-vehicle (lamp). The five higher faculties are possessed of it. When the period of union arrives, the higher faculties, being spiritual, take their part in it, but the senses remain outside and are of no VIRGO avail; they are referred to the means that science provides for the gathering of facts and approaching the Truth. ‘* The virgins are divided into two equal numbers of five, inasmuch as the one class preserved the five senses, which most people consider the gates of wisdom, pure and undefiled by sins; but the others, on the contrary, corrupted them by multitudes of sins. . . . Now the oil represents wisdom and _ righteousness ; for while the soul rains down unsparingly, and pours forth these things upon the body, the light of virtue is kindled unquenchably.’—Mrrnopius, Banquet of the Ten Virgins, Ch. III. The virgins all slumbered because they were unconscious of the highest happenings. ‘‘ But at midnight there is a cry, behold the Bridegroom ! Come ye forth to meet him.’”’ Here, ‘* midnight’ signifies the period of attainment of the required conditions when the union of Higher and Lower can take place. It is then that Christ appears to the wondering and adoring soul. The thrill of His mighty presence calls on all the faculties of the vehicles of the ego to bestir themselves. They rouse from their sleep and look around. See Curist, Door (shut), Five (number), Frme_p, FIRE, KInapom or HEAVEN, Lamp, MARRIAGE, NIGHT, O11, PARABLE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_802|page_802]], [[Supporting Material/Gaskell/Source Text/page_803|page_803]]
+

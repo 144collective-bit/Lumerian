@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-isa
+chapter_id: kjv-isa-59
+book_name: "Isaiah"
+chapter: 59
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Isaiah 59"
+  - "KJV Isaiah 59"
+---
+
+# Isaiah 59
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah|Isaiah]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 058|Isaiah 58]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/23 Isaiah/Isaiah 060|Isaiah 60]]
+
+## Text
+
+###### Isaiah 59:1
+
+Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
+
+^kjv-isa-59-1
+
+###### Isaiah 59:2
+
+But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
+
+^kjv-isa-59-2
+
+###### Isaiah 59:3
+
+For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
+
+^kjv-isa-59-3
+
+###### Isaiah 59:4
+
+None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.
+
+^kjv-isa-59-4
+
+###### Isaiah 59:5
+
+They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
+
+^kjv-isa-59-5
+
+###### Isaiah 59:6
+
+Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
+
+^kjv-isa-59-6
+
+###### Isaiah 59:7
+
+Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.
+
+^kjv-isa-59-7
+
+###### Isaiah 59:8
+
+The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
+
+^kjv-isa-59-8
+
+###### Isaiah 59:9
+
+Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.
+
+^kjv-isa-59-9
+
+###### Isaiah 59:10
+
+We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men.
+
+^kjv-isa-59-10
+
+###### Isaiah 59:11
+
+We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
+
+^kjv-isa-59-11
+
+###### Isaiah 59:12
+
+For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
+
+^kjv-isa-59-12
+
+###### Isaiah 59:13
+
+In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
+
+^kjv-isa-59-13
+
+###### Isaiah 59:14
+
+And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
+
+^kjv-isa-59-14
+
+###### Isaiah 59:15
+
+Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment.
+
+^kjv-isa-59-15
+
+###### Isaiah 59:16
+
+And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
+
+^kjv-isa-59-16
+
+###### Isaiah 59:17
+
+For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloak.
+
+^kjv-isa-59-17
+
+###### Isaiah 59:18
+
+According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
+
+^kjv-isa-59-18
+
+###### Isaiah 59:19
+
+So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.
+
+^kjv-isa-59-19
+
+###### Isaiah 59:20
+
+And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD.
+
+^kjv-isa-59-20
+
+###### Isaiah 59:21
+
+As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.
+
+^kjv-isa-59-21

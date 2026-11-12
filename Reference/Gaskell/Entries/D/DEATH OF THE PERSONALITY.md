@@ -1,0 +1,72 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-death-of-the-personality
+headword: "DEATH OF THE PERSONALITY"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# DEATH OF THE PERSONALITY
+
+- **Entry ID:** `gaskell-1960-entry-death-of-the-personality`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_211`, `page_212`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_211|page_211]], [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`DEATH OF THE PERSONALITY :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the perfecting of the lower nature of the soul, which implies its dissolution and the rise of the human consciousness to the higher mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Avam (lower)` | **unresolved** (review queue) |
+| `CAUSAL-BODY` | **candidate (ambiguous first-segment)** → CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA; CAUSAL-BODY, SARIRA (not linked) |
+| `CorpsE` | **candidate (first-segment only)** → possible `CORPSE, OR DEAD (HUMAN)` (not linked) |
+| `Drab` | **unresolved** (review queue) |
+| `Fat` | **unresolved** (review queue) |
+| `INCARNATION OF sOULs` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
+| `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
+| `JESUS (mortal)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
+| `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
+| `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+| `RESURRECTION` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-death-of-the-personality-ocr-body`
+
+```text
+A symbol of the perfecting of the lower nature of the soul, which implies its dissolution and the rise of the human consciousness to the higher mind. The personality is always said to be mortal. It disappears as it unites with the immortal Individuality at the end of the cycle. 204 DEATH ** For sinco by man came death, by man came also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive.”— 1 Cor. xv. 21, 22. ** Blessed are the dead which die in the Lord from henceforth.’ Rev. xiv. 13. For since by the fall of mind (man) came obscuration of the Spirit, by the rise of mind comes also the return to spiritual life. For as in the lower mind or personality (Adam) there is no spiritual life, so in the higher mind ruled by the Spirit shall the individualities have immortality. Blessed are the egos whose personalities are perfected and disappear in their individualities from henceforth. The Personality is represented in the whole series of changing incarnations of one ego. When the Personality is perfected and dissolves, the causal body is also perfected and becomes the seat of the ego in the manifest order. See Avam (lower), CAUSAL-BODY, CorpsE, Drab, Fat, INCARNATION OF sOULs, INDIVIDUALITY, JESUS (mortal), Lazarus, MAN, PERSONALITY, RESURRECTION.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_211|page_211]], [[Supporting Material/Gaskell/Source Text/page_212|page_212]]
+

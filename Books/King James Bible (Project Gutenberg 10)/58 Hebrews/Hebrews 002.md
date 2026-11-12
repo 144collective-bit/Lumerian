@@ -1,0 +1,139 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-heb
+chapter_id: kjv-heb-2
+book_name: "Hebrews"
+chapter: 2
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Hebrews 2"
+  - "KJV Hebrews 2"
+---
+
+# Hebrews 2
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews|Hebrews]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews 001|Hebrews 1]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/58 Hebrews/Hebrews 003|Hebrews 3]]
+
+## Text
+
+> [!note] Unnumbered preface / superscription (before Hebrews 2:9)
+> But now we see not yet all things put under him. But now we see not yet all things put under him.
+
+###### Hebrews 2:1
+
+Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
+
+^kjv-heb-2-1
+
+###### Hebrews 2:2
+
+For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
+
+^kjv-heb-2-2
+
+###### Hebrews 2:3
+
+How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;
+
+^kjv-heb-2-3
+
+###### Hebrews 2:4
+
+God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?
+
+^kjv-heb-2-4
+
+###### Hebrews 2:5
+
+For unto the angels hath he not put in subjection the world to come, whereof we speak.
+
+^kjv-heb-2-5
+
+###### Hebrews 2:6
+
+But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man that thou visitest him?
+
+^kjv-heb-2-6
+
+###### Hebrews 2:7
+
+Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:
+
+^kjv-heb-2-7
+
+###### Hebrews 2:8
+
+Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him.
+
+^kjv-heb-2-8
+
+###### Hebrews 2:9
+
+But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
+
+^kjv-heb-2-9
+
+###### Hebrews 2:10
+
+For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
+
+^kjv-heb-2-10
+
+###### Hebrews 2:11
+
+For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
+
+^kjv-heb-2-11
+
+###### Hebrews 2:12
+
+Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.
+
+^kjv-heb-2-12
+
+###### Hebrews 2:13
+
+And again, I will put my trust in him. And again, Behold I and the children which God hath given me.
+
+^kjv-heb-2-13
+
+###### Hebrews 2:14
+
+Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
+
+^kjv-heb-2-14
+
+###### Hebrews 2:15
+
+And deliver them who through fear of death were all their lifetime subject to bondage.
+
+^kjv-heb-2-15
+
+###### Hebrews 2:16
+
+For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
+
+^kjv-heb-2-16
+
+###### Hebrews 2:17
+
+Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.
+
+^kjv-heb-2-17
+
+###### Hebrews 2:18
+
+For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
+
+^kjv-heb-2-18

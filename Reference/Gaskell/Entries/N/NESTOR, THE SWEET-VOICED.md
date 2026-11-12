@@ -1,0 +1,70 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-nestor-the-sweet-voiced
+headword: "NESTOR, THE SWEET-VOICED"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NESTOR, THE SWEET-VOICED
+
+- **Entry ID:** `gaskell-1960-entry-nestor-the-sweet-voiced`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_538`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_538|page_538]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NESTOR, THE SWEET-VOICED :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the spiritual emotion of Faith-Hope in the higher mind.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `FarrH` | **unresolved** (review queue) |
+| `GREECE` | **unresolved** (review queue) |
+| `HARMONY` | **unresolved** (review queue) |
+| `Honey` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
+| `Music` | **candidate (first-segment only)** → possible `MUSIC, OR MELODY` (not linked) |
+| `Panpora` | **unresolved** (review queue) |
+| `Pytus` | **unresolved** (review queue) |
+| `Sinerna` | **unresolved** (review queue) |
+| `Sweet` | **candidate (first-segment only)** → possible `SWEET, BITTER, SHARP, HOT` (not linked) |
+| `ToNcveE` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-nestor-the-sweet-voiced-ocr-body`
+
+```text
+A symbol of the spiritual emotion of Faith-Hope in the higher mind. ‘* Therefore to them arose the sweetvoiced Nestor, the harmonious orator of the Pylians, from whoee tongue flowed language sweeter than honey.'’—Iliad, Bk. I. On account of the submission of the lower emotions to the higher ideal, these emotions became responsive to the charms of Faith-Hope in the higher mentality (Pylus), which spiritual quality answers to the higher opposite of the lower emotions. ** As long as man has not yet attained unto that which is perfect, and is still in pursuit of it, hope must be regarded as the greatest, for it is even the true vital flame of faith, as well as of love and of all higher existence. This divine hope is even the fruit-bearing principle and the fructification of the immortal soul by the Holy Spirit of Eternal Truth— the luminous centre and focus of grace, where the dark and discordant soul is illuminated and restored to unison with iteelf and with God.’’—ScHLeaeL, The Philosophy of Life, Eng. Trans., p. 118. See FarrH, GREECE, HARMONY, Honey, Music, Panpora, Pytus, Sinerna, Sweet, ToNcveE.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_538|page_538]]
+

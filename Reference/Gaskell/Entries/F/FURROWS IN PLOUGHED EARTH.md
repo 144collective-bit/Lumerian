@@ -1,0 +1,65 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-furrows-in-ploughed-earth
+headword: "FURROWS IN PLOUGHED EARTH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# FURROWS IN PLOUGHED EARTH
+
+- **Entry ID:** `gaskell-1960-entry-furrows-in-ploughed-earth`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_305`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_305|page_305]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`FURROWS IN PLOUGHED EARTH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> This emblem signifies the lower nature (earth) prepared by the operation of the Spirit (the husbandman) to yield the higher emotions (fruit) from the germination and growth of the seed (centres of spirit) sown in it.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `ERECTHEUS` | **candidate (first-segment only)** → possible `ERECTHEUS, SON OF HEPHASTUS` (not linked) |
+| `GROUND RIDGES` | **unresolved** (review queue) |
+| `LaksHmi` | **unresolved** (review queue) |
+| `Rrpcss` | **unresolved** (review queue) |
+| `Sita` | **candidate (first-segment only)** → possible `SITA, WIFE OF RAMA` (not linked) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-furrows-in-ploughed-earth-ocr-body`
+
+```text
+This emblem signifies the lower nature (earth) prepared by the operation of the Spirit (the husbandman) to yield the higher emotions (fruit) from the germination and growth of the seed (centres of spirit) sown in it. ‘The river of God is full of water: thou providest them corn, when thou hast so prepared the earth. Thou waterest her furrows abundantly; thou settlest the ridges thereof: thou makest it soft with showers; thou blessest the springing thereof.’’—Ps. Ixv. 9, 10. Life and Truth suffice for the growth of the soul. The qualities are endowed with the spiritual germ (corn) when the lower nature is ready to receive it. Truth is bestowed on the disciplined lower nature, and aspirations (ridges) are fostered from above. Truth (showers) makes the lower nature pervious to spirit, and the Divine grace ensures the springing up of the higher emotions. ‘*The wife of Rama was called Sita because not born from a woman, but from a furrow (sIta) while Janaka (the king) was ploughing.” ** Sita is Lakshmi.’’—Mon. WILLiams, Indian Wisdom, pp. 348, 360. **J (Lakshmi) reside ...in earth recently thrown up.’’—Institutes of Viehnu, XCIX. 13. Lakshmi, like all other great god298 GADERINE desses, is a symbol of buddhi—the wisdom nature. Buddhi is the fount of the higher emotions. Sita stands for the higher emotion nature which is the manifestation of buddhi in the human soul. Hence Sita (buddhi actual) is born in a “ furrow,’” and Lakshmi (buddhi potential) resides in the ridges of earth thrown up. See ERECTHEUS, GROUND RIDGES, LaksHmi, Rrpcss, Sita.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_305|page_305]]
+

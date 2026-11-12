@@ -1,0 +1,69 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-nights-three-after-death
+headword: "NIGHTS, THREE AFTER DEATH"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# NIGHTS, THREE AFTER DEATH
+
+- **Entry ID:** `gaskell-1960-entry-nights-three-after-death`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_543`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_543|page_543]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`NIGHTS, THREE AFTER DEATH :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of three states on the astral and lower mental planes, in the intervening period between incarnations.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Briss` | **unresolved** (review queue) |
+| `DEvacHAN` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
+| `GatTHa (ush.` | **unresolved** (review queue) |
+| `kam.)` | **unresolved** (review queue) |
+| `Heap` | **unresolved** (review queue) |
+| `INCARNATION OF SOULS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]] |
+| `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+| `REINCARNATION` | **unresolved** (review queue) |
+| `SLEEPING. NILE RIVER ;` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-nights-three-after-death-ocr-body`
+
+```text
+Symbolic of three states on the astral and lower mental planes, in the intervening period between incarnations. ** When a righ passes ; where dwells his ak that night ? “Then said Ahuramazda: ‘It sits down in the vicinity of the head, chanting the Gatha Ushtavaiti, imploring blessedness. ... That night the soul experiences as much of pleasure as all that which it had as a living exiatence’’’ (Hadokht Nask).—M. Have, Essays, Rel. of Parats, p. 220. When the soul is projected beyond the physical plane, into what condition does it enter? It returns inward towards the mental plane, and recapitulates subjectively, as in dreams, the nature of the emotions and desires to which it had habituated itself. And its enjoyment is proportionate to ite capacity for realisation of bliss when incarnated. (The second and third “nights” of the soul signify the arrival of the consciousness at the various sub-planes of the mental plane which contribute to the devachanic state.) See Briss, DEvacHAN, GatTHa (ush., kam.), Heap, INCARNATION OF SOULS, Man (righteous), REINCARNATION, SLEEPING. NILE RIVER ;
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_543|page_543]]
+

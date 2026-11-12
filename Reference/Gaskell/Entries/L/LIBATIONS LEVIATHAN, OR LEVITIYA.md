@@ -1,0 +1,77 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-libations-leviathan-or-levitiya
+headword: "LIBATIONS LEVIATHAN, OR LEVITIYA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# LIBATIONS LEVIATHAN, OR LEVITIYA
+
+- **Entry ID:** `gaskell-1960-entry-libations-leviathan-or-levitiya`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_457`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_457|page_457]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`LIBATIONS LEVIATHAN, OR LEVITIYA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the Cycle of Life in the quaternary; or the nature of things in time and space.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `BEHEMOTH` | **candidate (first-segment only)** → possible `BEHEMOTH, THE GREAT BULL` (not linked) |
+| `CAPRICORNTS` | **unresolved** (review queue) |
+| `Crrotz` | **unresolved** (review queue) |
+| `CrocoprmE` | **unresolved** (review queue) |
+| `Hrap` | **unresolved** (review queue) |
+| `He` | **unresolved** (review queue) |
+| `Kawan` | **unresolved** (review queue) |
+| `MANvANTARA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANVANTARA|MANVANTARA]] |
+| `Meat` | **candidate (ambiguous first-segment)** → MEAT, HOLY; MEAT, OR FOOD (not linked) |
+| `NECE` | **unresolved** (review queue) |
+| `Ockan` | **unresolved** (review queue) |
+| `PEOPLE` | **candidate (first-segment only)** → possible `PEOPLE, MEN AND WOMEN` (not linked) |
+| `SERPENT (anants)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+| `Sian` | **unresolved** (review queue) |
+| `WHALE (Jonah)` | **unresolved** (review queue) |
+| `WILDERNESS` | **candidate (first-segment only)** → possible `WILDERNESS, OR DESERT` (not linked) |
+| `ZODIAC` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-libations-leviathan-or-levitiya-ocr-body`
+
+```text
+A symbol of the Cycle of Life in the quaternary; or the nature of things in time and space. **In his neck remaineth strength, and sorrow is turned into joy before him (leviathan).”—Jos xli. 22. In the purified emotions (the neek) there is the power to overcome the lower desires, and when these ar conquered, suffering will give place to bliss at the termination of the cycle. ** Thou breakest the heads of leviathen in pieces, and gavest them to be meat to the people inhabiting the wilderness.”— Ps. lxxiv. 14. This refers to the intelligence developed in each period of a manvantara, which becomes sustenance to the qualities of the desire-mental order, and these in their turn shall be transmuted by the Spirit (see Isa. xxvii. ]). ‘** All ancient Fathers of the Church of Christ agree in recognizing a secondary and spiritual sense in this d iption (Jos xli.) The Leviathan of Scripture at of the Enemies of God and Hs ple. ... Proceeding in this sense that Satan is called the dragon), the Ancient Expositors see here a series of uestions which cannot be answered affirmative by the natural man, but are solved triumphantly by Christ, the Second Adam, the Drvrivz Jos, Who con: quered by suffering, and Who laid hold on the Dragon, that old Serpent, and bound him, and cast him into the bottonleas pit.’"—WoRDSWORTH, Bible, Job, p. 97. ** We must ask about this (leviathan); whether, when the saints were living 6 blessed life apart from matter and from any body, the dragon (leviathan), falling from the pure life, became fit to be bound in matter and in a body, so that the Lord could say, ‘ This is the beginning of the creation of God, made for His ange! to mock at.’ ’’—ORIGEN, Comm. on Joha, Bk. I. § 17. See BEHEMOTH, CAPRICORNTS, Crrotz, CrocoprmE, Hrap, He, Kawan, MANvANTARA, Meat, NECE, Ockan, PEOPLE, SERPENT (anants), Sian, WHALE (Jonah), WILDERNESS, ZODIAC.
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_457|page_457]]
+

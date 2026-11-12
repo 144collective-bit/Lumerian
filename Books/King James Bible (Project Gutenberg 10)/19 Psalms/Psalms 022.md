@@ -1,0 +1,214 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-22
+book_name: "Psalms"
+chapter: 22
+verses: 31
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 22"
+  - "KJV Psalms 22"
+---
+
+# Psalms 22
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 021|Psalms 21]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 023|Psalms 23]]
+
+## Text
+
+###### Psalms 22:1
+
+My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+
+^kjv-psa-22-1
+
+###### Psalms 22:2
+
+O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent.
+
+^kjv-psa-22-2
+
+###### Psalms 22:3
+
+But thou art holy, O thou that inhabitest the praises of Israel.
+
+^kjv-psa-22-3
+
+###### Psalms 22:4
+
+Our fathers trusted in thee: they trusted, and thou didst deliver them.
+
+^kjv-psa-22-4
+
+###### Psalms 22:5
+
+They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
+
+^kjv-psa-22-5
+
+###### Psalms 22:6
+
+But I am a worm, and no man; a reproach of men, and despised of the people.
+
+^kjv-psa-22-6
+
+###### Psalms 22:7
+
+All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
+
+^kjv-psa-22-7
+
+###### Psalms 22:8
+
+He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.
+
+^kjv-psa-22-8
+
+###### Psalms 22:9
+
+But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.
+
+^kjv-psa-22-9
+
+###### Psalms 22:10
+
+I was cast upon thee from the womb: thou art my God from my mother’s belly.
+
+^kjv-psa-22-10
+
+###### Psalms 22:11
+
+Be not far from me; for trouble is near; for there is none to help.
+
+^kjv-psa-22-11
+
+###### Psalms 22:12
+
+Many bulls have compassed me: strong bulls of Bashan have beset me round.
+
+^kjv-psa-22-12
+
+###### Psalms 22:13
+
+They gaped upon me with their mouths, as a ravening and a roaring lion.
+
+^kjv-psa-22-13
+
+###### Psalms 22:14
+
+I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
+
+^kjv-psa-22-14
+
+###### Psalms 22:15
+
+My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
+
+^kjv-psa-22-15
+
+###### Psalms 22:16
+
+For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
+
+^kjv-psa-22-16
+
+###### Psalms 22:17
+
+I may tell all my bones: they look and stare upon me.
+
+^kjv-psa-22-17
+
+###### Psalms 22:18
+
+They part my garments among them, and cast lots upon my vesture.
+
+^kjv-psa-22-18
+
+###### Psalms 22:19
+
+But be not thou far from me, O LORD: O my strength, haste thee to help me.
+
+^kjv-psa-22-19
+
+###### Psalms 22:20
+
+Deliver my soul from the sword; my darling from the power of the dog.
+
+^kjv-psa-22-20
+
+###### Psalms 22:21
+
+Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
+
+^kjv-psa-22-21
+
+###### Psalms 22:22
+
+I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
+
+^kjv-psa-22-22
+
+###### Psalms 22:23
+
+Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
+
+^kjv-psa-22-23
+
+###### Psalms 22:24
+
+For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
+
+^kjv-psa-22-24
+
+###### Psalms 22:25
+
+My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.
+
+^kjv-psa-22-25
+
+###### Psalms 22:26
+
+The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.
+
+^kjv-psa-22-26
+
+###### Psalms 22:27
+
+All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.
+
+^kjv-psa-22-27
+
+###### Psalms 22:28
+
+For the kingdom is the LORD’s: and he is the governor among the nations.
+
+^kjv-psa-22-28
+
+###### Psalms 22:29
+
+All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
+
+^kjv-psa-22-29
+
+###### Psalms 22:30
+
+A seed shall serve him; it shall be accounted to the Lord for a generation.
+
+^kjv-psa-22-30
+
+###### Psalms 22:31
+
+They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
+
+^kjv-psa-22-31

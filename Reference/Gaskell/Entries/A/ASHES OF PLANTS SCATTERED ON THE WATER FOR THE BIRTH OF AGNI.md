@@ -1,0 +1,63 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-ashes-of-plants-scattered-on-the-water-for-the-birth-of-agni
+headword: "ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI
+
+- **Entry ID:** `gaskell-1960-entry-ashes-of-plants-scattered-on-the-water-for-the-birth-of-agni`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_80`, `page_81`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_80|page_80]], [[Supporting Material/Gaskell/Source Text/page_81|page_81]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> A symbol of the preparation for the birth of the indwelling Self in the lower nature of the soul.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `AGNI` | **candidate (first-segment only)** → possible `AGNI, THE FIRE-GOD` (not linked) |
+| `(lower)` | **unresolved** (review queue) |
+| `WarrR (higher)` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-ashes-of-plants-scattered-on-the-water-for-the-birth-of-agni-ocr-body`
+
+```text
+A symbol of the preparation for the birth of the indwelling Self in the lower nature of the soul. *“While meditating, the gods saw this,—‘ Let us take the fire-pan down to the water; for the water is the foundation of this universe: having settled it thereon, we shall reproduce from out of the water what there is of Agni’s nature in this heap of ashes.’—They then took it down and threw the ashes into the water; and in like manner does this Sacrificer now take it down to the water. *O divine waters, receive ye these ashes, and put them in a soft and fragrant ASHES lace !’—that being consumed, matter run ite course. ... waters, even as a mother bears her son.’ ‘In the waters, O Agni, is thy womb, - -- being in the plants’ womb thou art born again. Thou art the child of the herbs, the child of the trees, the child of all that is, O Agni, thou art the child of the waters,—the child of 7 universe.’ ’’—Sata. Bréh., VI. 8, 2, The quiescent higher nature (the gods) then perceived that the time had arrived for God to manifest directly in the lower nature. The latent soul (fire-pan) is therefore to be brought down, as it were, to tho astral plane (water); for the Divine Reality operates through the astral nature as a foundation for evolution. The soul, or higher nature, being firmly connected with the lower, there will then be reproduced from the astral nature what there is of spiritual quality in the latent matter of the soul (the ashes). So the higher and the lower natures were united for the expression of the Spirit. In like manner the individuality now emanates the ego into the lower vehicles at every incarnation. O probationary existence, receive ye these latent higher qualities and place them in a mental condition of gentleness and purity, that becoming raised from latency, there may be no further need for the life of matter on the lower planes! Bear ye the germ of Spirit in the purified lower nature, even as the virgin mother bears her Divine Son. In the purified emotions (waters) is the matrix of the Christ. In the transfigured emotionnature (plants’ womb) the Christ is re-born. Thou O Christ-soul! art the child of the affections and aspirations, and of all nature. For, O indwelling God! thou art brought forth from out of the waters of life and the phenomenal realm. See AGNI, (lower), WarrR (higher).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_80|page_80]], [[Supporting Material/Gaskell/Source Text/page_81|page_81]]
+

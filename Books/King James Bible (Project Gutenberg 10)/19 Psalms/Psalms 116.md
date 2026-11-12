@@ -1,0 +1,145 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-psa
+chapter_id: kjv-psa-116
+book_name: "Psalms"
+chapter: 116
+verses: 19
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Psalms 116"
+  - "KJV Psalms 116"
+---
+
+# Psalms 116
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms|Psalms]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 115|Psalms 115]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/19 Psalms/Psalms 117|Psalms 117]]
+
+## Text
+
+> [!note] Unnumbered preface / superscription (before Psalms 116:1)
+> Praise the LORD. Praise the LORD.
+
+###### Psalms 116:1
+
+I love the LORD, because he hath heard my voice and my supplications.
+
+^kjv-psa-116-1
+
+###### Psalms 116:2
+
+Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.
+
+^kjv-psa-116-2
+
+###### Psalms 116:3
+
+The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.
+
+^kjv-psa-116-3
+
+###### Psalms 116:4
+
+Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.
+
+^kjv-psa-116-4
+
+###### Psalms 116:5
+
+Gracious is the LORD, and righteous; yea, our God is merciful.
+
+^kjv-psa-116-5
+
+###### Psalms 116:6
+
+The LORD preserveth the simple: I was brought low, and he helped me.
+
+^kjv-psa-116-6
+
+###### Psalms 116:7
+
+Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.
+
+^kjv-psa-116-7
+
+###### Psalms 116:8
+
+For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.
+
+^kjv-psa-116-8
+
+###### Psalms 116:9
+
+I will walk before the LORD in the land of the living.
+
+^kjv-psa-116-9
+
+###### Psalms 116:10
+
+I believed, therefore have I spoken: I was greatly afflicted:
+
+^kjv-psa-116-10
+
+###### Psalms 116:11
+
+I said in my haste, All men are liars.
+
+^kjv-psa-116-11
+
+###### Psalms 116:12
+
+What shall I render unto the LORD for all his benefits toward me?
+
+^kjv-psa-116-12
+
+###### Psalms 116:13
+
+I will take the cup of salvation, and call upon the name of the LORD.
+
+^kjv-psa-116-13
+
+###### Psalms 116:14
+
+I will pay my vows unto the LORD now in the presence of all his people.
+
+^kjv-psa-116-14
+
+###### Psalms 116:15
+
+Precious in the sight of the LORD is the death of his saints.
+
+^kjv-psa-116-15
+
+###### Psalms 116:16
+
+O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.
+
+^kjv-psa-116-16
+
+###### Psalms 116:17
+
+I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.
+
+^kjv-psa-116-17
+
+###### Psalms 116:18
+
+I will pay my vows unto the LORD now in the presence of all his people.
+
+^kjv-psa-116-18
+
+###### Psalms 116:19
+
+In the courts of the LORD’s house, in the midst of thee, O Jerusalem. Praise ye the LORD.
+
+^kjv-psa-116-19

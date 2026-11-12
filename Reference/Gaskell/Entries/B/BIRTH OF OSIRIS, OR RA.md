@@ -1,0 +1,76 @@
+---
+type: dictionary-entry
+source_id: gaskell-dictionary-julian-1960
+entry_id: gaskell-1960-entry-birth-of-osiris-or-ra
+headword: "BIRTH OF OSIRIS, OR RA"
+edition: Julian Press 1960 (Internet Archive OCR EPUB)
+created: 2026-11-06
+review_status: machine-extracted-unreviewed
+tags:
+  - source/gaskell
+  - note/entry
+  - review/unreviewed
+  - text/derived-from-ocr
+---
+
+# BIRTH OF OSIRIS, OR RA
+
+- **Entry ID:** `gaskell-1960-entry-birth-of-osiris-or-ra`
+- **Source ID:** `gaskell-dictionary-julian-1960`
+- **EPUB page file IDs:** `page_117`, `page_118`
+- **Text pages:** [[Supporting Material/Gaskell/Source Text/page_117|page_117]], [[Supporting Material/Gaskell/Source Text/page_118|page_118]]
+- **Review state:** machine-extracted, **not** manually analysed
+- **Citation rule:** EPUB `page_N` file IDs only (not verified print pages)
+
+## OCR headword (exact)
+
+`BIRTH OF OSIRIS, OR RA :—`
+
+## Short definition candidate (OCR exact; machine-selected)
+
+> [!warning] OCR quotation
+> Exact substring candidate from OCR entry body. **Not** typography/scan verified. Machine-extracted; unreviewed.
+
+> Symbolic of the emanation of the First Logos, God manifest, the Higher Self, on the plane of atma.
+
+## Gaskell entry text vs embedded quotations
+
+- Full OCR body below is the source foundation for this entry.
+- Embedded quotations and external attributions inside the body are **as OCR presents them**; they are not separately verified in this import.
+- No editorial paraphrase was fabricated for this machine-extracted note.
+
+## See references
+
+| Target (OCR) | Status |
+|---|---|
+| `Anc. MAN` | **unresolved** (review queue) |
+| `CursE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CURSE|CURSE]] |
+| `Days (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
+| `DEaTH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
+| `ELEMENTS (five)` | **candidate (first-segment only)** → possible `ELEMENTS, FIVE` (not linked) |
+| `GatHa Days` | **candidate (first-segment only)** → possible `GATHA DAYS, FIVE` (not linked) |
+| `Hymn` | **unresolved** (review queue) |
+| `Kino (great)` | **unresolved** (review queue) |
+| `Mor` | **unresolved** (review queue) |
+| `Nu` | **candidate (first-segment only)** → possible `NU, THE GOD` (not linked) |
+| `Noz` | **unresolved** (review queue) |
+| `Osmis` | **unresolved** (review queue) |
+| `PAMYLss` | **unresolved** (review queue) |
+| `Ruga` | **unresolved** (review queue) |
+| `SzB` | **unresolved** (review queue) |
+| `WorLpDs (five)` | **unresolved** (review queue) |
+
+## Full OCR entry body (exact)
+
+### Block `gaskell-1960-entry-birth-of-osiris-or-ra-ocr-body`
+
+```text
+Symbolic of the emanation of the First Logos, God manifest, the Higher Self, on the plane of atma. **On the first of these (five) new-made days Osiris was born, and a Voice from heaven proclaimed, ‘The Lord of all things hath appeared!’ ’’—PLUTARcH, Fseis and Osiris, § 12. The ‘five days" signify the five planes of manifestation, and the first of these is atma, the highest plane, on which the First Logos forthpours. The ‘“ Voice” refers to the ‘‘ Word,” or expression, of the Divine Will in BIRTH **O Osiris, son of Nut, I have given unto thee the sovereignty of thy father Seb, and the goddess Mut, thy mother, who gave birth to the gods, brought thee forth as the firstborn of five gods, and created thy beauties and fashioned thy members.’"'"—BupGeE, Book of the Dead, p. 627. The Supreme grants to the Higher Self the primal conditions of time (Seb) and space (Nut or Mut) which have brought forth from the potential the actual. For the Manifesting Self is “‘the image of the invisible God, the firstborn of all creation; for in him were all things created, in the heavens and upon the earth.” ** Homage to thee (R&), O thou who riseth in Nu, and who at thy manifestation dost make the world bright with light; the whole company of gods sing hymns of praise unto thee after thou hast come forth.’’—Ibid., p. 10. The Higher Self comes forth in possession of the Divine powers of the universe (Nu), and illumines the higher planes with the light of truth. The whole assembly of higher attributes and ideals vibrate in harmony with the Love and Wisdom which have appeared, and are centralised in the Manifesting Self. See Anc. MAN, CursE, Days (five), DEaTH OF OSIRIS, ELEMENTS (five), GatHa Days, Hymn, Kino (great), Mor, Nu, Noz, Osmis, PAMYLss, Ruga, SzB, WorLpDs (five).
+```
+
+## Links
+
+- Complete index: [[Reference/Gaskell/Start Here|Gaskell Dictionary - Complete Index]]
+- Coverage: [[Supporting Material/Gaskell/Reports/Coverage Report - Full Import|Coverage Report - Full Import]]
+- Source text: [[Supporting Material/Gaskell/Source Text/page_117|page_117]], [[Supporting Material/Gaskell/Source Text/page_118|page_118]]
+

@@ -1,0 +1,136 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-exo
+chapter_id: kjv-exo-24
+book_name: "Exodus"
+chapter: 24
+verses: 18
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Exodus 24"
+  - "KJV Exodus 24"
+---
+
+# Exodus 24
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus|Exodus]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 023|Exodus 23]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/02 Exodus/Exodus 025|Exodus 25]]
+
+## Text
+
+###### Exodus 24:1
+
+And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.
+
+^kjv-exo-24-1
+
+###### Exodus 24:2
+
+And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him.
+
+^kjv-exo-24-2
+
+###### Exodus 24:3
+
+And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.
+
+^kjv-exo-24-3
+
+###### Exodus 24:4
+
+And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
+
+^kjv-exo-24-4
+
+###### Exodus 24:5
+
+And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
+
+^kjv-exo-24-5
+
+###### Exodus 24:6
+
+And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.
+
+^kjv-exo-24-6
+
+###### Exodus 24:7
+
+And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.
+
+^kjv-exo-24-7
+
+###### Exodus 24:8
+
+And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.
+
+^kjv-exo-24-8
+
+###### Exodus 24:9
+
+Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:
+
+^kjv-exo-24-9
+
+###### Exodus 24:10
+
+And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.
+
+^kjv-exo-24-10
+
+###### Exodus 24:11
+
+And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink.
+
+^kjv-exo-24-11
+
+###### Exodus 24:12
+
+And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.
+
+^kjv-exo-24-12
+
+###### Exodus 24:13
+
+And Moses rose up, and his minister Joshua: and Moses went up into the mount of God.
+
+^kjv-exo-24-13
+
+###### Exodus 24:14
+
+And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.
+
+^kjv-exo-24-14
+
+###### Exodus 24:15
+
+And Moses went up into the mount, and a cloud covered the mount.
+
+^kjv-exo-24-15
+
+###### Exodus 24:16
+
+And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud.
+
+^kjv-exo-24-16
+
+###### Exodus 24:17
+
+And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel.
+
+^kjv-exo-24-17
+
+###### Exodus 24:18
+
+And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
+
+^kjv-exo-24-18

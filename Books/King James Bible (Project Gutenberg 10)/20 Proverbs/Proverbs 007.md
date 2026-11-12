@@ -1,0 +1,190 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-pro
+chapter_id: kjv-pro-7
+book_name: "Proverbs"
+chapter: 7
+verses: 27
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Proverbs 7"
+  - "KJV Proverbs 7"
+---
+
+# Proverbs 7
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs|Proverbs]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 006|Proverbs 6]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/20 Proverbs/Proverbs 008|Proverbs 8]]
+
+## Text
+
+###### Proverbs 7:1
+
+My son, keep my words, and lay up my commandments with thee.
+
+^kjv-pro-7-1
+
+###### Proverbs 7:2
+
+Keep my commandments, and live; and my law as the apple of thine eye.
+
+^kjv-pro-7-2
+
+###### Proverbs 7:3
+
+Bind them upon thy fingers, write them upon the table of thine heart.
+
+^kjv-pro-7-3
+
+###### Proverbs 7:4
+
+Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:
+
+^kjv-pro-7-4
+
+###### Proverbs 7:5
+
+That they may keep thee from the strange woman, from the stranger which flattereth with her words.
+
+^kjv-pro-7-5
+
+###### Proverbs 7:6
+
+For at the window of my house I looked through my casement,
+
+^kjv-pro-7-6
+
+###### Proverbs 7:7
+
+And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
+
+^kjv-pro-7-7
+
+###### Proverbs 7:8
+
+Passing through the street near her corner; and he went the way to her house,
+
+^kjv-pro-7-8
+
+###### Proverbs 7:9
+
+In the twilight, in the evening, in the black and dark night:
+
+^kjv-pro-7-9
+
+###### Proverbs 7:10
+
+And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+
+^kjv-pro-7-10
+
+###### Proverbs 7:11
+
+(She is loud and stubborn; her feet abide not in her house:
+
+^kjv-pro-7-11
+
+###### Proverbs 7:12
+
+Now is she without, now in the streets, and lieth in wait at every corner.)
+
+^kjv-pro-7-12
+
+###### Proverbs 7:13
+
+So she caught him, and kissed him, and with an impudent face said unto him,
+
+^kjv-pro-7-13
+
+###### Proverbs 7:14
+
+I have peace offerings with me; this day have I payed my vows.
+
+^kjv-pro-7-14
+
+###### Proverbs 7:15
+
+Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
+
+^kjv-pro-7-15
+
+###### Proverbs 7:16
+
+I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
+
+^kjv-pro-7-16
+
+###### Proverbs 7:17
+
+I have perfumed my bed with myrrh, aloes, and cinnamon.
+
+^kjv-pro-7-17
+
+###### Proverbs 7:18
+
+Come, let us take our fill of love until the morning: let us solace ourselves with loves.
+
+^kjv-pro-7-18
+
+###### Proverbs 7:19
+
+For the goodman is not at home, he is gone a long journey:
+
+^kjv-pro-7-19
+
+###### Proverbs 7:20
+
+He hath taken a bag of money with him, and will come home at the day appointed.
+
+^kjv-pro-7-20
+
+###### Proverbs 7:21
+
+With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
+
+^kjv-pro-7-21
+
+###### Proverbs 7:22
+
+He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
+
+^kjv-pro-7-22
+
+###### Proverbs 7:23
+
+Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
+
+^kjv-pro-7-23
+
+###### Proverbs 7:24
+
+Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
+
+^kjv-pro-7-24
+
+###### Proverbs 7:25
+
+Let not thine heart decline to her ways, go not astray in her paths.
+
+^kjv-pro-7-25
+
+###### Proverbs 7:26
+
+For she hath cast down many wounded: yea, many strong men have been slain by her.
+
+^kjv-pro-7-26
+
+###### Proverbs 7:27
+
+Her house is the way to hell, going down to the chambers of death.
+
+^kjv-pro-7-27

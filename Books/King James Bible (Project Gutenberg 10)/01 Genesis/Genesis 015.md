@@ -1,0 +1,154 @@
+---
+type: bible-chapter
+source_id: pg-kjv-10
+book_id: kjv-gen
+chapter_id: kjv-gen-15
+book_name: "Genesis"
+chapter: 15
+verses: 21
+created: 2026-11-06
+review_status: source-import
+tags:
+  - source/kjv
+  - note/bible-chapter
+aliases:
+  - "Genesis 15"
+  - "KJV Genesis 15"
+---
+
+# Genesis 15
+
+## Navigation
+
+- Book: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis|Genesis]]
+- [[Books/King James Bible (Project Gutenberg 10)/Start Here|Start Here]]
+- Previous: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 014|Genesis 14]]
+- Next: [[Books/King James Bible (Project Gutenberg 10)/01 Genesis/Genesis 016|Genesis 16]]
+
+## Text
+
+###### Genesis 15:1
+
+After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
+
+^kjv-gen-15-1
+
+###### Genesis 15:2
+
+And Abram said, LORD God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?
+
+^kjv-gen-15-2
+
+###### Genesis 15:3
+
+And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.
+
+^kjv-gen-15-3
+
+###### Genesis 15:4
+
+And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.
+
+^kjv-gen-15-4
+
+###### Genesis 15:5
+
+And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
+
+^kjv-gen-15-5
+
+###### Genesis 15:6
+
+And he believed in the LORD; and he counted it to him for righteousness.
+
+^kjv-gen-15-6
+
+###### Genesis 15:7
+
+And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.
+
+^kjv-gen-15-7
+
+###### Genesis 15:8
+
+And he said, LORD God, whereby shall I know that I shall inherit it?
+
+^kjv-gen-15-8
+
+###### Genesis 15:9
+
+And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.
+
+^kjv-gen-15-9
+
+###### Genesis 15:10
+
+And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.
+
+^kjv-gen-15-10
+
+###### Genesis 15:11
+
+And when the fowls came down upon the carcases, Abram drove them away.
+
+^kjv-gen-15-11
+
+###### Genesis 15:12
+
+And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him.
+
+^kjv-gen-15-12
+
+###### Genesis 15:13
+
+And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
+
+^kjv-gen-15-13
+
+###### Genesis 15:14
+
+And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.
+
+^kjv-gen-15-14
+
+###### Genesis 15:15
+
+And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
+
+^kjv-gen-15-15
+
+###### Genesis 15:16
+
+But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full.
+
+^kjv-gen-15-16
+
+###### Genesis 15:17
+
+And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces.
+
+^kjv-gen-15-17
+
+###### Genesis 15:18
+
+In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
+
+^kjv-gen-15-18
+
+###### Genesis 15:19
+
+The Kenites, and the Kenizzites, and the Kadmonites,
+
+^kjv-gen-15-19
+
+###### Genesis 15:20
+
+And the Hittites, and the Perizzites, and the Rephaims,
+
+^kjv-gen-15-20
+
+###### Genesis 15:21
+
+And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
+
+^kjv-gen-15-21
