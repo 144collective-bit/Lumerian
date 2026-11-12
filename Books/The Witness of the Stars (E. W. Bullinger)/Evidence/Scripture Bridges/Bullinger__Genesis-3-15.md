@@ -36,7 +36,7 @@ Bullinger prints this reference 9 times in *The Witness of the Stars*.
 
 - [[Books/The Witness of the Stars (E. W. Bullinger)/Text/05 Chapter I The Sign VIRGO#^bullinger-wots-pgepubid00006|Chapter I The Sign VIRGO]] — printed as `Gen. iii. 15`
 
-  > …s (E. W. Bullinger)/Source Material/Images/plate-01.png]] Plate 1: Virgo (the Virgin) Here is the commencement of all prophecy in Gen. iii. 15, spoken to the serpent:—“I will put enmity between thee and the woman, and between thy se…
+  > …Plate 1: Virgo (the Virgin) Here is the commencement of all prophecy in Gen. iii. 15, spoken to the serpent:—“I will put enmity between thee and the woman, and between thy se…
 
 - [[Books/The Witness of the Stars (E. W. Bullinger)/Text/05 Chapter I The Sign VIRGO#^bullinger-wots-pgepubid00006|Chapter I The Sign VIRGO]] — printed as `Gen. iii. 15`
 
