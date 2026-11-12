@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abel-a-keeper-of-sheep
 headword: "ABEL, A KEEPER OF SHEEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: sample-draft
 tags:
   - source/gaskell
@@ -59,6 +60,26 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 ## Sample-internal links (only where Gaskell’s text warrants)
 
 - Reciprocal sample link from [[Reference/Gaskell/Entries/A/AARON, THE HIGH PRIEST|AARON, THE HIGH PRIEST]] (Aaron/Abel correspondency stated in the Aaron entry).
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the dawning of that moral element in the soul which works by love. This state is a faint correspondency of the Higher Self, and tends the virtues (sheep).
+
+> "Until the soul brought forth the God-loving doctrine (Abel), the self-loving (Cain) dwelt with her. But when she brought forth 'Abel,' or unanimity with God, she abandoned unanimity with that mind 'Cain' which was wise in its own conceit."—Philo Judæus, *Works*, Yonge, Vol. IV. p. 207.
+
+> "And Cain told Abel his brother. And it came to pass, when they were in the field, that Cain rose up against Abel his brother and slew him."—Gen. iv. 8.
+
+And the lower self,—the personal "I,"—now gains the power necessary for its evolution, and contrives to obscure the love element in the soul. The "death of Abel" occurs when the higher general motive of love gives place to the dawn of individuality on the astral and mental planes.
+
+> "The Cain in man—the sense-nature symbolised by the 'fruits of the ground'—has killed the Abel in man, the intuitional faculty symbolised by the 'lamb' of a pure and guileless spirit."—[E.?] Maitland, *Bible's Own Account*, p. 10.
+
+> "The feeling of each one of us that we have a Cain and Abel within, and that our business here is to reverse the Scripture story and to make our Abel kill our Cain, is in itself a kind of revelation and an element of immense [hope?] about the future."—J. Brierley, *Studies of the Soul*, p. 214.
+
+See ATOM, CAIN, LAMB, SETH.
+
+**Corrections made:** `dawning of, that` → dawning of that; `Selif` → Self; `selfloving` → self-loving; `PHILO Jupzvus` → Philo Judæus; `GEn.` → Gen.; `*T,` → "I,"; a page heading (`18 ABORTION`) removed from mid-sentence; `Studtes` → Studies; See-list spellings restored (`Carn`, `Lams`).
+
+**Unclear or supplied:** Maitland's initial is damaged (OCR `er`). `[hope?]` replaces OCR `ho`, where the end of the word is lost.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-zodiac-of-twelve-signs
 headword: "ZODIAC OF TWELVE SIGNS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,42 @@ tags:
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `YMER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Cycle of Life through which the Soul's development is accomplished. The Soul, or indwelling Self (sun), proceeds in a spiral course, whose cyclic progression is in twelve stages corresponding to the twelve signs. These stages are related to human life inasmuch as they each answer to certain parts of the Archetypal Man, and each part has its stage of development in relation to the whole, and every department of human experience is expressed in them.
+
+> "In the Soul is the spiritual circle or Zodiac, wherein is fulfilled what the twelve signs represent in the natural Zodiacal system of the Universe or Macrocosm."—John Ward, *Zion's Works*, Vol. II. p. 238.
+
+> "When he prepared the heavens I was there: when he set a circle upon the face of the depth."—Prov. viii. 27.
+
+The Higher Self came forth on the upper buddhic plane (Aries), and the Cycle of Life was described in the mentality of the lower nature.
+
+> "Thou, Pragapati, dividest thy person in twelve parts, and thou becomest the Twelve Adityas."—*Vana Parva*, v. 189.
+
+The Archetypal Man as the "year" or Zodiac is dismembered in twelve parts, related to the twelve stages of the Cycle of Life.
+
+> "Zoroaster, Plato says, having been placed on the funeral pyre, rose again to life in twelve days. He alludes perchance to the resurrection, or perchance to the fact that the path for souls to ascension lies through the twelve signs of the zodiac; and he himself says that the descending pathway to birth is the same, ... after which the soul obtains release from this entire world."—Clement of Alex., *Miscellanies*, Bk. V.
+
+The Soul (Zoroaster) descends to the lower planes for experience and purification (funeral pyre), afterwards it ascends in the resurrection, and is liberated from the lower nature.
+
+> "Theologians admitted therefore two gates (between heaven and earth), Cancer and Capricorn, and Plato also meant these by what he calls the two mouths. Of these they affirm that Cancer is the gate through which souls descend, but Capricorn that through which they ascend [and exchange a material for a divine condition of being]" (Porphyrius).—Max Müller, *Theosophy*, etc., p. 144.
+
+Cancer corresponds to the lower mind plane on the side of involution, that is, where the Soul descends into the lower nature; while on the side of evolution, Capricorn corresponds to the higher mind plane, that is, where the souls of humanity ascend from the lower nature and put on immortality.
+
+> "The Indian Capricorn is an elephant emerging from a makara, or leviathan."—A. Lillie, *Budd. in Christendom*, p. 7.
+
+This signifies wisdom (the soul) emerging from the cycle of the lower nature (leviathan).
+
+> "Owing to the complex and manifold nature of existence, every sphere or plane of man's being requires for itself a redemptive process; and, for each, this process consists of three degrees. [Of] these the first three relate to the Body, the second three to the Mind, the third three to the Heart, and the fourth three to the Spirit. There are thus, in all, twelve Degrees or 'Houses' of the Perfect Man or Microcosm, as there are twelve Zodiacal Signs or Mansions of the Sun in his course through the heavens of the Macrocosm. And the Gospels set forth mainly the six of the Heart and Spirit. The crown both of the twelve degrees and of the six acts—that which constitutes alike the 'Sabbath' of the Hebrews, the 'Nirvana' of the Buddhists, and the 'Transmutation' of the Alchemists—is the 'Divine Marriage.'"—*The Perfect Way*, p. 245.
+
+The "Body" must be taken to mean the astral body of desire; the "Mind," the mental-body; and the "Heart" the causal-body, the "shrine of the Spirit of the man" (*ibid.*, p. 246). The "Perfect Man" is the Archetypal Man.
+
+See ABRAXAS, ADAMAS, ADITYAS (twelve), ÆONS (twelve), APOSTLES, ARC. MAN, ARIES, CANCER, CAPRICORN, CELESTIAL STEMS, COMPARTMENTS, DECANS, ELEPHANT, EQUINOX, EVOLUTION, HORSE SACRIFICE, [Hoor?], [ITABRAOTH?], INVOLUTION, LEVIATHAN, MACROCOSM, MANVANTARA, NIDANAS, PISCES, PRAGAPATI, RA, SAMSARA, SEVENTH, SUN, TAURUS, [Tras?], TRIBES, TUAT, TWELVE, VIRGO, WHEEL OF LIFE, YEAR, YMER.
+
+**Corrections made:** `CLEMENT or ALEx., Miscellantes` → Clement of Alex., Miscellanies; `Max MULLER` → Max Müller; `A. Lituiz` → A. Lillie; `@` → a; `acta` → acts; `sbid.` → ibid.; `being)` → being]; page headings (`841 ZODIAC`, `ZOROASTER`) removed from mid-sentence; See-list spellings restored (`ABRAxAS`, `ASons`, `CaAPRICORN`, `EQuvuINox`, `SaMsARA`, `Tuat`).
+
+**Unclear or supplied:** `[Of]` is supplied where the OCR drops a word at a line break. Three See-list items are left as the OCR gives them: `Hoor`, `ITABRAOTH`, `Tras`.
 
 ## Full OCR entry body (exact)
 

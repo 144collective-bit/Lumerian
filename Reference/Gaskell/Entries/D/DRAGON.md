@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dragon
 headword: "DRAGON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `GEORGE AND DRAGON` | **unresolved** (review queue) |
 | `GREEN LION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEN LION HUNTING|GREEN LION HUNTING]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol has similar meanings to the "Serpent." The male Dragon signifies astral aspects, and the female Dragon, buddhic, as a rule. But the "Dragon" may be raised in signification both on the masculine and on the feminine sides.
+
+See GEORGE AND DRAGON, GREEN LION, SERPENT.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

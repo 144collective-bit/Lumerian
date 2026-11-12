@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-lower-aspect
 headword: "MOON (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,20 @@ tags:
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `Urns` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane, the plane of the desires by means of which the soul ascends.
+
+> "When the living Father perceived that the soul was in tribulation in the body, He sent his own Son for its salvation. Then He came and prepared the work which was to effect the salvation of the souls, and with that object prepared an instrument with twelve urns, which is made to revolve with the sphere, and draws up with it the souls of the dying. And the greater luminary receives those souls, and purifies them with its rays, and then passes them over to the moon, and in this manner the moon's disc, as it is designated by us, is filled up. For he (Manes) says that these two luminaries are ships or passage boats. Then, if the moon becomes full, it ferries its passengers across towards the East wind, and thereby effects its own waning in getting itself delivered of its freight. And in this manner it goes on making the passage across, and again discharging its freight of souls drawn up by the urns, until it saves its own proper portion of the souls."—*Disputation of Archelaus* (see also Epiphanius, *Adv. Hær.*, 66).
+
+When the soul begins to aspire from out of the strife and suffering of the lower life, the Supreme sends his Son, the manifestation of himself, into the souls of humanity. Then the Son of Truth comes forth mentally to the "sons of Gods," who are the spiritual egos having in God a common parent, but who must be, so to say, brought up and nurtured by their mother the moon, which stands for the astral plane and its activities. The device which has been prepared for the soul's evolution is the cycle of life (zodiac) with its twelve divisions having correspondences in twelve states of the soul. The "souls of the dying" lower bodies are those embryo egos who are translated from the physical life, or solar state, to the state of the astral, whose correspondency is the lunar symbol. This implies that on the physical and astral planes, in the lunar chain period, the physical and desire natures of animal-man are developed. This is expressed by the moon's disc being filled up in waxing. The physical-nature (solar) and the desire-nature (lunar) are, as it were, "passage boats" in which the spiritual egos voyage heavenward (east). Then on the desire-nature becoming fully stimulated and developed (moon waxing full), the soul is rendered fit for the addition of mind to desire. When mind begins to control desire, this addition is said to effect the moon's waning, that is, the rule of the desire-nature weakens as mind gets uppermost. The desire-nature, through the higher qualities it calls forth, becomes a means of conveying "a freight of souls" to the higher planes. The process therefore represents the transference of the soul from the physical to the emotional plane, and represents the condition into which the soul enters at the passing over from a lower to a higher state. The twelve urns or bowls signify disciplined and advanced qualities (disciples); for the Christ cannot manifest his nature excepting through appropriate vehicles, and these are symbolised by the urns.
+
+See ASTRAL PLANE, DEVAYANA, DISCIPLES, EAST, EYES OF HORUS, LUNAR CYCLE, MONTH, MOON-WAXING, PILLARS OF LIGHT, PITRIYANA, PLANETARY CHAIN, SALVATION, SONS OF GOD, SUN-SETTING, TUAT, TWELVE, URNS, ZODIAC.
+
+**Corrections made:** `dving` → dying; `becomer` → becomes; `urna` → urns; `EpIpHANius, Adv. Her.` → Epiphanius, Adv. Hær.; `cyclo` → cycle; `oa` → on; `desire-natur` → desire-nature; a page heading (`Brn MOON`) removed from mid-sentence; See-list spellings restored (`DIscipLes`, `Eves oF HORUS`, `MontTH`, `Moon-waxING`, `TuAT`).
+
+**Unclear or supplied:** "sons of Gods" is kept as the OCR gives it; the See-list has SONS OF GOD.
 
 ## Full OCR entry body (exact)
 

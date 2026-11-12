@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seed
 headword: "SEED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -57,6 +58,26 @@ tags:
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 | `SPERMATIO WORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the manifesting God, the source of all things.
+
+> "The Docetæ conceived God as the first principle, under the figure of a seed, containing the infinitely great in the infinitely small. The world grew out of God as the fig-tree from the seed. As the fig-tree consists of stem, leaves, and fruit, so from the first principle there arose three Aeons, and from these thirty Aeons."—F. C. Baur, *Church History*, Vol. I. p. 238.
+
+The Tree of the Divine Life springs from God, its seed or root. It is—
+
+> "the fig-tree under which the gods sit in the third heaven."—*Atharva-Veda*, V. 4, 3.
+
+> "William Law says:—If Christ was to raise a new life like His own in every man, then every man must have had originally in the inmost spirit of his life a seed of Christ, or Christ as a seed of heaven, lying there in a state of insensibility out of which it could not arise but by the mediatorial power of Christ. For what could begin to deny self, if there were not something in man different from self?"—W. R. Inge, *Christian Mysticism*, p. 282.
+
+> "Within the human soul itself is a portion, so to speak, of the eternal divine essence, the being of God himself. Every soul is like a seedling in which is wrapped up a mysterious potency of life which may take long to unfold but cannot be destroyed. As a giant oak is hidden away in every acorn, so is the life of God latent within the spirit of man waiting for unfoldment. It may be long before it finds it in any high degree, but it is there and nothing can expel it; if it could be withdrawn from humanity there would be no humanity. And, just as the child in the womb passes through every stage of evolution through which the race itself has passed in its ascent to where it now stands, including some so gross that we do not like to think of them, so the soul may have to shed many unlovely exteriors before it becomes a fitting and beautiful vehicle of the spirit immortal and divine. That of God from which we came is Christ."—R. J. Campbell, *Serm.*, The Christhood of Jesus, etc.
+
+See ÆON, ATMAN, BODHISATVA (great), CHILD [OCR: Cuip], CONCEPTION, COSMOS, CRANBERRY, CREATION, EGG, FIG-TREE, FIRST-BORN SON, GODS, HARVEST, HIRANYAGARBHA, HUITZILOPOCHTLI, HUSBANDMAN, IMAGE, MONAD, OAK, PARGANYA, PLOUGHING, REAPING, SICKLE, SOWER, SPERMATIC WORDS.
+
+**Corrections made:** `Docetsae` → Docetæ; `consista` → consists; `The-Tree` → The Tree; `Inae` → Inge; `potency of fe` → potency of life; a page heading (`665 SEED`) removed from mid-sentence; See-list spellings restored (`ALON`, `Eac`, `FiaTREE`, `Gops`, `HIRANYAGARBBHA`, `HorrZILOPOCHTLI`, `PaRGANYA`, `SPERMATIO WORDS`).
+
+**Unclear or supplied:** `Cuip` in the See-list is read as CHILD from its alphabetical position; not certain.
 
 ## Full OCR entry body (exact)
 
