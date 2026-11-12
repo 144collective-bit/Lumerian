@@ -44,6 +44,12 @@ Research wiki for comparing symbols and concepts across sources. Gaskell’s dic
 - Many See-references remain unresolved candidates — they are **not** wikilinks.
 - The KJV folder is `Books/King James Bible (Project Gutenberg 10)` — renamed on 12 November 2026 to drop the `#`, which Obsidian reads as a heading marker. The old `%2310` link encoding and its empty stub folder are gone; older study notes that mention them describe the vault before that date.
 
+## Generated layers
+
+- **Cited by** sections at the foot of Bible chapters and Gaskell entries are written by `_lumerian_build_logs/build_backlinks.py`. Re-run it after adding links; do not edit those sections by hand.
+- **Lookup export** (`lumerian.sqlite`, `lumerian.json`) lives beside the vault in `_lumerian_export/`, built by `_lumerian_build_logs/build_export.py`. Its README lists the tables.
+- **See-reference links** in Gaskell entries: [[Supporting Material/Gaskell/Reports/See-Reference Linking - 2026-11-12|linking report]].
+
 ## How to read evidence
 
 | Layer | What it means |
