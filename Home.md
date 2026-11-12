@@ -41,7 +41,7 @@ Research wiki for comparing symbols and concepts across sources. Gaskell’s dic
 
 - Root `Welcome.md` is the Obsidian default welcome; this `Home` note is the vault navigation root.
 - The Stage-1 `Gaskell's/` duplicate was moved out of the vault on 12 November 2026. Gaskell lives in `Reference/Gaskell/` and `Supporting Material/Gaskell/`.
-- Many See-references remain unresolved candidates — they are **not** wikilinks.
+- Gaskell See-references were linked by script on 12 November 2026. Rows marked *resolved* have one matched headword; *related* and *candidates* rows are near matches; about 9,800 remain unresolved plain text.
 - The KJV folder is `Books/King James Bible (Project Gutenberg 10)` — renamed on 12 November 2026 to drop the `#`, which Obsidian reads as a heading marker. The old `%2310` link encoding and its empty stub folder are gone; older study notes that mention them describe the vault before that date.
 
 ## Generated layers
