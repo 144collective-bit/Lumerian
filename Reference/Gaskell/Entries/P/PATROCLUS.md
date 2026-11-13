@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-patroclus
 headword: "PATROCLUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ACHILLES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ACHILLES ACHILLES, SON OF PELEUS AND THETIS|ACHILLES ACHILLES, SON OF PELEUS AND THETIS]]; [[Reference/Gaskell/Entries/A/ACHILLES, PELEUS, FATHER OF ACHILLES|ACHILLES, PELEUS, FATHER OF ACHILLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the reasoning mind which is strongly attached to the personality (Achilles). See ACHILLES.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

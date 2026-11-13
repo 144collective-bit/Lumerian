@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-christ-principle
 headword: "CHRIST-PRINCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `PARACLETE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
 | `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WISDOM. CHRIST’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The Christ-principle is Atma-buddhi energising on the higher mental plane. It can only become related to the activities of the lower planes, as these purify their nature and become free from the desire-principle. When the lower qualities aspire, this affords the opportunity for the Christ to reveal himself under his second aspect—buddhi—which, as wisdom, is then ready to forthpour itself in response to aspiration. In the Christ-principle, therefore, it is the feminine element buddhi that predominates. The heavenly Madonna in this sense comes to be the counterpart of the Christ, for the Christ operates through her—the Paraclete.
+
+> "The first Adam is of the earth, earthy, and liable to death. The second is 'from heaven,' and triumphant over death. For 'sin has no more dominion over him.' He, therefore, is the product of a soul purified from defilement by matter, and from subjection to the body. Such a soul is called virgin. And she has for spouse, not matter—for that she has renounced,—but the Divine Spirit which is God. And the man born of this union is in the image of God, and is God made man; that is, he is Christ, and it is the Christ thus born in every man, who redeems him and endows him with eternal life."—*The Perfect Way*, p. 190.
+
+> "For, as cannot be too clearly and forcibly stated, between the man who becomes a Christ, and other men, there is no difference whatever of kind. The difference is alone of condition and degree, and consists in difference of unfoldment of the spiritual nature possessed by all in virtue of their common derivation. 'All things,' as has repeatedly been said, 'are made of the divine Substance.' And Humanity represents a stream which, taking its rise in the outermost and lowest mode of differentiation of that Substance, flows inwards and upwards to the highest, which is God. And the point at which it reaches the celestial, and empties itself into Deity, is 'Christ.' Any doctrine other than this,—any doctrine which makes the Christ of a different and non-human nature,—is anti-christian and sub-human. And, of such doctrine, the direct effect is to cut off man altogether from access to God, and God from access to man."—*Ibid.*, p. 248.
+
+> "In the evolution of God's life in man there are no short cuts, but a gradual unfolding of a principle of interior vitality. And the motto from this thought is, 'Rest in the Lord and wait patiently for Him,' while the child-Christ nature within you 'increases in wisdom and stature, and in favour with God and man.'"—Basil Wilberforce, *Problems*, p. 9.
+
+> "God as the Absolute can, in the nature of things, only come into contact with man by a self limitation. . . . In Christ, to begin with, we have a revelation of the Absolute in the limited. In Him, as the Church all along has joyfully confessed, we see God."—J. Brierley, *Studies of the Soul*, p. 258.
+
+See ADAM (higher), BODY, HOLY GHOST, PARACLETE, VIRGIN, WISDOM.
+
+**Corrections made:** `Atmabuddhi` → Atma-buddhi; `desireprinciple` → desire-principle; `iteelf` → itself; `end liable` → and liable; `ZJbid.` → Ibid.; `Basin WILBERFORCE` → Basil Wilberforce; `Studtes` → Studies; page headings `TREE OY LIFE, CHRIST'S` and `CHRIST’` removed (the first from mid-sentence); See-list spellings restored (`Apam`, `Boppy`, `Hoty GHOST`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

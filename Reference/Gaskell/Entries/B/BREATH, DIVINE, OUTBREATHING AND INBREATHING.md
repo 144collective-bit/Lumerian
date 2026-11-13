@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breath-divine-outbreathing-and-inbreathing
 headword: "BREATH, DIVINE, OUTBREATHING AND INBREATHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `SAPANDAR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAPANDAR|SAPANDAR]] |
 | `TEZOATLIPOOA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TEZCATLIPOCA|TEZCATLIPOCA]] |
 | `WIND. |` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of spiritual action from the Supreme in the rhythmic forthpouring and withdrawing of the Divine Life of the Invisible and visible universe in successive spirations.
+
+> "Invoke thou the strong wind created by Mazda Sapandar, the pure daughter of Ormazd."—*Vendidad*, XIX.
+
+Entreat the Divine Breath, the Holy Spirit of Wisdom, which is the functioning of the Absolute upon the Buddhic plane.
+
+> "The Sun is the outer Self, the inner Self is Breath. Hence the motion of the inner Self is inferred from the motion of the outer Self."—*Mait. Upanishad*, [?]. 1.
+
+> "Breath is the life of all beings."—*Tatt. Upanishad*, II. 3.
+
+The manifest (outer) Self, and the unmanifest (inner) Self. The potentiality of the unmanifest is implied in the activity of the manifest. [The] unmanifest out-pours the manifest. . . .
+
+See [Amitaucas?], [Asuna?], EVENING AND MORNING, GALE, INSPIRATION, MANVANTARA, MORNING, PRALAYA, PRANA, [Rima?], REMISSION, SABBATH, SAPANDAR, TEZCATLIPOCA, WIND.
+
+**Corrections made:** `ane outer` → the outer; `Upantshad` → Upanishad; page heading `126 BRIARE US` removed from mid-sentence; `PRALAYWA` → PRALAYA; `TEZOATLIPOOA` → TEZCATLIPOCA; trailing `|` removed; quotation marks normalised.
+
+**Unclear or supplied:** The Mait. Upanishad reference is damaged (OCR `. 1`); chapter numeral lost. `[The]` is supplied before "unmanifest" (OCR "manifest. unmanifest"). See-list items `[Amitaucas?]`, `[Asuna?]` and `[Rima?]` cannot be identified with confidence.
 
 ## Full OCR entry body (exact)
 

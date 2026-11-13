@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nachiketas-son-of-vajasravasa
 headword: "NACHIKETAS, SON OF VAJASRAVASA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `SOUL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
 | `VAJASRAVASA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAJASRAVASA|VAJASRAVASA]] |
 | `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Soul, or indwelling Self, proceeding from the Higher Self.
+
+> "Yama said: I know the fire that leads to paradise, and tell it to thee (Nachiketas): therefore listen. Know that that fire that wins the endless sphere for him that knows it, the bases of the world, is seated in the heart. . . . Yama revealed to him that fire, the origin of these spheres of migration, etc., and Nachiketas repeated everything after him as he said it. Feeling gratified, the large-minded Yama said, I give thee now and here another gift: this fire shall be called by thy name. Take also this necklace of gems of various colours."—*Katha. Upanishad*, I.
+
+It is the Divine Life (atma-buddhi) within the "heart" of the love-nature which leads the soul to bliss and immortality. The perfected personality (Yama) reveals, little by little, the meaning and process of that life (fire) within; the soul repeating its knowledge in its experiences. Then comes a time when the soul claims the life as its own, and is adorned with the higher qualities (gems).
+
+See CAUSAL-SELF, DEATH (king), FIRE, GEMS, HEART, NECK, PERSONALITY, REINCARNATION, SOUL (middle), VAJASRAVASA, YAMA.
+
+**Corrections made:** `eaid` → said; `givo` → give; `lovenature` → love-nature; page heading `523 NAKEDNESS` removed from mid-sentence; See-list spellings restored (`Fire`, `Gems`, `Heart`, `Neck`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

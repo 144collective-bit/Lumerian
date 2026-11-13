@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-drugs-of-medea
 headword: "DRUGS OF MEDEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of buddhic functionings which render desire inoperative in the soul,
+
+> "Medea led Jason by night to the Golden Fleece, and with her drugs she cast to sleep the serpent which guarded it."—*Argonautic Expedition*.
+
+The intuition leads the soul secretly to the source of Wisdom, so soon as the lower mind is stilled, for with the powers exercised upon the higher planes she lulls to rest the tempter,—kama-manas.
+
+See GOLDEN FLEECE, JASON, MEDEA.
+
+**Corrections made:** `sho` → she; `guardel` → guarded; `Tho` → The; `reat` → rest; page heading `DRUNKARD` removed from mid-sentence.
+
+**Unclear or supplied:** The first sentence ends with a comma in the OCR before the quotation; kept as printed.
 
 ## Full OCR entry body (exact)
 

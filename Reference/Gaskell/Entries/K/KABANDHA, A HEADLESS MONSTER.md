@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kabandha-a-headless-monster
 headword: "KABANDHA, A HEADLESS MONSTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -67,6 +68,30 @@ tags:
 | `IxvoLUTION` | **unresolved** (review queue) |
 | `Izanaci` | **unresolved** (review queue) |
 | `MusvuBI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSUBI, THE GOD OF GROWTH|MUSUBI, THE GOD OF GROWTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of desire for the gratifications of sense, which is love perverted.
+
+> "And deep below the monster's waist, his vast misshapen mouth was placed." He was under a curse—"that he should retain the disgusting form he had adopted, at least till, in course of time, Rama should in person deliver him from its repulsive deformity. The brothers (Rama and Lakshmana) placed the giant's bulky body on a funeral pyre, and from the ashes arose a beautiful being clad in celestial raiment."—J. C. Oman, *The Great Indian Epics*, p. 52.
+
+A longing desire for objects of sense,—the lower attraction,—is but the reverse of divine love,—the higher attraction. When the Higher Self, or atma-buddhi (Rama), has conquered desire and transmuted it by fire (buddhi), its direction is changed; while its force remains in the spiritual longing for that which is higher.
+
+See BOTTOMLESS PIT, CREMATION, DEVOURER, FUNERAL PILES, [KIXINE?], LAKSHMANA, MONSTERS, RAMA.
+
+### Also in this note: KAGU-TSUCHI, GOD OF FIRE
+
+A symbol of the Archetypal Man on the atma-buddhic planes.
+
+> "The last deity to be produced was the God of Fire, Kagu-tsuchi, also called Ho-musubi (fire-growth). In giving birth to him Izanami was burnt so that she sickened and lay down. From her vomit, feces, and urine were born deities which personify the elements of metal, water, and clay, while from the tears which Izanagi shed when she died, there was [born?] a deity called the Weeping Female. In his rage and grief, Izanagi drew his sword and cut Kagu-tsuchi to pieces, generating thereby a number of deities."—W. G. Aston, *Shinto*, p. 92.
+
+This describes the culmination of Involution and the commencement of Evolution. The perfected Matter (Izanami) gives birth to the perfect Soul or Archetype (atma-buddhic), and these two have to die out of one state to be evolved in another. Matter involved gives rise to matter evolved, namely, the mental (metal), astral (water) and physical (clay) planes in the new order. The "tears" of the Spirit producing the "Weeping Female" symbolise the advent of suffering and sorrow which characterise the evolutionary cycle. Then we have the world-wide symbol of the cutting into pieces of the body of the Archetypal Man, and the scattering of the qualities or "members" in the souls of mankind, now commencing their evolution. In this case the Divine Will (Izanagi) is represented as dismembering the completely involved Self, producing thereby the qualities (deities) which war within the mind and soul.
+
+See ARC. MAN, DISMEMBERMENT, ELEMENTS, EVOLUTION, FIRE, INVOLUTION, IZANAGI, MUSUBI.
+
+**Corrections made:** `yre` → pyre; `ing clad` → being clad; `hag conKAILASA quered` → has conquered; `emale` → Female; `Izanaci` → IZANAGI; `IxvoLUTION` → INVOLUTION; `MusvuBI` → MUSUBI; `MonstTErss` → MONSTERS; page heading `KAILASA` removed from mid-sentence; second entry set out under its own heading; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: KAGU-TSUCHI, GOD OF FIRE. `[born?]` for OCR `al i`. `[KIXINE?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

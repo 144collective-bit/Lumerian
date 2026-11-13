@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow-goddess-meh-urt
 headword: "COW, GODDESS MEH-URT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `UrcHaT` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial matter, Truth-Reality, which brings forth the Self (Bull) on the highest plane.
+
+> "The homage of the scribe Nebseni to the goddess Meh-urt, lady of heaven, and mistress of earth."—Budge, *Book of the Dead*, Ch. LXXL.
+
+> "I behold Râ who was born yesterday from the buttocks of the goddess Meh-urt; his strength is my strength, and my strength is his strength. What then is this? It is the watery abyss of heaven, or as others say,—It is the image of the Eye of Ra in the morning at his daily birth. Meh-urt is the Eye (Utchat) of Ra."—*Ibid.*, Ch. XVII.
+
+The soul acclaims the Self, who, at the beginning of the cycle, was brought forth from primordial matter. The life and energy of the Self is within the soul, and the soul's life and energy is the Self's. What then is Meh-urt? It is Truth-Reality (water); or in other terms,—It is the counterpart of the Self at his forthgoing into manifestation;—It is the mode by which the Self perceives Himself. See AUDUMBLA, BIRTH OF BUDDHA, OF CHRIST, BULL, MATTER, MAYA, MOTHER, PRAKRITI, UTCHAT, WATER.
+
+**Corrections made:** `BupDGE` → Budge; `R&` → Râ; page heading `180 cow` removed from mid-quotation; `Butt` → BULL; `Matrern` → MATTER; `MAyd` → MAYA; `Morser` → MOTHER; `UrcHaT` → UTCHAT; `OF cHRist` → OF CHRIST.
+
+**Unclear or supplied:** Chapter number `LXXL` left as printed (probably LXXI).
 
 ## Full OCR entry body (exact)
 

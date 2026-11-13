@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-recollection-of-past-incarnations
 headword: "RECOLLECTION OF PAST INCARNATIONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `HrkososHi` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
 | `PROPHETIC DREAMS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHETIC DREAMS|PROPHETIC DREAMS]] |
 | `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This becomes possible through the establishment of the "bridge" of the higher mind, and the perfect building up of the structure of the causal-body in actuality.
+
+> "Though the physical brain may forget events within the scope of one terrestrial life, the bulk of collective recollections can never desert the Divine Soul within us. Its whispers may be too soft, the sound of its words too far off the plane perceived by our physical senses; yet the shadow of events that were, just as much as the shadow of events that are to come, is within its perceptive powers, and is ever present before its mind's eye."—Blavatsky, *Secret Doctrine*, Vol. II. p. 442.
+
+The power of foreseeing future events must be of a strictly limited nature. When events are truly foreseen, they are usually of little consequence.
+
+See BRIDGE OF HEAVEN, CHARON'S FERRY, HIROSHI, PROPHETIC DREAMS, REMINISCENCE.
+
+**Corrections made:** `percoived` → perceived; `ccme` → come; `Bravatsxy` → Blavatsky; `p:` → p.; `HrkososHi` → HIROSHI; quotation marks normalised.
+
+**Unclear or supplied:** `HrkososHi` read as HIROSHI is a best guess.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prometheus
 headword: "PROMETHEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,36 @@ tags:
 | `VISCERA` | **unresolved** (review queue) |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality seated in the causal-body on the plane of the higher mind (forethought).
+
+> "Prometheus, with a view of deceiving Zeus, cut up a bull, and divided it into two parts: he wrapped up the best parts and the intestines in the skin, and at the top he placed the stomach, which is one of the worst parts; while the second heap consisted of the bones covered with fat. When Zeus pointed out to him how badly he had made the division, Prometheus desired him to choose, but Zeus, in his anger, seeing through the stratagem of Prometheus, chose the heap of bones covered with the fat."—*Smith's Class. Dict.*
+
+The higher mind, or individuality, in view of the descent of the ego to the illusions of the lower planes, is the means of dividing the archetypal matrix of qualities and forms (the bull) into lower and higher natures in the soul. The lower, or astro-mental-desire (flesh) nature is wrapped in the physical (skin), and is distinguished by the appetites (stomach). The higher nature consists of the foundation of the consciousness (bones) and the affections (fat). It is the higher nature that is acceptable to the Self (Zeus).
+
+> "The father of the gods avenged himself by withholding fire from mortals, but Prometheus stole it in a hollow tube. Zeus thereupon chained Prometheus to a pillar, where an eagle consumed in the daytime his liver, which was restored in each succeeding night. Prometheus was thus exposed to perpetual torture; but Hercules killed the eagle and delivered the sufferer, with the consent of Zeus, who in this way had an opportunity of allowing his son to gain immortal fame."—*Ibid.*
+
+Meanwhile the Divine Will has not yet aroused a spiritual influence within the human mind, but the individuality now being evolved attracts the Divine Spark (fire) from above to the nascent causal-body by means of the Divine Ray or "Sutratma" (tube). Through the acquisition of the Spark of the Divine Fire (atma-buddhi) the individuality becomes bound by its emanating personalities to the pillar (or mountain) of aspiration.
+
+> "For Hesiod said that the outer man was the 'bond' by which Zeus bound Prometheus (*Theogony*, 614)."—[Zosimus?], *Fragments*, 14.
+
+The "eagle" represents the Spirit (buddhi) which during each incarnation (daytime) consumes, through suffering and sorrow, a little of the lower nature (liver-flesh), which as a whole is restored for the next earthlife. And in this manner the purification of the soul proceeds, until at the end of the cycle perfection is attained, and the Divine Law (Hercules) puts an end to the buddhic function (eagle) as no lower nature remains. Then it is that the soul rises to the higher planes and becomes one with the "son of God" in the life everlasting.
+
+> "By the transference of the vitalising Fire from the 'heaven' to the 'earth' of the human system, the lower nature is inflamed and set at war with the Divine Spirit or 'Zeus' within the man. This act is the Promethean Theft, punished so terribly by the 'Father' at the hand of Hermes, the true Thought, or Angel of Understanding. For by this act man becomes bound and fettered to the [word unclear] of sense, the victim of a perverse will, which, as an insatiable bird of prey, continually rends and devours him. Thus is formulated that condition which Paul so graphically laments:—'I find then the law, that, to me who would do good, evil is present, etc.' (Rom. vii. 21-5)."—*The Perfect Way*, pp. 157-8.
+
+> "In the Gathas, the 'two lives' are distinguished as astvat, 'bodily,' or pardhu, 'prior life,' and as manahya, 'mental' or daebitya, 'the second.' Their meaning is clear enough, and requires no further comment; they express our idea 'body and soul.' To be distinguished from these 'two lives,' are the 'first' and the 'last' lives, which mean this life and that hereafter."—M. Haug, *Essays on Rel. of Parsis*, p. 310.
+
+Prometheus is said to mean "forethought," which corresponds with "second life." His brother Epimetheus denotes "afterthought," which corresponds with "first life." The "first life" is of the personality, mortal; the "second life" is of the individuality, immortal. The personality and the individuality are often symbolised as brothers, e.g. Castor and Pollux, the Dioscuri.
+
+> "Christ is the Lord of the Spirit. He is come to scatter that fire on the earth. He brings the ruddy gift from heaven to mortals, carrying it in the bruised reed of His humanity; and in pursuance of His merciful design, He is bound and suffers for our sakes, but, loosed at last from the bands by which it was not possible that He should be holden, and being by the right hand of God exalted, He hath shed forth this.' His mighty work opens the way for the life-giving power of the Spirit to dwell as an habitual principle, and not as a mere occasional gift, among men, sanctifying their characters from the foundation, and not merely, as of old, bestowing special powers for special functions."—A. MacLaren, *Sermons*, 2nd Series, p. 234.
+
+See BONES, BULL, CAUSAL-BODY, COLUMN, DAY AND NIGHT, DIOSCURI, EAGLE, EPIMETHEUS, FAT, FIRE, FLESH, GOSHURUN, HERCULES, HIGHER AND LOWER NATURES, HOM (stem), INCARNATION, INDIVIDUALITY, LIVER, MOUNTAIN, PANDORA, PERSONALITY, SKY, SPARK, STOMACH, SUTRATMA, VISCERA, VITAL AIRS, ZEUS.
+
+**Corrections made:** page headings `PROMETHEUS` (mid-sentence, "consists of the PROMETHEUS foundation") and `PROMISES` ("devours PROMISES him") removed; `Clase.` → Class.; `Sutratma™` → Sutratma; `oufer` → outer; `Zosp«cvs` → [Zosimus?]; `Herculez` → Hercules; `py of sense` → [word unclear] of sense; `per. verse` → perverse; `datbitya` → daebitya; `@re` → are; `Hava` → Haug; `lifa` → life; `pr-nciple` → principle; `Jbid.` → Ibid.; See-list spellings restored (`CoLumn`, `Day AnD NiGaT`, `Dioscurl`, `PERSONALIry`, `Sxkry`, `SuTRaATMA`, and similar).
+
+**Unclear or supplied:** The author `Zosp«cvs` is read as `[Zosimus?]`. `[word unclear]` replaces OCR `py` in the Perfect Way quotation. In the MacLaren quotation the OCR has a closing quotation mark after "shed forth this" and no matching opening; it is set out here as a single closing quote. `SKY` is read from OCR `Sxkry`.
 
 ## Full OCR entry body (exact)
 

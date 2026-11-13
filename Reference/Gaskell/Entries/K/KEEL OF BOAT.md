@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-keel-of-boat
 headword: "KEEL OF BOAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Heer` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `RA. KELTS’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of lower instincts and
+
+> "'Tell me my name,' saith the Keel; 'Thigh (or leg) of Isis, which Ra cut off with the knife to bring blood into the Sektet boat,' is thy name."—Budge, *Book of the Dead*, Ch. XCIX.
+
+The progressive (leg) quality of Wisdom inverted as desire and instinct, by the law of the Supreme, in order to arouse the Divine Life in the evolving soul.
+
+See BOAT (sektet), HEEL, ISIS, RA.
+
+**Corrections made:** `BuDGE` → Budge; `Heer` → HEEL; page headings `429 KETHER` (mid-sentence) and `KELTS’` (end) removed; quotation marks normalised.
+
+**Unclear or supplied:** The definition breaks off after "lower instincts and" because the page heading fell into the text; the sentence is left as printed.
 
 ## Full OCR entry body (exact)
 

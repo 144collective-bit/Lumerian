@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-river-of-life-mehujael-and-methushael
 headword: "RIVER OF LIFE, MEHUJAEL AND METHUSHAEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Inap` | **unresolved** (review queue) |
 | `PaTRIARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the states, or qualities, of courage and endurance.
+
+See IRAD, PATRIARCHS.
+
+**Corrections made:** `Inap` → IRAD; `PaTRIARCHS` → PATRIARCHS.
+
+**Unclear or supplied:** `IRAD` is a best reading of `Inap`.
 
 ## Full OCR entry body (exact)
 

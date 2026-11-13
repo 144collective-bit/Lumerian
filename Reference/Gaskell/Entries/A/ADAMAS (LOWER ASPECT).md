@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adamas-lower-aspect
 headword: "ADAMAS (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `SEASONS (six)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Sxrx` | **unresolved** (review queue) |
 | `TYRANTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANTS UNDER ADAMAS|TYRANTS UNDER ADAMAS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower self as ruler of the soul's lower qualities. this is
+
+> "The Six Æons under Adamas have refused the mysteries of Light, and persisted in sexual union and procreated rulers and archangels, angels, workmen and decans."—*Books of the Saviour*.
+
+The qualities in the descending cycle of six signs are those attached to things of the lower nature,—those in whom the sense of separateness is not killed, and who are of the 'old dispensation.' They persist in the union of desire and mind which entails endless progeny of illusions. The procreation is the begetting and multiplying means of existence when the end should be all and in All.
+
+See ÆONS (twelve), DISPENSATIONS, TABRAOTH, SEASONS (six), SEX, TYRANTS.
+
+**Corrections made:** page heading `25 ADAPA` removed from mid-sentence; `AZons` → Æons; `-means` → means; See-list spellings restored (`ALons`, `TaBRAOTH`, `Sxrx`); quotation marks normalised.
+
+**Unclear or supplied:** The words `this is` after the first sentence are left as printed; they are a stray fragment and the sentence they belong to is lost. `SEX` is a likely reading of OCR `Sxrx`.
 
 ## Full OCR entry body (exact)
 

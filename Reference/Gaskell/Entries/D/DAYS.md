@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-days
 headword: "DAYS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -77,6 +78,30 @@ tags:
 | `Wor.ups (five)` | **unresolved** (review queue) |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of periods of manifestation. Cycles of involution and evolution. The "six days" of Gen. i. are all periods of involution, not of evolution. It is stated that the "evening and the morning were one day," that is, the twelve hours between the evening and the morning were the period meant, which corresponds with the twelve hours of the night of the Egyptian Tuat. The under-world or lower world of our present experience is always said to be in darkness, because the Higher Self (the sun) is obscured, and we are plunged in spiritual ignorance and error.
+
+> "And God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."—Gen. i. 5.
+
+The "light" is the consciousness, the spirit-side of being, whilst the "darkness" is the material, the form-side of nature. "Evening" and "morning" are symbolic of the indrawing and the outgoing forces, constituting the first Life-wave.
+
+See DARKNESS, EVENING, LIGHT, MORNING, NIGHT, SEASONS (six), SEVENTH, SIX, WEEK.
+
+### Also in this note: DAYS, FIVE, SUPERADDED TO 360
+
+DAYS:—The five days are taken as signifying the five manifest planes of nature. When these five planes are emanated, they are, as it were, added to the 360 degrees (days) of the Zodiac, or potential cycle of life, making it the actual cycle (365 days) of the course of the sun (Higher Self).
+
+> "These several 70th of the moon's illuminations, [word unclear] five new days, Thoth afterwards joined together and added to the 360 of which the year formerly consisted: which days are called by the Egyptians the epact or superadded, and observed by them as the birthdays of the gods."—Plutarch, *Isis and Osiris*, § 12.
+
+Prior to the Earth cycle the Lunar cycle was established, which gives rise to the evolution of the human race. The higher mind (Thoth) becomes related to 72 conditions on the physical, astral, and mental planes, which serve to correlate the five planes upon which manifestation now proceeds, and within which related planes are chronically comprised the 360 degrees of the Zodiac (year)—symbol of the life-cycle through which the development of the soul is accomplished. On the five planes of primordial nature, the Divine life (the gods) in five aspects takes birth.
+
+See AROUERIS, BIRTH OF OSIRIS, CREATION, DECANS, ELEMENTS (five), FIVE, GATHA DAYS (five), HORUS, LUNAR CYCLE, OSIRIS, PITRIYANA, PLANES (five), RULERS (five), THIEVES (five), THOTH, WORLDS (five), YEAR, ZODIAC.
+
+**Corrections made:** `Sevening` → evening; `Plutanrcs` → Plutarch; `Divire` → Divine; `AROUVERIS` → AROUERIS; `Lunak Cyc Le` → LUNAR CYCLE; `GaTHa pays` → GATHA DAYS; `THoru` → THOTH; `Wor.ups` → WORLDS; page headings `202 DEAD` removed; See-list spellings restored; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: DAYS, FIVE, SUPERADDED TO 360. `[word unclear]` stands for OCR `abner` in the Plutarch quotation. `SEVENTH` in the first See list is restored from OCR `SxerHmorTn`; uncertain. A stray `©` before "aspects" was removed.
 
 ## Full OCR entry body (exact)
 

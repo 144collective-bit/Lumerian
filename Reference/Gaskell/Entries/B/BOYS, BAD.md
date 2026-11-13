@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boys-bad
 headword: "BOYS, BAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `JosEPH (Mary)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]] |
 | `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Sparrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of uninstructed qualities of the lower mind, which need to be transmuted and raised.
+
+> "A boy, a worker of iniquity, ran up and came against the shoulder of Jesus, [try]ing to make sport of Him, or to hurt Him, if he could."—*Gospel of Pseudo-Matthew*.
+
+A fault of the lower nature pressed sore upon the Christ-soul, and brought grievous trouble with it, so that it became necessary for the Lord to forbid the liability of future temptation to arise.
+
+See JOSEPH (Mary), MAN (bad), SPARROWS.
+
+**Corrections made:** `Goepel` → Gospel; `Pseudo- Mathew` → Pseudo-Matthew; `JosEPH` → JOSEPH; `Man` → MAN; `Sparrows` → SPARROWS; quotation marks normalised.
+
+**Unclear or supplied:** `[try]ing` is supplied: the OCR reads `ing to make sport`.
 
 ## Full OCR entry body (exact)
 

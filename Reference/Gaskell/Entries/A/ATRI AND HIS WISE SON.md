@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atri-and-his-wise-son
 headword: "ATRI AND HIS WISE SON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sout` | **unresolved** (review queue) |
 | `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Soul centred in the astro-mental nature, together with its Divine deliverer and healer born within it. For the Soul must through its own evolution be its own saviour, by reason of its inherent Divine nature.
+
+See REDEEMER, SELF, SOUL, VALMIKI.
+
+**Corrections made:** `Sout` → SOUL.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

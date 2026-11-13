@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amitaugas-couch-endless-splendour
 headword: "AMITAUGAS COUCH (ENDLESS SPLENDOUR)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `PROSPERITY` | **unresolved** (review queue) |
 | `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of contemplation of the Supreme and repose upon the Infinite, when the consciousness is exalted to the buddhic plane.
+
+> "He (man) approaches the couch Amitaugas: that is prana (breath, speech)."—*Kaush. Upanishad*, I. 2.
+
+The soul comes to the state which signifies a sense of infinite rest and serenity,—which is comparable to the rhythm of the Great Breath which is perfectly harmonious and complete.
+
+See ATOMS, BREATH, PRANA, PROSPERITY, SPEECH.
+
+**Corrections made:** Page heading `46 AMSHASPANDS` removed from mid-text; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

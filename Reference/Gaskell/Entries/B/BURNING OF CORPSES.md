@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-burning-of-corpses
 headword: "BURNING OF CORPSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Corpse` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `CREMATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CREMATION OF THE CORPSE|CREMATION OF THE CORPSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the destroying principle which, through the destruction of effete forms of thought, may be the means of transmutation of qualities.
+
+See CORPSE, CREMATION.
+
+**Corrections made:** `qualities .` → qualities.; `Corpse` → CORPSE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown-of-upper-and-lower-egypt-the-sekhet-or-pschen
 headword: "CROWN OF UPPER AND LOWER EGYPT—THE SEKHET OR PSCHENT CROWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `HIGHER AKD LOWER` | **unresolved** (review queue) |
 | `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `PLUMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of the Divine supremacy over the higher and lower natures in the Soul.
+
+> "Amen-Ra, Lord of the uraeus crown, exalted by the two feathers, beautiful of diadem of the white crown of Upper Egypt. . . . He is adorned in his palace with the Sekhet crown. Loving its south and its north (i.e. the two divisions of Egypt which are symbolised by the Sekhet crown)."—Wiedemann, *Rel. of Anc. Egyptians*, p. 113.
+
+The "uraeus crown" signifies the triumph of Wisdom over the lower nature, and the "feathers" (plumes) signify the aspiring condition in which supremacy is realised. The "south and north" are the higher and lower divisions of Egypt which symbolise the higher and lower mental planes. See AMEN, AMENI, EGYPT, HIGHER AND LOWER, PALACE, PLUMES.
+
+**Corrections made:** `ite south and ite north` → its south and its north; `WIEDEMANN, Rel. of Ane. Egyptians` → Wiedemann, *Rel. of Anc. Egyptians*; `Eaypt` → EGYPT; `AKD` → AND.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

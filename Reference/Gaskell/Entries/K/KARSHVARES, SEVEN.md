@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-karshvares-seven
 headword: "KARSHVARES, SEVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 | `SABBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `SUMMER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the planetary chain system of seven terrene globes. Two on the buddhic plane; two on the mental; two on astral; and one on the physical,—the earth. The process of the soul's involution and evolution takes place on these.
+
+> "On Arezahi (west) and Savahi (east); on Fradadhafshn (south) and Vidadhafshn (south); and Vourubaresti (north) and Vourugaresti (north); on this bright Karshvare of Hvaniratha, the abode of cattle, the dwelling of cattle, the powerful Mithra looks with a health-bringing eye."—*Mihir Yasht*, S. B. of E.
+
+The planetary chain system of the macrocosm has its correspondency in the microcosm of the individual soul. The globe Hvaniratha is the Earth with its physical, astral, and mental elements. The "abode of cattle" is the field of manifested life in which the egos acquire experience. The "powerful Mithra" is a symbol of omnipotence,—the Divine energy which serves to awaken and express the Self as the life in the forms. The north globes are on the buddhic plane, the west and east on the mental, the south globes on the astral, and the manifest (bright) globe is on the physical plane.
+
+> "Invoke thou Zoroaster, the unseen Amshaspands who are over the seven keshvars of the earth!"—*Vendidad*, XIX.
+
+Rely upon the Soul which lies beyond the planes of manifestation, and which dwells beyond the eye and the ear which attend to Its expression!
+
+See AAT (waters), BULL (man), CATTLE, HVANIRATHA, PLANETARY CHAIN, REGIONS, RENOVATION, ROOT-RACES, ROUND, SABBATHS, SUMMER.
+
+**Corrections made:** `Mther Yasht` → Mihir Yasht; `Divine’ energy` → Divine energy; `Aat`, `CaTTLE`, `HVANRATHA` → HVANIRATHA, `RoorRACES` restored in See list; page heading `KAVIS` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `Mther Yasht` is read as Mihir Yasht.
 
 ## Full OCR entry body (exact)
 

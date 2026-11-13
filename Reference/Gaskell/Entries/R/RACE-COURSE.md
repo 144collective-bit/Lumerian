@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-race-course
 headword: "RACE-COURSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `DrEvAYANA` | **unresolved** (review queue) |
 | `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `HorseE (white)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The mental nature in which the consciousness rises.
+
+> "Homa grants strength and vigour to those who, mounted on white horses, wish to run over a race-course."—*Homa Yasht*, 22, Hava, *Hesaye*.
+
+The Spirit of the Supreme energises the mental ideals and aspirations which are to carry the egos on to the higher sub-planes of the mental plane.
+
+See DEVAYANA, HOMA, HORSE (white).
+
+**Corrections made:** `‘*` → "; `DrEvAYANA` → DEVAYANA; `HorseE` → HORSE; `Homa` capitalised in See list.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

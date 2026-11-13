@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manes
 headword: "MANES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `form)` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `Prrris (lunar` | **unresolved** (review queue) |
 | `solar)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the monads of life, and form. The same as the pitris.
+
+> "The manes are primeval deities free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues."—*Laws of Manu*, III. 192.
+
+The solar and lunar pitris are the spiritual monads of life and form, free from the pairs of opposites of the lower planes, operating without strife, and possessed of all useful qualities according to their types.
+
+> "The various classes of the manes are declared to be the sons of all those sages, Mariki, etc., who are children of Manu, the son of Hiranyagarbha."—*Ibid.*, 194.
+
+The many classes of monads are differentiated on the mental plane according to the kinds of qualities and types of forms which are to appear and grow up on the lower planes in the course of the cycle of life.
+
+See HIRANYAGARBHA, MANU, MONAD (life, form), PITRIS (lunar, solar).
+
+**Corrections made:** `ITI.` → III.; `JIbid.` → Ibid.; period supplied after `pitris`; See-list spellings restored (`Mant`, `Monap`, `Prrris`).
+
+**Unclear or supplied:** `MANU` (OCR `Mant`) is a likely reading.
 
 ## Full OCR entry body (exact)
 

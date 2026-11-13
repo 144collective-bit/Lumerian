@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-navigable-water
 headword: "NAVIGABLE WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Boat ON RIVER` | **unresolved** (review queue) |
 | `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane whereon evolution could be accomplished in the progress of the soul (ship). See BOAT ON RIVER, SHIP, WATER (lower).
+
+**Corrections made:** `Boat` → BOAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

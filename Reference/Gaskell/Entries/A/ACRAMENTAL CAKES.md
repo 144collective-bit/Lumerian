@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-acramental-cakes
 headword: "ACRAMENTAL CAKES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `UNEAVENED. i` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual nourishment, i.e. Truth and Goodness.
+
+> "O 'Heavenly Springtime'! I have [c]ome into Thee; I have eaten my sacramental cakes; I have power over the sacrificial portions of my beasts and birds; the feathered fowl of the light are given unto me, for I have followed the Gods when the Divine forms come."—*Book of the Dead*, Ch. CX., Blackden.
+
+The consciousness having risen to the higher mental plane, the growth of the true Self is now perceived to [be] the supreme fact of life. The "food of the Gods" has been eaten, and power is attained which renders sacrifice, asceticism, self-denial, or any form of self-abnegation, as not only unnecessary but impossible. The aspirations (birds), which led to these afflictions formerly, now yield their fruit in Wisdom and Love, for the Self has followed its ideals and been true to them.
+
+See AMBROSIA, BEASTS, BIRDS, BREAD, CONSCIOUSNESS, EATING, FOOD, GODS, HEAVENLY SPRINGTIME, LOVE OF GOD, MANNA, SACRIFICE, SELF, SHEWBREAD, TREASURE, UNLEAVENED.
+
+**Corrections made:** The OCR has lost the first letter of many lines; restored: `nourishnent` → nourishment; `ome` → come; `sacraientul` → sacramental; `acrificial` → sacrificial; `irds` → birds; `re given` → are given; `he Gods` → the Gods; `he higher` → the higher; `f the true Self` → of the true Self; `nd power` → and power; `acrifice` → sacrifice; `ny form` → any form; `nly` → only; `spirations` → aspirations; `aflictions` → afflictions; `ruit` → fruit; `elf` → Self; `rue` → true; See-list spellings restored; stray `i` at the end removed.
+
+**Unclear or supplied:** `[be]` is supplied: the OCR reads "perceived to the supreme fact". `[c]ome` restored from OCR `ome`.
 
 ## Full OCR entry body (exact)
 

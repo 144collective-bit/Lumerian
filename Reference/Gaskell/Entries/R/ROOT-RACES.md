@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-root-races
 headword: "ROOT-RACES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Regions` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `Rovnp` | **unresolved** (review queue) |
 | `SNow. ROPE FOR HAULING TIE }` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are described as four, five, seven, or ten types or forms of humanity on the buddhic, mental, astral, and physical planes of the globes of the planetary chain.
+
+> "Every Life-cycle on globe D (our earth) is composed of seven Root-races. They commence with the ethereal and end with the spiritual, on the double line of physical and moral evolution—from the beginning of the terrestrial round to its close. One is a 'planetary Round' from globe A to globe G, the seventh; the other, the 'globe Round' or the Terrestrial."—H. P. Blavatsky, *Secret Doctrine*, Vol. I. p. 183.
+
+> "There are seven Rounds in every manvantara; this Round is the fourth, and we are in the fifth Root-race at present. Each Root-race has seven sub-races."—Ibid., Vol. II. p. 452.
+
+> "Evolution in general, events, mankind, and everything else in nature proceed in cycles. Every Root-race, with its sub-races, etc., was entirely distinct from its preceding and succeeding Race. . . . The Human Races are born one from the other, grow, develop, become old, and die. Their sub-races and nations follow the same rule."—Ibid., pp. 462, 463.
+
+See BEASTS (three sorts), KARSHVARES, PLANETARY CHAIN, PYLUS, ROUND, RACES, RACHA, REGIONS, ROUND, SNOW.
+
+**Corrections made:** `ite` → its; `Buavarsxy` → Blavatsky; `Jbid.`/`ZJtid.` → Ibid.; `subraces` → sub-races; page headings `AND ROOTLESS` and `ROPE FOR HAULING TIE }` removed from mid-text and the end; stray `|` in the See list removed; See-list spellings restored (`Beasts`, `KarsHVARES`, `PyLus`, `Races`, `Racua`, `Regions`, `Rovnp`, `SNow`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

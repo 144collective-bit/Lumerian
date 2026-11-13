@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-carpenter
 headword: "CARPENTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `HYMN SINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Artificer. That aspect of the One Life which constructs and puts together.
+
+> "Tvashtar is the clever-handed carpenter-god, who, in particular, manufactured with his hatchet the thunderbolt of Indra, but also, in general, 'adorned heaven and earth—the parents, and all things with their forms,' whence heaven and earth are called 'the artificer's pair.' 'Tvashtar produced thee (Brihaspati) from all existing things, from hymn after hymn, the skilled artificer.'"—H. W. Watts, *Cosmology of the Rig-Veda*, p. 23.
+
+Spirit (heaven) and matter (earth) are "the Artificer's pair," because from them all things are produced, and from all qualities aspiration for growth arises.
+
+See CREATION, HYMN SINGING.
+
+**Corrections made:** `Rig- Veda` → Rig-Veda; stray `°` and `®` removed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

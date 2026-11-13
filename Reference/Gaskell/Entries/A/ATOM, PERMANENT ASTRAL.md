@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atom-permanent-astral
 headword: "ATOM, PERMANENT ASTRAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `OnoaorojIma` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `(lowest)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An atom on the astral plane attached to each causal-body, and forming a centre for personality in the whole series of incarnations.
+
+> "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord appointed a sign for Cain, lest any finding him should smite him."—Gen. iv. 15.
+
+And the Divine Wisdom-love pronounced a benediction upon that Individuality within, which shall not be slain, and decreed that "sevenfold" shall be the suffering which shall come about when the lower self by the Higher Self is slain. And a "sign" or permanent astral atom, is provided, which answers to the personality throughout the cycle.
+
+> "Each man who is born into the world is provided with an imperishable bone in his present physical body, and it is from or on this that his organisation will be built up anew at the time of the resurrection" (*Zohar*).—A. E. Waite, *Secret Doctrine*, p. 187.
+
+See ABEL, CAIN, ONOGOROJIMA, PERSONALITY, [word unclear] (lowest).
+
+**Corrections made:** `ven` → vengeance; `gign` → sign; `permanant` → permanent; `Seoret` → Secret; `Warts` → Waite; See-list spellings restored (`Carn`, `OnoaorojIma`); quotation marks normalised.
+
+**Unclear or supplied:** A See-list item before `(lowest)` is missing in the OCR and shown as `[word unclear]`.
 
 ## Full OCR entry body (exact)
 

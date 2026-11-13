@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-babel-city
 headword: "BABEL CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `CONFUSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFUSION BABEL|CONFUSION BABEL]] |
 | `LANGUAGE` | **unresolved** (review queue) |
 | `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a mental centre established in the soul, at an early period of human evolution, when the entire lower nature of the soul was in a homogeneous condition.
+
+> "From the very commencement of man's evolution, which was always meant to be spiritual only, he was a Temple (house of the Divine). At first his life was simple. It was onefold, so to speak, in order to express how simple it was. But even then the Divine Presence was within it potentially. It was not simple in its structure, but only in its powers of functioning. It was always a conscious being upon the spiritual planes, though its consciousness was what we might express by the term onefold: that word expresses its limitations, just like a child-consciousness. And then, as it performed its evolution upon the spiritual planes, it gradually unfolded more and more in its consciousness."—J. Todd Ferrier, *New Reformer*, Nov. 1911.
+
+See CONFUSION, LANGUAGE, SPEECH.
+
+**Corrections made:** `li was` → life was; `Topp` → Todd; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

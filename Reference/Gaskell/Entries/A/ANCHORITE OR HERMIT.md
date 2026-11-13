@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anchorite-or-hermit
 headword: "ANCHORITE OR HERMIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,16 @@ tags:
 | `SaNNyasins` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `SNATIKA` | **unresolved** (review queue) |
 | `STUDENT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul which undergoes many acts of self-discipline, and withdraws attention from the objects of sense.
+
+See ARHATS, ASCETICS, ASRAMAS, BRAHMACARIN, HERMIT, MONK, ORDERS, SANNYASINS, SNATIKA, STUDENT.
+
+**Corrections made:** See-list spellings restored (`Monx`, `OrnpERs`, `SaNNyasins`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

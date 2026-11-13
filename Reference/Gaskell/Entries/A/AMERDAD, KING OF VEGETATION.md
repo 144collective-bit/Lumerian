@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amerdad-king-of-vegetation
 headword: "AMERDAD, KING OF VEGETATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ASTRAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ASTRAL PLANE|ASTRAL PLANE]] |
 | `SHELTER` | **unresolved** (review queue) |
 | `WOOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOOD|WOOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of growth of forms on the astral plane, and concerned with the development of the instincts, feelings and desires.
+
+See ASTRAL PLANE, SHELTER, WOOD.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

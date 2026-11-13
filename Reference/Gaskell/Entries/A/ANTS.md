@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ants
 headword: "ANTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `FORM` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the monads of life and form.
+
+> "Ye divine ants—for it was they that produced this (ant-hill),—'the first-born of the world,'—the first-born of the world, doubtless, is this earth."—*Sata. Brâh.*, XIV. 1, 2, 10.
+
+The spiritual monads (atma-buddhic) build up the forms and endow with life all the atoms and beings of the lower nature, which manifest first,—prior to spiritual qualities. The first to manifest in the cycle of evolution is the lower nature (earth).
+
+See DEVAS, EARTH, FORM, MONAD OF LIFE.
+
+**Corrections made:** `ante` → ants; `Saza. Bréh.` → Sata. Brâh.; `atmabuddhic` → atma-buddhic; page heading `ANUBIS` removed from mid-sentence; `Devas` → DEVAS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

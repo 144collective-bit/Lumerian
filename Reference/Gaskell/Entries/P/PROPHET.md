@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophet
 headword: "PROPHET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `CHILDREN OF JERUSALEM` | **unresolved** (review queue) |
 | `ELIJAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/ELIJAH THE PROPHET|ELIJAH THE PROPHET]] |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a dawning of higher consciousness, and a recognition of reality. An intuition within the mind which foresees coming outpourings of spiritual faculty and increased perception of truth.
+
+> "And they glorified God, saying, a great prophet is arisen among us: and God hath visited his people."—Luke vii. 16.
+
+This refers to the perfecting of the qualities and their recognition of the higher state of consciousness which Christ brings to the soul.
+
+> "By a prophet is understood truth of doctrine. . . . By prophet is meant doctrine of the church derived from the Word."—Swedenborg, *Apoc. Rev.*, n. 3, 7.
+
+See CHILDREN OF JERUSALEM, ELIJAH, JOHN BAPTIST.
+
+**Corrections made:** `thé` → the; `LUKE` → Luke; `SweEpDENBORG, A poc. Rev.,n.` → Swedenborg, Apoc. Rev., n.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-byblos-in-lower-egypt
 headword: "BYBLOS IN LOWER EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CoLumn` | **unresolved** (review queue) |
 | `ScENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 | `WORSHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental stage in which lower knowledge is arrived at.
+
+See COLUMN, SCENT, WORSHIP.
+
+**Corrections made:** `CoLumn`, `ScENT` → COLUMN, SCENT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

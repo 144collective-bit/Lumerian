@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-maruts
 headword: "MARUTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -63,6 +64,40 @@ tags:
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `VAcH#` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual monads, or Divine "sparks," which descend into the soul-forms prepared to receive them.
+
+> "There can be no doubt about the meaning of the name, whatever difference of opinion there may be about its etymology. Marut and marutu in ordinary sanscrit mean wind, and more particularly a strong wind."—Max Müller, S. B. of E., Vol. XXXII. p. 32.
+
+As wind, or breath, expresses spirit in Hebrew, Greek, and perhaps Latin, it is not unreasonable to suppose it may express the same in Sanscrit.
+
+> "The Maruts were certainly riders, and whatever other scholars may say to the contrary, it can be proved that they were supposed to sit astride on horseback, and to have the bridle through the horses' nostrils."—*Ibid.*, p. 43.
+
+The "horse" is a common symbol of the mind, which is a vehicle of the spirit, and should be under the rule and direction of the spiritual ego. "Nostrils," used for direction, symbolise volition.
+
+> "The Maruts were born from the milk of Prisni. Prisni is called their mother, Rudra their father."
+
+> "They were closely connected with each other, like the branches of a tree."—*Ibid.*, pp. 73, 208.
+
+The spiritual monads are atma-buddhic. "Prisni," the heavenly cow, is a symbol of the buddhic plane, which being the plane immediately above the mental must give birth to the monad in the mind. "Rudra" signifies the atmic plane, and is therefore the spiritual father. The monads are branches of the tree of Life, united in the trunk, and rooted in the Absolute.
+
+> "The flame-born Maruts."—*Rig-Veda*, [VII?] [text unclear].
+
+> "[text unclear] are the peasants."—*Sata. Brâh.*, V. 3, 1, 6.
+
+The monads are the sparks from the eternal Fire of the Divine Spirit (agniswattas). They are also the cultivators of the lower nature (i.e. [peasants?]).
+
+> "The [word unclear] of the Maruts consist of seven each."—*Sata. Brâh.*, IX. 3, 1, 25.
+
+The seven divisions of the monads are in correspondence with the seven globes, the seven planetary chains, the seven planes, etc. These numerical correspondences indicate certain organic relationships between the phenomenal sets.
+
+See AGNISHVATTAS, BODHISATVAS, BREATH, CHARIOT, COW, [Fax?], FRAVASHIS, HORSES (bay), INCARNATION OF SOULS, LIGHTNING, MANASAPUTRAS, MAZENDARANS, MONADS OF LIFE, NOSE, PACCEKA-BUDDHAS, PEASANT, PITRIS (solar), [PoTsHern?], RACES, RUDRA, SACRIFICER, SAGES, SINGERS, SONS OF GOD, SPARK, SPEAR, SPIRIT, TREE OF LIFE, TWELVE, VACH, WIND.
+
+**Corrections made:** `S. B. of Z.` → S. B. of E.; `Jbid.` → Ibid.; `branchea` → branches; `Bréh.` → Brâh.; `atmabuddhic` → atma-buddhic; page heading `484 MASCULINE` removed from mid-text; many See-list spellings restored (`CxHariot`, `Cow`, `Nose`, `Peasant`, `Rupra`, `SrvcErs`, `VAcH#`, and similar).
+
+**Unclear or supplied:** The Rig-Veda and Satapatha quotations are badly damaged in the OCR (`Vm arate ere the peasante.'' 6 re the`): `[VII?]`, `[text unclear]` (twice) and the closing quotation marks are supplied. `(i.e. [peasants?])` (OCR `Le. ts`); `[word unclear]` (OCR `ieee`). The opening quotation mark before "The Maruts were certainly riders" is supplied; the text before it ("As wind, or breath ... Sanscrit") is treated as Gaskell's own. `[Fax?]` and `[PoTsHern?]` in the See list cannot be identified.
 
 ## Full OCR entry body (exact)
 

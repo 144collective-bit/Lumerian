@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pastoral-life
 headword: "PASTORAL LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `FUH-HE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FUH-HE, OR TAE-HAOU|FUH-HE, OR TAE-HAOU]] |
 | `JABAL` | **unresolved** (review queue) |
 | `PAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAN PALESTINUS OR PELUSIUS|PAN PALESTINUS OR PELUSIUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the activities of the desire-mind, and the disciplining of the lower emotions.
+
+> "Fuh-he recommended pastoral employments for the people, and the rearing of domesticated animals."—*Chinese Mythology*, Kipp, China.
+
+This is a reference to the dawn of the intelligence, and the cultivation of the lower faculties in such a way that they might become of use to the soul.
+
+See ANIMALS, FUH-HE, JABAL, PAN.
+
+**Corrections made:** `employmenta` → employments; `Chénese` → Chinese; `AN™ALS` → ANIMALS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

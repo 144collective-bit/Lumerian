@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-head-of-set-cut-off
 headword: "HEAD OF SET CUT OFF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SEt. Gops` | **unresolved** (review queue) |
 | `Hokrvs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the mental element in the desire-mind being removed.
+
+> "Horus next cut off Set's head, and the heads of his followers, in the presence of Rā and the gods, and then dragged his body through all the land."—*Legend of the Winged Sun-disk*.
+
+This means the depriving evil of its intelligent quality. And now the Self is enabled to unite the consciousness of the lower planes with his own; so that no longer was there evil or separateness between himself above and the manifestation of himself on the lower planes. See BEHEADING, RA, SET, GODS, HORUS.
+
+**Corrections made:** `R&` → Rā; `SEt. Gops, Hokrvs,` → SET, GODS, HORUS.; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

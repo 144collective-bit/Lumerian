@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-simeon-veil-of-isis-woman-virgins-of-the-parable
 headword: "SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,28 @@ tags:
 | `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `O11` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of ten faculties of perception. The five wise virgins signify five inner means of contacting higher planes. The five foolish virgins signify the five senses.
+
+> "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. And five of them were foolish and five were wise. For the foolish, when they took their lamps, took no oil with them; but the wise took oil in their vessels with their lamps."—Matt. xxv. 1-4.
+
+The state of consciousness on higher planes is foreshadowed in the process of achieving that state. The "bridegroom" is the Christ, and the marriage is the union of Wisdom and Love, the bride being the condition which is implied in the soul's arriving at the higher state. The five senses have not the substance of love and Truth wherewith the Spirit feeds the flame of life in the causal-vehicle (lamp). The five higher faculties are possessed of it. When the period of union arrives, the higher faculties, being spiritual, take their part in it, but the senses remain outside and are of no avail; they are referred to the means that science provides for the gathering of facts and approaching the Truth.
+
+> "The virgins are divided into two equal numbers of five, inasmuch as the one class preserved the five senses, which most people consider the gates of wisdom, pure and undefiled by sins; but the others, on the contrary, corrupted them by multitudes of sins. . . . Now the oil represents wisdom and righteousness; for while the soul rains down unsparingly, and pours forth these things upon the body, the light of virtue is kindled unquenchably."—Methodius, *Banquet of the Ten Virgins*, Ch. III.
+
+The virgins all slumbered because they were unconscious of the highest happenings.
+
+> "But at midnight there is a cry, behold the Bridegroom! Come ye forth to meet him."
+
+Here, "midnight" signifies the period of attainment of the required conditions when the union of Higher and Lower can take place. It is then that Christ appears to the wondering and adoring soul. The thrill of His mighty presence calls on all the faculties of the vehicles of the ego to bestir themselves. They rouse from their sleep and look around.
+
+See CHRIST, DOOR (shut), FIVE (number), [FIRED?], FIRE, KINGDOM OF HEAVEN, LAMP, MARRIAGE, NIGHT, OIL, PARABLE.
+
+**Corrections made:** `Jamps` → lamps; `Mume` → flame; `Mart.` → Matt.; `Mrrnopius` → Methodius; `_ righteousness` → righteousness; page heading `VIRGO` removed from mid-sentence; See-list spellings restored (`Curist`, `KInapom or HEAVEN`, `Lamp`, `O11` → OIL); and similar minor fixes.
+
+**Unclear or supplied:** `[FIRED?]` is a guess at the damaged See item `Frme_p`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pisces-the-zodiacal-sign
 headword: "PISCES, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `JEsus (fish)` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `SunMOFIONLESS` | **unresolved** (review queue) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the twelfth period of the cycle of life, which is the final period of evolution on the buddhic plane. At the close of the cycle, the Christ-soul (Jesus the "Fish") becomes one with the Christ (Higher Self the "Fish"), or the redeemed souls become one with the Redeemer,—the lower consciousness unites with the higher (the two fishes).
+
+> "Possibly the 'Fish' symbol of early Christianity may be explained by [word unclear]. On the catacomb lamps there are two fish, one swallowing the other."—[author unclear], *The Old Test.*, etc., Vol. I. p. 76.
+
+> "Pisces, the last of the signs, is [repre]sented by two fishes bound by a [cord?]. Love and deep compassion is the real nature of Pisces."—J. H. Van Stone, *On the Zodiac*.
+
+See AMENT, AUSHEDAR, FISH (great), GEMINI, [Iapraora?], JESUS (fish), SUN MOTIONLESS, ZODIAC.
+
+**Corrections made:** `Vol. L` → Vol. I.; `VanstTonz` → Van Stone; `F isu` → FISH; `Gemini`, `JEsus` normalised; `SunMOFIONLESS` → SUN MOTIONLESS; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `Peeves`; `[author unclear]` replaces OCR `A. oly ea`; `[repre]sented` is reconstructed from OCR `sented`; `[cord?]` is a reading of OCR `cond`. See-list item `[Iapraora?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-staff
 headword: "GOLDEN STAFF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `FILLET OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Ray from the Supreme which vibrates downwards through the planes. See FILLET OF APOLLO.
+
+**Corrections made:** Nothing changed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

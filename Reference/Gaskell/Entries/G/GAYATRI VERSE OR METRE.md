@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gayatri-verse-or-metre
 headword: "GAYATRI VERSE OR METRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `KAIOMARTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KAIOMARTS KAIOMARTS OR GAYOMARD|KAIOMARTS KAIOMARTS OR GAYOMARD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane in relation to the rate of vibration in the atoms of astral matter.
+
+### Also in this note: GAYOMARD
+See KAIOMARTS.
+
+**Corrections made:** `GAYOMARD :-—` set as the second entry's headword.
+
+**Unclear or supplied:** Contains a second entry: GAYOMARD (a cross-reference only, "See KAIOMARTS").
 
 ## Full OCR entry body (exact)
 

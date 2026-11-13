@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enoch
 headword: "ENOCH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `JARED` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JARED, FATHER OF ENOCH|JARED, FATHER OF ENOCH]] |
 | `Sovun (middle)` | **unresolved** (review queue) |
 | `WALKING WITH GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality; that part of the soul which survives physical and astral dissolution,—or the first and second deaths, and is immortal.
+
+See INDIVIDUALITY, JARED, SOUL (middle), WALKING WITH GOD.
+
+**Corrections made:** `Sovun` → SOUL; `GoD` → GOD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-demons-and-fiends
 headword: "DEMONS AND FIENDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,24 @@ tags:
 | `RAKSHASAS` | **unresolved** (review queue) |
 | `SPENTO` | **unresolved** (review queue) |
 | `VISTASP` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are nature-spirits, or non-human intelligences concerned with the direction of lower plane activities. They are elemental forces, instinctive, blind, and persistent, working automatically on the astral plane. They build up habits, and are adverse to spirit, striving against the Higher attempts which are made from above to raise the soul.
+
+> "Owing to the gracelessness which they practised, the demons became more oppressive, and they themselves carried on unnatural malice between themselves; they advanced one against the other, and smote and tore their hair and cheeks."—*The Bundahis*, Ch. XV. 17.
+
+The mental-body (kama-manasic vehicle) being now built up, this serves to render the mind of the ego impervious to the higher rate of vibrations from above, but at the same time, increasingly responsive to the vibrations from below. The warring of the "members" (qualities) within the lower self, the conflicts of lusts and affections, become increasingly troublesome, and produce disorder in the lower mind. One desire advances against another, thus defeating each other's ends. The "smiting of cheeks and tearing of hair" signify the forcible check which is put upon one desire by another. But the check is possible only when forethought and the more intelligent phases of the desire-nature come to be evolved,—and these are typified by the "cheeks and hair," which symbolise the higher aspects of the desires.
+
+> "Then the demons shouted out of the darkness thus: 'You are man, worship the demon! so that your demon of malice may repose.'"—*Ibid.*, 18.
+
+This implies that the faint dawnings of the lower Self, reflected in the desires through efforts at Self-realisation, cause stress and sorrow. The first impulse of the ego is to work for the benefit of self, hence the lower qualities alone are observed to be of assistance at this stage of development.
+
+See AHRIMAN, ASURA, DAEVAS, DAEMONS, DEVILS, IRON AGE, MEMBERS, RAKSHASAS, SPENTO, VISTASP.
+
+**Corrections made:** `nonhuman` → non-human; `bulid` → build; `Other` → other; `Serves` → serves; `Jbid.` → Ibid.; stray dash before "the cheeks and hair" removed; page heading `213 DEPRAVITY` removed from mid-sentence; See-list spellings restored (`AsuRA`, `DAEVas`, `Devits`, `Iron ace`, `MrmBERS`); and similar minor fixes.
+
+**Unclear or supplied:** See-list item OCR `Darsons` restored as DAEMONS; uncertain.
 
 ## Full OCR entry body (exact)
 

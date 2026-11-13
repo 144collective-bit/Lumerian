@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dzmon-cutting-instruments-of-brass-and-iron
 headword: "DZMON CUTTING INSTRUMENTS OF BRASS AND IRON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Iron` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IRON AGE|IRON AGE]]; [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]]; [[Reference/Gaskell/Entries/I/IRON FROM HEAVEN|IRON FROM HEAVEN]]; [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `METAL` | resolved (singular/plural) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
 | `TUBAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the incisive intellectual powers of analysis and discrimination.
+
+See BRASS, IRON, METAL, TUBAL.
+
+**Corrections made:** See-list spellings restored (`Brass`, `Iron`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pollux-or-polydeukes
 headword: "POLLUX OR POLYDEUKES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Gemini` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GEMINI, THE ZODIACAL SIGN|GEMINI, THE ZODIACAL SIGN]] |
 | `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "Son of God" within, that is, the Higher Self in its relation with the lower Self (Castor); or the Individuality (Pollux) with the Personality (Castor).
+
+> "According to some, Pollux and Helen only were children of Zeus, and Castor was the son of Tyndareus, King of Lacedaemon. Hence Pollux was immortal, while Castor was subject to old age and death like every other mortal."—*Smith's Class. Dict.*
+
+The Higher Self and Wisdom only were Divine; while the Personality was begotten by the astro-mental nature. Hence, while the first were immortal, the second was mortal.
+
+See AMYCUS, ASVINS, DIOSCURI, GEMINI, HELEN, PERSONALITY.
+
+**Corrections made:** page headings `INTUITION,` and `POLYPHEMUS` removed from mid-text; `Dioscunri` → DIOSCURI; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-causal-body-house-in-heaven-sacrifice-stone-stone-b
 headword: "CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `House (frequented)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `KaaBa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic-sheath of the indwelling Spirit. Its vehicle is the causal-body (Kaaba). It is black to signify the potential and hidden spirit within the soul.
+
+See HOUSE (frequented), KAABA,
+
+**Corrections made:** `House` → HOUSE; `KaaBa` → KAABA.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR; later items may be lost.
 
 ## Full OCR entry body (exact)
 

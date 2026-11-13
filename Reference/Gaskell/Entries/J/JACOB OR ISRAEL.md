@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jacob-or-israel
 headword: "JACOB OR ISRAEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `IsrarLites` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `LADDER (Jacob’s). | JAIRUS’` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the natural man of a period.
+
+See ISRAELITES, LADDER (Jacob's).
+
+**Corrections made:** Page headings `OF LAMECH AND LAMECH,` and `JAIRUS'` removed; stray `|` removed; `IsrarLites` → ISRAELITES.
+
+**Unclear or supplied:** The words `OF LAMECH AND LAMECH,` between the definition and the See list were treated as a page heading.
 
 ## Full OCR entry body (exact)
 

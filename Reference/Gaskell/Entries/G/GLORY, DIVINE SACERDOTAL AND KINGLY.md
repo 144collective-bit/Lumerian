@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-glory-divine-sacerdotal-and-kingly
 headword: "GLORY, DIVINE SACERDOTAL AND KINGLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,22 @@ tags:
 | `Son or GOD` | **unresolved** (review queue) |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Divine Ray of Consciousness and Life which proceeds from the Absolute and passes through the upper planes to the lower.
+
+> "The Divine sacerdotal and Kingly Glory is handed onward from [saint?] to [saint?], ever with a view to its illuminating the soul of the Inspired one. It is ordained of Heaven, moreover, that this Glory shall be combined with the Fravasi and the material body, so as to produce from this threefold union the wonderful child (Zoroaster)."—*The Dinkart*, VII. 2, 68—70. S.B. of E.
+
+The Divine Monad of Consciousness and Life passes on, during the process of involution, from seed-ego to seed-ego, and ultimately in the epoch of evolution, incarnates as human soul monads in the lower vehicles which are prepared for it as a dwelling-place; thus bringing Wisdom eventually to the Soul. It is so ordained by the Divine Law that the Spiritual Consciousness shall dawn in the soul, through the union on the higher mental plane of the Monad of Life (Fravasi) with the Monad of Form,—the one representing Force, and the other Matter, and the junction of the two leading up to the third,—Spirit or Consciousness; thus producing the threefold elements of the coming Soul.
+
+(To explain further,—Life and Consciousness are aspects of the Self which illuminate every developing Son of God. These aspects are to be conceived of as passing through, or animating, each successive manifestation of the involved Self which is differentiated in them. Fundamentally there is, of course, but one Self,—the direct expression of the Logos,—and from this One proceed the several manifestations which function and produce the many phenomenal results which contribute to the growth and expansion of the soul. Ultimately, the way having been prepared during the process and period of involution, the incarnation of the Divine Monad,—the One becoming the many,—is possible. But this "dismemberment" can only occur when the Self comes forth, or evolves, into the realm of Maya. Incarnation completes involution, and is the point when evolution commences.)
+
+See ABSOLUTE, ARC. MAN, ASSUMPTION, BIRTH OF KRISHNA, OF ZOROASTER, BODHISATVA, CONCEPTION, CONSCIOUSNESS, DISMEMBERMENT, EVOLUTION, FRAVASHI, HEBDOMAD, INCARNATION, INVOLUTION, MAYA, MONAD OF LIFE, SEED, [SEXTR?], SON OF GOD, VIRGIN MARY, ZOROASTER.
+
+**Corrections made:** `gaint to paint` → saint to saint (bracketed as uncertain); `seedego` → seed-ego; `Mayda` → Maya; `MiydA` → MAYA; `dismemberment™` → dismemberment; stray `_` removed; page heading `GNOSIS` removed from mid-sentence; See-list spellings restored (`CoNSCIOUSNESS`, `DIsSMEMBERMENT`, `Monap oF LIFE`, `Son or GOD`); quotation marks normalised.
+
+**Unclear or supplied:** `[saint?] to [saint?]`: OCR reads "gaint to paint". `[SEXTR?]`: OCR reads `Sextr`, a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gatha-ahuna-vairya-times-chanted
 headword: "GATHA AHUNA-VAIRYA, TIMES CHANTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `TRISHTUBH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRISHTUBH METRE|TRISHTUBH METRE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the formation of the lower quaternary, through buddhic vibrations passing downward, or outward.
+
+> "Famous in Airyana-vaéjo, thou (Zarathustra) first recitest the unavairya four times, with pauses between the verses, each successive time with a louder recitation."—*Homa Yasht*, Haug, *Essays*, p. 179.
+
+This refers to the inter-relation between the astral and buddhic (Airyana-vaéjo) planes. And the repetition of the hymn four times is the establishment of the lower quaternary. The pauses are the distinctive operations of the elemental forces of nature. The recitation of the verses and the louder utterance of them refers to the increasing density of the matter of the four lower planes, viz. lower mental, astral, etheric, and gross physical.
+
+See ARYANA, ASTRAL PLANE, BUDDHIC PLANE, CARPENTER, HOUSE RULER, HYMN SINGING, MUSIC, PLANES, QUATERNARY, TRISHTUBH.
+
+**Corrections made:** `Hava` → Haug; `varéjo` → vaéjo; stray `_` removed (twice); page heading `FOUR GATHA` removed from mid-sentence; See-list spellings restored (`BuDDHIC`, `House`, `Music`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

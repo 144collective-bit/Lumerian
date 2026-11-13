@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-constellation-of-the-seven-rishis
 headword: "CONSTELLATION OF THE SEVEN RISHIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `ete.` | **unresolved** (review queue) |
 | `Vol. I. p. 49. See Dracon (red) Stars (fixed)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol referring to the seven planes, or the seven root-races of humanity. See RACES, RISHIS, ROOT-RACES, ROUNDS.
+
+### Also in this note: CONSTELLATIONS
+
+Groups of stars (mental faculties) which stand for the various mental states and experiences of the souls.
+
+> "In the present universe divine wisdom is, as it were, codified in the constellations. The stars are called in Babylonian, 'writing of the heavens.' The moving stars of the zodiac in their constellations are especially interpreters of the divine will. . . . In the Babylonian religion the symbols of the gods are the same as those of the constellations."—A. Jeremias, *Old Test.*, etc., Vol. I. p. 49.
+
+See DRAGON (red), STARS (fixed), ZODIAC.
+
+**Corrections made:** page heading `CONSTELLATIONS` removed from mid-sentence; `bumanity` → humanity; `RisHes` → Rishis; `RoOorT-RACES, Rounpbs` → ROOT-RACES, ROUNDS; `JEREmias` → Jeremias; `ete.` → etc.; `Dracon` → DRAGON; the second entry's heading `CONSTELLATIONS, ISMS -—` set out as a heading (OCR `ISMS` unclear).
+
+**Unclear or supplied:** Contains a second entry: CONSTELLATIONS. The OCR heading reads `CONSTELLATIONS, ISMS -—`; `ISMS` is probably a scanner fragment and is omitted from the heading. See-list `DRAGON (red) STARS (fixed)` lacks a comma in the OCR; one is supplied.
 
 ## Full OCR entry body (exact)
 

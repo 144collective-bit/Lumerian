@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-navel
 headword: "NAVEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,28 @@ tags:
 | `Manco` | **unresolved** (review queue) |
 | `Pranas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANAS, FIVE LIFE-BREATHS|PRANAS, FIVE LIFE-BREATHS]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a point on the mental plane midway between the higher and lower natures.
+
+> "That part of the vital air which is immortal is above the navel, and streams out by upward breathings; but that which is mortal passes by and away [from the?] navel."—*Sata. Brâh.*, VI.
+
+That part of the active mind (air) which is immortal is above the lower nature and aspires upward; but that which is mortal is influenced by the desires and sensations which are below.
+
+> "We worship the guardian angel of Gayo-marathan (Gayomard) the righteous, who first listened to Ahuramazda's thoughts and sayings; out of whose body he (Ahuramazda) formed the central mass (nâfô, 'navel') of the Aryan countries, the surface of the Aryan countries."—M. Haug, *Essays on Religion of Parsis*, p. 211.
+
+The Divine nature (fravashi) of the Archetypal Man is extolled as carrying out the designs of the Supreme. From the form side (the body) of the Ideal Man, the mental plane (Iran) was evolved and divided centrally into higher and lower.
+
+> "Delphi was regarded as the central point of the whole earth, and was hence called the 'navel of the earth.' It was said that two eagles sent forth by Jupiter, one from the east and the other from the west, met at Delphi at the same time."—Smith's *Class. Dict.*
+
+The reference to the "two eagles" signifies that the Self above, and the Self below, advancing in the soul from the opposite sides of spirit and matter, meet at the junction of the higher and lower minds, when the two become one in the resurrection of the lower Self from the dead (matter).
+
+See AIR, ARC. MAN, ARYAVARTA, BREATH, DEAD, EAGLE, FRAVASHI, GAYOMARD, [MANAS?], PRANAS, ZEUS.
+
+**Corrections made:** `ment:!` → mental; `stream:` → streams; `tha:` → that; `Bréh.` → Brâh.; `thoughta` → thoughts; `Ahuramazda'a` → Ahuramazda's; `n&f6` → nâfô; `Hava` → Haug; page heading `NAVIGABLE` removed from mid-sentence; See-list spellings restored (`Arm`, `BrEeatH`, `Deap`, `EaGik`, `Karomarnrs`).
+
+**Unclear or supplied:** `[from the?]` stands for OCR `ae Fas`. `[MANAS?]` is a doubtful reading of `Manco`.
 
 ## Full OCR entry body (exact)
 

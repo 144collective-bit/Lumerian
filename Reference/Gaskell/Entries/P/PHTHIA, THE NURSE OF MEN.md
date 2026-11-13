@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phthia-the-nurse-of-men
 headword: "PHTHIA, THE NURSE OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `NURSE OF MEN` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NURSE OF MEN|NURSE OF MEN]] |
 | `Suips (beaked)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHIPS, BEAKED|SHIPS, BEAKED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of prolific experience, which is the outcome of the evolution of the mental faculties in the soul. See NURSE OF MEN, SHIPS (beaked).
+
+**Corrections made:** `Suips` → SHIPS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

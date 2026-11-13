@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seeds-of-foods-and-plants
 headword: "SEEDS OF FOODS AND PLANTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,24 @@ tags:
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
 | `"“EREEs (tall)` | **unresolved** (review queue) |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of germs of thoughts, ideals, and desires.
+
+> "Thither bring the seeds of all plants which are the tallest and most odoriferous on this earth. Thither bring the seeds of all foods which are the most eatable and most odoriferous on this earth. Make pairs of them unceasingly, in order that these men may exist in the enclosures."—*Vendidad*, II.
+
+The "seeds of plants" are symbolical of the germs of desires which are to give rise to the higher emotions. The "seeds of foods" are the germs of ideas and ideals which are to fructify in goodness and truth and become nourishment for the soul. The "pairs" are the pairs of opposites without which no existence upon the planes of the lower quaternary would be possible.
+
+> "At first the germs of thought remained asleep; but as the elements fitted to make them grow were added to the soil of the world, they grew up, one after another, trees of knowledge and of life, of whose fruits men took, and eating, knew more of God, of their own being, and of their duties to their fellow-men. Many of these seeds are still asleep, and the future extension of revelation consists in their coming to the light as the conditions under which they can spring up are fulfilled in the progress of mankind. 'I have yet many things to say to you,' said Christ, 'but ye cannot bear them now.' . . . It seems reasonable, then, to say that revelation is not yet completed, but being completed, that we look for higher knowledge of God, for larger moral views of His relation to us and of ours to Him, as time goes on and mankind grows. God has not said His last word to us nor Christ given His last counsel of perfection, nor has the Spirit yet shown to us the whole of truth."—Stopford A. Brooke, *Serm.*, The Changed Aspect of Theology.
+
+> "Everywhere the lower furnishes opportunities for the higher, and is a failure unless the higher blooms out of the ground which the lower has made ready."—[Phillips?] Brooks, *Mystery of Iniquity*, p. 264.
+
+See CHILDREN OF MEN AND WOMEN, EARTH, FOOD FOR GODS, FOOD FOR MAN, FRUIT-TREE, GERMS, HERB (seed), MAN, ODOUR, OPPOSITES, PLANTS, QUATERNARY, SETTLEMENTS, TREES (tall), VARA.
+
+**Corrections made:** `sceds` → seeds; `sym.bolical` → symbolical; `whict` → which; `germ:` → germs; `Srorrorn A. Bnrooxr` → Stopford A. Brooke; `completed. but heing` → completed, but being; `readv` → ready; page heading `SEEDS` removed from the See list ("Foon For SEEDS B4AN" → FOOD FOR MAN); See-list spellings restored (`Earts`, `Opour`, `OPpposirss`, `JPLANTS`, `"EREEs`, `HERB € seed)`, and others).
+
+**Unclear or supplied:** `[Phillips?]`: the OCR reads `ors Brooks`.
 
 ## Full OCR entry body (exact)
 

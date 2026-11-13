@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bread-or-bread-of-heaven
 headword: "BREAD, OR BREAD OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,30 @@ tags:
 | `STONES AND BREAD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
 | `UNLEAVENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNLEAVENED BREAD|UNLEAVENED BREAD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual food of the soul, namely, truth—the substance of goodness, which is the staff of the higher life.
+
+> "For the bread of God is that which cometh down out of heaven, and giveth life unto the world."—John vi. 33.
+
+For the Truth is of the essence of the Self, and is that which cometh forth from the higher planes to nourish the soul and dispel the illusions of the lower nature.
+
+> "Teta (the Osirified) liveth upon the daily bread which cometh in its season. He liveth upon that which Shu liveth. . . . He eateth and drinketh what the gods eat and drink."—Budge, *Book of the Dead*, p. cxxii.
+
+The perfected soul (Teta) subsists upon the Truth which comes to it in the course of its further development, and its activities are in accordance with the Divine will (Shu). It taketh part in the life of the higher qualities ([word unclear]).
+
+> "By bread is meant all that is spiritual and celestial, which is the food of angels, 'the bread which came down from heaven.'"—Swedenborg, *Arc. Cel.* to Gen. iii. 18.
+
+> "The spiritual meaning of anything is its real meaning. Physical things are but shadows or symbols of spiritual realities. When Jesus spoke of physical bread it was really spiritual bread he meant. It is impossible for a deeply spiritual being, such as He is represented to be, to speak of physical things without having in his mind their spiritual equivalents."—R. J. Campbell, *Serm.*, *The Spiritual Meaning of Childhood*.
+
+> "Hence there follows, 'And ye shall know the truth.' The truth is unchangeable. The truth is bread, which refreshes our minds and fails not; changes the eater, and is not itself changed into the eater. The Truth itself is the Word of God."—Augustine, *Gospel of John*, Vol. II. p. 30.
+
+See CAKES, CORN, [Dovuas?], EATING, FEEDING (five thousand), FLOUR, FOOD, HOST, [Kuaprr?], MANNA, MEAL, PROCESSION, SACRAMENT, SACRAMENTAL CAKES, SEASONS, SHEWBREAD, STONES AND BREAD, TRANSUBSTANTIATION, UNLEAVENED.
+
+**Corrections made:** `subBREAST-EYED stance` → substance with page heading `BREAST-EYED` removed; `Jouw` → John; `BupD@E` → Budge; `AvGusTINE` → Augustine; See-list spellings restored (`Caks`, `Conn`, `EAarTIna`, `Freepine`, `FLOuUR`, `Foop`, `PROcESSION`).
+
+**Unclear or supplied:** `([word unclear])` after "higher qualities": the OCR has only `).`, the parenthetical text was lost. See-list items `[Dovuas?]` and `[Kuaprr?]` cannot be identified with confidence.
 
 ## Full OCR entry body (exact)
 

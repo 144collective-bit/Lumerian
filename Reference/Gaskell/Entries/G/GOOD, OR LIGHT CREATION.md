@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-good-or-light-creation
 headword: "GOOD, OR LIGHT CREATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `ImaGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IMAGE OF GOD|IMAGE OF GOD]] |
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfect archetypal production of qualities and forms upon the upper planes of being.
+
+> "And God saw that it was good."—Gen. i. 10.
+
+All that was produced through involution was pronounced "good," that is, perfect for purposes of forthcoming manifestation upon the lower planes in the cycle of evolution. See COSMOS, CREATION, GOLDEN AGE, IMAGE, INVOLUTION, PROTOTYPES.
+
+**Corrections made:** `Grew.` → Gen.; `ImaGE` → IMAGE; `Cosmos` → COSMOS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

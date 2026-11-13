@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-covenant-of-law-and-covenant-of-grace
 headword: "COVENANT OF LAW, AND COVENANT OF GRACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,26 @@ tags:
 | `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 | `WoMAN (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of stages and methods of the soul's evolution.
+
+> "Wherefore the law was our schoolmaster to bring us unto Christ that we might be justified by faith."—Gal. iii. 24.
+
+Wherefore the law of cause and effect, of reason and experience,—was as a teacher to lead us unto Wisdom and Love, that at length we should be perfected by intuition and perceive the Truth of things direct. The first dispensation which is the moral law learned through experience and reason, and enforced by the conscience and the demands of social preservation and order, is supported and enhanced by the second dispensation which bestows the law of Love—a law free of coercion either from within or from without. It operates through attraction to all that is higher in the life of the soul.
+
+> "Unless the Church has more than a high morality to offer, it has ceased to be Christian. For as in Art, so in Christianity, its direct end is not to make men moral, but to awaken in them those deep emotions, and to present to them those high ideals, which, felt and followed after, will not only indirectly produce morality, but aspiration and effort to do far more than men are absolutely bound to do by the moral law."—Stopford A. Brooke, *Serm.*, *Changed Aspect*, etc.
+
+> "In the religious idea is the solution of the moral problem. This idea is none other than the idea of Perfection, which is in us at the bottom of our inner life, and realises itself—in idealising itself—in the notion of a God-loving synthesis of the real and the ideal. Perfection exists. It is the summit of creative evolution. It surpasses reality (the actual) without separating itself from it. Religion is a reality which surpasses reason without ceasing to conform to the laws of the understanding. The worship of Perfection is the beginning of wisdom; it is also the end of knowledge, the highest development of the inner life in the communion of united and fraternal souls."—E. Boutroux, *Sorbonne Lecture*, 1913.
+
+> "The soul takes satisfaction in progeny only because it finds in offspring a visible image of some everlasting [possession?]. It rises steadily to ever higher types of progeny—lofty thoughts, [poems?], statutes, institutions, laws—the [fair?] creations of the mind. But the highest stage of Love comes when the soul sees Beauty itself which is everlasting, 'not growing and decaying, not waxing and waning.' He, who under the influence of Love rises to see that Beauty, is not far from the end. (Plato, *Symposium*)."—R. M. Jones, *Mystical Religion*, p. 65.
+
+See BONDAGE, CHILD, CHILDREN OF JERUSALEM, CONSCIENCE, COVENANT, [EXIT?], GRACE, INTUITION, JUDAH, JUSTIFICATION, KARMA, LAW OF MOSES, LOVE, MOSAIC, TESTAMENT, WOMAN (adultery).
+
+**Corrections made:** `Gat.` → Gal.; `Stoprorp A. Brooke` → Stopford A. Brooke; page heading `224 DIVORCE` removed from mid-quotation; `Bourrovx` → Boutroux; `riscs` → rises; `everigher` → ever higher; `sand waning` → and waning; `Prato` → Plato; `LaW OF MOSES, Love, Mosaic` restored; See-list spellings restored.
+
+**Unclear or supplied:** `[possession?]` for OCR `ssion`; `[poems?]` for `ms`; `[fair?]` for `the air creations`; these are damaged in the OCR. `[EXIT?]` is the OCR See-list item `Exit` (probably EXILE). `Boutroux` is restored from `Bourrovx`.
 
 ## Full OCR entry body (exact)
 

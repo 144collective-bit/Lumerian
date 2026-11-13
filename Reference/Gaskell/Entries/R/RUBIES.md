@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rubies
 headword: "RUBIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Gems` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `House (frequented)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `JEWELS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of high qualities of the mind.
+
+> "And rubies of India, and agate from the land of Kushan."—*Hymn of the Soul*, *Acts of Judas Thomas*.
+
+And "rubies," aspects of the higher mind, of "India," the "kingdom of the Sun-rising," comparable to the ascent of the Soul. And "agate," which is a symbol of Truth from the sphere of Wisdom. See GEMS, HOUSE (frequented), JEWELS.
+
+**Corrections made:** Quotation marks repaired; See-list spellings restored (`Gems`, `House`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

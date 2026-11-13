@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conflagration-general
 headword: "CONFLAGRATION, GENERAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SOSIOSH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The physical element transmuted by "fire" (buddhic) which thereby signifies its dissolution at the close of a cycle. Astral dissolution follows physical dissolution.
+
+> "And death and Hades were cast into the lake of fire. This is the second death, even the lake of fire. And if any was not found written in the book of life, he was cast into the lake of fire."—Rev. xx. 14, 15.
+
+The first death is the death of the physical vehicles; the second death is the death of the astro-mental (Hades) vehicles, and the "lake of fire" stands for transmutation and dissolution. If any mental quality was not perfected it was transmuted and its lower nature dissolved.
+
+> "The reality of all things even in this visible world is God, and thus the final issue must be upward, until everything ends in Him as it began in Him. 'This is the end of all things visible and invisible, when all visible things pass into the intellectual, and the intellectual into God, O marvellous and unspeakable union.' 'Everything that is shall return into God as air into light. For God shall be all things in all things, when there shall be nothing but God alone.' (Erigena). As evil is a negation, an unreality, it has no [power?] or being in the final consummation."—R. M. Jones, *Mystical Religion*, p. 126.
+
+> "The only real is the spiritual, the physical is the unsubstantial, and when the time comes for the seeming duality to end, it can only be by the spiritual transmuting the physical into itself, swallowing it up, as it were, in that which can never know corruption and decay."—R. J. Campbell, Serm., *The Fact of Death*.
+
+See AAT (waters), CHARIOT (sun), CHRIST'S SECOND COMING, FIRE (destroying), HORSE (white), JUDGMENT DAY, KALKI AVATAR, REGNAROK, RENOVATION, RESURRECTION, SOSIOSH.
+
+**Corrections made:** `atands` → stands; `oY. ®` → O; `shali` → shall; `M. Jonss` → R. M. Jones; `iteelf` → itself; `Campsecy` → Campbell; `14,15` → 14, 15; `lake of fire”?` → lake of fire"; page heading `169 CONFUCIUS` removed from mid-sentence; See-list spellings restored (`AavT`, `Horse`).
+
+**Unclear or supplied:** `[power?]` for OCR `—r` in "it has no —r or being". `O` is read from the damaged `oY. ®`. The initial of the author (`R.`) is supplied from the usual form of the name.
 
 ## Full OCR entry body (exact)
 

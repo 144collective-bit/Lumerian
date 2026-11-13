@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ka-god
 headword: "KA, GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rounps` | **unresolved** (review queue) |
 | `Son OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will.
+
+> "Buddha performed various ceremonies hard to be accomplished, like the god Ka in the first aeon wishing to create living beings."—*Buddha-Karita*, Bk. II. p. 61.
+
+At an early stage, the Soul made the initial attempt at undergoing initiations in order to increase the Divine life in the activities on the planes; similarly as the Divine Will, at the first Round when the Son of Mind entered the scheme, contemplated projecting archetypal living beings on the plane of buddhi.
+
+See ERA OF BUDDHA, BUDDHA, PROTOTYPES, RACES, ROUNDS, SON OF MAN.
+
+**Corrections made:** `Bra oF BUDDHA` → ERA OF BUDDHA; `Prorotyres` → PROTOTYPES; `Races`, `Rounps` restored; stray `_` removed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

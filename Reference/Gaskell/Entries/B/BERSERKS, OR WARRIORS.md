@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-berserks-or-warriors
 headword: "BERSERKS, OR WARRIORS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `RoMAN sotpiers` | **unresolved** (review queue) |
 | `Sotprers` | **unresolved** (review queue) |
 | `WoLr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of active and combative qualities of the lower mind.
+
+> "The giantess Hyrrocken came riding on a Wolf, and had vipers for her reins. When she alighted from her steed, Odin ordered four berserks to mind him; but they could not hold him in one place except by throwing him to the ground."—*Story of Balder*, Edda.
+
+On the lowest sub-plane of the mind the activities take the form of Terror (Hyrrocken), fear (wolf), and cunning (vipers). And when the lower mind is given the rein, to guide the soul at this early stage, nothing good can be done with it through fear. By the will of the Supreme, the "berserks" courage, strength, avarice, and self-interest, partly neutralise its stultifying influence, but it must needs be kept in check altogether, by overthrowing fear completely.
+
+See HYRROKEN, MJOLNER, ODIN, ROMAN SOLDIERS, SOLDIERS, WOLF.
+
+**Corrections made:** See-list spellings restored (`HyRROOKEN`, `RoMAN sotpiers`, `Sotprers`, `WoLr`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

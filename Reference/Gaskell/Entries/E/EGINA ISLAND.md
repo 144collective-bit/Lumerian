@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-egina-island
 headword: "EGINA ISLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Epru` | **unresolved** (review queue) |
 | `Otympus` | **unresolved** (review queue) |
 | `WaTER (higher). Ioucvus` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of perfect Truth-reality, which condition may be attained at the conclusion of the cycle of the soul's evolution.
+
+> "There are those whose country my mouth declares to have been Aegina, that most renowned island; and it has long ago been built up as a tower for lofty virtues to ascend." (Footnote. It has long been regarded as the model of highest excellence, and an example for others to imitate.)—Pindar, *Isthmian Ode*, IV. Paley, p. 245.
+
+> "At the back of all our endeavours towards fuller life, at the heart of all our idealism, under whatever guise it operates, is faith in God, the unimprovable perfection, the superintending purpose, the one within the many, the real beyond the seeming, the fullness of the life that filleth all in all, to which nothing shall ever be added, and from which nothing can be taken away."—R. J. Campbell, *Serm.*, *Being and Becoming*.
+
+See ALBORDJ, EDFU, OLYMPUS, WATER (higher).
+
+**Corrections made:** page headings `EGYPT` (mid-sentence) and `Ioucvus,` (end) removed; `PimnpaRr` → Pindar; `Betng` → Being; `CAMPBELL` → Campbell; See-list spellings restored (`Epru`, `Otympus`, `WaTER`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

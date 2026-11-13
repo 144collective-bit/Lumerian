@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-japhet-son-of-noah
 headword: "JAPHET, SON OF NOAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `NOAH’S SONS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of wisdom and determination,—aspects of the individuality (Noah),—reflected inversely in the lower nature as desire and will (lower).
+
+See NOAH'S SONS.
+
+**Corrections made:** `Asymbol` → A symbol; page heading `404 JASON` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

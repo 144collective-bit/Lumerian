@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-belief
 headword: "BELIEF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Union of the mind with a percept or concept presented to it. The mind unites with any idea if there is no opposing idea already accepted.
+
+> "Truth utters itself in outward symbols. Belief and resolution declare themselves in forms. It is the natural law of expression, and so long as the form remains soft and pliant, full of the spirit of the belief or resolution it expresses, all is right. Form and belief are like body and soul to one another. But when form hardens into formalism, when the real substance of belief, instead of remaining soft and pliant, grows stiff, and will not let belief grow and enlarge, will not let the food of belief which is new truth come pouring in, then you have got the most crusted and impenetrable armour that can be imagined. Forms ought to be the medium through which truth comes to the inner nature."—Phillips Brooks, *Mystery of Iniquity*, p. 157.
+
+> "Belief is of the very substance of the life. 'As he thinketh in his heart, so is he.' It is that through active service, through the will to do God's will, belief is ever struggling to become true, and feeling is ever struggling to grow healthy."—Phillips Brooks, *Light of the World*, p. 267.
+
+> "'Believe on the Lord Jesus Christ and thou shalt be saved.' It means that the one invincible force in your life is the Christ out of whom your soul has arisen; not the evil that seems to bear it down. Believe that, and it will set you free, but believe it in the way that a man has to believe anything that lifts him to power. Your fetters are only made to [be] broken; evil is only there to be transmuted to [word unclear]."—R. J. Campbell, *Serm.* *The Freedom of the Son of God*.
+
+**Corrections made:** `pouriny` → pouring; `Paritiirs`, `Pnritirs Brooxgs` → Phillips Brooks; `. 157`, `. 267` → p. 157, p. 267; `@ man` → a man; `lifte` → lifts; `made to broken` → made to [be] broken; stray `:` and `°` removed; quotation marks normalised.
+
+**Unclear or supplied:** `[be]` is supplied. The quotation ends `transmuted to .` with a word lost: `[word unclear]`.
 
 ## Full OCR entry body (exact)
 

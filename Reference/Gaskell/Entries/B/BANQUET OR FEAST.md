@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-banquet-or-feast
 headword: "BANQUET OR FEAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `Mosi0o` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the assimilation of Wisdom and Love by the soul, and of the enjoyment of what it has earned through its efforts. A banquet may also stand for a completed period, or stage of soul-growth, when the results of experience are gathered.
+
+> "So the king and Haman came to the banquet that Esther had prepared. And the king said unto Esther at the banquet of wine, What is thy petition?"—Esther v. 6.
+
+This represents a stage when soul-growth is due to the natural order under the lower principle: (Haman) the prime minister of the Supreme (king), before the Self (Mordecai) is established in the soul to rule over it. The buddhic principle (Esther) directs the evolution and transmutes the results of experience (prepares the banquet). The "petition" on the plane of wisdom (wine) signifies the perception on the buddhic plane that a new order is to supplant the natural order, and the Self is to preside in the soul.
+
+See BUDDHIC FUNCTION, COW OF PLENTY, ESTHER, FEAST, HEROD, HIGHER AND LOWER, [MOSAIC?], TRANSMUTATION.
+
+**Corrections made:** `pre .` → prepared; `Esruer` → Esther; `soulgrowth` → soul-growth; `BuUDDHIO` → BUDDHIC; `EstTHER` → ESTHER; `Ferast` → FEAST; `HER0D` → HEROD; `Mosi0o` → [MOSAIC?]; page heading `91 BAPTISM` removed from mid-sentence.
+
+**Unclear or supplied:** `prepared` completes OCR `pre .`. `[MOSAIC?]` is a guess for OCR `Mosi0o`.
 
 ## Full OCR entry body (exact)
 

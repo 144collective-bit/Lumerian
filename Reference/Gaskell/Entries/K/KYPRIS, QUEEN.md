@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kypris-queen
 headword: "KYPRIS, QUEEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Bees (libations)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEES|BEES]] |
 | `BLoop (bulls)` | **unresolved** (review queue) |
 | `HaLLowED OFFERINGS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HALLOWED OFFERINGS TO KYPRIS|HALLOWED OFFERINGS TO KYPRIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, the buddhic ruler of evolution and the transmuter of the lower qualities.
+
+> "And thus then Kypris, when she had moistened the earth with water, breathed air on it, and gave it to swift fire to be hardened."—Empedocles, Bk. II. 215, Fairbanks.
+
+And thus Wisdom, when she had inspired the lower nature with desire, endowed it with intelligence which was the means of its soaring towards spirit (fire), which enabled that which was to endure to proceed from it.
+
+See ARK, BEES (libations), BLOOD (bulls), HALLOWED OFFERINGS.
+
+**Corrections made:** `FAIRBANKS` → Fairbanks; See-list spellings restored (`Ark`, `BLoop`, `HaLLowED`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

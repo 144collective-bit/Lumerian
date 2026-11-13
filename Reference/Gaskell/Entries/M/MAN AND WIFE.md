@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-man-and-wife
 headword: "MAN AND WIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,28 @@ tags:
 | `Rx` | **unresolved** (review queue) |
 | `Wire` | **unresolved** (review queue) |
 | `WomMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental and emotional natures united in the soul, and productive of thoughts and actions (children).
+
+> "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."—Gen. ii. 24.
+
+The mind, recognising that which is apparently of its own substance, and dual within itself, shall quit sense and desire which brought it into active being, and go in search of the ideal—higher emotions (buddhi, feminine). The mind with the ideal are one, when the mind and higher emotions are in harmony together in the liberated soul.
+
+> "Man, as His image, is therefore male and female, that he may be a figure both of the wisdom and love of God; the man representing the understanding, the woman the will or love-part of the mind, which united make up that inward man or mind, by which we can both know and love, and so commune with, God."—A. Jukes, *Types of Genesis*, p. 40.
+
+> "By man, in the Word, is [signified?] the [understanding] of truth; and [by] woman the affection of truth, because man by birth is understanding, and woman affection."—Swedenborg, *Apoc. Rev.*, n. 434.
+
+> "So that they (man and wife) are no more twain, but one flesh. What therefore God hath joined [together?] let not man put asunder."—Matt. xix.
+
+Christ here points out, that ideally reason and emotion are not at variance—not separate. This being the higher condition, the lower mind (man) is exhorted not to persist in maintaining the lower condition, (desire-mental), but preserve the union of mind and emotion and make the best of it by seeking the higher condition (buddhi-mental).
+
+See ADULTERY, BUDDHI, CHILDREN OF MEN, DIVORCE, FATHER (lower), HIDING, HUSBAND, IMAGE, MAN WITHOUT WOMAN, MARRIAGE, MASCULINE, RIB, WIFE, WOMAN.
+
+**Corrections made:** `fiesh` → flesh; `seareh` → search; `tiiderstandiag` → understanding; `eagicnagl` → together; `Aper. Rev.` → *Apoc. Rev.*; `SwWEDENBORG` → Swedenborg; `Mar.` → Matt.; `buddhimental` → buddhi-mental; page heading `MAN` removed from mid-sentence; See-list spellings restored (`Drvorce`, `FaTHER`, `Hipine`, `HusBanp`, `Imacr`, `Rx`, `Wire`, `WomMAN`).
+
+**Unclear or supplied:** `[signified?]` (OCR `si`) and `[by]` (OCR `_`) in the Swedenborg quotation; `[together?]` (OCR `eagicnagl`). The verse number after `Matt. xix.` was lost (the page heading fell there). See-list `HIDING` (OCR `Hipine`) is a likely but uncertain reading.
 
 ## Full OCR entry body (exact)
 

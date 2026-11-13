@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-man-without-woman
 headword: "MAN WITHOUT WOMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Dune` | **unresolved** (review queue) |
 | `Man Marrnrace` | **unresolved** (review queue) |
 | `Nasu` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mind subject to desire and uninfluenced by emotion (woman).
+
+> "Man by himself must not carry a corpse or he will be defiled by the Nasu. The penalty for [carry]ing a corpse is that a man shall be placed where there is least water and fewest plants, and on ground least passed over by flocks and herds."—*Vendidad*, III. 8. S. B. of E.
+
+The carrying of a corpse by one man alone signifies the attempt to allow the intellect (man) to function alone in the personality (corpse). Mind acting without emotion, without love, is calculated to defile a soul, for it becomes captive to desire (Nasu); and the consequence of such functioning would be a landing in ignorance and error, that is, in a state of mind where truth (water) and goodness (plants) are scarcest, and there are fewest gleams of wisdom through the lack of virtues (flocks) and moralised emotions (herds).
+
+> "The power of man to stand between abstract truth upon the one side, and the concrete facts of life upon the other, comes from the co-existence in his human nature of two different powers, without the possession of both of which no man possesses a complete humanity. One of these powers is the power of knowing, and the other is the power of loving. . . . From this it will immediately follow that the more perfectly these two constituents of human nature meet, the more absolutely they are proportioned to each other, and the more completely they are blended, so much the more ready will the human nature be for the fulfilment of every function of humanity. And if, as we have seen, one of the loftiest functions of humanity is to stand between the absolute truth and the world's needs, and to transmit the one in such way that it can really reach and help the other, then it will also follow that the more perfectly the knowing faculty and the loving faculty meet in any man, the more that man's life will become a transmitter and interpreter of truth to other men."—Phillips Brooks, *Serm.*, Visions and Tasks.
+
+> "It is often asserted that emotion is modified only by emotion, that reason without emotion remains a dead letter; and this is certainly the case. The dictates of reason, therefore, must be combined with love, which we may call the positive norm of emotion; then will reason become effective. The ideal must become the object of love; then will this supreme affection—enthusiasm for the ideal—work its effect upon the other forms. Such enthusiasm cannot, of course, be manufactured, it is something free—the unforced persistent glow of love for perfection, the practical interest in the ideal of reason. . . . Finally, the ideal comes to us in the impressions wrought by God within the soul. The mental impression in question, therefore, results not from any external object, but from our being, [word unclear] by our reason's own ideal, or by the Divine spirit within us."—A. Dorner, *Emotions*, Ency. Rel. and Ethics.
+
+See CATTLE, CORPSE, [Dune?], MAN, MARRIAGE, NASU,
+
+**Corrections made:** `ing @ corpse` → [carry]ing a corpse; `whats there` → where there; `Ill. 8. B. of £.` → III. 8. S. B. of E.; `rfection` → perfection; `deal` → ideal; `PHILLIPs Brooks` → Phillips Brooks; page headings `476 MAN` and `MANALA` removed from mid-sentence; See-list spellings restored (`Catrie`, `Corpsr`, `Man Marrnrace`).
+
+**Unclear or supplied:** `[carry]ing` is supplied (OCR `ing`). `[word unclear]` for OCR `eid ehprriacts`. `[Dune?]` in the See list cannot be identified; the See list breaks off after `NASU,` in the OCR, and `MAN, MARRIAGE` reads OCR `Man Marrnrace`.
 
 ## Full OCR entry body (exact)
 

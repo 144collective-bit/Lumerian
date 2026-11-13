@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-akert-the-underworld
 headword: "AKERT, THE UNDERWORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `QuaTERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |
 | `TATIU` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary, i.e. the four lower planes of nature.
+
+> "Homage to thee (Osiris), O Soul of everlastingness, thou Soul that dwellest in Tattu, Un-nefer, son of Nut; thou art lord of Akert (the underworld)" (Litany to Osiris).—Budge, *Book of the Dead*, Ch. XV.
+
+The Higher Self is invoked as the "Good Being" brought forth of space (Nut), and supreme over the lower nature.
+
+> "The Egyptian sphinx plays the part of guardian of a temple or deity, and hence the god Aker, the watchman of the Underworld and the guardian of the god Râ during the hours of the night, is generally shown as a Sphinx with the body of a lion when represented as going forth to destroy the enemies of the Sun-god."—Wiedemann, *Rel. of Anc. Egyptians*, p. 194.
+
+The higher nature within the lower overcomes the desires (enemies).
+
+See HOLD OF SHIP, NUT, OSIRIS, QUATERNARY, SPHINX, TATTU.
+
+**Corrections made:** `Asymbol` → A symbol; `ie.` → i.e.; `BupGE` → Budge; `R&` → Râ; `gong` → going; `riature` → nature; `Hotp or suHipP` → HOLD OF SHIP; `Nort` → NUT; `QuaTERNARY`, `TATIU` → TATTU.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

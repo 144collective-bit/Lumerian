@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-classes-four-of-mankind-in-the-scriptures-of-egypt
 headword: "CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,24 @@ tags:
 | `MENAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MENAT SIGN OR AMULET|MENAT SIGN OR AMULET]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `UTCHAT` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UTCHATS,-THE TWO EYES OF HORUS|UTCHATS,—THE TWO EYES OF HORUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the four soul-vehicles and their activities on the four lower planes.
+
+> "The four great classes into which the Egyptians divided mankind, namely, the Reth, the Nethesu, the Themehu, and the Aamu. Of these the Reth, i.e. the 'men,' par excellence, were Egyptians, who came into being from tears which fell from the Eye of Râ. The Themehu, or Libyans were also descended from the eye of Râ. The Aamu were the people of the deserts to the north and east of Egypt, and the Nehesu were the black tribes (negroes)."—Budge, *Egypt. Heaven and Hell*, Vol. III. p. 146.
+
+The "Reth" signify the individualities in the causal-bodies, produced from the solar "utchat,"—higher consciousness. The "Themehu" are the personalities in the mental bodies, produced from the lunar utchat,—lower consciousness. The "Aamu" are the desire natures in the astral bodies. And the "Nehesu" are the physical lives in the physical bodies.
+
+> "In the abode of Osiris are sixteen gods in mummied forms. The first four are bearded, and wear the menat and the white crown, and each is described by the title,—'King of the South.' The second four are bearded, and are described as Heteptiu; the third four are bearded, and wear the menat and the red crown, and each is described by the title Bat; and the fourth four are bearded, and are called Khu."—*Ibid.*, Vol. I. p. 118.
+
+The "abode of Osiris" is the hidden causal-body, and all the figures indicate the latent (armless) condition. Now in this sixth division of the cycle (Tuat), when the Archetypal Man (Osiris) is perfected, these four vehicles of the soul exist only potentially; they are ready to put forth their activities (arms) in the new cycle that will open in the next division. The "Kings of the South" are the individualities on the higher-mind plane (Upper Egypt). The "Kings of the North" are the personalities (Bat) on the lower-mind plane (Lower Egypt). The "Heteptiu" are the astral vehicles, and the "Khus" are the physical forms.
+
+See ARCH. MAN, CASTES, CHILDREN OF HORUS, CROWN (Egypt), CROWN (white), EGYPT, KAS (lower), MENAT, OSIRIS, UTCHAT.
+
+**Corrections made:** `R&` → Râ; `Bupoe` → Budge; `personalties` → personalities; `vehiclos` → vehicles; page heading `161 CLASSES` removed from mid-sentence; See-list spellings restored (`CasTES`, `Crown`, `Eayrr`, `Kaus`, `Osiris`).
+
+**Unclear or supplied:** `Râ` is read from OCR `R&` (the accent is a guess). `ARCH. MAN` is read from `ARC. MAN`; `KAS (lower)` from `Kaus (lower)`.
 
 ## Full OCR entry body (exact)
 

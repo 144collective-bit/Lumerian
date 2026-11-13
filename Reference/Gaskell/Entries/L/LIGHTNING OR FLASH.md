@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lightning-or-flash
 headword: "LIGHTNING OR FLASH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `UppER` | **unresolved** (review queue) |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the omnipotent life activities of the higher planes of the invisible universe.
+
+> "There clings to the Maruts one who moves in secret, like a man's wife (the lightning), and who is like a spear carried behind, well grasped, resplendent, gold-adorned."—*Rig-Veda*, I. 167, 3.
+
+There is attached to the spiritual egos the Life forces of the higher planes, centred in the Higher Self in his aspect of the Divine Ray (spear)—atma-buddhi—extending unobserved through all the planes.
+
+See [Fouat?], [MARUTS?], THUNDER, THUNDERBOLT, UPPER, ZEUS.
+
+**Corrections made:** `Marute` → Maruts; `goldadorned` → gold-adorned; `Rig- Veda` → Rig-Veda; `UppER` → UPPER.
+
+**Unclear or supplied:** In the See list `[Fouat?]` (probably FOHAT) and `[MARUTS?]` (OCR `Manxrvors`) could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

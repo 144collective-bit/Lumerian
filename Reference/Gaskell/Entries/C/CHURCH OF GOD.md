@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-church-of-god
 headword: "CHURCH OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,28 @@ tags:
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the form of thought occupied by the religious consciousness which is a mental emotional state of soul venerative of conceptions of Wisdom, Love and Truth. [The] Church of the Living God was, and ever will be to the end of time; Seated in the inner sanctuary of [the] human soul, or causal-body.
+
+> "Christ also loved the church, and gave himself up for it; that he might sanctify it, having cleansed it by the washing of water with the word, that [he] might present the church to himself a glorious church, not having a spot or wrinkle or any such thing; but [that it?] should be holy and without blemish."—Eph. v. 25-7.
+
+To bring about the completion of the evolution of the inner nature (church) of the soul, the Self, who is love, involved himself in the soul's lower nature. He became incarnate in order that, being born in the soul, he might sanctify it, and having purified it by truth (water), and by the expression of the Divine Life (word), he might, as the Saviour of the causal-body (church), complete it in every respect, so that it should be a glorious vehicle of the Spirit, pure and perfect, holy and without blemish.
+
+> "The Church is formed out of Christ's bones and flesh; and it was for this cause that the Word, leaving His Father in heaven, came down to be 'joined to His wife,' and slept in the trance of His passion, and willingly suffered death for her, that He might present the Church to Himself glorious and blameless, having cleansed her by the laver (of regeneration), for the receiving of the spiritual and blessed seed, which is sown by Him, who with whispers implants it in the depths of the mind; and is conceived and formed by the Church, as by a woman, so as to give birth and nourishment to virtue."—Methodius, *The Banquet*, &c., *Ante-Nic. Lib.*, p. 28.
+
+> "The Lord's church in heaven."—Swedenborg, *Apoc. Rev.*, n. 191.
+
+> "Inward sanctity, pure love, disinterested attachment to God and man, obedience of heart and life, sincere excellence of character, this is the one thing needful, this the essential thing in religion; and all things else, ministers, churches, ordinances, places of worship, all are but means, helps, secondary influences, and utterly worthless when separated from this. To imagine that God regards anything but this, that he looks at anything but the heart, is to dishonour him, to express a mournful insensibility to his pure character. Goodness, purity, virtue, this is the only distinction in God's sight. This is intrinsically, essentially, everlastingly, and by its own nature, lovely, beautiful, glorious, divine. It owes nothing to time, to circumstance, to outward connections. It shines by its own light. It is the Sun of the spiritual universe. It is God himself dwelling in the human soul."—W. E. Channing, *The Church*.
+
+> "See what the religious world really is in its idea. A world everywhere aware of and rejoicing in the priority of God, feeling all power flow out from Him, and sending all action back to report itself to Him for judgment,—a world where goodness means obedience to God, and sin means disloyalty to God, and progress means growth in the power to utter God, and knowledge means the understanding of God's thought, and happiness means the peace of God's approval. That is the only world which is religious."—Phillips Brooks, *Light of the World*, p. 47.
+
+See AGNISHTOMA, ALTAR OF SACRIFICE, BISHOP, CONVERSION, EARTHQUAKES, HOUSE IN HEAVEN, MANSIONS, POPE, PYRAMID, [Ris?], TEMPLE, TABERNACLE, WOMAN.
+
+**Corrections made:** `thou:` → thought; `conscio ness` → consciousness; `emotio state` → emotional state; `concepti of` → conceptions of; `ti;` → time; `he m sanctify` → he might sanctify; `himse` → himself; `havi 8 wrinkle` → having a spot or wrinkle; `Erg.` → Eph.; `tbe` → the; `bwer` → lower; `night` → might; `tho` → the; `causalbody` → causal-body; `wehicle` → vehicle; `beaven` → heaven; `wile` → wife; `pasion` → passion; `deansed` → cleansed; `80 as` → so as; `Metnopius` → Methodius; `Coannina` → Channing; `hapyiness` → happiness; `Brooxs` → Brooks; page headings `CHURCH` and `157 CHURNING` removed from mid-sentence; stray `|` and `_` removed; See-list spellings restored (`BisHOP`, `MAnsIons`, `Porr`, `Pyramip`).
+
+**Unclear or supplied:** The OCR of the opening definition and the Ephesians quotation has the ends of lines cut off, and the completions are read from context: `[The]`, `[the]`, `[he]`, `[that it?]` (OCR `fl t thi`) are supplied or tentative; "and gave himself" and "a spot or" are completed from the Scripture text where the OCR dropped them. `[Ris?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lamp-and-oil
 headword: "LAMP AND OIL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,26 @@ tags:
 | `Or` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
 | `TAE-KEIH` | **unresolved** (review queue) |
 | `VincrIns` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the causal-body as the receptacle of Wisdom replenished by Love,—the substance wherewith the Spirit feeds the soul and fills it with the light of Truth.
+
+> "Wisdom is the lamp of love, and love is the oil of the lamp."—Maeterlinck, *Wisdom and Destiny*, § 31.
+
+> "Exercise yourselves to find the way of salvation, and dispel with the lamp of wisdom the darkness of ignorance."—*Lalita-vistâra*.
+
+> "The knowledge of God is a good material; God will accept a lamp made out of it. Make good deeds thy wheel, and mould thy lamp on it; it will accompany thee in this world and the next. When God looketh on him with an eye of favour, some rare pious man knoweth how to make this lamp. This lamp shall be permanent in his heart, and shall not be extinguished when he dieth" (Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. p. 349.
+
+> "For, indeed, all men are lamps, since they can be both lighted and extinguished. Moreover, when the lamps are wise, they shine and glow with the Spirit; yet also, if they did burn and are put out, they even stink. The servants of God remain good lamps by the oil of His mercy, not by their own strength. The free grace of God, truly, is the oil of the lamps. 'For I have laboured more than they all,' saith a certain 'lamp'; and lest he should seem to burn by his own strength, he added, 'But not I, but the grace of God that was with me' (1 Cor. xv. 10)."—Augustine, *Gospel of John*, Vol. I. p. 328.
+
+> "Throughout the Old Testament the soft gracious influences of God's Spirit are symbolised by oil, with which therefore prophets, priests, and kings were designated to their office. Thus the lamp too must be fed, the soul which is to give forth the light of Christ must first of all have been kindled by Him, and then must constantly be [word unclear] with the grace and gift of His Divine Spirit. What became of those who had lamps without oil? Their lamps had gone out, and their end was darkness. Oh! let us beware lest by any sloth and sin, we choke the golden pipes through which there steals into our tiny lamps the soft flow of that Divine oil which alone can keep up the flame. The wick, untrimmed and unfed, may burn for a little while, but it soon chars, and smokes, and goes out at last in foul savour offensive to God and man."—A. Maclaren, *Sermons*, 2nd Series, p. 163.
+
+See CANDLE, CANDLESTICK, DARKNESS, FIRE, FLAME, GOLD, GRACE, HEART, LIGHT, LOST PIECE, LOVE, OIL, TAE-KEIH, VIRGINS.
+
+**Corrections made:** `MarrerLINCK` → Maeterlinck; `vistdara` → vistâra; `permananent` → permanent; `MacavuirFe` → Macauliffe; `MacitaReEN` → Maclaren; `fille` → fills; page heading `LAND` removed from mid-sentence; See-list spellings restored (`DaRKWess`, `Fine`, `Fiame`, `GoOLp`, `Licut`, `Or`, `VincrIns`) and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` for OCR `stay Cr` in the Maclaren quotation.
 
 ## Full OCR entry body (exact)
 

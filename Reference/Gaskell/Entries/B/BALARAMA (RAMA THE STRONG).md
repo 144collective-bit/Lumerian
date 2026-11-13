@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-balarama-rama-the-strong
 headword: "BALARAMA (RAMA THE STRONG)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `SERPENT (ananta)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Individuality, Ego, Divine Spark, or Monad, in the soul.
+
+> "Balarama who is reputed to be an avatara of Sesha or Ananta, the serpent without end, which serves as a bed to Vishnu, appears to be an ancient agricultural deity, that presided over the tillage of the soil and the harvest. He is armed with a ploughshare, whence his surname Halabhrit, the plough-bearer."—Barth, *Religions of India*, p. 173.
+
+The Individuality, which is a resultant of the forces of the soul in the process of the cycle of manifestation (Ananta) of the Higher Self (Vishnu), presides over the cultivation, development, and transmutation of the lower nature. The Individuality fashions the lower bodies—mental, astral, and physical,—and produces the conditions (ploughing) necessary for the growth of the soul. The two brothers Balarâma and Krishna were brought up together by the herdsman Nanda; signifying that the Individuality and the incarnate Self are closely associated in the purified mind (Nanda).
+
+See BIRTH OF KRISHNA, BROTHER OF JESUS, INDIVIDUALITY, INTOXICATION, KRISHNA, PLOUGHING, RAMA, SERPENT (ananta), SILENUS, VISHNU.
+
+**Corrections made:** `se t` → serpent; `bet` → bed; `Banrrz` → Barth; `Balarfma` → Balarâma; `INTOXxICATION` → INTOXICATION; See-list spellings restored.
+
+**Unclear or supplied:** `Barth` is read from `Banrrz`. `bed` is read from `bet`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sacrifice-beasts-clean
 headword: "SACRIFICE, BEASTS, CLEAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Orrosrres` | **unresolved** (review queue) |
 | `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the superior emotions of the lower nature, that is, emotions in the astral course of production which are ready for transmutation.
+
+> "Thus in the living soul shall there be good beasts, in gentleness of action, . . . and good cattle, which neither if they eat, shall they over-abound, nor if they do not eat, have they any want; and good serpents, not destructive to do hurt, but 'wise' to take heed. (Footnote. In his *De Gen. con. Manich.* i. 20, Augustine interprets the dominion given to man over the beasts, of his keeping in subjection the passions of the soul, so as to attain true happiness.)"—Augustine, *Confessions*, p. 377.
+
+> "Of every clean beast thou shalt take to thee seven and seven, the male and his female; and of the beasts that are not clean, two, the male and his female."—Gen. vii. 2.
+
+The "seven and seven clean beasts" signify the higher emotions and aspirations which are to be established in the soul. These numbers 7 and 7 indicate perfection and completion, and correspond to the "fruit of the Spirit" (Gal. v. 22). The "unclean beasts" signify the pairs of opposites which are of the lower planes. See [AuraB?], ARK (Noah), [Catris?], FLOOD, FRUIT (spirit), [GosHunun?], OPPOSITES, SEVEN, TWO.
+
+**Corrections made:** `beasta`/`beaste` → beasts; `interpreta` → interprets; `Gan. v. 22` → Gal. v. 22; page heading `05 BEASTS` removed from mid-text; See-list spellings restored (`ARx`, `Fioop`, `Frorr`, `Orrosrres`, `Two`).
+
+**Unclear or supplied:** In the See list `[AuraB?]`, `[Catris?]` and `[GosHunun?]` are the OCR spellings; not identified with confidence.
 
 ## Full OCR entry body (exact)
 

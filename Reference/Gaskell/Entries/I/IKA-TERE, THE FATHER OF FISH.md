@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ika-tere-the-father-of-fish
 headword: "IKA-TERE, THE FATHER OF FISH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Ranal` | **unresolved** (review queue) |
 | `TANGABROA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 | `TUTE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration towards truth, which begets knowledge.
+
+See FISH, PONGA, RANGI, TANGAROA, TUTE.
+
+**Corrections made:** See-list spellings restored (`Fisu`, `Ponca`, `Ranal`, `TANGABROA`).
+
+**Unclear or supplied:** `PONGA`, `RANGI`, `TUTE` are read from damaged OCR (`Ponca`, `Ranal`, `TUTE`) and may not be exact.
 
 ## Full OCR entry body (exact)
 

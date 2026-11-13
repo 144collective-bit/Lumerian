@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-countries-of-sacred-scriptures
 headword: "COUNTRIES OF SACRED SCRIPTURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,20 @@ tags:
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUETZALCOATL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUETZALCOATL SERPENT)|QUETZALCOATL SERPENT)]] |
 | `SOUTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The country in which a sacred scripture originates is always a symbol of the mental plane, while certain countries adjacent may stand for astro-mental and buddhi-mental planes. The people of the scripture country are invariably the mental qualities in different stages of growth, and these play their part in the scripture dramas. For instance, in the Hebrew and Christian scriptures, Palestine is a symbol of the mental plane, while the inhabitants, the Jews, are the more or less developed mental qualities. In the ancient scriptures of Egypt, Higher Egypt and Lower Egypt, stand respectively for the higher mind and the lower mind. The marshes of the Delta signify astro-mentality, while Nubia and Ethiopia stand for spiritual planes. The Mediterranean—the "great green sea"—signifies, of course, the astral plane. In the Zoroastrian scriptures, Iran (ancient Persia) is the mental plane, and the Iranians are the mental qualities. The Arab invaders of Iran are the emotions. In the Iliad the Greeks are the mental qualities, and the Trojans are the emotions. The "blameless Ethiopeans" are the higher or buddhic emotions.
+
+> "As the Temple is the reputed centre of the world, so every district is a microcosmos in which the myths of the Creation, of the combat with and final victory over the powers of darkness, and all other phenomena of the celestial world, are supposed to repeat themselves."—A. Jeremias, *Old Test.*, etc., Vol. I. p. 58.
+
+> "The most common and comprehensive word for deity in the Japanese language is Kami. It has the general meaning of 'above,' 'superior.' Kami is the part of Japan which lies near the capital, as opposed to Shimo, the lower country or provinces. Kaha-kami means the upper waters of a river."—W. G. Aston, *Shinto*, p. 7.
+
+"Kami" and "Shimo" are symbols of the higher and the lower natures of the soul. See ARABS, EGYPT, FOLK, GREECE, GREEKS, IRAN, ISRAELITES, JEWS, JUDAH, LANKA, MAZENDARANS, MIAOU TRIBES, NORTH LAND, NUBIA, PEOPLE, PHAACEANS, QUARTERS, QUETZALCOATL, SOUTH LAND.
+
+**Corrections made:** page heading `COURSE` removed from mid-sentence; `ASTON` → Aston, `p: 7` → p. 7; `JEREMIAS` capitalisation normalised; See-list spellings restored (`Arass`, `Eaypr`, `IJRan`, `MEAOU`).
+
+**Unclear or supplied:** `MEAOU TRIBES` is left as printed in the OCR (probably MIAOU TRIBES); `W. G. Astron` read as Aston.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dung-of-flocks-and-herds-fertilising-the-ground
 headword: "DUNG OF FLOCKS AND HERDS FERTILISING THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FLocks` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP ON THE EARTH|FLOCKS OF SHEEP ON THE EARTH]]; [[Reference/Gaskell/Entries/F/FLOCKS OF SHEEP THE MOST GLORIOUS|FLOCKS OF SHEEP THE MOST GLORIOUS]]; [[Reference/Gaskell/Entries/F/FLOCKS PASSING GROUND|FLOCKS PASSING GROUND]] |
 | `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `MAN WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the experience which the emotions yield, and through which the soul-growths are nourished in the culture of the lower nature.
+
+See FLOCKS, GROUND, MAN WITHOUT WOMAN.
+
+**Corrections made:** `FLocks` → FLOCKS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

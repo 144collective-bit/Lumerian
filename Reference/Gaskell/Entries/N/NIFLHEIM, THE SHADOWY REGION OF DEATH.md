@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-niflheim-the-shadowy-region-of-death
 headword: "NIFLHEIM, THE SHADOWY REGION OF DEATH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-physical region, or of the lower planes.
+
+> "Alfadir hath formed heaven and earth, and the air, and all things thereunto belonging. And what is more, he hath made man, and given him a soul which shall live and never perish, though the body shall have mouldered away, or have been burnt to ashes. And all that are righteous shall dwell with him in the place called Gimli, or Vingolf; but the wicked shall go to Hel, and thence to Niflhel (or Niflheim), which is below in the ninth world" (Prose Edda).—Mallet, *North. Antiq.*, p. 401.
+
+The Logos hath emanated the higher and the lower natures, and centrally the mental plane (air) and all that appertains to it. The object of existence is the formation and growth of the soul which is immortal while its lower vehicles are subject to decay and extinction while the soul is being purified stage by stage. The purified souls, or individualities, shall rise from the lower planes, and become conscious on the higher planes; but the unpurified personalities shall continue to re-incarnate below until they are perfected.
+
+See FATHER, HADES, HEAVEN AND EARTH, HELL, HVERGELMIR, JOTUNHEIM, NINE, PERSONALITY, REINCARNATION, UNDERWORLD, YGGDRASIL.
+
+**Corrections made:** `Nifihel (or Nifiheim)` → Niflhel (or Niflheim); `Matiet` → Mallet; page heading `535 NIGHT` removed from mid-sentence; See-list spellings restored (`FatHer`, `HapEs`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

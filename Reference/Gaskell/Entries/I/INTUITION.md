@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-intuition
 headword: "INTUITION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,28 @@ tags:
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
 | `NEHEMAUT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHE-MAUT, SPOUSE OF THOTH|NEHE-MAUT, SPOUSE OF THOTH]] |
 | `PALESTINUS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A buddhic function operating through the causal-body, bringing knowledge of reality to the intellect. It is the power of answering to the higher rates of atomic vibration on the planes above, and when united with intellect it gives birth to love and truth. The erroneous theories of the lower mind will not be got rid of until the intuition is recovered by the inner memory, and voluntary effort is made by the lower self to raise the consciousness to the spiritual understanding. The intuition is seen to be in its appropriate sphere when consecrated only to the highest ends.
+
+> "The true name of the child was Palestinus, or Pelusius, and the city of this name was built by the Goddess (Isis) in memory of him."—Plutarch, *Isis and Osiris*, § 17.
+
+The true character of the mind is not the lower intellect, but the intuition whose abode, the causal-body, was fashioned by Wisdom (Isis), and this indeed is permanent.
+
+> "The highest truths are not those which we learn from abroad. No outward teaching can bestow them. They are unfolded from within, by our very progress in the religious life. New ideas of perfection, new convictions of immortality, a new consciousness of God, a new perception of our spiritual nature, come to us as revelations, and open upon us with a splendour which belongs not to this world."—W. E. Channing, *The Perfect Life*, p. 193.
+
+> "We ought to be able to spell out the attributes of God from what we see of them mirrored in the heart of man. After all, we could not reach 'From nature up to nature's God'; we could discover no spiritual correspondences between the outer world of appearance and the inner world of reality, between the lower or natural and the higher or supernatural order, if it were not for the fact that those correspondences are really within ourselves. . . . Paul declares that we have not been left without evidence in ourselves of the existence and the righteousness of God. There is a correspondence between our own nature and the eternal, and hence there is that in us which enables us to recognise and lay hold of God."—R. J. Campbell, *Serm.*, Spiritual Correspondences.
+
+> "A man has seen something he felt sure was true, and has then set to work to prove it. Knowledge flashes upon you sometimes you do not know why, and intellect may be a long time in confirming your intuition; something within you shoots straight to the mark and reason crawls after it. It is conceivable, therefore, that a state could be attained in which a soul would no longer feel itself hampered by ignorance or imperfection, but would see right into the heart of the deep things of God."—R. J. Campbell, *Serm.*, The Super-Rational.
+
+> "It is plain that as the genius of some philosophers is almost intuitive with regard to the secrets of nature, so there are other men whose feeling is intuitive with regard to the secrets of spiritual life. They know without proof, they need no authority and no evidence. They have no trouble of heart, but walk with God as friend with friend. But no one can tell how far previous education before they were born into this world may have given them that power."—Stopford A. Brooke, *Serm.*, Lord, Increase our Faith (1870).
+
+See AN-RUT-F, BRIDGE OF GJALL, BRISEIS, BUDDHI, CHRYSEIS, FAITH, IRIS, [KATCHAS?], MAGIC, MEDEA, NEHEMAUT, PALESTINUS.
+
+**Corrections made:** `PLuTaRCH` → Plutarch; `@ mew` → a new; `IAfe` → Life; `CampsBe nt` → Campbell; `there fore` → therefore; `Tt` → It; `Srorrorp A. Brooke` → Stopford A. Brooke; `Fatth` → Faith; page headings `INVOLUTION` and `397` removed from mid-text; See-list spellings restored (`BuppHI`, `Farru`, `Magaic`) and similar minor fixes.
+
+**Unclear or supplied:** `[KATCHAS?]` is uncertain (OCR `KartcHas`).
 
 ## Full OCR entry body (exact)
 

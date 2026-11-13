@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manvantara
 headword: "MANVANTARA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,16 @@ tags:
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The cycle of life in the lower nature, or the phenomenal universe of the solar system. It includes both the period of involution and the period of evolution, in relation to the lunar and terrene chains of globes. The mahamanvantara is the cyclic period of the whole solar system with all its planetary chains.
+
+See ABRAXAS, CIRCLE OF EXISTENCE, DAY (great), HOUR, LEVIATHAN, [GarmMerr?], NIGHT, PLANETARY CHAIN, PRALAYA, SABBATHS, SAMSARA, SERPENT (ananta), [To«s?], TUAT, YEAR, ZODIAC.
+
+**Corrections made:** Page heading `MARA` removed from the middle of the See list; See-list spellings restored (`Leviarmax`, `Nieut`, `SaBBATHS`, `SaMSaRA`, `SERPENY`, `Tuat`).
+
+**Unclear or supplied:** `[GarmMerr?]` and `[To«s?]` in the See list cannot be identified.
 
 ## Full OCR entry body (exact)
 

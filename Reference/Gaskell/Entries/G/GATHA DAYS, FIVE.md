@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gatha-days-five
 headword: "GATHA DAYS, FIVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `THIEVES (five)` | resolved (qualified head) → [[Reference/Gaskell/Entries/T/THIEVES, THE FIVE|THIEVES, THE FIVE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These five intercalary days of the year are added to the 360 days (degrees) of the Zodiac, to complete the actual year of 365 days. They are then taken as symbolising, as in Egypt, the five manifest planes of being; because they imply the potential cycle (360) becoming the actual cycle (365) in which the Self (sun) manifests in time and space.
+
+> "These five Gathas (hymns) are made up from the body of a Righteous Man."—*Shayast La-Shayast*, Ch. XIII., § 8, S.B.E.
+
+The "Righteous Man" signifies the Archetypal Man from whom humanity proceeds; and his measure is the Macrocosm of the five planes in which he manifests completely, potentially, and will manifest completely, actually, in all souls at the end of the cycle. For every soul is a Microcosm of the five planes, the same as the Macrocosm in every particular.
+
+See ARC. MAN, AROUERIS, BIRTH OF OSIRIS, CASTES, CLASSES, DAYS (five), ELEMENTS, MACROCOSM, MICROCOSM, MUSIC, RULERS, THIEVES (five), TREE OF LIFE, WORLDS (five).
+
+**Corrections made:** `§8.B.E.` → § 8, S.B.E.; See-list spellings restored (`ostgis`, `CasTEs`, `CLassgs`, `RuiLers`, `Macrocosm`, `Microcosm`, `Music`); quotation marks normalised.
+
+**Unclear or supplied:** The reference `§ 8, S.B.E.` is reconstructed from OCR `§8.B.E.`.
 
 ## Full OCR entry body (exact)
 

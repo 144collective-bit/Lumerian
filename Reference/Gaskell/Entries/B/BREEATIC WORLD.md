@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breeatic-world
 headword: "BREEATIC WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Manat` | **unresolved** (review queue) |
 | `MaLKHUTH` | **unresolved** (review queue) |
 | `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental plane.
+
+> "From the Atzeeloothic World, through the conjunction of the King and Queen, proceeds the World of Creation, called the Breeatic, or Olam Breeah, also Qursaiyah, i.e. the Throne. In this condition, creation, as we understand the word, begun."—I. Myer, *Qabbalah*, p. 328.
+
+From the atma-buddhic plane, by means of the alliance of the Self (king) and Wisdom (queen), there proceeds the establishment of the mental plane as the plane of ideas to take forms on the astral and physical planes. Also on the higher mental plane there is the causal-body (throne).
+
+See ATZEELOOTHIC, COUNTENANCE, CREATION, KURSAYAH, [Manat?], MALKHUTH, MANAS.
+
+**Corrections made:** `Myrr` → Myer; `Qabbaiah` → Qabbalah; See-list spellings restored (`COUNTENANCR`, `KursayaH`, `MaLKHUTH`, `Manas`).
+
+**Unclear or supplied:** See-list item `[Manat?]` is not identified.
 
 ## Full OCR entry body (exact)
 

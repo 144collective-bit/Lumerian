@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mooring-post-for-ship
 headword: "MOORING POST FOR SHIP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Sur (Manu)` | **unresolved** (review queue) |
 | `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `WHEA® AND BARLEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self to which the soul must be consciously attached.
+
+> "'Tell me my name,' saith the Wood whereat I would anchor; 'Lord of the two lands who dwellest in the Shrine' is thy name."—Budge, *Book of the Dead*, Ch. XCIX.
+
+The "Wood" is the same as the "Horn," or "Rock of Salvation,"—the Christ. The Higher Self is Lord of the higher and lower natures in the soul, and has his seat in the causal-body (shrine).
+
+> "And the moorin[g-post is fixed for] me in the Pool of the [word unclear]ith, the mooring-post is set up for me."—*Ibid.*, Ch. CX.
+
+And the Higher Self, as the goal of righteousness, is set before the soul as its aim. [text lost] fast the hawsers." Then the attraction to lower opinions was lessened, and further effort was made to attach the lower self to the [-post is fixed for] Higher.
+
+See ANCHORAGE, [Dzetuar?], POOL (zenith), [Sur (Manu)?], SHRINE, WHEAT AND BARLEY.
+
+**Corrections made:** `causalbody` → causal-body; `mooringpost` → mooring-post; `aa the goal` → as the goal; `Poon (zenith)` → POOL (zenith); `WHEA® AND BARLEY` → WHEAT AND BARLEY; `Bupas` → Budge.
+
+**Unclear or supplied:** The passage after the Ch. XCIX quotation is garbled in the OCR: `moorin me in the Pool of the ith` is shown with bracketed supplied letters, and the unreadable noise before `fast the hawsers.'` is shown as `[text lost]`. The fragment `-post is fixed for` appears displaced in the OCR before "Higher" and is kept in place in brackets. `[Dzetuar?]` and `[Sur (Manu)?]` are See-list items not identified.
 
 ## Full OCR entry body (exact)
 

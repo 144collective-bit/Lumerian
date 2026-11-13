@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-idols
 headword: "IDOLS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CaLF (molten)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CALF|CALF]] |
 | `GROVES` | **unresolved** (review queue) |
 | `JEALOUS GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JEALOUS GOD|JEALOUS GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of conventional mental conceptions; mistaken notions of the object of life; fixed ideas which bar the way to Truth; outward observances regarded as ethical or spiritual exercises; unworthy objects of life.
+
+See CALF (molten), GROVES, JEALOUS GOD.
+
+**Corrections made:** `CaLF` → CALF; stray space before semicolon removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

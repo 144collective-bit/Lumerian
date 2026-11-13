@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apostles-the-twelve
 headword: "APOSTLES, THE TWELVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,32 @@ tags:
 | `TriBEs (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the twelve highest qualities or virtues in the soul. They form a group nearest to the central indwelling Christ. The "apostles" are specialised conditions of the "disciples" and all are qualities which follow the leading of the Higher Self. The "apostles" are "disciples" raised to a state of close companionship with each other, whereby the Christ is brought into near relationship with the lower nature now gradually being drawn towards him.
+
+> "By the twelve apostles are signified all things of doctrine concerning the Lord, and concerning [word unclear] life according to his commandments."—Swedenborg, *Apoc. Rev.*, n. 915.
+
+> "Jacob begot the twelve apostles in the Spirit, not in the flesh; in word, not in blood."—Pseudo-Chrysostom.
+
+> "Abraham, Isaac, and Jacob are types of the divine life in man. . . . These children (of Jacob) by Leah and the bondmaids, are the different forms of life which are produced by the spirit of service in us out of different principles, Leah and Rachel representing the higher principles; the bond-maids, other lower principles."—A. Jukes, *Types of Genesis*, p. 340.
+
+In the book Am-Tuat, the twelve amakhiu (apostles) of Râ, draw Afu-Râ (the embodied Self, or Lamb of God) through the body of the Serpent (lower nature) and bring him out at its mouth, transfigured. The amakhiu "enter the tail of the serpent as loyal servants, but like their master, are transformed during their passage through its body, and they emerge from its mouth as 'rejuvenated forms of Râ' each day."—Budge, *Egypt. Heaven and Hell*, Vol. III. p. 193.
+
+> "Buddha, like Christ, had twelve 'great disciples.' 'Only in my religion,' he said solemnly a little before he died, 'can be found the twelve great disciples who practise the highest virtues and excite the world to free itself from its torments' (Bigandet, p. 301)."—A. Lillie, *Budd. in Christendom*, p. 138.
+
+The "apostles" are the qualities which "practise the highest virtues," and stimulate the mind to free itself from the causes of bondage in matter (suffering). In the one religion of the Higher Self (Buddha or Christ) those qualities which are more advanced help those behind them to rise.
+
+> "The Marriage Supper can be celebrated in the kingdom of the Father only, when all the 'Twelve Apostles,' or elements corresponding to the twelve degrees (of the Perfect Man), have been brought into perfect harmony and atone-ment, and no defective element any longer exists among them. In the central place at this divine feast is the Thirteenth Personage, the Master or Adonai of the system, the founder and president of the banquet. He it is who in later times found a representative in the pure and heaven-born Arthur,—Ar-Thor—the 'Bright Lord' of the Round Table."—*The Perfect Way*, p. 247.
+
+> "In St. Clemente at Rome, in the apsis, is a cross in mosaic, on which are represented twelve doves, signifying the twelve apostles united to, or having their life in, Christ."—H. C. Barlow, *Essays on Symbolism*, p. 74.
+
+See ÆONS (twelve), ANTHROPOS, ARGONAUTS, DANCE (circle), DISCIPLES, FEEDING (5,000), HEROES, PETER, SAVIOURS (twelve), SPARROWS (twelve), TRIBES (twelve), TWELVE, ZODIAC.
+
+**Corrections made:** `aposties` → apostles; `Pescudo-Chrysostom` → Pseudo-Chrysostom; `Lesh` → Leah; `R&`, `AfuRa&` → Râ, Afu-Râ; `Bunpaz, Egypé.` → Budge, Egypt.; `ite` → its; `Liuiz` → Lillie; `lace`, `ersonage` → place, Personage; `@psis, is @ cross` → apsis, is a cross; `Bartow, Hesays` → Barlow, Essays; page heading `APPENDAGES` removed from mid-sentence; See-list spellings restored (`Atons`, `Arconauts`, `Dz1sctPLES`, `FrEEepmna`, `HERosgs`, `SPaRRows`, and others); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `s` in "concerning s life" (probably "the" or "a"). The Buddha quotation's closing marks were `.'"` and are set as one closing quotation.
 
 ## Full OCR entry body (exact)
 

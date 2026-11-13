@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fire-priests
 headword: "FIRE-PRIESTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `AGNIDHRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNIDHRA PRIEST|AGNIDHRA PRIEST]] |
 | `ATHORNE` | **unresolved** (review queue) |
 | `PRIEST OF ALTAR` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of spiritual aspirations on the mental plane drawing forth the buddhic emotions.
+
+See AGNIDHRA, ATHORNE, PRIEST OF ALTAR.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** `ATHORNE` left as printed (probably ATHRAVAN or similar).
 
 ## Full OCR entry body (exact)
 

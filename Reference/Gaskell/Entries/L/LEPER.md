@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-leper
 headword: "LEPER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,18 @@ tags:
 | `TEN LEPERS` | **unresolved** (review queue) |
 | `WASHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind troubled with conflicting desires and emotions and confused ideals.
+
+> "If the story of Naaman the leper is a symbol at all, the material must be a symbol of the spiritual; the outward act, of the inward submission to the cleansing of the soul; the washing which purified the leper, of the faith by which the sinner is cleansed—and the whole story, as we say, an illustration of that Divine simplicity and abstinence from all reliance on outward acts, which is the very essence of God's way of salvation. For if one part of the story has to be transposed into another key, there will be discord, unless the whole be so. And if we are to say leprosy was the symbol of the soul-sickness of sin, and healing the symbol of the soul-cleansing of pardon and sanctifying, then we must lift the washing in the river of Israel into the same region, and recognise in it the symbol of the soul's act of faith, whereby our stained nature is plunged into the fountain opened for sin and for uncleanness."—A. Maclaren, *Sermons*, 3rd Series, p. 266.
+
+See BAPTISM, BLOOD OF THE LAMB, CLEANSING, FOUNTAIN, HEALING, JORDAN, TEN LEPERS, WASHED, WATER.
+
+**Corrections made:** `&` → a; `cleansi` → cleansing; `beso` → be so; `Serses` → Series; `MACLAREN` normalised; See-list spellings restored (`Baptism`, `FoUNTAIN`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

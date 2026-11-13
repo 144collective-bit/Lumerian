@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-charon-son-of-erebus
 headword: "CHARON, SON OF EREBUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,24 @@ tags:
 | `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `STyx` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mental, or kama-manasic, nature by means of which the soul progresses through the lower planes—the underworld of ignorance (darkness). The "payment of a coin to Charon" signifies the sacrifice that must be made of desire, in order to progress.
+
+See EREBUS, MONEY.
+
+### Also in this note: CHARON'S FERRY
+
+A symbol of the division between the lower mind and the higher—the same as the "bridge of manas." It implies a "way" by which the consciousness may pass from the lower nature to the higher. Through the establishment of this "ferry" the recollection of past incarnations becomes possible. The "ferry" acts, as it were, like sight through a telescope in relation to the lower consciousness, and through it a vision of the Higher Self may be gained. And in this way the reflection of the Higher nature in the lower nature is in process of time and evolution fully accomplished, and then "Charon's Ferry" is over-passed by the soul. The "ferry," which at first is potential, becomes actual when the soul is ready to cross it.
+
+> "The mystic is one who knows divine things otherwise than by hearsay, who sees them by an inner light; one to whom the Infinite and Eternal is no mere article of belief, but an experience. The mystical doctrine, in its essence, is that the highest in man can hold immediate intercourse with the Highest in the universe, that the human soul can enjoy direct communion with the Supreme Object, to which neither the senses nor the logical understanding can attain."—W. S. Lilly, *The Great Enigma*, p. 256.
+
+See AGNIDHRA, BOAT (river), BRIDGE OF HEAVEN, DOG CERBERUS, HIKOBOSHI, PRAGAPATI, RECOLLECTION, REMINISCENCE, STYX.
+
+**Corrections made:** `Eresus` → EREBUS; `consciouness` → consciousness; `The‘ ferry` → The "ferry"; `Litty` → Lilly; page heading `CHARON` placement left as the entry's own; See-list spellings restored (`Money`, `Boat`, `DoG`, `Hi1KoBOSHI`, `PRaGApPatTI`, `STyx`).
+
+**Unclear or supplied:** Contains a second entry: CHARON'S FERRY.
 
 ## Full OCR entry body (exact)
 

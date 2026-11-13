@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ge-gha-or-tellus
 headword: "GE, GHA, OR TELLUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `OCEANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCEANUS, SON OF HEAVEN AND EARTH|OCEANUS, SON OF HEAVEN AND EARTH]] |
 | `RuEa` | **unresolved** (review queue) |
 | `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of matter in its essential nature of mother substance bringing forth qualities and forms.
+
+See APPLES, HESPERIDES, OCEANUS, RHEA, URANUS.
+
+**Corrections made:** Page heading `GEBAL` removed from mid-sentence; `RuEa` → RHEA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ghee-or-butter
 headword: "GHEE, OR BUTTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `OIL` | **unresolved** (review queue) |
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
 | `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition of Divine love and wisdom, or the buddhic emotion nature which proceeds from buddhi (cow).
+
+> "May the purifiers of ghee purify us with ghee!—For they, the divine, take away all taint; now 'all' means every, and 'taint' means what is impure; for they do take away from him every impurity."—*Sata. Brâh.*, III. 1, 2, 1.
+
+The spiritual forces are called upon to purify the mental qualities by uniting them with the buddhic emotion nature (ghee) which takes away the taint of selfishness, pride, greed, attachment to desire and sense, and every impurity. The lower mind commences its activities under the stimulus of desire and lower emotion. This stimulus from below has to be superseded by the stimulus from above to be found in the higher emotions of wisdom, truth, and love.
+
+See BUDDHI, BUTTER, COW, FAT, [GHEE?], MILK, OIL, OINTMENT, OLIVE.
+
+**Corrections made:** `Brdh.` → Brâh.; `Ill.` → III.; `ghce` → ghee; page heading `GIANTS` removed from mid-sentence; See-list spellings restored (`BuppuI`, `Fart`, `Mitk`); quotation marks normalised.
+
+**Unclear or supplied:** The reference ends `III. 1, 2, 1)` in the OCR (possibly `10`); set as `1`. `[GHEE?]`: OCR reads `Guav`.
 
 ## Full OCR entry body (exact)
 

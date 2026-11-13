@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-beams
 headword: "MOON-BEAMS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `KariAsa` | **unresolved** (review queue) |
 | `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of reflections of truth in the lower nature.
+
+> "The moon-beams, though they shine everywhere, are especially bright on mount Kailasa."—*Buddha-Karita*, Bk. I. 21.
+
+The "moon-beams" here signify the reflections of truth which are especially brilliant through the intuition.
+
+See KAILASA, MOUNTAIN.
+
+**Corrections made:** `Kailésa` → Kailasa; `KariAsa` → KAILASA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

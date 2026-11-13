@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-saints-sails-of-the-black-ship
 headword: "SAINTS SAILS OF THE BLACK SHIP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Sup (black)` | **unresolved** (review queue) |
 | `Waves` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the ambitions of the soul.
+
+> "They set up their mast (in the black ship) and spread the white sails forth, and the wind filled the sail's belly, and the dark wave sang loud about the stern as the ship made way and sped across the [words unclear] journey."—*Iliad*.
+
+The mental qualities erect an opinion of high import, which becomes the means of raising the vehicle of mind by its enhanced receptiveness. And as this took place, the lower emotions (wind) surged about the soul (ship). And thus the soul hastened on its upward course and accomplished its mission for the time being.
+
+See GREEKS, MAST, SHIP (black), WAVES, WIND.
+
+**Corrections made:** `acroas` → across; `Zitad` → *Iliad*; See-list spellings restored (`Sup`, `Waves`).
+
+**Unclear or supplied:** `[words unclear]`: OCR `A a aca hor`; the words after `across the` are lost.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horus-the-child
 headword: "HORUS, THE CHILD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `HarPOCRATES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
 | `HORBEHUDTI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HORBEHUDTI, OR HEROBEHUTET|HORBEHUDTI, OR HEROBEHUTET]] |
 | `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The same as Harpocrates. It signifies the birth of the Christ in the soul upon the buddhic plane, or the Self commencing to incarnate in the human being.
+
+See BIRTH OF HORUS, [Burro?], HARPOCRATES, HORBEHUDTI, INCARNATION,
+
+**Corrections made:** `BrrtH or Horus` → BIRTH OF HORUS; `HarPOCRATES` → HARPOCRATES.
+
+**Unclear or supplied:** `[Burro?]` See-list item not identified. The See list ends with a comma in the OCR.
 
 ## Full OCR entry body (exact)
 

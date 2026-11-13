@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lost-sheep
 headword: "LOST SHEEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,30 @@ tags:
 | `Vol. II. p. 25. See ABRaHAM` | **unresolved** (review queue) |
 | `SoDOM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SODOM AND EGYPT|SODOM AND EGYPT]] |
 | `SOUL (lower)` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego, who descends to the lower nature, and is lost to the Higher Self by being obscured in the matter of the lower planes.
+
+See SHEEP (lost).
+
+### Also in this note: LOST SOUL
+
+This idea, which is due to primitive and absurd human conceptions, could not be for a moment entertained by anyone who had the least knowledge of the soul's nature and evolution. That which is unreal passes away, but that which is real persists. The personality does indeed pass away, but the individuality to which it is attached is immortal. The Divine purpose to bring to perfection every soul cannot be frustrated.
+
+See CAUSAL-BODY, IMAGE, INDIVIDUALITY, JUSTICE, LOST PIECE, PERSONALITY, SOUL.
+
+### Also in this note: LOT, ABRAHAM'S SON
+
+A symbol of the lower soul in process of up-building.
+
+> "The motif of deliverance out of the Underworld lies in the story of the rescue of Lot. Lot is in Sodom—Underworld."—A. Jeremias, *Old Test.*, etc., Vol. II. p. 25.
+
+See ABRAHAM, SODOM, SOUL (lower).
+
+**Corrections made:** Page heading `459 LOTUS` removed from inside `INDI...vipuaLiry` → INDIVIDUALITY; See-list spellings restored (`CavusaL-BoDY`, `Imace`, `Jusricr`, `[Lost Pprece`, `ABRaHAM`, `SoDOM`); closing quotation mark restored after the Jeremias quotation.
+
+**Unclear or supplied:** Contains two further entries: LOST SOUL; LOT, ABRAHAM'S SON.
 
 ## Full OCR entry body (exact)
 

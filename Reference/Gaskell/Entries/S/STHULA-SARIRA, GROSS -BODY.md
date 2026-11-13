@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sthula-sarira-gross-body
 headword: "STHULA-SARIRA, GROSS -BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `CavusaL-BODY` | **unresolved** (review queue) |
 | `GaM` | **unresolved** (review queue) |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical body, the external sheath of the soul.
+
+> "All the (Indian) systems assign to each person two bodies: (a) an exterior or gross body (sthûla-sarira); (b) an interior or subtle body (sûkshma-sarira or linga-sarira). The last is necessary as a vehicle for the soul when the gross body is dissolved. . . . The Vedanta affirms the existence of a third body, called karana-sarira or causal body."—Mon. Williams, *Indian Wisdom*, p. 64.
+
+These three bodies are the physical, the astral, and the causal bodies, functioning on the physical, the astral and the higher mental planes respectively.
+
+See CAUSAL-BODY, [GAM?], VESTURES.
+
+**Corrections made:** `sthéla-sarira` → sthûla-sarira; `(6)` → (b); `sikshma` → sûkshma; `Mon, Wiuiams` → Mon. Williams; page heading `zz STIFFNECKED` removed from mid-sentence; `CavusaL-BODY` → CAUSAL-BODY; quotation marks normalised.
+
+**Unclear or supplied:** The OCR reads "an exterior or body"; the word "gross" is not in the OCR and was not supplied. `GaM` in the See list is uncertain.
 
 ## Full OCR entry body (exact)
 

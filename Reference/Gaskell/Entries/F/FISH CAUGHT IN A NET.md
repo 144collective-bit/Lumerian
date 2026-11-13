@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fish-caught-in-a-net
 headword: "FISH CAUGHT IN A NET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of facts collected through the apparatus of the senses.
+
+> "Fuh-he invented nets for fishes."—*Chinese Mythology*. Kidd, *China*.
+
+The Logos is active within nature when at a certain stage an astral mechanism of sensation comes to be developed, which is to be used by the ego in gathering the facts (fish) which it is necessary that he shall collect for the widening of his experience.
+
+**Corrections made:** `Kipp` → Kidd; quotation marks normalised.
+
+**Unclear or supplied:** The OCR has no See list for this entry.
 
 ## Full OCR entry body (exact)
 

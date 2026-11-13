@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goats-unblemished
 headword: "GOATS, UNBLEMISHED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Lams` | **unresolved** (review queue) |
 | `PestrLENcE` | **unresolved** (review queue) |
 | `SAVOUR (sweet)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of sincere faith tending upwards (desire exalted).
+
+> "Whether haply Phoebus Apollo may be willing, having partaken of the savour of lambs and unblemished goats, to avert from us the pestilence."—*Iliad*, Bk. I.
+
+Whether it will be that the Higher Self, having accepted the contribution of the lower self in the thought of loving service (savour of lambs) and sincere faith (unblemished goats), will afford the lower self the means for overcoming the adverse conditions which surround it.
+
+See APOLLO, BURNT OFFERING, GOD (smelling), LAMBS, PESTILENCE, SAVOUR (sweet).
+
+**Corrections made:** `Jliad` → *Iliad*; See-list spellings restored (`GoD`, `Lams`, `PestrLENcE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

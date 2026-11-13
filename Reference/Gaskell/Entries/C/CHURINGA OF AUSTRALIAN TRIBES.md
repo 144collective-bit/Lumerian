@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-churinga-of-australian-tribes
 headword: "CHURINGA OF AUSTRALIAN TRIBES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body which endures life after life, and to which the fleeting personalities (alcheringa) are attached. The symbol is regarded with great reverence as a thing affecting the inner being of men and women.
+
+See CAUSAL-BODY, REINCARNATION.
+
+**Corrections made:** `areattached` → are attached.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

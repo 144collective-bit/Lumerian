@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arete-wife-of-alcinous
 headword: "ARETE, WIFE OF ALCINOUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ALCINOUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ALCINOUS ALCINOUS, KING OF THE PHAEACIANS|ALCINOUS ALCINOUS, KING OF THE PHAEACIANS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfected emotion-nature allied with the Divine will in the soul.
+
+See ALCINOUS.
+
+**Corrections made:** `emotionnature` → emotion-nature.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

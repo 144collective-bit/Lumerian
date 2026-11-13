@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eight-number
 headword: "EIGHT, NUMBER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `SaBBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SUNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 | `UDGITHA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDGITHA, OM|UDGITHA, OM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of entrance into a new state or condition of the soul, the number seven signifying completion of the former state. Or the symbol may refer to duality of aspects on the four lower planes.
+
+> "The 'eighth day' is always typical of resurrection. The day, after the seventh, or Sabbath, answers to 'the first day of the week' on which Christ rose.... 'Seven days' include the periods proper to the first creation. The eighth day brings us in type into a new order of things."—A. Jukes, *The Law of the Offerings*, p. 30.
+
+> "Eight is the number of regeneration, hence by far the greater number of the old fonts and baptistries are octagonal."—F. E. Hulme, *Symbolism*, etc., p. 14.
+
+See BOAT OF THE EARTH, [DROPNER?], OGDOAD, SABBATH, SUNDAY, UDGITHA.
+
+**Corrections made:** `‘eighth day ‘is` → 'eighth day' is; `creation The` → creation. The; `Juxrs` → Jukes; `Hutme` → Hulme; See-list spellings restored (`Boat`, `OacpoaD`, `SaBBATH`); quotation marks normalised.
+
+**Unclear or supplied:** A full stop is supplied after "first creation". `[DROPNER?]` is an unidentified See-list item (OCR `DROPNER`).
 
 ## Full OCR entry body (exact)
 

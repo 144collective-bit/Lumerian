@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nations-or-peoples
 headword: "NATIONS, OR PEOPLES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `GOSPEL OF KINGDOM` | **unresolved** (review queue) |
 | `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of associated groups of qualities, higher or lower. See BIRTH OF MAN CHILD, COUNTRIES, GOATS, GOSPEL OF KINGDOM, PEOPLE, QUALITIES.
+
+**Corrections made:** See-list capitalisation restored (`Goats`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

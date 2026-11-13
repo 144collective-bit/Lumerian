@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-antichrist
 headword: "ANTICHRIST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `DeviL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `HEROD` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROD THE KING|HEROD THE KING]] |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the adversary of the Higher Self, which is the lower principle or the desire-mental nature.
+
+> "Hereby know ye the Spirit of God: every spirit which confesseth that Jesus Christ is come in the flesh is of God: and every spirit which confesseth not Jesus is not of God: and this is the spirit of the antichrist, whereof ye have heard that it cometh; and now it is in the world already."—1 John iv. 2, 3.
+
+Hereby know ye the Spirit of Love and Truth: every impulse which is in harmony with Jesus Christ now born in our lower nature (flesh) is "of God": and every impulse which annulleth Jesus in us, is "not of God," and this is the antichrist which is the impulse of the desire-mind in opposition to the indwelling Jesus. The antagonist of righteousness and truth is in our mental condition (world), but "greater is he (Jesus Christ) that is in you than he that is in the world" (verse 4), for he that is of the lower nature is Antichrist.
+
+> "St. John is not speculating on ultimate existences; he is dealing with active powers; and from this point of view the power of evil has its place in his system. As Christ is the principle of truth, so the devil is the [parent?] of error. He remains as the anti-Christ, though all his attendant demons have vanished in this Gospel. The devil is *de facto* ruler of this world, which as his domain is contrary to God."—W. R. Inge, *Camb. Biblical Essays*, p. 272.
+
+See ADVERSARY, AHRIMAN, COUNTERFEIT, DEVIL, HEROD, SATAN.
+
+**Corrections made:** `JouHN` → John; `tn you` → in you; `Incr` → Inge; `Eesays` → Essays; `DeviL` → DEVIL; quotation marks normalised.
+
+**Unclear or supplied:** `[parent?]` replaces OCR `pa` (the word is cut off).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adamas-higher-aspect
 headword: "ADAMAS (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `Anc. MAN` | **unresolved** (review queue) |
 | `DemriurRGE. HERMES` | **unresolved** (review queue) |
 | `IEOU` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Man.
+
+> "But Cyllonian Hermes summoned forth the souls of men mindful' (Od. 24, 1ff.).... That is, from the Blessed Man Above, or Original Man, or Adamas, as they think they have been thus brought down into the plasm of clay, in order that they may [be] enslaved to the Demiurge of this creation, Esaldaios a fiery God, fourth in number, for thus they call the Demiurge." (Gnostic.)—[Hippolytus?], *Philosophumena*, Bk. V. 2.
+
+The Divine Mind (Hermes) centralises the spiritual egos on the mental plane, endowing them with mind. That is, the egos take forms provided by the Archetypal Man, and are thus brought down to the lower vehicles, in order that they may be enslaved to the lower desire principle (Esaldaios), ruler of the lower quaternary.
+
+> "The 'rock' means Adamas: the 'corner stone.'"—*Ibid.*
+
+"The rock was Christ." "Adamas" signifies the Archetypal Man which is Christ incarnate,—the inner God.
+
+See ARC. MAN, DEMIURGE, HERMES, IEOU.
+
+**Corrections made:** `they may enslaved` → they may [be] enslaved; `Demiuryge` → Demiurge; `Jbid.` → Ibid.; `Anc. MAN` → ARC. MAN; `DemriurRGE.` → DEMIURGE,; quotation marks normalised.
+
+**Unclear or supplied:** `[be]` is supplied. `[Hippolytus?]`: the OCR attribution is damaged (`sa Philosophumena`); the name is inferred from another entry in the batch. The quotation from the Homeric line is left as printed (`mindful'`), its quotation marks being damaged.
 
 ## Full OCR entry body (exact)
 

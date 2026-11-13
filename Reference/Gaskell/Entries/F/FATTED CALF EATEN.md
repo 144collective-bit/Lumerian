@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fatted-calf-eaten
 headword: "FATTED CALF EATEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Housxs` | **unresolved** (review queue) |
 | `Kip` | **unresolved** (review queue) |
 | `PRODIGAL. FEAR ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the celestial feast of wisdom and love on the buddhic plane, whereby the sacrifice of the lower nature has brought joy to the higher. This implies the awakenment of the consciousness on the higher planes.—See Luke xv. 23.
+
+See CALF, DANCES, HOUSE, KID, PRODIGAL.
+
+**Corrections made:** `LUKE` → Luke; `Car` → CALF; `Housxs` → HOUSE; `Kip` → KID; trailing page heading `FEAR ;` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poet-bard-or-hymn-writer
 headword: "POET, BARD, OR HYMN WRITER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Hymn SINGING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HYMN-SINGING|HYMN-SINGING]] |
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol indicating an advanced quality capable of educating and leading upwards the qualities below.
+
+> "The self-shining bards have extolled thee with their newest hymn."—*Sata. Brâh.* II. 6, 1, 38.
+
+The intuitional qualities have become exalted through aspiration and harmony.
+
+See HYMN SINGING, PROPHET.
+
+**Corrections made:** page heading `583 POLLUX` removed from mid-sentence; `Saéa. Bréh.` → Sata. Brâh.; `Hymn SINGING` → HYMN SINGING.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lord-of-the-peace-of-horus
 headword: "LORD OF THE PEACE OF HORUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `PEAcE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PEACE, OR REST|PEACE, OR REST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of equilibrium in the soul.
+
+See HORUS, PEACE.
+
+**Corrections made:** See-list spellings restored (`PEAcE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

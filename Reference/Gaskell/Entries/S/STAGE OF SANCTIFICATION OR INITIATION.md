@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stage-of-sanctification-or-initiation
 headword: "STAGE OF SANCTIFICATION OR INITIATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the first of the four higher initiations, and is said to mean "He who has entered the stream." It consists in the dedication of an advanced personality during a physical life, to the highest ideals of spiritual goodness, love, and truth, and to the most noble and worthy ends of beneficence, in entire disregard to the selfish solicitations of the desire-mind. This course of life maintained to the end implies the mastery achieved over a lower soul-state and the rise to a higher condition.
+
+See INITIATIONS.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

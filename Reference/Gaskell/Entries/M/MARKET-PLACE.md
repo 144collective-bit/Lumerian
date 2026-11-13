@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-market-place
 headword: "MARKET-PLACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `SETTLEMENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SETTLEMENTS|SETTLEMENTS]] |
 | `Vara` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "field" or arena of life, in which the soul qualities congregate to transact the business of development by interaction and co-operation under Divine law.—See Matt. xx. 3.
+
+See ARENA, FIELD, LABOURERS, LAND, SETTLEMENTS, VARA, WORLD.
+
+**Corrections made:** `Mat.` → Matt.; See-list spellings restored (`FiELtpD`, `LanpD`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

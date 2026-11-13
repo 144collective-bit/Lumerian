@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-perseus-son-of-zeus-and-danae
 headword: "PERSEUS, SON OF ZEUS AND DANAE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `MEDUSA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEDUSA, THE GORGON|MEDUSA, THE GORGON]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `WHALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the indwelling Self, begotten of the Spirit and born of the purified emotion-nature.
+
+> "Aratus asserts that Cepheus is Adam, Cassiopea Eve, Andromeda the soul of both of these, Perseus the Logos, winged offspring of Jove, and Cetos the plotting monster. Not to any of these, but to Andromeda only does he repair, who slays the Beast; from whom, likewise taking unto himself Andromeda, who had been delivered (when) chained to the Beast, the Logos—that is Perseus—achieves, he says, her liberation."—Hippolytus, *Refutation*, etc., Bk. IV. 49.
+
+> "The Perseus of the myth is the true Humanity ('Son of God')—earth-born indeed, but heaven-begotten—which, endowed by Wisdom (Athena) and Understanding (Hermes) with the wings of Courage, the shield of Intuition, and the sword of Science, is gone forth to smite and destroy the corrupt Church (Medusa) and to deliver the world from its blighting influence. But it is not enough that the Gorgon be slain. A task yet greater and more glorious awaits achievement. Andromeda, the Soul, the better part of Man is on the point of being devoured outright by the baleful dragon of Negation, the agent of the lower nature. ... The Deliverer of the Soul must be bent, not on destruction merely, but on salvation likewise; . . . It is not enough that he carry to Olympus the dead Medusa's head; he must bear thither also a living Bride. His mission is not only to satisfy the Mind but to content the Heart."—*The Perfect Way*, p. lxv.
+
+See ADAM (lower), ADONIS, ANDROMEDA, ATHENA, BEAST, DRAGON, EVE, HERMES, MEDUSA, SALVATION, WHALES.
+
+**Corrections made:** `Hippo.ytvs` → Hippolytus; `chained. to` → chained to; See-list spellings restored (`Apam`, `Brast`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

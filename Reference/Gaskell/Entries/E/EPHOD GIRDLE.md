@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ephod-girdle
 headword: "EPHOD GIRDLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `GoLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `Kusti` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KUSTI OR KUSHTI|KUSTI OR KUSHTI]] |
 | `SutratmMa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Ray of Life from the Supreme.
+
+> "And the curious girdle of (Aaron's) ephod, that was upon it, was of the same, according to the work thereof; of gold, blue, purple and scarlet, and fine twined linen."—Exod. xxxix. 5.
+
+The Divine Ray of vibratory Life extends throughout the mechanism of the soul and its qualities, and its presence is felt in the spiritual mind "the Lord's High Priest."
+
+See BRAHMAN PRIESTS, BREASTPLATE, COLOURS, GIRDLE, GOLD, KUSTI, SUTRATMA.
+
+**Corrections made:** `ophod` → ephod; `gold. blue` → gold, blue; `Exop.` → Exod.; See-list spellings restored (`BRBEASTPLATE`, `CoLours`, `GoLD`, `Kusti`, `SutratmMa`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

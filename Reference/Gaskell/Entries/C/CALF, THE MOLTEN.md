@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-calf-the-molten
 headword: "CALF, THE MOLTEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Ibo` | **unresolved** (review queue) |
 | `Mosks` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Prizsts AND ELDERS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the opposite of wisdom, namely, superstition, or the following of the dead letter of the scriptures, together with forms and ceremonies, apart from moral and spiritual motives.
+
+> "They made a calf in Horeb, and worshipped the molten image. Thus they changed their glory into the similitude of an ox that eateth grass."—Ps. cvi. 18, 19.
+
+The spiritual mind (Aaron) at an early stage had to prepare the soul for higher guidance. At first there must be reliance upon external authority (earrings) and outside show and observances (the molten image). The glory of the moral and spiritual must be hidden under symbolism and ceremonies which satisfy primitive desires (grass) and emotions.
+
+> "The people sat down to eat and drink and rose up to play."—Exod. xxxii. 6.
+
+That is, the lower mental qualities (people) sought only to satisfy desire and sensation at this early stage.
+
+See AARON, EAR, EATING, [Ibo?], MOSES, PRIESTS AND ELDERS.
+
+**Corrections made:** `and_ spiritual` → and spiritual; `obsarvances` → observances; `Exop.` → Exod.; `Eatino`, `Mosks`, `Prizsts` restored; quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[Ibo?]` is likely IDOL but is not certain.
 
 ## Full OCR entry body (exact)
 

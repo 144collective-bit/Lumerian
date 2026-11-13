@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-intellect-personality-sutratma-tama-gushi-twigs
 headword: "INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `MrIreaura` | **unresolved** (review queue) |
 | `Sakaki` | **unresolved** (review queue) |
 | `Usumt` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purifying buddhic vibrations passing between the buddhic and astral planes.
+
+> "The tama-gushi are twigs of the sacred evergreen tree (sakaki) or of bamboo, with tufts of yufu attached. They are, in short, a simple form of nusa or gohei."—W. G. Aston, *Shinto*, p. 216.
+
+> "Usumé bound her sleeves close up to the armpits, and grasped in her hand a bundle of twigs, and a spear wound round with grass, with small bells attached to it."—The *Nihongi*.
+
+The Emotion-nature, encompassed with opinions and habits, became active, and allied itself with the buddhic vibrations, and the aspirations from the desires and mental faculties, so that the transmutations of lower qualities into higher should be proceeded with, and the lower nature be raised and purified.
+
+See [BARUIS?], BARSOM, [BELTS?] (second), BUCKLES, CLOTHING, KUSTI, MITEGURA, SAKAKI, USUME,
+
+**Corrections made:** `Asron` → Aston; `Nthongt` → Nihongi; `Usumt` → USUME; See-list spellings restored (`Brets`, `Buck.xez`, `CLoruina`, `Kust1`, `MrIreaura`, `Sakaki`).
+
+**Unclear or supplied:** The OCR ends with a trailing comma after `Usumt,`, so the See list may be cut off. `[BARUIS?]` and `[BELTS?]` are uncertain (OCR `Baruis`, `Brets`).
 
 ## Full OCR entry body (exact)
 

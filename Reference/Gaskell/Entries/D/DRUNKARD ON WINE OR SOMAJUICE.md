@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-drunkard-on-wine-or-somajuice
 headword: "DRUNKARD ON WINE OR SOMAJUICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SIMENvus` | **unresolved** (review queue) |
 | `SoOMA-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual nature which "intoxicates" or paralyses the lower self through an influx of the Divine life.
+
+> "In the Rig-Veda, Indra is the highest and greatest of the Gods, and his Soma-drinking is allegorical of his highly spiritual nature. In the Puranas, Indra becomes a profligate, and a regular drunkard on the Soma-juice."—H. P. Blavatsky, *Secret Doctrine*, Vol. II. p. 295.
+
+> "I drank and was inebriated with the living water that does not die; and my inebriation was not without knowledge."—*Ode of Solomon*.
+
+See DIONYSUS, INDRA, INTOXICATION, NOAH, SILENUS, SOMA-JUICE, WINE.
+
+**Corrections made:** `Rig- Veda` → Rig-Veda; `Somadrinking` → Soma-drinking; `BiavaTsky` → Blavatsky; See-list spellings restored (`Noaw`, `SIMENvus`, `SoOMA-JUICE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

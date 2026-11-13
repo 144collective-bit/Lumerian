@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seeds-of-the-six-creatures
 headword: "SEEDS OF THE SIX CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of centres of consciousness in vehicles of the soul.
+
+> "Ahura-Mazda directed that a vara (enclosure) should be made foursquare; into which the seeds of the six creatures should be brought."—*Vendidad*, II.
+
+The Supreme directs that the quaternary should be prepared, in order that the six centres of the manifestation of the Divine life may be introduced. Two buddhic, two mental, and two astral.
+
+See CONSCIOUSNESS, LIVING THINGS, QUATERNARY, SETTLEMENTS, SIX, VARA, VITAL AIRS.
+
+**Corrections made:** `consciousmess` → consciousness; `Venidad, IT.` → Vendidad, II.; `tho` → the; `_lifo inay` → life may.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

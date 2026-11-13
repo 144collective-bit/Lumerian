@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hit-serpent-loud-breathing
 headword: "HIT, SERPENT, LOUD-BREATHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `Rose` | **unresolved** (review queue) |
 | `SEALED LETTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEALED LETTER OF THE KING|SEALED LETTER OF THE KING]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sense-nature and its desires, which so strongly attract the attention of the ego and draw it downwards to matter.
+
+> "And I entered the walls of (a town). I went down into Egypt, and my companions parted from me. I betook me straight to the serpent. Hard by his dwelling I abode, waiting till he could slumber and sleep, and I could take my pearl from him."—*Hymn of the Soul*, from the *Acts of Judas Thomas*.
+
+I then entered the condition of thought wherein mind must needs limit and define everything. I became immersed in self-seeking, fallen low, and in Egyptian darkness. And my companions, Truth and Hope, departed from me. I betook me headlong to the realm of the senses,— Nigh whose centres of astral activity did my consciousness have its abode, Waiting until the cycle of the dominance of the senses was ended, And I could capture the experience that through it should come to me, Taking unto me my Pearl,—the treasure laid up for me in Heaven.
+
+See CONSCIOUSNESS, EGYPT, EXPERIENCE, FALL, GNOSIS, LETTER, MAISHAN, PEARL, PRODIGAL, ROSE, SEALED LETTER, TREASURE.
+
+**Corrections made:** `so _ strongly` → so strongly; `conld` → could; page heading `SOUTH, SERPENT` removed from mid-text; See-list spellings restored (`Ecyrr`, `Fait`, `PrRopIGAL`).
+
+**Unclear or supplied:** The Hymn paraphrase in Gaskell's voice is set as prose, as the OCR runs the verse lines together.
 
 ## Full OCR entry body (exact)
 

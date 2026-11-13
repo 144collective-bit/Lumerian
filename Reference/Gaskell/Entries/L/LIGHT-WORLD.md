@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-light-world
 headword: "LIGHT-WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Deap` | **unresolved** (review queue) |
 | `Gops` | **unresolved** (review queue) |
 | `SLEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP|SLEEP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of that state of consciousness which corresponds to an extension of spiritual vision which perceives the Truth and the Life within.
+
+> "Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee."—Eph. v. 14.
+
+The soul spiritually unawakened is exhorted to arise from the dead personality and enter the higher consciousness, when Wisdom, Truth and Love will be revealed unto it.
+
+See DEAD, GODS, SLEEP.
+
+**Corrections made:** `Epu.` → Eph.; `ig` → is; See-list spellings restored (`Deap`, `Gops`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

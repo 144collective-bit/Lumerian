@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seasoning-with-salt-and-trial-by-fire
 headword: "SEASONING WITH SALT AND TRIAL BY FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Cor. iv. 6. See FIRE` | **unresolved** (review queue) |
 | `Sar` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of imparting spiritual truth and spiritual energy, respectively.—See Cor. iv. 6.
+
+See FIRE, SALT.
+
+**Corrections made:** `respectively .—-See` → respectively.—See; `Sar` → SALT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

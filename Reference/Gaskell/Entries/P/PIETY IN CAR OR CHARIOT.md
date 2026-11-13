@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-piety-in-car-or-chariot
 headword: "PIETY IN CAR OR CHARIOT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `PRAISE` | **unresolved** (review queue) |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Self in the causal vehicle.
+
+> "But, ye gods, avert the madness of those men from my tongue, and from lips that are holy cause a pure stream to flow. And thee I pray, much-wooed, white-armed maiden Muse, in what things it is right for beings of a day to hear, do thou and Piety, driving obedient car, conduct me on."—Empedocles, Fairbanks, 11.
+
+The Higher nature, under its aspects of Truth, Will, and Love, is now called upon to seal the lips (tongue), or stay the attempts of the personality at expressing its separative self, that is, stop its working from the lower self:—and from the Higher Self, working from the Infinite Reality, cause to forthpour from its potentiality,—the Truth within,—the stream of the Divine Life. And supplication is made to the beneficent, presiding Wisdom principle, that fit and helpful knowledge and the higher virtues be communicated to the soul. Thus in the causal vehicle to which intelligence (horses) is harnessed, the Self and Wisdom are said to be driven in towards the Spirit.
+
+> "That attitude of filial piety toward God which includes receptivity of the truth, penitence and loving trust toward the forgiving and purifying Divine Love, surrender of the self in the spirit of obedience and of desire to do the Divine Will, is, indeed, the very essence of religion, subjectively regarded."—G. T. Ladd, *Phil. of Religion*, p. 540.
+
+See ATHENA, CHARIOT, HERA, HORSE, MUSE, PERSONALITY, PRAISE, SELF, WISDOM.
+
+**Corrections made:** `FarrBanks` → Fairbanks; `aspecta` → aspects; `ite` → its; `Lapp` → Ladd; page heading `573 PILATE` removed from mid-sentence; See-list spellings restored (`Horsz`, `Must`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

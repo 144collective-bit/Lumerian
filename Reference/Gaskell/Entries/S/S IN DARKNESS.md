@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-in-darkness
 headword: "S IN DARKNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Moon` | **unresolved** (review queue) |
 | `Niaut` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral emotions devoid of the light of Truth.
+
+> "Verily, the life of women is always darkness, yet when it encountered her (Maya), it shone brilliantly; thus the night does not retain its gloom, when it meets with the radiant crescent of the moon."—*Buddha-Karita* I. 17.
+
+Truly, the life of the unenlightened emotions is dark and blind. But as the light of Truth (queen Maya) from above stirs the emotions, they are raised from their condition of ignorance, and become united with the Higher Self. Thus the "night" of negation does not remain without knowledge (dark); for at the coming of the Love-nature from above, this emotional state is informed and irradiated by the Higher Self. Christ, the light of Truth, illumines the personality (moon) through its emotion-nature (woman) within the mind (man).
+
+See DARKNESS, LIGHT, MAYA (higher), MOON, NIGHT, PERSONALITY.
+
+**Corrections made:** `Venly` → Verily; `personality(moon)` → personality (moon); `emotionnature` → emotion-nature; See-list spellings restored (`DARKNEsS`, `LicHT`, `Niaut`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

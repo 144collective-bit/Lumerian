@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-clouds-dark-and-cold
 headword: "CLOUDS, DARK AND COLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `ANGER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANGER OF GOD|ANGER OF GOD]] |
 | `JEALOUS’ WRATH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher nature regarded by the lower as obscure and stern.
+
+> "Behold the sun, warm and bright on all sides, and whatever is immortal and is bathed in its bright ray; and behold the rain-cloud, dark and cold on all sides."—Empedocles, Fairbanks, 96.
+
+Observe the Self, loving and wise both above and beneath, and do thou regard all the virtues, and all that endureth, as living within It. And see the manifestation of the One, which being incomprehensible, appears glowering, obscure, and repellent to the lower mind.
+
+See ANGER, JEALOUS' WRATH.
+
+**Corrections made:** Page heading `CLOUDS` removed from mid-sentence; `FAIRBANKS` → Fairbanks.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

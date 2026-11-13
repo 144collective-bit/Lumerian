@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-procession-prize-of-honour-gained
 headword: "PROCESSION PRIZE OF HONOUR GAINED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `KLYTEMNESTRA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KLYTAIMNESTRA, WIFE AGAMEMNON|KLYTAIMNESTRA, WIFE AGAMEMNON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of credit taken to itself by the lower egoism for having made an effort to surrender itself to the higher nature; pride being the motive at this stage.
+
+> "Only make ye me ready a [prize of?] honour forthwith, lest I alone of all the Argives be disprized, which thing beseemeth not; for ye all behold how my prize is [words unclear] from me (i.e. Agamemnon)."—*Iliad*, [reference unclear].
+
+This vanity in [seeking?] for honour signifies the growth of the egoistic feeling as the lower emotions increase in intensity. As this takes place the Desire-mind realises how its captive, the Intuition of truth (Chryseis), is destined gradually to recover its liberty and manifest in the soul.
+
+See ACHILLES, AGAMEMNON, ARGIVES, CHRYSEIS, INTUITION, KLYTEMNESTRA.
+
+**Corrections made:** `Yorthwith` → forthwith; `Jhiad` → Iliad; `ARIves` → ARGIVES.
+
+**Unclear or supplied:** The Iliad quotation is damaged: `[prize of?]` is a guess for the missing words after "a"; `[words unclear]` replaces OCR `de cooks, 8`; the book reference after `Iliad` is lost (OCR `a`). `[seeking?]` replaces OCR `sling`.
 
 ## Full OCR entry body (exact)
 

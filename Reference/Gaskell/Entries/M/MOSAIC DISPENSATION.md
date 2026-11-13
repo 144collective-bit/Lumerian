@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mosaic-dispensation
 headword: "MOSAIC DISPENSATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,18 @@ tags:
 | `PROPHET` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROPHET|PROPHET]] |
 | `TESTAMENT` | **unresolved** (review queue) |
 | `Woman (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The rational and moral order in the conduct of life, under coercion of law and conscience. This order precedes the order of Wisdom and Love,—the Christ.
+
+> "Now viewing the institutions of the dispensation brought in by Moses as typical, we look at them in what may be called their secondary aspect, we consider them as prophetic symbols of the better things to come in the Gospel."—P. [Fairbairn?], D.D., *Typology*, Vol. I. [page unclear].
+
+See CONSCIENCE, COVENANT, DISPENSATIONS, JOHN BAPTIST, JUSTIFICATION, LAW OF MOSES, MOSES, PROPHET, TESTAMENT, WOMAN (adultery).
+
+**Corrections made:** `consider then as` → consider them as; `Love ,—` → Love,—; `Moses`, `Woman` restored to capitals.
+
+**Unclear or supplied:** The author's name and the page are damaged in the OCR (`P. gta D.D., Typology, Vol. I. 5`): `[Fairbairn?]` is inferred from the title.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ab-the-heart
 headword: "AB, THE HEART"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: sample-draft
 tags:
   - source/gaskell
@@ -59,6 +60,22 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 ## Sample-internal links (only where Gaskell’s text warrants)
 
 - No additional sample-internal association claimed beyond See-resolution above.
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-self, or the atma-buddhic principle in the causal-body,—the perfect archetype potential within. The spiritual ego.
+
+> "The heart is regarded as having been the centre of the spiritual and thinking life, and as the organ through which the manifestations of virtue and vice revealed themselves, and it typifies everything which the word 'conscience' signifies to us.... The heart amulet is made in the form of a scarab or beetle."—Budge, *Book of the Dead*, Vol. I. p. lx.
+
+> "The heart is a distinct personality within him: it is the god [Khnum?], the creator, strengthening and making sound his limbs. ... This formula and its explanatory texts teach the curious doctrine that it is not the heart which sins, but only its fleshly envelope. The heart was and still remained pure, and in the Underworld accused its earthly covering of any impurities contracted."—Wiedemann, *Rel. of Anc. Egyptians*, p. 287.
+
+The "heart," signifying the spiritual ego, or Divine spark, within the soul, cannot act wrongly. It becomes obscured in evil doing, and manifests in righteousness. It is the Divine Image, or Microcosm.
+
+See CAUSAL, HEART, IMAGE, JOB, JUDGMENT-HALL, MICROCOSM, TEMPLE.
+
+**Corrections made:** `causalbody` → causal-body; `Buper` → Budge; `Ix.` → lx.; `WIEDEMANN` normalised; stray `—` before beetle removed; See-list spellings restored (`Causat`, `Inace`, `MICROCOsM`).
+
+**Unclear or supplied:** `[Khnum?]`: OCR reads "the god um"; the name is partly lost.
 
 ## Full OCR entry body (exact)
 

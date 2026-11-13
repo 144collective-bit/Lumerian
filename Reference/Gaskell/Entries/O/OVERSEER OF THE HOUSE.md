@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-overseer-of-the-house
 headword: "OVERSEER OF THE HOUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `INDIVIDUAalLiry` | **unresolved** (review queue) |
 | `NEBO` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEBO|NEBO]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality seated in the causal-body (house).
+
+> "Every male fiend and every female fiend shall the Osiris Nu, the overseer of the house of the overseer of the seal, destroy."—Budge, *Book of the Dead*, Ch. CXXXIV.
+
+Every error and every lower emotion shall the Self, as the individuality operating in the lower forms, destroy.
+
+> "He who knows and has thrown off all evil, the overseer of the senses, the [word unclear] firmly grounded in the [Self?], and looking away from all earthly objects, he is the same."—*Maitr. Upanishad*, VI. 1.
+
+The individuality perfected by means of the personality, who has overcome the attractions of sense and desire, becomes one and the same with the Self.
+
+See CAUSAL-BODY, DEFUNCT, FIENDS, HOUSEHOLDER, INDIVIDUALITY, NEBO, PERSONALITY.
+
+**Corrections made:** `shal]` → shall; `Bupar` → Budge; `Marv. Upansshad` → Maitr. Upanishad; See-list spellings restored (`CAavusAL - BODY`, `FrenDs`, `INDIVIDUAalLiry`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `ech pe`; `[Self?]` replaces `lf`. The title `Maitr. Upanishad` is a reading of OCR `Marv. Upansshad`.
 
 ## Full OCR entry body (exact)
 

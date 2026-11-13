@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-people-men-and-women
 headword: "PEOPLE, MEN AND WOMEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental and emotional qualities; the natural undeveloped instincts and activities which are to be disciplined and used as a means to the end of the manifestation of the Self.
+
+> "And there followed him a great multitude of the people, and of women who bewailed and lamented him. But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves and for your children."—Luke xxiii. 27, 28.
+
+The "company of people and women" signify the lower nature, which clings to the letter of the scriptures and sees not the glorification of the Spirit, which shall be accomplished in the soul by breaking away from such limitations and impediments to Truth. The Christ-soul says,—what the Higher nature can always say to the lower,—that the lower qualities must become dissatisfied with their own state of captivity to custom and authority, for the lower mind without its Head, or indwelling test of truth, is indeed in a sorry plight.
+
+See BONDAGE, CAPTIVITY, [Fou?], MULTITUDES, NATIONS, PENANCE, QUALITIES, SCRIPTURES, WOMAN.
+
+**Corrections made:** `LUuKE` → Luke; `natarre` → nature; page headings `Passion, Sorrow, PER-REREHU` removed from mid-sentence; See-list spellings restored (`Bonpaae`, `Captiviry`, `MvuLtiIrupEs`, `NaTIoNs`).
+
+**Unclear or supplied:** See-list item `[Fou?]` is uncertain (OCR `Fou`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kai-us-reign-of
 headword: "KAI US, REIGN OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ox (splendid). 425` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of an early period in the cycle of involution.
+
+See OX (splendid).
+
+**Corrections made:** Trailing page number `425` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

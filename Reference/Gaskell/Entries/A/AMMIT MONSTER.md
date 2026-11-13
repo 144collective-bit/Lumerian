@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ammit-monster
 headword: "AMMIT MONSTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `NEHAKA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEHAHA, THE FIEND|NEHAHA, THE FIEND]] |
 | `SCAPEGOAT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of negation;—that into which the lower illusion will finally descend, and by which it will be swallowed.
+
+See JESUS (son of God), JUDGMENT HALL, NEHAKA, SCAPEGOAT.
+
+**Corrections made:** `negation ;—` spacing normalised; `Jesus` See-list spelling restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalchas-kakhra-land-the-holy
 headword: "KALCHAS KAKHRA LAND, THE HOLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a condition of existence wherein the Divine life is poured forth; as at the emanation from atma of a solar universe.
+
+**Corrections made:** Stray space before the semicolon removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

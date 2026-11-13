@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-steps
 headword: "STEPS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `LappEr` | **unresolved** (review queue) |
 | `Movrs (speech)` | **unresolved** (review queue) |
 | `STAIRCASE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the path of life; the rising from a lower level to a higher.
+
+See LADDER, MOUTH (speech), STAIRCASE.
+
+**Corrections made:** `LappEr, Movrs` → LADDER, MOUTH.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

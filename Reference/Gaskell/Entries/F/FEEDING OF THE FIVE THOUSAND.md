@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feeding-of-the-five-thousand
 headword: "FEEDING OF THE FIVE THOUSAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Srrrina` | **unresolved** (review queue) |
 | `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of instruction and knowledge given to the numerous lower qualities of the soul, by means of the senses and subtle perceptions (fishes) of the astro-physical body.
+
+> "And Jesus took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake and gave the loaves to the disciples, and the disciples to the multitude."—Mark xiv. 19.
+
+This means the consecration of the five senses to the highest use, and this nobler use could only be brought about through the intervention of the superior qualities of the soul (the disciples). Christ, the indwelling Self, never gives aid or instruction directly to the lower qualities; the blessing from above must always come through the intermediary of the most highly evolved qualities.
+
+> "The feeding of the multitude was not the feeding of the body, but the soul. The whole story is symbolical. It was the bread from heaven, the bread of life, which Jesus distributed to His disciples, and which they, in turn, were authorised to distribute to those who were hungering and thirsting after righteousness."—R. J. Campbell, *Serm.*, Ministering the Bread of Life.
+
+> "The great law under which man is placed is that he shall receive illumination and impulse from beings more improved than himself. Now revelation is only an extension of this universal method of carrying forward mankind. In this case, God takes on himself the office to which all rational beings are called. He becomes an immediate teacher to a few, communicating to them a higher order of truths than had before been attained, which they in turn are to teach to the race. Here is no new power or element introduced into the system, but simply an enlargement of that agency on which the progress of man chiefly depends. . . . [Why] are the more advanced commissioned to teach the less informed? A great purpose, I believe the chief purpose, is to establish interesting relations among men, to bind them to one another by generous sentiments, to promote affectionate intercourse, to call forth a purer love than could spring from a communication of mere outward gifts."—W. E. Channing, *Evidences*, etc.
+
+See APOSTLES, BLESSING, BREAD, DISCIPLES, EATING, FOOD, HUNGER, JESUS (gospels), LIVING THINGS, PARABLE, PEOPLE, QUALITIES, SITTING, THIRST.
+
+**Corrections made:** `Mar.` → Mark; `direclly` → directly; `inistering` → Ministering; `y are` → [Why] are; `inter. course` → intercourse; page heading `FEEDING` removed from mid-sentence; `CAMPBELL`/`CHANNING` normalised; See-list spellings restored (`DiscipLes`, `EatTine`, `Huncer`, `Srrrina`); quotation marks normalised.
+
+**Unclear or supplied:** `[Why]` is supplied for OCR `y`; the reference `Mar. xiv. 19` is printed as such (Mark xiv. 19 may itself be an error, left as printed).
 
 ## Full OCR entry body (exact)
 

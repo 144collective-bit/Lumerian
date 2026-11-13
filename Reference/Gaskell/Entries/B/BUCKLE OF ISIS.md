@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buckle-of-isis
 headword: "BUCKLE OF ISIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,24 @@ tags:
 | `NECK` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `TAMAGUSHI` | **unresolved** (review queue) |
 | `YAGNOPAVITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YAJNOPAVITA,-THE SACRED CORD, OR SACRIFICIAL THREAD|YAJNOPAVITA,—THE SACRED CORD, OR SACRIFICIAL THREAD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the life currents between the buddhic and astral planes, whereby the lower qualities are transmuted into the higher.
+
+> "The buckle (amulet) was placed on the neck of the mummy, which it was supposed to protect; the red material of which it was made represented the blood of Isis."—Budge, *The Mummy*, p. 256.
+
+The astro-buddhic vibrations are necessary for the evolution and establishment of the purified emotions (neck). They represent the Divine Life (blood) proceeding from the buddhic plane (Isis).
+
+> "This amulet represents the buckle of the girdle of Isis, and is usually made of carnelian, red jasper, red glass, and of other substances of a red colour; it is sometimes made of gold, and of substances covered with gold. It is always associated with the CLVIth Chapter of the Book of the Dead, which is frequently inscribed upon it, and which reads:—'The blood of Isis, and the strength of Isis, and the words of power of Isis shall be mighty to act as powers to protect this great and divine being, and to guard him from him that would do unto him anything that he holdeth in [abo]mination.' But before the buckle was attached to the neck of the deceased, where the rubric ordered it to be placed, it had to be dipped in water in which ânkham flowers had been steeped. . . . It enabled the deceased to have 'one hand towards heaven, and one hand towards earth.'"—Budge, *Egyptian Magic*, pp. 43, 44.
+
+The meaning of Ch. CLVI is, that the Divine Life from the buddhic plane manifests in the higher emotions which are mighty to protect the indwelling God as he evolves, at first weak and helpless, in the soul, and to guard this Great One from being overpowered by the lower emotions and desires. The baptismal ceremony signifies that through truth (water) and the virtues (flowers) the soul is enabled by means of the higher vibrations to aspire towards the higher nature, and do its duty in the activities (hands) of the lower nature (earth).
+
+See [BARK?], BARSOM, BLOOD, DEFUNCT, FLOWERS, GEMS, GOLD, HAND, ISIS, KUSTI, MAGIC, MUMMY, NECK, TAMAGUSHI, YAGNOPAVITA.
+
+**Corrections made:** `Bupor` → Budge; `representa` → represents; page heading `MARRIAGE, BUDDHA` removed from mid-quotation; `dnkham` → ânkham; `Bupoar` → Budge; See-list spellings restored (`Bioop`, `DrFUNCT`, `FLOwERS`, `Hann`, `Kust1`, `Mummy`); quotation marks normalised.
+
+**Unclear or supplied:** `[abo]mination` is supplied: the OCR reads `mination`. The two quotations from Budge are run together as one block, as the OCR shows no attribution between them. See-list item `[BARK?]` for OCR `Barks`.
 
 ## Full OCR entry body (exact)
 

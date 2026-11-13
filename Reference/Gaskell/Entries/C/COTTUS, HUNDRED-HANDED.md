@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cottus-hundred-handed
 headword: "COTTUS, HUNDRED-HANDED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BRIAREUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BRIAREUS, MEN, ONE-LEGGED|BRIAREUS, MEN, ONE-LEGGED]]; [[Reference/Gaskell/Entries/B/BRIAREUS, OR AEGAEON|BRIAREUS, OR AEGAEON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind, active in numberless ideas. Or of the intellect.
+
+> "Blameless Cottus."—Hesiod, *Theogony*, 649.
+
+See BRIAREUS.
+
+**Corrections made:** `HeEsiop, gony` → Hesiod, *Theogony*.
+
+**Unclear or supplied:** `gony` read as *Theogony* (OCR lost the first syllable).
 
 ## Full OCR entry body (exact)
 

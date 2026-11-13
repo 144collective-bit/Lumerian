@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-libra-liberation
 headword: "LIBRA LIBERATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -66,6 +67,22 @@ tags:
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 | `Works (wisdom)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This term signifies the release of the ego or Self from captivity to the lower nature. The release comes about when the ego has entirely overcome the downward or outward attraction to the objects of desire and sensation, and has completely purified his lower nature, so that in fact it disappears, and his consciousness rises to union with God on the higher mental plane in the causal-body.
+
+> "The negation of the merely natural and sensual life, which is itself the negation of the spirit, is the sole way to true spiritual life."—D. F. Strauss, *Life of Jesus*, p. 438.
+
+> "If Christ does not rise within the soul of the believer, transforming everything there into his own spiritual likeness, our faith is vain, and we are yet in our sins. But then he does so rise; he does so gain the victory over our lower nature; he does conform us to his own risen life, and in so doing sets us free from sin."—R. J. Campbell, *Serm.*, Christ Arisen.
+
+> "God's original plan comprehends a [rising?] side, an economy supernatural, that shall complement the disorder and fall of nature, having power to roll back its currents of penal misery, and bring out souls into the established liberty and beauty of holiness. How manifest is it in the world's birth that God, from the first, designs it for a second birth; some grand palingenesia that shall raise the fall of nature and make existence fruitful."—H. Bushnell, *Nature and the Supernatural*, p. 148.
+
+See ASCENSION, ASCETIC, ATONEMENT, ATTACHMENT, BONDAGE, CAPTIVITY, CONQUEROR, CONSECRATION, COURSE, CRUCIFIXION OF JESUS, DESTROYING EVILS, ESCAPE, EXILE, FALL, GUARDIAN SPIRITS, INCARNATION, KHEPERA, MANAS, PEACE, REBIRTH, REDEMPTION, REGENERATION, REMISSION, RESURRECTION, SAINTS, SALVATION, SCARABEUS, SIAMAK, SUNSETTING, VIBHU, VICTORY, VISHNU, WORKS (wisdom).
+
+**Corrections made:** `causalbody` → causal-body; `iritual life..` → spiritual life.; `Srravuss` → Strauss; `esus` → Jesus; `BusHNE LL` → Bushnell; See-list spellings restored (`ASCETIO`, `ATONEmEenT`, `CapPTIVITY`, `CouRSsE`, `EscapPe`, `Fatt`, `Works`) and similar minor fixes.
+
+**Unclear or supplied:** `[rising?]` for OCR `risi` in the Bushnell quotation. `CRUCIFIXION OF JESUS` is read from OCR `CRUCIFIXION, OF JESUS`.
 
 ## Full OCR entry body (exact)
 

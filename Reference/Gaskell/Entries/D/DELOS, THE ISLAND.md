@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-delos-the-island
 headword: "DELOS, THE ISLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `OnoGcorogma` | **unresolved** (review queue) |
 | `POSEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a centre of activity and organisation in the astral vehicle, or the lower nature of the soul.
+
+> "Delos was called out of the deep by the trident of Poseidon, but was a floating island until Zeus fastened it by adamantine chains to the bottom of the sea, that it might be a secure resting-place to Leto, for the birth of Apollo and Artemis. Apollo afterwards obtained possession of Delos, by giving Calauria to Poseidon in exchange for it; and it became the most holy seat of the worship of Apollo."—Smith's *Class. Dict.*
+
+An astral centre was established in the lower nature (the deep), through the wisdom, love, and power (the trident) of Eternal Truth (Poseidon). But this centre remained unattached and free until the Divine Will, by means of a structure of pre-physical world-essence, connected it with an astro-physical soul-body, from the functionings of which the higher emotion-nature (Leto) should eventually be developed, and Divine Love and Wisdom be born in the soul.
+
+See APOLLO, ARTEMIS, CHEMMIS, DEEP, IZANAGI, LATONA, MANCO, [ONOGOROJIMA?], POSEIDON, TRIDENT.
+
+**Corrections made:** `Diet.` → Dict.; `world-esgence` → world-essence; `emotionnature` → emotion-nature; `Izanaci` → IZANAGI; `Deer` → DEEP; `Latona`, `Manco` capitalised; and similar minor fixes.
+
+**Unclear or supplied:** See-list item OCR `OnoGcorogma` is given as `[ONOGOROJIMA?]`. `DEEP` is restored from OCR `Deer`.
 
 ## Full OCR entry body (exact)
 

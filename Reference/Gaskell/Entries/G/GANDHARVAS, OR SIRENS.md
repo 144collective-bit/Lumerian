@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gandharvas-or-sirens
 headword: "GANDHARVAS, OR SIRENS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `COLCHIANS` | **unresolved** (review queue) |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
 | `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Devas of the buddhic plane, which assist in establishing harmony in the soul through the æsthetic emotions.
+
+See ANGELS, COLCHIANS, HEAVENLY NYMPHS, SIRENS.
+
+**Corrections made:** Page heading `GANESA` removed from mid-sentence; `sesthetic` → æsthetic.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

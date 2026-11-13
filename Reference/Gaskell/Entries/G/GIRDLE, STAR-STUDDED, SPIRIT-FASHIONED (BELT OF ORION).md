@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-girdle-star-studded-spirit-fashioned-belt-of-orion
 headword: "GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `MRELIGION` | **unresolved** (review queue) |
 | `SACRED TEXT` | **unresolved** (review queue) |
 | `WHEELS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the wheel of re-births, or the sub-cycle of the soul's reincarnations.
+
+> "Mazda brought to thee the star-studded, spirit-fashioned girdle, leading the Paurvas, or the good Mazdayasnian religion; then thou art begirt with it, (when growing) on the summit of the mountains, to make lasting the words and long accents of the sacred text."—*Homa Yasht*, Haug, *Essays*.
+
+The Divine Nature ordains that each soul shall go through the "wheels" of re-birth and gain experience through many lives, which process is to instruct the soul, and show it that by this means the love and truth latent within it (the good religion) shall be brought forth. As growth is arrived at, karma envelops the soul until it reaches the "mountain" stage, and aspires towards that which is to free it. The reference to "words and accents" made "lasting" signifies the means whereby the true message from within of the Divine is effectually translated into terms of the soul's experience. The "sacred text" is the message of love and truth indelibly written within the human soul.
+
+See AHURA-MAZDA, GILGOOLEM, MOUNTAIN, RE-INCARNATION, RELIGION, SACRED TEXT, WHEELS.
+
+**Corrections made:** `starstudded` → star-studded; `Hava, Eesays` → Haug, Essays; page heading `GLASS` removed from before the See list; See-list spellings restored (`MouNTAIN`, `MRELIGION`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

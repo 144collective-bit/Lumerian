@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nicothea-harpy
 headword: "NICOTHEA HARPY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `ArnizuRna` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ARIZURA, NECK OF|ARIZURA, NECK OF]] |
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 | `PHINEUv` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the absorbing attractiveness of the sense of sight.
+
+> "One of the Harpies named Nicothea or Aelopus flew to the Peloponnesus, where she fell into a river named Tigris, but which was henceforth called Harpys."—*Argonautic Expedition*.
+
+And the lust of the eyes swelled and increased, and was at length submerged in the astral tide of desire, which is henceforth known as the sense-nature. See [Arnizurna?], HARPIES, PHINEUS
+
+**Corrections made:** `Expedttion` → Expedition; `PHINEUv` → PHINEUS; `Harpies` → HARPIES.
+
+**Unclear or supplied:** `[Arnizurna?]` is an unidentified See-list item. The OCR ends without a final full stop.
 
 ## Full OCR entry body (exact)
 

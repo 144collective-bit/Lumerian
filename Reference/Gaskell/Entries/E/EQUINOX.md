@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-equinox
 headword: "EQUINOX"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,16 @@ tags:
 | `Vrrnaeo` | **unresolved** (review queue) |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a point of balance and change reached in the soul's development (sun's course), when a line, as it were, is crossed and a new soul-process is entered upon. The process of Involution is commenced when the Logos (sun) manifests on the upper buddhic plane, at the point symbolised by the first point of Aries; and after the completion of the process in Virgo, the first point of Libra signifies the commencement of the new process of Evolution in which humanity is now taking part. The Zodiac is a symbol of the great Cycle of Life. As the sun (Logos) passes through the six northern signs, the process of Involution of the qualities is accomplished; and as it passes through the six southern signs, so Evolution will be completed, and the qualities and souls returned to God who emanated them.
+
+See [ARU-RA?], ARIES, CANCER, CAPRICORN, CRATER, EVOLUTION, INVOLUTION, LAMB, LIBRA, SUN, TUAT, VIRGO, YEAR, ZODIAC.
+
+**Corrections made:** `soulprocess` → soul-process; See-list spellings restored (`INVOLUTIon`, `Lams`, `Lisra`, `Tvar`, `Vrrnaeo`).
+
+**Unclear or supplied:** `[ARU-RA?]` is a doubtful See-list item (OCR `Aru-rA`). `TUAT` is read from OCR `Tvar`.
 
 ## Full OCR entry body (exact)
 

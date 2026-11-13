@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rod-held-in-the-hand-as-a-sceptre-or-wand
 headword: "ROD HELD IN THE HAND AS A SCEPTRE OR WAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `REED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REED IN THE RIGHT HAND|REED IN THE RIGHT HAND]]; [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]]; [[Reference/Gaskell/Entries/R/REED PLAIN, 364 HODER HOA-TABU-ITERAI|REED PLAIN, 364 HODER HOA-TABU-ITERAI]]; [[Reference/Gaskell/Entries/R/REED REED SHAKEN WITH THE WIND|REED REED SHAKEN WITH THE WIND]] |
 | `ScEPrre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 | `STAFF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STAFF, FOR WALKING AND SUPPORT|STAFF, FOR WALKING AND SUPPORT]]; [[Reference/Gaskell/Entries/S/STAFF, OR ROD OF IRON|STAFF, OR ROD OF IRON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of power actively exercised. See HAND, REED, SCEPTRE, STAFF.
+
+**Corrections made:** See-list spellings restored (`Hann`, `ScEPrre`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

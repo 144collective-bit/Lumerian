@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hell-hel-hades-sheol
 headword: "HELL, HEL, HADES, SHEOL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,36 @@ tags:
 | `Sexrn` | **unresolved** (review queue) |
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SIAMAK` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIAMAK AND VESCHAK|SIAMAK AND VESCHAK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of the underworld or four lower planes of nature, namely, the lower mental, the astral, the etheric, and the physical planes. The underworld is the arena of life for the spiritual egos who incarnate therein to gain experience and the development of their potential natures.
+
+> "Now Scripture [word unclear] is symbolical. There is no [word unclear] [word unclear]: [word unclear] fire to hell torture. I say not that a diseased soul may not form for itself a tenement hereafter, as here, peculiarly fitted to be the avenue of suffering; but unquestionably we cannot build upon these expressions a material hell."—F. W. Robertson, *Sermons*, 1st Series, p. 117.
+
+> "If that soul of ours, that sheath of the spirit, belongs to earth rather than heaven, the Spirit will have to remake it, and that means hell until every earth-born desire has been renounced and overcome as such, and transmuted into its spiritual counterpart."—R. J. Campbell, *Serm.*, *Hell*.
+
+The supposed scriptural authority for places of post-mortem everlasting torment for human beings is simply misinterpretation of texts. The symbol man or men signifies mind or mental qualities, and these qualities, as long as they are "wicked," have to be purified in the eternal "fire" of the Holy Spirit. The purification takes place in "Hell," i.e. the lower quaternary, in connection with the egos, and through the struggle and suffering which we observe around us. Dr. Budge, after describing "the destruction of the dead in the Tuat," observes:
+
+> "Thus there is no doubt that there was a hell of fire in the kingdom of Seker, and that the tortures of mutilation and destruction by fire were believed to be reserved for the wicked."—*Egypt. Heaven and Hell*, Vol. III. p. 137.
+
+The "kingdom of Seker" was in the Fifth Division of the Tuat (underworld), that is, it centred in the astral plane of desire and sensation, in which the mental qualities were "purified as by fire," and had their lowest condition cut away. Dr. Budge continues,—
+
+> "Of the rewards of the [word unclear] in this kingdom we have no knowledge whatever."
+
+The "righteous" are the purified qualities, and there are no purified qualities on the lower planes. The "rewards of the righteous" are not on the lower planes. They are "the treasures in heaven," that is, the transmuted qualities on the buddhic plane. They are the "grain and fruits" of the garden of Sekhet-hetep.
+
+> "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption."—Ps. xvi. 10.
+
+The "Holy One" is the spiritual ego,—immaculate and eternal in every human soul. This will not always be a captive to the lower nature, but will rise in glory at the cycle's end.
+
+> "Nobody who has lived—lived honestly, truly, deeply—who has thought for himself, or felt for others—but believes in hell. Earth and hell interpenetrate—there is no doubt about it. Earth is full of hell—full of mental and moral and social disorders, and wretchedness and suffering. Earth is full of hell—and countless souls are there; and unless the fires of hell could purge and purify and refine mankind, we might well doubt whether life were worth while. But they can. Earth is full of hell. But it is not all hell. Indeed I would say that we realise hell only by that which we oppose to hell. I mean the thought of heaven—and this too exists on earth."—R. Dimsdale Stocker, *Social Idealism*, p. 78.
+
+See ARENA, [DusSAHE?], FIRE OF HELL, FIRE (destroying), FURNACE, GARDEN, [Garna?] (kam.), GOATS, HADES, MAN (bad), [NurtHem?], [Norra?], PURGATORY, SEKER, SEKHET-HETEP, SIAMAK.
+
+**Corrections made:** `iteelf` → itself; `Tf` → If; `ite` → its; `cf` → of; `e hell of firein` → a hell of fire in; `deatruction` → destruction; `cutaway` → cut away; `owledge` → knowledge; `wrctchedness` → wretchedness; `ean` → can; `fall of hell` → full of hell; `Diwspate Stocker` → Dimsdale Stocker; `Idealiem` → Idealism; page heading `HELMET` removed from mid-sentence; stray `|` marks removed; See-list spellings restored (`PureaTory`, `Sexrn`, `Fre`).
+
+**Unclear or supplied:** The first sentence of the Robertson quotation is badly damaged (OCR `Now Scripture | e is symbolical, There is no alt, na Won: i fire to HELL torture`); unreadable words shown as `[word unclear]`, "hell" kept. `[word unclear]` in the Budge quotation (OCR `oy soi`: probably "righteous"). `Egypt.` in the Budge title read from OCR `Zgypt.`. See-list items `[DusSAHE?]`, `[Garna?]`, `[NurtHem?]`, `[Norra?]` not identified.
 
 ## Full OCR entry body (exact)
 

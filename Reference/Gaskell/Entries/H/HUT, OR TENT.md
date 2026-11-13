@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hut-or-tent
 headword: "HUT, OR TENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Boorus` | **unresolved** (review queue) |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental body, or vehicle of the lower mind.
+
+See BOOTHS, TABERNACLE, TENT.
+
+**Corrections made:** `Boorus` → BOOTHS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

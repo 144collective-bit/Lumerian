@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-name-ignornirvana-samskaba-consecration-or-diksha
 headword: "NAME, IGNORNIRVANA, SAMSKABA, CONSECRATION OR DIKSHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `LIBERATION` | **unresolved** (review queue) |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfecting of the soul, and so setting it apart for a rise in consciousness.
+
+> "They choose a place of worship. Let them choose the place which lies highest; for it was from thence that the gods ascended to heaven, and he who is consecrated indeed ascends to the gods. . . . He who is consecrated, truly draws nigh to the gods, and becomes one of the deities. Now the gods are secreted from men."—*Sata. Brâh.*, III. 1, 1, 1-8.
+
+The laws of the higher nature determine the course that the souls shall pursue. The highest place in the mind is the nearest to heaven, and when this highest is perfected, the soul rises to the state of the buddhic qualities (gods) and becomes one with them. In the lower nature, the higher qualities are hidden, or unmanifest to the lower mind.
+
+> "I (Lakshmi) reside in the consecration of a king."—*Jnat. Vishnu*, XCIX. 16.
+
+Wisdom (Lakshmi) "maketh the Son, who is consecrated (or perfected) for evermore."—Heb. vii. 28.
+
+See GODS, HEAVEN, KING, LAKSHMI, LIBERATION, RE-BIRTH, REGENERATION.
+
+**Corrections made:** `igh` → nigh; `bighest` → highest; `Brdéh.` → Brâh.; `J (Lakshmi)` → I (Lakshmi); `HEB.` → Heb.; See-list spellings restored (`Gops`, `Kino`, `LAKsHMI`).
+
+**Unclear or supplied:** The source abbreviation `Jnat.` in the Vishnu reference is left as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

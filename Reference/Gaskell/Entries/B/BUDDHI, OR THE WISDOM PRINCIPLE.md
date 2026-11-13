@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddhi-or-the-wisdom-principle
 headword: "BUDDHI, OR THE WISDOM PRINCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -77,6 +78,28 @@ tags:
 | `VEIL OF 1sis` | **unresolved** (review queue) |
 | `Vinay` | **unresolved** (review queue) |
 | `WIsDoM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fount of spiritual life on the buddhic plane, which transcends the highest intellect. It is the source of all the higher emotions and ideal qualities appertaining to Truth, Love, and Wisdom. It is described as outpouring these qualities in response to the aspirations and sacrifices of the lower consciousness.
+
+> "Buddhi, commonly translated by perception, but really a kind of perception that involves something like what we should call intellect. . . . As a cosmic force, Buddhi is that which gives light as the essential condition of all knowledge. Budh means literally to awake, and as a sleeping person is dull and inert to the world, but begins to perceive as soon as he is awake."—Max Müller, *Systems of Indian Philosophy*, pp. 370, 371.
+
+> "The life there (of the celestial region) is wisdom, a wisdom not obtained by a reasoning process, because the whole of it always was, and is not, in any respect deficient, so as to be in want of investigation. But it is the first wisdom, and is not derived from another."—Plotinus, *On Intelligible Beauty*.
+
+The feminine Holy Spirit—Sophia—and most of the great Goddesses of polytheism are symbols of Buddhi under various aspects. She is the Divine Mother who gives birth to the Son of God on the buddhic plane, that Love and Truth may rule the soul in righteousness and peace when evolution is complete.
+
+> "For Isis is the Female principle in Nature, and that which is capable of receiving all generation, in virtue of which she is styled by Plato 'Nurse' and 'All-receiving,' but by the generality, 'the one of numberless names,' because she is converted by the Logos (Reason) into, and receives, all appearances and forms. But she has, implanted in her nature, the love for the First and Supreme, which is identical with the Good, and this she longs after and continually pursues: whereas the part that belongs to the Bad One she flees from and repels, though she is the field and material for them both; of herself always inclining towards the Better One, and permitting It to generate . . . and fill her with births,—for birth is an image of existence in Matter, and that which is born is a copy of that which is."—Plutarch, *Isis and Osiris*, § 53.
+
+For Buddhi (Isis) is the receptive principle in Spiritual Nature. From the plane above, Atma, there is poured forth the primal Ideas and potencies of existence, and these generate on the next plane, the buddhic, where they are received and "nursed," as it were, or prepared for their reflection downward on to the lower planes. From Buddhi all diversity (numberless names) proceeds, through the action of the Logos who fills the Spiritual Wisdom with the ideal prototypes of all appearances and forms, subsequently to be expressed on the mental, astral, and physical planes. Buddhi is in direct and harmonious relation with the Supreme, and wholly guided from above, whereas her reflection downward on the astral plane is full of the strife of the evolving monads she has brought forth, for she is the field and mould for both the perfect and the imperfect. She repels the lower desires (the Bad One), being united only with the Higher Self who produces in her the Divine Monads who take birth, or become embodied in the forms wherein to evolve; for the separated monad is a microcosm which is a copy of the Macrocosm.
+
+> "Spiritual things, as Plotinus says, are separated from each other not by local division, but only by discordance of nature. The organ by which we apprehend divine truth is no special faculty, but the higher reason, which we distinguish from the understanding because we mean it to include the will and feelings, disciplined under the guidance of the intellect. The higher reason is that unification of our personality which is the goal of our stri[ving] and the postulate of all our rational life. God is the last object to be clearly known, precisely because He is at once the pre-supposition and foundation and consummation of all our knowledge."—W. R. Inge, *Paddock Lectures*, p. 4.
+
+See ALAGHOM, AMATERASU, ARMAITI, ARURU, ASHA-VANUBI, ATHENA, BARSOM, BEES, BRIDE-CHAMBER, BLASPHEMY, BOAT OF WISDOM, CLOUDS, COW, DHARMA, EARTH (great), ESTHER, [Fins?], [Frieo GODDESS?], GOLD, GOLDEN FLEECE, [Hartson?], [HeErrer?], HELEN, HERA, HOLY GHOST, INTUITION, ISIS, ISHTAR, KYPRIS, LADY, LAKSHMI, MAGIC, MALKHUTH, METZTLI, MOTHER, PROTOTYPES, [Pytons?], SARASVATI, SITA, SKY, SOPHIA, TRANSMUTATION, VEIL OF ISIS, [Vinay?], WISDOM.
+
+**Corrections made:** `Max MULLER` → Max Müller; `@` → a; `PLorTinus` → Plotinus; `PLouTrarcH` → Plutarch; `expreesed` → expressed; `from _ above` → from above; `er become` → or become; `no_ special` → no special; `stri` → stri[ving]; `cational` → rational; `Inaz` → Inge; page headings `BUDDHI` and `131 BUDDHIC` removed from mid-passage; See-list spellings restored (`BeEkEs`, `BrmmrsCHAMBER`, `CLoups`, `DHarMa`, `Eartu`, `Ester`, `Hoty auxost`, `Iwrorrion`, `Israr`, `Laxsumi`, `Maaic`, `MarKHUTH`, `SaRrasvati`, `Srra`, `SopH1a`, `VEIL OF 1sis`, and similar).
+
+**Unclear or supplied:** `stri[ving]` is supplied (OCR `stri`). See-list items `[Fins?]`, `[Frieo GODDESS?]`, `[Hartson?]`, `[HeErrer?]`, `[Pytons?]` and `[Vinay?]` cannot be identified with confidence; `BEES`, `HERA`, `ISHTAR` and `INTUITION` are likely readings.
 
 ## Full OCR entry body (exact)
 

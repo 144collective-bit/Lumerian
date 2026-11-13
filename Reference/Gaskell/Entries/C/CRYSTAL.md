@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crystal
 headword: "CRYSTAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `FLAMES (twin)` | resolved (exact) → [[Reference/Gaskell/Entries/F/FLAMES, TWIN|FLAMES, TWIN]] |
 | `GLass` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GLASS, OR CRYSTAL|GLASS, OR CRYSTAL]] |
 | `MAASEH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Truth received in the mind and operating through the personality.
+
+> "Crystal to lighten his face" (*Bk. of the Dead*).—Budge, *Egyptian Magic*, p. 187.
+
+Truth imparting knowledge to the personality.
+
+> "Preaching assumes the fact in men of a religious nature, higher than a mere [word unclear] nature, which, if it can be duly awakened, cleaves to Christ and His salvation with an almost irresistible affinity. This religious nature is a capacity for the supernatural, that is, for the divinely supernatural; in other words, it is that quality by which we become inspirable creatures, permeable by God's life, as a crystal by the light, permeable in a sense that no other creature is."—H. Bushnell, *Nature and the Supernatural*, p. 363.
+
+See CHURCH, FIRMAMENT, FLAMES (twin), GLASS, MAASEH.
+
+**Corrections made:** `Bupasg` → Budge; `inki nature` → [word unclear] nature; page heading `193 CULTIVATION` removed from mid-quotation; `BusHNeut` → Bushnell; See-list spellings restored (`Glass`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `inki` ("a mere inki nature").
 
 ## Full OCR entry body (exact)
 

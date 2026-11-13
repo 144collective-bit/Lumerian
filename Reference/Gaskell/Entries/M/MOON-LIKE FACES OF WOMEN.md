@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-like-faces-of-women
 headword: "MOON-LIKE FACES OF WOMEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Woman. PLANE` | **unresolved** (review queue) |
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `Hovuniss` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotions which proceed forth at the emanation of a soul. See BLANDISHMENTS, WOMAN, PLANE, ILLUSION, [Hovuniss?].
+
+**Corrections made:** `BLANDISHMENYTS` → BLANDISHMENTS; `Woman.` → WOMAN,.
+
+**Unclear or supplied:** The See list is jumbled in the OCR (`Woman. PLANE, ILLUSION, Hovuniss,`); `[Hovuniss?]` is not identified (possibly HOURIS).
 
 ## Full OCR entry body (exact)
 

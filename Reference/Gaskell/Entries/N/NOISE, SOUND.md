@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-noise-sound
 headword: "NOISE, SOUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Moura` | **unresolved** (review queue) |
 | `Sounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `VoIcE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of atomic vibrations from higher or lower planes, affecting the personality.
+
+> "Hearken ye unto the noise of his voice, and the sound that goeth out of his mouth."—Job xxxvii. 2.
+
+Give heed to the vibrations of the spiritual nature within and the voice of the conscience, which is the soul's recognition of God the highest asserting dominion over will and conduct.
+
+See CONSCIENCE, MOUTH, SOUND, VOICE.
+
+**Corrections made:** `JoB` → Job; See-list spellings restored (`Moura`, `Sounp`, `VoIcE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

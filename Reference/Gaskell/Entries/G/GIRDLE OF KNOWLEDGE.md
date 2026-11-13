@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-girdle-of-knowledge
 headword: "GIRDLE OF KNOWLEDGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Focus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOCUS, BURNING|FOCUS, BURNING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body which implies the investment of the soul with intuition of truth.
+
+See CAUSAL-BODY, FOCUS.
+
+**Corrections made:** `Focus` → FOCUS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

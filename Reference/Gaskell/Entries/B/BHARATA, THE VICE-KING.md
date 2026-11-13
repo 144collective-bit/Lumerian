@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bharata-the-vice-king
 headword: "BHARATA, THE VICE-KING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 | `SHOE-LATCHET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOE-LATCHET OF JESUS|SHOE-LATCHET OF JESUS]] |
 | `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the moral nature which rules the soul in the absence of the greater spiritual nature which is to follow.
+
+> "Bharata consents to take [charge] of the kingdom as a deposit. He [word unclear] Rama's shoes on [his] head in token of this. . . . Until the return of the rightful king, never transacting any [word unclear] without laying it before the [word unclear]."—Mon. Williams, *Indian Wisdom*, p. [number unclear].
+
+The moral nature rules for the soul's welfare until the spiritual nature is sufficiently evolved to take charge; when love of the ideal supersedes duty. The moral nature venerates the spiritual and puts it in the highest place in the mind (head). It recognises that in the spiritual is the power of progress (shoes), and it therefore, in all its operations, defers to the Higher Self—the Love nature which sooner or later will enter upon the kingdom which the moral nature is preparing for it.
+
+See JOHN BAPTIST, MAHABHARATA, RAMA, SHOE-LATCHET, SHOES.
+
+**Corrections made:** `take c of` → take [charge] of; `Fis hoad` → [his] head; `pute` → puts; `Wr.14Ms` → Williams; See-list spellings restored (`MAHABHARata`, `Rama`).
+
+**Unclear or supplied:** The Williams quotation is damaged (`He been away`, `any i without laying it before the ager aa`): `[word unclear]` marks three losses. The page number is lost.
 
 ## Full OCR entry body (exact)
 

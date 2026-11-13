@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-melchizedek
 headword: "MELCHIZEDEK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,26 @@ tags:
 | `TOKENS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
 | `VISVAKARMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VISVAKARMAN, WEALTH SHOWER|VISVAKARMAN, WEALTH SHOWER]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self.
+
+> "Melchizedek, King of righteousness, and then also King of Salem, which is King of peace; without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like unto the Son of God, abideth a priest continually."—Heb. vii. 2, 3.
+
+A type of the Christ, who is the centre and pivot from which all manifestation proceeds. His kingdom is the abode of bliss (Salem) and peace, upon the higher planes. He is all Truth and Righteousness; second to none,—the first and the last,—the one emanation from the Absolute.
+
+> "Christ Himself is the Warrior King, the captain of the Lord's host, the true Joshua, whose last word ere His cross was a shout of victory, 'I have overcome the world.' He makes us His soldiers and strengthens us for the war, if we live by faith in Him. He Himself is the Priest—the only eternal Priest of the world,—who wears on His head the mitre and the diadem, and bears in His hand the sceptre and the censer; and He makes us priests, if faith in His only sacrifice and all [prevalent] intercession be in our souls. He is the dew unto Israel—and only by intercourse with Him shall we be made gentle and refreshing, silent blessings to all the weary and the parched souls in the wilderness of the world."—A. Maclaren, *Sermons*, 3rd Series, pp. 358-9.
+
+> "And Melchizedek King of Salem brought forth bread and wine: and he was [the priest] of God Most High."—Gen. xiv. [18?].
+
+Then cometh forth in the soul the love nature from the higher planes—Jerusalem, the city of the Great King. "Bread and wine" symbolise spiritual goodness and truth. The higher love-nature is the beloved of the Lord, the direct offshoot of the Divine nature, and this blesses the endeavours of the struggling soul.
+
+See BREAD, HIGH-PRIEST, JERUSALEM, KING (great), KINGDOM OF HEAVEN, LOVE OF GOD, ROCK, SACRIFICER, SON OF GOD, SPENDYAD, TOKENS, VISVAKARMAN, WINE.
+
+**Corrections made:** `inning` → beginning; `HEs.` → Heb.; `e is the dew` → He is the dew; `Ki of Salem` → King of Salem; `Gerx.` → Gen.; See-list spellings restored (`Breap`, `Kina`, `SAckIFICER`); page heading `492 MEMBERS` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `[prevalent]` is supplied: OCR reads `revalent`. `[the priest]` is supplied: the OCR reads "he — was — of God" with the words lost. `[18?]`: the verse number is damaged (OCR `° 3`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fiend-of-the-four-legged-race
 headword: "FIEND OF THE FOUR-LEGGED RACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
 | `BEAST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BEAST OF THE BOTTOMLESS PIT|BEAST OF THE BOTTOMLESS PIT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-principle of the lower quaternary.
+
+See AUSHEDAR, BEAST.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

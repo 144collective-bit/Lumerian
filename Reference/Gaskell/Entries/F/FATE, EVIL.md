@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fate-evil
 headword: "FATE, EVIL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PLants` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The personal self's false opinion of the sufferings of the lower life, and of the natural order of existence.
+
+> "But when light is mingled with air in human form, or in form like the race of wild beasts, or of plants, or of birds, then men say that these things have come into being; and when they are separated, they call them evil fate; this is the established practice, and I myself also call it so in accordance with the custom."—Empedocles, Fairbanks, 40.
+
+But when the monadic life is embodied in the human mind, or when it is exhibited in the sub-human kingdoms, then it is assumed by the lower mind that the phenomena which answer to the soul's present stage of experience and growth have only now begun to exist, and that they exist in themselves. And so when the illusive discontinuity is apparent, and the oneness of things is unapparent, then evil is apprehended to be real, or cruel fate is supposed to be the soul's destiny: and the personal self, being ignorant, is led to make these false implications under illusion of the senses.
+
+See BEASTS, BIRDS, CONSCIOUSNESS, EVIL, IGNORANCE, ILLUSION, MAN, MONAD OF LIFE, NECESSITY, PERSONALITY, PLANTS, SEPARATION.
+
+**Corrections made:** page heading `267 FATE-SPHERE` removed from mid-sentence; `planta` → plants; `FAIRBANKS` → Fairbanks; `Ia@Norance` → IGNORANCE; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

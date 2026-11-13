@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-disciple-calling-of-a
 headword: "DISCIPLE, CALLING OF A"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CONVERSION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the call by the Spirit within to a quality, inviting it to enter upon a higher vocation whereby it shall be put to a higher use.
+
+> "It is not the discipline that fits. That which fits goes before the discipline, and the discipline only develops the fitness. 'God hath made us meet for the inheritance of the saints in light.' That is a past act. The preparedness for heaven comes at the moment when a man turns to Christ."—A. Maclaren, *Sermons*, 1st Series, p. 91.
+
+See CONVERSION.
+
+**Corrections made:** `@®` → a; `lst` → 1st; `MACLAREN` → Maclaren.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

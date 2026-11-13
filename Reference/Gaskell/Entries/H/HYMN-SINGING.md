@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hymn-singing
 headword: "HYMN-SINGING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `Srvazrs` | **unresolved** (review queue) |
 | `Sone` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol for aspiration through harmony and the uplifting of the nature towards Truth, Wisdom, and Love.
+
+> "So all day long worship they the gods with music, singing the beautiful paean, the sons of the Achaiadis making music to the Far-darter, and his heart was glad to hear."—*Iliad*, Bk. I.
+
+So "all day," i.e. during the outpouring of Life on the upper planes, the Higher Self was adored with "music," the expression of the spirit of harmony. The Sons of Mind,—the spiritual egos,—were then attuned to the inspiration of the Self, and response was made.
+
+> "The world of the word is to the Indian another microcosm. In the rhythm of the sacred song he hears the echoes of the universe resound."—Oldenberg, *Buddha*, etc., p. 27.
+
+> "The name for heaven is Garôdemana (Garotman in Persian), 'house of hymns,' because the angels are believed to sing hymns there, which description agrees entirely with the Christian idea as founded on Isaiah vi. and the Revelation of St. John."—Haug, *Essays on Rel. of Parsis*, p. 311.
+
+See APOLLO, BIRTH OF OSIRIS, CARPENTER, GARODMAN, GATHAS (chanting), GODS, HARMONY, HEAVEN, MELODY, MOUNT OF OLIVES, MUSIC, [SINGERS?], SONG
+
+**Corrections made:** `80` → So; `pean` → paean; `Jiiad` → Iliad; `In_ the` → In the; `Hauc, Hesays on Rel. of Parsts` → Haug, *Essays on Rel. of Parsis*; See-list spellings restored (`APoLto`, `OSIRE`, `Mrtopy`, `Mount or OLIvEs`).
+
+**Unclear or supplied:** `Garôdemana` read from OCR `Garédemana`. `[SINGERS?]` (OCR `Srvazrs`). The See list ends at `Sone` (SONG) without a full stop in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amazons
 headword: "AMAZONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Caucasus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAUCASUS MOUNTAINS|CAUCASUS MOUNTAINS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotions,—the buddhic,—which oppose the desires.
+
+> "A mythical race of warlike females, are said to have come from the Caucasus, and to have settled in the country about the river Thermoden. Their country was inhabited only by the Amazons, who were governed by a queen: but in order to propagate their race, they met once a year the Gargarians in Mount Caucasus."—Smith's *Class. Dict.*
+
+The higher emotions which contend against the desire-mental qualities arise upon the buddhic plane as [a] result of aspiration from below, and are contiguous to the "river of life." They are above the mental qualities and are co-ordinated by Wisdom. At one period of the cycle ([word unclear]) they become allied with the high mental faculties, and this alliance brings into activity many qualities buddhic and mental.
+
+See CAUCASUS.
+
+**Corrections made:** `,—` spacing normalised; `Clase.` → Class.; page heading `44 AMBROSL` removed from mid-quotation; truncated line-end words completed: `conten` → contend, `qualitie` → qualities, `ar` → and, `qualitic` → qualities, `Wisdo1` → Wisdom, `allian` → alliance, `qualiti` → qualities; `river of life They` → "river of life." They.
+
+**Unclear or supplied:** The OCR of the commentary is cut at the right-hand edge of the column, and the truncated words are completed as listed above. `[a]` is supplied ("as result"). `[word unclear]` replaces OCR `yee` after "(". The closing quotation mark after "river of life" is lost and supplied.
 
 ## Full OCR entry body (exact)
 

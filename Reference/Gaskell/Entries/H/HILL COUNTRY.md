@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hill-country
 headword: "HILL COUNTRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,26 @@ tags:
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 | `JUDAH (land)` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
 | `MountaIn` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration.
+
+> "And Mary arose in these days and went into the hill country with haste, into a city of Judah; and entered into the house of Zacharias and saluted Elisabeth."—Luke i. 39, 40.
+
+And the purified part of the lower nature bestirred itself at this period and centred itself in a state of aspiration and love of the Divine: and became in touch with the spiritual mind, aspiring towards the truth side which is to give birth to the moral nature (John).
+
+> "And most rightly was it in the hill country that these transactions took place, since no great thing can be entertained by those who are low and may be thence called valleys."—Origen, *Comm. on John*, Bk. VI. § 30.
+
+> "I will lift up mine eyes unto the hills from whence cometh my help."—Ps. cxxi. 1.
+
+> "Any man who undertakes that struggle with temptation may look either to the valleys or to the hills for help, may call the lower or the higher powers to his aid."—Phillips Brooks, *Serm.*, *Help from the Hills*.
+
+See JOHN BAPTIST, JUDAH (land), MOUNTAIN,
+
+**Corrections made:** `LUEKE` → Luke; `aspirataon` → aspiration; `OricENn` → Origen; `exxi. I.` → cxxi. 1; `cal]` → call; `Pxirtres` → Phillips; `MountaIn` → MOUNTAIN.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR (the entry appears cut off there).
 
 ## Full OCR entry body (exact)
 

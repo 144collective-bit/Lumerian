@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adamant
 headword: "ADAMANT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fabric of the universe,—the world-essence, forerunner of the physical condition.
+
+> "And they girded me with adamant which can crush iron."—"[Hymn?] of the Soul," in the *Acts of Judas Thomas*.
+
+And I, the soul, was invested with that world-essence which precedes the physical.
+
+**Corrections made:** `world-eesence` → world-essence; quotation marks normalised.
+
+**Unclear or supplied:** `[Hymn?]` is supplied: the OCR reads `' of the Soul,"`, the first word of the title being lost.
 
 ## Full OCR entry body (exact)
 

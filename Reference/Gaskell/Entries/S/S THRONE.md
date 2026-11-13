@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-throne
 headword: "S THRONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MoNAaD OF LIFE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
 | `PILLow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PILLOW OF STONE|PILLOW OF STONE]]; [[Reference/Gaskell/Entries/P/PILLOW OF SUPPORT AND REST|PILLOW OF SUPPORT AND REST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbolises the sublimated lower self, or "natural man," through which the Higher Ego has attained its final liberation. Although this condition is "unreal," yet it has been absorbed into the Self; for the germ of this state exists and will persist through eternity; it is transformed, but is still visible to the Self,—though now seen to be derived of It. Nothing in manifestation, or experience, is ever lost: there is an atom or centre on each plane which, when communicated with, will respond to vibrations which answer to the varied aspects of the Self.
+
+See [AMITAUGAS?], ATOMS, ATOMS (permanent), BRAHMA, GOLD (spot), MAN (natural), MONAD OF LIFE, PILLOW.
+
+**Corrections made:** See-list spellings restored (`BraHMa`, `Man`, `MoNAaD`, `PILLow`).
+
+**Unclear or supplied:** `[AMITAUGAS?]`: OCR `AmMITAUGAS`; not identified with confidence.
 
 ## Full OCR entry body (exact)
 

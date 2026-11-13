@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-exile
 headword: "EXILE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `LAMB OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Pracipati (relaxed)` | **unresolved** (review queue) |
 | `VOICE oF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol to express the banishment, as it were, of the manifesting God, or Self, from the higher planes which are His real habitat, and His protracted sojourn encased in forms on the planes of nature below.
+
+> "The God (Apollo), though by nature incorruptible and eternal, yet through some decree of fate submitted to [changes?] of condition, at one time set all Nature on fire, making all things like to all; at another time he was metamorphosed turned into various shapes, states, and powers in the same way as the universe now exists. The [word unclear] vulgar sort, [word unclear] their meaning from [word unclear] call [word unclear] ran into Fire, 'Apollo' on account of the reduction to one state, and also 'Phœbus' on account of its freedom from defilement, and its purity; but the condition and change of its turning and subdivision into airs, water, and earth, and [the] production of animals and plants [they] enigmatically term 'Exile' and 'Dismemberment.'"—Plutarch, *On the E at Delphi*, § IX.
+
+This mythical statement describes how the manifesting Self (Apollo), unconditional and eternal, submitted to inscrutable Law, and became conditioned and limited in self-expression. The "change of Nature into Fire and reduction to one state" refers to the process of Involution, whereby at one time potential diversity or plurality of qualities becomes merged in complete unity on the buddhic (Fire) plane in the Archetypal Man (Phœbus Apollo), who is pure and perfect in all his qualities. At another time following, the process of Evolution commences by "dismemberment" of the Archetypal Man, that is, by the separation and scattering of the qualities in the myriad forms. There is subdivision into mental qualities (airs), astral qualities (water) and physical qualities (earth), and the production of desires (animals) and feelings (plants). In all the qualities and forms the God within is in "exile" and unapparent.
+
+> "We are all making homeward, as it were, getting back to God, and [carry?] with us as we go the fruits of our brief sojourn in the foreign land of the material world. No two of us have ever had, or ever will have, precisely the same experience of this exile."—R. Campbell, *Serm.*, *Our Quest for God*.
+
+> "The presence of God in the conscience, and the sense of alienation from [Him?], are to Cardinal Newman the main truths of natural religion—the notorious facts of the case in the medium of his primary mental experiences."—W. S. Lilly, *Ancient Religion*, p. 98.
+
+> "'God is not external to any one.' He is 'the root of the Soul,' the 'centre' of the mind, and the way home to Him is within every person. This is the heart of the mysticism of Plotinus. There is in the universe, as he conceives it, a double movement—the way down and the way up. The way down is the eternal process of the Divine emanation, or outgoing of God towards the circumference. At the centre of all is God, the One, the Good. The One is a Unity above all difference, an Absolute who transcends all thought, who is, in fact, even beyond being. Thought implies a contrast of knower and known; Being implies a substance with qualities or characteristics, and each quality limits the substance. ... From the Perfect One there flows or radiates out a succession of emanations of decreasing splendour and reality."—R. M. Jones, *Mystical Religion*, pp. 72, 73.
+
+See ABSOLUTE, APOLLO, ARC. MAN, DEATH OF OSIRIS, DISMEMBERMENT, ELEMENTS, EVOLUTION, FALL, FIRE, HOME, INVOLUTION, JOB, LAMB OF GOD, PRAGAPATI (relaxed), VOICE OF GOD.
+
+**Corrections made:** `es of condition` → [changes?] of condition; `ita` → its; `PLuTaRCH` → Plutarch; `Phmbus`, `Phebus` → Phœbus; `self-expression,` → self-expression.; `facte` → facts; `W. 8. LILLY` → W. S. Lilly; `4 substance` → a substance; `limite` → limits; `circum EXODUS ference` → circumference; page heading `257 EXILE` removed from mid-sentence and `EXODUS` from mid-word; `Pracipati` → PRAGAPATI; See-list spellings restored (`Erements`, `Evo.turion`, `Fart`, `Fire`, `Invoivution`, `Jos`, `LAMB OF Gop`, `OsIRIS`); quotation marks normalised.
+
+**Unclear or supplied:** The Plutarch quotation is badly damaged in the middle (OCR `The the. vulg sort, ee their meaning from call t ran into Fire A, Apollo'`); the unreadable words are marked and the stray `A,` is dropped. `[changes?]`, `[the]`, `[they]`, `[carry?]` and `[Him?]` supply damaged or missing words (OCR `es`, `gs roduction`, `ey`, `c`, a blank after "from"). The Campbell author initial is printed `R.` only in the OCR.
 
 ## Full OCR entry body (exact)
 

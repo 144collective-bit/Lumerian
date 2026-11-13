@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddhic-function
 headword: "BUDDHIC FUNCTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,16 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WINDOW` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WINDOW OR SKYLIGHT|WINDOW OR SKYLIGHT]]; [[Reference/Gaskell/Entries/W/WINDOW WINDOW OF ARK OF NOAH|WINDOW WINDOW OF ARK OF NOAH]] |
 | `WorRD Yaana` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The spiritual carrying-out of the means of transmuting the lower emotions into higher emotions, so that the indwelling Self shall evolve Itself, and the lower nature of the soul fall away. It is Buddhi who directs the evolution of the true Self in the human being. When the lower nature aspires, she sends down strong vibrations which assist in uplifting the mind. At first the nature of the upward aspiration is the vague, almost unconscious, unrest and dissatisfaction at present conditions. The mind is allied with the desires and lower emotions, and what is required is that the mind should relinquish these inferior motives, and accept the ideals and higher emotions in place of the lower attachments. The highest part of the subjective lower mind is on the fourth sub-plane of the mental plane. The vibrations from Buddhi enter the mind at this level, and there is then an impulse awakened in the lower self from this sub-plane, which causes a speedy upward movement and so accelerates the mind's progress to a better condition of being. The lower nature has correspondences with the higher, and a perfect reciprocity is set up and established between the two natures. The transmutations are the apparent changes in the soul from lower qualities to higher which are brought about by a spiritual process under immutable law. The ideals and higher emotions (buddhi manas) are the most powerful rulers of the mind when the will is in accord with them. It is these which lead the martyrs of all faiths to brave the external forces which are arrayed against their activities. It must be remembered that while forces are always restricted to their particular planes under the law of conservation of energy, guidance of the forces connected with life comes from higher planes. The guidance is not a force, but a ruling of forces, as when a man calls his horse to drag the cart. Forces on a lower plane respond to a "word" on a higher. This indicates the meaning of the Divine Word which rules all forces on all planes.
+
+See ALCHEMY, [Barns?], BARSOM, BUCKLE, CLOUDS, EPHOD, EVOLUTION, GODS, HIGHER AND LOWER, KUSTI, LOGOS, QUALITIES, SELF, TAMA-GUSHI, TRANSMUTATION, WINDOW, WORD, [Yaana?].
+
+**Corrections made:** `disSatisfaction` → dissatisfaction; `must: be` → must be; page heading `132 BUILDERS` removed from mid-sentence; See-list spellings restored (`Bucxk1e`, `CLoups`, `Ernop`, `Evo.vrion`, `Gops`, `HicHER`, `Kus'tt`, `Locos`, `Quatitres`, `WorRD`).
+
+**Unclear or supplied:** See-list items `[Barns?]` and `[Yaana?]` cannot be identified (`Yaana` follows `WorRD` with no comma in the OCR).
 
 ## Full OCR entry body (exact)
 

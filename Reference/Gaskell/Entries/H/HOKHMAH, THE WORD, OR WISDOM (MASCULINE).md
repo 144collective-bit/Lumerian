@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hokhmah-the-word-or-wisdom-masculine
 headword: "HOKHMAH, THE WORD, OR WISDOM (MASCULINE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `TRInITy` | **unresolved** (review queue) |
 | `WISDOM (masc.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos,—the manifesting Higher Self on the upper planes.
+
+> "The Word or Wisdom, represents the Creator of the Universe, and the Mediator between the Holy One (Ain Soph) and Its creation. In the Qabbalah it is called the Upper Wisdom to distinguish it from the Sephirah Malkhuth, kingdom, the Lower Wisdom, the manifested She'keenah or Glory of the Deity."—I. Myer, [word unclear], p. 206.
+
+The "Lower Wisdom" is the buddhic principle (feminine) the Queen, "Malkhuth," the "kingdom of heaven," the Holy Spirit.
+
+> "The second emanation from Kether, is the Sephirah Hokhmah, Wisdom, the Word, also called the Son. . . . It is the male principle, and that which gives existence to everything, by giving Form to Matter."—*Ibid.*, p. 199.
+
+> "The Zohar says: 'For it (Hokhmah) generates all things.'"—*Ibid.*, p. 283.
+
+Hokhmah, therefore, is the same as the Word, the Christ,—"All things were made by him" (John i. 3).
+
+See AIN SOPH, ATMAN, BINAH, CHRIST, GANESA, HOLY GHOST, KETHER, MALKHUTH, PAHAD, SEPHIROTH, SHEKINAH, SON OF GOD, TRINITY, WISDOM (masc.), WORD.
+
+**Corrections made:** `Myr` → Myer; `Jbid.` → Ibid.; `JOHN 1. 3` → John i. 3; See-list spellings restored (`AIN sopH`, `Curist`, `Hoty GHost`, `Matxnorn`, `PanaD`, `SHEKmvaH`, `SON OF Gop`, `TRInITy`).
+
+**Unclear or supplied:** The title of Myer's book is lost in the OCR (`» p- 206`); shown as `[word unclear]`.
 
 ## Full OCR entry body (exact)
 

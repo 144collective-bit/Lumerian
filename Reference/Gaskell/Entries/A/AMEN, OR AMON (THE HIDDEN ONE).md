@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amen-or-amon-the-hidden-one
 headword: "AMEN, OR AMON (THE HIDDEN ONE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Mut` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUT, THE GODDESS|MUT, THE GODDESS]] |
 | `PLumes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLUMES ON THE ATEF CROWN|PLUMES ON THE ATEF CROWN]] |
 | `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self incarnate on the lower planes of the soul.
+
+> "As Amen-Râ he was worshipped as the supreme 'King of the Gods,' a creator and soul of the universe, inscrutable and eternal. He is usually figured in human form, with two long upright plumes rising above his head, holding a sceptre and the symbol of life. The ram was sacred to him, and in this animal he was believed to be incarnate."—*Non-classical Mythology*, p. 9.
+
+The incarnate Self is symbolised by the ram of sacrifice,—the "Lamb of God."
+
+See [ARU-RA?], CROWN (sekhet), DEITY (hidden), MUT, PLUMES, SCEPTRE.
+
+**Corrections made:** `Ré` → Râ; `supremo` → supreme; `Derry` → DEITY; `Crown` See-list spelling restored; quotation marks normalised.
+
+**Unclear or supplied:** `[ARU-RA?]` (OCR `Aru-RA`) could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

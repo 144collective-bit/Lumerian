@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kid-for-a-love-feast
 headword: "KID FOR A LOVE-FEAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `FEAST` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of faith. Faith is a sense or intuition of that truth of being which is superior to the lower knowledge.
+
+See FAITH, FATTED CALF, FEAST, INTUITION, MAN.
+
+**Corrections made:** `Fairu` → FAITH; `FATreD` → FATTED.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

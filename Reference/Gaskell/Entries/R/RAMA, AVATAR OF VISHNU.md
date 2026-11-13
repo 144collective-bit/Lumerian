@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rama-avatar-of-vishnu
 headword: "RAMA, AVATAR OF VISHNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 | `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the incarnate Deity, or indwelling Self of atma-buddhic energy, born in the human soul.
+
+> "Vishnu asks the gods why it is necessary for him to effect their deliverance. Being told of Brahma's promise to Ravana, he at length consents to be born as man, in order to slay the [demon] and his family."—Wilkins, *Hindu Mythology*, p. 174.
+
+The promise of Brahma is that the desire-principle (Ravana) is not to be slain by either "gods or demons," that is, by subjective forces. The Higher Self (Vishnu), therefore, is to become objective or evolved in order to deliver the spiritual egos (gods) in humanity, and destroy the desire-principle and all its attendant desires. The Higher Self consents to become incarnate in the human soul.
+
+> "To this end was the son of God manifested that he might destroy the works of the devil."—1 John iii. 8.
+
+It requires the Divine centralising principle (Vishnu) manifested in the mind to enable the soul to overcome the contrary principle of evil (Ravana) and destroy its qualities (family).
+
+See BALARAMA, BHARATA, HANUMAN, KABANDHA, LAKSHMANA, LANKA, RAKSHASAS, RAVANA, SITA, SHOES, VIBHISHANA, VISHNU.
+
+**Corrections made:** `deliver. ance` → deliverance; `be be born` → be born; `sla the ae` → slay the [demon]; `ythology` → Mythology; `WiILxIns` → Wilkins; `ite` → its; `Joxn` → John; See-list spellings restored (`BaLARAMA`, `HanvuMAN`, `RixsHasas`, `Ravana`, `Sita`).
+
+**Unclear or supplied:** `[demon]` is supplied: the OCR reads "to sla the ae and his family".
 
 ## Full OCR entry body (exact)
 

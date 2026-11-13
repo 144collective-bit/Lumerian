@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fiends-or-demons
 headword: "FIENDS, OR DEMONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `Naraps` | **unresolved** (review queue) |
 | `Nasu` | **unresolved** (review queue) |
 | `SALAMANDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALAMANDERS AND SYLPHS|SALAMANDERS AND SYLPHS]]; [[Reference/Gaskell/Entries/S/SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE|SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of auto-intelligent forces which operate upon the lower planes: these are chiefly elemental, and have to do with the nature and habits of the sub-human and instinctual intelligences.
+
+See DEVAS (lower), LORDS (material), MITHRA, NARADS, NASU, SALAMANDERS.
+
+**Corrections made:** `Lonps` → LORDS; `Mrrnra` → MITHRA; `Naraps` → NARADS.
+
+**Unclear or supplied:** `NARADS` is a best reading of OCR `Naraps`.
 
 ## Full OCR entry body (exact)
 

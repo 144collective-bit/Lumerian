@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nephilim-or-giants
 headword: "NEPHILIM OR GIANTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `GaDERINE DEMONIACS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GADERINE DEMONIACS|GADERINE DEMONIACS]] |
 | `Giants` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIANTS, NEPHILIM, MIGHTY MEN|GIANTS, NEPHILIM, MIGHTY MEN]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Early physical human forms; mostly Lemurian, some Atlantean. In these rugged forms mind is first aroused.
+
+> "The Nephilim were in the earth in those days, and also after that, when the sons of God came in unto the daughters of men, and they bare children to [them]."—Gen. vi. 4.
+
+These Nephilim are the monsters which are pre-human and semi-animal. They correspond in soul life to the early attempts at Self-realisation, which are possible only through the agency of such clumsy modes of expression as are appropriate to the sub-human kingdoms of nature. The ideals of the minds, or spiritual egos (sons of God), conjoined to the processes of the lower planes, give rise to the "children of men," the progeny of mind, or mental—astro-physical forms. It is as the cosmic forces work through the personality while guided from the individuality, that the "sons of men" are born, that is, the successive incarnations are engendered.
+
+> "Like a beautiful seedling hidden away within a rough and ugly husk, through which it must break in order to achieve itself, our divine selfhood has been hidden and compressed within material conditions. Consciousness has had to use first one kind of vehicle and then another, and as the vehicle so has been the quality of the self-expression."—R. J. Campbell, *Serm.*, *Solidarity of Spiritual Experience*.
+
+See CHILDREN OF MEN, DAUGHTERS, GADERINE DEMONIACS, GIANTS, SONS OF GOD.
+
+**Corrections made:** `firet` → first; `semianimal` → semi-animal; `Selfrealisation` → Self-realisation; `Campsett` → Campbell; `Hxzperience` → Experience; `GEeN.` → Gen.; page heading `NEPHTHYS` removed from mid-sentence; See-list spellings restored (`GaDERINE`, `Giants`).
+
+**Unclear or supplied:** `[them]` is supplied: the OCR reads `to i`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conch-or-shell-trumpet
 headword: "CONCH, OR SHELL-TRUMPET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `LaxksHMI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAEKSHMI, THE GODDESS|LAEKSHMI, THE GODDESS]] |
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `VEDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual and also natural means of development, rendered active (sounded) during the outpouring of the Divine Life.
+
+> "I (Lakshmi) reside in the sound of repeating the Veda, in the flourish of the shell (trumpet), in the sacrificial exclamations addressed to the gods and to the manes, and in the sound of musical instruments."—*Inst. of Vishnu*, XCIX. 15.
+
+Buddhi (Lakshmi) is to be found in the manifestation of the laws of the Supreme, in the higher and lower means of progress, in the efforts and aspirations towards the ideals (gods) and the Spirit within, and in the harmony which wisdom brings about.
+
+> "That tumultuous uproar of conches rent the hearts of the sons of Dhritarashtra filling the earth and sky with sound."—*Bhagavad-Gita*, I. 19.
+
+The strength of the progressive activities in the lower and higher natures is said to pierce the "heart" of the desires (Kurus).
+
+See DHRITARASHTRA, LAKSHMI, MUSIC, VEDA.
+
+**Corrections made:** `che` → the; `‘**T (Lakshmi)` → "I (Lakshmi); See-list spellings restored (`LaxksHMI`, `Music`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

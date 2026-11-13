@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harlot-or-strange-woman
 headword: "HARLOT, OR STRANGE WOMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,18 @@ tags:
 | `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
 | `Potson UNRIGHTEOUS MAN` | **unresolved** (review queue) |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the allurements of sensation and desire which capture the soul until it has learned that it is wisdom that must be sought after above all else.
+
+> "Of the nourishments brought to the soul of the wicked man are some from poison and poisonous stench; . . . that is the food after death, for a harlot of very evil thoughts, words, deeds, and ill-instructed, not ruled by a master, and [word unclear] as"—*Nask*, Haug, *Essays*, p. 233.
+
+Of the food supplied to the soul at this stage are stimuli which inflame and excite the lower nature. These are the desires which must continue unsatisfied, and the longings which cannot end, since they are to be the means of drawing the soul again and again into incarnation; for so alone will it work out its salvation. The folly (harlot) of the lower self is, indeed, Wisdom reflected inversely on the lower planes, and this is the means whereby at first the Self is evolved in the soul. "Not ruled by a master" signifies that the desire nature is not as yet regulated through the will and reason.—See Prov. vii. 6-27, and 1 Cor. vi. 13-20. See ADULTERY, COURTESAN, DIVORCE, FOLLY, GATHA (kam.), MAN (bad), POISON, UNRIGHTEOUS MAN, WHOREDOM.
+
+**Corrections made:** `nourishmentes` → nourishments; `Hava, Eesays p- 233` → Haug, Essays, p. 233; `illINVOLUTION, HARMAKHIS instructed` → ill-instructed (page heading `INVOLUTION, HARMAKHIS` removed from mid-sentence); See-list spellings restored (`CoURTEZAN`, `Divorce`, `Fotty`, `Potson`).
+
+**Unclear or supplied:** The end of the quotation is damaged (OCR `and lear as Nask`): `[word unclear]` marks the lost word; the closing quotation mark is supplied.
 
 ## Full OCR entry body (exact)
 

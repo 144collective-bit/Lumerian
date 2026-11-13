@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-potsherd
 headword: "POTSHERD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,26 @@ tags:
 | `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VAISVANARA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a quality of the soul, being a separated part of the whole.
+
+> "Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth."—Is. xlv. 9.
+
+The quality that acts in opposition to the Divine ordinance is destroyed. Let the higher quality oppose and discipline the lower qualities.
+
+> "'And he took him a potsherd to scrape the humour withal' (Job ii. 8). For what is the potsherd in the hand of the Lord, but the flesh which He took of the clay of our nature? For the potsherd receives firmness by fire. . . . But what is to be understood by humour saving sin? For it is the custom to denote the sins of the flesh by flesh and blood. And hence it is said by the Psalmist, 'Deliver me from blood' (Ps. li. 16). Humour then is the corruption of the blood. And so what do we understand by humour but the sins of the flesh rendered worse by length of time? And so the Mediator between God and man, the Man Christ Jesus, in giving up His Body into the hands of those that persecuted Him, scraped the humour with a potsherd, forasmuch as He put away sin by the flesh; for He came, as it is written, 'in the likeness of sinful flesh, that He might condemn sin of sin.'"—Gregory the Great, *Morals on the Book of Job*, Vol. I. p. 153.
+
+> "That Vaisvanara cake, doubtless, is yonder sun, and the Maruta cakes are those rays. They are of seven potsherds each, for the troops of the Maruts consist of seven each."—*Sata. Brâh.*, IX. 3, 1, 25.
+
+The Divine Mind or Higher Self (sun) is the source of Life and sustenance, and the high Devas, or spiritual intelligences, are the prime agents for the dissemination of Life and Truth. These Devas are of seven different prime qualities, and in correspondence with them the spiritual egos (Maruts) issue forth in seven classes.
+
+See BLOOD, DEVAS, EARTH, FIRE, FLESH, JOB, MARUTS, REDEMPTION, SUN, VAISVANARA.
+
+**Corrections made:** page heading `POURUSHASPA` removed from mid-text; `Jos ii. 8` → Job ii. 8; `Awumour` → humour; `Hoe` → He; `Bréh., 1X .` → Brâh., IX.; `Jos` → JOB in the See list; See-list spellings restored (`Bioop`, `EartH`, `FuEesH`, `Maruts`, and similar); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

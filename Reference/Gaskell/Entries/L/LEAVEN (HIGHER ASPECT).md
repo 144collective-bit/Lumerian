@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-leaven-higher-aspect
 headword: "LEAVEN (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,26 @@ tags:
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual life permeating the lower nature.
+
+> "The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till it was all leavened."—Matt. xiii. 33.
+
+The Christ here alludes to the "Woman," or purified lower nature, conceiving the Christ-soul through which the lower triad of bodies,—mental, astral, and physical,—is purified and becomes one with, or disappears into, the causal; for of such purification is the "kingdom of heaven,"—the spiritual or buddhic consciousness.
+
+> "The four elements which constitute man are, counting from without inwards, the material body, the fluidic perisoul or astral body, the soul or individual, and the spirit, or divine Father and life of his system. This last it is whose kingdom is described as the leaven taken by the woman—the divine Sophia or wisdom—and hidden in three measures of meal, namely, the soul, the perisoul, and the body, until the whole is leavened; until, that is, the whole man is so permeated and lightened by it that he is finally transmuted into Spirit and becomes 'one with God.'"—*The Perfect Way*, p. 5.
+
+> "The parable of the Leaven which the woman is said to have hid in three measures of meal, they (the Gnostics) say, mean the three kinds (of men). For Wisdom they teach to be expressed by a woman; by measures of meal, the three kinds of men,—spiritual, animal, earthy. As to leaven, they teach it to be a name of the Saviour Himself."—Irenæus, *Against Heresies*, p. 26.
+
+> "Compare Philo (I. 173) on 'the three measures of the soul' that are to be 'kneaded' like cakes, wherein the sacred doctrine must be hidden."—E. A. Adeney, *Enc. Biblica*.
+
+See DOVES, ELEMENTS, FLOUR, KINGDOM OF HEAVEN, MEAL, PARABLE, SOPHIA, VESTURES, VIRGIN, WOMAN.
+
+**Corrections made:** `Mar.` → Matt.; `purifled` → purified; `Himeelf` → Himself; `IJnen2zvs` → Irenæus; `ADENEY` → Adeney; See-list spellings restored (`Doves`, `ELEMENtTs`, `FLovur`, `Sorgia`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

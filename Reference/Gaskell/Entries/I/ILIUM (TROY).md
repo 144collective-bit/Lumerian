@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ilium-troy
 headword: "ILIUM (TROY)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `SHIPS OF GREEKS` | **unresolved** (review queue) |
 | `TROJANS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body, the abode of the causal-Self, as a centre for the higher mental qualities and emotions. The personality (Achilles) is represented as seeking to capture the heavenly city by violence; that is,—through the striving of the personality for perfection, the consciousness is raised to the higher mind, which involves the death of the personality.
+
+> "In the centre of the world was Turkland with its capital Troy. In this Turkland there were twelve kingdoms, and a chief king, who was Priam."—Preface to *Prose Edda*.
+
+In the centre of the soul, or midway between the higher and lower planes, is the higher mental plane, with the causal-body, the seat of the causal-Self (Priam). On the higher mental plane are represented the twelve stages of the Life Cycle (Zodiac).
+
+See ACHILLES, CAUSAL-BODY, CITY OF GOD, HELEN, MENIS, PERSONALITY, PRIAM, SHIPS OF GREEKS, TROJANS, TROY.
+
+**Corrections made:** `causalSelf` → causal-Self; See-list spellings restored (`CrTy`, `Priam`, `Troy`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

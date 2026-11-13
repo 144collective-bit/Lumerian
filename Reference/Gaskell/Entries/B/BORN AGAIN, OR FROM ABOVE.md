@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-born-again-or-from-above
 headword: "BORN AGAIN, OR FROM ABOVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `Sprair` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the consciousness raised from the lower mind to the higher, which is the second birth.
+
+> "Except a man be born of water and the Spirit, he cannot enter into the kingdom of God."—John iii. 5.
+
+Except an ego be raised morally and purified by truth (water) and the buddhic function (fire) he cannot enter into the buddhic consciousness. The first birth is the entrance of the ego into the underworld or cycle of the lower life. When the ego dies to the lower life, he is reborn into the higher.
+
+See BAPTISM (fire), KINGDOM OF HEAVEN, RE-BIRTH, REGENERATION, SPIRIT, WATER.
+
+**Corrections made:** page heading `TABERBOTTOMLESS` removed from mid-sentence; `Joxn` → John; See-list spellings restored (`Baptism`, `Kourapom or HEAVEN`, `Sprair`); quotation marks normalised.
+
+**Unclear or supplied:** See-list `KINGDOM OF HEAVEN` is a likely restoration of OCR `Kourapom or HEAVEN`; `SPIRIT` of `Sprair`.
 
 ## Full OCR entry body (exact)
 

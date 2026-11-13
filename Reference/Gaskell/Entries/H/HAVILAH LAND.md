@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-havilah-land
 headword: "HAVILAH LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -68,6 +69,31 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Svun` | **unresolved** (review queue) |
 | `Worp` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower buddhic region.
+
+> "The name of the first river is Pishon: and that is it which compasseth the whole land of Havilah where there is gold; and the gold of that land is good: there [word unclear] and the onyx stone."—Gen. i
+
+The "name" or symbol of the first answers to the higher mental plane: this comprises the circuit, as it were, below and around the buddhic state. The "good gold" stands for celestial Truth. Upon these levels exist wisdom and power. See EDEN RIVERS, GOLD, PISHON.
+
+### Also in this note: HAWK; SPARROW-HAWK; AN EMBLEM OF RA, THE SUN-GOD
+A symbol of the manifested Higher Self.
+
+> "The hawk stands for the Supreme Mind, and for the intelligent soul. The hawk is called in the Egyptian language baieth, from bat soul, and eth heart, which organ they consider the seat or enclosure of the soul."—Horapollo.
+
+> "Races having no connection with the Egyptian have associated sun and arrow-hawk. Homer, for instance,—[Od.?], 15, 525,—calls the hawk the 'swift messenger of Phoebus.'"—Wiedemann, *Rel. of the Egyptians*, p. 27.
+
+> "A hawk was the symbol of God."—Clem. Alex., *Miscel.*, Bk. V. 7.
+
+> "The soul of man was often represented by a hawk, the symbol of the sungod. Why the hawk should have thus symbolised the sun is a question that has often been asked. The Egyptians did not know themselves; and Porphyry, in the dying days of the old Egyptian faith, gravely declares that it was because the hawk was a compound of blood and breath! . . . Originally it was only the sun god of Upper Egypt who was represented even by the Egyptians under the form of a hawk. This was Horus, often called in the later texts 'Horus the elder' (Aroéris)."—Sayce, *Rel. of Anc. Egyptians*, p. 71.
+
+The sun, blood, and breath are all symbols of the Divine Life. See BA, BIRD (great), BIRDS, BLOOD, BREATH, EAGLE, EGYPT (higher), HIPPOPOTAMUS, HORUS, RA, SUN, WORD.
+
+**Corrections made:** `compasseth.` → compasseth; `there : aie and` → there [word unclear] and; `GEN.` → Gen.; `Cirem. ALEXx.` → Clem. Alex.; See-list spellings restored (`Birp`, `BInDs`, `BLOoD`, `BreaTtH`, `Eacie`, `Eayrr_`, `Hrrprorotamvus`, `Svun`, `Worp`); page heading `99 HAWK` removed; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: HAWK; SPARROW-HAWK; AN EMBLEM OF RA, THE SUN-GOD. The Genesis reference breaks off at "Gen. i" (probably Gen. ii. 11-12). `[Od.?]`: OCR `d`, the Homer reference.
 
 ## Full OCR entry body (exact)
 

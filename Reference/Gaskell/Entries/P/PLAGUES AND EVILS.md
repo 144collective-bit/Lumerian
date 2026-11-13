@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-plagues-and-evils
 headword: "PLAGUES AND EVILS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Eviz` | **unresolved** (review queue) |
 | `OpposirEs` | **unresolved** (review queue) |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the pairs of opposites; the lower being created by the mind energised by desire.
+
+> "By these plagues are meant self-love, the pride of self-derived intelligence, and the concupiscences of evil and falsity flowing from them."—Swedenborg, *Apoc. Rev.*, n. 456.
+
+See EVIL, OPPOSITES, PESTILENCE.
+
+**Corrections made:** `concupisconces` → concupiscences; `SwEDENBORG` → Swedenborg; `Eviz, OpposirEs` → EVIL, OPPOSITES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

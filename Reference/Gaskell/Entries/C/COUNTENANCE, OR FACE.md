@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-countenance-or-face
 headword: "COUNTENANCE, OR FACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Cain` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `Face` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FACE|FACE]] |
 | `Jos` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a mental aspect of the feelings or emotions.
+
+> "But unto Cain and to his offering He had not [respect]. And Cain was very wroth, and his countenance fell. And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?"—Gen. iv. 5, 6.
+
+But the lower nature, as such, could not be received by the Higher. And the earlier stages of evolution of the lower self (Cain) are attended by a great sense of restraint and hardship. And the Higher Self questions within the lower mind as to why it is suffering through its experiences.
+
+> "By 'countenance' are signified the interiors, which are said to 'fall' when they are changed. 'Countenance' with the ancients signified internal things, because internal things shine forth through the countenance."—Swedenborg, *Arc. Cel.* to Gen. iv. 5.
+
+See CAIN, FACE, JOB.
+
+**Corrections made:** `had not t` → had not [respect]; `ve wroth` → very wroth; `GeEn.` → Gen.; `Jos` → JOB.
+
+**Unclear or supplied:** `[respect]` is supplied for the damaged `not t.`; `very` read for `ve`. `Jos` read as JOB.
 
 ## Full OCR entry body (exact)
 

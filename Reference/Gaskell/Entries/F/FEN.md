@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fen
 headword: "FEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `PracHes` | **unresolved** (review queue) |
 | `REEDPLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
 | `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of astro-mentality, wherein truth (water) lodges; which is soft and pliable—easily subordinated to truth; or which easily yields truth.
+
+> "The ushshu-plant, the dittu-plant of the marsh, the reed and the forest he (Marduk) created, the lands, and the marshes and the swamps" (Babylonian Tablet).—L. W. King, M.A., *Babylonian Religion*, p. 90.
+
+The early growth of qualities and forms were established by the Logos on the mental and astral planes; and the astro-mental life and organisation produced physical phenomena.
+
+See BIRTH OF HORUS, DOORS OPENED, GARDEN OF REEDS, GEBAL, LEMMINKAINEN, PAPYRUS, PEACHES, REED-PLAIN, SEKHET-AARU.
+
+**Corrections made:** `Kine` → King; `GaRDEN`, `GrEBAL`, `LmaaKAINEN`, `Papyrus`, `PracHes` See-list spellings restored; `REEDPLAIN` → REED-PLAIN; quotation marks normalised.
+
+**Unclear or supplied:** `LEMMINKAINEN` and `GEBAL` are best readings of OCR `LmaaKAINEN` and `GrEBAL`.
 
 ## Full OCR entry body (exact)
 

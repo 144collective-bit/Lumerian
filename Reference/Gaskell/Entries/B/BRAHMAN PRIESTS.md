@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brahman-priests
 headword: "BRAHMAN PRIESTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Ersop` | **unresolved** (review queue) |
 | `GotpEn` | **unresolved** (review queue) |
 | `Horns` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORNS OF GOLD|HORNS OF GOLD]]; [[Reference/Gaskell/Entries/H/HORNS OF THE GOD|HORNS OF THE GOD]]; [[Reference/Gaskell/Entries/H/HORNS, TEN, OF THE DRAGON|HORNS, TEN, OF THE DRAGON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental forms, or ideals, through which the spiritual nature is apprehended.
+
+> "And the king gave to the brahmans for his son's (Buddha's) welfare, cows full of milk, with no traces of infirmity, golden-horned, and with strong, healthy calves to the full number of one hundred thousand."—*Buddha-Karita*, Bk. I. 89.
+
+The "gift of cows" signifies the provision of the intuitive perception of spiritual things which is to enable the soul to rise. The "brahmans" are the forms through which spirit is perceived. The "no traces of infirmity" is an allusion to the perfect conception of the truth, implanted by involution within the Soul. The "golden horns" are symbols of zeal and love of the true. The myriad "calves" are the progeny of Buddhi (cow), and are the inexhaustible treasures of the Spirit, i.e. the higher emotions and faculties.
+
+See BUDDHA, CALVES, COW (milch), [Ersop?], GOLDEN, HORNS.
+
+**Corrections made:** `unable` → enable; unbalanced quotation marks around `no traces of infirmity` and `calves` repaired; See-list spellings restored (`Buppua`, `CaLves`, `GotpEn`).
+
+**Unclear or supplied:** See-list item `[Ersop?]` cannot be identified.
 
 ## Full OCR entry body (exact)
 

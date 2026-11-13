@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-joseph-son-of-jacob
 headword: "JOSEPH, SON OF JACOB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `GENTILES JACOB` | **unresolved** (review queue) |
 | `JEWS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A type of the Christ-soul, the Self struggling upward from below.
+
+> "Joseph in an Egyptian prison is Christ come into the world, where He can meet the two peoples, that is, the Jew and the Gentile. . . . After long suffering, first, from the [ungoverned?] violence of activities which spring from true service, then through temptations from the affections of the natural man, then through bondage and pain, the spirit is freed and glorified. All Egypt bows to Joseph."—A. Jukes, *Types of Genesis*, pp. 407, 409.
+
+> "The fundamental thought of the entire Testament of Joseph is the following:—Joseph is a type of the suffering Christ. . . . The idea seems to have been so to group the sons of Jacob around Joseph that he should be the object of the hatred of them all in their manifold sins, and yet, whilst apparently perishing at their hands, be their deliverer."—Dorner, *The Person of Christ*, Vol. I. p. 421.
+
+"Egypt" signifies the mental plane, and "Egyptians" the mental faculties. Mind becomes subject to spirit.
+
+See DANIEL, EGYPT, GENTILES, JACOB, JEWS, JOB.
+
+**Corrections made:** `lo suffering` → long suffering; `A. JuxKEs` → A. Jukes; `Donrner` → Dorner; `Danret, Ecyrt` → DANIEL, EGYPT; `GENTILES JACOB` → GENTILES, JACOB; quotation marks normalised.
+
+**Unclear or supplied:** `[ungoverned?]` for OCR `cngoveried`.
 
 ## Full OCR entry body (exact)
 

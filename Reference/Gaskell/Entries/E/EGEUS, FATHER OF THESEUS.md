@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-egeus-father-of-theseus
 headword: "EGEUS, FATHER OF THESEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Corp` | **unresolved** (review queue) |
 | `TauRt` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO|TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual knowledge which begets wonder-awe.
+
+See [Corp?], TAURUS.
+
+**Corrections made:** `TauRt` → TAURUS.
+
+**Unclear or supplied:** `[Corp?]` is an unidentified See-list item (OCR `Corp`).
 
 ## Full OCR entry body (exact)
 

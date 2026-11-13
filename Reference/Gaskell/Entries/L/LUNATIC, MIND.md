@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lunatic-mind
 headword: "LUNATIC, MIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `CHURNING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES|CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES]] |
 | `KaBANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral principle which has been developed in the lunar cycle. It is through the stimulus of the astral or desire-nature that the mind is eventually awakened. When the desires are extremely active in combination with the lower mind there results an unruled and undirected state of soul, very dangerous morally.
+
+See ASTRAL PLANE, CHURNING, KABANDHA, MOON-WAXING.
+
+**Corrections made:** `KaBANDHA` → KABANDHA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

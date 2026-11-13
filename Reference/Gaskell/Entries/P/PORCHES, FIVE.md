@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-porches-five
 headword: "PORCHES, FIVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `BrErHespa` | **unresolved** (review queue) |
 | `Cross` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `Poot or BETHESDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the five senses, the entrances of desires.
+
+> "The five porches in Bethesda represent the five senses of unredeemed humanity, i.e. the unregenerate passions."—E. A. A., *Enc. Biblica*, Gospels, 47.
+
+See BETHESDA, CROSS, POOL OF BETHESDA.
+
+**Corrections made:** `BrErHespa` → BETHESDA; `Poot` → POOL.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

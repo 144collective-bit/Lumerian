@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-host-or-consecrated-wafer
 headword: "HOST, OR CONSECRATED WAFER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `TRANSUBSTANTIATION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Victim—the Incarnate Self,—abiding within Truth-goodness (bread of heaven, or body of Christ): it signifies the Real Presence of God in the human soul, and object of the soul's adoration. Christ can only express Himself in the highest qualities of the mind so these highest qualities are, as it were, his body in which he lives in us.
+
+See BREAD, FOOD AS GOD, PROCESSION, SACRAMENT, SHRINE, TRANSUBSTANTIATION.
+
+**Corrections made:** See-list spellings restored (`BrEaD`, `Foop as Gop`, `PROCEsSION`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

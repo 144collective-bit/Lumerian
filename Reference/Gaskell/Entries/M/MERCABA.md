@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mercaba
 headword: "MERCABA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `Ma-a’SEH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul.
+
+> "The old Jewish proverb,—'Four are the highest in the world—the lion among wild beasts, the ox among tame cattle, the eagle among birds, man among all (creatures); but God is supreme over all.'"—P. Fairbairn, *Typology [of] Scripture*, Vol. I. p. 262.
+
+See FIRMAMENT, MA-A'SEH.
+
+**Corrections made:** `Farmsarmn` → Fairbairn; `Seripture` → Scripture.
+
+**Unclear or supplied:** `[of]` is supplied: the OCR reads "Typology Seripture".
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-devas-shining-ones
 headword: "DEVAS, SHINING ONES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,20 @@ tags:
 | `PorsHERD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/POTSHERD|POTSHERD]] |
 | `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
 | `VALKYRIOR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VALEYRIOR|VALEYRIOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Exalted Intelligences of Truth, Wisdom, and Love, on the higher planes. These operate from the buddhic and higher mental planes in furthering the process of evolution. They are concerned with the higher emotions, and are attracted by aspirations from below. They are the natural opponents of the "daevas," the "asuras," which are the lower desires and emotions.
+
+> "Verily, the Devas are not dear, that you may love the Devas; but that you may love the Self, therefore the [Devas?] are dear."—*Brihad. Upanishad*.
+
+The higher emotions and intelligences are all centralised in the Self as the supreme source of all love and devotion. Adoration is directed to the Highest, and is truly shown in exercising the higher qualities (Devas) of Love, Justice, Truth, Goodness, Sincerity, Benevolence, Righteousness, etc., which are dear to the aspiring soul for the sake of its central Ideal.
+
+See AMSHASPANDS, ANGELS, APSARAS, ARCHANGELS, ARDEBEHESCHT, ASHA, BAHMAN, BUILDERS, COLCHIS, COMPANY (gods), DAEMONS, GANDHARVAS, GUARDIANS (world), MESSENGERS, [PORSHERD?], SIRENS, VALKYRIOR.
+
+**Corrections made:** `emotigns` → emotions; `ComPANY` → COMPANY; `D2mMons` → DAEMONS; `Guarprans` → GUARDIANS; `CoLcHis` → COLCHIS; and similar minor fixes.
+
+**Unclear or supplied:** `[Devas?]` stands for OCR `pees`. See-list item OCR `PorsHERD` cannot be identified and is given as `[PORSHERD?]`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-of-a-man
 headword: "HOUSE OF A MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `RooM IN A HOUSE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the state into which the mind or soul is brought through its own efforts. It is the mental environment to some extent. It is also the whole external aspect of the spiritual ego. Each room may signify a plane.
+
+See ROOM IN A HOUSE.
+
+**Corrections made:** `RooM` → ROOM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

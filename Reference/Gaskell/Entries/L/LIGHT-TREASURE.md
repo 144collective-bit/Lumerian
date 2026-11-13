@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-light-treasure
 headword: "LIGHT-TREASURE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FRUIT OF THE SPIRIT` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE|FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE]] |
 | `SAVIOURS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the qualities of the soul which have been transmuted on to the buddhic plane. That in the soul which shall attain to the Light-realm,—"those whom the Father hath given me."
+
+See FRUIT OF THE SPIRIT, SAVIOURS, TRANSMUTATION.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

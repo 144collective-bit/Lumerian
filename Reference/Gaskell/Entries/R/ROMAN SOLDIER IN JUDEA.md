@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-roman-soldier-in-judea
 headword: "ROMAN SOLDIER IN JUDEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `CRUCIFIXION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN|CRUCIFIXION OF PURUSHA, OR THE SACRIFICE OF THE MAN]] |
 | `SOLDIERS` | **unresolved** (review queue) |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the aggressive, strong, destructive side of the lower nature, which fulfils the most useful function of dissipating stagnation and opening up whatever requires exercise.
+
+> "The soldiers, therefore, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part."—John xix. 23.
+
+When through aggressive agencies the Christ-soul had triumphed finally over the ultimate ills, the vehicles of the lower quaternary were broken up and dissipated in the natural course of things on the four lower planes.
+
+See BERSERKS, CAIAPHAS, CRUCIFIXION, SOLDIERS, TRIAL.
+
+**Corrections made:** `@ part` → a part; `Christ-sou]` → Christ-soul; `JOHN` → John.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

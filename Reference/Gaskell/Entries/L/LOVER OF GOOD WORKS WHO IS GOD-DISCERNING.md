@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lover-of-good-works-who-is-god-discerning
 headword: "LOVER OF GOOD WORKS WHO IS GOD-DISCERNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Doors OPENED BY THOTH` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DOORS OPENED BY THOTH|DOORS OPENED BY THOTH]] |
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher manasic intelligence, or intuitional principle, which brings the higher and lower Selves together when perfection has been attained and the lower nature dissipated.
+
+See DOORS OPENED BY THOTH, HIGHER AND LOWER SELVES.
+
+**Corrections made:** `Doors` capitalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

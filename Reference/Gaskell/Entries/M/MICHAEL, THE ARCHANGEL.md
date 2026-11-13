@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-michael-the-archangel
 headword: "MICHAEL, THE ARCHANGEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `Toms. TREE OF LIFE` | **unresolved** (review queue) |
 | `VICTORY. CaPpGHOST. BONDAGE` | **unresolved** (review queue) |
 | `Hory` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Self under the aspect of Deliverer of the soul from captivity to the lower nature. The Self as victor over the lower principle.
+
+> "Nephesh is presumably of the earth, earthy, for it is said to remain in the tomb; Rua'h enters the Earthly Paradise, where the High Priest Michael offers it as a holocaust to the Holy One and it remains in the joy of Paradise; Neshamah ascends on high. It returns to the Tree of Life, because it came therefrom."—[A.] E. Waite, *Secret Doctrine in Israel*, p. 160.
+
+The body of desire (Nephesh) is of the lower nature (earth) and disintegrates there (tomb). The mind (Rua'h) is delivered by the Self from captivity, and its lower part is purified and raised to union with the Holy Spirit (buddhi). The Divine monad (Neshamah) is now supreme in the soul, and is of the Divine life (tree). This does not refer to post-mortem states, but to the union of the soul with God.
+
+See ARCHANGEL, [CAP]TIVITY, EARTH, MELCHIZEDEK, MONAD OF LIFE, NEPHESH, NESHAMAH, PARADISE, RUA'H, SELF, TOMB, TREE OF LIFE, VICTORY, [CAPGHOST?], BONDAGE, [HOLY?].
+
+**Corrections made:** `Warts` → Waite; `Toms.` → TOMB; `Rua'` → RUA'H; `MONAD OF _ LIFE` → MONAD OF LIFE; `Hory` → [HOLY?].
+
+**Unclear or supplied:** The See list is jumbled in the OCR (`TIVITY`, `CaPpGHOST`, `BONDAGE`, `Hory` out of place); it probably intends CAPTIVITY, BONDAGE and HOLY GHOST, left in OCR order with bracketed readings. `[A.]` is supplied before `E. Waite`.
 
 ## Full OCR entry body (exact)
 

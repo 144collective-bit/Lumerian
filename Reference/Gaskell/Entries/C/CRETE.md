@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crete
 headword: "CRETE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `IcHor` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICHOR IN THE VEIN OF TALUS|ICHOR IN THE VEIN OF TALUS]] |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
 | `TaLus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of perfect peace on the higher buddhic levels.
+
+> "The Argonauts thence proceeded to Crete, where Talus the brazen man, prohibiting their landing, was slain by the art of Medea."—*Argonautic Expedition*.
+
+When the aspiring Soul with its advanced qualities reaches the condition of peace, the critical faculty (Talus) delays its arrival, but is eventually superseded by Wisdom (Medea).
+
+> "Minos had Zeus for his father. At nine years old he received revelations from Zeus, and reigned over all Crete."—Gladstone, *Juventus Mundi*, [page unclear].
+
+The Divine Will proceeded from the Supreme. At the appointed time when all preparations were made, the Divine Will established ideal conditions on the buddhic plane. This was in the golden age of involution, when there was no strife. See ARGONAUTS, ICHOR, MEDEA, TALUS.
+
+**Corrections made:** `ae GLADSTONE` → Gladstone; `cstablished` → established; stray `|` removed; See-list spellings restored (`ArnconavutTs`, `IcHor`, `TaLus`).
+
+**Unclear or supplied:** The page number after `Juventus Mundi` is lost (`[page unclear]`). The Argonautic Expedition reference is as printed, with no author or page.
 
 ## Full OCR entry body (exact)
 

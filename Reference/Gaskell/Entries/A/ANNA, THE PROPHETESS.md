@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anna-the-prophetess
 headword: "ANNA, THE PROPHETESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a subjective mental condition, or type analogous to many souls patiently awaiting the coming of the Christ.
+
+See SIMEON.
+
+**Corrections made:** `Ses Smumzon` → See SIMEON.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

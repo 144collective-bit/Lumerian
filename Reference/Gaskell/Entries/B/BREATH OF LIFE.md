@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breath-of-life
 headword: "BREATH OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Nosz` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SPARE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual essence,—the Divine Spark, atma-buddhi, which is immortal.
+
+> "And (God) breathed into his nostrils the breath of life; and man became a living soul."—Gen. ii. 7.
+
+And into this lower mind, or astro-mental body, was projected the Divine spark, and thence the man (manasic being) became a creature capable of responsible, independent existence.
+
+See ADAM (lower), FLESH, MAN, NOSE, PERSONALITY, SPARK.
+
+**Corrections made:** `&` → a; `GEN.` → Gen.; `astromental` → astro-mental; See-list spellings restored (`Apam`, `Nosz`, `SPARE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

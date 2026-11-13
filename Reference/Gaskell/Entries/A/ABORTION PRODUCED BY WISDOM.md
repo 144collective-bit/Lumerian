@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abortion-produced-by-wisdom
 headword: "ABORTION PRODUCED BY WISDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `SOPHIA. ABORTION OF ST` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the abnormal forcing of a certain side of the nature which, unless evolved under favourable conditions of growth, does not yield the perfect fruition of maturity, and is as fruit unripe, without flavour, and lacking in full development. See SOPHIA. ABORTION OF ST.
+
+**Corrections made:** page heading `ABORTION` removed from mid-sentence.
+
+**Unclear or supplied:** The OCR ends with the start of the next entry's headword (`ABORTION OF ST.`); kept as printed.
 
 ## Full OCR entry body (exact)
 

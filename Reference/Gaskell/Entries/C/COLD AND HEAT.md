@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cold-and-heat
 headword: "COLD AND HEAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `PROPHETS (false)` | resolved (exact) → [[Reference/Gaskell/Entries/P/PROPHETS, FALSE|PROPHETS, FALSE]] |
 | `Tamas` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of opposite qualities such as evil and good, hate and love, inertia and activity, matter and spirit.
+
+> "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So because thou art lukewarm, and neither hot nor cold, I will [spue thee?] out of my mouth."—Rev. iii.
+
+The Holy Spirit examines a state of the inner soul (church) and finds it sluggish and self-opinionated, neither evil nor good. So it must be roused, and the negative condition expelled.
+
+See CHURCHES OF ASIA, CONTRACTION, HEAT AND COLD, OPPOSITES, PROPHETS (false), TAMAS.
+
+**Corrections made:** `= i abee` → [spue thee?]; See-list spellings restored (`CONTRAOTION`, `HEatT AND COLD`, `Tamas`); `REv.` → Rev.
+
+**Unclear or supplied:** `[spue thee?]` is read from the damaged OCR `= i abee`. The Rev. reference is left as printed (`Rev. iii.`).
 
 ## Full OCR entry body (exact)
 

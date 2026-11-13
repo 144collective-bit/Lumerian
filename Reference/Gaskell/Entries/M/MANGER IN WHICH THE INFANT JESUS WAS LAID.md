@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manger-in-which-the-infant-jesus-was-laid
 headword: "MANGER IN WHICH THE INFANT JESUS WAS LAID"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Birr oF gEsus` | **unresolved** (review queue) |
 | `Maai` | **unresolved** (review queue) |
 | `STaR IN EAST` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of simplicity of mind and understanding, in which the Christ-soul is to be received into the innermost nature of man.
+
+> "Spiritual instruction for the understanding; this is the signification of a manger, and the same is signified by the manger in which the Lord lay when an infant, because a horse, who [eateth?] out of it, [signifies] the understanding of the Word."—Swedenborg, *Apoc. Rev.*, n. 255.
+
+See ARK (bulrushes), BIRTH OF JESUS, MAGI, STAR IN EAST.
+
+**Corrections made:** `®` → a; `Swxprnsore` → Swedenborg; page heading `MANIFESTATION` removed from mid-sentence; See-list spellings restored (`Arx`, `Birr oF gEsus`, `Maai`).
+
+**Unclear or supplied:** `[eateth?]` (OCR `cate`) and `[signifies]` (OCR `signi`). The opening quotation mark was lost in the OCR and is supplied at "Spiritual instruction".
 
 ## Full OCR entry body (exact)
 

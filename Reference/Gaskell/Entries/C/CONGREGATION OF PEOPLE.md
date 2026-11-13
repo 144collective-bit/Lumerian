@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-congregation-of-people
 headword: "CONGREGATION OF PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CENSERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CENSERS OF BURNING INCENSE|CENSERS OF BURNING INCENSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+OF SPEECH; LANGUAGE, A symbol of an assemblage of mental qualities.
+
+See CENSERS.
+
+**Corrections made:** `SPEECH ;` → SPEECH;.
+
+**Unclear or supplied:** The OCR begins with the fragment `OF SPEECH ; LANGUAGE,` which looks like the tail of the previous entry's heading; it is left in place as printed.
 
 ## Full OCR entry body (exact)
 

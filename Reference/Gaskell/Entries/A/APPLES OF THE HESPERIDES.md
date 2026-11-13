@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apples-of-the-hesperides
 headword: "APPLES OF THE HESPERIDES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `HESPERIDES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HESPERIDES|HESPERIDES]] |
 | `HikoBosHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HIKOBOSHI, A STAR-GOD|HIKOBOSHI, A STAR-GOD]] |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotions and faculties, the "fruit of the Spirit."
+
+> "The golden apples which Ge (Earth) gave to Hera at her marriage with Zeus."—Smith's *Class. Dic.*
+
+The "marriage" is the union of Wisdom (Hera) and Love (Zeus). Love struggles upward from below to meet Wisdom above; and Matter (Ge) yields up the results of experience and effort, on to the Wisdom plane.
+
+See GE, GOLD, [Grart?], HESPERIDES, HIKOBOSHI, MARRIAGE.
+
+**Corrections made:** Quotation marks normalised; `Gr` → GE; `GoLp` → GOLD; `HikoBosHI` → HIKOBOSHI; `Smith's Class. Dic.` kept as printed.
+
+**Unclear or supplied:** `[Grart?]` is an unidentified See-list item (OCR `Grart`).
 
 ## Full OCR entry body (exact)
 

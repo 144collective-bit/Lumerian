@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amalthea-the-goat-who-suckled-zeus
 headword: "AMALTHEA, THE GOAT WHO SUCKLED ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature which brings up the nascent indwelling Self by means of the transmutation of the desires, symbolised by their being raised to become "stars of heaven,"—higher qualities. Desire (goat) is a means of growth.
+
+See BUDDHI, GOAT, STARS, TRANSMUTATION, ZEUS.
+
+**Corrections made:** `Boppui` → BUDDHI; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blue-blood-of-bulls
 headword: "BLUE BLOOD OF BULLS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Hecatomss` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HECATOMB ,-THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS|HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS]] |
 | `Kypris` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KYPRIS, PERFECT HARBOURS OF|KYPRIS, PERFECT HARBOURS OF]]; [[Reference/Gaskell/Entries/K/KYPRIS, QUEEN|KYPRIS, QUEEN]] |
 | `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Life in the lower nature operating through desire only.
+
+> "And her (Queen Kypris) altar was not moistened with pure blood of bulls, but it was the greatest defilement among men to deprive animals of life and to eat their goodly bodies."—Empedocles, Fairbanks, 405.
+
+In an early state of the soul, the static condition of the functioning of Wisdom, was not defiled by the struggle which was later on begotten of the divorce between desire (bulls) and reason, or between understanding and intuition. At this stage the sundering of the life and the form,—which was incidental to subsequent evolution, i.e. through the functioning of the lower mind,—was unknown.
+
+See HECATOMB, KYPRIS, TAUROBOLIUM.
+
+**Corrections made:** `KEmpedocles` → Empedocles; `FAIRBANKS` → Fairbanks; `Hecatomss` → HECATOMB; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dwarf
 headword: "DWARF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `Suxuna` | **unresolved** (review queue) |
 | `YOUNG MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YOUNG MAN|YOUNG MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower Self as being small in comparison with the Higher Self. But the two are aspects of the One Self.
+
+> "I stood on a lofty mountain and saw a mighty Man, and another a dwarf, ... and a voice spake unto me and said, 'I am thou and thou art I; and wheresoever thou art, I am there, and I am sown (or scattered) in all. From whencesoever thou willest thou gatherest Me, and gathering Me thou gatherest [word unclear]."—*The Gospel of Eve* (Epiph.).
+
+The ego, in its loftiest aspirations, sees, as it were, the Higher and the lower Selves,—the one great in its completeness, the other little in its deficiencies. Yet the two Selves are essentially the same, for the Higher is the potential-perfect, while the lower is the actual, and only imperfect because not yet fully evolved. In the many souls the Perfect Self is sown or scattered, and waiting to be evolved. The high qualities that go to make perfection "are many members, but one body," and that body is Christ. When these qualities are gathered together in the soul, the Christ is evolved and the soul is then Christ,—the higher and the lower Selves have become One.
+
+See DEATH OF OSIRIS, DISMEMBERMENT, EVOLUTION, HIGHER (selves), LOSS, [Lrr?], MACROCOSM, MEMBERS, MICROCOSM, OAK TREE, OHONAMOCHI, PRAGAPATI, PURUSHA, SEED (good), [SUKUNA?], YOUNG MAN.
+
+**Corrections made:** `T stood` → I stood; `ita` → its; `togother` → together; `EpripnH` → Epiph.; `Losss` → LOSS; page heading `THE DWARFS` removed from mid-sentence; See-list spellings restored (`HicHER`, `Macrocosm`, `Microcosm`, `PraGAPpatTi`, `PurusHa`); quotation marks normalised.
+
+**Unclear or supplied:** The last word of the Gospel of Eve quotation is lost (OCR `oa`). `[Lrr?]` and `[SUKUNA?]` are uncertain See-list items (OCR `Lrr`, `Suxuna`). `Epiph.` is the likely reading of `EpripnH`.
 
 ## Full OCR entry body (exact)
 

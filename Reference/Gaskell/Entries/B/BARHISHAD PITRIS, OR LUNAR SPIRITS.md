@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-barhishad-pitris-or-lunar-spirits
 headword: "BARHISHAD PITRIS, OR LUNAR SPIRITS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `MoNnapD oF FORM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `Moon (waxing)` | **unresolved** (review queue) |
 | `Prrris (lunar)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of monads of form which become the centres of consciousness for the personalities. They are the "pitris of the demons," that is, the astral centres of the desires, passions, appetites, and instincts of the lower nature. They have been developed in animal-man on the moon in the lunar cycle.
+
+See LUNAR CYCLE, MONAD OF FORM, MOON (waxing), PITRIS (lunar).
+
+**Corrections made:** See-list spellings restored (`OYCLE`, `MoNnapD`, `Prrris`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ark-ark-of-bulrushes-of-the-babe-moses
 headword: "ARK ARK OF BULRUSHES OF THE BABE MOSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `MOSEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `Prtron` | **unresolved** (review queue) |
 | `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental condition of simplicity and aspiration in which the nascent moral nature is brought up.
+
+> "And when she (the mother) could no longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch; and she put the child therein, and laid it in the [flags?] by the river's brink."—Exod. ii. 3.
+
+And when the growing moral nature (Moses) became distinguishable from the emotion-nature (woman) that gave it birth, the emotions separated it off and by craft limited its scope, leaving it in simplicity and solitude to its aspirations (bulrushes, flags). The ethical beginnings (Moses) could not have endured the complexities of the external warring conditions, or multifarious lower plane activities: and must needs be nurtured in isolation and truth (water), and reared by an affection,—the daughter of a ruler of the lower nature.
+
+See JOHN BAPTIST, MANGER, MOSES, [Prtron?], RULER.
+
+**Corrections made:** `ut` → put; `Exop.` → Exod.; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** `[flags?]` (OCR `the gs by`; the commentary says "flags"). `[Prtron?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

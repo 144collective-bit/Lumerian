@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-ceremonies-of-the-buddha
 headword: "BIRTH CEREMONIES OF THE BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SON oF GoD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `STRIMES (soul)` | **unresolved** (review queue) |
 | `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of stages in the Soul's course towards liberation from the lower nature.
+
+> "The monarch also, being well-pleased at the birth of a son, having thrown off all those bonds called worldly objects, caused his son to go through the usual birth-ceremonies in a manner worthy of the family."—*Buddha-Karita*, Bk. I. 87.
+
+The Self, whose nature is bliss, is said to rejoice in its forth-going (masculine). It is Itself unconditioned, yet requires its phenomenal Representative to pass through those stages which will enable it to arrive at true liberty.
+
+See DEVAYANA, INVOLUTION, LIBERATION, SELF (lower), SON OF GOD, [STRIMES?] (soul), SUDDHODANA.
+
+**Corrections made:** page heading `112 BISHOP` removed from mid-sentence; See-list spellings restored (`SON oF GoD`).
+
+**Unclear or supplied:** `[STRIMES?]` is an unidentified See-list item (OCR `STRIMES (soul)`).
 
 ## Full OCR entry body (exact)
 

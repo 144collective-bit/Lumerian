@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-oars-of-the-boat
 headword: "OARS OF THE BOAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Boat (river)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `PADDLES. OAR-RESTS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher emotions which propel the soul onward towards its goal. See BOAT (river), PADDLES.
+
+### Also in this note: OAR-RESTS
+
+[text cut off]
+
+**Corrections made:** `Boat` → BOAT; the trailing headword `OAR-RESTS ;` is set out as a second entry with no text.
+
+**Unclear or supplied:** Contains a second entry: OAR-RESTS, which breaks off after the headword (`[text cut off]`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-merodach-or-mardue
 headword: "MERODACH OR MARDUE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `Sir` | **unresolved** (review queue) |
 | `Sout (highest)` | **unresolved** (review queue) |
 | `Unron` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self,—the Hero who personified the triumph over the lower nature, i.e. the "world, the flesh, and the devil." He was not so much Son of Man, as "Lord of all that exists," and so did not personify the Soul which has to be purified and tried in the fires.
+
+> "Merodach, king of heaven and earth, the merciful one, who loves to raise the dead to life" ("Hymn to Merodach").—Sayce, *Hib. Lect.*, p. 99.
+
+The Higher Self, lord of the higher and lower planes, by his Divine love raises the mortal to immortality.
+
+> "Merodach has been identified with Asari the son of Ea of Eridu. . . . Asari and Osiris were evidently the same. The character and attributes of both were the same. Osiris was Un-nefer, 'the good being,' whose life was spent in benefitting and civilising mankind; Asari also was 'the prince who does good to men.' . . . That Asari was a sun-god follows from his identification with Merodach. . . . Merodach was the divine man, freed from the limitations of our mortal existence, and therefore able not only to rule over the other gods, but also, like the magician, to make their natures his own."—Sayce, *Rel. of Anc. Egypt. and Babyl.*, pp. 325, 327, 334.
+
+Merodach, Asari, and Osiris are all symbols of the Higher Self regnant upon the higher planes of manifestation. They are sun-gods representing the one God on the plane of atma. Merodach signifies the Divine Man, God incarnate, who has risen in triumph from the lower planes, and has assumed the higher qualities (gods) and united them with himself.
+
+See ARC. MAN, ARURU, CIVILISING, DEAD, EA, ERIDU, ESTHER, INCARNATION, ISHTAR, OSIRIS, RESURRECTION, SIN, SOUL (highest), UNION.
+
+**Corrections made:** `Saroz` → Sayce; `Saycer` → Sayce; `whore -life` → whose life; `Ane.` → Anc.; `INCARNAfION` → INCARNATION; `IsvTaR` → ISHTAR; `Erniwu` → ERIDU; `Derap` → DEAD; `Sout` → SOUL; `Unron` → UNION; page heading `MERT` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** None. (See-list readings `Anc. MAN` as ARC. MAN, `Derap` as DEAD and `Sir` as SIN are by inference.)
 
 ## Full OCR entry body (exact)
 

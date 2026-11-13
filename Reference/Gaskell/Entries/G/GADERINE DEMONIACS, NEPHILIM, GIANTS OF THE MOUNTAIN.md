@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gaderine-demoniacs-nephilim-giants-of-the-mountain
 headword: "GADERINE DEMONIACS, NEPHILIM, GIANTS OF THE MOUNTAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Mountarn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `RIMTHURSAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]]; [[Reference/Gaskell/Entries/R/RIMTHURSAR RIGHTEOUS MAN|RIMTHURSAR RIGHTEOUS MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of elevated mental qualities such as aspiration and hope.
+
+See MOUNTAIN, RIMTHURSAR.
+
+**Corrections made:** `Mountarn` → MOUNTAIN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jason-or-jasius-the-healer-or-atoner
 headword: "JASON, OR JASIUS, THE HEALER OR ATONER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
 | `SanDaL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
 | `SOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the Saviour of the soul, or Son of God, seated in the causal-body (ship Argo), with his twelve (or more) disciplined qualities (the heroes), in the soul's expedition to attain Wisdom (the golden Fleece) on the buddhic plane,—the "kingdom of heaven."
+
+> "Once when Peleas offered up a sacrifice to Poseidon, he invited Jason, son of Aeson. Jason arrived with only one sandal, having lost the other in crossing the river Anaurus, on the banks of which he lived as a peasant" (Argonautic Expedition).—Keightley, *Mythology*.
+
+During an effort which the lower self (Peleas) makes to attain to the Divine consciousness (Poseidon) in an act of self-abnegation, or sacrifice, it requests that the Son of God (Jason) be born within it as Son of Man on the mental plane. Jason, the son of Aeson (Second Logos), is said to arrive at Iolcus (the mental plane), minus a sandal, that is to say:—the Lord from Heaven arrives in the soul without the power to stand in manifestation, i.e. without the means for self-expression. In other terms, there is only one sandal, because the perfect duality of the manifest on the upper planes, cannot be expressed in actuality on the lower planes. The one sandal stands for relativity. The "river Anaurus" is a symbol of the mentality which separates and limits, and acquires truth from outside. The Saviour, prior to his descent from the heights, is the Tiller and Sower of the field of the lower nature (as a peasant).
+
+> "Cretheus, who had founded Iolcus, was succeeded by his son Aeson; but the latter was deprived of the kingdom by his half-brother Pelias, who attempted to take the life of the infant Jason. He was saved by his friends, who pretended that he was dead, and entrusted him to the care of the centaur Chiron."—Smith's *Class. Dict.*
+
+The First Logos (unmanifest) who had established the cycle of life from the mental plane (Iolcus) was actualised in the Second Logos, or Higher Self. But the lower self or adverse principle (Pelias) became dominant and attempted to destroy the Divine Life germ (Jason) within the soul. The Christ-soul (Jason) was protected by the higher qualities in seeming latency, and was fostered by the spiritual mind (Chiron).
+
+> "The name Jesus in ancient times also belonged to the Health-bringer and patron of the Physician—namely, Jasius or Jason, the pupil of Chiron, skilled in healing,—who in general shows a remarkable resemblance to the Christian Redeemer."—A. Drews, *The Christ Myth*, p. 58.
+
+See AESON, ANAURUS, ARGO, ARGONAUTS, CADMUS, GOLDEN FLEECE, HEPHAISTOS, HEROES, IOLCUS, JESHURUN, MEDEA, PEASANT, SALVE, SANDAL, SOWER.
+
+**Corrections made:** `a8 @ peasant` → as a peasant; `Jasias` → Jasius; `KEIGHTLEY`; page heading `JEALOUS` removed from mid-sentence in the Smith quotation; See-list spellings restored (`ARGONautTs`, `Capmus`, `HEROEs`, `IoLcus`, `MepgEa`, `SanDaL`).
+
+**Unclear or supplied:** `Peleas` is kept as printed (the later text reads `Pelias`).
 
 ## Full OCR entry body (exact)
 

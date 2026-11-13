@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lunar-cycle-of-manifestation
 headword: "LUNAR CYCLE OF MANIFESTATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |
 | `PITRIYANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The cycle of life on the lunar chain. In the lunar cycle the astral life and the desire nature have been developed, culminating in the personality. The personalities are the lunar pitris, or "fathers" of humanity on its form side. The individualities, or solar pitris, are the "fathers" on the life side, and bring with them the spiritual element, the Divine "sparks" or monads of life.
+
+See DAYS (five), GOAT (milch), MOON (lower), MOON (solar), MOON-WAXING, PERSONALITY, PITRIS (lunar), PITRIYANA.
+
+**Corrections made:** Quotation marks normalised; See-list spellings restored (`Moow`, `MoonWAXING`, `Prrris`, `Days`, `Goat`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pillars-four-of-shu
 headword: "PILLARS, FOUR, OF SHU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 | `TET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TET-PILLAR, OR BACKBONE OF OSIRIS|TET-PILLAR, OR BACKBONE OF OSIRIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the four planes of manifestation below atma, produced by the Divine Will (Shu).
+
+> "Seb, the earth, and Nut, the sky. These deities were supposed to unite every evening, and to remain embraced until the morning, when the god Shu separated them, and set the goddess of the sky upon his four pillars until the [word unclear]."—[Budge?], *Egyptian Ideas*, etc., p. 94.
+
+Time (Seb) and Space (Nut) during the cycle of pralaya,—indrawal of the Divine Life,—are said to unite, or become one and unmanifest, until the opening of the next manvantara, when the Life again outpours, and the Divine Will (Shu) differentiates Time from Space, and by means of the creation of the four planes of matter establishes manifestation until the next period of withdrawal of the tide of Life.
+
+See [Bacass?], CHILDREN OF HORUS, EVENING, GATE (tchesert), HEAVEN AND EARTH, HETSEP, IRON PLATE, MORNING, NUT, [Rana?], SEB, SEPARATION, SHU, TET.
+
+**Corrections made:** `Egyptian Ideas` title restored; See-list spellings restored (`GaTE`, `Heaven AND EARTH`, `HeEtTsEP`, `Mornina`, `Nor`, `Ses`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `ey i a`; the author's name before `Egyptian Ideas` is lost in the OCR and `[Budge?]` is a guess. See-list items `[Bacass?]` and `[Rana?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

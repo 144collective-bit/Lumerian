@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agnishvatta-pitris
 headword: "AGNISHVATTA PITRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Prrris (solar)` | **unresolved** (review queue) |
 | `Sons OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the monads of life; the spiritual egos central in every soul, and of atma-buddhic nature. These are the "Sparks from the Flame,"—the Divine egos which render human souls immortal.
+
+> "As from a blazing fire consubstantial sparks proceed in a thousand ways, so from the imperishable Spirit various living souls are produced, and they return to Him again."—*Mundaka Upanishad*, II. 1, 1.
+
+> "The spirit of man contains a spark from the power and light of God."—[Behmen?].
+
+> "Only the 'little spark' of the soul is to be at all times with God and united with God."—Eckhart.
+
+> "What is clear to my mind is that every individual human soul is a detached, or seemingly detached, portion of the Universal Substance, and that all the powers of divinity are in it waiting to [be] revealed. ... We have come from the One; unto the One shall we return, but not empty-handed."—R. J. Campbell, *Serm.*, The Son of Man Ascending.
+
+See FIRE, FRAVASHIS, MANASAPUTRAS, MARUTS, MONAD (life), MUSPELL (sons), PITRIS (solar), SONS OF GOD, SPARKS.
+
+**Corrections made:** `80 from` → so from; `and_ they` → and they; `Upansshad` → Upanishad; `EcKHART` → Eckhart; `porous` → powers; `waiting to revealed` → waiting to [be] revealed; `CampBELL` → Campbell; page heading `AHANKARA` removed from mid-sentence; See-list spellings restored (`Fre`, `MANASAPUTRaS`, `Monap`, `Prrris`, `SPARES`).
+
+**Unclear or supplied:** `[Behmen?]`: the OCR attribution reads `Benen`, a damaged reading. `[be]` is supplied.
 
 ## Full OCR entry body (exact)
 

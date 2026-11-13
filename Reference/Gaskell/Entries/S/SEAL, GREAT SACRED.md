@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seal-great-sacred
 headword: "SEAL, GREAT SACRED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,32 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `RUAH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the Archetypal Man, the Prototype of Humanity.
+
+> "Atzeel-ooth is the Great Sacred Seal, by means of which all the worlds are copied which have impressed on themselves the image on the Seal; and as this Great Seal comprehends three stages, which are three prototypes of Nephess (the vital spirit or soul), Rua'h (the ethical and reasoning spirit) and the Neshamah (the Highest Soul of man), so the Sealed have also received three prototypes, namely, B'ree-ah, Ye'tzeer-ah, and A'seey-ah, and these three prototypes are only One in the Seal."—I. Myer, *Qabbalah*, p. 321.
+
+Atma-buddhi-manas, organised by the process of Involution, is the Archetypal Man, or Divine Image, from and by means of which all human souls (worlds) are produced as potential copies having impressed on their very nature the image of their Divine Progenitor. And as the Great Archetypal Soul comprehends in Itself three prototypal co-ordinated states of being, which are the astral body of desire (Nephesh), the mental body of thought and moral [rule?] (Rua'h), and the causal-body as the vehicle of the Individuality—atma-buddhi—(Neshamah), so the emanated souls are also possessed of three potential states, namely, the mental-nature (B'ree-ah), the desire-nature (Ye-tzeer-ah), and the physical-nature (A'seey-ah); and these three natures constitute the Personality, which is the imperfect image below of the perfect Individuality above. The Personality when perfected becomes one with the Individuality on the higher planes.
+
+> "Philo, however vague and uncertain some of his thoughts may be, is quite distinct and definite when he speaks of the Logos as the Divine Thought which like a Seal is stamped upon matter and likewise on the mortal soul. Nothing in the whole world is to him more Godlike than man, who was formed according to the image of God, for, as the Logos is an image of God, human reason is the image of the Logos. But we must distinguish here, too, between man as part of the intelligible, and man as part of the visible world. The former is the Perfect Seal, the perfect idea or ideal of manhood, the latter its more or less imperfect multiplication in each individual man."—Max Müller, *Theosophy, etc.*, p. 409.
+
+> "As there was a previously existing idea of the particular mind, and also [of?] the indivisible minds, to serve as an archetype and model for either; and also a pre-existent idea of particular sensation, being, so to say, a sort of Seal which gave impressions of forms, before particular things perceptible by the intellect had any existence, there was a pre-existent abstract idea."—Philo, *Works*, Yonge, Vol. IV. p. 57.
+
+> "The bone and flesh which possess no writing are wretched, but, behold, the writing of Unas is under the Great Seal, and behold it is not under the little seal."—Budge, *Egyptian Magic*, p. 124.
+
+The personalities who are without the inner guidance of the Spirit are in wretched plight. But, observe, the perfected soul is under the guidance of the Higher Self, and not under that of the lower self.
+
+> "The seal shall be restored as clay, and shall stand as a garment" (Job xxxviii. 14). For the Lord made man, whom He fashioned after His own likeness, as a kind of seal of His power. But yet it shall be restored as clay; because. . . he is condemned by the death of the flesh, in punishment of the pride he has committed. For man, who has been formed from clay and adorned with the likeness of the Divine image, having received the gift of reason, forgets, when swelling with pride of heart, that he was formed of the basest materials. . . . And because he lost the likeness of God by sin, but returns by death to his own clay, it is rightly said, 'The seal shall be restored as clay.' For our clay to 'stand as a garment' is for it to remain empty and stripped off, even till the time of the resurrection." "And having been a 'seal,' it appeared as 'clay' in the eyes of the Truth, when it lost, through the wickedness of impiety, the mysteries of the Word which it had received, and chose to savour only of the things of earth, which pollute."—St. Gregory, *Morals on the Book of Job*, Vol. III. pp. 316, 307.
+
+> "The true ground of certainty lies in this, that you have the Spirit in your heart, operating its own likeness, and moulding you, sealing you, after its own stamp and image."—A. Maclaren, *Sermons*, 1st Series, p. 47.
+
+See ARC. MAN, ASEEYATIC, ATZELOOTHIC, BOOK (God), BREEATIC, EVOLUTION, IMAGE, INDIVIDUALITY, INVOLUTION, MACROCOSM, MICROCOSM, NEPHESH, NESHAMAH, PERSONALITY, PROTOTYPES, RUAH.
+
+**Corrections made:** `Rua@'h` → Rua'h; `atmabuddhi` → atma-buddhi; `mentalnature` → mental-nature; `al` → all; `oi` → of; `cf` → of; `visibk` → visible; `Jess`/`multiphcation` → less/multiplication; `Pur` → Philo; `Bunpce` → Budge; `timo of tho` → time of the; `hecause` → because; `ite` → its; See-list spellings restored (`Arc.`, `Evo­LUTION`, `Imace`, `INDiIvipuatity`, `Macrocosm`, etc.); page headings `662 SEAL` and `SEALED` removed; stray `a` before "particular things perceptible" dropped.
+
+**Unclear or supplied:** `[rule?]`: OCR reads "moral rue". `[of?]`: OCR reads "also ¢ the indivisible minds".
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-simeon-who-waited-for-the-consolation-of-israel
 headword: "SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `IsRaELITeEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `S1en` | **unresolved** (review queue) |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an inner mental state or type of soul subjectively perfected, who knew that salvation was at hand, for the lower qualities (Israel) needed a Saviour.
+
+> "And Simeon blessed them, and said unto Mary his mother, Behold this child is set for the falling and rising up of many in Israel; and for a sign which is spoken against."—LUKE ii. 34.
+
+And the type "Simeon" was in accord with the purified lower nature (Mary), and was able to impart to it his own spiritual discernment. He pointed out that this birth of Christ in the soul is set as a critical factor in the descent and ascent of the Spirit into and through matter, whereby the qualities are raised, and the aim is the attainment of Christhood in all qualities. The Christ stands to the qualities as an opponent of ignorance and desire, and is therefore "spoken against" by the lower nature.
+
+See ANNA, ASITA, BIRTH OF JESUS, ISRAELITES, SIGN, VIRGIN MARY.
+
+**Corrections made:** `ignorSIMORG ance` → ignorance (page heading `SIMORG` removed); `IsRaELITeEs` → ISRAELITES; `S1en` → SIGN; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

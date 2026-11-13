@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bull-man-headed
 headword: "BULL, MAN-HEADED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GRIFFIN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GRIFFIN|GRIFFIN]] |
 | `KaRSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the archetypal union of the higher and lower natures in the Soul,—the Triad above the Quaternary.
+
+> "Gopaito-shah is in Airan-vaego, within the region of Khvaniras. From foot to mid-body he is an ox, and from mid-body to the top he is a man. And at all times he sits on the seashore, and always performs the ceremonial of the sacred beings, and pours holy water into the sea (for the destruction of noxious creatures)."—*The Mainog-i Khirad*, Ch. LXII. 31-34. S. B. of E.
+
+The soul comprises all potencies from the buddhic plane to the physical plane on the present earth globe. The "four-limbed ox or bull" signifies the lower quaternary, and the superior human part, the higher triad,—atma-buddhi-manas. The Soul is seated on the astro-mental plane (sea-shore), and inaugurates the process of purification of the mental qualities which have in them the sacred germ of Divine life, and outpours truth upon the astral plane (sea) for the destruction of the desires.
+
+See ARYANA-VAEJO, GRIFFIN, KARSHVARES, QUADRUPED.
+
+**Corrections made:** `isin` → is in; `midbody` → mid-body; `site` → sits; page heading `BULLS` removed from mid-sentence; `Mainog-+ Khirad` → Mainog-i Khirad; `astra!` → astral; `atmabuddhi-manas` → atma-buddhi-manas; `KaRSHVARES` → KARSHVARES; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

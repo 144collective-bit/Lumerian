@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-idolatry
 headword: "IDOLATRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the worship of conventional and false ideas put in the place of the true, the beautiful, and the good.
+
+> "The superstitions of all religions—Catholic or Protestant, Christian or Pagan, Jew or Gentile—differ more in name than in reality. For there are idols of the mind which take the place of visible images: idols of tradition, of language, which come between us and God; idols of the temple too, in which good and evil seem to be inseparably blended, and the good is near and present, and the evil is only recognised in some fatal but distant consequences."—[word unclear], *Serm.*, *Image of the Invisible*.
+
+See PRIESTS AND ELDERS, TRADITION.
+
+**Corrections made:** `d and evil` → good and evil; `lended` → blended; `recogni` → recognised.
+
+**Unclear or supplied:** The author's name before `Serm.` is lost (OCR `aoe`). `good` and `recognised` complete OCR fragments `d`, `recogni`. A full stop is supplied after the title (OCR runs into "See").
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chest-or-coffer-arca-of-osiris
 headword: "CHEST, OR COFFER (ARCA), OF OSIRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `NIZE` | **unresolved** (review queue) |
 | `Panpora` | **unresolved** (review queue) |
 | `WEEPING OF ISIS. 149 CHILD ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental vehicle of the soul, in which the indwelling Self (Osiris) is confined. It may be regarded as a sheath of mental matter enveloped in astral matter, and containing the potential and latent Archetypal Man on the higher planes inward.
+
+> "After this they carried the chest away to the river side, and out to sea by the Tanaitic mouth of the Nile; which for this reason is still held in the utmost detestation by the Egyptians."—Plutarch, *Isis and Osiris*, § 13.
+
+The sending forth to sea signifies the descent of the World-soul upon the lower planes, and its submergence in the astral tide of desire. Its passage through the Tanaitic mouth is a symbol that the Soul has ceased to be relatively at the mercy of the desire-nature, which is regarded by the educated mind (Egyptians) as abhorrent.
+
+See ARCH. MAN, [Aso?], COLUMN, DEATH OF OSIRIS, EGYPTIANS, NILE, PANDORA, WEEPING OF ISIS.
+
+**Corrections made:** `Osirls` → Osiris; `lt` → It; `putential` → potential; `Puvrancu` → Plutarch; page headings `CHILDREN` and `149 CHILD ;` removed; See-list spellings restored (`EGyYPTIaAns`, `NIZE`, `Panpora`).
+
+**Unclear or supplied:** `[Aso?]` is a damaged See-list item that could not be identified. `NILE` is read from `NIZE`; `ARCH. MAN` is read from `Arc. MAN`.
 
 ## Full OCR entry body (exact)
 

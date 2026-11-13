@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lotus-water-lily
 headword: "LOTUS, WATER LILY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom. The buddhic nature is that of Truth (water) and Beauty (flower).
+
+> "[word unclear] [word unclear] Water-lilies symbolise the free [expan?]sion of all the treasures of God. We notice four things in the water-lily. It keeps always above the water, and has four green leaves between the air and the water; and it is rooted in the earth, and above it is opened out to the sun."—Ruysbroeck, Stoddart's trans., p. 52.
+
+> "He who, having entered the inner lotus of the heart, devours food, the same having gone to the sky as the fire of the sun, called Time, and being invisible devours all beings as his food. . . . That lotus is the same as the ether: the four quarters, and the four intermediate points are its leaves."—*Mait. Upanishad*, VI. 2.
+
+The indwelling Self being liberated from the lower nature enters the buddhic vehicle and partakes of the fruit of his experience,—wisdom and love; then having passed higher to the plane of atma at the end of the cycle, and becoming unmanifest, all qualities and beings become absorbed within Him. That buddhic nature is of the spiritual tree of Life, whose leaves may represent the lower quaternary and its centres of consciousness.
+
+> "The lotus plant was as sacred with the [Egyp]tians as with the Indians. According to Rougé, it was the symbol of the new birth; but Lepsius considers that it was the symbol of inexhaustible life."—Barlow, *Essays on Symbolism*, p. 32.
+
+See [ASTHER?], BUDDHI, CHILDREN OF HORUS, [Firr?], FLOWERS, FOOD, FOOTSTEPS OF BUDDHA, HEART, PLANTS, QUARTERS, QUATERNARY, SUN.
+
+**Corrections made:** `Ruyssrorck` → Ruysbroeck; `pointe` → points; `Rouge` → Rougé; `Baxtow` → Barlow; the word `we` is returned to "God. We notice"; page heading `BROTHER'S LOTUS` removed from mid-quotation; See-list spellings restored (`BuDpDHI`, `HokvS`, `Ftowrers`, `Foon`, `FoorSTEPS`, `HEaRT`).
+
+**Unclear or supplied:** The OCR opens the first quotation with the stray fragment `ind or we`; it is shown as `[word unclear] [word unclear]`, with `we` returned to its place later in the quotation. `[expan?]` for OCR `free sion`. `[Egyp]` is supplied for OCR `tians`. See-list items `[ASTHER?]` (probably ÆTHER or ETHER) and `[Firr?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

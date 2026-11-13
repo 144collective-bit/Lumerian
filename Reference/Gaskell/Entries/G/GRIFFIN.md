@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-griffin
 headword: "GRIFFIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |
 | `WInacs. GROUND:` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher and lower planes on which the Higher Self manifests.
+
+> "Apollo, whose car we may sometimes see drawn by griffins, was properly the symbol of Christ, and in this sense is introduced by Dante in the procession of the church. The eagle's head and wings represent the divine nature; the lion's body the human nature."—H. C. Barlow, *Essays on Symbolism*, p. 76.
+
+See APOLLO, BULL (man-headed), EAGLE, LION, QUADRUPED, SPHINX, WINGS.
+
+**Corrections made:** `symbol]` → symbol; `BagLow` → Barlow; See-list spellings restored (`Butt`, `EaGtE`, `WInacs`); page heading `GROUND:` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

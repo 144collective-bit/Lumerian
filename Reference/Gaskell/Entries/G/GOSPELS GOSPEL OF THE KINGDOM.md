@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gospels-gospel-of-the-kingdom
 headword: "GOSPELS GOSPEL OF THE KINGDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `NATIONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine message to the soul to make things below perfect, as their prototypes above are perfect.
+
+> "And this gospel of the kingdom shall be preached in the whole world for a testimony unto all the nations; and then shall the end come."—Matt. xxiv. 14.
+
+The "gospel of the kingdom" is the spiritual "book of life" which sets forth the course of the evolution of the soul; it contains the history of "just men made perfect" in all their qualities (nations). The end must arrive for all that is less than perfection.
+
+> "Basilides added, that the life of Christ was the beginning of a progressive shaping and forming of the individual souls of believers, as thoughts of God, out of the shapeless form of unconscious material or psychical existence. . . . The history of mankind is the type of the evolution of creation."—Bunsen, *Hippolytus*, etc., Vol. I. p. 120.
+
+See BOOK, CREATION, DAY AND JUDGMENT DAY, NIGHT, IMAGE, KINGDOM OF HEAVEN, NATIONS, PROTOTYPES, QUALITIES.
+
+**Corrections made:** `4 testimony` → a testimony; `Mar.` → Matt.; `end forming` → and forming; `Boox` → BOOK; `BuNsEN` → Bunsen; quotation marks normalised.
+
+**Unclear or supplied:** `Mar.` corrected to Matt. on the strength of the quoted text (Matt. xxiv. 14).
 
 ## Full OCR entry body (exact)
 

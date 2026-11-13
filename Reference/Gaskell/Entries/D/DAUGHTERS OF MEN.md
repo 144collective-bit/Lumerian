@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daughters-of-men
 headword: "DAUGHTERS OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
 | `SONS AND DAUGHTERS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS AND DAUGHTERS|SONS AND DAUGHTERS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower affections and emotions which proceed from minds united with desires.
+
+> "The sons of God saw the daughters of men that they were fair; and they took them wives of all that they chose."—Gen. vi. 2.
+
+The Egos or ideals in the mind identified themselves with the sense-objects, and so affection for the things of desire was set up, and hence illusion was produced. The "taking of wives" is the seeking by the Egos for the Self through the taking of forms, or bodies.
+
+> "Men are certain minds or thoughts; and a host of thoughts are now discerned to be alive within us; their 'daughters' are the affections springing from them."—A. Jukes, *Types of Genesis*, p. 108.
+
+> "In the days when the sons of God came down to the daughters of men. Under this descent some have supposed that there is an enigmatical reference to the descent of souls into bodies, taking the phrase 'daughters of men' as a tropical expression for this earthly tabernacle."—Origen, *Comm. on John*, Bk. VI, § 25.
+
+See CHILDREN OF MEN, MAN, NEPHILIM, SONS AND DAUGHTERS, SONS OF GOD.
+
+**Corrections made:** `sense-objecte` → sense-objects; `Maw` → MAN; `JUKES`, `ORIGEN` capitalisation; `GEN.` → Gen.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

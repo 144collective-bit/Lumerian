@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arbours-festive
 headword: "ARBOURS, FESTIVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `AROHED GaTEWays. GREEKS` | **unresolved** (review queue) |
 | `Taz` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAZ, MAN, AND TAZAK, WOMAN, ON THE PLAIN OF THE TAZIKAN (ARABS)|TAZ, MAN, AND TAZAK, WOMAN, ON THE PLAIN OF THE TAZIKAN (ARABS)]] |
 | `57` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of virtues of the soul, which bring joy and satisfaction to the ego.
+
+See ARCHED GATEWAYS, GREEKS, [Taz?].
+
+**Corrections made:** `AROHED GaTEWays` → ARCHED GATEWAYS; page number `57` removed from the end; full stop supplied after `ego`.
+
+**Unclear or supplied:** `[Taz?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

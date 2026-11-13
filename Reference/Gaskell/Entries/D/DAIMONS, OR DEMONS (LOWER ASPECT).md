@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daimons-or-demons-lower-aspect
 headword: "DAIMONS, OR DEMONS (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 | `HEALING. RaksHAsas` | **unresolved** (review queue) |
 | `SERPENTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desires which coalesce with thought and contain energies directed to the external world. Also the appetites, passions and illusions of the lower nature.
+
+> "Those species of the daimons which continue in the quality of their own class,—these love men's rational nature, and are called daimons proper."—*The Perfect Sermon*, V., Hermes.
+
+> "One alone is Good, whose free utterance is His manifestation through His Son; it is by Him alone that the heart can become pure, when every evil essence has been expelled from it. Now, its purity is prevented by the many essences which take up their abode in it, outraging it in divers fashions. . . . Thus it is with the heart so long as it has no care taken of it, ever unclean and the abode of many daimons" (Valentinus).—Clem. Alex., *Strom.* II. 20, 114.
+
+See ANIMALS, ASURAS, BEASTS, DAEVAS, DEMONS, DEVILS, HARPIES, HEALING, RAKSHASAS, SERPENTS.
+
+**Corrections made:** page heading `DAHAKA` removed from mid-sentence; `CLEM. AtEx.` → Clem. Alex.; `Darvas` → DAEVAS; `Devirs` → DEVILS; `HEALING. RaksHAsas` → HEALING, RAKSHASAS.
+
+**Unclear or supplied:** `Darvas` is read as DAEVAS (a headword in this volume).
 
 ## Full OCR entry body (exact)
 

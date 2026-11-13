@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rule-nations-with-a-rod-of-iron
 headword: "RULE NATIONS WITH A ROD OF IRON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Inon` | **unresolved** (review queue) |
 | `NAatTIons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `RopD OF CORRECTION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROD OF CORRECTION|ROD OF CORRECTION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spirit disciplining the qualities (nations) through the mental (iron) activities which control the lower emotions and desires.
+
+> "To rule with a rod of iron signifies to rule by rational [words unclear] from the light of nature."—Swedenborg, *Apoc. Rev.*, n. 544.
+
+See IRON, NATIONS, ROD OF CORRECTION.
+
+**Corrections made:** `SwEDENBORG` → Swedenborg; See-list spellings restored (`Inon`, `NAatTIons`, `RopD`).
+
+**Unclear or supplied:** OCR reads `rational a ents wn from`; probably "arguments drawn" but not recoverable with confidence, so marked `[words unclear]`.
 
 ## Full OCR entry body (exact)
 

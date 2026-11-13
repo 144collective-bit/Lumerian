@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pool-of-bethesda
 headword: "POOL OF BETHESDA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `PorcHes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PORCHES, FIVE|PORCHES, FIVE]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition or perception of the truth.
+
+> "Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches. In these lay a great multitude of impotent folk, of blind, halt and withered, waiting for the moving of the water."—John v. 2, 3.
+
+Near Jerusalem,—the "City of the Great King,"—that is, the causal-body, the seat of the Higher Self, is the "sheep market," which is the state where "sheep" or living truths are got in exchange for "money" their lower equivalent, i.e. for desires and sense-objects. The "pool" signifies mental enlightenment by intuition. "Bethesda" signifies a state of bliss, because enlightenment is the haven of rest for those who have outgrown the tribulations and fetters of the "flesh." The "five porches" are the five senses, and the "impotent folk" are the qualities who put their trust in the senses. The "water" is the perception of truth. The qualities wait until their intuitions are stirred.
+
+See BETHESDA, CAUSAL-BODY, CITY, CROSS, HEALING, JERUSALEM, [Mal. SHAN?], PORCHES, SHEEP, WATER.
+
+**Corrections made:** `a at multitude` → a great multitude; `JoHN` → John; `causalbody` → causal-body; See-list spellings restored (`Crry`, `HraLiInc`, `PorcHes`).
+
+**Unclear or supplied:** `[great]` was supplied from the OCR `at` (read as "great"); it is the standard text of John v. 3. `[Mal. SHAN?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

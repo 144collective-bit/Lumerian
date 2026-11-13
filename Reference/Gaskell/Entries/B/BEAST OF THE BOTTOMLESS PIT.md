@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beast-of-the-bottomless-pit
 headword: "BEAST OF THE BOTTOMLESS PIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Pr` | **unresolved** (review queue) |
 | `SERrenw (hissing)` | **unresolved** (review queue) |
 | `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mind which is the adversary of the Spirit. It is energised by the desire-nature never satisfied, i.e. "bottomless."
+
+> "Here is wisdom. He that hath understanding, let him count the number of the beast; for it is the number of a man: and his number is Six hundred and sixty and six."—Rev. xiii. 18.
+
+He that hath knowledge of the higher and lower planes in the structure of the soul, knows what constitutes man in his lower nature; and this lower nature is the animal-man, or the "beast" in man. "Six" is a number of completion, and 666 indicates completion of nature on the three lower planes, i.e. the lower mental, astral, and physical planes, embodied, or "beast." [It should be] remembered that the human consciousness is on the mental plane only.
+
+See BOTTOMLESS PIT, DEVI, [PR?], SERPENT (hissing), WITNESSES (two).
+
+**Corrections made:** `heth` → hath; `Rrv.` → Rev.; `Imowledge` → knowledge; page heading `BEASTS` removed from mid-sentence; See-list spellings restored (`Borromiess pir`, `Dsvi`, `SERrenw`).
+
+**Unclear or supplied:** `[It should be]` is supplied: the OCR begins the sentence `remembered that`. `[PR?]` is an unidentified See-list item (OCR `Pr`).
 
 ## Full OCR entry body (exact)
 

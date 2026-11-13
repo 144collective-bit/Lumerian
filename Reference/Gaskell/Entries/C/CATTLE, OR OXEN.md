@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cattle-or-oxen
 headword: "CATTLE, OR OXEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `EartTH` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of those emotions of the lower nature, which are under control of the higher nature; or of the higher desires among the astral qualities, wherein buddhi is reflected through the desire-nature.
+
+> "And God said, Let the earth bring forth the living creature after its kind, cattle and the creeping thing, and beast of the earth after its kind: and it was so."—Gen. i. 24.
+
+And again the Divine nature directs that the lower nature of the soul shall bring forth that which is first in order, namely, the natural qualities. The "cattle" symbolise obedience and docility to higher rule: the "creeping thing," cunning and subtlety: and the "beast of the earth," animal instinct: and so involution proceeds without struggle or strife in perfect order and entirety.
+
+See ANIMALS, BEASTS, CREATURES, CREEPING THINGS, EARTH, GOLDEN AGE, OX.
+
+**Corrections made:** `QGEN.` → Gen.; `directe` → directs; `EartTH` → EARTH; `Ox` → OX; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

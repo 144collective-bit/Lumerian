@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-baptism-of-water
 headword: "BAPTISM OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,36 @@ tags:
 | `WasHED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WoMAN (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of purification of the soul-qualities by Truth (water), effected through development of the moral nature.
+
+> "Go ye therefore and make disciples of all the nations, baptising them into the name of the Father, and of the Son, and of the Holy Ghost."—Matt. xxviii. 19.
+
+A command which is full of the spirit of Christ. The disciplined qualities must extend their influence to the more backward qualities of all kinds, and bring about their purification through the attuning of the nature upon the three lower planes whereby the evolution of the soul is to be accomplished.
+
+> "The Lord washes or purifies man by the divine truth and the divine good; and John represented this by his baptism; for the Holy Spirit is divine truth, fire is divine good, and water is the representative of both; for water signifies the truth of the Word which becomes good by a life according to it."—Swedenborg, *Apoc. Rev.*, n. 378.
+
+> "He bathes. For impure indeed is man: he is foul within, in that he speaks untruth;—and water is pure."—*Sata. Brâh.*, III. 1, 2, 10.
+
+The mind acquires truth; for the mind at first is ignorant and full of illusions and evil while desire rules the soul; and it is truth (water) that purifies.
+
+> "'We are all of us under the dominion of evil and sin because we are children of the water,' says the ancient Mexican formula of baptism, and Citatli and Athi, 'moon' and 'water' are constantly confounded in Aztec mythology."—*Nonclassical Mythology*, p. 117.
+
+In this statement the "water below" is meant, namely, the astral plane on which the desires are developed in the lunar cycle. The "moon" is a common symbol of the astral plane, as also is "water." The personality is developed on the astral plane, hence we are "children of the water," at first under the rule of the desires.
+
+> "High principle, which is, in other words, the baptism of John, is the very basis on which is most naturally raised the superstructure of religious faith."—F. W. Robertson, *Sermons*, 1st Series, [page unclear]
+
+> "[passage unclear] John's disciples come up out of Jordan, at the best but superficially cleansed, and needing that the process begun in them should be perfected by mightier powers than any which his message wields. They need more than that outward washing,—they need an inward cleansing; they need more than the preaching of repentance and morality,—they need a gift of life; they need a new power poured into their souls, the fiery stream of which, as it rolls along, shall seize and burn every growth of evil in their natures. They need not water, but Spirit; not water, but Fire. They need what shall be life to their truest life, and death to all the death within, that separates them from the life of God."—A. Maclaren, *Sermons*, 2nd Series, p. 236.
+
+> "Baptism is the declaration that this new-born life, which seems only a new-born animal, has in it, bound up with it, a divine nature. Baptism is the claiming of that nature. It is the assertion of the regeneration, the [more?] and higher birth, the birth from heaven which is coincident with the birth from earth, and which is to use the physical basis for its servant, and its power of development."—Phillips Brooks, *Mystery of Iniquity*, p. 244.
+
+See DISCIPLES, HOMA-TREE, I AM BULL, JOHANNA, JOHN BAPTIST, NATIONS, [POORS?] (goddess), RITES, SACRAMENT, SUDDHODANA, TCHESERT, WASHED, WATER, WOMAN (adultery).
+
+**Corrections made:** `Mart.` → Matt.; `Ghoat` → Ghost; `baptis:` → baptism;; `Bréh.` → Brâh.; `firat` → first; `astra` → astral; `wnar` → lunar; `newborn` → new-born; `ore and higher` → [more?] and higher; `PxHILLIrs Brooxs` → Phillips Brooks; See-list spellings restored (`Discretes`, `Homa-Tres`, `Rrrss`); page heading `BAPTISM` removed from mid-sentence; stray `©` and `@` removed; quotation marks normalised.
+
+**Unclear or supplied:** The Robertson reference is damaged (OCR `F. YS ROBERTSON, Sermons, let Series, < 7 ohn’s disciples`): read as F. W. Robertson, 1st Series, with `[page unclear]`, and the start of the Maclaren quotation lost (`[passage unclear]`, ending `John's disciples`). `[more?]` is a guess for `ore`. `[POORS?]` is a guess for `Poors`. `I AM BULL` kept as OCR `I am BULL`.
 
 ## Full OCR entry body (exact)
 

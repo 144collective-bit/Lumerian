@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ear-ear-or-hearing
 headword: "EAR EAR, OR HEARING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `SounD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental faculty in its passive aspect, receptive of ideas. It stands for trust in authority; reliance upon external guidance. Or, in a higher sense, the ear signifies receptivity to inward guidance and to the admonitions of the conscience as the voice of God.
+
+> "'He will open also their ear, to correct them, and will speak to them that they return from iniquity' (Job xxxvi. 10). To 'open the ear from iniquity,' is to lay open the understanding of knowledge. But a man is reproved, and his ear opened, when he feels within him a desire after eternal goods, and acknowledges the sins which he has outwardly committed." "To 'open the ear in tribulation' (Job xxxvi. 15) is to open the hearing of the heart by the affliction of blows. Tribulation then opens the ear of the heart, which this world's prosperity often closes."—St. Gregory, *Morals on the Book of Job*, Vol. III. pp. 176, 182.
+
+> "To the soul that is awakened, and that is made to see things as they are; to him God is what he is in himself, the blessed, the highest, the only eternal good, and he without the enjoyment of whom all things would sound but emptily in the ears of the soul."—J. Bunyan, *Christ a Complete Saviour*.
+
+See CAIAPHAS, CALF (MOLTEN), CONSCIENCE, HEARING, HIDING, NOISE, SOUND, TRADITION, VOICE.
+
+**Corrections made:** `Jos` → Job; `Grecory` → Gregory; `IIT.` → III.; See-list spellings restored (`ConSCIENCE`, `HeEaRING`, `HIpING`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

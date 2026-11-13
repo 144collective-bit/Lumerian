@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-babylon
 headword: "BABYLON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Ferrers` | **unresolved** (review queue) |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature of desire and sensation, which holds the soul in captivity.
+
+> "The old temple has been thrown down and despoiled, and the 'children of Israel' have been carried away captive to 'Babylon,'—the mystic name of the stronghold of Materialism. As it is written: 'The vessels of the House of the Lord'—that is, the doctrines of the Church—'great and small, and the treasures of the Temple and of the King and of the princes, were carried away to Babylon. And the enemies set fire to the House of God, and broke down the wall of Jerusalem,' that is, the Soul—'and burnt all her towers, and whatsoever was precious they destroyed.' (2 Chr. xxxvi. 19)."—*The Perfect Way*, Pref. to 1st ed., Kingsford & Maitland.
+
+> "All the vessels of gold and silver were five thousand four hundred. All these did Sheshbazzar bring [up with] them of the captivity that were brought up from Babylon unto Jerusalem."—Ezra i. 11.
+
+The higher qualities (gold and silver) were preserved in the soul above its lower experiences.
+
+See BONDAGE, CAPTIVITY, EXODUS, FETTERS, SUFFERING, TEMPLE.
+
+**Corrections made:** `lst ed.` → 1st ed.; `Knvasrorp & Marrianp` → Kingsford & Maitland; `2 Cur.` → 2 Chr.; `EzRa 1 11` → Ezra i. 11; `fom` → from; page heading `BACABS` removed from mid-sentence; See-list spellings restored (`Captivity`, `Exopvs`, `Ferrers`).
+
+**Unclear or supplied:** `[up with]` is supplied from the verse: the OCR reads `bring they of the captivity` (`they` read as `them`).
 
 ## Full OCR entry body (exact)
 

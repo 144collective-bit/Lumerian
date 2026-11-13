@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jackal-jabal-son-adah
 headword: "JACKAL JABAL, SON ADAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ADAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ADAH AND ZILLAH, WIVES OF LAMECH|ADAH AND ZILLAH, WIVES OF LAMECH]] |
 | `JUBAL` | **unresolved** (review queue) |
 | `PATRIARCHS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATRIARCHS OF GENESIS|PATRIARCHS OF GENESIS]]; [[Reference/Gaskell/Entries/P/PATRIARCHS PATH, EIGHT-FOLD|PATRIARCHS PATH, EIGHT-FOLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the germ stage of the transient emotions, produced by reflection and experience.
+
+See ADAH, JUBAL, PATRIARCHS.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

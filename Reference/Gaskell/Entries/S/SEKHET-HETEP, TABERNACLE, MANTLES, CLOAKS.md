@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sekhet-hetep-tabernacle-mantles-cloaks
 headword: "SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Coat` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/COAT AND CLOAK|COAT AND CLOAK]] |
 | `RamENT` | **unresolved** (review queue) |
 | `ROBES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental states of truth or error. Opinions, etc.
+
+> "Robes, mantles, and cloaks signify truths in common, because they are a common covering to the body. . . . By Elijah and Elisha the Lord was represented as to the Word, and therefore their mantle signified the divine truth of the Word in general."—Swedenborg, *Apoc. Rev.*, n. 328.
+
+See CLOTHING, COAT, RAIMENT, ROBES.
+
+**Corrections made:** `SwEDENBORBG` → Swedenborg; See-list spellings restored (`CLoruine`, `Coat`, `RamENT`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

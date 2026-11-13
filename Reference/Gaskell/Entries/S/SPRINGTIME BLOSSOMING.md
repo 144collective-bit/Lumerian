@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-springtime-blossoming
 headword: "SPRINGTIME BLOSSOMING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,20 @@ tags:
 | `ReEaions` | **unresolved** (review queue) |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the beginning of a new evolution of life from the higher mind plane of the next globe of the chain.
+
+> "O 'Great City' (Nut-urt)! I have come into Thee; I have comprehended my fullness; I have brought about the blossoming (Uskh) of the Springtime."—*Book of the Dead*, Ch. CX., Blackden.
+
+The causal centre is apprehended as the real beginning of the True life, and through it it is seen that the higher Selfhood is secured. The "blossoming of the Springtime" is a symbol of the Divine life which commences from the upper mental plane, after attainment of liberation from the planes below. It is the individuality which then proceeds on its course upward, the mortal personality having been dissipated.
+
+See AAT (waters), ASCETIC, ASRAMAS, CAUSAL, CHRIST'S SECOND COMING, CITY OF GOD, HEAVENLY SPRINGTIME, HORSE (white), INDIVIDUALITY, KARSHVARES, LIBERATION, ORDERS, PERSONALITY, PLANETARY CHAIN, REGIONS, RENOVATION, ROUND.
+
+**Corrections made:** `BLacKDEN` → Blackden; `Gop` → GOD; `HEAVENLY sPRINGTIME`, `Horse`, `ReEaions` restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

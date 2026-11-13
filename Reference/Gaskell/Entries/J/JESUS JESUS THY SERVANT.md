@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jesus-jesus-thy-servant
 headword: "JESUS JESUS THY SERVANT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `QuaLivizs` | **unresolved** (review queue) |
 | `SERVAND OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERVANT OF GOD|SERVANT OF GOD]] |
 | `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the awakening soul receptive of the grace of God.
+
+> "Jesus' being a generic name, with varieties such as Joshua and Jehoshua, it is requisite that it should be allocated to a particular described type before it may bear a symbolical meaning. The Didaché, in which the expression 'Jesus Thy servant' occurs, is a sort of moral dissertation upon the qualities. Reference to the co-ordinating principle,—Christ,—is rare. There is no biographical account of 'Jesus' for the simple reason, probably, that the idea of the Gospel drama had not yet arisen in the religious mind in connection with the name Jesus. When it did arise, Gospels and also detached sayings relating to 'Jesus' became very numerous indeed."
+
+> "As to the Eucharist, we give thanks in this wise. First for the chalice: We thank thee, our Father, for the Holy Vine of David, Thy servant, which Thou hast made known to us by Jesus Thy servant. Glory to Thee for evermore! For the bread: We thank Thee, our Father, for the life and the knowledge which Thou hast made known to us by Jesus, Thy servant. Glory to Thee for evermore! (Doctrine of the Apostles, a very ancient writing)."—Duchesne, *Christian Worship*, p. 52.
+
+The Divine Life (holy vine) within the natural man (David) is made known to the awakening soul; as also is the sustenance of goodness and truth (bread of heaven) which is bestowed in response to aspiration and effort.
+
+See ASPIRATION, BREAD, CHRIST, CUP, DAVID, GOSPEL STORY, GRACE, JESHURUN, JESUS OF GOSPELS, JESUS (mortal), JOB, QUALITIES, SERVANT OF GOD, VINE.
+
+**Corrections made:** `DucuEsner` → Duchesne; `SERVAND` → SERVANT; `QuaLivizs` → QUALITIES; `Cur`, `Davin`, `GosPEL sTORY` restored in See list; quotation marks normalised; and similar minor fixes.
+
+**Unclear or supplied:** The first quotation (from "Jesus' being a generic name") has no attribution in the OCR; it is set as a blockquote on the strength of its opening quotation mark.
 
 ## Full OCR entry body (exact)
 

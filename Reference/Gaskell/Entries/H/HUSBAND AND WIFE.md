@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-husband-and-wife
 headword: "HUSBAND AND WIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Wirz` | **unresolved** (review queue) |
 | `WILDERness` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of mind and emotion, or the mental-nature and the emotion-nature indissolubly united within the soul.
+
+> "Wives be in subjection unto your own husbands, as unto the Lord. For the husband is the head of the wife, as Christ also is the head of the church, being himself the saviour of the body."—Eph. v. 22.
+
+The emotions must be ruled and regulated by the mind in its higher ranges of thought. For the mind is the intelligence wedded to emotion, as the Self is wedded to the soul, and become the transmuter of the body of desire.
+
+See BISHOP, CHRIST, CHURCH, CONCEPTION OF CHILDREN, DIVORCE, MAN AND WIFE, MARRIAGE, WIFE, WILDERNESS, WOMAN.
+
+**Corrections made:** `emotionnature` → emotion-nature; `Erna.` → Eph.; `ita` → its; page heading `377 HUSKS` removed from mid-sentence; See-list spellings restored (`Bisuor`, `Curist`, `CourncH`, `ConCEPTION`, `Drvorce`, `Wirz`, `WILDERness`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

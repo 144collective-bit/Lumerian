@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-embalmment-of-the-body-of-osiris-by-anubis
 headword: "EMBALMMENT OF THE BODY OF OSIRIS BY ANUBIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 | `ARC. Mummy or osris` | **unresolved** (review queue) |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic that fresh means were provided for the perpetuation of manifested existence, and so on the physical plane the physical body (Anubis) was gradually built up as an external encasement of the soul.
+
+See ANDU, ANUBIS, ARC. MUMMY OF OSIRIS, OSIRIS.
+
+**Corrections made:** `AnpuU` → ANDU; `Mummy or osris` → MUMMY OF OSIRIS.
+
+**Unclear or supplied:** `ARC.` is as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

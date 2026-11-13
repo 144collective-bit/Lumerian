@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-image-of-god
 headword: "IMAGE OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -73,6 +74,58 @@ tags:
 | `Tyrr` | **unresolved** (review queue) |
 | `TzELEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TZELEM, DIVINE OR HOLY|TZELEM, DIVINE OR HOLY]] |
 | `WorLps (five)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This expression signifies a projection of the Divine nature on the two highest planes of the soul, and constitutes, when united with mind, the Archetypal Man energising as Love and Wisdom (atma-buddhi).
+
+> "And God said, Let us make man in our image, after our likeness: and let them have dominion over, etc. And God created man in his own image, in the image of God created he him; male and female created he them."—Gen. i. 26, 27.
+
+At this stage of involution, the Divine nature projects a likeness of itself upon the highest planes. This is the Divine Ray or Spark, which is a direct emanation of the Logos,—Atma-buddhi,—dual, male-female, and consequently spoken of as Us. The two Divine aspects united, are essential to the making of Man as a spiritual being. The Love and Wisdom principles (Atma-buddhi) united in mind (manas), are to have dominion over the feelings, ideas, actions, and the entire nature, including the lower mental nature. And so the Divine Will caused to be created the Archetypal Man in the image (microcosm) of the Divine fullness (Macrocosm), as the dual expression of Truth-Wisdom.
+
+> "Man made after the image of God. This is the Word of God, the first beginning of all things, the original species or the archetypal idea, the first measure of the universe."—Philo, *Works*, Yonge's trans., Vol. IV. p. 286.
+
+> "What is this image of God? It is the mind of God; for Christ is that Mind or Word to rule in us. The Man is Christ, the perfect mind of God. . . . This Man was created 'male and female,' that so he might be a perfect image of God. God is infinite Wisdom and Love: no [image?] of Him would be complete which did not express both."—A. Jukes, *Types of Genesis*, p. 40.
+
+> "But All-Father Mind, being Life and Light, did bring forth Man co-equal to Himself, with whom He fell in love, as being his own child; for he was beautiful beyond compare, the Image of his Sire."—Poimandres (Hermetic), 12.
+
+> "This image of God, which is found in all men, may be considered under three aspects: first, as a natural aptitude for loving and understanding God, which belongs to the nature of the mind and is common to all men; secondly, as actual and habitual knowledge and imperfect love, which is the conformity of grace; and thirdly, as that perfect love and knowledge which constitute the image of God in a State of Glory. The first is in all men, the second in the just, the third in the Blessed. . . . The [words unclear] of God [words unclear] the Divine Nature and the Trinity of Persons, inasmuch as in God Three Persons exist in One Nature."—T. Aquinas, *Comp. Summa Theol.*, p. 237.
+
+> "In every department of being, where the imperfect is found, the perfect pre-exists."—*Ibid.*, p. 129.
+
+> "As the soul is said to be of the breath of God, so it is said to be made after God's own image, even after the similitude of God. . . . This character the Holy Ghost, in the Scriptures of truth, giveth, only of man, of the soul of man; for it must not be thought that the body is here intended in whole or in part."—J. Bunyan, *Greatness of the Soul*.
+
+> "The Platonists called Dionysus 'Our Master,' for the mind in us is Dionysiacal and the Image of Dionysus."—Proclus, *Crat.*, LIX. 114, 82.
+
+This may be explained in the words of Tauler, where he speaks of,—
+
+> "the unseen depths of man's spirit wherein lies the Image of God."
+
+> "A conception which pervades the Midrash literature is that there is an 'upper' and a 'lower' Adam: a celestial man made strictly in the image of God, and a terrestrial man corresponding in detail to his [words unclear]."—Taylor, *Sayings of the Jewish Fathers*, p. 70.
+
+> "Irenæus says, 'What we had lost in Adam, namely our possession of the image and likeness of God, we recover in Christ.' Adam, however, is humanity; in other words, as all humanity is united and renewed through Christ, so also it was already summarised in Adam."—Harnack, *Hist. of Dogma*, Vol. II. p. 273.
+
+> "Wisdom, Love, and Truth are the principle or image of God" (P. P. [Quimby?] MS.).—[source unclear], *Life of Mrs.* [Eddy?]
+
+> "[words unclear] similitude of Him. And if he passes from himself as an image to the Archetype, he will then have the end of his progression."—[source unclear] 8, On the Good, or the One, § XI.
+
+> "Because of the constitution of Man in Elohim's likeness, the Man, i.e. the Perfect, Primordial, Ideation Man or Adam, comprises (in itself as the similitude of Elohim) all things, and admits all things to settle (be contained or arranged) in it."—I. Myer, *Qabbalah*, p. 138.
+
+> "The Life-Force which speaks in the soul in the language of duty, truth, and love, must have [word unclear] these things to begin with, or it could never have made us know them; and the wiser and older is the race the more plainly does the Life-Force speak of these. God and the Life-Force are one. To be in line with the Life-Force of the universe, to do the will of God, is to live in the spirit of the love that seeketh not its own. And he knows this best who gives himself for it most with unfaltering faith."—R. Campbell, *Serm.*, Jesus and the Life-Force.
+
+> "As the Bird-life builds up a bird, the image of itself, so the Christ-life builds up a Christ, the image of Himself, in the inward nature of man." "Observe the passive voice in these sentences: 'Begotten of God'; 'The new man which is renewed in knowledge after the Image of Him that created him'; or this, 'We are changed into the same Image'; or this, 'Predestinate to be conformed to the Image of His Son.'"—H. Drummond, *Natural Law*, etc., pp. 293, 310.
+
+> "That God is the true and supreme end of man we know by the simple fact that the end of man can lie only on true lines of himself, and all these lines lead directly and only to God. The end of his mind is Truth, the end of his feelings and affections is Love, the end of his will and activities is Goodness and Good: and the completeness and perfection of all these is God. No finite spirit, seeking and striving to be all itself, can will or conceive for itself anything short of the infinitely True, Beautiful and Good—infinite Wisdom, Virtue, Happiness—infinite Holiness, Righteousness, Life. God, so far as we can know Him, is the Infinite, Eternal, Perfect of ourselves, as we are the finite, incomplete, and imperfect of Him. If this is [words unclear] God in our own image, I admit it [and] justify it. It is the only way and form in which we can know God at all."—W. P. Du Bose, *Constructive Quarterly*, March 1913.
+
+> "Manhood itself may be regarded as the product of countless aeons of an evolutionary process; but if the evolution is to be considered from this point of view, and subjected to the theory of reality, which the religious consciousness insists upon assuming, then the process is a divine procedure, and its product a divine creation. Man's evolution, for religion, is but God's way of making man in the divine image. The psychological truth involved in the assumption of an essential likeness between the two—a certain Oneness which accounts for the duality; this is an assumption upon which is based the very existence of religion at all." . . . "Man makes God in man's image; because God has made man in the divine image. Man as he becomes more fully man, more of a rational and free personality, more worthily and truly conceives of God; but this is because God is himself [making?] man more and more like God."—G. [name unclear], *Phil. of Religion*, Vol. I. pp. 347,
+
+> "The great work of religion is to conform ourselves to God, or to unfold the divine likeness within us."—W. E. Channing, *Likeness to God*.
+
+See [As?], ADAM, [ARO. MAN?], ATZEEL, BREATH (divine), BUDDHIC PLANE, COSMOS, CREATION, CREEPING, EVOLUTION, FRAVASHI, GOD, GOOD (light), HEALING, HIGHER AND LOWER, IMPERIAL, INCARNATION, INVOLUTION, JESUS (son of God), MACROCOSM, MALE-FEMALE (divine), MAN AND WIFE, MICROCOSM, PLEROMA, PROTOTYPES, PURUSHA, SALVATION, [Seat?], SEED, [SMANIRUPES?], SON OF GOD, SOUL (highest), SOUTH WIND, SPARK, SPERMATIC WORDS, SUTRATMA, TREE OF LIFE, TRINITY, [TYPE?], TZELEM, WORLDS (five).
+
+**Corrections made:** `Grm.` → Gen.; `iteelf` → itself; `s direct` → a direct; `eas` → as; `TruthWisdom` → Truth-Wisdom; `Pxi1o` → Philo; `Pamandres` → Poimandres; `ali` → all; `ust` → just; `pre-existe` → pre-exists; `givet` → giveth; `aay Ghost` → Holy Ghost; `Platoniste` → Platonists; `Procivs` → Proclus; `Irenzeus` → Irenæus; `Hrarnack` → Harnack; `MyEr` → Myer; `langu` → language; `ife-Force` → Life-Force; `Drummonn` → Drummond; `feeli` → feelings; `sons` → aeons; `insiste` → insists; `ita` → its; `@` → a; `CHaNnNING` → Channing; page headings `IMAGE`, `385 IMAGE`, `IMHETEP` removed from mid-text; stray `Pre` after the Myer reference dropped; See-list spellings restored (`Gop`, `HEaLtiInG`, `Macrocosm`, `Microcosm`, `PurvusHa`, `Trinity` and others) and similar minor fixes.
+
+**Unclear or supplied:** Many damaged passages: `[image?]` (OCR `no i of Him`); `[words unclear]` in the Aquinas quotation (OCR `(eae of God ia /tan W aaeedine © dhs`), after "corresponding in detail to his" (OCR `et ea`), and before "similitude of Him" (the Quimby quotation is cut off and a new fragment begins; OCR `(P. P. i Infe of Mrs.`); `[Quimby?]` and `[Eddy?]` supplied from the damaged OCR; `[source unclear]` for the attributions of that fragment and its preceding quotation; `[word unclear]` after "must have" (OCR `n`); `[and]` supplied (OCR `I admit it justify it`) and `[words unclear]` for `eee or sito`; `[making?]` for OCR `arn`; `G. [name unclear]` (OCR `G. a6.`); the Tauler fragment and the Channing quotation are set as quotations from Gaskell's text; the Drummond quotation joins two quotations under one attribution; the quotation ending `pp. 347,` is as printed (page reference breaks off). See list: `[As?]`, `[ARO. MAN?]`, `[Seat?]`, `[SMANIRUPES?]`, `[TYPE?]` are uncertain readings (OCR `As`, `ARO. MAN`, `Seat`, `SmanirupEs`, `Tyrr`).
 
 ## Full OCR entry body (exact)
 

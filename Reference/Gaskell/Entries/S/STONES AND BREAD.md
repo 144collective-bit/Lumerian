@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stones-and-bread
 headword: "STONES AND BREAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `SACRED TEXT` | **unresolved** (review queue) |
 | `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The "stones" signify spiritual truths which are always very hard to apprehend. The "bread" is the bread of goodness,—the readily assimilated food of knowledge from experience of life, which man, the thinker, can daily incorporate in his being.
+
+> "But Jesus answered and said, It is written, man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."—Matt. iv. 4.
+
+But the indwelling Christ pointed out that the Divine law of the soul's well-being is written upon the heart. The soul cannot live by reason and experience only, but needs to possess direct spiritual truth emanating from within in order to live from God as the fount of Life eternal.
+
+See BREAD, INCARNATION, SACRED TEXT, TEMPTATION, WORD OF GOD.
+
+**Corrections made:** page heading `FOR` removed from mid-sentence; `Mart.` → Matt.; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

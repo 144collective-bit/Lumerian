@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guilty-persons
 headword: "GUILTY PERSONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
 | `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of anti-social qualities, such as hate, revenge, envy, malice, cruelty, etc., which become active in astro-mental forms in the lower nature of the soul.
+
+> "Guilty persons, even though he (the king) had sentenced them to death, he did not cause to be killed, nor even looked on them with anger; he bound them with gentle words and with reform produced in their character,—even their release was accompanied by no inflicted injury."—*Buddha-Karita*, Bk. II. 42.
+
+This refers to the involution of the lower passionate qualities,—hate, revenge, malice, etc., which though apparently abhorrent and condemned by the Higher nature to extinction, are not really doomed. Neither are they regarded as inferior nor useless, for they have their part in the Divine scheme. Through love and wisdom they can be transformed. They become gradually regulated and guided by the higher impulsions from above within the soul, and in process of time transmuted into higher qualities. Their purification, or release from the thraldom of the lower personality, involves in reality no harshness, severity, or sudden transition. It may be said of the method of purification, that "it is all triumphant art,—art in obedience to law"; without coercion and in accordance with love and wisdom. See ESTHER, EVIL, LAW OF REVENGE, MURDER, OPPOSITES, QUALITIES.
+
+**Corrections made:** `m their` → in their; `Budtha-Karita` → Buddha-Karita; page heading `GURU` removed from mid-sentence; See-list spellings restored (`EsTHer`, `Evin`, `LAw`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

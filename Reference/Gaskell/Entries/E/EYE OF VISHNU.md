@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eye-of-vishnu
 headword: "EYE OF VISHNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `STRIDES oF Urcgats` | **unresolved** (review queue) |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self seated on the atmic plane as the Individuality.
+
+> "The wise ever behold that highest step of Vishnu fixed like an eye in the heaven."—*Rig-Veda*, I. 22, 20.
+
+The perfected become conscious of the supreme Love and Truth on the highest plane,
+
+See STRIDES OF [UTCHATS?], VISHNU.
+
+**Corrections made:** page heading `EYES` removed from the end of the commentary; `oF Urcgats` → OF [UTCHATS?]; quotation marks normalised.
+
+**Unclear or supplied:** The commentary sentence ends without a full stop in the OCR (the page break falls there). `[UTCHATS?]` is read from OCR `Urcgats`, compared with `Urcuats`/`Urcuar` in nearby entries.
 
 ## Full OCR entry body (exact)
 

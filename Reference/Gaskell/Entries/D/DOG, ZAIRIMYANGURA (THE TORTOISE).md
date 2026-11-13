@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dog-zairimyangura-the-tortoise
 headword: "DOG, ZAIRIMYANGURA (THE TORTOISE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 | `ZAIRIMYANGURA. DOG` | **unresolved** (review queue) |
 | `§` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the opposite or negative will which has no discrimination and allows the higher impulses to pass unrecognised.
+
+See DAEVAS, TORTOISE, ZAIRIMYANGURA.
+
+**Corrections made:** `DaEvas` → DAEVAS; trailing page heading `DOG, §` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

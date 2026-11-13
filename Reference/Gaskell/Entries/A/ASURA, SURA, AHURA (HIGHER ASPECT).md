@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-asura-sura-ahura-higher-aspect
 headword: "ASURA, SURA, AHURA (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Gops` | **unresolved** (review queue) |
 | `VaRuNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `VEDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine energy expressed through the higher, or atma-buddhic, qualities of the soul.
+
+> "The name for gods in the Veda is not only deva, but likewise asura. This name, if derived from asu, breath, meant originally the living, he who lives and moves in the great phenomena of nature, or, as we should say, the living God. Certain Vedic gods, particularly Varuna, are in the Veda also called Asura in the good sense of the word. But very soon the Sanskrit asura took a bad sense, for instance, in the last book of the Rig-veda and in the Atharva-veda, and particularly in the Brâhmanas. Here we constantly find the Asuras fighting against the Devas."—Max Müller, *Theosophy*, etc., p. 181.
+
+The "gods" signify the higher qualities or ideals in the soul, and these "asuras" proceed from the outbreathing of the Divine Life on the buddhic plane. The astral plane contains the desires (asuras) which are of the same Divine Life, but work outwardly in the opposite direction to the spiritual life which tends inwardly.
+
+See BREATH (divine), COLCHIS, DEVAS, GODS, VARUNA, VEDA.
+
+**Corrections made:** `Brihmanas` → Brâhmanas; `gods"™` → gods"; See-list spellings restored (`BrearH`, `Gops`, `VaRuNA`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

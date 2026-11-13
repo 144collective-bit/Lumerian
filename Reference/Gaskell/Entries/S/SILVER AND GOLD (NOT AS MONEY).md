@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-silver-and-gold-not-as-money
 headword: "SILVER AND GOLD (NOT AS MONEY)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Maw (natural)` | **unresolved** (review queue) |
 | `MeTaLs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the mental qualities and the buddhic; or silver = moon, passive, and gold = sun, active.
+
+> "Surely there is a mine for silver, and a place for gold which they refine" (JOB xxviii. 1). In silver the power of speaking, in gold brightness of life or of wisdom is used to be denoted."—St. Gregory, *Morals on the Book of Job*, Vol. II. p. 343.
+
+> "The Alchemists held that the Divine Idea is always aiming at 'Spiritual Gold'—divine humanity, the New Man, citizen of the transcendental world,—and 'natural man' as we ordinarily know him is a lower metal, silver at [best?]."—E. Underhill, *Mysticism*, p. 169.
+
+See ALCHEMY, GOLD, [Lost (silver)?], MAN (natural), METALS, RACES.
+
+**Corrections made:** `Sr. Grereory` → St. Gregory; `E. UNDERHILL, Mysticism` normalised; `Maw` → MAN; `MeTaLs` → METALS; `Races` → RACES; quotation marks normalised.
+
+**Unclear or supplied:** `[best?]` is a guess at the damaged OCR `t.°`. `[Lost (silver)?]` is the See item as OCR printed it (`Lost (silver)`), which may be damaged.
 
 ## Full OCR entry body (exact)
 

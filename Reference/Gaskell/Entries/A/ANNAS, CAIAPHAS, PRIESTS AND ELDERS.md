@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-annas-caiaphas-priests-and-elders
 headword: "ANNAS, CAIAPHAS, PRIESTS AND ELDERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,26 @@ tags:
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 | `WITNESSES (false)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, FALSE|WITNESSES, FALSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of conventional ideas and empty religious notions, which distinguish sectarian systems.
+
+> "Now the chief priests and the whole council sought false witness against Jesus, that they might put him to death."—Matt. xxvi. 59.
+
+The "chief priests, etc." may stand for the "higher criticism" empty of Divine inspiration; and also respectively for the mouthpiece of a "creed outworn," and for its stereotyped, antiquated presentation. These mental states ignorantly seek for the living spirit among the dead forms of past history and present conventions; and these always attempt to put to death the object of their professed veneration. The "false witnesses" are the misinterpreted truths hidden under the letter: that is, they are the false notions which an exegesis of external illusions generates.
+
+> "Educated Christians know that 'inspiration' is no longer allowed by scholars any influence on interpretation. It cannot establish the truthfulness of any statement against the verdict of historical critics. . . . The modern Christian student ignores both inspiration and canonicity."—H. Hensley Henson, *Value of the Bible*, [Ess.?] p. 27.
+
+> "The science of Christian Apologetics has grown to enormous dimensions, its convincingness inversely proportional to its mass."—"Credo," *Hibbert Journal*, April, 1909.
+
+> "Religion is never intolerant, only the systems of religion; it is love of niche that rejects what is foreign to the system, while religion, on the contrary, abhors a bald uniformity, which would destroy her divine influence. It is only the adherents of the dead letter which religion rejects, who have filled the world with the clamour and uproar of religious controversies; the true contemplators of the Eternal were ever quiet souls, either alone with themselves and the Eternal, or, if they looked about them, conceding willingly to every one the kind of religion he chose" (F. D. E. Schleiermacher).—Pfleiderer, *Phil. of Religion*, Vol. I. p. 311.
+
+See ANNAS, ASSEMBLY, CAIAPHAS, CALF (molten), CHILDREN OF JERUSALEM, CONVERSION OF PAUL, FOOLS, HIGH PRIEST (lower), IDOL PRIEST, INSPIRATION, NINIGI, PHARISEES, PILATE, RELIGION, RITES, SCRIPTURES, TRADITION, TRIAL OF JESUS, WITNESSES (false).
+
+**Corrections made:** `ainst` → against; `Mart.` → Matt.; `HrNnsLEy HENSON` → Hensley Henson; `ite`, `ita` → its; `proportional]` → proportional; page headings `current PRINCES` removed from after the scripture reference; stray `|§` removed; See-list spellings restored (`CatF`, `Hiao priest`, `[DOL PRIEST`, `Prrate`, `Rexiaion`, `Rrres`); quotation marks normalised.
+
+**Unclear or supplied:** The essay reference after `Value of the Bible` is damaged (OCR `Eps. ey 27.`); `[Ess.?]` is a guess. `love of niche` is left as printed. The heading `current PRINCES` is taken as a damaged page heading.
 
 ## Full OCR entry body (exact)
 

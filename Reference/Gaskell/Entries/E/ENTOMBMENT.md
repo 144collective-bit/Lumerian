@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-entombment
 headword: "ENTOMBMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Re-srav` | **unresolved** (review queue) |
 | `CHRE` | **unresolved** (review queue) |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of detention of the Spirit in the lower nature.
+
+> "The Dark Night (of the Soul) brings the Self to the threshold of that completed life which is to be lived in intimate union with Reality. It is the Entombment which precedes the Resurrection, say the Christian mystics; ever ready to describe their life-process in the language of their faith."—E. Underhill, *Mysticism*, p. 480.
+
+See CROCODILE, [RE-STAU?], [CHRE?], TOMB.
+
+**Corrections made:** `UnpEraity` → Underhill; `Crocopiz` → CROCODILE; quotation marks normalised.
+
+**Unclear or supplied:** `[RE-STAU?]` and `[CHRE?]` are doubtful See-list items (OCR `Re-srav`, `CHRE`).
 
 ## Full OCR entry body (exact)
 

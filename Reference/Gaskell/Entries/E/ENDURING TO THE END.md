@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enduring-to-the-end
 headword: "ENDURING TO THE END"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CavaMiTres` | **unresolved** (review queue) |
 | `Door (narrow)` | resolved (exact) → [[Reference/Gaskell/Entries/D/DOOR, NARROW|DOOR, NARROW]] |
 | `PrRoPueEts (false)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This implies living in tune with the Infinite. For a quality, or individual soul, cannot endure to the end of the cycle unless it becomes in touch with the entire universe of which it is a fraction.
+
+See CALAMITIES, DOOR (narrow), PROPHETS (false).
+
+**Corrections made:** See-list spellings restored (`CavaMiTres`, `Door`, `PrRoPueEts`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

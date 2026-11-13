@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fravashis-prometheus-homa-juice
 headword: "FRAVASHIS, PROMETHEUS, HOMA-JUICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `SoMAa-JUICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `THRITA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THRITA, THE THIRD MAN|THRITA, THE THIRD MAN]] |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life to be acquired through aspiration, and sacrifice of the lower desires offered to the Ideal before the soul.
+
+> "Homa grows when being praised. So the man who praises him becomes more triumphant. The least extraction of Hom-juice, the least praise; the least tasting of it, O Homa! is sufficient for destroying a thousand of the daevas."—*Homa Yasht*, Haug, *Essays*.
+
+The Self within develops as his laws of growth are reverently observed. So the mind which diligently attends to the higher laws of its being rises in power. The least degree in which the Divine Life functions is so far the means of furthering the evolution of the Self and of overcoming the manifold negations and illusions of the lower planes.
+
+> "There is in all who are born into this world as part of mankind, a universal Life, and that life is God's life, latent in some, more formed in others, vivid and full in the best of the race, but absent from none. None are divorced from the Life of Truth and Love and Righteousness, none able finally to be divorced from it, and though that Life in the man, like Truth in the world, may run wild and run to evil, it will be sovereign in him in the end and perfect him, as Truth will be sovereign in the race. ... There is, indeed, a God with us—in our hearts. Believe in that, live in the truth that God is incarnating Himself in you, that His spirit is at one with yours. So that if you will, your thought and work and will may be God's thought and work and will. Worship God not only in yourselves in this truth, but live in it, and in its spirit among men, and your outward life will then be in it worship of God in spirit and truth."—Stopford A. Brooke, *Serm.*, God is Spirit.
+
+> "The Eternal indwells you now, though you cannot realise it; it is you, though your surface consciousness that you mistake for yourself keeps you ignorant of it. Man, what you know about yourself now is but a tiny fraction of the glorious reality that is visible to the eyes of God. He sees, he cares, he saves."—R. J. Campbell, *Serm.*, The Eyes Divine.
+
+See ASHA-VANUHI, ATONEMENT, BLOOD, CUP, DAEVAS, FORENOON, HYMNS, PRAJAPATI, PRAISE, SAP, SOMA-JUICE, THRITA, VITAL AIRS.
+
+**Corrections made:** Page heading `HOMA` removed from mid-sentence; `Hava` → Haug; `hearte` → hearts; `Sroprorp A. Brooxe` → Stopford A. Brooke; `¢e` → is; `u mistake` → you mistake; `CAMPBELL` → Campbell; See-list spellings restored (`Bioop`, `Cur`, `Darvas`, `FoRENOON`, `Hymns`, `Pracdpati`, `Praise`, `Sap`, `SoMAa-JUICE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

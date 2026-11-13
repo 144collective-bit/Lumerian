@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-foot
 headword: "FOOT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `RicHr root` | **unresolved** (review queue) |
 | `SanDaL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
 | `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of lower activities exercised in the course of the progress of the soul.
+
+> "Gavest thou the goodly wings unto the [peacock]? or wings and feathers unto the ostrich? Which leaveth her in the earth, and warmeth them in dust. And forgetteth that the foot may crush them, or that the wild beast may break them."—Job xxxix. 13-15.
+
+This refers to the state of ignorance and feebleness which the indwelling Self (Job) experiences when involved in matter. Nature is not designed to subserve the desires or the will of man. The external conditions necessitate effort and suffering from which there is no escape. The ambitions (wings) allure, but are not kindly; they are generated in the lower mind (dust), and in the soul's progress (foot) they may be frustrated, or the unruly desires (beast) may destroy them.
+
+> "What is understood by 'foot,' but the passing over of active work? What is signified by the 'field,' but this world? Of which the Lord says in the Gospels, 'But the field is the world.' What is expressed by the 'beast,' but the ancient enemy, who lying in wait for the spoils of this world is daily satiated with the death of men?"—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 487.
+
+See FEET, JOB, RIGHT FOOT, SANDAL, WALKING.
+
+**Corrections made:** `ke ?` → [peacock]?; `Jos` → Job; `fron` → from; `ray destroy` → may destroy; page heading `FOOTSTEPS` removed from mid-text; `Sr. Grecory` → St. Gregory; See-list spellings restored (`Fret`, `RicHr root`, `SanDaL`); quotation marks normalised.
+
+**Unclear or supplied:** `[peacock]` is a likely reading of OCR `ke` ("goodly wings unto the peacocks" in the Revised Version margin); uncertain, `[peacock]` is a guess.
 
 ## Full OCR entry body (exact)
 

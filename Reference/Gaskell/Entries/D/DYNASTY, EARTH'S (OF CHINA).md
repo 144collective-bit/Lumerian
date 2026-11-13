@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-of-china-18d33759
 headword: "DYNASTY, EARTH'S (OF CHINA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 aliases:
   - "S (OF CHINA)-8b11d9"
@@ -45,6 +46,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This means the formation of potential man at the commencement of the Mundane cycle, during which the astral vehicle with its mechanism is prepared, and the desire-nature involved.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

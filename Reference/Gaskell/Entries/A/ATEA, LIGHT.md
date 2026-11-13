@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atea-light
 headword: "ATEA, LIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TAAROA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Matter and Spirit.
+
+> "The Marquesas Islanders have a legend which relates that in the beginning there was no life, light, or sound in the world, that a boundless night Po enveloped everything, over which Tanaoa, which means 'darkness,' and Mutu-het, which means 'silence,' ruled supreme."—A. Fornander, *Polynesian Race*, Vol. I. p. 63.
+
+At the inception of the solar universe there was chaos, depth, formless matter, a tenuous concourse of atoms on the buddhic plane, without order and consciousness. Matter unthrilled by Spirit, and negation of life (Silence) pervaded space. (There is indication in the legends that "Tanaoa" sometimes denoted the Absolute, or potential Being (darkness), the source of all).
+
+See ABYSS, APITI, ATEA, BUDDHIC PLANE, CHAOS, DARKNESS, DEEP, NIGHT, PO, TAAROA, TANGAROA.
+
+**Corrections made:** `A. aa ae` → A. Fornander; See-list spellings restored (`Asyss`, `ApITI`, `CuHaos`, `Nicut`); quotation marks normalised.
+
+**Unclear or supplied:** The author's name in the attribution is damaged (OCR `A. aa ae`); read as Fornander from the matching entries. `Po` and `Mutu-het` are left as printed.
 
 ## Full OCR entry body (exact)
 

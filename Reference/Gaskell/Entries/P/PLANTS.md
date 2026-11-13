@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-plants
 headword: "PLANTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Soma` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]]; [[Reference/Gaskell/Entries/S/SOMA-JUICE SOLDIERS|SOMA-JUICE SOLDIERS]]; [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of simple instincts and feelings growing upward to the light.
+
+> "And both Matro and Matroyao changed from the shape of a plant into the shape of a man, and the breath went spiritually into them, which is the soul."—*The Bundahis*, Ch. XV. 6.
+
+The mind and emotion-principles undergo the transformation from the simple feelings and instincts into human ideas and emotions; and this being accomplished, the spirit of the one Self,—the Spark of the Divine Life,—entered in and became theirs. And so the human race was launched upon its evolution.
+
+> "Wherever the scattered seed pushed upward out of the dark bosom of the earth and unfolded itself in a plant, in its blossom and its fruit, Mani beheld the triumphant evolution of the principle of light, gradually working its way onward to freedom from the bondage of matter."—Neander, *Church History*, Vol. II. p. 214.
+
+> "Underneath the surface of the earth just now thousands of bulbs are beginning to be stirred by the breath of springtime. Hitherto they have lain buried and hidden in darkness and corruption, but they each hold enough of the life of the universe to be able to respond to the rays of the sun of heaven which penetrate to their prison-house. The time of summer flowers is not yet, but pale green shoots are ap[pear]ing above ground, and despite the set-backs of occasional frost and snow and biting winds, will grow and strengthen [till] they burst into bloom and become [full?] of the glory of the sunshine itself. [word unclear] do this [hast?] must free themselves from the earth while assimilating to their own higher ends all the good it has to give; or, rather, this is what the mysteriously operating universal life is already doing within them. And so it is with the soul. As Christ frees us from the bondage of the flesh we unfold into the light of God and reflect the eternal glory, assimilating to that end all the force and wisdom our earthly probation can supply. The struggle is not an evil; but to submit to our present conditions without a struggle, and without seeking to give expression to our latent divinity, would be an evil indeed."—R. J. Campbell, *Serm.*, *The Song of the Redeemed*.
+
+See BONDAGE, GOSHURUN, [Hemzs?], HOMA, LIGHT, LOTUS, MATRO, [Rv?], SEED (good), SEKER, SEPARATION, SOMA, TREE.
+
+**Corrections made:** page heading `PLEROMA` removed from mid-sentence; `ita blossom` → its blossom; `AHtetory` → History; `iteelf` → itself; `orce` → force; `ap ing` → ap[pear]ing; `t' they` → [till] they; `fr of` → [full?] of; See-list spellings restored (`BonpDaGE`, `GosHURUN`, `Licut`, `Lorus`, `Marro`).
+
+**Unclear or supplied:** In the Campbell quotation the OCR is damaged: `ap[pear]ing` and `[till]` are supplied; `[full?]` is uncertain; `[word unclear] do this [hast?] must` is garbled in the OCR and could not be recovered. `[Hemzs?]` and `[Rv?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

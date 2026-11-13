@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-of-christ
 headword: "BIRTH OF CHRIST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -63,6 +64,26 @@ tags:
 | `Woman (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `Woms or mAyA` | **unresolved** (review queue) |
 | `Worp` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the entrance into manifestation of the Word which was God, and was in the beginning with God unmanifest, namely, the Higher Self.
+
+> "But when the fullness of the time was come, God sent forth his Son made of a woman, made under the law, to redeem them that were under the law, that we might receive the adoption of sons."—Gal. iv. 4, 5.
+
+When the manvantara, or great cycle of existence, commenced, God the Father potential, the First Logos, sent forth his Only begotten Son, God actual, the Second Logos, as the Divine sacrifice to be involved in matter, the Word becoming flesh and dwelling among us. He, the Lord of all, and the life and the light of men, begotten of the Father—the Absolute, submitted to limitation under the Divine law, and descended into matter (woman) to become united with it and conditioned by it. (Matter is feminine—passive, adapted to receive and take impressions, and so is moulded and fashioned into forms for the life activities.) The object of the Divine sacrifice being the redemption of the souls; then afterwards in the period of evolution, there arise inner vibrations from the Spirit within the mind, which, once established, play upon the soul and so raise it. The soul therefore is gradually freed from the law of desire, and rising upward it unites itself with the Christ who gives salvation from the transitory life, and lordship over the lower planes. And so is fulfilled the liberty of the children of God.
+
+> "The Holy Spirit having entered into Matter, the world thus received its form and motion. The Holy Spirit is present also in those who fell to earth, as the power which shall raise them up again to Heaven" (Synesius of Cyrene).—Ueberweg, *Hist. of Philos.*, Vol. I, p. 349.
+
+> "The work of Christ in the soul is one with the work of Christ in the world of worlds, a cosmic sacrifice, and a new spiritual creation. If he had failed in the greater he could not accomplish the less."—R. J. Campbell, *Serm.*, *Christ Arisen*.
+
+> "For Eckhart, the forthcoming of God is in this wise. The Godhead, 'the unnatured Nature,' in an 'Eternal Now,' beholds Himself, i.e. becomes an object of consciousness to Himself, and thus He becomes revealed to Himself. This is the beginning of the process of revelation. This is called 'the begetting of the Son,' the uttering of the Divine 'Word.' When God becomes conscious of Himself, there is differentiation into subject and object, or, as Eckhart says, into Father and Son. But we must not suppose that it happened at a temporal moment, before which the Son was unborn and God was not yet God. That view is too crude. Eckhart insists that the Son is eternally begotten; 'He beholds himself in an Eternal Now'; 'God is ever working in one Eternal Now, and his working is a giving birth to His Son. He bears Him at every instant.'"—R. M. Jones, *Mystical Religion*, p. 227.
+
+See ABSOLUTE, ARC. MAN, ATMAN, BODHISATVA, COSMOS, EVOLUTION, FIRST-BORN SON, GOD, GODHEAD, HYRANYAGARBHA, HUITZILOPOCHTLI, IMAGE, INCARNATION, INVOLUTION, JESUS (son of God), LAMB OF GOD, MATTER, MAYA (higher), MONAD, MOTHER, REDEMPTION, SACRIFICE, SEED, SELF, SON OF GOD, [TORE?], TRINITY, WOMAN (goddess), WOMAN (matter), WOMB OF MAYA, WORD.
+
+**Corrections made:** `@ woman` → a woman; `esons` → sons; `GaL.` → Gal.; `fiesh` → flesh; `UEBERWEG` → Ueberweg; `. 349` → p. 349; `CampsBett` → Campbell; stray `Pa` removed; page headings `106 BIRTH` and `BIRTH` removed from mid-text; See-list spellings restored (`MHvITZzILOPOCHTLI`, `Lamp or Gop`, `MorTruer`, `REDEMPtion`, `Sacrriviczer`, `Seep`, `Seitr`, `Trimrry`, `Miyi`, `Worp`).
+
+**Unclear or supplied:** The Ueberweg quotation lacks an opening mark in the OCR (supplied). The start of the Campbell quotation may be cut off. `[TORE?]` is an unidentified See-list item. `HYRANYAGARBHA` is kept as printed.
 
 ## Full OCR entry body (exact)
 

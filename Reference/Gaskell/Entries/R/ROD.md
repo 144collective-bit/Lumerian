@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rod
 headword: "ROD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `Rov` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration (rod) through the higher mind (Hermes), resulting from the activities of Wisdom and Desire (the two opposing serpents). See HERMES, ROD, SERPENT.
+
+**Corrections made:** See-list spellings restored (`Hermes`, `Rov`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

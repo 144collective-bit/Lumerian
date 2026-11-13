@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heedah
 headword: "HEEDAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `NEPHESH` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE|NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RUAH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality, the lower mind, or lower consciousness.
+
+> "Ye'heedah, the only one, is the personality of man." "The Rua'h forms with the Nephesh, the actual personality of the man, which is called if he deserves Ye'heedah."—I. Myer, *Qabbalah*, pp. 391, 397.
+
+The lower mind (Rua'h) with the desire-nature (Nephesh) form, with the ego, the personality (Ye'heedah). See GOSHURUN, NEPHESH, PERSONALITY, RUAH.
+
+**Corrections made:** page heading `YETZEERATIC` removed from before the See list; `GosHuRUN` → GOSHURUN; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

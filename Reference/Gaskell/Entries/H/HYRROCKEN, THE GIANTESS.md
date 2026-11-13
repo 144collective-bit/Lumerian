@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hyrrocken-the-giantess
 headword: "HYRROCKEN, THE GIANTESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Firnx` | **unresolved** (review queue) |
 | `MJOLNIR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MJOLNER, THE HAMMER OF THOR|MJOLNER, THE HAMMER OF THOR]] |
 | `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of terror, fear, and cunning, which are activities on the lower plane of the mind.
+
+> "Hyrrocken went to the prow of the ship of Balder, and with one shove pushed it off, so that fire sprung from the underlaid rollers, and the whole earth shook."—*Story of Balder*, *Prose Edda*.
+
+And now the emotion of terror takes possession of the mind, and in this way its evolution in the soul commenced; corresponding with which the desire-nature is augmented, while to the physical body are communicated thrills which answer to increased responsiveness in the newly awakened astral centres.
+
+See BALDER, BERSERKS, DEATH OF BALDER, EARTHQUAKE, [Firnx?], MJOLNIR, SHIP.
+
+**Corrections made:** `physica]` → physical; page heading `sey AM *®` removed from mid-sentence; `Firnx` kept as `[Firnx?]`.
+
+**Unclear or supplied:** `[Firnx?]` See-list item not identified (possibly FIRE).
 
 ## Full OCR entry body (exact)
 

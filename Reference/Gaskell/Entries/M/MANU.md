@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manu
 headword: "MANU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Branuma` | **unresolved** (review queue) |
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `MANES` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANES|MANES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Individuality, or the causal Self, upon the mental plane.
+
+> "Manu,—the son of Brahma or a personification of Brahmâ himself, the creator of the world, and progenitor of mankind. Derived from the root man, to think, the word means originally man, the thinker, and is found in this sense in the Rig-Veda."—R. T. H. Griffith, *The Ramayan*, Bk. I. p. 96.
+
+See ARC. MAN, BRAHMA, INDIVIDUALITY, MANES.
+
+**Corrections made:** `Brahm&` → Brahmâ; `Grirrirh` → Griffith; See-list spellings restored (`Branuma`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

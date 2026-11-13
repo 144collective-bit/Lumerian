@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-metempsychosis-or-the-transmigration-of-souls-throu
 headword: "METEMPSYCHOSIS, OR THE TRANSMIGRATION OF SOULS THROUGH ANIMAL AND HUMAN BODIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `SAcRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the passing of the ego during successive incarnations into human bodies, astral and physical, full of animal propensities denoted by names of animals of various kinds.
+
+> "But know this threefold course of transmigrations that depends on the three qualities . . . according to the particular nature of the acts and of the knowledge of each man. Immovable beings, insects, both small and great, fishes, snakes and tortoises, cattle and wild animals, are the lowest conditions to which the quality of tamas (darkness) leads."—*Laws of Manu*, XII. 41, 42.
+
+The three states or conditions of the soul lead to corresponding conditions of mind and desire in the successive reincarnations of the ego (man). Bad habits, primitive desires, delusions, gross desires, low appetites, subservience, ungoverned passions, etc. are the bodily conditions which ignorance (tamas) and sluggishness of mind and emotion lead the ego into.
+
+> "And the soul's vice is ignorance. For that the soul who hath no knowledge of the things that are, or knowledge of their nature, or of Good, is blinded by the body's passions and tossed about. This wretched soul, not knowing what she is, becomes the slave of bodies of strange form in sorry plight, bearing the body as a load; not as the ruler, but the ruled" (Corp. Herm., The Key).—G. R. S. Mead, *T. G. Hermes*, Vol. II. p. 145.
+
+> "The impious soul remains in its own essence, chastised by its own self, and seeking for an earthly body where to enter if only it be human. For that no other body can contain a human soul; nor is it right that any human soul should fall into the body of a thing that doth possess no reason" (The Key).—*Ibid.*, p. 153.
+
+See ANIMALS, BEASTS, CREATURES, CREEPING THINGS, FRAVASHIS, INCARNATION OF SOULS, MAN BORN AS ANIMAL, PITRIS (lunar), PITRIYANA, RE-INCARNATION, SACRIFICE, TORTOISE, TRANSMUTATION.
+
+**Corrections made:** `darknears` → darkness; `succesive` → successive; `thiny` → thing; `G. R. 8. Mean` → G. R. S. Mead; `7. G.` → T. G.; `Prreryana` → PITRIYANA; `FRavasuis` → FRAVASHIS; page heading `METIS` removed from within the See list; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

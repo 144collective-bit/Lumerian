@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-panther-skin
 headword: "PANTHER SKIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol signifying the overcoming of the lower desires.
+
+> "The iron which is the ceiling of heaven openeth itself before Pepi, and he passeth through it with his panther skin upon him, and his staff and whip in his hand."—Budge, *Book of the Dead*, Vol. I. p. lxiii.
+
+The higher mind, which is the firmament below the buddhic plane, is receptive of the consciousness of the purified soul which has overcome the desires, and actively aspires to that which is above.
+
+See CEILING OF SKY, DEFUNCT, FIRMAMENT, IRON PLATE, REN.
+
+**Corrections made:** `paaseth` → passeth; `Bupos` → Budge; `1xiii` → lxiii; `CEMING` → CEILING.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

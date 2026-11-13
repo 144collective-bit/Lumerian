@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-higher-and-lower-selves
 headword: "HIGHER AND LOWER SELVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sovun (highest)` | **unresolved** (review queue) |
 | `UNIon` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Spirit potential above, and the Spirit actual below. The two are aspects of the one Divine Life, but the second is in the process of manifesting itself, while the first is unmanifest. The first is to be thought of as seated regnant upon the higher planes, and the second as struggling upward through the lower planes. The first is never revealed to the consciousness in its fullness, for the unmanifest cannot be apprehended in its true nature. The second, in manifesting, is always short of itself, but as it develops its qualities, it gradually approaches completion, and when complete and perfect it unites with its counterpart on the upper planes.
+
+> "And what is all human life but this; man having in his freedom, to choose, to choose under all kinds of circumstances, all kinds of feelings, under the stress and force of all kinds of motives—having to choose and choosing,—the right thing or the wrong—going straight onward or turning aside: giving proof of what is in him, of the inmost bias and inclination of his character, of the use he would make of his freedom, of the strength and mastery over himself, by which he can make his higher self govern his lower self, by which he can make his weaker and poorer and baser wishes yield to his nobler will."—R. W. Church, *Cathedral Sermons*, p. 100.
+
+> "'Howbeit that was not first which is Spiritual, but that which is Natural; and afterward that which is Spiritual.' (1 Cor. xv. 46). St. Paul surveys the universe and finds the same truth everywhere. Everywhere the higher comes to make the lower perfect. Everywhere the lower is provided first, to be the basis and opportunity of the higher coming by and by. Everywhere the lips must be before the speech; the canvas must be before the picture; the candle must be before the flame; the brain must be before the thought. It is the teaching which natural science is giving us profusely. . . . But our deeper observation teaches us a deeper truth. The material has within itself the power of spiritual life. Its total story has not been told until a waiting impulse has been felt within it dimly conscious of incompleteness, until it has answered to the spiritual call and roused itself to Life."—Phillips Brooks, *Mystery of Iniquity*, p. 242.
+
+> "The conception of the solidarity of man's spiritual part with the eternal substance is the root principle of all our Christian faith in immortality to-day . . . The mysterious entity which we are obliged to call the self is a vastly greater thing than its physical expression. . . . You, the mortal earthly you, began a few short years ago, and a few years hence at the most this frail, unstable, constantly changing you will have come to an end; but the you behind all these shifting shadows, the you that derives immediately from God, the you whose angel doth ever behold the face of the Father, lives not by days and years; it simply is. . . . I am only insisting on the eternity of the spiritual substance out of which your soul arises, and which is truly you, a greater you than as yet you have knowledge of, or your present consciousness can more than feebly and fitfully express."—R. J. Campbell, *Serm.*, *Our Eternal Substance*.
+
+See ARJUNA, BIRDS (two), CHRIST, CONSCIOUSNESS, FIG-TREE, IMMORTALITY FORFEITED, INDIVIDUALITY, LITTLE CHILDREN, MONAD, PERSONALITY, PRAGAPATI, SELF, SOUL (highest), UNION.
+
+**Corrections made:** `ie` → is; `thi` → thing; `onw` → onward; `the.inmost biae` → the inmost bias; `Cuvncn` → Church; `ecionce` → science; `impulee` → impulse; `PHILLtIPs` → Phillips; `ia`, `principlo`, `wo aro` → is, principle, we are; `feobly` → feebly; `. . «` → . . .; page headings `36) HIGHER` and `HIGH-PRIEST` removed from mid-sentence; See-list spellings restored (`AnsJuna`, `Brrps`, `PERSON: aurry`, `ImMoRTALIFY`, `Pracipati`, `Sovun`, `UNIon`).
+
+**Unclear or supplied:** `ARJUNA` for damaged `AnsJuna`; `36)` is the page number (36x) removed with the heading.
 
 ## Full OCR entry body (exact)
 

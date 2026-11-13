@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grapes-or-wine
 headword: "GRAPES, OR WINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `VivE` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual nature of love and wisdom. The "fruit" of the "vine," or "tree of life."
+
+> "The common people like to mix water with the wine of their belief. They usually mix a great deal: sometimes so much as to drown the precious drop from the 'calix inebrians,' 'the chalice of the grapes of God.' But it is still there, potent in its divine virtue to slake the thirst of human nature for a good transcending sense; to lift eyes, dim with tears and dull with pain, towards the Beatific Vision; to heal and strengthen feet sore and weary from the rough ways of earth, for the steep ascent of Heaven."—W. S. Lilly, *The Great Enigma*, p. 288.
+
+See CANA, CUP, FRUIT OF THE SPIRIT, HANGING, INTOXICATION, VINE, WINE.
+
+**Corrections made:** `Beatifie` → Beatific; `W. 8S. Luxzy` → W. S. Lilly; See-list spellings restored (`Cana`, `Hanoina`, `VivE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ericapzus-light-giver-life-or-power-one-of-the-thre
 headword: "ERICAPZUS, LIGHT-GIVER, LIFE, OR POWER,—ONE OF THE THREE ASPECTS OF PHANES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `Ganges` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANGES RIVER|GANGES RIVER]] |
 | `Jordan` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
 | `etc. See EDEN (river)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Action: the other two aspects of the Self (Phanes) being Will and Wisdom.
+
+See EGG, EROS, METIS, PHANES.
+
+### Also in this note: ERIDANUS, CELESTIAL RIVER
+
+A symbol of the Divine Life of atma-buddhi flowing downwards through the quaternary. The river of life; the same as the river of Eden, and the Nile, Po, Ganges, Jordan, etc.
+
+See EDEN (river).
+
+**Corrections made:** page heading `EROS` removed from mid-sentence; `atmabuddhi` → atma-buddhi; `thesame` → the same; `Eac` → EGG; `MeEris` → METIS.
+
+**Unclear or supplied:** Contains a second entry: ERIDANUS, CELESTIAL RIVER. Its See list is cut off in the OCR (`See EDEN (river),`); a full stop is supplied.
 
 ## Full OCR entry body (exact)
 

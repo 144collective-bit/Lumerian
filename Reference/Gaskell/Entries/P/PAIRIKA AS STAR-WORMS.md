@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pairika-as-star-worms
 headword: "PAIRIKA AS STAR-WORMS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `CREEPING THINGS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREEPING THINGS|CREEPING THINGS]] |
 | `Mountain (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `STAR-WORMS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STAR-WORMS|STAR-WORMS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of fear and ambition which are detrimental to the perception of truth.
+
+> "O Lord of light (Osiris), come thou and swallow up the worms that are in Amentet."—Budge, *Book of the Dead*, p. 48.
+
+The Higher Self is entreated to annul the fear and ambition which disturb the soul.
+
+See AMENTET, CREEPING THINGS, MOUNTAIN (lower), STAR-WORMS.
+
+**Corrections made:** `Bupar` → Budge; See-list spellings restored (`Mountain`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

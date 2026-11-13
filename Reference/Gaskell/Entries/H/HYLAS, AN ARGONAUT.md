@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hylas-an-argonaut
 headword: "HYLAS, AN ARGONAUT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PrrcHeEr` | **unresolved** (review queue) |
 | `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of unbiassed search into the truth of things.
+
+> "Hylas, a youth beloved by Hercules, having gone for water in Mysia, was laid hold of and [retained?] by the nymphs of the spring into which he dipped his urn."—*Argonautic Expedition*.
+
+Impartial investigation (Hylas), in concord with the terror aspect of Divine Will (Hercules), having undertaken to search for truth (water) in the realm of pure intellect (Mysia), was forced to quail before the allurements of metaphysical speculation (the nymphs), as the effort was made to acquire truth.
+
+See HERCULES, NAIADS, PITCHER, VESSEL, WATER.
+
+**Corrections made:** `ich` → which; `HERouLes`, `NAtaps`, `PrrcHeEr` restored.
+
+**Unclear or supplied:** `[retained?]` (OCR `rete`).
 
 ## Full OCR entry body (exact)
 

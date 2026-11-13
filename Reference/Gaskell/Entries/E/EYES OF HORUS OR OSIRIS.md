@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eyes-of-horus-or-osiris
 headword: "EYES OF HORUS OR OSIRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Moon` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Urcuar` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Individuality and the Personality as centres of perception on the mental plane, or higher and lower consciousnesses.
+
+> "Thou didst stretch out the heaven wherein thy two eyes (sun and moon) might travel, thou didst make the earth to be a vast chamber for thy Khus (i.e. the beatified dead and the gods of heaven), so that every man might know his fellow" ("Hymn to the Setting Sun").—Budge, *Book of the Dead*, p. 87.
+
+The Logos establishes the cycle of life wherein the Higher and Lower Selves may go through their pilgrimage. The lower nature of the soul is to be the container of the Divine Monads, so that by means of experience every ego may progress from separateness to unity again.
+
+> "Mankind went forth from his (Râ's) two eyes" ("Hymn to Amen Râ").—[Wiedemann?], *Rel. of Anc. Egyptians*, p. 115.
+
+Humanity goes forth in its higher and lower centres of consciousness on the mental plane; that is, the egos manifest in the individualities and the personalities.
+
+See [DEPONOR?], EARTH, GODS, HEAVEN, KHUS (higher), LIPS, MOON, SUN, UTCHAT.
+
+**Corrections made:** `Le.` → i.e.; `Bunce` → Budge; `R&`, `R&é` → Râ; `SN DEMANT:` → [Wiedemann?]; `personalitics` → personalities; `Kuvus` → KHUS; `Urcuar` → UTCHAT; quotation marks normalised.
+
+**Unclear or supplied:** The author of *Rel. of Anc. Egyptians* is damaged (OCR `SN DEMANT:`); `[Wiedemann?]` is a guess. `[DEPONOR?]` is an unidentified See-list item (OCR `Deronor`).
 
 ## Full OCR entry body (exact)
 

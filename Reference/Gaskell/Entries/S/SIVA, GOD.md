@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-siva-god
 headword: "SIVA, GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `JEHOVAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JEHOVAH OR YAHVEH|JEHOVAH OR YAHVEH]] |
 | `MoTrHER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine energy in the evolution of the universe and of the soul. The producer of forms, and their destroyer, that progress may ensue.
+
+> "Siva is Mahākāla, endless time, which begets and devours all things. As procreator, his symbols are the bull and the phallus, as well as the moon, which serves for his diadem."—Barth, *Religions of India*, p. 164.
+
+> "According to the teaching of Hinduism, death is not death in the sense of passing into non-existence, but simply a change into a new form of life. He who destroys, therefore, causes beings to assume new phases of existence,—the Destroyer is really a re-Creator; Hence the name Siva, the Bright or Happy One, is given to him."—Wilkins, *Hindu Mythology*, p. 263.
+
+Like Jehovah, Siva is sometimes described as a cruel and revengeful Deity, but this only symbolises the opposition of good to evil, and the destruction of the lower desires and passions which precedes the awakenment of the higher qualities.
+
+See ANGER OF GOD, BULL, DEATH, [Durista?], [Dunes?], EVOLUTION, FORMS, JEHOVAH, MOTHER, WRATH OF GOD.
+
+**Corrections made:** `cnsue` → ensue; `Mahékdla` → Mahākāla; `proAND SIx creator` → procreator (page heading `AND SIX` removed); `Bartn` → Barth; `WrIxIns` → Wilkins; See-list spellings restored (`Buti` → BULL, `Evo.Lurion`, `MoTrHER`).
+
+**Unclear or supplied:** `[Durista?]` and `[Dunes?]` are the See items as damaged in the OCR and could not be identified with confidence. `BULL` is a reading of `Buti`.
 
 ## Full OCR entry body (exact)
 

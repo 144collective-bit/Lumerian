@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hi-right-arm-and-left
 headword: "HI RIGHT ARM AND LEFT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ARMS OF BODY` | **unresolved** (review queue) |
 | `CORN` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of will,—the outgoing and incoming activity; also symbolic of that exercise of choice which incurs Karma.
+
+See ARMS OF BODY, CORN.
+
+**Corrections made:** Spacing normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-linen-white-and-shining
 headword: "LINEN, WHITE AND SHINING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `RammENT` | **unresolved** (review queue) |
 | `WarP` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine Truth, or the world-substance of which the universe is woven,—the ultimate reality.
+
+> "The bloom of the scarlet dye mingles with shining linen."—Empedocles, Fairbanks, 286.
+
+The power of the Divine Life (blood) energises the world-substance,—Truth-reality.
+
+> "By linen clean and shining is signified truth pure and genuine. . . . Linen signifies divine truth."—Swedenborg, *Apoc. Rev.*, n. 671.
+
+See FABRIC, LOOM, MULA-PRAKRITI, RAIMENT, WARP, WHITE.
+
+**Corrections made:** `Hmpedocles` → Empedocles; `FarrBANKS` → Fairbanks; `Truthreality` → Truth-reality; See-list spellings restored (`Fasric`, `Muia-PRAKRITI`, `RammENT`, `WarP`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

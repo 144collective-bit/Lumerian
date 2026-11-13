@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-habit
 headword: "HABIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `SPARROWS. HADES ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The functioning in old-established directions of the sub-conscious automatic mind. This section of astromentality is amenable to suggestion when constantly made; hence change of habits. See SPARROWS.
+
+**Corrections made:** page heading `HADES ;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

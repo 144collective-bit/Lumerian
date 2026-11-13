@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-censers-of-burning-incense
 headword: "CENSERS OF BURNING INCENSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `MOsEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the purifying fire and aroma of the spiritual nature (buddhi) which permeates the mind (air) or disciplined and devout lower qualities (worshippers) in the human soul (church). The swinging of the censers signifies the functioning of buddhi in the lower nature, whereby the purifying and transmutation of the lower qualities are brought about.
+
+> "And Moses said unto Aaron, Take thy censer, and put fire therein from off the altar, and lay incense thereon, and carry it quickly unto the congregation, and make atonement for them: for there is wrath gone out from the Lord; the plague is begun."—Num. xvi. 46.
+
+The moral nature (Moses) enjoins the spiritual mind (Aaron) to ally itself with buddhi (fire) and bring about the purification of the qualities (congregation) during a spiritual outpouring which shall destroy the lowest qualities. The atonement signifies transmutation in response to aspiration, and the substitution of higher for lower.
+
+See AARON, ALTAR, ATONEMENT, CENSERS, FIRE, INCENSE, MOSES, PESTILENCE, PROCESSION.
+
+**Corrections made:** `*‘And` → "And; `Noum.` → Num.; `co ion` → congregation; scanner noise (`wo oe «Oh OMe OOF aa — Ss eh ae FA me`) and page heading `CENTAURS` removed from mid-sentence; See-list spellings restored (`Curyszis`, `Fire`, `INcensz`, `MOsEs`).
+
+**Unclear or supplied:** The See-list item `Curyszis` is read as CENSERS (the headword of the nearby entries); it may be another headword such as CHRYSIS.
 
 ## Full OCR entry body (exact)
 

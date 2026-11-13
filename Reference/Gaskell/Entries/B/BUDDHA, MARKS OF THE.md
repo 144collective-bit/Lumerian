@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddha-marks-of-the
 headword: "BUDDHA, MARKS OF THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `FOOTPRINTS OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOTPRINTS OF BUDDHA|FOOTPRINTS OF BUDDHA]] |
 | `MarRkKS OF JESUs` | **unresolved** (review queue) |
 | `URNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of powers inherent in the Soul through involution.
+
+> "Thus the great seer Asita beheld the king's son (Buddha) with wonder, his feet marked with a wheel, his fingers and toes webbed, with a circle of hair between his eyebrows, and signs of vigour like an elephant."—*Buddha-Karita*, Bk. I. 65.
+
+So it is the primordial lower self (Asita) beholds the offspring of the Highest with wonder, that is, with instinctive rather than rational appreciation of Truth. The "feet" are symbols of obedience, which tread the cycle of life as the path to peace. The "fingers and toes webbed" signify the, as yet, fettered organs of action. The "urna," or "circle of hair" is a symbol of spiritual truth. "Signs of vigour" symbolise the powers which are to yield the results of effort which accrue on the buddhic plane.
+
+See ASITA, BODHISATVAS, CIRCLE (hair), FEET, FOOTPRINTS OF BUDDHA, MARKS OF JESUS, URNA.
+
+**Corrections made:** stray `—` before `king's son` removed; `AsItTa` → ASITA; `MarRkKS OF JESUs` → MARKS OF JESUS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

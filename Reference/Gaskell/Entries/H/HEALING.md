@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-healing
 headword: "HEALING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,32 @@ tags:
 | `Rrrzs` | **unresolved** (review queue) |
 | `Sun (of righteousness)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a spiritual process by means of which qualities are energised, harmonised, and purified. Evolution is often irregular and unbalanced through the vacillations of the egos; and spiritual adjustments are made according to an ideal pattern, as the souls become prepared for them. The higher nature gradually conforms the lower nature to itself.
+
+> "Heal me, O Lord, and I shall be healed; save me, and I shall be saved: for thou art my praise."—Jer. xvii. 14.
+
+> "For I will restore health unto thee, and I will heal thee of thy wounds, saith the Lord; because they have called thee an outcast, saying, It is Zion, whom no man seeketh after."—Jer. xxx. 17.
+
+The qualities after being disciplined by tribulations are prepared for the Divine upraising, wherein the lower conditions shall be surmounted. By the lower desires, the higher qualities are unregarded; for the soul's divine nature (Zion) is uncared for by the lower mind (man) deluded by the things of sense.
+
+> "'Who healeth all thy diseases': this is effected by the believer in the present life, while the flesh so lusts against the spirit, and the spirit against the flesh, that we cannot do the things we would (Gal. v. 17); whilst also another law in our members wars against the law of our mind (Rom. vii. 23); whilst to will is present indeed to us, but not how to perform that which is good (Rom. vii. 18). These are the diseases of a man's old nature which, however, if we only advance with persevering purpose, are healed by the growth of the new nature day by day, owing to the faith which operates through love (Gal. v. 6)."—Augustine, *Anti-Pelagius*, Vol. I. p. 221.
+
+> "If you want to be happy and prosperous you must call upon your indwelling divine strength. You must realise that all you can possibly want or desire is already within you, and that it rests with you to bring it into manifestation. Thus, if you are poor, you must believe that all the wealth of the universe is within you, waiting to be drawn upon; if you are sick, you must believe the same in respect to health; if circumstances seem to be against you, you must understand and act upon the conviction that the spiritual nature of man is subject to no limitations, and can neither be hampered nor imprisoned by material things."—R. J. Campbell, *Thursday Mornings*, p. 214.
+
+> "As transcending all mere development, I refer to that wondrous, inexplicable function of healing, discovered in the restoration or repair of animals and vegetables that are wounded or sick. When a tree, for example, is hacked or bruised, a strange nursing process forthwith begins, by which the wound is healed. A new bark is formed on the edges of the wound, by what method no art of man can trace, the dead matter is thrown off, and a growth inward narrows the breach, till finally the two margins meet and the tissues interweave, and not even a scar is left. So in all the flesh wounds of animals, and the fractures even of bones. So too in regard to all diseases not terminating mortally; they pass a crisis, where the healing function, whatever it be, triumphs over the poison of the disease, and a recovery follows, in which the whole flesh and fibre appear even to be produced anew. . . . Regarding the body as a machine,—and taken as a merely material organisation,—it is plainly impossible for it to heal, in this manner, and repair itself. The disordered watch can never run itself into good repair. In machines, disorder can only propagate and aggravate disorder till they become a wreck. . . . Whatever view we take of this healing power in physiology, these two points are clear. First, that the healing accomplished is no fact of development. There is no difficulty in seeing how existing tissues and organs may create extensions within their own vascular sphere; and this is development. But where a new skin or bark is to be created, or a new interlocking made of parts that are sundered, the ducts and vesicles that might act in development, being parted and open at their ends want mending themselves. . . . A fevered body does not cure itself by development. No shade of countenance, therefore, is given to the hope that human development, under the retributive woes of sin, will be any sufficient cure of its disorders, or will set the fallen subjects of it forward in a course of social progress. This also, secondly, is equally clear, that, as the mysterious healing of bodies yields the development theory no token of favour, it is only a more impressive type, on that account, of some grand restorative economy, by which the condition of unnature in souls and the world is to be supernaturally regenerated—just such a type as regarding the relations of matter to mind, and of things natural to things spiritual, we might expect to find incorporated in some large and systematic way, in the visible objects and processes of the world. And how much does the healing of bodies signify, when associated thus with the grand elemental disorder and breakage of sin! What is it, in fact, but a kind of glorious, everywhere visible sacrament, that tokens life and hope, and healing invisible, for all the retributive woes and bleeding lacerations of our guilty fallen state as a race apostate from God."—Horace Bushnell, *Nature and the Supernatural*, pp. 156-8.
+
+The physical body may be torn and disordered, but the astro-mental structure on which it was built by the life-forces of growth remains, of course, unaffected, and the subjective mind gives the necessary guidance to the life-forces which heal. As the body has grown, so it heals within the possibilities of environment. With regard to the soul, the atma-buddhic archetypal structure (Christ) within is the perfect guide to ultimate perfection. The below must become as the above.
+
+> "Wrong and wretchedness can find no place in reality, for the simple reason that wrong and wretchedness are experiences which imply inability to get at and draw upon ample reserves of life and power; wrong and wretchedness would instantly vanish if we could all manage to do that. If we could only get out and up to reality, this is what we should find;—and it is exactly what we are in process of doing. Step by step and bit by bit we are working our way upwards towards a state of spiritual consciousness which will put us at one with reality, which is only another way of saying at one with God."—R. J. Campbell, *Serm.*, *The Two Orders*.
+
+See ARC. MAN, COSMOS, CREATION, DISEASE, IMAGE, LEPER, MEDICINE, MIRACLES, MULTITUDE, PHYSICIAN, POOL (Bethesda), [Rrrzs?], SUN (of righteousness), TEN.
+
+**Corrections made:** `JEr.` → Jer.; `Gat.`/`GaL.` → Gal.; `CamMpBEtt`, `p-.` → Campbell, p.; `transcendi` → transcending; `examplo` → example; `Regard ing` → Regarding; `hysiology` → physiology; `muy croate` → may create; `sphero` → sphere; `ia development` → in development; `woea` → woes; `lifeforces` → life-forces; `BusHNELL` → Bushnell; stray `:` before the last quotation removed; page headings `341 HEALING` and `HEALING` removed from mid-sentence; See-list spellings restored (`Cosmos`, `Mrractes`, `MuLITrupE`, `Poot`, `Sun`); quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[Rrrzs?]` could not be identified (perhaps RITES).
 
 ## Full OCR entry body (exact)
 

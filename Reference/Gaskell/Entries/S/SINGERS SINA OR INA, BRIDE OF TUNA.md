@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-singers-sina-or-ina-bride-of-tuna
 headword: "SINGERS SINA OR INA, BRIDE OF TUNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,28 @@ tags:
 | `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `SHORE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `SUN-RISING` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of matter in its primal aspect, and of the soul in its receptive capacity as the vehicle of Spirit (Tuna).
+
+> "For a full understanding of this very complicated myth (of Ina and Tuna) more information has been supplied by Mr. Gill. Ina means moon; Ina-mae-aitu, the heroine of our story, means Ina-who-had-a-divine-lover, and she was the daughter of Kui, the blind. Tuna means eel."—Max Müller, *Contributions*, etc., Vol. I. p. 5.
+
+The moon is a symbol of the matter side of manifestation, and the lower nature of the soul, which is a product of ignorance and instinct (Kui, the blind). The divine lover is the incarnate Self—the Redeemer of the soul.
+
+> "It was early morning, and the golden beams of the rising sun were flooding the world with light. A maiden named Sina came out of her hut to go for her morning bath in a favourite pool in the stream."—Kate M. C. Clarke, *Maori Tales*.
+
+This represents the dawn of manifestation and the golden age of early involution. Matter (Sina) becomes immersed in the river of life which flows to the lower planes.
+
+> "Sina took the head of the Eel-god and buried it near the sea shore, and she visited the place each day and wept as she thought of Tuna who had given his life for hers."—*Ibid.*
+
+This signifies the commencement of evolution after the death of the Archetypal Man (Tuna). The Spirit is buried in the desire-mind (sea shore), and every incarnation (day) the soul or matter (Sina) comes into relation with it amid suffering and sorrow.
+
+See ARC. MAN, COCOA-NUT, DAWN, EEL-GOD, HEAD, HOVER, INCARNATION, INVOLUTION, MATTER, MOON, REDEEMER, RIVER OF LIFE, SHORE, SUN-RISING.
+
+**Corrections made:** `Ina-whohad-a-divine-lover` → Ina-who-had-a-divine-lover; `Max MULLER` → Max Müller; `Crarkx, Maors Tales` → Clarke, *Maori Tales*; `givon` → given; See-list spellings restored (`Dawn`, `EEt-cop`, `Heap`, `InCARNATION`, `Moon`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

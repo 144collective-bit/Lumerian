@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rice-and-barley
 headword: "RICE AND BARLEY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BARLEY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BARLEY AND WHEAT OR RICE|BARLEY AND WHEAT OR RICE]]; [[Reference/Gaskell/Entries/B/BARLEY-CORNS|BARLEY-CORNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of wisdom and love.
+
+See BARLEY.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horse
 headword: "HORSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,34 @@ tags:
 | `HovusE` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol in its higher aspect, of the intellect or intelligence, and in its lower aspect, of the lower mind subject to the desires and passions.
+
+> "Yea, as a horse that bears to the gods; that which conveys to the gods is indeed the mind, for it is the mind which chiefly conveys the wise man to the gods."—*Sata. Brâh.*, I. 4, 3, 6, S. B. of E.
+
+> "Man does not rightly know the way to the heavenly world, but the horse does rightly know it."—*Ibid.*, XIII. 2, 3, 1.
+
+> "The horse is the nobility." The horse is related to the northern quarter, which is "the quarter of man."—*Ibid.*
+
+> "Horses denote the intellect."—Swedenborg, *Arc. Cel.*, n. 10, 227.
+
+> "Wherever the horse is mentioned in the Holy Word, it signifies either true or false understanding. This is now, since Swedenborg, a universal induction valid in all particular instances."—J. J. Garth Wilkinson.
+
+> "An endeavour is made by the sorcerers to have the babe (Zoroaster) trampled to death by horses, but the leading horse stands over the child and prevents it from perishing."—*Life of Zoroaster*.
+
+The astral nature of desire and sensation, operating through the lower mind, is opposed to the Spirit and seeks to kill it out. On the mental plane are the ideas (horses) which are the means of furthering or retarding the progress of the soul. They require to be reined in and guided by the enlightened will. The "leading horse" signifies the disciplined mind which retains the impressions that are required for the evolution of the intellect, and it therefore protects the spiritual germ within.
+
+> "Now the Egyptians are men, and not God; and their horses flesh, and not spirit: and when the Lord shall stretch out his hand, both he that helpeth shall stumble, and he that is holpen shall fall, and they shall all fail together."—Isa. xxxi. 3.
+
+The "Egyptians" (in the Bible) signify the lower mind, which is illusory and unreal, i.e. not self-derived (God); and its ideas (horses) are energised by desire (flesh) and not by spirit. And so when the Higher Self shall energise the mind, the lower unreality of error (the helper) and delusion (the helped) shall fall away.
+
+See CHARIOT, EGYPTIANS, EXODUS, GODS, GULDTOPP, HEIMDALL, HERMES, HOUSE, MAN, ZOROASTER.
+
+**Corrections made:** `ds;` → gods; `Bréh.` → Brâh.; `Jbid.` → Ibid.; `s universal` → a universal; `Lsfe` → Life; `.so` → so; page heading `HORSE` removed from mid-text; See-list spellings restored (`EGyprians`, `Exopvus`, `Gops`, `Gutprorr`, `HovusE`).
+
+**Unclear or supplied:** `GULDTOPP` read from damaged `Gutprorr` (cf. the Heimdall entry). The Wilkinson reference has no title in the OCR. `gods` completes OCR `ds`.
 
 ## Full OCR entry body (exact)
 

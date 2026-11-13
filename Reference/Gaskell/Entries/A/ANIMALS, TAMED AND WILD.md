@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-animals-tamed-and-wild
 headword: "ANIMALS, TAMED AND WILD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `VITAL arms` | **unresolved** (review queue) |
 | `WOLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desires, passions and appetites, both disciplined and undisciplined. They are of the astral plane, and pertain to animal-man of the lunar-pitri development.
+
+> "Thus in the living soul shall there be good beasts in gentleness of action, . . . and good cattle, . . . and good serpents, not destructive to do hurt, but wise to take heed."—Augustine, *Confessions*, p. 377.
+
+> "The animal nature, the fighting nature, even the ape and tiger qualities, have their use as the sheathing of the divine humanity that is to be; they have to be transcended, but never wholly destroyed."—R. J. Campbell, *Serm.*, *Coming to the True Self*.
+
+> "If the animal in us is not subject to the mind, it is because the mind or man is not subject to the Lord."—A. Jukes, *Types of Genesis*, p. 125.
+
+> "In the Levitical Law, the inferior animals were made by God to be symbols to man of his own vicious propensities, and so became instruments of moral and spiritual teaching to His people."—Wordsworth, *Bible*, *Job*, p. 96.
+
+> "A twice-born man who, knowing the true meaning of the Veda, slays an animal for (sacrifice), causes both himself and the animal to enter a most blessed state."—*Manu*, V. 42.
+
+An individuality who realises the truth of the Divine scheme, offers up his desire-nature, and by so doing attains a state of bliss, while the desire-nature itself is transmuted to the buddhic plane.
+
+See APE, BEASTS, CATTLE, CREATURES, GOAT, LION, SACRIFICE, SERPENT, VITAL AIRS, WOLF.
+
+**Corrections made:** `AvuGusTINE, ConSessions` → Augustine, Confessions; `victous` → vicious; `iritual` → spiritual; `OBRDSWORTH` → Wordsworth; page heading `ANIMALS` removed from mid-sentence ("slays an ANIMALS anima! for"); stray `°` removed; See-list spellings restored (`CaTriB`, `CREATuREs`, `Saorrrice`, `VITAL arms`, and others); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

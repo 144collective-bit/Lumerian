@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-curse-on-the-serpent
 headword: "CURSE ON THE SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Fretp` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of limitation of the desire-mind to the lower planes in the soul.
+
+> "And the Lord God said unto the serpent, Because thou hast done this, cursed art thou above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life."—Gen. iii. 14.
+
+And the judgment of the Divine nature is that the lower mind is indeed lower in quality than the sub-human desires and instincts which preceded its evolution. It shall remain upon the lower planes, and shall be nourished upon the activities which proceed from the lower nature. See BEAST, DUST, EDEN, FALL, FIELD, MAN (natural), SERPENT (subtil).
+
+**Corrections made:** `desiremind` → desire-mind; `Grn.` → Gen.; See-list spellings restored (`Brast`, `Eprn`, `FAL`, `Fretp`).
+
+**Unclear or supplied:** `FAL` read as FALL.
 
 ## Full OCR entry body (exact)
 

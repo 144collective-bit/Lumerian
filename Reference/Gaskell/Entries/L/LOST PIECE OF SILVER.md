@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lost-piece-of-silver
 headword: "LOST PIECE OF SILVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `Sout` | **unresolved** (review queue) |
 | `Wispom` | **unresolved** (review queue) |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a spiritual ego having descended and become obscured on the lower mental plane.
+
+> "Or what woman having ten pieces of silver, if she lose one piece, doth not light a lamp, and sweep the house, and seek diligently until she find it? And when she hath found it, she calleth together her friends and neighbours, saying, Rejoice with me, for I have found the piece which I had lost."—Luke xv. 8-10.
+
+The "woman" represents Wisdom (buddhi) in possession of the full number of spiritual egos (atma-buddhic). When an ego descends to become incarnate upon the lower planes, the buddhic consciousness is obscured, and the ego is lost in ignorance and illusion. The "lighting of the lamp" is the establishment of the causal-body through which Wisdom and Love will be recovered by the ego. The "sweeping, etc." signifies the efforts put forth to raise the lower qualities of the ego and transmute them. And when the ego again attains the buddhic consciousness, then Wisdom calls together the higher qualities and ideals, and endows the ego with them in the bliss of the immortal life.
+
+> "And the woman that sweeps the house and finds the piece of silver, they (the Gnostics) say is the supernal Wisdom, who, having lost that which she had conceived in her mind, finds it afterwards, when all things are cleansed by the coming of our Saviour: wherefore this also is restored, as they say, to be within the Pleroma."—Irenæus, *Against Heresies*, p. 27.
+
+See CAUSAL-BODY, FRIENDS, FRUIT (spirit), HOUSE IN HEAVEN, INCARNATION OF SOULS, LAMP, MONAD OF LIFE, NEIGHBOUR, OIL, PLEROMA, SILVER, SOUL, WISDOM, WOMAN.
+
+**Corrections made:** `it !` → it?; `LuEE` → Luke; `neighbour,` → neighbours,; `atmabuddhic` → atma-buddhic; `Inenzus` → Irenæus; page heading `LOST` removed from mid-quotation; See-list spellings restored (`FRvUIT`, `HoUSE`, `Om`, `Sout`, `Wispom`, `WoMAN`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

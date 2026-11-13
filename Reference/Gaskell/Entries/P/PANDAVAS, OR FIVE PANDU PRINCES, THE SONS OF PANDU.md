@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pandavas-or-five-pandu-princes-the-sons-of-pandu
 headword: "PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,18 @@ tags:
 | `Panpu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDU, KING|PANDU, KING]] |
 | `SanJava` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA|SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA]] |
 | `YuDuISHTHIRA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of five of the higher active attributes of the soul, namely,—Yudhi-shthira = the Spiritual mind. Bhima = the philosophic Intellect. Arjuna = the Personality with Spark. Nakula = the love of Goodness. Sahadeva = the love of Truth. These enter the field of conflict (the mind) to overcome the desires (Kurus).
+
+> "Dhritarashtra: Tell me, O Sanjaya, what the people of my own party and those of Pandu, who are assembled at Kurukshetra resolved upon war, have been doing. Sanjaya: King Duryodhana, having just beheld the army of the Pandus drawn up in battle array, went to his preceptor and spoke these words: 'Behold! O Master, the mighty army of the sons of Pandu drawn up by thy pupil, the clever son of Drupada.'"—*Bhagavad-Gita*, I. 1.
+
+See ARENA, ARJUNA, BHIMA, BHISHMA, DHRISHTA-DYUMNA, DHRITARASHTRA, DRAUPADI, DRONA, DURYODHANA, FIELD, KARNA, KRISHNA, KURUS, PANDU, SANJAYA, YUDHISHTHIRA.
+
+**Corrections made:** `namely ,—` → namely,—; `Duryodhans` → Duryodhana; page heading `658 PANDORA` removed from the See list; See-list spellings restored (`Buisma`, `Darista-pyumNa`, `Kourus`, `Panpu`, `SanJava`, `YuDuISHTHIRA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

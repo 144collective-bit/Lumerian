@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow-s-mile
 headword: "COW'S MILE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `1 PETER ii. 2. See MILK (cow)` | **unresolved** (review queue) |
 | `UDDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UDDER OF THE COW|UDDER OF THE COW]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual sustenance which is yielded by buddhi; or the produce of the Wisdom function necessary for the growth of the soul, i.e. higher emotions.—See 1 Pet. ii. 2. See MILK (cow), UDDER.
+
+**Corrections made:** `1 PETER` → 1 Pet.; dash placement normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

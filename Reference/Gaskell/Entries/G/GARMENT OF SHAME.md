@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garment-of-shame
 headword: "GARMENT OF SHAME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `RENDING` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RENDING THE GARMENTS|RENDING THE GARMENTS]] |
 | `VIRGIN BRINGING FORTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the vehicle of the desires and the senses.
+
+> "When ye trample on the garment of shame, and when the two shall be one, and the male with the female, neither male nor female.' then shall these things be."—Saying of Jesus, from Clement.
+
+When ye have cast off the lower (astral) vehicle of the senses, and when the emotions have been raised and united with the reason, so the two becoming one; and when the relatives, the twain, active-passive, male-female, have transcended their former aspects and have become one energy; then shall the Christ-consciousness be attained.
+
+> "Return unto thy home, O Soul! Thy sin and shame Leave thou behind on earth; assume a shining form—Thy ancient shape,—refined, and from all taint set free" (Rig-Veda, X.).—Mon. Williams, *Indian Wisdom*, p. 22.
+
+See ASTRAL PLANE, MALE-FEMALE, MAN AND WIFE, MARRIAGE, RENDING, VIRGIN BRINGING FORTH.
+
+**Corrections made:** `Jcsus` → Jesus; `CLEMENT` → Clement; `Mown. Wituams` → Mon. Williams; `set' free''` → set free; quotation marks normalised.
+
+**Unclear or supplied:** The OCR prints a stray single quotation mark after "neither male nor female." in the Clement saying; left as printed.
 
 ## Full OCR entry body (exact)
 

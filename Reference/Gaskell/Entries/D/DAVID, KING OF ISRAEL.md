@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-david-king-of-israel
 headword: "DAVID, KING OF ISRAEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `ResurRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `ROCK OF SALVATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROCK OF SALVATION|ROCK OF SALVATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the natural man, that is, the lower mental and emotional nature which rules over the little-developed qualities of the soul.
+
+> "God's Son, who was born of the seed of David according to the flesh, who was declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead."—Rom. i. 3, 4.
+
+This represents the genealogy of the indwelling Christ after the lower nature (the flesh),—the natural heredity, as it were. "David" is ruler of the lower nature (earth), and it is through this condition of rulership of matter in the soul that the Invisible is embodied. The Christ cannot actually be manifested among men excepting through a physical vehicle of sufficiently exquisite responsiveness to enable It to incarnate and reveal its nature in some degree. It must be borne in mind that the Christ is not ultimated in the human race until the physical brain matter is adapted to interpret the functionings which play upon it from Above. In this explanation of "Jesus" is to be found the connection between the supposed external or historic, and the inward or essential, Christ.
+
+> "What are the conquests of David, or the greater conquests of David's everlasting Son, over the kingdoms of the earth, but a shadow of that inward conquest which Christ worketh over his enemies within our souls, which is more valuable than the earth, and to conquer which is a higher achievement than to subdue the kingdoms of the earth? The soul is a thing for the Son of God to conquer, the world is for Cesar, or the son of Philip. The soul, the boundless world of the soul to recover, to reconcile its warring powers, to breathe the life of God over its chaotic wastes—this is a work whereof all outward works are only fit to be the emblems; a work, in the execution of which every spiritual man feels the going forth of his Saviour conquering and to conquer."—Edw. Irving, *Writings*, Vol. I. p. 403.
+
+See BLIND MAN, CHRIST, EARTH, FIRES, INCARNATION, ISRAELITES, JONATHAN, MAN (natural), RESURRECTION, ROCK OF SALVATION.
+
+**Corrections made:** page heading `AS A DAVID` removed from mid-sentence; `soal` → soul; `a_ physical` → a physical; `Epb. Invina` → Edw. Irving; See-list spellings restored (`Fires`, `ResurRECTION`).
+
+**Unclear or supplied:** `Epb. Invina` is read as Edw. Irving (the forename abbreviation is uncertain). `FIRES` stands as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

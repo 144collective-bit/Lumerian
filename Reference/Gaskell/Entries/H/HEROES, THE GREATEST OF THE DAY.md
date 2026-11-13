@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heroes-the-greatest-of-the-day
 headword: "HEROES, THE GREATEST OF THE DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `ORACLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/ORACLE CONSULTED|ORACLE CONSULTED]] |
 | `Sup` | **unresolved** (review queue) |
 | `TwE.vz` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the twelve or more disciplined qualities and spiritual energies which are highest in the soul and have been evolved through the lower activities.
+
+> "When the ship Argo was completed, Jason consulted the oracle, and was directed to invite the greatest heroes of the day to share in the dangers and glories of the voyage."—*The Argonautic Expedition*, Keightley, *Mythology*.
+
+When the causal-body of humanity was potentially completed, the Christ-soul (Jason or Jasius) communed with his inner nature whether the conditions were such that it would now be possible to gather together, or co-ordinate, the higher qualities which had now been evolved upon the lower planes of his being, and which would serve to assist in subjugating the lower qualities and perfecting the soul. The soul's salvation depends upon the development of the disinterested and heroic side of its nature, so that all selfishness and evil be overcome.
+
+See APOSTLES, ARGO, ARGONAUTS, BOAT, DISCIPLES, JASON, ORACLE, SHIP, TWELVE.
+
+**Corrections made:** `Exzpedttion` → Expedition; `Christsoul` → Christ-soul; See-list spellings restored (`AposTLEs`, `DrscrPtes`, `Sup`, `TwE.vz`); stray quotation marks normalised.
+
+**Unclear or supplied:** The stray opening quotation mark before "When the causal-body" was treated as damage, not as a quotation.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mitro-srosh-and-rashnu
 headword: "MITRO, SROSH, AND RASHNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `PRAKRITI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `SEPARATION FROM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]] |
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Understanding, Will, and Love. See BALANCE (spirits), SROSH.
+
+### Also in this note: MIXTURE AND ITS SEPARATION
+
+Symbolic of combinations and segregations of phenomena.
+
+> "There is no origination of anything [that is mortal?], nor yet any [end?] in [baneful?] death; but only mixture and separation of what is mixed; but men call this origination."—Empedocles, Fairbanks, 36.
+
+All that exists upon the lower planes cannot persist, since it has no life of itself: it is consequently mortal. Death is equally non-existent,—death cannot be an end. The "mixture and its separation" are the combinations and segregations, or finalities, of the lower life of illusions. The lower mind (men) speaks of these things as real, whereas they are but transient appearances.
+
+See ILLUSION, MATTER, MIND (lower), PHENOMENA, PRAKRITI, SEPARATION FROM, STRIFE.
+
+**Corrections made:** `Batancs` → BALANCE; `Ixtusion` → ILLUSION; `Marrer` → MATTER; `Miva` → MIND; page headings `RaSHNU, MJOLNER` removed from within the quotation.
+
+**Unclear or supplied:** Contains a second entry: MIXTURE AND ITS SEPARATION. The Empedocles quotation is badly damaged in the OCR (`anythi that ba chortall nor yetiany ead in banstul death`); the bracketed readings are guesses from the sense, and `mixe®` is read as "mixed".
 
 ## Full OCR entry body (exact)
 

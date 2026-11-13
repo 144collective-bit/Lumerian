@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kitra
 headword: "KITRA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Man (born)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Moon-waxina` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Lawgiver, or Word of God.
+
+See MAN (born), MOON-WAXING.
+
+**Corrections made:** `Moon-waxina` → MOON-WAXING; capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

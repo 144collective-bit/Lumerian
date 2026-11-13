@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-parganya
 headword: "PARGANYA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life of the universe and of the soul on the buddhic plane.
+
+> "The winds blow, the lightnings fly, plants spring up, the sky pours. Food is produced for the whole world, when Parganya blesses the earth with his seed."—*Rig-Veda*, V. 83, 4.
+
+> "He rules as God over the whole world; all creatures rest in him; he is the life (atma) of all that moves and rests."—*Ibid.*, VII. 101, 6.
+
+Atma ensouls buddhi and the proto-[word unclear]
+
+**Corrections made:** `Idid.` → Ibid.; stray page number `561` removed from the end.
+
+**Unclear or supplied:** The OCR breaks off mid-word at `proto-` (the text is cut by a page break); `[word unclear]` marks the lost remainder.
 
 ## Full OCR entry body (exact)
 

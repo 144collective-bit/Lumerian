@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-banquet
 headword: "BANQUET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Foop` | **unresolved** (review queue) |
 | `Movuntain` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `Wr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Realisation of Truth, Wisdom and Love, in a state of bliss on higher planes.
+
+> "So when they had rest from the task, and had made ready the banquet, they feasted, nor was their heart aught stinted of the fair banquet. But when they had put away from them the desire of meat and drink, the young men crowned the bowls with wine, and gave each man his portion after the drink-offering had been poured into the cups."—*Iliad*, Bk. I, trans. Buckley.
+
+And when this process of evolution was completed, and the results of the labours of the Self were accomplished, the period arrived when the Soul should enjoy that which it had earned. Nor was aught lacking, for when the desires and appetites of the lower self were restrained (i.e. when the Ego no longer identified itself with its baser nature) the mental qualities brought truth from above to the lower Self. And each department of the Soul received satisfaction so soon as it had been nourished by Truth from on High.
+
+> "And in this mountain shall the Lord of hosts make unto all peoples a feast of fat things, a feast of wines on the lees well refined."—Is. xxv. 6.
+
+On the higher planes (mountain) the qualities shall partake of the "fruits of the Spirit" bringing joy and satisfaction to the soul.—See 1 Cor. v. 8.
+
+See BANQUET, CALF (fatted), COW (plenty), FAT, FOOD, MOUNTAIN, [WINE?].
+
+**Corrections made:** `Jliad` → Iliad; `resulte` → results; `Cautr` → CALF; `Movuntain` → MOUNTAIN; `Wr` → [WINE?]; page heading `FEATHER` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `[WINE?]` is a guess for OCR `Wr`.
 
 ## Full OCR entry body (exact)
 

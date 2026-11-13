@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-double-fold-of-flesh-and-fat
 headword: "DOUBLE FOLD OF FLESH AND FAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Fat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAT DRIPPING DOWN|FAT DRIPPING DOWN]] |
 | `FiesH` | **unresolved** (review queue) |
 | `ROasren` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the outer and the inner aspects of love.
+
+See FAT, FLESH, ROASTED.
+
+**Corrections made:** See-list spellings restored (`FiesH`, `ROasren`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

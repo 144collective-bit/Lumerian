@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cultivation-ox-born
 headword: "CULTIVATION, OX-BORN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Bers` | **unresolved** (review queue) |
 | `HONEY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the atma-buddhic nature of the soul or ego as proceeding from buddhi to incarnation in the lower vehicles of consciousness. See BEES, HONEY.
+
+**Corrections made:** `Bers` → BEES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

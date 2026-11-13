@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pearl-of-great-price
 headword: "PEARL OF GREAT PRICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Krxapom` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `ParasBrz` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self.
+
+> "The kingdom of heaven is like unto a man that is a merchant seeking goodly pearls: and having found one pearl of great price, he went and sold all that he had, and bought it."—Matt. xiii. 45, 46.
+
+The "man" is the mind or the ego. The pearl is the Higher Self. The possessions with which the ego parted are the sense-nature and the things of the lower planes, in exchange for which he may inherit all things;—the real in substitute for the apparent and illusory. The ego surrenders the lower in order to secure the higher.
+
+See KINGDOM, MAN, PARABLE.
+
+**Corrections made:** `@` → a; `Mar.` → Matt.; See-list spellings restored (`Krxapom`, `ParasBrz`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-day-and-night
 headword: "DAY AND NIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `Sona` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of periods of spiritual and material activity, in major or in minor cycles.
+
+> "Day and Night are Pragapati, its day is spirit, its night matter."—*Prasna Upanishad*, I. 13.
+
+> "Learning through this treatise, by trouble and day and night painstaking."—Preface to the *Bundahis*.
+
+Learning from the Book of Life is possible only by effort and "day and night painstaking," that is, through experience in a successive series of physical incarnations.
+
+See GILGOOLTEM, JOB, NIGHT, PRAGAPATI, RE-INCARNATION, SICKLE, SOUL.
+
+**Corrections made:** `sre` → are; `Jos` → JOB; `PraGipatt` → PRAGAPATI; `Sona` → SOUL; `GILGooLteM` → GILGOOLTEM; and quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

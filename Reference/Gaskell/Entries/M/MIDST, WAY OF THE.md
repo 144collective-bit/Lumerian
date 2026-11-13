@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-midst-way-of-the
 headword: "MIDST, WAY OF THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `DIsciPLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JESUS OF GOSPELS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher sub-planes of the astral.
+
+> "Jesus and his disciples soar aloft into the way of the midst, and come to the first order of the Way of the Midst."—*Books of the Saviour*, in *Pistis Sophia*.
+
+The Christ activity having made the qualities obedient to his word departs from the plane of physical manifestation, and so withdraws to the higher astral.
+
+See DISCIPLES, JESUS OF GOSPELS.
+
+**Corrections made:** `DIsciPLes` → DISCIPLES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

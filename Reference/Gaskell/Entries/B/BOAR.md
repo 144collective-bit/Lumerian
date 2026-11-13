@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boar
 headword: "BOAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,28 @@ tags:
 | `JUDAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDAS ISCARIOT|JUDAS ISCARIOT]]; [[Reference/Gaskell/Entries/J/JUDAS JUDAH, THE LAND OF|JUDAS JUDAH, THE LAND OF]] |
 | `PIa Sow` | **unresolved** (review queue) |
 | `Swine` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWINE|SWINE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary, or of the astro-mental nature.
+
+> "Frey drove in a chariot drawn by a boar called Gyllenborste, or Slidrugtanne."—*Prose Edda*.
+
+And now the Self animates the causal-body, only after, however, the evolution has been furthered upon the planes below, i.e. the quaternary.
+
+> "In the poetical tales of the ancient Scandinavians, Frey, the deity of the Sun, was fabled to have been killed by a boar; which was therefore annually offered to him at the great feast of Yule, celebrated during the winter solstice."
+
+The Self (Frey) being completely involved in the matter of the lower planes is, as it were, killed by the lower quaternary.
+
+> "It is said that Adonis was slain by a boar. Now Adonis is supposed to be the same with Bacchus; and many rites in the worship of each confirm this opinion."—Plutarch, *Symposiaca*, 4, 5.
+
+"Adonis" being the Self, the same explanation applies. The Buddha died through eating "boar's flesh": that is, the Soul having attained perfection through the consumption of the lower quaternary (boar), it dies out of the lower nature to be born into the higher.
+
+See ADONIS, ARES, JUDAS, PIG SOW, SWINE.
+
+**Corrections made:** `4 boar` → a boar; `Seandinavians` → Scandinavians; `PLurTarcH` → Plutarch; `Pia Sow` → PIG SOW (see UNCLEAR); quotation marks normalised.
+
+**Unclear or supplied:** The attribution to the Frey quotation ("In the poetical tales...") is absent in the OCR. See-list `PIG SOW` is a likely reading of OCR `PIa Sow`.
 
 ## Full OCR entry body (exact)
 

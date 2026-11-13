@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddhic-body
 headword: "BUDDHIC-BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the vehicle of the soul on the buddhic plane, potential and latent as yet, but destined to become manifest and active when the consciousness of the perfected ego rises to its level and claims its inheritance—
+
+> "treasure in the heavens that faileth not. . . . For where your treasure is, there will your heart be also."—Luke xii. 33, 34.
+
+> "And I stretched forth and received my bright embroidered robe. With the beauty of its colours I adorned myself" ("Hymn of the Soul").—*Acts of Judas Thomas*.
+
+And I made a great effort to receive my buddhic vesture, and did at length achieve my purpose. With its brilliant qualities, lovely to regard, did I adorn myself. The buddhic-body is described as full of intelligence, wisdom, truth, and love, to a degree impossible for the lower mind to have any conception of. The putting on by the saint of this "robe of glory" will introduce the soul to a state of bliss in which higher faculties and activities will be exercised without a trace of selfishness entering in.
+
+See CHILDREN OF HORUS, COLOURS, HEART, INCARNATION OF SOULS, NESHAMAH, QEBSENNUF, ROSE, SAMSKARA, SHEATHS, SKANDHAS, TREASURE, VEHICLES, VESTURES.
+
+**Corrections made:** `mot` → not; `Luxke xxi. 33, 34` → Luke xxi. 33, 34 (see UNCLEAR); `JudasThomas` → Judas Thomas; page heading `BUDDHIC` removed from before `soul`; `80ULS` → SOULS; `Samxknara` → SAMSKARA; See-list spellings restored (`CoLouRs`, `Rose`); quotation marks normalised.
+
+**Unclear or supplied:** The quotation after the opening sentence is split by the OCR from its attribution only by a dash; set as a blockquote with the fragment `treasure in the heavens...` as printed. The reference reads `Luke xxi. 33, 34` in the OCR (`Luxke xxi.`); the quoted words are Luke xii. 33, 34, but the numeral is left as printed apart from the name: see the corrections line.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-frigg-or-frikka-wife-of-odin
 headword: "FRIGG, OR FRIKKA, WIFE OF ODIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
 | `Ox.ympvus` | **unresolved** (review queue) |
 | `WIspoM. FROST; ICE;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, the principle of Buddhi, allied with the Self.
+
+> "Frigg, the daughter of Fiorgynn (he of the mountain top), as consort of the highest god takes rank above all other goddesses: she knows the fate of men, she presides over marriages."—Grimm, *Teutonic Mythology*, Vol. I. p. 304.
+
+The Wisdom-nature proceeds from the Supreme, and is allied with the Love-nature of the Self. Through Wisdom the mental qualities (men) are purified and transmuted, in order that in the risen and glorified souls the marriage of Wisdom and Love shall be celebrated.
+
+See DEATH OF BALDER, FENSAL, HERMOD, MARRIAGE, MISTLETOE, OLYMPUS, WISDOM.
+
+**Corrections made:** `Grim` → Grimm; page heading `294 FRUIT` removed from mid-sentence and trailing page heading `FROST; ICE;` removed from the end; See-list spellings restored (`HErmop`, `Ox.ympvus`, `WIspoM`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

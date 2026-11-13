@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deluge-of-water
 headword: "DELUGE OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,24 @@ tags:
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `VaIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the outpouring of ideas from the fountain of Truth (water). The "deluge" implies the awakenment of the mind in ignorance and error; for the downpouring truth (rain) is at first reflected as falsity on the astro-mental plane. The ideas of the lower mind are varieties of error, for the mind cannot know the perfect truth.
+
+> "And now when all the world was deluged, nought appeared above the waves but Manu and the seven Rishis, and the Fish that drew the ship."—*Mahabharata*, III.
+
+And now when the lower nature was, as it were, submerged in the lower ideas, and transformed by the awakenment of the mind in error and ignorance, then above the illusions of desire and sense rose the intellect in the seven races of humanity, and the Higher Self (the Fish) who guided and energised the evolution of the soul (ship).
+
+> "Unwearied thus for years on years the Fish propelled the ship across the heaped up waters, till at length it bore the vessel to the peak of Himavân; then softly smiling, thus the Fish addressed the sage,—Haste thee to bind thy ship to this high crag."—*Ibid.*
+
+For æons the Self guided and drew the soul onwards, until at length it raised it inwardly to a high pitch of aspiration (the peak). Then the Higher Self inclined in love to the lower which now aspired, and instructed the soul how to seize the opportunity afforded it to attain rest or stability in firm attachment to the higher.—(See 2 Sam. xxii. 2-5). All the Deluge, or Flood, stories in the sacred books expound the theme of the awakenment of the mind in ignorance which is the prelude to the attainment of Truth. The reality (water) above, is reflected in illusion (water) below, while the higher nature of the soul awaits undisturbed its evolution in due course.
+
+See ABTU FISH, ADITYAS, ANCHORAGE, ARK, DEPRAVITY, FISH (great), FLOOD, HIMAVAN, HORN, JESUS (fish), LAKE, MANU, MOORING-POST, OCEAN, RAIN, ROCK, SHIP OF MANU, STONE, VAIVASVATA, WATER.
+
+**Corrections made:** `ITI.` → III.; `Himavaén` → Himavân; `Jbid.` → Ibid.; `zons` → æons; `inclincd` → inclined; `im` → in; page heading `210 DEMETER` removed from mid-sentence; See-list spellings restored (`FLoop`, `Himavan`, `Horn`, `JEsus`, `LakEe`, `Moorine-post`, `OcEaN`, `Rar`, `SHuP OF MANU`, `VaIVASVATA`); and similar minor fixes.
+
+**Unclear or supplied:** Roman numeral `III.` restored from OCR `ITI.` (damage obvious).
 
 ## Full OCR entry body (exact)
 

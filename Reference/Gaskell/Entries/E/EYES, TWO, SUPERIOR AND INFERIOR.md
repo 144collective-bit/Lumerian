@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eyes-two-superior-and-inferior
 headword: "EYES, TWO, SUPERIOR AND INFERIOR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `HIGHER and LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `MimEr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Higher Self and the lower self; or the upward- and downward-looking faculties of perception in the soul.
+
+> "Unless the bountiful, [superior eye?] were to look down upon and bathe the inferior eye, the universe could not exist even a single moment."—*Kabbalah*, "The Greater Holy Assembly," Ch. IX.
+
+> "The two eyes of the soul of man cannot both perform their work at once; but if the soul shall see with the right eye into eternity, then the left eye must close itself and refrain from working, and be as though it were dead. For if the left eye be fulfilling its office toward outward things; that is, holding converse with time and the creatures; then must the right eye be hindered in its working; that is, in its contemplation. Therefore whosoever will have the one must let the other go; for 'no man can serve two masters.'"—*Theologia Germanica*, Ch. VII.
+
+See HIGHER AND LOWER, [MIRROR?].
+
+**Corrections made:** `oy seen be` → [superior eye?]; `tlose iteelf` → close itself; `hindred` → hindered; `HIGHER and LOWER` → HIGHER AND LOWER; quotation marks normalised.
+
+**Unclear or supplied:** `[superior eye?]` replaces OCR `oy seen be`, and `the` is supplied before "inferior eye". `[MIRROR?]` is a doubtful See-list item (OCR `MimEr`).
 
 ## Full OCR entry body (exact)
 

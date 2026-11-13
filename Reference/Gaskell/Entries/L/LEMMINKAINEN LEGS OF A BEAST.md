@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lemminkainen-legs-of-a-beast
 headword: "LEMMINKAINEN LEGS OF A BEAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary, or of activities upon the lower planes.
+
+See ANIMALS, QUATERNARY.
+
+**Corrections made:** None beyond paragraphing.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

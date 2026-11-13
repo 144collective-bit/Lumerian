@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-f-god-quetzalcoatl-sacrificer-crucifixion-according
 headword: "F GOD, QUETZALCOATL, SACRIFICER CRUCIFIXION ACCORDING GNOSTICS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -88,6 +89,24 @@ tags:
 | `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
 | `YMIB` | **unresolved** (review queue) |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Sacrifice, as before.
+
+> "The Lord said unto John, 'Thou hearest that I suffered, yet I suffered not; that I was pierced, yet was I not smitten; that I was hanged, yet was I not hanged; ... See thou therefore in Me the slaying of a Word (Logos), ... the passion of a Word. And by a Word I mean Man. First, then, understand the Word, then shalt thou understand the Lord, and thirdly the Man, and what is his passion.'"—*Acts of John* (2nd cent.).
+
+First, the "Word," i.e. the expression of the Divine Life on the lower planes. Second, the "Lord," i.e. the Divine Life indwelling in the lower nature. Third, the "Man," i.e. the Archetypal Man who is potentially perfect man, and is the Divine Life Incarnate. Thus, all three are the one Christ crucified in humanity. Christ, whose nature is bliss, cannot suffer, but he becomes through Self-limitation (passion) the Perfect Man within, who is slain and dies in order to be born again in every soul. It is said in this scripture,—"Not yet hath every Limb of Him who came down been gathered together," which means that the qualities of the perfect Christ nature are scattered abroad, as it were, no higher quality being fully evolved in any striving soul. The gathering together of the "Limbs of the Ineffable" in the myriad souls is when the Lord cometh in the clouds of heaven (buddhi), and the saints (individualities possessing the "limbs") meet Him in the "air" (higher mind).
+
+> "Thy Head stretcheth up into heaven, that thou mayest symbol forth the Heavenly Logos, the Head of all things. Thy middle parts are stretched forth, as it were, hands to right and left, to put to flight the envious and hostile power of the evil one; that Thou mayest gather together into one them (the Limbs) that are scattered abroad. Thy foot is set in the earth, sunk in the deep, that Thou mayest draw up those that lie beneath the earth and are held fast, ... and mayest join them to those in heaven."—*Acts of Andrew* (2nd cent.).
+
+The Heavenly Logos is the celestial Christ, the "Head of all things." The terrestrial Christ is Christ Incarnate,—the Archetypal Man stretched forth in the lower nature of the soul. The "hands to right and left" signify the outgoing and incoming energies which disperse the hostile forces of ignorance and evil, and also by gathering together the higher qualities (the Limbs), prepare the souls for union with the One. The "foot in the earth" signifies the physical foundation of the lower activities which advance the evolution of the soul. These activities enable the Christ to gradually raise the qualities which are held captive, and by transmuting them, join them to those on the buddhic plane.
+
+See ARC. MAN, CHRIST'S SECOND COMING, CROSS, DIONYSUS, DISMEMBERMENT, IMAGE, INCARNATION, [KAIOMARTS?], LIMBS, MEMBERS, PRAGAPATI, PURUSHA, SACRIFICER, [SINA?], VISVAKARMAN, WORD, YMIR, ZAGREUS.
+
+**Corrections made:** `~—Acte of John` → —*Acts of John*; `Lirnbs` → Limbs; `limbs?)` → limbs"); `ecattered` → scattered; `Tho` → The; `furces` → forces; `lowcr` → lower; page heading `OF TO CHRIST, THE 191 CRUCIFIXION` removed from mid-sentence; See-list spellings restored (`Cross`, `IMAUE`, `PurnsHa`, `YMIB`); quotation marks normalised.
+
+**Unclear or supplied:** `[KAIOMARTS?]` and `[SINA?]` are doubtful See-list items (OCR `KaloMARTS`, `SINA`).
 
 ## Full OCR entry body (exact)
 

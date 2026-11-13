@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circe-daughter-of-helios
 headword: "CIRCE, DAUGHTER OF HELIOS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `AvusontA` | **unresolved** (review queue) |
 | `Pic` | **unresolved** (review queue) |
 | `SwrnkE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of perfection begotten of the Supreme. When the soul is perfectly free from attachment to the things of desire and sense, then even those qualities that seek perfection (the lovers of Circe) have the appearance of self-seeking desires (swine). As the "purifier of the Argonauts," "Circe" is found on the highest sub-planes of the buddhic plane of the soul.
+
+See EA, ARGO, AUSONIA, PIG, SWINE.
+
+**Corrections made:** `evem` → even; `s found` → is found; `sub-planesS` → sub-planes; See-list spellings restored (`Ea`, `AnGo`, `AvusontA`, `Pic`, `SwrnkE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

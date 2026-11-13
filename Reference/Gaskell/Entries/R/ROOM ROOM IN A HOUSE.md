@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-room-room-in-a-house
 headword: "ROOM ROOM IN A HOUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `PASSOVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `SACRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `‘` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a sub-plane of the mental plane.
+
+> "And he will show you a large upper room furnished: there make ready (the passover)."—Luke xxii. 12.
+
+The "house" is the state into which the soul is brought through its own efforts. It is the mental environment to some extent; but it is more than that: it is also the whole external aspect of the Higher Self. Each "room" serves for a sub-plane; and an "upper room" is that upon which the Christ-soul functions as the time of glorification draws nigh. See HOUSE OF A MAN, PASSOVER, SACRAMENT,
+
+**Corrections made:** Quotation marks repaired; `LUKE` → Luke.
+
+**Unclear or supplied:** The OCR breaks off in the See list after `SACRAMENT,`; the rest of the list is not in the OCR.
 
 ## Full OCR entry body (exact)
 

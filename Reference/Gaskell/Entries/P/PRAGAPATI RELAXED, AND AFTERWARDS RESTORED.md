@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pragapati-relaxed-and-afterwards-restored
 headword: "PRAGAPATI RELAXED, AND AFTERWARDS RESTORED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -74,6 +75,36 @@ tags:
 | `VITAL arms` | **unresolved** (review queue) |
 | `YMIR` | **unresolved** (review queue) |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Man, who, having lost the Divine Life of Involution, afterwards receives, that of Evolution, and is restored in the souls of humanity.
+
+> "Pragapati created whatsoever exists. Having created creatures, he, having run the whole race, became relaxed, . . . the vital air went out from within. When it had gone out of him the gods left him."—*Sata. Brâh.*, VI. 1, 2, 12.
+
+The Self, having produced the archetypal world with all its forms and qualities perfect on the higher planes, ceased to manifest in Involution. The life, or spiritual energy, operating upon the mental plane, subsided, and the higher qualities became latent.
+
+> "The gods said to Agni, 'In thee we will heal this our father Pragapati.'—'Then I will enter into him, when whole,' he (Agni) said.—'So be it,' they said. Hence while being Pragapati, they yet call him Agni."—*Ibid.*, v. 21.
+
+The higher qualities look to the birth of the Self within the soul, for the restoration of the greater Self involved in matter of the lower planes. The lesser Self will enter as a divine seed "when whole," i.e. when the lower nature is evolved complete. The greater Self and the lesser Self are yet the same.
+
+> "Here now they say, 'Wherefore is Agni (the fire-altar) built of this earth?' But, surely, when that deity (Pragapati) became relaxed (fell asunder), he flowed along this earth in the shape of his life-sap; and when the gods restored him (put him together) they gathered him up from this earth."—*Ibid.*, v. 29.
+
+Wherefore is the Divine nature to be built up of the lower nature—the quaternary? Because it is through perfecting the lower nature that the Divine nature arises from it. This is shown in the fact of the dismemberment of the Archetypal Man and the shedding of his blood (life sap), which is the Life permeating the lower nature (earth), and which is gathered up when the higher qualities put his members together for his resurrection and ascension in the souls of humanity.
+
+> "By offering up his own self in sacrifice, Pragapati becomes dismembered; and all those separated limbs and faculties of his come to form the universe. . . . It requires a new and ever new sacrifice to build the dismembered Lord of creatures up again."—J. Eggeling, *S. B. of E.*, Vol. XLIII. Intro.
+
+> "The Son of God came from the fullness of the Godhead into a human life. For having emptied Himself, and taken upon Him the form of a slave, He was restored again to His former perfection and dignity. For He, being humbled, and apparently degraded, was restored again from His humiliation and degradation to His former completeness and [great]ness, having never been diminished from His essential perfection."—Methodius, *Banquet*, etc., Ch. XI.
+
+> "Nebertcher, i.e. the 'Lord of all.' In the 'Book of the Dead' Osiris is frequently called by this name, the allusion being to the complete reconstruction of his body after it had been hacked to pieces by Set."—Budge, *Book of the Dead*, Vol. I. p. 19.
+
+> "Hence the state of the inward man. . . . His remaking or regeneration appears to them (mystics) as the primal necessity, if he is ever to obtain rights of citizenship in the 'country of the soul.' We have seen that this idea of the New Birth, the remaking or transmutation of the self, clothed in many different symbols, runs through the whole of mysticism and much of theology. It is the mystic's subjective reading of those necessary psychological changes which he observes taking place within himself as his spiritual consciousness grows. His hard work of renunciation, of detachment from the things which that consciousness points out as illusory or impure, his purifications and trials, all form part of it. If that which is whole or perfect is to come, then that which is in part must be done away: 'For in what measure we put off the creature, in the same measure are we able to put on the Creator; neither more nor less' (*Theol. Germ.*, Ch. I.)."—E. Underhill, *Mysticism*, p. 167.
+
+See ABRAXAS, ADAM (higher), [Aruri?], AGNI, ALPHA, ALTAR (fire), ARC. MAN, BLOOD, CHARIOT, CREATURES, CROSS, CRUCIFIXION (gnostic), DEATH OF LEMMINKAINEN, OF OSIRIS, DIONYSUS, DISMEMBERMENT, [Dviyaqus?], EARTH, EVOLUTION, HEAVEN AND EARTH, HOMA-JUICE, HUMAN, INCARNATION, INVOLUTION, JOB, [Liss?], MARROW, MEMBERS, PURUSHA, QUATERNARY, QEBHSENNUF, REDEMPTION, REGENERATION, SACRIFICE, SACRIFICER, SAP, SEED, SOMA-JUICE, URANUS, VITAL AIRS, YMIR, ZAGREUS.
+
+**Corrections made:** page headings `588 PRAGAPATI` and `PRAGNA` removed from mid-sentence ("the' restoration" and "mysticism PRAGNA and much"); `Pragipati`, `Pragapasti` → Pragapati; `Bréh.` → Brâh.; `Then | will` → Then I will; `earth !'` → earth?'; `lifesap` → life-sap; `leeser` → lesser; `Jbid.` → Ibid.; `EGGELInGa` → Eggeling; `Merrnopius` → Methodius; `rom` → from; `ieces` → pieces; `Bupae`, `ol. I.` → Budge, Vol. I.; `righte` → rights; `peychological` → psychological; `Mystictem` → Mysticism; `Zheol. Germ.` → Theol. Germ.; See-list spellings restored (`DIONYsus`, `Eartu`, `EvoLutrionN`, `Marrow`, `QuATERNARY`, `URaAnus`, `VITAL arms`, and similar).
+
+**Unclear or supplied:** `[great]ness` is supplied for the damaged OCR `atness` ("completeness and atness"). `[Aruri?]`, `[Dviyaqus?]` and `[Liss?]` in the See list could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

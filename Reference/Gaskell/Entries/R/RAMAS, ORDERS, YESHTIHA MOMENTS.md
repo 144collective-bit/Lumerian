@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ramas-orders-yeshtiha-moments
 headword: "RAMAS, ORDERS, YESHTIHA MOMENTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `ILy4` | **unresolved** (review queue) |
 | `SaLaGya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
 | `TIME` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of eternal duration out of time.
+
+> "He comes to the moments called Yeshtiha, and they flee from him."—*Kaush. Upanishad*, I. 2.
+
+The soul passes beyond the eternal, that is, withdrawn above the possibility of manvantaric manifestation. Time now retreats, as it were, and the soul becomes merged in the Absolute.
+
+See APARAGITA, DEVAYANA, ILYA, SALAGYA, TIME.
+
+**Corrections made:** Quotation marks normalised; See-list spellings restored (`ILy4`, `SaLaGya`).
+
+**Unclear or supplied:** `ILy4` read as ILYA and `SaLaGya` read as SALAGYA are best readings.
 
 ## Full OCR entry body (exact)
 

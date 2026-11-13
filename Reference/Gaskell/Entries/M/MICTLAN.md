@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mictlan
 headword: "MICTLAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Manata` | **unresolved** (review queue) |
 | `Nort` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower principle, the desire-mind, or the astral plane of illusion.
+
+> "Mictlan was the Mexican Pluto. The name signifies 'Country of the North'—the region of waste and hunger and death, and was used both of the place and the deity. There, surrounded by fearful demons (Tzitzimitles), he ruled over the shades of the departed much as did Pluto, and possessed several wives. The representations of him give to him a most repulsive aspect, and he is usually depicted in the act of devouring his victims."—L. Spence, *Mythologies of Ancient Mexico*, etc., p. 24.
+
+The astral plane (north) is a region devoid of spiritual food and subject to change and dissolution. On it are the desires (demons) and instincts attached to the personalities. The desire-mind (Mictlan) is allied with the lower emotions and passions (wives), and it seeks to engulf and rule the personalities.
+
+See DEMONS, [Drvim?], [Hangs?], HELL, [Manata?], NORTH, SERPENT.
+
+**Corrections made:** `Trzitzimitles` → Tzitzimitles; `& most` → a most; `Nort` → NORTH; `Demons`, `HELL`, `SERPENT` restored to capitals.
+
+**Unclear or supplied:** `[Drvim?]`, `[Hangs?]` and `[Manata?]` are damaged See-list items that cannot be identified with confidence.
 
 ## Full OCR entry body (exact)
 

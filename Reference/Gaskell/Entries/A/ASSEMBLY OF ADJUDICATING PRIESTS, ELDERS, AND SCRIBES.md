@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-assembly-of-adjudicating-priests-elders-and-scribes
 headword: "ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Priests AND ELDERS` | **unresolved** (review queue) |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `TRL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of official theology,—the habit of mind which clings to authority and tradition, and is ready to kill out any new truth that presents [itself?].
+
+> "The chief priests mocking Jesus, with the scribes and elders, said, He saved others; himself he cannot save. He is the King of Israel; let him now come down from the cross, and we will believe on him."—Matt. xxvii. 41, 42.
+
+The "chief priests" signify a mental condition full of prejudice and without Spiritual insight, therefore without recognition in the least of the position in which the Christ-soul is placed. It is thought that by an appeal to the lower life, proof of the existence of the Higher may be obtained, a proceeding which is contrary to the truth and the divine life of the soul.
+
+> "It is only the adherents of the dead letter which religion rejects, who have filled the world with the clamour and [word unclear] of religious controversies."—[F.] D. E. Schleiermacher.
+
+See CAIAPHAS, GABBATHA, PILATE, PRIESTS AND ELDERS, TRADITION, [TRL?].
+
+**Corrections made:** `Mart.` → Matt.; `ScHLEIERMACHER` capitalisation normalised; See-list spellings restored (`CatapHas`, `Priests AND ELDERS`); quotation marks normalised.
+
+**Unclear or supplied:** `[itself?]` is supplied (the sentence breaks off at `presents` in the OCR). `[word unclear]` in the Schleiermacher quotation (OCR `clamour and of`). `[F.]` is supplied (OCR `. D. E.`). `[TRL?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

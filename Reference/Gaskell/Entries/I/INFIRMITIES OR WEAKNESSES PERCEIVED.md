@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-infirmities-or-weaknesses-perceived
 headword: "INFIRMITIES OR WEAKNESSES PERCEIVED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Evin` | **unresolved** (review queue) |
 | `GRacE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GRACE GOVERNORS OF THE EARTH|GRACE GOVERNORS OF THE EARTH]]; [[Reference/Gaskell/Entries/G/GRACE OF GOD|GRACE OF GOD]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of recognition of lack of completion or perfection in the manifestation of the qualities of the soul: the recognition being an aspiration for the grace of God to heal the soul.
+
+See EVIL, GRACE, QUALITIES.
+
+**Corrections made:** See-list spellings restored (`Evin`, `GRacE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

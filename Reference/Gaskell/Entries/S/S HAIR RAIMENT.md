@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-hair-raiment
 headword: "S HAIR RAIMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 | `GIRDLE (leather)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)|GIRDLE, STAR-STUDDED, SPIRIT-FASHIONED (BELT OF ORION)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the mind's obedience to higher guidance, and willingness to endure for the sake of right and truth. See JOHN BAPTIST, GIRDLE (leather),
+
+**Corrections made:** Page heading `CAMP` removed from mid-sentence.
+
+**Unclear or supplied:** The OCR breaks off in the See list after `GIRDLE (leather),`.
 
 ## Full OCR entry body (exact)
 

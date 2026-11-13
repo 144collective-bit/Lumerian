@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mahavira-sovereign-lord
 headword: "MAHAVIRA, SOVEREIGN LORD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Sretr` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego, or the individuality, ruler of the personalities. Or a symbol of the incarnate Self, Higher Self.
+
+> "Mahavira, 'the great hero' of the Jainas; like Buddha."—Barth, *Rel. of India*, p. 148.
+
+See BUDDHA, SELF, SOUL, SUN.
+
+**Corrections made:** `Barra` → Barth; `BuDpDHA` → BUDDHA; `Sretr` → SELF.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-carapace-the-cosmic
 headword: "CARAPACE, THE COSMIC"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Arc. MAN` | **unresolved** (review queue) |
 | `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `MatTrer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MATTER (FEMININE)|MATTER (FEMININE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Matter as the encasement of Spirit, resulting from the process of involution.
+
+> "The Lord and Maker of all things. . . . when He perceived that the Essential Man could not be lover of all things, unless He clothed him in a cosmic [carapace?] He shut him in within a house of [bo]dy."—"The Perfect Sermon," G. R. S. Mead, *T. G. Hermes*, Vol. II. p. 321.
+
+It is necessary that the Essential or Archetypal Man should be fully involved in the soul or cosmos through love—the Divine Sacrifice,—in order that afterwards it shall be evolved in the many souls of humanity.
+
+See ARC. MAN, INCARNATION, MATTER,
+
+**Corrections made:** `encase CARAPACE ment` → encasement (page heading `CARAPACE` removed); `. - »` → . . .; `G. R. 8. Mrap, 7. G. Hermes` → G. R. S. Mead, T. G. Hermes; `MatTrer` → MATTER.
+
+**Unclear or supplied:** `[carapace?]` (OCR `carafoe`) and `[bo]dy` (OCR `dy`) are damaged words restored from context. The See list ends with a comma; later items may be lost.
 
 ## Full OCR entry body (exact)
 

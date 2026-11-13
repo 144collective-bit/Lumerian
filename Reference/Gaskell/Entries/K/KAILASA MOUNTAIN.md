@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kailasa-mountain
 headword: "KAILASA MOUNTAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Hmavan` | **unresolved** (review queue) |
 | `Mountaly` | **unresolved** (review queue) |
 | `OLYMPUS. 424` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of perfect purity, justice and wisdom on the higher planes of the soul.
+
+See ALBORDJ, HIMAVAN, MOUNTAIN, OLYMPUS.
+
+**Corrections made:** `Hmavan` → HIMAVAN; `Mountaly` → MOUNTAIN; trailing page number `424` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

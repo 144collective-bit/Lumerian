@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horizons-the-two
 headword: "HORIZONS, THE TWO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,36 @@ tags:
 | `Ch. LXIV. ** All the horns of the wicked also will I cut off ; but the horns of the righteous shall be lifted up.’’—Ps. lxxv. 10. (See Ps. xviii. 2` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `and Ps. xcii. 10.) See SuHrp oF MANv` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Tusk` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the commencement and termination of the cycle of life through which the Self passes, as comparable to the sun in its diurnal course from east to west.
+
+> "Heru-khuti, i.e. Horus of the two horizons, is a form of the Sun-god; the words 'two horizons' refer to the mountains of Bakhatet and Manu, the most easterly and westerly points of the sun's course, and the places where he rose and set."—Budge, *Book of the Dead*, p. 4.
+
+> "I know the two sycamore trees of turquoise, from between which the god Râ doth emerge when he setteth out upon his journey over the pillars of Shu towards the door of the lord of the East wherefrom Râ cometh forth."—*Ibid.*, Ch. CXLIX.
+
+The "trees" or "mountains" signify the two highest planes, atma-buddhi, and the "pillars" denote the quaternary of planes below the plane of atma. The journey over the quaternary typifies the lower existence in which the Self (sun) is unapparent until he rises in the "East" in the great day of the Lord.
+
+See EAST, [Evtsau?], GATE (tchesert), HORUS, LION-GOD, MANVANTARA, PILLARS OF SHU, RA, SAND, SUN, SUN-RISING, SYCAMORE, WEST, ZODIAC.
+
+### Also in this note: HORN ON THE HEAD
+
+A symbol in its higher aspect, of aspiration and lofty thought, and in its lower aspect of ambition, pride, vanity, conceit, egotism.
+
+> "Horns denote powers of truth from . . ."—Swedenborg, *Arc. Cel.*, n. 10,186.
+
+> "I (the Soul) make a way among the horns of all those who [are] strong against me."—Budge, *Book of the Dead*, Ch. LXIV.
+
+> "All the horns of the wicked also will I cut off; but the horns of the righteous shall be lifted up."—Ps. lxxv. 10.
+
+(See Ps. xviii. 2, and Ps. xcii. 10.)
+
+See SHIP OF MANU, TUSK.
+
+**Corrections made:** `ic.` → i.e.; `BupGeE`, `Bupar` → Budge; `R&` → Râ; `unapperent` → unapparent; `lower. existence` → lower existence; See-list spellings restored (`Ease`, `Gate`, `Ri`, `Sanp`, `SuN-BISING`, `WEs?`, `SuHrp oF MANv`); the stray fragment `"Bok of` after "who ee" and the damaged `o` in `Book o the Dead` removed/restored.
+
+**Unclear or supplied:** Contains a second entry: HORN ON THE HEAD. `[are]` supplied for OCR `ee`. `[Evtsau?]` See-list item not identified. The Swedenborg quotation breaks off after "from" in the OCR.
 
 ## Full OCR entry body (exact)
 

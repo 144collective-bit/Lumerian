@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bur-whose-son-was-borr
 headword: "BUR, WHOSE SON WAS BORR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Edda.) See AUDUMBLA` | **unresolved** (review queue) |
 | `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `YMIR. BURNING OF DRY GRASS AS FUEL :-— A symbol of the production of the sexual instinct or lust` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Desire nature which gives rise to the Mind (Borr), which unites with the emotion nature, and afterwards awakens the spiritual nature within the soul. (See Edda.)
+
+See AUDUMBLA, CHILDREN OF HORUS, YMIR.
+
+### Also in this note: BURNING OF DRY GRASS AS FUEL
+
+A symbol of the production of the sexual instinct or lust.
+
+**Corrections made:** Quotation marks normalised only; second headword `BURNING OF DRY GRASS AS FUEL :-—` set under its own heading.
+
+**Unclear or supplied:** Contains a second entry: BURNING OF DRY GRASS AS FUEL.
 
 ## Full OCR entry body (exact)
 

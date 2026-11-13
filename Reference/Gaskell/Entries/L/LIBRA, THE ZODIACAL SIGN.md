@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-libra-the-zodiacal-sign
 headword: "LIBRA, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,16 @@ tags:
 | `SEVENTH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEVENTH DAY|SEVENTH DAY]]; [[Reference/Gaskell/Entries/S/SEVENTH HOUR OF THE NIGHT OF THE TUAT|SEVENTH HOUR OF THE NIGHT OF THE TUAT]] |
 | `Vimco` | **unresolved** (review queue) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the seventh period of the cycle of life, which is the first period of evolution on the astral plane. The first point of Libra represents the balance between involution and evolution, and the commencement of the evolution from homogeneity to heterogeneity of the many forms and qualities.
+
+See ARC. MAN, EQUINOX, EVOLUTION, INVOLUTION, [Lowss?], SABBATH, SEVENTH, VIRGO, ZODIAC.
+
+**Corrections made:** Page heading `LIGHT` removed from inside `EvotuLIGHT TION` → EVOLUTION; `Anc` → ARC.; `Vimco` → VIRGO.
+
+**Unclear or supplied:** `[Lowss?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

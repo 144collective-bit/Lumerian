@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garden-of-reeds
 headword: "GARDEN OF REEDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `REED PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
 | `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `Union (reeds). GARDEN OF _` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane, containing the astral heaven,—Svarga, or the Summerland,—on its upper sub-planes.
+
+> "Of union in the Garden of Reeds."—*Book of the Dead*, Ch. CX.
+
+This refers to the acquirement of Individuality as the self rises above the manifestation of the astral life.
+
+See BIRTH OF HORUS, MARSH, PEACHES, REED PLAIN, SEKHET-AARU, UNION (reeds).
+
+**Corrections made:** `contalning` → containing; trailing page heading `GARDEN OF _` removed; See-list spellings restored (`BrrTH`, `Union`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

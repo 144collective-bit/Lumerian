@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-experiences-of-the-ego
 headword: "EXPERIENCES OF THE EGO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Gotp (spot)` | **unresolved** (review queue) |
 | `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `PEaru (precious)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are the facts or truths gathered on the lower planes by means of the astral mechanism of sensation. They are transmuted and collected together in the causal-body where they are co-ordinated and their value realised. The complexity and diversity of emotions and experiences can alone provide for growth and expansion of consciousness. The soul collects through mind and desire all the experiences which are woven into the nature of the Self.
+
+> "The truth is that there is no such thing as an abstract right or good. [A] thing is only right and good as it enters into the experience of conscious [beings] and is lived out by them. ... There is no such thing, I say, as abstract truth or abstract righteousness apart from living minds and souls to think them and utter them; and it is not enough,—even were it possible, which it is not,—that one privileged generation only, or half a dozen generations, should be the full and final fruitage of the untold sons of noble effort which have gone to make them possible. ... Brethren, you and I have a greater destiny than that. It is to find our place in a gloriously perfect Divine Humanity."—R. J. Campbell, *Serm.*, *Our Earthly Race*.
+
+See DARKNESS (lower), [ENLSAN?] (rest), FISH, FOOD, GATHAS (chanting), GOLD (spot), NET, PEARL (precious).
+
+**Corrections made:** `causalbody` → causal-body; `bei` → [beings]; `CaMPBELL` → Campbell; See-list spellings restored (`Darkness`, `Foop`, `Gatsuas`, `Gotp`, `PEaru`); quotation marks normalised.
+
+**Unclear or supplied:** `[A]` is supplied (OCR reads "good. thing is only right"). `[beings]` completes OCR `bei`. `[ENLSAN?]` is an unidentified See-list item (OCR `Enlsan (rest.)`).
 
 ## Full OCR entry body (exact)
 

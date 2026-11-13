@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-earthquakes
 headword: "EARTHQUAKES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `FAMINE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAMINE IN THE LAND|FAMINE IN THE LAND]] |
 | `NatTIon. EAST ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblem of upheaval in the lower nature, in which disruptive forces break up conditions that are outlived, and which are no longer of use in the old forms.
+
+> "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines and earthquakes in divers places."—Matt. xxiv. 7.
+
+This represents the conflicts between groups of the lower qualities, resulting in certain processes whereby the evolution of good is ultimately accomplished. The shaking of the lower planes (earthquakes) answers to an increase of spiritual energy above. Vibrations communicated to the higher planes set up counter quivers on high levels which react upon the matter beneath.
+
+> "Earthquakes signify changes of state in the church, because the earth signifies the church, and because in the spiritual world, when the state of the church is perverted anywhere, and there is a change, an earthquake takes place."—Swedenborg, *Apoc. Rev.*, n. 331.
+
+See CALAMITIES, CHURCH, FAMINE, NATION.
+
+**Corrections made:** `MatTrT.` → Matt.; page headings `EAST` (mid-sentence) and `EAST ;` (end) removed; `n. 33)` → n. 331; See-list spellings restored (`CaALAMITIES`, `NatTIon`); quotation marks normalised.
+
+**Unclear or supplied:** Reference number `n. 331` is read from OCR `n. 33)`.
 
 ## Full OCR entry body (exact)
 

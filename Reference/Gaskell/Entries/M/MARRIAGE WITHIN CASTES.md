@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-marriage-within-castes
 headword: "MARRIAGE WITHIN CASTES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `SvuDRA` | **unresolved** (review queue) |
 | `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VESTURES. 483` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the centres of consciousness and activity in the soul attaching to themselves bodies on the lower planes through which to function and bring forth results.
+
+> "It is declared that a Sûdra woman alone can be the wife of a Sûdra, she and one of his own caste the wives of a Vaisya, those two and one of his own caste the wives of a Kshatriya, those three and one of his own caste the wives of a Brâhmana."—*Laws of Manu*, III. 13.
+
+The four caste "wives" of a "Brâhmana" are the four soul-vestures or bodies on the four lower planes attached to the causal centre or Individuality (Brâhmana). They are the physical body (Sûdra wife), the astral body (Vaisya wife), the mental body (Kshatriya wife), and the causal body (Brâhmana wife). They constitute the means for the soul's activity on the different planes, the gathering of experience, and the bringing forth of results (children).
+
+See BRAHMANA, CASTES, CLASSES, KSHATRIYA, QUATERNARY, SUDRA, VAISYA, VESTURES.
+
+**Corrections made:** `Sidra`, `Sfdra` → Sûdra; `Braihmana`, `Bréhmana` → Brâhmana; `Zaws`, `ITI.` → *Laws*, III.; `soulvestures` → soul-vestures; page number `483` removed from the end; See-list spellings restored (`BranmMana`, `KsHaTriys`, `SvuDRA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

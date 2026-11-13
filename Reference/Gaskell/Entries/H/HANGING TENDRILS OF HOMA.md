@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hanging-tendrils-of-homa
 headword: "HANGING TENDRILS OF HOMA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `GRAPES` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GRAPES, OR WINE|GRAPES, OR WINE]] |
 | `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A comparison of the Divine Nature to the fruit of the vine,—grapes signifying Love of the Ideal. See GRAPES, VINE.
+
+**Corrections made:** Nothing changed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

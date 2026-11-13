@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-innocents
 headword: "INNOCENTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `CREATURES (small)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
 | `Hrrop` | **unresolved** (review queue) |
 | `SEEDS (good)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the germs of the higher qualities appearing in the lower nature.
+
+> "Whosoever shall cause one of these little ones that believe on me to stumble, it were better for him if a great millstone were hanged about his neck, and he were cast into the sea."—Mark ix. 42.
+
+This pronouncement is an emphatic protest against destroying any germ of virtue or truth that may seem unwelcome, or nipping in the bud any effort,—however feeble,—towards expansion of consciousness, which, it must be remembered, is invariably a proof of belief in Christ, who is the goal of attainment for all qualities, however variously men may worship, think, or act.
+
+See CHILD, CHILDREN OF THE KINGDOM, CONVERSION, CREATURES (small), HEROD, SEEDS (good).
+
+**Corrections made:** `tnrariably` → invariably; `MarRK` → Mark; See-list spellings restored (`CONVEBSION`, `Hrrop`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

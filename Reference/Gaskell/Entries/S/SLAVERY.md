@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-slavery
 headword: "SLAVERY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `BONDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `CAPTIVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CAPTIVITY OF THE ISRAELITES|CAPTIVITY OF THE ISRAELITES]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of subjection to the lower nature with its desires, passions, and sensations.
+
+See BONDAGE, CAPTIVITY, SUFFERING.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

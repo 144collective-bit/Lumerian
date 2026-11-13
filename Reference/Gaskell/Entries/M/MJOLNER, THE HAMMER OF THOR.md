@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mjolner-the-hammer-of-thor
 headword: "MJOLNER, THE HAMMER OF THOR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `HyYRROCKEN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYRROCKEN, THE GIANTESS|HYRROCKEN, THE GIANTESS]] |
 | `Mas` | **unresolved** (review queue) |
 | `THOR` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the will exercised on the mental plane.
+
+> "With this Thor [words unclear] his hammer, and would have [knocked?] Hyrrocken on the head, had not the Gods interceded for her."—*The Story of Balder*, *Prose Edda*.
+
+Whereupon the higher mind (Thor) is aroused into activity, whose first dawning upon the lower mental plane takes the form of anger, and thus blindly wields the will (Mjolner) which is now in its possession, a proceeding which, but for the Divine purpose shaping the ends, would have had the effect of causing confusion on the astro-mental plane instead of evolution above it.
+
+See BERSERKS, DEATH OF BALDER, HYRROCKEN, [Mas?], THOR.
+
+**Corrections made:** `Brerserks` → BERSERKS; `ocked` → [knocked?].
+
+**Unclear or supplied:** `[words unclear]`: OCR reads `Ww » and d` between "Thor" and "his hammer". `[knocked?]`: OCR `ocked`. `[Mas?]` is a See-list item not identified.
 
 ## Full OCR entry body (exact)
 

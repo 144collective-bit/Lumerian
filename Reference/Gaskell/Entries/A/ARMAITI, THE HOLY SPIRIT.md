@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-armaiti-the-holy-spirit
 headword: "ARMAITI, THE HOLY SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Hoy axHoer` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `WispDoM` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of buddhi—Wisdom.
+
+> "Armaiti doubles righteousness by her actions."—*Gatha Ushtavaiti*.
+
+The Wisdom principle transmutes the highest of the lower qualities on to its own plane, the buddhic.
+
+See BUDDHI, GOLD, [HOLY GHOST?], ISIS, WISDOM.
+
+**Corrections made:** `symbo!]` → symbol; See-list spellings restored (`Buppui`, `Goip`, `WispDoM`); stray `.` after `Wisdom` removed.
+
+**Unclear or supplied:** `[HOLY GHOST?]` is a reading of OCR `Hoy axHoer`.
 
 ## Full OCR entry body (exact)
 

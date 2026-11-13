@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forty-days-and-nights
 headword: "FORTY DAYS AND NIGHTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Ran (deluge)` | **unresolved** (review queue) |
 | `RE-INCABNATION` | **unresolved** (review queue) |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A complete series of re-incarnations in a stage or period of the soul's evolution. These re-incarnations are transitory conditions on the lower planes.
+
+> "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living thing that I have made will I destroy from off the face of the ground."—Gen. vii. 4.
+
+"Yet seven days,"—a numerical period which signifies completeness of a stage of activity. A flood of truth (rain) is to descend and envelop the lower nature. This outpouring from above is to last "forty days and nights," meaning a period which corresponds to a term of the reincarnating cycle. The lower nature at this stage is to be transformed, that is, raised and purified; hence it will no longer exist as heretofore, but pass away.
+
+See FACE OF GROUND, RAIN (deluge), RE-INCARNATION, WILDERNESS.
+
+**Corrections made:** `GEN. vil. 4` → Gen. vii. 4; `@` → a; `FAcE`, `Ran`, `RE-INCABNATION` See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

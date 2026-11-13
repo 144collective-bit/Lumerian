@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-loaves-for-feeding-people
 headword: "LOAVES FOR FEEDING PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Breap` | **unresolved** (review queue) |
 | `FEEDING. LOCK OF HAIR;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of nourishment for the lower qualities; that is, means for acquiring knowledge, such as the use of the senses for experience and investigation.
+
+See BREAD, FEEDING.
+
+**Corrections made:** `Breap` → BREAD; trailing `LOCK OF HAIR;` removed as the start of the next entry's headword.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

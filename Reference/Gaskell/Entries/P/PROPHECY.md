@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophecy
 headword: "PROPHECY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Farrag (miracles)` | **unresolved** (review queue) |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the faculty of spiritual discernment which is derived by intuition from buddhi, which gives utterance to the truth of hidden things. It is an exercise of the intuition respecting the evolution of the higher qualities in the soul. See BUDDHI, FAITH (miracles), INTUITION, QUALITIES.
+
+**Corrections made:** `Buppusi` → BUDDHI; `Farrag (miracles)` → FAITH (miracles).
+
+**Unclear or supplied:** `FAITH` is read from the damaged OCR `Farrag`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalahansa-the-swan-and-out-of-time
 headword: "KALAHANSA, THE SWAN AND OUT OF TIME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Brap (great)` | **unresolved** (review queue) |
 | `Kansurera` | **unresolved** (review queue) |
 | `SWAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self.
+
+See BIRD (great), [KANSURERA?], SWAN.
+
+**Corrections made:** `Brap` → BIRD.
+
+**Unclear or supplied:** `[KANSURERA?]` is a See-list item that could not be confirmed (OCR `Kansurera`).
 
 ## Full OCR entry body (exact)
 

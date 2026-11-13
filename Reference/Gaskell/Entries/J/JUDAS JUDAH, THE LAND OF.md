@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-judas-judah-the-land-of
 headword: "JUDAS JUDAH, THE LAND OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `IsRaELires` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `PRAISE OF GOD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The region of the qualities beloved of God,—the chosen of the Lord. Those soul qualities in which the Divine nature is evolved in some degree.
+
+See [Hm. country?], ISRAELITES, JESHURUN, PRAISE OF GOD.
+
+**Corrections made:** `IsRaELires` → ISRAELITES.
+
+**Unclear or supplied:** `[Hm. country?]` is a See-list item that could not be identified (OCR `Hm. country`).
 
 ## Full OCR entry body (exact)
 

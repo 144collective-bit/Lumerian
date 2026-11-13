@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bloody-sweat-of-jesus
 headword: "BLOODY SWEAT OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
 | `PASSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the effort of the Divine life to effect union of the higher nature and the lower.
+
+> "The spiritual life follows certain well-defined laws of development, and these laws do not admit of the experience of joy at every stage of the upward road; on the contrary, they necessitate at various points an acquaintance with darkness and the shadow of death, with pain and loss and loneliness of heart, with the agony and bloody sweat and the crucifixion of the soul."—R. J. Campbell, *Serm.*, *The Glorified Life*.
+
+See CRUCIFIXION OF JESUS, PASSION.
+
+**Corrections made:** `Infe` → Life; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

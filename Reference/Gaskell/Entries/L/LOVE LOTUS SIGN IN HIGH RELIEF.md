@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-love-lotus-sign-in-high-relief
 headword: "LOVE LOTUS SIGN IN HIGH RELIEF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `FoorsTers OF BUDDHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOOTSTEPS OF BUDDHA|FOOTSTEPS OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Ideal of spiritual perfection held high before the earnest and adoring soul.
+
+See FOOTSTEPS OF BUDDHA.
+
+**Corrections made:** `FoorsTers` → FOOTSTEPS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

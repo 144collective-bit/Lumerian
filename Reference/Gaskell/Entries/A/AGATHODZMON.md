@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agathodzmon
 headword: "AGATHODZMON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SERPENT KING` | **unresolved** (review queue) |
 | `SERPENT (solar)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life and Energy arising within the soul.
+
+> "The 'Good Deity,' in honour of whom the Greeks drank a cup of unmixed wine at the end of every repast."—*Smith's Class. Dict.*
+
+The "cup of wine" is the symbol of Divine Life and Truth which needs to be partaken of by all the qualities.
+
+See CUP, DAEMON, MIND, SACRAMENT, SERPENT KING, SERPENT (solar), WINE.
+
+**Corrections made:** Stray `a a` after the attribution removed; `Damon` → DAEMON; `Minn` → MIND; See-list spellings restored (`Cup`, `SacraMENT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

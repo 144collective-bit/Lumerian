@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown
 headword: "CROWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `Keturr` | **unresolved** (review queue) |
 | `LION (man)` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `TIARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIARA, THE PAPAL CROWN|TIARA, THE PAPAL CROWN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of supremacy over the lower nature. In its highest aspect it stands for the power of atma.
+
+> "Kether (the Crown) is the principle of all the principles, the Secret Wisdom, the most exalted Crown, with which all crowns and diadems are adorned."—*Zohar*, III. fol. 288 b.
+
+The highest plane (Kether) is the most interior of all. It is atma, the hidden Truth and Life which confer immortality upon all victorious souls.
+
+> "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people."—Is. xxviii. 5.
+
+When the cycle ends, the Higher Self shall be supreme in beauty and harmony within the higher qualities which have been evolved from below. See COURSE, KETHER, LION (man), TIARA.
+
+**Corrections made:** `ILI.` → III.; page heading `188 CROWN` removed from mid-sentence; `CournsE, Keturr` → COURSE, KETHER.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

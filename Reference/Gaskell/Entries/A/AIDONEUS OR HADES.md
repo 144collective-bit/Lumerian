@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aidoneus-or-hades
 headword: "AIDONEUS OR HADES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,28 @@ tags:
 | `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower principle,—the desire-mind (kama-manas), active upon the astral plane of the [word unclear]
+
+> "But the notions of the Greeks are, I suppose, plain enough to everyone, for they make the good part that of the Olympian Jove; that of the hostile deity they give to Hades."—Plutarch, *Isis and Osiris*, § 48.
+
+The antagonist of the higher nature is desire, and we find that Plato in *Cratylus* explains "Hades" to mean "desire." (See Jowett, *Dialogues*, etc., Vol. II. p. 225.)
+
+> "Hear first the four roots of all things; bright Zeus, life-giving Hera, and Aidoneus, and Nestis."—Empedocles, Fairbanks, 33.
+
+The fourfold nature is that of man apart from higher mind:—bright Atma, life-giving Buddhi, the Desire-mind, and the Physical body.
+
+> "Hades was the son of Cronus and Rhea. His wife was Persephone, the daughter of Demeter, whom he carried off from the upper world. In the division of the world among the three brothers, Hades obtained the Nether World, the abode of the shades, over which he ruled. Hence he is called the infernal Zeus, or the king of the shades."—Smith's *Class. [Dict.]*
+
+Desire is the product of a process in Time and Space (Rhea). It is allied with the emotion-nature arising from Buddhi, and which Desire captures. The lower planes with their illusions are ruled by Desire.
+
+See AHRIMAN, CRONUS, DEMETER, DEVIL, HADES, HERA, NESTIS, PERSEPHONE, RHEA, SERPENT.
+
+**Corrections made:** `Prourarcn` → Plutarch; `ee.` → etc.; `Desiremind` → Desire-mind; `FatrBANES` → Fairbanks; `Clase.` → Class.; page heading `35 AIR` removed from mid-sentence; See-list spellings restored (`Devit`, `Hapes`, `Hera`, `NeEstis`, `PERSEPHONE`).
+
+**Unclear or supplied:** The OCR breaks off after "astral plane of the" and runs straight into the Plutarch quotation, so the end of the sentence is lost (`[word unclear]`). `[Dict.]` is supplied: the OCR reads "Smith's Clase." and the page break cut the rest.
 
 ## Full OCR entry body (exact)
 

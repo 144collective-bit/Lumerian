@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-skins-of-animals
 headword: "SKINS OF ANIMALS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,22 @@ tags:
 | `Pirris (lunar)` | **unresolved** (review queue) |
 | `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-physical forms of the lower animals or man.
+
+> "Fuh-he's dress consisted of the skins of animals, his drink, their blood."—*Chinese Mythology*, Kidd, *China*.
+
+The Logos working from within produced the animal creation. The 'dress of animals' skins' refers to the passing on of the forms of the brute kingdom to mankind. The "blood" signifies the transmitted physical vitality which is also largely relative to the physical plane. The type-forms are worked up to the "fittest" in the animal kingdom according to the measure of the astrophysical life which is expressed. This refers in the most man-like types, however, only to the accommodation of the astral man type-form, or lunar pitri, which is introduced to the physical evolution at an advanced stage. This introduction comes as a tendency to human form in a series of anthropoid forms which eventuate in the human type.
+
+> "The main conclusion here arrived at is that man is descended from some less highly organised form. The grounds upon which this conclusion rests will never be shaken, for the close similarity between man and the lower animals in embryonic development, as well as in innumerable [points?] of structure and constitution, [both?] of high and of the most trifling importance,—the rudiments which he retains, and the abnormal reversions to which he is occasionally liable,—are facts which cannot be disputed. They have [long?] been known, but until recently they told us nothing with respect to the origin of man. Now when viewed by the light of our knowledge of the whole organic world, their meaning is unmistakable. The great principle of evolution stands up clear and firm, when these groups of facts are considered in connection with others, such as the mutual affinities of the members of the same group, their geographical distribution in past and present times, and their geological succession. It is incredible that all these facts should speak falsely."—C. Darwin, *Descent of Man*, Summary.
+
+See ARC. MAN, EVOLUTION, FUH-HE, MAN (born), MAN CRAWLED, METEMPSYCHOSIS, MONAD OF FORM, NEPHILIM, PITRIS (lunar), SONS OF GOD, SUKUNA.
+
+**Corrections made:** `Chinesc Mythology, Kipp` → Chinese Mythology, Kidd; `forme` → forms; `'fittest?` → "fittest"; `grounde` → grounds; `ahnormal` → abnormal; `facte`, `facta` → facts; `tol` → told; page heading `SKULL` removed from mid-sentence; See-list spellings restored (`NEPHILim`, `Pirris (lunar)`, `Sons oF Gop`); and similar minor fixes.
+
+**Unclear or supplied:** `[points?]`, `[both?]` and `[long?]` replace damaged OCR (`a`, `th`, `oe`) in the Darwin quotation; the readings are inferred from the sense. `Kidd` for `Kipp` is a likely reading.
 
 ## Full OCR entry body (exact)
 

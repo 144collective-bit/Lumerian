@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-with-four-doors
 headword: "HOUSE WITH FOUR DOORS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `VesToRnes` | **unresolved** (review queue) |
 | `WOODEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WOODEN PALACE OR HOUSE|WOODEN PALACE OR HOUSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul, with buddhic, mental, astral, and physical bodies which give openings of perception on the respective planes.
+
+See DOORS, QUATERNARY, VESTURES, WOODEN.
+
+**Corrections made:** `Doors`, `VesToRnes` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

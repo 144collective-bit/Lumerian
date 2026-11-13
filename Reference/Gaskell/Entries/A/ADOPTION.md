@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adoption
 headword: "ADOPTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,26 @@ tags:
 | `ETC. :— Symbolic of being endowed with virtues` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `—qualities of the buddhic nature. See Gems` | **unresolved** (review queue) |
 | `JEWELS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the union of the personality with the individuality, that is, the absorption of the lower nature into the higher. The same as "redemption."
+
+> "For we know that every creature groaneth and travaileth in pain together until now. And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."—Rom. viii. 22, 23.
+
+The outgoing desires and passions have always been causes of pain and sorrow to the lower nature. So also, when the higher emotions are being evolved, the soul is still subject to suffering while progressing on its upward path, awaiting the time of liberation, when union with the Higher Self shall take place, and the lower nature be discarded by the "sons of God," the egos.
+
+> "Apparently this world is to go on, and material existence is to go on until everything human has been assimilated to Christ, and then the goal of redemption is reached, and God is all in all."—R. J. Campbell, *Serm.*, The Ceaseless Quest.
+
+See ATONEMENT, REMISSION, UNION.
+
+### Also in this note: ADORNED WITH GEMS, ETC.
+
+Symbolic of being endowed with virtues,—qualities of the buddhic nature. See GEMS, JEWELS.
+
+**Corrections made:** `ita` → its; `Hi Self` → Higher Self; page heading `27 ADULTERY` removed from mid-sentence; See-list spellings restored (`Gems`); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: ADORNED WITH GEMS, ETC. (run on after the See list).
 
 ## Full OCR entry body (exact)
 

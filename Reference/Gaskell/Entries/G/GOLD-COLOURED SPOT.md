@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gold-coloured-spot
 headword: "GOLD-COLOURED SPOT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `LANDMARKS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LANDMARKS|LANDMARKS]] |
 | `PROSPERITY` | **unresolved** (review queue) |
 | `RE-INCARNATION` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a permanent atom of the causal-body, as a centre of organisation on the higher mental plane, and to which are attached the buddhic qualities.
+
+> "There collect the water into a channel the size of a Hathra; there fix landmarks on a gold-coloured spot, (provided) with imperishable food; there erect houses (composed of) mats and poles and roofs and walls."—*Vendidad*, II.
+
+The using of a water channel signifies the transferring of the experiences from below to the causal-body. This "channel" is said to be the size of a soul, the extent of which is comparable to the degree of the capacity of experience. The "landmarks" denote the successive incarnations by means of which the soul garners its harvest; and the "gold-coloured spot" is the permanent atom of the causal-body. The "imperishable food" is the Wisdom and Love which suffice eternity. The "houses" are the temporary habitations of the ego on the lower planes, and the "mats, poles, roofs and walls" stand for the physical, astral, kama-manasic, and mental sheaths, on the respective planes.
+
+See ATOM, ATOMS, BUDDHI, CAUSAL-BODY, CHANNELS, EXPERIENCES, FOOD, HOUSE, INCARNATION, LANDMARKS, PROSPERITY, RE-INCARNATION.
+
+**Corrections made:** `causalbody` → causal-body (twice); `goldcoloured` → gold-coloured; page heading `319 GOLD` removed from mid-sentence; See-list spellings restored (`Atom`, `AToMS`, `BupDpDHI`, `CAUSALBODY`, `Foop`, `HovuskE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

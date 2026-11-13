@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-epimetheus-afterthought
 headword: "EPIMETHEUS (AFTERTHOUGHT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality, or lower mental nature.
+
+> "For Prometheus and Epimetheus are one Man, according to the system of allegory,—that is, Soul and Body." "But the Greeks call the earthy Adam, Epimetheus, who is counselled by his own Mind, that is, his brother (Prometheus)."—Zosimus, *Fragments*, 26, 27.
+
+The "earthy Adam" is the lower mind or personality in its mental-body, and this is emanated by the higher mind or individuality (Prometheus) in its causal-body or immortal soul.
+
+> "Hermes took Pandora to Epimetheus, she made her his wife."—*Smith's Class.*
+
+The mental principle (Hermes) conveyed the emotion-nature (Pandora or Eve) to the lower mind (Epimetheus or Adam), and these became allied in the human soul.
+
+See ADAM (lower), DIOSCURI, EVE, GOSHURUN, HERMES, INDIVIDUALITY, MARRIAGE, PANDORA, PERSONALITY, PROMETHEUS, WIFE, WOMAN.
+
+**Corrections made:** `Zosrmus` → Zosimus; page heading `EQUINOX` removed from mid-text; `mentalbody` → mental-body; `ese made` → she made; See-list spellings restored (`Apam`, `Droscuri`, `Marriacr`, `PaNpORA`); quotation marks normalised.
+
+**Unclear or supplied:** The Smith reference is cut off after `Class.` in the OCR (the usual title is *Class. Dict.*). `she made` is read from OCR `ese made`.
 
 ## Full OCR entry body (exact)
 

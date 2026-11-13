@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aditya-the-sun
 headword: "ADITYA, THE SUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Surya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 | `VarsviNARA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primordial Self.
+
+> "Aditya (the sun) is Brahman, this is the doctrine."—*Khand. Upanishad*, III. 19, 1.
+
+See SAVITRI, SUN, SURYA, VAISVANARA.
+
+**Corrections made:** See-list spellings restored (`Savrrat`, `Sun`, `VarsviNARA`); quotation marks normalised.
+
+**Unclear or supplied:** `SAVITRI` (OCR `Savrrat`) is a likely reading.
 
 ## Full OCR entry body (exact)
 

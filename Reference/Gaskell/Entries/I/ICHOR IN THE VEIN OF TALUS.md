@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ichor-in-the-vein-of-talus
 headword: "ICHOR IN THE VEIN OF TALUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `Mepra` | **unresolved** (review queue) |
 | `Personatiry` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Tavs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower consciousness which has its seat on the mental plane and is, as it were, a reflection of the spiritual ego—the real being within.
+
+> "But Medea, it is said, promising to make Talus immortal, persuaded him to let her pull out the [nail?] (in the vein), which when she had done, the ichor all ran out, and he died."—*Argonautic Expedition*, Keightley, *Mythology*.
+
+Wisdom (Medea), however, by raising the lower mind (Talus) to its utmost, so that it is united with the higher mind, causes the lower consciousness (ichor) to be extinguished, it being illusion and separateness. The separate consciousness, then, is merged into the whole, and the lower self or personality is annihilated.
+
+> "From the clear vein the immortal ichor flowed. Such stream as issues from a wounded god."—*Iliad*, Bk. V.
+
+See CONSCIOUSNESS, INDIVIDUALITY, MEDEA, PERSONALITY, TALUS.
+
+**Corrections made:** `Keicut.iey` → Keightley; `@®` → a; `Iltad` → Iliad; See-list spellings restored (`Mepra`, `Personatiry`, `Tavs`).
+
+**Unclear or supplied:** `[nail?]` (OCR `Sas`).
 
 ## Full OCR entry body (exact)
 

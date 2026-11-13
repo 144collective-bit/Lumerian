@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-strides-of-the-supreme
 headword: "STRIDES OF THE SUPREME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `EYE OF Foorsters OF BUDDHA` | **unresolved** (review queue) |
 | `MACHIS` | **unresolved** (review queue) |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the successive manifestation of the planes of the universe.
+
+> "Vishnu strode over this (universe); in three places he planted his step."—*Rig-Veda*, I. 22, 17.
+
+This refers to the creation of the three higher planes,—atma, buddhi, and manas.
+
+> "With long strides thou stridest over heaven, O Heru-khuti (Harmachis)" (*Papy. of Ani*).—Budge, *Book of the Dead*, Ch. XV.
+
+See CREATION, EYE OF [HORUS?], FOOTSTEPS OF BUDDHA, [HARMACHIS?], VISHNU.
+
+**Corrections made:** page heading `THE EARTH STRIDES` removed from mid-sentence; `MHeru-khuti` → Heru-khuti; `Ant` → Ani; `BupaeE` → Budge; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** The See list is damaged (OCR `EYE OF Foorsters OF BUDDHA, MACHIS`): `[HORUS?]` is supplied after "EYE OF" and `[HARMACHIS?]` for `MACHIS`; `Foorsters` read as FOOTSTEPS. `Ant` read as Ani.
 
 ## Full OCR entry body (exact)
 

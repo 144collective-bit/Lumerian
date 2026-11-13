@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-food-of-the-gods
 headword: "FOOD OF THE GODS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,26 @@ tags:
 | `HERMES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `USERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/USERT GODDESS, OR POOL|USERT GODDESS, OR POOL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom and Love, or Truth and Goodness, as sustenance of the soul's Ideals which grow up from within.
+
+> "Come unto me, Lord Hermes, who dost collect the food of Gods and men."—*Magical Papyrus*.
+
+Footnote by Mr. Mead: "In its highest sense the heavenly food, or Wisdom, the 'super-substantial bread' or 'bread of Life.'"—G. R. S. Mead, *T. G. Hermes*, Vol. I. p. 86.
+
+"Hermes" signifies the higher mind which collects the spiritual sustenance from above, and the experiences from below.
+
+> "'Tis Fire alone, in that it is borne upwards, giveth life; that which is carried downwards is subservient to Fire. Further, whatever doth descend from the above, begetteth; what floweth upwards, nourisheth" (The Perfect Sermon).—*Ibid.*, Vol. II. p. 310.
+
+The buddhic vibrations bear the qualities upwards and are the Divine life of the soul. The lower qualities subserve the higher. Truth flowing downwards increases knowledge. Aspiration for Love and Wisdom brings food to the soul.
+
+See AMBROSIA, FIRE, GODS, HERMES, SACRIFICE, USERT.
+
+**Corrections made:** page heading `286 FOOD` removed from mid-sentence; `8S. Meap` → S. Mead; `IJbid.` → Ibid.; `Gops` → GODS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

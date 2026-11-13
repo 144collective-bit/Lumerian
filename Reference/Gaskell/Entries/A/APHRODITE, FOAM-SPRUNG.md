@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aphrodite-foam-sprung
 headword: "APHRODITE, FOAM-SPRUNG"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `MeEscH` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MESCH, OR MESCHGAH, PLANET VENUS|MESCH, OR MESCHGAH, PLANET VENUS]] |
 | `POURUSHASPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POURUSHASPA, THE FATHER OF ZOROASTER|POURUSHASPA, THE FATHER OF ZOROASTER]] |
 | `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the love aspect, or attractive quality, of the desire-nature, which promotes growth of the lower qualities in the forms.
+
+> "In the Asiatic religions Aphrodite was the fructifying principle of nature."—Smith's *Class. Dict.*, "Adonis."
+
+See ADONIS, ATALANTA, ATTRACTION, FOAM, [MEESCH?], POURUSHASPA, VENUS.
+
+**Corrections made:** `desirenature` → desire-nature; `Aphroditd` → Aphrodite; See-list spellings restored (`Aponis`, `Foam`); `MeEscH` left as `[MEESCH?]` (unidentified); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forty-days-or-years
 headword: "FORTY DAYS OR YEARS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Eayrrians` | **unresolved** (review queue) |
 | `Exopvus` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of transitory conditions on the lower planes attending the accomplishment of the pilgrimage of the soul through a process and period.
+
+> "After the number of the days in which ye spied out the land, even forty days, for every day a year, shall ye bear your iniquities, even forty years, and ye shall know my alienation."—Num. xiv. 34.
+
+The disciplined qualities (the spies) were unable to make the lower qualities (the Israelites) understand the higher nature. The lower qualities had to go through to the full with their experience of the lower life of suffering and trouble, in order to develop within them the capacity to appreciate higher things. Then they should know how it was that the Ideal was hidden from them.
+
+See EGYPTIANS, EXODUS, PARABLE.
+
+**Corrections made:** `Nom.` → Num.; `Eayrrians, Exopvus` → EGYPTIANS, EXODUS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

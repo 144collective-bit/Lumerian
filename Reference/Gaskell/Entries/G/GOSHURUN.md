@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goshurun
 headword: "GOSHURUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,28 @@ tags:
 | `PromerHEus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `WoLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
 | `YEHEEDAH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality which proceeds from the astral principle.
+
+> "But when the Bull died Kaiomars (Gayomard), the first man, came out of his right shoulder, and from the left Goshurun, the soul of the Bull, who now became the guardian spirit of the animal race."—*Zoroastrian System*, Clarke.
+
+This signifies the period at the commencement of evolution, when man is evolved from the involved Monad. "Kaiomars" is the Archetypal Man who comes forth into activity upon the buddhic and higher manasic planes. The "right shoulder" signifies the outgoing, positive force; the "left" is the astral principle from which arises the personality (Goshurun) which becomes the regulator of the desires and lower activities. The "primal Bull" signifies the matrix of all living things upon the lower planes, and its "death" is the ensouling of the monad of form on the mental plane by the monad of life.
+
+> "Also the whole realm of the clean animals and plants came from the Bull's body. Full of rage, Ahriman now created the unclean animals,—for every clean beast, an unclean."—*Ibid*.
+
+From the same matrix proceeded also the "clean beasts," that is, those natural activities which were in the astral course of production. And in process of time the opposites of these were brought forth; the positive implying negative,—the good, the bad; the strong, the weak, and so forth.
+
+> "Thus Ormazd created the dog, Ahriman the wolf; Ormazd all useful animals, Ahriman all noxious ones; and so of plants."—*Ibid*.
+
+The "dog" and the "wolf" symbolise the higher and lower minds or wills. The "useful" and "noxious creatures" represent those apparently beneficial, and those deleterious functions, both of which are, however, necessary to the evolution of the soul. The "plants" signify the minor activities in the earliest functionings of soul growth.
+
+See AHRIMAN, ASTRAL, ARC. MAN, BEASTS, GEUSH-TASHA, OPPOSITES, PERSONALITY, PLANTS, PROMETHEUS, WOLF, YEHEEDAH.
+
+**Corrections made:** `Kaiomarts` → Kaiomars; `IJbid.` → Ibid.; `dog™` → dog"; page heading `324 GOSPEL` removed from mid-sentence; See-list spellings restored (`Brasts`, `Orrosrrrs`, `PlantS`, `PromerHEus`, `WoLF` and similar); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fruit-of-the-ground
 headword: "FRUIT OF THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `ABEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]] |
 | `CAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the sensations or sense-nature of the lower nature.
+
+> "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord."—Gen. iv. 3.
+
+And as evolution proceeds, the sensation nature has to be subordinated by the personality to the ends it has in view.
+
+See ABEL, CAIN, GROUND.
+
+**Corrections made:** `pess` → pass; `sensenature` → sense-nature; page heading `205 FUDO` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feeding-of-the-four-thousand
 headword: "FEEDING OF THE FOUR THOUSAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `FisH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FISH CAUGHT IN A NET|FISH CAUGHT IN A NET]]; [[Reference/Gaskell/Entries/F/FISH FISH OF THE SEA AND LAKES|FISH FISH OF THE SEA AND LAKES]]; [[Reference/Gaskell/Entries/F/FISH, GREAT|FISH, GREAT]] |
 | `MULtTiTupeEs` | **unresolved** (review queue) |
 | `SITTINe` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the imparting by higher qualities of knowledge and goodness to lower qualities.
+
+> "And Jesus commanded the multitude to sit down on the ground; and he took the seven loaves and the fishes; and he gave thanks and brake, and gave to the disciples, and the disciples to the multitudes. And they did all eat and were filled."—Matt. xv. 35-37.
+
+The Christ within enforces obedience. "Sitting" corresponds to the position of acquiescence and receptivity of mind,—in which attitude instruction could be given. The taking and giving of the "loaves and fishes" signifies the dispensing of such truths and goodness as were at the disposal of the disciplined qualities, which were then able to minister to the less-developed qualities of the soul. The eating and being filled correspond to a condition in which satisfaction for a time was arrived at.
+
+See BREAD, DISCIPLES, EATING, FISH, MULTITUDES, SITTING.
+
+**Corrections made:** `MarT.` → Matt.; `lessdeveloped` → less-developed; `®`/`@` → a; See-list spellings restored (`DIScIPLes`, `MULtTiTupeEs`, `SITTINe`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

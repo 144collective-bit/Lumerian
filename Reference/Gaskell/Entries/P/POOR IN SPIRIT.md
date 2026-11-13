@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poor-in-spirit
 headword: "POOR IN SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Poverty` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `Ricuss` | **unresolved** (review queue) |
 | `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of those qualities which have rid themselves of the lower desires, and are filled with the spirit of goodness and truth.
+
+> "Hath not God chosen the poor of this world, rich in faith, and heirs of the kingdom which he hath promised to them that love him?"—James ii. 5.
+
+In the Divine scheme of progression, those qualities which are free from the attractions of sense and desire, and are filled with the higher energies of wisdom and love, are heirs of the higher state of consciousness which the law of the Supreme has made the spiritual result of righteousness.
+
+See KINGDOM OF HEAVEN, MAN (rich), POVERTY, RICHES, SERMON.
+
+**Corrections made:** `JamEs` → James; `Poverty, Ricuss` → POVERTY, RICHES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dhrita-rashtra-the-blind-king
 headword: "DHRITA-RASHTRA, THE BLIND KING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Kurvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
 | `Sansaya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA|SANJAYA, THE CHARIOTEER OF DHRITA-RASHTRA]] |
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the instinct nature, sub-conscious and devoid of intelligence.
+
+> "Dhrita-rashtra (a firstborn son) was blind, but, although thus incapacitated for governing, he retained the throne, while his son Duryodhana really directed the affairs of the state."—J. C. Thomson, *The Bhagavad Gita*.
+
+The lower instinct nature of the soul is the first to appear in the evolution of the qualities of the human being; but as it is devoid of mind, it is incapable of organising and directing the qualities. It retains the lead, being potent and fundamental; but that which has arisen from it, namely, the desire-nature which allies itself with mind, becomes the ruler and regulator of the whole of the lower nature.
+
+See CONCH, DUR-YODHANA, HODER, KURUS, SANSAYA, SERPENT (water).
+
+**Corrections made:** `THomson` → Thomson; See-list spellings restored (`Concu`, `HopEr`, `Kurvus`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

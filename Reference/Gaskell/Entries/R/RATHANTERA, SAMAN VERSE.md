@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rathantera-saman-verse
 headword: "RATHANTERA, SAMAN VERSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BRIHAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BRIHAT AND RATHANTERA VERSES|BRIHAT AND RATHANTERA VERSES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine love governing the soul.
+
+See BRIHAT.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

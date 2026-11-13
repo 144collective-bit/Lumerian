@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blandishment-of-women-towards-the-buddha
 headword: "BLANDISHMENT OF WOMEN TOWARDS THE BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
 | `MOON-LIKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-LIKE FACES OF WOMEN|MOON-LIKE FACES OF WOMEN]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher emotions in their perfect attractiveness within the soul on the buddhic plane.
+
+> "There the women delighted the Buddha with their soft voices, their beautiful pearl garlands, their playful intoxication, their sweet laughter, and their stolen glances concealed by their brows."—*Buddha-Karita*, Bk. I. 31.
+
+At this high level in involution the higher emotions are able to appeal to the soul successfully. The "soft voices," "pearl garlands," "playful intoxication," "sweet laughter," and "stolen glances," are symbolic of the attractive aspects of Wisdom,—responded to from above in the soul. The higher emotions which delight the incarnate Self are the buddhi-manasic impulses from within, such as love of righteousness and truth, of justice, mercy, wisdom, gentleness, peace, harmony, perfection, humanity, etc. These are symbolised by the attractive pleasantries of women (emotions).
+
+See BUDDHA, [GOPIS?], HOURIS, INTOXICATION, MOON-LIKE, WOMAN.
+
+**Corrections made:** `atolen` → stolen; `buddhimanasic` → buddhi-manasic; `Buppua` → BUDDHA; `HovuRIss` → HOURIS; page heading `BLASPHEMY` removed from mid-sentence.
+
+**Unclear or supplied:** `[GOPIS?]` is a guess for the See-list item `Goris`.
 
 ## Full OCR entry body (exact)
 

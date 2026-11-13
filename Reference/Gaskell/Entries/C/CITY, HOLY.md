@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-city-holy
 headword: "CITY, HOLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MOUNTAIN (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `STONES AND BREAD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]] |
 | `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul.
+
+> "Then the devil taketh him into the holy city; and he set him on the pinnacle of the temple."—Matt. iv. 5.
+
+Then within the soul's lower mental centre, puffed up with self-importance and identified with the not-Self (devil), there yet arises an aspiration (pinnacle) and yearning towards the Higher.
+
+See DEVIL, JERUSALEM, JESUS, MOUNTAIN (lower), STONES AND BREAD, TEMPTATION.
+
+**Corrections made:** `Mar.` → Matt.; `centr,` → centre,.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-compartments-or-divisions-of-the-tuat
 headword: "COMPARTMENTS OR DIVISIONS OF THE TUAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of twelve periods or stages of the manvantara or great Cycle of Life. They correspond with the twelve "tribes," "disciples," and "signs" of the Zodiac. They are, as it were, sections of a spiral through which Life progresses in the order of time.
+
+See ÆON (thirteenth), DISCIPLES, MANVANTARA, TRIBES (twelve), TUAT, TWELVE, ZODIAC.
+
+**Corrections made:** `'Eon` → ÆON; `DIscrezes` → DISCIPLES; `Tuat` → TUAT.
+
+**Unclear or supplied:** `DISCIPLES` is read from the damaged `DIscrezes`.
 
 ## Full OCR entry body (exact)
 

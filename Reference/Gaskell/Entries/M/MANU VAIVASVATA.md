@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manu-vaivasvata
 headword: "MANU VAIVASVATA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `FLoop` | **unresolved** (review queue) |
 | `HoRN oF SALVATION` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORN OF SALVATION|HORN OF SALVATION]] |
 | `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality working through the personality.
+
+See CORRUPTION, [DELUGE?], DEPRAVITY, FLOOD, HORN OF SALVATION, VAIVASVATA.
+
+**Corrections made:** See-list spellings restored (`CorrvurtTion`, `DkrPRAVITY`, `FLoop`, `HoRN`).
+
+**Unclear or supplied:** `[DELUGE?]` (OCR `Dr.tuas`) is a likely but uncertain reading.
 
 ## Full OCR entry body (exact)
 

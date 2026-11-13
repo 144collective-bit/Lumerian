@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circumcision
 headword: "CIRCUMCISION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `STIFFNECKED. 159` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol, ignorantly materialised, of the cutting off of the lower desires.
+
+> "The circumcision of the skin is said to be a symbol, indicating that it is proper to cut away all superfluous and extravagant desires, by studying continence and religion."—Philo Jud., *Works*, Vol. IV. p. 451, Bohn.
+
+> "Circumcision, as we are told in 1 Peter iii. 21, represented 'the putting away of the filth of the flesh.'"—A. Jukes, *The Law of the Offerings*, p. 15.
+
+See STIFFNECKED.
+
+**Corrections made:** `Px110 Jup.` → Philo Jud.; `1 PETER` → 1 Peter; `JUKEs` → Jukes; page number `159` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

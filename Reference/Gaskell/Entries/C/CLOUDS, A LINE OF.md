@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-clouds-a-line-of
 headword: "CLOUDS, A LINE OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Kapa` | **unresolved** (review queue) |
 | `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Truth potential, or of buddhi preparing to outpour truth.
+
+> "Homage to you, O ye gods who dwell in the divine clouds, and who are exalted (or holy) by reason of your sceptres."—Budge, *Book of the Dead*, p. 146.
+
+Aspiration is directed to the ideals (gods) on the buddhic plane, whose rule exalts the soul.
+
+See KAPA, YAO.
+
+**Corrections made:** `Bunae` → Budge; `Kapa`, `Yao` → KAPA, YAO.
+
+**Unclear or supplied:** `Budge` is read from `Bunae`. `KAPA` left as printed.
 
 ## Full OCR entry body (exact)
 

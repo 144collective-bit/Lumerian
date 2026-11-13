@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dragon-of-wisdom
 headword: "DRAGON OF WISDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Fre` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self,—
+
+> "The great Dragon of Wisdom (Kwanshi-yin) is born of Fire and Water, and into Fire and Water will all be reabsorbed with him."—*Fa-hwa-King*.
+
+The Higher Self as atma-buddhi is generated from Spirit (fire), and Reality (water) on the side of Matter, and into Spirit and Reality at the end of the manvantara, all things will be re-absorbed together with him.
+
+> "In the first or lowest line, undivided, we see its subject as the Dragon lying hid in the deep. It is not time for active doing. In the second line, undivided, we see its subject as the Dragon appearing in the field. It will be advantageous to meet with the Great Man."—*Yi King*, I. 1, 2.
+
+In the first age, the inner Potencies prepare to emanate. The Eternal Wisdom, or Higher Self, lies hidden in the unknown darkness of the Unmanifest; for the time of creative activity is not yet. In the second age, the Self is emanated as atma-buddhi, and enters the field of manifestation. It is the Divine purpose to form the Archetypal Man, the progenitor of the human race.
+
+See ARC. MAN, DEPTH, FIELD, FIRE, SERPENT, WATER.
+
+**Corrections made:** `Y¢ King` → Yi King; `atmabuddhi` → atma-buddhi; page heading `230 DRAGON` removed from mid-sentence; See-list spellings restored (`Arc.`, `DeprH`, `FiIe£xp`, `Fre`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

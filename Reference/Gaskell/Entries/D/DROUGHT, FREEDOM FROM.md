@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-drought-freedom-from
 headword: "DROUGHT, FREEDOM FROM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `Rarn` | **unresolved** (review queue) |
 | `YMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the activity of the mental faculties, and the nourishing of the mind through truth (water).
+
+See IRRIGATION, RAIN, YMA.
+
+**Corrections made:** `Rarn` → RAIN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

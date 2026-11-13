@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sitting-down-of-jesus
 headword: "SITTING DOWN OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `DiscipLes` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `JUDGMENT JUSTICE` | **unresolved** (review queue) |
 | `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine nature dominant over the lower.
+
+> "And he sat down, and called the twelve; and he saith unto them, If any man would be first, he shall be last of all and minister of all."—Mark ix. 35.
+
+This relates to the competition of the qualities to be first in order. Christ's rebuke is administered when He is "seated," and it is by the Higher nature sitting in judgment upon the lower, and pointing out faults, that the warring and confusion of the latter is at length put a stop to.
+
+> "He spoke to them sitting and not standing, for they could not have understood Him had he appeared in His own majesty."—Jerome.
+
+See DISCIPLES, JUDGMENT, JUSTICE, MOUNTAIN.
+
+**Corrections made:** `Mark 1x.` → Mark ix.; `sttting in judgmeni` → sitting in judgment; `net standing` → not standing; `DiscipLes` → DISCIPLES; comma inserted between JUDGMENT and JUSTICE.
+
+**Unclear or supplied:** The OCR reads `JUDGMENT JUSTICE` with no comma; read as two See items.
 
 ## Full OCR entry body (exact)
 

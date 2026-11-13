@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-judah-the-tribe-of
 headword: "JUDAH, THE TRIBE OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of qualities in which is the spirit of insight and understanding of spiritual verities.
+
+> "For it is evident that our Lord hath sprung out of Judah; as to which tribe Moses spake nothing concerning priests."—Heb. vii. 14.
+
+"Jesus" is here taken as a symbol of the regenerate soul which stands for the Christ manifest in the "flesh" or lower nature. The Christ-soul is beyond the Law of the old dispensation, as Love is superior to Rule and obedience (Levi). "Judah" signifies the spirit of insight and understanding of the things of the higher life, and out of this the Christ-soul comes.
+
+See DISPENSATIONS, MOSES, PRIEST, QUALITIES, TRIBES.
+
+**Corrections made:** `prieste` → priests; `HEsB.` → Heb.; `Christsoul` → Christ-soul; See-list capitals restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

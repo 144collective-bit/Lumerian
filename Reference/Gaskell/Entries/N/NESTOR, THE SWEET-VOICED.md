@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nestor-the-sweet-voiced
 headword: "NESTOR, THE SWEET-VOICED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `Sinerna` | **unresolved** (review queue) |
 | `Sweet` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEET, BITTER, SHARP, HOT|SWEET, BITTER, SHARP, HOT]] |
 | `ToNcveE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual emotion of Faith-Hope in the higher mind.
+
+> "Therefore to them arose the sweet-voiced Nestor, the harmonious orator of the Pylians, from whose tongue flowed language sweeter than honey."—*Iliad*, Bk. I.
+
+On account of the submission of the lower emotions to the higher ideal, these emotions became responsive to the charms of Faith-Hope in the higher mentality (Pylus), which spiritual quality answers to the higher opposite of the lower emotions.
+
+> "As long as man has not yet attained unto that which is perfect, and is still in pursuit of it, hope must be regarded as the greatest, for it is even the true vital flame of faith, as well as of love and of all higher existence. This divine hope is even the fruit-bearing principle and the fructification of the immortal soul by the Holy Spirit of Eternal Truth—the luminous centre and focus of grace, where the dark and discordant soul is illuminated and restored to unison with itself and with God."—Schlegel, *The Philosophy of Life*, Eng. Trans., p. 118.
+
+See FAITH, GREECE, HARMONY, HONEY, MUSIC, PANDORA, PYLUS, [Sinerna?], SWEET, TONGUE.
+
+**Corrections made:** `sweetvoiced` → sweet-voiced; `whoee` → whose; `iteelf` → itself; `ScHLeaeL` → Schlegel; See-list spellings restored (`FarrH`, `Honey`, `Panpora`, `Pytus`, `ToNcveE`).
+
+**Unclear or supplied:** `[Sinerna?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

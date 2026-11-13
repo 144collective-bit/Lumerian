@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-corpse-devoured-by-birds
 headword: "CORPSE DEVOURED BY BIRDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `LIBERATION` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality or lower nature (flesh) being dissipated by nature forces (birds), in order that the now purified soul may be liberated and rise to bliss on higher planes.
+
+> "In the disposal of the dead by Parsis, ceremonies are performed close to the dakhma, or 'tower of silence.' This is a circular pit, very deep, round which is a stone pavement about seven feet wide. On this the corpses are exposed naked. The face of the dead is uncovered; the birds of prey come in multitudes, and very soon the flesh is all devoured. Every morning the bones are swept down into the great receptacle—the pit."—J. M. Mitchell, *Zend Avesta*, etc., p. 39.
+
+The ceremonies signify the final purification of the soul, prior to the casting off of the dead body of corruption—the astro-mental nature in which the spiritual ego has been held captive during the cycle of reincarnation. The flesh-eating birds signify the rulers or elementals of the lower planes, and the bones symbolise the spiritual nature which endures. See BONES, CORPSE, DEAD, FLESH, HOUSES OF DEAD, LIBERATION, PERSONALITY, VULTURE.
+
+**Corrections made:** `bless` → bliss; `moming` → morning; `corruption.—the` → corruption—the; page heading `CORRUPTION` removed from mid-sentence; `MitcHELL` → Mitchell; See-list spellings restored (`Bones`, `HovUsES`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

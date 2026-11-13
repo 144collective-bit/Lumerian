@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adah-and-zillah-wives-of-lamech
 headword: "ADAH AND ZILLAH, WIVES OF LAMECH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `LaMEcH` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LAMECH, SON OF METHUSHAEL|LAMECH, SON OF METHUSHAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of theory and practice, or wisdom and experience utilised, in alliance with reflection.
+
+> "Lamech said, ... Adah and Zillah hear my voice. For I have slain a man for wounding me, and a young man for bruising me: if Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold."—Gen. iv. 23, 24.
+
+Reflection calls upon theory and practice to attend to its cogitations. For reflection has killed out somewhat of the prejudice (young man) with which the mind started on its evolution. If the lower personality (Cain) be the means of causing sorrow, surely the reflective mind shall cause much more sorrow.
+
+> "By 'Adah' is signified the mother of the celestial and spiritual of that Church: by 'Zillah,' the mother of the natural things of the same Church."—Swedenborg, *Arc. Cel.* to Gen., iv. 19.
+
+See LAMECH.
+
+**Corrections made:** `GEN.` → Gen.; page heading `ADAM` removed from mid-sentence; `SwWEDENBORG` → Swedenborg; `LaMEcH` → LAMECH; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

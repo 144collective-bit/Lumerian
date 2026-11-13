@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deafness-and-dumbness
 headword: "DEAFNESS AND DUMBNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Gut oF TONGUES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIFT OF TONGUES|GIFT OF TONGUES]] |
 | `HzaLInc` | **unresolved** (review queue) |
 | `SIGHT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the absence of perception of the truth and love from within, and inability to express the same.
+
+See GIFT OF TONGUES, HEALING, SIGHT.
+
+**Corrections made:** See-list spellings restored (`Gut oF TONGUES`, `HzaLInc`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

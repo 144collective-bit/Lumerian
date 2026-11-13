@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-finger-forefinger
 headword: "FINGER, FOREFINGER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Devits` | **unresolved** (review queue) |
 | `Heatinae` | **unresolved** (review queue) |
 | `KInepomM or @oD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol indicative of what is shown, manifested, demonstrated or done. The forefinger of Horus, which he places upon his mouth, signifies the expression, or manifestation, of the indwelling Self in the soul; the evolution of the Self from small to great.
+
+> "But if I by the finger of God cast out devils, then is the kingdom of God come upon you."—Luke xi. 20.
+
+If the Christ-soul by the evolution of the Self from within cast out evil qualities, then will the consciousness rise to the higher planes, and the lower nature of the soul be overcome and dissipated.
+
+See DEVILS, HEALING, KINGDOM OF GOD.
+
+**Corrections made:** `LUKE` → Luke; `Devits, Heatinae, KInepomM or @oD` → DEVILS, HEALING, KINGDOM OF GOD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

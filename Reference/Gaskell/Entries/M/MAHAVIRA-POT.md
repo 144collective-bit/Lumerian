@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mahavira-pot
 headword: "MAHAVIRA-POT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `Suintal` | **unresolved** (review queue) |
 | `SuN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body the seat of the individuality, and of the Self.
+
+> "A (mystical) theory makes the Mahâvira pot a symbol of the sun, whilst the hot milk draught represents the divine flood of life and light with which the (Sacrificer) becomes imbued. These symbolic interpretations, whatever we may think of them otherwise, certainly adapt themselves admirably to the general sacrificial imagery. As the sun is the head of the universe—or in figurative language, the head of Pragâpati, the world-man,—so its earthly and earthen counterpart, the Mahavira pot, is the head of Vishnu, the sacrificial man and the Sacrificer."—J. Eggeling, translator of the *Sata. Brâh.*, S. B. of E., Vol. XLIV. Int. p. [number unclear].
+
+The sun is a symbol of the Higher Self which the lower self cannot distinguish from the individual Self and its vehicle the causal-body. The "hot milk" is a symbol of the Divine life—atma-buddhi. "Pragâpati" here stands for the Archetypal Man, who has sacrificed himself for humanity. This is the indwelling Christ whose "blood" (Divine life) cleanses from all sin as the soul evolves, that is, as the incomplete changes its nature and finally becomes the complete.
+
+See ARC. MAN, BLOOD, CAUSAL-BODY, EVOLUTION, INDIVIDUALITY, KARANA, MILK, PRAGAPATI, SACRIFICER, [Suintal?], SUN, VISHNU.
+
+**Corrections made:** `counterart` → counterpart; `ishnu` → Vishnu; `_ the Sacrificer` → and the Sacrificer; `EGor.ine` → Eggeling; `forthe` → for the; `Bréh.` → Brâh.; `Prag&pati` → Pragâpati; `CAUSALBODY` → CAUSAL-BODY; See-list spellings restored (`Mix`, `Evo.uTion`, `SAcsziFiceER`, `PraGApati`).
+
+**Unclear or supplied:** `p. [number unclear]` (OCR `p. £8`). `[word]` supplied for OCR `_` as "and". `[Suintal?]` in the See list cannot be identified.
 
 ## Full OCR entry body (exact)
 

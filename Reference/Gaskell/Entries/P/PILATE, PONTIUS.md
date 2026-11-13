@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pilate-pontius
 headword: "PILATE, PONTIUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `SIXTH HOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIXTH HOUR FOR CRUCIFIXION OF JESUS|SIXTH HOUR FOR CRUCIFIXION OF JESUS]] |
 | `THREE DAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THREE DAYS|THREE DAYS]] |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of ordinary worldlymindedness, constantly wavering between higher and lower motives to action, and incapable of a straight course.
+
+> "So when Pilate saw that he prevailed nothing, but rather that a tumult was arising, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this righteous man: see ye to it. And all the people answered and said, His blood be on us, and on our children."—Matt. xxvii. 24, 25.
+
+The worldly mind was wise enough to see what any mind of ordinary, but not deeply spiritual, intelligence must see, viz. that unless it serves one master, nothing can be accomplished. Pilate "washes his hands," signifying that he dissociates himself from the course he appears to have adopted; that is, the mind remains in a state of suspense, though more favourably inclined to the lower nature than the higher. The worldly mind henceforth places itself on a par with the lower qualities (the people) and becomes little better than an automaton.
+
+See ASSEMBLY, CAIAPHAS, GABBATHA, GOLGOTHA, PRIESTS AND ELDERS, SIXTH HOUR, THREE DAYS, TRIAL.
+
+**Corrections made:** `Mat.` → Matt.; page heading `PILGRIM` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

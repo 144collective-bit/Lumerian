@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fate-sphere
 headword: "FATE-SPHERE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
 | `SON OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower planes as subject to the law of cause and effect, or karma, in relation to the spiritual Monad.
+
+> "But All-Father Mind, being Life and Light, did bring forth Man co-equal to Himself" (Poimandres).
+
+> "This Man or Anthropos is the Spiritual Prototype of humanity and of every individual man."—Mead, *Th. Gr. Hermes*, Vol. I. p. 139.
+
+> "The Man, the Heavenly Man, the Son of God, who descends and becomes a slave of the Fate-Sphere; the Man who, though originally endowed with all power, descends into weakness and bondage, and has to win his own freedom and regain his original state."—*Ibid.*, p. 138.
+
+The "Heavenly Man" is the Self, or World-soul, who descends into matter, and becomes the Archetypal Man when all his qualities are involved. He subjects himself to karma, and in the process of evolution rises from the dead and ascends in humanity to his original state on the higher planes.
+
+See ANTHROPOS, ARC. MAN, BONDAGE, COSMOS, CRUCIFIXION, DISEASES, I E O JU, INVOLUTION, KARMA, MAAT, MAZENDARENS, MORS, FATHER NECESSITY, NONNOR, SHENIT, SON OF GOD, THEMIS.
+
+**Corrections made:** `Paamandres` → Poimandres; `7. G@. Hermes` → Th. Gr. Hermes; `p-.` → p.; `wer` → power; `DisgasEs` → DISEASES; `Mors, FATHER Necessity` kept in order; See-list capitalisation restored; quotation marks normalised.
+
+**Unclear or supplied:** `Th. Gr. Hermes` (Mead, *Thrice-Greatest Hermes*) is inferred from OCR `7. G@. Hermes`. The third quotation lacks an opening mark in the OCR and is shown as a separate quotation. See-list items `FATHER NECESSITY` (possibly page-heading debris) and `NONNOR` are left as printed.
 
 ## Full OCR entry body (exact)
 

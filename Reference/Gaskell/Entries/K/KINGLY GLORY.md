@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kingly-glory
 headword: "KINGLY GLORY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `Licut` | **unresolved** (review queue) |
 | `Monap` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Monad, the Divine Ray of Light and Life from the Absolute.
+
+See ABSOLUTE, GLORY (divine), HESPOMAP, LIGHT, MONAD, SUN.
+
+**Corrections made:** See-list spellings restored (`Licut`, `Monap`).
+
+**Unclear or supplied:** `HESPOMAP` is left as printed in the OCR (`Hespomap`); it may be damaged.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eagle
 headword: "EAGLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,28 @@ tags:
 | `Spercu` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Holy Spirit, which flies, as it were, through the mind (air) from the higher nature (heaven) to the lower nature (earth) and soars aloft to the Self (sun).
+
+> "Aléla, the eagle, is stated to be 'the symbol of the noon-tide sun'; and Aléla, whose name is of Accadian origin, signifies 'the great Spirit.'"—A. H. Sayce, *Rel. of Anc. Egypt. and Babyl.*, p. 248.
+
+> "The dove is the well-known [emblem] of meek innocence. The eagle's lofty flight and keen vision represent but another form of the same Divine Spirit."—A. Jukes, *Types of Genesis*, p. 34.
+
+> "Flying eagle signifies the divine truth of the Word as to knowledge and thence understanding."—Swedenborg, *Apoc. Rev.*, n. 244.
+
+> "(The letter from the king, my Father) flew in the likeness of an eagle, the king of all birds; it flew and alighted beside me, and became all speech" (Hymn of the Soul).—Gnostic, *Acts of Judas Thomas*.
+
+The message to the soul appealed through the higher side of the consciousness. It sped forth with a directness and sureness of aim that might be compared to the flight of an eagle, which is a symbol of the Holy Spirit descending. It took possession of the soul mightily, so that it had to express outwardly that which was communicated to it from within.
+
+> "There is a great deal of meaning in the fact that the Bible in our English churches is put to rest on the outspread wings of an eagle. The meaning of it has to do with the fact that the letter killeth, but the spirit giveth life. You have very often got to put the literal Bible on the wings of the bird that can soar high, i.e. the spiritual imagination, the insight of the seer, before you reach its heavenly meaning. Yet many a clergyman, while his Bible is on eagle's wings, the very symbol that tells him to carry it to high spiritual realms of meaning, will give a wooden interpretation. In sacred symbolism the eagle stands for that power of rising above the earth, above the physical and the literal, into the high heavens of a rarefied faith, a mystic intuition, a penetrating [spiritual?] imagination."—T. Rhondda [Williams?], *Serm.*, *Dying in the Lord*.
+
+See FATHER, GRIFFIN, HOLY GHOST, LETTER, PHOENIX, PROMETHEUS, SPEECH, SUN, VULTURE.
+
+**Corrections made:** `Al&éla` → Aléla; `Sa¥ceE` → Sayce; `Gnost10` → Gnostic; `8 wooden` → a wooden; `& clergyman` → a clergyman; `hia` → his; `Faruer`, `Lerrer`, `Spercu` restored in the See list; quotation marks normalised.
+
+**Unclear or supplied:** `[emblem]` is supplied (OCR reads "the well-known of meek innocence"). `[spiritual?]` replaces OCR `iritual`. The author's surname is damaged (OCR `RHonppa iziiasts`); given as `Rhondda [Williams?]`.
 
 ## Full OCR entry body (exact)
 

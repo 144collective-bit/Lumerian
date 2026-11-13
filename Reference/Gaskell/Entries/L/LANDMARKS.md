@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-landmarks
 headword: "LANDMARKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Gotp (spot)` | **unresolved** (review queue) |
 | `Jupaine` | **unresolved** (review queue) |
 | `NEIGHBOUR. 443` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the marks or stages in the development of the natural man, that is, the successive incarnations by means of which the soul garners its harvest on the higher planes.
+
+> "Thou shalt not remove thy neighbour's landmark, which they of old time have set in their inheritance, which thou shalt inherit in the land that the Lord thy God giveth thee to possess it."—Deut. xix. 14.
+
+This refers to the growth of kindred qualities, which must be effected in due relation to each other and not at others' expense.
+
+See GOLD (spot), [Jupaine?], NEIGHBOUR.
+
+**Corrections made:** `DEvT.` → Deut.; trailing page number `443` removed; `Gotp` → GOLD.
+
+**Unclear or supplied:** `[Jupaine?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

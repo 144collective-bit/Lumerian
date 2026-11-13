@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-erectheus-son-of-hephastus
 headword: "ERECTHEUS, SON OF HEPHASTUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Herxzstus` | **unresolved** (review queue) |
 | `Hosse` | **unresolved** (review queue) |
 | `Sir` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the philosophic intellect, the product of the Creative Mind.
+
+> "Great Erectheus swayed, That owed his nurture to the blue-eyed maid (Athena), [word unclear] the teeming furrow took his [birth?] The mighty offspring of the foodful earth."—*Iliad*, Bk. II.
+
+The philosophic intellect arises from the culture and disciplining of the lower nature, symbolised by the ploughed earth, and it is nurtured from above by the buddhic or Wisdom principle (Athena).
+
+> "Erectheus was the first who used a chariot with four horses, for which reason he was placed among the stars as auriga."—*Smith's Class. Dict.*
+
+The philosophic intellect was the first faculty to make use of resources from each of the four planes, in its mental operations (horses) regulated from the seat of its mentality (the chariot). The "placing among the stars" refers to the raising of the intellect to a higher capacity.
+
+See ATHENA, CHARIOT, EARTH, FURROWS, HEPHÆSTUS, HORSE, [SIR?].
+
+**Corrections made:** `Jliad, Bk. IT.` → Iliad, Bk. II.; `aa auriga` → as auriga; See-list spellings restored (`Furrows`, `Herxzstus`, `Hosse`); quotation marks normalised.
+
+**Unclear or supplied:** In the Iliad quotation the OCR `are ots` before "the teeming furrow" is unreadable; `[birth?]` is supplied after "took his" (OCR dropped it). `[SIR?]` is a doubtful See-list item.
 
 ## Full OCR entry body (exact)
 

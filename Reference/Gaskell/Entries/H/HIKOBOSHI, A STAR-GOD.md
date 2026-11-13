@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hikoboshi-a-star-god
 headword: "HIKOBOSHI, A STAR-GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,28 @@ tags:
 | `Sons oF GoD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `STARS OF SOULS` | **unresolved** (review queue) |
 | `WatTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego on the mental plane, or the incarnate Self.
+
+> "By the ferry of Yasu, on the River of Heaven, the boat is floating: I pray you tell my younger sister (wife) that I stand here and wait. Though I (being a Star-god) can pass freely to and fro, through the great sky,—yet to cross over the River of Heaven, for your sake, was weary work indeed! . . . From the time when heaven and earth were parted she has been my own wife;—yet to be with her, I must always wait till autumn" (Legend from the Manyoshu).—L. Hearn, *Milky Way*, pp. 36, 37.
+
+The "ferry of Yasu" has the same meaning as the "bridge of heaven," and signifies the higher mind which the consciousness must traverse in order to rise to the buddhic level. The "boat floating on the River of Heaven" signifies the causal-body on the higher mental plane. The "wife (Tanabata)" is Wisdom,—the buddhic principle,—the "younger sister" of the Higher Self. The Self can pass freely through the higher planes, but when it is incarnate it is "weary work indeed" to struggle upward, so that Love from below may be united to Wisdom above. From the time of the commencement of evolution when Spirit and Matter were dissevered,—matter alone being left apparent,—the Self-incarnate claimed his true mate; but to be again united with her, he must wait until the cycle's close.
+
+> "(Footnote). By the ancient calendar, the seventh day of the seventh month would fall in the autumn season."—L. Hearn, *Ibid.*
+
+The number seven signifies perfection and completion, and the "seventh period" therefore signifies the completion of the cycle, when the lower being perfected it unites with the Higher.
+
+> "In mysticism the will is united with the emotions in an impassioned desire to transcend the sense-world in order that the self may be joined by love to the one eternal and ultimate Object of love; whose existence is intuitively perceived by that which we used to call the soul. . . . We at once see that these two activities correspond to the two eternal passions of the self, the desire of love and the desire of knowledge: severally representing the hunger of heart and intellect for ultimate truth."—E. Underhill, *Mysticism*, pp. 84, 85.
+
+> "Thou hast ravished my heart, my sister, my bride; thou hast ravished my heart with one of thine eyes with one chain of thy neck. How fair is thy love, my sister, my bride! How much better is thy love than wine!"—*Song of Songs*, iv. 9, 10.
+
+See APPLES, [Brivcs?], BUDDHI, CHARON'S FERRY, CUPID, GOLDEN FLEECE, LOVER, MAIDEN, RECOLLECTION, ROSE, SELF, SEVEN, SHORE (other), SONS OF GOD, STARS OF SOULS, WATER.
+
+**Corrections made:** `Stargod` → Star-god; `Manydshu` → Manyoshu; `most traverse` → must traverse; `hunyer` → hunger; `may sister` → my sister; `Mysticiem` → Mysticism; `Songz` → Songs; `Apptes`, `BvuppuHI`, `Sons oF GoD`, `WatTER` restored; page headings `HIKOBOSHI` and `HILL` removed from mid-text.
+
+**Unclear or supplied:** `Manyoshu` for OCR `Manydshu` (diacritics lost). See-list item `[Brivcs?]` not identified.
 
 ## Full OCR entry body (exact)
 

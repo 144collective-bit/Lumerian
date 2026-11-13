@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pitriyana-path-of-the-fathers
 headword: "PITRIYANA (PATH OF THE FATHERS)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -61,6 +62,20 @@ tags:
 | `Suxkuna` | **unresolved** (review queue) |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the course taken in the evolution of the human form and personality after the establishment of a centre on the fourth subplane of the astral plane. This evolution has mainly taken place in the sub-cycle previous to the present one, that is, on the lunar chain of globes, previous to the life-wave coming over to the terrene chain. In evolving the personality, the desire-nature is developed and completed, prior to the coming in of mind and spirit, when the path of the Gods (Devayana) commences. The latter path begins where the former leaves off. There is no break or interval, for the one follows upon the heels of the other: but, of course, whereas the first is of the form, the second is of the life divine.
+
+> "The year indeed is Pragapati, and there are two paths thereof, the Southern and the Northern. Now those who here believe in sacrifices and pious gifts as work done, gain the moon only as their world, and return again. Therefore the Rishis, who desire offspring, go to the South, and the path of the Fathers is matter."—*Prasna Upanishad*, I. 9.
+
+The "year" signifies the Cycle of Life (Pragapati), and the "two paths" are the Pitriyana (southern), and the Devayana (northern). Now those monads of form which here evolve through the struggle of life and the instincts on the physical plane develop the desire-nature (moon) only, as the complete result of their course of action, and so always return to physical embodiment. But the spiritual egos, or monads of life, who intend to manifest their nature and produce qualities, go to the astral plane (south) and occupy the human forms and personalities that are prepared and ready for them. The "path of the fathers" is the course of the lunar pitris in matter, the "path of the gods" is the course of the solar pitris from matter.
+
+See ASTRAL PLANE, DEVAYANA, EVOLUTION, HEAVEN, INCARNATION OF SOULS, LUNAR CYCLE, MAHAYANA, MAN BORN, MAN CRAWLED, MAN (natural), MANASAPUTRAS, METEMPSYCHOSIS, MONAD (form, life), [Monty?], MOON, MOON WAXING, NORTH, ORIGINAL SIN, PERSONALITY, PITRIS, PLANETARY CHAIN, RISHIS, SKINS OF ANIMALS, SOMA (moon), SOUTH, [Suxkuna?], WHEELS (holy), YEAR.
+
+**Corrections made:** page heading `578 PLACE` removed from mid-word (`com578 PLACE pleted` → completed); `Prag&pati` → Pragapati (twice); `Rishes` → Rishis; `other :` → other:; See-list spellings restored (`EvoLUTION`, `MrTEMPsycHosis`, `Monapd (form, _iife)`, `NorrTsH`, `Prrris`, `RIsSHEs`, `Sourn`, and similar).
+
+**Unclear or supplied:** `[Monty?]` and `[Suxkuna?]` in the See list are left in the OCR spelling because the headwords could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

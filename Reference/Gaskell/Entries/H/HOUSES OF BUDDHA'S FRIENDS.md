@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-houses-of-buddha-s-friends
 headword: "HOUSES OF BUDDHA'S FRIENDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Om` | **unresolved** (review queue) |
 | `Onrrrmentr` | **unresolved** (review queue) |
 | `UNGUENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNGUENTS|UNGUENTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of centres of energy spiritually organised on the mental plane.
+
+> "Then they brought Buddha as presents from the houses of his friends costly unguents of sandal wood, etc."—*Buddha-Karita*, Bk. II. 21.
+
+The giving of gifts is comparable to the joy which is brought to the Self from the preliminary experiences which precede its evolution. The "houses of his friends" are the connections which are established on the mental sub-planes between the centres of the mental mechanism. The statement signifies the organising of the mental functioning by the Devas (friends) of the buddhic plane. The "unguents" are the rewards accruing for righteous acts. Love (oil) is its own reward, i.e. increased power and opportunity for well doing.
+
+See BUDDHA, DEVAS, FRIENDS, OIL, OINTMENT, UNGUENTS.
+
+**Corrections made:** `IT.` → II.; `unguente` → unguents; page heading `HUMAN` removed from mid-sentence; See-list spellings restored (`BuppHa`, `Om`, `Onrrrmentr`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

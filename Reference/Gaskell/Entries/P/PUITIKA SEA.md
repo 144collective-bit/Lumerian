@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-puitika-sea
 headword: "PUITIKA SEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `Tistrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `VovURvKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's experience of the lower nature, which in going through it, eventually proves the truth of that which is above.
+
+> "The sea Puitika, whose waters are purified before going back to their heavenly seat—the sea Vouru-kasha, the waters above (Mount) Alborj."—*Vendidad*, V.
+
+The "sea Puitika" is a symbol of experience by which the soul learns truth, and which ultimately through purification in the higher mind proves to the soul the truth underlying existence, thereby passing into the ocean of Reality (Vouru-kasha) above the mount of aspiration (Alborj).
+
+> "As the air is the element in which man moves, and yet again the element of life which is present within the man: so the Pneuma-Christ is for St. Paul both the Ocean of the Divine Being, into which the Christian, since his reception of the Spirit, is plunged," and in which he disports himself, "and a stream which, derived from that Ocean, is specially introduced within his individual life."—H. J. Holtzmann, *Lehrbuch*, etc., Vol. II. p. 79.
+
+See ALBORDJ, EXPERIENCE, OCEAN, PRAYER, RIVER, TISTRYA, VOURUKASHA, WATER.
+
+**Corrections made:** page headings `QUALITIES, PURGATORY` removed from mid-sentence; `urified` → purified; `fcavenly` → heavenly; `hfe` → life; `80` → so; `Hotrzmann` → Holtzmann; See-list spellings restored (`River`, `Tistrya`, `VovURvKASHA`, and similar).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

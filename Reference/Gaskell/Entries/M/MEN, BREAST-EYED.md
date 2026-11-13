@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-men-breast-eyed
 headword: "MEN, BREAST-EYED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `S1GHT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotions which give rise to ideals; sight being comparable to the establishment of mental perception. See EYE, SIGHT.
+
+**Corrections made:** `Eve, S1GHT` → EYE, SIGHT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reaping-the-harvest
 headword: "REAPING THE HARVEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,22 @@ tags:
 | `Sowrne` | **unresolved** (review queue) |
 | `Waces` | **unresolved** (review queue) |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of acquiring the "fruits of the Spirit," which are the buddhic fruition from the cultivation of the lower nature.
+
+> "He that reapeth receiveth wages, and gathereth fruit unto life eternal; that he that soweth and he that reapeth may rejoice together. For herein is the saying true, One soweth and another reapeth. I sent you to reap that whereon ye have not laboured: others have laboured, and ye are entered into their labour."—John iv. 36-8.
+
+The Higher Self, or individuality, having striven after perfection, gathers the harvest due to it of spiritual endowments which shall last through life eternal, so that the lower Self, or personality, which hath sown the seeds of wisdom and love, may become one with the Higher Self in the bliss of realisation. For in this is the truth made clear,—the natural man soweth, and the spiritual man reapeth. The Christ directs that the disciplined qualities shall reap the spiritual fruit accruing from the efforts of qualities below them, so that these lower qualities shall be raised and become united with them.
+
+> "What is a farm but a mute gospel! The chaff and the wheat, weeds and plants, blight, rain, insects, sun,—it is a sacred emblem from the first furrow of spring to the last stack which the snow of winter overtakes in the fields. ... Nor can it be doubted that this moral sentiment which thus scents the air, grows in the grain, and impregnates the waters of the world, is caught by man and sinks into his soul."—Emerson, *Nature*, Ch. V.
+
+See AGRICULTURE, CHAFF, CORN, CULTIVATION, FIELD, FRUITFUL, FURROW, HARVEST, KINGDOM, KEYS, MAN (natural), PARABLE, PERSONALITY, PLOUGHING, RAIN, SEED, SEKHET-HETEP, SICKLE, SOWER, SOWING, WAGES, WHEAT.
+
+**Corrections made:** page heading `614 REAPING` removed from mid-sentence; `lifo` → life; `Joxn` → John; `m the grain` → in the grain; `Furrow`, `Harvest`, `Krinepom`, `Kxvs`, `ParaBLeE`, `PERSON: ALITY`, `PLoucnHine`, `Ram`, `SE=p`, `SoweEE`, `Sowrne`, `Waces` restored in the See list; quotation marks normalised.
+
+**Unclear or supplied:** `Krinepom` read as KINGDOM, `Kxvs` read as KEYS, `Ram` read as RAIN (the OCR `Ram` may be RAM): best guesses.
 
 ## Full OCR entry body (exact)
 

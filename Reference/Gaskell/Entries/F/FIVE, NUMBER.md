@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-five-number
 headword: "FIVE, NUMBER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `Srasons (five)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `Vmcrs` | **unresolved** (review queue) |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This number appears in the Scriptures most often in two relations, namely, the planes of manifestation and the senses. Five elements, five worlds, five intercalary days, and five gathas are symbols of the five planes. Five brethren of Dives, five Karap brothers, five foolish virgins, five companies of dead men, five barley loaves, five-pronged fork, are symbols of the five senses.
+
+> "The five elements, so disposed that earth occupies the centre, exhibit a model to which men and things in varied positions are made conformable. The five antediluvian emperors seem naturally referable to this number and its properties; especially since one reigns by wood, another by fire, a third by earth, a fourth by metal, and a fifth by water. Then there are five human relations, and five constant virtues; five ranks of nobility; five points—east, west, south, north, and centre; five household gods, which occupy the four corners and middle of the house; five tastes; five colours; five [word unclear]."—Kidd, *China*, p. 166.
+
+> "Five is symbolic of imperfection, or incompletion generally."—W. J. Garnier, *Worship of the Dead*, p. 220.
+
+See BRAHMAN, DAYS (five), ELEMENTS (five), FEEDING (5,000), FORK, GATHA DAYS (five), HADES, MODCUNN, PISCES, SEASONS (five), VIRGINS, WORLDS (five).
+
+**Corrections made:** `Thies` → This; page heading `WaTER Permer, Sx, 280 FLAMES` removed from mid-quotation; `pointe` → points; `occu Py the yt corners` → occupy the four corners; `are toy` → [word unclear]; `rfection, or GARNIER, ** Five is sribolie of im incompletion` → Five is symbolic of imperfection, or incompletion (re-ordered fragments); `KIppD` → Kidd; See-list spellings restored (`Bratrox`, `ExzMENTS`, `GaTHA DAyYs`, `Hapgs`, `Mopcunn`, `Piaces`, `Srasons`, `Vmcrs`); quotation marks normalised.
+
+**Unclear or supplied:** The Kidd quotation ends in damaged text (OCR `five are toy`), replaced by `[word unclear]`. The OCR fragments "rfection, or GARNIER" are rearranged: "Five is sribolie of im[perfection, or] incompletion generally" with attribution "W. J. Garnier"; this reordering is a reconstruction. `BRAHMAN`, `MODCUNN`, `VIRGINS` are best readings of the See-list items.
 
 ## Full OCR entry body (exact)
 

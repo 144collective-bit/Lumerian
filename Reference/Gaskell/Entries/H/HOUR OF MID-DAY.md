@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hour-of-mid-day
 headword: "HOUR OF MID-DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `SaBBaTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
 | `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the middle period of the cycle of involution, or of evolution. If the cycle is divided into seven periods, then the middle period is the fourth. Whether there are six or seven periods depends upon the manner of reckoning. The seventh counting downward is the turning point, or "day of rest," leaving six on each side: these are the twelve, as in the Zodiac.
+
+See AEONS (twelve), [ITaBRAOTH?], SABBATH, SEVEN, TWELVE.
+
+**Corrections made:** page heading `873 HOUSE` removed from mid-sentence; See-list spellings restored (`ALons`, `SaBBaTH`).
+
+**Unclear or supplied:** See-list item `[ITaBRAOTH?]` not identified (possibly IABRAOTH).
 
 ## Full OCR entry body (exact)
 

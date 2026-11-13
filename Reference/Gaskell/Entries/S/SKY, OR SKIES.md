@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sky-or-skies
 headword: "SKY, OR SKIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -84,6 +85,38 @@ tags:
 | `TonaueEs` | **unresolved** (review queue) |
 | `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane or principle.
+
+> "When he made firm the skies above: When the fountains of the deep became strong."—Prov. viii. 28.
+
+When the buddhic principle was fashioned or consolidated as a plane of being: When the higher desires became active for reflection below.
+
+> "I advance upon my feet, I become master of my vine, I sail over the sky which formeth the division betwixt heaven and earth."—Budge, *Book of the Dead*, Ch. LXXXV.
+
+Through the physical activities the soul advances; it becomes master of its evolving life. It passes upward to the buddhic plane for further development, whereby the buddhic plane is intermediate between the higher nature and the lower.
+
+See ANU, BUDDHIC PLANE, CEILING, CUP, COW (spotted), [Freer?], FIRMAMENT, FOUNTAIN, HEAVEN AND EARTH, QUATERNARY, VINE, ZENITH.
+
+### Also in this note: SLAUGHTER OF ENEMIES
+
+A symbol of the subdual and dissipation of the passions, desires, and illusions of the lower nature, which are the foes of the Higher Self.
+
+> "Thus saith the Lord God of Israel; Behold, . . . I myself will fight against you (Zedikiah) with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath. And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence."—JER. xxi. 4-6.
+
+> "Surely thou wilt stay the wicked, O God: depart from me therefore, ye bloody men. For they speak against thee wickedly, and thine enemies take thy name in vain. Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee? I hate them with perfect hatred: I count them mine enemies."—Ps. xxxix. 19-22.
+
+These imprecatory passages refer to the lower impulses of the natural man. The lower qualities must be opposed and destroyed, for they are the enemies of the higher nature. The voice of God in the conscience is full of wrath and fury against wrongdoing. Every evil quality has to be overcome and slaughtered.
+
+> "It is possible to bring down to the earth the perfect standards of the heavens, to stop thinking about safety and comfort and salvation altogether, and to be splendidly inspired with the consciousness that we are soldiers under God; to think of our own sins not as the things which are going to condemn us to eternal torture, but as the enemies of Him, the hindrances that stand in the way of His victorious designs; to see their badness not in their consequences, but in their nature, not in their quantity but in their quality; and so to bring to bear upon the very least of them the intense hatred and intolerance which the very nature of sin must always excite in him who has attained a true passion for holiness. So it is possible for us to deal with every sin, little or great, that we discover in our hearts. To count it God's enemy and to fight it with all His purity and strength; that is what it means for us that our sword should be bathed in heaven! (Is. xxxiv. 5)."—Phillips Brooks, *Serm.*, *The Sword Bathed*, etc.
+
+See ANGER OF GOD, ARROWS, BATTLE, CONFLICT, CONSCIENCE, DURGA, EGYPTIANS, ENEMIES OF GOD, GOATS, KILLING-OUT, PESTILENCE, SWORD, TONGUES, WAR, WRATH OF GOD.
+
+**Corrections made:** `hecame strone` → became strong; `Bupar` → Budge; `@ great` → a great; `Tt is possible` → It is possible; `lcast` → least; `DPxrtuirs Brooks` → Phillips Brooks; page headings `697 SLAUGHTER` and `SLAUGHTER` ... `SLAVERY` removed from mid-sentence; See-list spellings restored (`BATTILE`, `EoyrTIANS`, `Sworn` → SWORD, `TonaueEs`, `Goats`, `Duraa`).
+
+**Unclear or supplied:** Contains a second entry: SLAUGHTER OF ENEMIES (headword followed by `:`). `[Freer?]` is the See item as damaged in the OCR. The reference `Ps. xxxix.` is left as printed (possibly damaged `cxxxix`).
 
 ## Full OCR entry body (exact)
 

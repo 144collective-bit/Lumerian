@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goats
 headword: "GOATS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,24 @@ tags:
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Wak` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of lower qualities,—the desires, instincts, and passions.
+
+> "And he shall separate the nations one from another, as the shepherd separateth the sheep from the goats; and he shall set the sheep on his right hand, but the goats on the left."—Mar. xxv. 32, 33.
+
+At the end of the cycle judgment will be passed upon the qualities of the soul. The groups of qualities (nations) which belong to the higher nature will "inherit the kingdom," that is, enter upon activity on the buddhic plane of consciousness, while the groups of lower qualities will be deprived of activity and cast out for dissolution (see Zech. x. 3). The higher qualities minister to the Christ within the soul in their work of raising those qualities below them, though they may seem in so doing to turn away from the Christ. But the lower qualities are incapable of understanding the higher, or giving sustenance to the germs of goodness and truth which the Christ implants in the lower nature. The lower qualities are left to be reabsorbed in the purifying "fire" of the buddhic plane (see verses 34-46).
+
+> "But suppose we leave souls out of account for the moment, and think only of spiritual qualities. I admit that these can only exist in the experience of souls, but it is these which constitute the sheep and the goats, and not the souls. Souls can be freed from them or acquire them as the case may be, can accept them or reject them as time goes on, but there is no necessary eternal association of a soul with any quality. Once we see this the parable becomes luminous. You can draw the dividing line then between the sheep and the goats with absolute clearness. The sheep are the good things in our nature, the Christlike qualities in our character and experience; the goats are the opposite. And Jesus can say, and does say, to every soul in whom his own love and purity are all in all, 'Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.' And correspondingly he can say, and does say, to the evils of life, to the selfishness inherent in the natural man, to everything opposed to his own spirit of compassion and desire to help, 'Depart from me, ye cursed, into the eternal [fire?] For the devil and his angels, read 'evil and its agents,' and you have the truth about that phrase too. . . . The eternal fire is the truth, the righteousness, the love of God. Nothing can live in that devouring flame that is of the nature of a lie or wars against the essential life of any being. That consuming fire is eternal as God himself; it is because he is; it is that which was from the beginning, is now, and ever shall be, world without end. . . . Note carefully that I do not say that it is these good and evil qualities and not the souls in which they are expressed, that will enter into bliss or suffering at the word of our divine Redeemer. They (the souls) do. The qualities are attached to the souls and have no independent existence. . . . But note also, that in this parable it is nowhere stated that the souls remain in the endurance of the eternal fire into which they are sent, or into which they are dragged by their own evil against which the curse has been pronounced. That is not what is stated. The eternal fire is the eternal fire, whatever goes into it or comes out of it or dies within it. The dross is burned up, but the pure gold remains. Hell ceases to be hell the moment a soul is free from sin,—it becomes heaven."—R. J. Campbell, *Serm.*, The Eternal Fire.
+
+This sermon was published in the *Christian Commonwealth* for June 18, 1913. As it contains probably the first published reference to the very important idea of soul-qualities being meant in scripture instead of souls, in many cases,—it is memorable.
+
+See APPENDAGES, BUDDHI, DEVIL, FIRE (destroying), FIRE OF HELL, FURNACE, GOLD, HAND (left), HAND (right), HELL, MAN (natural), NATIONS, PURGATORY, QUALITIES, SCAPEGOAT, SHEEP, SHEPHERD, WAR.
+
+**Corrections made:** `ZrecH.` → Zech.; `becomesluminous. Youcan` → becomes luminous. You can; `bleased` → blessed; `pared` → prepared; `ita agents` → its agents; `bi ess` → bliss; `thry` → they; `sowl-qualities` → soul-qualities; `CAMPBELL` → Campbell; page headings `GOATS` and `315 GOD` removed from mid-sentence; See-list spellings restored (`BuppHI`, `DrEvn`, `FRE oF HELL`, `FuRNACE`, `Hanp`, `NaTIONs`, `Wak`); quotation marks normalised.
+
+**Unclear or supplied:** `[fire?]`: OCR reads "into the eternal ae For the devil"; the noun is damaged and the inner quotation is left unclosed as in the OCR.
 
 ## Full OCR entry body (exact)
 

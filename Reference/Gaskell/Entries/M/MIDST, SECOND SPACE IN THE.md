@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-midst-second-space-in-the
 headword: "MIDST, SECOND SPACE IN THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Mystery` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]]; [[Reference/Gaskell/Entries/M/MYSTERY MYRTLE, BURNT|MYSTERY MYRTLE, BURNT]]; [[Reference/Gaskell/Entries/M/MYSTERY-NAME|MYSTERY-NAME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhi-manasic plane.
+
+> "He is a God who hath found the words of the Mysteries of the second space in the midst."—*Books of the Saviour*.
+
+He has attained Godhood in the germ who has arrived at the stage referred to, which is the higher emotion-mental plane. This illustrates the saying,—"I said, ye are Gods" (Ps. lxxxii. 6; John x. 34).
+
+> "That is called the midst which is inmost."—Swedenborg, *Arc. Cel.* to Gen. iii. 8.
+
+See MYSTERY.
+
+**Corrections made:** `Booke` → Books; `JOHN` → John; `Mystery` → MYSTERY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

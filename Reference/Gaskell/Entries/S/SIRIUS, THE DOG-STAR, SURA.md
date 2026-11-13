@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sirius-the-dog-star-sura
 headword: "SIRIUS, THE DOG-STAR, SURA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Karma` | **unresolved** (review queue) |
 | `Stars` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fixed will in concentration through the steadying of the mind. Until the mind is stilled from the surgings of desire, there is no fixity of purpose.
+
+> "The Dog Sirius (Sura) is another watchman of the heavens; but he is fixed in one place, at the bridge Kinvat, keeping guard over the Abyss Dusakh out of which Ahriman comes."—*Zoroastrian System*, J. F. Clarke, *Ten Religions*.
+
+The "Dog Sirius" at the "bridge" of the higher mind represents power, tenacity and will,—the mind as recorder and agent of karma, seated in the causal-body, and guarding the soul from desire so far as the soul is emancipated from the lower nature.
+
+See AHRIMAN, BRIDGE (kinvat), CAUSAL-BODY, DOG-STAR, DUSAKH, KARMA, STARS, WILL.
+
+**Corrections made:** `CLarke` → Clarke; See-list spellings restored (`CaUSAL-BODY`, `Doa-staR`, `Karma`, `Stars`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

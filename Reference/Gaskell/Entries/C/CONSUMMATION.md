@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-consummation
 headword: "CONSUMMATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `UNION. OR ASTERHast` | **unresolved** (review queue) |
 | `CONTENTION` | **unresolved** (review queue) |
 | `BLOODY;` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BLOODY SWEAT OF JESUS|BLOODY SWEAT OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of attainment of the object of life, in the rise of consciousness above the lower nature. See COME INTO THEE, MARRIAGE, UNION. [OR ASTERHast, CONTENTION, BLOODY;?]
+
+**Corrections made:** `CoME` → COME; `Marriace` → MARRIAGE.
+
+**Unclear or supplied:** The trailing OCR fragment `OR ASTERHast, CONTENTION, BLOODY;` is stray text (probably the start of the next entry's page heading or a damaged next headword) and is kept in brackets as unrecoverable.
 
 ## Full OCR entry body (exact)
 

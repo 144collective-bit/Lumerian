@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-palms
 headword: "PALMS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Inrorrion` | **unresolved** (review queue) |
 | `TREEs (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of glimpses of higher things. Intuitions of love and truth.
+
+> "By palm trees are signified the divine truths of the Word, and by Palms in their hands confessions from them. ... Palms signify divine truths in ultimates, which is the divine truth of the literal sense of the Word."—Swedenborg, *Apoc. Rev.*, n. 367.
+
+See INTUITION, TREES (tall).
+
+**Corrections made:** `SwWEDENBORG` → Swedenborg; See-list spellings restored (`Inrorrion`, `TREEs`).
+
+**Unclear or supplied:** `INTUITION` is a reading of OCR `Inrorrion`.
 
 ## Full OCR entry body (exact)
 

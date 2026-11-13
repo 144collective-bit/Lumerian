@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seeds-of-men-women-and-cattle
 headword: "SEEDS OF MEN, WOMEN AND CATTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the archetypal forms of the vehicles of mind, emotion, and higher desires.
+
+> "Thither bring the seeds of all men, women, and cattle, which are the greatest and best and finest on this earth."—*Vendidad*, II.
+
+The "seeds," which are the ideal type-forms brought over from the previous cycle of manifestation,—the Lunar,—are now introduced on the terrene globe. These type-forms are on the mental, astral, and physical planes.
+
+See BEASTS (sorts), CATTLE, DWELLINGS, KARSHVARES, LUNAR CHAIN, PLANETARY CHAIN, REGIONS, SHIP OF MANU.
+
+**Corrections made:** `Thithor` → Thither; `~vomen` → women; `aand` → and; `Venslidad` → Vendidad.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

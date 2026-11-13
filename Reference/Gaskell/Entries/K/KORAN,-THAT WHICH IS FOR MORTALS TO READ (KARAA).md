@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-koran-that-which-is-for-mortals-to-read-karaa
 headword: "KORAN,—THAT WHICH IS FOR MORTALS TO READ (KARAA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,22 @@ tags:
 | `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "Word of God,"—the inner knowledge possessed by every soul, which will become read, or manifest, as the nature becomes able and willing to understand.
+
+> "The Mohammedans absolutely deny the Koran was composed by their prophet himself, or any other for him; it being their general and orthodox belief that it is of divine original, nay that it is eternal and uncreated, remaining, as some express it, in the very essence of God."—Sale's *Koran*, Prel. Dis., p. 46.
+
+> "God created under the Arsh (Throne) and of its light, a great 'Tablet' in colour as a green beryl, and a great 'Pen' in colour as an emerald, and filled with ink which was of white light. God cried 'Write O Pen!' whereupon it moved over the Tablet and wrote thereon everything that should happen till the Last Day, and the Tablet was covered over with the writing. And thereon was then inscribed the Divine original of the Glorious Koran" (Sufi record).—Gibb, *Ottoman Poetry*, Vol. I. p. 36.
+
+Below the plane of atma (the Arsh) is the buddhic, or Wisdom plane, whereon the Holy Spirit inspires the soul with Truth. The "Tablet" or "preserved table" is the "table of the heart" (causal-body) on which is written by Divine expression (pen) the "law of Wisdom" (Prov. iii. 1-5) expounding the Divine scheme of the Soul's involution and evolution;—its descent into captivity of the lower nature, its ascent and liberation; with final union with God at the end of the cycle (the last Day). The original of the Koran, or the Bible, and other sacred books, is, therefore, purely spiritual knowledge in the subjective possession of every soul, ready to become objective as the devout mind meditates freely on any of the sacred writings.
+
+See AMBAYAVIS, CAUSAL-BODY, GOSPEL, INSPIRATION, JUDGMENT-DAY, MYTHOLOGY, PAPYRUS, PEN, REVELATION, SASTRA, SCRIPTURES, UPANISHAD, UR-HEKAU, VEDA, WORD OF GOD.
+
+**Corrections made:** `SaLze's` → Sale's; `Dts.` → Dis.; `GrbB` → Gibb; page heading `436 KRISHNA` removed from mid-text; See-list spellings restored (`GosPEL`, `MyrHo.tocy`, `Papyrus`, `ReEveLATION`, `SasTRA`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

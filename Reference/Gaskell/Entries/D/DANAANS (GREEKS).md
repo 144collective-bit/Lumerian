@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-danaans-greeks
 headword: "DANAANS (GREEKS)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `ACHAIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ACHAIANS|ACHAIANS]] |
 | `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental qualities and faculties. See ACHAIANS, GREEKS.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-captivity-of-the-israelites
 headword: "CAPTIVITY OF THE ISRAELITES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `PRISONERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 | `REMISSION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REMISSION OF SINS|REMISSION OF SINS]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the enslavement of the mental qualities (Israelites) by the desires, sensations, and lower emotions,—the "Egyptians" or "Babylonians," as related in the Hebrew scriptures.
+
+> "For I delight in the law of God after the inward man: but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members."—Rom. vii. 23.
+
+> "By leading into captivity is signified being seduced and so drawn away from truths and goods into falses and evils."—Swedenborg, *Apoc. Rev.*, n. 591.
+
+> "We must care for justice; justice is one of the concerns of the soul. The soul that is indifferent to justice is not in possession of itself. . . . Excessive poverty and excessive riches are fetters upon human souls, prisons to human spirits. That is why they should be abolished, and that is my main reason for being a social reformer."—T. Rhondda Williams, *Serm.*, *The Promise*, &c.
+
+See BABYLON, BONDAGE, EXODUS, FETTERS, ISRAELITES, JUSTICE, PEOPLE, PRISONERS, REMISSION, SUFFERING.
+
+**Corrections made:** `,—-the` → ,—the; `WIL LIaAMS` → Williams; `RHONDDA` → Rhondda; See-list spellings restored (`BaByr.on`, `Exopvus`, `FETreERS`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

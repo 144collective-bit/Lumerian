@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-skin-of-human-body
 headword: "SKIN OF HUMAN BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `FLESH` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLESH|FLESH]] |
 | `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `PROMETHEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the outer envelope of the soul, which is the means of functioning upon the astral or physical plane.
+
+> "The interior man is 'clothed with skin and flesh' (JOB x. 9), since wherein it is raised up to things above, it is straightly blockaded with the besieging of fleshly motions. . . . 'And hast fenced me with bones and sinews.' With flesh and skin we are clothed, but we are 'fenced with bones and sinews,' in that though we receive a shock by temptation assaulting us from without, yet the hand of the Creator strengthens us within, that we should not be shattered. And so by the promptings of the flesh, He abases us in respect of His gifts, but by the bones of virtue He strengthens us against temptations."—St. Gregory, *Morals on the Book of Job*, Vol. I. p. 552.
+
+See BONES, FLAYING OF MAN, FLESH, JOB, PROMETHEUS.
+
+**Corrections made:** `ia` → is; `akin` → skin; `Jos` → JOB; `Greaory` → Gregory; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

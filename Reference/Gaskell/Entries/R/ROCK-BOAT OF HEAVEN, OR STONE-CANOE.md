@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rock-boat-of-heaven-or-stone-canoe
 headword: "ROCK-BOAT OF HEAVEN, OR STONE-CANOE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body in the higher mind, by means of which the buddhic consciousness (heaven) is reached by the soul.
+
+See BOAT (river), BUDDHIC PLANE, CAUSAL-BODY, HEAVEN.
+
+**Corrections made:** page heading `ROCKS` removed from mid-sentence; `Boat` capitalised in See list.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

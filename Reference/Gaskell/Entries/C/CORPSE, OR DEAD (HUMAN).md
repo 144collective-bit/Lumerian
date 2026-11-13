@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-corpse-or-dead-human
 headword: "CORPSE, OR DEAD (HUMAN)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,36 @@ tags:
 | `PooR PEOPLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR PEOPLE|POOR PEOPLE]] |
 | `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality in its lower aspect, that is, without the Divine spark. Compared with the immortal Individuality, the mortal personality is apprehended as dead—illusive, transient.
+
+> "I have heard from the wise men that we are now dead, and that the body is our sepulchre."—Plato, *Gorgias*, fol. 493.
+
+> "He that toucheth the dead body of any soul of man shall be unclean seven days."—Num. xix. 11.
+
+The "touching of a corpse" signifies the cherishing of the personality with its desires and selfishness which render the nature "unclean" for a full period.
+
+> "It is well known that, in the minds of Hindus, ideas of impurity are inseparably connected with death, and contamination is supposed to result from contact with the corpses of even a man's dearest relatives."—Mon. Williams, *Buddhism*, p. 496.
+
+> "It grieves the sun, O holy Zoroaster, to shine upon a man defiled by a corpse; it grieves the moon; it grieves the stars."—J. M. Mitchell, *Zend Avesta*, etc., p. 35.
+
+When the soul is steeped in the selfishness of the lower personality (corpse), the Higher Self (sun), the emotions (moon), and the mental faculties (stars), are unable to develop it.
+
+> "For whosoever would save his life shall lose it; but whosoever shall lose his life for my sake, the same shall save it."—(Luke ix. 24.)
+
+> "We must keep up our individuality, but we ought to take care that it is true and not false individuality. The key to distinguish them from each other is given to us in the text. It speaks of a double nature in man; one which asserts self, the other which denies it. The first has a seeming life which is actual death; the second has a seeming death which is actual life; and therefore, as life is inseparably connected with individuality, the development of the selfish nature is false individuality; the development of the unselfish nature is true individuality. . . . Love for self, sympathy for self, activity for self, do not produce life, or the sense of life; they produce self, disease, the satiety which consumes, the dreadful loneliness which corrupts the soul, that passionate lust for more which is itself the unsatisfied worm which eats away the heart. No vivid or exalted sense of individual being can ever fill the heart of this man until he escape from the curse of self-involvement, and spread his being over all the world."—Stopford A. Brooke, *Serm.*, *Individuality*.
+
+> "A 'dead man' acknowledgeth nothing to be true and good, but what regardeth the body and the world."—Swedenborg, *Arc. Cel.* to Gen. ii.
+
+> "The attitude of the natural man with reference to the Spiritual is a subject on which the New Testament is equally pronounced. Not only in his relation to the spiritual man, but to the whole Spiritual World, the natural man is regarded as dead. He is as a crystal to an organism. The natural world is to the Spiritual as the inorganic to the organic. 'To be carnally minded is Death.' 'Thou hast a name to live, but art Dead.' 'She that liveth in pleasure is Dead while she liveth.' 'To you hath He given Life which were Dead in trespasses and sins.'"—H. Drummond, *Natural Law*, etc., p. 75.
+
+See ATU-RA, ASCENSION OF OSIRIS, ASPAH, CREMATION, DEAD, DEFUNCT, EMBALMMENT, HEEL, HOUSES (corpses), INDIVIDUALITY, MAN (natural), MAN WITHOUT WOMAN, MUMMY, PERSONALITY, POOR PEOPLE, SEVEN, VULTURE.
+
+**Corrections made:** `**T have` → "I have; `Noum.` → Num.; `xix. 1]` → xix. 11; `ite` → its; page headings `BODY` and `CORPSE-CARRYING` removed from mid-quotations; `LURKE` → Luke; `asserta` → asserts; `refererce` → reference; `in Death` → is Death; `Dead.` quotation marks repaired; `Storrorp A. BrooxeE` → Stopford A. Brooke; `DrumMOND` → Drummond; `Arc. Cel.` capitalisation normalised; See-list spellings restored (`Aru-RA`, `AspaH!`, `Mummy`, `PERSONaLiry`, `Man`), and similar minor fixes.
+
+**Unclear or supplied:** `xix. 1]` read as `xix. 11` (obvious damage). `Aru-RA` is probably ATU-RA; left as a close reading. `AspaH!` read as ASPAH.
 
 ## Full OCR entry body (exact)
 

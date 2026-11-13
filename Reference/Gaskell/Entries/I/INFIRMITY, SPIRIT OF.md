@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-infirmity-spirit-of
 headword: "INFIRMITY, SPIRIT OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `Jarmmus` | **unresolved** (review queue) |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An aspect of a spiritual quality exercised through the astral nature, and which has been misdirected.
+
+> "And behold a woman which had a [spirit] of infirmity eighteen years; and was bowed together, and could in no wise lift herself up. And when Jesus saw her, he called her, and said to her, Woman, thou art loosed from [thine?] infirmity."—Luke xiii. 11, 12.
+
+The indwelling Christ is teaching the qualities, when his wisdom attracts a contracted and well-nigh dead affection of the lower nature, i.e. a starved emotion. The Christ responds to the aspiration, and calls the emotion to a higher use, thus releasing it from its bonds and making its path straight.
+
+See ASTRAL PLANE, HEALING (dead), JAIRUS, WOMAN.
+
+**Corrections made:** `ite` → its; `Jarmmus` → JAIRUS; `LukKE` → Luke.
+
+**Unclear or supplied:** `[spirit]` (OCR `a x of infirmity`) is supplied from the Gospel text; `[thine?]` (OCR `i infirmity`) is uncertain.
 
 ## Full OCR entry body (exact)
 

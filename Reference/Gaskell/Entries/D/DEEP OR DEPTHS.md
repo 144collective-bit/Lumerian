@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deep-or-depths
 headword: "DEEP OR DEPTHS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `Tanaoa` | **unresolved** (review queue) |
 | `WIND Ws OF HEAVEN STOPPED` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature as a region of darkness below the higher nature.
+
+> "Who shall descend into the deep? (that is, to bring Christ up from the dead)."—Rom. x. 7.
+
+This refers to the mistaken notion that the lower nature can command the higher. It is Christ of his own power who rises from the dead lower nature in the souls of men.
+
+> "When there were no depths, I was brought forth."—Prov. viii. 24.
+
+Prior to the reflection of the Higher Self (atma-buddhi) in the "depths,"—lower nature—the Higher Self was manifest on the higher planes.
+
+See ABYSS, ATEA, CHAOS, DELOS, FOUNTAINS, [GRYUNAA?], PO, TANAOA, WINDOWS OF HEAVEN STOPPED.
+
+**Corrections made:** page heading `08 DEFUNCT` removed from mid-sentence; See-list spellings restored (`Asyss`, `CHaos`, `Fountars`, `WIND Ws`); and similar minor fixes.
+
+**Unclear or supplied:** See-list item OCR `Gryunaa` cannot be identified and is given as `[GRYUNAA?]`. `WINDOWS OF HEAVEN STOPPED` is restored from OCR `WIND Ws OF HEAVEN STOPPED`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flaying-of-man-and-putting-his-skin-on-cow
 headword: "FLAYING OF MAN AND PUTTING HIS SKIN ON COW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `ProtoryPsEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the transferrence of the perfected qualities of the Archetypal Man to the buddhic plane from whence they may be reflected to the lower planes in the evolving souls of men.
+
+> "The gods spake, 'Verily, the cow [is] here on earth; come, let us put on the cow that skin which is now on man: therewith she will be able to endure rain and cold and heat.' Accordingly, having flayed man, they put that skin on the cow."—*Sata. Brâh.*, III. 1, 2, 14-15.
+
+On the buddhic plane (cow) are the prototypes of all things on the lower planes (earth). The perfected qualities are, as it were, the outer envelope of the Archetypal Man, and these qualities are now gathered up to the buddhic plane to be used in providing the spiritual egos with manifest qualities during their evolution on the lower planes through various conditions of life.
+
+> "The word skin, which occurs frequently in this Book of Job, denotes here what is most precious. To be deprived of the skin is to lose what is so valuable, and to give the skin for a thing is to make the greatest sacrifice for it (Job ii. 4)."—Wordsworth, *Bible, Job*, p. 5.
+
+See ARC. MAN, COW, DISMEMBERMENT, FLESH OF JESUS, LINEN GARMENT, MAN, PROTOTYPES, SKIN.
+
+**Corrections made:** `eve i here` → [is] here; `Brdh.` → Brâh.; `thcse` → these; `se valuable` → so valuable; `WorpsworTa` → Wordsworth; `Cow` → COW; `ProtoryPsEs` → PROTOTYPES; quotation marks normalised.
+
+**Unclear or supplied:** `[is]` is supplied for the damaged OCR `eve i` ("the cow eve i here on earth").
 
 ## Full OCR entry body (exact)
 

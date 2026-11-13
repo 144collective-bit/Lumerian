@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ilya-tree
 headword: "ILYA TREE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,26 @@ tags:
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `VIBHU` | **unresolved** (review queue) |
 | `YESHTIKA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life or Ray from the Absolute.
+
+> "He (the soul) approaches the tree Ilya, and the odour of Brahman reaches him."—*Kaush. Upanishad*, I. 2.
+
+Free from all relativity, the soul approaches the Truth of the Divine Life which yields the fruit of Wisdom; and the "breath" of the Supreme invigorates his being.
+
+> "O taste and see that the Lord is [good?]."—Ps. xxxiv. 8.
+
+> "How sweet are thy words unto my taste! Yea sweeter than honey to my mouth!"—Ps. cxix. 103.
+
+> "Plato 'keeps the faith' that the soul has in itself an eye for divine Reality, and that the mind has a native capacity for beatific vision. This doctrine has had mighty influence and is of vast import. The view which Plato's successors and the later mystics found in his teaching was rather an ultimate Reality 'beyond' the universe, and 'above' mind; 'beyond being' and 'above knowledge.' It is to be reached only by a sublime process which negates all finiteness; all multiplicity, all particularity. On this basis the Absolute Reality is nothing knowable or thinkable."—R. M. Jones, *Mystical Religion*, p. 66.
+
+See ABSOLUTE, BRAHMA, BREATH (divine), FRUIT, ODOUR (sweet), SALAGYA, SUTRATMA, TASTE, TREASURE, TREE OF LIFE, VIBHU, YESHTIKA.
+
+**Corrections made:** `Tlya` → Ilya; `iteelf` → itself; `mystica` → mystics; See-list spellings restored (`Frvurr`, `Opoun`, `Taste`).
+
+**Unclear or supplied:** `[good?]`: OCR has "the Lord is" followed by the reference with the word lost.
 
 ## Full OCR entry body (exact)
 

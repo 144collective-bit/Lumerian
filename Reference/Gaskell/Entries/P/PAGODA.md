@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pagoda
 headword: "PAGODA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `PUNISHMENT` | **unresolved** (review queue) |
 | `JUDGMENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDGMENT AND JUSTICE|JUDGMENT AND JUSTICE]]; [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]]; [[Reference/Gaskell/Entries/J/JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART|JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART]] |
 | `SEVERITY;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes in which are the Divine attributes. The dragons and ornaments signify wisdom and the "treasures in heaven,"—the higher qualities on the buddhic plane. See CHURCH, SHRINE, TEMPLE.
+
+### Also in this note: PAHAD (GEBURAH), PUNISHMENT, JUDGMENT, SEVERITY;
+
+**Corrections made:** Quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: PAHAD (GEBURAH), PUNISHMENT, JUDGMENT, SEVERITY; only the headwords appear, with no definition in the OCR.
 
 ## Full OCR entry body (exact)
 

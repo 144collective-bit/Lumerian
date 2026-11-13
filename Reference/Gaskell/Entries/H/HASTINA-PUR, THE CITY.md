@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hastina-pur-the-city
 headword: "HASTINA-PUR, THE CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ButsmMa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental centre of the lower nature. See BHISHMA.
+
+**Corrections made:** `ButsmMa` → BHISHMA.
+
+**Unclear or supplied:** `BHISHMA` is a likely restoration of OCR `ButsmMa`.
 
 ## Full OCR entry body (exact)
 

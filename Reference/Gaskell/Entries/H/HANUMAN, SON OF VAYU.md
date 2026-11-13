@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hanuman-son-of-vayu
 headword: "HANUMAN, SON OF VAYU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `SovurnH` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intellect which proceeds from the higher mind (Vayu).
+
+> "From the south came the welcome tidings of the discovery of Sita by Hanuman, one of the chief captains of the Vanar host, a son of the [word unclear] by a nymph of paradise."—J. Oman, *Great Indian Epics*, p. 65.
+
+The lower, or astral (south) emotions, when transmuted, bring about the evolution of the intuition (Sita) which the intellect recognises and saves from extermination. The "Vanar host" are the mental qualities. A "nymph of paradise" is a lower aspect of buddhi. See INTELLECT, LANKA, RAMA, RAVANA, SITA, SOUTH, TRANSMUTATION, VIBHISHANA.
+
+**Corrections made:** page heading `337 HARLOT` removed from mid-text; See-list spellings restored (`Invectecr`→INTELLECT, `Srra`, `SovurnH`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: OCR `a itr` after "son of the". `INTELLECT` is a likely restoration of OCR `Invectecr`.
 
 ## Full OCR entry body (exact)
 

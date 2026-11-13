@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-to-sleep-in
 headword: "HOUSE TO SLEEP IN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Prataya` | **unresolved** (review queue) |
 | `SLEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP|SLEEP]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of ideal form or mode in which the Spirit withdraws from manifesting itself.
+
+> "Now when the bright light of the sun was set, there went each god to his house to sleep, where each one had his palace made with cunning device by [famed Hephaistos?] the lame god."—*Iliad*, Bk. I.
+
+Now when the cycle terminated, and pralaya supervened, each aspect of the Self returned to a quiescent condition—for which, however, the form, or mode, was provided, that is, nothing was extinguished. In every case the Creative Mind (Hephaistos) had called into being that which was to endure eternally.
+
+See HEPHAISTOS, MANSIONS, PALACE, PRALAYA, SLEEP, SUN-SETTING.
+
+**Corrections made:** `ace` → palace; `Jliad` → *Iliad*; `PaLace`, `Prataya` restored.
+
+**Unclear or supplied:** `[famed Hephaistos?]` (OCR `bea i dana`), inferred from the parallel quotation in the Hephaistos entry.
 
 ## Full OCR entry body (exact)
 

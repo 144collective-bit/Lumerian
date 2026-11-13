@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-fleece-from-the-golden-or-purple-ram-of-god
 headword: "GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -58,6 +59,29 @@ tags:
 | `Harm OF HEAD` | **unresolved** (review queue) |
 | `PELEUS` | **unresolved** (review queue) |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic vesture of the indwelling Spirit (atma)—the Incarnate Self, the "Lamb of God."
+
+> "On the arrival of Jason at Iolous, Peleas, the king, remembered the oracle about being on his guard against the man with the one shoe, and so asked Jason what he would do if he were told by an oracle that he should be killed by one of his subjects? Jason, at the suggestion of Hera, who hated Peleas, answered that he would send that subject to fetch the Golden Fleece. Peleas accordingly ordered Jason to fetch the Fleece."—*The Story of Jason*, Keightley, *Mythology*.
+
+On the Higher-Self (Jason, or Jasius) being born in the soul on the mental plane (Iolcus), and received of the lower-self (Peleas); the lower being in touch with the Higher, recollects that the Higher is never revealed in his fullness or perfect duality, and that the Unmanifest can never be apprehended in its true nature. So the lower, as it were, puts the Higher nature to the test, and inquires what would be done if he,—Jasius the Saviour,—were to be delivered up by one of his chosen qualities (a "Judas") for execution? Then the Higher-Self prompted by the Wisdom (Hera) within, which disdains the opinionative knowledge esteemed by the lower-self, answers that if this execution or consummation of sacrifice,—the slain Son of Man rising as Son of God,—be accomplished, then indeed the endowment of the buddhic faculties (the Golden Fleece or the Purple Robe) shall be attained and the Higher Self be glorified in the risen lower Self. And so it follows that the prompting from Above impels the Higher nature in the soul to seek Self-realisation through Self-development. [word unclear] the [word unclear] "which [word unclear] the [word unclear] [word unclear] guard [word unclear] [word unclear]" With the potent "drugs," or powers, exercised upon the higher planes, intuition (Medea) lulled to rest the desire-mind (the tempting serpent), and so revealed the buddhic nature to the consciousness. The "Golden Fleece" has the same meaning as the "treasure in heaven," the "fruit of the Spirit," the "pearl," the "best robe," the "holy grail," "wealth."
+
+See BLISS, BUDDHI, CADMUS, CONSULTING, DRUGS, EVOLUTION, GEUSH TASHA, HERA, INCARNATION, JASON, LAMB, MEDEA, ORACLE, PEARL (precious), PELEAS, ROBE, WISDOM.
+
+### Also in this note: GOLDEN HAIR
+A symbol of the highest aspirations of the mind in contact with buddhi.
+
+> "Athene stood behind Peleus' (Achilles) and caught him by his golden hair, to him only visible, and of the rest no man beheld her."—*Iliad*, Bk. I.
+
+The Wisdom principle (Athene) appeals to the personality (Achilles) by inspiring it with loftier motives and higher aspirations, for by these only is Wisdom apprehended. To the lower mental qualities the buddhic nature remains unapparent.
+
+See ACHILLES, ATHENA, BUDDHI, HAIR OF HEAD, PELEUS, WISDOM.
+
+**Corrections made:** `Ke1qutTiey` → Keightley; `subjects f Jason` → subjects? Jason; `ita` → its; `teat` → test; `Buiits, Buppx1, Capmus, ConSULTING, Drucs, Lams, MeEpEA, Harm OF HEAD` and other See-list spellings restored; `Jitad` → Iliad; page heading `GOLDEN` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: GOLDEN HAIR. The garbled OCR "the gecpect ‘which guscdsd the Goldch eo wni pals ie Ais ch guard © en" is unrecoverable and shown as `[word unclear]` markers (probably a sentence about the serpent which guarded the Golden Fleece).
 
 ## Full OCR entry body (exact)
 

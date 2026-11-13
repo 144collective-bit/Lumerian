@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aso-queen-of-ethiopia
 headword: "ASO, QUEEN OF ETHIOPIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Anc. MAN` | **unresolved** (review queue) |
 | `CHEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEST, OR COFFER (ARCA), OF OSIRIS|CHEST, OR COFFER (ARCA), OF OSIRIS]] |
 | `DEATH OF OGIRIS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the receptive or feminine aspect of the potential on the higher planes.
+
+> "It is said that it was Queen Aso who secretly measured the body of Osiris, and made the chest in which it was laid."—Plutarch, *Isis and Osiris*, § 13.
+
+The actual becomes the interpreter of the potential (Aso) and a vehicle of the measure of the Archetypal Man (Osiris) is builded of astro-mental matter for the Ego, by the forces which are controlled and guided from the potential.
+
+See ARC. MAN, CHEST, DEATH OF OSIRIS.
+
+**Corrections made:** `Tt` → It; `Prourancu` → Plutarch; `OGIRIS` → OSIRIS; `Anc. MAN` → ARC. MAN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

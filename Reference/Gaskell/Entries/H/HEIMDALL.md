@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heimdall
 headword: "HEIMDALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `REGNAROK` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGNAROK|REGNAROK]] |
 | `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TUSK` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Logos, or the Divine Will in manifestation.
+
+> "Heimdallr was a god of light, of the early sun, 'the dawn and the beginning of all things' (Uhland), akin to the Greek Helios. He kept watch on the frontiers of highest heaven (Himinbjorg), guarding the rainbow bridge (Bifrost) against the assaults of the giants. Descriptions of Heimdallr speak of his golden teeth, of his horse with golden mane (Guldtoppr), on which he rode to Balder's funeral, of his wonderful sword, Hofud (head), of his horn (Gjallarhorn) with which the gods were summoned to the last great battle. He had deadly feud with Loki, with whom he fought daily."—*Nonclassical Mythology*, p. 80.
+
+The Divine Will manifests on the plane of the higher mind (Bifrost) midway between the higher and lower natures, and judging the soul-qualities. The "golden teeth" symbolise wisdom and power. The "horse" signifies the highest intelligence; the "sword," spiritual force to dispel error; the "horn," the outpouring of the Divine Life for the development of the qualities. The Divine Will contends against the lower principle (Loki) in every stage of the soul's progress.
+
+See BALDER, BIFROST, DAWN, DEATH OF BALDER, GOLD, GULDTOPP, HORSE, LOKE, REGNAROK, TEETH, TUSK.
+
+**Corrections made:** Page heading `351 HEIR` removed from mid-sentence; `Heimdalir` → Heimdallr; opening quotation mark restored before "Heimdallr was a god of light" (OCR lacked one); See-list spellings restored (`Birrost`, `DawN`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

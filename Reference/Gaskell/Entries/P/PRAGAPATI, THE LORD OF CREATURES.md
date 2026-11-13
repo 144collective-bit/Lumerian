@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pragapati-the-lord-of-creatures
 headword: "PRAGAPATI, THE LORD OF CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -65,6 +66,20 @@ tags:
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC$` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the creative aspect of the Supreme, which goes forth primordially as Divine Truth producing Spirit and Matter in the cycle of manifestation, and eventually taking form as the Archetypal Man.
+
+> "Some call Pragapati the Father with five feet (the five seasons), and with twelve shapes (the twelve months), the Giver of rain in the highest half of heaven; others again say that the Sage is placed in the lower half, in the chariot with seven wheels and six spokes."—*Prasna Upanishad*, I. 11.
+
+The "five feet or seasons" signify progression on the five planes of the universe, and the "twelve shapes or months" represent the twelve divisions of the great cycle of time and life, during which the Self accomplishes his course. The Divine Wisdom dispenses Truth from above; he is also the indwelling Self in the lower nature, seated in the causal-body related with the seven globes of the planetary chain, and the dual aspects of relativity of the three lower planes.
+
+See ADITYAS, AGNI, ARC. MAN, CHARIOT, DAY AND NIGHT, DEATH OF OSIRIS, EVOLUTION, FOOD, GOAT (white), GODHEAD, GOLD MAN, HIGHER AND LOWER SELVES, HIRANYAGARBHA, HORSE SACRIFICE, INCARNATION, INVOLUTION, KARSHVARES, MAHABHARATA, MAHAVIRA-POT, MONTH, PLANETARY CHAIN, PURUSHA, RA, RAIN, SAP, SEASONS (five), TREE, TORTOISE, TUAT, WHEEL, WORLDS (five), YEAR, ZODIAC.
+
+**Corrections made:** page heading `PRAGAPATI` removed from mid-text; `Pragépati` → Pragapati; `ADITYAS`, `Day AND NIGHT`, `Foop`, `Goa? (white)`, `SEeasons`, `Trae`, `TuUaT`, `ZODIAC$` restored in the See list; `causalbody` → causal-body.
+
+**Unclear or supplied:** `GOAT (white)` is read from the damaged OCR `Goa? (white)`.
 
 ## Full OCR entry body (exact)
 

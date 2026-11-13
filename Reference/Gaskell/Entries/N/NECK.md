@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-neck
 headword: "NECK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Mrenat` | **unresolved** (review queue) |
 | `STIFFNECKED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STIFFNECKED GENERATION|STIFFNECKED GENERATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purified emotions; being situate between the breast and head, or the heart and mind.
+
+> "My neck is the neck of the divine goddess Isis."—Budge, *Ideas*, etc., p. 127.
+
+See MENAT, STIFFNECKED.
+
+**Corrections made:** `Bupan` → Budge; `Mrenat` → MENAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

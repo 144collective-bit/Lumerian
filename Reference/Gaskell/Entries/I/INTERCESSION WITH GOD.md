@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-intercession-with-god
 headword: "INTERCESSION WITH GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `Saints` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the transmuting process of atma-buddhi,—the Holy Spirit,—by which intercession the qualities of the soul are raised to the higher levels of consciousness.—See Rom. viii. 24-8.
+
+See HOLY GHOST, REDEMPTION, SAINTS, TRANSMUTATION.
+
+**Corrections made:** Page heading `INTOXICATION` removed from mid-sentence; `levela` → levels; `Row. viii, 24-8` → Rom. viii. 24-8; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

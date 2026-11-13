@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harvest-at-the-end-of-the-world
 headword: "HARVEST AT THE END OF THE WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
 | `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the gathering in of the "fruits of the Spirit" at the close of the cycle; that is, the attainment of the spiritual results of experience and aspiration when the consciousness rises to the buddhic plane. It is the acquisition of perfected qualities of wisdom, love, and truth.
+
+> "The hour to reap is come; for the harvest of the earth is over-ripe. And he that sat on the cloud cast his sickle upon the earth; and the earth was reaped."—Rev. xiv. 15, 16.
+
+The period has arrived in the soul's evolution when the consciousness is ready to rise to higher planes. The Higher Self, therefore, having conquered the lower nature, sends forth from the plane of buddhi (cloud) his outgoing spiritual energy (sickle) to cut down all attachments to the desires and objects of sense, and so liberate the ego from the lower nature (earth) and enable it to rise to peace and bliss, and inherit the treasures above which are the fruit of its aspirations and efforts during the protracted period of conflict and suffering on the planes below.
+
+> "By harvest is signified the state of the church as to divine truth; the reason is, because from a harvest corn is procured, from which comes bread, and by corn and bread is signified the good of the church, this being procured by truths."—Swedenborg, *Apoc. Rev.*, n. 645.
+
+See AGRICULTURE, CLOUDS, CULTIVATION, FRUITFUL, PLOUGHING, REAPING, SEED, SEED (good), SICKLE, SOWER.
+
+**Corrections made:** page heading `338 HARVISPTOKHM` removed from mid-sentence; See-list spellings restored (`PLoUGHING`, `REapPInc`, `SowER`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

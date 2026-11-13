@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-funeral-piles-of-the-dead-burning
 headword: "FUNERAL-PILES OF THE DEAD BURNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `WRATH OF APOLLO` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF APOLLO|WRATH OF APOLLO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the lower mental qualities dissolved and superseded.
+
+> "Apollo afterwards despatching a pointed arrow against the Greeks themselves he smote them, and frequent funeral-piles of the dead were continually burning."—*Iliad*, Bk. I.
+
+But afterwards the lower mental qualities (Greeks) are stirred and rendered impotent, the Divine Will ("shaft of the Spirit") being called into play; and the while, the lower aspects of the Self, being effete at this stage, were outgrown and dissipated.
+
+See ARROWS (divine), BURNING, CREMATION, FIRE, GREEKS, KABANDHA, MAN (natural), PESTILENCE, WRATH OF APOLLO.
+
+**Corrections made:** `offete` → effete; `AnRows` → ARROWS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

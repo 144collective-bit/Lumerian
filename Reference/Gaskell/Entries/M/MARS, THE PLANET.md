@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mars-the-planet
 headword: "MARS, THE PLANET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `PLANETS. MARSH; SWAMP;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of power, force, resistance and will,—the astral function intensified through the action of manas (mind).
+
+> "Mars gives man bravery and noble-mindedness."—From the Basra Encyclopædia, quoted by Dr. T. J. De Boer in his *Hist. of Philos. in Islam*, p. 88.
+
+See ARES, PLANETS.
+
+**Corrections made:** `Dz BoEr in is` → De Boer in his; `Encycloia` → Encyclopædia; stray `MARSH; SWAMP;` (the next page's headword) removed from the end.
+
+**Unclear or supplied:** `Encyclopædia` is a reading of the damaged `Encycloia`.
 
 ## Full OCR entry body (exact)
 

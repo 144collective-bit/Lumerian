@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-calf
 headword: "CALF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Buppar` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition which proceeds from buddhi (cow).
+
+> "By the beasts of the earth are signified the various natural affections, for such indeed they are; and by a calf is signified the affection of 'knowing things true and good.'"—Swedenborg, *Apoc. Rev.*, n. 242.
+
+See BUDDHI, COW, INTUITION.
+
+**Corrections made:** page heading `137 CAMEL'S HAIR` removed; `beasta` → beasts; `SwEDENBORG` → Swedenborg; `Buppar` → BUDDHI; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

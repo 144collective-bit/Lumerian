@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-red-rose-colour
 headword: "RED, ROSE, COLOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `HErrer (red)` | **unresolved** (review queue) |
 | `Horse TISTRYA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine love.
+
+See HEIFER (red), HORSE, TISTRYA.
+
+**Corrections made:** `&` → A; `HErrer` → HEIFER; `Horse TISTRYA` → HORSE, TISTRYA.
+
+**Unclear or supplied:** `HEIFER (red)` is a best reading of `HErrer (red)`.
 
 ## Full OCR entry body (exact)
 

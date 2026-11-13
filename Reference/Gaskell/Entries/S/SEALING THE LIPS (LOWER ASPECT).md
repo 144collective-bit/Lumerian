@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sealing-the-lips-lower-aspect
 headword: "SEALING THE LIPS (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Lips` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LIPS IN SPEECH|LIPS IN SPEECH]] |
 | `Moutn (opening)` | **unresolved** (review queue) |
 | `PErSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of staying the attempts of the personality at expressing itself, or working as from itself.
+
+See LIPS, MOUTH (opening), PERSONALITY.
+
+**Corrections made:** See-list spellings restored (`Lips`, `Moutn`, `PErSONALITY`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

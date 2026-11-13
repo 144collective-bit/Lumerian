@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-keresaspa-with-side-lock-and-club
 headword: "KERESASPA WITH SIDE-LOCK AND CLUB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Harm (side-lock)` | **unresolved** (review queue) |
 | `NrryoSaNG` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `SERPENT (svara)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the path of devotion to the ideal. The "side-lock" signifies the intuition, and the "club" emotion, for by means of the Love-element, selfishness may be conquered.
+
+See CLUB, HAIR (side-lock), NERYOSANG, SERPENT (svara).
+
+**Corrections made:** `Loveelement` → Love-element; `CLus` → CLUB; `Harm` → HAIR; `NrryoSaNG` → NERYOSANG.
+
+**Unclear or supplied:** `NERYOSANG` and `HAIR` are the likely readings of OCR `NrryoSaNG` and `Harm`.
 
 ## Full OCR entry body (exact)
 

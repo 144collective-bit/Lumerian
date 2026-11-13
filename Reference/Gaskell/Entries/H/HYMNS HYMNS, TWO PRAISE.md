@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hymns-hymns-two-praise
 headword: "HYMNS HYMNS, TWO PRAISE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `WAY OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
 | `WORKS AND WISDOM` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the paths of ideal attraction and of moral coercion, or of action and of meditation upon truth.
+
+> "Thereupon answered me Homa the righteous, who expels death. Address prayers to me, O Spitama! (Zoroaster) and prepare me the Homa juice for tasting. Repeat about me the two praise hymns, as all other Soshyants repeated them."—*Homa Yasht*.
+
+which The Divine Life (Homa) now appears as eternal, and is distinguished from the vitality of the form, makes answer, that in the functioning of the soul's Divine life (Homa-juice), aspiration is to be made, and the sacrifice of the lower is to be offered to the ideal now before the soul. The invocation of the Divine nature is to take a two-fold form, the "hymns" being the paths of Love and Duty, or Works and Wisdom. The "Soshyants" signify the pilgrim egos who must traverse the self-same paths to bliss.
+
+See HOMA-JUICE, [PILGRIM?], SOSHYANTS, WAY OF THE LORD, WORKS AND WISDOM, ZOROASTER.
+
+**Corrections made:** `Soshyante` → Soshyants; `Sosiyanrs` → SOSHYANTS; `Homa-suice` → HOMA-JUICE.
+
+**Unclear or supplied:** The paragraph after the quotation begins with a stray `which` in the OCR (left in place, order unchanged). `[PILGRIM?]` (OCR `Pimerm`).
 
 ## Full OCR entry body (exact)
 

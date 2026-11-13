@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moist-essence
 headword: "MOIST ESSENCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WITNESS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Reality:—the Truth (water) above.
+
+> "The more learned among the priests do not only call the Nile 'Osiris,' and the sea 'Typhon,' but give the name of Osiris generally to every Principle and Power productive of moisture."—Plutarch, *Isis and Osiris*, § 33.
+
+> "The moist Principle being the Final Cause and origin of all things has produced from the beginning the three first elements, Earth, Air, Fire."—*Ibid.*, § 36.
+
+As the "river of life" (Nile) is a symbol of the Divine Ray from the Absolute, it is indistinguishable from the Logos (Osiris). The astral plane (sea) is the medium of the desire-principle (Typhon, Set). The Logos is the Word or Expression of Truth (moist principle).
+
+See HARI, NILE, OSIRIS, RIVER OF LIFE, SET, WATER, WITNESS.
+
+**Corrections made:** `priesta` → priests; `wer` → Power; `UTARCH` → Plutarch; `desireprinciple` → desire-principle; `Nig` → NILE; `OsrRis` → OSIRIS; stray `»` removed.
+
+**Unclear or supplied:** `Power` is a reading of the damaged `wer`.
 
 ## Full OCR entry body (exact)
 

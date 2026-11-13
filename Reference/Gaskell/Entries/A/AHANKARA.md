@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ahankara
 headword: "AHANKARA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `KERESANI` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KERESANI THE RULER|KERESANI THE RULER]] |
 | `Manat` | **unresolved** (review queue) |
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the reflected or lower self-consciousness. The sense of a separate self or personality. "I am I" feeling. See CAIN, I AM, KERESANI, [MANAT?], SEPARATION.
+
+**Corrections made:** page heading `OR HUSCULTIVATION, AHAVANIYA` removed from mid-sentence; `Tam I'?` → "I am I"; See-list spellings restored (`Cain`, `Manat`).
+
+**Unclear or supplied:** `[MANAT?]` in the See list is uncertain (possibly MANAS). The page heading removed contains the fragment `OR HUS` (probably from HUSBANDMAN's neighbours in the page header).
 
 ## Full OCR entry body (exact)
 

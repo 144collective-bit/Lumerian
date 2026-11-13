@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-drawer-of-water
 headword: "DRAWER OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hy tas` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul or mind acquiring truth.
+
+See [HY TAS?].
+
+**Corrections made:** None beyond quotation marks.
+
+**Unclear or supplied:** See-list item OCR `Hy tas` cannot be identified and is given as `[HY TAS?]`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-holy-places-and-feelings
 headword: "HOLY PLACES AND FEELINGS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `SuppHODANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of exalted states of consciousness, and aspirations towards attaining them.
+
+> "King Suddhodana bathed to purify his body and mind with the waters of holy places and of holy feelings."—*Buddha-Karita*, Bk. II.
+
+The Higher Self now withdrawing within itself, bathes, as it were, in the pure Truth which is to cleanse the intellect and the vehicle of the mind, and raise the soul to high states of consciousness in response to desires to attain such.
+
+See BAPTISM, RIVER OF LIFE, SUDDHODANA, WATER, WELL.
+
+**Corrections made:** `coneciousness` → consciousness; `BaprismM` → BAPTISM; `SuppHODANA` → SUDDHODANA; `RIVER oF LiFE` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

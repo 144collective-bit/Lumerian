@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crowning-with-thorns-of-jesus
 headword: "CROWNING WITH THORNS, OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 | `THORNS` | **unresolved** (review queue) |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower qualities' falsely assumed veneration for an Ideal far beyond them.
+
+> "And they plaited a crown of thorns and put it upon his head, and a reed in his right hand, and they kneeled down before him and mocked him."—Mat. xxvii. 29.
+
+This signifies a disruptive process between the lower and higher natures. The "reed" which is put in his hand is a symbol of power and volition which the Christ-soul will not exercise actively as ruler of the lower qualities of the soul (the Jews).
+
+> "The crown of thorns proclaims a sovereignty founded on sufferings. [The] sceptre of feeble reed speaks of power wielded in gentleness. The cross leads to the crown. The brow that was pierced by the sharp acanthus wreath, therefore, wears the diadem of the universe. The hand that passively held the mockery of the worthless, pithless reed, therefore, rules the princes of the earth with the rod of iron. He who was lifted up to the cross, was, by that very act, lifted up to be a Ruler and commander to the peoples."—A. Maclaren, *Sermons*, 1st Series, p. 159.
+
+See HAND, HEAD, REED, ROMAN SOLDIER, SCEPTRE, THORNS, TRIAL OF JESUS.
+
+**Corrections made:** `areed` → a reed; `-Mat.` → —Mat.; page heading `CRUCIFIX` removed from mid-sentence; `peop es` → peoples; `lst Sertes` → 1st Series; `MACLAREN` capitalisation; See-list spellings restored (`Hanp`, `Heap`, `Roman`).
+
+**Unclear or supplied:** `[The]` is supplied: the OCR reads "sufferings. sceptre of feeble reed".
 
 ## Full OCR entry body (exact)
 

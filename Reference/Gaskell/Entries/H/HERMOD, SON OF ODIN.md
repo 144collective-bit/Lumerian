@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hermod-son-of-odin
 headword: "HERMOD, SON OF ODIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Mopcunn` | **unresolved** (review queue) |
 | `NogrTs` | **unresolved** (review queue) |
 | `Opr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, son of the Logos, born in the soul to become its ruler and redeemer.
+
+> "Hermod the Lively, Odin's son took upon himself this mission from Frigg, to find Balder in the underworld. Odin's horse, Sleipner, was prepared for the journey; Hermod mounted him, and rode hastily away."—*The Story of Balder*, *Prose Edda*. Howitt, *Litera.*
+
+And now it is that the Christ-soul is born upon the higher planes of experience, and it is this indwelling spirit which becomes the Saviour of the soul. On the lower planes (underworld) the Christ-soul is deputed by Wisdom (Frigg) to seek the Higher Self (Balder), the Christ within. Then the higher mind (Odin's horse) is equipped for the expedition: and so the Self within, under the aspect of mind goes forth in the soul conquering and to conquer. The "liveliness of Hermod" is expressive of the outgoing energy of the Self.
+
+See BALDER, BRIDGE OF GJALL, DEATH OF BALDER, FRIGG, HADES, HORSE (Odin's), MODGUNN, [Nogrts?], ODIN.
+
+**Corrections made:** `moun` → mounted; `owitt` → Howitt; page heading `HEROD` removed from mid-sentence; See-list spellings restored (`Frica`, `Hapss`, `Horssz (QOdin's)`, `Mopcunn`, `Opr`).
+
+**Unclear or supplied:** `Howitt, *Litera.*` is the damaged tail of the attribution as printed in the OCR. `[Nogrts?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

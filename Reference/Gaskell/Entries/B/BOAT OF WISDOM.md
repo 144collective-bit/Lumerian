@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boat-of-wisdom
 headword: "BOAT OF WISDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,26 @@ tags:
 | `Rarr` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body on the higher mental plane. This is the vehicle of wisdom (buddhi) through which the qualities are delivered by Truth from the attachment to desire and sensation.
+
+> "Even if thou wert the greatest of all sinners, thou shalt be able to cross over all sins in the boat of wisdom."—*Bhagavad-Gita*, Ch. IV.
+
+However strongly the soul may be bound down by desire, yet the time arrives when liberation is brought about by the soul's own efforts and the buddhic transmutations.
+
+> "There is no purifier in this world to be compared to wisdom; and he who is perfected in devotion findeth wisdom springing up spontaneously in himself in the progress of time."—*Ibid.*
+
+> "Buddha will deliver by the boat of knowledge the distressed world, borne helplessly along, from the ocean of misery which throws up sickness as its foam, tossing with the waves of old [age?] and rushing with the dreadful onflow of death."—*Buddha-Karita*, Bk. I. 76.
+
+The Self will be the means of delivering the qualities from the plane of the lower emotions by Wisdom, so that they may be transmuted to the buddhic plane and no more assailed by the conflicting feelings which trouble the lower self. The "sickness" signifies the nausea which afflicts the ego so long as it is unsatisfied by the true knowledge and perception of the nature of the Higher. The "tossing" is a symbol of unrest which engenders a sense of perpetual insecurity in the lower self. The "rushing, etc.," signifies a sense of dread of the unknown, and lack of faith in the real; it is a symbol which corresponds to the "bottomless pit," "death" standing for the not-self, the unreal.
+
+See BOTTOMLESS PIT, BUDDHA, CAUSAL-BODY, PAPYRUS BOAT, PIT, RAFT, TRANSMUTATION, WISDOM.
+
+**Corrections made:** `inging up` → springing up; `3 rogress` → progress; `Zbid.` → Ibid.; page heading `119 BODHISATVA` removed from mid-sentence; `@` → a; `BorromMiess pit` → BOTTOMLESS PIT; `Prt` → PIT; `Rarr` → RAFT; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** `[age?]` is supplied: OCR reads "old » and rushing". In the final sentence the OCR reads `death ” standing`, with an opening quotation mark lost before `death`; the damaged phrase is set as "bottomless pit," "death" standing.
 
 ## Full OCR entry body (exact)
 

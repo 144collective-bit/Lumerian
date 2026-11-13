@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-calves-the-myriad
 headword: "CALVES, THE MYRIAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Cow (milch)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Sun oF RIGHTEOUvSNESS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SUN OF RIGHTEOUSNESS|SUN OF RIGHTEOUSNESS]] |
 | `TREASURES. CAMEL’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher emotions—the progeny of buddhi (the "celestial cow"), the inexhaustible treasures of the Spirit.
+
+See COW (milch), SUN OF RIGHTEOUSNESS, TREASURES.
+
+**Corrections made:** `RIGHTEOUvSNESS` → RIGHTEOUSNESS; trailing page-head fragment `CAMEL'` removed; `Cow` → COW.
+
+**Unclear or supplied:** The trailing `CAMEL'` is the start of the next page heading and was removed.
 
 ## Full OCR entry body (exact)
 

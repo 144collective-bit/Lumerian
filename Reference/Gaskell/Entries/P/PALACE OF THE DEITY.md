@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-palace-of-the-deity
 headword: "PALACE OF THE DEITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,23 @@ tags:
 | `ZEUS. PALACES` | **unresolved** (review queue) |
 | `HIGH-SOARING :-— Symbolic of an exalted condition of bliss on high planes. See AMARAVATI` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `KAPILA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the plane of atma, the abode of the Self.
+
+> "Thetis at once plunged from splendid Olympus into the profound sea. But Zeus on the other hand returned to his palace."—*Iliad*, Bk. I.
+
+Nature being submerged in the plane of desire, as sense and instinct, the Self as Truth remained on the plane of atma.
+
+See OLYMPUS, PYRAMID, THETIS, ZEUS.
+
+### Also in this note: PALACES, HIGH-SOARING
+Symbolic of an exalted condition of bliss on high planes. See AMARAVATI, KAPILA.
+
+**Corrections made:** `Oxympus` → OLYMPUS; `Pyramip` → PYRAMID; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: PALACES, HIGH-SOARING.
 
 ## Full OCR entry body (exact)
 

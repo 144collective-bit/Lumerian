@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rice-grains-thrown-in-the-air-to-dispel-the-darknes
 headword: "RICE GRAINS THROWN IN THE AIR TO DISPEL THE DARKNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Arn` | **unresolved** (review queue) |
 | `DARKNESS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DARKNESS-HIGHER ASPECT|DARKNESS—HIGHER ASPECT]]; [[Reference/Gaskell/Entries/D/DARKNESS-LOWER ASPECT|DARKNESS—LOWER ASPECT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of intuitions of wisdom in the mind (air), which is stirred from above; these dispel ignorance and error.
+
+See AIR, DARKNESS.
+
+**Corrections made:** `Arn` → AIR.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

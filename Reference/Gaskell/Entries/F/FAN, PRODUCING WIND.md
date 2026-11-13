@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fan-producing-wind
 headword: "FAN, PRODUCING WIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spirit energising the mental vehicle, for the dissipation of error.
+
+> "Holy Ghost, . . . whose fan is in his hand, and he will thoroughly cleanse his threshing-floor; and he will gather his wheat into the garner, but the chaff he will burn up with unquenchable fire."—Matt. iii. 12.
+
+The Holy Spirit (Atma-buddhi) energises the mind, in order that the lower nature of the soul may be purified through suffering and aspiration. The fruit of experience shall be transmuted on to the buddhic plane, but the lower qualities shall disappear utterly.
+
+> "Servius, in his comments upon Virgil's First Georgic, after quoting 'the mystic fan of Bacchus,' says that that 'mystic fan' symbolised the 'purifying of souls.' Now how could the fan be a symbol of the purification of souls? The answer is, The fan is an instrument for producing 'wind'; and in Chaldee, as has been already observed, it is one and the same word which signifies 'wind' and the 'Holy Spirit.' . . . Hence, when Bacchus was represented with the 'mystic fan,' that was to declare him to be the mighty One with whom was 'the residue of the Spirit.' Hence came the idea of purifying the soul by means of the wind."—A. Hislop, *The Two Babylons*, p. 139.
+
+See BREATH, CHAFF, FIRE (destroying), FIRE OF HELL, FLABELLUM, HOLY GHOST, MARUTS, WHEAT, WIND.
+
+**Corrections made:** page heading `266 FASTING` removed from mid-sentence; `Mart.` → Matt.; `His.Lop` → Hislop; quotation marks normalised; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

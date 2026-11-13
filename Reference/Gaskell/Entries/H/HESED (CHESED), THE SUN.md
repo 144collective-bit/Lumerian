@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hesed-chesed-the-sun
 headword: "HESED (CHESED), THE SUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Moon` | **unresolved** (review queue) |
 | `TIPHERETH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Individuality on the mental plane of the soul.
+
+> "Chesed (merit) is the right and Geburah (demerit) the left arm. [The] right side is life and the left is death. . . . The serpent constitutes the left arm and thence emanates the impure spirit. It is the side of water and the side of sadness. These engender darkness, and the way of escape is by the harmony which can be instituted between the Mercy or Grace of Chesed and the Severity of Geburah. A day will come when the evil, that is on the left side, shall disappear and good will obtain only. It is said further that the Mercy and Severity of Chesed and Geburah are united in Tiphereth."—A. E. Waite, *Secret Doctrine in Israel*, pp. 35-7.
+
+The immortal Individuality (Chesed) and the transient Personality (Geburah) work together for good. The desire nature (serpent) enthrals the Personality, but a time of liberation will come when the perfected Personality will disappear in the Individuality, which will then become one with the Self in the causal-body (Tiphereth).
+
+See BONDAGE, FALL, INDIVIDUALITY, PAHAD, PERSONALITY, RIGHT ARM, SERPENT, SUFFERING, SUN, MOON, TIPHERETH.
+
+**Corrections made:** `tho` → the; `tke` → the; `»btain` → obtain; `Warre` → Waite; `lerael` → Israel; `. . e The serpent` → . . . The serpent; See-list spellings restored (`FAti`, `PaHAD`).
+
+**Unclear or supplied:** `[The]` supplied: OCR reads "left arm. right side is life".
 
 ## Full OCR entry body (exact)
 

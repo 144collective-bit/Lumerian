@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pancala-kingdom-of-drupada
 headword: "PANCALA, KINGDOM OF DRUPADA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Draupadi` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DRAUPADI, DAUGHTER OF KING DRUPADA|DRAUPADI, DAUGHTER OF KING DRUPADA]] |
 | `Drona` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRONA|DRONA]] |
 | `DRuUPADA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DRUPADA, KING|DRUPADA, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental plane, the domain of the spiritual mind. See DRAUPADI, DRONA, DRUPADA.
+
+**Corrections made:** See-list spellings restored (`Draupadi`, `Drona`, `DRuUPADA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

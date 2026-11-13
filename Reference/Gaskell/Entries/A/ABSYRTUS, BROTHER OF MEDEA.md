@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-absyrtus-brother-of-medea
 headword: "ABSYRTUS, BROTHER OF MEDEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Nasu` | **unresolved** (review queue) |
 | `SALVE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVE OF MEDEA|SALVE OF MEDEA]] |
 | `Toma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of divine outgoing energy in the lower vehicles, allied to the buddhic principle.
+
+> "Medea seeing her father Aeetes gaining on the Argo, cut her brother to pieces, and scattered his limbs on the waves: while Aeetes was engaged in collecting them, the Argo escaped. He went back and buried the remains of his son at a place which he called Tomi."—*Argonautic Expedition*, Keightley.
+
+The Logos (Aeetes) descends, as it were, from above to aid the Wisdom and Love principles to return to their Source. The intuition (Medea) realising the accession of power within, acquires strength such as shatters the astro-mental vehicle in which the lower mind is ensheathed, and thereby the consciousness rises, being free of the lower vehicle, the fragments of which the Logos uses in the formation of other vehicles: acting through the monad of form, he works the discarded matter into forms of the lower planes.
+
+> "No part of the universe has value in and for itself alone; it has value only as it expresses God. To see one form break up and another take its place is no calamity, however terrible it may seem, for it only means that the life contained in that form has gone back to the universal life, and will express itself again in some higher and better form."—R. J. Campbell, *The New Theology*, p. 24.
+
+See AIETES, ARGO, AUSONIA, JASON, [MANGRNOS?], MEDEA, [NASU?], SALVE, TOMI.
+
+**Corrections made:** `Atetes` and `ASetes` → Aeetes; `(etes)` → (Aeetes); `CamMPBELL` → Campbell; page heading `ABTU` removed from mid-sentence; See-list spellings restored (`Aires`, `Mepea`, `Toma`).
+
+**Unclear or supplied:** `[MANGRNOS?]` and `[NASU?]` in the See list could not be identified. `AIETES` (OCR `Aires`) is a likely reading.
 
 ## Full OCR entry body (exact)
 

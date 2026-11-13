@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seker-or-sokaris
 headword: "SEKER OR SOKARIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,24 @@ tags:
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WINGS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primitive motive-power of evolution, which is the desire-principle active on the astral plane, and the life (astro-mental) of the physical organisms.
+
+> "The form (of Seker) in which this god (Ra) is depicted is that of a hawk-headed man, who stands between a pair of wings that project from the back of a huge serpent having two heads and necks, and a tail terminating in a bearded human head."—Budge, *Egypt. Heaven and Hell*, Vol. III. p. 135.
+
+This description symbolises the Higher Self (Ra) manifesting in the aspiration (wings) proceeding from desire (serpent) through mind and emotion (two heads) in physical humanity (head extremity). Râ's lower realm, "the kingdom of Seker," is the astral plane where he lives obscured in thick darkness under the guise of desire (Seker).
+
+> "The kingdom of Seker was shrouded in thick darkness, and instead of consisting of fertile plains and fields, intersected by streams of running water, was formed of bare, barren, sandy deserts, wherein lived monster serpents of terrifying aspect, some having two, and some three heads, and some having wings. This region offered so many difficulties to the passage of the Boat of Afu-Râ that special means had to be found for overcoming them, and for enabling the god and his followers to proceed [northwards?] to the House of Osiris."—*Ibid.*
+
+This region being in the fourth division of the Tuat signifies the involution of the qualities of kama-manas. The soul-state is barren of all higher qualities and filled with desires (serpents) and passions. Hence the obscurity of the indwelling Self (Afu-Râ) and the apparent difficulties of progress wherein the Spirit cannot express itself. Progress in the involutionary cycle is "northwards" to culminate in the lowest condition (house) in which is encased the perfected Soul—the Archetypal Man (Osiris).
+
+See AFU-RA, ARC. MAN, ASTRAL PLANE, BOAT ON RIVER, DARKNESS, DEATH OF OSIRIS, DESERT, HAWK, HEAD, INVOLUTION, KAMA, MAN, NORTH, [PLAINS?], SERPENT, TANEMAHUTA, TUAT, WINGS.
+
+**Corrections made:** `motivepower` → motive-power; `astralplane` → astral plane; `hawk. headed` → hawk-headed; `Ré's`/`Raé` → Râ's/Râ; `Bupar` → Budge; `Jbid.` → Ibid.; `kamamanas` → kama-manas; `Archetvpal` → Archetypal; page heading `667 SEKHET-AARU` removed; See-list spellings restored (`A¥Fu-RA`, `INvotuTion`, `Serrent`, and others).
+
+**Unclear or supplied:** `[northwards?]` is the OCR `northMal`. `[PLAINS?]` is the OCR `Priants`.
 
 ## Full OCR entry body (exact)
 

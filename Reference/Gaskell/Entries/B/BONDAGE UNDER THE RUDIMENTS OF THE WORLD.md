@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bondage-under-the-rudiments-of-the-world
 headword: "BONDAGE UNDER THE RUDIMENTS OF THE WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -58,6 +59,28 @@ tags:
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
 | `TARTARUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TARTARUS|TARTARUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of captivity to desire and sensation.
+
+> "Even so we, when we were children, were in bondage under the elements of the world."—Gal. iv. 3.
+
+This refers to the infancy of the spiritual egos, and the early stages of evolution, during which the laws of nature, or pressure from without, in the organism and its environment, alone stimulate the egos into activity.
+
+> "When a man becomes regenerate he then first enters upon a state of freedom; before he was in a state of bondage. It is bondage when lusts and falsities have dominion; it is freedom when affections of good and truth hold sway."—Swedenborg, *Arc. Cel.*, n. 892.
+
+> "Human infirmity in moderating and checking the emotions, I name bondage: for when a man is a prey to his emotions, he is not his own master, but lies at the mercy of fortune: so much so, that he is often compelled, while seeing that which is better for him, to follow that which is worse."—Spinoza, *Ethics*, Vol. II. p. 187.
+
+> "And if they shall be in chains, and bound with the cords of poverty, He will show them their works, and their wickednesses, because they have been violent" (Job xxxvi. 8, 9). The 'chains of bondage' are the very detention of their present pilgrimage. Paul had seen that he was bound by these chains when he was saying, 'I have a desire to be dissolved, and to be with Christ' (Phil. i. 23). He perceived that he was bound with the cords of poverty, when, beholding the true riches, he entreated them also for his disciples."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 176.
+
+> "'By grace ye are saved.' 'To save, to redeem, to deliver,' are in the general terms equivalent, and they do all of them suppose us to be in a state of thraldom and misery; therefore this word 'saved,' in the sense that the apostle here doth use it, is a word of great worth, forasmuch as the miseries from which we are saved is the misery of all most dreadful."—John Bunyan, *Saved by Grace*.
+
+See BABYLON, CAPTIVITY, DISPENSATIONS, EXODUS, FETTERS, GOLDEN AGE, GUARDIAN SPIRITS, HOUSE OF BONDAGE, IGNORANCE, JERUSALEM, LIBERATION, PASSOVER, PEOPLE, POVERTY, PRISONERS, RAHU, REDEMPTION, REGENERATION, REMISSION, RESURRECTION, SALVATION, SEPARATION, SERVANT OF GOD, SUFFERING, SUN-SETTING, TARTARUS.
+
+**Corrections made:** `GAL.` → Gal.; `bon ,` → bondage; `lusta` → lusts; `Swepensore` → Swedenborg; `arp` → that which; `Sprinoza, Hthics` → Spinoza, Ethics; `p- 187` → p. 187; `Jon` → Job; `Pau)` → Paul; `PHI.` → Phil.; `St. Grecory` → St. Gregory; `JoHun Bunyan` → John Bunyan; page-heading debris `JASON, Fe ies aes BONES` removed; See-list spellings restored (`Captivity`, `DISPENSAtions`, `Exopvus`, `FrEtTrers`, `RaAnU`, `Poverty`, `PRisoneRS`).
+
+**Unclear or supplied:** `that which` replaces OCR `arp` (reading from context: "follow that which is worse"); the debris `JASON, Fe ies aes BONES` between the Gal. quotation and "This refers" is treated as a page-heading fragment (it matches the heading of the preceding entry, BODY OF OSIRIS, OR OF JASON, and `BONES`). The OCR has `*** And if` for an opening quotation mark; the quotation is set as a block with inner quotations single-quoted, following the print.
 
 ## Full OCR entry body (exact)
 

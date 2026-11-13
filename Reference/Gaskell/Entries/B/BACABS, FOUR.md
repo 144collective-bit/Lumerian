@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bacabs-four
 headword: "BACABS, FOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `CHILDREN OF HORUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHILDREN OF HORUS, FOUR|CHILDREN OF HORUS, FOUR]] |
 | `PILLARS OF SHU` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the buddhic, mental, astral, and physical, bodies of a human being. See CHILDREN OF HORUS, PILLARS OF SHU.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-helen-of-troy
 headword: "HELEN OF TROY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Troyans` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `TROY` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
 | `WispoM` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom on the buddhic plane. It is for the possession of the buddhic consciousness that the soul contends in the strife between the mental qualities (the Greeks) and the emotions (the Trojans). In the sack of Troy (the kingdom of heaven), "men of violence take it by force" (Mat. xi. 12); that is, it is through the striving of the mental qualities for Wisdom that the higher emotions are acquired and heaven gained.
+
+> "Simon Magus says that he has brought down this Helena from the highest heavens to the world; [queen?], as the all-bearing being, and Wisdom, for whose sake, says he, the Greeks and barbarians fought, having before their eyes but an image of Truth; for she who really is the Truth was then with the chiefest God."—*Clementine Homilies*, Ch. 25. of Hom. II.
+
+> "Simon Magus, as the 'Great Power of God' . . . declared that she (Helena) was the 'Intelligence' that of old was [word unclear] in the body of the Grecian Helen, then of the Lost Sheep, but now was restored to him for the salvation of the world" (from Hippolytus).—C. W. King, *Gnostics and their Remains*, p. 21.
+
+See GREEKS, [HeEweER?], ILIUM, POLLUX, SHEEP (lost), TROJANS, TROY, WISDOM.
+
+**Corrections made:** `tho` → the; `Kina` → King; `Greeks, ... Troyans` → GREEKS, TROJANS; `I1ivum` → ILIUM; `Po..ux` → POLLUX; `WispoM` → WISDOM; quotation marks normalised.
+
+**Unclear or supplied:** `[queen?]` (OCR `i ueen`); `[word unclear]` (OCR `ee`) before "in the body of the Grecian Helen"; `[HeEweER?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

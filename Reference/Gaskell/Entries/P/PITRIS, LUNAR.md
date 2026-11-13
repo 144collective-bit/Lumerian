@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pitris-lunar
 headword: "PITRIS, LUNAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,16 @@ tags:
 | `SKINS OF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 | `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "fathers" of the present human personalities. These are incipient personalities from the animal evolution which have been developed in the lunar cycle on the lunar globes, prior to their appearance on the earth chain. Lunar pitris are in their nature monads of the lower life energising on the astral plane in astral and astro-physical animal forms. They become human personalities when their development is complete and mind dawns upon their entering human bodies. They represent the animal nature of the human being. They are man's inheritance from the lower creation. They account for the instincts, appetites, desires, and passions in humanity, but not for the mental, ethical, and spiritual faculties, which have a higher origin altogether. Man only descends from the anthropoids in his lower nature; not in his higher. Evolution is an ascent, not a descent; a descent of man from animals is merely an appearance, an illusive fact, and quite untrue in reality. The "missing links" may some day be discovered, but they will contain no proof that mind is a product of the lower nature. In his lower self man proceeds from the animals, but in his higher self he is a son of God.
+
+See ASTRAL PLANE, BARHISHAD, CHILD, EVOLUTION, FATHERS (lower), HEAVEN, [Hewer?], LUNAR CYCLE, METEMPSYCHOSIS, MAN (born), MANES, MONAD OF FORM, MOON-WAXING, PERSONALITY, PILLARS (light), PITRIYANA, PLANETARY CHAIN, RACES, RULERS OF MATTER, SKINS OF ANIMALS, SUKUNA, WHEELS (holy).
+
+**Corrections made:** page heading `877 PITRIS` removed from mid-sentence; See-list spellings restored (`Curr`, `FavTHErs`, `LUNAR OYCLE`, `Monapd OF FORM`, `Prnuars`, `PrratYANA`, `RaAoczgs`); quotation marks normalised.
+
+**Unclear or supplied:** See-list items `PILLARS` (OCR `Prnuars`) and `[Hewer?]` (OCR `HeEweER`) are uncertain.
 
 ## Full OCR entry body (exact)
 

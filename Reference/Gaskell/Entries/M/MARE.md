@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mare
 headword: "MARE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `Horse` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the feminine aspect of mind (horse) as giving birth to opinions, theories, and concepts of the lower mind.
+
+See ASVINS, HORSE.
+
+**Corrections made:** See-list spellings restored (`Asvins`, `Horse`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jerusalem-heavenly
 headword: "JERUSALEM, HEAVENLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,40 @@ tags:
 | `SIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIDES OF THE CITY|SIDES OF THE CITY]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul-centre in the causal-body on the higher mental plane. Or it may be on the buddhic plane.
+
+> "Now Jerusalem, as the Lord Himself teaches in the Gospel according to Mathew, 'is the city of the great King.' (Mar. v. 35). It does not lie in a depression, or in a low situation, but is built on a high mountain, and there are mountains round about it, and the participation of it is to the same place, and thither the tribes of the Lord went up, a testimony for Israel. But that city also is called Jerusalem, to which none of those upon the earth ascends, nor goes in; but every soul that possesses by nature some elevation and some acuteness to perceive the things of the mind is a citizen of that city."—Origen, *Comm. on John*, Bk. X. § 16.
+
+> "We ascend thy ways that be in our heart, and sing a song of degrees; we glow inwardly with thy fire, with thy good fire, and we go, because we go upwards to the peace of Jerusalem."—Augustine, *Confessions*, XIII. 11.
+
+> "We have created the upper Jerusalem above the waters which are above the third heaven, hanging directly over the lower Jerusalem."—*Revelations of St. Peter*, Ch. 27.
+
+The buddhic plane is placed above the third and higher sub-planes of the higher mind, and it ensouls the causal-body which is its vehicle beneath.
+
+> "Now this [Hag]ar is mount Sinai in Arabia and answereth to the Jerusalem that now is: for she is in bondage with her children. But the Jerusalem that is above is free, which is our mother."—Gal. iv. 25, 26.
+
+The egos at first are disciplined under the laws of nature by pressure from without to stimulate them into activity. They are born in bondage to the lower nature (flesh), and are socially forced to conform to a code of ethics (Sinai) which puts before them an ideal or centre of refuge (Jerusalem as now). But the wisdom and love of buddhi are attractive, not coercive (Jerusalem the golden); and it is Buddhi, the Divine Mother, who brought forth the egos that they might gain experience on the lower planes.
+
+> "What the womb of his mother is to each individual man, that the [primeval?] abode in Paradise became to the whole human race. For from it came forth the family of Man as it were from the womb, and tending to the increase of the race."—Gregory the Great, *Morals on the Book of Job*, Vol. I. p. 199.
+
+> "My heart my mother, my heart my coming into being. . . . Thou art my Ka within my body which knitteth together and strengtheneth my limbs."—*Papyrus of Ani*, Budge.
+
+> "But the defect in the reasoning (of Catherine of Genoa) to which I have just alluded is its assumption that freedom is always and only a matter of the exercise of the will; it is not, and to say so is a begging of the whole question at issue. The psychology of the apostle Paul is a good deal nearer to the facts of experience. Paul says that we are all naturally in bondage, and that it is the heavenly Jerusalem,—the transcendental world,—which alone is free. People do not choose evil instead of good, death instead of life, in the way the ecclesiastical doctrine we are discussing implies. No man ever chooses evil because it is evil, or rejects good because it is good; he chooses one or the other at any given moment because he likes it, because there is something in his nature which finds gratification in it. Well, but what does that mean? It can only mean that he is not free; if he were free he would scarcely be conscious of choosing anything: it is just because he is not free, because there are elements in his nature which impel him this way or that, that such a thing as a moral choice is possible at all. . . . Good is the lifeward and evil is the deathward course. And we are all weighted by ignorance, by passion, and by earth-born desire; we do not start free; we are born in bondage."—R. J. Campbell, *Serm., Sources of Spiritual Freedom*.
+
+> "Then Jesus took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written concerning the Son of man shall be accomplished."—Luke xviii. 30.
+
+The progress of all the disciplined soul-qualities and the Ideal they follow is upwards to the higher planes, where the union of the lower Self and the Higher Self shall be consummated.
+
+> "Every true life has its Jerusalem, to which it is always going up. A life cannot be really considered as having begun to live until that far-off city in which its destiny awaits it, where its work is to be done, where its problem is to be solved, begins to draw the life towards itself, and the life begins to know and own the summons. At first far off and dimly seen, laying but light hold upon our purpose and our will, then gradually taking us more and more into its power, compelling our study, directing the current of our thoughts."—Phillips Brooks, *Serm., Going up to Jerusalem*.
+
+See AMARAVATI, BONDAGE, CITY OF GOD, DISCIPLES, ERIDU, GUARDIAN SPIRITS, HEART, HOLY GHOST, HOUSE (frequented), IGNORANCE, KAABA, [Kapirta?], [Maasex?], MOTHER (divine), MOUNTAIN, PARADISE, SIDES, WILL, ZION.
+
+**Corrections made:** `ar` → [Hag]ar; `ita` → its; `uestion` → question; `m Ka` → my Ka; `knittet` → knitteth; `thoughte` → thoughts; `Puitties` → Phillips; `OrIGEN`, `AUGUSTINE` etc. normalised; page headings `JERUSALEM` (mid-sentence) and `406 JESHURUN` removed; See-list spellings restored (`Cosmos`-style capitals, `Crry OF Gop`, `Discretes`, `Hoty GHost`, `KaaBa`, `MorHer`); and similar minor fixes.
+
+**Unclear or supplied:** `[Hag]ar`: OCR reads "this ar" (Gal. iv. 25, "Hagar" lost). `[primeval?]`: OCR reads "the pri abode". `[Kapirta?]` and `[Maasex?]` are See-list items that could not be identified. Scripture references `(Mar. v. 35)` and `Luke xviii. 30` left as printed.
 
 ## Full OCR entry body (exact)
 

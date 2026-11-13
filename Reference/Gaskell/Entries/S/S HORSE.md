@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-horse
 headword: "S HORSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HERMOD. 699` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind. See HERMOD.
+
+**Corrections made:** Page number `699` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seeing-lower-aspect
 headword: "SEEING (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `AELOPUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AELOPUS, OR NICOTHEA, THE HARPY|AELOPUS, OR NICOTHEA, THE HARPY]] |
 | `MAN (blind) OcYPETE` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of attraction towards objects of sense.
+
+See AELLOPUS, MAN (blind), OCYPETE.
+
+**Corrections made:** `AELOPUS` → AELLOPUS; comma supplied after `MAN (blind)`.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

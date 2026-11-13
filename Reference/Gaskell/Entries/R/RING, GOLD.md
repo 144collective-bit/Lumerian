@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ring-gold
 headword: "RING, GOLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Fyitua` | **unresolved** (review queue) |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of wisdom, and domination over the lower planes.
+
+> "By a 'ring' is designated the omnipotence of Divine Power. For when it keeps us from being seized by temptations, it encircles around and holds firm in wondrous ways the snares of the ancient enemy."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 575.
+
+See [FAITH?], GOLD.
+
+**Corrections made:** `Grecory` → Gregory; quotation marks normalised.
+
+**Unclear or supplied:** `[FAITH?]` stands for OCR `Fyitua`.
 
 ## Full OCR entry body (exact)
 

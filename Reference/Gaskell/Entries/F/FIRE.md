@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fire
 headword: "FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,40 @@ tags:
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `T (letter)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/T, ELIJAH THE RESTORER|T, ELIJAH THE RESTORER]]; [[Reference/Gaskell/Entries/T/T, THE LETTER, OR THE TAU CROSS|T, THE LETTER, OR THE TAU CROSS]]; [[Reference/Gaskell/Entries/T/T, THE LETTER SYCAMORE AND ACACIA|T, THE LETTER SYCAMORE AND ACACIA]] |
 | `TEmMP.e (fire)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This important symbol has higher and lower aspects. In its higher aspect it signifies Divine love on the buddhic plane, i.e. the active, masculine principle Atma-buddhi; the Love-energy from the Atman working through Buddhi, the Holy Spirit. In its lower aspect, it signifies strong desire or passion energising the matter of the astral plane, and stirring the lower emotions.
+
+> "Fire was the symbol of the Spirit of God, and thus of Wisdom."—Ern. de [word unclear] *The Angel Mesenah*, Transl., [word unclear]
+
+> "It is no tale apart from our subject or witness. In the first place there sprang up out of the earth forms grown into one whole, having a share of both, of water and of fire. These in truth fire caused to grow up, desiring to reach its like; but they showed as yet no lovely body formed out of the members, nor voice nor limb such as is natural to men."—Empedocles, Fairbanks, 262.
+
+This is the whole secret of Divine philosophy:—at the first came forth from the lower nature forms of life which were homogeneous in their character, equally compounded of astral matter and spiritual energy (fire). These aspects of the Self became accentuated by the Love-energy (fire) within,—the lower Self struggling from below upward to meet the higher Self above. But as yet, no causal-body was builded to enable the union to be effected; and no powers of expression (voice) of the life, or means of execution (limb) such as are inherent in the mind (men) which forms the junction or firmament between higher and lower, were, so far, evolved.
+
+> "The fire is supposed in the Zend-Avesta and the Vedas to be spread everywhere as the cause of all life."—M. Haug, *Essays*, p. 155.
+
+> "By fire in a supreme sense is signified divine love." "In an opposite sense, by fire is signified infernal love."—Swedenborg, *Apoc. Rev.*, nn. 395, 399.
+
+> "The fire of the Lord will not touch any good thing, for evil alone is combustible. Evil is the eternal fuel, the black and earth-begotten coal of the Eternal Fire which is the Life of the Universe, and which feeds on that fuel for ever and ever. The fire of Good could not burn without the fuel of Evil. . . . The fire of Divine Life is directed against every imperfection."—Jas. Smith, *The Divine Drama of History*, p. 348.
+
+> "God is at work now, burning up the evils and wrongs in man, and flooding him with the energies of righteousness and peace. That is the primary fact. The fires of God are burning on and on for the purification of our race."—Dr. Clifford, *Serm.*, Do not Quench the Spirit.
+
+> "An attempt is made to burn the infant Zoroaster in a huge fire; but its life is saved by a miracle."—*Life of Zoroaster*.
+
+This signifies the purifying of the Soul (Zoroaster) from the desires and passions of the lower self. The "miracle" is the transmutation of the lower emotions into the higher.
+
+> "Richard of St. Victor says: 'When the soul is plunged in the fire of divine love, like iron, it first loses its blackness, and then, growing to white heat, it becomes like unto the fire itself. And lastly it grows liquid, and losing its nature is transmuted into an utterly different quality of being.' 'As the difference between iron that is cold and iron that is hot,' he says again, 'so is the difference between soul and soul: between the tepid soul and the soul made incandescent by divine love.' Other contemplatives say that the deified soul is transfigured by the inundations of the Uncreated Light: that it is like a brand blazing in the furnace, transformed to the likeness of fire. 'These souls,' says the Divine voice to St. Catherine of Siena, 'thrown into the furnace of my charity no part of their will remaining outside, but the whole of them being inflamed in Me, are like a brand, wholly consumed in the furnace, so that no one can take hold of it to extinguish it, because it has become fire.'"—E. Underhill, *Mysticism*, p. 504.
+
+> "There is love, that should be in us as hot as fire. It is compared to fire, to fire of the hottest sort."—J. Bunyan, *Christ a Complete Saviour*.
+
+> "Fire, as a symbol for God and His action, is thus praised by Dionysius: 'The sacred theologians often describe the super-essential Essence in terms of Fire. For sensible fire is, so to say, present in all things, and pervades them all without mingling with them, and is received by all things; . . . it is intolerable yet invisible; it masters all things by its own might, and yet it but brings the things in which it resides to (the development of) their own energy; it has a transforming power; it communicates itself to all who approach it in any degree; . . . it bears upwards; it is penetrating; it increases its own self in a hidden manner; it suddenly shines forth.' All these qualities, and the delicate transitions from fire to light, and from light back to fire, and from heat immanent to heat applied from without, we can find again, vividly assimilated and experienced, in Catherine's teaching and emotional life. But the Sun-light predominates in Dionysius, the Fire-heat in Catherine; and whereas the former explicitly attaches purification only to the Sun-light, the latter connects the cleansing chiefly with Fire-heat."—F. von Hügel, *Mystical Element*, Vol. II. p. 94.
+
+See BAPTISM (fire), BUDDHI, BURNT OFFERING, CENSERS, FIRMAMENT, FOOD OF THE GODS, FUDO, FURNACE, HEALING (epileptic), HOLY GHOST, KAAZ, LOVE OF GOD, LUNATIC, MANASTI, MUSPELHEIM, NANNA, PROCESSION, SACRIFICE (burnt), SALAMANDERS, SUN, T (letter), TEMPLE (fire).
+
+**Corrections made:** page headings `LADDER, | | FIRE` and `276 FIRE` removed from mid-text; `ita like` → its like; `Loveenergy` → Love-energy; `ZendAvesta` → Zend-Avesta; `Hava` → Haug; `Avpoc.` → Apoc.; `Sara` → Smith; `CuiFrorpD` → Clifford; `ILife of ter` → Life of Zoroaster; `ite nature` → its nature; `Mystictem, . 504` → Mysticism, p. 504; `Hucer` → Hügel; See-list spellings restored (`BuppHI`, `Foop OF THE GopDs`, `Fupo`, `Hoty GxHost`, `Kaaz`, `LovE or Gop`, `Mawnasti`, `TEmMP.e`); quotation marks normalised, and similar minor fixes.
+
+**Unclear or supplied:** The first quotation's attribution is badly damaged (OCR `ERnN. DE ag al The Angel Mesenah, Transl., Pa`); `Ern. de` and the author and page are `[word unclear]`; the passage after it ("It is no tale apart from our subject or witness") is set as a separate Empedocles quotation, as the OCR has no break. `Jas. Smith` (OCR `Jas. Sara`) is a best reading. `Haug` (OCR `Hava`) is a best reading. `KAAZ`, `FUDO`, `MANASTI` are left as best readings. `ILife of ter` read as *Life of Zoroaster*, uncertain.
 
 ## Full OCR entry body (exact)
 

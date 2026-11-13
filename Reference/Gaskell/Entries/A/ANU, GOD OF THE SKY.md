@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anu-god-of-the-sky
 headword: "ANU, GOD OF THE SKY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Personarity` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the manifest God,—an aspect of the One Life extending through the universe, visible and invisible.
+
+> "A mighty king is Anu, the first born of [word unclear]"—[author unclear], *Rel. of Anc. Babyl.*
+
+The Logos or Higher Self appears first upon the highest plane, and thence upon the buddhic plane.
+
+See MONAD OF, NECK, PERSONALITY, SKY, SOUTH WIND.
+
+**Corrections made:** `firat` → first; See-list spellings restored (`Neck`, `Personarity`, `Sky`).
+
+**Unclear or supplied:** The quotation is cut short and its attribution is damaged (OCR `Ce te aoe Rel. of Anc. Babyl.,`). `MONAD OF` stands in the OCR just before `See`; it is placed as the first See item and may be a fragment of MONAD OF LIFE.
 
 ## Full OCR entry body (exact)
 

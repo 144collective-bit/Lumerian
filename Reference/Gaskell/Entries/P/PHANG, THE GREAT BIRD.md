@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phang-the-great-bird
 headword: "PHANG, THE GREAT BIRD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `Smora` | **unresolved** (review queue) |
 | `Sxy` | **unresolved** (review queue) |
 | `Sours` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the incarnate Self aspiring upwards in the cycle of Evolution, from the material to the spiritual.
+
+> "There is also a Bird named the Phang; its back is like the Thâi mountain, while its wings are like clouds all round the sky. In a whirlwind it mounts upwards as on the whorls of a goat's horn for 90,000 li, till, far removed from the cloudy vapours, it bears on its back the blue sky, and then shapes its course for the South, and proceeds to the ocean there (the Pool of Heaven)."—*Writings of Kwang-tze*, Bk. I. Pt. I. 3.
+
+The Higher Self within the soul aspires (mountain) to be free from captivity to the lower nature. It rises by means of the buddhic (clouds) function through the mental plane (wind) in the cycle of Evolution, passing spirally from the illusions (vapours) of the lower life to the buddhic plane (sky), and merging itself again in the eternal Ocean of Reality on the plane of atma.
+
+See ATMA, BENNU BIRD, BIRD (great), CLOUDS, INCARNATION, KARSHIPTA, KHWAN, MOUNTAIN, OCEAN, PHOENIX, [POOL OF PEACE?], [SIMORGH?], SKY, SOULS.
+
+**Corrections made:** `ite` → its; `Th&i` → Thâi; `mounte` → mounts; `Kwang-ize` → Kwang-tze; `iteelf` → itself; page heading `671 PHENOMENA` removed from before the See list; See-list spellings restored (`Atma`, `CLoups`, `KarRSHIPTA`, `MOouNTAIN`, `Poa@nrx`, `Sxy`, `Sours`).
+
+**Unclear or supplied:** See-list items `[POOL OF PEACE?]` (OCR `Poot or prdce`) and `[SIMORGH?]` (OCR `Smora`) are uncertain.
 
 ## Full OCR entry body (exact)
 

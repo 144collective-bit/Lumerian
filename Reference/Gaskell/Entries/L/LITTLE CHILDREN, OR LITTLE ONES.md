@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-little-children-or-little-ones
 headword: "LITTLE CHILDREN, OR LITTLE ONES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,32 @@ tags:
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `SWORD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
 | `WARBIORS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual egos or monads which descend into the forms in order to gain experience and knowledge on the lower planes. They are the "children of God."
+
+> "Thereupon they (the Maruts), according to their wont, assumed again the form of new-born babes, taking their sacred name."—*Rig-Veda*, I. 6, 4.
+
+When the way was prepared, the spiritual egos (Maruts) dispersed, and became germs of spirit descending into the forms and taking to them the Divine differentiation.
+
+> "And Jesus called a little child unto him, and set him in the midst of them, and saith, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."—Matt. xviii. 2-4.
+
+The Christ-soul called attention to a spiritual monad (atma-buddhic) set in the midst of the disciplined qualities of the lower nature, and explained that except the qualities be transmuted into spiritual states, as is the condition of the monads, they cannot enter heaven, that is, become conscious on the higher planes. It is necessary, therefore, that each quality should undergo the discipline of the lower life, as does the monad, in order that it should be purified and exalted, and so become greatest among the high but inexperienced qualities on the higher planes.
+
+> "Take heed that ye despise not one of these little ones; for I say unto you, that in heaven their angels do always behold the face of my Father which is in heaven."—Matt. xviii. 10.
+
+The qualities are enjoined to be faithful to the spiritual nature within them; for the individualities (angels) in the causal-bodies of the souls are in harmony with the Higher Self, and therefore are aspects of the Supreme—the Father, the Atman.
+
+> "Awake, O sword, against my Shepherd, and against the Man that is my fellow, saith the Lord of hosts; smite the Shepherd, and the sheep shall be scattered: and I will turn my hand upon the little ones."—Zech. xiii. 7.
+
+At the end of the period of Involution, there comes the awakening of the energies of conflict (sword). The Divine Will first smites the Archetypal Man, or involved Self (Man that is my fellow), and he is dismembered. The higher qualities (sheep),—the "limbs of the Ineffable,"—are then scattered, and so the way is prepared for the incoming of the spiritual monads (little ones), who are now to pass through the experiences of suffering and sorrow.
+
+See ARC. MAN, CHILDREN OF GOD, DISCIPLES, DISMEMBERMENT, FATHER, GERMS, HEAVEN, INCARNATION OF SOULS, INDIVIDUALITY, INVOLUTION, LIMBS, MARUTS, MONAD OF LIFE, QUALITIES, REAPING, SHEEP, SHEEP (lost), SHEPHERD, SONS OF GOD, SPERMATIC WORDS, SWORD, WARRIORS.
+
+**Corrections made:** `Rig- Veda` → Rig-Veda; `Mar.` → Matt.; `ZEcH.` → Zech.; `@` → a; `monai` → monad; page heading `456 LIVER` removed from mid-sentence; See-list spellings restored (`Anc.`, `DiscrPLes`, `DisMEMBERMENT`, `Germs`, `Lrwss`, `Marvurs`, `QuALITIeEs`, `WARBIORS`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

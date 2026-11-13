@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hearing-lower-aspect
 headword: "HEARING (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Ear` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EAR EAR, OR HEARING|EAR EAR, OR HEARING]] |
 | `Eve` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `Jos` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the reception of knowledge without wisdom. "Hearing" proceeds from "the flesh," i.e. it is the outcome of the desire nature.
+
+> "To hear signifies to perceive."—Swedenborg, *Apoc. Rev.*, n. 448.
+
+> "I had heard of thee (the Lord) by the hearing of the ear: but now mine eye seeth thee."—Job xlii. 5.
+
+The condition and stage of the soul signified by "Job" became first cognisant of its higher nature through ordinary channels of information, but afterwards the mind perceived the truth within. See EAR, EYE, JOB.
+
+**Corrections made:** `T had` → I had; `Jos` → Job; `Ear, Eve, Jos` → EAR, EYE, JOB; `SwEDENBORG` normalised; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

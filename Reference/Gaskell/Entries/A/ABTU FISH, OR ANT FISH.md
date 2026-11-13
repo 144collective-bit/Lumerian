@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abtu-fish-or-ant-fish
 headword: "ABTU FISH, OR ANT FISH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Ocean` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `ReEsTau` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RE-STAU, THE PASSAGES OF THE TOMB|RE-STAU, THE PASSAGES OF THE TOMB]] |
 | `Sarp (Manu)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the indwelling Self, or Saviour, active on the higher planes (Abtu).
+
+> "May I see the Abtu fish at his season."—*Hymn to Ra*.
+
+> "The name of a mythological fish which, on coffins, etc., is seen swimming at the bows of the boat of the Sun-god."—Budge, *Book of the Dead*, p. 6.
+
+The soul when perfected anticipates union with the Higher Self at the end of the cycle. The Higher Self symbolised as a Great Fish in the Ocean of Truth, leads the soul (boat) onwards in its course through the cycle of life on the lower planes.
+
+See BENNU BIRD, DELUGE, FISH (great), JESUS (fish), OCEAN, RESTAU, [SARP?] (Manu).
+
+**Corrections made:** `8&` → a; `Bupcr` → Budge; See-list spellings restored (`Fisx`, `JEsus`, `Ocean`, `ReEsTau`); quotation marks normalised.
+
+**Unclear or supplied:** `[SARP?]` in the See list could not be identified (OCR `Sarp (Manu)`).
 
 ## Full OCR entry body (exact)
 

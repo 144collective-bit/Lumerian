@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-necessity
 headword: "NECESSITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
 | `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Divine uniformity of action in the order of nature, which makes possible human interpretation of, and reliance on, Divine laws, in the development of the soul. Perfect order and certainty must characterise the laws of the higher planes as of the lower.
+
+> "Antiochus teaches: There are two natures, the active and the passive, force and matter, but neither is ever without the other. That which is compounded of both is called a body or a quality. Among these qualities the simple and the compound are to be distinguished; the former consisting of the four or, according to Aristotle, five, primitive bodies; the latter of all the rest; of the first category, fire and air are the active, earth and water the receptive and passive. Underlying them all, however, is the matter without quality, which is their substratum, the imperishable, but yet infinitely divisible elements, producing in the constant change of its forms, definite bodies (qualia). All these together form the world; the eternal reason which animates and moves the world is called Deity or Providence, also Necessity; and because of the unsearchableness of its workings, sometimes even Chance."—E. Zeller, *Hist. of Eclecticism*, etc., p. 94.
+
+The four elements are the quaternary. Spirit (fire) and mind (air) are the active; the astral (water) and the physical (earth) are the receptive. The imperishable substratum is the same as prakriti.
+
+See ADRASTIA, ELEMENTS, FATESPHERE, INVOLUTION, KARMA, MAAT, [MOIRAE?], PHENOMENA, PRAKRITI, QUATERNARY, SHENIT, THEMIS.
+
+**Corrections made:** `aud` → and; `Eclecticiam` → Eclecticism; page heading `NECK` removed from mid-sentence; See-list spellings restored (`ApDRasTIA`, `Karma`, `Maat`).
+
+**Unclear or supplied:** `[MOIRAE?]` is a doubtful reading of See-list `Morrak`.
 
 ## Full OCR entry body (exact)
 

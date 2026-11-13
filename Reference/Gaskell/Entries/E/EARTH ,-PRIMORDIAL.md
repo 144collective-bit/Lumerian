@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-earth-primordial
 headword: "EARTH ,—PRIMORDIAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,22 @@ tags:
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of matter which, when acted upon by Spirit, takes forms and qualities for manifestation.
+
+> "In the beginning God created the heaven and the earth. And the earth was waste and void."—Gen. i. 1, 2.
+
+At the commencement of the emanation of the Solar Universe, the primordial elements, Spirit and Matter, are differentiated from that condition which is itself neither, but which is potential for both. And the matter is formless and devoid of special qualities, for Spirit is not yet permeating and informing matter, and the process of involution has not begun.
+
+> "Creation for Erigena means only a local and temporal exhibition of eternal essences. The visible world is nothing but the appearance of invisible primordial causes. Take away from any object in this visible world all that can be thought about it, i.e. its Idea which constitutes its 'primordial cause,' and nothing is left. In the last analysis everything turns out to be immaterial. 'Matter,' so-called, is no real being; it is only an aggregation of 'qualities.' Remove the 'qualities' which thought can seize, and nothing remains."—R. M. Jones, *Mystical Religion*, p. 125.
+
+See CHAOS, COSMOS, CREATION, ELEMENTS, HEAVEN AND EARTH, KHIEN AND [KHWAN?], MATTER, MAYA, PROTOTYPES, QUALITIES, SPIRIT.
+
+**Corrections made:** `GEn. i. l, 2` → Gen. i. 1, 2; `8 local` → a local; `he thought` → be thought; `i. its Idea` → i.e. its Idea; `Reltgion` → Religion; page heading `237 EARTH` removed from mid-sentence; See-list spellings restored (`Cuaos`, `MiyA`, `Matrer`); quotation marks normalised.
+
+**Unclear or supplied:** `[KHWAN?]` is a doubtful See-list spelling (OCR `Kuawan`).
 
 ## Full OCR entry body (exact)
 

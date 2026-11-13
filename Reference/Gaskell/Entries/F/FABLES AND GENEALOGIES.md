@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fables-and-genealogies
 headword: "FABLES AND GENEALOGIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `THOLOGY` | **unresolved** (review queue) |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 | `SORIPTURES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are sacred stories and personal histories regarded as literally true instead of symbolically true in a deep sense.
+
+> "Neither to give heed to fables and endless genealogies, the which minister questionings."—1 Tim. i. 4.
+
+The soul is exhorted to leave the "letter" for the "spirit." The following of the letter plunges the mind into a sea of difficulties which cannot be overcome, and of questionings which cannot be answered. The mind must seek for the true means of progress, which consists in the perception of the ideal within, and in steadfast devotion to the highest concepts of goodness and truth.
+
+See EXODUS, INSPIRATION, THEOLOGY, PARABLE, SCRIPTURES.
+
+**Corrections made:** `**` → opening quotation mark; `Tr.` → Tim.; `““letter**` → "letter"; `idval` → ideal; See-list spellings restored (`Exopvus`, `INspPrmarTIon`, `THOLOGY`, `SORIPTURES`).
+
+**Unclear or supplied:** `Tr.` read as Tim. (1 Tim. i. 4); `THOLOGY` read as THEOLOGY.
 
 ## Full OCR entry body (exact)
 

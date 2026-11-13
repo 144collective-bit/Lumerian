@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-storm-of-rain
 headword: "STORM OF RAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ra` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of increase of spiritual energy, and an outflow of truth (water). It may imply an initiation.
+
+See RA.
+
+**Corrections made:** `Ra` → RA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

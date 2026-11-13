@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flood-of-water
 headword: "FLOOD OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `REGIONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `RounpD` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol signifies a forthpouring of the Logic Life-Wave,—the waters of Truth,—producing in the first instance erroneous opinions, as the lower mind is the great creator of falsity and illusion.
+
+> "By a flood of water is signified truths in abundance, and in an opposite sense falses in abundance."—Swedenborg, *Apoc. Rev.*, n. 563.
+
+See DELUGE, FLESH, KARSHVARES, MANU, PLANETARY CHAIN, REGIONS, ROUND, WATER.
+
+**Corrections made:** `SwEpEnBORG` → Swedenborg; `RounpD` → ROUND; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

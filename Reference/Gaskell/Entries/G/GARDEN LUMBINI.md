@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garden-lumbini
 headword: "GARDEN LUMBINI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `BIRTH OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BIRTH OF BUDDHA|BIRTH OF BUDDHA]] |
 | `Miya` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+In the cycle of involution this signifies the condition of the lower nature which is required in order that the Soul may take birth in it.
+
+> "Then one day by the king's permission the queen, having a great longing in her mind, went with the inmates of [the] gynæceum into the garden Lumbini."—*Buddha-Karita*, Bk. I. 23.
+
+The Divine Will now requires that the perfect desire-nature (Maya), aspiring to be of use, shall be raised to the productive state of the "garden," which signifies the condition which is favourable to the birth of the Soul (Buddha).
+
+See BIRTH OF BUDDHA, MAYA.
+
+**Corrections made:** `gynseceum` → gynæceum; `Miya` → MAYA; quotation marks normalised.
+
+**Unclear or supplied:** `[the]` is supplied: the OCR reads "inmates of " gynseceum" with a stray mark where the article would be.
 
 ## Full OCR entry body (exact)
 

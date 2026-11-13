@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ain-soph
 headword: "AIN SOPH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Truviry` | **unresolved** (review queue) |
 | `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
 | `ZERANA. AIR;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Absolute, the potential and unmanifest God, the Source of the Higher Self and its manifestation.
+
+> "The Supreme Unity is the Ain Soph of the Qabbalah and the Zoharic writings, termed also in them Ayin or No-thing."—Myer, *Qabbalah*, p. 199.
+
+> "It is so named because we do not know, and it is impossible to know, that which there is in this Principle, because it never descends as far as our ignorance, and because it is above Wisdom itself" (Zohar).—*Ibid.*, p. 127.
+
+> "Non-being is 'Absolute Being,' in Esoteric Philosophy. In the tenets of the latter even Adi-Buddha (the first or primeval Wisdom) is, while manifested, in one sense an illusion, Maya, since all the gods, including Brahma, have to die at the end of the Age of Brahmâ; the abstraction called Parabrahman—whether we call it Ain Suph, or with Herbert Spencer, the Unknowable—alone being the One Absolute Reality."—H. P. Blavatsky, *Secret Doctrine*, Vol. I. p. 84.
+
+See ABSOLUTE, FATHER, GODHEAD, [Nosgz?], TRINITY, WELL, ZERANA.
+
+**Corrections made:** `Wiadom iteelf` → Wisdom itself; `Brahmé` → Brahmâ; `Buavatsky` → Blavatsky; `Truviry` → TRINITY; stray page heading `AIR;` removed from the end; quotation marks normalised.
+
+**Unclear or supplied:** `[Nosgz?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

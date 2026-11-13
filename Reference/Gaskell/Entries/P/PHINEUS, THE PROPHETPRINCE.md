@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phineus-the-prophetprince
 headword: "PHINEUS, THE PROPHETPRINCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `OCYPETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
 | `POsEIDON` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POSEIDON OR NEPTUNE|POSEIDON OR NEPTUNE]] |
 | `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the discriminating mind which first interprets the higher, but afterwards becomes spiritually blind through seeking the lower.
+
+> "Phineus was the son of [word unclear] or Poseidon, and was married to [Cleopa]tra, the daughter of Boreas and Oreithyia."—*Argonautic Expedition*.
+
+This signifies that discrimination is the offspring of the Divine Mind, and at the same time the affinity of the instinct-nature, which is its feminine counterpart on the lower planes. The instinct-nature is the astral reflection of buddhi-manas.
+
+See ANTELOPE, BOREAS, CLEOPATRA, HARPIES, [Hover?], [Ips?], [Nicorthea?], OCYPETE, POSEIDON, ZETES.
+
+**Corrections made:** `vounterpart` → counterpart; See-list spellings restored (`Borras`, `CuLgEoPATRA`, `Harpres`, `POsEIDON`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `or` (the name before `or Poseidon`); `[Cleopa]tra` is reconstructed from OCR `tra` and the See list. See-list items `[Hover?]`, `[Ips?]` and `[Nicorthea?]` are uncertain.
 
 ## Full OCR entry body (exact)
 

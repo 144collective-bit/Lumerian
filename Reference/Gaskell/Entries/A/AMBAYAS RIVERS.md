@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ambayas-rivers
 headword: "AMBAYAS RIVERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,26 @@ tags:
 | `SACRED UPpanisHaD` | **unresolved** (review queue) |
 | `Vepa` | **unresolved** (review queue) |
 | `WorRD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the channels of wisd[om] in the soul, leading from the Fount of Truth or the Supreme Realit[y].
+
+See CHANNELS, EDEN RIVER, [RIVERS?], TREES AND RIVERS.
+
+### Also in this note: AMBAYAVIS (UNDERSTANDING)
+
+A symbol of the spiritual vi[sion] awakened in the soul, which rec[og]nises the inner meanings of the sa[cred] scriptures; for the meanings already engraven on the secret ta[blets] of the heart.
+
+> "In the same Kingdom of Chris[t] things are inward and spiritual; an[d the] true religion of Christ is written i[n the] soul and spirit of man by the Spi[rit of] God; and the believer is the only [book] in which God Himself writes His Testament" (William Dell).—R. Jones, *Mystical Religion*, p. 493.
+
+> "In addition to reason man [has a] certain faculty by which he can u[nder]stand hidden mysteries. It is call[ed by] Shams-i-Tabrizi the 'eye of the f[aith?]' which is constant in its desire for [word unclear] and by Jelâlu'd-din the 'inward [word unclear].' This idea is not peculiar to Sufi[sm]; [it] was held by other mystics."—Vau[ghan?], *Hours with the Mystics*, Vol. I. p. [word unclear].
+
+See GOSPEL, INSPIRATION, [K?] Pen, REVELATION, SACRED UPANISHAD, VEDA, WORD.
+
+**Corrections made:** Truncated words completed in brackets at the column edge (`wisd`, `Realit`, `vi`, `sa`, `ta`, `Chris`, `an`, `Spi`, `u stand`, `call`, `Sufi`); `ret nises` → rec[og]nises; `Riv1` → [RIVERS?]; `1}` → [has a]; `Jelélu'd-din` → Jelâlu'd-din; `Vau` → Vau[ghan?]; `UpanisHaD`, `Vepa`, `WorRD` See-list spellings restored.
+
+**Unclear or supplied:** Contains a second entry: AMBAYAVIS (UNDERSTANDING) (the OCR runs it on with its headword in capitals). The whole note is cut at the column edge; every bracketed completion above is supplied, including `[in the]`, `[book]`, `[has a]`, `[it]`, `[faith?]`, `[ghan?]`. `[word unclear]` replaces `and` (after "desire for"), OCR `¢&` ("inward"), and OCR `1E` (page number). `[K?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

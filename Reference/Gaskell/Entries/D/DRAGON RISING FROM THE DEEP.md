@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dragon-rising-from-the-deep
 headword: "DRAGON RISING FROM THE DEEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Asyss` | **unresolved** (review queue) |
 | `DEEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEEP, OF EA THE CREATOR|DEEP, OF EA THE CREATOR]]; [[Reference/Gaskell/Entries/D/DEEP, OF TIAMAT|DEEP, OF TIAMAT]]; [[Reference/Gaskell/Entries/D/DEEP OR DEPTHS|DEEP OR DEPTHS]] |
 | `TABLES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane, the activities of which are a means of arousing the lower mental faculties. "Deep" signifies the lower nature or the womb of matter.
+
+See ABYSS, DEEP, TABLES.
+
+**Corrections made:** `Asyss` → ABYSS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

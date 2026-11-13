@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-laying-of-hands-on-head
 headword: "LAYING OF HANDS ON HEAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Heap` | **unresolved** (review queue) |
 | `Man (lower)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PRiEst` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spirit actively contacting the mind; or the spiritual mind (priest) influencing the lower mind (man).
+
+> "The offering represents Christ's body, and the laying on of hands the identity of the offering and the offerer."—A. Jukes, *The Law of the Offerings*, p. 41.
+
+See ANOINTING, HAIR, HAND, HEAD, MAN (lower), PRIEST.
+
+**Corrections made:** `Juxses` → Jukes; See-list spellings restored (`Harr`, `Hann`, `Heap`, `PRiEst`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

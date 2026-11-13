@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ares-mars
 headword: "ARES (MARS)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Boar` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `Mans` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral function intensified through the action of manas.
+
+> "Ares is the personification of bold force and strength, and not so much the god of war, as of its tumult, confusion, and horrors."—Smith's *Class. Dict.*
+
+"Ares" signifies the desire-mind not so much an adversary of the Self, as the natural impulse towards maintaining life in the forms.
+
+See BOAR, MARS.
+
+**Corrections made:** `Smith'e Clase. Dict.` → Smith's Class. Dict.; page heading `ARETE` removed from mid-sentence; `Mans` → MARS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

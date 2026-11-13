@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dog-white-with-four-eyes
 headword: "DOG, WHITE, WITH FOUR EYES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Houses (corpses)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
 | `Nasu` | **unresolved** (review queue) |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the will functioning in the quaternary.
+
+> "But the fiend (druj) Nasu can be expelled from the corpse by bringing in 'a dog with four eyes,—a white dog, according to modern Parsi usage,—and the demon, as soon as the dog looks at the body, flies back to hell."—J. M. Mitchell, *Zend-Avesta*, p. 36.
+
+The "druj Nasu" is a symbol of the process of Time which captures the residual elements of the lower personality (corpse), and claims the astral matter for future use. The "dog with four eyes" is a symbol of the will controlling the activities on the four manifested planes: the "four eyes" signifying perception on the four planes,—buddhic, mental, astral, and physical. The will is perfect (white) because the activities of the ego on any plane are perfectly regulated. Time is vanquished when the ego is endowed with full attributes by means of the perfected personality.
+
+> "The four-eyed brindled dogs—that watch for the departed."—Vedic Hymn.
+
+In this case the wills in the many souls are lacking in perfection, and they await the further experience of the personalities.
+
+See [ASSYRTUS?], CORPSE, EYE, HOUSES (corpses), NASU, WHITE.
+
+**Corrections made:** `mental astral` → mental, astral; `MITCHELL` → Mitchell; page heading `(THE DOLIONES` removed from mid-sentence; See-list spellings restored (`CoRPSE`, `Eve`, `WHITE`); and similar minor fixes.
+
+**Unclear or supplied:** See-list item OCR `AssyRTus` cannot be identified and is given as `[ASSYRTUS?]`.
 
 ## Full OCR entry body (exact)
 

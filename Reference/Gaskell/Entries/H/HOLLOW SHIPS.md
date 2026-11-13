@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hollow-ships
 headword: "HOLLOW SHIPS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `FILLET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FILLET OF APOLLO UPON A GOLDEN STAFF|FILLET OF APOLLO UPON A GOLDEN STAFF]] |
 | `KapMa` | **unresolved** (review queue) |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the prototypes of the soul-vehicles (ships); hence they are the ideal patterns on the higher mental plane, and are therefore beyond the form levels.
+
+> "Let me not find thee, old man, (Chryse, priest of Apollo), at the hollow ships, either now loitering, or hereafter returning, lest the staff and fillet of the god (Apollo) avail thee not."—*Iliad*, Bk. I.
+
+The lower self or desire-mind (Agamemnon) soliloquises thus:—"I look not to thee—spiritual mind (Chryse),—nor would I see thee at the ideal prototypes on the higher mental subplanes, either now or hereafter": that is, "I apprehend thee not in the operation of those laws which make for the karmic compensation of deeds committed; in case the will and wisdom of the Spirit (Apollo) satisfy not at the same time the lower needs of the personality." The desire-mind does not recognise the place of the spiritual mind in the moral order, and it relies on the course of the natural order.
+
+See APOLLO, CHRYSE, FILLET, KARMA, PROTOTYPES.
+
+**Corrections made:** `Jiiad` → Iliad; `desiremind` → desire-mind; `KapMa` → KARMA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

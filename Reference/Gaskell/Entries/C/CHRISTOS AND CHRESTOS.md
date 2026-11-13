@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-christos-and-chrestos
 headword: "CHRISTOS AND CHRESTOS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ANOINTING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ANOINTING WITH OIL|ANOINTING WITH OIL]] |
 | `Or` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OR AUM|OR AUM]]; [[Reference/Gaskell/Entries/O/OR STRANGE COVENANT OF GOD|OR STRANGE COVENANT OF GOD]]; [[Reference/Gaskell/Entries/O/OR THE GREAT INVISIBLE FOREFATHER|OR THE GREAT INVISIBLE FOREFATHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Christos—the "anointed One" is the indwelling Spirit who is Divinely inspired by Love from on High. Chrestos the "perfect One" refers to the perfected lower nature at the end of the cycle.
+
+See ANOINTING, OIL.
+
+**Corrections made:** `ead` → end; `Or` → OIL.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

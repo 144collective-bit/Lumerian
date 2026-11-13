@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-path-of-the-birds-on-high
 headword: "PATH OF THE BIRDS ON HIGH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Brrps` | **unresolved** (review queue) |
 | `Devayana` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `Way oF @HE LORD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the way of the Self upward in the mind (air). The way of love and aspiration. The growth to perfection.
+
+> "The way of love, which may at times become the way of self-sacrifice, is the soul's homeward road, the way that leads to the eternal."—R. J. Campbell, *Serm.*, *The Soul's Exile*.
+
+> "The growth in perfection or towards [word unclear] is the deepest law of man's [be]ing. It is not man's work as compared with God's work, for it is the most divine thing in the world, and the divine impulse which God has implanted in man brings it into existence. But it is man's work, both in the sense that nothing else but man is capable of this, and also in the sense that nothing of it is given to man, for by its very nature it cannot [word unclear] cannot be made happy, except through the process of own self-unfolding and self-endeavour."—R. A. Duff, *Spinoza's Philosophy*, p. 172.
+
+See BIRDS, DEVAYANA, WAY OF THE LORD.
+
+**Corrections made:** `wa that` → way that; `R. i. CaMPBELL` → R. J. Campbell; `ing` → [be]ing; `ite` → its; `Spinota'se` → Spinoza's; `Birps`/`Brrps` → BIRDS; `@HE` → THE.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `pore` and `i`. The author `R. A. Duff` is a reading of OCR `eet a Durr`.
 
 ## Full OCR entry body (exact)
 

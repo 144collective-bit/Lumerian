@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bacch-os
 headword: "BACCH OS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Dionysus` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DIONYSUS, OR BACCHUS|DIONYSUS, OR BACCHUS]] |
 | `INTOXICATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTOXICATION|INTOXICATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self incarnate in the lower nature.
+
+> "To the ordinary reader the name of Bacchus suggests nothing more than revelry and drunkenness, but it is now well known, that amid all the abominations that attended his orgies, their grand design was professedly 'the purification of souls,' and that from the guilt and defilement of sin."—A. Hislop, *The Two Babylons*, p. 22.
+
+See DIONYSUS, INTOXICATION.
+
+**Corrections made:** `suggesta` → suggests; `Hisrop` → Hislop; `Dionysus` → DIONYSUS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

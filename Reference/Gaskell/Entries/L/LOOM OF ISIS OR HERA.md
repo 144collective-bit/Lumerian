@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-loom-of-isis-or-hera
 headword: "LOOM OF ISIS OR HERA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Nerutuys` | **unresolved** (review queue) |
 | `WaRP` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
 | `WoopDEN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature which is instrumental in weaving the web of the universe.
+
+> "Isis invented the loom with the help of her sister Nephthys, and was the first to weave and bleach linen."—Plutarch, *Isis and Osiris*.
+
+By means of the buddhic nature operating with the physical (Nephthys), the warp and woof of the universe (solar system) is fashioned and established. Divine Wisdom (Isis) devised the web of existence and the means for self-purification. "Linen" is a symbol of the world-substance, i.e. Truth-reality.
+
+See BUDDHIC PLANE, FABRIC, ISIS, [Manco?], NEPHTHYS, WARP, WOODEN.
+
+**Corrections made:** `weave'and` → weave and; `Piuranrcna, Isie` → Plutarch, *Isis*; See-list spellings restored (`BuDDHIO`, `Fasric`, `Nerutuys`, `WaRP`, `WoopDEN`).
+
+**Unclear or supplied:** `[Manco?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

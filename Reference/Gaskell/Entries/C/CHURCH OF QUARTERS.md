@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-church-of-quarters
 headword: "CHURCH OF QUARTERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the religious consciousness at the highest level of the quaternary or four lower planes of the soul.
+
+> "Church of the four quarters of the world, those (monks) present and those absent."—H. Oldenberg, *Buddha*, p. 340.
+
+The inner sanctuary of the heart is in the highest reaches of the lower consciousness. In that are placed the ideas which seem to claim the soul's religious reverence; and it is said that the disciplined qualities (monks) and the higher qualities (absent monks) not yet attainable, are there to be found.
+
+See HEART, MONK, QUALITIES, QUARTERS.
+
+**Corrections made:** `and_ those` → and those; `OLDENBERG` → Oldenberg; See-list spellings restored (`Heart`, `Monk`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

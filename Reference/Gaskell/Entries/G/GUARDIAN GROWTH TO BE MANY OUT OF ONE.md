@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guardian-growth-to-be-many-out-of-one
 headword: "GUARDIAN GROWTH TO BE MANY OUT OF ONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `GEOMETRY` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
 | `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the process of Evolution whereby the Archetypal Man (Christ incarnate) becomes "dismembered," or "scattered," for the sake of the incarnating egos (human monads), and so the One brings forth the many qualities for the use of each human soul according to its stage of development.—See Empedocles, verse 60; also see 1 Cor. xii. 12-31; Eph. i. 10. See ARC. MAN, DISMEMBERMENT, EVOLUTION, GEOMETRY, INCARNATION.
+
+**Corrections made:** `Epu.` → Eph.; `Ano. MAN` → ARC. MAN; `DISMEMBEBMENT` → DISMEMBERMENT; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

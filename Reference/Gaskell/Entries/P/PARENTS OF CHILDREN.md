@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-parents-of-children
 headword: "PARENTS OF CHILDREN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `EVOLUTION FaTHER (lower)` | **unresolved** (review queue) |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
 | `TREASURE IN HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of lower conditions which give birth to higher.
+
+> "For the children ought not to lay up for the parents, but the parents for the children."—2 Cor. xii. 14.
+
+This refers to the laying up of "treasure in heaven," which must be for the "children," or the more highly developed qualities that are to follow. By the law of evolution, lower states of mind and emotion give rise in course of time to higher states, which leave the lower states to die out.
+
+See CHILD, CHILDREN OF MEN, DEAD (burying), EVOLUTION, FATHER (lower), PEACE AND SWORD, TREASURE IN HEAVEN.
+
+**Corrections made:** `DeEap` → DEAD; `EVOLUTION FaTHER` → EVOLUTION, FATHER; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

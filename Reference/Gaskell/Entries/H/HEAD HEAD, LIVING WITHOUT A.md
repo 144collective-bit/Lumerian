@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-head-head-living-without-a
 headword: "HEAD HEAD, LIVING WITHOUT A"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `RanaHa` | **unresolved** (review queue) |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a spiritual condition in which mind is superseded by intuition of Truth.
+
+> "The sixteenth good land was the land by the floods of the Rangha where people live without a head."—*Vendidad*, I, S. B. of E.
+
+This state of the soul signifies a condition receptive of a flood of Truth from above, whereby the processes of intellect may be dispensed with and pure thought,—the spiritual, impress of reality, that which is self-evident,—be substituted for the mind (head). See BEHEADING, FLOOD, INTELLECT, INTUITION, RANGHA, WISDOM.
+
+**Corrections made:** `selfevident` → self-evident; `RanaHa` → RANGHA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

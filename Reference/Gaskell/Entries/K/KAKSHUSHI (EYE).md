@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kakshushi-eye
 headword: "KAKSHUSHI (EYE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MANASI` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "eye of the soul,"—the inner discernment which perceives only the good and harmonious, and so realises that Truth whereof the universe is built.
+
+See MANASI.
+
+**Corrections made:** Quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

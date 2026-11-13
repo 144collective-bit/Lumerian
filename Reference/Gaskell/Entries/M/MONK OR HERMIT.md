@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-monk-or-hermit
 headword: "MONK OR HERMIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,16 @@ tags:
 | `Sarnts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an ego who "retires alone into the desert to lead a religious life," that is, who withdraws into the soul's inner mental being, intent upon consciously developing his nature in accordance with the Divine law. To this end he ceases for a period from external activities and incarnation.
+
+See ASCETIC, ARHAT, ASRAMAS, [Cuurnon?] (four), HERMIT, MENDICANT, NUNS, ORDERS, SAINTS, SUFFERING, TRI-RATNA.
+
+**Corrections made:** `deser~` → desert; `Nouns` → NUNS; `Sarnts` → SAINTS; `Orpers` → ORDERS; page heading `MOON` removed from within the See list.
+
+**Unclear or supplied:** `[Cuurnon?]`: See-list item not identified.
 
 ## Full OCR entry body (exact)
 

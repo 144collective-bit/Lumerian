@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aditi
 headword: "ADITI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `Not` | **unresolved** (review queue) |
 | `SUBSTANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUBSTANCE|SUBSTANCE]] |
 | `SUN-RISING` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial Space on the higher planes in relation to the manifestation of the Self (Aditya).
+
+> "Goddess Aditi, 'the Infinite Expanse,' conceived of subsequently as the mother of all the gods."—Mon. Williams, *Indian Wisdom*, p. 12.
+
+> "Aditi is mentioned by the side of heaven and earth." "In X., 63, 2, the gods in general are represented as born from Aditi, the waters, and the earth."—Max Müller, *S. B. of E.*, Vol. XXXII. pp. 248, 261.
+
+Space is the arena of the operations of spirit and matter. The Ideals (gods) are produced from Space, the outpouring of Truth, and the aspiring lower nature.
+
+> "As Living Substance, God is One. As Life and Substance, God is Twain. HE is the Life, SHE is the Substance. ... She is not Matter: but is the potential essence of Matter. She is not Space; but is the within of space, its fourth and original dimension, that from which all proceed, the containing element of Deity, and of which space is the manifestation. As original Substance, the substance of all other substances, She underlies that whereof all things are made; and like life and mind, is interior, mystical, spiritual, and discernible only when manifested in operation. In the Unmanifest, She is the Great Deep, or Ocean of Infinitude, the Principium or Arché, the heavenly Sophia, or Wisdom, who encircles and embraces all things."—*The Perfect Way*, p. 55.
+
+See ANTELOPE, BUDDHIC PLANE, DAWN, HORSE SACRIFICE, MAYA (higher), NUT, SUBSTANCE, SUN-RISING.
+
+**Corrections made:** `other of all the gods` → mother of all the gods; `Exnse` → Expanse; `MUrzrr` → Müller; `Ocearf` → Ocean; page heading `26 ADONIS` removed from the See list (leaving `MAYA (higher)`); See-list spellings restored (`Dawn`, `Horse saonirice`, `Not`); quotation marks normalised.
+
+**Unclear or supplied:** `NUT` (OCR `Not`) and the reading `MAYA (higher)` after the removed heading are likely readings.
 
 ## Full OCR entry body (exact)
 

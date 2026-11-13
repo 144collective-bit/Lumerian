@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-children-of-the-east
 headword: "CHILDREN OF THE EAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `East` | **unresolved** (review queue) |
 | `Jos` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sun, moon, planets, and stars which have their birth, as it were, in the east where they first become apparent. These again are the symbols of the Higher Self (sun), lower Self (moon), etc. Thus, the "greatest of all the children of the east" is the Higher Self, the Sun of righteousness.
+
+See EAST, JOB, SUN.
+
+**Corrections made:** `Jos` → JOB; `East`, `Sun` → EAST, SUN.
+
+**Unclear or supplied:** `JOB` is read from `Jos`.
 
 ## Full OCR entry body (exact)
 

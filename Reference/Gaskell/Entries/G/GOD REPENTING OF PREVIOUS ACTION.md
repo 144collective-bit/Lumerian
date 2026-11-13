@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-god-repenting-of-previous-action
 headword: "GOD REPENTING OF PREVIOUS ACTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `DEPRAVITY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEPRAVITY, UNIVERSAL|DEPRAVITY, UNIVERSAL]] |
 | `FLoop` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine realisation of the possibility of superseding the initial attempts at Self-expression in low forms by fuller and completer life processes within improved astrophysical forms.
+
+See DEPRAVITY, FLOOD.
+
+**Corrections made:** `FLoop` → FLOOD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

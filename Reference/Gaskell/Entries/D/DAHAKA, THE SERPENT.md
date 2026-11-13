@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dahaka-the-serpent
 headword: "DAHAKA, THE SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `SERPENT (dahaka)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `THRAETONA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THRAETONA (FREDUON), OF ATHWYA|THRAETONA (FREDUON), OF ATHWYA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of illusion and the sense of separateness. See SERPENT (dahaka), THRAETONA.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brick-for-stone
 headword: "BRICK FOR STONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BaseL` | **unresolved** (review queue) |
 | `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of superstition which is put in place of spiritual knowledge (stone).
+
+> "And they had brick for stone, and slime had they for mortar."—Gen. xi. 3.
+
+Further experiences are to be through superstition and craft (slime) before higher qualities are evolved.
+
+See BABEL, MORTAR, STONE.
+
+**Corrections made:** `stime` → slime; `QGEn.` → Gen.; `BaseL` → BABEL; `Mortar` → MORTAR; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

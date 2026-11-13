@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-helmet
 headword: "HELMET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `SaLvaTIon` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SHIELD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHIELD AND SPEAR|SHIELD AND SPEAR]] |
 | `SwoORD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of protection of the mind or soul from the assaults of the desires and passions.
+
+> "And take the helmet of salvation, and the sword of the Spirit, which is the word of God."—Eph. vi. 17.
+
+The soul is exhorted to rely upon the Divine protection from evil, and to call forth the spiritual energy from within.
+
+See SALVATION, SHIELD, SWORD.
+
+**Corrections made:** `Epn.` → Eph.; `SaLvaTIon` → SALVATION; `SwoORD` → SWORD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

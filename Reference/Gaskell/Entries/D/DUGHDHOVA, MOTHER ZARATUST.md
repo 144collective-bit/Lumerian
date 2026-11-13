@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dughdhova-mother-zaratust
 headword: "DUGHDHOVA, MOTHER ZARATUST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `PRAKRIT!` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `Woms` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primeval matter of the lower planes,—manasic and astro-physical,—which gives birth to the Soul in the cycle of Involution.
+
+See AURVAITO, BIRTH OF ZOROASTER, MAYA, POURUSHASPA, PRAKRITI, WOMB, ZOROASTER.
+
+**Corrections made:** `astrophysical` → astro-physical (hyphen restored as elsewhere); `PRAKRIT!` → PRAKRITI; `Woms` → WOMB; `PoURUSHASPA` → POURUSHASPA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

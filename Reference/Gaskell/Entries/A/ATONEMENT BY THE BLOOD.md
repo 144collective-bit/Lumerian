@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atonement-by-the-blood
 headword: "ATONEMENT BY THE BLOOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Homa-svuicE` | **unresolved** (review queue) |
 | `ScaAPEGoat` | **unresolved** (review queue) |
 | `Soma-JUIOCE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the reparative effect of the Divine Life in the soul's growth. The forming and healing Life gradually making perfect the imperfect soul, in proportion as the soul aspires toward the ideal.
+
+> "For the life (or soul) of the flesh is in the blood: and I (the Lord) have given it to you upon the altar to make atonement for your souls: for it is the blood that maketh atonement by reason of the life (or soul)."—Lev. xvii. 11.
+
+For the power of upward growth of the lower nature (flesh) of humanity, resides in the recuperative Divine Life (blood) which the Higher Self sheds upon the highest part of the lower nature (the altar) in order that the souls shall have the means of development: for it is the Divine Life that maketh perfect by reason of the perfect Archetype within.
+
+> "Among the ancient Hindus an atonement was asserted to be through the sacrifice of Purusha the Great Hindu Universal Ideal Man."—Mon. Williams, *Indian Wisdom*, p. 24.
+
+See ALTAR, ARC. MAN, BLOOD, FOOD, HOMA-JUICE, SCAPEGOAT, SOMA-JUICE.
+
+**Corrections made:** `LEv.` → Lev.; `Mown.` → Mon.; See-list spellings restored (`Foon`, `Homa-svuicE`, `ScaAPEGoat`, `Soma-JUIOCE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

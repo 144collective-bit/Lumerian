@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-naiads-or-nymphs
 headword: "NAIADS, OR NYMPHS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Devas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
 | `Hywas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of nature elementals, or builders of form on the lower planes. On the mental plane a "water nymph" may mean metaphysical speculation at the spring of truth.
+
+> "Nymphs of the spring were thought to be endowed with prophetic power, and to inspire men with the same."—Smith's *Class. Dict.*
+
+See DEVAS (lower), [Hywas?].
+
+**Corrections made:** `Clase.` → Class.; duplicated dash removed; `Devas` → DEVAS.
+
+**Unclear or supplied:** `[Hywas?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

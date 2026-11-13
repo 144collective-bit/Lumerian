@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-magic-or-magical-powers
 headword: "MAGIC, OR MAGICAL POWERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -91,6 +92,42 @@ tags:
 | `TuHotH` | **unresolved** (review queue) |
 | `VEssEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
 | `Worp` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the inner and unobserved processes within the soul by which lower qualities are raised and transmuted into higher. These processes are the workings of Buddhi through the higher mind, in response to the aspirations of the personality.
+
+> "Those remained for ever with the Sun (Ra) who possessed the most minute information as to the next world and who were best versed in magic. Thus the whole doctrine (of immortality) is based upon a belief in the power of magic: by magic only could demons be worsted and everlasting bliss be won."
+
+> "Thoth was the god of writing, the scribe of the gods, and the god of letters—especially of religious literature. He was supposed to have written the most sacred books and formulas with his own hand, and therein to have set down his knowledge of magic, in which art Isis only was his rival."—Wiedemann, *Rel. of Anc. Egyptians*, pp. 95, 227.
+
+> "In the religious texts and works we see how magic is made to be the handmaiden of religion, and how it ap[pears] in certain passages side by side with the most exalted spiritual conceptions; and there can be no doubt that the chief object of magical books and ceremonies was to benefit those who had by some means obtained sufficient knowledge to make use of them."—Budge, *Egyptian Magic*, p. 3.
+
+The "power of magic" is the efficacy of the buddhic function whereby the lower qualities are transmuted and the soul enabled to overcome the desires (demons) and rise to the planes of immortality. Through the higher mind (Thoth) have come the revelations of the unseen contained in the symbolism of the sacred scriptures of the whole world. In the higher mind are to be found the meanings attached to the symbols of the ideas which have proceeded from the Holy Spirit or buddhic principle (Isis). As the buddhic functioning (magic) is the means of the soul's redemption, its recognition is an exalted spiritual conception, and aspiration for its benefits is the essence of true religion. The popular mistaken view of magic is referred to by Plutarch, who correctly gives the meaning of Isis.
+
+> "Isis,—Justice, Wisdom—shows the divine mysteries to be 'carriers of sacred things,' and 'wearers of sacred robes': these are they that carry in the soul, as it were in a copper (bowl), the sacred story respecting the Gods, that cleanses the recipient from all superstition and magical follies."—Plutarch, *Isis and Osiris*, § 3.
+
+The Wisdom (Isis) from above explains the Divine scriptures as containing secret things of the Spirit and hidden wisdom of the soul. These scriptures, venerated as a vehicle of Divine truth, are the means of opening the revering mind to intuitions of truth symbolised in the miraculous stories and nonsensical statements of the holy books and myths, and so cleansing the soul from superstition and sorcery, the products of ignorance, greed, and hate.
+
+> "The human soul is made to turn, by the subtle chemistry of its [abiding?] experience, truth into [text unclear]."—Phillips Brooks, *Serm.*, Young and Old Christian.
+
+See ALCHEMY, ASPIRATION, BARSOM, BUDDHI, BUDDHIC FUNCTION, CLOUDS, DEMONS, GRACE, HOLY GHOST, [IMMORTALITY?], INTUITION, ISIS, MYTHOLOGY, PAPYRUS BOAT, PERSONALITY, REDEMPTION, RELIGION, REVELATION, RITUAL, SACRED TEXT, SCRIPTURES, THOTH, TRANSMUTATION, WISDOM, WORD.
+
+### Also in this note: MAGICAL FORMULÆ
+
+Symbolic of the contents of the World-scriptures which treat of the hidden processes of nature.
+
+> "When Thoth heard this (of the impossibility of sailing further on the sea while numerous enemies occupied it) he recited certain chapters containing magical formulæ, with the view of protecting the boat and the vessels of the blacksmiths which were with it, and of quieting the sea during the period of [text unclear]."—[Legend?] of the Winged Sun-disk.
+
+When the higher intellect of the human race (Thoth) perceived the needs of the situation, it busied itself with the formulating of certain religious codes whereby the lower nature might be disciplined and so enabled to proceed with its evolution through the following of a set system, or a mode of action and aspiration. And this mode of discipline it arranged with the express object of preserving in the soul the germ of the higher intuition and capabilities of Divine realisation which should yet unfold in due order when the lower nature had accomplished its course on its own part. This systematised thought and action also provided a means, through fear, reverence and authority, of stilling the turbulent lower emotion-nature, and of quelling the stormy vehemence of the passions and desires. The religious systems of the world are framed with a view, first of all, to preserve the germ of Buddhi intact in the consciousness; and second, to quell the surgings of the astral self or kama-manasic nature, which, unless stilled by the action of Buddhi-manas, would prevent the Divine realisation of Truth through the mind. For the mind has to act as a mirror wherein may be reflected gleams of the radiance of Love, Righteousness and Reality.
+
+> "The starting-point of all magic and of all magical religion—the best and purest of occult activities—is, as in mysticism, man's inextinguishable conviction that there are other planes of being than those which his senses report to him; and its proceedings represent the intellectual and individualistic results of this conviction—his craving for the hidden knowledge."—E. Underhill, *Mysticism*, p. 180.
+
+See ASPIRATION, BLACKSMITHS, BOAT, BUDDHI, ENEMIES, INSPIRATION, INTELLECT, INTUITION, PAPYRUS BOAT, [SORCERERS?], [SEs?], SIGN, STORM, THOTH, VESSEL, WORD.
+
+**Corrections made:** `hia` → his; `Bupoz, Zgyptian Magic` → Budge, *Egyptian Magic*; `atory` → story; `respecting t the` → respecting the; `ite` → its; `PxioraroH, Isie` → Plutarch, *Isis*; `iteelf` → itself; `emotionnature` → emotion-nature; `@` → a; `reaults` → results; `Mystictem` → *Mysticism*; `MAGICAL FORMULE&E` → MAGICAL FORMULÆ; page headings `MAGICAL`, `466 MAGICAL` removed from mid-sentence; See-list spellings restored (`BUDDHIO`, `Demons`, `Hoty auost`, `Inrorrion`, `MyrsoLOGY`, `RIrva.`, `Sonrprures`, `TRANSMUTAtion`, `Wispom`, `Worp`, and similar).
+
+**Unclear or supplied:** Contains a second entry: MAGICAL FORMULÆ. `ap[pears]` is supplied (OCR `ap`). `[abiding?]` (OCR `ding`) and `[text unclear]` after "truth into": the Phillips Brooks quotation is cut off in the OCR. `[IMMORTALITY?]` (OCR `Inmmoter`) uncertain. In the second entry, `[text unclear]` after "period of" (OCR `> a`) and `[Legend?]` (OCR `a`). First See list ends where the second entry begins. `[SORCERERS?]` (OCR `SorrerorEs`) and `[SEs?]` are uncertain See-list items.
 
 ## Full OCR entry body (exact)
 

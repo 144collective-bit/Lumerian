@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-andrew-the-disciple
 headword: "ANDREW, THE DISCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the subjective astral self which builds up and adapts the astral nature to ordinary requirements, and is the directive agency which has charge of the senses in their ordinary practical capacity, and is also controller of the sympathetic nervous system. As a symbol of one of the four elements or planes "Andrew" signifies Water (astral).
+
+> "One of the two that heard John [speak] and followed him, was Andrew, Simon Peter's brother."—John i. 40.
+
+The subjective astral self is influenced by the moral nature (John) and also by the spiritual (Jesus). The astral self (Andrew) is allied with the lower mind (Peter).
+
+See ASTRAL, JOHN BAPTIST, MESSIAH, PETER, SIMILITUDES, VAISYA, VESTURES, WATER (lower).
+
+**Corrections made:** Page heading `ANDROMEDA` removed from mid-sentence; `Jouwn` → John; `ajso` → also; See-list spellings restored (`SIMILITuDEs`, `Vaisya`); quotation marks normalised.
+
+**Unclear or supplied:** `[speak]` is supplied: the OCR reads "heard John » and followed him".
 
 ## Full OCR entry body (exact)
 

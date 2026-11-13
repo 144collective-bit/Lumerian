@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown-of-lower-egypt
 headword: "CROWN OF LOWER EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Mirre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MITRE|MITRE]] |
 | `Movuts` | **unresolved** (review queue) |
 | `SERPENT (north)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of Divine rule over the lower mental, or kama-manasic, plane. Its form is that of an open mouth with a projecting tongue curled at the end, i.e. returning upon itself. This symbolises the uttered Word of Power, or the expression of the Divine Life on the lower planes, which must return unto its source. See EGYPT (lower), MITRE, MOUTH, SERPENT (north).
+
+**Corrections made:** `Ecyrr` → EGYPT; `Mirre` → MITRE; `Movuts` → MOUTH; trailing comma → full stop.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

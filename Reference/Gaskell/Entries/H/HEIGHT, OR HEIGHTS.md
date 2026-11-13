@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-height-or-heights
 headword: "HEIGHT, OR HEIGHTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `Karisa` | **unresolved** (review queue) |
 | `MounTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes of manifestation. The buddhic plane, heaven. It has the same meaning as mountain top, or mountain upon which the Gods dwell.
+
+See ALBORDJ, CAUCASUS, GOAT (white), HIMAVAN, KAILASA, MOUNTAIN, OLYMPUS.
+
+**Corrections made:** `AvBporps` → ALBORDJ; `Cavoasus` → CAUCASUS; `Hmaavan` → HIMAVAN; `Karisa` → KAILASA; `MounTAIN` → MOUNTAIN.
+
+**Unclear or supplied:** `ALBORDJ` and `KAILASA` are inferred from damaged See-list spellings (OCR `AvBporps`, `Karisa`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-city-of-peace
 headword: "CITY OF PEACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `NIRVANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a centre of consciousness in Nirvana which is an intermediate state of heavenly rest between periods of objectivity.
+
+See NIRVANA.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

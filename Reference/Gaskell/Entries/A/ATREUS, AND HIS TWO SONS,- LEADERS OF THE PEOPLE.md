@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atreus-and-his-two-sons-leaders-of-the-people
 headword: "ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MENELAUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MENELAUS MENELAUS, SON OF ATREUS|MENELAUS MENELAUS, SON OF ATREUS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
 | `TYRANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANT, WICKED|TYRANT, WICKED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the illusion of separateness, and its products, love of power and love of possession, rulers of the lower qualities.
+
+> "And Chryses supplicated all the Greeks, but chiefly the two sons of Atreus, the leaders of the people."—*Iliad*, Book I.
+
+The spiritual mind, through illusion, captivates the lower minds and principally through love of power and possession.
+
+See AGAMEMNON, CHRYSES, GREEKS, MENELAUS, TROY, TYRANT.
+
+**Corrections made:** `Troy` → TROY; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

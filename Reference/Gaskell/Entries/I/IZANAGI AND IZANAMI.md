@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-izanagi-and-izanami
 headword: "IZANAGI AND IZANAMI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `OnoGcorosma` | **unresolved** (review queue) |
 | `UKEMOOHT` | **unresolved** (review queue) |
 | `—_ he 2 a eee eee ees` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Divine Will and Wisdom, or the Monad of Life and the Monad of Form, or Spirit and Matter.
+
+> "The two Deities having descended upon Onogoro-jima erected there an eight-fathom house with an august central pillar. Then Izanagi addressed [Izan]ami, saying: 'How is thy body formed?' Izanami replied, 'My body is completely formed except one part, which is incomplete.' Then Izanagi said, 'My body is completely formed, and there is one part which is superfluous. Suppose that we supplement that which is incomplete in thee with that which is superfluous in me, and thereby procreate lands.' Izanami replied, 'It is well.'"—The *Kojiki*.
+
+Will and Wisdom having established an astral centre for the soul in the lower nature formed the astral body in direct relation with the Divine Ray. The next statements refer to the duality of Life and Form. When the form is complete for a new outpouring of Spirit, then the Spirit is prepared to occupy it;—the monad of life becomes allied with the monad of form, and thence arises the generative or creative faculty whereby the several planes are formed and furnished for the evolution of consciousness from lower to higher states. First is produced the higher mental plane (Tsukushi), second, the buddhic plane (Toyo), third, the atmic plane (Hi), and fourth, the astro-mental plane (Kumaso), the arena of conflict. All this description refers to the formation of the soul in the involutionary period of the Life-cycle.
+
+See AMATERASU, CHEMMIS, COMB, DELOS, HIRUKO, ISLAND (floating), [KAGU?], MONAD, ONOGOROJIMA, UKEMOCHI,
+
+**Corrections made:** `ami` → [Izan]ami; See-list spellings restored (`AmaTERasuv`, `Dretos`, `Hrruxo`, `Istanp`, `OnoGcorosma`, `UKEMOOHT`); trailing OCR noise (`— he 2 a eee eee ees`) dropped.
+
+**Unclear or supplied:** `[Izan]ami` is a restoration of OCR `ami`. `[KAGU?]` (OCR `Kacu.`) is uncertain. The See list ends in a comma followed by OCR noise and may be cut off.
 
 ## Full OCR entry body (exact)
 

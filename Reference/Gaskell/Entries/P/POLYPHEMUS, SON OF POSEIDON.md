@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-polyphemus-son-of-poseidon
 headword: "POLYPHEMUS, SON OF POSEIDON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Cyciopses` | **unresolved** (review queue) |
 | `Fouat` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FOHAT, OR WORLD OF AGNI|FOHAT, OR WORLD OF AGNI]] |
 | `Posemwon` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the force aspect of the Divine Will proceeding from the eternal Truth. It is the intellectual energy of the Self on the mental plane. The one eye in the forehead represents consciousness on the mental plane. See CYCLOPES, [Fouat?], POSEIDON.
+
+**Corrections made:** `Cyciopses` → CYCLOPES; `Posemwon` → POSEIDON.
+
+**Unclear or supplied:** `[Fouat?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

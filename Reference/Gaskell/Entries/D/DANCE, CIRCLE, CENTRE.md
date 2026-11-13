@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dance-circle-centre
 headword: "DANCE, CIRCLE, CENTRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,24 @@ tags:
 | `Houries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOURIES, NYMPHS OF PARADISE|HOURIES, NYMPHS OF PARADISE]] |
 | `MUSEs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the harmonious exercise of the higher qualities, in unison with a central ideal.
+
+> "We perpetually revolve about the Principle of all things, even when we are perfectly loosened from it, and have no longer a knowledge of it. But when we behold it, then we obtain the end of our wishes. Then also we are no longer discordant, but form a truly divine dance about it."—Plotinus, *On the Good, or the One*, § 8.
+
+> "In the 'Acts of John' the disciples are described as holding one another's hands so as to make a ring round Jesus, who stands in the midst, and to each line He sings, they intone in chorus the sacred word 'Amen.'" Jesus exhorts a disciple thus,—"Now respond thou to my dancing. See thyself in Me who speak, and when thou hast seen what I do, keep silence on my mysteries." Then dancing,—"Observe what I do, for thine is this passion (suffering) of the Man, which I am to suffer."—G. R. S. Mead, *Fragments*, etc., pp. 431-4.
+
+The "disciples" are symbols of twelve of the most disciplined qualities of the soul, and they therefore stand, as it were, round the central Ideal (Jesus), and look for teaching and guidance to that which is highest. Then, as the Divine nature in the midst expresses the harmony (singing) within, the disciplined qualities vibrate in unison. The exhortation is the teaching of the Spirit that the quality must merge and identify itself with the Divine, and conform unreservedly to that which is higher than it can understand. It is to observe the harmony (dancing) within the spiritual and ethical Ideal, and to bear patiently the suffering which it has to undergo in the personality (man) in order that the Divine ideal may be realised.
+
+> "Scaliger, who astonished Charles V by his dancing powers, says the bishops were called 'Praesules' because they led the dance on feast days. According to some of the Fathers, the angels are always dancing, and the glorious company of the apostles is really a 'chorus' of dancers."—*Encyclopedia Britannica*.
+
+See ANGELS, APOSTLES, DISCIPLES, GODS, HARMONY, HOURIS, MUSES, MUSIC.
+
+**Corrections made:** `a _ truly` → a truly; `PLorinus` → Plotinus; `Q. R. 8. Msap` → G. R. S. Mead; `efc.` → etc.; page heading `ROUND A DANCES` removed from mid-quotation; `APposTLes`, `Harmony`, `Houries`, `MUSEs` restored; trailing comma after `Music` → full stop.
+
+**Unclear or supplied:** `Goris` in the See list is read as GODS (uncertain). The Mead quotation and its connecting words are set out together as printed.
 
 ## Full OCR entry body (exact)
 

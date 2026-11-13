@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-high-priest-of-the-good-religion
 headword: "HIGH-PRIEST OF THE GOOD RELIGION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `RELIGION` | **unresolved** (review queue) |
 | `SACRIFIOR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACRIFIOR CARAPACE OF THE TORTOISE|SACRIFIOR CARAPACE OF THE TORTOISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind (buddhi-manas), the upholder of the science of the Higher Self in building up the individualised causal-body.
+
+> "For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins."—Heb. v. 1.
+
+The subjective spiritual mind is set apart from other mental qualities; and its function is to minister to righteousness, and receive the higher powers and faculties,—the reward of giving up the lower desires,—in order to offer to the causal-body that which will promote its growth.
+
+See AARON, [ATHORNE?], CHRYSE, [Heroatoms?], [Porr?], PRIEST, RELIGION, SACRIFICER.
+
+**Corrections made:** `Hes.` → Heb.; `CHBYSE` → CHRYSE; `SACRIFIOR` → SACRIFICER; `Priest` → PRIEST; full stop supplied after "growth" (OCR runs into See list).
+
+**Unclear or supplied:** See-list items `[ATHORNE?]`, `[Heroatoms?]`, `[Porr?]` not identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-demeter-or-ceres
 headword: "DEMETER, OR CERES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,26 @@ tags:
 | `SI-OSIRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SI-OSIRI (SON OF OSIRIS)|SI-OSIRI (SON OF OSIRIS)]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle as functioning in the soul, and bringing forth the 'fruits of the spirit' through the cultivation of the lower nature.
+
+> "Demeter was the daughter of Cronus and Rhea, and the sister of Zeus, by whom she became the mother of Persephone."—Smith's *Class. Dict.*
+
+The buddhic principle in its manifestation proceeds from the course of time (Cronus) in space (Rhea). Buddhi is allied with Atma (Zeus); and from Atma-buddhi the emotion-nature (Persephone) is brought forth on the mental plane.
+
+> "Demeter was the goddess of the earth. She was the protectress of agriculture and of all the fruits of the earth."—*Ibid.*
+
+Buddhi is the transmuter of the lower nature (earth), and directs the cultivation of the lower qualities that they may bear fruit upon the higher planes.
+
+> "Ceres was worshipped as the 'Mother of Corn.' The child she brought forth was He-Siri, 'the Seed,' or as he was most frequently called in Assyria, 'Bar,' which signifies at once 'the Son' and 'the Corn.' The uninitiated might reverence Ceres for the gift of material corn to nourish their bodies, but the initiated adored her for a higher gift—for food to nourish their souls—for giving them that bread of God that cometh down from heaven—for the life of the world, of which, 'if a man eat, he shall never die.' Does any one imagine that it is a mere New Testament doctrine that Christ is the 'bread of life'? There never was, there never could be, spiritual life in any soul, since the world began, at least since the expulsion from Eden, that was not nourished and supported by a continual feeding by faith on the Son of God, 'in whom it hath pleased the Father that all fullness should dwell,' 'that out of His fullness we might receive, and grace for grace.' ... That the initiated Pagans actually believed that the 'Corn' which Ceres bestowed on the world was not the corn of this earth but the Divine 'Son,' through whom alone spiritual and eternal life could be enjoyed, we have clear and decisive proof."—A. Hislop, *Two Babylons*, p. 161.
+
+See AGRICULTURE, BEES, BUDDHI, CRONUS, CULTIVATION, FOOD, PERSEPHONE, RHEA, SEED, SI-OSIRI, TRANSMUTATION, ZEUS.
+
+**Corrections made:** `fruita` → fruits; `corm` → corn; `Hisiop` → Hislop; page heading `DEMIURGE` removed from mid-sentence; See-list spellings restored (`Cronus`, `Foop`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

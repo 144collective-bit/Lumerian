@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rimthursar-frost-giants
 headword: "RIMTHURSAR, FROST GIANTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `YGQDRASIL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
 | `YMIR` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primal powers and qualities that arise from latency (frost) in matter, and become active in the lower nature of the soul during the cycle of evolution.
+
+> "We are far from believing Ymir to have been a god, for he was wicked as are all of his race, whom we call Frost-giants. And it is said that, when Ymir slept, he fell into a sweat, and from the pit of his left arm was born a man and woman, and one of his feet engendered with the other a son, from whom descend the Frost-giants, and we therefore call Ymir the old Frost-giant" (*Prose Edda*).—Mallet, *North. Antiq.*, p. 403.
+
+The Archetypal Man (Ymir) in his lower nature originates the lower planes and all their powers and qualities in the present cycle. First, the mental (man) and buddhic (woman) planes were produced from the matter side (left) of latent being. Then on the active progressive side (feet) there was outpoured the life of the lower planes (son) in which are all the primal energies and qualities that were lying latent (frost) in the Archetypal Man, who is the consummation of the process of involution. Both the Ymer and Demiurge symbols are said to be "wicked" to indicate the potential lower nature of being.
+
+> "Alfadir (All-Father) hath formed heaven and earth, and the air, and all things thereunto belonging. And what is more, he hath made man, and given him a soul which shall live and never perish though the body shall have mouldered away, or have been burnt to ashes. And all that are righteous shall dwell with him in the place called Gimli, or Vingolf; but the wicked shall go to Hel, and thence to Nifihel, which is below, in the ninth world. 'And where did this God remain before he made heaven and earth?' asked Gangler. 'He was then,' replied Har, 'with the Hrimthursar'" (*Prose Edda*).—*Ibid.*, p. 401.
+
+Prior to manifestation of the higher and lower planes, the Divine Life is inactive and potential; Truth (water) is latent (frozen).
+
+See ARC. MAN, ASKR, DEMIURGE, FATHER, FROST, GIANTS, GIMLI, HADES, HEL, MAN, NIFLHEIM, QUALITIES, TITANS, WELL, WOMAN, YGGDRASIL, YMIR.
+
+**Corrections made:** `Frost-giantz` → Frost-giants; `Frnostgiants` → Frost-giants; `MaA..et` → Mallet; `p. 4034` → p. 403; `lIbid.` → *Ibid.*; See-list spellings restored (`Arc.`, `FatTHeR`, `Haves`, `Hert`, `YGQDRASIL`); stray `OR aon is RING` (damaged page heading) removed from the See list; quotation marks normalised.
+
+**Unclear or supplied:** `p. 4034` is read as p. 403 (a footnote figure may have run on). `HADES` for `Haves` and `HEL` for `Hert` are best readings. `YGQDRASIL` is read as YGGDRASIL.
 
 ## Full OCR entry body (exact)
 

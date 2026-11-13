@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kheper-or-khepera
 headword: "KHEPER, OR KHEPERA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,22 @@ tags:
 | `Uruirrine RA` | **unresolved** (review queue) |
 | `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WATER (lower) Woms` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Self striving in the lower nature; i.e. of the indwelling Christ.
+
+> "The majesty of this great God (Afu-Râ) taketh up his position in this Circle (Twelfth of the [word unclear]) which is the uttermost limit of thick darkness; and this great God is born in his form of Khepara in this Circle; and Nut and Nu are in this Circle for the birth of this great God when he cometh forth from the Tuat and taketh up his position in the Matet boat, and when he riseth up from the thighs of Nut."—Budge, *Egyptian Heaven and Hell*, Vol. I. p. 257.
+
+The picture accompanying this text is emblematic of the process of the unfoldment and consummation of the Soul, and it indicates the actual as well as potential facts of the case. The causal-body (the boat), is upheld or evolved through the powers of the universe (Nu), and these yield up, as it were, that which is accomplished through their agency. The astral plane (water) is depicted below the causal-body (boat) to signify the process of conflict with the desire-nature which leads to the final triumph of the Spirit within. The globe upheld by the beetle,—emblem of Khepara, the Christ,—represents the buddhic vesture, for above is the plane of atma. The symbol of the figure of Osiris at the top curved round a space signifies realisation,—that state which is perfect and complete as the result of endeavour. The design altogether represents the ending of the path to liberation; the Soul rising from the way of the underworld (Tuat) to peace eternal, into which it is born from the womb of Space (Nut).
+
+> "Hail, thou who risest as a Mighty Soul (Kha-ba-aa), who hast received the things which belong to the Tuat; Af, thou guardian of heaven, come thou, and cast thou thine eye in the name of the Living One, Khepara, at the head of the Tuat."—*Ibid.*, p. 40.
+
+See [ARU-BI?], ASCENSION OF OSIRIS, ASTRAL PLANE, BOAT (sektet), CAUSAL-BODY, CIRCLE OF EXISTENCE, CONFLICT, CRUCIFIXION OF JESUS, HUMAN BODY, LIBERATION, MONAD, NU, NUT, OSIRIS, RA, RESURRECTION, ROBE, SCARABAEUS, SOUL, TREASURE, TUAT, [UNITING RA?], VICTORY, WATER (lower), WOMB.
+
+**Corrections made:** `t God` → great God; `ition` → position; `Bupar` → Budge; `Egypt. Heaven` → Egyptian Heaven; `causalbody` → causal-body; `veeture` → vesture; See-list spellings restored (`Boar` → BOAT, `CAUSALBODY`, `CRUCIFLXION`, `Nou, Not` → NU, NUT, `ScaRaB2Zvs`, `Woms` → WOMB); page heading `431 KHORDAD` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` for OCR `t` in "Twelfth of the t". `[ARU-BI?]` and `[UNITING RA?]` are See-list items recovered with low confidence (OCR `Aru-Bi`, `Uruirrine RA`). "great" and "position" are completed from truncated OCR (`t`, `ition`).
 
 ## Full OCR entry body (exact)
 

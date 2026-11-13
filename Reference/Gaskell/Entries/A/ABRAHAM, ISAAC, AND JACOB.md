@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abraham-isaac-and-jacob
 headword: "ABRAHAM, ISAAC, AND JACOB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `(gnashing)` | **unresolved** (review queue) |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Higher Triad active within the soul; or a dim reflection of the Divine principle in the lower nature in its highest aspect.
+
+> "'Just men made perfect,' that is, 'Abraham, Isaac, and Jacob,' brought to their perfection, and whose names consequently are now, 'Father,' 'Son,' and 'Holy Ghost.'"—John Ward, *Zion's Works*, Vol. V. p. 271.
+
+> "Abraham, Isaac, and Jacob are types of the divine life in man, manifesting itself in the spirit, in the understanding, and in the body respectively;—for this is only another way of saying that they are the spirit of faith, of sonship, and of service: for sonship is the bringing of the divine life into our understanding, and service is bringing it into our outward and bodily acts;—and this cannot be done at once, but by degrees and successively. Sonship is come, when the things which are in the spirit are in the understanding also. Service is come, when the things which have been in the understanding are seen in the body and wrought outwardly. Each of these, then, is the same elect spirit, only seen at different stages of its development, and taking at each stage a different form, by which the same One Spirit may show itself in its sevenfold variety. ... The same Spirit of God shows variously through the different mental atmospheres which are furnished by the successive stages of man's development."—And. Jukes, *The Types of Genesis*, pp. 250-1.
+
+> "Mr. Worsley's notion respecting the Patriarchs briefly is, that Abraham, Isaac, and Jacob, 'present to us the eternal triune object' of worship,—Father, Son, and Holy Ghost."—P. Fairbairn, *The Typology of Scripture*, Vol. I.
+
+See APOSTLES, [HANVSES?] (gnashing), TRIAD, TRINITY.
+
+**Corrections made:** page heading `19 ABRAXAS` removed from mid-sentence; `Joun Warp` → John Ward; `ita` → its; `P. FarrThe` → P. Fairbairn, *The*; stray closing quotation mark after `Vol. I.` removed; `ANp. JuKes` → And. Jukes; See-list spellings restored.
+
+**Unclear or supplied:** `P. Fairbairn`: OCR reads `P. FarrThe`, the name is damaged. `[HANVSES?]` in the See list could not be identified (OCR `HanvsEs`).
 
 ## Full OCR entry body (exact)
 

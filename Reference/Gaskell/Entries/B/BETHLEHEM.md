@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bethlehem
 headword: "BETHLEHEM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `BretH or JESUS` | **unresolved** (review queue) |
 | `BREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BREAD, OR BREAD OF HEAVEN|BREAD, OR BREAD OF HEAVEN]] |
 | `Vinci` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the condition of purity and peace of mind, wherein the Christ-soul can be born as the Son of mind (man), and be protected at first from the strife of the lower emotions and desires.
+
+> "Wherefore every soul which receives that bread which comes down from heaven is the house of bread, that is, the Bread of Christ, being nourished and supported, and having its heart strengthened by that heavenly bread which dwells within it. Hence Paul also says, 'For we being many are one bread.' Every faithful soul is Bethlehem, as Jerusalem also is said to be, which has the peace and tranquillity of that Jerusalem which is above in heaven. That is the true Bread, which, when broken into pieces, fed all men."—St. Ambrose, *Letters*, p. 416.
+
+See BIRTH OF JESUS, BREAD, [VIRGIN?]
+
+**Corrections made:** `StT.` → St.; `BretH or JESUS` → BIRTH OF JESUS; `Vinci` → [VIRGIN?].
+
+**Unclear or supplied:** The See list ends without a full stop; `[VIRGIN?]` is a guess for the cut-off `Vinci`.
 
 ## Full OCR entry body (exact)
 

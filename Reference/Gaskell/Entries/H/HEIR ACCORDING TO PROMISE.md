@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heir-according-to-promise
 headword: "HEIR ACCORDING TO PROMISE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfected Individuality seated in the causal-body, which succeeds the Personality and inherits the "treasures laid up in heaven," becoming "heir of the righteousness which is according to faith," that is, of the transmuted qualities of the lower nature, awaiting recognition upon the buddhic plane, when the consciousness rises to the heaven plane.
+
+> "Everything that your heart has ever longed for or possessed of things holy and blessed is yours now in Christ, part of his unsearchable riches, your eternal inheritance, marked with your name. There is something better for you than (the past), something vaster and grander. Make towards it at once. Delay not a moment. Christ is your way there, the companion of your pilgrimage and the [aim?] of your [efforts?]."—R. J. Campbell, *Serm.*, *Sacred Memories*.
+
+> "This eternal God is of necessity to be the object of our hope. The church in heaven, called the body and temple of God, is to be a habitation for himself when it is finished, to dwell in for ever."—J. Bunyan, *Israel's Hope*.
+
+See FRUIT OF SPIRIT, NALA-KUVERA, TRANSMUTATION, TREASURE, WEALTH.
+
+**Corrections made:** `posseased` → possessed; `Jerael's` → Israel's; `CaMPBELL; rm.` → Campbell, *Serm.*; `Fnurr oF sprit` → FRUIT OF SPIRIT; page heading `HELEN` removed before the See list.
+
+**Unclear or supplied:** `[aim?]` and `[efforts?]`: OCR reads "the al of your eects". The initial of "R. J. Campbell" was damaged (`.`) and restored.
 
 ## Full OCR entry body (exact)
 

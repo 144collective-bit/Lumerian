@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horses-two-bay
 headword: "HORSES, TWO BAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Manuts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `Prery` | **unresolved** (review queue) |
 | `PRAISE OF GOD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of mind and emotion, functioning on the mental plane.
+
+> "They harness to the chariot on each side his (Indra's) two favourite bays, the brown, the bold, who can carry the hero."—*Rig-Veda*, Mand. I. 6, S. B. of E.
+
+To the causal-body (chariot) and the causal-self are attached the functionings of mind and emotion energised by the Self (Indra); and these are to develop the soul.
+
+See CHARIOT, INDRA, MARUTS, [Prery?], PRAISE OF GOD.
+
+**Corrections made:** `S. B. of B.` → S. B. of E.; `Rig- Veda` → *Rig-Veda*; page heading `372 HORUS` removed from mid-sentence; `Manuts` → MARUTS.
+
+**Unclear or supplied:** `MARUTS` read from damaged `Manuts`. `[Prery?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

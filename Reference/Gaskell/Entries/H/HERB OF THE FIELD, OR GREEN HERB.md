@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-herb-of-the-field-or-green-herb
 headword: "HERB OF THE FIELD, OR GREEN HERB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,30 @@ tags:
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `SEEDS OF FOODS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEEDS OF FOODS AND PLANTS|SEEDS OF FOODS AND PLANTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primitive desires and affections which are aroused by the activities of the senses.
+
+> "And no plant of the field was yet in the earth, and no herb of the field had yet sprung up: for the Lord God had not caused it to rain upon the earth, and there was not a man to till the ground."—Gen. ii. 5.
+
+And at this early period of the soul's evolution, no desire had as yet appeared upon the lower plane (earth); and no sign of awakening life had yet thrilled the matter from which unfoldment was to take place. For the Divine Truth-Love had not yet caused the forthcoming of stimulative ideas to proceed from buddhi. And no mental faculty was up to the present actively functioning in the lower nature.
+
+See AGRICULTURE, EARTH, FIELD, GRASS, GREEN, MAN, PLANTS, RAIN, THORNS.
+
+### Also in this note: HERB YIELDING SEED AFTER ITS KIND
+
+Symbolic of the natural laws of growth and increase in the development of the desires, affections, and faculties of the soul.
+
+> "And the earth brought forth grass, herb yielding seed after its kind, and tree bearing fruit, wherein is the seed thereof, after its kind: and God saw that it was good."—Gen. i. 12.
+
+And the physical or natural law of growth was set in operation, and the laws which worked upon the lower planes of being were established and commenced to act. And all was perfect in the period of involution. In other words, there was an awakenment of the divine life in the lower nature (earth) which then brought forth the desires and affections which give rise to higher states. Also there appeared the aspirations which are to bear fruit on higher planes. And all was made perfect in preparation for forthcoming evolution.
+
+See EARTH, FRUIT, GOLDEN AGE, GOOD, GRASS, GREEN, INVOLUTION, PLANTS, SEEDS OF FOODS.
+
+**Corrections made:** `GEn.` → Gen.; `Grn.` → Gen.; `ite kind` → its kind; `Eartu`, `FI£.p`, `EartTuH` etc. restored in See lists; page headings `CRONUS, MUSE, 354` removed from between the second entry's definition and its first quotation.
+
+**Unclear or supplied:** Contains a second entry: HERB YIELDING SEED AFTER ITS KIND. `CRONUS, MUSE` was treated as a running page heading and removed.
 
 ## Full OCR entry body (exact)
 

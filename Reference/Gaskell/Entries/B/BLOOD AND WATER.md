@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blood-and-water
 headword: "BLOOD AND WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CRUCIFIXION OF JESUS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS|CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS]]; [[Reference/Gaskell/Entries/C/CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS|CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Divine Life and Truth.
+
+> "But one (soldier) pierced his side, and forthwith came out blood and water."—John xix. 34.
+
+But an aggressive quality stirred into activity the purified nature of the soul which thereupon yielded life and truth.
+
+> "Blood and water are divine truth, spiritual and natural; and to pierce the Lord's side is to destroy both by falses."—Swedenborg, *Apoc. Rev.*, n. 26.
+
+See CRUCIFIXION OF JESUS.
+
+**Corrections made:** Quotation marks normalised; `JOHN` and `SwEDENBORG` set in ordinary capitalisation.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

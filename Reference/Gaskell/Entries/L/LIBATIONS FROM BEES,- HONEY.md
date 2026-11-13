@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-libations-from-bees-honey
 headword: "LIBATIONS FROM BEES,— HONEY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Brss (libations)` | **unresolved** (review queue) |
 | `Honky` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the free-will offerings, or fruits of industry (bees), which are exacted of the lower self, and have their return in wisdom and love (honey).
+
+See BEES (libations), HONEY.
+
+**Corrections made:** `whic` → which; `an love` → and love; See-list spellings restored (`Brss`, `Honky`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

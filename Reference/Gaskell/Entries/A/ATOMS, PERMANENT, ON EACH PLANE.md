@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atoms-permanent-on-each-plane
 headword: "ATOMS, PERMANENT, ON EACH PLANE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PLANES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
 | `PRANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRANA (BREATH OR LIFE)|PRANA (BREATH OR LIFE)]] |
 | `PROSPERITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Buddhi, mental, astral, and physical, atoms attached to each Individuality as centres of life and form on the several planes.
+
+> "He approaches the couch Amitaugas: that is prâna (breath, speech). The past and the future are its eastern feet. Prosperity and earth its western feet."—*Kaush. Upanishad*, I. 2.
+
+The soul comes to the state which signifies the sense of infinite rest and serenity,—which is comparable to the rhythm of the Great Breath. The "past and the future" symbolise the course which evolution has taken to enable this state of consciousness to be arrived at, and so the Eternal Now is verily realised. "Prosperity and earth" signify the sublimated lower or natural man, through which the Higher Ego has attained its final liberation. Although the lower is "unreality," it has been absorbed into the Self. The germ of this state exists and will persist through eternity; for nothing is ever lost. The state is transformed, but still visible to the Self, though now seen to be of It. There is a permanent atom or centre on each plane, which, when communicated with, will respond to vibrations which answer to the varied aspects of the Self.
+
+See AMITAUGAS, GOLD-COLOURED SPOT, PLANES, PRANA, PROSPERITY.
+
+**Corrections made:** Page heading `Fuarrivez, Soun ATONEMENT` removed from mid-sentence; `phystcal` → physical; `sag` → past; `prina` → prâna; `ite` → its; `Jost` → lost; `espects` → aspects; See-list spellings restored (`spoT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

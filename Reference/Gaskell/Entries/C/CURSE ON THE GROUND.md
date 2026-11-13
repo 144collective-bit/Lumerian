@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-curse-on-the-ground
 headword: "CURSE ON THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `HeEEt` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of limitation of the activities of the lower nature by moral law, through suffering.
+
+> "Because thou (Adam) hast [hearkened] unto the voice of thy wife, and eaten of the tree, of which I [commanded] thee saying, Thou shalt not eat of it: cursed is the ground for thy sake; in toil shalt thou eat of it all the days of thy life."—Gen. iii. 17.
+
+And to the mind (Adam) the conscience directs that, since the emotion-nature (wife) has been apparently led astray, and the moral nature (tree) has been acquired, the lower nature shall become abhorrent, stage by stage, and it shall be a burden so long as evolution upon the lower planes
+
+> "By the 'man hearkening to the voice of his wife' is signified the consenting of the 'man' or 'rational principle'; and whereas the rational consented, it also averted or cursed itself, and on that account the whole external man was averted (from celestial life), which is signified by the 'ground being cursed for thy sake'; to 'eat thereof in great sorrow,' signifies that the state of his life would become miserable; and that this state would continue to the end of that Church."—Swedenborg, *Arc. Cel.* to Gen. iii. 17.
+
+See ADAM (lower), EDEN, EVE, FALL, GROUND, HEEL, SERPENT (subtil), TREE OF KNOWLEDGE.
+
+**Corrections made:** `ee unto` → [hearkened] unto; `eae thee` → [commanded] thee; `emotionnature` → emotion-nature; page heading `CURSE` removed from mid-sentence; `SwEDENBORG` capitalisation; See-list spellings restored (`Apam`, `FAut`, `GrounD`, `HeEEt`).
+
+**Unclear or supplied:** `[hearkened]` and `[commanded]` are supplied for damaged words. The Gaskell commentary breaks off after "lower planes" (the OCR drops the rest where the page heading `CURSE` fell); the text is set out as it stands.
 
 ## Full OCR entry body (exact)
 

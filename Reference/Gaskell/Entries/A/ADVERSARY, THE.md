@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adversary-the
 headword: "ADVERSARY, THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `DEviL` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVIL, THE ADVERSARY|DEVIL, THE ADVERSARY]] |
 | `Jos` | **unresolved** (review queue) |
 | `SATAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATAN|SATAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The desire-mind which strives against the Divine nature within the soul.
+
+> "Your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: whom withstand steadfast in your faith."—1 Peter v. 8-9.
+
+The desire-mind, motived by the strength of the desires and the senses, seeks to dominate the soul. But the soul is exhorted to resist by relying upon its higher nature.
+
+See AESHMA, AHRIMAN, ANTICHRIST, COUNTERFEIT, DEVIL, JOB, SATAN.
+
+**Corrections made:** `1l Peter` → 1 Peter; See-list spellings restored (`CouNnTERFEIT`, `DEviL`, `Jos`); `AESHM` → AESHMA.
+
+**Unclear or supplied:** `AESHMA` is a likely completion of the OCR `AESHM`.
 
 ## Full OCR entry body (exact)
 

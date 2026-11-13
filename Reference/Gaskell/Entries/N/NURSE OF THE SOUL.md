@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nurse-of-the-soul
 headword: "NURSE OF THE SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `InvoLuTion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `LIon-cop` | **unresolved** (review queue) |
 | `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the process by which the Divine Ego, or inner Self, is given the means of sustenance, growth, and manifestation, namely, that of Involution followed by Evolution.
+
+> "The god Akau (Anubis) transporteth me to the chamber (?), and my nurse is the divine double Lion-god himself. I am made strong and I come forth like him that forceth a way through the gate, and the radiance which my heart hath made is enduring."—Budge, *Book of the Dead*, Ch. LXIV.
+
+The soul's experience in the physical body (Anubis) is reflected in the causal-body; and the process of involution and evolution (double Lion-god) sustains and promotes the soul's development. By this process the indwelling Self is made strong so that it may rise to the higher mind, the "gate of heaven," and entering in may find the wisdom and love which renders the soul immortal.
+
+> "For matter hath the function of mother and nurse, as Plato says, and containeth the elements from which everything is produced."—Plutarch, *Symposiacs*, II. qu. 3.
+
+Matter brings forth in evolution what before it received in involution.
+
+> "Having heard this address of Asita, the King with his steps bewildered with joy, took the prince, who lay on his nurse's side, and showed him to the holy ascetic."—*Buddha-Karita*, Bk. I. 64.
+
+The aspiration of the primordial Lower Self (Asita) having penetrated to the Higher Self (causal Self), whose nature is now awakened under the aspects of joy or faith, the Higher seizes the Reality of the Self in process of involution (nurse) and cherishes it. And now the Self is shown forth to the lower nature, i.e. nature weaned from attraction to objects of sense.
+
+See ANUBIS, ASITA, ARC. MAN, BUDDHA, EVOLUTION, GATE, HEART, INVOLUTION, LION-GOD, NIGHT.
+
+**Corrections made:** `(7)` → (?); `BupakE` → Budge; `Liongod` → Lion-god; `PLuranrcs, Sympostacs` → Plutarch, Symposiacs; `addrees` → address; `Joy` → joy; page heading `542 NOT` removed from mid-sentence; See-list spellings restored (`AnuBIS`, `BuppuHa`, `Evo.urion`, `LIon-cop`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

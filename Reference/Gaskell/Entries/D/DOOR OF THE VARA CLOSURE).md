@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-door-of-the-vara-closure
 headword: "DOOR OF THE VARA CLOSURE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,18 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WINDOW OF ARK` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the point where the lower Self is united with the Higher Self; or the aperture towards the Divine in the higher mind, contacting the lower mind above the quaternary (vara). (See Vendidad.)
+
+> "At the apex of your spirit there is a little door, so high up that only by hard climbing can you reach it. There the Object of your craving stands and knocks; thence came those persistent messages—faint echoes from the Truth eternally hammering at your gates—which disturbed the comfortable life of sense. Come up then by this pathway to those higher levels of reality to which, in virtue of the eternal spark in you, you belong."—E. Underhill, *Mysticism*, p. 50.
+
+See BRAHMARANDHRAM, HAIR OF HEAD, QUATERNARY, VARA, WINDOW OF ARK.
+
+**Corrections made:** `Mystictsm` → Mysticism; `p-. 50` → p. 50; `UNDERHILL` → Underhill; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

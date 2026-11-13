@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lanets-five-greater
 headword: "LANETS, FIVE GREATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,22 @@ tags:
 | `Cistrya` | **unresolved** (review queue) |
 | `VENUs` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 | `WEST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEST QUARTER|WEST QUARTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of mental centres of functionings in the soul, which have each their special form of activity.
+
+> "The planet Tistrya (Jupiter) presides over the division of troops in the East, and is named Prince of the stars. Sitivisa (Saturn) [presides?] over the Western division; Vanant (Mercury) over that of the South, and Hapto-iringa (Mars) over the star troops of the North. In the middle of the heavens is the great planet Mesch (Venus), he leads the troops against Ahriman."—*Zoroastrian System*.
+
+The planet Jupiter is a symbol of the Self in its directive function on the higher mental plane. It leads and governs evolution from the buddhic plane, as the positive function of Buddhi. Saturn corresponds to the function which limits and defines, and determines the cyclic periods in the decline or decay of things. Mercury, on the other hand, signifies the function of activity, growth, expansion, and gives impetus and momentum. Mars signifies power, force, resistance, and will. Venus is the symbol of the astral love-energy, which being related with the buddhic principle urges the stream of the evolving life to pour itself forth in the forms which are prepared to await its reception; and so leads the advance towards perfection.
+
+> "Mercury is the lord of education and science: we owe to him our knowledge, which comprises bad and good. . . . The Moon causes man's body to grow and Mercury forms his mind. Then he comes under the sway of Venus. The Sun gives him family riches or dominion; Mars bravery and noble-mindedness. Thereupon, under the guidance of Jupiter, he prepares, by means of religious exercises, for the journey to the world beyond, and he attains rest under the influence of Saturn" (From the Basra Encyclopedia).—De Boer, *Phil. in Islam*, p. 88.
+
+See AHRIMAN, BUDDHI, CITY, EAST, HERMES, JUPITER, MARS, MERCURY, MESCH, NORTH, SATURN, STARS (fixed), TISTRYA, VENUS, WEST.
+
+**Corrections made:** Many words in the OCR lose their first letter (`entres`, `vhich`, `ver`, `nd`, `ivision`, `unction`, `expanion`, `momenum`, `esistence`, `ymbol`, `winciple`, `xercises`, `yeyond` and similar) and are restored; `3Jaturn)` → (Saturn); `limite` → limits; `doon` → Moon; `dercury` → Mercury; `aad` → and; `Baera Uncyclopedia` → Basra Encyclopedia; `Wesco` → MESCH; `Cistrya` → TISTRYA.
+
+**Unclear or supplied:** `[presides?]` for OCR `po` after "(Saturn)". The headword in the OCR begins "LANETS" (lost first letter); the See-list readings `MESCH` and `Basra` are inferred from the text.
 
 ## Full OCR entry body (exact)
 

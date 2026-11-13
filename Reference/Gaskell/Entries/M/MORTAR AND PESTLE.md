@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mortar-and-pestle
 headword: "MORTAR AND PESTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Foop` | **unresolved** (review queue) |
 | `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `Woop (holy)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the critical intellect; that which pounds up "food" or "meat," knowledge, that truth may be assimilated.
+
+> "Now the mortar and pestle mean all kinds of food; for by the mortar and pestle food is prepared, and by means of them it is eaten." "The mortar is the birth-place of all breaths. . . . The mortar is the air, and everything that is above this earth is air; and the air is the middle."—*Sata. Brâh.*, VII. 5. 1, 12, 22-6.
+
+The mind (air) plane is the middle plane between the higher and lower natures. From the mind come all interpretations (breaths) of Spirit and matter, life and form.
+
+See AIR, BREATH, EARTH, FIRMAMENT, FOOD, MEAT, WOOD (holy).
+
+**Corrections made:** `Bréh.` → Brâh.; `Vil.` → VII.; `Arn` → AIR; `Foop` → FOOD; `Meat` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

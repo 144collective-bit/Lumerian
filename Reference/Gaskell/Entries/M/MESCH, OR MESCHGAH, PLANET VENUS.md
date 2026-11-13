@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mesch-or-meschgah-planet-venus
 headword: "MESCH, OR MESCHGAH, PLANET VENUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of astral love which, being a quality of attraction related with the buddhic, urges the life of nature to pour itself forth in the forms which are prepared and await
+
+**Corrections made:** `iteelf` → itself.
+
+**Unclear or supplied:** The OCR breaks off mid-sentence after "await".
 
 ## Full OCR entry body (exact)
 

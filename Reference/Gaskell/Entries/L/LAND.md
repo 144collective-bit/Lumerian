@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-land
 headword: "LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VAISYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the arena of life and experience on the different planes of manifestation.
+
+> "Land wherein are cultivated most corn, grass and fruit, and where there is most irrigation and good drainage."—*Vendidad*, III, *S.B. of E.*
+
+The buddhic plane whereon are reaped the "fruit of the Spirit" which are the higher faculties of Wisdom and Love. These products of goodness and knowledge are the transmuted produce of experience and the disciplining of the qualities by Truth (water).
+
+See CORN, EXPERIENCE, FIELD, FRUIT, INITIATION, KARMA, KNOWER OF FIELD, SEKHET-HETEP, TRANSMUTATION, VAISYA.
+
+**Corrections made:** `IlI` → III; page heading `LANDMARKS` removed from mid-quotation; See-list spellings restored (`EXperiENCE`, `Inrniaation`, `KNOwEB`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

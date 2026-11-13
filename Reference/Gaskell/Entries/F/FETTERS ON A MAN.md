@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fetters-on-a-man
 headword: "FETTERS ON A MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `ATTACHMENT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE|ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE]] |
 | `Virat AIRS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of attachment of the mind to the lower affections and desires, causing sorrows, troubles, and tribulations, and binding the soul to matter.
+
+> "Let, therefore, no man love any thing; loss of the beloved is evil. Those who love nothing, and hate nothing, have no fetters."—*Dhammapada*, X.
+
+> "The (living Self) not being a lord, is bound, because he has to enjoy (the fruits of works); but when he has known God, he is freed from all fetters."—*Svetas. Upanishad*, I. 8.
+
+See ATTACHMENT, VITAL AIRS.
+
+**Corrections made:** page heading `FETTERS` removed from mid-sentence; `aie re` → [nothing, have]; `Svetas` → Svetas.; `Virat AIRS` → VITAL AIRS.
+
+**Unclear or supplied:** `[nothing, have]` reconstructs OCR `aie re` in "hate aie re no fetters" ("hate nothing, have no fetters"); the reconstruction is a best reading.
 
 ## Full OCR entry body (exact)
 

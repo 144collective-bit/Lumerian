@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fire-elemental-branes
 headword: "FIRE, ELEMENTAL BRANES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MONADS OF FORM` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of elemental formative energy enclosed by the forms which are builded of astral or etheric matter to encase the monads of life.
+
+See MONADS OF FORM.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** Headword `BRANES` is printed in the headword line as given; left unchanged.
 
 ## Full OCR entry body (exact)
 

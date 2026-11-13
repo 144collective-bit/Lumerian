@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crowd-of-people
 headword: "CROWD OF PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Mrracies` | **unresolved** (review queue) |
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 | `ZACCHEUS.` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZACCHEUS, A CHIEF PUBLICAN|ZACCHEUS, A CHIEF PUBLICAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a discordant concourse of lower mental qualities in the soul.
+
+> "But when the crowd was put forth, he (Jesus) entered in, and took her by the hand; and the damsel arose."—Mar. ix. 25.
+
+When the jarring and self-seeking qualities of the lower mind were put forth or subdued, the Christ-soul was able to enter in and exercise his power in awakening a slumbering affection and putting it to active use in the soul.
+
+> "So the crowd is cast forth without, in order that the damsel may be raised up; because if the importunate throng of worldly cares be not first expelled from the inner recesses of the heart, the soul, which lies dead in the interior, cannot rise up. For whilst it lets itself loose amongst the countless imaginings of earthly desires, it never in any degree gathers itself up to the consideration of self."—St. Gregory, *Morals on the Book of Job*, Vol. II. p. 370.
+
+> "When the scornful deriders have been rejected, Christ enters into the minds of the elect."—*Glossary*.
+
+See HAND, HEALING, JESUS (dead), MIRACLES, STRIFE, ZACCHEUS.
+
+**Corrections made:** `Sr. Grecory` → St. Gregory; `GLossaRy` → Glossary; See-list spellings restored (`Hanp`, `HEAaLInG`, `Mrracies`); the OCR order `HEAaLInG, (dead) JESus` is set as `HEALING, JESUS (dead)`; trailing `.,` → `.`.
+
+**Unclear or supplied:** Scripture reference `Mar. ix. 25` left as printed.
 
 ## Full OCR entry body (exact)
 

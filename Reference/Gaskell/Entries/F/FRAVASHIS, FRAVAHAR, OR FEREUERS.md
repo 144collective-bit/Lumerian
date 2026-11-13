@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fravashis-fravahar-or-fereuers
 headword: "FRAVASHIS, FRAVAHAR, OR FEREUERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,20 @@ tags:
 | `Sons OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `Sparks` | **unresolved** (review queue) |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are the monads of life and form which become linked in the forms or bodies containing them; the monads of life being born into the forms prepared to receive them.
+
+> "Ormazd began the creation by bringing forth the Fravashis. Everything which has been created, or which is to be created, has its Fravashi, which contains the reason and basis of its existence."—*Zoroastrian System*.
+
+The Divine Will commences the task of creation by brooding over the Monad which is within all separate existences. For every single existent entity has its purpose and use, its intelligence or ideal mental character, and its form, or ideal astral character, to entitle it to its separate identity. The monads of life and form have many names in the different sacred scriptures of the world. They represent the inner intelligent forces of which the outer qualities and forms are the expression on the lower planes. They are the ideal prototypes on the higher planes.
+
+See AGNISHWATTAS, BODHISATVAS, CREATION, GARODMAN, GLORY, GUARDIAN SPIRITS, HIGHER AND LOWER WORLDS, HOM, INCARNATION, MANASAPUTRAS, MARUTS, MITHRAS, MONAD (life, form), MUSPELL (sons), PACCEKA-BUDDHAS, PITRIS (solar, lunar), PROTOTYPES, SONS OF GOD, SPARKS, SPERMATIC WORDS.
+
+**Corrections made:** `ite` → its; page heading `FRAZISHTO` removed from the middle of the See list; See-list spellings restored (`GLoRy`, `ManasapuTras`, `Marurs`, `MIrHRAS`, `Prrnis`, `Prototypes`, `Sparks`, etc.); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

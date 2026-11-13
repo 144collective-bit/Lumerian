@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kypris-perfect-harbours-of
 headword: "KYPRIS, PERFECT HARBOURS OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Cince` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CIRCE, DAUGHTER OF HELIOS|CIRCE, DAUGHTER OF HELIOS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of perfection of qualities arrived at on the buddhic plane.
+
+See CIRCE.
+
+**Corrections made:** `Cince` → CIRCE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

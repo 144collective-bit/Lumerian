@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cattle-cows-or-kine
 headword: "CATTLE, COWS, OR KINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,28 @@ tags:
 | `YIMA. CATTLE FREE FROM DEATH -— A symbol of those high emotions that persist through time` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `having in them the Divine life of atma-buddhi. See DEATH` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `YMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotions active in the mind.
+
+> "Agni (born from the womb of earth or sky) is favorable to cattle. . . . Agni is yonder sun."—*Sata. Brâh.*, VI. 4, 1, 3-10.
+
+> "[word unclear] Cattle is food,"—*Ibid.*, V. 2, 1, 16.
+
+The Self (Agni) brought forth of the purified lower nature, or of buddhi (sky), is in harmony with the buddhic emotions. "Agni" is a symbol of the Higher Self. The love of goodness, truth, right, justice, etc. is the soul's nourishment.
+
+See ABODE, BEASTS (clean), FOOD, KARSHVARES, SUN, YIMA.
+
+### Also in this note: CATTLE FREE FROM DEATH
+
+A symbol of those high emotions that persist through time, having in them the Divine life of atma-buddhi.
+
+See DEATH, YMA.
+
+**Corrections made:** `Bréh.` → Brâh.; `Zbid.` → Ibid.; `Beasts`, `Foon` restored; second headword `CATTLE FREE FROM DEATH -—` set under its own heading; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: CATTLE FREE FROM DEATH. `[word unclear]` marks OCR `we` before `Cattle is food`; the reference `V 2,1, 16` is set as V. 2, 1, 16.
 
 ## Full OCR entry body (exact)
 

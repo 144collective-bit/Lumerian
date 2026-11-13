@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-out787-vehicles-veda-or-sastra
 headword: "OUT787 VEHICLES VEDA, OR SASTRA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,26 @@ tags:
 | `VISCERA` | **unresolved** (review queue) |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WORD OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "Word of God," which is the direct utterance of the Supreme within the soul. It is the Divine law of true life on the higher planes, as revealed in the sacred scriptures of all nations, symbolically interpreted.
+
+> "Of him who gives natural birth and him who gives the knowledge of the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda ensures eternal rewards both in this life and after death."—*Laws of Manu*, II. 146. S. B. of E.
+
+Of the mind which gives birth to the ego in the natural order, and the Spirit which gives knowledge of the true life of the soul, the Spirit is the most to be extolled; for the birth of the ego to the life of the Spirit ensures immortality and the spiritual fruits of experience and effort.
+
+> "Studying the Veda, practising austerities, the acquisition of true knowledge, the subjugation of the organs, abstention from doing injury, and serving the Guru are the best means for attaining supreme bliss."—*Ibid.*, XII. 83.
+
+Striving to conform to the Divine law, restraining the outgoing activities, seeking truth, subduing the desires and passions, refraining from direct and indirect injury to others, and serving the Divine self, are the true means for attaining blissful heights.
+
+> "If you ask whether among all these virtuous actions, performed here below, there be one which has been declared more efficacious than the rest for securing supreme happiness for man; the answer is that the knowledge of the Soul (the Self) is stated to be the most excellent among all of them; for that is the first of all sciences, because immortality is gained through that."—*Ibid.*, 84, 85.
+
+See AMBAYAVIS, AUSTERITIES, BIRTH (second), BOAR (avatar), GOSPEL, GURU, INSPIRATION, KORAN, PAPYRUS, PEN, REGENERATION, REVELATION, SACRED TEXT, SASTRA, SCRIPTURES, SELF, SIGN, SOMA, SOUL, [Uperrna?], UPANISHAD, UR-HEKAN, VAISYA, VASISHTHA, VISCERA, VITAL AIRS, WORD OF GOD.
+
+**Corrections made:** `Laows` → Laws; `Jbid.` → Ibid.; `84, 865` → 84, 85; See-list spellings restored (`Boar`, `KoRAN`, `Sout`, `VaISYA`, `Soma`); quotation marks normalised.
+
+**Unclear or supplied:** The headword `OUT787 VEHICLES` is garbled in the OCR and left as printed. `84, 85` is a guess from OCR `84, 865`. See-list item `[Uperrna?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

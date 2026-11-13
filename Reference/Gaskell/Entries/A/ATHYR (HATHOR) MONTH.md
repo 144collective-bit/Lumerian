@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-athyr-hathor-month
 headword: "ATHYR (HATHOR) MONTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Hatuor` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HATHOR, COW AND MOON GODDESS|HATHOR, COW AND MOON GODDESS]] |
 | `Scorpio` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the period at the commencement of evolution, when there is liberation of the life from the form—a rising from the dead.
+
+See HATHOR, SCORPIO.
+
+**Corrections made:** `Hatuor` → HATHOR; `Scorpio` → SCORPIO.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

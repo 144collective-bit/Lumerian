@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amycus-king-of-bebrycia
 headword: "AMYCUS, KING OF BEBRYCIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `BEBRycia` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BEBRYCIA|BEBRYCIA]] |
 | `DIOSCURI` | **unresolved** (review queue) |
 | `PoLLux` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLLUX OR POLYDEUKES|POLLUX OR POLYDEUKES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the illusion of self-dependence and trust in the Higher as if separate from the ego.
+
+> "The Argo next touched at Bebrycia, where Amycus reigned. Every stranger who arrived in this country was forced by Amycus to engage him at the cestus. [He] therefore challenged the Argonauts, and Polydeukes engaged and [word unclear] him."—[author unclear] *Argonautic Expedit[ion]*.
+
+The soul arrived at a state of confidence, and here it is that trust in the Higher and self-dependence are both enthroned. Having arrived at this state, all the qualities were forced to test their power to rise higher. The encounter resulted in the Son of God overcoming the illusion of self in the forms mentioned. (Argonauts).
+
+See ARGO, BEBRYCIA, DIOSCURI, POLLUX.
+
+**Corrections made:** `selfdependence` → self-dependence; `stats` → state; `Anco` → ARGO; `BEBRycia`, `PoLLux` See-list spellings restored; `Expedt` → Expedit[ion].
+
+**Unclear or supplied:** `[He]` supplied: the OCR reads "at the cestus. therefore challenged". `[word unclear]` replaces OCR `ae`. `[author unclear]` stands for OCR `stton.`; `[ion]` completes a truncated title.
 
 ## Full OCR entry body (exact)
 

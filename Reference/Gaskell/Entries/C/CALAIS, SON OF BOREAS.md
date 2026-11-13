@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-calais-son-of-boreas
 headword: "CALAIS, SON OF BOREAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Boreas` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
 | `Harpies` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the will proceeding from the higher mind, and controlling the sense-nature and the desires.
+
+See BOREAS, HARPIES,
+
+**Corrections made:** `Boreas, Harpies` → BOREAS, HARPIES.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR; later items may be lost.
 
 ## Full OCR entry body (exact)
 

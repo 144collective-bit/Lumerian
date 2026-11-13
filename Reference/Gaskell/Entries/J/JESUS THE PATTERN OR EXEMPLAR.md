@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jesus-the-pattern-or-exemplar
 headword: "JESUS THE PATTERN OR EXEMPLAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+> "The whole course of the typical life of the Pattern Man (Jesus) is emblematic of the progressive development of the Life begun on earth, completed in Heaven; born of self-denial, and culminating in spiritual ascension. In the Christ-life, as in a story, man may read the tale of the progress of Spirit from incarnation to enfranchisement."
+
+> "The life of the Man Christ Jesus was a symbolic representation of the [progress?] of Spirit."—Wm. Stainton Moses, *Spirit Teachings*, pp. 256, 259.
+
+**Corrections made:** `Wws. Starnton Moses` → Wm. Stainton Moses; `p of Spirit` → [progress?] of Spirit; stray quotation marks normalised.
+
+**Unclear or supplied:** `[progress?]`: OCR reads "the p of Spirit" (word truncated). The first quotation has no attribution of its own in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dhruva-as-the-trunk-body-of-the-sacrificial-man
 headword: "DHRUVA, AS THE TRUNK (BODY) OF THE SACRIFICIAL MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SRcuva` | **unresolved** (review queue) |
 | `UPaBHRIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UPABHRIT SPOON|UPABHRIT SPOON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature having as appendages or limbs the soul-qualities which are to be outspread as evolution proceeds.
+
+> "That guhu (spoon) further is to him no other than yonder sky, and the upabhrit this atmosphere, and the dhruva this same earth. Now it is from this earth that all the worlds originate; and from the dhruva, [thence?] the whole sacrifice proceeds."—*Sata*[word unclear]
+
+The causal-body (guhu) is the vehicle of buddhi (sky), and the mental-body (upabhrit) of the higher mind (air). The lower nature (earth) is the arena of the soul's activities, and it is through these activities that the ego becomes conscious upon all the planes. From the lower nature, therefore, the whole sacrifice of the lower for the higher proceeds. That is, the Divine Spark or Ego, having through its descent into matter, become strongly attached to the lower nature, it is only by the offering up of that nature, quality by quality, through suffering and effort, that the ego can finally liberate itself from the fetters which hold it captive to the lower planes of illusion (the worlds).
+
+See ALTAR (fire), APPENDAGES, ARC. MAN, ARENA, BODY OF OSIRIS, EARTH, FETTERS, GUHU, [LIMBS?], MEMBERS, SACRIFICE, SACRIFICER, SRUVA, UPABHRIT.
+
+**Corrections made:** `soulqualities` → soul-qualities; page heading `218 DIONYSUS` removed from mid-sentence; See-list spellings restored (`EarrTH`, `FrrTers`, `GuHvu`, `SRcuva`, `UPaBHRIT`); and similar minor fixes.
+
+**Unclear or supplied:** `[thence?]` stands for OCR `there. a`. The attribution breaks off after `Sata,`; marked `[word unclear]`. See-list item OCR `[iuwss` is given as `[LIMBS?]`.
 
 ## Full OCR entry body (exact)
 

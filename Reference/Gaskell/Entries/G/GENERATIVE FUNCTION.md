@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-generative-function
 headword: "GENERATIVE FUNCTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
 | `SEXUAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEXUAL UNION|SEXUAL UNION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol expresses the interactive spirit-matter creative, or multiplying function in nature, by means of which the consciousness evolves in the transitory forms.
+
+> "In memory of this event (of the birth of Osiris) the Pamylia were afterwards instituted, a festival much resembling the Phalliphoria, or Priapeia, of the Greeks."
+
+In regard to the genetic power of the indwelling Self in the soul, the generative function (Pamylia) is made the symbol of the spiritual-material creative function producing forms, by means of which forms the growth of consciousness is rendered possible.
+
+See CHILDREN, [MITHRAS?], MULTIPLY, PHALLIPHORIA, SEXUAL.
+
+**Corrections made:** `Miruras` → bracketed in the See list; quotation marks normalised.
+
+**Unclear or supplied:** `[MITHRAS?]`: OCR reads `Miruras`, a damaged See-list item. The quotation carries no attribution in the OCR.
 
 ## Full OCR entry body (exact)
 

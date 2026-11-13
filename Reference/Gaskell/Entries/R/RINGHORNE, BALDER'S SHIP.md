@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ringhorne-balder-s-ship
 headword: "RINGHORNE, BALDER'S SHIP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `DEATH OF BALDER` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF BALDER|DEATH OF BALDER]] |
 | `Nanna` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral vehicle at an early stage.
+
+> "The Asar (gods) took up the body of Balder and carried it to the sea, where lay Balder's ship, which was called 'Ringhorne,' and which was the largest of all ships."—*The Story of Balder*, *Prose Edda*, Howitt, *Literature*, etc.
+
+And now the Higher Self under its threefold aspect raises the lower consciousness to the higher sub-planes of the astral plane, whereon were now established such means as would enable centres to be established for its completer expression and functioning. The "ship" is the desire-body, or astral-body, of greatest importance in the lower evolution.
+
+See ASAR, BALDER, CHEMMIS, DEATH OF BALDER, NANNA, SEA.
+
+**Corrections made:** `Howrrt` → Howitt; `Sclf` → Self; `Nanna` → NANNA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

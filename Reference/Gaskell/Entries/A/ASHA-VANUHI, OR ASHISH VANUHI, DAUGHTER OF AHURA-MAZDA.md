@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-asha-vanuhi-or-ashish-vanuhi-daughter-of-ahura-mazd
 headword: "ASHA-VANUHI, OR ASHISH VANUHI, DAUGHTER OF AHURA-MAZDA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `SRosH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
 | `Wispom` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, the principle of buddhi, an emanation of the Supreme.
+
+> "Let the water fall here for the destruction of the Daevas and devis. May the good Sraosha slay them! May Asha-vanuhi take up her abode here! May Asha-vanuhi grant happiness here, in this sacred abode of Homa, the transmitter of righteousness."—*Homa Yasht*.
+
+Let the truth of the Supreme be the means of dispelling the misconceptions and illusions which have been formed by attachment to the opinions and desires of the lower mind or desire nature. May the Divine power (Sraosha) be the means of annihilating the unreal! May Wisdom now come into her birthright! May Wisdom be the means of securing the bliss which is to flourish in the kingdom of Love, the dispenser of Righteousness!
+
+> "Ashish vanuhi makes the wisdom of all the prophets continue, and inspires them in their turn with the original wisdom."—M. Haug, *Essays on Rel. of Parsis*, p. 215.
+
+See BUDDHI, DAEVAS, HOMA, SRAOSHA, WISDOM.
+
+**Corrections made:** Page heading `73 ASHES` removed from mid-sentence; the displaced words `fall here for the` returned to the quotation after `Let the water`; `vas` → Daevas; `Hava` → Haug; See-list spellings restored (`Buput`, `Darvas`, `SRosH`, `Wispom`); quotation marks normalised.
+
+**Unclear or supplied:** `Daevas` is a reading of OCR `vas` (the first letters are lost). The displaced `fall here for the` is placed by sense.
 
 ## Full OCR entry body (exact)
 

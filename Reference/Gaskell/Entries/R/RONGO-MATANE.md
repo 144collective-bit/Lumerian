@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rongo-matane
 headword: "RONGO-MATANE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `TAWHIRIMATEA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `TUMATAUENGA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, buddhi.
+
+> "But at length their plans having been agreed on, lo! Rongo-matane, the God and father of the cultivated food of man, rises up, that he may rend apart the Heavens and the Earth; he struggles, but rends them not apart."—G. Grey, *Polynesian Mythology*, p. 3.
+
+At length, the conditions being complete, Wisdom, the active principle in the transmutation of desires and ideas into higher emotions and true knowledge,—the results of self-discipline,—which nourish the soul, is said to strive for expression by separation of Spirit and matter now together involved; but fails because it possesses no opposing force to Love, which binds.
+
+See COCOA-NUT, HAUMIA, HEAVEN AND EARTH, RANGI, SEPARATION, TANEMAHUTA, TAWHIRIMATEA, TUMATAUENGA.
+
+**Corrections made:** `Polynestan` → Polynesian; See-list spellings restored (`Haumra`, `RanGi`, `Heaven AND EARTH`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

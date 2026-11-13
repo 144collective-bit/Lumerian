@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ashemogha-the-ungodly
 headword: "ASHEMOGHA, THE UNGODLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `ILLUSION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ILLUSION|ILLUSION]] |
 | `MraT` | **unresolved** (review queue) |
 | `TYRANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TYRANT, WICKED|TYRANT, WICKED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of ignorance and prejudice which retard mental growth, and obstruct knowledge.
+
+> "A man filled with the spirit, can strive against the [wicked?] tyrant and [word unclear] him [word unclear] the [word unclear]; it is this man that can strive again[st] [word unclear] Ashemogha who does not eat."—[*Vendi*]*dad*, IV. 8. [S.] B. of E.
+
+The mind that assimilates knowledge and truth, is able to withstand the pretensions of illusion (tyrant), and overcome it in its most subtle forms, such as pride. The ego thus equipped, can strive against ignorance and prejudice which do not allow of intellectual development. "Not eating" signifies not incorporating knowledge (meat).
+
+See ARROW (self-moving), EATING, ILLUSION, MEAT, TYRANT.
+
+**Corrections made:** `dad, IV. 8. B. of E.` → [Vendi]dad, IV. 8. [S.] B. of E.; `again ©` → again[st]; `Arrow`, `Eatine`, `MraT` restored; `® signifies` → "signifies.
+
+**Unclear or supplied:** The quotation is badly damaged in the OCR (`wic tyrant and oe him = the anges it is this man that can strive again © as Af Ashemogha`); `[wicked?]` and four `[word unclear]` mark what could not be read. `[Vendi]` and `[S.]` are supplied from the reference.
 
 ## Full OCR entry body (exact)
 

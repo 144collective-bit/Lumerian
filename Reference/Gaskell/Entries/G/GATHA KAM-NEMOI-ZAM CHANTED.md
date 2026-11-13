@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gatha-kam-nemoi-zam-chanted
 headword: "GATHA KAM-NEMOI-ZAM CHANTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `RE-INCAENATION` | **unresolved** (review queue) |
 | `Svarnca` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the giving attention to lower desires, affections, and attractions, when such habits of thought bring only dissatisfaction and regret.
+
+> "Zarathustra asked Ahuramazda, ... 'When the wicked man dies where dwells his soul that night?' Then said Ahuramazda, ... In the vicinity of the head it runs about, chanting the Gatha Kam-nemoi-zam, saying,—'To what land shall I turn?' That night the soul experiences as much of discomfort as all that which it had as a living existence."—*Hadokht Nask*, Haug, *Essays*, p. 222.
+
+The "wicked man" is the lower mind attached to its desires, instincts and appetites; it is the expression of the soul upon the astral plane. When the soul vacates the physical body, into what state does it pass in the first instance? The answer is, that on the astral plane the soul lingers for a period with no fixed place of abode, yet tending to the higher mental plane (the head). But being attached to desire, it is totally without aim or purpose before it; it has no anchorage, and in despair reaps the results of its shortsighted behaviour in the past life. The consciousness is detained for a protracted period in the lowest mental sub-plane (the first night), and experiences the sorrow which is inevitable during the purgatorial process which must ensue from not realising the value of the opportunities for progress which it has had here below.
+
+See AHURA-MAZDA, ASTRAL PLANE, HAND OF BEAST, HARLOT, MAN (bad), NIGHTS (three), PURGATORY, RE-INCARNATION, [SVARGA?],
+
+**Corrections made:** `Ahuramagda` → Ahuramazda; `Hava` → Haug; `paat` → past; See-list spellings restored (`Man`, `Nieuts`, `RE-INCAENATION`); quotation marks normalised.
+
+**Unclear or supplied:** `[SVARGA?]`: OCR reads `Svarnca,` and the See list ends there with a trailing comma (probably cut off).
 
 ## Full OCR entry body (exact)
 

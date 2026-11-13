@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nala-kuvera-son-of-the-lord-of-wealth-kuvera
 headword: "NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `KvVERA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KUVERA, THE LORD WEALTH|KUVERA, THE LORD WEALTH]] |
 | `POVERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol signifying the recipient of his heritage; that is, the Soul as the inheritor of the riches of the potential Higher Self.
+
+> "When the body perisheth, whose shall be its wealth? Without the Guru how shall God's name be obtained? God's name is wealth, which accompanieth and assisteth us."—Macauliffe, *The Sikh Religion*, Vol. I. p. 315.
+
+See HEIR, HUSBAND (good), KUVERA, POVERTY, WEALTH.
+
+**Corrections made:** `risheth` → perisheth; `ithout` → Without; `Stkh` → Sikh; `MAcAULIFFE` → Macauliffe; See-list spellings restored (`Hem` → HEIR, `Husspanp`, `KvVERA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

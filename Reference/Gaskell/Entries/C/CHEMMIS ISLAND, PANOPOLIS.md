@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chemmis-island-panopolis
 headword: "CHEMMIS ISLAND, PANOPOLIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Manco` | **unresolved** (review queue) |
 | `Onocorosma` | **unresolved** (review queue) |
 | `Rinea` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a centre of activity established in the astral vehicle.
+
+> "The Egyptians say that in this island (called Chemmis), Latona, who was one of the eight primary deities, dwelling in Buto, ... received Apollo as a deposit from the hands of Isis, and saved him by concealing him in this, which is now called the floating island, when Typhon arrived, searching everywhere, and hoping to find the son of Osiris."—Herodotus, *Euterpe*, II. 158.
+
+The higher-emotion nature (Latona) working within the lower emotions of the astro-mental plane (Buto), received the inborn Self (Apollo-Horus) as proceeding from Wisdom (Isis) the Divine Mother, and attached the Self to an astral centre (Chemmis) which now established a fixed connection between the mortal personality and the immortal individuality in a permanent astral atom. Then the lower principle (Typhon-Set) sought for the young child, the Son of God, to destroy him.
+
+See BIRTH OF HORUS, BUTO, DELOS, IZANAGI, [Manco?], [Onocorosma?], [Rinea?]
+
+**Corrections made:** `HErRroporvus` → Herodotus; See-list spellings restored (`BrmrH oF HoRvS`, `Buto`, `DELOs`, `Izanacl`).
+
+**Unclear or supplied:** The See list ends without a full stop in the OCR. `[Manco?]`, `[Onocorosma?]` and `[Rinea?]` are damaged See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

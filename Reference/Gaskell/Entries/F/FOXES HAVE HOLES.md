@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-foxes-have-holes
 headword: "FOXES HAVE HOLES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,22 @@ tags:
 |---|---|
 | `Heap` | **unresolved** (review queue) |
 | `JEsvus (son of man)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A metaphor of the lower personality which has places of shelter, such as associations, creeds, cults, sects, coteries, etc., which protect and preserve it from change.
+
+> "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head."—Mar. viii. 20.
+
+This symbolism shows that the "foxes and birds," which stand for types of the lower personality, have places for mental retreat, but that the spiritual ego (Son of man) must go forth, steadfastly purposed to keep his mind alert and his vehicles responsive to whatever demands may be made upon them.
+
+> "We may venture to apply Christ's words to this subject (of man's dissatisfaction and unrest), 'The foxes have holes, and the birds of the air have nests, but' man 'has not where to lay his head.' If he could rest, he could not grow. And so from generation to generation, for the individual and for the species, the condition of our progress is a [distance?] beckoning us, and a feeling that we have not already attained, neither are already perfect."—A. MacLaren, *Sermons*, 2nd Series, p. 43.
+
+See HEAD, JESUS (son of man).
+
+**Corrections made:** Page headings `MIcRocOosM, FRANANGER` removed from mid-sentence; `_perfect` → perfect; See-list spellings restored (`Heap`, `JEsvus`); quotation marks normalised. The See list ends with a trailing comma in the OCR (probably cut off); set as a full stop.
+
+**Unclear or supplied:** `[distance?]`: OCR reads "a di ce beckoning us". The See list may be incomplete in the OCR.
 
 ## Full OCR entry body (exact)
 

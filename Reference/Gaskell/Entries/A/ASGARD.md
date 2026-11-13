@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-asgard
 headword: "ASGARD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `DEVACH4N` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVACHAN|DEVACHAN]] |
 | `MUSPELHEIM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSPELLHEIM|MUSPELLHEIM]] |
 | `VaLHALLA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALHALLA|VALHALLA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of devachan,—a state of rest on the higher mental plane wherein the ego withdraws after manifesting in an incarnation.
+
+> "Hermode then rode home to Asgard and related [everything?] which he had both heard and seen."—*Story of Balder*.
+
+And now the Soul passes inwards to devachan, and continues for awhile in a blissful and comparatively passive state, wherein every experience is digested and so incorporated in the substance of its being.
+
+See ASAR, BALDER, DEATH OF BALDER, DEVACHAN, MUSPELHEIM, VALHALLA.
+
+**Corrections made:** Page heading `ASHADHA` removed from mid-sentence; `Baider` → Balder; `DEVACH4N` → DEVACHAN; See-list capitalisation restored.
+
+**Unclear or supplied:** `[everything?]` is a reading of OCR `eve i` (the word is damaged).
 
 ## Full OCR entry body (exact)
 

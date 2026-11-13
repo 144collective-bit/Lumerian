@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house
 headword: "HOUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CoTrace` | **unresolved** (review queue) |
 | `DweEtiincs` | **unresolved** (review queue) |
 | `GOLDCOLOURED s` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of one of the vehicles, bodies, or habitations of the soul on the planes of the quaternary.
+
+See COTTAGE, DWELLINGS, GOLD-COLOURED
+
+**Corrections made:** `CoTrace`, `DweEtiincs` restored; `GOLDCOLOURED` → GOLD-COLOURED.
+
+**Unclear or supplied:** The See list ends at `GOLDCOLOURED s` in the OCR (entry cut off); the stray `s` is dropped.
 
 ## Full OCR entry body (exact)
 

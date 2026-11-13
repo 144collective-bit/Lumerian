@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nekhebit-water-hippopotamus-male
 headword: "NEKHEBIT, WATER HIPPOPOTAMUS, MALE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Henrpest` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of intellectual pride.
+
+> "In Hermopolis, the symbol of Typhon was a river-horse,—upon which a hawk was placed fighting with a serpent;—representing by the horse, Typhon, and by the hawk, power and the origin of things. . . . They (the Egyptians) also picture Osiris as a hawk."—Plutarch, *Isis and Osiris*, § 50
+
+The "hawk fighting the serpent" symbolises the Higher Self (Osiris) overcoming the desire-nature (serpent) in its subtlest form of intellectual pride (on the back of the river-horse).
+
+See BEL, HAWK, [Henrpest?], SERPENT, TYPHON.
+
+**Corrections made:** `a4` → a; `PLUTAROH` → Plutarch; `Hawk` → HAWK.
+
+**Unclear or supplied:** `[Henrpest?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

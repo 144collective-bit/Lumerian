@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-castes-four-of-mankind-in-the-scriptures-of-india
 headword: "CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,26 @@ tags:
 | `Vaisya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
 | `VEDA` | **unresolved** (review queue) |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the four soul-vehicles and their activities on the four lower planes. The life principles of the four bodies of the incarnating ego.
+
+> "In order to protect this universe He, the most resplendent One, assigned separate duties and occupations to those who sprang from his mouth, arms, thighs and feet. To Brahmanas he assigned teaching and studying the Veda, sacrificing for their own benefit and for others, giving and accepting of alms. The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study the Veda, and to abstain from attaching himself to sensual pleasures. The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study the Veda, to trade, to lend money, and to cultivate land. One occupation only the Lord prescribed to the Sudra, to serve meekly even these other three castes."—*Laws of Manu*, I. 87-91.
+
+In order to utilise the scheme of things in behalf of the soul, the Higher Self established centres of consciousness and energy for the soul's functionings, on the four lower planes of nature. The "mouth" signifies expression of intelligence; the "arms," activities in conflict; the "thighs," means of progress; the "feet," foundation of advancing movement. To the higher mind centre, or causal body (Brahmana), is assigned the reception of Truth (Veda) and the transmission of knowledge to the lower mind as it is able to receive it; also the giving up of the lower for that which is higher, in order to promote the growth of the qualities; and the bestowal and reception of spiritual love. The lower mind centre, or mental-body (Kshatriya), was enjoined to organise the qualities (people), to make good use of the faculties; to give up lower forms of thought for higher; to purify itself by Truth; and to maintain supremacy over the desires and sensations. The desire centre, or astral-body (Vaisya), was to nurture the emotions (cattle); to raise the lower desires; to give up the lower for the higher; to purify its nature; to exchange the worse for the better; and to make fruitful for good the lower nature. The physical centre, or physical-body (Sudra), is for the senses and activities only, in complete subordination to the desires, the emotions, and the mind.
+
+> "It is declared that a Sudra woman alone can be the wife of a Sudra, she and one of his own caste the wives of a Vaisya, those two and one of his own caste the wives of a Kshatriya, those three and one of his own caste the wives of a Brahmana."—*Ibid.*, III. 13.
+
+It is explained that the "wives" or permanent atoms of the four bodies on their respective planes are interrelated, and that the lower are subordinate to the higher. Thus, the causal-self (Brahmana) possesses all the four atomic centres (wives), and these are co-ordinated in the complete human being who aspires, thinks, desires, and acts in the world, thereby producing results (children).
+
+> "Castes are as ladders whereby to ascend from the lower to the higher. They are properly spiritual grades, and, have no relation to the outward condition of life. Like all other doctrines, that of Caste has been materialised. The Castes are four in number, and correspond to the fourfold nature of man."—Anna Kingsford, *Life*, Vol. II. p. 5.
+
+See ALMSGIVING, ARMS, AUSTERITIES, BIRTH (second), BRAHMANA, CHARIOT, CHILDREN OF HORUS, CATTLE, [Carrie?], CLASSES, CULTIVATION, FEET, HOUSE (clan), [Jos?], KSHATRIYA, MARRIAGE (castes), [Mourn?], [Puorvusna?], QUATERNARY, RAJANYA, RULERS (world), SACRIFICES, SKANDHAS, SUDRA, THIGHS, VAISYA, VEDA, VESTURES.
+
+**Corrections made:** page heading `140 CATTLE` removed from mid-passage; `mentalbody`, `physicalbody` → mental-body, physical-body; `gve` → give; `Sidra` → Sudra; `Jbid., ITT.` → Ibid., III.; `ere four` → are four; `ANNA Kmesrornp` → Anna Kingsford; See-list spellings restored (`AUSTERIts`, `Brera`, `Cuanior`, `CLassres`, `Hovssr`, `KsHarrrya`, `RaGaNnya`, `RvULERS`, `Sacririces`, `SkanpHas`, `SvupRa`, `Vaisya`); quotation marks normalised.
+
+**Unclear or supplied:** See-list items `[Carrie?]`, `[Jos?]`, `[Mourn?]` and `[Puorvusna?]` cannot be identified; `CATTLE` before `Carrie` may be a page heading but is kept. `BIRTH (second)` is a likely reading of `Brera (second)`; `RAJANYA` of `RaGaNnya`.
 
 ## Full OCR entry body (exact)
 

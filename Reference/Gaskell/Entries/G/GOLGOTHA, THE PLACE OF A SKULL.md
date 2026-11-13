@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golgotha-the-place-of-a-skull
 headword: "GOLGOTHA, THE PLACE OF A SKULL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `PrraTe` | **unresolved** (review queue) |
 | `SKULL` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKULL|SKULL]] |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emptiness of the lower affections if they are taken as an end in themselves, rather than as a means to an end. The empty skull is significant of the vanity of all earthly attachments. The procession of Jesus and the people to Golgotha is typical of the soul which has not yet entirely parted from those lower affections which are attached to the outer form and not to the spirit within. See PILATE, SKULL, TRIAL.
+
+**Corrections made:** `a@ means to anend` → a means to an end; `PrraTe` → PILATE; final comma → full stop.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dew-or-mist-to-moisten-vegetation
 headword: "DEW OR MIST TO MOISTEN VEGETATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `Grounp` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
 | `Ics` | **unresolved** (review queue) |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a natural desire for a progressive existence, responded to by Truth (water) from above.
+
+> "But there went up a mist from the earth, and watered the whole face of the ground."—Gen. ii. 6.
+
+But from the lower nature there went forth an instinctive desire and hope for future evolution, and so a reflection of power from above was obtained, and growth of the soul was promoted.
+
+> "And of Joseph he said, Blessed of the Lord be his land; for the precious things of heaven, for the dew."—Deut. xxxiii. 13.
+
+See EARTH, GRASS, GROUND, [ICE?], IRRIGATION.
+
+**Corrections made:** `GeEw.` → Gen.; `Dervrt.` → Deut.; `xxxili` → xxxiii; `Went` → went; page heading `217 DHRISTA-DYUMNA` removed from mid-sentence; See-list spellings restored (`Eartu`, `Grounp`).
+
+**Unclear or supplied:** See-list item OCR `Ics` is given as `[ICE?]`.
 
 ## Full OCR entry body (exact)
 

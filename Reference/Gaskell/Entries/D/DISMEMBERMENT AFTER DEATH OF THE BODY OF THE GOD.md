@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dismemberment-after-death-of-the-body-of-the-god
 headword: "DISMEMBERMENT AFTER DEATH OF THE BODY OF THE GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -67,6 +68,46 @@ tags:
 | `TYPHON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYPHON, OR SET|TYPHON, OR SET]] |
 | `YMIn` | **unresolved** (review queue) |
 | `ZAGREUS. DISPENSATIONS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the potentially perfect homogeneous Soul becoming throughout evolution the actual imperfect heterogeneous aggregation of qualities. This refers to the Archetypal Man, who is perfected by the completion of the process of spiritual involution, and therefore dies out of that state in order to be reproduced piecemeal in another.
+
+> "The soul of Osiris is eternal and incorruptible, but his body Typhon did tear in pieces and put out of sight; and Isis wandered about, sought for it, and joined it together again."—Plutarch, *Isis and Osiris*, §§ 2 and 54.
+
+The Archetypal Man in his higher nature is immortal, but his potential perfect lower nature is subject to death and change of state, and so the form or limitation tendency (Typhon), motived by desire, presses apparently against the life within, resulting in the evolution of a number of astro-mental qualities which operate upon many sub-planes. Then the buddhic function (Isis) begins to act in disciplining and harmonising the qualities, so that eventually they may all be perfected and united in one,—the Higher Self (Osiris).
+
+> "The god Tem, the Governor and only One of the gods, hath spoken, and his word passeth not away. Horus is both divine food and the sacrifice. Horus hath passed on to gather together the members of his divine father; Horus is his deliverer. from the water of his divine father and from his decay. He hath become the Governor of Egypt."—Budge, *Book of the Dead*, p. 258.
+
+The Higher Self in the expression (word) of Itself endureth for ever. The Self below (Horus) in the sacrifice of Itself, is the sustainer of all that arises by means of it. The evolving Self restores in perfection the qualities proceeding from the involved Divine Archetype (father). The evolved Self is the deliverer of the involved Self, and the twain are One. The Self hath evolved from the emanation of the Spirit within, and from the cessation of its externalising activities. The Self hath become the ruler of the mental plane (Egypt).
+
+> "Manichaeus says that God, in his own nature, was cut in pieces by the race of darkness."—Augustine, *Manichaean Heresy*, p. 549.
+
+The "race of darkness" is a symbol of the forces of limitation and ignorance.
+
+> "Philosophers figuratively tell of 'tearings asunder' and 'dismemberings'; and in these aspects Apollo is variously Horus hath sprung, called Dionysus, Zagreus, Nyktelius, and Isodaites, and his 'destructions' and 'disappearances,' his 'death' and his 'resurrection' are fittingly expressing the true nature of the changes in God's essence in the formation of the world."—Plutarch, *On the E at Delphi*.
+
+The symbolism of the "Gods" and their doings can be understood by philosophers who rightly approach the subject, free from the prejudices of scholars and mythologists. The Higher Self is symbolised under a thousand names connected with ideas of emanation, sacrifice, obscuration, death, and resurrection, which symbolically express the true nature of the changes in the manifestation of the Divine Life during the formation and development of the soul.
+
+> "The theologists say the mind (the 'heart') in this Dionysiacal dismemberment was preserved intact by the wisdom of Athena; it was the soul that was first divided, and it was divided sevenfold."—Proclus, *Parm.*, III. 33.
+
+The causal-body (heart) on the higher mental plane was not subject to the lower nature, but being immortal it was carried over from involution to evolution, as the seat of the buddhic or Wisdom principle (Athena). The lower soul, or astro-mental nature, yielded its qualities in due order and sufficiency for the time being.
+
+> "There is no member of my body which is not the member of some god. And I am Râ day by day."—Budge, *Book of the Dead*, Ch. XLIII.
+
+> "So we, who are many, are one body in Christ, and severally members one of another."—Rom. xii. 5.
+
+As the Archetypal Man, or Christ, is divided into many qualities after involution, so the many qualities become one Christ after evolution.
+
+> "Adam was one man, and is yet the whole human race. He was broken as it were, in pieces; and being scattered, is now being gathered together, and, as it were, conjoined into one by a spiritual fellowship and concord. And 'the poor that groan' as one man, is that same Adam; but in Christ he is being renewed; that Adam might renew to himself the image of God. Of Adam then is Christ's flesh: of Adam the temple which the Jews destroyed, and the Lord raised up in three days."—Augustine, *Gospel of St. John*, Vol. I. p. 149.
+
+The Adam referred to is the Adam of the first chapter of Genesis, a symbol of the perfect Archetypal Man (atma-buddhic), the crucified Christ, who gives his life for the salvation of humanity. His members, or qualities, are scattered in every human soul and are now being gathered together, that Christ may be renewed and manifested in us as we show forth his qualities of Wisdom, Love and Truth.
+
+See ADAM (higher), ARC. MAN, CHRIST, CRUCIFIXION (gnostic), DEATH OF OSIRIS, [DEATH] OF LEMMINKAINEN, DIONYSUS, DWARF, EVOLUTION, FLAYING, FOOD (god), GLORY, HEART, HORUS, INCARNATION, INVOLUTION, ISIS, [KACU?], [KAROMARTS?], KAMA, LUSS, LITTLE CHILDREN, MEMBERS, OSIRIS, PAPYRUS, PRAGAPATI (relaxed), PURUSHA, QEBSENNUF, QUETZALCOATL, RESURRECTION, SACRIFICE, SETTLEMENTS, TEM, TYPHON, YMIR, ZAGREUS.
+
+**Corrections made:** `Ins and Osiris` → Isis and Osiris; `in immortal` → is immortal; `Manichwaus`/`Manichaan` → Manichaeus/Manichaean; `Procius` → Proclus; `R&é` → Râ; `Bupcr`/`Bunpcs` → Budge; `distroyed` → destroyed; `syinbol` → symbol; page headings `DISMEMBERMENT` (three times, one inside "Archetypal"), `223 DISPENSATIONS` and trailing `DISPENSATIONS ;` removed; See-list spellings restored (`Aro.`, `Apam`, `Dronysus`, `Dwarr`, `Giory`, `Horvus`, `PaPykus`, `PurvuSHA`, `YMIn`, and others); and similar minor fixes.
+
+**Unclear or supplied:** The first Budge quotation has no opening quotation mark in the OCR; one is supplied. The words `Horus hath sprung` (apparently a displaced part of that quotation, which reads "from the water ... and from his decay") stand inside the Plutarch quotation in the OCR and are left in place. `[DEATH]` is supplied in the See list (OCR "DEATH OF OSIRIS, OF LEMMINKAINEN"). See-list items `[KACU?]`, `[KAROMARTS?]` and `LUSS` are uncertain.
 
 ## Full OCR entry body (exact)
 

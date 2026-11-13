@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fountains-of-the-deep
 headword: "FOUNTAINS OF THE DEEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `Wrmrpows OF HEAVEN` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of sources of error ("the water below") which produce illusions in the lower self. These are astral and lower mental.
+
+> "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained."—Gen. viii. 2.
+
+The Divine power having energised the mental vehicle, the sources of error are diminished, as also are the spiritual perceptions (windows). The Self as downpouring truth (rain) withdraws from itself below.
+
+> "When he made firm the skies above: when the fountains of the deep became strong."—Prov. viii. 28.
+
+When the buddhic principle was established and centralised: when the desires of the astral plane became active.
+
+See DEEP, FLOOD, RAIN, WINDOWS OF HEAVEN, WATER.
+
+**Corrections made:** Page heading `291 FOUR` removed from mid-sentence; See-list spellings restored (`Fioop`, `Ram`, `Wrmrpows`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

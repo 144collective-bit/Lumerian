@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-james-the-apostle
 headword: "JAMES, THE APOSTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `DIScIPLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DISCIPLES, THE TWELVE, OF JESUS|DISCIPLES, THE TWELVE, OF JESUS]] |
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental edifice of the human being, that is, the mentality or instrument of the mind, which is built up by the soul-qualities through aspiration and enlightenment. As a symbol of one of the four elements, "James" signifies Air (mind).
+
+See APOSTLES, DISCIPLES, GETHSEMANE, TRANSFIGURATION.
+
+**Corrections made:** Page heading `INFIRMITY,` removed from inside "enlightenment"; See-list spellings restored (`APostTies`, `DIScIPLES`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

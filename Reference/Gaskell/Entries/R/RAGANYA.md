@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-raganya
 headword: "RAGANYA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `SacriFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `VAGAPEYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAGAPEYA SACRIFICE|VAGAPEYA SACRIFICE]] |
 | `VAISYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality, or lower mind.
+
+> "Now the gods do not commune with everyone, but only with a Brahman, or a Raganya, or a Vaisya: for these are able to sacrifice."—*Sata. Brâh.*, III. 1, 1, 10.
+
+Ideals (gods) are only recognised by the individuality, or the personality, or the desire-nature; for these are able to give up the lower for the [high]er.
+
+See BRAHMANA, CASTES, GODS, KSHATRIYA, PERSONALITY, SACRIFICE, VAGAPEYA, VAISYA.
+
+**Corrections made:** `onl` → only; `Bréh.` → Brâh.; `Lil.` → III.; `er` → [high]er; See-list spellings restored (`Brinwana`, `Gops`, `Ksnarniya`, `Prrsonatiry`, `SacriFICE`); quotation marks normalised.
+
+**Unclear or supplied:** `[high]er` is supplied: the OCR reads "for the er". `III.` for OCR `Lil.` is a Roman-numeral guess.
 
 ## Full OCR entry body (exact)
 

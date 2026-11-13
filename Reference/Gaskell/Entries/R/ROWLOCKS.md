@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rowlocks
 headword: "ROWLOCKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Boat (river)` | **unresolved** (ambiguous full-head matches; not linked) |
 | `Noosz` | **unresolved** (review queue) |
 | `PaDpLzxs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the conditions of the soul's development and progress, namely, the four lower planes of nature.
+
+> "Horus is occupied in tying 1 of | rope to the elo rowlocks in which worked."—Budge, *Hell*, p. 45.
+
+"Loops" signify the knowledge required for progress.
+
+> "'Tell us our name,' say the Oar-rests; 'Pillars of the underworld,' i name."—Budge, *Book* Ch. XCIX.
+
+The planes of the lower nature, experience and knowledge, givi ted hawk-headed paddles may be Egypt. Heaven end form the conditions in which progress of the ego can take place. See BOAT (river), NOOSE, PADDLES,
+
+**Corrections made:** Page heading `544` removed from mid-sentence; `Bubags` → Budge; `Buper` → Budge; `Noosz` → NOOSE; `PaDpLzxs` → PADDLES; quotation marks repaired.
+
+**Unclear or supplied:** The Horus quotation and the sentence after the second quotation are badly damaged and are left as the OCR has them (`1 of | rope to the elo rowlocks in which worked`; `givi ted hawk-headed | paddles may be Egypt. Heaven end form`). The title after Budge reads only `Book` with the chapter, so part of the title is lost. The OCR breaks off in the See list after `PADDLES,`.
 
 ## Full OCR entry body (exact)
 

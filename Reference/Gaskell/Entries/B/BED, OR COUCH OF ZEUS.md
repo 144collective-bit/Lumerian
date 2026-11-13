@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bed-or-couch-of-zeus
 headword: "BED, OR COUCH OF ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `HepHarstros` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quiescent or unmanifest condition of the Self, at the beginning or end of a cycle. See HEPHAESTUS, ZEUS.
+
+**Corrections made:** `HepHarstros` → HEPHAESTUS; stray `.` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

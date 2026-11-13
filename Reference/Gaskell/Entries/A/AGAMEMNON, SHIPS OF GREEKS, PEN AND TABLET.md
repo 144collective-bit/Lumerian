@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agamemnon-ships-of-greeks-pen-and-tablet
 headword: "AGAMEMNON, SHIPS OF GREEKS, PEN AND TABLET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,18 @@ tags:
 | `UPANISHADS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UPANISHAD|UPANISHAD]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Holy Spirit (atma-buddhi) and the causal-body. The writing signifies the Divinely inspired Scriptures which teach of the evolution of the soul until the end of the cycle.
+
+> "Reeds love rivers, as the fading and transitory things of the world delight us. If, however, anyone shall pluck up this reed from the earth, and strip off its useless [word unclear] spoiling the old man with his deeds: and [guide?] it by the hand of a scribe writing quickly, it begins to be no more a reed, but a pen, which impresses the precepts of the heavenly Scriptures on the hidden places of the mind, and writes them on the tables of the heart" (St. Ambrose).—C. à Lapide, *The Great Comm.*, Vol. II. p. 64.
+
+See [AMBAYAVIS?], CAUSAL-BODY, GOSPEL, INSPIRATION, KORAN, PAPYRUS, REVELATION, SACRED TEXT, SASTRA, SCRIPTURES, SHINTAI, UPANISHADS, VEDA, WORD.
+
+**Corrections made:** `atmabuddhi` → atma-buddhi; `things. of` → things of; `ite` → its; `deede` → deeds; `@` → a; `Vol. IT.` → Vol. II.; `C,. A. Laprpg` → C. à Lapide; page heading `IoLcus, PEN` removed from mid-sentence; See-list spellings restored (`CAUSAL-BODPY`, `INSprraTION`, `Koran`, `PapyRus`, `SACRED 'TEX?`, `Scarprures`, `SHintTal`).
+
+**Unclear or supplied:** The OCR of the quotation is damaged after "strip off its": `[word unclear]` stands for a lost word before "spoiling" (OCR has a stray `*`), and `[guide?]` is a likely reading of `aide`. `[AMBAYAVIS?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

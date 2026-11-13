@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-law-tables-of-the
 headword: "LAW, TABLES OF THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARK OF THE TESTIMONY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARK OF THE TESTIMONY|ARK OF THE TESTIMONY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher or Love- and Wisdom-nature which has its seat in the causal-body (ark).
+
+See ARK OF THE TESTIMONY.
+
+**Corrections made:** `Loveand` → Love- and.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

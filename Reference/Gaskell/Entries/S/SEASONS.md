@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seasons
 headword: "SEASONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,26 @@ tags:
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `I aM` | **unresolved** (review queue) |
 | `PRaG&PaAtTi` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of cycles of manifestation in which the soul evolves.
+
+> "Then Brahman says to him: Who art thou? And he shall answer: I am a season, and a child of the seasons. Sprung from the womb of endless space, the seed of the wife, the light of the year, the Self of all that is; what thou art, That am I."—*Kaush. Upanishad*.
+
+Then asks the Supreme, "Art thou different from God?" For through the causal-body it is that the soul realises its Divine nature and questions with the Supreme. And the inner being of the soul shall answer, "I am but a phase of the universal life, and a child of the manifest cycles; I have sprung from the matrix of infinite space, and am born as a spiritual germ in Matter which is now the purified lower nature, symbolised by the 'Virgin-mother.' I am a Spark of the Divine, evolved through the cycle of the twelve stages, by means of which growth is accomplished. I am the Self, therefore, of all that is or can be,—That which indeed Thou art, That am I."
+
+> "When love has carried us above all things, above the light, into the Divine Dark, there we are transformed by the Eternal Word, who is the image of the Father; and as the air is penetrated by the sun, thus we receive in peace the Incomprehensible Light, enfolding us and penetrating us. What is this Light, if it [is] not a contemplation of the Infinite and an intuition of Eternity? We behold that which we are, and we are that which we behold, because our being, without losing anything of its own personality, is united with the Divine Truth, which respects all diversity."—Ruysbroeck, *De Contem.*, p. 145.
+
+> "The overwhelming consensus of spiritual testimony and probability is that our true being has never had any beginning at all and will never have an end. It is eternal, the outbreathing of the spirit of God himself. That in us which is imperishable is of the divine essence, and is as certain to find its way back towards its source, as the rivers flow towards the sea."—R. J. Campbell, *Serm.*, The Eternal Self.
+
+> "Nature is a machine, compounded of wheels and moved by steady powers. Hence it goes in rounds or cycles, returning again and again into itself, producing thus seasons, months and years; repeating its dews, and showers, and storms, and varied temperatures; in the same circumstances or times, doing much the same things. But it is not so in the affairs of a mind, a society, or an age. There the motion is never in circles, but onward, eternally onward. Nothing is ever repeated. No mind or spirit can reproduce a yesterday. No age, the age or even year that is past. And where the outward conditions appear to be exactly the same, the inward states and spiritual connections may be so various as to take away all resemblance. . . . Hence, while the course of nature is a round of repetitions, the course of the supernatural repeats nothing, and for that reason [has?] an aspect of variety that appears even to exclude the fact of law. But it is so in appearance. God's perfect wisdom still requires the same things to be done in the same circumstances, and when not the same, as nearly the same as the circumstances are nearly resembled. Everything transpires in the uniformity of law."—H. Bushnell, *Nature and the Supernatural*, p. 185.
+
+See ATMAN, BRAHMA, DEMIURGE, FOUR SEASONS, GODHEAD, I AM, PRAGAPATI.
+
+**Corrections made:** `@ season` → a season; `aro` → are; `Ineomprehensible` → Incomprehensible; `netrating` → penetrating; `Eternity *` → Eternity?; `loaing` → losing; `personalit` → personality; `whio` → which; `RuYSBROE£CK` → Ruysbroeck; `imrishable` → imperishable; `Camrsxtt` → Campbell; `repesting ita` → repeating its; `repetitione` → repetitions; `ie aa` → is so; `requircs` → requires; `BusHNeti` → Bushnell; page heading `SEASONS` removed from mid-word ("there fore" rejoined as therefore); See-list spellings restored.
+
+**Unclear or supplied:** `[is]` is supplied: the OCR reads "if it not". `[has?]`: OCR reads "es an aspect". "No age, the age or even year that is past" left as printed; the verb looks dropped in the source or OCR.
 
 ## Full OCR entry body (exact)
 

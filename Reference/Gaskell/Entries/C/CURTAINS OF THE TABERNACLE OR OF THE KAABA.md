@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-curtains-of-the-tabernacle-or-of-the-kaaba
 headword: "CURTAINS OF THE TABERNACLE OR OF THE KAABA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Kaasa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `Pruuars (light)` | **unresolved** (review queue) |
 | `Ta` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher emotions, veiling the causal-body. See KAABA, PILLARS (light), [Ta?]
+
+**Corrections made:** `Kaasa` → KAABA; `Pruuars` → PILLARS.
+
+**Unclear or supplied:** The OCR ends with `Ta`, a cut-off See-list item (possibly TABERNACLE); kept in brackets.
 
 ## Full OCR entry body (exact)
 

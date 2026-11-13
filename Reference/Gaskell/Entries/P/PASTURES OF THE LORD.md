@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pastures-of-the-lord
 headword: "PASTURES OF THE LORD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Doorn (higher)` | **unresolved** (review queue) |
 | `Prisoners` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
 | `SHEEP. PATERAGTARASPO’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic functioning producing the transmuted emotions, the virtues (sheep), and the love of goodness and truth. See DOOR (higher), PRISONERS, SHEEP.
+
+**Corrections made:** `Doorn` → DOOR; stray page heading `PATERAGTARASPO'` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

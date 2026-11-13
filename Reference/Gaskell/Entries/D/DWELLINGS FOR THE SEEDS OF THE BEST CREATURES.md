@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dwellings-for-the-seeds-of-the-best-creatures
 headword: "DWELLINGS FOR THE SEEDS OF THE BEST CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Mats` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MATS OF FLOOR OF DWELLING|MATS OF FLOOR OF DWELLING]] |
 | `SEEDS OF MEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEEDS OF MEN, WOMEN AND CATTLE|SEEDS OF MEN, WOMEN AND CATTLE]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of vehicles or forms for the reception of the perfect monads of all the qualities of the soul which have now to evolve.
+
+> "Dwellings should be established, and the seeds of the best men, women, cattle and all things should be brought."—*Vendidad*, II., S. B. of E.
+
+This refers to the process and period of involution,—the Golden Age, where all is perfect, and there is no struggle. The "dwellings," or forms, are now ideally prepared, that is, the means for their formation on the lower planes is secured. The type forms for the various mental, emotional, desire, and other qualities, brought over from the previous cycle of manifestation,—the Lunar,—are now introduced in their perfection.
+
+See CATTLE, FORMS, GOLDEN AGE, HOUSES, INVOLUTION, LUNAR CYCLE, MAN, [MALE?], SEEDS OF MEN, VARA.
+
+**Corrections made:** `8S. B. of EH.` → S. B. of E.; See-list spellings restored (`CaTTLE`, `Forms`, `Houser`, `INvoturion`); quotation marks normalised.
+
+**Unclear or supplied:** `[MALE?]` is a doubtful See-list item (OCR `Mats`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-star-in-the-east
 headword: "STAR IN THE EAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `MaGi` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAGI FROM THE EAST|MAGI FROM THE EAST]] |
 | `MORNING STAR` | **unresolved** (review queue) |
 | `STARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the rise of knowledge forecasting perception of the Truth—Christ born in the soul.
+
+> "And the wise men, having heard the king, went their way; and lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was."—Matt. ii. 9.
+
+The intellectual faculties, having observed the apparently favourable attitude of the lower principle (Herod), pursued their course, enlightened by the knowledge dawning through philosophy and science, which led them to the inner abode of the Christ-soul.
+
+> "But wherefore is it to a Cave and a Stable that the Star of the Understanding directs the steps of the Wise Men when seeking the birthplace of the Christ? Because, 'In the elements of the Body is he imprisoned, lying asleep in the caves of Iacchos, in the crib of the Oxen of Demeter.' Because, that is, in constituting the culmination of the returning and ascending stream of emanation, Christ is attained by evolution from the lowest:—'From the dust of the ground to the throne of the Most High.'"—*The Perfect Way*, p. 240.
+
+See EAST, ETHER, HEROD, INTELLECT, MAGI, MORNING STAR, STARS.
+
+**Corrections made:** `Mart.` → Matt.; `forecasting perception of the Truth —Christ` spacing normalised; See-list spellings restored (`E:tHer`, `Heron`, `INTExLECT`, `MaGi`); quotation marks normalised.
+
+**Unclear or supplied:** `Heron` read as HEROD (Herod is named in the entry).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ruler-chief-or-king
 headword: "RULER, CHIEF, OR KING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,14 @@ tags:
 | `NaTIons` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `SHEPHERDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEPHERDS|SHEPHERDS]] |
 | `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a higher or a lower mental faculty in a position of authority over groups of soul qualities (tribes or nations). See ARK (Moses), GOVERNORS, HEALING (dead), JAIRUS, KING, NATIONS, SHEPHERDS, TRIBES.
+
+**Corrections made:** See-list spellings restored (`Ark`, `Jarrus`, `Kiva`, `NaTIons`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

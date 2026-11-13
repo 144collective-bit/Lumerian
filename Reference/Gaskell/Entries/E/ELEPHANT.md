@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-elephant
 headword: "ELEPHANT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CAPRICORN` | **unresolved** (review queue) |
 | `BUPED` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of strength, wisdom and sagacity, as characterising the understanding or higher mental nature. The four legs signify the quaternary and the trunk the Divine Ray from above.
+
+See CAPRICORN, [QUADRUPED?].
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** `[QUADRUPED?]` is a doubtful See-list item (OCR `BUPED`).
 
 ## Full OCR entry body (exact)
 

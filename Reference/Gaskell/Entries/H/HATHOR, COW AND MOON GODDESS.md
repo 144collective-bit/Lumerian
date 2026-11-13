@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hathor-cow-and-moon-goddess
 headword: "HATHOR, COW AND MOON GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Tuar. HAUMIA-TIKITIKI` | **unresolved** (review queue) |
 | `THE GOD AND FATHER OF THE FOOD OF MAN WHICH SPRINGS *` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Buddhi, reflected upon the astral plane, or as the vehicle of [word unclear]
+
+> "Hathor means 'Abode of Horus.' She was the goddess of love and joy: The cow was sacred to her."
+
+> "The golden Hathor was [word unclear] of the western sky which received the dying sun in the low of sunset."—Wiedemann, *Rel. of Egyptians*, pp. 30, 142.
+
+Buddhi (cow-Hathor) receives the incarnate God (dying sun) in the first division of the Tuat, and parts with Him in the last, when rising victorious to his own plane (atma). See ATHYR, BUDDHI, COW, HORUS, PLACE (Annu), SEB, [Sxu?], SUN, TUAT.
+
+### Also in this note: HAUMIA-TIKITIKI, THE GOD AND FATHER OF THE FOOD OF MAN WHICH SPRINGS
+
+**Corrections made:** `gyptians` → Egyptians; `ArHyr`, `Buppu1`, `Horvs`, `PiacE`, `Tuar` restored in See list; page heading `HAVILAH` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** The OCR ends with the headword of the next entry, `HAUMIA-TIKITIKI, THE GOD AND FATHER OF THE FOOD OF MAN WHICH SPRINGS` (trailing `*` dropped), with no body text; kept under the heading line.`[word unclear]`: the sentence breaks off after "vehicle of" (OCR `ee`); `[word unclear]` also for OCR `Laginad`. The first quotation has no attribution in the OCR. See-list `[Sxu?]` could not be identified (perhaps SHU).
 
 ## Full OCR entry body (exact)
 

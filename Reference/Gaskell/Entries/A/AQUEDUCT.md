@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aqueduct
 headword: "AQUEDUCT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `IRRIGATION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/IRRIGATION|IRRIGATION]] |
 | `RIVER` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a channel of truth established from the higher nature to the lower.
+
+See CHANNELS, IRRIGATION, RIVER.
+
+**Corrections made:** None needed beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

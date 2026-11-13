@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lemminkainen
 headword: "LEMMINKAINEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,20 @@ tags:
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SERPENT OF THE WASER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT OF THE WATER|SERPENT OF THE WATER]] |
 | `SOWER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self who descends into matter and becomes the Archetypal Man, who dies in order that the individual souls may have immortal Life.
+
+> "Lemminkainen is principally connected with songs and feasts for the brewing of beer, and is hence sometimes confused (under the name of Ahti) with the sower and plougher Pellervoinen. . . . In the death of Lemminkainen we seem to find a remembrance of the Balder myth."—D. Comparetti, *Poetry of the Finns*, p. 243.
+
+Like Dionysus, the Finnic Hero is associated with an intoxicating drink, a symbol of the Divine Life. He is also the Divine Husbandman who cultivates the lower nature (earth) and sows therein spiritual seed, that higher qualities may take root in human nature and bring salvation to the soul. Balder, Osiris, Pragapati, Purusha, Christ, are all symbols of the Archetypal Man.
+
+See ARC. MAN, BALDER, CRANBERRY, DEATH OF BALDER, OF LEMMINKAINEN, OF OSIRIS, DISMEMBERMENT, DIONYSUS, HUSBANDMAN, INCARNATION, MARJATTA, MARSH, SEED (good), SERPENT OF THE WATER, SOWER.
+
+**Corrections made:** `.--` → . . .; `®` → a; See-list spellings restored (`DeaTH`, `Dionysus`, `HusBaNpDMAN`, `MaRsH`, `WASER`).
+
+**Unclear or supplied:** In the See list `SERPENT OF THE WATER` is read from OCR `SERPENT OF THE WASER`.
 
 ## Full OCR entry body (exact)
 

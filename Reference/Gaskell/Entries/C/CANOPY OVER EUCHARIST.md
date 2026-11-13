@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-canopy-over-eucharist
 headword: "CANOPY OVER EUCHARIST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,16 @@ tags:
 | `Sxy` | **unresolved** (review queue) |
 | `TEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEE, APEX ORNAMENT|TEE, APEX ORNAMENT]] |
 | `UMBRELLA. 139` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes to indicate the under-world of the lower planes (four rods supporting the canopy) in which the Self (Christ) incarnates, as symbolised in the Roman mass.
+
+See CABIN, CANDLES, CHILDREN OF HORUS, FIRMAMENT, IRON PLATE, PILLARS (four), PROCESSION, QUATERNARY, SACRAMENT, SKY, TEE, UMBRELLA.
+
+**Corrections made:** trailing page number `139` removed; See-list spellings restored (`CaBIN`, `Or`, `ITRon`, `Prtxiars`, `Sxy`).
+
+**Unclear or supplied:** `IRON PLATE` is a likely reading of OCR `ITRon PLATE`.
 
 ## Full OCR entry body (exact)
 

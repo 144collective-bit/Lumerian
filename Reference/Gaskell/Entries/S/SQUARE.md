@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-square
 headword: "SQUARE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Pyramip` | **unresolved** (review queue) |
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the four lower planes. Either of the quarternary below atma, or of the lower quaternary below the higher mind.
+
+> "A triangle and a quaternary (square), the symbol of Septenary Man."—Blavatsky, *Secret Doctrine*, Vol. II. p. 625.
+
+> "The triangle being a symbol of Deity everywhere."—*Ibid.*, Vol. I. 138.
+
+See CIRCLE, IRON PLATE, PYRAMID, QUARTERS, QUATERNARY.
+
+**Corrections made:** page heading `718 SRUTI` removed from mid-sentence; `Buavatsky` → Blavatsky; `Vol. [.` → Vol. I.; See-list spellings restored (`Crncie`, `Inon PLATE`, `Pyramip`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

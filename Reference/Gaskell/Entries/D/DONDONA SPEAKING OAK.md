@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dondona-speaking-oak
 headword: "DONDONA SPEAKING OAK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Mast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAST LOWERED|MAST LOWERED]]; [[Reference/Gaskell/Entries/M/MAST OF A SHIP|MAST OF A SHIP]] |
 | `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Signifying lofty aspirations eliciting intuition of truth.
+
+> "In the prow of the Argo Athena set a plank, cut from the speaking oak of Dodona."—*Argonautic Expedition*.
+
+In the forefront of the causal body, Wisdom planted, as it were, a mast of truth, that is, a means whereby aspiration should ascend and meet with the response from above.
+
+See ARGO, ATHENA, CAUSAL-BODY, MAST, SHIP.
+
+**Corrections made:** `eet` → set; `Anco` → ARGO; full stop supplied after "above"; See-list spellings restored (`Mast`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

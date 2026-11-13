@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ibis-a-marsh-and-water-bird
 headword: "IBIS, A MARSH AND WATER BIRD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Marsa` | **unresolved** (review queue) |
 | `THoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 | `WaTER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind above the lower mind and astral nature.
+
+> "Horapollo tells us that the ibis was the symbol of Thoth as the 'master of the heart and reason in all men.'"—Mead, *T. G. Hermes*, Vol. I. p. 48.
+
+"Thoth" is a symbol of the principle of the higher mind, and therefore ruler of the causal-body and intelligence in the soul.
+
+See BIRD, CAUSAL-BODY, [Hast?], HERMES, JUDGMENT HALL, MARSH, THOTH, WATER (lower).
+
+**Corrections made:** `al] men` → all men; `Meap` → Mead; `Brrp`, `Marsa` restored.
+
+**Unclear or supplied:** `[Hast?]` See-list item not identified (possibly HEART).
 
 ## Full OCR entry body (exact)
 

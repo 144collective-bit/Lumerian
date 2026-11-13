@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heliope-and-chthonie-or-sun-and-earth
 headword: "HELIOPE AND CHTHONIE, OR SUN AND EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `Sxeur` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the higher and lower Selves, or of buddhi-manas and kama-manas,—the higher mind and the lower.
+
+See EARTH, HEAVEN AND EARTH, [Sxeur?], SUN.
+
+**Corrections made:** `EarrH` → EARTH.
+
+**Unclear or supplied:** `[Sxeur?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

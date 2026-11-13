@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-god-blessing-creatures
 headword: "GOD BLESSING CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BLESSING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BLESSING OF GOD|BLESSING OF GOD]]; [[Reference/Gaskell/Entries/B/BLESSING OF THE LESS BY THE GREATER|BLESSING OF THE LESS BY THE GREATER]] |
 | `CREATURES` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CREATURES|CREATURES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine nature energising the functions of the lower nature so that the processes of involution and evolution may be established.
+
+See BLESSING, CREATURES.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

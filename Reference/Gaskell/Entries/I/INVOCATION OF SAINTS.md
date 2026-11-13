@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-invocation-of-saints
 headword: "INVOCATION OF SAINTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of reverence of the higher qualities by the lower.
+
+See PRAYER, QUALITIES, SAINTS.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

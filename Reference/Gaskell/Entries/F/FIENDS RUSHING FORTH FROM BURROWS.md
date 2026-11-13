@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fiends-rushing-forth-from-burrows
 headword: "FIENDS RUSHING FORTH FROM BURROWS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `HARPIES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 | `OvrensEEr` | **unresolved** (review queue) |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolical of the objects of sense which allure and captivate the ego. They appear and disappear in the consciousness, and come from the earth or physical plane as vibrations to the mind.
+
+See BOTTOMLESS PIT, HARPIES, OVERSEER, SERPENT (hissing).
+
+**Corrections made:** `Borromiess pir` → BOTTOMLESS PIT; `OvrensEEr` → OVERSEER.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

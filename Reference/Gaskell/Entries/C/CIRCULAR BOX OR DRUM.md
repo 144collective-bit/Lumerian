@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circular-box-or-drum
 headword: "CIRCULAR BOX OR DRUM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `GILGOOLEM` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GILGOOLEM, OR REVOLUTION OF SOULS|GILGOOLEM, OR REVOLUTION OF SOULS]] |
 | `LAUGHTER (gods)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAUGHTER OF THE GODS|LAUGHTER OF THE GODS]] |
 | `UzuMe` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the incarnating cycle of the personalities in the lower life.
+
+> "A circular box or drum was placed for Uzumé to dance upon."—Japanese Legend.
+
+The cycle of incarnations was entered upon by the soul, in order that the higher emotion nature (Goddess Uzumé) might be evolved and exercised. Then the earth lives were full of the play and conflict of the emotions which sent up vibrations to the buddhic plane, and caused the transmutations of the lower qualities until perfection was reached.
+
+See GILGOOLEM, LAUGHTER (gods), UZUME.
+
+**Corrections made:** `UzuMe` → UZUME; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

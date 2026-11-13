@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ocean-or-sea-feminine
 headword: "OCEAN, OR SEA (FEMININE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `NarayaNa` | **unresolved** (review queue) |
 | `PROTOTYPES SaRasvaTl` | **unresolved** (review queue) |
 | `SHEKINAH. %` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial Truth on the matter side of being, which brings forth all qualities and forms proceeding from the Absolute.
+
+> "The feminine Sephirah Binah is sometimes termed by the Qabbalists the Great Sea. Among [her] names are Ya H and [word unclear] called the Great Mother, Mother. She is the Holy Spirit and Upper She-kheen-ah. Her symbol the brooding dove; she brooded over the face of the waters at creation."—Myer, *Qabbalah*, p. 336.
+
+The highest condition on the matter side of manifestation is Truth-reality (ocean) in its receptive aspect (feminine) towards Spirit. This primordial condition of things fructified by the Higher Self is the "Great Mother" bringing forth on the buddhic plane the prototypes of all forms for the manifestation of the Divine Life on the higher and lower planes.
+
+See ADITI, BINAH, DOVE, GODDESS, HOLY GHOST, MAYA (higher), MOTHER (divine), NARAYANA, PROTOTYPES, SARASVATI, SHEKINAH.
+
+**Corrections made:** `Qabbaliste` → Qabbalists; `Amon` → Among; `an Upper` → and Upper; `Qabbaiah` → Qabbalah; `Truthreality` → Truth-reality; stray `_` and `%` removed; page heading `MM OCEANUS` removed from mid-sentence; See-list spellings restored (`Aprr1`, `BrvaH`, `Hoty auost`, `MAvA`, `MorHER`, `SaRasvaTl`) and a comma supplied after `PROTOTYPES`.
+
+**Unclear or supplied:** `[her]` is supplied and `[word unclear]` marks a lost name in "Among names are Ya H and called the Great Mother" (the OCR is garbled there).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nirvana-or-nibbana
 headword: "NIRVANA, OR NIBBANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,26 @@ tags:
 | `SLEEP AND WAKING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SLEEP AND WAKING|SLEEP AND WAKING]] |
 | `SorRow` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a subjective state of consciousness on the buddhic plane, for a period during which the ego receives no impacts from without. It is an unmanifest condition of soul between periods of manifestation upon the globes of a planetary chain.
+
+> "Nibbana means nothing but a condition of perfect freedom from desire. The heart that has reached the final goal of all, which,—upon the ground of a perception of the true nature of things, through the knowledge of Not-I,—has so completely loosed itself from everything that it no longer has any desires. Where there is no desire in the heart, there is no attachment either. Where there is no attachment, there is also no parting, no sorrow. Where there is no sorrow, there is also no transiency, no [word unclear]."—Dahlke, *Buddhist Essays*, p. 85.
+
+> "The disciple who has put off lust and desire, rich in wisdom has here on earth attained the deliverance from death, the rest, the Nirvâna, the eternal state."
+
+> "He who has escaped from the trackless, hard mazes of the Sansâra, who has crossed over and reached the shore, self-absorbed, without stumbling and without doubt, who has delivered himself from the earthly, and attained Nirvana, him I call a true Brahman"—Oldenberg, *Buddha*, [Prine?]
+
+> "Dissolved is the body," says Buddha, when one of the disciples has entered into Nirvana, "extinct is perception; the sensations have all vanished away. The conformations have found their repose: the consciousness has sunk to its rest."—*Ibid.*, p. 266.
+
+In the state of Nirvana there is no perception of the external world, and the archetypal causes (conformations) are latent in the soul. The causal-body (consciousness) is also latent, the ego having risen in consciousness to the buddhic plane. Extinction is only of the lower nature, not of the higher in which consciousness is in a state of bliss. The "hard mazes of the Sansara" are the troubles and sufferings of the soul in its passage through the life cycle on the lower planes.
+
+See ATTACHMENT, BLISS, BUDDHIC PLANE, CAUSAL-BODY, CONSCIOUSNESS, DEVACHAN, [DISCIPLES?], GARDEN OF REST, PLANETARY CHAIN, QUALITIES, REST, SAMSARA, SEKHET-HETEP, SHORE (other), SLEEP AND WAKING, SORROW, SUFFERING.
+
+**Corrections made:** `pheneet re DanixE` → [word unclear] / Dahlke; `rception` → perception; `Sansfra` → Sansâra; `ite reet` → its rest; `NirvAna` → Nirvâna; page heading `NISAYA` and noise `Oe ee` removed; See-list spellings restored (`Briss`, `BuDDHIO`, `GaRDEN`, `Rart`, `SorRow` and similar).
+
+**Unclear or supplied:** The end of the first quotation is lost (`[word unclear]`, OCR `pheneet re`). The reference after `Oldenberg, Buddha,` is damaged (OCR `Prine`) and kept as `[Prine?]`; the opening quotation mark of the "Dissolved is the body" passage is lost. `[DISCIPLES?]` is a doubtful reading of `Discretes`.
 
 ## Full OCR entry body (exact)
 

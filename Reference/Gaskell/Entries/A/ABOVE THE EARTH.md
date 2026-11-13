@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-above-the-earth
 headword: "ABOVE THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolical of the planes of being superior to the lower nature (earth). Heaven in its widest sense comprises the higher mental, the buddhic, and the atmic planes, in the present stage of soul-growth. See HIGHER AND LOWER.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

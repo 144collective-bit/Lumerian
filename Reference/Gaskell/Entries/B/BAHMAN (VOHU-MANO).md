@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bahman-vohu-mano
 headword: "BAHMAN (VOHU-MANO)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Maw (righteous)` | **unresolved** (review queue) |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a messenger of the Supreme, signifying victory over the lower nature.
+
+> "When the kinvat bridge has been crossed, the archangel [Bahman?] rises from a golden throne: 'Now hast thou come hither to us, O righteous one! from the perishable life to the imperishable life.'"—*Minok-hired*, Haug, Essays.
+
+When the "bridge" of mind between higher and lower has been passed, and a high mental state has been arrived at by the perfected soul,—the condition of the consciousness now being centred in the causal-body,—the "archangel," or type of glorious SUTRATMA, up, when achievement manifests, and the wondrous power of the Self is declared, in that "this mortal shall have put on immortality; then shall come to pass the saying that is written, death is swallowed up in victory."
+
+See AMSHASPANDS, ARCHANGELS, BRIDGE (kinvat), HIGH-PRIESTSHIP, MAN (righteous), VICTORY, VOHUMAN.
+
+**Corrections made:** `croased` → crossed; `Bripa@E` → BRIDGE; `Maw` → MAN; page heading `BALANCE` removed from mid-sentence; stray `|` removed; quotation marks normalised.
+
+**Unclear or supplied:** `[Bahman?]` is a likely reading for OCR `an` (`the archangel an rises`). The reference `Haug, Essays` is left as printed; it may be damaged. The words `SUTRATMA, up, when achievement manifests` read oddly in the OCR and are left as printed.
 
 ## Full OCR entry body (exact)
 

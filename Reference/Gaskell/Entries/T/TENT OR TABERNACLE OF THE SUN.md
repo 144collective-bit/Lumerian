@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-tent-or-tabernacle-of-the-sun
 headword: "TENT OR TABERNACLE OF THE SUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,24 @@ tags:
 | `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic causal-body as the abode or vehicle of the Higher Self, in which he accomplishes his course through the cycle of manifestation.
+
+> "The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth knowledge. [There] is no speech nor language, where their voice is not heard."—Ps. xix. 1-3.
+
+On the higher planes are the ideals to be attained when the Self returns to his own in glory and power; and on the higher mind plane (firmament) are the energies and the archetypal forms. In the outgoing periods there is expression of the mental faculties and qualities, while in the indrawing periods there is gathered in the wisdom due to effort. There is no outpouring of truth where the ideals are not sought after.
+
+> "Their rule is gone out through all the earth, and their words to the end of the world. In them hath he set a tent for the sun, which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race. His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof."—Ps. xix. 4-6.
+
+The ideals of buddhi-manas govern the lower nature, and their expression is to be complete in the human soul. On the buddhic plane there is formed the causal-body for the Higher Self (sun), who cometh out from atma in love and power to run his course. His going forth is from the heights of buddhi (the first point of Aries), and his circuit is to the same again in greater height; and there is nothing in which Spirit is not predominant. (Compare Ra (Helios) in the cabin (tent) of his boat (soul) traversing the river of the Tuat (cycle of life), accompanied by all his attributes and higher qualities (gods and goddesses).
+
+See ARU-PÂ, CABIN, CAUSAL-BODY, CIRCLE OF EXISTENCE, DAY, EARTH, FIRMAMENT, NIGHT, TABERNACLE, SUN.
+
+**Corrections made:** `causalbody` → causal-body; `ere is no speech` → [There] is no speech; `Inthe` → In the; `expreesion` → expression; `R&` → Ra; `Casin` → CABIN; page heading `MONTHS, OR 750 TESTAMENT` removed from mid-sentence; See-list spellings restored (`Arvu-pd`, `Earrn`).
+
+**Unclear or supplied:** `[There]` supplied: the OCR reads "ere is no speech". The page heading `MONTHS, OR 750 TESTAMENT` was removed; the `MONTHS, OR` appears to belong to the next headword, TENT, TEN DAYS, YEARS (the next entry's "TENT TEN DAYS, YEARS" heading). `ARU-PÂ` is a likely reading of `Arvu-pd`. The parenthesis opened at "(Compare" is not closed in the OCR.
 
 ## Full OCR entry body (exact)
 

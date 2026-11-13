@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hands-raised-upwards
 headword: "HANDS RAISED UPWARDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `CHRYSES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/C/CHRYSE, PRIEST OF APOLLO|CHRYSE, PRIEST OF APOLLO]] |
 | `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `PESTILENOE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration towards the higher life.
+
+> "Then Chryses, the priest of Apollo, lifted up his hands and prayed aloud for the Greeks suffering from pestilence."—*Iliad*, Bk. I.
+
+Then the spiritual mind (Chryses) aspires towards the Divine within the soul, and seeks to raise the lower desire-mental qualities immersed in suffering and strife. See APOLLO, CHRYSES, GREEKS, PESTILENCE.
+
+**Corrections made:** `Thad` → Iliad; `APOLto` → APOLLO; `PESTILENOE` → PESTILENCE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

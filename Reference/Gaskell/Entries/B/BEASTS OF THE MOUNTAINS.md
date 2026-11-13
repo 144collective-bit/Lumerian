@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-of-the-mountains
 headword: "BEASTS OF THE MOUNTAINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `Staire` | **unresolved** (review queue) |
 | `WINGS. |` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of ambitions, or elevated desires of a selfish nature.
+
+> "Separated by evil strife, the human members wander each in different directions along the breakers of the sea of life. Just so it is with plants and with fishes dwelling in watery halls, and beasts whose lair is in the mountains, and birds borne on wings."—Empedocles, Fairbanks, 247.
+
+When evolution commenced, and the struggle for separate existence began, the functions of the Oversoul are said to be scattered, inasmuch as through desire and opinion a continual surging and unrest serve to stir the latent emotions by means of which growth is accomplished. So it is with the dawn of the emotions (plants), the astro-mental nature, the ambitions (beasts), the ideals and aspirations (birds).
+
+See ARC. MAN, BIRDS, DISMEMBERMENT, EVOLUTION, FISH, MEMBERS, MOUNTAIN (lower), PLANTS, SEA, SEPARATION, STRIFE, WINGS.
+
+**Corrections made:** `FAIRBANKS` → Fairbanks; `ARO. MAN` → ARC. MAN; `Bmps` → BIRDS; `Driseoex. BERMENT` → DISMEMBERMENT; `Muxm.. BERS` → MEMBERS; `Mounrain` → MOUNTAIN; `Prawnrs` → PLANTS; `Staire` → STRIFE; stray `|` removed.
+
+**Unclear or supplied:** `DISMEMBERMENT` and `MEMBERS` are restored from fragments split across the OCR (`Driseoex. BERMENT`, `Muxm.. BERS`); `STRIFE` is a likely reading of `Staire`.
 
 ## Full OCR entry body (exact)
 

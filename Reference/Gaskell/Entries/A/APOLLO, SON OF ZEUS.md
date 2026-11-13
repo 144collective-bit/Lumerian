@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apollo-son-of-zeus
 headword: "APOLLO, SON OF ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PRIEST OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRIEST OF APOLLO (CHRYSE)|PRIEST OF APOLLO (CHRYSE)]] |
 | `WRATH OF APOLLO` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF APOLLO|WRATH OF APOLLO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos proceeding from the First. God manifest, or the Higher Self.
+
+> "Nine days through the army went the arrows of the God (Phœbus Apollo); but on the tenth, Achilles called the people to an assembly; for to his mind the white-armed Goddess Juno had suggested it; for she was anxious concerning the Greeks, because she saw them perishing."—*Iliad*, Book I. trans. Buckley.
+
+For nine periods the life-giving force of the Logos ensouled the egos, or monads of form; but at the tenth period, the personality (Achilles) is evolved sufficiently to enable the lower mental qualities to assemble to it as a centre. For at this period of soul-growth there was some glimmer of such higher perception as is essential to the further development of the individuality. And the Wisdom aspect is directly concerned with the evolution of the mental qualities which had begun to languish.
+
+> "Dionysius proclaims: 'The Divine Goodness, this our great Sun, enlightens, nourishes, perfects, renews.' Even the pure can thus be made purer still. 'He, the Good, is called spiritual light; he cleanses the mental vision of the very angels: they taste, as it were, the light.' All this imagery goes back, in the first instance, to Proclus. For Proclus puts in parallel 'sun' and 'God,' and 'to be enlightened' and 'to be deified'; makes all purifying forces to coalesce in the activity of the Sun-God, Apollo Katharsios, the Purifier, who 'everywhere unifies multiplicity . . . purifying the entire heaven and all living things throughout the world'; and describes how 'from above, from his super-heavenly [post?] Apollo scatters the arrows of Zeus,—his rays upon all the world'" (In Par. IV. 34).—F. von Hügel, *Mystical Element*, Vol. II. p. 93.
+
+> "Nothing can be more profound, more entire, than the reverence of Homer's mortals for Apollo and Athené."—W. E. Gladstone, *Juventus Mundi*, p. 177.
+
+See ACHILLES, ANAPHE, ARGIVES, AROUERIS, ARROWS, DELOS, EXILE, GATE, HECATOMB, HERA, HYMN, LATONA, NINE, NINE DAYS, PESTILENCE, PRIEST OF APOLLO, WRATH OF APOLLO.
+
+**Corrections made:** `Phebus` → Phœbus; `BUKKLEY` → Buckley; `is raya` → his rays; `F. von Huarn` → F. von Hügel; `Juventue` → Juventus; `myer E. GLADSTONE` → W. E. Gladstone; page heading `APOSTATES` removed from mid-sentence; See-list spellings restored (`Hecatomsb`, `Hers` → HERA, `Hymn`, `Latona`); quotation marks normalised.
+
+**Unclear or supplied:** `[post?]` is a likely reading of OCR `pot` in "super-heavenly pot". The forename initial `W.` is supplied from the damaged OCR `myer E.`. `Hers` in the See list is read as HERA.
 
 ## Full OCR entry body (exact)
 

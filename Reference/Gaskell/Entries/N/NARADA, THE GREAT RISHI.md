@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-narada-the-great-rishi
 headword: "NARADA, THE GREAT RISHI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,28 @@ tags:
 | `Srra` | **unresolved** (review queue) |
 | `Visuyv` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind at an early period of the soul's evolution.
+
+> "Sir William Jones compares Narada to Hermes and Mercury, and calls him 'the eloquent messenger of the Gods.'"—Blavatsky, *Secret Doctrine*, Vol. II. p. 52.
+
+See HERMES, NEBO, THOR, THOTH.
+
+### Also in this note: NARAYANA, OR IDAS-PATI, THE "MASTER OF THE WATERS"
+
+A symbol of the Spirit of Truth, operating in Time and Space.
+
+> "One of the most ancient and popular of the numerous names of Vishnu. The word (Nârâyana) has been derived in several ways, and may mean 'he who moved on the waters,' or 'he who influences men or their thoughts.'"—Griffith, *The Ramayan*, Vol. I. p. 86.
+
+The Higher Self (Vishnu) broods over the waters of Truth—the Divine Reality,—at the dawn of manifestation.
+
+See CHAOS, HEAVEN AND EARTH, OCEAN, POSEIDON, SERPENT (ananta), SIVA, VISHNU, WATER.
+
+**Corrections made:** `Morcury` → Mercury; `Neso, Toor` → NEBO, THOR; `Naér&éyana` → Nârâyana; `Grurrrrz` → Griffith; `influ. ences` → influences; `High:r` → Higher; `brood:` → broods; page heading `NAVEL` removed from mid-sentence; See-list spellings restored (`Posripon`, `OcraNn`, `Srra`, `Visuyv`).
+
+**Unclear or supplied:** Contains a second entry: NARAYANA, OR IDAS-PATI, THE "MASTER OF THE WATERS". `SERPENT (ananta)` restored from OCR `(anants)`; `SIVA` from `Srra`.
 
 ## Full OCR entry body (exact)
 

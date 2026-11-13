@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-climbing-a-mountain-eminence-ladder-or-steps
 headword: "CLIMBING A MOUNTAIN, EMINENCE, LADDER, OR STEPS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `StarrcasE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
 | `STEPs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration towards ideals of truth, wisdom, and love.
+
+See GOAT (he), LADDER, MOUNTAIN, STAIRCASE, STEPS.
+
+**Corrections made:** Stray `~` removed; See-list spellings restored (`Goat`, `LappER`, `StarrcasE`, `STEPs`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

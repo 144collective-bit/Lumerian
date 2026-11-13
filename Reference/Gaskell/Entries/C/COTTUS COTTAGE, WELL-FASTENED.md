@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cottus-cottage-well-fastened
 headword: "COTTUS COTTAGE, WELL-FASTENED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `CavusaL- BODY` | **unresolved** (review queue) |
 | `DWELLING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DWELLING IN THE RECESSES OF THE PALACE|DWELLING IN THE RECESSES OF THE PALACE]] |
 | `Hovsse` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the enduring abode of the ego, which is the causal-body builded upon the upper mental plane. See CAUSAL-BODY, DWELLING, HOUSE.
+
+**Corrections made:** `CavusaL- BODY` → CAUSAL-BODY; `Hovsse` → HOUSE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

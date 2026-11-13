@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-neryosang-the-angel
 headword: "NERYOSANG, THE ANGEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Samas` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMAS|SAMAS]] |
 | `SERPENT DAHAKA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT DAHAKA|SERPENT DAHAKA]] |
 | `SROSH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intellect which arouses love of ideals.
+
+> "Then Srosh and Neryosang the angel go to Keresasp (the Saman); three times they utter a cry, and the fourth time Saman rises up with triumph, and goes to meet Azi Dahak. And Saman does not listen to his words, and the triumphant club strikes him on the head and kills him."—Bahman Yash, III. 60, 61. *S. B. of E.*
+
+The Divine Will (Srosh), acting through the intellect (Neryosang), approaches the Love-element (Keresasp) and arouses it completely in the evolving soul. Then the Divine force (Saman) Love goes forth on the path of devotion to the Ideal, undeterred by the temptations of sense, and with the higher emotions (club) overcomes illusion and selfishness.
+
+See CLUB, ILLUSION, KERESASPA, SAMAN, SERPENT DAHAKA, SROSH.
+
+**Corrections made:** `S. B. of KE.` → S. B. of E.; `aud` → and; page heading `NESHAMAH` and the line-noise `(ON OF s— FF vd Pe tt ow mo”` removed from mid-sentence; See-list spellings restored (`Crus`, `Samas`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

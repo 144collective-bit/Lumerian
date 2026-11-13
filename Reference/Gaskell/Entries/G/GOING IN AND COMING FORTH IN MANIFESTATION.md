@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-going-in-and-coming-forth-in-manifestation
 headword: "GOING IN AND COMING FORTH IN MANIFESTATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Winps (four)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of Involution and Evolution of the Divine Life.
+
+> "Beginning of the chapters of the Garden of Rest,—one of the chapters of Manifestation into Day, of Going in and Coming forth in the possession of Divinity;—of union in the Garden of Reeds, of 'being' in the Garden of Rest, even in the Great City, the Lady of the Four Winds."—*Book of the Dead* (Heading of Chapter CX.), trans. Blackden.
+
+A description of the Soul's pilgrimage towards Nirvana (Garden of Rest) during a manvantara; beginning with the cycles, first, of Involution (Going in), and second, of Evolution (Coming forth) of the Life of the Logos. The acquirement of Individuality, or union with the Higher, as the separated Self rises above the functionings of the Astral life (Garden of Reeds). The periodic retirement of the Ego between incarnations into the Causal-body or higher Mind-centre (Great City) through which Buddhi (Lady) rules evolution in the Lower Quaternary (Four Winds), namely on the Lower Mental, the Astral, the Etheric, and the Physical planes of the Soul.
+
+See BUDDHI, CHAPTERS, CITY (sacred), COMING FORTH, EVOLUTION, GARDEN OF REST, I A O, INCARNATION, INVOLUTION, LADY, MANVANTARA, REINCARNATION, SELF, WINDS (four).
+
+**Corrections made:** `BLACKDEN` → Blackden; `Causalbody` → Causal-body; `Qty` → City; page heading `GOLD` removed from mid-sentence; See-list spellings restored (`Buppui`, `CHAprers`, `Criry`, `ComMING`, `GaEDEN`, `InvoLuTION`, `Lapy`, `Winps`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

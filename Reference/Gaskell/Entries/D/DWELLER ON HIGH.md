@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dweller-on-high
 headword: "DWELLER ON HIGH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ArmMaN` | **unresolved** (review queue) |
 | `TAE-KEIH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Atman or Higher Self.
+
+See ATMAN, TAE-KEIH.
+
+**Corrections made:** `ArmMaN` → ATMAN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

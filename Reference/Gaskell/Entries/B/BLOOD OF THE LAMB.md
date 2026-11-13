@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blood-of-the-lamb
 headword: "BLOOD OF THE LAMB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,32 @@ tags:
 | `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
 | `Wire` | **unresolved** (review queue) |
 | `Worp. 116` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life primordially involved in the World-soul.
+
+> "These are they which come out of the great tribulation, and they washed their robes, and made them white in the blood of the Lamb."—Rev. vii. 14.
+
+These are the souls or the qualities which arise purified out of the suffering and discipline of the lower life. Their mental vestures of opinion, etc. are made consistent with truth and right, and they are now spotless and pure through the indwelling Divine Life which has restored and perfected them.
+
+> "The blood of the Lamb is the divine truth proceeding from the Lord."—Swedenborg, *Apoc. Rev.*, n. 556.
+
+> "'The blood of Jesus Christ cleanseth us from all sin.' But what is the blood? It is life outpoured—outpoured in love, outpoured in sacrifice. . . . There is a cleansing flood flowing from Immanuel's veins that saves, heals, renews poor guilty souls. Immanuel—God with us—God with us all the time."—R. J. Campbell, *Serm.*, *The Sense of Sin*.
+
+> "Faith in Christ is that power by which the vitality of Christ, through our love and obedience to Him, becomes our vitality. The triumph of the believing soul is this, that he does not live by himself; that into him is ever flowing, by a law which is both natural and supernatural, the vitality of the Christ whom he loves and obeys. His whole nature beats with the inflow of that divine life. He lives, but Christ lives in him. And then add one thing more. Christ is the perfect man, the divine man. Add this, and then we know that his vitality filling us is the perfection of human life filling humanity."—Phillips Brooks, *Serm.*, *The Safety and Helpfulness of Faith*.
+
+> "By this mystical blood we are saved;—this blood, . . . whereby man is transmuted from the material to the spiritual [word unclear] the secret of inward purification [b]y means of Love. For this 'blood,' which throughout the sacred writings is [spoken?] of as the essential principle of Life,' is the spiritual Blood of the spiritual Life,—Life in its highest, intensest, and most excellent sense,—not the mere physical life understood by materialists,—but the very substantial Being, the 'inward Deity in man.' And it is by means of this Blood of Christ only—that is by means of Divine Love only—that we can 'come to the Father,' and inherit the kingdom of heaven. For when it is said that 'the blood of Christ cleanseth from all sin,' it is signified that sin is impossible to him who is perfect in Love."—*The Perfect Way*, [p.] 109.
+
+> "The Blood of Christ 'cleanses our consciences from dead works to serve a living God' (Heb. ix. 14), because 'the Blood of Christ' is the symbol, not of His death, but of His Eternal Life. The Blood, we read, as far back as Gen. ix. 4, 'is the Life.'"—F. W. Farrar, *The Atonement*, etc., p. 45.
+
+> "The Life of grace and truth; that is the Life of Christ, and, therefore, the Life of God. The Life of [righteousness?], love, pity, generosity, [unselfishness?], self-sacrifice; the Life of truth—of faithfulness, fairness, justice, the desire to impart knowledge, and to guide men into all truth. The Life, in one word, of charity, which is both grace and truth, both love and justice in one Eternal Essence. That is the one Eternal Life, which must be also the Life of God. For, as there is but one Eternal, even God, so there is but one Eternal Life, which is the life of God and of His Christ."—Ch. Kingsley, *Water of Life*, p. 8.
+
+See ATONEMENT, CRUCIFIXION OF CHRIST, EVOLUTION, INCARNATION, LAMB OF GOD, LITANY, MAHAVIRA-POT, MEDIATOR, PASSOVER, PRAJAPATI (relaxed), ROBE, SACRAMENT, SACRIFICER, SOMA-JUICE, TAUROBOLIUM, TRANSUBSTANTIATION, WASHED (blood), WINE, WORD.
+
+**Corrections made:** `ReEv.` → Rev.; `SwWEDENBORG` → Swedenborg; `Stn` → Sin; `Puximures Brooxs` → Phillips Brooks; `filing` → filling; `BLOOD` page heading removed from mid-sentence; trailing page number `116` removed; `materialista` → materialists; `Hes. ix. 14` → Heb. ix. 14; `GEN.` → Gen.; `F. W. Farrer` → F. W. Farrar; `Cu. KinasLry` → Ch. Kingsley; See-list spellings restored (`LaMB`, `LiTaANy`, `MAHAVIRArot`, `MeEpraTror`, `Passover`, `PraciPATI`, `SAORIFICER`, `Wire`, `Worp`); and similar minor fixes.
+
+**Unclear or supplied:** In the Perfect Way quotation, `[word unclear]` (OCR `pee`), `[b]y` (OCR `y means`) and `[spoken?]` (OCR `pee of`) are damaged; `[p.]` is supplied for the OCR `. 109`. In the Kingsley quotation `[righteousness?]` (OCR `eae iousness`) and `[unselfishness?]` (OCR `useBass`) are likely readings.
 
 ## Full OCR entry body (exact)
 

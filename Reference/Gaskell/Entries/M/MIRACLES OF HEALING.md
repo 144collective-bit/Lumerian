@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-miracles-of-healing
 headword: "MIRACLES OF HEALING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,22 @@ tags:
 | `PARABLES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 | `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `SERPENT 4ESCULAPIUS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbolic of certain facts of spiritual growth which take place on planes of nature whose laws are as yet unrecognised by people at large. They occur as the Higher nature becomes more powerful in the soul, and they are psychic and spiritual endowments which come in due course according to the soul's preparedness for them, and which are added to the human nature as the souls evolve. They are not external phenomena exciting wonderment. They are wrought in the soul by an appreciation and application of laws of nature to which sectarian religionists are blind. They have nothing to do with the healing of physical diseases and defects.
+
+> "By faith in Jesus we call upon the deeper or Spiritual Man, who is one with the infinitude of God, and that divine man, that true Self, will rise in power in our souls, free us from the bondage of flesh and sense, and carry us upward to our eternal source and goal."—R. J. Campbell, *Serm.*, *The Self and the Body*.
+
+> "The Son of God became man. He came to us in our blindness, as we sat and begged by the wayside of life; He made clay, i.e. He took of the mortal dust of our earthy nature (see John ix. 6), and moulded it by the breath and moisture of His mouth, and blended it with the Divine nature, and anointed it with the Holy Ghost, and sent us to Siloam; and by the co-operation of our Faith and Obedience with His Divine Power and Love, our eyes are opened and we see."—Wordsworth, *Bible*, John, p. 317.
+
+> "The story in the ninth of John about the healing of the blind man is a parable; the event very likely took place, but it is used here as a parable; all the miracles in the fourth gospel are used as parables."—Campbell, *Serm.*, *The Door, the Thief, etc.*
+
+See ALCHEMY, ARC. MAN, BLIND, BONDAGE, FAITH (miracles), GIFTS OF GOD, GRACE, HEALING, INITIATIONS, INTUITION, MAN (blind), MEDICINE, PARABLES, PHYSICIAN, SERPENT ÆSCULAPIUS.
+
+**Corrections made:** `Higher mature` → Higher nature; `WorpswortThH` → Wordsworth; `CamMPBeELL` → Campbell; See-list spellings restored (`BonpDaGE`, `FarrH`, `Gurts`, `HeaLine`, `IntourTion`, `MEpDIcINE`, `4ESCULAPIUS`); page heading `503 MIRROR` removed from mid-quotation.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

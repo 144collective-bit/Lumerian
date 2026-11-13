@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-place-of-peace-in-annu
 headword: "PLACE OF PEACE IN ANNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Nosrrits` | **unresolved** (review queue) |
 | `Tatru` | **unresolved** (review queue) |
 | `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body on the plane of the higher mind.
+
+> "My nostrils are opened in Tattu, or, as others say, 'My mouth and my nostrils are opened in Tatau, and I have my place of peace in Annu which is my house; it was built for me by the goddess Sesheta (a form of Hathor,—goddess of writing and of books), and the god Khnemu set it [up?] for me upon its walls.'"—Budge, *Book of the Dead*, Ch. LVII.
+
+The incarnating ego explains that through the functioning of the lower mind he discriminates the things of the lower planes; in other words, he is enabled to find expression of his will and thought in the cycle of life in the underworld (Tatau). He rejoices that he possesses an immortal habitation in the causal-body which has been built up for him through the functioning of Buddhi (Sesheta), and set up by the indwelling Self working within his own soul, through the varied experiences of life.
+
+See ANNU, BUDDHI, CAUSAL-BODY, DWELLING (palace), HATHOR, INCARNATION OF SOULS, MOUTH (opening), NOSTRILS, TATU, UR-HEKAU.
+
+**Corrections made:** page heading `PLACES` removed from mid-sentence; `set it a for me` → set it [up?] for me; `BupcE` → Budge; See-list spellings restored (`DweELuine`, `HarHor`, `INcaRNATION OF sOULS`, `MourTH`, `Nosrrits`, `Tatru`).
+
+**Unclear or supplied:** `[up?]` replaces the stray OCR letter `a` in "set it a for me".
 
 ## Full OCR entry body (exact)
 

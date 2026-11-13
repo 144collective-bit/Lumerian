@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lion-god-double
 headword: "LION-GOD, DOUBLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,26 @@ tags:
 | `Tem` | **unresolved** (review queue) |
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+> "Two lions seated back to back and supporting the horizon with the sun's disk, over which extends the sky; the lion on the right is called Sef, i.e. 'Yesterday,' and that on the left, Tuau, i.e. 'To-day.'"—Budge, *Book of the Dead*, p. 90.
+
+The "two lions" signify respectively the former period and process of involution (Yesterday), and the present period and process of evolution (To-day).
+
+> "I (Nu) am the double Lion-god, the first-born of Râ and Tem of Ah-khebti (as Buto), the gods who dwell in their divine chambers."—*Ibid.*, Ch. 38, p. 166.
+
+The Divine power in the universe (Nu) proceeds first, from the celestial Logos (Râ) in the process of involution, and second, from the terrestrial Logos (Tem),—the Archetypal Man,—in the process of evolution.
+
+> "The two Lion-gods watch, one at each end, the path of the night Sun."—*Ibid.*, p. 216.
+
+The cycle of life on the lower planes (the Tuat), wherein the Self (sun) is unapparent, is divided into two parts,—the descent of Spirit into matter, and the ascent of Spirit therefrom.
+
+See ARC. MAN, BUTO, DAY, EVOLUTION, HORIZONS, INVOLUTION, [Musvusr?], NU, RA, SEKHET-AARU, SHU (double), SUN, SUN-RISING, TEM, TUAT, ZODIAC.
+
+**Corrections made:** `Bupar` → Budge; `. 90` → p. 90; `R&` → Râ; `Jbid.` → *Ibid.*; leading `~` removed; stray `|` and page heading `455 LITANY` removed from mid-text; See-list spellings restored (`Buro`, `EvotvTron`, `Invoturion`, `Nou`, `Sexuet-aakvu`, `Sun-risivna`) and similar minor fixes.
+
+**Unclear or supplied:** The OCR begins at the first quotation, with no opening definition; it may be the tail of the entry. In the See list `[Musvusr?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

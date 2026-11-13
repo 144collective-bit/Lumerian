@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anger-of-god
 headword: "ANGER OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a relative and false conception which arises from the fear and hate of the lower nature directed against the Higher which it does not understand. It is the feeling engendered in the lower self that the Higher Self is an enemy. The Higher nature wears a forbidding aspect to the self-seeking personality. This is reflected in the semblance of Divine wrath.
+
+> "I (Moses) did neither eat bread nor drink water, because of all your sin which ye sinned, in doing that which was evil in the sight of the Lord, to provoke him to anger. For I was afraid of the anger and hot displeasure, wherewith the Lord was wroth against you to destroy you. But the Lord hearkened unto me that time also. And the Lord was very [angry] with Aaron to have destroyed him: and I prayed for Aaron also the same time."—Deut. ix. 18-20.
+
+The rational and ethical nature has been unable, in this backward state of soul, to partake of goodness and truth, because the lower mind has been so full of the activities of desire and sensation. The conscience, nevertheless, has been stirred and there is hope of progression. The spiritual mind (Aaron) was obscured, but the moral nature became a means for its revival. No celestial
+
+See AARON, CLEANSING, JEALOUS GOD, MOSES, SELF (lower), SLAUGHTER, VULTURE, WRATH OF GOD.
+
+**Corrections made:** `ain` → sin; `ite` → its; `Selfisanenemy` → Self is an enemy; `Drevut.` → Deut.; page heading `49 ANIMALS` removed from before the See list; See-list spellings restored (`Mosss`, `SEuF`); quotation marks normalised.
+
+**Unclear or supplied:** `[angry]` is supplied: the OCR reads "was very with Aaron". The commentary ends abruptly with "No celestial" (the page break lost the rest).
 
 ## Full OCR entry body (exact)
 

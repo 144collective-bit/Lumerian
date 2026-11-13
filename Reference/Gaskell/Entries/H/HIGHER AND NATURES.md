@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-higher-and-natures
 headword: "HIGHER AND NATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,20 @@ tags:
 | `SIMILITUDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `SPERMATIO WORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the ideal and phenomenal phases of existence, of which the first is the enduring and real, and the second the changing and unreal. The first is archetypal and perfect; the second proceeds from it but is always deficient as a copy of the first, and is changeable, being in process of becoming perfect in essentials. The higher nature comprehends the lower, but the lower cannot understand the higher. The greater can contain the less, but not the less the greater.
+
+> "Of course, it was recognised, even in antiquity, by thoughtful persons that such expressions as above and beneath, heaven and earth, were metaphors; just as Plato in the seventh book of the Republic says: 'It makes no difference whether a person stares stupidly at the sky, or down upon the ground. So long as his attention is directed to objects of sense, his soul is looking downwards, not upwards.' For a long time the local and spatial symbols were regarded as literally true, concurrently with the spiritual doctrine that God is everywhere, and heaven wherever He is. St. Augustine did much to legitimise the spiritual doctrine, which is no after-thought, no [word unclear] [word unclear] away of dogmatic truth. 'God,' he says, 'is present everywhere in His entirety, and yet is nowhere. He dwells in the depths of my [heart?], more inward than my innermost self, and higher than my highest. He is above my soul, but not in the same way in which the heaven is above the earth.' So the scholastic mystics say that God has His centre everywhere, His circumference [word unclear]."—W. R. Inge, *Paddock Lectures*, p. [word unclear].
+
+> "The fundamental thought of the Christian religion is that there are two orders, commonly called nature and grace; the one discernible by sense and understanding, the other by a spiritual sight. From the first until now the mystic light of Tabor, before which the phenomenal world fades away into nothingness, has ever burned at the inner shrine of Christianity. Thence has come the illumination of those who, age after age, have entered most fully into the secret of Jesus; thence are the bright beams which stream from the pages of St. John's Gospel, St. Augustine's Confessions, The Imitation of Christ, The Divine Comedy, The Pilgrim's Progress. The supreme blessedness of man, as all Christian teaching insists, is the vision, in the great hereafter, of Him who is the substance of substances, the life of life, who alone, in the highest sense, is—'I am,' His incommunicable name,—and who, even in this world, is seen by the pure in heart."—W. S. Lilly, *The Great Enigma*, p. 266.
+
+See ARC. MAN, ATMAN, COSMOS, CREATION, EVOLUTION, HEAVEN AND EARTH, IMAGE, IMPERIAL, MACROCOSM, MAHAYANA, MICROCOSM, OCEAN, PLEROMA, PRANAS, PROTOTYPES, SIMILITUDES, SPERMATIC WORDS, WORLDS (five).
+
+**Corrections made:** `downwards. not upwards` → downwards, not upwards; `Inaxr` → Inge; `gnd` → and; `Chriet` → Christ; `Litty` → Lilly; page headings `LOWER HIGHER` removed from mid-sentence; See-list spellings restored (`ARC. MAN`, `AXD`, `MacrRocosm`, `Manayana`, `OcEaNn`, `SPERMATIO`).
+
+**Unclear or supplied:** The Inge quotation is badly damaged: OCR `no ry, ore ge away`, `my coe more inward`, `circumference ee ne R. Inaxr`; unreadable words shown as `[word unclear]`; `[heart?]` is a likely reading. The page number of the Inge reference is lost. `IMPERIAL` left as printed.
 
 ## Full OCR entry body (exact)
 

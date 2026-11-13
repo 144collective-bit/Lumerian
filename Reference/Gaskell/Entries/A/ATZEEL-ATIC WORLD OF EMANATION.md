@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atzeel-atic-world-of-emanation
 headword: "ATZEEL-ATIC WORLD OF EMANATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Apam (higher)` | **unresolved** (review queue) |
 | `HicHrR` | **unresolved** (review queue) |
 | `ProroTYPES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes (atma-buddhic) of manifestation.
+
+See ADAM (higher), HIGHER, PROTOTYPES.
+
+**Corrections made:** `Apam` → ADAM; `HicHrR` → HIGHER; `ProroTYPES` → PROTOTYPES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

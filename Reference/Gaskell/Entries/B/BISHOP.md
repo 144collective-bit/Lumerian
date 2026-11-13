@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bishop
 headword: "BISHOP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Prisst` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `Wire` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a spiritual principle, or spiritualised mental quality, ruling over and directing the disciplined qualities of the soul (church). In its highest aspect, Bishop signifies the individuality (overseer), or the Higher Self.
+
+> "Shepherd and Bishop of souls."—1 Pet. ii. 25.
+
+> "The bishop therefore must be without reproach, the husband of one wife, temperate, sober-minded, orderly, given to hospitality, apt to teach."—1 Tim. iii. 2.
+
+This means that the spiritualised quality must be free from the contamination of the lower self-seeking desires. Must be "the husband of one wife," that is, must be allied indissolubly with the higher emotion nature, and not with the lower. Must be so far developed as to be practised in all the virtues; ready to help and teach all lower qualities, seeking after truth and righteousness. The meaning of the whole statement is that the higher nature of the soul should co-ordinate and rule over the lower nature, in order that the soul should progress.
+
+See CHURCH, [FLAM?], HUSBAND AND WIFE, MITRE, PRIEST, SHEPHERD, WIFE.
+
+**Corrections made:** `Im` → In; `l] PETER` → 1 Pet.; `tem.rate` → temperate; `soberminded` → sober-minded; `givem to ospitality` → given to hospitality; `I Tim.` → 1 Tim.; page heading `BITTER` removed from mid-sentence; See-list spellings restored (`CoukcH`, `HuspanD AND wirE`, `Mrrre`, `Prisst`, `Wire`).
+
+**Unclear or supplied:** `[FLAM?]` is an unidentified See-list item (OCR `Flam`). The sentence `Higher Self` in the OCR runs directly into the quotation; a full stop is supplied after `Higher Self`.
 
 ## Full OCR entry body (exact)
 

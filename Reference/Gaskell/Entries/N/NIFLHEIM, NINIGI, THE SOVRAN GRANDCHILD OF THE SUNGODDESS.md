@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-niflheim-ninigi-the-sovran-grandchild-of-the-sungod
 headword: "NIFLHEIM, NINIGI, THE SOVRAN GRANDCHILD OF THE SUNGODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `SHINTAI` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHINTAI|SHINTAI]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self born in the soul's lower nature purified by buddhi.
+
+> "Ninigi on his descent to earth took to wife Konohana-sakuyahime (lady-blooming-like-the-flowers-of-the-trees). Her father Ohoyamatsu-mi (great-mountain-person) had offered him both his daughters, but the elder was rejected by Ninigi as being too ugly. Her name was Iha-naga-hime (rock-long-lady). She in her shame and resentment, uttered a curse and said: 'The race of visible men shall change swiftly like the flowers of the trees, and shall decay and pass away.' This is the reason why the life of man is so short."—W. G. Aston, *Shinto*, p. 112.
+
+The Self born in the lower nature became allied with Faith-in-the-Divine-within,—a product of Aspiration which at first produces Trust-in-tradition-and-authority, with which the Self cannot ally itself. But the teaching of Tradition is self-destructive, for opinions (visible men) change swiftly, and authorities lose hold and pass away.
+
+See AMATERASU, FAITH, INCARNATION, INSIGNIA, MIRROR, MITEGURA, MOUNTAIN, OX-LEADER, PHARISEES, PRIESTS AND ELDERS, SHINTAI, TRADITION, VAIRAUMATI.
+
+**Corrections made:** `shal]` → shall; `ie` → is; `Astron` → Aston; `ladyblooming - like - the - flowers -of- the- trees` → lady-blooming-like-the-flowers-of-the-trees; `Faith-in-the Divine-within` → Faith-in-the-Divine-within; `Trust-intradition` → Trust-in-tradition; page heading `637 NIRVANA` removed from mid-sentence; See-list spellings restored (`FarTH`, `Mrmror`, `Prrests`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

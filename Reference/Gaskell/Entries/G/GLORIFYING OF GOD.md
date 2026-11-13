@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-glorifying-of-god
 headword: "GLORIFYING OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `KING OF GLORY` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING OF GLORY|KING OF GLORY]] |
 | `SrENDyaD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
 | `Sun (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the perfecting of the soul, which then returns into the Absolute, who gave it to the planes of the relative existence for the express purpose of Self-expression, which being completed, corresponds to the glorifying of God.—See Matt. v. 16; Rom. xv. 6.
+
+See ASCENSION OF OSIRIS, JESUS (son of man), KING OF GLORY, SPENDYAD, SUN (moon).
+
+**Corrections made:** `Mart.` → Matt.; `6).` → 6.; See-list spellings restored (`SrENDyaD`, `Sun`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

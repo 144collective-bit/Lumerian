@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-maha-yana-and-hina-yana
 headword: "MAHA-YANA AND HINA-YANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,16 @@ tags:
 | `Prreryana` | **unresolved** (review queue) |
 | `SOUL (middle)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOUL (MIDDLE ASPECT)|SOUL (MIDDLE ASPECT)]] |
 | `SPaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the course of the soul's evolution. The first indicates the soul's path after mind has begun to function and the Divine spark has been conferred: the second indicates the prior path of the monad of form wherein the desire-nature and the personality are developed in animal forms on the lunar and terrene globes. Mâha-yâna and Hîna-yâna have the same significations as Devayana and Pitriyana. They indicate the double origin of the human being. The origin on the higher side from spirit and mind, and on the lower side from matter and desire;—the spiritual man and the natural man;—the two conflicting interests within the soul. On the greater path (Mâha-yâna) man has descended from God; on the lesser path (Hîna-yâna) he has ascended from the animal, and now he possesses the two natures within him.
+
+See DEVAYANA, EVOLUTION, FALL, HIGHER AND LOWER, LUNAR CYCLE, MAN (born), MAN (natural), MOON-WAXING, -WANING, PITRIYANA, SOUL (middle), SPARK.
+
+**Corrections made:** `Miaha-ydna`, `Hina-yfna` → Mâha-yâna, Hîna-yâna; `evolution, The first` → evolution. The first; page heading `INDIVIDUALITY, MAIDEN` removed from mid-sentence; See-list spellings restored (`Prreryana`, `SPaRK`, `MoonWAXING`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

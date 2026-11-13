@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paradise-lower
 headword: "PARADISE (LOWER)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `MEADOW OF HADES` | **unresolved** (review queue) |
 | `SLEEPING` | **unresolved** (review queue) |
 | `SVABGA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A pleasurable state of illusion on the astro-mental plane.
+
+> "Verily, the moon is the door of the Svarga-world."—*Kaush. Upanishad*, I. 2.
+
+Truly the moon is the symbol of the astral paradise created by desire as an illusion of the mind.
+
+See [Hanavarti1?], MEADOW OF HADES, SLEEPING, SVARGA.
+
+**Corrections made:** `SVABGA` → SVARGA; quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[Hanavarti1?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

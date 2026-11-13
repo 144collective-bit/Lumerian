@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-head-of-horus-on-a-pole
 headword: "HEAD OF HORUS ON A POLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `POLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration and Divinely directed intelligence dominant over the lower nature. See HORUS, POLE, SERPENT (hissing), SET.
+
+**Corrections made:** `Honus` → HORUS; `Set` → SET.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

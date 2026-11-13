@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-opposites-pairs-of
 headword: "OPPOSITES, PAIRS OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,42 @@ tags:
 | `Summer` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `Susanowo` | **candidate (first-segment only)** → possible `SUSA-NO-WO, GOD OF THE SEA` (not linked) |
 | `VIGARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIGARA, THE AGELESS RIVER|VIGARA, THE AGELESS RIVER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are positive and negative aspects of qualities, without which manifestation on the lower planes could not occur. The negative aspects imply the absence of the positive, and are therefore illusive.
+
+> "While Ormazd was thus completing his Light creation, Ahriman was making a corresponding evil being for every good being created by Ormazd. These stood in their ranks and orders, with their seven presiding evil spirits, or Daevas, corresponding to the Amshaspands."—Zoroastrian System.
+
+Whilst upon the upper planes the archetypal creation was proceeding, upon the lower planes of manifestation the dual, or opposite, of each quality was produced by the lower principle. The dual in the lower comes as an opposite thing to the relationship of the mind with the quality. It is through the inverted reflection below of the things which are above that illusion is created in the lower mind. The lower conception of things is always finite and limited;—it always requires qualification. The order in which the ranks are maintained refers to the several planes upon which the universe is manifest. In each case the opposite is produced of whatever is ideally created.
+
+> "And from Mashya and Mashyoi arose seven pairs, male and female, and each was a brother husband and a sister wife; and from every one of them in fifty years children were born, and they themselves died in a hundred years."—*The Bundahis*, Ch. XV. 24.
+
+And from reason and emotion—dual aspects of the Self,—came forth the seven pairs of opposites which now actively function on the planes of relativity. These are the active and passive aspects of the several emotional and mental qualities. The seven pairs are:—Like—dislike; Faith — unfaith; Hope — despondency; Aspiration—contentment; Strength —weakness; Pity—apathy; Courage —fear. From these, during the period of cyclic activity, "children" or experiences were born. The dual aspects of the Self are destined eventually to be absorbed and superseded in the course of a double cyclic period.
+
+> "The ten fundamental oppositions (in the Pythagorean table of opposites) were as follows:—(1) Limited and Unlimited; (2) Odd and Even; (3) One and Many; (4) Right and Left; (5) Masculine and Feminine; (6) Rest and Motion; (7) Straight and Crooked; (8) Light and Darkness; (9) Good and Evil; (10) Square and Oblong. ... According to this theory the primary constituents of things are of a dissimilar and opposite nature; a bond was therefore necessary to unite them, and cause them to be productive. This bond of the elements is harmony."—Zeller, *Hist. of Greek Philos.*, Vol. I. pp. 381-3.
+
+> "The German philosopher Hegel holds that a thing can only exist through its opposite, that the thing and its opposite must arise together, and that eternally, as the complements of a unity; white is not without black, nor black without white, good is not without evil, nor is evil without good. This is the doctrine of the Siphra D'Tzni-oothah and the Sepher Y'tzeer-ah. At the very beginning of the life germ, dissolution and death [assail?] its vitality and endeavour to destroy it, and the whole existence of man in this world is a continual struggle to preserve his vitality."—Myer, *Qabbalah*, p. 184.
+
+> "The Deity has created both the good and the evil, and the one is absolutely necessary to the existence of the other. It (Qabbalah) considers that each human being is accompanied throughout its life on earth, and is influenced spiritually, by two spirits, the good and the evil. These are the oppositions, but the free-will of the individual is the harmony by which he exercises the Divine power of judgment, and accepts the one or the other as his master."—*Ibid.*, p. 126.
+
+> "There is but one potency of two contraries, because contraries are apprehended by one and the same sense, therefore belong to the same subject or substrate; where the principle (i.e. the source or faculty) of the knowledge of two objects is the same, the principle (i.e. elementary form) of their existence is also one."—McIntyre, *Bruno*, p. 177.
+
+> "The Contrariety in nature causeth Strife.... For without contrariety (that is) contrary properties, is no strife, and without strife is no production, and without production all would be stillness, inactivity, and unknown to itself. Thus the properties which when separate are authors of a hellish kingdom, are also, when they operate harmoniously, the exalters of the Divine blessed kingdom of Love."—Boehme, *Answer to 22nd Question*.
+
+> "The doctrine of development by contraries was passed from Sebastian Frank to Paracelsus, and from him to Weigel. According to this theory, God manifests himself in opposites. The peace of Unity develops into the strife of the Manifold. ... Only by resistance, only in collision, is the spark of vitality struck out, is power realised, and progress possible."—Vaughan, *Hours with the Mystics*, Vol. II. p. 92.
+
+> "And as a man driving in a chariot might look at the two wheels, thus he will look at day and night, thus at good and evil deeds, and at all pairs (correlative things). Being freed from good and evil, he, the knower of Brahman, moves as Brahman."—*Kaush. Upanishad*, [reference unclear].
+
+The perfected ego now regards the activities of opposite qualities as together equally (as wheels) carrying forward the soul (chariot) in its progress heavenward. Knowledge and ignorance, right and wrong actions, have respective parts in soul-development; and neither can manifest without the other. The balanced mind having become stilled by the action from above, extends its vision so that the pairs of opposites become as aspects of the one great Reality, and the indwelling Self knows Itself alone to be the Doer. Then being free from all relativity,—from good and evil alike,—He, the Knower, passes into the Supreme (Brahman), having known that His nature is that of the Supreme.
+
+> "A certain limitation of the true selfhood of every individual is necessitated. If the essential nature of the good is to become manifest in every [part]icular, then in every particular it must be confronted with its opposite, that it may strive against it and overcome it. Why, the very word 'good' implies acquaintance with evil, just as white implies black, and light implies darkness. The current flowing along an electric wire never shines until it meets with resistance; then it flames forth; and this is just the way God has worked throughout human experience. Treachery and violence are not only the opposites of, but the limitations imposed upon, all latent fidelity and gentleness. God has [wrapped] up the divine consciousness within these limitations and bidden it work its way through, and this is what the race has been doing all through its long strenuous history."—R. J. Campbell, *Serm.*, *Solidarity of Spiritual Experience*.
+
+See AHRIMAN, AKEM-MANO, BRAHMA, CHARIOT, COLD AND HEAT, CREATION, DAEVAS, [Enicorio?], EVIL, [Fravak?], GOSHURUN, [Guiry?], ILLUSION, [Matro?], [Nor?], [Ormionevus?], PLAGUES, RELATIVE, RICH MAN, SEEDS OF FOODS, STRIFE, SUMMER, SUSANOWO, [VIGARA?].
+
+**Corrections made:** `@` → a; `thomselves` → themselves; `sa hundred` → a hundred; `bo` → be; `MascuVine` → Masculine; `constituente` → constituents; `elementa` → elements; `ZELLEER` → Zeller; `ite` → its; `iteelf` → itself; `McInryre` → McIntyre; `BorHume` → Boehme; `VavuGHAN` → Vaughan; `IJbid.` → Ibid.; `substate` → substrate; `troy` → destroy; `icular` → [part]icular; `over. come` → overcome; `wrap up` → wrapped up; `Oubbala` → Qabbalah; page headings `551 OPPOSITES`, `OPPRESSORS`, `ORDERS` and `552` removed from mid-sentence and the See list; See-list spellings restored (`Darvas`, `Evi`, `InLusion`, `Chariott`, `GosHuroun`, `Summer`, `PLAGuES`, `SEEDS oF FooDs`); and similar minor fixes.
+
+**Unclear or supplied:** `[assail?]`: OCR reads `ae ite`. `moves as Brahman`: OCR reads `moves a Brahman`. `[reference unclear]`: OCR gives only a stray `s` after `Kaush. Upanishad,`. `[part]icular` and `[wrapped]` are supplied from damaged OCR. See-list items `[Enicorio?]`, `[Fravak?]`, `[Guiry?]`, `[Matro?]`, `[Nor?]`, `[Ormionevus?]`, `[VIGARA?]` could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

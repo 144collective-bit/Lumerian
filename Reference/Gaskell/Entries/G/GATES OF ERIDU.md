@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gates-of-eridu
 headword: "GATES OF ERIDU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `Pytons` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS|PYLONS (GATEWAYS) OF THE STILL HEART, THE HOUSE OF OSIRIS]] |
 | `Sza` | **unresolved** (review queue) |
 | `TAMMUZ` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher manas which communicates between the higher and lower regions of existence.
+
+> "At night Adapa drew the bolts of the gates of Eridu, and at dawn he sailed forth in his bark to fish in the waters of the Persian Gulf."—*Legend of Adapa*. Sayce, *Rel. of Anc. Egypt*, etc.
+
+"Adapa" is a symbol of the Archetypal Man in the aspect of the lower self at an early stage. "At night,"—the period when the lower self appears to be cut off from the Higher,—he is said to "draw the bolts of the gate between heaven and earth;" that is, the condition of the soul requires the forthpouring of the Spirit to open a way to the lower planes. Then at the period of forthgoing (the dawn), he goes in search of that which will provide him with sustenance. The "bark" is the manas, or mental vehicle, which sails on the astral sea. The "fish" are those facts or appearances which come to him as sensations, feelings, and emotions, and which present themselves at the dawn of consciousness.
+
+See ADAPA, ARC. MAN, BOLTS, BRIDGE, DAWN, ERIDU, FISH, MANAS, NIGHT, PYTHONS, SEA, TAMMUZ.
+
+**Corrections made:** `Sayoe` → Sayce; `eto.` → etc.; `out off` → cut off; page heading `GATES` removed from mid-sentence; See-list spellings restored (`BOLts`, `Bripcr`, `Eripv`, `Fiss`, `Nieut`, `Pytons`, `Sza`); quotation marks normalised.
+
+**Unclear or supplied:** A closing quotation mark is supplied after "heaven and earth;" (the OCR has none).
 
 ## Full OCR entry body (exact)
 

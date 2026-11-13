@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-of-three-sorts-on-earth
 headword: "BEASTS OF THREE SORTS ON EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `ROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 | `SEEDS (men)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `YMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the first three root-races, being of an astral nature.
+
+> "Ahura Mazda and Yima called meetings of Gods and mortals, as bad times were coming, and the three sorts of beasts would perish."—*Vendidad*, II.
+
+The Supreme through the Higher Self, calls a gathering together of the higher aspirations and practical forces, as a reckoning time was shortly to be arrived at: that is, the period when the carrying on of involution on another globe takes place. The period described is the period preceding evolution. The first three root races in evolution would in turn perish.
+
+See ASTRAL PLANE, GODS, MAN (born), MOON, PLANETARY CHAIN, [PITRIS?], RACES OF MEN, [RACHA?], ROOT-RACES, ROUND, SEEDS (men), [YIMA?].
+
+**Corrections made:** `root- | races` → root-races; `calied` → called; `sorta` → sorts; stray `|` removed; page heading `BEASTS` removed from mid-sentence; See-list spellings restored (`Gops`, `OCOHAIN`, `RoorRaCES`).
+
+**Unclear or supplied:** `[PITRIS?]` (OCR `Prius`), `[RACHA?]` (`RacHa`) and `[YIMA?]` (`YMA`) are uncertain See-list readings.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fat-dripping-down
 headword: "FAT DRIPPING DOWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Sacriricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SExr` | **unresolved** (review queue) |
 | `VILLAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VILLAGE|VILLAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire nature which is directed to the sensations and the objects of sense.
+
+> "When the sacrifice was completed, [he] collected the [word unclear] fat from it; it formed the beasts of the air, of the wild places and of the village."—*Rig-Veda*, X. 90, 8.
+
+The "dripping fat" signifies the love-nature inverted in the downward attraction of the mind (air), and to be found in the desires (beasts) and passions (wild) connected with the astral centre (village). The "sacrifice was completed" means that the Self was fully involved in matter, that is, the One Self had limited Himself in order that the many selves should have life through Him.
+
+See ANIMALS, ARC. MAN, BEASTS, INCARNATION, INVOLUTION, LAMB OF GOD, SACRIFICE, SACRIFICER, SEX, VILLAGE.
+
+**Corrections made:** `ae` → [he]; `racer |` → [word unclear]; `RigVeda` → Rig-Veda; `SacriFice, Sacriricer, SExr` → SACRIFICE, SACRIFICER, SEX; `LaMB oF cop` → LAMB OF GOD; quotation marks normalised.
+
+**Unclear or supplied:** `[he]` is a likely reading of OCR `ae`; `[word unclear]` for OCR `racer |`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-respectful-manners
 headword: "RESPECTFUL MANNERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `RELATIVE` | **unresolved** (review queue) |
 | `Yao` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of harmony in human conditions during the period of involution.
+
+> "Human beings, among whom respectful manners and pure customs prevailed, occupied one territory."—*Chinese Mythology*, Kidd, *China*.
+
+And now is developed the humanity of the fabled Golden Age,—the early type of man in which the absence of all relative experience of opposites appears as Edenic perfection. The "territory" is a symbol of the limitation imposed upon the race by the Absolute.
+
+See CIVILISING, EDEN, GOLDEN AGE, OPPOSITES, RACES, RELATIVE, YAO.
+
+**Corrections made:** `Kipp` → Kidd; `”,—` → ."—; `Opposites`, `Races`, `Yao` See-list restored; quotation marks normalised.
+
+**Unclear or supplied:** `Kidd` is a best reading of `Kipp`.
 
 ## Full OCR entry body (exact)
 

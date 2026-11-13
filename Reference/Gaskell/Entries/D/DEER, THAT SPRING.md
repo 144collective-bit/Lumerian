@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deer-that-spring
 headword: "DEER, THAT SPRING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Marvuts` | **unresolved** (review queue) |
 | `Rar` | **unresolved** (review queue) |
 | `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of aspirations towards the truth.
+
+> "The spotted deer are the recognised animals of the Maruts, and were originally, as it would seem, intended for the rainclouds."—Max Müller, *S. B. of E.*, Vol. XXXII. p. 70.
+
+The spottedness signifies the impure appearance of the lower manifestation, which nevertheless is all pure within, and representative of the activities of the spiritual monads or divine Sparks (the Maruts). The aspirations are responded to from above, and buddhi (rain-cloud) showers truth.
+
+See CLOUDS, MARUTS, RAIN, SPOTTED.
+
+**Corrections made:** `Tho` → The; `MULLER` → Müller; See-list spellings restored (`Croups`, `Marvuts`, `Rar`); and similar minor fixes.
+
+**Unclear or supplied:** A full stop was supplied after "truth" where the OCR ran into the quotation.
 
 ## Full OCR entry body (exact)
 

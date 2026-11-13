@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-messenger-of-the-divine
 headword: "MESSENGER OF THE DIVINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `Szrvanrs` | **unresolved** (review queue) |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `Tue` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an outpouring of the Spirit according to cyclic law.
+
+> "Behold I send my messenger, and he shall prepare the way before me: and the Lord whom ye seek, shall suddenly come to his temple; and the messenger of the covenant whom ye delight in, behold he cometh, saith the Lord."—Mal. iii. 1.
+
+This is the assurance of the gift of the Spirit, which independent of the limitations of time and space "cometh without observation." The temple is the "temple not made with hands, eternal in the heavens"; and into that "temple" or causal-body,—so soon as the Lord's "willing servants," or lower functionings of the consciousness in the virtues, are ready to receive him,—will come the Sun of Righteousness, the Higher Self or Higher consciousness, who will for ever make his abode among the chosen of the Lord; i.e. among the transmuted qualities.
+
+> "God dwells in the highest part of the soul. He who ascends this height has all things under his feet. We are united to God when, in the practice of the virtues, we deny and forsake ourselves, loving and following God above all creatures" (Ruysbroek).—Vaughan, *Hours*, etc., Vol. I. p. 328.
+
+See ABODE, AMSHASPANDS, ANGELS, ARCHANGELS, CAUSAL-BODY, CONSCIOUSNESS, DEVAS, [Herieuzs?], [Ses?], SERVANTS, TEMPLE, [Tue?].
+
+**Corrections made:** `MAL.` → Mal.; `oconsciousness` → consciousness; `our. selves` → ourselves; `VAauGHAN.` → Vaughan,; `Szrvanrs` → SERVANTS; and similar minor fixes.
+
+**Unclear or supplied:** `[Herieuzs?]`, `[Ses?]` and `[Tue?]` are damaged See-list items that cannot be identified.
 
 ## Full OCR entry body (exact)
 

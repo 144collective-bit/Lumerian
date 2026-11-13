@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hapi-god-or-nile
 headword: "HAPI GOD, OR NILE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Nrzzg` | **unresolved** (review queue) |
 | `NO` | **unresolved** (review queue) |
 | `RIVER or LIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life which, like a river, flows from the higher planes downwards to fertilise the lower planes.
+
+> "The living and beautiful Nile (god Hapi), who loveth Nu, the father of the [gods?] and of the divine cycle, he who dwelleth in the river. . . . Thou art lord of many fish and gifts; thou givest food unto Egypt. The divine cycle knoweth not where thou art. Thou art its life."—*Hymn to Hapi*, Wiedemann, *Rel. of the Egyptians*, p. 147.
+
+The energising and bountiful Divine Life is united with the Divine powers (Nu) operating in the universe and the soul, according to the scheme of manifestation. Through the Divine Life truths (fish) are bestowed upon the soul, and the mind (Egypt) is nourished thereby. The forms embodying the life in the cycle of manifestation perceive not the indwelling Spirit by which they exist. God is hidden in his universe. See EGYPT, FISH, FOOD, GODS, MOIST, NILE, NO, RIVER OF LIFE.
+
+**Corrections made:** `g and` → gods; `ita` → its; `Hdpi` → Hapi; `Ni` → Nu; See-list spellings restored (`Eayrr`, `Fisu`, `Foop`, `Gops`, `Morst`, `Nrzzg`→NILE, `RIVER or LIFE`); quotation marks normalised.
+
+**Unclear or supplied:** `[gods?]`: OCR `g` after "father of the". `MOIST` is a likely restoration of OCR `Morst`.
 
 ## Full OCR entry body (exact)
 

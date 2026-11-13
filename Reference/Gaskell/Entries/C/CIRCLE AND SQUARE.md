@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circle-and-square
 headword: "CIRCLE AND SQUARE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `I A O` | **unresolved** (review queue) |
 | `QUATERNABY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the higher nature and the lower nature—the Triad and the Quaternary.
+
+> "Sixty-four diagrams which are represented in a circle as emblematical of heaven, because heaven, according to Chinese notions, is round; and the same number of diagrams, so disposed in a square as to make eight every way, is a similitude of the earth, which, on the principles of the same philosophy, is an Immovable square in the centre of the universe, around which the heavens constantly revolve."—Kidd, *China*, p. 306.
+
+The number of the emblematic divisions, 8 X 8 = 64, signifies completion of a process which ushers in a new state of manifestation. The lower nature, or physical nature (earth) is the foundation and centre of the evolutionary process which brings forth the higher nature into a new state of actual being. From the point of view of the lower consciousness, the infinite revolves round the finite.
+
+See BOAT OF THE EARTH, CIRCLE, HEAVEN AND EARTH, I A O, QUATERNARY, SQUARE.
+
+**Corrections made:** `repreCIRCUMCISION sented` → represented (page heading `CIRCUMCISION` removed from mid-word); `Kipp` → Kidd; `Froin` → From; See-list spellings restored (`Boat`, `QUATERNABY`).
+
+**Unclear or supplied:** `Kidd` is read from `Kipp`. `BOAT OF THE EARTH` is read from `Boat OF THE EARTH`.
 
 ## Full OCR entry body (exact)
 

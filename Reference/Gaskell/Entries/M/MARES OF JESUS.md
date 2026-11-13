@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mares-of-jesus
 headword: "MARES OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `Footprints OF BUDDHA` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOTPRINTS OF BUDDHA|FOOTPRINTS OF BUDDHA]] |
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuitions of the causal-body which is the vehicle of the Higher Self.
+
+> "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus."—Gal. vi. 17.
+
+Henceforward no simply rational (man) considerations shall have weight with me; for I bear the intuition of Truth in the Christ-vehicle, or causal-body, within me, which shall place me above the subtle reasonings of logicians and the dubious authority of literalists and historians, by giving me direct knowledge of truth. (The lower is the vehicle of the higher, but until the relationship between plane and plane is established in the soul, so that consciousness may pass and repass, there can be no consciousness below of any functionings above. Hence the allusion.)
+
+> "The explanation of Wetstein still seems to us to be the best; according to this, Paul means sacred signa, in virtue of which he is declared to be one consecrated to Christ."—G. A. Deissmann, *Bible Studies*, p. 350.
+
+See BUDDHA (marks), CAUSAL-BODY, FOOTPRINTS OF BUDDHA, MAN.
+
+**Corrections made:** `Ga..` → Gal.; `causalbody` → causal-body; `Wetetein` → Wetstein; `DrissMANN` → Deissmann; See-list spellings restored (`Buppua`, `Footprints`).
+
+**Unclear or supplied:** None. (The headword and the text read "marks"; the OCR headword `MARES` is not corrected in the body since it does not occur there.)
 
 ## Full OCR entry body (exact)
 

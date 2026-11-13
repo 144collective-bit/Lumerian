@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flesh
 headword: "FLESH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `THIGHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THIGHS OF BULLS AND GOATS|THIGHS OF BULLS AND GOATS]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature, with its desires and passions.
+
+> "So then, brethren, we are debtors, not to the flesh, to live after the flesh; for if ye live after the flesh, ye must die; but if by the spirit ye mortify the deeds of the body ye shall live."—Rom. viii. 12, 13.
+
+> "By flesh is signified man's proprium or self-hood, which in itself is evil." "In a good sense flesh signifies the good of the church."—Swedenborg, *Apoc. Rev.*, n. 748, 832.
+
+See BURNT-OFFERING, ROASTED, CREMATION, SACRIFICE, THIGHS, VULTURE.
+
+**Corrections made:** page heading `281 FLESH` removed from mid-sentence; `ite` → its; `8o` → So; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

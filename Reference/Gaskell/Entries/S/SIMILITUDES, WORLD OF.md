@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-similitudes-world-of
 headword: "SIMILITUDES, WORLD OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,22 @@ tags:
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `YETZEERATIC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YETZEERATIC WORLD, THE WORLD OF FORMATION|YETZEERATIC WORLD, THE WORLD OF FORMATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane, next above the physical.
+
+> "The World of Similitudes is so called because in it exist, ready to be materialised, the forms which are to be actualised on the Physical Plane. The confines of this World of Similitudes touch those of the Visible World."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 56.
+
+The forms on the astral plane are reproductions of forms on the mental plane, the which forms have been modified by karmic agencies.
+
+> "Occultism teaches that no form can be given to anything, either by nature or by man, whose ideal type does not already exist on the subjective plane: more than this, that no form or shape can possibly enter man's consciousness, or evolve in his imagination, which does not exist in prototype, at least an approximation. Neither the form of man, nor that of any animal, plant or stone, has ever been 'created'; and it is only on this plane of ours that it commenced 'becoming,' that is to say, objectivising into its present materiality, or expanding from within outwards."—Blavatsky, *Secret Doctrine*, Vol. I. p. 303.
+
+See ANDREW, ARC. MAN, ASTRAL PLANE, COSMOS, CREATION, FORMS, IMAGE, KARMA, PROTOTYPES, WORLDS (five), YETZEERATIC.
+
+**Corrections made:** `Grss, Hrst.` → Gibb, Hist.; `an san approximation` → an approximation; `BriavatTsxy` → Blavatsky; See-list spellings restored (`Cosmos`, `Imace`, `Karma`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

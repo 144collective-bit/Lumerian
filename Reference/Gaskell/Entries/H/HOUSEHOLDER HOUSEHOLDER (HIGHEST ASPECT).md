@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-householder-householder-highest-aspect
 headword: "HOUSEHOLDER HOUSEHOLDER (HIGHEST ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `STEWARD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STEWARD OF THE LORD OF THE VINEYARD|STEWARD OF THE LORD OF THE VINEYARD]]; [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WAGES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos or Supreme Self.
+
+> "The kingdom of Heaven is like unto a man that is a householder, which went out early in the morning to hire labourers into his vineyard."—Mat. xx. 1.
+
+The First Logos, ruling on the higher planes, is as one who goes forth under many aspects, and calls all the forms of His own life within his universe, to discharge their appointed tasks in the arena of existence.
+
+See JUSTICE, KINGDOM OF HEAVEN, LABOURERS, MONEY, PARABLE, STEWARD, VINEYARD, WAGES.
+
+**Corrections made:** `@ man` → a man; `Mar. xx. lI.` → Mat. xx. 1; `Money` → MONEY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

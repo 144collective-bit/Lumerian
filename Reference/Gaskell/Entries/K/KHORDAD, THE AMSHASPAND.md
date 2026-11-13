@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-khordad-the-amshaspand
 headword: "KHORDAD, THE AMSHASPAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `WATER (higher)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YEaR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Time, a mode of manifestation of the Supreme; in this aspect it becomes the interpreter of Truth in such terms as are reflected in cycles, succession, duration, and evolution.
+
+> "Khordad was chief of the seasons, years, months, and days, and also protector of the water from Anduisur on Albordj."—*Zoroastrian System*.
+
+See ALBORDJ, AMSHASPANDS, ANDUISUR, KRONOS, SEASONS, WATER (higher), YEAR.
+
+**Corrections made:** `-of the Supreme` → of the Supreme; `Kronvus` → KRONOS; `YEaR` → YEAR; page heading `VEHR KHUS` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

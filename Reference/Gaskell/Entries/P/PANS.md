@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pans
 headword: "PANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `CENTAURS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CENTAURS|CENTAURS]] |
 | `SATYRS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the activities of the lower mind, that is, desire-mental functionings of the brain-mind. See CENTAURS, SATYRS.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

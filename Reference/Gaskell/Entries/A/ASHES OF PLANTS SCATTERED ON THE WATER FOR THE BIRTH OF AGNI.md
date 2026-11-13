@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ashes-of-plants-scattered-on-the-water-for-the-birt
 headword: "ASHES OF PLANTS SCATTERED ON THE WATER FOR THE BIRTH OF AGNI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `AGNI` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AGNI, THE FIRE-GOD|AGNI, THE FIRE-GOD]] |
 | `(lower)` | **unresolved** (review queue) |
 | `WarrR (higher)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the preparation for the birth of the indwelling Self in the lower nature of the soul.
+
+> "While meditating, the gods saw this,—'Let us take the fire-pan down to the water; for the water is the foundation of this universe: having settled it thereon, we shall reproduce from out of the water what there is of Agni's nature in this heap of ashes.'—They then took it down and threw the ashes into the water; and in like manner does this Sacrificer now take it down to the water. 'O divine waters, receive ye these ashes, and put them in a soft and fragrant place!'—that being consumed, matter run its course. . . . waters, even as a mother bears her son.' 'In the waters, O Agni, is thy womb,—being in the plants' womb thou art born again. Thou art the child of the herbs, the child of the trees, the child of all that is, O Agni, thou art the child of the waters,—the child of [the] universe.'"—*Sata. Brâh.*, VI. 8, 2,
+
+The quiescent higher nature (the gods) then perceived that the time had arrived for God to manifest directly in the lower nature. The latent soul (fire-pan) is therefore to be brought down, as it were, to the astral plane (water); for the Divine Reality operates through the astral nature as a foundation for evolution. The soul, or higher nature, being firmly connected with the lower, there will then be reproduced from the astral nature what there is of spiritual quality in the latent matter of the soul (the ashes). So the higher and the lower natures were united for the expression of the Spirit. In like manner the individuality now emanates the ego into the lower vehicles at every incarnation. O probationary existence, receive ye these latent higher qualities and place them in a mental condition of gentleness and purity, that becoming raised from latency, there may be no further need for the life of matter on the lower planes! Bear ye the germ of Spirit in the purified lower nature, even as the virgin mother bears her Divine Son. In the purified emotions (waters) is the matrix of the Christ. In the transfigured emotion-nature (plants' womb) the Christ is re-born. Thou O Christ-soul! art the child of the affections and aspirations, and of all nature. For, O indwelling God! thou art brought forth from out of the waters of life and the phenomenal realm.
+
+See AGNI, [word unclear] (lower), WATER (higher).
+
+**Corrections made:** Page heading `ASHES` removed from mid-sentence (`fragrant ASHES lace`); `lace` → place; `ite` → its; `Bréh.` → Brâh.; `tho` → the; `emotionnature` → emotion-nature; `WarrR` → WATER; quotation marks normalised.
+
+**Unclear or supplied:** `[the]` is supplied (OCR `7 universe`). The Sata. Brâh. reference ends at `VI. 8, 2,` in the OCR and may be cut short. A See-list item before `(lower)` is missing in the OCR and shown as `[word unclear]`. The quotation has a gap shown by the OCR's ellipsis (`. . .`); `- --` in the OCR is read as a dash.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-barley-corns
 headword: "BARLEY-CORNS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,35 @@ tags:
 | `Woop (holy)` | **unresolved** (review queue) |
 | `YaanaPAVITA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YAJNOPAVITA,-THE SACRED CORD, OR SACRIFICIAL THREAD|YAJNOPAVITA,—THE SACRED CORD, OR SACRIFICIAL THREAD]] |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of Wisdom and Love,—the food of the soul.
+
+> "You are clarified butter and honey, O ye barley-corns; you are water and ambrosia. May you efface whatever sinful acts I have committed. Sins committed by words, by acts, and by evil thoughts."—*Institutes of Vishnu*, Ch. 48, 18.
+
+Signifying; may Love and Wisdom and celestial Truth, purify my soul in expression, in deed, and in thought!
+
+> "He throws the barley-corns in with, 'Thou art barley (yava), keep thou (yavaya) from us the haters, keep from the enemies!'"—*Sata. Brâh.*, III. [number unclear], 1, 4.
+
+The spiritual mind receives and transmits the vibrations of wisdom and love which are to rescue the soul from captivity to the desires (enemies).
+
+See AMBROSIA, BUTTER, FOOD, HONEY, WATER.
+
+### Also in this note: BARSOM
+A ceremonial implement used in the Parsi ritual. It consists of a bundle of twigs or metal rods, which when not in use is placed across two crescent-shaped supports. The barsom is ceremonially sprinkled with milk:—
+
+The bundle of twigs symbolises the currents or vibrations passing to and fro between the buddhic and astral planes. The currents represent the buddhic responses to the astral aspirations, and also the consequent growth of higher emotions as the indwelling Self is awakened through sensation and feeling. The two crescents at either end stand for the moon, which is a symbol of the astral nature, and through that of the buddhic. The Wisdom Goddesses are superlunar and often shown standing on the crescent moon. The "milk" signifies wisdom and love to nourish the soul.
+
+> "For our welfare the fire-priest (athrava) Spitama Zarathushtra [word unclear] he offered sacrifice for us and arranged the holy twigs (barsom). Thus comes forth from the waters (i.e. from its source) the good religion of the Mazda [spreading?] over all the seven regions of the earth."—*Fravardin Yasht*, Haug, *Essays on the Rel. of the Parsis*.
+
+For the salvation of our souls, the great High Priest, the Higher Self, was born into the lower nature as the World-soul (Zoroaster) in the cycle of involution, becoming thereby a sacrifice for us, that through His limitation of himself we might attain to His perfection. For this end He provides the means, namely, the astro-buddhic process (barsom), for the growth of the higher nature in our souls. Thus comes forth from the eternal Truth (waters) the spiritual life of the Divine Monads, which outflows through all beings that exist in the seven globes of the planetary chain.
+
+See [ALCHEMY?], [ATHRAVA?], BARHIS, BIRTH (second), BLASPHEMY, BUDDHI, BUCKLE, CRANIUM, DÆMONS, [EPHOD?], GIRDLE, KUSTI, MOON, REGIONS, RELIGION, SACRIFICE, SELF, TAMA-GUSHI, WOOD (holy), YAGNA-PAVITA, ZOROASTER.
+
+**Corrections made:** `Jnstitutes` → Institutes; `May-you` → May you; `Bréh.` → Brâh.; `Waa boris he` → [word unclear] he; `Masda` → Mazda; `ita source` → its source; `reading` → [spreading?]; `e earth` → the earth; `Have, ee on the Rel. of the Parais` → Haug, Essays on the Rel. of the Parsis; `crescentshaped` → crescent-shaped; page heading `BATTLE` removed from mid-sentence; See-list spellings restored (`Amprosia`, `Burren`, `Foon`, `Honry`, `BrmtH`, `BiaspHemy`, `BuvupDHI`, `BucKLE`, `Dz#mons`, `GirmpLE`, `Tama-GusHl`, `YaanaPAVITA`).
+
+**Unclear or supplied:** Contains a second entry: BARSOM. `III. [number unclear], 1, 4`: the OCR reads `III, , 1, 4`. `[word unclear] he` replaces OCR `Waa boris he`. `[spreading?]` is a guess for `reading`. In the second See list the readings `[ALCHEMY?]` (OCR `ALconeMY`), `[ATHRAVA?]` (`ATHORNE`) and `[EPHOD?]` (`Erxop`) are uncertain; `BLASPHEMY` for `BiaspHemy` is also uncertain.
 
 ## Full OCR entry body (exact)
 

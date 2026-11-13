@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jupiter-planet-tishtar
 headword: "JUPITER, PLANET, (TISHTAR)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
 | `SATURN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SATURN, PLANET|SATURN, PLANET]] |
 | `TISTRYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the benefic directive function of the Self, which leads, governs and initiates activities that go to the awakenment of ideals in the soul.
+
+> "I call upon the star Tishtar, the brilliant, the glorious; at the time when it is in the form of a Bull with golden horns, I call it most" (Vendidad, (Pahlavi), XIX. 126).—Haug, *Essays*, p. 389.
+
+I acclaim the Self, the fountain of Light and Truth, in his aspect of the positive, active, function of Wisdom, whereby he will awaken aspirations for wisdom and truth in the soul! I hold to my ideals.
+
+See BULL, HORNS OF GOLD, PLANETS, SATURN, TISTRYA.
+
+**Corrections made:** `Hava, EHeeaye, p- 389` → Haug, *Essays*, p. 389; `Butt` → BULL; quotation marks normalised.
+
+**Unclear or supplied:** The author and title in the attribution are damaged (OCR `Hava, EHeeaye`); `Haug, *Essays*` is the probable reading. The quotation ends "I call it most" in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mertet-sea
 headword: "MERTET SEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `AMARAVATI` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AMARAVATI|AMARAVATI]] |
 | `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `YATIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YATIS PEOPLE|YATIS PEOPLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a sub-plane of the astral plane.
+
+### Also in this note: MERU, MOUNT
+
+See AMARAVATI, MOUNTAIN, YATIS.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** Contains a second entry: MERU, MOUNT, which has only a See list in the OCR.
 
 ## Full OCR entry body (exact)
 

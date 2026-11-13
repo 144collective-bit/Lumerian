@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feast-royal-of-typhon-set
 headword: "FEAST, ROYAL, OF TYPHON (SET)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `DEATH oF osrnis` | **unresolved** (review queue) |
 | `Fatt` | **unresolved** (review queue) |
 | `St` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the junction of mind with desire, bringing about greater and wider activities in the lower nature. It is the fall of mind to the desire nature which stimulates the lower principle (Set).
+
+See DEATH OF OSIRIS, FALL, SET.
+
+**Corrections made:** `mature` → nature; `DEATH oF osrnis` → DEATH OF OSIRIS; `Fatt, St` → FALL, SET.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

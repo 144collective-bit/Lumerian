@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-far-darting-apollo
 headword: "FAR-DARTING APOLLO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `Surya` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol meaning that the Will and Power of the Logos extend everywhere, as the sun's rays through the solar system.
+
+See APOLLO, SURYA, SUN.
+
+**Corrections made:** `Surya, Sun` → SURYA, SUN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

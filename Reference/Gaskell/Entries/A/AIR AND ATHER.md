@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-air-and-ather
 headword: "AIR AND ATHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `HEAVEN AND EARTH` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN AND EARTH|HEAVEN AND EARTH]] |
 | `MONAD OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF LIFE|MONAD OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+At their highest significance these conjoined symbols stand for Matter and Spirit.
+
+> "All things were together, infinite both in number and in smallness; for the small also was infinite. And when they were all together, nothing was clear and distinct because of their smallness; for air and æther comprehended all things, both being infinite; for these are present in everything, and are greatest both as to number and as to greatness."—Fairbanks, *Anaxagoras*, I.
+
+At the beginning, that is, prior to involution, the parts of being were contained within the whole; and the parts themselves were not what they were destined to appear, since within them also was that infinite possibility which was the reflection of That whose image they bore. And in homogeniety, no part was distinguishable from the whole. Spirit and Matter,—Mind and Form, were the root of all existent things. All things comprise them, and these elements are the sum total of existence, and are eternal.
+
+See INVOLUTION, HEAVEN AND EARTH, MONAD OF LIFE.
+
+**Corrections made:** `aad` → and; `esther` → æther; `ll` → all; `FAaIRBANKS` → Fairbanks; page heading `AKEM-MANO` removed from mid-sentence; `eternal See` → eternal. See.
+
+**Unclear or supplied:** The OCR reads `|.` after *Anaxagoras*; set as `I.` but the reference is uncertain. A full stop is supplied after `eternal` before See.
 
 ## Full OCR entry body (exact)
 

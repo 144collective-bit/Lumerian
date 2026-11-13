@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-liver
 headword: "LIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `QaHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/Q/QAHU, CITY OF THE GODS|QAHU, CITY OF THE GODS]] |
 | `VISCEBA` | **unresolved** (review queue) |
 | `VITAL AIBS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature (flesh), or the lower qualities of the personality.
+
+See PROMETHEUS, SAHU, VISCERA, VITAL AIRS.
+
+**Corrections made:** See-list spellings restored (`QaHU`, `VISCEBA`, `AIBS`).
+
+**Unclear or supplied:** `SAHU` is read from OCR `QaHU`.
 
 ## Full OCR entry body (exact)
 

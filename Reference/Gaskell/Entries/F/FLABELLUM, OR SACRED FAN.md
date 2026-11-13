@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flabellum-or-sacred-fan
 headword: "FLABELLUM, OR SACRED FAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+When used, this is a symbol of the Spirit, the Divine Breath, energising the vehicles of the soul.
+
+See BREATH (divine), FAN.
+
+**Corrections made:** `Fan` → FAN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

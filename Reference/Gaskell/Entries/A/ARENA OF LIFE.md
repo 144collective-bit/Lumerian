@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arena-of-life
 headword: "ARENA OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary, or the mental, astral and physical planes on which the Soul expresses itself under the aspects of Will, Wisdom and Love.
+
+See FIELD, KNOWER, QUATERNARY, SETTLEMENTS, TUAT, VARA, WORLD, ZODIAC.
+
+**Corrections made:** `pbysical` → physical.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-carnelian
 headword: "CARNELIAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Gems` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `Isis` | **unresolved** (review queue) |
 | `JEWELS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of wisdom or intuition.
+
+> "Carnelian to strengthen his steps."—*Book of the Dead*. Budge, *Egyptian Magic*, p. 187.
+
+Carnelian, being red, was sacred to Isis (Wisdom).
+
+See GEMS, ISIS, JEWELS.
+
+**Corrections made:** `Bunce` → Budge; `Gems` → GEMS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-in-memfire-fanned-by-the-wind
 headword: "IN MEMFIRE FANNED BY THE WIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BuppHa` | **unresolved** (review queue) |
 | `Fan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FAN, PRODUCING WIND|FAN, PRODUCING WIND]] |
 | `WIND. 277` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual emotions of love and truth as developed by the mental activities.
+
+> "Then like the young sun on the eastern mountains, or the fire when fanned by the wind, the prince (Buddha) gradually grew in all due perfection, like the moon in the fortnight of brightness."—*Buddha-Karita*, Bk. II. 20.
+
+The "rising sun" is a symbol of the ascension of the Self in the soul; and this ascension is implied in the "fire" of celestial love and truth which is brought forth amid the kama-manasic nature wherein its development is commenced, as the emotion-nature first of all begins to grow up. As this refers to the period of Involution the "perfection" is archetypal, as is the "very good" of the first chapter of Genesis.
+
+See BUDDHA, FAN, WIND.
+
+**Corrections made:** Page number `277` removed from the end; See-list spellings restored (`BuppHa`, `Fan`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

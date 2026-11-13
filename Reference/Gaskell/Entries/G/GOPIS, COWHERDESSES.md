@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gopis-cowherdesses
 headword: "GOPIS, COWHERDESSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,26 @@ tags:
 | `QuaLitiEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Saryrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotions which accompany the manifesting Higher Self or Divine Soul.
+
+> "In those same amours (with the Gopis) to which Krishna surrenders himself, we have a picture of the wanderings of the soul (for Krishna is also the universal soul) and the ineffable blessedness which it experiences when, restored to itself and yielding to the invitations of [word unclear], it throws itself into the arms of God."—Barth, *Religions of India*, p. 231.
+
+> "The Gopis were madly in love with Krishna. As he played the flute they came to dance with him; but as all could not hold Krishna's hand as they danced, he multiplied himself into as many forms as there were women, each woman believing she held the hand of the true Krishna."—*Story of Krishna*.
+
+The higher emotions (Gopis),—those essentially of goodness, justice, truth, wisdom, kindness, patience, gentleness, serenity, peace, etc.,—were in close affection with the Divine Ideal born in the soul, and their activities were brought into harmony with the Divine activities. Each emotion became separately harmonised and in tune with the Divine soul, and so partook of the Divine nature, while they all worked together to promote truth and righteousness.
+
+> "Krishna is named Gopal, 'the Cowherd.'"—Barth, *Religions of India*, p. 220.
+
+> "Gosvamin—lord of cows—is an epithet of Krishna."—Mon. Williams, *Indian Wisdom*.
+
+"Cow" being a symbol of buddhi, these terms are accounted for as indicating that "Krishna" stands for the Higher Self,—atma-buddhi. See ARJUNA, BIRTH OF KRISHNA, BLANDISHMENTS OF WOMEN, BUDDHI, DANCE (circle), [Esrurr?], GOLOKA, HOURIES, KRISHNA, MUSES, MUSIC, QUALITIES, SATYRS, WOMAN.
+
+**Corrections made:** `fod` → God; `Banrn` → Barth; `al could` → all could; `af the true` → of the true; `bom` → born; `Gosvimen` → Gosvamin; `p- 220` → p. 220; page heading `OF GOSHURUN` removed from mid-sentence; See-list spellings restored (`ArsunA`, `Bupp3&l`, `Goxroxa`, `Hovuries`, `Krisona`, `QuaLitiEs`, `Saryrs`, `WoMAN` and similar); closing quotation mark supplied after `God`.
+
+**Unclear or supplied:** `[word unclear]`: OCR `e,` after "invitations of". `[Esrurr?]` in the See list could not be identified. Closing full stop added after *Indian Wisdom*.
 
 ## Full OCR entry body (exact)
 

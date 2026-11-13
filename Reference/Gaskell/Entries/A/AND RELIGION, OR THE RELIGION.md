@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-and-religion-or-the-religion
 headword: "AND RELIGION, OR THE RELIGION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,32 @@ tags:
 | `SPENDYAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPENDYAD, OR SPEND-DAD|SPENDYAD, OR SPEND-DAD]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `Vistasp` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the science of the spiritual life,—knowledge of the process of the soul's growth from imperfection to perfection, from ignorance to wisdom, from separateness to Love, and from illusion to the eternal Truth.
+
+> "Approved by the good, the high priest of the good religion of the Mazdayasnians, the glorified Spendyad, son of Mah-vindad, son of Rustom, son of Shatroyar."—Preface to the *Bundahis*.
+
+The ego who has conquered the lower nature and recognised the Truth, Wisdom, and Love within the soul, is said to be approved by the spiritual forces which maintain and manifest the truth of the Self in the soul-process. The "glorified Spendyad" is the Self who has undertaken to go forth and accomplish his evolution. The Self is the product of the process of the three who bear witness upon "earth," viz. the physical, the astral, and the lower-mental natures, in which the Self is incarnated, and out of which he ascends in glory at the last.
+
+> "The thought common to India, Plato, and Kant, that the entire universe is only appearance and not reality, forms not only the special and most important theme of all philosophy, but is also the presumption and *conditio sine qua non* of all religion. . . . The necessary premises of all religion are, as Kant frequently expounds:—(1) the existence of God, (2) the immortality of the soul, (3) the freedom of the will (without which no morality is possible). These three essential conditions of man's salvation—God, immortality and freedom—are conceivable only if the universe is mere appearance and not reality (mere mâyâ and not the âtman), and they break down irretrievably should this empirical reality, wherein we live, be found to constitute the true essence of things."—P. Deussen, *Phil. of Upanishads*, p. 45.
+
+> "The material world is more or less illusory, and we are quite wrong in regarding it as having a separate and independent existence. 'The things which are seen are not made out of things which do appear.' The world of spirit underlies and interpenetrates the world of sense at all points."—R. J. Campbell, *Serm.*, *The Fact of Death*.
+
+> "According to the system (of Doctrine and Life) recovered (by Intuition), the Christ Jesus, Redeemer and Saviour, while equally its beginning, middle, and end, is not a mere historical personage, but, above and beyond this, a Spiritual Ideal and an Eternal Verity. Recognizing fully that which Jesus was and did, it sets forth salvation as depending, not on what any man has said or done, but on what God perpetually reveals. For, according to it, Religion is not a thing of the past, or of any one age, but is an ever-present, ever-occurring actuality; for every man one and the same; a process complete in itself for each man; and for him subsisting irrespective of any other man whatsoever. It thus recognises as the actors in the momentous drama of the Soul two persons only, the individual himself and God."—*The Perfect Way*, p. 25.
+
+> "A scientific age rightly refuses to be any longer put off with data which are more than dubious, and logic which morality and philosophy alike reject. A deeper, truer, more real religion is needed for an epoch of thought, and for a world familiar with biblical criticism and revision;—a religion whose foundations no distractive agnosticism can undermine, and in whose [hands?] no examination, however searching, [will] be able to find flaw or blemish. It is only by rescuing the Gospel of Christ from the externals of history, persons, and events, and by vindicating its essential significance, that Christianity can be saved from the destruction which inevitably overtakes all idolatrous creeds."—*Ibid.*, p. 341.
+
+> "Religion has its psychological sources in every important form of the functioning of the human soul. It is man in his entirety who is the maker of religion. Every factor of his complex being enters into his religious life and religious development. The unconscious influences are present and potent factors. The lower impulsive and emotional stirrings solicit or impel him to be religious. His social instincts or more intelligent social desires and aims co-operate in the same result. The uplift to that condition of rational faith which corresponds to the ideal adjustment of the human self to the Divine Self, is effected largely through the awakening and employment of the higher æsthetical and ethical sentiments."—G. T. Ladd, *Phil. of Religion*, Vol. I., p. 263.
+
+> "The distinctive note of mysticism is the fact that it brings religion into the closest contact, not with authority or formulas or traditions, but with the nature of man as man. It looks upon the soul as the prime factor in religion, and it regards man's awareness of God, his intimate consciousness of the nearness of God, his innate striving after union with God, as dependent upon the soul's [capacity?] of approaching God directly. Now, the possession of a soul is not the prerogative of the devotee of any one particular religion to the exclusion of others. All men possess souls. It follows, therefore, logically, that no religion which contains mystical elements ought to claim, on behalf of its adherents, an exclusive approach to the Divine favour, or, indeed, any superiority in the realm of the spiritual life."—J. Abelson, *The Immanence of God in Rabbinical Literature*, p. 300.
+
+See AHURA RELIGION, ATMAN, EVOLUTION, GIRDLE (star), HIGH PRIEST, ILLUSION, INCARNATION, LETTER, MATTER, MAYA (lower), PAPYRUS, PHENOMENA, SEALED LETTER, SELF, SPENDYAD, VICTORY, VISTASP.
+
+**Corrections made:** `qué mon` → qua non; `méyd`, `dtman` → mâyâ, âtman; `Dervussen` → Deussen; `rejeot` → reject; `Jt ts man` → It is man; `resent` → present; `zxsthetical` → æsthetical; `Phi}. of Religion, Vol. I. . 263` → Phil. of Religion, Vol. I., p. 263; `Lapp` → Ladd; `ow,` → Now,; page headings `GOOD 621 RELIGION` and `RELIGIONS` removed; See-list spellings restored (`Hien PRIEST`, `INOARNATION`, `Matrer`, `MiAyA`, `PapPyRvus`, `SxetF`, `Vistasp`, and others); trailing comma after the last See item made a full stop; quotation marks normalised.
+
+**Unclear or supplied:** `[hands?]` replaces OCR `nda`; `[will]` is supplied (the OCR reads "RELIGIONS be able", the heading having swallowed a word); `[capacity?]` replaces OCR `cenit`. The Roman numeral in the Upanishad reference needs no change.
 
 ## Full OCR entry body (exact)
 

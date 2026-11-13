@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jealous-god
 headword: "JEALOUS GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `IpoLs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/IDOLS|IDOLS]] |
 | `SEur (lower)` | **unresolved** (review queue) |
 | `WRATH OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WRATH OF GOD|WRATH OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher nature as reflected in the lower nature. The Higher Self is at first regarded as a powerful enemy,—jealous, angry, revengeful and intolerant,—because It opposes the course of the lower self in its search for gratification in the objects of desire and sensation. The love of the higher life and the love of the lower are two irreconcilable opposites, and therefore appear as contending foes one against the other. The voice of the jealous God may be heard in every active conscience, as of a Ruler who will endure no rival, and accept no excuse for transgression, and who is severe and implacable.
+
+> "For thou shalt worship no other god for the Lord, whose name is [Jealous?], is a jealous God."—Exod. xxxiv.
+
+The "other gods" are the other objects strenuously sought after, namely, the objects of desire and sense, which must never be placed in rivalry with the call of the Spirit from within.
+
+See ANGER OF GOD, IDOLS, SELF (lower), WRATH OF GOD.
+
+**Corrections made:** `Exop.` → Exod.; `Ipols` → IDOLS; `Seur` → SELF.
+
+**Unclear or supplied:** `[Jealous?]` (OCR `oon`) is a likely reading from the Exodus text. The Exodus verse number is missing in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pool-of-peace
 headword: "POOL OF PEACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PHANG` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHANG, THE GREAT BIRD|PHANG, THE GREAT BIRD]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
 | `USERT` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/USERT GODDESS, OR POOL|USERT GODDESS, OR POOL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, the Spirit of Truth.
+
+> "Yet lo! I, even I, have piloted this ship into the pool of Peace."—*Book of the Dead*, Ch. CX.
+
+The One Self, notwithstanding, has alone throughout the cycle been the means of directing the soul, and proceeding with the evolution. The "great ship" is the soul in which is the lesser Self. The "Pool of Peace" is the Greater Self wherein all qualities unite and are made One in Truth (water) atma-buddhi.
+
+See HIGHER AND LOWER SELVES, OCEAN, PHANG, SHIP OF MANU, USERT.
+
+**Corrections made:** page heading `POOL` removed from mid-sentence; stray `t` removed after `this`; `The ** great ship` and `‘‘ Pool of Peace is` quotation marks repaired (closing quotation mark supplied after Peace).
+
+**Unclear or supplied:** A closing quotation mark after "Pool of Peace" was supplied since the OCR left it open.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-physician-successful
 headword: "PHYSICIAN, SUCCESSFUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `RupDRA` | **unresolved** (review queue) |
 | `SERPENT ASCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
 | `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Self under the aspect of Love which brings harmony to the soul.
+
+> "Homa! give me some of the healing powers whereby thou art a physician. Homa! give me some of the victorious powers whereby thou art a victor, etc."—*Homa Yasht*, Haug, *Essays*.
+
+The prayer of the wise soul takes the form of supplicating the Divine Love to use it as It will, and so to strengthen and maintain it that it may become a worthy and dutiful vehicle of the Divine Life. The powers sought are the wisdom, the truth, and the love whereby the Divine nature is enabled to claim the soul's co-operation in the work of upraising humanity.
+
+See ALCHEMY, HEALING, HOMA, [Imnorer?], MEDICINE, PRAYER, RUDRA, SERPENT ASCULAPIUS, VALMIKI.
+
+**Corrections made:** `wers` → powers; `oma!` → Homa!; `Have` → Haug; See-list spellings restored (`Homa`, `RupDRA`).
+
+**Unclear or supplied:** See-list item `[Imnorer?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

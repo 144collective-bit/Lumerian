@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eden-garden-of
 headword: "EDEN, GARDEN OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,32 @@ tags:
 | `TREASURES (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
 | `Tyrus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
 | `WIspom` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a condition of soul upon the buddhic plane. The buddhic or Wisdom consciousness which is above the mental.
+
+> "And the Lord God planted a garden eastward in Eden, and there he put the man whom he had formed."—Gen. ii. 8.
+
+And the Divine Will-Wisdom established the buddhic consciousness, or higher soul. And from this the individuality proceeds to manifest. It is the ensouling life of the causal-body on the mental plane.
+
+> "By 'garden' is signified intelligence; by 'Eden' love; by 'the east' the Lord; consequently by the 'garden in Eden eastward' is signified the intelligence of the celestial man, which flows in by love from the Lord. There is here no strife between the internal and external man. The 'garden in Eden' is the kingdom of the Lord, or heaven."—Swedenborg, *Arc. Cel.* to Gen. ii. 8.
+
+> "Eden is a symbolical expression for correct and divine reason." "Paradise symbolically taken, means wisdom, intelligence both divine and human, and the proper comprehension of the causes of things."—Philo, Yonge's trans., Vol. IV. pp. 286, 293.
+
+> "Eden, or Paradise, was considered by the learned of the ancient Israelites as the place of the Understanding and Wisdom, the Intellect. 'The higher Wisdom is called the higher Eden.' (Zohar)."—I. Myer, *Qabbalah*, p. 205.
+
+> "The Garden of Eden (in the Ottoman Sufi Cosmogony) is the scene of the Beatific Vision, the Divine Epiphanies, the sight of which will form the highest felicity of the blessed."—Gibb, *Ottoman Poetry*, Vol. I. p. 37.
+
+> "The source and motive of Progress is a sense of want, of short-coming. It is the very voice of truth, which confesses imperfections and yearns to rise. This true, this humble sense of actual imperfection is provoked and kept alive by a vision, an ideal of possible perfection, which haunts the secret soul of man, and which is a relic of Eden. ... In man, something, be it a memory or an anticipation, is perpetually protesting against the actual attainments of human life, and stimulating him to seek a more perfect and higher condition."—H. P. Liddon, *University Sermons*, p. 34.
+
+> "Gerald Winstanly had come to regard the whole Biblical narrative as an allegory of which he gives a most poetical interpretation. The Creation is mankind. The Garden of Eden is the mind of man, which he describes as originally filled with herbs and pleasant plants, 'as love, joy, peace, humility, delight, and purity of life.' The serpent he holds to be self-love; the forbidden fruit to be 'selfishness,' following the promptings of which 'the whole garden becomes a stinking dunghill of weeds, and brings forth nothing but pride, envy, discontent, disobedience, and the whole actings of the spirit and powers of darkness.'"—L. H. Berens, *The Digger Movement*, p. 44.
+
+See ADAM (lower), ARYANA, BIRD'S NEST, BUDDHIC PLANE, CAUSAL-BODY, CURSE (ground), EAST, FALL, GARDEN, GARDEN (flowers), GARODMAN, GILGOOLEM, GROVES, HEAVEN, KINGDOM OF HEAVEN, LOTE-TREE, MAN, MUSPELLHEIM, NOD, PARADISE, TREASURES (cave), TYRUS, WISDOM.
+
+**Corrections made:** `GeEn. ii, 8` → Gen. ii. 8; `causalbody` → causal-body; `Puito` → Philo; `Lippon` → Liddon; `& sense` → a sense; `interretation` → interpretation; `he Garden` → The Garden; `plersant` → pleasant; `folowing` → following; page heading `EDEN` removed from mid-sentence; See-list spellings restored (`Adam`, `East`, `Fatt`, `GaRDEN`, `Man`, `MusPELLHEIM`, `Tyrus`, `WIspom`); quotation marks normalised.
+
+**Unclear or supplied:** `NOD` is read from OCR `Nop`. `Winstanly` is left as printed.
 
 ## Full OCR entry body (exact)
 

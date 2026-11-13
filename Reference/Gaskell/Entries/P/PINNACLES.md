@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pinnacles
 headword: "PINNACLES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `ARCHED GATEWAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARCHED GATEWAYS|ARCHED GATEWAYS]] |
 | `OBELIX` | **unresolved** (review queue) |
 | `SPrmee` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of high aspirations. In a lower aspect it signifies ambitions, and the seeking after a "pinnacle" of fame. See ARCHED GATEWAYS, OBELISK, [SPIRE?].
+
+**Corrections made:** `OBELIX` → OBELISK; quotation marks normalised.
+
+**Unclear or supplied:** See-list items `OBELISK` and `[SPIRE?]` are readings of OCR `OBELIX` and `SPrmee`.
 
 ## Full OCR entry body (exact)
 

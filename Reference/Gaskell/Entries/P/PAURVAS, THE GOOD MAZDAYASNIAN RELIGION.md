@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paurvas-the-good-mazdayasnian-religion
 headword: "PAURVAS, THE GOOD MAZDAYASNIAN RELIGION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Law` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LAW, TABLES OF THE|LAW, TABLES OF THE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Love and Truth latent within the soul. See LAW
+
+**Corrections made:** `Law` → LAW.
+
+**Unclear or supplied:** The OCR ends at `See Law`, so the See list is cut off.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-karna-son-of-the-sun-and-pritha
 headword: "KARNA, SON OF THE SUN AND PRITHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `PRITHA` | **unresolved** (review queue) |
 | `Quaitizs` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of self-esteem and personal dignity, produced by the Spirit (sun) acting through the natural order of emotion (Pritha).
+
+> "Karna exhibited in a high degree fortitude, chivalrous honour, self-sacrifice, and devotion. Especially remarkable for a liberal and generous disposition, he never stooped to ignoble practices like his friends the Kurus, who were intrinsically bad men."—Mon. Williams, *Indian Wisdom*, p. 384.
+
+"Karna" was said to have been born "clothed in armour," and that "Indra conferred upon him enormous strength." This means that self-esteem is able from the first to withstand the assaults of the lower self-interests and is powerful to maintain an ideal of devotion (Indra). Nevertheless, self-esteem fights on the side of the desires (Kurus), and is finally slain by the personality (Arjuna) as it attains to selflessness and perfection.
+
+See ARJUNA, INDRA, KURUS, PRITHA, QUALITIES, SUN.
+
+**Corrections made:** `Wuiiuiams, Jndtan` → Williams, *Indian*; `selfesteem` → self-esteem; `selfinterests` → self-interests; `Ansuna` → ARJUNA; `Kurvs`, `Quaitizs` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

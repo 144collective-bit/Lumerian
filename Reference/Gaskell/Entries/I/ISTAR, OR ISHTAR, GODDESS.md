@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-istar-or-ishtar-goddess
 headword: "ISTAR, OR ISHTAR, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -69,6 +70,38 @@ tags:
 | `NET (under)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sout` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle, or Wisdom nature.
+
+> "Then the Lady of the gods (Istar) drew nigh, and she lifted up the great jewels which Anu had made according to her wish, and said: 'What gods are these!'"—Sayce, *Babylonian Legend*.
+
+Then Wisdom approached the soul, and she succeeds in raising the higher qualities (jewels) which have been evolved below, and which in the natural order have been builded up unconsciously in the soul according to her direction. Wisdom exalts the qualities, and her utterance is,—"Hail to these attributes of the Self! for in Faith, Mercy, Justice, and Reason, I am related with the Self."
+
+> "While the celestial seat of Istar was beyond the reach of man, Istar herself sought Tammuz, the bridegroom of her youth, in the underground realm of Hades, in the hope that she might give him to drink of the waters of life which gushed up under the throne of the spirits of the earth, and so bring him back once more to life and light."—Sayce, *Rel. of Egypt. and Babyl.*, p. 426.
+
+The buddhic plane is beyond the consciousness of the lower mind (man) which cannot attain to spirit. The raising of the soul is the function of buddhi. Wisdom seeks Love—the ally of primordial perfection,—who is now the striving indwelling Self, in the underworld of the lower planes, with the intention of bringing to him (the Christ-soul) the Truth and Life of the Spirit which is involved in the lower nature, and needs to be evolved, in order that the incomplete Self shall be completely manifested, and restored once more to the bliss of the higher planes.
+
+See ANU, ASTARTE, ESTHER, FOUNTAIN, HADES, JEWELS, MERODACH, NECK, TAMMUZ, WATER.
+
+### Also in this note: ISVARA OR KAPILA
+
+A symbol of the Higher Self,—the Logos.
+
+> "Isvara shines like the sun, irradiating all spaces above, below, between. Thus this potent and adorable deity alone presides over the various origins of beings."—*Svetas. Upanishad*, V.
+
+> "That which dwells in all living things, inside the living things, and all living things know not, whose body all living things are, which actuates all living things from within,—that is thy Self (Isvara), the internal ruler, immortal. That which dwells within mind, inside the mind, and the mind knows not, whose body the mind is, which actuates the mind from within,—that is thy Self, the internal ruler immortal."—*Brihad. Upanishad*.
+
+> "The self-existent Isvara has suppressed the senses that go out towards the things of sense. These senses then go out, not inwards to the Self. Here and there a wise man with the craving for immortality has closed his eyes and seen the Self. The unwise follow after outward pleasures and enter into the net of widespread death; but the wise, who know what it is to be immortal, seek not for the imperishable amidst the things that perish."—*Katha. Upanishad*, IV. 1.
+
+The indwelling Self or Christ is the power within all things which causes them to evolve. The Self within the minds of men makes for righteousness and the control of the desires.
+
+See ARC. MAN, DEMIURGE, KAPILA, NET (under), SELF, SOUL.
+
+**Corrections made:** `Saycg` → Sayce; `ings` → beings; `th Self` → thy Self; `Brthad.` → Brihad.; page headings `ISVARA` and `403 IZANAGI` removed from mid-text; the stray opening quotation mark before "Then Wisdom approached the soul" removed (it is Gaskell's commentary); See-list spellings restored (`Estuer`, `FounTAIN`, `Neck`, `Tammuz`).
+
+**Unclear or supplied:** Contains a second entry: ISVARA OR KAPILA (headword followed by `:—`).
 
 ## Full OCR entry body (exact)
 

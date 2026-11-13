@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boat-of-the-two-headedserpent
 headword: "BOAT OF THE TWO-HEADEDSERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `Szxer` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Tvart` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body during the involution of the desire-mental qualities. In the fourth division (kama-manas) of the Tuat (Life-cycle) according to the Book Am-Tuat, Afu-Ra (Higher Self) has to leave his Boat in order to pass through waterless deserts (illusion and error). He and his company (ideals) therefore proceed on the back of a two-headed serpent (desire-mind). The "hidden gods" (experiences to develop the soul), who march in front of the boat to help it along, are all under the control of Anubis (physical body of sensation and action).—See Budge, *Egypt. Heav. and Hell*, Vol. III. p. 133.
+
+See AFU-RA, ANUBIS, DESERTS, SEKER, SERPENT, TUAT.
+
+**Corrections made:** `kamamanas` → kama-manas; `_ error` → error; `Tho` → The; `Buper` → Budge; `Aru-ni` → AFU-RA; `Szxer` → SEKER; `Tvart` → TUAT; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

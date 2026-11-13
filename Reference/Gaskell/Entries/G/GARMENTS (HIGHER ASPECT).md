@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garments-higher-aspect
 headword: "GARMENTS (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,28 @@ tags:
 | `RarmMEenT` | **unresolved** (review queue) |
 | `ROBE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]]; [[Reference/Gaskell/Entries/R/ROBE OF THE WATERS|ROBE OF THE WATERS]] |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the buddhic and causal vestures, or sheaths, of the soul; signifying wisdom and the higher intellect. The higher emotions.
+
+> "To give unto them (the captives) a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they may be called trees of righteousness, the planting of the Lord, that he might be glorified."—Is. lxi. 3.
+
+The egos are liberated from captivity to the lower nature, and are given the higher emotions in exchange for the lower illusions; love and bliss for sorrow and suffering; the buddhic vesture of wisdom for the trammels of ignorance; that so they may become unified aspects of the Divine Life, instituted by the Higher Self for the fulfilment of the purpose of the Supreme.
+
+> "And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Sushan rejoiced and was glad."—Esther viii. 15.
+
+The indwelling Self, or Christ incarnate, went forth of the Supreme invested with celestial attributes of intellect and purity, and having supremacy over the lower nature; also endowed with devotion to truth and with wisdom,—the buddhic robe. Then was the soul abounding with energy and bliss.
+
+> "By garments in the Word are signified truths which invest good, and in an opposite sense, falses which invest evil; for man is either his own good or his own evil, the truths or falses thence proceeding are his garments."—Swedenborg, *Apoc. Rev.*, n. 166.
+
+> "Man is essentially a spirit. When that is realised, and the soul within him is allowed to seek its proper goal, it will develop into glorious beauty and proportion, and as it grows, weave for itself a garment worthy its God-like origin and nature."—J. Brierley, *Studies of the Soul*, p. 112.
+
+See ASHES, CLOTHING, COAT, CROWN, ESTHER, GATE OF SALUTATION, GUESTS, OIL, RAIMENT, ROBE, TREE.
+
+**Corrections made:** `Ixi.` → lxi.; `Apoc ,` → Apoc.; `roportion` → proportion; `ESTHER` → Esther; `BRIERLEY` → Brierley; page heading `GARMENTS` removed from mid-sentence; See-list spellings restored (`Coat`, `EstTHEer`, `O11`, `RarmMEenT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

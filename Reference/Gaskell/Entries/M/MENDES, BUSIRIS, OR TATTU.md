@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mendes-busiris-or-tattu
 headword: "MENDES, BUSIRIS, OR TATTU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,24 @@ tags:
 | `BuiksHU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BHIKSHU|BHIKSHU]] |
 | `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `SANNYASIN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a centre of activity on the lower planes. See CITY, TATTU.
+
+### Also in this note: MENDICANT, RELIGIOUS
+
+A symbol of a mental quality which lives by love (alms) received from other qualities.
+
+> "A man is not a mendicant (Bhikshu) simply because he asks others for alms; he who adopts the whole law is a Bhikshu, not he who only begs. He who is above good and evil, who is chaste, who with knowledge passes through the world, he indeed is called a Bhikshu."—*Dharmapada*, XIX. 266-7.
+
+A mental quality to live by love must have fulfilled the law of righteousness and be above the opposites. It must be pure and wise as it passes through the soul.
+
+See ALMSGIVING, BHIKSHU, MONK, SANNYASIN.
+
+**Corrections made:** `Ciry, Tartu` → CITY, TATTU; `& mendicant` → a mendicant; `Dharmrnaapada` → Dharmapada; `BuiksHU` → BHIKSHU.
+
+**Unclear or supplied:** Contains a second entry: MENDICANT, RELIGIOUS.
 
 ## Full OCR entry body (exact)
 

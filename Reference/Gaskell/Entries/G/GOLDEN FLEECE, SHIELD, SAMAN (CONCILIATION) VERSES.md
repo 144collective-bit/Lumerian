@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-fleece-shield-saman-conciliation-verses
 headword: "GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Brrnat` | **unresolved** (review queue) |
 | `VAIRUPA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAIRUPA AND VAIRAGA (SAMAN VERSES)|VAIRUPA AND VAIRAGA (SAMAN VERSES)]] |
 | `YAGNA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of spiritual qualities and powers. "Brihat and Rathantera" verses signify government through Wisdom and Love; "Syaita and Nandhasa," Truth and Goodness; "Vairupa and Vairaga," Indifference to Form and the lower Attachment; "Sakvara and Raivata," Reality and Being; "Bhadra and Yagna," Will and Wisdom. See BRIHAT, VAIRUPA, YAGNA.
+
+**Corrections made:** `Vairups` → Vairupa; `Yagn4` → Yagna; `Wil` → Will; `Brrnat` → BRIHAT; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

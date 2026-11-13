@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-princes-of-the-greeks
 headword: "PRINCES OF THE GREEKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GREEKS (great-hearted)` | resolved (exact) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher qualities of the mind. See GREEKS (great-hearted),
+
+**Corrections made:** None; text is clean.
+
+**Unclear or supplied:** The See list is cut off after one item in the OCR and ends with a comma.
 
 ## Full OCR entry body (exact)
 

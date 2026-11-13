@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-corpses-of-dogs-and-men
 headword: "CORPSES OF DOGS AND MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the lower will and the lower mind, both being illusory and impermanent, and without true life.
+
+> "He who digs out of the earth most [corpses] of dogs and men has greatest joy."—*Vendidad*, III.
+
+The "corpse of man" signifies the personality which is the lower equivalent of the Individual in its latent state, and, as it were, dead. The "digging for corpses of dogs and men" is the effort which is successfully made to seek the Self, and the reference to "dog and man" is the insistence upon the aspects of will and intellect, which are essential to the finding of the Self. The "corpses" sought are of "dogs and men" because the Self is found, or the Individuality is developed, through will (dog) and mind (man). As the personality is apprehended as a corpse, and as the soul is, as it were, self-consciously realised, the raising of the self through the Self is rendered possible. See DOG, EARTH, MAN, SELF, WILL.
+
+**Corrections made:** `sa ae` → [corpses]; `Tho` → The; `selfconsciously` → self-consciously; `Doc, EarntH` → DOG, EARTH.
+
+**Unclear or supplied:** `[corpses]` is supplied: the OCR reads `most sa ae of dogs and men`, damaged.
 
 ## Full OCR entry body (exact)
 

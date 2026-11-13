@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ka-or-double
 headword: "KA, OR DOUBLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `SAHU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAHU OF OSIRIS|SAHU OF OSIRIS]] |
 | `SHasii` | **unresolved** (review queue) |
 | `Toms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body which has to be nourished and developed through the activities of the Ego in its incarnations.
+
+> "There is, however, good reason for stating that the immortal part of man which lived in the tomb and had its special abode in the statue of the deceased was the 'double.' This is proved by the fact that a special part of the tomb was reserved for the ka, or double, which was called the 'house of the Ka,' and that a priest, called the 'priest of the Ka,' was [specially?] appointed to minister therein. [The] double enjoyed the smell of the incense which was offered at certain times each year in the tomb, as well as the flowers, and herbs, and meat, and drink."—Dr. Budge, *Egyptian Magic*, p. 218.
+
+The "tomb" signifies the incarnation of the ego. Living in the physical body is the entombment of the soul in physical matter. The full-sized "statue" is the perfect personality, in contrast to the "shabti," small figure, emblem of the imperfect personality. The "special part of the tomb" is the inner being. The "priest of the ka" is the spiritual mind. The "smell of incense" at times of incarnation during the course of the cycle (year) is the discriminating of the aspirations by the higher mind. The "meat and drink," or goodness and truth; the "flowers and herbs," or virtues, are the food of the Spirit to develop the causal-body.
+
+> "My heart my mother. . . . Thou art my Ka within my body which knitteth together and strengtheneth my limbs" (*Papyrus of Ani*).—Budge, *Book of the Dead*, p. 25.
+
+See CAUSAL-BODY, CEILING OF SKY, INCENSE, KHU, PERSONALITY, SAHU, SHABTI, TOMB.
+
+**Corrections made:** `ecg appoin to` → [specially?] appointed to; `double enjoyed` → [The] double enjoyed; `Bunae` → Budge; `Bupasr` → Budge; `ead` → Dead; opening parenthesis supplied before *Papyrus of Ani*; `IncENsE`, `Kus` → KHU, `Shasii` → SHABTI, `Toms` → TOMB restored; page heading `428 KAABA` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `[specially?]` for OCR `- ecg` (and `appoin` completed to appointed). `[The]` is supplied (OCR begins "double enjoyed"). `SHABTI` is the likely reading of OCR `Shasii`.
 
 ## Full OCR entry body (exact)
 

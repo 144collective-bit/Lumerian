@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-centaurs
 headword: "CENTAURS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `CHrmon` | **unresolved** (review queue) |
 | `Pans` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANS|PANS]] |
 | `SaTyrs. CENTAURS OF MOUNTAIN CAVES -— Symbolic of the more obscure and least intelligent opinions of the dawning mentality` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental qualities—half mind and half animal instinct. They "led a wild and savage life."
+
+See CHIRON, PANS, SATYRS.
+
+### Also in this note: CENTAURS OF MOUNTAIN CAVES
+
+Symbolic of the more obscure and least intelligent opinions of the dawning mentality.
+
+**Corrections made:** `CHrmon` → CHIRON; `SaTyrs` → SATYRS; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: CENTAURS OF MOUNTAIN CAVES. `CHIRON` is the likely reading of `CHrmon`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fire-destroying
 headword: "FIRE, DESTROYING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -102,6 +103,40 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spirit of Love and Truth as the active principle which is the means of dispelling ignorance and error;
+
+> "for our God is a consuming fire."—Heb. xii. 29.
+
+> "For it is by earth that we see earth, and by water water, and by air glorious air; so too, by fire, we see destroying fire."—Empedocles, Fairbanks, 333.
+
+Through the physical mechanism the physical is perceived; by the astral mechanism, the astral (the desires); by the lower mental mechanism, the higher mental vibrations; by the spiritual mechanism, the Spirit,—as the active principle in dispelling ignorance, which is the opinionative knowledge of the lower planes.
+
+> "Who among us shall dwell with the devouring fire? Who among us shall dwell with everlasting burnings? He that walketh righteously, and speaketh uprightly."—Is. xxxiii. 14, 15.
+
+The quality perfected in goodness and truth "dwelleth on high" untouched by the purifying fire which consumes the "wicked," i.e. the ignorant and evil qualities.—See 1 Cor. ii. 12-15.
+
+> "Depart from Me, ye cursed, into everlasting fire prepared for the devil and his angels."—Matt. xxv. 41.
+
+This supposed "terribly repellent" text simply refers to the lower qualities of human nature, which, being selfish, do not minister to the higher qualities. These have to undergo purification and transmutation by means of the buddhic functioning, and thereby as lower qualities they are finally dissolved. The "devil and his angels" signify the illusory principle of evil and the desires which are consumed through being transmuted by the eternal Spirit (fire).
+
+> "Mechthild of Magdeburg, and after her Dante, saw Deity as a flame or river of fire that filled the universe; and the 'deified' souls of the saints as ardent sparks therein, ablaze with that fire, one thing with it, yet distinct. Ruysbroeck, too, saw 'Every soul like a live coal, burned up by God on the hearth of His Infinite Love.'"—E. Underhill, *Mysticism*, p. 503.
+
+> "That consuming fire is eternal as God himself; it is because he is; it is that which was from the beginning, is now, and ever shall be, world without end. In that scorching, purifying blaze everything shrivels up and perishes which does not pertain to Christ and the kingdom of Christ in the heart of man. Oh, if there be one thing for which we ought to rejoice and praise God without ceasing, it is that eternal fire which will burn up all the foulness and rottenness, all the wickedness and hate, all the shame and wrong from which our souls have ever suffered. It is not evil that will have the last word, but good, not sorrow but joy, not sin, but holiness."—R. J. Campbell, *Serm.*, The Eternal Fire.
+
+> "I came to cast fire upon the earth; and what will I, if it is already kindled! . . . Think ye that I am come to give peace in the earth? I tell you nay; but rather division."—Luke xii. 49-51.
+
+The purifying of the lower nature (earth) by love and truth is necessarily accompanied by division and the strife of opposites.
+
+> "Now, the reader cannot fail to have observed that in this Yezidi festival, men, women, and children were 'purified' by coming in contact with 'the sacred element' of fire. In the rites of Zoroaster, the great Chaldean god, fire occupied precisely the same place. It was laid down as an essential principle in his system that 'he who approached to fire would receive a light from divinity,' and that 'through divine fire, all the stains produced by generation would be purged away.' Therefore it was that 'children were made to pass through fire to Moloch,' to purge them from original sin, and through this purgation many a helpless babe became a victim to the bloody divinity. Among the Pagan Romans, this purifying by passing through the fire was equally observed; 'for,' says Ovid, enforcing the practice, 'fire purifies both the shepherd and the sheep.' Among the Hindus, from time immemorial, fire has been worshipped for its purifying efficacy. Thus a worshipper is represented by Colebrooke, according to the sacred books, as addressing the fire: 'Salutation to thee (O fire!), who dost seize oblations, to thee who dost shine, to thee who dost scintillate, may thy auspicious flame burn our foes; mayest thou, the Purifier, be auspicious unto us.'"—A. Hislop, *The Two Babylons*, p. 120.
+
+See AGNI, BUDDHI, CHAFF, CONFLAGRATION, CREMATION, DEVIL, EARTH, FURNACE, GOATS, HELL, MAN (bad), PURGATORY, TRANSMUTATION, WICKEDNESS, WATER.
+
+**Corrections made:** `HeExs.` → Heb.; `Cor.` reference `| Cor.` → 1 Cor.; `Mar.` → Matt.; `devi` → devil; `@` → a; `blest` → blaze (best reading); `Ii is` → It is; `Jast` → last; page headings `FIRE` (twice) and `276` removed from mid-text; `Qh` → Oh; `ace` → peace; `ut rather` → but rather; `punfied` → purified; `Colcbrooke` → Colebrooke; `His.top` → Hislop; `-5]` → 51; See-list spellings restored (`EartTH`, `Goats`, `Purcatory`); quotation marks normalised, and similar minor fixes.
+
+**Unclear or supplied:** `blaze` is a best reading of OCR `blest`; `[peace]` and `[but]` restore OCR `ace`/`ut` (obvious losses); OCR `Luke xii. 49—5]` read as 49-51. The words "and rottenness . . . 276 hate" contain a stray page number removed. `WATER` is last in the See list as printed.
 
 ## Full OCR entry body (exact)
 

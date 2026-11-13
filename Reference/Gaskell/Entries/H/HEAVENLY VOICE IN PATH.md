@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heavenly-voice-in-path
 headword: "HEAVENLY VOICE IN PATH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `BrmTreH OF BUDDHA` | **unresolved** (review queue) |
 | `BuppuHa` | **unresolved** (review queue) |
 | `SIMEON` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration which is the expression of the Divine life within the soul.
+
+> "But hear now the motive for my coming and rejoice thereat; a heavenly voice has been heard by me (Asita) in the heavenly path, that thy son (Buddha) has been born for the sake of supreme knowledge."—*Buddha-Karita*, Bk. I. 62.
+
+The lower self (buddhi-manas) in involution, now realises the nature of the higher law whereby its development is to be quickened; and within it joy is aroused. The Divine nature,—aspiration,—has awakened within it, and now it recognises that the Son of Righteousness (moral law and conscience) has been born upon the higher planes. See ASITA, BIRTH OF BUDDHA, BUDDHA, SIMEON.
+
+**Corrections made:** `ite` → its; page heading `THE HEBDOMAD` removed from mid-sentence; See-list spellings restored (`Astra`→ASITA, `BrmTreH`, `BuppuHa`); quotation marks normalised.
+
+**Unclear or supplied:** `ASITA` is a likely restoration of OCR `Astra`.
 
 ## Full OCR entry body (exact)
 

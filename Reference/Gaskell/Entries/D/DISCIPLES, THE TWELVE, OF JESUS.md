@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-disciples-the-twelve-of-jesus
 headword: "DISCIPLES, THE TWELVE, OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -65,6 +66,34 @@ tags:
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `Urns (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These signify twelve disciplined qualities and faculties of various kinds, which are able to receive higher teaching and profit by it. They have determined to adhere to the instruction and admonition of the Higher Self as the Master within the soul.
+
+> "Jesus chose the twelve before he came into the world. He chose twelve powers, receiving them from the twelve saviours of the Light-treasure. When He descended into the world, He cast them as sparks into the wombs of their mothers, that the whole world might be saved."—*Pistis Sophia*.
+
+The Higher Self prior to his birth within the lower nature (Eph. i. 4) chooses the means by which he is to accomplish his purpose; and these are agencies from the "saviours," i.e., the ideal qualities above, which have to be actualised below. The "Light-treasure" is the perfect nature within, which shall attain to the "Light-realm." When the Self descends into the lower soul, the spiritual germs enter the qualities attached to the forms (mothers) and become the means by which the qualities are to attain liberation, through triumphing over the limitations of the lower planes.
+
+> "The Father sends then the Messenger who shall bring about the salvation of the world. The Divine Benefactor has his abode in the sun, together with twelve virtues, his daughters; 'tis he who launches into space the Lightships of Heaven."—F. Cumont, *Manichean Researches*.
+
+The "Divine Messenger and Benefactor" is the Christ whose abode is in the individuality (sun) centralising the buddhic qualities as "twelve virtues." It is the Christ who draws forth the higher nature of the striving souls.
+
+> "By the twelve disciples or apostles of the Lord are understood all who are of the church in truth from good; and in an abstract sense, all things of the church; and by Peter, all who are in faith; and abstractedly, faith itself; by James, they who are in charity, and abstractedly, charity itself; and by John, they who are in the good of life from charity and its faith, and abstractedly, good of life itself derived from thence."—Swedenborg, *Apoc. Rev.*, n. 7.
+
+> "Jesus spake unto them, saying, All authority hath been given unto me in heaven and on earth. Go ye therefore, and make disciples of all the nations, baptising them into the name of the Father and of the Son and of the Holy Ghost."—Matt. xxviii. 18, 19.
+
+Christ, the Higher Self within, is intuitively regarded by the disciplined qualities as the supreme ruler within the soul,—higher and lower. The Ideal within them, therefore, impels them to take their part in the work of raising the less advanced qualities (the nations), for the command is full of the spirit of the Christ. They serve their Lord in bringing the lower nature into subjection to the higher. They act as a magnet to draw forth and transmute the germ of like properties within the qualities less evolved than themselves. The threefold constitution of the baptismal ceremony refers to the attuning of the nature upon the three lower planes in relation to the higher and perfect nature on the upper planes, of which the lower is an incomplete and defective representation. This is expressed in the prayer of the disciples,—"Thy kingdom come. Thy will be done, as in heaven, so on earth." The ideal above is to be realised below.
+
+> "Jesus called unto him his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal all manner of disease and all manner of sickness. Now the names of the twelve are these: etc."—Matt. x.
+
+The Christ within called through the love nature to his disciplined qualities and instructed them for their work in the soul. Through the Truth and Righteousness within them they were possessed of power to dispel the illusions of the lower mind, and rectify the unbalanced emotions and misdirected affections of the lower nature. The following are the twelve disciplined qualities:—The analytical lower mind (Peter); Faith and inquiry (Andrew); Hope and progressiveness (James); Love and philosophy (John); Courage and forcefulness (Philip); Perseverance (Bartholomew); Intellectual truth-seeking (Thomas); Modesty and receptiveness (James Alpheus); Gentleness and attentiveness (Simon Zelotes); Broadmindedness (Judas bro. of Jas.); Critical deliberation (Matthew); Prudence (Judas). These qualities are not to attempt to assist those states which are too backward to be affected, but rather to minister to those which are more developed and capable of assimilating truth.
+
+See ADITYAS (twelve), AEONS (twelve), ANDREW, ANTHROPOS, APOSTLES, BAPTISM, BINDING, BREASTPLATE, DANCE (circle), FEEDING, GERMS, HEALING, HEAVEN, HEROES, JAMES, JESUS OF THE GOSPELS, JOHN, JUDAS, LIBERATION, LIGHT-REALM, NATIONS, PEOPLE, PETER, [PAP?], SAVIOURS (twelve), [SEXT?], SPARROWS (twelve), SUN, TRIBES (twelve), TRINITY, TWELVE, URNS (twelve), ZODIAC.
+
+**Corrections made:** `Epa.` → Eph.; `Mart.`/`Mar.` → Matt.; `Lighttreasure`/`Lightrealm` → Light-treasure/Light-realm; `lees` → less; `disiples` → disciples; `Perserverance` → Perseverance; `Mathew` → Matthew; `SwEDENBORG` → Swedenborg; page headings `DISCIPLES '`, `220 DISCIPLES` (inside "defective") and `221 DISCIPLES` (inside the See list) removed; stray marks (`germs!`, `become'`, `to.`) cleaned; See-list spellings restored (`ApitTyas_`, `ASONS`, `BREASTPLAYE`, `Saviouns`, `Trrses`, `Trintry`, `Jupas`, and others); and similar minor fixes.
+
+**Unclear or supplied:** The list of twelve qualities, printed in the OCR as a run-on list, is set out as one sentence separated by semicolons. See-list items OCR `Pap` and `Sexr` are given as `[PAP?]` and `[SEXT?]`; `ASONS` read as AEONS.
 
 ## Full OCR entry body (exact)
 

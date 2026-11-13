@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dish-or-bowl
 headword: "DISH, OR BOWL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Crater` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRATER, OR CUP|CRATER, OR CUP]] |
 | `Cup` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CUP, DOUBLE|CUP, DOUBLE]]; [[Reference/Gaskell/Entries/C/CUP OR CHALICE|CUP OR CHALICE]]; [[Reference/Gaskell/Entries/C/CUP WITH WINE|CUP WITH WINE]] |
 | `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of a form which is a receptacle of the spirit; or is an emblem of limitation.
+
+See CRATER, CUP, VESSEL.
+
+**Corrections made:** `a=` → a; See-list spellings restored (`Crater`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

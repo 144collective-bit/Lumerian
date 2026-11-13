@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lakshmana
 headword: "LAKSHMANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 | `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `Srra` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind or the individuality.
+
+> "On the banks of the Godavari, Lakshmana, who has to do all the hard work of the party, built them (Rama, Sita, and himself) a spacious hut of clay, leaves, and bamboos, [propped?] with pillars and furnished with a fine level [floor?], and there they lived happily near the rushing river."—J. C. Oman, *Great Indian Epics*, p. 44.
+
+In intimate relation with the outpouring of the Divine Life, the Individuality (buddhi-manas) formed a causal-body on the higher mental plane, which should be the seat of the Higher nature in the soul. The causal-body is potentially perfect in all its parts, enthroned above the lower quaternary (four pillars), and having the higher mind, or "firmament," as its base.
+
+See CAUSAL-BODY, FIRMAMENT, HOUSE, INDIVIDUALITY, KABANDHA, PILLARS, RAMA, RIVER OF LIFE, SITA.
+
+**Corrections made:** `hard, work` → hard work; `FI®MAMENT` → FIRMAMENT; page heading `441 LAMB` removed from mid-text; See-list spellings restored (`Hovusz`, `Inprvipvatiry`, `Srra`) and similar minor fixes.
+
+**Unclear or supplied:** `[propped?]` (OCR `prop`) and `[floor?]` (OCR `r`) in the Oman quotation; the OCR also reads `ililars` for pillars.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breastplate-of-judgment
 headword: "BREASTPLATE OF JUDGMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,16 @@ tags:
 | `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `Uni AND THUMMIN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol signifies an assemblage of twelve disciplined qualities, or aspects of the Divine life in the evolution of mental qualities, in close affectional relation with the spiritual mind (Aaron), and connected with the buddhic and astral centres of activity (shoulder-pieces). These qualities are illumined by the Divine Ray (the girdle). The breastplate was "foursquare," that is, the field of the qualities is in the quaternary,—the four planes below atma. The double thickness relates to active and passive conditions of qualities.—See Exod. xxxix.
+
+See AARON, COLOURS, DISCIPLES, EPHOD, GEMS, GIRDLE, JEWELS, KUSTI, PRECIOUS, QUATERNARY, SHEWBREAD, TRIBES, TWELVE, URIM AND THUMMIM.
+
+**Corrections made:** `assembiage` → assemblage; `fleld` → field; `shoulderpieces` → shoulder-pieces; `Sce Exon` → See Exod.; See-list spellings restored (`Erxop`, `Germs`, `Kust1`, `Uni AND THUMMIN`); `CoLouRs`, `Precious`.
+
+**Unclear or supplied:** `URIM AND THUMMIM` is a likely reading of OCR `Uni AND THUMMIN`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ruler-of-the-on
 headword: "RULER OF THE ON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `LOVE OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
 | `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Life of the Logos emanating in the Cycle as the power which makes for righteousness interpreted in the natural, moral, and intellectual orders. And which is realised when we perceive that all things work together for good,—since such an intuition is a direct sense of the Love of God.
+
+> "God, our eternal source and goal, is love, and love is self-givingness, and self-givingness is joy. There is no particularism in the life of God. God must give himself, being what he is, and in giving himself realises himself. Man made in the image of God, being of his being, and substance of his substance, must do the same. The particular must be surrendered to the universal every stage of our upward progress, but in that very surrender we grasp a larger life, we enter upon a greater joy. Perfect self-giving and perfect self-realisation are one and the same."—R. J. Campbell, *Serm.*, *Through Death to Life*.
+
+See ÆON, CHRIST, FAITH, GOD, IMAGE, LOVE OF GOD, REDEEMER, SACRIFICER.
+
+**Corrections made:** `ts Jove` → is love; `relfgivingness` → self-givingness; `self-realisaticc` → self-realisation; `rame` → same; page headings `QUALITIES, 640 SABBATH` removed from mid-sentence; See-list spellings restored (`ASON`, `CuHrist`, `Farre`, `Gop`, `lmaGE`).
+
+**Unclear or supplied:** `FAITH` restored from OCR `Farre`; reading is likely but not certain.
 
 ## Full OCR entry body (exact)
 

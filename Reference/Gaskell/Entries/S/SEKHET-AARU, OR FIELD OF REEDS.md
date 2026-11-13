@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sekhet-aaru-or-field-of-reeds
 headword: "SEKHET-AARU, OR FIELD OF REEDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
 | `UNION (reeds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature, or astro-mental life, by means of which the individuality first manifests.
+
+> "Grant me power to float down and to sail up the stream in Sekhet-Aaru, and may I reach Sekhet-hetep! I am the double Lion-god."—Budge, *Book of the Dead*, Ch. LXXII.
+
+The Soul relies upon the Supreme in passing downwards into the lower life, and by means of the astral life thereafter ascending to the buddhi-mental region, or Nirvana. In this undertaking the soul becomes involved in matter, and afterwards evolved.
+
+> "The new man was conducted into the Fields of Aalu (or Aaru), into the kingdom of the blessed followers of Osiris, which was a country modelled altogether on earthly lines, but [word unclear] resembling the Delta: a Nile ran through [it?], it divided into many branches and forming many islands. Here the dead ate and drank, went hunting, fought with their foes, . . . made offerings to the gods. But the chief occupation was agriculture, which differed from that of earth only in that the harvest never failed."—Wiedemann, *Rel. of Anc. Egyptians*, p. 254.
+
+The ego incarnates in a personality (new man) which descends into the arena of life to gather experience, overcome evil, sacrifice lower for higher qualities (gods), cultivate the faculties, and lay up treasure in heaven which never fails.
+
+See AGRICULTURE, BIRTH OF HORUS, DEAD, EARTH, GARDEN OF REEDS, HARVEST, LION-GOD, MARSH, NET (fish), OFFERING, [PREACHING?], REAPING, REED-PLAIN, STRIDES OF SOUL, UNION (reeds), WHEAT AND BARLEY.
+
+**Corrections made:** `Sckhet-hetep` → Sekhet-hetep; `Bupar` → Budge; `buddhimental` → buddhi-mental; `Ane.` → Anc.; mid-quotation `SEKHET-HETEP` removed as a page heading; See-list spellings restored (`Deap`, `Orrerino`, `Marsy`, `Lion-cop`, and others).
+
+**Unclear or supplied:** `[word unclear]` and `[it?]` repair OCR `vette 4` and `throu,` in the Wiedemann quotation. `[PREACHING?]` is the OCR `Preacurs`. The removal of `SEKHET-HETEP` inside the Budge quotation is a judgment that it is a page heading.
 
 ## Full OCR entry body (exact)
 

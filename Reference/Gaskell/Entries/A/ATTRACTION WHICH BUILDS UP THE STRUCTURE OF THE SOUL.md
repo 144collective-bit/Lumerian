@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-attraction-which-builds-up-the-structure-of-the-sou
 headword: "ATTRACTION WHICH BUILDS UP THE STRUCTURE OF THE SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Love (uniter)` | resolved (qualified head) → [[Reference/Gaskell/Entries/L/LOVE, THE UNITER OF ALL|LOVE, THE UNITER OF ALL]] |
 | `Pmcrms (shrine)` | **unresolved** (review queue) |
 | `SrRirs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the love-element on the different planes, which draws forces, atoms, or qualities, towards centres.
+
+> "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not, even that which he hath shall be taken away."—Matt. xxv. 29.
+
+This indicates that the strength of attraction is in proportion to the number of grouped forces or faculties attracting to a common centre. Where a force is unattached to a group, there is no balance about a centre, therefore it flies off to join a group, or it is dissipated. The teaching is, that higher qualities must not be isolated, but must be brought into harmonious relation with kindred qualities, so that all may work together for good.
+
+> "Where two or three are gathered together, there am I in the midst of them."
+
+See APHRODITE, ASSEMBLY, CITY, LOVE (uniter), PILGRIMS (shrine), [SrRirs?].
+
+**Corrections made:** `Mart.` → Matt.; `lin` → I in; `Pmcrms` → PILGRIMS; `Love` → LOVE; quotation marks normalised.
+
+**Unclear or supplied:** The last quotation has no attribution in the OCR. `[SrRirs?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

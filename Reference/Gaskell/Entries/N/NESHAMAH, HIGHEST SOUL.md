@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-neshamah-highest-soul
 headword: "NESHAMAH, HIGHEST SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,28 @@ tags:
 | `Ruan` | **unresolved** (review queue) |
 | `Sovur (highest)` | **unresolved** (review queue) |
 | `YEDUD` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YEDUD|YEDUD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine monad, atma-buddhi, or spiritual ego within the individual human soul.
+
+> "Job describes the continuance of his life by saying 'all my neshâmâh is still in me' (Job xxvii. 3). In three cases, the term denotes the breath-soul as the principle of the moral and spiritual life, as when it is said that man's discernment is due to God's neshâmâh within him (Job xxii. 8; cf. xxvi. 4, and Prov. xx. 27). The other instances are those in which the term is applied to the wind as God's breath."—H. W. Robinson, *Christian Doctrine of Man*, p. 16.
+
+> "There are three degrees, and they are connected as one. Nephesh, Rua'h, and Neshamah, and the highest of them is Neshamah."—*Zohar*, III. 70b, Brody ed.
+
+> "Neshamah (Divine soul) goes over to that Rua'h, and rules over him, and lights him with that Light of Life" (*Ibid.*).—Myer, *Qabbalah*, pp. 391-3.
+
+The three human principles in ascending degrees are the astral (Nephesh), the mental (Rua'h), and the atma-buddhic (Neshamah), and these are all connected in the one human soul. The Divine and highest principle ensouls the causal body and dominates it, imparting to it the light of Wisdom, Truth, and Love.
+
+> "The 'outer man' consists for St. Paul of the body's earthly material, 'the flesh'; and of the animating principle of the flesh 'the psyche,' which is inseparably connected with that [flesh?]. . . . The 'inner man' consists for St. Paul, in the Mind, the Heart, and the Conscience. The Mind (nous), corresponding roughly to our theoretical and practical Reason, has a certain tendency towards God. . . . The Heart is even more accessible to the divine influence. . . . The Spirit, the Pneuma, is, strictly speaking, only one—the Spirit of God, God Himself, in His action either outside or inside the human mind Nous."—F. von Hügel, *Mystical Element*, Vol. II. pp. 64, 67.
+
+The Spirit, the Pneuma, is the same, as the Neshamah.
+
+See CAUSAL-BODY, GILGOOLEM, HEART, MICHAEL, MONAD OF LIFE, NEPHESH, RUAH, SOUL (highest), [YEDUD?].
+
+**Corrections made:** `neshéméh` / `neshadmaéh` → neshâmâh; `Jos` → Job; `Rosrson` → Robinson; `consista` → consists; `nots` → nous; `a_ certain` → a certain; `18` → is; `Nods` → Nous; `Huvucer` → Hügel; `TI.` → II.; See-list spellings restored (`MicHaet`, `MonaD`, `NeruesH`, `Ruan`, `Sovur`).
+
+**Unclear or supplied:** `[flesh?]` stands for OCR `h.` The reference `Job xxii. 8` is left as printed (Job xxxii. 8 may be meant). `[YEDUD?]` is an unidentified See-list item (compare YEHUDA elsewhere).
 
 ## Full OCR entry body (exact)
 

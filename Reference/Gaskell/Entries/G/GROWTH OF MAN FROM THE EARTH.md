@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-growth-of-man-from-the-earth
 headword: "GROWTH OF MAN FROM THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `Man CRAWLED` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PRAGAPATI RELAXED` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI RELAXED, AND AFTERWARDS RESTORED|PRAGAPATI RELAXED, AND AFTERWARDS RESTORED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the upward increasing stature of the manhood or mentality from the lower nature to the higher. First the natural man (kama-manas), and afterwards the spiritual (buddhi-manas). See DISMEMBERMENT, EARTH, MAN CRAWLED, MAN (natural), PRAGAPATI RELAXED.
+
+**Corrections made:** `buddhimanas` → buddhi-manas; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cranium-or-macrocosm
 headword: "CRANIUM, OR MACROCOSM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `Harr` | **unresolved** (review queue) |
 | `MAcrRocosm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `YR` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual universe. The higher planes of being above the lower.
+
+> "In the Concealed of the Concealed there is formed and prepared the representation of a Cranium full of crystalline dew, (and) a membrane of air. Transparent and hidden filaments of pure wool are hanging in the Balance. And they manifest the Good Will of good wills, through the prayers of the lower ones," (Footnote by Myer: "The immense Cranium is the Makrokosm, the arched firmament. . . . Hanging threads of pure wool are a symbol among some of the Orientals for the efflux of wisdom and vitality.")—Isaac Myer, *Qabbalah*, pp. 117, 118.
+
+The higher nature is always ready to respond (dew) through the mind (air) to the aspirations (prayers) of the lower qualities. The "hanging filaments of pure wool" have the same signification as the "Barsom" of the Parsis. They represent the hidden mechanism by means of which communication is established between the higher and lower planes of the soul, and the efflux of wisdom and love imparted to the striving qualities.
+
+> "The heaven was made of the giant Ymer's skull."—*Voluspa*.
+
+See BARSOM, DEW, HAIR, MACROCOSM, [YR?].
+
+**Corrections made:** page heading `CRATER` removed from mid-sentence (`represen CRATER tation` → representation); `aro` → are; `Mycr` → Myer; `lowcr` → lower; `Harr` → HAIR; `MAcrRocosm` → MACROCOSM.
+
+**Unclear or supplied:** `[YR?]` is the OCR See-list item `YR` (probably YMIR).
 
 ## Full OCR entry body (exact)
 

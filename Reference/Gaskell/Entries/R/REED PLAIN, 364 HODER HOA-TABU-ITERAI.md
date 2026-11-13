@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reed-plain-364-hoder-hoa-tabu-iterai
 headword: "REED PLAIN, 364 HODER HOA-TABU-ITERAI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `Taata` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAATA, THE FIRST MAN|TAATA, THE FIRST MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind or intellect, the personality.
+
+> "Oro's wife bore a son, whom he called Hoa-tabu-iterai, i.e. 'friend sacred to the heavens.' This son became a powerful ruler among men."—W. Ellis, *Polynesian Researches*, Vol. I. p. 231.
+
+From the Self and the not-Self,—Spirit and Matter,—there is produced the astro-mental nature which is to triumph over the lower instincts and desires, and become a means for the ascent of the soul. This "son," therefore, is the personality which grows from small to great as it manifests more and more the Divine ego which is within it.
+
+> "(Aristotle teaches). By pure contemplation the mind may rise above the transitory and contingent, may get beyond space and time and contemplate the Absolute. This attainment is possible because man possesses at the 'top of his mind' an active reason, that is to say, 'a pure self-consciousness.' Aristotle distinguishes two levels of reason, which he calls the active and the passive reason. The active reason has no finite origin, is not bound up with, or dependent on, the body. It is 'pure,' i.e. not mixed with desire or passion, and does not receive its content through sense. The lower or passive reason is wholly dependent for its content on the body."—R. M. Jones, *Mystical Religion*, p. 67.
+
+See INTELLECT, ORO, PERSONALITY, SPARK, TAATA,
+
+**Corrections made:** `Wx. Eu` → W. Ellis; `ita content` → its content; `On0` → ORO; `Spark`, `Taata` See-list restored; quotation marks normalised.
+
+**Unclear or supplied:** The See list ends with a trailing comma in the OCR (`TAATA,`) and may be cut off.
 
 ## Full OCR entry body (exact)
 

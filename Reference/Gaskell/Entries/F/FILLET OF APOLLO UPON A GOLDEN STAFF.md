@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fillet-of-apollo-upon-a-golden-staff
 headword: "FILLET OF APOLLO UPON A GOLDEN STAFF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `HOLLOW SHIPS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOLLOW SHIPS|HOLLOW SHIPS]] |
 | `Scerrre (Apollo)` | **unresolved** (review queue) |
 | `SUTRATMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblem of the causal sheath established upon the sutratma,—the Divine Ray,—through Wisdom and the Divine Will. Within the causal-body is the "ransom beyond telling,"—the "treasure in heaven" laid up on the buddhic plane.
+
+See GOLDEN STAFF, HOLLOW SHIPS, SCEPTRE (Apollo), SUTRATMA.
+
+**Corrections made:** `causalbody` → causal-body; `Scerrre` → SCEPTRE; `GOLDEN sTaFF` → GOLDEN STAFF; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

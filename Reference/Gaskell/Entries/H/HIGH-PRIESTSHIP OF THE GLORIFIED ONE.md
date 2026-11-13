@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-high-priestship-of-the-glorified-one
 headword: "HIGH-PRIESTSHIP OF THE GLORIFIED ONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of authority and power over the lower nature, attained by the Self who has undertaken to go forth and accomplish his evolution.
+
+See BAHMAN, MELCHIZEDEK, MICHAEL, VICTORY, VOHUMAN.
+
+**Corrections made:** Spacing normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

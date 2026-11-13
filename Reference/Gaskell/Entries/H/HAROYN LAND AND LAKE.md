@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-haroyn-land-and-lake
 headword: "HAROYN LAND AND LAKE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Briss` | **unresolved** (review queue) |
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the condition of Bliss reflected in the astro-physical organism, thereby producing the basis of sensation. See BLISS, GOLDEN AGE, INVOLUTION.
+
+**Corrections made:** `Briss` → BLISS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

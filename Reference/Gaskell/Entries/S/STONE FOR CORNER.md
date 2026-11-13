@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stone-for-corner
 headword: "STONE FOR CORNER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,31 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Avtar (fire)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual perfection of the indwelling Self.
+
+> "Thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone of sure foundation."—Isa. xxviii. 16.
+
+The Supreme points out that in the causal-body (Zion) is seated the Spirit—the Self—the eternal reality. For the causal-body is "for a habitation of God in the Spirit,"—archetypal perfection in every human soul.
+
+> "The process of this passage of the 'new' or spiritual man from his awakening to the illuminated life, has been set out by Jacob Boehme in language which is at once poetic and precise. 'When Christ the Corner-Stone [i.e. the divine principle latent in man] stirreth himself in the extinguished Image of Man in his hearty Conversion and Repentance,' he says, 'then Virgin Sophia appeareth in the stirring of the Spirit of Christ in the extinguished Image, in her Virgin's attire before the Soul; at which the Soul is so amazed and astonished in its uncleanness that all its sins immediately awake in it, and it trembleth before her. . . . But the noble Sophia draweth near in the Essence of the Soul, and tinctureth its dark Fire with her Rays of Love.'"—E. Underhill, *Mysticism*, p. 277.
+
+See SINGERS, STONE, ZION.
+
+### Also in this note: STONE, OR STONES, BUILDING
+A symbol of raised and spiritualised qualities in the higher mind.
+
+> "Ye also, as living stones, are built up a spiritual house to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ."—1 Peter ii. 5.
+
+The qualities that have been purified and transmuted build up the immortal causal-body (house) and inform, or evolve, the individuality, that the ego may be enabled to offer up the lower life in order to gain the higher through the love of the indwelling Christ.
+
+See ALTAR (fire),
+
+**Corrections made:** page heading `723 STONES` removed from mid-sentence; `Jacoh` → Jacob; `ita` → its; `UnperHILL, Mysticism` → Underhill, *Mysticism*; `Sce SIncrers, SToNE` → See SINGERS, STONE; `@ spiritual` → a spiritual; `priest hood` → priesthood; `l1 PETER` → 1 Peter; `Avtar` → ALTAR; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: STONE, OR STONES, BUILDING. Its See list is cut off in the OCR after `ALTAR (fire),` and ends with a comma.
 
 ## Full OCR entry body (exact)
 

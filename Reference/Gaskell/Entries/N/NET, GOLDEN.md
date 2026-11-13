@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-net-golden
 headword: "NET, GOLDEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -69,6 +70,28 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the web, or ideal scheme, of the universe on the buddhic plane.
+
+> "When the infant Buddha is born, four Brahmins, the wise men of India, receive him in a golden net. Then the Maharajahs, the four great kings of the Kosmos, bear him; for is he not Purusha, the Kosmos imaged as a heavenly man?"—A. Lillie, *Budd. in Christendom*, p. 20.
+
+The Soul is born on the buddhic plane during involution and enters the Divine scheme as its centre, uniting all forces and co-ordinating them. The four kings relate to the quaternary focussed on the mental plane. The four lower planes are centralised in the causal Self on the mental plane. The Soul is the Spirit (Purusha), which descends into Matter with all its qualities and thereby informs the Archetypal Man,—the One Soul (Buddha),—from which the many souls arise.
+
+See ARC. MAN, BIRTH OF BUDDHA, BODHISATVA, BUDDHA, COSMOS, GOLD, PURUSHA, QUATERNARY.
+
+### Also in this note: NICODEMUS, A RULER OF THE JEWS
+
+This symbol represents a phase of the lower personality in whom the sense of separateness is yet strong. He regarded Christ as distinct from himself and above him, and he is therefore said to approach him "by night." He was ignorant of the fact that the lower self could be nothing except it were given him of the Higher Self. And yet he is typical of the state of consciousness wherein the soul gropes towards an Ideal of whose presence it has become dimly aware,—of whose existence it is only just convinced. There are many of this type of soul; some of whom call their Higher Self Lord and Master without doing the things that He approves. Nicodemus knew nothing of rebirth on the higher planes, and of the purifying process of truth (water) and Spirit (fire), which is necessary before re-birth can take place, and the soul rise to the heaven world.—See John iii.
+
+> "Nicodemus was of that number who believe in the name of Christ, but Jesus does not trust Himself to them. He came to the Lord, and came by night; came to the Light, and came in darkness. But what do they that are born again of water and of the Spirit hear from the apostle? 'Ye were once darkness, but now light in the Lord; walk as children of light' (Eph. v. 8.). Therefore they who are born again were of the night, and are of the day; were darkness, and are light. Now Jesus trusts Himself to them, and they come to Jesus, not by night. . . . Mark, my brethren, what answer this man who came to Jesus by night makes. Although he came to Jesus, yet because he came by night, he still [word unclear] for the darkness of his own flesh. He understands not what he hears from the Lord, understands not what he hears from the Light. . . . This man knew but one birth, that from Adam and Eve; that which is from God and the Church he knew not yet: he knew only those parents that bring forth to death, knew not yet the parents that bring forth to life; he knew but the parents that bring forth successors, knew not yet the everliving parents that bring forth those that shall abide."—Augustine, *Gospel of John*, Vol. I. pp. 155-8.
+
+See BAPTISM, DARKNESS, NIGHT (darkness), PERSONALITY, RE-BIRTH, REGENERATION.
+
+**Corrections made:** `bor` → born; `Litiie` → Lillie; `tho` → the; `mecessary` → necessary; `Epa.` → Eph.; `e understands` → He understands; `AvucusTINE` → Augustine; page headings `NICODEMUS` and `534 NIDANAS` removed from mid-sentence; See-list spellings restored (`Bopuisatva`, `BuppHa`, `Cosmos`, `BartisM`, `Darkness`).
+
+**Unclear or supplied:** Contains a second entry: NICODEMUS, A RULER OF THE JEWS. `[word unclear]` stands for OCR `8` in "he still 8 for the darkness".
 
 ## Full OCR entry body (exact)
 

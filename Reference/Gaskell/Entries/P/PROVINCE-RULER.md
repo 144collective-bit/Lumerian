@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-province-ruler
 headword: "PROVINCE-RULER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `RULERS (world)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULERS OF MATTER|RULERS OF MATTER]]; [[Reference/Gaskell/Entries/R/RULERS OF THE WORLD|RULERS OF THE WORLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotion-nature operating from the causal-body and ruling the soul through feelings of truth, justice, benevolence, faith, hope, and wide love of humanity.
+
+> "That which is in the Vohu-khshathra Gatha the province rulers should carry on."—*Shayast La-Shayast*, XIII.
+
+That which is in the operations of the causal-body is due to the activities of the higher emotions in the higher mind.
+
+See CAUSAL-BODY, RULERS (world).
+
+**Corrections made:** page heading `PTAH` removed from mid-sentence; `emotionmature` → emotion-nature; `causalbody` → causal-body; `bemevolence` → benevolence; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

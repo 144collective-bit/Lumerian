@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hiranyagarbha-germ
 headword: "HIRANYAGARBHA, GERM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,30 @@ tags:
 | `SurraTma` | **unresolved** (review queue) |
 | `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 | `VAISVANARA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Monad,—the primordial centre of manifestation arising from the Absolute.
+
+> "In the beginning there arose the germ of golden light, Hiranyagarbha; he was the one born lord of all that is. He established the earth and the heaven."—*Rig-Veda*, X. 121.
+
+> "Hiranyagarbha came first into existence, for that golden child did come first into existence—born he was the one lord of being; he upholdeth this earth and the sky."—*Sata. Brâh.*, 4, VII. 4, 1, 19.
+
+> "When God determined to manifest Himself, He summoned into being a glorious Radiance derived from His own light. . . . God looked upon it and loved it, and uttered this sentence,—'But for thee, verily I had not created the heavens!' And it was through this Light and for its sake, that all things were made" (Sufi Cosmogony).—Gibb, *Hist. of Ottoman Poetry*, pp. 34, 365.
+
+As the Absolute is symbolised by Darkness, so the first germ of manifestation is symbolised by Light.
+
+> "All the gods are based upon that divine being Hiranyagarbha, out of whom the sun rises, into whom the sun sets. No one is beyond identity with that divine being. This is That."—*Katha. Upanishad*, IV.
+
+> "Hiranyagarbha means literally the golden embryo, the golden germ or child, or born of a golden womb, and was no doubt an attempt at naming the sun. . . . The golden child was supposed to have been so called because it was Pragapati, the lord of creation, when dwelling as yet in the golden egg, and Hiranyagarbha became in the end a recognised name of Pragapati."—Max Müller, *Vedic Hymns*, p. 6.
+
+The symbols of the manifested Self are many. From that Self all proceeds, and of that Self all consists. As the egg evolves the life-form, so the germ-Self evolves the inner and the outer universes.
+
+See ABSOLUTE, ASCETICISM, CREATURES (small), EGG, EROS, FIRSTBORN SON, GOLD MAN, HEAVEN AND EARTH, IMPERIAL, MAN CRAWLED, MANES, MONAD, PHANES, PRAGAPATI, SEED, [Szir?], SPHERE, SUN, SUTRATMA, SWAN, VAISVANARA.
+
+**Corrections made:** `Bréh.` → Brâh.; `8 glorious` → a glorious; `seta` → sets; `Upaniehad` → Upanishad; `Hymna` → Hymns; `Pragfpati` → Pragapati; `recogni` → recognised; `Grss` → Gibb; `- - .` → . . .; page heading `GOLDEN HIRUEKO` removed from mid-sentence; See-list spellings restored (`Eco`, `Eros`, `FimsrBORN`, `Szep`, `SurraTma`).
+
+**Unclear or supplied:** `recognised` completes OCR `recogni`. `[Szir?]` See-list item not identified. `Gibb` read from OCR `Grss`.
 
 ## Full OCR entry body (exact)
 

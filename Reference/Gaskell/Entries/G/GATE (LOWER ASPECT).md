@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gate-lower-aspect
 headword: "GATE (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Mar. vii. 13` | **unresolved** (review queue) |
 | `14; Ps. ix. 13. See Door (lower)` | **unresolved** (review queue) |
 | `PORCH OF HOUSE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PORCH OF HOUSE|PORCH OF HOUSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind or mental body as the entrance for the ego to the lower planes, or underworld, where the soul gains its experiences, and is disciplined through suffering and sorrow (hell).—See Mar. vii. 13, 14; Ps. ix. 13.
+
+See DOOR (lower), PORCH OF HOUSE.
+
+**Corrections made:** Stray `_` removed before "disciplined"; `Door` → DOOR.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

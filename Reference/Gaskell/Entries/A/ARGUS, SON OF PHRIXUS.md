@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-argus-son-of-phrixus
 headword: "ARGUS, SON OF PHRIXUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `Master` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MASTER, NOT RULED BY A|MASTER, NOT RULED BY A]]; [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]]; [[Reference/Gaskell/Entries/M/MASTER, RULED BY A|MASTER, RULED BY A]] |
 | `WALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self who proceeds from the Supreme (Phrixus).
+
+See ARGO.
+
+### Also in this note: ARHAT,—"HE WHO SEES NIRVANA"
+
+A symbol of the ego who has attained consciousness on the buddhi-manasic levels, through the consummation of the physical life at the end of the present period, when the Self within the soul has arrived at every experience which it is necessary that he should undergo. This condition of consciousness implies the having passed an initiation equivalent to that symbolised in the "crucifixion of Jesus."
+
+See ASCETIC, ASEKA, INITIATIONS, MASTER, WALES.
+
+**Corrections made:** `Anco` → ARGO; `buddhimanasic` → buddhi-manasic; `Master` → MASTER; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: ARHAT,—"HE WHO SEES NIRVANA".
 
 ## Full OCR entry body (exact)
 

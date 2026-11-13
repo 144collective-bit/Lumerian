@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poniard
 headword: "PONIARD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Arrow` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
 | `Sworp` | **unresolved** (review queue) |
 | `Yuma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual energy exercised from within the soul, or the intuition which dispels ignorance and error.
+
+> "Then Ahura Mazda gave Yima a ring and a poniard."—*Vendidad*, II.
+
+Then the Supreme endows the soul with the "ring," symbol of completeness, indicating that which encompasseth its course (the actual course as signified by the Zodiac): and the "poniard," a symbol of the intuition,—the same as the "sword of the Spirit."
+
+See ARROW, SWORD, YIMA.
+
+**Corrections made:** page heading `684 POOL` removed from mid-sentence; `actus` → actual; `Zodiac}` → Zodiac); `Sworp, Yuma` → SWORD, YIMA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

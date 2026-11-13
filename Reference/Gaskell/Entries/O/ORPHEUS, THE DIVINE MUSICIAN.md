@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-orpheus-the-divine-musician
 headword: "ORPHEUS, THE DIVINE MUSICIAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `Pan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PAN PALESTINUS OR PELUSIUS|PAN PALESTINUS OR PELUSIUS]] |
 | `Varpour (white)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the power of atma-buddhi,—the united wisdom and love,—in harmonising and raising the lower elements in the soul. The desires (animals) are attracted, harmonised, and transmuted to higher planes.
+
+See ANIMALS, EURYDICE, HARMONY, MELODY, METIS, MUSIC, PAN, VAPOUR (white).
+
+**Corrections made:** `atmabuddhi,—_the` → atma-buddhi,—the; page heading `OSIRIS` removed from mid-sentence; See-list spellings restored (`Me.opy`, `Varpour`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

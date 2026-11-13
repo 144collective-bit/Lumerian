@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horse-black
 headword: "HORSE, BLACK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `Nicuts` | **unresolved** (review queue) |
 | `TisTrya` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of error or false knowledge.
+
+> "There (in the sea) the daeva Apaosho in the shape of a black horse with black ears and tail encounters Tishtrya (as a red horse). Both fight for three days and nights; at length he is defeated by the daeva."—*Tir Yasht*, Haug, *Essays*.
+
+At this time the illusion of the lower mental plane assails the ego. This illusion is false knowledge which rises before him. The struggle continues for three successive periods during which the mind is preparing. The defeat of the higher intelligence of the ego is at the moment when the evolution is to be carried on upon the lower planes, so that reason and will appear to be dethroned.
+
+> "And when he (the Lamb) opened the third seal, I heard the third living creature saying, Come. And I saw, and behold, a black horse; and he that sat thereon had a balance in his hand."—Rev. vi. 5.
+
+And when the Second Logos, involved in matter as the Divine Sacrifice (Lamb), entered upon the third period of evolution, the lower mental (third creature) plane was established, and energised from the astral plane. This produced false knowledge (black horse) and illusion (rider). The reference to the "balance," and, in the sixth verse, to the measures of wheat and barley, signify the soul becoming subject to the law of karma, whereby it shall reap according as it has sown. And "the oil and the wine hurt thou not," is an exhortation to protect the growth of love (oil) and wisdom (wine) from the adverse forces of the lower planes.
+
+See BALANCE, BLACK, DAEVAS, DAYS, LAMB OF GOD, NIGHTS, TISTRYA, WHEAT AND BARLEY.
+
+**Corrections made:** `Hava` → Haug; `Yasht`; page heading `370 HORSE` removed from mid-sentence; See-list spellings restored (`BaLaNogE`, `Buiack`, `Darvas`, `Lams or Gop`, `Nicuts`, `TisTrya`).
+
+**Unclear or supplied:** `Haug` read from damaged OCR `Hava`.
 
 ## Full OCR entry body (exact)
 

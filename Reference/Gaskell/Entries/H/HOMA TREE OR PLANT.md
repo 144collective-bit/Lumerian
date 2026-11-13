@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-homa-tree-or-plant
 headword: "HOMA TREE OR PLANT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,24 @@ tags:
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINE` | **unresolved** (review queue) |
 | `ZOROASTER. HOME ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Ray or "tree of Life," which proceeds from the Absolute and conveys spiritual nourishment to the soul.
+
+> "Then spake Zarathustra: Reverence to Homa! good is Homa! well-created is Homa! rightly created, of a good nature, healing, well-shaped, well performing, successful, golden-coloured, with hanging tendrils, as the best for eating and the most tasting provision for the soul."—*Homa Yasht*, verse 16, Haug, *Essays*.
+
+The soul (Zarathustra) acclaims the Divine Life (Homa), or the spiritual consciousness. In doing so, it prepares itself to receive, to reverence, and to acknowledge the Truth and Life which proceed from the Divine illumination. This preparedness implies realisation of Right, Holiness, Harmony, Justice, Equilibrium, Victorship and Wisdom. The symbol of the "hanging tendrils," is the comparison of the Divine Nature to the fruit of the vine of Love, which is the best nourishment for the growth of the soul during its pilgrimage.
+
+> "The Hom of the Persians is spoken of in the Zend-avesta as the Word of Life, and has its echo on the earth; also as the author of salvation, and at the same time the announcer of it; as the Tree of Life, and source of the living Water of Life. The plant Hom, when consecrated, is regarded as the mystical body of God; and when partaken of as a sacrament, is received as the veritable food of eternal life."—H. C. Barlow, *Essays on Symbolism*, p. 116.
+
+> "The purification of the Homa twigs is accomplished by water and formulas. The priest takes the Homa twig (one is sufficient) in his right hand, holding a copper goblet of water, in his left, from which he pours water, at intervals, over the twig as he thrice recites, etc."—Haug, *Essays on Parsi Religion*, p. 339.
+
+See ATHWYA, BAPTISM, BREAD, CONSECRATION, CUP, FOOD, GRAPES, [Heratina?], PLANTS, SACRAMENT, SOMA-PLANT, SOUL, SUTRATMA, TABLE OF THE LORD, TREE OF LIFE, VINE, WATER, WINE, ZOROASTER.
+
+**Corrections made:** `Hava, Hasaye`, `Hava, Essays` → Haug, *Essays*; `Bartow, Hesaye` → Barlow, *Essays*; page heading `HOME` removed from mid-sentence and `HOME ;` removed from the end; See-list spellings restored (`AtTHwya`, `Puants`, `SacRaAMENT`, `SomMaPLANT`, `Sour`, `SurratmMa`, `TABLE OF vue Lorp`).
+
+**Unclear or supplied:** `Haug` read from damaged OCR `Hava`. `[Heratina?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

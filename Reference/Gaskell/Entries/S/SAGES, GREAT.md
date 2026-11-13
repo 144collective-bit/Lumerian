@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sages-great
 headword: "SAGES, GREAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `MonaD OF LIFE. RisHES` | **unresolved** (review queue) |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual Egos, the Divine Sparks, the Monads of Life.
+
+> "The great sages approached Man who was seated with a collected mind and having duly worshipped him, [word unclear], etc."—*Laws of Manu*, I. 1.
+
+The spiritual Monads descended to the mental plane whereon the Divine Mind was seated preparatory to going forth: they became united with Him, and they sought knowledge.
+
+See MARUTS, MONAD OF LIFE, RISHIS, SONS OF GOD.
+
+**Corrections made:** `E¢os.` → Egos,; `mini` → mind; `Munu` → Manu; `1. 1.` → I. 1.; `t:` → to; `Divire` → Divine; `goirz` → going; `Hin.` → Him,; See-list spellings restored (`Maruts`, `RisHES`).
+
+**Unclear or supplied:** `[word unclear]`: OCR `spas:`; probably "spake", but not recovered with confidence.
 
 ## Full OCR entry body (exact)
 

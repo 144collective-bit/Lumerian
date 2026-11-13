@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-egg-primal
 headword: "EGG, PRIMAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -69,6 +70,42 @@ tags:
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Cosmos in its original abstract conception in the ideal or innermost state of existence, prior to the periods and processes of Involution and of Evolution.
+
+> "Verily in the beginning this universe was water, nothing but a sea of water. The waters desired, 'How can we be reproduced?' They toiled and became heated with fervent devotion; when they were becoming heated, a golden egg was produced. The year, indeed, was not then in existence: this golden egg floated about for as long as the space of a year."—*Sata. Brâh.*, XI. 1, 6, 1.
+
+> "Orpheus declares that Chaos first existed, eternal, vast, uncreate,—it was neither darkness nor light, nor moist, nor dry, nor hot, nor cold, but all things intermingled. ... in course of the eternity, its outer parts became denser and so sides and ends were made, and it assumed the fashion and form of a gigantic egg."—*Clem. Recognitions*.
+
+> "Before the beginning of things, the great and invisible God alone subsisted. There was no motion, nor darkness, nor [word unclear] nor matter. There was no other than God, the One, the Uncreate, the Self-subsistent."—*The Perfect Way*, p. 53.
+
+From the Absolute Being must first be emanated Life, Energy, Spirit, but the first manifestation is objective, and therefore is primordial substance, or Monadic essence, the container and mother of all that is to be. This Divine Reality is symbolised by "water" or "Chaos," and is described as becoming active within itself, through "devotion," which refers to the Spirit within taking on the limitations of matter in order to manifest itself. After a long period, the primordial matter becomes so far generally organised as to bear semblance or analogy to an egg ready to bring forth the higher qualities (gods) and the structure of the universe. Only when this point is arrived at does the Cycle of Life (the year) commence. It would be useless for the higher qualities to emerge until material conditions were prepared to receive their activities.
+
+> "I (Osiris) rise out of the egg in the hidden land. May my mouth be given unto me that I may speak therewith in the presence of the great god, the lord of the Tuat (underworld)."—Budge, *Book of the Dead*, Ch. XXII.
+
+> "The 'Egg of Life,' having been brought forth from boundless Mother Substance, and kept in motion by this subjective and ever-moving Mother Substance, manifests endless changes. For within its periphery a male-female living Power is ideated by the foreknowledge of the divine Spirit (Father [Æther?]) which is in the egg; which Power Orpheus calls Phanes, for on its shining forth, the whole universe shone forth by the light of Fire,—the most glorious of the elements,—brought to perfection in the Moist (principle-Chaos). And so the Egg, the first and last of all things, heated by the Living Creature within it, breaks; and the enformed Power comes forth, as Orpheus says,—'when the swollen wide-capacious Egg brake in twain',—and thus the outer membrane contains the diacosmic evolution; 'but he (Phanes) presides over the Heaven, as it were seated on the heights of a mountain range, and in secret shines over the boundless Æon.'"—Clem. Alex.
+
+Primordial matter, the "Mother-substance," or "Mula-prakriti," having been energised and informed by the Supreme Spirit "Father Æther," and undergone development through many changes, brings forth that state of existence which can be the field of action of the higher powers of the invisible universe. The first to appear is "Light" (Phanes), implying the union of spirit with matter in its atomic condition. "God said, Let there be light, and there was light." The "Egg breaking in twain" signifies the dualism of Spirit (heaven) and Matter (earth) which now characterises manifestation. Spirit emanating from above, or within, vitalises the entire Cycle of Life, and establishes the Divine order of development in the Solar universe. The "male-female living Power" is the spirit-matter union which is the condition productive of consciousness (Light) in the monads of life.
+
+> "Orpheus tells us that Phanes is the father of all the Gods, for their sake he created the heaven with forethought for his children, in order that they might have a habitation and a common seat—he founded for the immortals an imperishable mansion."—Lactantius, *Inst.* I., V. 28.
+
+> "Of the three aspects (of Phanes), Phanes is said to be the 'father,' Ericapæus the 'power,' and Metis the 'intellect' in Platonic terms."—Mead, *Th. G. Hermes*, p. 165.
+
+As in the Rig-Veda, "the Gods are subsequent to the development of this universe." The higher qualities (Gods) could not manifest until the way had been prepared, and an enduring provision made for them on the higher planes. The three aspects of the Higher Self (Phanes) are Will (Phanes), Action (Ericapæus), and Wisdom (Metis).
+
+> "Aditya (the sun) is Brahman, this is the doctrine, and this is the fuller account of it:—In the beginning this was nonexistent. It became existent, it grew. It turned into an egg. The egg lay for the time of a year. The egg broke open. The two halves were one of silver, the other of gold. The silver one became this earth, the golden one the sky, the thick membrane (of the white) the mountains; the thin membrane (of the yolk) the mist with the clouds, the small veins the rivers, the fluid the sea. And what was born from it that was Aditya, the sun."—*Khand. Upanishad*, III. 19.
+
+In the beginning the spiritual Monad, or primordial substance, became existent and developed into a fit condition for the manifestation of the Divine Life. After a cyclic period of preparation, the condition (egg) permitted of the interactive duality necessary to the emanation of a universe. An efflux of spirit burst forth from within, distinct and separate yet united to atomic matter on which to operate. Matter (earth), primordial, pure and perfect (silver), became the receptacle of Spirit on the buddhic plane (gold-sky). The conditions of aspiration (mountains) truth-bestowing (clouds), channels of Life (rivers), and the Divine Reality (sea), were established, and so it became possible for the Higher Self (the sun) to be born into the universe (solar). It will be seen from the foregoing passages of Scriptures that the emanation of a solar universe begins from the simplest state of substance on the highest plane, Spirit commencing to express its qualities through matter; and that long ages pass ere the conditions of existence allow of the advent of the higher qualities needed for the commencement of the process of Involution which starts from the highest, and consummates in the lowest, and thereby prepares for Evolution which in its turn progresses from the lowest material condition to culminate in the highest spiritual state.
+
+> "That which 'descends' into generative states is the Monad, or divine substance vivified by the divine life. And its first appearance in the sphere of Matter and Time is not as individual, but as diffuse existence; not as self-conscious but as simply conscious. But the potentiality of all higher existences is contained and slumbers within it; it is the efficient cause of all subsequent developments."—Anna Kingsford, *Life*, Vol. II. p. 208.
+
+See ABSOLUTE, ADITI, ADITYA, ÆON, AETHER, AKESI, ASCETICISM, AUSTERITIES, BRAHMA, CHAOS, COSMOS, CRANBERRY, CUPID, DUCK, EDDY, EVOLUTION, GODS, HEAVEN AND EARTH, HIRANYAGARBHA, IMPERIAL, INVOLUTION, MATTER, MAYA, METIS, MONAD, MOTHER, MOUTH, MULA-PRAKRITI, PHANES, PRAKRITI, SEB, SEED, SOUL, SPIRIT, TUAT, WATER, YEAR.
+
+**Corrections made:** `Bréh.` → Brâh.; `riso` → rise; `Bupar` → Budge; `widecapacious` → wide-capacious; `Mothersubstance` → Mother-substance; `Afon` → Æon; `Atther` → Æther; `LAactranT1vus` → Lactantius; `Erecapzus`, `Ericapmeus` → Ericapæus; `MEap, 7'. G.` → Mead, Th. G.; `emana tion` → emanation; `ite` → its; `Kinosrorp` → Kingsford; stray `_` marks removed; page headings `242 EGG`, `EGG` (before "changes") and `243 EGINA` removed from mid-sentence; See-list spellings restored (`ALON`, `Cosmos`, `Duck`, `Eppy`, `EvouvuTION`, `Gops`, `MAyA`, `Monap`, `MoTHER`, `MovutTH`, `Sprrir`, `Tuat`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` stands for OCR `8 »` in the Perfect Way quotation. `Father [Æther?]` is read from OCR `Father ther`. The Ericapæus spelling is restored from damaged OCR variants.
 
 ## Full OCR entry body (exact)
 

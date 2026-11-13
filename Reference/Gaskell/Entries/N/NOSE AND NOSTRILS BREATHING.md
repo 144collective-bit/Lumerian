@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nose-and-nostrils-breathing
 headword: "NOSE AND NOSTRILS BREATHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `ADAM (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/A/ADAM (LOWER ASPECT)|ADAM (LOWER ASPECT)]] |
 | `AIN SOPH` | resolved (full-head) → [[Reference/Gaskell/Entries/A/AIN SOPH|AIN SOPH]] |
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of volition and freewill, since the nose is allied with the breathing function of the lungs, by means of which the brain is enabled to act for the mind, and the control of which function implies restraint and discipline.
+
+> "All things are comprehended in this Spirit of the Ancient of the Ancient Ones, Who proceedeth from the concealed brain, into the gallery of the nostrils. . . . The nose of the Ancient of Days is life in every part."—*The Greater Holy Assembly*, Ch. X.
+
+All things originate in the Absolute, from which the manifesting Spirit proceeds as an emanation from the hidden intelligence to proclaim the Divine Will, and forth-pour the Divine Life.
+
+See ABSOLUTE, ADAM (lower), AIN SOPH, BREATH (divine).
+
+**Corrections made:** Page heading `FOR NOSTRILS` removed from mid-sentence; `. - .` → ellipsis.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

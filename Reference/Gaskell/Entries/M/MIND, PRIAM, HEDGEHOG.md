@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mind-priam-hedgehog
 headword: "MIND, PRIAM, HEDGEHOG"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `DAEvas` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `Doc` | **unresolved** (review queue) |
 | `TALus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TALUS, THE BRAZEN MAN|TALUS, THE BRAZEN MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the critical intellect destructive of errors.
+
+> "The dog with prickles and a long and thin muzzle, the dog Vanghapara is a good creature which from midnight to dawn destroys thousands of creatures of the evil spirit."—*Vendidad*, XIII.
+
+This "dog," with defensive points and insinuating methods of destructive inquiry, signifies the critical intellect which destroys superstition, error, delusion, and doubt, and gets rid of the prejudices and out-grown notions of the lower mind.
+
+See AHRIMAN, BRIAREUS, CREEPING THINGS, DAEVAS, DOG, TALUS.
+
+**Corrections made:** `Vendtdad, XIIT` → Vendidad, XIII; `DAEvas` → DAEVAS; `Doc` → DOG.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

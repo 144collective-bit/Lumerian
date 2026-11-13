@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crucifixion-of-jesus-according-to-cerinthus
 headword: "CRUCIFIXION OF JESUS, ACCORDING TO CERINTHUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+> "Jesus suffered; and Christ remained incapable of suffering, being a Spirit of the [word unclear]."—Hippolytus, *Works*, Bk. X.
+
+"Jesus" is a symbol of the almost perfected soul whose personality suffers at the last. The Christ,—the Atman,—could not suffer, for suffering is only of the lower planes, and is the result of imperfect functioning.
+
+> "Christ suffered and died. The Godhead indeed could not suffer. But God could take a nature which is capable of suffering."—H. P. Liddon, *University Sermons*, p. 231.
+
+**Corrections made:** page heading `192 CRUCIFIXION` removed from mid-quotation; `the oe` → [word unclear]; `Hrppo.tytus` → Hippolytus; stray `as` before `Jesus` removed; `as nature` → a nature; `Lippon` → Liddon.
+
+**Unclear or supplied:** `[word unclear]` replaces the damaged `the oe` at the end of the Hippolytus quotation. The stray word `as` before `Jesus` is treated as OCR debris and dropped.
 
 ## Full OCR entry body (exact)
 

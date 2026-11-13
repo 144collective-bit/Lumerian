@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-erebus-son-of-chaos
 headword: "EREBUS, SON OF CHAOS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `MonaD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `NIGHT (matter)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `Nox` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NOX, SISTER OF EREBUS|NOX, SISTER OF EREBUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine potency arising in formless matter (Chaos) at the dawn of manifestation prior to the interactions of spirit and matter.
+
+> "From Chaos came dark Nox and Erebus; from Nox was Æther sprung and Hemera, whom she that big with them had grown, brought forth, mixed in affinity with Erebus."—Hesiod, *Theogony*, 123-5.
+
+From formless matter came forth the unconscious form side of nature (Nox), and the latent Divine potency (Erebus) for the production of forms. Then from the productive union of these states, consciousness (Æther) and discreteness (Hemera) became apparent in the first life-wave (day) of the cycle, as spirit began to inform matter and qualities and properties were gradually involved.
+
+> "The name 'Erebus' signifies darkness."—*Smith's Class. Dict.*
+
+"Darkness" is a symbol of the potential or latent.
+
+See ÆTHER, CHAOS, CHARON, DARKNESS, EROS, HEAVEN AND EARTH, MONAD OF FORM, NIGHT (matter), NOX.
+
+**Corrections made:** `Atther` → Æther; `Hesiop` → Hesiod; page heading `251 ERECTHEUS` removed from mid-sentence; `AUTHER` → ÆTHER; `MonaD` → MONAD; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chapters
 headword: "CHAPTERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Book` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BOOK OF THE LORD GOD|BOOK OF THE LORD GOD]]; [[Reference/Gaskell/Entries/B/BOOK STUDIES|BOOK STUDIES]] |
 | `GOING IN` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOING IN AND COMING FORTH IN MANIFESTATION|GOING IN AND COMING FORTH IN MANIFESTATION]] |
 | `MANIFESTATION UNTO DAY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the planes of manifestation, or of periods and stages of progress.
+
+> "What is the Book of Mysteries? It consists, said R. Shimon ben Yo'hai, of Five Chapters, contained in a grand palace and filling the whole universe. If, replied Rabbi Yehuda, they contain the fundamental ideas, they would be the most excellent of all things! And so they are, replied R. Shimon, for the initiated."—Myer, *Qabbalah*, p. 101.
+
+In the manifestation of the Logos (book of Life) there are five planes, and these are comprised in the Macrocosm. If these five planes, namely, the atmic, buddhic, mental, astral, and physical planes, contain all that is necessary for the soul's perfection, then the soul as the microcosm will ultimately attain in actuality the perfection of the Macrocosm.
+
+See BOOK, GOING IN, MANIFESTATION UNTO DAY.
+
+**Corrections made:** `‘* What` → "What; `Mvzz` → Myer; See-list spellings restored (`Book`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

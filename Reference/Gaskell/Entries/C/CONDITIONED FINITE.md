@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conditioned-finite
 headword: "CONDITIONED FINITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `ABSOLUTE` | **unresolved** (review queue) |
 | `Gop` | **unresolved** (review queue) |
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This state of being is the symbol and evidence of the unconditioned and infinite. Without the latter the former could not be. The conditioned finite in its highest state is God-manifest, or the Higher Self. The unconditioned infinite is God-Absolute, the Source of all.
+
+> "To all eternity God is what He is and never can be other; but it will take Him to all eternity to live out all that He is. In order to manifest even to Himself the possibilities of His being God must limit that being. There is no other way in which the fullest self-realisation can be attained. Thus we get two modes of God—the infinite, perfect, unconditioned, primordial being; and the finite, imperfect, conditioned, and limited being of which we are ourselves expressions. And yet these two are one, and the former is the guarantee that the latter shall not fail in the purpose for which it became limited. Thus to the question, Why a finite universe? I should answer, Because God wants to express what He is."—R. J. Campbell, *The New Theology*, p. 23.
+
+See ABSOLUTE, GOD, GODHEAD.
+
+**Corrections made:** `Himeelf` → Himself; `selfrealisation` → self-realisation; `wante` → wants; `Gop` → GOD; page headings `Kuvrvs, CONE` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

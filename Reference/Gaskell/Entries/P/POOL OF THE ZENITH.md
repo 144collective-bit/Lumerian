@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pool-of-the-zenith
 headword: "POOL OF THE ZENITH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `BaprisM` | **unresolved** (review queue) |
 | `WHEAT AND BABLEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
 | `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol signifying the completion of purification by Truth, and the attainment of the higher state of consciousness. See BAPTISM, WHEAT AND BARLEY, ZENITH.
+
+**Corrections made:** `BaprisM` → BAPTISM; `BABLEY` → BARLEY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hosts-lord-of
 headword: "HOSTS, LORD OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Quatiries` | **unresolved** (review queue) |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SOLDIERS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self,—the ruler and director of the qualities (hosts), higher and lower.
+
+See ARMY OF THE GODS, JEWELS, QUALITIES, SELF, SOLDIERS.
+
+**Corrections made:** `Quatiries` → QUALITIES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

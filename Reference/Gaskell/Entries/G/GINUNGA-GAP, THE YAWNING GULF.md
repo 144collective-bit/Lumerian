@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ginunga-gap-the-yawning-gulf
 headword: "GINUNGA-GAP, THE YAWNING GULF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
 | `Yair` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial formless matter in space, prior to the involution of spirit.
+
+> "It was time's morning when Ymer lived. There was no sand, no sea, no cooling billows; earth there was none, no lofty heaven; only the Gulf of Ginunga, but no grass."—*The Voluspa*.
+
+At the dawn of manifestation, the potential lay dormant. There was nothing firm, no outflow of life. There was no lower nature, nor higher nature; only chaos, and no growth from below.
+
+See ABYSS, CHAOS, DEEP, EARTH, GRASS, HIGHER, SANDS, SEA, WAVES, [YMER?].
+
+**Corrections made:** Page heading `311 GIRDLE` removed from mid-sentence; See-list spellings restored (`Asyss`, `CHaos`, `Grass`, `Sanps`); quotation marks normalised.
+
+**Unclear or supplied:** `[YMER?]`: OCR reads `Yair`, a See-list item read as the likeliest headword (cf. "Ymer" in the quotation).
 
 ## Full OCR entry body (exact)
 

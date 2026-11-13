@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-red-colour
 headword: "RED COLOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Mans` | **unresolved** (review queue) |
 | `TIstryYa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TISTRYA (JUPITER PLANET)|TISTRYA (JUPITER PLANET)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of ambition and power of the lower self.
+
+See MARS, TISTRYA.
+
+**Corrections made:** `Mans` → MARS; `TIstryYa` → TISTRYA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

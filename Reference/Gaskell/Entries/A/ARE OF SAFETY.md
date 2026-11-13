@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-are-of-safety
 headword: "ARE OF SAFETY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Hovusz mv HEAVEN` | **unresolved** (review queue) |
 | `SH (Manu)` | **unresolved** (review queue) |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body in which the Higher Self and its higher qualities traverse the changing lower nature during the manvantara or great cycle of life.
+
+> "Christ is the Ark, . . . we must bear the Christ upon us, and have the Temple of this Ark within us."—Boehme, *Myst. Mag.*, p. 200.
+
+> "Christ is the Ark, taking the chosen family (of faithfulness and piety) from the world of judgment to the new heavens and the new earth (after destruction has passed on the old)."—A. Jukes, *The Law of the Offerings*, p. 21.
+
+> "The elect are delivered, first mystically by baptism, that passage through the waters, which figures death and resurrection; and then actually, through that dying to the world and nature, which is both the judgment of the old, and the way for [word unclear]'s children to the new creation."—A. Jukes, *Types of Genesis*, p. 114.
+
+> "The ship of Ea is Destiny."—Sayce, *Rel. of Anc. Babyl.*, p. 67.
+
+See [Arvu-rni?], [Arnao?], BOAT, BOAT (sektet), HOUSE OF HEAVEN, [SH (Manu)?], TEMPLE.
+
+**Corrections made:** `BoxzHME` → Boehme; `Juxzs` → Jukes; `Typee` → Types; `Sayog` → Sayce; `that.` → that; See-list spellings restored (`Boar` → BOAT, `Hovusz mv HEAVEN` → HOUSE OF HEAVEN); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]'s children` (OCR `for 's children`, probably God's). See-list items `[Arvu-rni?]`, `[Arnao?]` and `[SH (Manu)?]` could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

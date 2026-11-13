@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atea-and-atanua-god-of-light-and-goddess-of-dawn
 headword: "ATEA AND ATANUA, GOD OF LIGHT AND GODDESS OF DAWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Lieut` | **unresolved** (review queue) |
 | `TANAOA. ATHENA` | **unresolved** (review queue) |
 | `PALLAS;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Divine Will and Divine Wisdom, i.e. Atma-buddhi.
+
+> "Light (Atea) having been evolved from darkness (Tanaoa), the god Ono or 'Sound' was evolved from Atea, and he destroyed 'Mutuhei' (silence). But from the foregoing struggle between Tanaoa and Atea, Ono and Mutuhei, arose Atanua or the dawn. Atea then took Atanua for a wife, and from them sprang their first-born Tumea. After [that] Atea created the host of inferior deities, etc."—A. Fornander, *Polynesian Race*, Vol. I. p. 63.
+
+The Divine Will having proceeded from the potential (darkness), the "Word," or expression of God, became manifest in putting an end to the unmanifest (silence). Then from the interaction of matter (Tanaoa) and Spirit (Atea), and of activity (Ono) and inertness (Mutuhei), arose Wisdom (Atanua). Love (Atea) united with Wisdom and the Divine Son was born. Afterwards the Divine Will created the lower nature with its desires, etc.
+
+See APITI, DARKNESS, DAWN, LIGHT, TANAOA.
+
+**Corrections made:** Page headings `81 ATHORNE` (mid-sentence) and `ATHENA, PALLAS;` (end) removed; `tom` → from; `eprang` → sprang; `FoRNANDER` → Fornander; `ite` → its; See-list spellings restored (`Aprtm1`, `Lieut`); quotation marks normalised.
+
+**Unclear or supplied:** `[that]` is supplied (OCR `After t Atea`). The OCR order is displaced by the page break (`the the unmanifest (silence). ... "Word," or expression of God, became manifest in putting an end to Then`); the words are set in the order the sense requires.
 
 ## Full OCR entry body (exact)
 

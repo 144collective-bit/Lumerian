@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-porch-of-house
 headword: "PORCH OF HOUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Door (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DOOR (LOWER ASPECT)|DOOR (LOWER ASPECT)]] |
 | `GaTE (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]] |
 | `House` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HOUSE|HOUSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sense-nature which is, as it were, an entra[nce] from outside to the lower consciousness. See DOOR (lower), GATE (lower), HOUSE.
+
+**Corrections made:** page heading `PORCHES` removed from mid-word; `natur` → nature; `entra:` → entra[nce].
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

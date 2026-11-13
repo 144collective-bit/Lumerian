@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-houries-nymphs-of-paradise
 headword: "HOURIES, NYMPHS OF PARADISE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `Goris` | **unresolved** (review queue) |
 | `Musrs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MUSES|MUSES]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotions active on the buddhic plane.
+
+> "The Garden of Eden is the scene of the Beatific Vision, the Divine Epiphanies, the sight of which will form the highest felicity of the blessed. The native inhabitants of Paradise are the houries, maidens of celestial beauty and of every virtue, who will be the heavenly brides and companions of the blessed, and the 'eternal youths' who will be the attendants on the just."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 37.
+
+When the consciousness rises to the buddhic plane (Eden) the soul will become possessed of the high faculties of that state of being. The higher emotions (houries) in harmony with Truth, Wisdom, and Love, will fill the consciousness with peace and bliss (See Koran, Sura, LVI.).
+
+> "In The Pilgrim's Progress, in the house called Beautiful, all the inmates, except the porter, are females."—Geo. Offor.
+
+See BLANDISHMENTS, DANCE (circle), ESTHER, GARDEN OF EDEN, [Goris?], MUSES, PARADISE.
+
+**Corrections made:** `higheat` → highest; `GrsB` → Gibb; `Gro. OFrror` → Geo. Offor; `DANCE, (circle)` → DANCE (circle); See-list spellings restored (`EstHER`, `Musrs`).
+
+**Unclear or supplied:** `Gibb` read from damaged OCR `GrsB`. `[Goris?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

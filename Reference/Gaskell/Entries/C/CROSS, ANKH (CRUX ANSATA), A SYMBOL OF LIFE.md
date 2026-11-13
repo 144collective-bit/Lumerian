@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cross-ankh-crux-ansata-a-symbol-of-life
 headword: "CROSS, ANKH (CRUX ANSATA), A SYMBOL OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `SPHERE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPHERE, OR SPHAIROS|SPHERE, OR SPHAIROS]] |
 | `SQUARE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SQUARE|SQUARE]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This Egyptian cross has the same meaning as the Latin cross. The circular handle is a symbol of the higher planes, but inasmuch as the handle is not a perfect circle, it indicates that activities pass from above to the quaternary below.
+
+> "According to Pythagoras, when the Soul descends from the boundary where the Zodiac and Galaxy meet, from a spherical form, which is the only divine one, it is elongated into a conical one with downward tendency."—Macrobius.
+
+When the soul enters upon the limitations of the cycle of life (Zodiac) it is no longer wholly divine, but its lower part gravitates towards desire and sensation. The "Galaxy" is a symbol of the celestial regions (atma-buddhi) from which the Soul has come. The World-soul descends to be involved in the matter of the lower planes, that it may rise again in the myriad souls of humanity. See CHILDREN OF HORUS, CIRCLE, QUATERNARY, SPHERE, SQUARE, ZODIAC.
+
+**Corrections made:** page heading `CROWD` removed from mid-quotation; `wie downward` → with downward; `Macrobiue` → Macrobius; `atmabuddhi` → atma-buddhi.
+
+**Unclear or supplied:** The Macrobius quotation has no work or page reference in the OCR.
 
 ## Full OCR entry body (exact)
 

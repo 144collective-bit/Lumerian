@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-left
 headword: "LEFT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Arms (body)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMS OF THE BODY|ARMS OF THE BODY]]; [[Reference/Gaskell/Entries/A/ARMS, WEAPONS|ARMS, WEAPONS]] |
 | `Corn` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CORN, OR WHEAT|CORN, OR WHEAT]] |
 | `Hann` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Indicative of passivity, or incoming energy.
+
+See ARMS (body), [Corn?], HAND.
+
+**Corrections made:** `Arms` → ARMS; `Hann` → HAND.
+
+**Unclear or supplied:** `[Corn?]` in the See list may be damaged.
 
 ## Full OCR entry body (exact)
 

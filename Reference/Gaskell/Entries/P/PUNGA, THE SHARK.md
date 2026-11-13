@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-punga-the-shark
 headword: "PUNGA, THE SHARK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Sout (middle)` | **unresolved** (review queue) |
 | `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
 | `TUTE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul.
+
+> "But before Tangaroa fled, his children consulted together how they might secure their safety, for Tangaroa had begotten Punga, and he had begotten two children, Ika-tere, the father of fish, and Tute-wehiwehi, the father of reptiles."—G. Grey, *Polynesian Mythology*.
+
+But before the obscuration of Spirit, the Logos (Tangaroa) had brought the soul (Punga) into active being. The soul was endowed with two capacities for development; one springing from above,—the capacity (Ika-tere) for aspiration (fish), and the other rising by reflection from below, the capacity for desire (reptiles). These capacities became operants in the evolution of the soul.
+
+See DOLPHIN, FISH, IKA-TERE, JESUS (fish), [Rangi?], SOUL (middle), TANGAROA, TUTE.
+
+**Corrections made:** `development ;` → development;; `GREY` → Grey; See-list spellings restored (`DotpHiIn`, `FisH`, `Jxsus`, `Sout`); quotation marks normalised.
+
+**Unclear or supplied:** `[Rangi?]` in the See list is read from the damaged OCR `Ranoei`.
 
 ## Full OCR entry body (exact)
 

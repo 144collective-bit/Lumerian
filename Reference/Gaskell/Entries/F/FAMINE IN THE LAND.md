@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-famine-in-the-land
 headword: "FAMINE IN THE LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `EARTHQUAKES` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
 | `Foop` | **unresolved** (review queue) |
 | `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a period of mental and emotional inertia wherein there is a lack of sustenance and satisfaction for the soul.
+
+> "Behold, the days come, saith the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord."—Amos viii. 11.
+
+This refers to a preparatory state of inactivity of the qualities.
+
+> "By famine is signified the deprivation of the understanding of all truth."—Swedenborg, *Apoc. Rev.*, n. 765.
+
+See CALAMITIES, EARTHQUAKES, FOOD, PRALAYA.
+
+**Corrections made:** `alack` → a lack; `SwWEDENBORG` → Swedenborg; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

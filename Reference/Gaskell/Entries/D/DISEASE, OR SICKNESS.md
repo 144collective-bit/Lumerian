@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-disease-or-sickness
 headword: "DISEASE, OR SICKNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `HEALING` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `MIRACLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MIRACLES OF HEALING|MIRACLES OF HEALING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a malady of the soul in which disability is caused by a one-sided development of the lower nature, with failure of the mind to control the deformity. The result is that an affection of the lower nature ties the soul down and prevents the increase of spiritual faculty. The malady can only be healed when the qualities concerned become discontented with their condition, and then aspire towards the ideal.
+
+See HEALING, MIRACLES.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

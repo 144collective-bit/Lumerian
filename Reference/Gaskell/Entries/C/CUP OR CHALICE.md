@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cup-or-chalice
 headword: "CUP OR CHALICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `TABLE OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body which is the receptacle of the Spiritual life or Monad—Atma-buddhi.
+
+> "A higher power bringeth a Cup full of intuition and wisdom, and also [prudence], and giveth it to the soul."—*Pistis Sophia*, *Books of the Saviour*.
+
+> "The Cup . . . is the Cup offered by the Deity to the souls, from which they [drink] the wine of wisdom. This may be compared with the Grail Legend."—G. R. S. Mead, *Orpheus*, p. 43.
+
+> "He filled a mighty Cup with Mind, and sent it down . . . to the hearts of men: 'Baptise thyself with this Cup's baptism, . . . thou canst ascend to Him that hath sent down the Cup, thou that dost know for what thou didst come into being.' As many then as understood . . . became partakers in the Gnosis; and when they had 'received the Mind,' they were made 'perfect men.'"—*The Cup or Monad*, in the *Corpus Hermeticum*.
+
+"Mind" is a symbol of atma-buddhi, Love and Wisdom, the Divine Monad. When the souls partake of this "Cup" then perfection of the souls is reached.
+
+> "For this blood of Christ and of the Covenant—this wine within the holy Chalice, of which we all must drink who nevermore would thirst—is the Divine Life, the vital, immortal principle, having neither beginning nor end, the perfect, pure, and incorruptible Spirit, cleansing and making white the vesture of the soul as no earthly purge can whiten; the gift of God through Christ, and the heritage of the elect. To live the Divine Life is to be partaker in the blood of Christ and to drink of Christ's cup. It is to know the love of Christ which 'passeth understanding,' the love which is life, or God."—*The Perfect Way*, p. 109.
+
+> "I will take the cup of salvation, and call upon the name of the Lord."—Ps. cxvi. 13.
+
+The "cup of salvation" is the receptacle of the Spirit, from which the soul drinks the "wine" of love and wisdom. See ANOINTING, BLOOD, CRATER, [GRAIL?], HOMA-JUICE, SACRAMENT, SOMA-JUICE, TABLE OF THE LORD, WATER, WINE.
+
+**Corrections made:** `ie` → is; `rudence` → [prudence]; `Pietis Sophia` → Pistis Sophia; `G. R. 8S. Meap` → G. R. S. Mead; `they the wine` → they [drink] the wine; `hearte` → hearts; `perfec men` → perfect men; `Hermcticum` → Hermeticum; page heading `194 CUP` removed from mid-sentence; `tho vital` → the vital; `cleanaing` → cleansing; `IT will` → I will; See-list spellings restored (`BLoop`, `Homa-Juice`, `SomMa-JUICE`, `Water`).
+
+**Unclear or supplied:** `[prudence]` and `[drink]` are supplied for words damaged or dropped in the OCR. `[GRAIL?]` is the OCR See-list item `Gra`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-intuition-pan-the-great-god-son-of-hermes
 headword: "INTUITION, PAN, THE GREAT GOD, SON OF HERMES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,18 @@ tags:
 | `PAnNIoc TERRORS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANIC TERRORS|PANIC TERRORS]] |
 | `PASTORAL LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PASTORAL LIFE|PASTORAL LIFE]] |
 | `SATYRS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the subjective astromental life of the sympathetic system of the natural man, through which the desires and the feelings are increased and brought into relation with the objective mind. "Pan" is the product of mind (Hermes) brought forth of the astral nature, and therefore progresses by means of desire (goat-legged). He delights the Divine attributes (Gods) because he is the perfect instrument through which Dionysus (Christ) can evolve in the lower nature and be the Saviour of the soul. "Pan" on the astral plane corresponds with "Orpheus" on the buddhic plane: they both are agents for the co-ordinating and harmonising (music) of the lower qualities (flocks both of wild and tame animals).
+
+> "As the god of everything connected with pastoral life, Pan was fond of music, and the inventor of the syrinx or shepherd's flute."—Smith's *Class. Dict.*
+
+See ANIMALS, DIONYSUS, FLOCKS, GOAT, HERDS, HERMES, JUBAL, MAN (natural), MUSIC, ORPHEUS, PANIC TERRORS, PASTORAL LIFE, SATYRS.
+
+**Corrections made:** Page heading `PANDAVAS` removed from mid-sentence; See-list spellings restored (`Antmats`, `F Locks`, `Hernps`, `OrpHEUs`, `PAnNIoc`).
+
+**Unclear or supplied:** `HERDS` is read from OCR `Hernps` and may not be exact.
 
 ## Full OCR entry body (exact)
 

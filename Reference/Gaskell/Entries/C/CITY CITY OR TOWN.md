@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-city-city-or-town
 headword: "CITY CITY OR TOWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `JESUS WEPT` | **unresolved** (review queue) |
 | `PILGRIMS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PILGRIM|PILGRIM]] |
 | `STREETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREETS OF NINE|STREETS OF NINE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a centre of activity or functioning, upon the buddhic, mental, and astral planes, to which the qualities (people) are attached, and about which they may congregate.
+
+> "A city signifies doctrine, because land, and in particular the land of Canaan, signifies the church in the aggregate."—Swedenborg, *Apoc. Rev.*, n. 194.
+
+> "And Cain builded a city, and called the name of the city after the name of his son Enoch."—Gen. iv. 17.
+
+The personality (Cain) having acquired the quality aspiration (Enoch), was enabled to form a mental centre (city), and to this fixed point in the mind, aspiration was attached.
+
+See ACROPOLIS, ASSEMBLY, ATTRACTION, CAIN, HUMAN BODY, JESUS WEPT, PILGRIMS, STREETS.
+
+**Corrections made:** `SwEpDENBORG` → Swedenborg; `ATTRAOCTION` → ATTRACTION; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

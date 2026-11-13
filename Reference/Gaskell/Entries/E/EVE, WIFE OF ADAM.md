@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eve-wife-of-adam
 headword: "EVE, WIFE OF ADAM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,22 @@ tags:
 | `Sxivs` | **unresolved** (review queue) |
 | `Wire` | **unresolved** (review queue) |
 | `Woman` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature united to the mental-nature of the lower mind.
+
+> "And the man called his wife's name Eve; because she was the mother of all living."—Gen. iii. 20.
+
+And the mind recognises the life-principle within the soul to be the emotion-nature, for it is the originator or former of all qualities that subsist, that is, of all qualities that have in them the germ of the higher life.
+
+> "Eve is the right magical child, for she is the matrix in which the Love-desire stood in Adam. She was Adam's Paradisical Rose-garden in peculiar love wherein he loved himself."—J. Boehme, *Mysterium Magnum*, p. 83.
+
+See ADAM (lower), ANDROMEDA, CONCEPTION (children), EPIMETHEUS, FALL, MAN, MAN AND WIFE, MARRIAGE, PANDORA, PERSONALITY, SEED (good), SERPENT (subtil), SETH, SKINS, WIFE, WOMAN.
+
+**Corrections made:** `tu` → to; `GeEn.` → Gen.; `lifeprinciple` → life-principle; `Para. disical` → Paradisical; `BozHme` → Boehme; See-list spellings restored (`ApAm`, `ConcEPTION`, `FaLi`, `Sera`, `Sxivs`, `Wire`); quotation marks normalised.
+
+**Unclear or supplied:** `EPIMETHEUS` is read from OCR `Ermrraevs`; `SETH` from `Sera`; `SKINS` from `Sxivs`.
 
 ## Full OCR entry body (exact)
 

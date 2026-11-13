@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bliss
 headword: "BLISS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,26 @@ tags:
 | `Taste` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
 | `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
 | `VIBHU` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The abode of Perfection; the state of true Being; the condition of Love. The nature of the Higher Self is bliss.
+
+> "Fixing the senses with the inward sense, may Savitri produce in us senses by which there shall be bliss, and which shall reveal the divine being, the great light, by spiritual intuition."—Gough, *Sixty Upanishads*, p. 218.
+
+Quieting the desires and enticements of sense by reliance upon wisdom and love, may the Higher Self arouse the qualities which lead to perfection, truth, and love, that there may be union of the soul with God.
+
+> "The view that the gods, in contrast to the suffering world of men, enjoy an untroubled felicity, is probably common to all peoples. But in the Upanishads bliss appears not as an attribute or a state of Brahman, but as his peculiar essence. Brahman is not [nandin?], [word unclear] bliss, but Ânanda, bliss itself."—[Deu]ssen, *Phil. of Upanishads*, p. 141.
+
+> "This state (in which all contrasts have disappeared) is then further described as one of pure knowledge, of existence as subject without object, and it is then added, 'This is his supreme goal, this is his supreme happiness, this is his supreme world, this is his supreme bliss; by a small portion only of this bliss all other creatures live' (*Brihad. Upanishad*, IV. 3, 33)."—*Ibid.*, p. 143.
+
+> "I like to dwell upon this precious thought that the day will come for the redeemed of God when no man will have to struggle to do right or fear to do wrong, when there will be no question of such a thing, but we shall simply live as the flowers bloom and shed their fragrance in the summer air; and by so living, spontaneously, gladly, inevitably, fill our appointed place in God's universal plan and contribute our full share to the blessedness of his whole creation."—R. J. Campbell, *Serm.*, *From Subjection to Sovereignty*.
+
+See ANANDA, MUSIC, SORROW, SUFFERING, TASTE, [UNEN?], VIBHU.
+
+**Corrections made:** `shal!` → shall; `Govuaa, Seeias Upanishad` → Gough, Sixty Upanishads; `nandin, ing bliss` → [nandin?], [word unclear] bliss; `Gnanda` → Ânanda; `ENSSEN` → [Deu]ssen; `Zbid.` → Ibid.; `@ppointed` → appointed; `R. J. CamPBELL` → R. J. Campbell; See-list spellings restored (`Ana`, `SuFFERIna`); quotation marks normalised.
+
+**Unclear or supplied:** `[nandin?]` and `[word unclear]` in the Deussen quotation (OCR `nandin, ing`); `[Deu]` is supplied for the damaged author name (OCR `ENSSEN`). See-list item `[UNEN?]` is not identifiable from the OCR (`UNEN`); `ANANDA` is restored from `Ana`.
 
 ## Full OCR entry body (exact)
 

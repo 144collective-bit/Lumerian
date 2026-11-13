@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ba-the-soul
 headword: "BA, THE SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `Son or GOD` | **unresolved** (review queue) |
 | `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego, or Divine spark, within each individual soul.
+
+> "In many texts the Ba is made to live with Râ or Osiris in heaven. . . . In the Papyrus of Nebqet it is seen in the form of a human-headed hawk flying down the funeral pit, bearing air and food to the mummified body to which it belongs."—Budge, *Book of the Dead*, Vol. I. p. lx.
+
+As the spiritual ego is atma-buddhic it is the same with "Osiris (atma) in heaven (buddhi)." The "human-headed hawk" signifies the spiritual aspect of man. The "mummified body" signifies the purified personality which the spirit vitalises in its inner being, though its astro-mental form is left inactive and dead. The Ram-headed form of Osiris is sometimes called Ba.
+
+See EMBALMENT, HAWK, MONAD OF LIFE, MUMMY, SON OF GOD, SPARK.
+
+**Corrections made:** `R&` → Râ; `flyi down` → flying down; `air an food` → air and food; `Bupar` → Budge; `humanheaded` → human-headed; `ite inner` → its inner; `orm` → form; page heading `BABYLON` removed from mid-sentence; See-list spellings restored (`Hawk`, `Mummy`, `Son or GOD`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

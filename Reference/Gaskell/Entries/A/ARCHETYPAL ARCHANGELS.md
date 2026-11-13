@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-archetypal-archangels
 headword: "ARCHETYPAL ARCHANGELS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,16 @@ tags:
 | `MESSENGERS` | **unresolved** (review queue) |
 | `MICHAEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MICHAEL, THE ARCHANGEL|MICHAEL, THE ARCHANGEL]] |
 | `VOHUMANO` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial Divine Powers on the highest planes of manifestation. These have their part in the construction of the spiritual universe which underlies the perceptible and visible phenomenal universe. "Archangels" also signify messengers of the Logos on high planes; and exalted Intelligences who introduce the spiritual Life-element into the vehicles, or forms, fully prepared and awaiting its reception.
+
+See AMSHASPANDS, ANGELS, APSARAS, BAHMAN, BUILDERS, DEVAS, GABRIEL, GUARDIANS, MESSENGERS, MICHAEL, VOHUMANO.
+
+**Corrections made:** `Lifeelement` → Life-element; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

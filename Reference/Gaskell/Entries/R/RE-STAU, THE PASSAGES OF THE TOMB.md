@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-re-stau-the-passages-of-the-tomb
 headword: "RE-STAU, THE PASSAGES OF THE TOMB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `SEPULCHRE` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEPULCHRES, OR TOMBS|SEPULCHRES, OR TOMBS]] |
 | `TOMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower planes in which the Self is involved.
+
+> "Thy name (Osiris) hath been made in Re-stau when it had fallen therein. Homage to thee, O Osiris, in thy strength and in thy power, thou hast obtained the mastery in Re-stau. Thou art raised up, O Osiris, and thy might is in Re-stau, and thy power is in Abtu (Abydos). Thou goest round about through heaven, and thou lookest upon the generations of men, O thou Being who circlest."—Budge, *Book of the Dead*, Ch. CXIX.
+
+The manifestation of the Christ hath been completed in the lower nature to which it had descended at the beginning. Christ is glorified in that he has obtained the mastery over the lower activities. He is risen from the dead lower nature, and is all-powerful both below and above (Abtu). He traverseth the higher nature of the soul and draweth upward the developing mental qualities in all their stages of growth. He is the indwelling Spirit who passes through the cycle of life.
+
+> "You may nail Christ on his cross in the agonies of suffering humanity; you may lay him in the sepulchre of hate, and roll the stone of unbelief to the door, and seal it with the seal of brutal materialism; but you cannot keep him down. Oh, miracle of miracles, this constant resurgence of the spirit of Christ in our common life! Christ breaks his fetters and issues forth invincible in the teeth of all that his foes can do."—R. J. Campbell, *Serm.*, *Christ Arisen*.
+
+See ABTU, FETTERS, HEROIC RUNNER, MOUTH (speech), OSIRIS, SEPULCHRE, TOMB.
+
+**Corrections made:** page heading `RESURRECTION` removed from mid-sentence; `yoest` → goest; `Buner` → Budge; `Ariscn` → Arisen; `AxstTu` → ABTU; `MovutTH (specch)` → MOUTH (speech); quotation marks normalised.
+
+**Unclear or supplied:** `Buner` read as Budge (the usual source for the Book of the Dead). `Thou yoest` read as "goest".
 
 ## Full OCR entry body (exact)
 

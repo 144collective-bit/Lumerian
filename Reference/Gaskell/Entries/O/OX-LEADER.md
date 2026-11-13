@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ox-leader
 headword: "OX-LEADER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `SPARROWS (twelve)` | resolved (exact) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a ruling spirit of reverence for truth.
+
+> "An endeavour is made by the sorcerers to have the babe trampled to death by a herd of oxen; the leading ox, however, stands over the child and prevents it from perishing beneath the feet of the herd."—A. V. W. Jackson, *Zoroaster*, p. 29.
+
+The endeavour of the "sorcerers," signifies the instinctive and blind trust to habit and authority, which is calculated to crush out the early effort which the Self (the babe) makes to seek and know for itself. The highest aspiration, however, which reverences the spirit of truth and reason, more than mere tradition, is the means of protecting the Self.
+
+See BIRTH OF KRISHNA, DURASROBO, HEROD, [Nrnic1?], PHARISEES, PRIESTS AND ELDERS, SPARROWS (twelve), TRADITION, ZOROASTER.
+
+**Corrections made:** `perishi` → perishing; `iteelf` → itself; `JAcKSON` → Jackson; See-list spellings restored (`Herop`).
+
+**Unclear or supplied:** See-list item `[Nrnic1?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

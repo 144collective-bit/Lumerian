@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-in-heaven-or-house-of-god
 headword: "HOUSE IN HEAVEN, OR HOUSE OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,36 @@ tags:
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body or immortal soul, the seat of the Divine nature of humanity.
+
+> "But Christ as a son, over his (God's) house; whose house are we, if we hold fast our boldness and the glorying of our hope firm unto the end."—Heb. iii.
+
+The indwelling Self is the manifest Divine,—the son of the Unmanifest,—who is seated in the potential causal-body. To evolve the actual from the potential, the egos build up in the spirit of Christ, the causal-body, and become one with it in actuality as they are victorious over the lower nature and persevere unto the end of the cycle.
+
+> "The piece of money—the groat, as he (Walter Hylton) calls it—is lost in thy house. That is to say, the Divine treasure lies holden in thy soul. Jesus sleeps in thy ship, as he once slept in the little ship on the lake of Gennesaret."—Dr. Inge, *English Mystics*, p. 89.
+
+> "The body is the prana's habitation, of which the head forms the roof, in which it is bound to the breath as post, by food as the rope. . . . Usually following Brih. II. 5, 18, and especially Chand. VIII. 1, 1, the body is described as the city of Brahman, heavenly, desirable, the highest dwelling of Brahman, in which as a house the lotus flower of the heart abides, in which during sleep the fires of the prana keep watch."—Deussen, *Phil. of Upanishads*, p. 283.
+
+The causal-body is the vehicle of the Self (prana) in the underworld, who is attached to it by the processes of soul-nourishment and growth. The causal-body is the soul's centre (city), perfect potentially if not actually; it is the seat of the Higher Self (Brahman); it is also the soul's innermost shrine in which wisdom and love abide. When the causal Self indraws the life (sleep) after an incarnation, the soul's energies await further outpouring.
+
+> "Catherine of Siena gave her testimony to the fact that the soul 'bears ever within it the place where God lives by grace—the house of our soul wherein holy [word unclear]"—[word unclear] M. Jones, [word unclear] Religion, p. 305.
+
+> "The second place of earth's joy is whereon the [faithful?] one erects a house wherein every blessing of life is thriving."—*Vendidad*, III.
+
+"Earth's joy" is so expressed, since the awakenment of the Self must proceed first from the physical plane. The "second place" signifies the plane of the higher mind whereon the indwelling Self, through the egos, builds up the causal-body within which the transmuted experiences are collected together.
+
+> "The earth brings forth for them many things of all sorts, of which they carry the most serviceable into the house and use them."—Anaxagoras, Fairbanks, 10.
+
+The lower nature yields experiences for the mind, of which those which are capable of transmutation are conveyed to the causal-body wherewith to build it up.
+
+See ARK, BOAT, CAUSAL-BODY, CHRIST, CHURCH, COTTAGE, DWELLING, GARHAPATYA, LOST SILVER, LOTUS, MANSIONS, PYLONS, PYRAMID, SHIP, SHRINE, STONE (building), TABERNACLE, TEMPLE, TREASURE, VICTORY.
+
+**Corrections made:** `causalbody` → causal-body; `Incr` → Inge; `posta` → post; `Vill. 1, I` → VIII. 1, 1; `houge` → house; `prina` → prana; `Anazagoras` → Anaxagoras; `Corracs`, `Surmve`, `Lorvus`, `Pyramip`, `Curistr`, `CourncH`, etc. restored in See list; stray `°` removed after "unto the end"; page heading `HOUSE` removed from the middle of the damaged Catherine of Siena quotation.
+
+**Unclear or supplied:** The Hebrews reference ends at `iii.` in the OCR (verse lost). The Catherine of Siena quotation is badly damaged (OCR `Myer pba meee } = M. Jonzs, eligion, p. 305`): unreadable parts shown as `[word unclear]`; the author's initial and book title are not recovered. `[faithful?]` (OCR `fai`). `erects` for OCR `erecta`.
 
 ## Full OCR entry body (exact)
 

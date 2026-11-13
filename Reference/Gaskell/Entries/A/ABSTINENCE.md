@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abstinence
 headword: "ABSTINENCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `FASTING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
 | `PENANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PENANCE|PENANCE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's refraining from the lower attractions:—ceasing from the pursuit of sensation and the satisfaction of desire; in favour of impersonal aims, and attention to the higher nature evolving from within.
+
+> "But those who have sought the Self by penance, abstinence, faith, and knowledge, gain by the Northern path Aditya, the sun. This is the home of the spirits, the immortal, free from danger, the highest. From thence they do not return, for it is the end."—*Prasna Upanishad*, I. 10.
+
+But those spiritual egos, or individualities, who have sought the inner Self through limitation of external activity, cessation from pursuit of desire and sensation, faith in the Divine within, and devotion to Truth, gain by the path of the Ideals (Devayana) union with the Higher Self (sun). This perfects the causal-body, the abode of the egos, the immortal soul which is above all conflict, and forms the highest state from whence the egos return no more to incarnation, for they have attained their end.
+
+See ASCETICISM, AUSTERITIES, FASTING, PENANCE.
+
+**Corrections made:** `_ not` → not; `égos` → egos; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poor-people
 headword: "POOR PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,22 @@ tags:
 | `SEPARATENESS` | **unresolved** (review queue) |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WOMEN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the undisciplined lower qualities, poor in development, deficient in goodness and truth.
+
+> "For ye have the poor always with you; but me ye have not always. For in that she poured this ointment upon my body, she did it to prepare me for burial."—Matt. xxvi. 11, 12.
+
+That is, the disciplined qualities readily direct their efforts towards the less-developed nature beneath them, but they have not the Christ until the love-nature (the woman with ointment) is stirred within them. For ere the lower personality (body) disintegrates, it is by a supreme effort of love of the Highest that the "corpse" (lower nature) is "buried," or the sense of separateness is got rid of.
+
+> "Poor and needy are often mentioned in the Word, and in the spiritual sense by poor is understood one who is not in truths, and by needy, one who is not in [words unclear]."—[author unclear], *Apoc. Rev.*, n. 95.
+
+See AURVAITO-DIH, CORPSE, MARTHA, OINTMENT, PEOPLE, PERSONALITY, POVERTY, RICHES, SEPARATENESS, TREASURE, WOMEN.
+
+**Corrections made:** page heading `585 PORCH` removed from mid-sentence; `Mart.` → Matt.; `undorstood` → understood; `RicHEs` → RICHES.
+
+**Unclear or supplied:** The end of the Swedenborg-style quotation and its author's name are lost (OCR `pore ny ean Rane:`); `[words unclear]` and `[author unclear]` mark the gap. The work `Apoc. Rev.` is as printed.
 
 ## Full OCR entry body (exact)
 

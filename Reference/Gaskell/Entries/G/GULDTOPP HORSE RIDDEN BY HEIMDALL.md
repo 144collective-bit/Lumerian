@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guldtopp-horse-ridden-by-heimdall
 headword: "GULDTOPP HORSE RIDDEN BY HEIMDALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `HEIMDALL` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIMDALL|HEIMDALL]] |
 | `HORSE. GUNAS` | **unresolved** (review queue) |
 | `THREE ;` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THREE, NUMBER|THREE, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of the Divine Will manifesting under the aspect of intelligence on the higher mental plane. See HEIMDALL, HORSE.
+
+**Corrections made:** page heading `GUNAS, THREE ;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

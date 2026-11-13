@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adam-s-dead-body
 headword: "ADAM'S DEAD BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Noau’s sons` | **unresolved** (review queue) |
 | `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `ToKENs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOKENS, FOUR SACRED|TOKENS, FOUR SACRED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the old self, devoid of spiritual life, and through discarding which the soul rises.
+
+> "Noah carries the body of Adam into the Ark, his three sons following with the sacred tokens."—*Book of the Conflicts of Adam*.
+
+"Noah," the individuality or sublimated "Adam," conveys his old self with him, as it were, in the causal-body (ark), as it is only through it, and by surmounting it, that he rises. His "sons" stand here for the fruit of the affectionate nature, and these willingly follow with the tokens of the essence of his aspiration,—Faith, Love, Wisdom, Power.
+
+See ARK (Noah), HAM, NOAH, NOAH'S sons, ROCK, TOKENS.
+
+**Corrections made:** `Conflicte` → Conflicts; `causal. body` → causal-body; See-list spellings restored (`Ham`, `Noag`, `Noau's`, `Rock`, `ToKENs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

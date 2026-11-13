@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-wild
 headword: "BEASTS, WILD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Prorie` | **unresolved** (review queue) |
 | `SacRIvICcE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the unruled baser passions of the lower nature.
+
+> "Fuh-he invented nets for fishes, and snares for wild beasts, in the use of which he instructed the people, for the twofold purpose of supplying their wants and procuring victims to offer in sacrifice."—Kidd, *China*, p. 103.
+
+And now it is that in the scheme of the Logos an astral mechanism comes to be developed in the soul, which is to be used by the Ego in gathering the facts (fish) which it is necessary that he shall collect through sensation for his experience. The "wild beasts" symbolise the baser passions, which are to be checked and so transmuted through the gradual growth of the Self within. The "people" are the undeveloped instincts and activities which are to be disciplined and used; as means to the end of Self-realisation. The "supplying" of the "wants" is realising that the powers within are to be utilised only for the highest purpose; and this is the attitude that becomes the offering up of the Self,—or consecration of the [life?],—to the One, in return for His own sacrifice.
+
+> "These (fierce wild beasts) are terrestrial dæmons, to whom the Chaldean oracle alludes, which says, 'the wild beasts of the earth shall inhabit thy vessel,' i.e. as Psellus explains it, the composite temperature of the soul."—Iamblichus, *The Mysteries*, etc., trans. Th. Taylor, p. 98.
+
+> "Man begins his inward career, to use a sentence of Amiel, 'as a tamer of wild beasts, and these wild beasts are his passions. To cut their claws, to muzzle them, to tame them, to make of them domestic animals and servants, foaming at times, but submissive, that is personal education.'"—J. Brierley, *Studies of the Soul*, p. 108.
+
+See ANIMALS, APE AND TIGER, CREATURES, FISH, FUH-HE, NET, PEOPLE, SACRIFICE, VESSEL.
+
+**Corrections made:** `ple` → people; `Kinp` → Kidd; `hte` → [life?]; `dsmons` → dæmons; `oracie` → oracle; `IamsBLicnus` → Iamblichus; `@ sentence` → a sentence; `beasta` → beasts; page heading `BEASTS` removed from mid-sentence; See-list spellings restored (`ANnrmMaLs`, `{fIGER`, `CreaTURES`, `Fisu`, `FUnH-HE`, `NE`, `Prorie`, `SacRIvICcE`).
+
+**Unclear or supplied:** `Kidd` is read from OCR `Kinp`. `[life?]` is a guess for `hte`. The closing quotation mark after `wild beasts` is missing in the OCR and supplied. `NET` is read from OCR `NE`.
 
 ## Full OCR entry body (exact)
 

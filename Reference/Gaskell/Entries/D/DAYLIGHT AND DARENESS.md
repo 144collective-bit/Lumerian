@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daylight-and-dareness
 headword: "DAYLIGHT AND DARENESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Lieut` | **unresolved** (review queue) |
 | `MORNING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MORNING|MORNING]] |
 | `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the spiritual and the material aspects of existence. Perception and non-perception of the higher activities of being.
+
+> "Now what daylight, as it were, there was for Pragapati, on creating the gods, of that he made the day; and what darkness, as it were, there was for him, on creating the Asuras, of that he made the night: there are these two, day and night."—*Sata. Brâh.*, XI. 1, 6, 11.
+
+Divine Wisdom (Pragapati) is said "by the breath of his mouth" to "create the gods on entering the sky," which means that the highest ideals (gods) of goodness and truth are first produced on the plane of buddhi (sky). Then their opposites, evil and error (the asuras), are necessitated to appear on the astral and lower mental planes. Thus manifestation becomes divided into higher and lower planes: the first, a realm of light (day) and the second, a realm of darkness (night).
+
+See CREATION, DARKNESS (lower), DAWN, LIGHT, MORNING, NIGHT.
+
+**Corrections made:** `Prag&pati` → Pragapati; `Brdéh.` → Brâh.; page heading `DAYS` removed from mid-sentence; See-list spellings restored (`Dawn`, `Lieut`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

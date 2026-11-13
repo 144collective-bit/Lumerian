@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-h-lanka
 headword: "H, LANKA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,14 @@ tags:
 | `Srra` | **unresolved** (review queue) |
 | `VANAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VANAR PEOPLE|VANAR PEOPLE]] |
 | `VIBHISHANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIBHISHANA, RAVANA|VIBHISHANA, RAVANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental or kama-manasic plane, the plane of the desires (Rakshasas) and the desire-mental principle (Ravana). This is the arena on which the battle of life takes place, wherein the incarnate Self (Rama) overcomes the lower principle (Ravana) and the host of desires. See HANUMAN, RAKSHASAS, RAMA, RAVANA, SITA, VANAR, VIBHISHANA.
+
+**Corrections made:** See-list spellings restored (`HanuMAN`, `Rama`, `Ravana`, `Srra`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

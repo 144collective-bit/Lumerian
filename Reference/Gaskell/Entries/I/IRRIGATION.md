@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-irrigation
 headword: "IRRIGATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `Snow` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
 | `VourvuKASHA` | **unresolved** (review queue) |
 | `YIMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the bestowal of Truth (water) on the field of the lower experiences, to promote the growth of the higher qualities.
+
+> "Before the winter the produce of this country was pasturage; the water used before to overflow it, and afterwards the melting of the snow, and pools would occur there, O Yima! in the material world, where the footprints of cattle and their young would appear" (*Vendidad*, II).—Haug, *Essays*, p. 233.
+
+Previous to a period of obscuration, the produce of the astral plane consisted in the sensations and desires. The "overflowing water" signifies the functioning of Truth upon it, and this is possible only as Truth latent (the snow) is transformed into truth active, so this irrigation occurs. The acquisition of knowledge (pools) through experience, takes place below, when the budding desires give rise to distinctive impressions upon the physical forms (footprints) which are in process of construction.
+
+See AQUEDUCT, CATTLE, CHANNELS, CULTIVATION, DEW, HORSE (red), LAND, PLANTS, RIVER, SNOW, VOURUKASHA, YIMA.
+
+**Corrections made:** `Haua` → Haug; `IT` → II; See-list spellings restored (`CuLtivaTION`, `Drw`, `HorseE`, `Riven`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

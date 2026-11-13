@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-barhis-sacrificial-grass
 headword: "BARHIS, SACRIFICIAL GRASS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `TamMA-GUusHI` | **unresolved** (review queue) |
 | `Woop (HOLY)` | **unresolved** (review queue) |
 | `YAGNA-PAVITA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the life currents passing between the buddhic and astral planes, relating to the desires and their transmutations.
+
+> "At the beginning of the sacrifice the Advarya makes of a load of Darbha, or sacred grass, which has been brought to the sacrificial compound, seven bunches, each of which is tied together with a stalk of grass, just as the Baresma (Barsom) of the Parsis." (Footnote.)—J. Eggeling, *S. B. of E.*, Vol. XLIV. p. 84.
+
+> "As large as the altar is, so large is the earth; and the plants are represented by the barhis; so that he thereby furnishes the earth with plants; and those plants are firmly established in this earth; for this reason he spreads the barhis."—*Sata. Brâh.*, I. 3, 3, 9.
+
+The soul (altar) that has to be evolved from latency is commensurate with the qualities of the lower nature (earth), for the desires (plants) are the outgrowths of the buddhic life forces (barhis) which furnish the lower nature with its qualities (plants), and these qualities when transmuted raise the lower nature. Hence the spiritual mind extends the scope of the buddhic energies.
+
+See ADVARYA, BARSOM, BIRTH (SECOND), BUCKLE, GIRDLE, KUSTI, PLANTS, TAMMA-GUSHI, WOOD (HOLY), YAGNA-PAVITA.
+
+**Corrections made:** `Eeaerma` → Eggeling; `S. B. of £.` → S. B. of E.; `plante` → plants; `planta` → plants; `Bréh.` → Brâh.; See-list spellings restored (`BUoKLE`, `KvustTI`, `Piranrs`, `Woop`); page heading `BARHISHAD` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `Eggeling` is read from `Eeaerma`. `TAMMA-GUSHI` is left near the OCR spelling.
 
 ## Full OCR entry body (exact)
 

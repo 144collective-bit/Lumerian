@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-holy-ghost-or-spirit
 headword: "HOLY GHOST, OR SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,18 @@ tags:
 | `STIFFNECKED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STIFFNECKED GENERATION|STIFFNECKED GENERATION]] |
 | `Trinity` | **unresolved** (review queue) |
 | `Wr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol signifies properly the feminine aspect of the Divine Trinity, and has the same meaning as the great Goddesses of other religions than the Christian. It represents the activities and functioning of the plane of being above the higher mental planes, i.e. the buddhic plane. The Holy Spirit proceeds from the Godhead—the infinite source of all. It is the Breath of the Atman,—the infinite power of God. It is not [separate?] from, but operative through the Christ—the Higher Self. Without Christ there would be no Holy Spirit. With Christ there must be a Holy Spirit, which, however, is possible to be seen and known only as the personal is lost sight of, or transcended, and the Truth and the Life are realised. But the lower mind cannot distinguish between the Christ and the Spirit.
+
+> "Now in Hebrew the word 'spirit' ([ruach?]) is of feminine gender. As a consequence of this the Holy Ghost was looked upon by the Naassenes and the earliest Christians as the 'mother' of Jesus."—A. Drews, *The Christ Myth*, p. 118.
+
+See ATMAN, BAPTISM OF FIRE, BLASPHEMY, BREATH, BUDDHIC PLANE, CHRIST (pri.), GODHEAD, [Harr?], INSPIRATION, JERUSALEM, MALKHUTH, OCEAN (fem.), PARACLETE, SAPANDAR, [Setr?], STIFFNECKED, TRINITY, [Wr.?].
+
+**Corrections made:** `tho` → the; page heading `HOLY` removed from mid-sentence; See-list spellings restored (`AtTMAN`, `Baptism oF FIRE`, `CuRIsT`, `InsPtBATION`, `OcrEaAN`, `Trinity`).
+
+**Unclear or supplied:** `[separate?]` (OCR `te`); `[ruach?]` (OCR `mach`). See-list items `[Harr?]`, `[Setr?]`, `[Wr.?]` not identified.
 
 ## Full OCR entry body (exact)
 

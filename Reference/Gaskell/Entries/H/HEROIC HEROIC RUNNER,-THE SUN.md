@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heroic-heroic-runner-the-sun
 headword: "HEROIC HEROIC RUNNER,—THE SUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,34 @@ tags:
 | `Being and Becoming. HESTIA See Bet (Nipur)` | **unresolved** (review queue) |
 | `Hirrororamous` | **unresolved** (review queue) |
 | `Horvs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The Higher Self; the Divine Spirit as the energy within all things.
+
+> "First, Ormazd created 'the Heroic Runner,' who never dies, the Sun, and made him king and ruler of the material world. From Mount Albordj he sets out on his course, he circles the earth in the highest spheres of heaven, and at evening returns."—*The Zoroastrian System*.
+
+First of all, the Higher Self,—the Divine indwelling Monad,—is said to be emanated, and this is indestructible through all changes of state. From the first moment of manifestation, he goes forth from the heights of aspiration, passes through the higher planes, involves himself in the lower planes, and from thence rises again to the higher as the cycle terminates.
+
+> "O Ra, O Runner, O Lord, O only One, thou maker of things which are, thou hast fashioned the tongue of the company of the gods, thou hast produced whatsoever cometh forth from the waters."—Budge, *Book of the Dead*, Ch. XV.
+
+See ALBORDJ, CIRCLE, COMPANY (gods), EARTH, EVENING, KING, MONAD, SELF, SUN, TONGUE (higher), WATER.
+
+### Also in this note: HERPEST, "ON THE BACK"
+
+This signifies the conquest of intellectual pride.
+
+> "As proof of victory Horus stood upon the back of a male hippopotamus, and so was called Herpest, i.e. He who is on the back."—*Legend of the Winged Sun-disk*.
+
+As evidence of victory, the Christ-soul overcomes the pride of the mind, and thereby gives God the praise of spiritual upraising, recognising that the mind is not the real actor, but is an agent of the Supreme.
+
+> "If there is one lesson which more than any other ought by this time to be burnt in upon the human soul by much tribulation, it is that of the vanity of earthly pride and ambition; it leads nowhere; it yields nothing but pain in the end unless that which gives rise to it can be linked to something higher than one's own personality. It is no use living for oneself on the one hand or a blind universal on the other. And with this realisation is apt to come a sense of the futility of existence; the heart goes out of our hopes and aims, and we flee into the wilderness of pessimism and despair."—R. J. Campbell, *Serm.*, *Being and Becoming*.
+
+See BEL (Nippur), HIPPOPOTAMUS, HORUS.
+
+**Corrections made:** `Zoroastrian Syatem` → System; `Bupar` → Budge; `Campsryiy` → Campbell; `livin` → living; `blin` → blind; `Christ- . soul` → Christ-soul; See-list spellings restored (`EarTH`, `Sun`, `ToNevE`, `SEt¥`, `Hirrororamous`, `Horvs`); page heading `HESTIA` removed before the final See list.
+
+**Unclear or supplied:** Contains a second entry: HERPEST, "ON THE BACK". `Bet (Nipur)` read as BEL (Nippur).
 
 ## Full OCR entry body (exact)
 

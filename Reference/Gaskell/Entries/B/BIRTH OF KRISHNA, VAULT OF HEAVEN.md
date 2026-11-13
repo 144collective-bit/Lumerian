@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-of-krishna-vault-of-heaven
 headword: "BIRTH OF KRISHNA, VAULT OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEAVEN|HEAVEN]] |
 | `Kinepoo` | **unresolved** (review queue) |
 | `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes. See HEAVEN, KINGDOM, SKY.
+
+**Corrections made:** `Kinepoo` → KINGDOM; `Sky` → SKY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

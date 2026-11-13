@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rainbow
 headword: "RAINBOW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -128,6 +129,42 @@ tags:
 | `TAATA4` | **unresolved** (review queue) |
 | `Vapour (white)` | resolved (exact) → [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
 | `WartTER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+becoming as the within; the nature made perfect exteriorly as interiorly.
+
+See GARMENTS, GATE OF SALUTATION, GUEST (wedding), LOVER, SHINING, TRANSFIGURATION, WHITE.
+
+A symbol of the higher mental plane which forms a bridge, as it were, between the higher and the lower natures (heaven and earth). The rainbow is a peculiarly appropriate symbol of the "bridge of heaven," caused as it is by the reflection of the sun (the Self) in the water-drops (Truth) forthpouring from the cloud (buddhi) to the earth (lower nature). When the lower nature fully reflects the higher, then the "bridge" may be traversed by the victorious egos returning to their home above.
+
+A symbol of downpouring truth (water) from buddhi (cloud), to dispel error and illusion. "I will pour forth rain from the clouds of the Law upon the beings plunged in hell and devoured by hell-fire, and they will be filled with joy and gladness (says the infant Buddha)."—*Lalita-vistara.* The Self from its Wisdom-Truth aspect (the Law) will bestow truth
+
+> "The god Oro fixed the rainbow in the heavens, one end of it resting in the valley at the foot of the red-ridged mountain, the other penetrating the skies, and thus forming his pathway to the earth. ... Every evening he descended on the rainbow, and returned by the same pathway on the following morning to the heavenly regions."—W. Ellis, *Polynesian Researches*, Vol. I. p. 231.
+
+The Higher Self throws from the higher mental plane to the plane of the desires a bridge or pathway across which it may descend to the lower planes. And at regular intervals descents,—evening, night, morning,—marking periods of incarnation, would be made; after which the Self, or ego, would again quit the temporary abode in the flesh for the devachanic state.
+
+> "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud."—Gen. ix. 14.
+
+And it shall follow that when Truth envelops the personality, the "bridge of manas" shall appear before the soul, by which it may effect its escape from the lower nature.
+
+> "The bridge cannot be always the Milky-way. In at least one Sanscrit hymn we learn,—'Upon it, they say, there are colours, white, and blue, and brown, and gold, and red. And this [path] Brahma knows, and he who has [kn]own Brahma shall take it; he who is [pure] and glorious.'—Here the singer is evidently describing the rainbow. Now in the Norse cosmology the rainbow had the same name as the Indian pathadevayano, God's path. The Eddas call it Asbru, the bridge of the Æsir, or gods. Its other name Bifrost, the trembling mile, it may even have inherited from the Milky-way, for that, when we look at it, seems to be always trembling. Asbru, or Bifrost, then is the bridge whereby the gods descend to earth. One end of it reaches to the famous Urdar fount."—C. F. Keary, *Myths, etc.*, *Cont. Rev.*, Oct. 1879.
+
+> "For the Rainbow is the sign and token of this Covenant, that man was created out of Three Principles into an Image, and that he should live in all three. ... For the Rainbow hath the colour of all the Three Principles; viz. the colour of the First Principle is red and darkish-brown, which betokens the dark and Fire world, that is the kingdom of God's Anger. The colour of the Second Principle is white and yellow, signifying a type of the Holy world of God's Love. The Third Principle's colour is [gree]n and blue; blue from the Chaos and green from the water or salitre. ... This Bow is a figure of the last judgment, showing how the inward Spiritual World will again manifest itself, and swallow up the Outward World of four elements."—Boehme, *Mysterium Magnum*, p. 207.
+
+> "I have set my bow in the cloud signifies the state of the regenerate spiritual man. That the bow in the cloud represents regeneration, no man can know unless it be given him to see and therefore to know how it is:—When the spiritual angels, who were all regenerate men of the spiritual church, are so presented to view in the other life, there appear as it were a rainbow about the head (Rev. x. 1) ... . The reason why the resemblance of a rainbow appears is that their natural truths corresponding to their spiritual present such an appearance."—Swedenborg, *Arc. Cel.*, n. 1042.
+
+When the purified lower nature (natural) corresponds with the higher nature (spiritual), then union of higher and lower is effected, and the higher mind (rainbow bridge) appears in the consciousness. The "regenerate men" are the souls who have attained liberation from the cycle of births and deaths.
+
+> "When a man becomes regenerate he then first enters upon a state of freedom; before he was in a state of bondage."—*Ibid.*, n. 892.
+
+> "Then, mid dark waters, when the sun breaks out, though the cloud may be dark, a bow appears amid the darkness; half a ring—half that ring with which the regenerate soul is now married to the Lord, and assured of endless rest with Him. The lower world yet hides the rest of the ring; but on high 'a rainbow' shall be seen 'in a circle round the throne.'"—A. Jukes, *Types of Genesis*, p. 129.
+
+See BIFROST, BOW, BRIDGE OF HEAVEN, CLOUDS, COVENANT, DEVACHAN, EARTH, ELEMENTS, FALL, HEAVENLY REGIONS, IMAGE, IRIS, MUSPELL (sons), NOAH, ORO, REGENERATION, REINCARNATION, TAATA, VAPOUR (white), WATER.
+
+**Corrections made:** page headings `RAN`, `609 RAINBOW`, `610 RAJAS` removed from mid-sentence; `glouds` → clouds; `thway` → pathway; `venly` → heavenly; `Eus` → Ellis; `Cont. Rev.` kept; `Mysterium Magnum` italicised; `BoxzrHms` → Boehme; `Arc. Cel.`; `ol |` → of; `salttre` → saltpetre read as `salitre`; `ast` → last; `ap ance` → appearance; `A. Juxrs, Types of Gencsia` → A. Jukes, *Types of Genesis*; `sir` → Æsir; See-list spellings restored (`Brrrost`, `CLoups`, `CovVENANT`, `DEvaCHAN`, `EartTH`, `Fatt`, `Ins`, `MusPrELL`, `Noa`, `Oro`, `TAATA4`, `Vapour`, `WartTER`); and similar minor fixes.
+
+**Unclear or supplied:** The OCR begins with the tail of the previous entry (WHITE): "becoming as the within ... See ... WHITE." It is set out first as it is. The paragraph beginning "A symbol of downpouring truth (water)" is the entry RAIN, run into this one by column order; its ending ("upon the egos immersed in the lower nature (hell) ...") has landed in the RAGHA LAND OCR. Left in place as printed. In the Keary quotation `[path]`, `[kn]own` and `[pure]` are supplied or restored from damaged OCR (`ite`, `own`, `ure`). `[gree]n` and `salitre` likewise. `TAATA4` read as TAATA (Taata), uncertain. `Oro`: spelling of the Polynesian god kept.
 
 ## Full OCR entry body (exact)
 

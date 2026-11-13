@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heaven-and-earth
 headword: "HEAVEN AND EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,40 @@ tags:
 | `TaNEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
 | `URANUS. HEAVENLY NYMPHS` | **unresolved** (review queue) |
 | `_` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Spirit and Matter,—the life and the form sides of manifestation.
+
+> "There are, strictly speaking, only two substances, matter and spirit: all particular things result from the composition in varying degrees of these two,—are therefore mere 'accidents,' and have no abiding reality" (Bruno).—J. L. McIntyre, *Giordano Bruno*, p. 159.
+
+> "Heaven represents the male (Yang) principle and earth the corresponding (Yin) female principle, on which two principles the whole of existence depends."—C. T. R. Allen, *Chinese Poetry*, Preface.
+
+> "Varro derives the male divinities from heaven or J[word unclear] as the active principle, and the female divinities from the earth or Juno as the passive principle."—Zeller, *Eclecticism*, p. 177.
+
+> "In the beginning God created the heaven and the earth. And the earth was without form and void; and darkness was upon the face of the deep: and the Spirit of God moved upon the face of the waters."—Gen. i. 1, 2.
+
+At the commencement of the emanation of the Solar Universe, the primordial elements, Spirit and Matter, are differentiated from that which is itself neither, but which is potential for both. And the primordial matter is inchoate and formless,—the involution of form not having yet begun,—for Spirit is not yet permeating and enlightening matter. And the Supreme Logos (the Atman) broods upon, or contemplates, the "waters" of Absolute Truth, the Ultimate Reality.
+
+> "In the beginning God, the Unity, created, or put forth from Himself, the Duality, the Heavens, or Spirit and Deep, Force and Substance, and their ultimate phenomenal resultant, generated of them, the Earth or Matter. And the Spirit, or Force, of God, moved on the 'face of the waters' or Substance of God, and God said, or found expression, and there was Light, or manifestation of God."—E. Maitland, *Life of A. Kingsford*, Vol. I. p. 199.
+
+> "Pwan-koo was the first Being after the separation of the heavens and the earth, between which he existed, and whose [word unclear] and depths he comprehended. He knew [the] principles of creation, and was the original Ruler of the world. He is described as [appearing?] from vast unknown deserts."—Kidd, *China*, p. 100.
+
+"Pwan-koo" signifies the Second Logos, the Divine Artificer, from whom all emanates. The "separation of heaven and earth" refers to the duality of primordial manifestation, namely, the polarities of Spirit and Matter between which manifestation proceeds, and through which the heights and depths of the planes of creation are to be supplied. The Divine Ruler proceeds from the chaos (unknown deserts).
+
+> "Of old, Heaven and Earth were not yet separated, and the In (Yin) and Yo (Yang) not yet divided. They formed a chaotic mass like an egg, which was of obscurely defined limits, and contained germs. The purer and clearer part was thinly diffused and formed Heaven, while the heavy and grosser element settled down and became Earth. The finer element easily became a united body, but the consolidation of the heavy and gross element was accomplished with difficulty. Heaven was therefore formed first, and Earth established subsequently. Therefore divine beings were produced between them" (Commencement of the Nihongi and the Kiujiki).—W. G. Aston, *Shinto*, p. 84.
+
+This statement refers, first, to the period prior to Involution when Spirit and Matter were not yet differentiated from the Monadic essence in which they lay potentia. This essence on the atma-buddhic heights contained the prototypes (germs) of all things that were afterwards to exist. Second, the primal elements, Spirit and Matter, having come into being and become separated, the one from the other, by reason of their different natures of activity and passivity, there was established the interactive duality from which the highest qualities (gods) should first arise in preparation for the process of Involution.
+
+> "(In China there is) a belief in two higher Powers, which in the language of philosophy may mean Form and Matter, in the language of Ethics, Good and Evil, but which in the original of religion and mythology are represented as Heaven and Earth."—Max Müller, *Science of Religion*, p. 92.
+
+See AIR-AETHER, CIRCLE AND SQUARE, COSMOS, CREATION, DESERTS, EARTH (primo.), EGG, HELIOPE, HIGHER AND LOWER NATURES, HORSE-SACRIFICE, KHIEN AND KHWAN, MATTER, MULAPRAKRITI, OCEANUS, PILLARS OF SHU, PWANKOO, RA, RANGI, [Roea?], [Ronao Ru?], [Sart?], SEPARATION OF HEAVEN AND EARTH, SKY, SPIRIT, STEM, TANEMAHUTA, URANUS.
+
+### Also in this note: HEAVENLY NYMPHS
+
+**Corrections made:** `onl` → only; `MoIntyrE` → McIntyre; `iteelf` → itself; `Marrianp`/`Kingeford` → Maitland/Kingsford; `Kuinp` → Kidd; `pete` → part; `eaven` → Heaven; `the heaven and grosser` → the heavy and grosser; `Nthongi` → Nihongi; `Monadie` → Monadic; `lan of Ethics` → language of Ethics; `Zvil` → Evil; `MU ter` → Müller; `A1Rn-2THER` → AIR-AETHER; page headings `HEAVEN` (mid-quotation) and `346 HEAVENLY` (mid-See-list) removed; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** Contains the heading of a second entry: the OCR ends with `HEAVENLY NYMPHS, _` and no body text (the stray `, _` is dropped). `[word unclear]`: OCR `J ving` (in the Varro quotation, after "J") and OCR `i Pa` (in the Pwan-koo quotation). `[the]` supplied: OCR `He knew '`. `[appearing?]`: OCR `ap i`. See-list items `[Roea?]`, `[Ronao Ru?]`, `[Sart?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flocks-passing-ground
 headword: "FLOCKS PASSING GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MAN WITHOUT WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN WITHOUT WOMAN|MAN WITHOUT WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies gleams of wisdom coming to the lower self.
+
+See MAN WITHOUT WOMAN.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

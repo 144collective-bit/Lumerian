@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cup-with-wine
 headword: "CUP WITH WINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,26 @@ tags:
 | `D198` | **unresolved** (review queue) |
 | `(moon)` | **unresolved** (review queue) |
 | `VESSEL` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purified psychic body, or soul, with the indwelling Divine life of wisdom and love.
+
+> "This cup is the new covenant in my blood, even that which is poured out for you."—Luke xxii. 20.
+
+The cup and the wine signify respectively the Soul and the Life,—the receptacle or sheath for the Spirit, and the Spirit itself. The Divine Life was poured out for the qualities in their involution. This assurance of the Spirit is a sacrament, because it is a binding,—a covenant between the Soul and the qualities. See BLOOD, COVENANT, SACRAMENT, SACRIFICE, TABLE OF THE LORD.
+
+### Also in this note: CUP, VIAL, VASE, ETC.
+
+Symbols of lower bodies or vehicles, as containers of higher bodies or energies.
+
+> "By [word unclear], chalices, vials, and platters, [the] same [is] signified as by the things contained in [them]. The literal sense of the Word is a containing vessel."—Swedenborg, *Apoc. Rev.*, n. 672.
+
+See AGATHODAMON, [D198?], (moon), VESSEL.
+
+**Corrections made:** `LvugE` → Luke; page heading `CUPID` removed from mid-sentence; `SacBiricer` → SACRIFICE; `BLoop`, `CovENANT` restored; stray `—_—` after the second headword removed; `By etre: chalicee` → By [word unclear], chalices; `same signified` → [the] same [is] signified; `cher` → [them]; `SWEDENBORG` capitalisation.
+
+**Unclear or supplied:** Contains a second entry: CUP, VIAL, VASE, ETC. In the Swedenborg quotation, `[word unclear]` replaces OCR `etre:`, and `[the]`, `[is]` and `[them]` are supplied or completed from damaged OCR (`same signified`, `cher`). `[D198?]` is the OCR See-list item `D198,` (not identified; the digits may be a page number).
 
 ## Full OCR entry body (exact)
 

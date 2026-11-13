@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-carapace-capricorn-the-zodiacal-sign
 headword: "CARAPACE CAPRICORN, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `LEVIATHAN` | **unresolved** (review queue) |
 | `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the tenth period of the cycle of life. It signifies the higher mind (white He-goat) which is attained by the ego climbing the mount of aspiration, through the transmutation of the lower mind, in the cycle of evolution.
+
+> "The Indian Capricorn is an elephant emerging from a makara, or leviathan. It is called in the 'Lalita Vistara,' Airâvana (born of the waters)."—A. Lillie, *Budd. in Christendom*, p. 7.
+
+The higher mental nature (elephant) arising from the lower nature (sea-monster). The higher mind born of the astro-mental nature (lower "waters"). When the lower nature is perfected, then the higher nature is born, as it were, into the consciousness.
+
+See CANCER, ELEPHANT, GOAT (white), LEVIATHAN, WHALE, ZODIAC.
+
+**Corrections made:** `The:` → The; `Atrdvana` → Airâvana; `A. Linu` → A. Lillie; `tn Christendom` → in Christendom; `elophant` → elephant; `seamonster` → sea-monster; `bom` → born; `"waters"'), When` → "waters"). When; quotation marks normalised.
+
+**Unclear or supplied:** `Airâvana` and `Lillie` are likely readings of damaged OCR.
 
 ## Full OCR entry body (exact)
 

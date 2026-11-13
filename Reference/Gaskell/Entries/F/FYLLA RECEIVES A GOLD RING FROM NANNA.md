@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fylla-receives-a-gold-ring-from-nanna
 headword: "FYLLA RECEIVES A GOLD RING FROM NANNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BaLprEr` | **unresolved** (review queue) |
 | `Rine (gold)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbolises that at an advanced soul-state Wisdom (Nanna) yields the sense of dominion over the lower planes to illusion (Fylla), which signifies the consciousness of escaping from desire.
+
+See BALDER, RING (gold).
+
+**Corrections made:** `Fylila` → Fylla; See-list spellings restored (`BaLprEr`, `Rine`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

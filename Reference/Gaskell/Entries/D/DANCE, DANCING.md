@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dance-dancing
 headword: "DANCE, DANCING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `Music AND DANCING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSIC AND DANCING|MUSIC AND DANCING]] |
 | `SacKcLoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACKCLOTH ON FLESH|SACKCLOTH ON FLESH]] |
 | `Satyks` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental and buddhic activities exercised harmoniously and in accordance with a governing principle.
+
+> "Make the dispelling of worldly love thy true and perfect tune, and set thy heart a-dancing to the Word" (Hymn of Guru Amar Das).—Macauliffe, *Sikh Religion*, Vol. II. p. 175.
+
+> "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness."—Ps. xxx. 11.
+
+Through suffering the soul is disciplined, and conflict is changed to harmony when the higher activities are brought into play.
+
+> "The conception of a sudden presence of God goes back, among the Neo-Platonists, to Plato and the Greek Mysteries, in which the God was held suddenly to arrive and to take part in the sacred dance. Such rings of sacred dancers, 'choirs,' are still characteristic of Dionysius, e.g. *Heavenly Hierarchy*, vii. 4."—F. von Hügel, *Mystical Element*, Vol. II. p. 97.
+
+See HARMONY, MUSIC AND DANCING, SACKCLOTH, SATYRS.
+
+**Corrections made:** `im` → in; `Macavuuirre` → Macauliffe; `a sudden presence God` → a sudden presence [of] God; page heading debris `CAUSAL-SELF, of 198 DANCE` removed from `NeoCAUSAL-SELF, of 198 DANCE Platonists` (→ Neo-Platonists); `Hvterarchy` → Hierarchy; `F. von Huocr,, Myatical` → F. von Hügel, *Mystical*; See-list spellings restored (`SacKcLoTH`, `Satyks`).
+
+**Unclear or supplied:** `[of]` is supplied where the OCR reads "a sudden presence God".
 
 ## Full OCR entry body (exact)
 

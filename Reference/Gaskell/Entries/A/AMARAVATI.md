@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amaravati
 headword: "AMARAVATI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `KapiLa` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `OLympPvus. 43` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the planes of atmabuddhi.
+
+> "The city of Indra is called Amaravati or Home of the Immortals."—Griffith, *The Ramayan*, Vol. I. p. 36.
+
+Devotion to the Highest (Indra) establishes the spiritual qualities (Immortals) on the higher planes of manifestation.
+
+> "On the top of mount Meru lies the city of Amaravati, wherein the gods dwell; and beneath Meru lies Irâvati, the city of the Asuras: between these two lies the earth."—Sâyana, *S. B. of E.*, Vol. XII. p. 110.
+
+See ALBORDJ, [ARCHED?], ASURAS, CITY OF GOD, JERUSALEM, KAPILA, OLYMPUS.
+
+**Corrections made:** `SAyana` → Sâyana; `Irfvati` → Irâvati; `S B. of E£.` → S. B. of E.; `Crry oF GOD`, `KapiLa`, `OLympPvus` See-list spellings restored; stray page number `43` removed from the end.
+
+**Unclear or supplied:** `[ARCHED?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

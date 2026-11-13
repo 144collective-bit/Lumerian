@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rivers
 headword: "RIVERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `EDEN RIVEE TREES AND RIVERS` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of channels of truth or life through the quaternary,—the four planes of nature which are below atma.
+
+> "All nature rejoices at Zoroaster's birth, the very trees and rivers share in the universal thrill of gladness that shoots through the world."—A. V. W. Jackson, *Zoroaster*, p. 27.
+
+All the elemental kingdoms and forces of the lower planes contribute towards the Soul's development. As science shows, the physical body comprises all the materials and properties which are appropriate in nature to serve an end. So the World-Soul is indeed the sum total of all the conscious life in the Logos, which contributes under every phase of its manifestation to the upbuilding of the human soul. The "trees and rivers" are symbols for channels of love and truth, which are the very warp and woof of the World-soul.
+
+> "By rivers are signified truths in abundance, because by waters are signified truths. In an opposite sense, rivers denote falsities in abundance."—Swedenborg, *Apoc. Rev.*, n. 409.
+
+See AMBAYAS, AQUEDUCT, BIRTH OF KRISHNA, CHANNELS, EDEN RIVER, TREES AND RIVERS, ZOROASTER.
+
+**Corrections made:** page heading `ROBE` removed from mid-sentence; `gquaternary` → quaternary; `o!` → of (twice); `roof` → woof; `rivers»` → rivers"; `& abundance` → in abundance; `becauso` → because; `rive denote falsitics` → rivers denote falsities; `SweEDbDE*. ' BORG` → Swedenborg; See-list spellings restored (`Brrrz OF KRISHNA`, `EDEN RIVEE`); quotation marks normalised.
+
+**Unclear or supplied:** `in abundance` is read from OCR `& abundance` (twice-damaged). `EDEN RIVER, TREES AND RIVERS` is read from `EDEN RIVEE TREES AND RIVERS`; the comma is supplied.
 
 ## Full OCR entry body (exact)
 

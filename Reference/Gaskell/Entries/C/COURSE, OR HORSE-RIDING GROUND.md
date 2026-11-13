@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-course-or-horse-riding-ground
 headword: "COURSE, OR HORSE-RIDING GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `LrsEraTION` | **unresolved** (review queue) |
 | `VaRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
 | `VICTORY. 178` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental plane, as the arena of experience and of progress.
+
+> "The time of my departure is come. I have fought the good fight, I have finished the course, I have kept the faith: henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, shall give to me at that day."—2 Tim. iv. 6-8.
+
+This represents the soul's victory over the lower nature, the attainment of liberation, and the acquirement of the results of experience, which are laid up on the buddhic plane to which the consciousness rises at the end of the cycle. See CROWN, HORSE (white), LIBERATION, VARA, VICTORY.
+
+**Corrections made:** trailing page number `178` removed; See-list spellings restored (`Crown`, `LrsEraTION`, `VaRA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

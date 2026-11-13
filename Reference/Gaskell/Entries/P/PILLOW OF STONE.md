@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pillow-of-stone
 headword: "PILLOW OF STONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Jacos` | **unresolved** (review queue) |
 | `LappDER (Jacob)` | **unresolved** (review queue) |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of faith and rest in the underlying Spirit (stone).
+
+> "And Jacob took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."—Gen. xxviii. 11.
+
+This is symbolic of the spiritual nature relying upon Divine support, and turning from external attractions.
+
+See JACOB, LADDER (Jacob), STONE.
+
+**Corrections made:** `GEN.` → Gen.; See-list spellings restored (`Jacos`, `LappDER`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gentiles
 headword: "GENTILES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `IsRAELITES` | resolved (full-head) → [[Reference/Gaskell/Entries/I/ISRAELITES|ISRAELITES]] |
 | `JEws` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JEWS JEWEL SPEAR OF HEAVEN|JEWS JEWEL SPEAR OF HEAVEN]]; [[Reference/Gaskell/Entries/J/JEWS OF PALESTINE|JEWS OF PALESTINE]] |
 | `MEMBERS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mental qualities less developed than the "Jews," and standing, as it were, outside the "chosen people," or more or less disciplined qualities of the mind.
+
+> "The Gentiles are fellow-heirs, and fellow-members of the body, and fellow-partakers of the promise in Christ Jesus through the gospel."—Eph. iii. 6.
+
+This is a recognition that all qualities, however backward in development, have their part in the perfect pattern behind the phenomenal deficiency, and that all are capable of being evolved by the Spirit of Truth through the means provided in the forms.
+
+See ARC. MAN, GOSPEL, IMAGE, ISRAELITES, JEWS, MEMBERS.
+
+**Corrections made:** `Epu.` → Eph.; `fellowpartakers` → fellow-partakers; See-list spellings restored (`IsRAELITES`, `JEws`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

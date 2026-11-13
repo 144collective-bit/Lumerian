@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-law-of-revenge-anger-and-folly
 headword: "LAW OF REVENGE, ANGER, AND FOLLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `GUILTY PERSONS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GUILTY PERSONS|GUILTY PERSONS]] |
 | `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
 | `OPpposireEs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The natural working of the inverted reflections of Truth, Love, and Wisdom.
+
+See EVIL, GUILTY PERSONS, MURDER, OPPOSITES.
+
+**Corrections made:** `OPpposireEs` → OPPOSITES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

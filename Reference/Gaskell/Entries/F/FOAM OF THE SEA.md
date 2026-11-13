@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-foam-of-the-sea
 headword: "FOAM OF THE SEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `Sza` | **unresolved** (review queue) |
 | `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental nature; being a combination of water (astral) and air (mental).
+
+> "But the genitals (of Uranus), as after first severing them with the steel, he (Cronus) had cast them into the heaving sea from the continent, so kept drifting long time up and down the deep, and all around kept rising a white foam from the immortal flesh; and in it a maiden was nourished; first she drew nigh divine Cythera, and thence came next to wave-washed Cyprus. Then forth-stepped an awful beauteous goddess; and beneath her delicate feet the verdure throve around: her, gods and men name Aphrodite, the foam-sprung goddess."—Hesiod, *Theogony*.
+
+This refers to the first beginnings of manifested life after the process of involution is completed and that of evolution commenced. The generative, or creative, powers of Spirit (Uranus) are applied in a new direction from the higher mind (steel) plane and take effect on the astral plane (sea), in due relation to the whole scheme. These powers are at first uncentered on the plane, but gradually there is brought about the production of forms composed of pure astro-mental matter, patterned on types above (immortal flesh); and in these forms the evolving life (maiden) is embodied, life which is of a buddhic (Cythera) nature, but afterwards becomes astral and attached to an astral centre (Cyprus). Thus evolution is begun through the birth of simple, natural desires (Venus) which urge the life into the forms and bring about the growth of the instincts and affections. This love-nature (Aphrodite) is to be understood as of astro-mental origin through the working of the Spirit within nature.
+
+See APHRODITE, CRONUS, EVOLUTION, GENERATIVE, INVOLUTION, IRON, PHALLIPHORIA, PLANTS, PROTOTYPES, SEA, URANUS, VENUS.
+
+**Corrections made:** page heading `FOCUS` removed from mid-sentence; `Hesiop` → Hesiod; See-list spellings restored (`CrRONUS`, `EVOLvUTION`, `Sza`, `Uranus`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

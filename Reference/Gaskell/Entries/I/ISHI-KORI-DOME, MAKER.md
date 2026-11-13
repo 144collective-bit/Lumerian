@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ishi-kori-dome-maker
 headword: "ISHI-KORI-DOME, MAKER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CoNSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `Mrmnor` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Creative Mind or Spirit, which produces centres of consciousness on the several planes.
+
+See CONSCIOUSNESS, MIRROR,
+
+**Corrections made:** See-list spellings restored (`CoNSCIOUSNESS`, `Mrmnor`).
+
+**Unclear or supplied:** The See list ends with a trailing comma in the OCR and may be cut off.
 
 ## Full OCR entry body (exact)
 

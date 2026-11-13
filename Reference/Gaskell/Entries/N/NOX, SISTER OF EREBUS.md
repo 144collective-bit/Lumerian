@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nox-sister-of-erebus
 headword: "NOX, SISTER OF EREBUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `SABBATH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SABBATH, JEWISH|SABBATH, JEWISH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the withdrawal from manifestation into the negative and latent state of pralaya. The inpouring of the Divine Life which alternates with the outpouring (Erebus).
+
+> "From Chaos were born Nox and Erebus,—Nox or Dissolution, the most ancient of the deities, the subduer of gods and men; the one of whom Zeus (Life) himself stands in awe, as well he may; Nox or Dissolution, sister and mate to, and sprung from the same source as Evolution or Erebus, from whom came ether and Hemera, the archetypes of all that followed."—Fitz Simon, *The Gods of Old*, p. 14.
+
+From out of the primordial formless state of matter came the ebbing and flowing of the tides of Life. The indrawing (Nox) caused the Ideals (gods) and the mental faculties (men) to cease from activity. The highest plane (Aether) and the day of manifestation (Hemera), with the archetypes of all things, arise out of pralaya (Nox).
+
+See AETHER, EREBUS, EROS, NIGHT, PRALAYA, PROTOTYPES, SABBATH.
+
+**Corrections made:** `altermates` → alternates; `4ither` → Aether; page heading `99 =“ 64) NUMBERS` removed from within `manifestation`; See-list spellings restored (`ErnEsvus`, `Nicut`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

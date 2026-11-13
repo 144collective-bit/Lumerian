@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-in-wages
 headword: "IN WAGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `REAPING THE HARVEST` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WORK` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of payment in specific spiritual acquirements, for accomplished result or successful work of the lower self in developing the soul.
+
+> "God has sown something in you which is to bear its fruitage, and in the reaping thereof, here and now, if you are faithful to the vision He gives, you have your wages—namely, the sweet assurance that you have won something worth the winning, for earth and heaven. . . . And your wages in the service of God are that you are found worthy, made capable, of doing God's work just where you stand."—R. J. Campbell, *Serm.*, Reaping for Eternal Life.
+
+See HOUSEHOLDER, JUSTICE, LABOURERS, MONEY, REAPING THE HARVEST, VINEYARD, WORK.
+
+**Corrections made:** `ita` → its; `reapin` → reaping; `Camrsett` → Campbell; page heading `WALK` removed from mid-text; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

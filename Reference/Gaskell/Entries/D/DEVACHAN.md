@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-devachan
 headword: "DEVACHAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `SEKHETHETEP` | **candidate (ambiguous first-segment)** → SEKHET-HETEP, OR FIELD OF PEACE; SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS (not linked) |
 | `SLEEPING (waking)` | **unresolved** (review queue) |
 | `UNEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNEN-EM-HETEP|UNEN-EM-HETEP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A state of consciousness of the ego on the higher mental plane, wherein there is complete withdrawal of the energies from the outer world of effects. It is a self-contained state of contemplation.
+
+See ASGARD, BAKHDHI, SEKHETHETEP, SLEEPING (waking), UNEN.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abode-house-dwelling
 headword: "ABODE, HOUSE, DWELLING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `Hovuss` | **unresolved** (review queue) |
 | `PALACE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a sheath of the soul, or body of mental, astral, or physical matter on the respective planes. The causal-body is usually signified as being the abode of the Self or Divine Spark. In the case of Loke's "house with four doors," all the four bodies are meant. See CLASSES, DWELLINGS, HOUSE, PALACE, VESTURES.
+
+**Corrections made:** `CiaAssEs` → CLASSES; `Hovuss` → HOUSE; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

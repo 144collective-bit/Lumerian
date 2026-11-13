@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lightning
 headword: "LIGHTNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `SAcrrFIcE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `Stake` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual energy active on the higher mental plane (upper air).
+
+> "Verily, as large as the altar is, so large is the earth. The sacrificial stakes are thunderbolts; and by means of these thunderbolts he obtains possession of this earth, and excludes his enemies from sharing therein."—*Sata. Brâh.*, III. 7, 2, 1.
+
+Truly, the necessary structure of Spiritual idealism for developing the soul's higher nature is planted in the soul's lower nature (earth). The individualised structure of the Divine Life, which is raised up in the soul through sacrifice of the lower for the higher, is the means of releasing the invincible spiritual energy which captures the lower nature and dissipates the lower qualities (enemies). [The various sources of spiritual activity on the higher planes are said to be "thunderbolts"—such as water (truth), cattle or cows (buddhic emotions), ghee or butter (Divine love). The last is also said to be "fiery mettle" or "fiery spirit."]
+
+> "The Holy Spirit cries in us with a loud voice and without words, 'Love the love which loves you everlastingly.' His crying is an inward contact with our spirit. This voice is more terrifying than the storm. The flashes which it darts forth open the sky to us and show us the light of eternal truth. The heat of its contact and of its love is so great that it well-nigh consumes us altogether."—Ruysbroeck (Eng. trans.), p. 95.
+
+See ALTAR (fire), EARTH, ENEMIES, LIGHTNING, SACRIFICE, STAKE, YEAR.
+
+**Corrections made:** `Brdh.` → Brâh.; `RvuysBROECK` → Ruysbroeck; See-list spellings restored (`AuvTaR`, `LicguTnina`, `SAcrrFIcE`, `Stake`).
+
+**Unclear or supplied:** The bracketed sentence about "thunderbolts" is Gaskell's own bracket as printed.
 
 ## Full OCR entry body (exact)
 

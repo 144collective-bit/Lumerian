@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-audumbla-the-cow
 headword: "AUDUMBLA, THE COW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Oprx` | **unresolved** (review queue) |
 | `Trap` | **unresolved** (review queue) |
 | `YMIR. AURVA’'` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primordial buddhic nature which at first potential, becomes actual.
+
+> "Then came the cow Audumbla, formed of the melting ice-drops. She nourished Ymer with four streams of her milk, and herself licked the sea saltstones covered with the rime-frost, whence sprung Bur whose son was Borr, who married a giant's daughter, and was the father of Odin, Vili, and Ve, the ruling [word unclear] of heaven and earth."—*The Voluspa*.
+
+This refers to the period of involution of the qualities. Then there arose from latency (ice) the nascent buddhic life (cow) which vitalised on the four planes the Archetypal Man (Ymer). The buddhic activities were applied to the astro-physical nature (the sea salt-stones) and from the latent (frost) condition there sprung the desire-nature (Bur) whose issue was the mind (Borr) who became allied with the perfected emotions and then produced Divine Will, Wisdom, and Action, the ruling principles of a new stage in the development of the higher and lower natures.
+
+See ARC. MAN, BUR, COW, FROST, ICE, ODIN, [Trap?], YMIR.
+
+**Corrections made:** Trailing page heading `AURVA'` removed; `ruling de of heaven` → ruling [word unclear] of heaven; `oluspa` → Voluspa; `vittalised` → vitalised; See-list spellings restored (`Arno. man`, `Ick`, `Oprx`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` after `the ruling` (OCR `de`, the word is damaged). `[Trap?]` is a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

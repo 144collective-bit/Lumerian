@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horn-of-salvation
 headword: "HORN OF SALVATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `JESUS AS FISH` | **unresolved** (review queue) |
 | `Manu` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration toward the ideal of Love and Wisdom.
+
+> "Manu fastened the ship as directed to a horn in the Fish's head."—Story in the *Maha-bharata*.
+
+The higher Self, as the individuality (Manu), is established in the causal-body (ship), and the mind through which it manifests is attached to an aspiration from the striving Self within the soul.
+
+> "The God of my rock, in him will I trust; my shield, and the horn of my salvation, my high tower, and my refuge; my saviour, thou savest me from violence."—2 Sam. xxii. 3.
+
+See [AxsTU FISH?], CAUSAL-BODY, DELUGE, FISH (great), JESUS AS FISH, MANU, SHIP OF MANU.
+
+**Corrections made:** `é sory` → Story; `eausalbody` → causal-body; page heading `369 HORSE` removed from mid-sentence; See-list spellings restored (`Manu`, `FisH`).
+
+**Unclear or supplied:** `Story` read from OCR `é sory`. See-list item `[AxsTU FISH?]` not identified.
 
 ## Full OCR entry body (exact)
 

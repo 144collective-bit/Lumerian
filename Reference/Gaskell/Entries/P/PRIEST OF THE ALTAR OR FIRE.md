@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-priest-of-the-altar-or-fire
 headword: "PRIEST OF THE ALTAR OR FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,28 @@ tags:
 | `which prepared the Worldsoul (Homa) for its expression upon the lower planes. See Atua` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `SEtr¥` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind or deeper intelligence which serves to direct the will.
+
+> "The very name for 'priest' in the Zend-Avesta, athrava, is to be recognised in the atharvan of the Vedas, by which term a priest of Fire and Soma is meant."—Haug, *Essays on Rel. of Parsis*, p. 212.
+
+See AARON, ADVARYA, AGNIDHRA, BARSOM, CHRYSE, FIRE PRIESTS, PONTIFF, POPE, PRIEST.
+
+### Also in this note: ATHWYA, THE SECOND MAN
+
+A symbol of the Second or manifest Logos.
+
+> "Athwya was the second man who [prepared] me (Homa) for the material world" (*Homa Yasht*).—Haug, *Essays*.
+
+This signifies the forth-pouring of the Second Logos upon the higher planes, which prepared the World-soul (Homa) for its expression upon the lower planes.
+
+See ATHWYA, HOMA, [Setr?].
+
+**Corrections made:** `dthrava` → athrava; `Hava` → Haug; `Athwysa` → Athwya; `pre me` → [prepared] me; `Worldsoul` → World-soul; the page heading `ATHWYA` (before the second entry's headword) and the stray `+` removed; See-list spellings restored (`AaRON`, `Baxzsom`, `FIRE pRIEsTS`, `PoNnairy`, `Pore`, `Atua`).
+
+**Unclear or supplied:** Contains a second entry: ATHWYA, THE SECOND MAN. `[prepared]` is supplied for the damaged OCR `pre`. `[Setr?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

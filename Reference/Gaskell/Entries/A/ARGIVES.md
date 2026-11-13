@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-argives
 headword: "ARGIVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PRIZE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower desires and emotions active on the desire-mental plane.
+
+> "Apollo aimed against the Argives his deadly darts. So the people began to perish in multitudes, and the God's shafts ranged everywhither throughout the wide host of the Achaians."—*Iliad*, Bk. I.
+
+The Higher Self opposed with the Will (sword of the Spirit) the workings of the lower self. Hence the lower qualities gradually diminished in strength and numbers; and the action of the Divine Will being directed to the suppression of the lower mental qualities, these are overcome.
+
+See APOLLO, ARROW, ODYSSEUS, PEOPLE, PESTILENCE, PRIZE.
+
+**Corrections made:** `darte` → darts; `Zliad` → Iliad; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-development-of-humanity-through-millions-of-years
 headword: "DEVELOPMENT OF HUMANITY THROUGH MILLIONS OF YEARS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `INSPIRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INSPIRATION, DIVINE|INSPIRATION, DIVINE]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Development cannot be measured from the point of view of the lower mind, and there is no evidence to show that it proceeds appreciably on this physical plane. It is God the Highest who looks down; not we who look up, who can judge upon the growth of the soul. Eternal verities cannot be put into terms of space and time, for these illusions must be eliminated from the mind ere it can discern the celestial significance of the sublime teaching of the sacred scriptures of the world.
+
+See AMBAS, INSPIRATION, REVELATION, SCRIPTURES.
+
+**Corrections made:** Stray full stop before "mind" removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

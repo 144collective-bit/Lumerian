@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deity-hidden-cealed
 headword: "DEITY, HIDDEN CEALED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Hipine` | **unresolved** (review queue) |
 | `TRINITY` | **unresolved** (review queue) |
 | `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the one Unmanifest Being, the Absolute, the Source of [word unclear]
+
+> "Manetho the Sebennyte is of opinion that the 'hidden' or 'hiding' is expressed by this word 'Ammon' ... Hecataeus of Abdera says that the he who is ... Egyptians invoke the Supreme God as being hidden and invisible, and implore Him to make himself visible and apparent, and therefore call him 'Amun' great was the piety of the Egyptians in their teaching about the Gods."—Plutarch, *Isis and Osiris*, § 9.
+
+So far as God is unmanifest in the soul and its qualities, he is, as it were, hidden, or in hiding, from the lower consciousness. The aspiration, therefore, of the soul is that God should manifest his nature in the higher qualities, and appear as a centralising Ideal to the consciousness. When God is born in the soul, he becomes, as it were, "visible and apparent" in the religious consciousness, and receives the adoration of the higher qualities of mind and emotion.
+
+See ABSOLUTE, AFU-RA, AIN SOPH, AMEN, FATHER, GOD, GODHEAD, HIDING, TRINITY, ZERANA.
+
+**Corrections made:** `Egyptiana` → Egyptians; `Ists and Ostris` → Isis and Osiris; `Hecateeus` → Hecataeus; page heading `DELOS` removed from mid-sentence; See-list spellings restored (`Hipine`, `GoD`); and similar minor fixes.
+
+**Unclear or supplied:** The first sentence breaks off at "Source of" followed by the running-head fragment `OR CON` (from the headword "DEITY, HIDDEN OR CONCEALED"), which was removed; the lost words are marked `[word unclear]`. In the quotation, "the he who is ..." is kept as printed in the OCR and looks damaged.
 
 ## Full OCR entry body (exact)
 

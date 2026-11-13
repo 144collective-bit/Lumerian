@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hypsipyle-daughter-of-thoas
 headword: "HYPSIPYLE, DAUGHTER OF THOAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Evunevs` | **unresolved** (review queue) |
 | `Lesvos` | **unresolved** (review queue) |
 | `THoas` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of philosophic pride, produced by the germ of truth contained in forms of thought.
+
+See EUNEUS, [Lesvos?], THOAS.
+
+**Corrections made:** `Evunevs` → EUNEUS; `THoas` → THOAS.
+
+**Unclear or supplied:** `[Lesvos?]` kept as printed (possibly LEMNOS).
 
 ## Full OCR entry body (exact)
 

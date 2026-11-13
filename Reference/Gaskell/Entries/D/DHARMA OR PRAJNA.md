@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dharma-or-prajna
 headword: "DHARMA OR PRAJNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `YUDHI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle, Wisdom.
+
+> "I salute that Dharma who is Prajnâ Paramita (Wisdom of the Other Bank), pointing out the way of perfect tranquillity to all mortals, leading them into the [word unclear] of perfect wisdom."—*Scriptures of [Nepal?]*.
+
+> "Worthy of remark is the treatment of 'Wisdom,' 'Dharma,' 'Heart of Wisdom,' etc. in the Buddhist ritual. Here is another address to her:—'Thou who art possessed of great mercy, and who in virtue of thine infinite power and wisdom art manifested throughout the universe for the defence and protection of all creatures, etc.'"—A. Lillie, *Pop. Life of Buddha*, pp. 240, 246.
+
+> "By the aid of Prajna or Dharma the Supreme Buddha made the world."—*Ibid.*, p. 246.
+
+> "I (Wisdom) was set up from everlasting, from the beginning, or ever the earth was."—Prov. viii. 23.
+
+The Self (atma-buddhi) was, is, and shall be; and necessarily existed before the lower nature which is only an illusive reflection of the higher.
+
+See BUDDHA, BUDDHI, PLOUGHING, [PRAJNA?], SHORE (other), TRANSMUTATION, TRI-RATNA, WISDOM, YUDHI.
+
+**Corrections made:** `Prajn&` → Prajnâ; `T (Wisdom)` → I (Wisdom); `Iife` → Life; `LILLie` → Lillie; `BuppHA` → BUDDHA; and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` stands for OCR `acer`. `[Nepal?]` stands for OCR `epal`. See-list item OCR `Praani` is given as `[PRAJNA?]`.
 
 ## Full OCR entry body (exact)
 

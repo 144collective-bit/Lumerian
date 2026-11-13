@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hercules-son-of-zeus
 headword: "HERCULES, SON OF ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Hyuas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
 | `MonSTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MONSTERS OF TIAMAT|MONSTERS OF TIAMAT]] |
 | `VULTURE. |` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will active in the laws of terror and fear. The Divine Will acting through terror breaks down obstacles in the forms which impede the evolving life, and also subdues unruly desires (beasts and monsters) which while unconquered ravish the soul.
+
+> "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air."—Gen. ix. 2.
+
+And the lower nature with all its passions and desires, is to be subdued and disciplined by the "fear and dread" which are to bring it into subjection to the higher nature and Divine Will. The meaning of the symbol Hercules may vary somewhat in the different legends. It signifies generally the coercive action of the environment through pain and trouble in stimulating the growth of the soul.
+
+See ANIMALS, BEASTS, [Hyuas?], MONSTERS, VULTURE.
+
+**Corrections made:** `GEN.` → Gen.; `BEasts` → BEASTS; `MonSTERS` → MONSTERS; stray `|` removed after the See list.
+
+**Unclear or supplied:** The closing quotation mark after "dread" in the commentary is supplied by the OCR as an opening mark only; left as a closed pair. `[Hyuas?]` See-list item likely HYDRAS but not certain.
 
 ## Full OCR entry body (exact)
 

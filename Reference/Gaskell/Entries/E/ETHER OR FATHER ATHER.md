@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ether-or-father-ather
 headword: "ETHER OR FATHER ATHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,30 @@ tags:
 | `RAM` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SEEKER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fifth plane of being; the plane of Atma. The highest plane of manifestation.
+
+> "The fifth element some call Heaven, some Light, others Æther."—Plutarch, *On the E at Delphi*, § XI.
+
+> "Æther was considered one of the elementary substances out of which the universe was formed. It was regarded as pure upper air, the residence of the [word unclear] and Zeus, Lord of the [word unclear] the attributes wherewith he entered it."—[word unclear] *Egypt. Heav. and Hell*, Vol. [II?] [word unclear]
+
+### Also in this note: [headword unclear]
+
+[It] must be remembered that "corpse" or "dead body" is a symbol of the lower self or personality in its natural aspect of possessing no sign of Divine life. Osiris (Christ) enters the lower nature in evolution as a completely hidden Spirit, and every spiritual ego follows the same course. Osiris passes successfully through all states of the lower nature and carries his Osirified egos with him to rise finally to life immortal.
+
+> "For if we have become united with him by the likeness of his death, we shall be also by the likeness of his resurrection" (Rom. vi. 5).
+
+> "From first to last Osiris was to the Egyptians the God-man who suffered and died and rose again and reigned eternally in heaven. They believed that they would inherit eternal life, just as he had done, provided that what was done for him by the gods, was done for them."—Budge, *Gods of the Egyptians*, Vol. II. p. 126.
+
+> "This Self is hidden in all living things, it shines not forth; but it is seen by the keen and penetrating mind of those that see into the supersensible."—*Upanishad*, III.
+
+See AGNIHOTRA, AMEN, ANUBIS, [ARUAT?], ARC. MAN, ARK (safety), ASCENSION (Osiris), BOAT, CABIN, CHILDREN OF HORUS, CORPSE, DEITY, EQUINOX, INCARNATION, JESUS (lamb), [KHEPERA?], LAMB OF GOD, NET (under), PRAGAPATI, RA, RAM, RESURRECTION, SEEKER.
+
+**Corrections made:** `ther` → Æther; `§ 11` → § XI; page heading `AGAMEMNON` removed from mid-quotation; `HOEUS` → HORUS; `Lams or Gop` → LAMB OF GOD; `Pracipati` → PRAGAPATI; `Bupge` → Budge; See-list spellings restored (`CaBIN`, `CoRPSE`, `Equinox`, `NEt`).
+
+**Unclear or supplied:** The OCR runs the Ether entry into the tail of another entry, probably about Osiris, whose headword and opening words are lost; it is given as `[headword unclear]` and the first word is supplied as `[It]`. In the Ether quotation the words after "residence of the" and after "Lord of the" are lost, the author's name is lost, and the volume and page are damaged (OCR `tre ... Vol. UI. ae`). The Ether entry's own See list is missing; the See list given appears to belong to the second entry. `[ARUAT?]` and `[KHEPERA?]` are doubtful See-list items (OCR `AruaT`, `Kueren`). The Upanishad's name is lost before `Upanishad, III.`
 
 ## Full OCR entry body (exact)
 

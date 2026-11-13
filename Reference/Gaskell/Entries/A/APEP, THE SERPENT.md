@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apep-the-serpent
 headword: "APEP, THE SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -68,6 +69,34 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `Wit` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mental nature.
+
+> "The undulating length of the serpent Apep, of whom it is said, 'his voice goeth round the Tuat.'"—Budge, *Egypt. Heaven and Hell*, Vol. II. p. 268.
+
+In the relativity of the lower mind it may be said that the expression, or utterance, of the desire impulse allied with mind in the lower nature of the human soul, extends through the whole cycle of manifested life (the Tuat). The desire-mind (Apep) is the adversary against which all the higher qualities (gods) contend. It is for ever being cut to pieces, but comes to life again all the same in other states and conditions of the soul's development.
+
+See AHRIMAN, GREEN, NET, SATAN, SERPENT, TUAT.
+
+### Also in this note: APES (CYNOCEPHALI) NINE,—"WHICH SING TO RA AS HE ENTERETH THE TUAT"
+
+These are symbolic of the myriad of egos who shall rise through Christ to divine manhood. "Nine" is their symbolic number, in that man becomes more than man when the "tenth"—signifying completion and accomplishment,—is reached.
+
+> "The Souls of the East (i.e. the Souls or Spirits who take the forms of apes immediately the Sun has risen) pay homage to thee, and when they meet thy Majesty they cry:—'Come, come in [word unclear]!' (Hymn to the Setting Sun)."—Budge, *Book of the Dead*, p. 80.
+
+> "Open to me (Osiris) the doors with your hands, O ye Apes, unfold to me the portals of the Courts, O ye Apes, and welcome the gods or goddesses who have come into being from my divine Souls; come ye into being for [Khepera?], O ye who have your being at the head of the Tuat."—*Ibid.*
+
+This statement refers to the first division (Aries) of the cycle of life (the Tuat). It is on the upper levels of the buddhic plane that the Self (Sun) commences to manifest in abscondito (night). The spiritual egos (apes) are represented as opening the "way of the Lord," because it is through their volition in harmony (singing) with the Supreme (RA), that manifestation takes place; and they enter into being in order to undergo the suffering and sorrow of the lives on earth. They come into being for Christ (Khepera) that they may triumph over ignorance and evil, and rise with him to power and glory at the end of the cycle.
+
+> "All protest against being coerced by an almighty power outside ourselves ceases to have any point when we realise that the power outside ourselves is what we ourselves essentially are. Indeed there would be no power outside ourselves,—we should never feel it or know anything about it,—if there were no power within ourselves impelling us to enter into relations with it."—R. J. Campbell, *Serm.*, *Who Compels?*
+
+See AMENT, ARIES, EAST, GUARDIANS, NET-RA, RA, SERPENTS (emitting sparks), SONS OF GOD, STRIDES (soul), SUN, TUAT, WILL.
+
+**Corrections made:** `Bupag` and `upaE` → Budge; `development, See` → development. See; `1m abscondito` → in abscondito; `welcome the' gods` → welcome the gods; `Who Compels f` → Who Compels?; page heading `APHRODITE` removed from mid-sentence; See-list spellings restored (`East`, `GUARDrans`, `Sons or Gop`, `Sun`, `Wit` → WILL); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: APES (CYNOCEPHALI) NINE. `[word unclear]` replaces OCR `e` in "Come, come in e!"; `[Khepera?]` replaces OCR `epera`.
 
 ## Full OCR entry body (exact)
 

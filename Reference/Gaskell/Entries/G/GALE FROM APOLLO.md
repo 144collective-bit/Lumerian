@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gale-from-apollo
 headword: "GALE FROM APOLLO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `BREATH (divine)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BREATH|BREATH]] |
 | `Camp` | **unresolved** (review queue) |
 | `Wrnp (strong). GALES;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the action of the higher mind on the lower.
+
+> "And Apollo the Far-darter sent the Achaians a favouring gale."—*Iliad*, Bk. I.
+
+And the Higher Self wafted the mental qualities inward by the "breath," or life influence, of the mind.
+
+See APOLLO, BREATH (divine), CALM, WIND (strong).
+
+**Corrections made:** `Fardarter` → Far-darter; `ZJliad` → *Iliad*; stray `_` and damaged quotation marks (`"breath,**?`) normalised; trailing page heading `GALES;` removed; See-list spellings restored (`Camp`, `Wrnp`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

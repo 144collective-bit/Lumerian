@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophets-false
 headword: "PROPHETS, FALSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `RITES` | **unresolved** (review queue) |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of states of mind which regard outer events and personalities of time past or to come, as sources of soul-growth and salvation.
+
+> "And many false prophets shall arise and lead many astray. And because iniquity shall be multiplied, the love of [many] shall wax cold."—Matt. xxiv.
+
+The "false prophets" signify those minds which point others to particular persons, and times, and localities as sources of salvation, and thereby deceive and mislead many. As soon as erroneous religious notions abound, and these signs of spiritual inertness creep into the soul, the love of the higher, or the unifying principle, is lost to the qualities.
+
+> "Ye observe days and months, and seasons and years. I am afraid of you, lest by any means I have bestowed [labour?] upon you in vain."—Gal. iv.
+
+See CALAMITIES, COLD AND HEAT, ENDURING, IDOLATRY, IDOLS, PRIESTS AND ELDERS, RITES, TRADITION.
+
+**Corrections made:** page heading `PROTOTYPES` removed from mid-sentence; `te mony` → [many]; `Mart.` → Matt.; `iove` → love; `ane` → [labour?]; `qualities, ` followed by an opening quotation → qualities.; `GAL.` → Gal.
+
+**Unclear or supplied:** `[many]` is supplied for the damaged OCR `te mony`; `[labour?]` is a likely reading of the damaged OCR `ane`.
 
 ## Full OCR entry body (exact)
 

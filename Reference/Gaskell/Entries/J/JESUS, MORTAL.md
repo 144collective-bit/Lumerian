@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jesus-mortal
 headword: "JESUS, MORTAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `IMMORTALITY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/IMMORTALITY FORFEITED|IMMORTALITY FORFEITED]]; [[Reference/Gaskell/Entries/I/IMMORTALITY IMHETEP OR IMHOTEP|IMMORTALITY IMHETEP OR IMHOTEP]] |
 | `JESUS INCARNATION` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Christ-soul, or almost perfected personality, subject to the death of its lower nature.
+
+> "The Holy Spirit, by his influence and spiritual infusion, makes the earth conceive and bring forth the mortal Jesus, who, as hanging from every tree, is the life and salvation of men" (Manichean doctrine).—Augustine, *Manichean Heresy*, p. 366.
+
+The Higher Self brooding over the highest part of the lower nature (earth) so purifies and fructifies it that it is enabled to bear and bring forth the Christ-soul (Jesus) within the many souls of humanity. In each soul the incarnate Christ inheres within the personality, as it were, hanging from the "Tree of Life" or Divine ray within it, as that which shall redeem it from evil, perfect it, and raise it to the life immortal.
+
+> "The Wisdom of God Incarnate is represented by 'the Tree,' as where it is written thereon, 'She is a tree of life to them that lay hold on Her.' . . . And what is denoted by the title of 'the tree,' but the life of the [word unclear]"—St. Gregory, *Morals on the Book of Job*, Vol. II. p. 48.
+
+See [Ax?], EARTH, IMMORTALITY, JESUS INCARNATION, TREE OF LIFE.
+
+**Corrections made:** `dcctrine` → doctrine; `AuouSsTINE` → Augustine; `Incarmate` → Incarnate; `Grecory` → Gregory; `EaRTH` restored in See list; and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "the life of the sini ar" and the quotation is cut short. `[Ax?]` is a See-list item that could not be identified. `JESUS INCARNATION` left as printed (may be two headwords).
 
 ## Full OCR entry body (exact)
 

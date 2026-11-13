@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mitegura-or-gohei
 headword: "MITEGURA, OR GOHEI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `TaMA-GUSHI` | **unresolved** (review queue) |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine scheme of the soul's evolution and salvation.
+
+> "One of the Gods then pulled up a seakaki-tree by the roots, and on its [upper?] branches hung the Necklace of Jewels; in the middle he hung the Sacred Mirror, and to the lower branches he attached Coarse and Fine Cloth. This formed a large mitegura (or gohei) which was held by Ameno-futo-dama-no-mikoto, while he pronounced an address in honour of the Sun-Goddess."—Japanese Legend.
+
+The Divine Will then fully organised the life within the soul, in the pattern of a tree. On the atma-buddhic heights were the treasures of the Spirit,—the higher emotions of Wisdom, Truth, and Love. In the higher mind (middle) was the Causal-body, and below on the astral plane was the astral mechanism of the lower nature of the human being. This constitution formed a connected whole, a "Tree of life," comprehensive system for the development of the soul by the Higher Self, and under the immediate executive direction of the Wisdom principle.
+
+See AMATERASU, CHRISTMAS-TREE, INSIGNIA, MIRROR, NET, SEPHIROTH, TAMA-GUSHI, TREASURE, TREE OF LIFE.
+
+**Corrections made:** `mt the middle` → in the middle; `amd` → and; `lo.-:er mature` → lower nature; `IwsiGnia` → INSIGNIA; `Mrmrnor` → MIRROR; `TaMA-GUSHI` → TAMA-GUSHI; page heading `WITTHRA` removed from before the quotation.
+
+**Unclear or supplied:** `[upper?]`: OCR reads `ba vi` before "branches".
 
 ## Full OCR entry body (exact)
 

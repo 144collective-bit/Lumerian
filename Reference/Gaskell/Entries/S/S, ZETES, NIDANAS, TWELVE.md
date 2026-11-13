@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-zetes-nidanas-twelve
 headword: "S, ZETES, NIDANAS, TWELVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `ZODIAc` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the twelve divisions, or departments, of the Cycle of Life;—the same as the Zodiac.
+
+> "Out of this ignorance (Avijja), as out of some sort of counterpart of the primordial cell, the Buddha has his Buddha-world issue in twelve distinct stages; the twelve Nidanas, as they are called, whereof the final phase of development, the bloom of sorrow, takes shape as old age, disease, death, misery and distress, grief and despair."—Dahlke, *Buddhist Essays*, p. 34.
+
+The cycle of life commences on the lower planes as a world-germ developing from the homogeneous protoplasm of matter which implies ignorance of all else, and passing on to greater and greater heterogeneity as the qualities and forms appear. This world-process occupies twelve stages,—six of Involution, and six of Evolution. At the close of the final stage the soul is perfected, while the death and distress in the process are of the personality as it casts off the last vestiges of the lower nature:—the cry of despair being, "My God, my God, why hast thou forsaken me?"
+
+See ADITYAS, CRUCIFIXION OF JESUS, EVOLUTION, IGNORANCE, INVOLUTION, [Musvs1?], SEPHIROTH, SUFFERING, TUAT, TWELVE, ZODIAC.
+
+**Corrections made:** `Qut` → Out; `rimordial` → primordial; `uddha-world` → Buddha-world; `miscry` → misery; `DaHLKE` → Dahlke; page heading `NIDHOGG` removed from mid-sentence; See-list spellings restored (`IGNoRANOE`, `ZODIAc`).
+
+**Unclear or supplied:** `[Musvs1?]`: See-list item not identified; OCR `Musvs1`.
 
 ## Full OCR entry body (exact)
 

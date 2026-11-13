@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ahavaniya-fire
 headword: "AHAVANIYA FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `AGNiHOTRA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AGNIHOTRA HOUSE OR SHIP|AGNIHOTRA HOUSE OR SHIP]] |
 | `GARHAPATYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GARHAPATYA FIRE|GARHAPATYA FIRE]] |
 | `Yama` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the centre of outpouring spiritual activity on the buddhic plane.
+
+> "Now Indra, in truth is the same as the Ahavaniya; and king Yama is the [word unclear] Garhapatya."—*Sata. Brâh.*,
+
+"Indra" is a symbol of Divine energy (atma-buddhic), and "King Yama" is the causal self in the causal-body.
+
+> "That Ahavaniya fire is the Sacrificer's divine body, and this body of his is his human one."—*Sata. Brâh.*, VI. 6, 4, 5.
+
+The buddhic outpouring is the Divine vehicle of the Self, and the causal-body is his mental one.
+
+See AGNIHOTRA, GARHAPATYA, YAMA.
+
+**Corrections made:** `symbol!` → symbol; `Ahavanfya` → Ahavaniya; `Brih.`/`Bréh.` → Brâh.; `is_` → is; `AGNiHOTRA`, `Yama` See-list spellings restored.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `rer : - Aa` before Garhapatya. The first Sata. Brâh. reference is printed without its numbers in the OCR.
 
 ## Full OCR entry body (exact)
 

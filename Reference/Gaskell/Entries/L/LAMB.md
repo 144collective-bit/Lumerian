@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lamb
 headword: "LAMB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A world-symbol of sacrifice:—born in order to die for human advantage.
+
+> "The symbol for lamb in Chinese is composed of sheep and fire, that is, a sheep on the fire, as though the peculiar appropriation and destiny of lambs were for sacrificial offerings through fire: an idea not incongruous with the statement of Confucius, that a lamb constituted an ancient sacrifice of very great importance."—S. Kipp, *China*, p. 182.
+
+> "In Thebes the reverence for the ram in which the god Amen was supposed to be incarnate was extended in a modified form to all rams, and they were held exempt from slaughter, for since the [god had?] vouchsafed to clothe himself in this form its destruction was a crime; in other Egyptian cities the animal was slaughtered for food without scruple."—A. Wiedemann, *Rel. of Anc. Egyptians*.
+
+[See] EQUINOX, FIRE, FUH-HE, [word unclear], JESUS (lamb), PASSOVER, RAM, SACRIFICE, SHEEP.
+
+**Corrections made:** `:-—` → :—; `Firs` → FIRE; `PassovER` → PASSOVER; quotation marks normalised.
+
+**Unclear or supplied:** `[god had?]` for OCR `od fad`. The OCR drops the word "See" and the page reference after the Wiedemann attribution; `[See]` is supplied and the attribution closes without a page. In the See list `[word unclear]` stands for OCR `TION` (a headword ending in -TION, probably INCARNATION or INITIATION).
 
 ## Full OCR entry body (exact)
 

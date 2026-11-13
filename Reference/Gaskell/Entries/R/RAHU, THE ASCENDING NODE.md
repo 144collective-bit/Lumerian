@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rahu-the-ascending-node
 headword: "RAHU, THE ASCENDING NODE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,16 @@ tags:
 | `JOB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `SORROW` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SORROW, OR EVIL|SORROW, OR EVIL]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+[The OCR of this entry runs two columns together. The words are kept in the order the OCR gives them.]
+
+eat dlouds care holy preachers, the A symbol of darkness, ignorance, rains from the clouds are the words of suffering, and evil, during evolution. their preaching." "For the drops of dew (or rain) are Rahu, his wisdom, riches, and children rie eae as Hedig ocslanegated ae pel will be destroyed; he will be exposed to many afflictions and be subject to his she ty hte Book af aoe wee OnE enemies nae Hindu Mythology, pp. 245, 340 : ; p. 435. "Rain signifies divine truth from The spiritual ego, or individual heaven."—Swedenborg, *Apoc. Rev.*, n. soul, born into the lower nature 496. "If a person be born under the planet has left in latency his wisdom and See Deut. xxxii. 2; Is. lv. 10, 11; powers on the upper planes, and is Hos. vi. 3. now subject to ignorance and sorrow See CLOUDS, DEW, DROUGHT, HERB, while he works his way upward. MAZENDARANS, UDDER, VOURUKASHA, See BONDAGE, DARKNESS, IGNO- WATER, WEALTH SHOWER, WINDOWS. RANCE, JOB, SORROW, SUFFERING.
+
+**Corrections made:** Quotation marks normalised; `Réhu` → Rahu; See-list spellings restored (`CLoups`, `Drew`, `Drovaenut`, `WaTER`, `BonpbDaGE`); and similar minor fixes.
+
+**Unclear or supplied:** The OCR is a scramble of two print columns (a RAIN entry and the entry RAHU, THE ASCENDING NODE) and cannot be separated with confidence. A bracketed note at the head says so. Garbled fragments (`eat dlouds`, `rie eae as Hedig ocslanegated ae pel`, `she ty hte Book af aoe wee OnE enemies nae`) are left as printed; `Hindu Mythology` is probably Wilkins.
 
 ## Full OCR entry body (exact)
 

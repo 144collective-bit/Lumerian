@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pontiff-or-pontifex
 headword: "PONTIFF, OR PONTIFEX"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,14 @@ tags:
 | `PoPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POPE OF ROME|POPE OF ROME]] |
 | `PRrest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind having a leading position in the religious activities of the "Church" or "Temple" of the soul, and subjectively directing the lower qualities (people). See AARON, ADVARYA, AGNIDHRA, ATHORNE, CHRYSE, CHURCH, HIGH PRIEST, POPE, PRIEST, TEMPLE.
+
+**Corrections made:** `PoPE, Prrest` → POPE, PRIEST; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

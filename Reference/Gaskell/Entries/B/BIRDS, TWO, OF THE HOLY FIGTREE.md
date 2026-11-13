@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birds-two-of-the-holy-figtree
 headword: "BIRDS, TWO, OF THE HOLY FIGTREE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,26 @@ tags:
 | `Sou (spirit)` | **unresolved** (review queue) |
 | `TREE oF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `YELLOW` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YELLOW COLOUR|YELLOW COLOUR]]; [[Reference/Gaskell/Entries/Y/YELLOW DRESS|YELLOW DRESS]]; [[Reference/Gaskell/Entries/Y/YELLOW EARS OF HORSE|YELLOW EARS OF HORSE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Higher Self seated above, and the indwelling Self evolving below in the human soul. Both are allied with the "tree of Life," the Divine Ray from the Absolute.
+
+> "Two birds (the Paramatman and Jivatman, or supreme and individual souls) always united, of the same name, occupy the same tree. One of them (the Jivatman) enjoys the sweet fruit of the fig (or fruit of acts), the other looks on as a witness. Dwelling on the same tree (with the supreme Soul), the deluded (individual) soul, immersed (in worldly relations), is grieved by the want of power; but when it perceives the Ruler, (separate from worldly relations) and his glory, then its grief ceases. When the beholder sees the golden-coloured maker (of the world), the Lord, the Soul, the source of Brahma, then having become wise, shaking off virtue and vice, without taint of any kind, he obtains the highest identity."—*Mundaka Upanishad*, III. 1, 1-3.
+
+The Supreme Self (Paramâtman) and the Incarnate Self (Jivatman) are one in essence and are both on the primal Ray from the Absolute (the Tree of Life). The Incarnate Self evolving in the souls of humanity, struggles upward to enjoy in the buddhic consciousness the fruit of experience and aspiration, while the Supreme Self is a witness and inactive. The Incarnate Self is immersed in illusion and ignorance, suffering and sorrow, but when having conquered the lower nature and risen above it, it perceives the Supreme Self, then its sorrow ceases; ignorance and illusion are dispelled, and the Truth is made manifest. The pairs of opposites are discarded, and perfection having been attained, the two Selves become one Self in complete identity.
+
+> "All that is in the Godhead is one. Therefore we can say nothing. He is above all names, above all nature. God works; so doth not the Godhead. Therein they are distinguished—in working and not working. The end of all things is the hidden Darkness of the eternal Godhead, unknown and never to be known" (Eckhart).—R. M. Jones, *Mystical Religion*, p. 225.
+
+> "We discover in our inner self that we are not masters even in our own house. The inward economy of thinking and feeling which we call ourselves is, we find, to a large extent strange to us and independent of us. What power have we over our own sensations? We cannot create sensation. We can only experience it. That a given set of circumstances should produce a given result of pleasure or pain is an arrangement entirely outside our own will. We accept it, we perhaps wonder at it. What we cannot do is either to explain it or alter it. It gives one an eerie, haunted feeling to realise that within us, yet not of us, there is this unseen [word unclear] who arranges for us all the phases of our consciousness, leaving the task of them simply for our part in the business. This strange registering apparatus, which we did not create and do not regulate, is ready for every conceivable event that may happen to us. If it were announced to us that to-morrow we were to be married or to be hanged, to be made a millionaire or a pauper, a certain pre-ordained sensation would be the result. But what precisely it would be, either in its flavour, its intensity, or its duration, is beyond both our will and our power of prediction. We are, indeed, the spectator of the greater part of our inner life rather than its agent or producer."—J. Brierley, *Studies of the Soul*, p. 82.
+
+The subjective mind of the involuntary vital system creates and maintains the body for the use of the voluntary cerebral system of the objective mind or personality.
+
+See ATMAN, BRAHMA, DARKNESS, [DOER?], FIG-FRUIT, FIG-TREE, GODHEAD, GOLD, HIGHER AND LOWER SELVES, INCARNATION, INDIVIDUALITY, JESUS (son of God), JOB, PERSONALITY, SELF (supreme), SELF (lower), SOUL (spirit), TREE OF LIFE, YELLOW.
+
+**Corrections made:** `swect` → sweet; `Ill.` → III.; `Paramftman` → Paramâtman; `Darknoss` → Darkness; `Jongs` → Jones; `appnratus` → apparatus; `& certain` → a certain; `ite duration` → its duration; page heading `Brrp's BIRDS` removed from mid-sentence; See-list spellings restored (`Fia-Fruit`, `Fia-TreE`, `GopHeap`, `Gouip`, `PERSONauiry`, `Sety`, `Seur`, `Sou`, `Jos`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `t` after `this unseen`. `[DOER?]` is a guess for the See-list item `Dorr`; `GOLD` is read from `Gouip`.
 
 ## Full OCR entry body (exact)
 

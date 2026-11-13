@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-serpent
 headword: "MIDGARD'S SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 aliases:
   - "S SERPENT"
@@ -49,6 +50,22 @@ tags:
 
 > [!warning] Segmentation flag (R2)
 > EPUB `page_507` shows lemma `MIDGARD'S SERPENT :—` after `MIDGARD :—`. Machine head `S SERPENT` came from a truncated running header (`500 MIDGARD'S SERPENT`). Filename `S/S SERPENT.md` and `entry_id` retained; use aliases for discovery. Letter folder remains `S/` (historical path).
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mind which engirdles the lower nature of the soul.
+
+> "He (Thor) goes, the descendant of Odin, to fight the Serpent; the defender of Midgard strikes him in his anger."—*The Voluspa*.
+
+The higher mind (Thor), energised by the Spirit (Odin), combats the desire-mind, which identifies itself with the objects of sense and is at enmity with the higher nature.
+
+> "In the Midgard serpent which girdles the world, we have here another testimony to the Biblical correspondence of the Serpent in the Word, as meaning everywhere the sensual mind, which is the outermost, or encompassing mind, in which the amour propre or proprium resides. In like manner with this, nearly the whole of the particulars in Voluspa are susceptible of a Biblical interpretation."—Garth Wilkinson, *Revelation and Mythology*, p. 66.
+
+See DEVIL, NIDHOGG, ODIN, SATAN, SERPENT (subtil), THOR.
+
+**Corrections made:** `every: where` → everywhere; `Voluepa` → Voluspa; `GaRTH WILEINSON` → Garth Wilkinson; `amour propre of` → amour propre or; `Devit` → DEVIL; `NripHoaea` → NIDHOGG; `Opin` → ODIN; page heading `MIDST` removed from mid-sentence.
+
+**Unclear or supplied:** `NIDHOGG` is a reading of the damaged `NripHoaea`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-battle
 headword: "BATTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,18 @@ tags:
 | `Vicrory` | **unresolved** (review queue) |
 | `Was` | **unresolved** (review queue) |
 | `WARERIOBS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the conflict between mind and emotion, or the spiritually energised mental qualities and the desires, passions, and instincts of the lower nature.
+
+> "Every struggle of the people of God [against] evil in this world [must?] be fired with eternal principles, must be instinct with thoroughness and with justice. . . . All the true battles of the earth really are God's battles, and are to be fought only in God's spirit and God's way. [The] old history of Israel and Edom sinks back into a parable. All that history was a crude and elementary utterance of the [great?] truth that there must ever be, so long as the world remains imperfect and is struggling towards perfection, two parts of the world, one of which is God's and one which is not. What that chosen people represented is perpetual. There always is in the world some part of the world consecrated to the struggle to make the world divine. It is that of the general humanity, that part of any race, nay, that [word unclear] of any man—for even the individual life may be divided between God and the enemy of God—it is that part of human nature which is consecrated to God, and trying to do His will. That is the everlasting Israel. In more spiritual ways therefore, with less formality, more flexibly and freely, all that is said of God's relation to the Judaism of the Old Testament, must be the picture and the parable of the relation which God holds to all struggle after goodness, all effort of noble and [word unclear] life everywhere and always."—Brooks, *Serm.*, *The Sword Bathed in Heaven*.
+
+See BLACKSMITHS, CONFLICT, CONQUEROR, MAN, [PER-AHA?], [PEAK?] (temple), [STRIFE?], VICTORY, WAR, WARRIORS.
+
+**Corrections made:** `saeet` → [must?]; `et truth` → [great?] truth; `parte` → parts; `A yaks of any man` → [word unclear] of any man; `eae life` → [word unclear] life; `Brooxs` → Brooks; page heading `BEAST` removed from mid-sentence (`relaBEAST tion` → relation); See-list spellings restored (`BLacksmiros`, `ConFLicr`, `ConQUEROR`, `Mas`, `Srriure`, `Vicrory`, `Was`, `WARERIOBS`).
+
+**Unclear or supplied:** Lost or damaged words in the Brooks quotation: `[against]` (OCR `ple of God t evil`), `[must?]`, `[The]`, `[great?]`, and two `[word unclear]`. In the See list `[PER-AHA?]`, `[PEAK?]` and `[STRIFE?]` are uncertain readings of `PER-aHa`, `Prak`, `Srriure`.
 
 ## Full OCR entry body (exact)
 

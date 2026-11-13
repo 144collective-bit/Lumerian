@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-earth
 headword: "EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `Fruit (ground)` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRUIT|FRUIT]] |
 | `Lanp. ~ ad =` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature of the soul, which requires "tilling" and "sowing" to produce good fruit.
+
+> "Therefore the Lord God sent him (Adam) forth from the garden of Eden, to till the ground from whence he was taken."—Gen. iii. 23.
+
+So the mind having ceased to be influenced from the buddhic plane (Eden) is directed by the Supreme law towards the lower plane activities whereof its own nature has been builded up.
+
+See ADAM (lower), CURSE (ground), [Ears?] (ground), EDEN, FRUIT (ground), LAND.
+
+**Corrections made:** `ili.` → iii.; `ita` → its; `« fruit` → fruit; stray marks `~ ad =` removed from the end; See-list spellings restored (`Apam`, `Fruit`, `Lanp`).
+
+**Unclear or supplied:** `[Ears?]` is a doubtful See-list item (OCR `Ears`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-freja-frieja-freya-or-freyja-wife-of-hoder
 headword: "FREJA, FRIEJA, FREYA, OR FREYJA, WIFE OF HODER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HopEr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of the receptive, organised astral principle.
+
+> "Freyja's dwelling is named Folkrangr, the plains on which the folk troop together."—Grimm, *Teutonic Mythology*, Vol. I. p. 305.
+
+The astral plane is the plane of the lower qualities (the folk),—the desires, instincts, and passions, which are allied together.
+
+See HODER.
+
+**Corrections made:** `Grirum` → Grimm; `HopEr` → HODER; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

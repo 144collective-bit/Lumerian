@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poverty
 headword: "POVERTY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `VAGASRAVASA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAJASRAVASA|VAJASRAVASA]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 | `WOMB` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of lack of reality,—a deficiency of truth, wisdom, and love, in the manifest.
+
+> "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."—2 Cor. viii. 9.
+
+This statement refers to the Divine Sacrifice "from the foundation of the world." Christ, in descending into matter, forfeits his spiritual wealth,—the only riches,—so that through material activity (poverty of the spiritual), humanity,—Christ's reflection, or outcome,—should be made rich in spiritual realities, and become the inheritor of all things.
+
+> "Wise men lay up knowledge: But the mouth of the foolish is a present destruction. The rich man's wealth is his strong city: The destruction of the poor is their poverty."—Prov. x. 14, 15.
+
+Minds full of wisdom, love, and truth are rich and enduring, but minds empty of true riches have no life in them.
+
+See AURVAITO, GRACE OF GOD, JOB, [Kuvrra?], MAN (rich), POOR PEOPLE, POOR IN SPIRIT, PRAGAPATI (rel.), RICH MAN, SACRIFICER, VAGASRAVASA, WEALTH, WOMB.
+
+**Corrections made:** `Jos` → JOB; `Rico MAN` → RICH MAN; `Poor PEOPLE, Poor IN SPIRIT` → POOR PEOPLE, POOR IN SPIRIT; quotation marks normalised.
+
+**Unclear or supplied:** `[Kuvrra?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

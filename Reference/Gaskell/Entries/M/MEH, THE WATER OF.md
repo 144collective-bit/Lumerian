@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-meh-the-water-of
 headword: "MEH, THE WATER OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "river of Life," or Truth and Life on the higher planes. See
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** The OCR ends at "See" with no See-list items.
 
 ## Full OCR entry body (exact)
 

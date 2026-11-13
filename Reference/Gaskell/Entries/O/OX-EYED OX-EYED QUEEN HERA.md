@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ox-eyed-ox-eyed-queen-hera
 headword: "OX-EYED OX-EYED QUEEN HERA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Ham (side-lock)` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition aspect of buddhi. "Ox-eyed" refers to the intuition, it is a symbol of spontaneous cognition. See [Evs?], [HAIR?] (side-lock), HERA, INTUITION.
+
+**Corrections made:** Quotation marks normalised; See-list spellings restored (`Hera`).
+
+**Unclear or supplied:** See-list items `[Evs?]` and `[HAIR?]` (OCR `Ham`) are uncertain.
 
 ## Full OCR entry body (exact)
 

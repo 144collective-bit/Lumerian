@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boat-of-the-earth
 headword: "BOAT OF THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sub-cycle of the re-incarnations of the Self in the lower bodies below the causal-body, in the cycle of involution.
+
+> "Immediately in the fair way of the course of Afu-Raé (in the third division of the Tuat) is a group of eight gods who bear on their shoulders a long pole-like object, each end of which terminates in a bull's head. This object is intended to represent the long tunnel in the earth, each end of which was guarded by a bull, through which, according to one tradition, the night Sun passed on his journey from the place of sunset to the place of sunrise. . . . There is no doubt that it originally represented a kind of Tuat which was complete in itself, as the bull's heads, one at each end of it, [word unclear]."—[Budge], *Egypt. Heaven and Hell*, Vol. III. p. 126.
+
+The third division of the cycle of life is on the mental plane. The bull's head is a symbol of the lower quaternary, and the eight figures supporting the pole indicate, probably, duality on the four lower planes. The passage through the "tunnel in the earth" signifies the incarnation of the Self (Afu-Raé) in the lower nature (earth).
+
+See AFU-RA, BULL, CIRCLE AND SQUARE, EIGHT, GILGOOLEM, INCARNATION, QUATERNARY, REINCARNATION, SUN, TUAT, WHEELS (holy).
+
+**Corrections made:** `@` → a; `tunnel!` → tunnel; `Aru-RA` → AFU-RA; `Burtt` → BULL; `CrmcLeE` → CIRCLE; `REINCARNAgion` → REINCARNATION; `Tuat` → TUAT; quotation marks normalised.
+
+**Unclear or supplied:** The end of the quotation is damaged (OCR `poe ee er Egypt.`): `[word unclear]` marks the lost words and `[Budge]` is supplied for the lost author name before the title (`Egypt. Heaven and Hell`).
 
 ## Full OCR entry body (exact)
 

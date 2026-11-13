@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cancer-the-zodiacal-sign
 headword: "CANCER, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -73,6 +74,26 @@ tags:
 | `Licut` | **unresolved** (review queue) |
 | `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fourth period of the cycle of life. It signifies the lower mind energised from the astral plane. The "crab" or the "tortoise" (Indian sign of Cancer), is a symbol of the lower nature into which the soul descends in involution.
+
+> "Porphyrius says, . . . Theologians admitted therefore two gates, Cancer and Capricorn, and Plato also meant these by what he calls the two mouths. Of these they affirm that Cancer is the gate through which souls descend, but Capricorn that through which they ascend (and exchange a material for a divine condition of [word unclear])."—[Max] Müller, *Theosophy*, etc., p. [number unclear].
+
+See CAPRICORN, CRATER, EQUINOX, ZODIAC.
+
+### Also in this note: CANDLES, LIGHTED
+
+Symbolic of the light of Truth in the human mind or soul (church). Held in the hands of acolytes, lighted candles signify the truth illuminating the soul-qualities which are disciplined by the higher qualities (priests) above them. The beeswax of which the ceremonial candles are made is a product of bees which are a symbol of higher emotions, thus signifying, in burning, the purifying fire of the Holy Spirit on the buddhic plane.
+
+> "The spirit of man is the candle of the Lord.' (Prov. xxii. 27). God is the fire of this world, its vital principle, a warm pervading presence everywhere. . . . And now of this fire the spirit of man is the candle. What does that mean? If, because man is of a nature which corresponds to the nature of God, and just so far as man is obedient to God, the life of God, which is spread throughout the universe, gathers itself into utterance; and men, aye, and all other beings, if such beings there are, capable of watching our humanity, see what God is, in gazing at the man whom He has kindled,—then is not the figure plain? . . . In certain lands, for certain holy ceremonies, they prepare the candles with most anxious care. The very bees which distil the wax are sacred. They range in gardens planted with sweet flowers for their use alone. The wax is gathered by consecrated hands; and then the shaping of the candles is a holy task, performed in holy places, to the sound of hymns, and in the atmosphere of prayers. All this is done because the candles are to burn in the most lofty ceremonies on most sacred days. With what care must the man be made, whose spirit is to be the candle of the Lord! It is his spirit which God is to kindle with Himself. Therefore the spirit must be the precious part of him."—Phillips Brooks, *Serm.*, *Candle of the Lord*.
+
+See ALTAR, BEES, CANOPY, CEREMONIES, CHURCH, FIRE, FLOWERS, LAMP, LIGHT, PRIEST, PROCESSION.
+
+**Corrections made:** page heading `CANDLESTICKS` removed from mid-quotation; `Capricogn` → CAPRICORN; `EQurNnox` → EQUINOX; `@` → a; `Puxm. Brooks` → Phillips Brooks; See-list spellings restored (`FLOwERs`, `Lamp`, `Licut`); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: CANDLES, LIGHTED. In the Müller quotation the last words and the page number are lost (OCR `pone) ae MULLER, Theosophy, e€c., p. ;`): `[word unclear]`, `[Max]` and `[number unclear]` mark these; `Phillips` is supplied for OCR `Puxm.`.
 
 ## Full OCR entry body (exact)
 

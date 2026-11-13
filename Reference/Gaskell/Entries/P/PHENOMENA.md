@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phenomena
 headword: "PHENOMENA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,28 @@ tags:
 | `Iivusion` | **unresolved** (review queue) |
 | `Marrer` | **unresolved** (review queue) |
 | `Miyi` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are appearances subject to constant change, and therefore having no reality in themselves.
+
+> "And a second thing I will tell thee: There is no origination of anything that is mortal, nor yet any end in baneful death; but only mixture and separation of what is mixed, but men call this origination."—Empedocles, Fairbanks, 36.
+
+All that exists upon the lower planes cannot persist, since nature has no life of itself and is consequently mortal. Death is negative and equally non-existent; death therefore cannot be an end. The "mixture" and "separation" are the combinations and segregations of the lower life. The lower mind speaks of these phenomena as real, whereas they are but appearances.
+
+> "According to the Qabbalah, the emanated in its inner being does not in reality proceed from the emanating one; that which is [word unclear] is only an appearance, and real (or true) [word unclear] remains in the [word unclear] one."—I. Myer, *Qabbalah*, p. [page unclear]
+
+> "All that is subject [to?] genesis and change is verily not true... . The untrue, O Son, doth perish" (Hermetic Treatise Of Truth).—G. R. S. Mead, *T. G. Hermes*, Vol. III. pp. 21-2.
+
+> "The phenomenal world cannot disclose its own secret. To find this, man must seek in that substantial world which lies within himself, since all that is real is within the [word unclear]."—[E.?] Maitland, *Life of A. K.*, Vol. I. p. [page unclear]
+
+> "You cannot prove that anything whatever exists outside your own mind; you can only jump the difficulty and make at least the provisional assumption that things are what they seem, that the world as we know it has objective reality—a more than doubtful proposition."—R. J. Campbell, *Serm.*, *Knowing in Part*.
+
+See ILLUSION, MATTER, [MAYA?],
+
+**Corrections made:** `FamRBANKS` → Fairbanks; `geparation` → separation; `vis According` → opening quotation mark restored; `I, Myer` → I. Myer; `Megan, T. G.` → Mead, *T. G.*; `8S.` → S.; `Vo). Ill.` → Vol. III.; `hat` → that; `Mer MAITLAND` → [E.?] Maitland; page heading `PHILIP` removed from mid-sentence; See-list spellings restored (`Iivusion`, `Marrer`).
+
+**Unclear or supplied:** The Qabbalah quotation is damaged in the OCR (`Hf Scarier`, `menue`, `aa ape`): three `[word unclear]` marks. `[to?]` is a reading of OCR `Sublect euis`. The page numbers after the Myer and Maitland attributions are lost. `[word unclear]` after `within the` replaces OCR `ame`. `[E.?]` is a reading of OCR `Mer`. See-list item `[MAYA?]` (OCR `Miyi`) is uncertain and the list is cut off at a trailing comma.
 
 ## Full OCR entry body (exact)
 

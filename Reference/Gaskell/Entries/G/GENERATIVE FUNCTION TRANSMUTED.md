@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-generative-function-transmuted
 headword: "GENERATIVE FUNCTION TRANSMUTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Ecyprians` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `NILE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The astro-mental generative function of mind and desire, by which ideas and lower emotions are produced, is exchanged for the buddhi-mental function giving rise to higher emotions and concepts of truth.
+
+> "Isis was never able to recover the phallus of Osiris, which having been thrown into the Nile immediately upon its separation from the body had been devoured by the Lepidotus, the Phagrus, and the Oxyrynchus fish, which of all others, for this reason, the Egyptians have in more especial avoidance."—Plutarch, *Isis and Osiris*, § 18.
+
+This signifies arrival at the point when the astro-mental generative function is no longer used in the blind, natural way, but when it is raised and consecrated to the highest uses. Then it is that the last trace of the lower personality, love of self (astro-mental "phallus"), is absorbed, as it were, by the "fishes," which are a symbol of that which is false in the eyes,—now opened,—of the lower self. The three "fishes" are illusions of kama-manas, and they seem to be superstition, prejudice, and false knowledge, which are condemned by the enlightened mind.
+
+See CHILD, CHILDREN, DEATH OF OSIRIS, EGYPTIANS, ISIS, NILE.
+
+**Corrections made:** `Ista` → Isis; `buddhimental` → buddhi-mental; page heading `GENTILES` removed from before the See list; See-list spellings restored (`ostnis`, `Ecyprians`, `Isis`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

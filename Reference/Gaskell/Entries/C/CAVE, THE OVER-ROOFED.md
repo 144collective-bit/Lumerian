@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cave-the-over-roofed
 headword: "CAVE, THE OVER-ROOFED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the World-soul or Over-soul.
+
+> "We enter beneath this over-roofed cave."—Empedocles, Fairbanks, 392.
+
+The emotions and the mind enter the World-soul, wherein are the Higher and lower selves,—buddhi-manas and kama-manas.
+
+**Corrections made:** `**We` → "We; `EHmpedocles` → Empedocles; `FAIRBANKS` → Fairbanks.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

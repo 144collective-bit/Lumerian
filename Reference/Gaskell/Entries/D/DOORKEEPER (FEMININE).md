@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-doorkeeper-feminine
 headword: "DOORKEEPER (FEMININE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PETER` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PETER, THE APOSTLE|PETER, THE APOSTLE]] |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of one of the senses which, as it were, opens the door of the soul to the external world. In the Gospels a maid who kept the door, and another maid, both accused Peter of being a disciple of Jesus, which Peter denied.
+
+> "The Lord turned and looked upon Peter. And Peter remembered the word of the Lord."—Luke xxii. 61.
+
+The two "maids" signify two of the sense organs,—sight and hearing,—which when exercised with discernment, serve to make it evident to the lower mind (Peter) that the central Ideal (Christ) is a reality. But the lower mind, engrossed with the objects of sense, indignantly repudiates any connection with its Divine Author. Then comes the warning of the Christ in the dawning of the higher mind upon the lower consciousness,—a dawning which brings with it certitude of the reality of the higher nature, and a stirring of the buddhic emotions.
+
+> "Peter went out, and wept bitterly."
+
+See JESUS OF GOSPELS, MAN (natural), PETER, TRIAL.
+
+**Corrections made:** `6]` → 61; `remembered'` → remembered; `ea dawning` → a dawning; page heading `(ENDOORS` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `Luke xxii. 61` is restored from OCR `LUKE xxii. 6]`. The final quotation has no attribution in the OCR.
 
 ## Full OCR entry body (exact)
 

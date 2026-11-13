@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-indra-the-thousand-eyed
 headword: "INDRA, THE THOUSAND-EYED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `WATER (heaven)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YAMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YAMA, KING|YAMA, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will, or steadfast devotion to the Highest through the higher spiritual qualities, all perceiving.
+
+> "By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed."—*Dhammapada*, Ch. II.
+
+> "Yonder Indra has been utterly annihilated by the [words unclear] when [he?] saw the glories acquired by the Sakyas,' uttering this scoff, the city strove by its banners with gay fluttering streamers to wipe away every mark of his existence."—*Buddha-Karita*, Bk. I. 7.
+
+"Indra" is here a symbol of the higher spiritual qualities which are said to be annihilated by the lower qualities (people), inasmuch as power is transferred through the higher mental qualities (the Sakyas) to the lower planes of being. The Self in establishing itself upon the plane of the desire-nature appears to obliterate in nature all trace of the Divinity which is inherent within it.
+
+See DEVAYANA, DEVOTION, DOORKEEPERS, PEOPLE, SINGERS, WATER (heaven), YAMA.
+
+**Corrections made:** `aways` → always; `soquired` → acquired; page heading `INFIRMITY` removed from mid-sentence; See-list spellings restored (`Devayana`, `Devotion`, `DoorKEEPERS`).
+
+**Unclear or supplied:** `[words unclear]` and `[he?]` in the Buddha-Karita quotation (OCR `by the a when saw`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sirens-gandharvas-colchians
 headword: "SIRENS, GANDHARVAS, COLCHIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `DANCES` | **unresolved** (review queue) |
 | `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `SmEns` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of buddhic faculties on the higher sub-planes of the buddhic plane in the soul.
+
+See COLCHIS, DANCES, GANDHARVAS, SIRENS.
+
+**Corrections made:** `COLcHIS` → COLCHIS; `SmEns` → SIRENS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-monad-the-one
 headword: "MONAD, THE ONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,28 @@ tags:
 | `SHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 | `Tan-KEIn` | **unresolved** (review queue) |
 | `TEFNUT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spiritual Centre of all being. The One from which the illusory many radiate. The One Life which differentiates into the many lives, each a centre of qualities or forms.
+
+> "Yet these three Sages of Tao-ism are but one First Cause, that is, the One Indivisible Monad, called Tae-keih (the Highest Point)."—*Chinese Mythology*.
+
+The three centres of consciousness, i.e. the Self, the Individuality, and the Personality, are but aspects of the One Central Spirit, which is ultimately indivisible, without parts, vehicles, or any sense whatsoever of separateness, complete, entire, and all in All.
+
+> "'If there is an infinite,' the Eleatics said, 'it is one, for if there were two, they could not be infinite, but would be finite one towards the other. But that which exists is infinite, and there cannot be more such. Therefore, that which exists is One'" (Mellissus, Fragm. 3).—Max Müller, *Theosophy, etc.*, p. 93.
+
+> "I am he who came into being in the form of Khepera; I became the Creator of all that came into being. . . . I was alone, for I had not spit in the form of Shu, nor had I emitted Tefnut; there existed not another who worked with me."—Budge, *Gods of the Egyptians*, Vol. I. p. 308.
+
+At the dawn of manifestation there existed the Divine Monad and none else. The Divine Will (Shu) was not projected, neither was the material form-nature (Tefnut) made apparent.
+
+> "All being is one, however multitudinous the forms in which it manifests itself. You yourself are the eternal subjected for awhile to the limitations of time and sense. You are part of that infinite whole of reality which is from everlasting to everlasting, and whose nature can only rightly be interpreted from the best that you know of yourself and of human nature in general."—R. J. [Campbell], *Serm.*, *Our Solidarity with* [word unclear].
+
+See ABSOLUTE, AEON, BRAHMA, CHIP, FIRST-BORN, FRAVASHI, GODHEAD, HIRANYAGARBHA, KHEPERA, LAO, [MITHRAS?], SEED, SPHERE, SHU, TAE-KEIH, TEFNUT.
+
+**Corrections made:** `Seges` → Sages; `Tf there is an infinito` → If there is an infinite; `Max MULLER` → Max Müller; `T am he` → I am he; `Khepara` → Khepera; `thore` → there; `ACON` → AEON; `HrRANYAGARBHA` → HIRANYAGARBHA; `Tan-KEIn` → TAE-KEIH; See-list spellings restored; page heading `507 MONAD` removed from mid-sentence.
+
+**Unclear or supplied:** The attribution at the end is damaged (OCR `R. J. rr iar Serm., Our Solidarity with`): `[Campbell]` is inferred and the title is cut off (`[word unclear]`). `[MITHRAS?]`: OCR reads `Mrrpras`. `Mellissus` is left as printed.
 
 ## Full OCR entry body (exact)
 

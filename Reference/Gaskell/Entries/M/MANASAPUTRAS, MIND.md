@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manasaputras-mind
 headword: "MANASAPUTRAS, MIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,20 @@ tags:
 | `SHEEP (lost)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPaRK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual element in humanity. The Divine monads, or "sons of God," brought forth on the mental plane of the soul. They are the "little ones" or "children of God," and their nature is atma-buddhic. They are born into the human souls as the true egos or immortal individualities seated in the causal-bodies and ruling over the lower bodies. When the lower nature is sufficiently developed in animal man so that from the astral centres are begotten the mental, then the "Sons of mind" are born,—the Divine monads descend into the astro-mental vehicles which are prepared for them. The souls in this way become individualised, as was previously not the case.
+
+> "Let me tell you plainly that you yourself are one of the sons of God, partially manifest here on earth, but only partially; your true home is with the glorious host above."—R. J. Campbell, *Serm.*, The Kenosis, etc.
+
+> "The first fact about me is that I—the thinking being—exist. That is the most certain of all my certitudes, the one reality of which it is impossible for me to doubt; and it is the true starting-point of all philosophy. The fleeting phenomena of consciousness are bound together and made intelligible by the ego, which, manifesting itself in and through them, declares that it abides among all changes, and does not change with them. By the same intellectual power we affirm the reality of the non-ego, of a world of sense and matter which is something more permanent than the phenomena dealt with by physical science. This process of objective affirmation is a primary fact of our intellectual life, revealing to us the ego and the non-ego as things in themselves. A permanent self and the unity of self-consciousness are the essential foundations of all philosophy, properly so-called: of every rational account of man. Now one of the primary facts of consciousness is the [feeling?] of ethical obligation. It is a fact abundantly verifiable, its simplest expression being 'Thou oughtest,' and it is the starting point of morality."—W. S. Lilly, *The Great Enigma*, p. 305.
+
+See ACHAIANS (sons), AGNISVATTAS, BODHISATVAS, CHILDREN OF GOD, FRAVASHIS, INCARNATION OF SOULS, LITTLE CHILDREN, MAN (born), MARUTS, MAZENDARANS, MONAD OF LIFE, MUSPELL (sons), PITRIS (solar), PITRIYANA, SHEEP (lost), SONS OF GOD, SPARK.
+
+**Corrections made:** `atmabuddhic` → atma-buddhic; `CamMPpBELL` → Campbell; `aH` → all; `Lrtty` → Lilly; `W. 8.` → W. S.; page heading `NortH, SERPENT OF SONS OF 477 MANASI` removed from mid-sentence; See-list spellings restored (`Bopнisatvas`, `Marvuts`, `Prrris`, `PrrarvaNna`, `Sons oF Gop`, `SPaRK`, and similar).
+
+**Unclear or supplied:** `[feeling?]` (OCR `desling`).
 
 ## Full OCR entry body (exact)
 

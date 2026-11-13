@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mount-of-olives
 headword: "MOUNT OF OLIVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `O1ive FRuIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]] |
 | `Passion` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PASSION OF JESUS|PASSION OF JESUS]]; [[Reference/Gaskell/Entries/P/PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS|PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS]] |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's aspiration, and love of the true and good.
+
+> "And when they had sung a hymn, they went out unto the mount of Olives."—Matt. xxvi. 30.
+
+The "singing of the hymn" symbolises the aspiration through harmony of the qualities and uplifting of the nature in prayer and [word unclear]. And the repairing to the "mount of Olives" serves to indicate the ascent of the Christ soul ere it is enabled to make its final triumph over the lower limitations.
+
+> "The Mount of Olives signified Divine love."—Swedenborg, *Apoc. Rev.*, n. 493.
+
+See GETHSEMANE, HARMONY, HYMN-SINGING, MOUNTAIN, OLIVE FRUIT, PASSION, PRAYER.
+
+**Corrections made:** `MartT.` → Matt.; `Hymn sinoina` → HYMN-SINGING; `Moonta` → MOUNTAIN; `O1ive FRuIT` → OLIVE FRUIT; page heading `MOUNTAIN` removed from mid-sentence.
+
+**Unclear or supplied:** `[word unclear]`: a word is lost after "in prayer and". `MOUNTAIN` is a reading of `Moonta`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-escape-from-evil
 headword: "ESCAPE FROM EVIL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `LIBERATION` | **unresolved** (review queue) |
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher nature in the soul rising from captivity to the lower, through the perfecting of the personality.
+
+> "How shall we escape, if we neglect so great salvation?"—Heb. ii. 3.
+
+If the expression of the Divine Life (word) within the soul is not heeded, and the choice of the ego is to cling to its lower nature, there can be no rising from the dead.
+
+> "These three words, Salvation, Escape, and Neglect, then, are not casually, but organically and necessarily connected. Their doctrine is scientific, not arbitrary. Escape means nothing more than the gradual emergence of the higher being from the lower, and nothing less. It means the gradual putting off of all that cannot enter the higher state, or heaven, and simultaneously the putting on of Christ. It involves the slow completing of the soul and the development of the capacity for God."—H. Drummond, *Natural Law*, etc., p. 117.
+
+See BLASPHEMY, CAPTIVITY, LIBERATION, RESURRECTION, SALVATION.
+
+**Corrections made:** `HExs.` → Heb.; `Drummonpn` → Drummond; See-list spellings restored (`BLaspHEMY`, `CaPTivitTy`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

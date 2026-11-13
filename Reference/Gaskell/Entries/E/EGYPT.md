@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-egypt
 headword: "EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,26 @@ tags:
 |---|---|
 | `BonDAGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BONDAGE UNDER THE RUDIMENTS OF THE WORLD|BONDAGE UNDER THE RUDIMENTS OF THE WORLD]] |
 | `Exopus` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+From the point of view of the Greeks and Hebrews, Egypt is a symbol of the lower mental plane with its knowledge of the things of the world, and the objects of desire.
+
+> "Out of Egypt did I call my son."—Matt. ii. 15.
+
+Out of mental experiences, or learning, is the Divine Child, the Son of mind (man), educated as a means to the end of the soul's salvation.
+
+> "This Egypt, that is our present life which oppressed us; when flattering may aid when pressing us: and that which, when cherishing, crushed us with the yoke of bondage, may show the way of liberty, while it tortures."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 147.
+
+> "In the Word, by Egypt is signified the science of the natural man."—Swedenborg, *Apoc. Rev.*, n. 134.
+
+> "In denoting the world and the body, Egypt denotes the lessons to be derived from both of these, the learning of which is indispensable to the soul's development."—*The Perfect Way*, p. 234.
+
+See BONDAGE, EXODUS.
+
+**Corrections made:** `Mat.` → Matt.; `tho end` → the end; `Morais` → Morals; `. 147` → p. 147; stray `Pra` before "In the Word" removed; See-list spellings restored (`BonDAGE`, `Exopus`); quotation marks normalised.
+
+**Unclear or supplied:** The OCR See list ends with a trailing comma and may be cut off. The opening quotation mark of the Swedenborg quote is inferred (OCR `Pra`).
 
 ## Full OCR entry body (exact)
 

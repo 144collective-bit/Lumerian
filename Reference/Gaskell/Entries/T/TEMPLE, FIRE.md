@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-temple-fire
 headword: "TEMPLE, FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `FIRE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE|FIRE]] |
 | `HOovsES FOR CORPSES` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOUSES FOR CORPSES|HOUSES FOR CORPSES]] |
 | `WRATH` | **candidate (first-segment only)** → possible `WRATH, THE EVIL DOER` (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body,—the abode of the Self or Spirit,—atma-buddhi (fire).
+
+> "For now the Eternal Father by his fiery power begetteth his Son in thee (the Soul), who changeth the Fire of the Father, namely, the First Principle, or Wrathful Property of the Soul, into the Flame of Love, so that out of Fire and Light (viz. Wrath and Love) there cometh to be one Essence, Being, or Substance, which is the true Temple of God."—Behmen, *Supersensual Life*, p. 143.
+
+> "Is there any other greater, more satisfying, more majestic thought of life than this—the scaffolding by which souls are built up into the temple of God?"—A. Maclaren, *Serm.*, Christian Life.
+
+> "The Lord is in His Holy temple when the Holy Ghost takes up His abode in a pure heart."—J. M. Neale, *Comm. Psalms*, Vol. I. p. 173.
+
+See ALTAR (fire), CAUSAL-BODY, FIRE, HOUSES FOR CORPSES, WRATH.
+
+**Corrections made:** `Bfery` → fiery; `BEHMAN` → Behmen; `[tfe` → Life; `MAcLaREN` → Maclaren; `f The Lord` → "The Lord; `Neate` → Neale; `HOovsES` → HOUSES; quotation marks normalised.
+
+**Unclear or supplied:** `Behmen` is the likely reading of `BEHMAN`; the See-list item and the quotation openings are otherwise as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ashadra-brick-for-altar
 headword: "ASHADRA BRICK FOR ALTAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary out of which the immortal Self arises.
+
+> "This earth then is one brick (called Ashâdhâ), for Agni is this earth, since it is thereof that the whole Agni is built up. Now this earth is four-cornered; for the quarters are her corners: hence the bricks are four-cornered; for all the bricks are after the manner of this earth."—*Sata. Brâh.*, VI. 1, 2, 29.
+
+The lower nature (earth) is the one means by which the Spirit (Agni) manifests in a multiplicity of forms, for the Spirit is within the lower nature in its operations, since it is through the operations of the lower nature that finally the whole Spirit is fully evolved. Now the lower nature is of fourfold composition, for the four planes compose it; hence the means (bricks) of development are fourfold, for all the means are [word unclear] conditions of the lower [word unclear].
+
+See AGNI, ALTAR (fire), BRICKS, EARTH.
+
+**Corrections made:** `AshAdh&` → Ashâdhâ; `Bradh.` → Brâh.; `ita` → its; See-list spellings restored (`AGNt`, `ArTaR`, `Eak` → EARTH); quotation marks normalised.
+
+**Unclear or supplied:** The end of the commentary is damaged (OCR `emia conditions of the lower goa "`); shown as two `[word unclear]`.
 
 ## Full OCR entry body (exact)
 

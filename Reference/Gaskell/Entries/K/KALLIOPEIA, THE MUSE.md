@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalliopeia-the-muse
 headword: "KALLIOPEIA, THE MUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -80,6 +81,34 @@ tags:
 | `SHAI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAI, GOD OF LUCK OR DESTINY|SHAI, GOD OF LUCK OR DESTINY]] |
 | `SLEEPING` | **unresolved** (review queue) |
 | `TANEMAHUTA` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TANE-MAHUTA|TANE-MAHUTA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic function which transmutes lower qualities into higher.
+
+> "Would that in behalf of perishable beings thou, immortal Muse, mightest take thought at all for our thought to come by reason of our cares! Hear me now and be present again by my side, Kalliopeia, as I utter noble discourse about the blessed gods."—Empedocles, Fairbanks, 338.
+
+Would that the Divine Love and Wisdom might animate those beings or ideals which are the transitory forerunners of the celestial beings which on upper planes are typical of the virtues or higher emotions of the soul! Would that the spiritual ideal might overshadow and inspire the actual! The petition is offered up that the lower nature may be transmuted into the higher, and the attitude of mind is that of profound aspiration and devotion.
+
+See BUDDHI, GODS, MUSE, QUALITIES, TRANSMUTATION, WISDOM.
+
+### Also in this note: KAMA
+
+A symbol of desire which is love inverted. That is, desire is attraction to the outer nature, whereas love is attraction to the inner. Thus the twain are antagonists.
+
+> "The world was fashioned from the body of a primitive being, a giant Purusha, dismembered by the gods. . . . In (the self-existent substance Purusha) arose Kama, desire, and that was the first"
+
+The lower nature of the soul is said to be formed of the "body," or outer envelope,—astro-mental,—of the Archetypal Man, who, when made perfect through involution, dies out of that state to be born in the next state—evolution. His "body" is divided into the many qualities (members of Christ) which are now to be found in humanity, his offspring. From the self-existent Spirit, which is at the foundation of all things, arose desire with its wish to manifest its nature outwardly. It is through the stimulus of desire that the first and subsequent early stages of the evolution of qualities are brought about in the soul.
+
+> "When he has set himself free from every desire of his heart, the mortal enters immortal into the Brahma. (From the Brahmana of the hundred paths.) Desire (kama) and action (karman) are here named as the powers which hold the spirit bound within the limits of impermanence. Both are essentially the same. 'Man's nature,' it is said in the same treatise from which we have taken the passage quoted, 'depends on desire. As is desire, so is his aspiration, so is the course of action (karman) which he pursues; whatever be the course of action he pursues, he passes to a corresponding state of being.'"—Oldenburg, *Buddha*, etc., p. 48.
+
+> "Desire is the actual essence of man, in so far as it is conceived as determined to a particular activity by some given modification of itself."—Spinoza, *Ethics*, Bohn, Vol. II. p. 173.
+
+See ARC. MAN, ASTRAL PLANE, [ASUNA?], DISMEMBERMENT, EVOLUTION, INVOLUTION, KARMA, MARA, PURUSHA, RAVANA, SEKER, SEPARATION, SHAI, SLEEPING, TANEMAHUTA.
+
+**Corrections made:** `FaIRBANKES` → Fairbanks; `Buppu1` → BUDDHI; `KAMA :-—=` set as the second headword; `Thatis` → That is; `tnvolution` → involution; `destre` → desire; `ig desire` → is desire; `uddha` → *Buddha*; `Sprnoza` → Spinoza; `Arnc. MAN`, `Ravana`, `Karma` restored in See list; page heading `KAPILA` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: KAMA. The first quotation under KAMA is cut off in the OCR at "and that was the first" and has no attribution; a stray quotation mark follows it. `[ASUNA?]` is a See-list item that could not be identified. `Empedocles, Fairbanks, 338` is the OCR attribution as printed (page reference unclear).
 
 ## Full OCR entry body (exact)
 

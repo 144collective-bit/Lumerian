@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-doors-house-with-four
 headword: "DOORS, HOUSE WITH FOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `QUATERNaRY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the quaternary giving the ego access to the four planes by means of four connected bodies.
+
+> "When the Gods, as was reasonable, became incensed against him to the utmost, he (Loke) fled away and hid himself in a hollow of the hills, where he built for himself a house with four doors, so that he might have views on all sides."—*Prose Edda*.
+
+This statement is explanatory of the fall of the ego into matter to inhabit forms therein; and it describes the limitations which are imposed upon the soul when it descends to gain experience on the lower planes. Hereon a "house with four doors" is builded, that is, a connected series of bodies is formed,—a physical, an astral, a mental, and a buddhic vehicle,—is organised for the use of the ego, so that intercommunication between itself and the universe,—the within and the without,—is established. The "anger of the Gods" refers to the obscuration of the Ideals which the descent into matter implies.
+
+See [ASAN?], DEATH OF BALDER, FALL, HOUSE (four), LOKE, NET, QUATERNARY, VALLEY.
+
+**Corrections made:** `atmost` → utmost; `a_ buddhic` → a buddhic; page heading `DOORS` removed from mid-sentence; See-list spellings restored (`Loxe`, `QUATERNaRY`, `House`).
+
+**Unclear or supplied:** See-list item OCR `Asan` cannot be identified and is given as `[ASAN?]`.
 
 ## Full OCR entry body (exact)
 

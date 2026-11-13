@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-city-of-god
 headword: "CITY OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `MEASURE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEASURE|MEASURE]] |
 | `SIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIDES OF THE CITY|SIDES OF THE CITY]] |
 | `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes of the cosmos, and of the soul, wherein the higher qualities reside.
+
+> "There was a city, the dwelling-place of the [great?] saint Kapila."—Buddha-Karita, Bk. I. 2.
+
+This "city," "immersed in the sky and clouds," signifies the higher planes of being,—atma-buddhi-manas; and the "great saint Kapila" is the Supreme Self.
+
+> "But ye are come unto Mount Zion, and unto the city of the living God, the heavenly Jerusalem, and to innumerable hosts of angels, to the general assembly and church of the firstborn who are enrolled in heaven, and to God, etc."—Heb. xii. 22-4.
+
+But the qualities being perfected, have risen unto the causal-body (Zion) and unto the atma-buddhic region, the heavenly aim of endeavour, and to the innumerable spiritual influences on the buddhic plane, and to the communion of saints and inner soul-state of those souls (firstborn) who have for the first time commenced to function on the higher planes, and unto the Higher Self as judge of the conditions of all souls and qualities
+
+> "The City of God is a beautiful figure of speech wherewith to indicate the goal of our spiritual pilgrimage, the glorious end towards which the purposes of God have been tending since creation began. In a manner of speaking, we do not have to make it; it exists eternally; it is the only reality; it is the source from which all human life has come. It is the full realisation of what humanity eternally is in God. It includes everything that can rightly be thought of as constituting the ideal good."—R. J. Campbell, Serm., *The Gates of the City of God*.
+
+See AMARAVATI, ANNU, ERIDU, GOLDEN PALACES, JERUSALEM, KAPILA, MEASURE, SIDES, ZION.
+
+**Corrections made:** `ae saint` → [great?] saint; `Kariia` → Karita; `HEB.` → Heb.; `Kaprua` → KAPILA; page heading `CIVILISING` removed from mid-sentence; stray quotation marks normalised; the closing quotation mark after `ideal good.` is supplied.
+
+**Unclear or supplied:** `[great?]` is read from OCR `ae` (compare "great saint Kapila" in the commentary). The commentary paragraph ends without a full stop in the OCR; left as printed. The Heb. quotation's closing and inner quotation marks were damaged and are normalised.
 
 ## Full OCR entry body (exact)
 

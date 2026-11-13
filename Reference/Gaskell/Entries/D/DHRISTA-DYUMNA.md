@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dhrista-dyumna
 headword: "DHRISTA-DYUMNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SIva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self manifesting in the lower nature, and becoming the conqueror thereof. Drupada initiates—
+
+> "a sacrifice for the express purpose of obtaining a son who should be invincible in war and capable of slaying Drona. The result ... was completely successful, for out of the sacrificial flames emerged a stately youth, encased in full armour, with a crown on his head, and bearing a bow and arrows in his hands. This was Dhrista-dyumna. After him appeared a beautiful maiden,—Draupadi."—J. C. Oman, *The Great Indian Epics*, p. 120.
+
+The spiritual mind (Drupada) through purification of the lower nature obtains conditions in which the son of God can manifest and take the supreme (crown) place in the soul. The conditions are also suitable for the acquirement of the intuition (Draupadi). Love comes to fulfil and supersede custom (Drona).
+
+> "The revenge (for the death of Drona) taken by Açwathaman (his son inspired by Siva) and his associates was complete and bloody. The first to perish in the nocturnal attack was the generalissimo of the Pandava army, Dhrista-dyumna himself, whom Açwathaman found sleeping in his tent and whom he trampled to death."—*Ibid.*, p. 187.
+
+As "Siva" is a symbol of Divine energy at the end of periods of manifestation, this passage refers to the death of the Son of God and all qualities at the termination of a cycle. The qualities are afterwards revivified under fresh conditions, as described further on in the Epic.
+
+See DRAUPADI, DRONA, KURUS, PANDAVAS, RENOVATION, SIVA.
+
+**Corrections made:** `capabls` → capable; `bequtiful` → beautiful; `Epica` → Epics; `Acwathaman`/`Agwathaman` → Açwathaman; `Ibid.` restored; page heading `DHRITA-RASHTRA` removed from mid-sentence; See-list spellings restored (`Dravpapi`, `SIva`); and similar minor fixes.
+
+**Unclear or supplied:** The spelling of `Açwathaman` is a normalisation of OCR `Acwathaman` and `Agwathaman`.
 
 ## Full OCR entry body (exact)
 

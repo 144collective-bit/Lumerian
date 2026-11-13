@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-chamber-of-the-divine-city
 headword: "BIRTH-CHAMBER OF THE DIVINE CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `BUDDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `BUDDHIO PLANE` | **unresolved** (review queue) |
 | `CAUSAL BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature ensouling the causal-body in which the Self can be born.
+
+> "He is begotten in the birth-chamber of the Divine City, and his rest shall come in the consuming of the Divine [word unclear]. He it is that fashions Her likeness and unites Her to all that belongs to the chamber of birth in the City of God."—M. W. Blackden, *Book of the Dead*, Ch. CX.
+
+The indwelling Self is begotten in buddhi, which ensouls the causal-body. The Self "rests" and is withdrawn from manifestation in the lower worlds, when the causal-vehicle is dissolved at the end of the manvantara. The Self, as Atma, fashions the buddhic soul (negative, receptive), and through her (buddhi) is united with all things, and apprehends the whole universal plan which lives, moves, and has its being in God.
+
+See BIRTH OF HORUS, BUDDHI, BUDDHIC PLANE, CAUSAL BODY.
+
+**Corrections made:** `shal)` → shall; `BLacKpEN` → Blackden; `causalbody` → causal-body; See-list spellings restored (`BrretH`, `BUDDHIO`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `rab` (after `the Divine`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-galilee
 headword: "GALILEE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,26 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `NaZARETH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAZARETH|NAZARETH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A state of advance in the environment of the ego, or the conditions of the soul,—implying progress.
+
+> "But after I (Jesus) am raised up, I will go before you into Galilee."—Mar. xxvi. 32.
+
+When the perfected lower nature (Jesus) awakes transfigured on a higher plane, it will enable the disciplined qualities to follow in His steps. It is the Risen Christ who would appear when they had advanced to "Galilee,"—a symbol signifying a state of looking forward, and a commencement of the diligent quest of Christhood.
+
+> "Galilee, that is, Contemplation; Galilee is as much as to say, Whiteness. Whiteness is a colour full of material light, more so than any other; and thus, Contemplation is more full of Spiritual light than any other thing which is below."—Dante Alighieri, *The Banquet*, IV. 22.
+
+> "The complete resurrection will begin in Galilee" (Zohar)—A. E. Waite, *Secret Doctrine in Israel*, p. 187.
+
+> "We may regard 'Galilee' as a symbol of that moral realm in which we enjoy the liberty wherewith Christ makes us free, and are no longer in bondage to Law and Egyptian fleshliness."—E. Gough, *Barrowford Treatise*, p. 53.
+
+See NAZARETH.
+
+**Corrections made:** `DantTeE ALIGHIERI` → Dante Alighieri; `WalteE` → Waite; `GovuaH` → Gough; `T'reatise` → Treatise; `NaZARETH` → NAZARETH; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

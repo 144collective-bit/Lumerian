@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bottomless-pit
 headword: "BOTTOMLESS PIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Prr` | **unresolved** (review queue) |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `STENCH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire and sensation nature which is never satisfied. The "beast" within it is the desire-mind, the adversary of the Spirit.
+
+> "What does he call 'the bottomless pit' but the hearts of men, which are at once by the Fall all floating, and by the mistiness of double-dealing full of darkness?"—St. Gregory, *Morals on the Book of Job*, Vol. II. p. 368.
+
+> "Self-disease, the satiety which consumes, the dreadful loneliness which corrupts the soul, that passionate lust for more which is itself the unsatisfied worm which eats away the heart."—Stopford A. Brooke, *Serm.*, *Individuality*.
+
+See AESHMA, ARIZURA, BEAST, BOAT OF WISDOM, PIT, SERPENT (hissing), STENCH.
+
+**Corrections made:** `doce he cal]` → does he call; `bottomleas` → bottomless; noise `a ates ow be A aoa eae ive "oat ae all` and page heading `BOUGH` removed from mid-quotation; `Grecory` → Gregory; `Sroprorp A. Brooxs` → Stopford A. Brooke; See-list spellings restored (`AzrsHm`, `Boat or wispOmM`, `Prr`).
+
+**Unclear or supplied:** The OCR of the first quotation is badly damaged between `bottomleas` and `pit`; the line of noise was removed and the words reconstructed from the surviving fragments (`the bottomless pit`). `AESHMA` is a likely restoration of `AzrsHm`.
 
 ## Full OCR entry body (exact)
 

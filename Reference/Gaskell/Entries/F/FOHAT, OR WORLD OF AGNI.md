@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fohat-or-world-of-agni
 headword: "FOHAT, OR WORLD OF AGNI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `LIGHTNING` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHTNING|LIGHTNING]] |
 | `POLYPHEMUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/POLYPHEMUS, SON OF POSEIDON|POLYPHEMUS, SON OF POSEIDON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the force-aspect of the Logos, operative only on the mental plane of the cosmos or in the causal-body.
+
+> "Evolution is commenced by the intellectual energy of the Logos, . . . not merely on account of the potentialities locked up in Mulaprakriti. This Light of the Logos is the link between objective matter and the subjective thought of Ishvara (or Logos). It is called in several Buddhist books Fohat. It is the one instrument with which the Logos works."—T. Subba Row, quoted in *Secret Doctrine*, Vol. I. p. 161.
+
+See LIGHTNING, POLYPHEMUS.
+
+**Corrections made:** `causalbody` → causal-body; `Sussa Row` → Subba Row; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

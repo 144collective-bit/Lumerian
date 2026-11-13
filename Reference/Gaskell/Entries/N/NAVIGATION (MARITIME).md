@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-navigation-maritime
 headword: "NAVIGATION (MARITIME)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Sea` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `VALLEYS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a co-ordination of the astral mechanism in relation to the formation of the Soul.
+
+> "Pwan-koo taught navigation, made passages through the mountains, and reigned as the first king of the human race."—Kidd, *China*, p. 100.
+
+The Logos, or Divine Mind, was the originator and first ruler of the human soul. Teaching "navigation" is emblematic of the management of the astral mechanism, and is preparatory to experiences on the plane of desire. The "passages" refer to the establishment of tracts upon the mental plane. And from the astral plane through the action of manas,—the mind principle,—evolves the human soul.
+
+See ASTRAL PLANE, NET, PWAN-KOO, SEA, VALLEYS, WATER (lower).
+
+**Corrections made:** `K wp` → Kidd; page heading `627 NECESSITY` removed from mid-sentence; `Net` → NET.
+
+**Unclear or supplied:** The author's name `Kidd` is a reading of the damaged `K wp`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-steward-of-the-lord-of-the-vineyard
 headword: "STEWARD OF THE LORD OF THE VINEYARD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `JUSTICE` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the agent of the Supreme within his universe.—Matt. xx. 8.
+
+See HOUSEHOLDER, JUSTICE, LABOURERS, VINEYARD.
+
+**Corrections made:** `Mar.` → Matt.; `HovusEHOLDER` → HOUSEHOLDER.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

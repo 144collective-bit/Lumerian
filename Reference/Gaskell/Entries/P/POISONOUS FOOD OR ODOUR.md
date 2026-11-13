@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poisonous-food-or-odour
 headword: "POISONOUS FOOD OR ODOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Hartor` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral activity of the passions and desires, which inflames and excites the lower nature. See HATHOR.
+
+**Corrections made:** `Hartor` → HATHOR.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

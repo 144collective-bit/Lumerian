@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-door-narrow
 headword: "DOOR, NARROW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `ENDURING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/ENDURING TO THE END|ENDURING TO THE END]]; [[Reference/Gaskell/Entries/E/ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS|ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `TEETH (gnashing)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind as an entrance to the higher planes.
+
+> "And one said unto him, Lord, are there few that be saved? And he said unto them, Strive to enter in by the narrow door: for many, I say unto you, shall seek to enter in, and shall not be able."—Luke xiii. 23, 24.
+
+This refers to the large amount of promise,—or potential power,—in comparison to the little fulfilment,—or actual power,—in the evolving qualities. The qualities when spiritualised, are all, as it were, Christs in the germ, for eventually they will become one with the Christ. But though there be many qualities called forth by the Word of God,—or the Will of the Logos,—yet few are chosen; or rather, few choose to carry their destiny to its logical conclusion. Truly, the way is narrow and the journey perilous; yet shall it be that those who steadfastly continue till the end, shall be saved, that is, shall retain their individuality and become in ultimates actually, that which they are in primes potentially.
+
+See ENDURING, SALVATION, TEETH (gnashing).
+
+**Corrections made:** `LukKE` → Luke; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

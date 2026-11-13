@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pralaya-or-night
 headword: "PRALAYA, OR NIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,22 @@ tags:
 | `Summer` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `Time` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of cosmic inactivity, when the Divine Life is indrawn from the manifest and all things have disappeared for a period.
+
+> "The days and Nights of Brahma. This is the name given to the periods called Manvantara and Pralaya or Dissolution; one referring to the Active Periods of the Universe; the other to its times of relative and complete Rest, whether they occur at the end of a Day, or an Age, or Life, of Brahma."
+
+> "The essence of Darkness being Absolute Light, Darkness is taken as the appropriate allegorical representation of condition of the Universe during Pralaya, or the term of Absolute Rest, or Non-being, as it appears to our finite minds."
+
+> "Nature runs down and disappears from the objective plane, only to re-emerge, after a time of rest, out of the subjective, and to re-ascend once more. Our Kosmos and Nature will run down only to re-appear on a more perfect plane after every Pralaya."—Blavatsky, *Secret Doctrine*, Vol. I. pp. 98, 173, 395.
+
+See BREATH (divine), DARKNESS, DAY, DAYS, HOUSE TO SLEEP IN, MANVANTARA, NIGHT, NIRVANA, NOX, PLANETARY CHAIN, PRANA, REGNAROK, RENOVATION, SABBATH, SATURDAY, SUMMER, TIME, WINTER.
+
+**Corrections made:** page heading `590 J PRANA` removed from mid-word ("Dis590 J PRANA solution" → Dissolution); `Manvantera` → Manvantara; `ite` → its; `s Day` → a Day; `BrahmA` → Brahma; `spproprier:` → appropriate; `fimite` → finite; `reemerge` → re-emerge; `BLavaTskKyY` → Blavatsky; See-list spellings restored (`DaRKNESS`, `HovusE`, `Nirvana`, `Summer`, `Time`, and similar).
+
+**Unclear or supplied:** `appropriate` is read from the damaged OCR `spproprier:`. The three Blavatsky passages are set as consecutive blockquotes with the one attribution after the third, as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eden-river-heads
 headword: "EDEN RIVER HEADS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,26 @@ tags:
 | `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
 | `Rivers` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 | `Ruan` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolically the "river of Eden" is a channel of communication from the buddhic plane to the lower quaternary (four elements). The first "head," Pishon, is the higher mental plane; the second, Gihon, the lower mental plane; the third, Hiddekel, the astral plane; and the fourth, Euphrates, the physical plane.
+
+> "Sol. ibn Gabirol says, 'Paradise is the world supernal. The river going forth out of Eden is universal matter. Its four separating streams are the four elements.'"—*Jewish Enc.*, article "Cabala."
+
+> "The Zohar says,—'Fire, air, water, and earth are all united with each other, and there is not any void between them, etc.'; as is taught in the Holy Writings,—'And from thence it separates and becomes four heads.'"—Myer, *Qabbalah*, 216.
+
+> "The Shekinah is the Eden which is above, whence the river of life flows forth that waters the Garden below."—A. E. Waite, *Secret Doctrine in Israel*, p. 192.
+
+> "A 'river out of Eden' signifieth wisdom proceeding from love, which is 'Eden.' To 'water the garden' is to give intelligence; to be thence parted into four heads is a description of intelligence by four 'rivers.' The first river, or 'Pison,' signifieth the intelligence of faith originating-in-love. ... The second river, 'Gihon,' signifieth the knowledge of all things relating to goodness and truth, or to love and faith. What relateth to 'Pison' hath respect to the will, what to 'Gihon,' to understanding. The 'river Hiddekel' is reason, or the clearness and perspicuity of reason. 'Phrath,' or 'Euphrates,' is science, which is the ultimate or term. As by 'Egypt,' so also by 'Euphrates,' are signified sciences, or scientifics, and also the sensual things whereof scientifics are formed. The nature and quality of celestial order, or the manner of the process in things relating to life, may appear from these rivers, viz. that it is from the Lord, who is the East,—he is the fountain of wisdom, and by wisdom, of intelligence, and by intelligence, of reason."—Swedenborg, *Arc. Cel.* to Gen. ii.
+
+> "In Eden the stream is one, but 'from thence it is parted,' and becomes four distinct rivers. What is this but that stream of living waters, which one and undivided for those who enter Paradise,—and without a name while it is there, for in its undivided flow the one stream is beyond all human description,—without the garden, it is parted into four streams, giving its waters to the world as Pison, Gihon, Euphrates, and Hiddekel. For divine truth which is the living water, to those who can see it as it is within the veil, is one full stream, in undivided flow; but to us on earth it ever comes by four distinct channels. It may be said in general that there are four sources of truth, and but four, which are accessible to men: ... first, intuition, by which we get an acquaintance with moral or spiritual things: second, perception, through the senses, by which we only get an acquaintance with material things and their properties: third, testimony, by which we learn what others have found out through perception or intuition: fourth, reasoning or reflection, process of the understanding."—A. Jukes, *Types of Genesis*, p. 50.
+
+See AMBAYAS, ASSYRIA, ELEMENTS, ERIDANUS, EUPHRATES, GIHON, GILGOOLEM, GOLDEN AGE, HAVILAH, HIDDEKEL, HOUSE (frequented), PISHON, QUATERNARY, RETURN, RIVER OF LIFE, RIVERS, [RUAH?].
+
+**Corrections made:** page headings `WITH FOUR 241 EEL-GOD` removed from mid-sentence; stray `Pa` removed before "The Shekinah"; `Fire ,` → Fire,; `,- article` → , article; `Thesecond` → The second; `ceiestial` → celestial; `SwEpDENBorG` → Swedenborg; See-list spellings restored (`GrHON`, `HAavivaH`, `HovsE`, `Rivers`); quotation marks normalised.
+
+**Unclear or supplied:** `[RUAH?]` is a doubtful See-list item (OCR `Ruan`). The lost opening quotation mark before "The Shekinah" is inferred (OCR `Pa`).
 
 ## Full OCR entry body (exact)
 

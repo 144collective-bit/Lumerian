@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-planets-five-smaller
 headword: "PLANETS, FIVE SMALLER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PLacss (sorrow)` | **unresolved** (review queue) |
 | `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `Stars (fixed)` | resolved (exact) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbolic of the five astro-mental centres from which the vibrations of the astro-physical five senses emanate upon the mental plane to enter into the consciousness of the ego.
+
+> "Then Ormazd created the five smaller planets, and the whole host of fixed stars, in the lowest circle of the heavens."—J. F. Clarke, *Zoroastrian System*.
+
+Then the centres from which the five senses emanate upon the mental plane are established, and the many faculties which enable the mind to be exercised are formed upon the astromental plane.
+
+See FIVE, NET, PLACES (sorrow), SEKHET-AARU, STARS (fixed).
+
+**Corrections made:** page heading `581 PLANTS` removed from mid-text; `ylane` → plane; `conscioussess` → consciousness; `Cirarxer` → Clarke; `Five, Net, PLacss` → FIVE, NET, PLACES; `Stars` → STARS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

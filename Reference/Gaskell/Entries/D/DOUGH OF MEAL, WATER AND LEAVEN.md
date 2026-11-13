@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dough-of-meal-water-and-leaven
 headword: "DOUGH OF MEAL, WATER AND LEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `Meat` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MEAT AND DRINK|MEAT AND DRINK]]; [[Reference/Gaskell/Entries/M/MEAT, HOLY|MEAT, HOLY]]; [[Reference/Gaskell/Entries/M/MEAT, OR FOOD|MEAT, OR FOOD]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of experience and knowledge, transformed by the Divine Life (leaven), and made ready to be transmuted by fire (buddhi) into truth the substance of goodness, the "bread of heaven," the sustenance of the soul.
+
+See BREAD, FLOUR, FOOD, LEAVEN (higher), MEAT, WHEAT, WATER.
+
+**Corrections made:** See-list spellings restored (`Breap`, `Fiovur`, `Foop`, `Meat`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

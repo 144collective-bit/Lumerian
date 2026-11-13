@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horns-ten-of-the-dragon
 headword: "HORNS, TEN, OF THE DRAGON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Rev. xii. 3.) See BrintTH OF MAN-CHILD` | **unresolved** (review queue) |
 | `DraGon (red)` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DRAGON|DRAGON]] |
 | `T=n` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These symbolise the self-centred qualities of the astral or desire principle of the lower nature, they are forms of greed, pride, love of power, etc.
+
+> "By ten horns is signified much power; from the signification of the number ten as denoting what is full."—Swedenborg, *Apoc. Rev.*, n. 101.
+
+(See Rev. xii. 3.)
+
+See BIRTH OF MAN-CHILD, DRAGON (red), TEN.
+
+**Corrections made:** `SwEpENnzora` → Swedenborg; `BrintTH` → BIRTH; `DraGon` → DRAGON; `T=n` → TEN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arrows-divine
 headword: "ARROWS, DIVINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,38 @@ tags:
 | `Kunst` | **unresolved** (review queue) |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 | `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of spiritual force which rises from within and dissipates desire, and also causes transmutation of lower qualities into higher on the buddhic plane. The Adhvarya priest
+
+> "then hands him (the Kshatriya king) three arrows. That first one by which he pierces on shooting, that is this earth, that one is called '[dribâ?]'. And the one by which (the enemy Vritra) being pierced lies either living or dead, that is the second, that is this air, that is called 'rugs.' And this one with which he misses (his aim), that is the third, that is yonder sky, that is called 'kshuma.'"—*Sata. Brâh.*, V. 3, 5, 29.
+
+Through the individuality (priest), the personality (king) receives the means for conquering the desires and rising victorious. The first means is the lower nature (earth) by which the soul rises stage by stage. The second is the mental nature (air) by which knowledge is gained and the desire nature (Vritra) is controlled or rendered ineffective. The third is the higher emotion nature (sky) which is above the personality, and so is uncontrolled by it.
+
+> "The sun and moon stood still in their habitation; at the light of thine arrows they went, and at the shining of thy glittering spear."—Hab. iii. 11.
+
+The individuality (sun) and the personality (moon) were sometime latent in the causal-body; then at the outpouring of the Spirit within, they went forth to manifest, having in them the enlightenment of the Divine Ray which dispels illusion.
+
+> "I (Lakshmi) reside in an arrow."—*Inst. of Vishnu*, 99, 15.
+
+The buddhic principle is spiritual force symbolised by an arrow.
+
+> "Let a man take the five arrows (the five virtues), put them on the bow of his brain and kill Death" (Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I.
+
+[Let?] the mind act in accord with the highest ideals of virtue, and immortality will be reached by the consciousness.
+
+See ADVARYA, ARREST, BHISMA, FUNERAL, NINE DAYS, PESTILENCE, SLAUGHTER, SOUND, SPEAK, VRITRA.
+
+### Also in this note: ARSH, THE "THRONE OF GOD"
+
+A symbol of the plane of atma, the highest of the five planes of existence.
+
+See ATMA, [KURSI?], PARADISE, THRONE.
+
+**Corrections made:** Page heading `ARSH` removed from mid-sentence; `Saéa. Bréh.` → Sata. Brâh.; `Hazs.` → Hab.; `**T` → I; `MACAULAETE` → Macauliffe; `PESTILENOCE` → PESTILENCE; `SiavGHTER` → SLAUGHTER; `Atma` → ATMA; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: ARSH, THE "THRONE OF GOD". `[dribâ?]` is a reading of OCR `drib&`. `[Let?]` is a reading of OCR `aa` before "the mind act". `[KURSI?]` is a reading of OCR `Kunst`. The OCR's quotation after "The Adhvarya priest" opens with a mark and no capital; set out as a blockquote continuing the sentence.
 
 ## Full OCR entry body (exact)
 

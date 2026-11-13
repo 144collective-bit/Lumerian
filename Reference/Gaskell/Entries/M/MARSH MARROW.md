@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-marsh-marrow
 headword: "MARSH MARROW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Seasons (five)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 | `Wortps (five)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the atmic plane, the innermost spiritual nature of the soul.
+
+> "Now it was those five bodily parts of Pragâpati that became relaxed,—hair, skin, flesh, bone and marrow,—they are those five layers of the fire altar; and when he builds up the five layers, thereby he builds him up by those bodily parts."—*Sata. Brâh.*, VI. 1, 2, 17.
+
+At the end of a manifesting cycle of the Divine Life (Pragâpati), there is an indrawal of the Divine Breath, and the five planes cease from activity. The five planes of the manifest are the physical (hair), astral (skin), mental (flesh), buddhic (bone), and atmic (marrow). These are "members" of the Archetypal Man (Pragâpati), and they constitute the nature of the soul (fire altar). The soul is evolved to perfection through the expression of the Self on the five planes.
+
+See ALTAR (fire), ARC. MAN, BONES, BREATH, DISMEMBERMENT, MEMBERS, PRAGAPATI, SEASONS (five), SKIN, WORLDS (five).
+
+**Corrections made:** `hodily` → bodily; `PragApati`, `Pragépati` → Pragâpati; `Bréh.` → Brâh.; See-list spellings restored (`Pracfpati`, `Seasons`, `Wortps`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

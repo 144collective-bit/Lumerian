@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-firmament
 headword: "FIRMAMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,40 @@ tags:
 | `Quarters` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `WartTER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of the higher mental plane as the firm foundation of creation, and as a central plane of consciousness dividing the upper planes of Reality from the lower planes of illusion.
+
+> "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven."—Gen. i. 7, 8.
+
+And the Supreme now establishes the higher mental plane which shall be a plane of consciousness dividing the Reality from the Mayavic. That is, the mental plane shall divide the buddhic plane (waters above) of the higher emotions, from the astral plane (waters below) of the desires. And to the higher nature the name of Heaven is given.
+
+> "Understanding is the spiritual firmament whereby human conception distinguishes between Truth and error. . . . Understanding is the line of demarcation between the real and the unreal" (to Gen. i. 6, 7).—Mrs. Eddy, *Science and Health*, p. 499.
+
+> "The Samhita (the two worlds joined together). The former half is the earth, the latter half the heaven, their union the air."—*Aita.-Aran. Upanishad*, 3, 1.
+
+The region below is the lower nature (earth); the region above is the higher nature (heaven); the region between, which unites the two, is the mental plane (air).
+
+> "He deliberated:—'I will create worlds, the ocean, the realms of light, death, the waters. That is the ocean, beyond the heaven; the heaven is its floor. The atmosphere is the realms of light. Death is the earth. The waters are whatever is beneath it' (*Aita. Upanishad*, I. 1). After this description we have the waters as the two ends of the universe, above and below, and between them the clear atmosphere."—Deussen, *Phil. of Upanishads*, p. 191.
+
+> "Canst thou with him spread out the sky, which is strong as a molten mirror."—Job xxxvii. 18.
+
+> "The primitive Egyptians believed that the floor of heaven, which also formed the sky of this world, was made of an immense plate of iron, rectangular in shape, the four corners of which rested upon four pillars which served to mark the cardinal points. On this [plate] of iron lived the gods and the [blessed] dead, and it was the aim of every good Egyptian to go there on death."—Budge, *Egyptian Magic*, p. 51.
+
+By the "plate of iron" as the "floor of heaven" is signified the higher mental plane, above which are the highest planes (heaven). The "plate" is said to be rectangular and supported upon four pillars marking the four cardinal points, to indicate the quaternary or four lower planes below the higher mind. The pillars symbolise the aspiration by which the souls rise in consciousness to the buddhic plane. The "blessed dead" are the perfected and liberated souls.
+
+> "Over the heads and outstretched wings of the cherubim is a rigid pavement or 'firmament' like crystal."—Comment on Ezek. i. 22, by Rev. J. Skinner, *Expositor's Bible*.
+
+The text says the firmament "was as the colour of the terrible crystal," i.e. the quality (colour) was of purity and truth difficult of attainment. Failure to attain is terrible and dreadful (verse 18) for it means the soul is precipitated again to incarnation (hell).
+
+> "By firmament over the heads of the cherubim is meant heaven."—Swedenborg, *Apoc. Rev.*, n. 14.
+
+See AIR, BIRDS, BRIDGE, CHILDREN OF HORUS, DEEP OF EA, EARTH, FOUR SONS, GODS, HEAVEN, IRON PLATE, LADDER, LAKSHMANA, LIGHT, MAASEN, MERCABA, OCEAN, PANTHER, PILLARS (four), QUARTERS, SKY, WATER.
+
+**Corrections made:** page headings `FIRMAMENT` and `278 FIRST-BORN` removed from mid-text; `ealled` → called; `distinishes` → distinguishes; `Eppy` → Eddy; `Aiia.-Aran.` → Aita.-Aran.; `ight` → light; `Dervussen` → Deussen; `pointe` → points; `fe of iron lived the gods and the Pigott dead, _ it was` → [plate] of iron lived the gods and the [blessed] dead, and it was; `Bupas` → Budge; `Ezex.` → Ezek.; `SwEpDEnBORG` → Swedenborg; See-list spellings restored (`Arm`, `Breps`, `Bripce`, `Four sernas`, `Prurars`, `WartTER`); quotation marks normalised, and similar minor fixes.
+
+**Unclear or supplied:** `[plate]` and `[blessed]` are supplied from damaged OCR (`fe of iron`, `Pigott dead`; "blessed dead" recurs in the commentary). `Aiia.-Aran.` read as Aita.-Aran. (Aitareya Aranyaka); `Deussen` (OCR `Dervussen`) is a best reading. `AIR` and `BIRDS` are best readings of OCR `Arm` and `Breps`; `FOUR SONS` best reading of `Four sernas`.
 
 ## Full OCR entry body (exact)
 

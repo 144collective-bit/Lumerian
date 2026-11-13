@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-immortality-forfeited
 headword: "IMMORTALITY FORFEITED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -74,6 +75,36 @@ tags:
 | `Monap` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `YANG` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The personality in identifying itself with its lower nature and the trials and sufferings which thereby come to it, is said to forfeit its immortality; for it is this lower personality which is mortal. The ego within, which does not so identify itself, remains unaffected, and is immortal.
+
+> "Isis nursed the child of King Melcarthus and fed it by giving it her finger to suck instead of the breast; she likewise put him every night into the fire in order to consume his mortal part, whilst transforming herself into a swallow, she hovered round the pillar and bemoaned her sad fate. This she continued to do for some time, till the queen, who stood watching her, observing the child to be all in a flame, cried out, and thereby deprived him of that immortality which would otherwise have been conferred on him."—Plutarch, *Isis and Osiris*.
+
+The king is a symbol of the ego as governor of the astral or desire nature, and so his child signifies the personality nursed by buddhi (Isis). The wisdom (Isis) element now sustains the nascent soul and affords it the means of evolution through the stimulation of latent capacity by indication (finger), or suggestively, rather than by direct means. And whilst it was night, that is, unknown of it, all that in each stage was perishable in the soul was burned away through the buddhic functioning; whilst Wisdom herself, as the spiritual daylight broke, ascends as a bird upward. At length, however, the progress of Wisdom is arrested, inasmuch as the purification of the personality (child) is being accomplished with such pain and difficulty, that attention is directed through the reasoning mind (queen) to the sufferings, with the result that the ego identifies itself with the sufferings, which entails the forfeiture of immortality for the lower personality with its suffering, ignorance, and evil which are mortal.
+
+> "And the Lord God said, Behold, the man is become as one of us, to know good and evil; and now, lest he put forth his hand, and take also of the tree of life, and eat and live for ever: therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken."—Gen. iii. 22, 23.
+
+And now the Love-forceful aspect of the Logos, realising that the mind (man) is able to recognise the distinction between each of the many states of relativity; and that of the relative condition there will be begotten the pairs of opposites; directs that the descent into physical matter be accomplished, lest without the mind undergoing the experiential life beneath, absolute existence should again be claimed. So the mind is directed towards the lower plane activities whereof its own nature has been builded, and is required to develop and discipline its faculties and emotions.
+
+> "The true and fundamental selfhood of every human soul, best and worst, is the very life of God himself, though differentiated from the whole, and made over, as it were, in part at least, into the soul's own keeping. Therefore, you, the real you, deep down beneath the ignorant, suffering, sinful you, are eternal. You, the outer you, the mortal man, are of yesterday, and will be gone to-morrow; you, the spiritual you, the deathless you, are of that in which time is not, and will enter by and by upon the fullness of your eonian heritage in the living God."—R. J. Campbell, *Serm.*, God's Life in Man.
+
+See ADAM (lower), BIRD, BUDDHI, INCARNATION, EDEN, FALL, FINGER, FIRE, GROUND, HELL, INCARNATION, INDIVIDUALITY, ISIS, JESUS MORTAL, JOB, MORTAL, PERSONALITY, SCENT, [SHAL?], SHORTLIVED ACHILLES, SOUTH WIND, TREE OF LIFE.
+
+### Also in this note: "IMPERIAL REVERENCE"
+
+A title signifying the acquirement by the individual monad or ego, of the attributes of the higher planes. It has the same meaning as 'being made in the image of God.'
+
+> "Having bestowed upon the Golden Personage the appellation,—'Imperial Reverence,' it informed him of the manner of creation; of the divisions of the heavens and the earth; of the Yang and the Yin; of the separation of darkness from light; and that all things were produced from an egg first formed in the water."—*Chinese Mythology*.
+
+And now the truth of atma-buddhi-manas having entered through involution into the consciousness of the ego, the knowledge of the process of creation, of the higher and lower planes, of spirit and matter, of science, philosophy, religion, truth and negation, Self and not Self, etc., is made clear. And it is made evident that all things are first of all produced from a germ or egg,—the symbol of infinite expansion from the fount of Truth (water).
+
+See EGG, HIGHER AND LOWER, HIRANYAGARBHA, IMAGE, MAN [CRAWLED?], MONAD, WATER, YANG.
+
+**Corrections made:** `'watching` → watching; `thereb sd` → thereby; `whi would` → which would; `ae him,.` → on him.; `Ptutanrcn, Jeie` → Plutarch, *Isis*; `god and evil` → good and evil; `put . oO rth` → put forth; `GEN.` → Gen.; `distinetion` → distinction; `eon heritage` → eonian heritage; `CampsBELt, Berm.` → Campbell, *Serm.*; `atma-buddhimanas` → atma-buddhi-manas; page headings `386`, `IMPERIAL` removed from mid-text; See-list spellings restored (`Anam`, `Brrp`, `Bupps#i`, `Epen`, `Fart`, `Fivcrer`, `Grounn`, `Het`, `Eca`, `HicHER`) and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: "IMPERIAL REVERENCE". See list of the first entry: the first `INCARNATION` (OCR `INCARNATION Epen`) is kept as printed though it duplicates the later one; `[SHAL?]` (OCR `S#Hal`) is uncertain. In the second See list `[CRAWLED?]` (OCR `"CRAWLED`) is uncertain. `eon heritage` completed as `eonian` with doubt; text could be `aeon heritage`.
 
 ## Full OCR entry body (exact)
 

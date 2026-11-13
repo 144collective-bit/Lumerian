@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ab-shaw
 headword: "AB-SHAW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CROCODILE. ABSOLUTE, THE:` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+See CROCODILE. ABSOLUTE, THE:
+
+**Corrections made:** None.
+
+**Unclear or supplied:** The OCR ends with the next entry's headword (`ABSOLUTE, THE:`) and no text; kept as printed.
 
 ## Full OCR entry body (exact)
 

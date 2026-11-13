@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iron-beaten-out-with-a-stone
 headword: "IRON BEATEN OUT WITH A STONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `SHELTER` | **unresolved** (review queue) |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental energy directed by knowledge.
+
+> "And Mashya and Mashyoi dug out a pit in the earth, and iron was obtained by them and beaten out with a stone; and without a forge they beat out a cutting edge from it, and prepared a wooden shelter from the sun."—*Bundahis*, XV. 16, S. B. of E.
+
+The "digging out a pit" signifies the attempt made to attain self-consciousness through the desire-nature (earth). "Iron" is a symbol of force-mental. "Stone" is here a symbol of knowledge which is on the Spiritual side of being. And so it was at this early period of evolution that without an ideal or abstract conception of Truth, such experience of life as was necessary to soul-growth was acquired, and the astral sheath (shelter) formed and specialised.
+
+> "If the iron be blunt, and one do not whet the edge, then must he put in more strength: but wisdom is profitable to direct."—Eccles. x. 10.
+
+See [DIAARNA?], EARTH, [MARRO?], PIT, SERPENT (hissing), SHELTER, STONE, TUBAL CAIN.
+
+**Corrections made:** `@ pit` → a pit; `Bundahia` → Bundahis; `selfconsciousness` → self-consciousness; `thro` → through; `desirenature` → desire-nature; `EccLes.` → Eccles.; See-list spellings restored (`Eantu`, `Prr`, `SERPENT`, `TUBAL`).
+
+**Unclear or supplied:** `[DIAARNA?]` and `[MARRO?]` are uncertain (OCR `Diaarna`, `Marro`); `through` is a completion of OCR `thro`.
 
 ## Full OCR entry body (exact)
 

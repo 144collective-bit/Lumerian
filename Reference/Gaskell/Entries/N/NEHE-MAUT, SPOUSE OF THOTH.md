@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nehe-maut-spouse-of-thoth
 headword: "NEHE-MAUT, SPOUSE OF THOTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `SOPHIA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition of Truth allied with the higher mind.
+
+> "To aid him in the world Thoth has a spouse, or syzygy, Nehe-maut. She is among the Gnostics, the Sophia-aspect of the Logos. She is presumably the Nature of our Trismegistic treatises. Together Thoth and Nehe-maut are the initiators of all order, rule and law in the universe" (Pietschmann).—G. R. S. Mead, *T. G. Hermes*, Vol. I. p. 49.
+
+See [CHRESIS?], INTUITION, SOPHIA, THOTH.
+
+**Corrections made:** `@®` → a; `Nehe-miut` → Nehe-maut; `Ptetschmann` → Pietschmann; `Mzap` → Mead; page heading `NEIGHBOUR` removed from mid-sentence.
+
+**Unclear or supplied:** `[CHRESIS?]` is a doubtful reading of See-list `CurysE1s`.
 
 ## Full OCR entry body (exact)
 

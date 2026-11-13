@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-human-body
 headword: "HUMAN BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,16 @@ tags:
 | `PoveaL GLAND` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PINEAL GLAND|PINEAL GLAND]] |
 | `PraGdpati` | **unresolved** (review queue) |
 | `PURUSHA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURUSHA|PURUSHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolically considered, the different parts of the human body are correspondentially related with the higher centres, and it is through these centres on the higher planes the soul-nature is developed.
+
+See ARC. MAN, BRIDGES (nine), CITY, COUNTENANCE, GATES OF BODY, HEAD, HEART, [Kuerrer?], NAVEL, PINEAL GLAND, PRAGAPATI, PURUSHA.
+
+**Corrections made:** page heading `376 HUNGER` removed from mid-sentence; See-list spellings restored (`Aro. MAN`, `BripGes`, `Hzap`, `PoveaL`, `PraGdpati`).
+
+**Unclear or supplied:** `[Kuerrer?]` See-list item not identified. `PINEAL` read from damaged `PoveaL`.
 
 ## Full OCR entry body (exact)
 

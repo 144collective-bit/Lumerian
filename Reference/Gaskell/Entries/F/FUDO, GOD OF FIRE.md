@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fudo-god-of-fire
 headword: "FUDO, GOD OF FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `FLAME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FLAME OF A SWORD|FLAME OF A SWORD]] |
 | `GIRDLE ROPE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GIRDLE-ROPE OF THE SACRIFICIAL STAKE|GIRDLE-ROPE OF THE SACRIFICIAL STAKE]] |
 | `SwoRD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWORD|SWORD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self (atma-buddhi).
+
+> "A Japanese Buddhist deity, worshipped as a god of fire. He sits, stern [word unclear] 'immovable,' surrounded with flames, and holding a two-edged sword and a rope; the latter he uses like some of the Indian gods to restrain the wicked. The flames are interpreted as symbols of wisdom, of which he is also said to be a god (Murray)."—*Nonclassical Mythology*, p. 71.
+
+The "fire" and "flames" signify the buddhic plane, the plane of Wisdom. The "sword" is a symbol of the Divine Will exercised as spiritual force to dispel ignorance and evil. The "rope" indicates the buddhic functioning for the transmutation of the lower qualities into the higher. The "wicked" are the lower desires which must be overcome and cast out of the soul. The lower qualities have to be purified by the spirit (fire) within them, so that the higher may evolve through them.
+
+See AGNI, ARDEBERESOCHT, FIRE, FLAME, GIRDLE ROPE, SWORD.
+
+**Corrections made:** `atmabuddhi` → atma-buddhi; `site` → sits; `eaid` → said; page heading `FUGITIVE` removed from mid-sentence; See-list spellings restored (`FIRe`, `SwoRD`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "stern i 'immovable,'", the connecting word is lost.
 
 ## Full OCR entry body (exact)
 

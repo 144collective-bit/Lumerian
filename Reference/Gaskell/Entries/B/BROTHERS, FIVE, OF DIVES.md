@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brothers-five-of-dives
 headword: "BROTHERS, FIVE, OF DIVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `FIvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `LazaRvs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the five senses on the astro-mental plane.
+
+See FIVE, LAZARUS.
+
+**Corrections made:** `FIvE`, `LazaRvs` → FIVE, LAZARUS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agamemnon-atreides-son-of-atreus
 headword: "AGAMEMNON (ATREIDES), SON OF ATREUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `OpyssEUs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/ODYSSEUS, ULYSSES|ODYSSEUS, ULYSSES]] |
 | `PELEUS` | **unresolved** (review queue) |
 | `PRIZE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mind, kama-manas, which is the offspring of illusion (Atreus).
+
+> "Nor do thou, O (Achilles) son of Peleus, feel inclined to contend against the king (Agamemnon); since never yet has any sceptre-bearing king to whom Jove has given glory, been allotted an equal share of dignity."—*Iliad*, Bk. I.
+
+Nor must the personality (Achilles) begotten of the Higher Self (Peleus), seek to exterminate and crush out the desire-mind which has its own purpose in the soul's evolution; for never previous to its advent has any aspect of the Self, endowed with powers by the Supreme, attained to so important a position in the Divine scheme (compare Haman).
+
+> "Agamemnon, although the chief commander of the Greeks, is not the hero of the Iliad, and in chivalrous spirit, bravery and character, altogether inferior to Achilles. But he nevertheless rises above all the Greeks by his dignity, [his?] and majesty."—*Smith's Class.*
+
+The 'Greeks' signify the lower mental qualities.
+
+See ACHILLES, ATREUS, BRISEIS, ESTHER, GREEKS, HECTOR, HONOUR, KLYTAIMNESTRA, MYRMIDONS, NOUS, ODYSSEUS, PELEUS, PRIZE.
+
+**Corrections made:** `Jliad` → *Iliad*; `Claes.` → Class.; page heading `AGNI` removed from mid-sentence; See-list spellings restored (`EsTHER`, `HEcTroR`, `Honour`, `Mypgmipons`, `Nop`, `OpyssEUs`); quotation marks normalised.
+
+**Unclear or supplied:** `[his?]`: the OCR reads `hig and majesty`, so a word may be missing. The *Smith's Class.* reference is cut off after "Class." in the OCR (the title is probably *Class. Dict.*).
 
 ## Full OCR entry body (exact)
 

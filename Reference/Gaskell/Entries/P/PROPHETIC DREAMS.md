@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophetic-dreams
 headword: "PROPHETIC DREAMS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A dream is prophetic when the dreamer is able to become not only fully conscious upon superior levels, but when he is able to transmit his experiences thereon to his brain and waking consciousness. The consciousness in deep sleep may rise to the planes of causation and almost beyond them, and unaffected by either cause or effect,—karma. But the below can never contain the above, and we cannot see things of the future in their true aspect until they are things of the past. See RECOLLECTION.
+
+**Corrections made:** `effect,— karma` → effect,—karma.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

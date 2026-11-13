@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lingam-the-subtile-body
 headword: "LINGAM, THE SUBTILE BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `SENSE-onGaNS` | **unresolved** (review queue) |
 | `STHULA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STHULA-SARIRA, GROSS -BODY|STHULA-SARIRA, GROSS -BODY]] |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body as containing the means of Self-manifestation,—all the qualities and powers of the soul.
+
+> "The eighteen first products of prakriti, [viz.?] [mahat?] (buddhi), ahankâra, manas, indriyas, and tanmâtrae form the subtile body, which surrounds the soul and accompanies it in all its wanderings. It is termed lingam. . . . Every life-history is a new self-unfolding of the prakriti before the purusha concerned by means of the lingam."—Deussen, *Phil. of Upanishads*, p. 242.
+
+> "Linga-sarira comprising the five organs of sense, the five organs of action, the five vital airs, with buddhi and manas."—Mon. Williams, *Indian Wisdom*, p. 119.
+
+> "The lingasarîram is described in Sarvopanishats. 16, as the vehicle of the organs the prânas, the gunas, and the ethical qualification, and accordingly is identified with the bands of the heart."—Deussen, *Phil. of Upanishads*, p. 282.
+
+The causal-body is first involved complete in potentiality; afterwards it grows to completion in actuality.
+
+See CAUSAL-BODY, KARANA, PRANAS, SENSE-ORGANS, STHULA, VITAL AIRS.
+
+**Corrections made:** `Selfmanifestation` → Self-manifestation; `producte` → products; `ahankdra` → ahankâra; `indryas` → indriyas; `lifehistory` → life-history; `rakriti` → prakriti; `y means` → by means; `DeErvusseEx`/`DrvussEn` → Deussen; `WiiiiaMs` → Williams; `lingasarfram`/`prfinas` → lingasarîram/prânas; closing quotation mark restored; page heading `454 LION` removed from mid-sentence; See-list spellings restored (`CaUSAL-BODY`, `KaRANA`, `SENSE-onGaNS`).
+
+**Unclear or supplied:** `[viz.?] [mahat?]` stands for the damaged OCR `vic mane`. The final Deussen quotation has no author's dash in the OCR; one was supplied.
 
 ## Full OCR entry body (exact)
 

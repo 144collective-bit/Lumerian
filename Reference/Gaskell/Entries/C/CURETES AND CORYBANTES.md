@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-curetes-and-corybantes
 headword: "CURETES AND CORYBANTES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `Guarpians (world)` | **unresolved** (review queue) |
 | `Heron` | **unresolved** (review queue) |
 | `ZEvs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the higher mental faculties and the buddhic emotions.
+
+> "They are the Guardians of the Creative Power, while it is yet too weak to defend itself. Therefore they watch over Zeus when a child."—Proclus, *Polit.*, p. 387.
+
+"Zeus," the incarnate Self born in the soul, is protected at first by the higher qualities that surround him and are in harmony with him. See BIRTH OF KRISHNA, DURASROBO, GUARDIANS (world), HERON, ZEUS.
+
+**Corrections made:** `Proctvs, Poltt.` → Proclus, *Polit.*; `Guarpians`, `Heron`, `ZEvs` restored.
+
+**Unclear or supplied:** `HERON` stands as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pandora
 headword: "PANDORA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 | `WomAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature which becomes allied with the lower mind (Epimetheus).
+
+> "Pandora whom the Hebrews [call?] Eve."—Zosimus, 26, 14.
+
+> "When Prometheus had stolen the fire from heaven, Zeus in revenge caused Hephaestus to make a woman out of earth, who by her charms and beauty should bring misery upon the human race. ...In the house of Epimetheus, her husband, was a closed jar, which he had been forbidden to open. When Pandora out of curiosity opened the lid, all the evils incident to man poured out. She had only time to shut down the lid, and prevent the escape of Hope."—*Smith's Class. Dict.*
+
+When the soul or individuality had possessed itself of the Divine Spark, the law of the Supreme required that from the lower nature (earth) there should arise the Emotion-nature, which, after being allied with the lower mind, shall be the means through the temptations of desire (jar) of bringing strife, suffering and evils of all kinds into the human soul. But Hope, or the promise of salvation, remains to encourage the efforts of the soul to rise. As in the case of Adam and Eve, the Higher Self necessarily forbids the mind to surrender to the attractions of the lower nature; nevertheless the inevitable curiosity for new experience brings about the fall of mind into the realm of desire and sense, and the obscuration of the spiritual vibrations from above.
+
+See ANDROMEDA, CHEST, CUPID, DRAUPADI, EPIMETHEUS, EVE, [Fax?], HEPHAISTOS, NESTOR, PERSEPHONE, PROMETHEUS, SELENE, WIFE, WOMAN.
+
+**Corrections made:** See-list spellings restored (`Dravpap!I`, `Erimetuevs`, `HEpHAIsTos`, `WomAN`); quotation marks normalised.
+
+**Unclear or supplied:** `[call?]` is supplied: the OCR reads "whom the Hebrews Eve". See-list item `[Fax?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

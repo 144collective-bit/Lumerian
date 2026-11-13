@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-klytaimnestra-wife-agamemnon
 headword: "KLYTAIMNESTRA, WIFE AGAMEMNON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `PRIZE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the seductive sensation-nature allied to the desire-mind.
+
+> "I (Agamemnon) prefer her (Chryseis) before Klytaimnestra my wedded wife; in no wise is she lacking beside her, neither in favour nor stature, nor wit nor skill. Yet for all this will I [give?] her [word unclear] better; rather would I see my folk whole than perishing."—*Iliad*, Bk. I, [word unclear] (kinvat), DUSHKH, THE VANAR OF
+
+The desire-mind prefers sensation and sense-objects,—which owe their seductiveness to the passivity of the intuition (Chryseis)—to the higher emotions. In no respect is the sense-nature lacking whilst the lower mind remains in this unspiritual condition, neither as regards its attractiveness, appeal, subtlety, nor intelligence. Notwithstanding, the intuition shall be recovered by the Higher Self. It were better for the desire-mind to experience the languishing of the lower mental qualities than lose the credit for having made the effort to surrender itself; pride being at this time the motive in the lower self.
+
+See AGAMEMNON, CHRYSEIS, INTUITION, PESTILENCE, PRIZE.
+
+**Corrections made:** `sensationnature` → sensation-nature; `sensenature` → sense-nature; page heading `435 KNOWER` removed; opening quotation mark restored before "I (Agamemnon)"; `Jliad` → *Iliad*.
+
+**Unclear or supplied:** In the Iliad quotation `[give?] her [word unclear] better` is damaged (OCR `ca her pice rr a better`). The reference after `Bk. I,` is damaged (OCR `ae`) and is followed by stray fragments `(kinvat), DUSHKH, THE VANAR OF` that look like intruding text from another entry's See list; they are kept as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feeding
 headword: "FEEDING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Prrer` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the dispensing of truth and goodness to the qualities, or imparting instruction to the mind and soul.
+
+> "Simon Peter saith unto Jesus, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. . . . Tend my sheep. . . . Feed my sheep."—John xxi. 15-17.
+
+Here the disciplined lower mind (Peter) is represented as growing in grace and in truth, and therefore becoming capable of instructing the qualities. At first the command of the indwelling Christ is to give instruction to the minor virtues (lambs), but afterwards as love of truth and righteousness increases, the lower mind is enjoined to instruct the major virtues (sheep). Then the allegory goes on to describe how the lower mind, at first a law to itself, shall when purified and perfected and ruled by the Spirit within, be "crucified," and transmuted, and so disappear as lower mind, being carried away and its elements dissolved by the Supreme Law.
+
+> "To feed means to teach."—Swedenborg, *Apoc. Rev.*, n. 383.
+
+> "God is Love and Goodness. Fill the soul with goodness, and fill the soul with love, that is the filling it with God. If we love one another, God dwelleth in us. There is nothing else that can satisfy."—F. W. Robertson, *Sermons*, 3rd Series, p. 259.
+
+See ASCENSION OF OSIRIS, BREAD, EATING, FOOD, LAZARUS, MEAT, PETER, SHEEP, WATER.
+
+**Corrections made:** page heading `269 e FEEDING` removed from mid-sentence; `iteelf` → itself; `JounN` → John; `Roserrson` → Robertson; See-list spellings restored (`Eatinc`, `Prrer`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

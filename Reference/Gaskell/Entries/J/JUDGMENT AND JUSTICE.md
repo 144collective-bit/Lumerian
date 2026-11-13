@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-judgment-and-justice
 headword: "JUDGMENT AND JUSTICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Justice` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUSTICE|JUSTICE]] |
 | `Srrrmna (Jesus)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Judgment denotes an estimation of the state of progress in relation to the completion and perfection of quality, that is, in relation to Truth. Justice requires balanced conditions on each plane of nature.
+
+> "By judgment is signified divine truth, and by justice divine good. . . . 'But let judgment run down as water, and justice as a mighty stream' (Amos v. 24). . . . 'Justice and judgment are the habitation of thy throne' (Ps. lxxxix. 14)."—Swedenborg, *Apoc. Rev.*, n. 668.
+
+See JUSTICE, [SITTING?] (Jesus).
+
+**Corrections made:** `SwEDENBORG` → Swedenborg; `Justice` → JUSTICE; stray `/` before the quotation removed; quotation marks normalised.
+
+**Unclear or supplied:** `[SITTING?]` for OCR `Srrrmna`, a See-list item that could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

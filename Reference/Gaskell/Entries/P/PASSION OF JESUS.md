@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-passion-of-jesus
 headword: "PASSION OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `TRIAL OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
 | `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the agony of the yet imperfect soul as it approaches perfection.
+
+> "My soul is exceeding sorrowful, even unto death: abide ye here, and watch with me. And he went forward a little, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass away from me: nevertheless, not as I will, but as thou wilt."—Matt. xxvi. 38, 39.
+
+As the Spirit is raised in the aspiring soul, so in proportion the personality (Jesus) becomes depressed, and the suffering makes it appear that it cannot do the things that it would. It is filled with a sense of powerlessness, of futility, of sore trial. The Christ-soul could not do then,—in his present condition,—that which he foresaw would be done by the Higher Self which strengthened him. Yet he progressed, and losing sight of the lower, he yearned after union with the Higher. In the soul there was the alternation between the human and the spiritual in the struggle for perfection. As the personality grew weaker, the individuality increased in strength, and the mental depression and suffering became temporarily the greater in the lower consciousness.
+
+> "With all sound theologians, and with all the doctors, I deny the possibility of the Divine nature suffering. The Godhead cannot be tempted, and how should the Godhead suffer? The human nature of Christ alone suffered; and that is not infinite, but finite."—E. Irving, *Col. Writings*, Vol. V. p. 147.
+
+> "Even Jesus was not perfect, as the Gospels themselves witness. For one who could pray, 'Not my will, but Thine be done!' was plainly not yet in entire union with God. And so it needs must be, for when that perfect union is accomplished, there remains no passion, no cross, no burial, to be endured. re-births are ended, and the spirit is for ever freed from matter. There could not, therefore, by the very nature of things, be any perfect man upon the earth-plane; because, so soon as perfection is attained, this plane is necessarily [incapable?] of retaining the purified spirit."—*Perfect Way*, p. 345.
+
+See BLOODY SWEAT, CRUCIFIXION OF JESUS, GETHSEMANE, INDIVIDUALITY, JESUS OF GOSPELS, JESUS (severe), MOUNT OF OLIVES, PERSONALITY, SERVANT OF GOD, SORROW, SUFFERING, TRIAL OF JESUS, VINEGAR.
+
+**Corrections made:** `souJ` → soul; `MatT.` → Matt.; `God head` → Godhead; `Irvine` → Irving; `ag` → as; `ineepere` → [incapable?]; page heading `PASSOVER` removed from mid-word (`perfec tion`); See-list spellings restored (`Mount OF OLIVES`, `SERVANT OF GoD`, `Sorrow`); and similar minor fixes.
+
+**Unclear or supplied:** `[incapable?]` is a reading of OCR `ineepere`. The author name `E. Irving` is a correction of OCR `E. Irvine`.
 
 ## Full OCR entry body (exact)
 

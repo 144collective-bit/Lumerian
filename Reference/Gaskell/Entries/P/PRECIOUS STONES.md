@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-precious-stones
 headword: "PRECIOUS STONES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `GEMS` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEMS|GEMS]] |
 | `JEWELS` | **unresolved** (review queue) |
 | `NECKLACE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of virtues and higher qualities of the soul.
+
+> "Precious stones in the Word signify such things as are of the truth of wisdom or of the good of love."—Swedenborg, *Apoc. Rev.*, n. 231.
+
+See particular stones, BREASTPLATE, GEMS, JEWELS, NECKLACE.
+
+**Corrections made:** `SwEDENBORG` → Swedenborg; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

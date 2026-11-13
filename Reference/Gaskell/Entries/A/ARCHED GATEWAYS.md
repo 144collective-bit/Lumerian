@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arched-gateways
 headword: "ARCHED GATEWAYS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Karina` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARNA, SON OF THE SUN AND PRITHA|KARNA, SON OF THE SUN AND PRITHA]] |
 | `PINNACLES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PINNACLES|PINNACLES]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental qualities which open the way to knowledge.
+
+> "The City of Kapila with its festive arbours, its arched gateways and pinnacles, it was radiant with jewels in every dwelling; and unable to find any other rival in the world, it could only feel emulation with its own houses."—*The Buddha-Karita*, Bk. I.
+
+The abode of the Self on the higher planes of atma, buddhi, manas, is the perfection of all virtues, mental qualities, and aspirations. Within the soul (potential) is all beauty and excellence. At this stage of early involution, the Self is absolute unity, there is no Second Self to manifest. At this period no duality is apparent; there are no opposites, therefore no conflict takes place.
+
+See AMARAVATI, ARBOURS, GATEWAYS, GOLDEN AGE, JEWELS, KAPILA, PINNACLES, WORLD.
+
+**Corrections made:** `ita` → its; `Karina` → KAPILA; `GATEWays` → GATEWAYS; quotation marks and spacing before punctuation normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

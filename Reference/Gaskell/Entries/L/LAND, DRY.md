@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-land-dry
 headword: "LAND, DRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary,—the lower planes of the soul, or "natural man."
+
+> "And God called the dry land Earth: and the gathering together of the waters called he Seas: and God saw that it was good."—Gen. i. 10.
+
+And the "dry land" is named "Earth," which term also stands for the lower nature of the Soul, which is the natural man; and the "gathering together of the waters" signifies the formation of the astral "sea" of the desires. And all is pronounced "good," that is, perfect in involution for purposes of forthcoming evolution.
+
+> "These knowledges are the 'waters gathered together into one place,' and are called 'seas'; but the external man is called 'dry land,' and presently 'earth.'"—Swedenborg, *Arc. Cel.* to Gen. i. 10.
+
+See EARTH, GROUND, MAN (natural), QUATERNARY, SEA, WATER.
+
+**Corrections made:** `GENn.` → Gen.; `Karth` → Earth; `Swrpenpnore` → Swedenborg; See-list spellings restored (`EantH`, `Grounp`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-temptation-of-jesus
 headword: "TEMPTATION OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `STONES AND BREAD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STONES AND BREAD|STONES AND BREAD]] |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbolic epitome of the soul's evolution from the period when the Son of man (Jesus) was born in the mind, and the consciousness thereby became aware of good and evil, and some faith in goodness was aroused. Then the Higher Self (the Spirit), foreseeing the soul's needs, puts it to the test of experience by placing it in the arena of conflict (wilderness) where it is in relation with the not-Self (devil). Then, after a protracted term of the re-incarnating cycle, the soul is sufficiently advanced to be "hungered," that is, to crave the spiritual sustenance of wisdom and love.
+
+> "The narratives of the Temptation are upon the face of them Symbolical."—Dr. Sanday, *Hastings Dict.*, Vol. II. p. 612.
+
+> "And the devil said unto him, If thou art the Son of God, command that these stones become bread. And Jesus answered unto him, It is written, Man shall not live by bread alone."—Mat. iv. 3, 4.
+
+This first temptation implies the insecurity of the soul ere the indwelling Christ has become a living factor established in the will. This stage of experience accords with a period of mental instability, when it is possible only to judge truth by contrast with error, or by discernment brought about through the Higher Self acting upon the lower. The "stones" signify the spiritual truths hard to apprehend. The "bread" is the readily assimilated food of knowledge, which man,—the thinker,—can incorporate in his being. And from the not-Self (devil), filled with the pride of relative knowledge, came the suggestion, 'If thou art to progress to Godhood, then reduce spiritual truth (stone) to terms of reason (bread) so that it may be comprehended by the lower mind.' And the Christ within replied, that the Divine law of progress was written upon the heart. The soul cannot live by reason only, but needs to possess truth from the Spirit in order to live the life from God.
+
+> "Man has had to put forth his latent spiritual potencies one by one, and this has necessitated the gradual purification and elevation of desire by the deliberate and conscious rejection of the merely egoistic tendencies of our nature. There is no other way in which moral excellence, as contrasted with innocence, can be attained."—R. J. Campbell, *Serm.*, The Nature of Temptation.
+
+See ARENA, BREAD, DEVIL, EVOLUTION, EXPERIENCE, FOOD FOR SOUL, FOLLY, HUNGER, INCARNATION, JESUS, KINGDOMS, MAN, MOUNTAIN (lower), REINCARNATION, STONES AND BREAD, WILDERNESS.
+
+**Corrections made:** `TEN` (mid-sentence) removed as page heading; `749 TEN` and `TION` rejoined: `Evo.vu“~ 749 TEN TION` → EVOLUTION; `Sanvay` → Sanday; `Mar. iv.` → Mat. iv.; `Jower` → lower; `frorn` → from; `Foop`, `Forry`, `Huncer`, `Kincpoms`, `Movunrarn` → FOOD, FOLLY, HUNGER, KINGDOMS, MOUNTAIN; quotation marks normalised.
+
+**Unclear or supplied:** `Mar. iv. 3, 4` read as `Mat. iv. 3, 4` (Matthew). `Forry` read as FOLLY (uncertain).
 
 ## Full OCR entry body (exact)
 

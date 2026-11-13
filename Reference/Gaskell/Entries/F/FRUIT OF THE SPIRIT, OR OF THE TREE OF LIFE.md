@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fruit-of-the-spirit-or-of-the-tree-of-life
 headword: "FRUIT OF THE SPIRIT, OR OF THE TREE OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher emotions and faculties of the buddhic nature; the produce of Wisdom (buddhi) laid up for the soul when perfected.
+
+> "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, meekness, temperance: against such there is no law."—Gal. v. 22, 23.
+
+The transmutations of the mental qualities through the operation of Buddhi, the Holy Spirit, produce the higher emotions,—love of truth and right, peace, patience, kindness, steadfastness, fortitude, faith, hope, compassion, moral courage, justice, gentleness, etc. The buddhic emotions in perfection are the "treasure in heaven," "the inheritance of the saints," the fruit of experience and aspiration below.
+
+> "And on this side of the river and on that was the tree of life, bearing twelve manner of fruits, yielding its fruit every month: and the leaves of the tree were for the healing of the nations."—Rev. xxii. 2.
+
+The "river" of the water of truth encompasseth the "tree" of the outgrowing Divine life. The "twelve manner of fruits" signifies twelve kinds of virtues or higher emotions. The "month" refers to a period within a cycle, or a stage of progress. The outspringing Divine life (the "leaves") is for the perfecting of the organised qualities of the soul.
+
+See CAKE (sacrificial), HEM, LIGHT-TREASURE, MENAT, MERCHANDISE, PEACHES, SHEWBREAD, TREASURE, TREE OF LIFE.
+
+**Corrections made:** `ite` → its; `fruite` → fruits; `GAL.` → Gal.; See-list spellings restored (`Cake`, `Hem`, `LicxtTREASURE`, `Preacues`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

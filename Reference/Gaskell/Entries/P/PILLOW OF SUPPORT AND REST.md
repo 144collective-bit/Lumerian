@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pillow-of-support-and-rest
 headword: "PILLOW OF SUPPORT AND REST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BraumMa` | **unresolved** (review queue) |
 | `CUSHION` | **unresolved** (review queue) |
 | `PROSPERITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of reliance upon the Higher Self within the soul.
+
+> "Prosperity, the pillow of the couch of Brahman."—*Kaush. Upanishad*.
+
+This signifies the sense of security which is the result of complete trust in the Higher Self and a knowledge of its Divine nature,—a state of consciousness which implies complete mistrust of all that is less than Divine, or of the nature of illusion.
+
+See BRAHMA, CUSHION, PROSPERITY.
+
+**Corrections made:** `Upantshad` → Upanishad; `BraumMa` → BRAHMA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

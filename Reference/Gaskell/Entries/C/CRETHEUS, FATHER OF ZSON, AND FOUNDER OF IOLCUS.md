@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cretheus-father-of-zson-and-founder-of-iolcus
 headword: "CRETHEUS, FATHER OF ZSON, AND FOUNDER OF IOLCUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `ALPHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ALPHA AND OMEGA|ALPHA AND OMEGA]] |
 | `IoLcus` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IOLCUS, OR JOLCUS|IOLCUS, OR JOLCUS]] |
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos, from whom proceeds the Second Logos, and who has established the beginning and the ending of the cycle of the soul's evolution. See ÆSON, ALPHA, IOLCUS, JASON.
+
+**Corrections made:** `ESON` → ÆSON (the headword reads `ZSON`); `IoLcus` → IOLCUS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

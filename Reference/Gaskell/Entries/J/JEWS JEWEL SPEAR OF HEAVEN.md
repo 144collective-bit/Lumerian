@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jews-jewel-spear-of-heaven
 headword: "JEWS JEWEL SPEAR OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `OnoaoRosma` | **unresolved** (review queue) |
 | `SPEAR` | **unresolved** (review queue) |
 | `SUTRATMA. JEWELS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Ray of Life and Truth which emanates from the Absolute and penetrates all planes.
+
+See IZANAGI, ONOGOROSHIMA, SPEAR, SUTRATMA.
+
+**Corrections made:** `Izanaci` → IZANAGI; `OnoaoRosma` → ONOGOROSHIMA; stray page heading `JEWELS ;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

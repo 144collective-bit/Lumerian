@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cupid-and-psyche
 headword: "CUPID AND PSYCHE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,18 @@ tags:
 | `SELENE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SELENE OR LUNA|SELENE OR LUNA]] |
 | `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the indwelling Self and the Emotion-nature. The two eldest daughters of the Archetypal Man (king) are appetite and instinct, born on the astral plane. The third daughter, Emotion (Psyche), is born subjectively on the buddhic plane. Love of form life (Venus) draws, as it were, the Self (Cupid) to effect in the forms union between Emotion and Desire, but the Self is in harmony with buddhic Emotion and nurtures that subjectively (night) during periods of incarnation. Then, when all is prepared, Emotion awakens in the mind, and the Self disappears from consciousness. This constitutes the "fall" of mind and emotion into the lower life of desire and sensation. Love of form life (Venus) enslaves Emotion amid the sufferings and sorrows of the lives on earth. But the indwelling Self (Cupid) "who still loved her in secret, invisibly comforted and assisted her in her toils." As evolution proceeds, the Emotion nature becomes more and more apparent and active in love of righteousness, truth, justice, wisdom, and all the virtues, until at the end of the cycle, love of life in the forms (Venus) is overcome, and the soul rises immortal to be joined with the Self for ever.
+
+> "This fable, it is said is a representation of the destiny of the human soul. The soul, which is of divine origin, is here below subjected to error in its prison the body. Hence trials and purifications are set before it, that it may become capable of a higher view of things, and of true desire. Two loves meet it,—the earthly, a deceiver who draws it down to earthly things; the heavenly who directs its view to the original, fair and divine, and who, gaining the victory over Soma his rival, leads off the soul as his bride" (Hirt, apud Creuzer, *Symbolik*, III. 573).—Keightley, *Mythology*, p. 117.
+
+See BUDDHI, EROS, LOVE, PANDORA, PERSEPHONE, [PRITHA?], SELENE, SEPHIROTH, VENUS.
+
+**Corrections made:** `etili` → still; `tolls` → toils; `ite view` → its view; `; ;` → `;`; page heading `195 CURSE` removed from mid-quotation; `apup CreorTzer, Symbokk ITI.` → apud Creuzer, *Symbolik*, III.; `KEIGHTLEY` capitalisation; See-list spellings restored (`BuppH`, `Eros`, `Lovg`, `PritHa`).
+
+**Unclear or supplied:** `Soma` is kept as printed (the OCR may be damaged). `[PRITHA?]` is the OCR See-list item `PritHa`, not identified.
 
 ## Full OCR entry body (exact)
 

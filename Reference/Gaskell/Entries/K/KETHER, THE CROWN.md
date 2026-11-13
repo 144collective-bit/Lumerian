@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kether-the-crown
 headword: "KETHER, THE CROWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Monap` | **unresolved** (review queue) |
 | `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `TAE-KEIH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Atman, or the plane of atma. The Higher Self supreme.
+
+> "When the Unknown of the Unknown wished to manifest Itself, It began by producing a point; as long as that luminous point had not gone out of Its bosom, the Infinite was still completely unknown and diffused no light (Zohar). This emanated point is the Kether or Crown, the first Sephirah."—Myer, *Qabbalah*, p. 127.
+
+When the Absolute determined to outpour its Life-energy, it emanated a centre of consciousness and operation,—the Atman or Higher Self.
+
+> "St. Thomas Aquinas virtually accepts the doctrine of Emanations when he writes: 'As all the perfections of creatures descend in order from God, who is the height of perfection, man should begin from the lower creatures and ascend by degrees, and so advance to the knowledge of God. . . . And because in that roof and crown of all things, God, we find the most perfect unity; and everything is stronger and more excellent the more thoroughly it is one; it follows that diversity and variety increase in things the further they are removed from Him who is the first principle of all.'"—E. Underhill, *Mysticism*, p. 117.
+
+See ABSOLUTE, AIN-SOPH, ATMA, ATMAN, CROWN, HOKHMAH, MONAD, SEPHIROTH, TAE-KEIH.
+
+**Corrections made:** `roducing` → producing; `uminous` → luminous; `Mysttctem` → Mysticism; `HoOKHMAH` → HOKHMAH; `Monap` → MONAD; page heading `KEYS` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `TAE-KEIH` left as printed (possibly damaged).
 
 ## Full OCR entry body (exact)
 

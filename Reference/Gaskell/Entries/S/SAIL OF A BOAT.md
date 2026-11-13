@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sail-of-a-boat
 headword: "SAIL OF A BOAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `BOAT ON RIVER` | **unresolved** (review queue) |
 | `DEFUNCT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DEFUNCT, DECEASED OR DEPARTED PERSON|DEFUNCT, DECEASED OR DEPARTED PERSON]] |
 | `Nor` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of progress by means of mental currents through space of mind, or through mental matter of the soul.
+
+> "The chapter of living by air in the Underworld. Vignette: the deceased holding a sail, symbolic of air."—Budge, *Book of the Dead*, p. 164.
+
+Through the mind (air) the Divine Life vivifies the soul on the lower planes (underworld).
+
+> "'Tell me my name,' saith the Sail; 'Nut' is thy name."—Budge, *Book of the Dead*, Ch. XCIX.
+
+The meaning of the symbol "Sail" is: progression through mental space (Nut) by means of currents of thought (air).
+
+See AIR, BOAT ON RIVER, DEFUNCT, NUT.
+
+**Corrections made:** `Bupag`/`BvupaeE` → Budge; See-list spellings restored (`Arr`, `Nor`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

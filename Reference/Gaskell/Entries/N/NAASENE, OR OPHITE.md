@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-naasene-or-ophite
 headword: "NAASENE, OR OPHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `W18D0M` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of divine inspiration, or Wisdom teaching. That afflatus which proceeds from the buddhic plane, or the Holy Spirit of Wisdom (serpent). See BUDDHI, INSPIRATION, INTUITION, REVELATION, SERPENT, WISDOM.
+
+**Corrections made:** See-list spellings restored (`Buppwi`, `INnsprmeatTion`, `W18D0M`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

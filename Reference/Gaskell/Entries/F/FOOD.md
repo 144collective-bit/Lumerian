@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-food
 headword: "FOOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,28 @@ tags:
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WEALTH-SHOWER` | **unresolved** (review queue) |
 | `YIMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YIMA-KHSHAETA (JAMSHED)|YIMA-KHSHAETA (JAMSHED)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Truth—the Real, which gradually takes the place of Illusion—the unreal. The lower soul-states change and vanish as Truth is assimilated.
+
+> "Water is food, the light eats the food. The light rests on water, water rests on light. This is the food resting on food."—*Tait. Upanishad*, III. 8.
+
+Truth is the Real to be assimilated; i.e. the light of knowledge incorporates truth. Knowledge reposes on truth, truth permeates knowledge. This is the truth (perfect) which rests upon knowledge (imperfect), and which the lower Self takes unto itself, as the unreal gives place to the Real.
+
+> "From food are produced all creatures which dwell on earth. Then they live by food, and in the end they return to food. For food is the oldest of all beings, and therefore it is called panacea (i.e. consisting of all herbs, or quieting the heat of the body of all beings). They who worship food as Brahman obtain all food."—*Ibid.*, II. 2.
+
+From Truth,—the Real,—are produced by inversion, as it were, all desires, passions and emotions of the lower nature. Then, being transmuted, they live by truth, and finally return to the Real again. For Truth is from all eternity, and therefore is the support and healer of all qualities which are deficient of itself. That is, it is through growth of the emotions, and the regulation and mastery of the burning desires of the lower nature, that the healing truth is obtained. They who earnestly seek the Truth as the Highest Ideal, on them is the Truth bestowed.
+
+> "From the Sacrificer it (the shower of milk and butter) goes to the gods; from the gods to the cow, from the cow to the Sacrificer: thus circulates this perpetual, never-ending food of the gods."—*Sata. Brâh.*, IX. 3, 3, 17.
+
+From the Soul or Ego (Sacrificer) aspiration arises which nourishes the ideals (gods). The ideals being nourished, the buddhic nature (cow) is also fed and strengthened; thence the buddhic functioning is rendered active, and there is bestowed upon the Soul the celestial food of wisdom (milk) and love (butter). Thus circulates perpetually the Divine Life and Truth.
+
+See ALTAR OF SACRIFICE, AURVAITO, BARLEYCORNS, BHIMA, BREAD, CATTLE, COW (spotted), EATING, EXPERIENCES, FEAST, FEED, GODS, HUNGER, LIGHT, MEAT, MORTAR, MOUTH OPENING, ROOTED, SACRIFICER, TIME, UDDER, UNEMOUT, UNEN, VAGEPEYA, WATER, WEALTH-SHOWER, YIMA.
+
+**Corrections made:** `eata` → eats; page heading `FOOD` removed from mid-word ("pro FOOD duced" → "produced"); `Bréh.` → Brâh.; See-list spellings restored (`BaRLEYCOERNS`, `Cow`, `Eatrnc`, `Feast`, `HunocErR`, `Licut`, `Mgat`, `Movurh OPENING`, `Roorep`, `Uxemocut`); quotation marks normalised.
+
+**Unclear or supplied:** `UNEMOUT` is a best reading of OCR `Uxemocut`; `ROOTED` is a best reading of `Roorep`; `Movurh OPENING` read as MOUTH OPENING.
 
 ## Full OCR entry body (exact)
 

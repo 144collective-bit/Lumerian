@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heifer-red-perfect
 headword: "HEIFER, RED, PERFECT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `HELEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELEN OF TROY|HELEN OF TROY]] |
 | `Prreis (lunar) Rep` | **unresolved** (review queue) |
 | `SPorrenD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature,—Wisdom (cow), Love (red), prior to the soul's descent.
+
+> "A red heifer without spot, wherein is no blemish, and upon which never came yoke."—Num. xix. 2.
+
+This indicates that wisdom-love at an early stage of the soul's evolution is entire and latent in respect to the lower nature. The "killing" is the obscuration of wisdom-love which occurs on the descent of the ego (one) to the lower planes. The "burning" and the "ashes" signify the purifying function of buddhi operating through the lower nature. "Touching the dead" refers to the "dead selves" which must be got rid of. The ego allied with the lower personality (corpse) is "unclean until the even," that is, he is imperfect until the indrawing at the end of the cycle (day) of incarnation.
+
+> "In accordance with the general nature of the symbolical institutions, the body (of the red heifer) stands as the representative and image of the soul, and its defilement and cleansing, for actual guilt and spiritual purification."—P. Fairbairn, *Typology of Scripture*, Vol. II. p. 404.
+
+> "The offering of Christ, as in 'the red heifer,' is without doubt the great end of the representation."—A. Jukes, *The Law of the Offerings*, p. 27.
+
+> "The ruddy cow with reddish-white eyes is the Father's own whom they slay [word unclear] for the Fathers."—*Sata. Brâh.*, III. [word unclear], 1, 14.
+
+This signifies that wisdom-love operates through the higher mind for the benefit of the astral development of the forms and the personality, by which it becomes obscured in the soul. (The "Fathers" are the lunar pitris.) In Ovid's *Epistles of the Heroines*, Helen is called "the Grecian Heifer," which can only mean the "cow," symbol of the buddhic principle. See ASHES, BUDDHI, BURNT OFFERING, CORPSE, COW, [Dap?], HELEN, PITRIS (lunar), RED, [SPorrenD?].
+
+**Corrections made:** `NoumM.` → Num.; `iritual` → spiritual; `ypology` → Typology; `FarmsBamn` → Fairbairn; `Bréh.` → Brâh.; `Ill.` → III.; `dead selves'‘` → dead selves"; page heading `HEIGHT` removed from mid-word (`representa. HEIGHT tive` → representative); See-list spellings restored (`BuDDHI`, `BURNT OFFERInc`, `Corpsz`, `Prreis`, `Rep`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` twice in the Sata. Brâh. quotation: OCR `“aN` and OCR `»` (the chapter number). See-list items `[Dap?]` and `[SPorrenD?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

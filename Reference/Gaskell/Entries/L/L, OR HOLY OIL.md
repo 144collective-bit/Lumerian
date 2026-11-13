@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-l-or-holy-oil
 headword: "L, OR HOLY OIL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,28 @@ tags:
 | `UNcTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNCTION, EXTREME|UNCTION, EXTREME]] |
 | `VIRGINS` | **unresolved** (review queue) |
 | `ZABEMAYA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine Love,—the Love-principle of the higher planes which attracts the soul upward in softness, gentleness, and harmony.
+
+> "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows."—Ps. xlv. 7.
+
+The soul on its attaining perfection is endowed from within with love and bliss beyond what is bestowed upon the unperfected.
+
+> "Thou receivest the oil of the cedar in Amentet, and the cedar which came forth from Osiris cometh unto thee; it delivereth thee from thy enemies" (Ritual of Embalmment).—Budge, *Egyptian Magic*, p. 186.
+
+The purified soul is said to receive on the higher planes the love which comes forth from the Supreme and delivers it from the desires. The "cedar tree from Osiris" signifies the "tree of Life,"—the Divine Ray which comes down from the Highest and penetrates all planes.
+
+> "Oil signifies the good of love which sanctifies, and everything that is sanctified has relation to truth."—Swedenborg, *Apoc. Rev.*, n. 173.
+
+> "From the Essence of the Free Lubet (longing delight) there proceedeth forth in the Fire an Oily Power, which is the body or essence of the Understanding wherein the Fire burneth." "The Love-oil gives meekness."—Boehme, *Mysterium Magnum*, p. 13.
+
+See ANOINTING, BUTTER, CANDLESTICKS, CHRESTOS, FAT, FOOD (soul), GHEE, HEAD, INCENSE, LAMP, OLIVE, UNCTION, VIRGINS, ZABEMAYA.
+
+**Corrections made:** `Buper` → Budge; `SwEprEsBORG` → Swedenborg; `Borume` → Boehme; `meeknees` → meekness; See-list spellings restored (`Foon`, `Guer`, `Heap`, `IncENsE`, `UNcTION`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

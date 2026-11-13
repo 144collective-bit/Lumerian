@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-persephone-daughter-of-demeter
 headword: "PERSEPHONE, DAUGHTER OF DEMETER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,22 @@ tags:
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `Wispom` | **unresolved** (review queue) |
 | `Woman` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature brought forth of Wisdom on the buddhic plane.
+
+> "Persephone was in a mead with the Ocean Nymphs gathering flowers, when she beheld a narcissus of surprising size and beauty. Unconscious of danger the maiden stretched forth her hand to seize the wondrous flower, when suddenly the wide earth gaped, and Aidoneus (Hades) in his golden chariot rose, and catching the terrified goddess, placed her in it."—Keightley, *Mythology*.
+
+The emotion-nature on the buddhic plane (mead), with the higher qualities (nymphs), becomes aware of the attractions (narcissus) of the outer life of sensation, and longs for experience. A descent, therefore, to the lower planes takes place, and in the astro-mental body (chariot) the emotion-nature becomes allied with the desire-mind (Aidoneus), while the higher nature becomes obscured in the soul (i.e. Demeter loses sight of her daughter). Then begins the pursuit of the lower by the higher.
+
+> "The Soul indeed descends; but both the words 'soul' and 'descends' are, in this connection, used figuratively. For our language requires that we should speak of 'descent' when we infer a passage from Being into Existence; although, of course, transference from one locality to another is not intended, but only change of condition. And the 'soul' that so descends is the Soul of the world—Persephone—not a number of individual souls. For the evolution and elaboration of individual souls is accomplished by means of development in material conditions; therefore soul is already individualised before assuming those conditions. That which 'descends' into generative states is the Monad, or divine substance vivified by the divine life. . . . I affirm that the soul 'descends' by free-will, for God is immanent in the very substance of the worlds. Wherefore this descent, or putting forth of subjective Deity into objective conditions, is obviously an act of free-will. The Monad—Persephone—is the true daughter of Zeus, the very substance of God. Her descent is not accident, blunder, or fault, for it occurs with the cognition and express will of Zeus."—Anna Kingsford, *Life*, Vol. II. p. 208.
+
+See ADONIS, AIDONEUS, ANDROMEDA, BUDDHI, CHARIOT, COMB, CUPID, DEMETER, GUARDIAN SPIRITS, HADES, MEADOW, MONAD OF LIFE, NYMPHS, PANDORA, SELENE, WIFE, WILL, WISDOM, WOMAN.
+
+**Corrections made:** `assumin` → assuming; `ANNa KINGsrorpD` → Anna Kingsford; page heading `567 PERSONALITY` removed from mid-sentence; See-list spellings restored (`MeEapow`, `Monap or Lire`, `NyMpuHs`, `PaNnDORA`, `Wispom`, `Woman`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

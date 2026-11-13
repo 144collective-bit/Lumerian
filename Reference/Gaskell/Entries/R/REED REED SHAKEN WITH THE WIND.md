@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reed-reed-shaken-with-the-wind
 headword: "REED REED SHAKEN WITH THE WIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of instability of purpose and weakness of volition.
+
+> "Tropologically, 'a reed shaken with the wind' is a light man, inconstant, tossed to and fro: at one time impelled by the words of flatterers, he asserts something: again being driven by detractors, he denies it, as a reed is blown in different directions by different winds. A reed is one who is devoid of truth, virtue, and consistency, as a reed has no strength, or stamina."—C. à Lapide, *Great Comm.*, Vol. II. p. 53.
+
+**Corrections made:** `C. A LapipE` → C. à Lapide; `IT.` → II.; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

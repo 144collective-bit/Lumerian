@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-binding-and-loosing-on-earth-and-in-heaven
 headword: "BINDING AND LOOSING ON EARTH AND IN HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -69,6 +70,33 @@ tags:
 | `Ses` | **unresolved** (review queue) |
 | `Smore` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `Swan. BIRDS;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the determinations of the law of karma. Cause and effect exemplified in higher and lower conditions.
+
+> "What things soever ye [word unclear] shall bind on earth shall be bound in heaven: and what things soever ye shall loose on earth shall be loosed in heaven."—Mat. xviii. 18.
+
+The binding or loosing by the disciplined qualities (disciples) in the lower nature (earth), signifies the use made of the powers of the soul in their outgoing to bind or loose the desires. The binding or loosing in the higher nature (heaven) is the corresponding result arrived at by such activities within the soul in their incoming. That is, if the lower qualities are under control on earth, the higher qualities are under control in heaven; or if the lower qualities are unrestrained on earth, the higher qualities remain unclaimed in heaven.
+
+See DISCIPLES, FEEDING, KARMA, QUALITIES, TRANSMUTATION.
+
+### Also in this note: BIRD, GREAT
+"The God-like Bird which sits upon the Tree of Life,"—under the names, Hiranyagarbha, Karshipta, Simorg, Sinamru:—
+
+A symbol of the Higher Self or the Individuality, seated, as it were, upon the Divine Ray direct from the Absolute.
+
+> "There are times when we all get glimpses of that greater Self, that Self beneath the self, that Life within our life, that struggles for expression like a bird behind the bars of a cage; that Soul within the soul which as a fourteenth-century mystic puts it, 'hath never consented to sin, nor ever shall.' That is the real you, the real me, the real Man in every man."—R. J. Campbell, *Serm.*, *Our Solidarity in God*.
+
+> "In the Rig-Veda (x. 149, 3) the sun is called the bird of Savitri."—A. Barth, *Religions of India*, p. 20.
+
+The "sun" is the symbol of the Higher Self.
+
+See ATMAN, BIRDS (two), FIG-FRUIT, HIRANYAGARBHA, KALAHANSA, KARSHIPTA, [PHANA?], [SEB?], [SIMORG?], SWAN.
+
+**Corrections made:** `yo (the a pe shall` → ye [word unclear] shall; `MaT.` → Mat.; `Discretes` → DISCIPLES; `FEEpING` → FEEDING; `Hiranyagarbba` → Hiranyagarbha; `fourteenthcentury` → fourteenth-century; `pute` → puts; `BaRrs` → Barth; page headings `BIRDS` (twice, one trailing as `BIRDS;`) removed; See-list spellings restored (`ATmMAN`, `Breps`, `F1IG-FRurr`, `HmaNYAGARBHA`, `KaRsHipra`, `Swan`); stray `_` removed.
+
+**Unclear or supplied:** Contains a second entry: BIRD, GREAT. `[word unclear]` replaces OCR `(the a pe` in Mat. xviii. 18. `[PHANA?]`, `[SEB?]` and `[SIMORG?]` are uncertain readings of `PHana`, `Ses`, `Smore`. `Simorg Sinamru` is set with a comma.
 
 ## Full OCR entry body (exact)
 

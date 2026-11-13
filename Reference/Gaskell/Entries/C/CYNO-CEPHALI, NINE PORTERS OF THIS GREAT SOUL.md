@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cyno-cephali-nine-porters-of-this-great-soul
 headword: "CYNO-CEPHALI, NINE PORTERS OF THIS GREAT SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
 | `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of egos who shall rise to Divine manhood. Nine is their number, in that they have attained perfection on the three lower planes, and that man becomes more than man when the tenth stage is reached. See ATU-RA, APES (nine), ARIES, NINE, TEN, TUAT.
+
+**Corrections made:** `Aru-rA` → ATU-RA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

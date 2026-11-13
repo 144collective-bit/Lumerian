@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fructifying-principle
 headword: "FRUCTIFYING PRINCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `INCARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `WINGs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine life within the lower nature embodied through the process of involution.
+
+> "The Golden Personage cried out—'The wings have long embraced you; on the breaking forth of the fructifying [principle?] I knew that you (an intelligent being) had entered into the world.'"—Kidd, *China*, p. 167.
+
+The Spirit energises the monad within, and now from below the sense of aspiration (wings) is apprehended, so that it seeks to evolve its nature. Thus from the liberation of the life within, through response to the impacts from without, the consciousness of the ego is evoked.
+
+See ELEMENTS, INCARNATION, INVOLUTION, WINGS.
+
+**Corrections made:** `ing` → being; `ite` → its; `Kipp` → Kidd; `WINGs` → WINGS; quotation marks normalised.
+
+**Unclear or supplied:** `[principle?]`: OCR reads "fructifying ee" and the noun is damaged; "principle" is inferred from the headword. `Kidd` for OCR `Kipp` is inferred.
 
 ## Full OCR entry body (exact)
 

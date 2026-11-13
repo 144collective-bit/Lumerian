@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-experience-of-the-ego
 headword: "EXPERIENCE OF THE EGO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+All experience in the lower lives is the partial reflection upon the lower planes of that which is above, and interpreted by the mind according to its stage of development.
+
+> "Christ comes into the world from without, to bestow himself by a presentation. He is a new premise, that could not be reasoned, but must first be, and then can be received only by faith. When he is so received or appropriated, He is, of course, experienced or known by experiment; in that manner verified,—he that believeth hath the witness in himself. The manner, therefore, of this divine experience, called faith, is strictly Baconian. And the result is an experimental knowledge of God, or an experimental acquaintance with God, in the reception of his supernatural communications. Which knowledge, again, or acquaintance, is, in fact, a revelation within."—H. Bushnell, *Nature and the Supernatural*, p. 367.
+
+> "I say that this continuous quest, this unceasing pursuit of an elusive satisfaction, is not a fruitless thing. God not only ordains it, but secures that it shall fulfil a spiritual object. That object is to educate the soul to understand the true nature of eternal reality by experiencing and rejecting everyone that falls short of it. Divine perfection has many facets, if I may so express it, and we can only realise what that perfection is by becoming conformed to it ourselves under its every aspect. To do this means that we have to transcend, outgrow, leave behind everything less than the perfection of Christ on every side of his divinely human nature. That is what our earthly discipline is for, and there is no reason to believe that that discipline ends with the moment of our [passing?] into another world at the change called death."—R. J. Campbell, *Serm.*, *The Ceaseless Quest*.
+
+> "The truth from which we start is this, that so far as the life of this world is concerned, every spiritual operation has its physical basis, in close connection with which it lives its life and does its work. The growth of the tree is a mysterious and spiritual power. ... There must be black earth and the brown seed, or nothing comes. What growth-power ever made manifestation of itself, creating out of nothing, in the air, a tree that had no history and no progenitor? The material is first, and then the spiritual."—Phillips Brooks, *Mystery of Iniquity*, p. 245.
+
+**Corrections made:** `exporienced` → experienced; `® revelation` → a revelation; `BusHnsgu1` → Bushnell; `umceasing` → unceasing; `shal]` → shall; `everycue` → everyone; `lees` → less; `CamPse ut` → Campbell; `concermed` → concerned; `ite work` → its work; `iteelf` → itself; `Pumies Brooxs` → Phillips Brooks; `Inigquity` → Iniquity; page heading `259 EYE` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `[passing?]` replaces OCR `ing` ("moment of our ing into another world"). `everyone` is read from OCR `everycue`.
 
 ## Full OCR entry body (exact)
 

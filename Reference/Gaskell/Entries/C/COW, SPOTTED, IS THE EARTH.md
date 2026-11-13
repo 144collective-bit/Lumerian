@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow-spotted-is-the-earth
 headword: "COW, SPOTTED, IS THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Sap` | **unresolved** (review queue) |
 | `Sky` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
 | `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature inverted on the astral plane, and operating as the desires, passions, appetites, instincts, and sensations, of the lower nature (earth).
+
+> "'Having become a spotted cow, [go thou?] to the sky, and thence bring us rain hither,' (the sacrificer says.) The spotted cow, doubtless, is this earth: whatever rooted and rootless food is here on this earth, by that this earth is a spotted cow. 'Having become this earth, go thou to the sky,'—this is what he thereby says, 'Thence bring us rain hither.' From rain certainly spring vigour, sap, well-being."—*Sata. Brâh.*, I. 8, 3, 15.
+
+The ego having acquired the lower emotion nature (spotted cow) it becomes requisite that the emotions should be transmuted by buddhi [word unclear] (sky), and so bring truth (rain) to the soul. The lower emotions are of the lower nature (earth). While desires (rooted) and illusions (rootless) nourish the lower nature, the lower nature remains full of "spots and blemishes" (2 Pet. ii. 13). It is therefore necessary that the lower nature be purified by the Spirit, so that Truth be attained, for from Truth spring strength, life, and immortality. See CLOUD, EARTH (MOTHER), FOOD, RAIN, ROOTED, SAP, SKY, SPOTTED.
+
+**Corrections made:** `spottad enw, gn ta` → spotted cow, [go thou?]; `SBY8` → says; `Brah` → Brâh.; page heading `COWws` removed from mid-sentence; `2 PETER` → 2 Pet.; See-list spellings restored (`Foon`, `Roorep`, `Sap`, `Sky`).
+
+**Unclear or supplied:** `[go thou?]` is a reading from the damaged `gn ta` (compare the repeated phrase "go thou to the sky"). After `buddh` the OCR loses a word, shown as `[word unclear]` (the page heading `COWws` fell in the gap).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ragha-land
 headword: "RAGHA LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Root-Races` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `Rounp. (hell-fire) ; and they will be purified of their imperfections and enter into bliss` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane on which is manifested a buddhic globe of the lunar planetary chain.
+
+> "The twelfth good region was Ragha of the three races. Thereupon Angra Mainyu created the sin of utter unbelief."—*Vendidad*, I.
+
+The three root races of incipient humanity were upon the plane of buddhi (Ragha). These races were upon one of the globes of the lunar chain in matter of the wisdom plane, awaiting the period when they shall descend and solidify on the mental and astral planes. At this early period they had no vehicles in which to behave as humanity does under later circumstances. The consequence is they have reference entirely to the Archetypal Man,—the potential pattern of humanity. In opposition to this condition of manifestation, the division is hinted at between the lower and higher principles, since their union has not yet been effected.
+
+See ADAM (lower), ARCHETYPAL MAN, BEASTS (three sorts), GOLDEN AGE, LUNAR CHAIN, PLANETARY CHAIN, PYLUS, RACES, ROOT-RACES, ROUND. [Fragment from the following entry, "upon the egos immersed in the lower nature (hell) and subject to suffering (hell-fire); and they will be purified of their imperfections and enter into bliss."]
+
+**Corrections made:** `Raghs` → Ragha; `AROHETYPAL MAN` → ARCHETYPAL MAN; page headings `RAHU RAINBOW` and stray rule marks removed; interleaved two-column See list put back in order (`Brasts`, `Pyius`, `Races`, `Root-Races`, `Rounp` restored); and similar minor fixes.
+
+**Unclear or supplied:** The last clause ("upon the egos immersed ... enter into bliss.") belongs to a different entry (the tail of a RAIN entry, caught by column order); it is kept at the end as printed in the OCR. The See-list reading `Pyius` → PYLUS is a best guess.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beatific-vision
 headword: "BEATIFIC VISION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `GopHEAD` | **unresolved** (review queue) |
 | `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
 | `UNITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The soul realising its identity with the Infinite.
+
+> "The first stage of progression from the hiddenness (of the unrevealed Godhead) is made through the 'Great Intelligences' which are nearest to God. These beings have first-hand illuminations, they [word unclear] in the One Himself, and have [a] feast of the beatific vision, which makes divine all who strain aloft to behold it'; and the Divine energy which 'bubbles forth' from the Godhead is passed on by them to the next rank, and so on down, until 'every existing thing participates in the Beautiful,' i.e. in the [word unclear]" (From Dionysius).—R. M. Jones, *Mystical Religion*, p. 106.
+
+> "To be completely filled with God, and perfected in the eternal movement of [word unclear]; in a word, to be conscious of God and dwell in the Divine impulse or inspiration—that is the perfect state."—H. Bushnell, *Nature*, etc., p. 365.
+
+See AMSHASPANDS, ANGELS, BLISS, GODHEAD, SERMON, UNITY.
+
+**Corrections made:** `Intellicies` → Intelligences; `These ings` → These beings; `have feast` → have [a] feast; `#0` → so; `icipates` → participates; `Dionyetus` → Dionysius; `BusHNewy` → Bushnell; See-list spellings restored (`GELS`, `Buss`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `pores` (after `they`), the lost word after `in the`, and the lost word after `movement of`. `[a]` is supplied.
 
 ## Full OCR entry body (exact)
 

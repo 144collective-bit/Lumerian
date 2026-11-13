@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boat-on-the-river
 headword: "BOAT ON THE RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,20 @@ tags:
 | `Sup` | **unresolved** (review queue) |
 | `Sures (beaked). BOAT SEKTET` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 | `AND BOAT ATET ; —` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body, the vehicle of the spiritual ego in the life on the lower planes (river of life).
+
+> "During his journey in the underworld the deceased came to a huge river which he was obliged to cross, to enable him to embark in the mystical boat, every portion of which possessed a name which he was bound to know and be able to repeat, he provided himself with Chapters 98 and 99. But this boat only served to take him across the river, and he longed to be able to embark in the Boat of Ra, and be with the god for ever."—Budge, *Book of the Dead*, Vol. I. p. xcii.
+
+In his progressive life on the lower planes, the ego, or lower consciousness, has before and above him the higher mind, as it were a great river which the consciousness must cross over ere it can be united with the higher consciousness in the causal-body (mystical boat). This union of the higher and lower Selves requires that the lower Self in all its qualities shall become perfect and identical with the higher Self in the causal-body (Boat of Ra).
+
+See AFU-RA, ARGO, ARK, BRIDGE OF HEAVEN, CHARON'S FERRY, HIKOBOSHI, HOLD, KEEL, OARS, PADDLES, PLANKS, ROCK-BOAT, ROPE, RUDDER, SAIL, SAILOR, SHIP, SHIPS (beaked).
+
+**Corrections made:** page heading `118 BOAT` removed from mid-sentence; trailing page-head fragment `BOAT SEKTET, AND BOAT ATET ; —` removed; `BupGeE` → Budge; See-list spellings restored (`Aru-rRA`, `Ho.p`, `Oars`, `Rock-Bo0at`, `Rupper`, `Sar`, `Sartor`, `Sup`, `Sures`).
+
+**Unclear or supplied:** See-list readings `RUDDER`, `SAIL`, `SAILOR`, `SHIP`, `SHIPS (beaked)` are likely restorations of `Rupper`, `Sar`, `Sartor`, `Sup`, `Sures (beaked)`. The trailing `BOAT SEKTET, AND BOAT ATET ; —` is treated as a page-heading fragment.
 
 ## Full OCR entry body (exact)
 

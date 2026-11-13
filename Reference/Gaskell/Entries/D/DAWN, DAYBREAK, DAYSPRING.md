@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dawn-daybreak-dayspring
 headword: "DAWN, DAYBREAK, DAYSPRING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,18 @@ tags:
 | `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
 | `Sun-Rismva` | **unresolved** (review queue) |
 | `ValsVANARA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VAISVANARA|VAISVANARA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the commencement of manifestation—the period of the Self's forthgoing to establish the planes of nature. This is typified in the approach of sunrise when the sun (the Self) appears.
+
+> "Verily, the Dawn is the head of the Horse which is fit for sacrifice; the Sun its eye, the Wind its breath, the Mouth the Vaisvanara fire, the Year the body of the sacrificial Horse, etc."—*Brihad. Upanishad*, V. 1.
+
+The "Horse sacrifice" has the same meaning as the "Lamb sacrifice," and is a symbol of the sacrifice of the Logos in the involution of Himself in matter. Hence the "Horse" often stands for the "Ram" in the first sign of the Zodiac, which represents the sun's (the Self's) entrance upon his course. The "head of the Horse" signifies the beginning of manifestation. The "Year the body" represents the whole Cycle of Life. The "Sun its eye" stands for the Higher Self, the perceiving consciousness. The "Wind its breath" signifies the Divine Life active upon the mental plane. The "Mouth the Vaisvanara fire" signifies the Divine Will expressed in the energies of the atma-buddhic plane. See ADITI, ARIES, ASURA, CREATION, EAST, HORSE-SACRIFICE, MAYA (higher), MORNING, NUT, SUN-RISING, VAISVANARA.
+
+**Corrections made:** `@ symbol` → a symbol; `ita eye` → its eye; page heading `DAY` removed from mid-sentence; See-list spellings restored (`Apit1`, `Mornine`, `Sun-Rismva`, `ValsVANARA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

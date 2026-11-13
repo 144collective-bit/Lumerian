@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-priest-of-the-altar
 headword: "PRIEST OF THE ALTAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `FIRE Priests` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRE-PRIESTS|FIRE-PRIESTS]] |
 | `HiaH PRIEST` | **unresolved** (review queue) |
 | `HOTRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOTRI PRIEST (SPEECH)|HOTRI PRIEST (SPEECH)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol with the same meaning as "priest of Apollo."
+
+> "I accompany thy preparation, at the beginning each time, with words of praise, O intelligent (Homa)! when he (the managing priest) takes thy twigs. I accompany thy preparation, in each successive act by which thou art killed through the strength of a man, with words of praise, O intelligent."—*Homa Yasht*.
+
+"I, the individuality, increase as thou, the Divine Life, dost live within me." The "priest with twigs" is a symbol of the buddhic emotions, and these are interpreted through the mind. "I, the Self, celebrate thee in each successive mode of manifestation through the karmic law, and trace thee in all things up to the human in whom thou dost fulfil thyself." The "words of praise" symbolise the higher aspirations which live and carry on the evolution. The "killing" refers to the sacrifice of the Logos in the Archetypal Man, on the one hand, and the defeat of the lower nature in man, on the other.
+
+> "The Advarya (priest) is the mind, and the Hotri (priest) is speech."—*Sata. Brâh.*, I. 5, 1, 21.
+
+> "By priests in the Word are meant they who are in the truth of love."—Swedenborg, *Apoc. Rev.*, n. 864.
+
+See ADVARYA, AGNIDHRA, ALTAR (fire), BARSOM, FIRE PRIESTS, HIGH PRIEST, HOTRI.
+
+**Corrections made:** `JI, the Self` → I, the Self; `thyself.»` → thyself."; `Bréh.` → Brâh.; `SwWEDENBORG` → Swedenborg; See-list spellings restored (`Barsom`, `FIRE Priests`, `HiaH PRIEST`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

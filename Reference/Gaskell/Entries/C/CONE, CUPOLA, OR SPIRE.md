@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cone-cupola-or-spire
 headword: "CONE, CUPOLA, OR SPIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `SPrre` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPIRE|SPIRE]] |
 | `STUPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration, as of matter tending towards spirit.
+
+> "Stupas are buildings in the form of cones and cupolas, erected by the piety of believers to enshrine and cover relics. They are found throughout India."—J. B. St. Hilaire, *The Buddha*, p. 87.
+
+Stupas and pyramids may be taken as symbols of the causal-body built up through aspiration, sacrifice, and transmutation. The "relics" seem to stand for the higher qualities which have survived from the practice of virtues below.
+
+See PYRAMID, SHRINE, SPIRE, STUPA.
+
+**Corrections made:** `Hrrarre` → Hilaire; See-list spellings restored (`PyRamMip`, `SPrre`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

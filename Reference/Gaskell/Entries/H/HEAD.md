@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-head
 headword: "HEAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,28 @@ tags:
 | `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `On` | **unresolved** (review queue) |
 | `OINTMENT. WHITE. that` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mind, the intellect, the intelligence; which distinguishes man.
+
+> "Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; my cup runneth over."—Ps. xxiii. 5.
+
+The Self hath prepared for the ego the fruits of experience to be the food of the soul, while the desires have become inoperative. The Divine love is bestowed upon the aspiring mind, and Wisdom filleth the understanding.
+
+> "Let thy garments be always white; and let not thy head lack ointment."—Eccles. ix. 8.
+
+> "There is the understanding, which may be termed the head; because in that is placed the eye of the soul; and this is that which, or by which the soul, discerneth things that are presented to it, and that either by God or Satan."—J. Bunyan, *Greatness of the Soul*.
+
+> "The head being the uppermost, and a chief part of the body, is often put for the whole man; so blessings come on the head, the whole person of the just (Prov. x. 6); and men have their way recompensed on their head (Ezek. ix. 10)."—W. Gurney, *Bible Dict.*, p. 220.
+
+> "Head . . . the understanding; a chief or leader. . . . Head-work, intellectual work. . . . Off one's head, demented, crazy."—*Chambers's Dictionary*.
+
+See ANOINTING, CUP, ENEMIES, FOREHEAD, FOXES, GARMENTS, OIL, OINTMENT, WHITE.
+
+**Corrections made:** `Let they` → Let thy; `Eccties.` → Eccles.; `EzEK.` → Ezek.; `Chambera's` → Chambers's; `On` → OIL; page headings `HALL, Man 340 HEAD` removed from mid-sentence; See-list spellings restored.
+
+**Unclear or supplied:** A stray `that` at the end of the OCR (after "WHITE.") is omitted as a fragment of the next page.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-night-as-dareness
 headword: "NIGHT AS DARENESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
 | `WOMEN’S LIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a condition of ignorance, error, and evil in the activities upon the lower planes.
+
+> "And after the sop, then entered Satan into him (Judas) . . . He then went out straightway: and it was night."—John xiii. 26, 30.
+
+The least-raised quality (Judas) was passive or negative until he had partaken of "food," or knowledge of circumstance. Then desire (Satan) entered into him, and he was able to go forth. He acted apparently all on his own account, utterly regardless of the other qualities; and in the condition of ignorance and evil, symbolised by "night," he went to the formalists and sought the counsel of those of this world, and not the guidance of the Higher Self, whence proceeds illumination and life.
+
+> "If without any doubt the darkness of ignorance is the night of the soul, the understanding is not improperly styled the day."—St. Gregory, *Moralia* on the Book of Job, Vol. I. p. 46.
+
+See BETRAYAL, DARKNESS, DAYS, JUDAS, NICODEMUS, PO, PRIESTS AND ELDERS, WOMEN'S LIFE.
+
+**Corrections made:** `formaliste` → formalists; `Str. Grecory` → St. Gregory; `JOHN` → John; See-list spellings restored (`Darxness`, `JupDas`, `NicoDEMUS`).
+
+**Unclear or supplied:** The work title is read as *Moralia* from OCR `M`.
 
 ## Full OCR entry body (exact)
 

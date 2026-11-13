@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-asvins-the-two
 headword: "ASVINS, THE TWO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,26 @@ tags:
 | `NakuLa` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NAKULA AND SAHADEVA, TWIN SONS OF MADRI BY THE ASVINS|NAKULA AND SAHADEVA, TWIN SONS OF MADRI BY THE ASVINS]] |
 | `SAcRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SPADE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPADE TO DIG THE EARTH|SPADE TO DIG THE EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of centres of consciousness on the mental plane for the Higher and Lower Selves,—the Individuality and the Personality, the immortal and the mortal lives.
+
+> "The [so]-called Asvins were a great enigma, 'Heaven and Earth,' say some; 'Day and Night,' say others; 'Two kings, performers of holy acts,' say the Aitihasikas."—Mon. Williams, *Indian Wisdom*, p. 169.
+
+> "The Asvins were fabled as connected with Ushas, as ever young and handsome, travelling in a golden car, and precursors of the dawn. They are sometimes called Dasras, as divine physicians, 'destroyers of diseases'; sometimes Nasatyas, as 'never untrue.' They appear to have been personifications of two luminous points or [rays?] [destined?] to speed the break of [day?]."—*Ibid.*, p. [number unclear]. Williams,
+
+> "These ever-youthful twin sons of the Sun, by his wife Sanjñâ, transformed into a mare (asvini), resemble the classical Dioscuri both by their exploits and the aid they render to their worshippers."—*Ibid.*, p. 426.
+
+> "The Asvins are the (Brahman) physicians of the gods, and it is by them that he heals this Sacrificer. . . . The two Asvins, indeed, are the eyesight, fiery spirit. . . . He-goats are sacred to the Asvins."—*Sata. Brâh.*, XII. 7, 2.
+
+The twin consciousnesses of the higher and lower minds, temporally separate, yet essentially connected, are known as the immortal Individuality and the mortal Personality. They precede in evolution the rise of the Sun of Righteousness, the Higher Self, in the soul. Through their functioning life after life, the soul is developed and healed of its diseases, and finally made whole and perfect. They are never untrue to themselves, that is, they work together in an indissoluble relationship under the laws of karma. They have been emanated by the Self (sun) and brought forth in the mind (Sanjñâ-mare), in order that the spiritual egos (gods) may be perfected in their manifestation in the lower worlds. By them the soul, or sacrificing lower Self, is restored and brought up to perfection. They are the means of perception (eyesight) and of purification (fiery spirit). Errors and desires (goats) are offered up by them.
+
+See APOCATEQUIL, DIOSCURI, GEMINI, MARE, NAKULA, SACRIFICER, SPADE.
+
+**Corrections made:** Page heading `ATALANTA` removed from inside `physiATALANTA cians`; `om called` → [so]-called; `Mown.` → Mon.; `;;` → `;`; `Sanjné` → Sanjñâ; `Ibsd` → Ibid.; `Bréh., XID.` → Brâh., XII.; `oconsciousnesses` → consciousnesses; `ere` → are; `ita` → its; `He- -goats` → He-goats; See-list spellings restored (`Dioscuni`, `Marg`, `NakuLa`).
+
+**Unclear or supplied:** `[so]` is read from OCR `om`. The second quotation is damaged in the OCR (`ra e ined to speed the break of '`): `[rays?]`, `[destined?]`, `[day?]` are readings, and the page number is lost (`[number unclear]`); the stray author name `Williams,` that follows is left as it stands in the OCR (`p. WILLIaMs,`). In the fourth quotation OCR `- ve Asvins` is read as `to the Asvins`.
 
 ## Full OCR entry body (exact)
 

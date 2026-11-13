@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rat-of-ganesa
 headword: "RAT OF GANESA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GANESA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANESA, GOD OF WISDOM|GANESA, GOD OF WISDOM]] |
 | `QUADRUPED` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUADRUPED|QUADRUPED]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower quaternary.
+
+> "Ganesa is frequently attended by, or is riding upon, a rat."—Wilkins, *Hindu Mythology*, p. 324.
+
+The Higher Self, operating upon the higher mental plane, presides over the lower mental, the astral, the etheric, and the physical planes, symbolised by the four limbs of a rat.
+
+See ANIMAL, GANESA, QUADRUPED, QUATERNARY.
+
+**Corrections made:** Quotation marks normalised; `WILKINS` normalised to Wilkins.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

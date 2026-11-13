@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-litany-the-great-mahad-uktham
 headword: "LITANY, THE GREAT (MAHAD UKTHAM)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `VEDA. LITTLE ONES;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the evolving Divine life proceeding from below upwards.
+
+> "And that vital essence of his (the relaxed Pragapati's) which flowed upwards became the Great Litany; it is in quest of that vital fluid that the priests go by means of the Rik and Saman."—*Sata. Brâh.*, X. 1, 1, 4.
+
+The Archetypal Man (relaxed Pragâpati) has given up his life for humanity. His "vital essence" (blood of Christ) ascends in supplication or aspiration in the human souls. The higher emotions (priests) are allied to the Divine life through the vibrations from above (the Vedas).
+
+> "The Great Litany is the body or Self, Âtman." "A bird-like body."—*Ibid.*, X. 1, 2, 1 and 5.
+
+The Divine life is the Self below when meeting the Self above (the Âtman). The "body," or Self below, is aspiring (bird-like).
+
+See ARC. MAN, ATMAN, BLOOD, BLOOD OF LAMB, GATHAS (chanting), HOMA-JUICE, HYMN SINGING, PRAGAPATI, SINGERS, SOMA-JUICE, VEDA.
+
+**Corrections made:** `Saia. Bréh.` → Sata. Brâh.; `Prag&pati` → Pragâpati; `&tman` → Âtman; `KX.` → X.; `abore` → above; `id.` → *Ibid.*; page heading `LITTLE` removed from mid-quotation; trailing `LITTLE ONES;` removed as the start of the next entry's headword; See-list spellings restored (`BLoop`, `GarTrHas`, `PRiaaPATI`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

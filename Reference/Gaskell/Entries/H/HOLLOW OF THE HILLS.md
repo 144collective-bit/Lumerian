@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hollow-of-the-hills
 headword: "HOLLOW OF THE HILLS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `HiLL COUNTRY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HILL COUNTRY|HILL COUNTRY]] |
 | `MountTarn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower planes, below the higher; or of the lower mind.
+
+See DOORS (house), HILL COUNTRY, MOUNTAIN, VALLEY.
+
+**Corrections made:** `Doors`, `HiLL`, `MountTarn` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

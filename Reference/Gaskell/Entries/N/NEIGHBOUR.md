@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-neighbour
 headword: "NEIGHBOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,26 @@ tags:
 | `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `JUDGING OTHERS` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGING OTHERS|JUDGING OTHERS]] |
 | `LANDMARKS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LANDMARKS|LANDMARKS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a quality which has an affinity with another quality:—these qualities are "neighbours" to each other.
+
+> "Let everyone of us please his neighbour for his good to edification."—Rom. xv. 2.
+
+The qualities are enjoined to be helpful to each other in the way of development and progress: for it is the actual that must evoke, or awaken, the potential; there is no other course.
+
+> "And they shall teach no more [every] man his neighbour, and [every man his] brother, saying, Know the [Lord]: [for] they shall all know me, from the least of them to the greatest of them."—Heb. viii. 11; Jer. xxxi. 34.
+
+The personality having become perfected, the higher mental qualities are fully evolved, and ready to unite with the Higher Self. There is no longer need for educing the potential, for all has been evolved from the less to the greater.
+
+> "Everything in nature has, as regards its own good, a certain inclination to diffuse itself amongst others as far as possible. And this applies, in a supreme [degree?], to the Divine Goodness, from which all perfection is derived."—St. Thomas Aquinas.
+
+See EVOLUTION, JUDGING OTHERS, LANDMARKS.
+
+**Corrections made:** `his his good` → his good; stray `bal` removed before `Rom.`; `badd` / `gd cree` / `rd: re` → [every] / [every man his] / [Lord]: [for]; `Hes.` → Heb.; `Jem.` → Jer.; `iteelf` → itself; `Srt.` → St.
+
+**Unclear or supplied:** In the Heb. viii. 11 quotation the OCR is badly damaged; the bracketed words are supplied from the sense. `[degree?]` stands for OCR `»`. The duplicated `his` in the Romans quotation was reduced to one.
 
 ## Full OCR entry body (exact)
 

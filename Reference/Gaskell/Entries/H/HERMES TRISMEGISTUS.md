@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hermes-trismegistus
 headword: "HERMES TRISMEGISTUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `ScripTuREs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRIDENT` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRIDENT|TRIDENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the three-fold aspect of the Self,—Atma-buddhi-manas—manifesting on the higher mental plane as Will, Wisdom, and Action.
+
+> "The 'thrice-greatest,' because he spoke of the 'three greatest' powers that 'veiled the one Divinity'" (*Chron. Alexand.*, p. 47).—G. R. S. Mead, *Orpheus*, p. 17.
+
+> "On the famous Rosetta stone, Hermes is called the 'Great-and-Great.'"—Mead, *T. G. Hermes*, Vol. I. p. 117.
+
+> "Thoth is called 'Twice Great' and 'Thrice Great.'"—Budge, *Gods of the Egyptians*, Vol. I. p. 401.
+
+"Hermes Trismegistus" is the reputed author of many writings; that is, the Divine Intelligence is the inspirer of many scriptures which have been written down by the receivers of these symbolical communications from the higher mind. The truth from the atma-buddhic planes is imparted to the higher mind and then expressed in symbols to the lower mind.
+
+See [Hoxtp?], INSPIRATION, PAPYRUS BOAT, SCRIPTURES, TRIAD, TRIDENT.
+
+**Corrections made:** `Alma-buddhi-manas` → Atma-buddhi-manas; `Alezand.` → Alexand.; `Q. R. 8. Mzap` → G. R. S. Mead; `Mgap` → Mead; `BupGE` → Budge; `Papyrus BoAT` → PAPYRUS BOAT; `ScripTuREs` → SCRIPTURES.
+
+**Unclear or supplied:** `[Hoxtp?]` See-list item not identified. Page-reference numerals left as printed.
 
 ## Full OCR entry body (exact)
 

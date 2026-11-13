@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hiding-place-of-the-goddess
 headword: "HIDING PLACE OF THE GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Return` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RETURN OF THE GREAT GODDESS|RETURN OF THE GREAT GODDESS]] |
 | `Svusanowo` | **unresolved** (review queue) |
 | `Uzumk` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the buddhic nature which is unperceived by the lower nature, and is deep within the soul.
+
+> "O Goddess of Power! I have come into thee, even into thy hiding place, and [power] is born unto me."—*Book of the Dead*, Ch. CX. (trans. Blackden).
+
+The lesser Self has come into the buddhic sanctuary of the greater Self as Wisdom, and all its needs are satisfied in the accession of higher faculties.
+
+> "Amaterasu, the Sun-Goddess, being offended with Susanoo, the [word unclear] of the Moon and Sea, went away and concealed herself in the cave of Ameno Tuaya, closing the entrance with a larger piece of rock. From this time the country was dark all over, and given up to the noise and disturbances of all sorts of inferior gods."—Japanese Legend.
+
+Wisdom on the buddhic plane being frustrated by Desire (Susanoo) withdrew from direct action in the soul, and retired into the inner being or Divine realm, concealed from the lower nature by the higher mind. (That is,—the "Fall" of mind (man) having taken place, the Desire-mind rules the soul, and the direct vibrations from the buddhic plane (Eden) cease.) This left the lower nature bereft of the light of Truth, and immersed in the darkness of ignorance. The soul was given over to the desires and sensations (inferior gods) in constant turmoil and conflict.
+
+See AMATERASU, CAVE, DARKNESS, EDEN, FALL, MOON, RETURN, SUSANOWO, UZUME.
+
+**Corrections made:** `wer` → [power]; `ead` → Dead; `sorte` → sorts; `cease.]` → cease.); page heading `HIGHER` removed from mid-sentence; See-list spellings restored (`CavE`, `EpEN`, `Fatt`, `Svusanowo`, `Uzumk`).
+
+**Unclear or supplied:** `[power]` supplied: OCR reads "and wer is born". `[word unclear]` before "of the Moon and Sea" (OCR drops the word after "the").
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-doliones-people
 headword: "DOLIONES PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `LEMNOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEMNOS ISLAND|LEMNOS ISLAND]] |
 | `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
 | `TEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEARS SHEDDING|TEARS SHEDDING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a state of deep meditation upon truth, and confidence in the reality it discloses.
+
+> "Leaving Lemnos, the Argonauts came to the Doliones, whose king was named Cyzicus."—*Argonautic Expedition*.
+
+And now leaving the condition of scientific knowledge, the consciousness comes nearer to the state of interior meditation and faith in its higher suggestions, wherein the possibility of achieving freedom from the thraldom of physical illusion occurs.
+
+See ARGONAUTS, CYZICUS, LEMNOS, SHAVING, TEARS.
+
+**Corrections made:** `Arconaots` → ARGONAUTS; page heading `DOLPHIN` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

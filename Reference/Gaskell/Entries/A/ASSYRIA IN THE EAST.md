@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-assyria-in-the-east
 headword: "ASSYRIA IN THE EAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `HIDDEKEL` | **unresolved** (review queue) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Prrris (lunar)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the dawn of the personality on the astral plane (Hiddekel river).
+
+> "The rational faculty of the Church."—Swedenborg, *Apoc. Rev.*, n. 444.
+
+See EAST, EDEN RIVER, HIDDEKEL, PERSONALITY, PITRIS (lunar).
+
+**Corrections made:** `Prrris` → PITRIS; `East` capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

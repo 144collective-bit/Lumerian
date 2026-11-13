@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fulfilling-the-law-with-love
 headword: "FULFILLING THE LAW WITH LOVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Law OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
 | `(holy)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the functioning of the higher intellect which supersedes the lower and intuitively perceives the Divine Truth, Love, and Wisdom.
+
+> "He that loveth his neighbour hath fulfilled the law."—Rom. xiii. 8.
+
+The quality in harmony with its compeers hath risen from the lower levels to the higher.
+
+See LAW OF ZOROASTER, (holy).
+
+**Corrections made:** `Law` → LAW; quotation marks normalised.
+
+**Unclear or supplied:** The See list reads `LAW OF ZOROASTER, (holy)` in the OCR; an item appears to be missing before `(holy)`.
 
 ## Full OCR entry body (exact)
 

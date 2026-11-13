@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-singers-pious
 headword: "SINGERS, PIOUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,28 @@ tags:
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual monads, or sparks, which descend from the plane of atma to inhabit human forms.
+
+> "The pious singers (the Maruts) have after their own mind shouted towards the giver of wealth, the great, the glorious Indra."—*Rig-Veda*, I. 6, 6.
+
+The monads rejoicing in harmony and bliss on the highest planes, and full of spiritual energy, have determined of their own free-will to enter upon manifestation, that they may claim the treasure in heaven, the wealth of the Eternal Spirit (Indra).
+
+> "From yonder, O traveller (Indra), come hither, or from the light of heaven; the singers all yearn for it."—*Ibid.*, V. 9.
+
+The Higher Self passing through the cycle of life is called upon to raise the individual souls, and grant them wisdom and love,—the light of heaven,—which the egos yearn to possess.
+
+> "Whereupon were the foundations (of the earth) fastened? Or who laid the corner-stone thereof; when the morning stars sang together, and all the sons of [God?] shouted for joy?"—JOB xxxviii. 6, 7.
+
+The Supreme questions the incarnate Self (Job) with the object of evolving in him knowledge of the soul-process of which he is outwardly ignorant. The Supreme points out that the lower nature (earth) is derived from the higher nature, and that within it is archetypal perfection (corner stone). Then the mental faculties (stars) in harmony awaited the dawn of the Self (sun), and with the spiritual monads (sons of God), were ready to manifest their energies.
+
+See ATMA, CHILDREN OF EAST, DAWN, HARMONY, HYMN-SINGING, INDRA, JOB, LIGHT, MARUTS, MELODY, MONAD OF LIFE, MORNING STAR, MUSIC, SHEEP (lost), SONG, SONS OF GOD, SOUL (middle), STARS, STONE (corner), SUN, SUN-RISING, TREASURE, WEALTH, WILL.
+
+**Corrections made:** `Ritg- Veda` → Rig-Veda; `Jbid.` → Ibid.; `deterSI-OSIRI mined` → determined (page heading `SI-OSIRI` removed); `is - derived ... 693 that` → is derived ... that (stray dash and page number `693` removed); stray `°` removed; See-list spellings restored (`Licut`, `Maruts`, `MELopy`, `MoNnapD`, `MORNING sTAR`, `Sonc`, `Sons or Gop`, `Stars`).
+
+**Unclear or supplied:** `[God?]` replaces OCR `na` in "sons of na shouted for joy".
 
 ## Full OCR entry body (exact)
 

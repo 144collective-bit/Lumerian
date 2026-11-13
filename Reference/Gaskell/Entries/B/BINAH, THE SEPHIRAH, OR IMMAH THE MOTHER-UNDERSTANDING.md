@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-binah-the-sephirah-or-immah-the-mother-understandin
 headword: "BINAH, THE SEPHIRAH, OR IMMAH THE MOTHER-UNDERSTANDING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Prakriti` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED|PRAKRITI, OR MULA-PRAERITI, BEING THAT OUT OF WHICH EVERYTHING IN NATURE IS PRODUCED]] |
 | `SEPHIROTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEPHIROTH OR NUMERATIONS|SEPHIROTH OR NUMERATIONS]] |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of matter in which Spirit (Hokhmah-wisdom) becomes involved. The Understanding is receptive of Wisdom.
+
+> "For Divine Matter receiving that which defines and bounds it, possesses a definite and intellectual life."—Plotinus, *On Matter*, § 5.
+
+> "From the bosom of this Unity (Kether), two parallel principles proceed in apparent opposition, but which in reality are inseparable; one is female, passive, negative, called Binah, Understanding; the other male, active, positive, called Hokhmah, i.e. Wisdom."—Isaac Myer, *Qabbalah*, p. 193.
+
+> "The universal spiritual passive matter of Ibn Geberol is paralleled by Binah. In the Qabbalah matter always corresponds with the female passive principle, to be influenced by the active, or male, the forming."—*Ibid.*, p. 261.
+
+At the manifestation of a solar universe, the Absolute outbreathes the Relative, which is dual as Spirit and Matter. The first is the active informing agent, and the second the passive, receptive condition.
+
+See HEAVEN AND EARTH, HOKHMAH, MALE-FEMALE, MALKHUTH, MAYA, OCEAN (feminine), PRAKRITI, SEPHIROTH, SHEKINAH.
+
+**Corrections made:** `PLormrovs` → Plotinus; `paesive` → passive; `TIbid.` → Ibid.; `Miyi` → MAYA; `OcEan` → OCEAN; page heading `102 BIRD` removed from mid-sentence.
+
+**Unclear or supplied:** `MAYA` is read from OCR `Miyi`.
 
 ## Full OCR entry body (exact)
 

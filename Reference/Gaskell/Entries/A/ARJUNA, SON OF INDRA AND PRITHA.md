@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arjuna-son-of-indra-and-pritha
 headword: "ARJUNA, SON OF INDRA AND PRITHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,30 @@ tags:
 | `KrisHna` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
 | `Panpavas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
 | `PERBSONALITY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality ensouled by the spiritual ego or divine spark. "Arjuna" is therefore the progeny of God (Indra) and nature (Pritha).
+
+> "Achilles has qualities in common with Arjuna."—Mon. Williams, *Indian Wisdom*, p. 425.
+
+The symbols "Achilles" and "Arjuna" have the same signification.
+
+> "At this time Krishna and Arjuna, standing in a splendid chariot drawn by white horses, also sounded their conches, which were of celestial form: the name of the one which Krishna blew was Panchajanya, and that of Arjuna was called Deva-datta—'the gift of the gods.'"—*Bhagavad-Gita*, Ch. I.
+
+At this period of soul-growth, the Higher Self and the lower Self (personality) were established from centres in the causal-body (chariot) in the higher mind (white horses), and commenced to function,—the one above and the other below. The "conches of celestial form" signify the spiritual means of development. "Krishna's conch sounded," is a symbol of the Spirit operating from within as proceeding from the incarnate archetypal Self. "Arjuna's conch sounded," symbolises the buddhic transmutations of the lower qualities; or spiritual gifts. "Arjuna's crest was Hanuman," signifies the personality's possession of intellect (Hanuman).
+
+> "To get well into the mind Rothe's conception of the universe, as having for its one end the development of spiritual personality by the conflict in worlds, of free-will with circumstance, a view in which difficulties, sorrows, pains are regarded as factors in the process, and heaven and the angelic hierarchy as some of its achieved results, is to sweep as with a keen north wind the fogs out of our brain, and to set us cheerfully to work."—J. Brierley, *Studies of the Soul*, p. 191.
+
+> "We must make a distinction of the two great forms of being, and ask: What is that which is and has no becoming, and what is that which is always becoming and never is?"—Plato, *Timaeus*.
+
+> "The being which is always becoming and never is, is our being in this world of sense; that which is and has no becoming is the being of God, eternal, unchangeable, all-complete. The former is never wholly satisfied, nor can be until it is at one with the latter; it is a state of lack and hindrance, a state of discord and trouble, a state of sin and woe."—R. J. Campbell, *Serm.*, *The Eternal Satisfaction*.
+
+See ACHILLES, BHISMA, BIRTH OF KRISHNA, CHARIOT, GODS, HANUMAN, [Kanwa?], KRISHNA, PANDAVAS, PERSONALITY.
+
+**Corrections made:** Page heading `ARJUNA` removed from mid-sentence; `WiuuasMs` → Williams; `Wiedom` → Wisdom; `Paochajanya` → Panchajanya; `Seif` → Self; `circumstanoe, @ view` → circumstance, a view; `peins` → pains; `havin` → having; `o iritual` → of spiritual; `rocess` → process; `ieracch y` → hierarchy; `resulta` → results; `Timeous` → Timaeus; `PLaro` → Plato; `end woe` → and woe; `Arjuna,. standing` → Arjuna, standing; See-list spellings restored; and similar minor fixes. The comma after "signification" is set as a full stop before the quotation.
+
+**Unclear or supplied:** `[Kanwa?]` is a See-list item that could not be identified. `Panchajanya` is a reading of OCR `Paochajanya`.
 
 ## Full OCR entry body (exact)
 

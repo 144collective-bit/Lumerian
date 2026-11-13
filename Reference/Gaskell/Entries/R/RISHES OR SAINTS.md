@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rishes-or-saints
 headword: "RISHES OR SAINTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `SAGES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAGES, GREAT|SAGES, GREAT]] |
 | `SAINTS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual influences, atma-buddhic, imparting truths to the soul. Or the spiritual monads of life.
+
+See MONAD OF LIFE, SAGES, SAINTS, SONS OF GOD.
+
+**Corrections made:** page headings `PATRIARCHS, 631 RITES` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

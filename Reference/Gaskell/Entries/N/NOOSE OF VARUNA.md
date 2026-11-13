@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-noose-of-varuna
 headword: "NOOSE OF VARUNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SUN-CATCHING` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of knowledge, and love of Truth and Right.
+
+> "Having made a noose, the sacrificer throws it over the victim with,—'With the noose of sacred order I bind thee, O oblation to the gods!'—for that rope, forsooth, is Varuna's: therefore he thus binds it with the noose of sacred order."—*Sata. Brâh.*, III. 7, 4, 1.
+
+This refers to the transmutation through buddhi-manas of the lower qualities which have been relinquished for truth and righteousness and offered up as sacrifice to the ideals (gods).
+
+See GODS, JACKAL, OBLATION, SACRIFICE, SUN-CATCHING, TRANSMUTATION, VARUNA.
+
+**Corrections made:** `Bréh.` → Brâh.; `IIT.` → III.; `Gonos` → GODS; `SACRI-_ FICE` → SACRIFICE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

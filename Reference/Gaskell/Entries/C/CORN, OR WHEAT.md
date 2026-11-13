@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-corn-or-wheat
 headword: "CORN, OR WHEAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,18 @@ tags:
 | `SowErR` | **unresolved** (review queue) |
 | `Sowrna` | **unresolved** (review queue) |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher qualities, the spiritual germs of which have been sown in the lower nature, where through cultivation they have fructified, grown upwards, and borne the "fruit of the spirit" in the higher nature of the soul.
+
+> "He who cultivates most corn, and fruits, with the left arm and right, rejoiceth."—*Vendidad*, III.
+
+The ego is most satisfied in himself, who assiduously cultivates those virtues, qualities, and powers, which accrue through the exercise of the active functions of the mind, incoming and outgoing, during periods of incarnation in which Karma is incurred, and results are achieved through the functionings of buddhi. What is sown in sorrow is reaped in joy. See AGRICULTURE, ARMS (body), BARLEY, BREAD, CAKE, CULTIVATION, FRUIT OF THE SPIRIT, HARVEST, LEFT, PLOUGHING, REAPING, RICE, RIGHT ARM, SEED (good), SHEWBREAD, SOWER, SOWING, WHEAT.
+
+**Corrections made:** `fructifled` → fructified; `corm` → corn; `an right` → and right; stray `>` and page heading `the 174 CORPSE` removed (`the` rejoined: "the 174 CORPSE and results" → "and results"); See-list spellings restored (`Arms`, `BaRLey`, `Rearine`, `Rice`, `RiecsTr ARM`, `SowErR`, `Sowrna`).
+
+**Unclear or supplied:** The OCR reads `incurred, > the 174 CORPSE and results`; the word `the` before the page number is treated as part of the page-heading debris and removed.
 
 ## Full OCR entry body (exact)
 

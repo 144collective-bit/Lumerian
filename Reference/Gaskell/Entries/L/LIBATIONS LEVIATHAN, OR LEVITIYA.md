@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-libations-leviathan-or-levitiya
 headword: "LIBATIONS LEVIATHAN, OR LEVITIYA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,28 @@ tags:
 | `WHALE (Jonah)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Cycle of Life in the quaternary; or the nature of things in time and space.
+
+> "In his neck remaineth strength, and sorrow is turned into joy before him (leviathan)."—Job xli. 22.
+
+In the purified emotions (the neck) there is the power to overcome the lower desires, and when these are conquered, suffering will give place to bliss at the termination of the cycle.
+
+> "Thou breakest the heads of leviathan in pieces, and gavest them to be meat to the people inhabiting the wilderness."—Ps. lxxiv. 14.
+
+This refers to the intelligence developed in each period of a manvantara, which becomes sustenance to the qualities of the desire-mental order, and these in their turn shall be transmuted by the Spirit (see Isa. xxvii. 1).
+
+> "All ancient Fathers of the Church of Christ agree in recognizing a secondary and spiritual sense in this description (Job xli.) The Leviathan of Scripture [word unclear] of the Enemies of God and His [people?]. . . . Proceeding in this sense [(]that Satan is called the dragon), the Ancient Expositors see here a series of questions which cannot be answered affirmative by the natural man, but are solved triumphantly by Christ, the Second Adam, the Divine Job, Who conquered by suffering, and Who laid hold on the Dragon, that old Serpent, and bound him, and cast him into the bottomless pit."—Wordsworth, *Bible*, Job, p. 97.
+
+> "We must ask about this (leviathan); whether, when the saints were living a blessed life apart from matter and from any body, the dragon (leviathan), falling from the pure life, became fit to be bound in matter and in a body, so that the Lord could say, 'This is the beginning of the creation of God, made for His angel to mock at.'"—Origen, *Comm. on John*, Bk. I. § 17.
+
+See BEHEMOTH, CAPRICORN, CIRCLE, CROCODILE, HEAD, [He?], [Kawan?], MANVANTARA, MEAT, NECK, OCEAN, PEOPLE, SERPENT (ananta), [Sian?], WHALE (Jonah), WILDERNESS, ZODIAC.
+
+**Corrections made:** `Jos` → Job; `neek` → neck; `ar` → are; `leviathen` → leviathan; `]).` → 1).; `d iption` → description; `uestions` → questions; `Drvrivz Jos` → Divine Job; `con: quered` → conquered; `bottonleas` → bottomless; `6 blessed` → a blessed; `ange!` → angel; `Joha` → John; `WoRDSWORTH` → Wordsworth; See-list spellings restored (`CAPRICORNTS`, `Crrotz`, `CrocoprmE`, `Hrap`, `NECE`, `Ockan`).
+
+**Unclear or supplied:** In the Wordsworth quotation the OCR is badly damaged: `[word unclear]` for OCR `at`, `[people?]` for `ple`, and `[(]` is supplied to open the parenthesis. In the See list `[He?]`, `[Kawan?]` and `[Sian?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

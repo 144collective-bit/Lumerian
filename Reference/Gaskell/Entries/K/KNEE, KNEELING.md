@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-knee-kneeling
 headword: "KNEE, KNEELING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Famity` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FAMILY|FAMILY]] |
 | `Lzas` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of moral strength, or submission to the law of order and progress, by restraining the lower activities (lower limbs) and weakening them by bending to the higher will within.
+
+See FAMILY, LEGS.
+
+**Corrections made:** See-list spellings restored (`Famity`, `Lzas`; the second read as LEGS).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

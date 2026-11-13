@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-saints-or-the-sanctified
 headword: "SAINTS, OR THE SANCTIFIED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,20 @@ tags:
 | `SOSHYANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANTS|SOSHYANTS]] |
 | `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 | `VICTORY. 648` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the qualities or souls in harmony with the Divine nature, and becoming purified and perfected; or finally being perfected and attaining liberation from the lower nature at the end of the cycle.
+
+> "'They that believe' are men in whom human life is perfect in proportion to the completeness of their faith through the Son of Man. They are men raised to the highest power. The man in whom Christ dwells by faith is the man in whom the divine ideal of human life is perfect, or is steadily becoming perfect, by the entrance into him of the perfect life of the man Christ Jesus, through obedience and love."—Phillips Brooks, *Serm.*, *The Safety and Helpfulness of Faith*.
+
+> "For what is the goal to which (the saints) tend? The likeness of God in Christ—all His wisdom, His love, His holiness. He is all theirs, and all that He is, is to be transfused into their growing greatness. On the one hand is infinite perfection, destined to be imparted to the redeemed spirit. On the other hand is a capability of indefinite assimilation to, by reception of, that infinite perfection. We have no reason to set bounds to the possible expansion of the human spirit. If only there be fitting circumstances and an adequate impulse, it may have endless growth."—A. Maclaren, *Sermons*, 2nd Series, p. 193.
+
+See ARHATS, CHRIST'S SECOND COMING, INVOCATION, LIBERATION, MONKS, RE-BIRTH, REDEMPTION, REGENERATION, REMISSION, RESURRECTION, RISHIS, SALVATION, SOSHYANTS, TRI-RATNA, VICTORY.
+
+**Corrections made:** `PxHiILutirs` → Phillips; `Fatth` → Faith; `Jife` → life; page number `648` removed from the end; See-list spellings restored (`Monks`, `RE&GENERATION`, `RisHeEs`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

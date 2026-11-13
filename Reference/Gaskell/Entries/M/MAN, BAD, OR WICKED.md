@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-man-bad-or-wicked
 headword: "MAN, BAD, OR WICKED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -57,6 +58,28 @@ tags:
 | `UNRBIGHTEOUS MAN` | **unresolved** (review queue) |
 | `WAY OF THE LOED` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
 | `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mind subject to the lower desires, passions, affections, and emotions of the lower nature, which effectually bind it down to the re-incarnating process.
+
+> "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."—Prov. xi. 5.
+
+The higher qualities of the perfected soul direct the consciousness upwards: but the soul that is undeveloped is attracted downwards by its desires for the things of the lower life.
+
+> "Those who have chosen the good in this world are received after death by spirits, and guided, under the protection of the dog Sura, to the Kinvat bridge; the wicked are dragged thither by the Daevas."—*Zoroastrian System*.
+
+Those souls who have done well,—who have sown worthily,—shall reap the reward hereafter, upon those planes whereon they are gradually awakening. The "dog Sura" is the symbol of power, tenacity and will, and which stands for the Self's faithful servant, who has succeeded in crossing the bridge which unites the lower and the higher consciousnesses. The "wicked" souls are they who are relatively undeveloped, and who are drawn away by the lust of life, pride, attachment to the objects of sense and egotism.
+
+> "When I say unto the wicked, O wicked man, thou shalt surely die; if thou (O son of man) dost not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood will I require at thine hand."—Ezek. xxxiii. 8.
+
+The "son of man" is the spiritual ego or spiritual mind, and stands for the conscience warning the mental qualities or the personality from evil courses. If the conscience does not speak, then the lower nature is not held responsible for wrongdoing, but the spiritual mind is accountable for not warning the lower mind.
+
+See ADAM'S DEAD BODY, BLOOD, BRIDGE (kinvat), CONSCIENCE, DAEVAS, DOG-STAR, DUSAHK, GATHA (kam.), HAND OF BEAST, [Hanitot?], HELL, HIGHER AND LOWER, IMMORTALITY FORFEITED, JUDGMENT-DAY, KARMA, MAN (righteous), PERSONALITY, PRIEST, PURGATORY, REAPING, RE-INCARNATION, SON OF MAN, UNRIGHTEOUS MAN, WAY OF THE LORD, WICKEDNESS.
+
+**Corrections made:** `PRov.` → Prov.; `rotection` → protection; `Ezex.` → Ezek.; page heading `471 MAN` removed from mid-sentence; See-list spellings restored (`ConscrENcE`, `DAEVas`, `Doa-staR`, `DuUSAHK`, `RE-INOARNATION`, `UNRBIGHTEOUS`, `LOED`, and similar).
+
+**Unclear or supplied:** `[Hanitot?]` in the See list cannot be identified; `DOG-STAR` (OCR `Doa-staR`) is a likely reading.
 
 ## Full OCR entry body (exact)
 

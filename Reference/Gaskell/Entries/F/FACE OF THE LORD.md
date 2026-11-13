@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-face-of-the-lord
 headword: "FACE OF THE LORD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Apdrnaaira` | **unresolved** (review queue) |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher knowledge of the real; or the Truth nature revealed to the mind.
+
+> "Turn us again, O God; and cause thy face to [shine?] and we shall be saved."—Ps. lxxx. 3.
+
+The qualities aspire, turning from the lower nature to the Ideal within, confident that in knowledge of the real lies the hope of emancipation from error and illusion of the lower mind.
+
+See ADHYATMA, LIGHT.
+
+**Corrections made:** `a` → [shine?]; `lxxx. 3. —Fs.` → Ps. lxxx. 3.; `Apdrnaaira` → ADHYATMA (uncertain).
+
+**Unclear or supplied:** `[shine?]` is a likely reading of OCR `a` (the verse reads "cause thy face to shine"). `ADHYATMA` is a best reading of OCR `Apdrnaaira`.
 
 ## Full OCR entry body (exact)
 

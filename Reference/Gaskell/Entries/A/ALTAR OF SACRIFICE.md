@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-altar-of-sacrifice
 headword: "ALTAR OF SACRIFICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
 | `TaBLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
 | `THUNDERBOLT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a structure of the religious consciousness in the highest part of the lower nature, on which the lower desires and aims are offered up to the Supreme Goodness.
+
+> "The altar is 'the table of the Lord': whatever was put upon it was 'the food of God.' The fire from heaven, emblem of God's holiness, consumes the offering; and it all ascends as sweet incense before Him."—A. Jukes, *The Law of the Offerings*, p. 49.
+
+> "There is something sublime, something that is not wholly of this world, in the deed that costs the doer his personal happiness, the surrender of his own gratification in the interest of something higher. The world is always ready to reverence that when it sees it, perhaps without quite knowing why; but more often than not the essence of the deed consists in the fact that the world does not see it for what it is, but either ignores it or mistakes it for something else. It is this principle which lies at the heart of all the sacrificial systems of all the religions that have ever existed. Human nature is curiously constituted in this respect. It is damnably selfish, and yet never fails to respond in some degree to the call for self-immolation. There is something in us all which makes us want to lay ourselves on the altar when any great crisis demands it, any superpersonal ideal has to be served. We may not yield to it, but the impulse is there; it is in everybody."—R. J. Campbell, *Serm.*, Life's Great Antinomy.
+
+See ATONEMENT, BURNT OFFERING, CHURCH, FOOD, INCENSE, PROCESSION, TABLE, THUNDERBOLT.
+
+**Corrections made:** `JuKes` → Jukes; `intereet` → interest; `CaMPBELL` → Campbell; `CuuncH`, `TaBLE` See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-raft-of-wisdom
 headword: "RAFT OF WISDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Nimvana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NIRVANA, OR NIBBANA|NIRVANA, OR NIBBANA]] |
 | `SHORE (other)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `VIGARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIGARA, THE AGELESS RIVER|VIGARA, THE AGELESS RIVER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the functionings of buddhi to raise the soul.
+
+> "Even if thou art the most sinful of all sinners, yet shalt thou (eventually) cross over all sin by the raft of wisdom."—*Bhagavad-Gita*, Ch. IV. 36.
+
+The ego in all the stages of its progress through the lower nature has before it the certainty of rising above all evil and imperfection by means of the transmutations of buddhi.
+
+> "By me is made a well-constructed raft,—so said Bhagavat (Buddha),—I have passed over to Nibbana, I have reached the further bank, having overcome the torrent of passions."—*Sutta-nipâta*, 21.
+
+The soul (Buddha), in the course of its pilgrimage, has become possessed of the higher qualities which are the means by which the consciousness passes over from the lower to the higher planes. The indwelling Self has overcome the attractions of desire and sensation and entered into a state of bliss (nibbana).
+
+See ARK, BOAT OF WISDOM, BUDDHI, NIRVANA, SHORE (other), VIHARA.
+
+**Corrections made:** page heading `608 RAGHA` removed from mid-sentence; `Sudtanipdta` → Sutta-nipâta; `«6 state` → a state; `Ana` → ARK; `Bupp#8l` → BUDDHI; `Nimvana` → NIRVANA; `VIGARA` → VIHARA; and similar minor fixes.
+
+**Unclear or supplied:** See-list `Ana` read as ARK and `VIGARA` read as VIHARA are best guesses. `Sudtanipdta` read as Sutta-nipâta.
 
 ## Full OCR entry body (exact)
 

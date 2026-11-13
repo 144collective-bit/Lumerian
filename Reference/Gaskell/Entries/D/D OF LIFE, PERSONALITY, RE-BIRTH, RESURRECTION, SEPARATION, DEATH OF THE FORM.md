@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-d-of-life-personality-re-birth-resurrection-separat
 headword: "D OF LIFE, PERSONALITY, RE-BIRTH, RESURRECTION, SEPARATION, DEATH OF THE FORM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `MONAD OF FORM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MONAD OF FORM|MONAD OF FORM]] |
 | `SIMILITUDEs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `SIVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the withdrawal of life from the form in which it has been manifesting its qualities. All vehicles of a monad of life die after a period, and are dissipated into their primary atoms, but life and consciousness endure for ever, as they are aspects of the eternal Spirit. The human body yields up its life only in relation to its organising human monad which has withdrawn itself; but the lives of its molecules remain, and these set up the changes called decomposition.
+
+> "When we know what form really is, we know what is life and what is death." "Thus nothing is ever annihilated but the accidental, the exterior, material form; both matter and the substantial form, i.e. spirit, being eternal" (Bruno).—L. McIntyre, *Giordano Bruno*, pp. 160, 165.
+
+> "There is in every living organism a law of Death. We are wont to imagine that Nature is full of Life. In reality it is full of Death. One cannot say it is natural for a plant to live. Examine its nature fully, and you have to admit that its natural tendency is to die. It is kept from dying by a mere temporary endowment, which gives it an ephemeral dominion over the elements—gives it power to utilise for a brief span the rain, the sunshine, and the air. Withdraw this temporary endowment for a moment and its true nature is revealed. Instead of overcoming Nature it is overcome. The very things which appeared to minister to its growth and beauty now turn against it and make it decay. . . . Life is merely a temporary suspension of these destructive powers; and this is truly one of the most accurate definitions of life we have yet received—'the sum total of the functions which resist death.'"—H. Drummond, *Natural Law*, etc., pp. 103-4.
+
+The above presents only a negative view of life. Life is a directive agency from higher planes, guiding growth according to specific patterns of animal, vegetal, and mineral forms. The withdrawal of the directive agency is death of the form. See ASTRAL, BIRTH (forms), DEVAS (builders), MENTAL, MONAD OF FORM, SIMILITUDES, SIVA.
+
+**Corrections made:** page heading `DEATH` removed from mid-sentence; `ever living` → every living; `Drummonp` → Drummond; `McINtTYRE` → McIntyre; stray `—-` before the McIntyre attribution removed; `a_ directive` → a directive; See-list spellings restored (`BirtH`, `SIMILITUDEs`).
+
+**Unclear or supplied:** `ever living organism` is read as `every living organism`. The headword begins `D OF LIFE` as printed.
 
 ## Full OCR entry body (exact)
 

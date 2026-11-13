@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-death-of-the-personality
 headword: "DEATH OF THE PERSONALITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `MAN` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfecting of the lower nature of the soul, which implies its dissolution and the rise of the human consciousness to the higher mind. The personality is always said to be mortal. It disappears as it unites with the immortal Individuality at the end of the cycle.
+
+> "For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive."—1 Cor. xv. 21, 22.
+
+> "Blessed are the dead which die in the Lord from henceforth."—Rev. xiv. 13.
+
+For since by the fall of mind (man) came obscuration of the Spirit, by the rise of mind comes also the return to spiritual life. For as in the lower mind or personality (Adam) there is no spiritual life, so in the higher mind ruled by the Spirit shall the individualities have immortality. Blessed are the egos whose personalities are perfected and disappear in their individualities from henceforth. The Personality is represented in the whole series of changing incarnations of one ego. When the Personality is perfected and dissolves, the causal body is also perfected and becomes the seat of the ego in the manifest order.
+
+See ADAM (lower), CAUSAL-BODY, CORPSE, DEAD, FALL, INCARNATION OF SOULS, INDIVIDUALITY, JESUS (mortal), LAZARUS, MAN, PERSONALITY, RESURRECTION.
+
+**Corrections made:** `sinco` → since; page heading `204 DEATH` removed from mid-sentence; See-list spellings restored (`Avam`, `Drab`, `Fat`, `sOULs`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-srosh-or-sraosha-righteous
 headword: "SROSH, OR SRAOSHA, RIGHTEOUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `RELIGION (good). SROTAPANNA` | **unresolved** (review queue) |
 | `SROTAPATTI` | **unresolved** (review queue) |
 | `OR SOTAPANNA:` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will and power.
+
+> "Srosh is the great teacher of the good religion. . . . He fights chiefly against the evil daevas."—M. Haug, *Essays*, p. 308.
+
+The Divine Will guides the outpouring spiritual life, and dispels ignorance and illusion in the mind.
+
+See ASHA-VANUHI, DAEVAS, IGNORANCE, ILLUSION, MITRO, NERYOSANG, RELIGION (good).
+
+SROTAPANNA, SROTAPATTI, OR SOTAPANNA:
+
+**Corrections made:** `symbol!` → symbol; `tencher` → teacher; `M. Hau` → M. Haug; See-list spellings restored (`Darvas`, `IcGnorRANCE`, `MitTRO`).
+
+**Unclear or supplied:** The OCR ends with the headword `SROTAPANNA, SROTAPATTI, OR SOTAPANNA:` of the following entry, with no body; kept as printed.
 
 ## Full OCR entry body (exact)
 

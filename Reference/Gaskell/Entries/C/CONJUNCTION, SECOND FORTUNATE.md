@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conjunction-second-fortunate
 headword: "CONJUNCTION, SECOND FORTUNATE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FORTUNATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FORTUNATE CONJUNCTION|FORTUNATE CONJUNCTION]] |
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the second initiation of the Individuality. It is initiation on the mental plane, and corresponds to complete mastery of the astral vehicle.
+
+See FORTUNATE, INITIATIONS, WALKS.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

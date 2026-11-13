@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-footsteps-in-following-a-leader
 headword: "FOOTSTEPS IN FOLLOWING A LEADER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `WASHED THE FEET` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Significant of obedience to the higher guidance, through the spiritual progress.
+
+See WASHED THE FEET.
+
+**Corrections made:** page heading `287 FOREHEAD` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

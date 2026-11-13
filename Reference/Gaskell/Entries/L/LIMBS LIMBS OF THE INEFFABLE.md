@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-limbs-limbs-of-the-ineffable
 headword: "LIMBS LIMBS OF THE INEFFABLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,24 @@ tags:
 | `SPACES OF INEFFABLE` | **unresolved** (review queue) |
 | `SrrirE` | **unresolved** (review queue) |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the immanent qualities of the Archetypal Man,—the Self involved in matter. The qualities become separated and dispersed in the period of Evolution,—the homogeneous becoming the heterogeneous.
+
+> "At one time all the limbs which form the (human) body united into one by Love, grow vigorously in the prime of life; but yet at another time, separated by evil Strife, they wander each in different directions along the breakers of the sea of life. Just so it is with plants and with fishes dwelling in watery halls, and beasts whose lair is in the mountains, and birds borne on wings."—Empedocles, Fairbanks, 247.
+
+In the pre-evolutionary period, the Archetypal Man existed in the Absolute, and so was involved in Love Divine, in which perfect harmony the potential diversity was merged in complete unity. But when evolution commenced, and the struggle for separate existence began, the functions of the Archetypal Man,—the Oversoul,—are said to be scattered, inasmuch as through desire, instinct, habit, opinion, etc., a continual surging and unrest served to stir the latent emotions by means of which growth of the soul is accomplished. So it is with the dawn of the emotions, the astro-mental nature, the ambitions, ideals, and aspirations (birds).
+
+> "The Body of the Heavenly Man (Adam Kadmon) from whose limbs emanate the universe and everything in it."—Blavatsky, *Secret Doctrine*, Vol. II. p. 662.
+
+> "It is clear that by the will of God every gain in life, human or sub-human, is the fruit of effort and struggle. It is no use wishing it were otherwise or arguing that life could have been sweeter and brighter if things had been so arranged that we could have had the gains without the struggle. That would have been very nice and agreeable, but it is not the method God has chosen in bringing many sons unto glory. It is a law which holds good on all planes—physical, mental, moral, and spiritual. The spiritual comes last in the order of time because it was also the first."—R. J. Campbell, *Serm.*, Warfare of Life.
+
+See ADAM (higher), ARC. MAN, COSMOS, CRUCIFIXION (gnostic), [DARUVA?], DISMEMBERMENT, EVOLUTION, INVOLUTION, MEMBERS, MUMMY, NAMES, PRAGAPATI, PURUSHA, SEA, SEPARATION, SPACES OF INEFFABLE, [SrrirE?], ZAGREUS.
+
+**Corrections made:** `Man _ existed` → Man existed; `Buriavarsky` → Blavatsky; `IT.` → II.; `Tt` → It; `and _ spiritual` → and spiritual; See-list spellings restored (`Apam`, `Cosmos`, `Mummy`, `Names`, `PraGApati`, `Puruswa`, `SxEa`) and similar minor fixes.
+
+**Unclear or supplied:** See-list items `[DARUVA?]` and `[SrrirE?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

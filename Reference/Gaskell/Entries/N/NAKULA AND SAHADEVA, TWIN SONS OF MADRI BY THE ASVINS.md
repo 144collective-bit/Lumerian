@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nakula-and-sahadeva-twin-sons-of-madri-by-the-asvin
 headword: "NAKULA AND SAHADEVA, TWIN SONS OF MADRI BY THE ASVINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Asvins` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASVINS, THE TWO|ASVINS, THE TWO]] |
 | `Droscurt` | **unresolved** (review queue) |
 | `INDRA. Mysterium` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the evolving love-natures of goodness and truth on the mental plane of the more developed soul.
+
+> "When the Asvins restored the rupa of Indra, Nakula and Sahadeva were born."—Mon. Williams, *Indian Wisdom*, p. 388.
+
+When the individuality and the personality together formed the causal-body, love of goodness and truth was evolved in the higher mind. In evolution the potential gives place to the actual.
+
+See ASVINS, DIOSCURI, INDRA. [Mysterium]
+
+**Corrections made:** `lovematures` → love-natures; `causalbody` → causal-body; `Witiams` → Williams; `Droscurt` → DIOSCURI.
+
+**Unclear or supplied:** The stray word `Mysterium` at the end appears to belong to the preceding entry (Boehme, *Magnum Mysterium*); it is kept in brackets.
 
 ## Full OCR entry body (exact)
 

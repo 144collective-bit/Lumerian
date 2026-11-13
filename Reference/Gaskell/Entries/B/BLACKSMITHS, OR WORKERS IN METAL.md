@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blacksmiths-or-workers-in-metal
 headword: "BLACKSMITHS, OR WORKERS IN METAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `War` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
 | `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
 | `WoRKEBS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mental qualities disciplined by the Spirit, and directed and energised from buddhi.
+
+> "Then came hither Horbehudti; his servants were in his following as workers with weapons of metal; each had an iron lance and a chain in his hand; then they smote the crocodiles and the hippopotami."—*Legend of the Winged Sun-disk*.
+
+Then came forth the Son of God,—the Second Logos; and the advanced qualities which attended upon His advent, and which are typical as workers of metal, in that metal is comparable to that mentality which will endure and consolidate. And each of these workers is said to have a "lance and a chain," which signify that which strikes and that which withstands,—positive and negative,—that which goes forth and that which withholds itself. And in this way they smote or suppressed the lower desire elementals.
+
+See BATTLE, CONFLICT, HORBEHUDTI, METAL, WAR, WEAPONS, WORKERS.
+
+**Corrections made:** `aa workers` → as workers; `Batrie` → BATTLE; `MeTat` → METAL; `WoRKEBS` → WORKERS; stray page heading `Ara, Maaic` (before `See`) removed.
+
+**Unclear or supplied:** The words `Ara, Maaic` before the See list were removed as a page heading; they may instead be damaged See-list items.
 
 ## Full OCR entry body (exact)
 

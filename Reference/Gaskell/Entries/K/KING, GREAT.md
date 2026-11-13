@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-king-great
 headword: "KING, GREAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,26 @@ tags:
 | `PAMYLES` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PAMYLES|PAMYLES]] |
 | `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, the manifest God, as the ruler of the qualities of the soul on the higher and lower planes.
+
+> "Beautiful in elevation, the joy of the whole earth is mount Zion, on sides of the north, the city of the great King."—Ps. xlviii. 2.
+
+Harmonious and exalted, and the blissful hope of the evolving lower nature, are the higher planes of consciousness above the mental plane:—they are the planes of atma-buddhi, the "kingdom of heaven" in which the Higher Self is centred and reigns supreme.
+
+> "A King formed of particles of the Lords of the gods, he therefore surpasses all created beings in lustre. . . . Through his supernal power he is Fire and Wind, he Sun and Moon, he the Lord of justice (Yama), he Kubera, he Varuna, he great Indra. Even an infant King must not be despised from an idea that he is a mere mortal; for he is a great Deity in human form."—*Laws of Manu*, VII. 5-8.
+
+The Higher Self comprises in his nature all the higher qualities in their highest manifestation; he therefore surpasses all created beings in glory. Through his forthgoing energy he becomes Buddhi and Manas, the Individuality and the Personality, the Lord of Karma, the laid up Wealth of Evolution, the Substance of Truth, the Lord of Devotion. When, in the course of evolution, the Higher Self is born small and weak in the soul, he is not to be regarded as one of the lower mortal qualities, for, indeed, he is the Divine Ruler incarnate in the human soul, the indwelling God, the Christ in us.
+
+> "God is a truth to you. Your soul is your true self. Christ, the spiritual [word unclear]gion of manhood, the true Son of God, is really King of the world."—Phillips Brooks, *Serm., The Giant*, etc.
+
+See AMENI, BIRTH OF JESUS, [BIRTH] OF OSIRIS, CITY OF GOD, EMPEROR, KAPILA, OSIRIS, PAMYLES, SUDDHODANA, WORLD.
+
+**Corrections made:** `Ps,` → Ps.; `Pures Brooxs` → Phillips Brooks; `of d` → of God; `KaPita` → KAPILA; `CITy` restored in See list; page heading `KING` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]gion` for OCR `a gion` (probably "religion"). `[BIRTH] OF OSIRIS`: the OCR reads "BIRTH OF JESUS, OF osirnis,"; `BIRTH` is supplied. The quotation from *Laws of Manu* has no opening quotation mark in the OCR.
 
 ## Full OCR entry body (exact)
 

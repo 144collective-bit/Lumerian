@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-george-and-the-dragon
 headword: "GEORGE AND THE DRAGON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Horst` | **unresolved** (review queue) |
 | `MITHRA AND BULL` | **unresolved** (review queue) |
 | `PrRsons` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblematical of Reason overcoming the lower Emotion nature; or of Mind controlling Desire. The horse and rider signify intelligence under the direction of the will; and the dragon is the lower nature which wars against the soul,—the selfish nature which devours the innocent and obstructs liberty and justice.
+
+> "The true end of man is moral perfection, not pleasure. And it is in bringing the animal nature into obedience to the rational, the particular will into subjection to the universal, that he advances towards that end. The moral [quality?], subjectively considered,—of course the act has also, or rather primarily, a moral quality,—resides, not in the result achieved, nor in the end pursued by him, but in the motive which prompts him in the inner spring of action, in volition. The only real and absolute good for man is a good will: that is a will determined by the moral law. The desire to do right, as right, is morality. No act is really ethical which is not motived by Duty, by obedience to the moral law. And that law, as Kant admirably teaches, is not a higher self, but an independent reality, which evokes the higher self within us."—W. S. Lilly, *The Great Enigma*, p. [2?].
+
+> "We want a diffusion of knowledge and a prevailing habit of intellectual activity. The reason why the morally best men are so often in our experience the least intelligent and the most bigoted is the fact that they are intellectually undeveloped. The ancient and obstinate error of asceticism is rearing its head again among us, and wherever asceticism appears, fanaticism is not far distant. I mark already the familiar burden of ascetic preaching, the exaltation of the non-natural, the contempt of the intellectual, the parade of self-suppression, the depreciation of liberty. By authoritative lips and in persuasive terms you are often enough encouraged to absolve yourselves from the arduous yet uplifting labours of the intellect, and to drown thought in the hustle and bustle of social work. Against all such counsels I raise the short and pregnant sentence of St. Paul: 'Brethren, be not children in mind, howbeit in malice be ye babes, but in mind be men' (1 Cor. xiv. 20)."—H. Hensley Henson, *Christ and the Nation*, p. 261.
+
+See DRAGON, HORSE, MITHRA AND BULL, [PERSONS?].
+
+**Corrections made:** `obetructs` → obstructs; page heading `307 GERMS` removed from inside `per307 GERMS fection` (→ perfection); `W Sz Litiy` → W. S. Lilly; `Pnul` → Paul; `Henstey Henson` → Hensley Henson; See-list spellings restored (`Dracon`, `Horst`, `PrRsons`); quotation marks normalised. The See list ends with a trailing comma in the OCR (probably cut off); set as a full stop.
+
+**Unclear or supplied:** `[quality?]`: OCR reads "moral que." `p. [2?]`: OCR reads `p. 2)`. `[PERSONS?]`: OCR reads `PrRsons`. The See list may be incomplete in the OCR.
 
 ## Full OCR entry body (exact)
 

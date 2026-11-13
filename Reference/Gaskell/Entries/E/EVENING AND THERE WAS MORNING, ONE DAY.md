@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-evening-and-there-was-morning-one-day
 headword: "EVENING AND THERE WAS MORNING, ONE DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MORNING AND EVENING` | **unresolved** (review queue) |
 | `PLANETARY CHAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETARY CHAIN SYSTEM|PLANETARY CHAIN SYSTEM]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+"Evening" and "morning" are symbolic of the indrawing and outgoing forces of manifestation. This "first day" signifies the period of the first Life-wave passing through the buddhic plane.
+
+> "Each Day would consist of an evening that witnessed the decline of force, and its disintegrating consequences, and of a morning that beamed on the progress of force."—[Fitz Simon?], *The Gods of Old*, p. 16.
+
+> "'The outward man perishes,' as Paul says, 'but the inward man is renewed day by day.' The perishing of a form and method in which we have lived may naturally bring a pensive sadness like that which always comes to us as we watch a setting of the sun, but he who is in the true spirit of the sunset turns instantly from the westward to the eastern look. The things the day has given him,—its knowledge, and its inspirations, and its friendship, and its faith,—these the departing sun is powerless to carry with it. They claim the new day in which to show their power and to do their work. Live deeply and you must live hopefully. That is the law of life."—[Phillips?] Brooks, *Mystery of Iniquity*, p. [number unclear].
+
+See BREATH (divine), EAST, KARSHVARES, MORNING AND EVENING, PLANETARY CHAIN, RENOVATION.
+
+**Corrections made:** `eveni`, `an ite disintegrati consequences` → evening, and its disintegrating consequences; `@ morning` → a morning; `Firz Snion` → [Fitz Simon?]; `serra Brooxs` → [Phillips?] Brooks; See-list spellings restored (`Breats`, `East`, `KarsuVARES`); quotation marks normalised.
+
+**Unclear or supplied:** The Gods of Old author is damaged (OCR `Firz Snion`), and the first name of Brooks is damaged (OCR `serra`). The page number is lost (OCR `p. ;`). `BREATH (divine)` is read from OCR `Breats (divine)`.
 
 ## Full OCR entry body (exact)
 

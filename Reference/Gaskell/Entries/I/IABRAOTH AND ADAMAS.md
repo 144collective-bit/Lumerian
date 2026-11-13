@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iabraoth-and-adamas
 headword: "IABRAOTH AND ADAMAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,30 @@ tags:
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SEPARATION. ‘“*T] AM` | **unresolved** (review queue) |
 | `”—` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Divine principle and the lower principle, each ruling six out of the twelve divisions of the cycle of life. The six Æons ruled by the Divine principle are represented by the six signs of the Zodiac above the lowest point, or first point of Libra. This path corresponds with the ascent of the Christ (sun) who triumphs in the sign Pisces,—emblem of the Saviour,—wherein the two (fish), the higher and the lower Selves, become One.
+
+> "The six Æons under Iabradôth have repented and practised the mysteries of Light, and have therefore been carried by Ieou to a pure atmosphere near the light of the Sun."—"Books of the Saviour," *Pistis Sophia*.
+
+In the ascending cycle the qualities become purified. "Ieou" stands for the higher Triad which carries the risen or transmuted activities into the Higher Self (sun).
+
+See ADAMAS (lower), ÆONS (twelve), EVOLUTION, FISH, HOUR (mid-day), I E OU, INVOLUTION, LIBRA, LIGHT, MYSTERIES, PISCES, SUN, TRIAD, ZODIAC.
+
+### Also in this note: "I AM"
+
+A symbol of the self-conscious "I" of the Self, reflected on the plane of the mind as the individuality enthroned in the causal vehicle.
+
+> "For 'I am' is my rest in His seasons; even he who when He manifests His [power?] the Company of the Gods become his firstborn children."—*Book of the Dead*, Ch. CX. (trans. Blackden).
+
+The "I am" is the true Individuality which is arrived at only as the cycles (seasons) are seen to be illusory and impermanent. The Individuality persists; for even the Logos, when he first determines the emanating of a universe, requires the help of the Builders, or Devas and Archangels, who become "his first-born children," that is, come forth first in order to do his will. (The "I am I" feeling is produced through the forthpouring of the Divine life-consciousness into the forms which are temporary conditions and set limits for a time to the consciousness. The consciousness itself is one, but in the forms it appears as many. The apparent breaks are due to the illusory limits of the forms.)
+
+See AHANKARA, [APES?], ARCHANGELS, BUILDERS, CAUSAL-BODY, COMPANY (gods), CONSCIOUSNESS, COSMOS, CREATION, DEVAS, FORMS, INDIVIDUALITY, PERSONALITY, SEASONS, SEPARATION.
+
+**Corrections made:** `wons` → Æons; `Iabradéth` → Iabradôth; `ef Light` → of Light; `Psstis` → Pistis; `Pisces ,` → Pisces,; `manifesta` → manifests; `is firstborn` → his firstborn; page headings `379 sey AM *!` (mid-sentence) and `T] AM,—` (at the end) removed; See-list spellings restored (`Acons`, `Evo.LuTion`, `Invorvurion`, `Lrpra`, `Lieut`, `CoNscrousNEss`, `InprvipvuALITY`).
+
+**Unclear or supplied:** Contains a second entry: "I AM". `[power?]` (OCR `pe`). `[APES?]` See-list item not identified. `Æons` read from OCR `wons`/`Acons`.
 
 ## Full OCR entry body (exact)
 

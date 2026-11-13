@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jotunheim
 headword: "JOTUNHEIM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `NIFLHEIM. JOVE ; JUPITER ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower plane of the mind (kama-manas) with its activities of fear, cunning, greed, spite, etc.
+
+See GOLDEN AGE, NIFLHEIM.
+
+**Corrections made:** Stray page headings `JOVE ; JUPITER ;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

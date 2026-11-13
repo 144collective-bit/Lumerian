@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gates-of-the-body-nine
 headword: "GATES OF THE BODY, NINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `HUMAN BODY` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUMAN BODY|HUMAN BODY]] |
 | `NINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NINE, NUMBER|NINE, NUMBER]] |
 | `STREETS OF EARTH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Physiologically, these are the nine openings of the body, six above (eyes, ears, and nostrils) and three below (mouth and two vents). They are intimately related with etheric, astral, and mental centres and activities, with which they correspond on the several planes of the soul. These centres and their connections are mentioned under the symbols of "nine brothers," "nine streets," etc.—See Bhag. Gita., V. 13.
+
+See BRIDGES (nine), HUMAN BODY, NINE, STREETS OF EARTH.
+
+**Corrections made:** `BrIpaes` → BRIDGES; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

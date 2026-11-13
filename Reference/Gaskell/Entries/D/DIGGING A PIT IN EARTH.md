@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-digging-a-pit-in-earth
 headword: "DIGGING A PIT IN EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Feet` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `IRON BEATEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON BEATEN OUT WITH A STONE|IRON BEATEN OUT WITH A STONE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Signifies the attempt made by the lower self to attain to self-consciousness through the desire-nature (earth).
+
+> "For they (my people) have digged a pit to take me, and hid snares for my feet."—Jer. xviii. 22.
+
+The lower qualities (people) of the soul are charged with having sought for satisfaction by the way of the desires, thereby oppressing the Spirit within and preventing its advance (feet) towards lordship over the lower nature.
+
+See EARTH, FEET, IRON BEATEN.
+
+**Corrections made:** `@` → a; `JER.` → Jer.; `feet }` → feet); See-list spellings restored (`EartH`, `Feet`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lameness-of-the-god
 headword: "LAMENESS OF THE GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `HaRPooraTes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS|HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS]] |
 | `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The Divine nature is limited by the forms in which it can only partially manifest; and so becomes but the expression of an aspect of Truth. It is, therefore, incomplete (lame) in its progressive capacity.
+
+See HARPOCRATES, HEPHAISTOS.
+
+**Corrections made:** `HaRPooraTes` → HARPOCRATES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

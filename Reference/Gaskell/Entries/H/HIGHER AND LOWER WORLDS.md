@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-higher-and-lower-worlds
 headword: "HIGHER AND LOWER WORLDS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,34 @@ tags:
 | `PROTO€YPEes` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
 | `SUBSTANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUBSTANCE|SUBSTANCE]] |
 | `WORLDS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the inner ideal prototypal nature on the higher planes, and its outer emanation, the phenomenal nature, on the lower planes. The lower proceeds from the higher.
+
+> "All that which is contained in the Lower World is also found in the Upper (in prototype). The Lower and the [Upper] reciprocally act upon each other."—Pr.
+
+> "All that which exists upon the Earth has its spiritual counterpart also to be found on High, and there does not exist the smallest thing in this world which is not itself attached to something on High. . . . When the inferior part is influenced, that which is set over it in the Superior World is equally influenced, because all are perfectly united together."—*Zohar*.
+
+> "All that which is on the earth, is also found above in perfect prototype, and there is not anything so insignificant in the world, that does not depend upon another above: in such a manner, that if the lower moves itself the higher corresponding to it moves towards it."—I. Myer, *Q[abbalah]*, p. 109.
+
+> "A spiritual and invisible world preceded, therefore, this visible material world, as its prototype. In creating the material world, which was in reality only an incorporation of the spiritual world of Fravashis, Ormuzd first created the firm vault of heaven, and the earth on which it rests."—*Zoroastrian System*.
+
+This refers to the fact that the Ethereal or Buddhic world, or Universe of Spirit, preceded the physical world which was patterned upon it. In devising the creation of the physical universe, the Divine Will first created that which corresponds to the prototypal evolution of the soul (potential), and afterwards the lower planes whereon its expression might proceed. This signifies the production of the mechanism of life and form through which the Divine power is realised. It is analogous to a process of involution, prior to an objective evolution.
+
+> "The whole natural world corresponds to the spiritual world, not only as a whole, but in every part; and therefore whatever exists in the natural world is said to be the correspondent of that from which it derives its existence in the spiritual world; for the natural world exists and subsists from the spiritual world, just as an effect exists from its cause."—Swedenborg, *The Future Life*, p. 29.
+
+> "All things accordingly, that are on earth, O Tat, are not the Truth; they're copies only of the True. . . . Wherever the appearance doth receive the influx from above, it turns into a copy of the Truth; without its energising from above, it is left false" (Of Truth).—G. R. S. Mead, *T. G. Hermes*, Vol. III. p. 18.
+
+> "All (Sufi seers) agree in maintaining the pre-natal existence of the soul, and in declaring the physical world to be but a transient and distorted reflection of a far more glorious world, and in itself essentially unreal."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 58.
+
+> "What is heredity but the permanence of that invisible and yet most real [thing?] which Plato called the idea? . . . We must postulate invisible but real types, because without them their visible effects would remain inexplicable."—F. Max Müller, *Theosophy*, etc., p. 389.
+
+See ARC. MAN, BUDDHIC PLANE, COSMOS, CREATION, EARTH, FRAVASHIS, HEAVEN AND EARTH, IMAGE, INVOLUTION, MACROCOSM, MICROCOSM, PROTOTYPES, SUBSTANCE, WORLDS.
+
+**Corrections made:** `planes The lower` → planes. The lower; `the U;` → the [Upper]; `alao` → also; `u another` → upon another; `t if` → that if; `Myzrz` → Myer; `SwEDENBore` → Swedenborg; `R. 8. Meap` → G. R. S. Mead; `ita` → its; `maintaini`, `an in` → maintaining, and in; `Grss` → Gibb; `MULLER` → Müller; page heading `360 HIGHER` removed from the Myer attribution; See-list spellings restored (`ARO. MAN`, `EaRnrH`, `[MaAGE`, `INVOLUTIon`, `PROTO€YPEes`).
+
+**Unclear or supplied:** First quotation's attribution is only `Pr.` in the OCR (source not recovered). `*Q[abbalah]*`: the title is damaged to `Q` and its remainder is lost; Myer's work is the Qabbalah. `[thing?]`: OCR reads "most real t which Plato". `Gibb` read from OCR `Grss`.
 
 ## Full OCR entry body (exact)
 

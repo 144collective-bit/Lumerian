@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-frankincense-and-myrrh-brought-by-angels
 headword: "FRANKINCENSE AND MYRRH BROUGHT BY ANGELS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
 | `FRANKINCENSE` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FRANKINCENSE|FRANKINCENSE]] |
 | `TREASURES OF CAVE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of purity, grace and truth, and peace and bliss, conveyed to the soul by the inner messengers of the Spirit.
+
+> "Frankincense denotes internal truth, myrrh external or sensual truth."—Swedenborg, *Arc. Cel.*, n. 10, 252.
+
+> "After Adam and Eve leave the Garden of Eden, then at God's command, gold, frankincense and myrrh are brought to them by angels."—*The Book of Adam*.
+
+See GOLD, FRANKINCENSE, TREASURES OF CAVE.
+
+**Corrections made:** `SwWEDENBORG` → Swedenborg; quotation marks normalised; closing quotation mark supplied after "angels." for the Book of Adam quotation.
+
+**Unclear or supplied:** The OCR does not mark where the Book of Adam quotation ends; the closing mark is placed before the attribution.
 
 ## Full OCR entry body (exact)
 

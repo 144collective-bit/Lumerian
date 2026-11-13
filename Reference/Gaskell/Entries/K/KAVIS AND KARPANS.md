@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kavis-and-karpans
 headword: "KAVIS AND KARPANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Form` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH|FORM AND NAME, WHICH ARE SAID IN THE SCRIPTURES TO BE THE SAME AS MIND AND SPEECH]] |
 | `NUMBERS` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NUMBERS|NUMBERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These "foes" of the soul are typical of Form and Number, both of which limit and confine the Life, and so render the operations from the higher planes more difficult of achievement in raising the soul.
+
+See FORM, NUMBERS.
+
+**Corrections made:** Quotation marks normalised; `Form` → FORM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

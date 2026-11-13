@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anchorage-of-the-ship
 headword: "ANCHORAGE OF THE SHIP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `HIGHER AND LOWER SELVES` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]] |
 | `MOORING-PosT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOORING POST FOR SHIP|MOORING POST FOR SHIP]] |
 | `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the attachment of the lower self to the Higher Self, through the growth of the higher qualities.
+
+> "Your only freedom is in intercourse with Christ. Bind your soul to His, and it must rise with Him into His liberty."—[Stopford?] Brooke, *Mystery of Iniquity*, p. 83.
+
+> "The promise (of salvation) is like a mighty cable, that is fastened by one end to a ship, and by the other at the anchor: the soul is the ship where faith is, and to which the hither end (nearest end) of this cable is fastened; but hope is the anchor that is at the other end of this cable, and which entereth into that within the veil."—J. Bunyan, *Israel's Hope*.
+
+See DELUGE, HIGHER AND LOWER SELVES, MOORING-POST, SHIP.
+
+**Corrections made:** `Iniqutty` → Iniquity; `83 P` → p. 83; `A the anchor` → at the anchor; `ond` → end; `MOORING-PosT` → MOORING-POST; quotation marks normalised.
+
+**Unclear or supplied:** The author's forename before `Brooke` is damaged (OCR `Shir mae`); `[Stopford?]` is a likely reading.
 
 ## Full OCR entry body (exact)
 

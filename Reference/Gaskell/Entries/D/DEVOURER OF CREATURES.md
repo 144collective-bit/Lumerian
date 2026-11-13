@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-devourer-of-creatures
 headword: "DEVOURER OF CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `ASTODVIDAD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ASTOVIDAD, HOTU|ASTOVIDAD, HOTU]] |
 | `BorroMLESs PIr` | **unresolved** (review queue) |
 | `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mind which draws to itself all instincts, sensations, appetites, and desires, without limit or satiety.
+
+See AESHM, ASTOVIDAD, BOTTOMLESS PIT, KABANDHA.
+
+**Corrections made:** See-list spellings restored (`ArsHM`, `ASTODVIDAD`, `BorroMLESs PIr`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

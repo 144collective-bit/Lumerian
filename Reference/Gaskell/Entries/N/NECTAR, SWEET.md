@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nectar-sweet
 headword: "NECTAR, SWEET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `LAUGHTER OF THE cops` | **unresolved** (review queue) |
 | `MAya` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/M/MAYA (LOWER ASPECT)|MAYA (LOWER ASPECT)]] |
 | `Sryx` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's entire, complete, and loving service to the highest ideals of Truth, Wisdom, and Justice.
+
+> "Now it is this matter (Hylé), which, after being impressed by the Divine Ideas, fashioned every body in the cosmos which we see. Its highest and purest nature, by means of which the divinities are either sustained or consist, is called Nectar, and is believed to be the drink of the Gods; while its lower and more turbid nature is the drink of souls. The latter is what the Ancients called the River of Lethe [or Forgetfulness]."—Macrobius, Bk. I. Ch. 8, 5 [trans.?] by G. R. S. Mead in *T. G. Hermes*, Vol. I. pp. 415-16.
+
+Hylé in its higher and lower natures appears to be the same as Maya in its higher and lower aspects. Hylé leaves its Source as Truth-Reality and returns to its Source as the same, but with additional experience. The lower "drink of souls" is the experience of the illusions of the transitory lives, which is forgotten by the successive personalities.
+
+> "He who drinketh the nectar of the Name shall be satisfied, and go to God's court with a dress of honour." "The Name is nectar in the heart as well as in the mouth: through it man is freed from worldly desires" (Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. pp. 274, 292.
+
+The soul that identifies itself with the highest ideals is liberated from desire, and shall rise to the higher planes and be given the robe of Wisdom,—the Buddhic quality.
+
+See CHURNING, LAUGHTER OF THE GODS, MAYA, STYX.
+
+**Corrections made:** `Hyl6` → Hylé; `oither` → either; `Forgetfulness).` → Forgetfulness].; `8. Megan` → S. Mead; `Mayaé` → Maya; `ita` → its; `Macaviirre` → Macauliffe; See-list spellings restored (`cops`, `MAya`, `Sryx`).
+
+**Unclear or supplied:** `[trans.?]` stands for OCR `bara`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-leaven-lower-aspect
 headword: "LEAVEN (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `1 Cor. v. 6-8. LUKE xii. 1.) See UNLEAVENED. 448` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of passion and desire permeating the lower nature.
+
+> "Leaven signifies what is false derived from evil; hence what is unleavened signifies what is pure or without that falsity."—Swedenborg, *Arc. Cel.*, n. 9992. (See 1 Cor. v. 6-8. Luke xii. 1.)
+
+See UNLEAVENED.
+
+**Corrections made:** `SwEDENBORG` → Swedenborg; `LUKE` → Luke; trailing page number `448` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

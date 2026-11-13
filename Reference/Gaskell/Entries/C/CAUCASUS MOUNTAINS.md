@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-caucasus-mountains
 headword: "CAUCASUS MOUNTAINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `ARARAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARARAT MOUNTAINS|ARARAT MOUNTAINS]] |
 | `MOUNTAIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `OLYMPUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the heights of aspiration, or of successful endeavour.
+
+See AMAZONS, ARARAT, MOUNTAIN, OLYMPUS.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

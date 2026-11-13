@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fire-of-ahriman
 headword: "FIRE OF AHRIMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `AHRIMAN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AHRIMAN, OR AHARMAN|AHRIMAN, OR AHARMAN]] |
 | `SMOKE AND VAPOUR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SMOKE AND VAPOUR|SMOKE AND VAPOUR]] |
 | `VAPOUR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAPOUR AND SMOKE|VAPOUR AND SMOKE]]; [[Reference/Gaskell/Entries/V/VAPOUR, WHITE|VAPOUR, WHITE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-energy on the astral plane.
+
+> "Ahriman passed even into Fire, the visible symbol of Ormazd, defiling it with smoke and vapour" (Zoroastrian System).—F. J. Clarke, *Ten Religions*.
+
+The passing of the desire nature into "fire" is the symbol of energising the matter of the lower planes. "Smoke" and "vapour" signify the ignorance and illusion accompanying the process. "Fire" is a symbol of Atma-buddhi (Ormazd).
+
+See AHRIMAN, SMOKE AND VAPOUR, VAPOUR.
+
+**Corrections made:** `Religtone` → Religions; `Ormazqa` → Ormazd; `CLARKE` normalised; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cana-marriage
 headword: "CANA MARRIAGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `WATER (wine)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WATERPOTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WATERPOTS OF STONE, SIX|WATERPOTS OF STONE, SIX]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the union of Truth and Love. The "six waterpots" signify the six vehicles of consciousness, to be made full use of. The "turning of the water into wine" symbolises the substitution of the love element for the duty, or moral, element. It means a transmutation (miracle) in fact. This "beginning of miracles" records the dawning of the supremacy of Christ (Love) whose triumph (glory) is begun by the perfect adjustment of all the vehicles and functions upon the several planes of consciousness.
+
+> "The story of the marriage-feast and the miracle of turning water into wine has reference to the final initiation of Jesus. The water was the symbol for the soul, the wine for the spirit. 'The beginning of miracles' for the man regenerate is the spiritualisation of his own soul, which is therefore mystically called the changing of water into wine."—Anna Kingsford, *Life*, by Maitland, Vol. II. p. 3.
+
+> "Philo speaks of the 'wine of the divine love of God.' This fact (of the water becoming wine), the context, the structure of the Gospel, and the traditions of Philo, combine to indicate that the whole of the narrative is spiritual and emblematic."—E.A.A. Gospels, (54), *Enc. Biblica*.
+
+See GRAPES, INITIATIONS, MARRIAGE, WATER (wine), WATERPOTS, WINE.
+
+**Corrections made:** `ANNA Krvasrorp` → Anna Kingsford; quotation marks normalised.
+
+**Unclear or supplied:** The attribution `E.A.A. Gospels, (54), Enc. Biblica` is kept as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pharisees
 headword: "PHARISEES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `THREE Days` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THREE DAYS|THREE DAYS]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of that state of mind which produces literalism, formalism, and dogmatism.
+
+> "There came certain Pharisees, saying to him, Get thee out, and go hence: for Herod would fain kill thee. And he said unto them, Go and say to that fox, Behold, I cast out devils and perform cures to-day and to-morrow, and the [third day?] I am perfected."—Luke xiii.
+
+The literalists are afraid of the true interpretation of the facts of soul-growth with which the Christ-illumination provides them; and so they immediately bring forward some piece of sophistry against the truth, which the Christ within is not slow to detect and expose in its true colours. His remarks are the assertion of the Christ respecting his gradual work of soul-purification; the "third day" being that period during which his perfectionment is accomplished. "Herod the fox" is a reference to the sense-nature as a "hole" or "bottomless pit" in which the lower principle (Herod) dwells.
+
+See CAIAPHAS, FOXES, HEALING (devils), HEROD, PIT, PRIESTS AND ELDERS, RITES, THREE DAYS, TRADITION, TRIAL.
+
+**Corrections made:** `LUKE` → Luke; `soulgrowth` → soul-growth; See-list spellings restored (`CarapHas`, `Foxrs`, `Hrrop`, `Prr`, `Prizsts aNnD`, `Rrres`, `Days`).
+
+**Unclear or supplied:** `[third day?]` is a reading of OCR `Pia ae`. The Luke reference breaks off at `xiii.` in the OCR.
 
 ## Full OCR entry body (exact)
 

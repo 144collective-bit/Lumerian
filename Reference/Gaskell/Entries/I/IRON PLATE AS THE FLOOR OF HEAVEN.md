@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iron-plate-as-the-floor-of-heaven
 headword: "IRON PLATE AS THE FLOOR OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,18 @@ tags:
 | `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
 | `SCEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 | `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental plane which is below the buddhic (heaven).
+
+> "In the [Pyramid?] Texts it is always assumed that the flat slab of iron which formed the sky, and therefore the floor of the abode of the gods, was rectangular, and that each corner of it rested upon a pillar. . . . At a later period, the four quarters of heaven were believed to be under the direction of four gods, and the four pillars of the sky were poetically described as the four sceptres which they held in their hands."—Budge, *Gods of the Egyptians*, Vol. I. pp. 156-7.
+
+See CEILING or sky, CHILDREN OF HORUS, FIRMAMENT, FOUR BEINGS, GODS, HAND, LADDER, PANTHER, PILLARS, QUARTERS, REN, SCEPTRE, SKY.
+
+**Corrections made:** `a illar` → a pillar; `descri` → described; `Bupcr` → Budge; page heading `401 Isis` removed from mid-See-list; See-list spellings restored (`Gops`, `Hanp`, `Lapprr`).
+
+**Unclear or supplied:** `[Pyramid?]` (OCR `id Texta`) is uncertain.
 
 ## Full OCR entry body (exact)
 

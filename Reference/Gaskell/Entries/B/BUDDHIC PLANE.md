@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddhic-plane
 headword: "BUDDHIC PLANE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,16 @@ tags:
 | `NimvaNna` | **unresolved** (review queue) |
 | `SEKHIT-HETEP` | **unresolved** (review queue) |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the plane of manifestation next above the higher mental plane. It is the highest of the four planes which constitute the arena of life in the present cycle of spiritual evolution. It is not outwardly manifest in the soul as are the three lower planes, and is only indirectly known through the higher emotions which are the "fruit of the Spirit." It is the plane on which are the prototypes or patterns of things below in the phenomenal realm, things, that is, that are the result of any kind of growth, mineral, vegetal, animal. The buddhic is the first plane to which the Higher Self descends in manifestation. It contains the higher causal-body which is the seat of the Self and of the higher qualities. On this plane is situated the heaven of the perfected human souls. It contains the state of consciousness from which the souls have descended, and the state to which they ascend in glory at the last.
+
+See AMENT, ARYANA, BRIDE-CHAMBER, CAUSAL-BODY, EDEN, FRUIT, GARODMAN, HEAVEN, KINGDOM OF HEAVEN, MUSPELHEIM, NIRVANA, SEKHIT-HETEP, WORLDS (five).
+
+**Corrections made:** `proatotypes` → prototypes; See-list spellings restored (`BrmerHCHAMBER`, `Frurt`, `GaRopMAN`, `Heaven`, `KInNEDOM`, `NimvaNna`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

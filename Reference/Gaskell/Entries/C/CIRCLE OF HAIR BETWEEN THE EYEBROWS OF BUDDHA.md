@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circle-of-hair-between-the-eyebrows-of-buddha
 headword: "CIRCLE OF HAIR BETWEEN THE EYEBROWS OF BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BuppuHa (marks)` | **unresolved** (review queue) |
 | `URNa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNA OF BUDDHA|URNA OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual truth within the higher mind.
+
+See BUDDHA (marks), URNA.
+
+**Corrections made:** `BuppuHa` → BUDDHA; `URNa` → URNA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

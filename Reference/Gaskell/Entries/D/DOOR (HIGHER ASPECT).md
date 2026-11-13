@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-door-higher-aspect
 headword: "DOOR (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `TuHier` | **unresolved** (review queue) |
 | `VOICE or cop` | **unresolved** (review queue) |
 | `WInDow` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WINDOW OR SKYLIGHT|WINDOW OR SKYLIGHT]]; [[Reference/Gaskell/Entries/W/WINDOW WINDOW OF ARK OF NOAH|WINDOW WINDOW OF ARK OF NOAH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an entrance to the mind for the vibrations from above, that is, access through the higher mind for the spiritual life to flow in from the atma-buddhic planes.
+
+> "Jesus said, I am the door of the sheep. All that came before me are thieves and robbers: but the sheep did not hear them. I am the door; by me if any man enter in, he shall be saved, and shall go in and go out, and shall find pasture."—John x. 7-9.
+
+The Christ-soul (Jesus) is the highest nature of the soul, and is therefore the entrance for the buddhic virtues (sheep) which do not contact (hear) the desires (thieves). The desires precede the advent of the Christ in the soul, and, as it were, rob it of good or the vibrations from above. If any mental quality (man) is of the higher nature, it is immortal and shall return from activity and go out to activity, and find experience conducive to growth.
+
+> "There is in every man's heart an open door towards the eternal, and through that open door the messages of God can come."—R. J. Campbell, *Song of Ages*, p. 280.
+
+See FALL, GATE, MURDERER, PASTURE, SHEEP, SHEPHERD, SUN (door), THIEF, VOICE OF GOD, WINDOW.
+
+**Corrections made:** `shal!` → shall; `ia` → is; `Christ -soul` → Christ-soul; `, .I` → . I; See-list spellings restored (`Fatt`, `PasTURE`, `TuHier`, `VOICE or cop`, `WInDow`); and similar minor fixes.
+
+**Unclear or supplied:** A dash before the Campbell attribution was supplied.
 
 ## Full OCR entry body (exact)
 

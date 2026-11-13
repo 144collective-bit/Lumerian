@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horus-the-elder-or-aroueris
 headword: "HORUS, THE ELDER, OR AROUERIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `Tatrv` | **unresolved** (review queue) |
 | `URNI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URNI-TENTEN (HORUS)|URNI-TENTEN (HORUS)]] |
 | `UR-UATOHI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The Second Logos, or the Self manifest primordially upon the higher buddhic plane.
+
+> "Isis and Osiris conceived the elder Horus while they were in their mother's womb."—Plutarch, *Isis and Osiris*, § 12.
+
+Wisdom (Isis) and Will (Osiris) primordially produce Action (Horus) which is to go forth on the buddhic plane at the emanation of the universe or solar system.
+
+> "The Book of the Dead, Ch. XVIII, states that of Horus, the Avenger of his Father Osiris:—'His two eyes (i.e. Sun and Moon) are the two feathers on his head.'"—A. Wiedemann, *Rel. of Anc. Egyptians*, p. 259.
+
+The two feathers therefore signify the Individuality and Personality by which the Self manifests.
+
+See AKERU, AROUERIS, ASCENSION OF OSIRIS, AVENGING, BIRTH OF HORUS, DAYS (five), HORIZONS, PYLONS, [Tatrv?], URNI, UR-UATCHI.
+
+**Corrections made:** `TIsis` → Isis; `P.LuraRcHu` → Plutarch; `WrspEMAann`, `Egypttans` → Wiedemann, Egyptians; See-list spellings restored (`osinis`, `BinTH oF`, `Pytons`, `UR-UATOHI`).
+
+**Unclear or supplied:** `PYLONS` and `UR-UATCHI` read from damaged `Pytons`, `UR-UATOHI`. `[Tatrv?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

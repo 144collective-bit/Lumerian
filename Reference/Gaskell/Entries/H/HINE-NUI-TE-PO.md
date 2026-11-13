@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hine-nui-te-po
 headword: "HINE-NUI-TE-PO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `Niaut` | **unresolved** (review queue) |
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `Woms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the matter and space side of manifestation which eventuates in the lower nature.
+
+> "There were two grand orders of gods: the first and most ancient were the gods of the night, as night preceded light; and then followed the gods of the light. Of the former, the chief was Hine-nui-te-po, the great mother Night, the grandparent of the rest"—R. Taylor, *New Zealand*, p. 16.
+
+The potential (darkness) precedes the manifest (light). Space-matter gives birth to both higher and lower qualities.
+
+> "Po, or night, was the great name for Hades."—*Ibid.*, p. 41.
+
+The manifested lower nature in ignorance (darkness) is the underworld,—the lower planes.
+
+See HADES, LEVIATHAN, MATTER, MAYA (lower), MOTHER, NIGHT, PO, WOMB.
+
+**Corrections made:** `end` → and; `Hine-nuite-po` → Hine-nui-te-po; `Taytor` → Taylor; page heading `OR HIGH HIRANYAGARBHA` removed from mid-sentence; See-list spellings restored (`Haprs`, `MotHrer`, `Niaut`, `Woms`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

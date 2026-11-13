@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-argonauts
 headword: "ARGONAUTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Heroes` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEROES, THE GREATEST OF THE DAY|HEROES, THE GREATEST OF THE DAY]] |
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of twelve, or fifty, higher qualities and Divine attributes, centred about the incarnate Self (Jason) in the causal-body (Argo).
+
+> "When the heroes were all assembled, they took auguries, and offered sacrifices to Zeus, the Winds, and the Waves, the Night, and Paths of the Sea. The signs being favourable, they got on board and put to sea."—*Argonautic Expedition*. Keightley, *Mythology*.
+
+And when the higher qualities were assembled, they sanctified themselves, or consecrated their powers to the service of the Infinite which they beheld, as it were, by regarding the manifestations of God's wondrous might in the Universe. And all being now favourable, they embarked in the vessel of the soul which should carry them to the "promised land" whither they went. The "sea" signifies the reflection upon the astral plane, of what occurs from buddhi; the higher plane being the plane of causation and prototypal perfection.
+
+> "Nature is the realm of things, the supernatural is the realm of powers. There the spinning worlds return into their circles and keep returning. Here (within) the grand life-empire of mind, society, truth, liberty, and holy government, spreads itself in the view, unfolding always in changes, vast, various, and divinely beneficent. There we have a Georgic, or hymn of the seasons; here an epic that sings a lost Paradise. There God made the wheels of His chariot and set them rolling. Here He rides forth in it, leading His host after Him; vast in counsel, wonderful in working; preparing and marshalling all for a victory in good and blessing; fashioning in beauty, composing in spiritual order, and so gathering in the immense populations of the worlds to be one realm—angels, archangels, seraphim, thrones, dominions, principalities, powers and saints of mankind—all to find, in His works of guidance and new-creating [grace?], a volume of wisdom, which it will [be] the riches of their eternity to study."—H. Bushnell, *Nature and the Supernatural*, p. 189.
+
+See APOSTLES, ATALANTA, BULLS (brass), CHARIOT, CRETE, DISCIPLES, HEROES, SACRIFICE, SHAVING.
+
+**Corrections made:** `KrIGutTLey` → Keightley; `BusHNELL` → Bushnell; `In good` → in good; `Buris` → BULLS; `Diserppies` → DISCIPLES; quotation marks normalised; opening quotation marks supplied where the OCR lost them.
+
+**Unclear or supplied:** `[grace?]` (OCR `ce,`) is a likely reading. `[be]` is supplied: the OCR reads "which it will the riches". The Argonautic quotation and the Bushnell passage have no opening quotation mark in the OCR; one is supplied.
 
 ## Full OCR entry body (exact)
 

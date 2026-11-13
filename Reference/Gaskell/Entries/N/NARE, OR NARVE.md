@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nare-or-narve
 headword: "NARE, OR NARVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,26 @@ tags:
 | `Frenps. MaN WITHOUT WOMAN` | **unresolved** (review queue) |
 | `Mosqurr` | **unresolved** (review queue) |
 | `Tre` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of greed.
+
+> "The Asar then took Loke's sons, Vale and Nare, or Nerve. Vale they changed into a wolf, and it then tore his brother Nare, and with his entrails the Asar bound Loke upon the three stones"—*The Story of Loke*, Prose Edda.
+
+And then in the Divine scheme, the offspring of the astral nature,—force and desire,—are taken as factors: and these now assume the forms of energy and greed; and it is said that the latter binds the mind, through the desire-nature for a time to three of its modes, namely, will, feeling, and intelligence (the stones).
+
+See ASAR, LOKE, WOLF.
+
+### Also in this note: NASU, THE FIEND, AS A RAGING FLY
+
+A symbol of time, which, as it were, captures residual astral elements of the lower self, and sets them aside as astral matter for future use.
+
+See [Assyrtus?], DOG (white), FIENDS, MAN WITHOUT WOMAN, MOSQUITO, TIME.
+
+**Corrections made:** `hs` → his; `th Asar` → the Asar; `stonea'` → stones"; `o the lower self` → of the lower self; See-list spellings restored (`Asak`, `Doa`, `Frenps`, `Mosqurr`, `Tre.` → TIME).
+
+**Unclear or supplied:** Contains a second entry: NASU, THE FIEND, AS A RAGING FLY. `[Assyrtus?]` is an unidentified See-list item. `TIME` is a likely reading of `Tre.`
 
 ## Full OCR entry body (exact)
 

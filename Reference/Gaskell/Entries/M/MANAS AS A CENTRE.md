@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manas-as-a-centre
 headword: "MANAS AS A CENTRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body on the plane of higher manas.
+
+> "The manas, although only the organ of the Atman, is yet the central [organ?] of the entire conscious life; which not only as 'the primary root of the five faculties of knowledge' shapes into ideas the impressions of sight, hearing, taste, smell, touch, since we 'see only with the mind, hear with the mind,' but stamps these ideas further as resolves of the will."—Deussen, *Phil. of Upanishads*, p. 273.
+
+See CAUSAL-BODY.
+
+**Corrections made:** `Dervussen` → Deussen.
+
+**Unclear or supplied:** `[organ?]` (OCR `o`).
 
 ## Full OCR entry body (exact)
 

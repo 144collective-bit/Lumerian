@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reed-in-the-right-hand
 headword: "REED IN THE RIGHT HAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Rop (hand)` | **unresolved** (review queue) |
 | `ScEPTRE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SCEPTRE, GOLDEN, APOLLO|SCEPTRE, GOLDEN, APOLLO]] |
 | `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of volition and rule.
+
+> "The reed (in the hand of Jesus) symbolised the royal sceptre and the divine law."—Bp. Dionysius.
+
+See ROD (hand), SCEPTRE, VINEGAR.
+
+**Corrections made:** `Dionystvs` → Dionysius; `Rop` → ROD; `ScEPTRE` → SCEPTRE; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

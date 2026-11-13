@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goat-milch
 headword: "GOAT, MILCH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `PLANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLANTS|PLANTS]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of error and desire, the lower food of the soul.
+
+> "And Mashya and Mashyoi had gone thirty days without food, covered with clothing of herbage; and after the thirty days they went forth into the wilderness, came to a white-haired goat, and milked the milk from the udder with their mouths."—*The Bundahis*, Ch. XV. 10.
+
+And for the lunar cycle (30 days), the Soul, comprising the sub-mental and love natures, proceeded on the astral plane with the growth of the earlier desires and instincts; afterwards it struggled up to the mental plane, and encountered the "goat"—a symbol of false knowledge and desire, "white-haired" because attractive and alluring. The "drinking of the goat's milk" signifies the partaking of sensuous enjoyment in external activities, resulting in the evolution of the kama-manasic or desire-mental nature. This constitutes the fall of mind and emotion into matter.
+
+See ASTRAL PLANE, CLOTHING, FALL, [HERBS?], LUNAR CYCLE, [MATTRO?], MILK (goat), PITRIYANA, PLANTS, SERPENT (subtil), WILDERNESS.
+
+**Corrections made:** `Bundahts` → Bundahis; See-list spellings restored (`Fart`, `Hers`, `MatTro`); quotation marks normalised.
+
+**Unclear or supplied:** `[HERBS?]`: OCR reads `Hers`. `[MATTRO?]`: OCR reads `MatTro`.
 
 ## Full OCR entry body (exact)
 

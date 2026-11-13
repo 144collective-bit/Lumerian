@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gall
 headword: "GALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `Cow's URINE` | **unresolved** (review queue) |
 | `BITTER` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BITTER|BITTER]] |
 | `VINEGAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VINEGAR TO DRINK|VINEGAR TO DRINK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a sensuous gratification which would appear nauseous to the higher nature.
+
+> "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink."—Ps. lxix. 21.
+
+The lower qualities, "enemies" of the higher, offer the soul the pleasures of the life of the senses to satisfy its cravings for goodness and peace; and to its thirst for Truth, they offer ignorance which brings sorrow and strife. Not by indulgences from without can the soul be nourished and satisfied.
+
+> "I see that thou art in the gall of bitterness and in the bond of iniquity."—Acts viii. 23.
+
+> "They gave him wine to drink mingled with gall: and when he had tasted it, he would not drink."—Matt. xxvii. 34.
+
+See COW'S URINE, BITTER, VINEGAR.
+
+**Corrections made:** `Ixix` → lxix (and full stop supplied after 21); `tho yall` → the gall; `T see` → I see; `ACcTS` → Acts; `aud` → and; `Mart.` → Matt.; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

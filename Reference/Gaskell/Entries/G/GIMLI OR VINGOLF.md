@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gimli-or-vingolf
 headword: "GIMLI OR VINGOLF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Kincpom` | **unresolved** (review queue) |
 | `RIMTHURSAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RIMTHURSAR, FROST GIANTS|RIMTHURSAR, FROST GIANTS]]; [[Reference/Gaskell/Entries/R/RIMTHURSAR RIGHTEOUS MAN|RIMTHURSAR RIGHTEOUS MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhi-manasic plane.
+
+See KINGDOM, RIMTHURSAR.
+
+**Corrections made:** `Kincpom` → KINGDOM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

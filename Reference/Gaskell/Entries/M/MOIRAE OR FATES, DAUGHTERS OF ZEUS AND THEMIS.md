@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moirae-or-fates-daughters-of-zeus-and-themis
 headword: "MOIRAE OR FATES, DAUGHTERS OF ZEUS AND THEMIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `THemis` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 | `URDAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URDAR FOUNTAIN|URDAR FOUNTAIN]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the three groups of karmic life forces which operate on the three lower planes in accordance with law, in the formation of the three bodies which are the vehicles of the soul.
+
+> "And of the three Fates (Moire), Atropos, seated in the sun, supplies the origin of birth; Clotho, moving about the moon, unites together and mingles the various parts; lastly, Lachesis on earth, who has most to do with Fortune, puts her hand to the work. For the inanimate part is powerless, and liable to be acted upon by others; but the mind is impassive and independent; and the soul is of a mixed nature, and intermediate between the two."—Plutarch, *The Moon's Orb*, § 12.
+
+"Atropos" signifies the higher-mind forces which build up the causal-body as a vehicle of the spiritual ego (sun) which takes birth in it as the immortal individuality. "Clotho" represents the "web" of astral forces which build up the astro-mental body for the personality (moon), and provide a complex mechanism for the functioning of the intermediate lower soul with the mental on the one side, and the physical on the other. "Lachesis" signifies the forces of heredity and growth on the physical plane, which build up the unalterable physical body for a fixed life-period. This lowest vehicle is of itself inert and without life of its own, being animated from the astral and mental planes.
+
+See FATE-SPHERE, KARMA, MAAT, NECESSITY, NET, NORNOR, SHENIT, THEMIS, URDAR, VESTURES.
+
+**Corrections made:** `Symbols.` → Symbols; `PLurarcn` → Plutarch; `Ord` → Orb; `FatTe-SPHERE` → FATE-SPHERE; `Karma`, `Maat`, `Necessity`, `Net`, `Themis` restored to capitals; page heading `1 MOIST` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

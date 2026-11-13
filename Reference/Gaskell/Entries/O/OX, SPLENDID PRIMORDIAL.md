@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ox-splendid-primordial
 headword: "OX, SPLENDID PRIMORDIAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Kar us` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAI US, REIGN OF|KAI US, REIGN OF]] |
 | `Sout (highest)` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of buddhic intuition passing downwards.
+
+> "In the reign of Kai Us, a splendid Ox is said to foretell the revelation from Zoroaster."—A. V. W. Jackson, *Zoroaster*, p. 24.
+
+At a certain early period of involution, a power of divination or intuition causes on the lower planes a dim apprehension of the advent of the Ego or Soul.
+
+See BULL, [INTUITION?], INVOLUTION, KAI US, SOUL (highest), ZOROASTER.
+
+**Corrections made:** page heading `555 OX-LEADER` removed from mid-sentence; `JACKSON` → Jackson; See-list spellings restored (`Butz`, `INVOLvUTION`, `Kar us`, `Sout`).
+
+**Unclear or supplied:** `[INTUITION?]` is a reading of OCR `Ivrorrion`.
 
 ## Full OCR entry body (exact)
 

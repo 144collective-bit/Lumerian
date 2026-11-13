@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ransom-or-price-paid-for-liberation
 headword: "RANSOM, OR PRICE PAID FOR LIBERATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `RicHEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher qualities, which are potential or latent within the soul. When the conditions are fulfilled, offering is made by the lower Self of its highest qualities in order that still higher qualities (ransom) shall become active, and release the soul from its thraldom to the lower nature. This process implies the transmutation of the lower qualities into the higher.
+
+> "The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."—Matt. xx. 28.
+
+The first among the qualities shall assist those qualities next below. The indwelling Self born in the mind (man) came to raise the qualities, and by his outflowing Life become the potential perfection which brings actual perfection to those qualities which approach nearest to him.
+
+> "Two conceptions of human life are uncovered and contrasted in the text. To live at all involves for every one a double experience of ministering and being ministered unto. Character is developed and revealed in the article of service received and service rendered. ... Of some, wherever placed in the vast and manifold system of society, the Master's Words about Himself may, in a measure, be spoken; they, like Him, carry ever on the earth the sacred and sanctifying character of service; they also have come to minister, and to give their lives for the rescue and help of others. ... (Some again) grow to regard society as an organisation directly designed for their comfort and advancement. Less and less does the thought of service as due from them to society find admission to their minds; more and more it is barred out from entrance by the ever-multiplying requirements of self. Of them, also, the word of Christ is true; their whole life from cradle to grave might be summed up in the simple and luminous sentence, 'they came to be ministered unto.' Society is full of them, and, unless the prophets of our time speak falsely, becoming yearly more full of them. The old World has to carry on its weary shoulders an ever-waxing burden of useless drones, who take all and give nothing back, and worse still, of social wolves, who are abroad in society only to prey upon it."—H. Hensley Henson, *The Value of the Bible*, pp. 265-8.
+
+See ATONEMENT, CHRYSEIS, MEDIATOR, REDEMPTION, RICHES, SON OF MAN, ZION.
+
+**Corrections made:** page heading `RASHNU` removed from mid-sentence; `withia` → within; `Marr.` → Matt.; `s double` → a double; `administered` → ministered; `Somo` → Some; `s: an` → as an; `rophets` → prophets; `ming yearly` → becoming yearly; `whok` → whole; `H. Henstry HENson` → H. Hensley Henson; quotation marks normalised; and similar minor fixes.
+
+**Unclear or supplied:** `becoming yearly` restored from `ming yearly`; `Hensley` is a best reading of `Henstry`. `administered` in "being administered unto" corrected to "ministered" is a best guess by the context of the quoted text; the OCR read "administered".
 
 ## Full OCR entry body (exact)
 

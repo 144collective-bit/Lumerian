@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mortal-mind
 headword: "MORTAL MIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MAN (lower)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SHABTI. MORTAR;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind, kama-manas; or the personality which is subject to death.
+
+> "And thou, now that thou hast withdrawn hither, shall learn no more than what mortal mind has seen."—Empedocles, Fairbanks, Bk. I. 2.
+
+And now that the soul has identified itself with the Higher Self, it shall see and hear in actuality that which the purified personality has at last realised through experience.
+
+See HECTOR, HEEL, IMMORTALITY FORFEITED, MAN (lower), PERSONALITY, SHABTI.
+
+**Corrections made:** `kamamanas` → kama-manas; `Empedocies, Farnsanxs` → Empedocles, Fairbanks; `Hecror` → HECTOR; page heading `MORTAR` removed from mid-sentence; stray trailing `MORTAR;` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

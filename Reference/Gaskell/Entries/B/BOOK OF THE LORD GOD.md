@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-book-of-the-lord-god
 headword: "BOOK OF THE LORD GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `SACRIFIOER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SEAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SEAL, GREAT SACRED|SEAL, GREAT SACRED]] |
 | `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Life Process of the cycle of manifestation on the lower planes, which is to lead to the soul's enlightenment.
+
+> "And I saw in the right hand of him that sat on the throne a book written within and on the back, close sealed with seven seals."—Rev. v. 1.
+
+In the keeping of the Absolute and ready to come forth into actuality (right hand), is the Divine scheme whereby the souls shall gain experience and learn the Truth. It comprises the inner and the outer manifestation in potentiality complete (seven).
+
+> "And he (the Lamb that had been slain) came, and he taketh it out of the right hand of him that sat on the throne."—Rev. v. 7.
+
+Only the Higher Self who had laid down his life in Self-limitation could carry out the Divine scheme, and ultimately rise in the souls of humanity to wisdom and riches, and glory, and the dominion over the lower nature.
+
+See CHAPTERS, HAND (right), LAMB OF GOD, SACRIFICER, SEAL, THRONE.
+
+**Corrections made:** page heading `BOOK |` removed from mid-word (`com BOOK | prises` → comprises); `ight hand` → right hand; `Coarrers` → CHAPTERS; `Hann` → HAND; `Lams` → LAMB; `SACRIFIOER` → SACRIFICER; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

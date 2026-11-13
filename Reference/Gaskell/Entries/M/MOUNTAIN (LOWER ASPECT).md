@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mountain-lower-aspect
 headword: "MOUNTAIN (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `Krnapoms` | **unresolved** (review queue) |
 | `TEMPTATION OF JESUS` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `TYRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of self-exalted qualities of the lower nature, such as pride, vanity, ambition, greed, desire for power over others, which qualities must be transmuted into aspiration, zeal, public spirit, etc.
+
+> "Again the devil taketh him (Jesus) unto an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; and he said unto him, All these things will I give thee, if thou wilt fall down and worship me, etc."—Mat. iv. 8, 9.
+
+Again, from the lower principle, or not-Self, full of pride, ambition, vainglory, greed, etc., there came the insinuating suggestion that the various directions in which these qualities have been applied in the soul's experience are highly praiseworthy, and are sufficient in themselves to satisfy the soul's needs. To the Christ-soul is offered, if it suppress its upward yearnings, all the self-content that the exercise of its lower emotions can bring it.
+
+> "Mountains we understand to be all the lofty ones of this world, who were swollen in their hearts with earthly loftiness."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 419.
+
+> "'Thou shalt worship the Lord thy God, and Him only shalt thou serve.' We can understand, then, what spiritual trials are gathered up in this symbolic narrative also. The 'exceeding high mountain,' from which the dazzling landscapes of ambition were visible, was raised in the ardent mind itself, and the eyes that swept those far-reaching horizons were the eyes of the spirit. A whole multitude of commonplace, and, indeed, hardly regarded, experiences of normal human life are collected, interpreted, and appraised in this brief story. Whosoever is brought face to face with the necessity of choosing his method of serving his own ideals, finds the choice (however subtly disguised) to come ultimately to this single alternative—the worship of Satan, the prince of this world, or the worship of God."—H. Hensley Henson, *The Value of the Bible, etc.*, p. 240.
+
+See BEASTS OF MOUNTAINS, KINGDOMS, TEMPTATION OF JESUS, TYRUS.
+
+**Corrections made:** `Mar. iv. 8, 9` → Mat. iv. 8, 9; `tall down` → fall down; `Grecory` → Gregory; `como` → come; `Henstry Henson` → Hensley Henson; `Krnapoms` → KINGDOMS; page heading `MOUNTAINS` removed from mid-quotation.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

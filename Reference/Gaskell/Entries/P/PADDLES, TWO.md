@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paddles-two
 headword: "PADDLES, TWO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `FINGERS OF HORTS` | **unresolved** (review queue) |
 | `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `Oaks` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the love of goodness and the love of truth, wherewith the soul is propelled onward in its course.
+
+> "'Tell us our name,' say the Paddles: 'Fingers of Horus the first-born,' [is?] your name."—Budge, *Book of the Dead*, Ch. XCIX.
+
+The two "fingers of Horus"—the Christ within,—have the same signification as the two paddles.
+
+See BOAT (river), FINGERS OF HORUS, LADDER, OARS.
+
+**Corrections made:** `Bupa@E` → Budge; `HORTS` → HORUS; `Oaks` → OARS; `Boat` normalised; quotation marks normalised.
+
+**Unclear or supplied:** `[is?]` is supplied: the OCR reads `i your name`.
 
 ## Full OCR entry body (exact)
 

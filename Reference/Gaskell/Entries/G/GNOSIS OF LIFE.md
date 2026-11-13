@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gnosis-of-life
 headword: "GNOSIS OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,26 @@ tags:
 | `PEaRt` | **unresolved** (review queue) |
 | `SERPENT (loud breathing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sout` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Illuminator of the qualities, i.e. the Higher Self—he that brings Truth to the soul, from within.
+
+> "The Master, Manda d'Hajje, is the Gnosis of Life by whose power Johanna (the baptiser) has been teaching and initiating all the long forty and two years of his ministry."—*Codex Nazareus*, R. h. Genga, II.
+
+The "Master" is the Higher Self, who, unknown of the lower consciousness, has sufficed to illumine those qualities which have sought the way to Peace. "John" the moral nature, the aspirer towards Truth (water) has been purifying the qualities "forty and two years,"—the number 6 x 7 which implies perfection upon the lower planes of the soul. But during this period of probation, the Love-nature (the Master) is unknown to the moral nature (Johanna), which labours from conscientious, rather than from highly spiritual, motives. Nevertheless, grace has descended upon it from on High, for the moral nature is really sustained by the Highest, who, when its period expires, reveals to it that which supersedes its phase of evolution,—Love taking the place of Law and Duty.
+
+> "The virtue of the soul is Gnosis. For he who knows, he good and pious is, and still while on the earth divine" (C. H., The Key).—Mead, *T. G. Hermes*, Vol. II. p. 146.
+
+> "What is it that makes the Soul alive in sooth? Life unto the soul is knowledge of the Truth."—Ashiq, *Gharib-Name*; Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 197.
+
+> "Reason is the head, and knowledge is the ground of blessedness. To know an object is to become really one with it. God's knowing and my knowing are one; true union with God takes place in cognition. Hence knowledge is the foundation of all essence, the ground of love, the determining power of the will. Only reason is accessible to the divine light. But the knowledge here referred to is something supra-sensible, inexpressible in words, unaided by the understanding; it is a supernatural vision above space and time, and is not man's own deed but God's action in him" (Eckhart).—Ueberweg, *Hist. of Philos.*, Vol. I. p. 473.
+
+See [FOLLY?], JOHANNA, JOHN BAPTIST, LETTER, MYSTERY (first), PEARL, SERPENT (loud breathing), SOUL.
+
+**Corrections made:** `Codez` → Codex; `11.` → II.; `Lovenature` → Love-nature; `C..H.` → C. H.; `MeEap, 7. G. Hermes` → Mead, *T. G. Hermes*; `AsuHiq` → Ashiq; `Giss` → Gibb; `UEsEerwea` → Ueberweg; `it « is & supernatural` → it is a supernatural; full stop supplied after "Duty"; page heading `313 GOAT` removed from mid-sentence; See-list spellings restored (`Mystery`, `PEaRt`, `Sout`); quotation marks normalised.
+
+**Unclear or supplied:** `[FOLLY?]`: OCR reads `Forry`, a See-list item. `R. h. Genga` in the Codex Nazareus reference is left as printed in the OCR. `Mead`, `Gibb` and `Ueberweg` are inferred from damaged author names.
 
 ## Full OCR entry body (exact)
 

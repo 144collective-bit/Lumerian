@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hvaniratha-or-khvaniras
 headword: "HVANIRATHA OR KHVANIRAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `ReEGions` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REGIONS, SEVEN|REGIONS, SEVEN]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SOSHYANS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANS|SOSHYANS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Earth,—the physical globe in the planetary chain of seven globes.
+
+> "I (Zaratusht) call upon the region of Qaniratha the splendid; this they (the Gathas) assert as they are stationed in this one (of the seven regions)."—[word unclear] XIX. 39 (129); Haug, *Essays*, 7.
+
+The incarnate Self acclaims the Earth planet as presenting conditions of life and experience very conducive to the growth of the soul. The inner spiritual vibrations (Gathas) from the buddhic plane to raise the soul are operative in the minds of those who are living the physical life on earth.
+
+See KARSHVARES, PLANETARY CHAIN, REGIONS, RENOVATION, SOSHYANS.
+
+**Corrections made:** `GAathas` → Gathas; `Have, Kesaya` → Haug, *Essays*; opening quotation mark supplied before "I (Zaratusht)"; `ReEGions` → REGIONS.
+
+**Unclear or supplied:** The name of the source before `XIX. 39 (129)` is lost (OCR `ee`); the final `7` is left as in the OCR. `Haug` read from damaged `Have`.
 
 ## Full OCR entry body (exact)
 

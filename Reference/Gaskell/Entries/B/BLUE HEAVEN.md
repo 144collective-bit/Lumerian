@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blue-heaven
 headword: "BLUE HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `I am` | **unresolved** (review queue) |
 | `KINGDOM OF HEAVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KINGDOM OF HEAVEN, OR OF GOD|KINGDOM OF HEAVEN, OR OF GOD]] |
 | `TURQUOISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TURQUOISE, HEAVEN|TURQUOISE, HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the celestial region of bliss on the buddhic plane.
+
+> "For 'I am' is that God, even the Bull, the Lord of gods, when he setteth forth in the Blue Heaven."—M. W. Blackden, *Book of the Dead*, Ch. CX.
+
+The true and one Self is symbolised by the "Bull,"—the Lord of the Divine attributes which are set forth in the Kingdom of heaven on the buddhic plane.
+
+> "And they saw the God of Israel; and there was under his feet as it were a paved work of sapphire stone; and as it were the very heaven for clearness."—Exod. xxiv. 10.
+
+The Divine activities (feet) are directed from the buddhic and higher mental planes to the planes below.
+
+See I AM, KINGDOM OF HEAVEN, TURQUOISE.
+
+**Corrections made:** page heading `BOAR` removed from mid-quotation; `buddhio` → buddhic; `&` → a; `Exop.` → Exod.; `BLACKDEN` → Blackden; See-list spellings restored (`I am`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

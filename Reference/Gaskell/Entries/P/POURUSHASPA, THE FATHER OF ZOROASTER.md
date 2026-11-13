@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pourushaspa-the-father-of-zoroaster
 headword: "POURUSHASPA, THE FATHER OF ZOROASTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,22 @@ tags:
 | `VENUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VENUS, GODDESS, OR THE PLANET|VENUS, GODDESS, OR THE PLANET]] |
 | `YUDHI` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the early activities of the astral nature which lead to the birth of the Soul (Zoroaster).
+
+> "Pourushaspa was the fourth man who [word unclear] me (Homa) for the material world; this reward he obtained, that thou wert born to him, O Zarathustra of the house of Pourushaspa, who art opposed to the demons, and of the Ahura religion."—*Homa Yash*.
+
+The preparation for the manifesting of the Divine Life through "Pourushaspa" means that at this period of involution the process of creation takes place upon the astral plane. And it is upon this plane that the World-soul (Zoroaster) is said to be born, inasmuch as the desire-principle (Pourushaspa), being the motive power of evolution, is the first means of enabling the Soul to commence by involution the accomplishment, through evolution, of its purpose. The desire-nature being essentially the love element (attractive) is opposed to the power of darkness (ignorance and inertia) and is the only means of awakening the positive, initiative power of the Soul. The desire-nature being of "the Ahura religion" means that it is through the awakenment of Love that the affinity of the Soul with the Higher Self is seen and known.
+
+> "The only power to oppose to evil is love, strong enduring love, a benevolence which no crime or wretchedness can conquer, and which therefore can conquer all. . . . Go then with this love, and it will be mightier than the sword of the magistrate, or the armies of monarchs, to conquer evil. It will touch the heart which has hardened itself against all other influences. It will pierce the conscience, which is impregnable against the most vehement rebuke. Love gives a new tongue, the only one which all men can comprehend."—W. E. Channing, *Works*, Vol. II. p. 41.
+
+See APHRODITE, ASTRAL PLANE, AURVAITO, BIRTH OF ZOROASTER, CREATION, DARKNESS, DEMONS, DUGHDHOVA, EVOLUTION, GLORY (divine), HOMA, INVOLUTION, PRITHA'S, RELIGION (good), SOUL, SOUTH WIND, TANE-MAHUTA, VENUS, YUDHI, ZOROASTER.
+
+**Corrections made:** page heading `PRAGAPATI` removed from mid-sentence; stray `|` removed; `hove` → love; `conacience` → conscience; `Sout` → SOUL; `SovurH WIND` → SOUTH WIND; `Demons`, `DuGHDHOVA`, `Homa` See-list capitals restored; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces the damaged OCR `i acti` in the Homa Yasht quotation ("the fourth man who ... me").
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fear-of-god-or-the-lord
 headword: "FEAR OF GOD OR THE LORD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Farrnu` | **unresolved** (review queue) |
 | `INTUITION. FEAST;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perception of the higher nature within, and its attractiveness upward.
+
+> "The fear of the Lord is the beginning of wisdom."—Ps. cxi. 10.
+
+> "The fear of the Lord is a fountain of life, to depart from the snares of death."—Prov. xiv. 27.
+
+See FAITH, INTUITION.
+
+**Corrections made:** `Farrnu` → FAITH; trailing page heading `FEAST;` removed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

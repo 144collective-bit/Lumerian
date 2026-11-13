@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eating
 headword: "EATING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,26 @@ tags:
 | `SUPPER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUPPER, LAST|SUPPER, LAST]] |
 | `TREE OF KNOWLEDGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREE OF KNOWLEDGE OF GOOD AND EVIL|TREE OF KNOWLEDGE OF GOOD AND EVIL]] |
 | `OF LIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the acquisition of knowledge as sustenance for the mind, by means of sensation and experience. Also, in a higher sense, the reception of spiritual food which is Wisdom, Truth, and Love.
+
+> "As the living Father sent me, and I live because of the Father; so he that eateth me, he also shall live because of me."—John vi. 57.
+
+As the Absolute and Unmanifest Supreme emanated the Divine life, which is the life of the Manifest Self, so the quality that partakes of the nature of the Self, it also shall live everlastingly by and in the Self.
+
+> "'Of every tree that is in the Paradise thou mayest freely eat.' He exhorts the soul of man to derive advantage not from one 'tree' alone, nor from one single virtue, but from all the virtues; for eating is a symbol of the nourishment of the soul, and the soul is nourished by the reception of good things, and by the doing of praiseworthy actions."—Philo, *Works*, Yonge, Vol. IV. p. 77.
+
+> "'For my sighing cometh before I eat' (Job iii. 24). All they are starved of the food of truth that take joy in the emptiness of this scene of our pilgrimage, but he 'sighs' (with sorrow), that 'eats,' because all who are touched with the love of truth are at the same time fed with the refreshments of contemplation."—St. Gregory, *Morals on the Book of Job*, Vol. I. p. 251.
+
+> "To eat signifies appropriation of good or of evil things."—Swedenborg, *Apoc. Rev.*, n. 832.
+
+See ASHEMOGHA, BREAD, CALF (molten), FEED, FOOD, MANNA, MEAT, MOUTH (opened), SACRAMENT, SUPPER, TREE OF KNOWLEDGE, OF LIFE.
+
+**Corrections made:** `JOHN` → John; `EATING` page heading removed from mid-sentence; `& symbol` → a symbol; `JoBiii.` → Job iii.; `Grea@ory` → Gregory; `n 832` → n. 832; See-list spellings restored (`Manna`, `MEat`, `MouvurH#H`, `SacRaMENT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

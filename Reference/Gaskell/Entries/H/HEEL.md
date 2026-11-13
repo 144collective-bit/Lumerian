@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heel
 headword: "HEEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,36 @@ tags:
 | `Sout (lowest)` | **unresolved** (review queue) |
 | `Styx` | **unresolved** (review queue) |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature of the human soul.
+
+> "And I will put enmity between thee and the woman, and between thy seed and her seed: it shall bruise thy head, and thou (serpent) shalt bruise his heel."—Gen. iii. 15.
+
+And ethical distinction shall be drawn between the sense nature with its appetites and delights, and the higher emotion-nature; and through this distinction shall the struggle within the soul proceed. From this conflict between higher and lower, the result shall be that the lower mental (head) directivity of desire, or lower will, shall be crushed out by the Divine nature (Christ within) grown up in the soul, and this will lead to the dissipation of the lower part of the soul (heel).
+
+> "To this serpent, this spirit of evil in the world, God is [speak?]ing. What does God say? There shall be a long, terrible fight between man and the power of evil. The power of evil shall haunt and persecute man, cripple him and vex him, hinder him and make him suffer. It shall bruise his heel. But man shall ultimately be stronger than the power of evil, and shall overcome it and go forth victorious, though bruised and hurt, and needing recovery and rest. He shall bruise its head. . . . Is it not true that everywhere the good is hampered and beset and wounded by the evil which it is ultimately to slay; true also that the [good?] will ultimately slay the evil by which it was wounded and beset? These two facts, in their combination, make a philosophy of life which, when one has accepted it, colours each thought he thinks, each act he does. The two facts subtly blend their influence in every experience."—Phillips Brooks, *Serm.*, *The Giant*, etc.
+
+> "As heels are the lowest part of the body, Christ's heel bruised by Satan is his humbled manhood, and his people who are subject to him. To have heels bare, denotes shame, contempt, captivity or distress (Jer. xiii. 22). To lift up the heels or kick is to render evil for good to a superior, as a beast when it strikes its master; so Judas acted in betraying our Lord."—Gurney, *Bible Dict.*, p. 256.
+
+> "A day arrives when man becomes aware of a dual nature within him, o[ne] divine and an earthly, one in which he shares with the gods, and one which is his in common with the brutes. But he pays a heavy price for his self-knowledge. [H]enceforth he is at war with himself, the God and the serpent within him fighting for mastery. On the whole, victory rests with the former, and in the end will do so completely, but it will not be a scathless triumph; the God will crush the serpent's head, but the latter will wound the heel that tramples it. . . . The whole upward progress of humanity towards the stature of the superman has been a continuous bruising of the serpent's head: but in the process we have had to suffer; the heel that tramples down the evil has to feel the serpent's fangs."—R. J. Campbell, *Serm.*, *Trampling the Serpent*.
+
+> "Achilles is not quite invulnerable; the sacred waters did not wash the heel by which Thetis held him. Siegfried, in the Nibelungen, is not quite immortal, for a leaf fell on his back whilst he was bathing in the dragon's blood, and that [spot?] which it covered is mortal."—[E]merson, *Compensation*.
+
+> "Thetis endeavoured to make Achilles immortal by dipping him in the river Styx, and succeeded with the exception of the ankles (or heel) by which she held him."—Smith's *Class. Dict.*
+
+"Achilles" is a symbol of the personality brought forth by nature (Thetis). The "river Styx" signifies the life of the soul on earth, through which the personality is developed and purified. But though the personality is purified ultimately, it misses immortality by reason of its lower nature (heel) which is mortal. When the lower nature vanishes, the personality vanishes with it. Nevertheless, within the personality there evolves the lower Self, which, when the lower nature is cast off, rises immortal to the higher planes and becomes one with the Higher Self. It is this which is signified by "Achilles" being said to be immortal all but his lowest part (heel).
+
+> "By 'heel' is signified the lowest natural principle, as the corporeal, which the 'serpent' should bruise."—Swedenborg, *Arc. Cel.* to Gen. iii. 15.
+
+> "Krishna finally died of an arrow wound which he sustained accidentally and in an unforeseen manner on his heel,—the only vulnerable part of his body (cf. Achilles, Balder, Adonis, and Osiris)."—A. Drews, *The Christ Myth*, p. 107.
+
+See ADAM (lower), ACHILLES, CURSE (ground), EVE, FALL, HEAD, HORSE (winged), IMMORTALITY FORFEITED, [Kerr.t?], MORTAL MIND, NIDHOGG, PERSONALITY, SERPENT (subtil), SHABTI, SOUL (lowest), STYX, WOMAN.
+
+**Corrections made:** `GEN. lili. 15` → Gen. iii. 15; `thie` → this; `Pxrtuie Brooks` → Phillips Brooks; `hy Satan` → by Satan; `® superior` → a superior; `ita master` → its master; `man_ hecomes` → man becomes; `MERSON` → Emerson; `Clase. Diet.` → Class. Dict.; `SwEpDEnBora` → Swedenborg; `JER.` → Jer.; `- «+` → . . .; page headings `HEIFER` and `850 HEIFER` (350) removed from mid-text; See-list spellings restored (`Fart`→FALL, `Heap`→HEAD, `Horse`, `Sout`, `Styx`).
+
+**Unclear or supplied:** `[speak?]ing`: OCR `is ing`. `[good?]`: OCR `the d will`. `o[ne]`: OCR `o divine`. `[H]enceforth`: OCR `enceforth`. `[spot?]`: OCR `that t which`. `[E]merson`: OCR `MERSON`. See-list item `[Kerr.t?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

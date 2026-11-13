@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-son
 headword: "S SON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,20 @@ tags:
 | `NET or asaB` | **unresolved** (review queue) |
 | `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `WOMAN (Loke)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-nature, kama-manas, full of cunning and egoism.
+
+> "Then said Ganglere: 'Loke acted most wickedly; first, by causing the death of Balder; and secondly, by preventing his release from Hel. But was he not punished for these his misdeeds?' Har replied: 'Yes, it was avenged on him, and in a manner which he will long remember.'"—*The Punishment of Loke*, *Edda*, Howitt.
+
+Then the conscience speaks within the mind:—The desire-nature has done amiss from the relative point of view, in that it has become the means of drawing the soul (Balder) downwards to the karmic planes (Hel), and that fall now serves to prevent it from rising to union with the Self. But under all the circumstances which were incidental to such a fall,—was not cause and effect, or compensation on higher planes, made to yield such results as were just and right withal? And the answer comes,—that throughout the soul's evolution, perfect equilibrium between the higher and lower natures was maintained, and that the outcome of the whole process is stored away in the soul's inner being.
+
+See BALDER, CAVE, CONSCIENCE, DEATH OF BALDER, DOORS (four), EYE (third), GANGLER, HEIMDALL, HEL, HIGHER AND LOWER, HODER, NARE, NET OF [ASAR?], VOICE, WOMAN (Loke).
+
+**Corrections made:** `Peunishment` → Punishment; `Howrrr` → Howitt; `degsire` → desire; `@ fall,_-was` → a fall,—was; page heading `LOOM` removed from mid-sentence; See-list spellings restored (`BaLpEeR`, `Cave`, `DerarH`, `Eve`, `GaNGLER`, `Heit`, `HopER`, `NarE`).
+
+**Unclear or supplied:** `Howitt` restored from OCR `Howrrr`. `[ASAR?]`: OCR reads `NET or asaB`; the item is not identified with confidence.
 
 ## Full OCR entry body (exact)
 

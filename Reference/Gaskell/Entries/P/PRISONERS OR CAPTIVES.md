@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prisoners-or-captives
 headword: "PRISONERS OR CAPTIVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,28 @@ tags:
 | `Kanna` | **unresolved** (review queue) |
 | `PovnrvSHASPA` | **unresolved** (review queue) |
 | `YUDHI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the spiritual egos confined to the lower planes, and held in fetters of the lower desires and the attractions of the objects of sense.
+
+> "That thou mayest say to the prisoners, Go forth; to them that sit in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places."—Isa. xlix. 9.
+
+The indwelling Self is to be the means whereby the egos are to be liberated from ignorance and illusion,—and express their spiritual nature. They are to be sustained in their paths to perfection, and their means of growth are provided for them on the higher planes.
+
+> "The only freedom we possess is like that of a bird in a cage: we can choose between the higher and the lower standing ground, a choice called for by the very fact that we are in prison; but we cannot choose where the cage shall go."—R. J. Campbell, *The New Theology*, p. 39.
+
+> "'Am I a sea or a whale, that thou hast compassed me about with a prison?' (Job vii. 12). Man is 'compassed about with a prison' in that he very often both strives to mount on high by the strides of virtuous attainments, and yet is impeded by the corruption of his fleshly [word unclear]. Of which same the Psalmist rightly prays that he might be divested, saying, 'Bring my soul out of prison, that I may praise Thy name' (Ps. cxlii. 7). But what have we set forth by the designation of 'the sea' saving the hearts of carnal men tossed with swelling thoughts? and what by the name of 'a whale' except our old enemy? who, when in taking possession of the hearts of the children of this world he makes his way into them,—does in a certain sort swim about in their slippery thoughts. But the 'whale' is made fast in prison in that the evil spirit, being cast down below, is kept under by the weight of his own punishment."—Gregory the Great, *Morals on the Book of Job*, Vol. I. pp. 444-5.
+
+See BONDAGE, CAPTIVITY, DARKNESS, EXODUS, FETTERS, HOUSE OF BONDAGE, LIBERATION, PASTURES, PURGATORY, SEA, SONS OF GOD, STRIDES OF SOUL, SUFFERING, WHALES.
+
+### Also in this note: PRITHA'S BIRTH FROM THE HAND
+
+A symbol of the production of the emotion-nature from the activities of the kama-manasic nature. See [Burma?], [Currmp?], KAMA, POURUSHASPA, YUDHI.
+
+**Corrections made:** page heading `594 PRISONERS '` removed from mid-sentence; `shaJl` → shall; `chooee` → choose; `stand. ing` → standing; `chose where` → choose where; `R. as CaMPBELL` → R. J. Campbell; `. 39 Pa` → p. 39 (stray `Pa` removed); `com about` → compassed about; `Morale` → Morals; `Vol. L.` → Vol. I.; an opening single quote supplied before `Bring my soul`; See-list spellings restored (`Bonpaas`, `Captivrry`, `DarxNEss`, `FErErrers`, `Houser`, `PureaTory`, `Sra`, `STRIDES oF soUL`, `Kanna`, `PovnrvSHASPA`).
+
+**Unclear or supplied:** Contains a second entry: PRITHA'S BIRTH FROM THE HAND. `[word unclear]` follows "fleshly" (OCR `.`; probably "body"). In the second entry `[Burma?]` and `[Currmp?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

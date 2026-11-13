@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-roasted-flesh-of-sacrifice
 headword: "ROASTED FLESH OF SACRIFICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SACRIFICE (burnt)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VISCERA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of purified and transmuted desires and passions of the lower nature.
+
+> "Now when the thighs were burnt and they had tasted the vitals, then sliced they all the rest and pierced it through with spits, and roasted it carefully, and drew all off again."—*Iliad*, Bk. I.
+
+When the possibility of fresh desires being generated was removed, and the Higher Self had received the transmuted passions (roasted vitals), the residue of desires was broken up. And to this end the lower self was pierced by the operation from above and purified, then once more transmuted.
+
+See BURNT OFFERING, DIONYSUS, FLESH, HECATOMB, SACRIFICE (burnt), TRANSMUTATION, VISCERA.
+
+**Corrections made:** `the. sliced` → then sliced; `Bk. 1.` → Bk. I.; `|` marks removed; `th transmuted` → the transmuted; `fron above` → from above; `mor transmuted` → more transmuted; `DIonNysts` → DIONYSUS; quotation marks normalised.
+
+**Unclear or supplied:** `then sliced` is read from OCR `the. sliced`.
 
 ## Full OCR entry body (exact)
 

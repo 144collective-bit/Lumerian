@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rending-the-garments
 headword: "RENDING THE GARMENTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
 | `GARMENTS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `SackCLOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SACKCLOTH ON FLESH|SACKCLOTH ON FLESH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the rejection either of truth or error. It implies either enlargement of mind by the breaking forth of truth, or the suppression of truth and retention of opinions which narrow the intelligence.
+
+> "Then the high priest rent his garments, saying, He hath spoken blasphemy."—Matt. xxvi. 65.
+
+The literalist rejects (rends) the spiritual truths offered him, because he is agnostic towards the higher, and does not believe in the possibilities which the Christ-soul pre-figures.
+
+> "We 'rend our mantle' whenever we review with a discriminating eye our past deeds; for unless with God our deeds were as a cloak that covered us, it would never have been declared by the voice of an Angel, 'Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame'; for 'our shame' is then 'seen' when our life, appearing worthy of condemnation in the eyes of the righteous in judgment, has not the covering of good practice."—St. Gregory, *Morals on the Book of Job*, Vol. I. p. 123.
+
+See CLOTHING, GARMENTS, SACKCLOTH.
+
+**Corrections made:** `Mar.` → Matt.; `dceds` → deeds; `heen` → been; `garmenta` → garments; `Sr. GREGORY` → St. Gregory; `SackCLOTH` → SACKCLOTH; `is_ then` → is then; quotation marks normalised.
+
+**Unclear or supplied:** `Matt.` is read for OCR `Mar.` (xxvi. 65 is a Matthew reference); the original printing may read `Mark`/`Matt.`.
 
 ## Full OCR entry body (exact)
 

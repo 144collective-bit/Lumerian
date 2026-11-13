@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fasting
 headword: "FASTING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `ABSTINENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ABSTINENCE|ABSTINENCE]] |
 | `AUSTERITIES` | **unresolved** (review queue) |
 | `PENANCE. FAT; OIL;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies abstention from sense impressions and abstinence from all external aid, while relying upon the indwelling Spirit for help in evolution.
+
+> "Except ye fast to the world, ye in no wise find the kingdom of God."—A saying of Jesus, discov. 1897.
+
+See ABSTINENCE, AUSTERITIES, PENANCE.
+
+**Corrections made:** page headings `FAT` (mid-text) and trailing `FAT; OIL;` removed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

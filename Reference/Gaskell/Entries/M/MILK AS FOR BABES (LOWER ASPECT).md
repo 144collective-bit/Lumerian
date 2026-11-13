@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-milk-as-for-babes-lower-aspect
 headword: "MILK AS FOR BABES (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `OpIn` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WELL OF WATER|WELL OF WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of experience of the conditions of the lower life, and of the external stimulus to progress.
+
+> "[words lost] the most circumspect of the Ases,—and looked in her eyes: 'Why sound me? why put me to the proof? I know all, Odin; I know where thou hast concealed thine eye,—in that great fountain of Mimer."—*The Voluspa*, 89-94.
+
+The Wisdom nature is aware that the Higher Self through the experience of the lower consciousness (eye) acquires Truth.
+
+See [Asark?], EYES (two), FOUNTAIN, FRIGG, ODIN, WATER, WELL.
+
+**Corrections made:** `Eves` → EYES; `Frica` → FRIGG; `OpIn` → ODIN; `WaTER` → WATER; page heading `MIND` removed from the start of the quotation.
+
+**Unclear or supplied:** The quotation begins mid-sentence: the words before "the most circumspect of the Ases" are lost in the OCR (`[words lost]`). `[Asark?]` is a See-list item not identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aelopus-or-nicothea-the-harpy
 headword: "AELOPUS, OR NICOTHEA, THE HARPY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `OCYPETE` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
 | `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 | `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of desire through the sense of sight; or the lust of the eyes. See HARPIES, NICOTHEA, OCYPETE, PHINEUS, ZETES.
+
+**Corrections made:** `Harpises` → HARPIES; See-list spellings restored (`NicOTHEA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ablution-by-use-of-water
 headword: "ABLUTION BY USE OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: sample-draft
 tags:
   - source/gaskell
@@ -53,6 +54,14 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 ## Sample-internal links (only where Gaskell’s text warrants)
 
 - No additional sample-internal association claimed beyond See-resolution above.
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of purification through the acceptance and assimilation of truth. See BAPTISM, WASHED, WATER.
+
+**Corrections made:** `BaptisM` → BAPTISM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

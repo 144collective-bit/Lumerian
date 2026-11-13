@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sabbaths
 headword: "SABBATHS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `Sparrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
 | `SUMMER (unfruitful)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUMMER AND WINTER|SUMMER AND WINTER]]; [[Reference/Gaskell/Entries/S/SUMMER, SEVEN MONTHS|SUMMER, SEVEN MONTHS]]; [[Reference/Gaskell/Entries/S/SUMMER WHEN UNFRUITFUL|SUMMER WHEN UNFRUITFUL]] |
 | `Wivrrr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of periodic states or conditions of the cosmic and soul life on the lower planes, or the higher, i.e. material or spiritual states.
+
+> "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies' land; even then shall the land rest, and enjoy her sabbaths. As long as it lieth desolate it shall have rest; even the rest which it had not in your sabbaths, when ye dwelt upon it."—Lev. xxvi. 34, 35.
+
+Then shall the general outspread life of the soul enjoy the buddhic consciousness during the periodic spiritual states when it is without the sensations, passions and desires (desolate), and the lower qualities, being relative and unreal, are non-existent (in enemies' land). Even then shall the indrawn life partake of bliss. As long as it is without the opposites it shall have peace; even the peace which it had not in the periodic material states when the lower qualities were in the stress and suffering of life.
+
+> "These Sabbaths (of Lev. xxiii) are seven Pralayas between seven manvantaras, or what we call Rounds."—H. P. Blavatsky, *Secret Doctrine*, Vol. II. p. 790.
+
+See BLISS, BUDDHI, [DraRrTsH?], KARSHVARES, LAND, MANVANTARA, OPPOSITES, PRALAYA, QUALITIES, ROUND, SNOW, SPARROWS, SUMMER (unfruitful), WINTER.
+
+**Corrections made:** `EUT.` → Lev.; `Lzv.` → Lev.; `buddhio` → buddhic; `nonexistent` → non-existent; `BiavstTsky` → Blavatsky; See-list spellings restored (`Buiss`, `Buppxi`, `KarsHvARES`, `Lanp`, `OPPposITES`, `Rounp`, `SNow`, `Sparrows`, `Wivrrr`).
+
+**Unclear or supplied:** `Lev.` for `EUT.`: the OCR reading is truncated; the quoted text is Leviticus xxvi. `[DraRrTsH?]`: See-list item not identified.
 
 ## Full OCR entry body (exact)
 

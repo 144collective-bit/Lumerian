@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-countenance-greater-and-lesser
 headword: "COUNTENANCE, GREATER AND LESSER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,30 @@ tags:
 | `Warp` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WARP AND WOOF OF THE UNIVERSE|WARP AND WOOF OF THE UNIVERSE]] |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `YETZEERATIC WORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/Y/YETZEERATIC WORLD, THE WORLD OF FORMATION|YETZEERATIC WORLD, THE WORLD OF FORMATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Higher Self and the Lower Self—the Self unmanifest and the Self incarnate and partly manifest in the soul on the plane of mind.
+
+> "The White Head, the Ancient, or the Great Countenance is described as Ancient of Ancients, concealed of all concealed. He who is symbolised thereby is the Master with the white mantle and resplendent visage, and he is also called Holy of Holies. . . . Connected by means of a white thread or bond of union with the Great Countenance, there is that which is called the Lesser Countenance, Little Form or Figure, which presents, however, a complete [figure] of humanity and is extended through three symbolical worlds. The distinction between the two heads is that in this case the hair and beard are black."—A. E. Waite, *Secret Doctrine in Israel*, pp. 45, 46.
+
+The Supreme Self, who is beyond time and space, is perfect in potentiality and hidden within all things. He is the Central Ruler and promulgator of the scheme of existence, and in him is the perfection of all Wisdom, Love, and Truth. Essentially united with the Supreme Self is the Conditioned Self, the complete prototype of perfect humanity, but as yet little evolved on the three lower planes. The black hair is significant of youthfulness.
+
+> "The Lesser Countenance has eyelids, because it has periods of sleep, a complete visage in manifestation because severity is one of its attributes, and a distinctive name, being Lord, whereas the Great Countenance is called Ain, or Nothing. It is laid down (1) that the Lesser Countenance emanates from the Greater, (2) that the Greater metamorphoses into the Lesser, (3) that the latter is actually the former, as if seen through a curtain, and more specifically that they are one and the same."—*Ibid.*
+
+The incarnate Self withdraws from outward perception, between periods of reincarnation. The mental aspect of the lower consciousness is that of a "man of sorrows and acquainted with grief," yet behind this visage is the Divine Ruler obscured by a curtain of imperfections, but destined to shine forth in his beauty when the soul has become pure and translucent, and the two Selves become One Self.
+
+> "According to the symbolism of the Idras, the Great Countenance is in Atziluth, abode of the three supreme Sephiroth, which are Kether, Chokmah and Binah. It is located especially in Kether. Below this there is the Lesser Countenance and Form, the head of which is in Daath (knowledge), while the body is extended through Briah, Yetzirah and Assiah, the [former] being not without the female."—*Ibid.*
+
+The abode of the Higher Self is on the three higher planes (Atziluth), atma, buddhi, and higher manas, but essentially on atma (Kether). The incarnate Self is involved in the lower nature of the soul,—mental (Briah), astral (Yetzirah), and physical (Assiah). It is centred in the mind as the Individuality (Daath) which is in alliance with the higher emotion nature, buddhi (Binah).
+
+> "According to later Kabalism, the Great Countenance is Macroprosopus, the soul of the greater world, while the Lesser Countenance or Figure is Microprosopus, the soul of the lesser world and Adam Protoplastes, his Bride being the archetypal Eve."—*Ibid.*, p. 49.
+
+The first Adam (Gen. i.) is the Archetypal Man containing the duality of mind (man) and emotion-nature (woman). See ADAM (higher), AIN SOPH, ARC. MAN, ASEEYATIC WORLD, ASTRAL PLANE, ATMA, ATZEELOOTH, BINAH, BREEATIC WORLD, BUDDHIC PLANE, FACE, HIGHER AND LOWER SELVES, HOMUNCULUS, HUMAN BODY, INCARNATION, JOB, KETHER, MACROCOSM, MICROCOSM, PLANES, SERVANT OF GOD, VEIL, WHITE, YETZEERATIC WORLD.
+
+**Corrections made:** `complete t of humanity` → complete [figure] of humanity; `caee` → case; `Ierael` → Israel; `Theo177 COUNTENANCE` → page heading `177 COUNTENANCE` removed (the `Theo` is the start of a line fragment, kept out; see UNCLEAR); `ere being` → [former] being; `Atztluth` → Atziluth; `tha` → the; `(fein.)` → (Binah); `Microprosopue` → Microprosopus; page heading `COUNTERFEIT` removed from mid-sentence; `GEN. i.` → Gen. i.; See-list spellings restored (`BIn4#`, `Hoxumau`, `Warp`), and similar minor fixes.
+
+**Unclear or supplied:** `[figure]` is supplied for the damaged `complete t of humanity`. `[former]` is a supplied reading for `ere` ("the ere being not without the female"). `(fein.)` read as `(Binah)`. `Hoxumau` read as HOMUNCULUS (uncertain); `Warp` read as VEIL (uncertain). The fragment `Theo` before the page number `177 COUNTENANCE` is a stray remnant of the page-break and is dropped as part of the heading (`pp. 45, 46, Theo177`).
 
 ## Full OCR entry body (exact)
 

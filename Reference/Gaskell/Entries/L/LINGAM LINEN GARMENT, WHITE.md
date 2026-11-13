@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lingam-linen-garment-white
 headword: "LINGAM LINEN GARMENT, WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Rose` | **unresolved** (review queue) |
 | `SKIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic robe of wisdom, goodness, and love.
+
+> "And it was given unto her (the Lamb's wife) that she should array herself in fine linen, bright and pure: for the fine linen is the righteous acts of the saints."—Rev. xix. 8.
+
+The "Lamb's wife" is the purified soul rising to union with the Higher Self on the upper planes. The soul then becomes clothed with the buddhic qualities of wisdom and love, which have been inherited through the harmonising of the disciplined qualities (saints) with the Divine nature.
+
+> "Man then puts on a linen garment, for completeness' sake: it is indeed his own skin he thereby puts on himself. Now that same skin, which belongs to the cow, was originally on man."—*Sata. Brâh.*, III. 1, 2, 13.
+
+The ego having purified himself (verse 12) of his lower qualities, now assumes the buddhic robe to perfect his nature on the higher planes, for the robe of wisdom and love is indeed that which is possessed prior to his descent into the lower nature. Now that same endowment of the higher qualities which is of buddhi (cow) was originally on man before his fall into matter.
+
+See COW (milch), [Farzt?], [FLAYING?], LAMB OF GOD, MAN, ROBE, SKIN.
+
+**Corrections made:** `acta` → acts; `Brdh.` → Brâh.; See-list spellings restored (`Cow`, `LaMB OF GOD`, `Rose`).
+
+**Unclear or supplied:** See-list items `[Farzt?]` and `[FLAYING?]` (OCR `Fuayine`) could not be identified with confidence; `ROBE` is read from OCR `Rose`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-marjatta-or-mariatta
 headword: "MARJATTA OR MARIATTA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `VrncIn` | **unresolved** (review queue) |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purified part of the lower nature, fit to bear the Christ.
+
+> "Mariatta, child of beauty, Magic maid of little stature, Guarded with her sacred virtue, Her sincerity and honour, Fed upon the dainty whiting, On the inner bark of birchwood, On the tender flesh of lambkins."—*The Kalevala*.
+
+The child of virtue and beauty of the lower nature, small but precious in truth and righteousness; steadfast in faith, hope, and charity, in gentleness, purity, nobleness and sincerity. Subsisting upon facts of experience,—knowledge,—upon the "bread of life," and upon the "holy meat," which is intellectual and spiritual food.
+
+> "The word marja means a cranberry, and consequently the name Marjatta cannot have been originally derived from Maria."—W. F. Kirby, *The Quest*, Vol. I. p. 326.
+
+See CRANBERRY, HUITZILOPOCHTLI, LEMMINKAINEN, SERPENT (water), VIRGIN, VIRGIN MARY.
+
+**Corrections made:** `sand upon` → and upon; `Krrpy` → Kirby; `p-` → p.; page heading `481 MARRIAGE` removed from mid-sentence; See-list spellings restored (`VrncIn`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

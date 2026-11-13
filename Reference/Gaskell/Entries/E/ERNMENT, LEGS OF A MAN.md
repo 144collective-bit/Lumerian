@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ernment-legs-of-a-man
 headword: "ERNMENT, LEGS OF A MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `KNEE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KNEE, KNEELING|KNEE, KNEELING]] |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `STRIDES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STRIDES OF THE SUPREME|STRIDES OF THE SUPREME]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of duality, when passive. When active, they signify the mental activities which are a means of progression upon the lower planes.
+
+See KNEE, MAN, STRIDES.
+
+**Corrections made:** Stray `~` at the start removed; `Man` → MAN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

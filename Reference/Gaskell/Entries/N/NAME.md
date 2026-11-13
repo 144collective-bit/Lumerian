@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-name
 headword: "NAME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,30 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Ren` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
 | `Trrans` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of perception of difference, whereby one quality is distinguished from another.
+
+> "Whatsoever Adam called every living creature, that was the name thereof."—Gen. ii. 19.
+
+The primitive lower mind (Adam) began to perceive and reflect upon the differentiations of the sensations, desires, and lower emotions presented to the consciousness. And according as the mind energised the desires, so each emotion was distinguished. Knowledge commences in the perception of differences.
+
+> "And whatsoever ye do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father through him."—Col. iii. 17.
+
+The qualities are enjoined to identify themselves in all their ideas and activities with the spiritual differentiation denoted by the symbol "Lord Jesus," aspiring through this towards the Absolute.
+
+> "Upon the pillar thus wrought into the temple of God's loving kingdom there are three inscriptions:—'I will write upon him the name of my God, and the name of the city of my God the new Jerusalem, which cometh down out of heaven, and my new name' (Rev. iii. 12). The soul that in obedience to God is growing into His likeness is dedicated to the divine love, to the hope of the perfect society, and to the ever new knowledge of redemption and the great Redeemer."—Phillips Brooks, *Serm.*, *The Pillar*, etc.
+
+> "[beginning lost] tion except through the Ideas which it manifests."—Ed. Carpenter, *Art of Creation*, p. 121.
+
+> "By the Lord's name is meant the all of doctrine, and, in a universal sense, the all of religion. . . . In heaven no other names are given but what involve the quality of anyone."—Swedenborg, *Apoc. Rev.*, n. 81.
+
+See BOAT ON RIVER, COSMOS, CREATION, HORUS, [LOGOS?], MEMBERS, NU, QUALITIES, RA, REN, TITANS.
+
+**Corrections made:** `~perception` → perception; `yo` → ye; `Cox..` → Col.; `Pxruiirs Brooks` → Phillips Brooks; `Ep. CARPENTER` → Ed. Carpenter; page headings `525 NAMES` and `NANDA` removed (the OCR has `See NANDA` where the text of the Carpenter quotation breaks off); See-list spellings restored (`Boat`, `Horp`, `Luss`, `MemMBers`, `Quatitres`, `Trrans`).
+
+**Unclear or supplied:** The first part of the Carpenter quotation is lost to a page break (the OCR resumes at `tion except through the Ideas`), marked `[beginning lost]`; the word `See` before `NANDA` was dropped with the page heading. `[LOGOS?]` is a doubtful reading of `Luss`. `HORUS` is a likely reading of `Horp`.
 
 ## Full OCR entry body (exact)
 

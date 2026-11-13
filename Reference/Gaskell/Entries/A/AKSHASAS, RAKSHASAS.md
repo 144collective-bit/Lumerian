@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-akshasas-rakshasas
 headword: "AKSHASAS, RAKSHASAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `MAHABHARATA` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAHABHARATA, OR THE GREAT ORIGINATOR|MAHABHARATA, OR THE GREAT ORIGINATOR]] |
 | `RaIn` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAIN CAUSING DELUGE|RAIN CAUSING DELUGE]] |
 | `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mental qualities (fleshly lusts) which war against the soul.
+
+> "Those of the quality of rajas worship the celestial powers,—the Yakshas and Râkshasas (cloud demons who withhold the rains)."—*Bhagavad-Gita*, Ch. XVII.
+
+Those mortals full of desire extol the pleasures of sense and the desiremental attractions which prevent the influx of truth to the soul.
+
+> "Under the story of the conflict between the armies of the noble Rama and the barbarous races of the South, figured by the Rakshasas, there appears to lie a typical representation of the great mystery of the struggle ever going on between the powers of good and evil."—Mon. Williams, *Indian Wisdom*, p. 362.
+
+See DAEVAS, DAEMONS, DEMONS, DEVILS, LANKA, MAHABHARATA, RAIN, RAMA.
+
+**Corrections made:** `Raékshasas` → Râkshasas; `Wriuams` → Williams; `Wiedom` → Wisdom; See-list spellings restored (`Darvas`, `Darmons`, `DrEMmons`, `Devits`, `RaIn`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

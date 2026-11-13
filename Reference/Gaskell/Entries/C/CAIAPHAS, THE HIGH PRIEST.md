@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-caiaphas-the-high-priest
 headword: "CAIAPHAS, THE HIGH PRIEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,26 @@ tags:
 | `RoMAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROMAN SOLDIER IN JUDEA|ROMAN SOLDIER IN JUDEA]] |
 | `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `TRADITION` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TRADITION|TRADITION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of formal and sterile notions of religion, which have to be broken up before the Christ-spirit can burst forth in its fullness in the mind.
+
+> "The chief priests therefore and the Pharisees gathered a council, and said, What do we? for this man doeth many signs. If we let him thus alone, all men will believe on him: and the Romans will come and take away both our place and our nation."—John xi. 47, 48.
+
+The priests and Pharisees represent a mental state in which the outer expression of the scriptures is regarded as authoritative in the unquestioning mind. This state of formalism and dogmatism is aghast at the incoming of a new spirit which threatens to upset the old traditional notions and substitute fresh ideas. Literalism is afraid also of the aggressive champions of rationalism (the Romans) who would destroy cherished practices and a fixed mental state (nation).
+
+> "But a certain one of them, Caiaphas, being high priest that year, said unto them, Ye know nothing at all, nor do ye take account that it is expedient for you that one man should die for the people, and that the whole nation perish not."—John xi. 49, 50.
+
+Caiaphas signifies a long-headed representative of the orthodox spirit, who foresees the natural result of the literalist tendency, and who seeks to control those he deems below him, in such a manner as is opposed to the Christ. He believes only in systems and creeds, and not in the triumph of those qualities which make the soul truly great. But his commanding intellect suffices to show him that there must be some change of mind to meet new conditions and that the old mental state (one man) must die out, in order that the whole traditional view should not perish.
+
+> "There is nothing to prevent a sincere Catholic from going to any length with modern criticism, which the evidence really warrants, in dealing with the letter of our Sacred Books. The divine element in those books no criticism can touch. The details over which it has power are as the small dust in the balance in comparison of the idea, over which it is powerless. Surely Mr. Carlyle is right when he says: 'The Bible has, in all changes of theory about it this, as its highest distinction, that it is the truest of books.'"—W. S. Lilly, *The Great Enigma*, p. 109.
+
+See ANNAS, ASSEMBLY (PRIESTS), HIGH PRIEST (LOWER), INSPIRATION, PHARISEES, PILATE, PRIESTS AND ELDERS, REVELATION, RITES, ROMAN, SCRIPTURES, TRADITION.
+
+**Corrections made:** `priesta` → priests; `@®`, `@` → a; page heading `CAIN` removed from mid-sentence; `out,in` → out, in; noise `eo` removed; `mnght` → right; `W. 8. Litty` → W. S. Lilly; `Rrres` → RITES; `RoMAN` → ROMAN; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

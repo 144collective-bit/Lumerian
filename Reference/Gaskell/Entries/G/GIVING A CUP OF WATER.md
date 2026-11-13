@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-giving-a-cup-of-water
 headword: "GIVING A CUP OF WATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Hyias` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYLAS, AN ARGONAUT|HYLAS, AN ARGONAUT]] |
 | `PIrcHer` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Significant of presenting truth in a mental form as expressed by the giver.
+
+> "And whosoever shall give to drink unto one of these little ones a cup of cold water only, in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."—Mar. x. 42.
+
+The mental quality that shall convey truth to an incarnating ego (little one), while identifying itself with a disciplined emotion, shall be transmuted to a higher plane.
+
+See CUP, DISCIPLE, [HYIAS?], PITCHER, WATER.
+
+**Corrections made:** `shal]` → shall; See-list spellings restored (`Cup`, `Discrete`, `PIrcHer`); quotation marks normalised.
+
+**Unclear or supplied:** `[HYIAS?]`: OCR reads `Hyias`. `DISCIPLE` is inferred for OCR `Discrete`.
 
 ## Full OCR entry body (exact)
 

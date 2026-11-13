@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flood-of-noah
 headword: "FLOOD OF NOAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,30 @@ tags:
 | `RaINn` | **unresolved** (review queue) |
 | `TEN Days` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the downpouring of Truth (rain) into the lower mind at a certain stage of evolution. This is equivalent to an enlargement of the field of consciousness in the illusions of the lower life, for the truth is reflected as false conceptions on the astro-mental plane (lower water); and implies the awakenment of the mind in ignorance, which is the condition out of which Truth eventually arises.
+
+> "And the Flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth. And the waters prevailed, and increased greatly upon the earth; and the ark went upon the face of the waters. And the waters prevailed exceedingly upon the earth; and all the high mountains that were under the whole heaven were covered."—Gen. vii. 17-19.
+
+And for its appointed period, which corresponds to a term of the re-incarnating cycle, the "flood" or buddhic outpouring continued; and whilst it submerged the lower personal self, it but served to glorify the causal-body (ark) which was raised high above the lower self (earth). And the truth, reflected as falsity, prevailed and increased, but upon the waters of illusion the Soul floated. And the truth prevailed upon the lower nature (earth), so that all those projects and aspirations of the lower self, which are ideals distorted with error, were frustrated. The "high mountains" or loftiest aspirations of the lower nature, are also for the time overwhelmed with the influx of perceptions and ideas.
+
+> "In the inward meaning, the flood is symbolically representative of spiritual dissolution."—Philo, *Works*, Bohn, Vol. IV. p. 356.
+
+> "With respect to the inner sense of the passage (Gen. viii. 2) since the deluge of the mind arises from two things, for it arises partly from counsel, as if from heaven, and in another degree also from the body and from sense, as if from earth, the vices being reciprocally introduced by the passions, and the passions by the vices, it was inevitably necessary that the word of the Divine physician entering in as a salutory visitation for the [purpose] of healing the disease should prevent both kinds of overflow for the future."—*Ibid.*, p. 365.
+
+The "fountains of the deep" are those sources of error which produce illusion in the lower self; and the "windows of heaven stopped" signify the spiritual perceptions diminished.
+
+> "By the flood is signified an inundation of evil and falsity."—Swedenborg, *Arc. Cel.*, n. 660.
+
+> "'And the waters were strengthened exceedingly upon the earth,' signifies that false persuasions so increased. This appears from what has been said and shown before respecting the waters; namely that the inundating waters signify falsities."—*Ibid.*, n. 794.
+
+See ADITYAS, ARK OF NOAH, BEASTS (clean), CAUSAL-BODY, DELUGE, DEPRAVITY, EARTH, FLESH, FORTY, GOD REPENTING, HEROD, HOUSE (frequented), MOUNTAIN, NOAH, OLIVE LEAF, RAIN, TEN DAYS, WATER.
+
+**Corrections made:** page heading `FLOUR` removed from mid-sentence; `GEN.` → Gen.; `Px110` → Philo; `eppears` → appears; `se of healing` → [purpose] of healing; `floated And` → floated. And; See-list spellings restored (`Apiryas`, `HrERop`, `House`, `Mountain`, `NoaH`, `RaINn`); quotation marks normalised.
+
+**Unclear or supplied:** `[purpose]` is supplied for the damaged OCR `se` ("for the se of healing"). `ADITYAS` is a best reading of OCR `Apiryas`. `Arc. Cel.` (*Arcana Coelestia*) is printed `Are. Cel.` in the OCR and corrected.
 
 ## Full OCR entry body (exact)
 

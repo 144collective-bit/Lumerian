@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-robe-bright-best-purple-golden-white-glorious-or-fi
 headword: "ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,36 @@ tags:
 | `SERPENT (loud)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SHors` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SHORE, THE OTHER|SHORE, THE OTHER]] |
 | `Toaa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of the higher vestures of the soul,—atma-buddhic, buddhic, and causal.
+
+> "As long as the soul is imprisoned in the earthly tabernacle of the body, the intelligence is deprived of the robe of fire in which it should be clothed."—*Pœmandres*, Ch. I. 10, Mead, *T. G. H.*
+
+While the soul is in captivity to the lower nature, and occupying astral and physical bodies, the individuality is deprived of the buddhic robe in which it should be vestured.
+
+> "And my parents took off from me the bright robe, which in their love they had wrought for me, and my purple toga which was measured and woven to my stature."—*Gnostic Hymn of the Soul*.
+
+The Spirit (Atma-buddhi) for awhile took away from me (the descending ego) the vesture which corresponded to the vehicle for the higher consciousness, which was being woven for me, and also my ideal causal-body which was fashioned according to the express image of my potential being.
+
+> "The Kind One will give us a robe of honour, and by His favour we shall reach the gate of salvation. Nanak, we shall thus know that God is altogether true" (*The Japji*).—Macauliffe, *The Sikh Religion*, Vol. I. p. 198.
+
+> "These men (learned agnostics), it may be said, erect in the mansions of their hearts a splendid throne-room, in which they place objects revered and beautiful. There are laid the sceptre of righteousness and the swords of justice and mercy. There is the purple robe that speaks of the unity of love and power, and there is the throne that teaches the supreme moral governance of the world. ... Yet that noble chamber, with all its beauty, its glorious regalia, its solitary throne, is still an [empty?] room."—Lord Hugh Cecil, *Speech*, 1902.
+
+> "The white cloth which Tanabata has woven for my sake, in that dwelling of hers, is now I think being made into a robe for me. Though she is far away and hidden from me by five hundred layers of white cloud, still shall I turn my gaze each night towards the dwelling-place of my (wife)."—Hearn, *Romance of Milky Way*, p. 40.
+
+The robe of Wisdom, woven on the buddhic plane, awaits the Self, who in Love and aspiration struggles upward through each night of the terrestrial life.
+
+> "Let thy priests be clothed with righteousness; and let thy saints shout for joy."—Ps. cxxxii. 9.
+
+> "In the new Israel, as in the first constitution of the old, all the people are priests. Righteousness, then, is to be the robe of every Christian soul. To be good, to be gentle and just, loving and truthful, self-forgetting and self-ruling, honest and true, kind and helpful, to live in the exercise of the virtues, which the consciences and tongues of all men call lovely and of good report, and to add to them all the consecration of reference to Him in whom these parted graces dwell united and complete—this is to be righteous."—A. MacLaren, *Sermons*, 2nd Series, p. 273.
+
+See CLOTHING, GARMENT (sal.), HIROSHI, LETTER, GARMENT, PEARL, SERPENT ([cloud?]), SHOES, TOGA.
+
+**Corrections made:** page heading `ROBE` removed from mid-sentence; `Pemandres` → Pœmandres; `Meap, Z. G. Z.` → Mead, *T. G. H.*; `indi-— viduality` → individuality; `togs` → toga; `Macavutirre` → Macauliffe; `Japjt` → Japji; `Hue CECIL` → Hugh Cecil; `HrEarn` → Hearn; `dwellingplace` → dwelling-place; `selfruling` → self-ruling; `‘Love` → Love; See-list spellings restored (`GARMENT, (sal.)` → GARMENT (sal.), `HrkososHi`, `SHors`, `Toaa`); quotation marks normalised.
+
+**Unclear or supplied:** `[empty?]` is supplied: the OCR reads "is still an room". `T. G. H.` is read from `Z. G. Z.` (Thrice-Greatest Hermes). `SERPENT ([cloud?])` is read from `SERPENT (loud)`. `HIROSHI` is a best reading of `HrkososHi`.
 
 ## Full OCR entry body (exact)
 

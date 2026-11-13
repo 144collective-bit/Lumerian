@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-robe-or-apparel
 headword: "S ROBE OR APPAREL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `HIGHER AND LOWER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HIGHER AND LOWER SELVES|HIGHER AND LOWER SELVES]]; [[Reference/Gaskell/Entries/H/HIGHER AND LOWER WORLDS|HIGHER AND LOWER WORLDS]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `TamMMUZ (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAMMUZ, GOD,-LOWER|TAMMUZ, GOD,—LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the obscuration of the higher nature from the lower; and the suffering and sorrow, pain and anguish, through the experience of which the Higher Self reveals itself to the lower. See HAIR (side-lock), HIGHER AND LOWER, SUFFERING, TAMMUZ (lower).
+
+**Corrections made:** See-list spellings restored (`Harr`, `TamMMUZ`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

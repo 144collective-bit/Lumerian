@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kaaba
 headword: "KAABA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,26 @@ tags:
 | `Stupa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 | `TABERNACLE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TABERNACLE|TABERNACLE]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body. A symbol similar to "house of God," "Temple," or "Church." It is the vehicle of the Higher Self (Atma-buddhi). The "black stone" of the Kaaba is a symbol of the indwelling Spirit,—darkness, or blackness to us.
+
+> "The Ka'ba is but a church, if thou His trace be lost; the church my only Ka'ba, while He there is found."—Dewan-i-Shams-i-Tabrizi, p. 238.
+
+> "We appointed the holy house of Mecca to be a place of resort for mankind, and a place of security."—Sale's *Koran*, Ch. II. p. 16.
+
+That is, the causal-body in the higher mind centre (Mecca) retains the mental experiences of the personalities, and endures throughout the cycle.
+
+> "The Arabs say that Adam after his expulsion from paradise, begged of God that he might erect a building like that he had seen there, called Beit al Mamar, or the frequented house, and al Dorfh towards which he might direct his prayers, and which he might compass, as the angels do the celestial one. Whereupon God let down a representation of that house in curtains of light, and set it in Mecca, perpendicularly under its original, ordering the patriarch to turn towards it when he prayed, and to compass it by way of devotion."—Sale's *Koran*, Prel. Disc., p. 83.
+
+The aspirations of the lower self (Adam), after the vibrations from the buddhic plane (paradise) had ceased, appealed to the Higher Self, and there was formed a centre and nucleus of the causal-body. This had its preformed counterpart on the buddhic plane as a centre of energy in the Divine Ray (Tree of Life). The "curtains of light" symbolise the higher mind as being receptive of the Wisdom above. The "Holy city Mecca" signifies the higher mind centre, the seat of the Higher Self to which the lower self must turn in devotion to its ideals whereby the causal-body is compassed and developed. The "perpendicularly" refers to the Divine Ray from above in which are the great centres of activity on each plane.
+
+See ADAM (lower), ADYTUM, CHURCH, [Curnrarn?], HOUSE (frequented), JERUSALEM, PALACE, PARADISE, PYRAMID, STONE (black), STUPA, TABERNACLE, TEMPLE.
+
+**Corrections made:** `Atmabuddhi` → Atma-buddhi; `poly house` → holy house; `Dewan-i-Shams-1-Tabrizi` → Dewan-i-Shams-i-Tabrizi; `Saxz's`, `SaLz's` → Sale's; `ApaM` → ADAM; `Stone`, `Stupa`, `House` restored in See list; page heading `KABANDHA` removed from mid-sentence; closing quotation mark supplied after "perpendicularly"; and similar minor fixes.
+
+**Unclear or supplied:** `[Curnrarn?]` is a See-list item that could not be identified. "al Dorfh" left as printed.
 
 ## Full OCR entry body (exact)
 

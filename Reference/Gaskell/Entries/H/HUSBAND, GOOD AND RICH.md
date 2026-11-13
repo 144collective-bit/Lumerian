@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-husband-good-and-rich
 headword: "HUSBAND, GOOD AND RICH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `NALI-KUVERA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)|NALA-KUVERA, SON OF THE LORD OF WEALTH (KUVERA)]] |
 | `RICHES (higher)` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RICHES, OR WEALTH (LOWER ASPECT)|RICHES, OR WEALTH (LOWER ASPECT)]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Spirit of goodness and truth to which the soul aspires.
+
+> "Homa grants a good and rich husband to those who have long been maidens, as soon as he (Homa), the wise, is entreated."—*Homa Yasht*.
+
+The Supreme grants the fulfilment of those dearest wishes for "the fullness of him that filleth all in all," which are to be satisfied only through the abstinence and self-denial which are the means of rendering the soul responsive to higher joys.
+
+See HOMA, NALA-KUVERA, RICHES (higher), WEALTH.
+
+**Corrections made:** `Yash.` → Yasht; `NALI-KUVERA` → NALA-KUVERA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

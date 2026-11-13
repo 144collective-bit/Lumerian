@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boy
 headword: "BOY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Boy` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOY|BOY]] |
 | `YOUNG MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YOUNG MAN|YOUNG MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbol of a young or immature mind, a recipient of knowledge through experience.
+
+See BOY, YOUNG MAN.
+
+**Corrections made:** `Boy` → BOY in See list.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

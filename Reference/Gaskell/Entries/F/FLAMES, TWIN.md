@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flames-twin
 headword: "FLAMES, TWIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `CRysTaL` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CRYSTAL|CRYSTAL]] |
 | `GARDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `POOL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/POOL OF BETHESDA|POOL OF BETHESDA]]; [[Reference/Gaskell/Entries/P/POOL OF PEACE|POOL OF PEACE]]; [[Reference/Gaskell/Entries/P/POOL OF THE ZENITH|POOL OF THE ZENITH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of Wisdom and Love Divine.
+
+> "And if one shall rest in life as a crystal, he shall do all things in the Garden of Rest, after the manner of that which is done in the pool of the Twin Flames."—*Book of the Dead*, Ch. CX., trans. M. W. Blackden.
+
+During the life of the lesser Self below, the bright shining Truth of the greater Self from above is reflected within the evolving soul, so that the Wisdom and Love of the Self are transferred as a benediction to the lower planes.
+
+See CRYSTAL, GARDEN, POOL.
+
+**Corrections made:** page heading `FLAVOUR` removed from mid-sentence; `BLAcKDEN` → Blackden; `CRysTaL` → CRYSTAL.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

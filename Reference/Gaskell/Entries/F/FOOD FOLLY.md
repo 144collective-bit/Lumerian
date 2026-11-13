@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-food-folly
 headword: "FOOD FOLLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `MarriaGE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `Rar` | **unresolved** (review queue) |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mental activity of the lower self. The folly of the lower self is Wisdom inversely reflected on the lower planes, and this is the means whereby the Self is evolved. Never is the Higher Self stirred save through the unwisdom and inexperience which it is called forth to combat. It is through the apprehension of folly that the wisdom above is awakened.
+
+> "Nevertheless man being in honour abideth not: he is like the beasts that perish. This their way is their folly: yet their posterity approve their sayings."—Ps. xlix. 12, 13.
+
+The lower-mental quality that is valued and preserved by the lower self is mortal and passes away as do the desires. This lower-mental activity is the obverse of the abiding wisdom above, and though doomed to destruction, yet the illusions it creates constantly foster its expression.
+
+> "Though thou lovest the Earthly wisdom now, yet when thou shalt be clothed upon with the Heavenly Wisdom, then thou wilt see that all the wisdom of the world is folly."—Behmen, *The Supersensual Life*, p. 38.
+
+See ADULTERY, BEASTS, DIVORCING, HARLOT, MARRIAGE (lower), RAHAB, WHOREDOM.
+
+**Corrections made:** `beasta` → beasts; `BEHmEN` → Behmen; See-list spellings restored (`BEaSTs`, `Hariot`, `MarriaGE`, `Rar`); quotation marks normalised.
+
+**Unclear or supplied:** `RAHAB` is a best reading of OCR `Rar`.
 
 ## Full OCR entry body (exact)
 

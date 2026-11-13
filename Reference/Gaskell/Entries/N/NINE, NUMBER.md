@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nine-number
 headword: "NINE, NUMBER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `GATES OF BODY` | **unresolved** (review queue) |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The number three is the number of perfection and completeness. Nine, which is three squared, refers to the attainment of perfection on the three lower planes. See GATES OF BODY, WHEAT AND BARLEY.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

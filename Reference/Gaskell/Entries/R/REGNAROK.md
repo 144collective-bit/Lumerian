@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-regnarok
 headword: "REGNAROK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the termination of the cycle, and of the soul's attainment of liberation from the lower nature by the Divine Will, in fulfilment of the Great Law of manifestation.
+
+See AAT OF WATERS, HEIMDALL, HORSE (white), JUDGMENT DAY, KALKI, PRALAYA, RENOVATION, SOSIOSH.
+
+**Corrections made:** `KALxI` → KALKI; `Horse` → HORSE; `SosiosH` → SOSIOSH.
+
+**Unclear or supplied:** `AAT OF WATERS` is left as printed.
 
 ## Full OCR entry body (exact)
 

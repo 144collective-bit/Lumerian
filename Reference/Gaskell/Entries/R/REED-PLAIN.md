@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reed-plain
 headword: "REED-PLAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `Union (reeds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental plane, or the astral plane.
+
+> "That ancestor (of the whole race) is generally called the Unkulunkulu, great-great-grandfather. When pressed as to the father of this ancestor, the general answer of the Zulus seems to be that he 'branched off from a reed, or that he came from a bed of reeds'" (Reported by Dr. Callaway).—Max Müller, *Science of Religion*, p. 45.
+
+The "bed of reeds" evidently means the same as the "papyrus swamps," or "marsh," from which the Self emerges (as Horus).
+
+See BIRTH OF HORUS, GARDEN OF REEDS, HIRUKO, MARSH, OHONAMOCHI, PEACHES, SEKHET-AARU, UNION (reeds), VULTURE.
+
+**Corrections made:** `abed` → a bed; `MU.uer` → Müller; See-list spellings restored (`HiIRUKO`, `MarsH`, `Union`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nostrils-for-smelling
 headword: "NOSTRILS FOR SMELLING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `Piace (annu)` | **unresolved** (review queue) |
 | `SAVOUR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the function of the lower mind to discriminate the lower aspects of the qualities of the soul.
+
+> "With its nostrils seeking out the fragments of animals' limbs, as many as the delicate exhalation from their feet was leaving behind in the [wood]."—Empedocles, Fairbanks, 313.
+
+With the functions of the lower mind, the Self seeks out the lower aspects of its nature, to the extent that it has been capable of appropriating the experiences which were acquired through traversing the astral plane (wood).
+
+See ASTRAL PLANE, EXPERIENCES, [Piace (annu)?], SAVOUR.
+
+**Corrections made:** `ite` → its; `FAIRBANKS` → Fairbanks.
+
+**Unclear or supplied:** `[wood]` is supplied: the OCR reads `in the w`, which breaks off (compare "astral plane (wood)" in the commentary). `[Piace (annu)?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

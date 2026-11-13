@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grove-sacred
 headword: "GROVE, SACRED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GaRDEN (flowers)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARDEN LUMBINI|GARDEN LUMBINI]]; [[Reference/Gaskell/Entries/G/GARDEN OF EDEN|GARDEN OF EDEN]]; [[Reference/Gaskell/Entries/G/GARDEN OF FLOWERS AND FRUIT|GARDEN OF FLOWERS AND FRUIT]]; [[Reference/Gaskell/Entries/G/GARDEN OF REEDS|GARDEN OF REEDS]] |
 | `Gops` | **unresolved** (review queue) |
 | `Ipots` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane, or the buddhic reflected in the astral. It represents the inner nature of the soul with its aspirations and higher emotions, and in which the ideals are exalted and worshipped.
+
+> "With the ancients worship was also in gardens and in groves, and also on mountains and hills; for the gardens and groves signified wisdom and intelligence, and every tree something thereof,—as the olive, the good of love; the vine, truth from that good; the cedar, rational good and truth; a mountain, the highest heaven; a hill, the heaven below it."—Swedenborg, *T. C. R.* n. 204.
+
+> "And Asa did that which was good and right in the eyes of the Lord his God. For he took away the altars of the strange gods, and the high places, and brake down the images, and cut down the groves."—2 Chron. xiv. 2-3.
+
+This refers to the change from a lower condition of the soul to a higher. See EDEN, GARDEN (flowers), GODS, IDOLS.
+
+**Corrections made:** `exaited` → exalted; `Swepensore` → Swedenborg; `2 CHRON.` → 2 Chron.; See-list spellings restored (`Epxn`, `GaRDEN`, `Gops`, `Ipots`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

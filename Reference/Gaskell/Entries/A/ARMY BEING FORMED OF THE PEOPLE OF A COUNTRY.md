@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-army-being-formed-of-the-people-of-a-country
 headword: "ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,26 @@ tags:
 | `QUALITIES. ARMY OF THE DEMONS :-A symbol of the desire -mental qualities. ‘‘The army with a wide front shouting and flying in the air."—Homa Yasht. This signifies the activity of the kama-manasic nature` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `wherein the desires and lower thought processes give rise to an unsettled state of the lower self. See Darvas` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `DEMONS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEMONS AND FIENDS|DEMONS AND FIENDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the organising and focalising of the mental qualities, so as to bring the powers of the soul to act from a common centre.
+
+See CAMP, COUNTRIES, QUALITIES.
+
+### Also in this note: ARMY OF THE DEMONS
+
+A symbol of the desire-mental qualities.
+
+> "The army with a wide front shouting and flying in the air."—*Homa Yasht*.
+
+This signifies the activity of the kama-manasic nature, wherein the desires and lower thought processes give rise to an unsettled state of the lower self.
+
+See DAEVAS, DEMONS.
+
+**Corrections made:** `desire -mental` → desire-mental; `Darvas` → DAEVAS; See-list capitalisation restored.
+
+**Unclear or supplied:** Contains a second entry: ARMY OF THE DEMONS.
 
 ## Full OCR entry body (exact)
 

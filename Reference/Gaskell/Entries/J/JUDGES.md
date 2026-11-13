@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-judges
 headword: "JUDGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `TABLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TABLE OF THE LORD|TABLE OF THE LORD]] |
 | `'TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `TRIBES OF ISRAEL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of qualities transmuted and raised so that they become leaders and educators of qualities below them.
+
+> "I appoint unto you a kingdom, even as my father appointed unto me, that ye may eat and drink at my table in my kingdom; and ye shall sit on thrones judging the twelve tribes of Israel"—Luke xxii. 29, 30.
+
+The time shall arrive at the end of the cycle when the qualities of the present stage shall be transmuted, and so brought to a higher state than can now be conceived of. When the Christ shall be exalted, the higher qualities shall be exalted with him, and shall be the leaders of those below them, according to the kinds and conditions of these, and their several stages of progress.
+
+See DISCIPLES ON THRONES, KINGDOM OF HEAVEN, QUALITIES, REGENERATION, TABLE, TRANSMUTATION, TRIBES OF ISRAEL.
+
+**Corrections made:** `TI oppo unto you` → I appoint unto you; `'TRANSMUTATION` → TRANSMUTATION; page heading `419 JUDGING` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

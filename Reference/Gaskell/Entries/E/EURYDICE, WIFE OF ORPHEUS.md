@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eurydice-wife-of-orpheus
 headword: "EURYDICE, WIFE OF ORPHEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition of Truth, allied to the Self in its aspect of the union of Wisdom and Love in the soul.
+
+See ORPHEUS.
+
+**Corrections made:** `Ses` → See; `ORPHAUS` → ORPHEUS.
+
+**Unclear or supplied:** `ORPHEUS` is read from OCR `ORPHAUS`.
 
 ## Full OCR entry body (exact)
 

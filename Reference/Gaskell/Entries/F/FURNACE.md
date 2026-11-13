@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-furnace
 headword: "FURNACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,26 @@ tags:
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
 | `TrxrH (gnashing)` | **unresolved** (review queue) |
 | `ZION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZION ZION OF THE HOLY ONE OF ISRAEL|ZION ZION OF THE HOLY ONE OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the functioning of buddhi in the purifying of the qualities. This is reflected on the lower planes in the suffering and sorrow which accompany the process.
+
+> "The Lord hath taken you, and brought you forth out of the iron furnace, out of Egypt, to be unto him a people of inheritance, as at this day."—Deut. iv. 20.
+
+> "The Lord, whose fire is in Zion, and his furnace in Jerusalem."—Is. xxxi. 9.
+
+> "And shall cast them (the wicked) into the furnace of fire: there shall be the weeping and gnashing of teeth."—Matt. xiii. 50.
+
+The qualities on the astro-mental plane of conflict (Egypt) have undergone the discipline necessary to prepare them for an influx of spirit which shall raise them. The purifying buddhic functioning is in the higher nature (Zion and Jerusalem). The lower qualities (the wicked) shall be subjected to the purifying discipline of the Spirit, and their lower astral conditions shall be dissolved.
+
+> "St. Catherine of Genoa, 'as she plunged in the divine furnace of purifying love, was united to the Object of her love, and satisfied with all he wrought in her, so she understood it to be with the souls in Purgatory.' This 'divine furnace of purifying love' demands from the ardent soul not only a complete self-surrender and voluntary turning from all impurity, a humility of the most far-reaching kind, but also a deliberate active suffering, a self-discipline in dreadful tasks. As gold in the refiner's fire, so 'burning of love into a soul truly taken all vices purgeth.'"—Evelyn Underhill, *Mysticism*, p. 266.
+
+See BUDDHI, EGYPT, FIRE OF HELL, FIRE (destroying), HADES, HELL, JERUSALEM, MAN (bad), PURGATORY, TEETH (gnashing), ZION.
+
+**Corrections made:** `Dervurt.` → Deut.; `xili` → xiii; `ghall` → shall; `unged` → plunged; `puriying` → purifying; `UNDERHILL, Mysticism` → Underhill, *Mysticism*; page headings `WOOD FURROWS` removed from inside `puriWoop FURROWS fying` (→ purifying); See-list spellings restored (`Ecypt`, `FrmE`, `HEtL`, `Haprs`, `TrxrH`, etc.); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-priam-and-his-sons
 headword: "PRIAM AND HIS SONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `Suarrs ([lium)` | **unresolved** (review queue) |
 | `Trosans` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TROJANS|TROJANS]] |
 | `Troy` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TROY|TROY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Causal Self and its assemblage of faculties. See CAUSAL-SELF, GREECE, ILIUM, [Suarrs?] (Ilium), TROJANS, TROY.
+
+**Corrections made:** `Trosans` → TROJANS; `Troy` capitalised; `([lium)` → (Ilium).
+
+**Unclear or supplied:** `[Suarrs?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mahabharata-or-the-great-originator
 headword: "MAHABHARATA, OR THE GREAT ORIGINATOR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `CONFLICT` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CONFLICT AND VICTORY|CONFLICT AND VICTORY]] |
 | `PraGApati` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `RAKSHASAS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Logos or Higher [Self?].
+
+> "The (Great) Bharata, doubtless is Pragapati, for he sustains (bhar) this entire universe;—'that his great light shineth brightly, as the sun,—he who overthrew Piru in battles.' Piru, by name, was an Asura—Rakshas: him Agni overthrew in battles."—*Sata. Brâh.*, VI. 8, 1, 14.
+
+The Higher Self, under many names, is the Life and Light of the universe, and the sun is his most general symbol. The desire-nature (Piru) acts in opposition to the higher nature, and is eventually overcome by the incarnate Self (Agni) after much conflict.
+
+See AGNI, BHARATA, CONFLICT, PRAGAPATI, RAKSHASAS.
+
+**Corrections made:** `Brdéh.` → Brâh.; See-list spellings restored (`PraGApati`).
+
+**Unclear or supplied:** `[Self?]` is supplied: the OCR sentence breaks off at "Higher" and the quotation follows.
 
 ## Full OCR entry body (exact)
 

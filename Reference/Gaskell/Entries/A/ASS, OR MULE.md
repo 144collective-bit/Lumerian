@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ass-or-mule
 headword: "ASS, OR MULE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature, stubborn, but capable of direction by a ruling power or quality of mind.
+
+> "The difference between that which was within and without is well illustrated by a similitude (in the Zohar) which says that those who interpret Scripture according to the literal sense set the Sacred King and his Bride upon an ass, while those who understand it according to a mystic sense mount them nobly on a horse."—Waite, *Secret Doctrine in Israel*, p. 15.
+
+**Corrections made:** `Warre` → Waite; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

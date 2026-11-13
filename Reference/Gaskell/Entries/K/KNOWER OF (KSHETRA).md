@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-knower-of-kshetra
 headword: "KNOWER OF (KSHETRA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `HUSBANDMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSBANDMAN|HUSBANDMAN]] |
 | `LAND` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAND|LAND]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the omniscient Higher Self as the tiller and sower of the lower nature, in order that it should bring forth fruit.
+
+> "Know also that I (Krishna) am the Knower in every mortal body; that knowledge which through the soul is a realisation of both the known and the knower is alone esteemed as [word unclear] wisdom."—*Bhagavad-Gita*, Ch. XIII.
+
+As the higher mind acquires power, so the lower quality is transmuted into buddhic quality,—knowledge in the lower mind is turned to wisdom, and experience to love.
+
+See ARENA, FIELD, HUSBANDMAN, LAND, VARA.
+
+**Corrections made:** `@` → a; page heading `THE FIELD KORAN` removed from mid-text; See-list capitalisation restored.
+
+**Unclear or supplied:** `[word unclear]` before "wisdom": OCR reads `me aa`.
 
 ## Full OCR entry body (exact)
 

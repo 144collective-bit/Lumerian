@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-papyrus-panopolis-or-chemmis
 headword: "PAPYRUS PANOPOLIS, OR CHEMMIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `CHEMMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHEMMIS ISLAND, PANOPOLIS|CHEMMIS ISLAND, PANOPOLIS]] |
 | `DELOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an astral centre having its seat in the solar plexus. See CHEMMIS, DELOS.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

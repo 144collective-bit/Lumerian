@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-booths
 headword: "BOOTHS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `NACLES` | **unresolved** (review queue) |
 | `TENT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TENT OR HUT|TENT OR HUT]]; [[Reference/Gaskell/Entries/T/TENT OR TABERNACLE OF THE SUN|TENT OR TABERNACLE OF THE SUN]]; [[Reference/Gaskell/Entries/T/TENT TEN DAYS, YEARS|TENT TEN DAYS, YEARS]] |
 | `VESSELS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/V/VESSEL, OR RECEPTACLE|VESSEL, OR RECEPTACLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mental forms, thought forms.
+
+> "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths."—Lev. xxiii. 42.
+
+The mental qualities (Israelites) shall be contained in limited concepts or forms of thought, for a complete period of evolution.
+
+See ISRAELITES, SEVEN, [NACLES?], TENT, VESSELS.
+
+**Corrections made:** `Israevires` → ISRAELITES; quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[NACLES?]` cannot be identified from the OCR (`NACLES`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-curse
 headword: "CURSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `Raga` | **unresolved** (review queue) |
 | `SEs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of limitation of activity through Divine laws and conditions imposed upon matter.
+
+> "Rhea (Nut) having companied with Kronos (Seb) by stealth, was discovered by Helios (Râ), who laid a curse upon her, that she should not be delivered in any month or year."—Plutarch, *Isis and Osiris*, § 12.
+
+Space (Nut) and Time (Seb), implying Form and Number, are rendered apparent through the forthpouring action of the Logos (Ra). The "curse" is a symbol of limitation of matter in time and space, for matter of herself cannot bring forth in any period. See BIRTH OF OSIRIS, DAYS (five), NUT, RA, RAGA, SEB.
+
+**Corrections made:** `R&` → Râ; `P.Lurarcn, Ieie` → Plutarch, *Isis*; `BrersH oF osrris` → BIRTH OF OSIRIS; `Not` → NUT; `SEs` → SEB.
+
+**Unclear or supplied:** `RAGA` stands as printed in the OCR (`Raga`).
 
 ## Full OCR entry body (exact)
 

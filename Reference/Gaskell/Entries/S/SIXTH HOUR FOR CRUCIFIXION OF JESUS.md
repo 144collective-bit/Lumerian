@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sixth-hour-for-crucifixion-of-jesus
 headword: "SIXTH HOUR FOR CRUCIFIXION OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `PiLate` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `Rounp` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of completion of the evolution of the soul (Jesus) on the lower planes, prior to final perfection at the crossing over (crucifixion) of the consciousness.
+
+> "It was about the sixth hour.... Then therefore Pilate delivered him unto them to be crucified."—JOHN xix. 14, 16.
+
+The period corresponds to the sixth Round, which is the age during which most souls will accomplish their evolution. It is the point that is reached by the soul when the combination of circumstances symbolically related in the trial of Jesus takes place. It is the worldly, unstable mind (Pilate) that delivers the Christ-soul to the tormenting lower qualities in the final struggle for liberation.
+
+> "But why at the sixth hour? Because at the sixth age of the world. In the Gospel, count up as an hour each, the first age from Adam to Noah; the second, from Noah to Abraham; the third, from Abraham to David; the fourth, from David to the removing to Babylon; the fifth, from the removing to Babylon to the baptism of John; thence is the sixth being enacted."—Augustine, *Gospel of John*, Vol. I. p. 214.
+
+See ANTHROPOS, CRUCIFIXION OF JESUS, FATE SPHERE, HOUR (mid-day), [Iasnaoth?], I E O U, LUKA, PILATE, RACES, ROUND.
+
+**Corrections made:** `Jonn` → John; `PiLate` → PILATE; `Rounp` → ROUND; `Races` → RACES; quotation marks normalised.
+
+**Unclear or supplied:** `[Iasnaoth?]` is the See item as damaged in the OCR (`IasnaotH`).
 
 ## Full OCR entry body (exact)
 

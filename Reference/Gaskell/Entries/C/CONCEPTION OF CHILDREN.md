@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conception-of-children
 headword: "CONCEPTION OF CHILDREN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `MvuLtrrL.y` | **unresolved** (review queue) |
 | `Wirz` | **unresolved** (review queue) |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the formation in the mind of new ideas and generalisations, produced by thought and emotion.
+
+> "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee."—Gen. iii. 16.
+
+To the emotion-nature it is imparted that difficulty and distress shall attend the formulation of fresh ideas, and the realisation of Divine wisdom. All the future evolution of the soul shall be through sorrow; and the ideas begotten of experience (i.e. through the functioning of the mind) shall be realised with pain. The emotion-nature shall be beholden to the mind, that is, shall be subservient to knowledge: and intellect shall dominate the love-principle, or emotion-nature.
+
+> "By 'conception' is signified all thought. By the 'sons whom she would bring forth in sorrow' are signified the truths which she would thus produce."—Swedenborg, *Arc. Cel.* to Gen. iii. 16.
+
+See CHILDREN OF MEN, CONQUEROR, EVE, HUSBAND AND WIFE, MARRIAGE, MULTIPLY, WIFE, WOMAN.
+
+**Corrections made:** `Grn.` → Gen.; `bogotten` → begotten; `loveprinciple` → love-principle; stray `°` removed; page headings `OF MENTAL 168 CONDITIONED` removed from mid-sentence; See-list spellings restored (`Eve`, `HvussaND`, `MvuLtrrL.y`, `Wirz`, `WoMAN`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

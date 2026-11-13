@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deserts-or-forests
 headword: "DESERTS, OR FORESTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `Iskak.rres` | **unresolved** (review queue) |
 | `JOHN BAPTIST` | **unresolved** (review queue) |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the solitude due to the absence of impressions from the external world of the senses.
+
+> "And the child (John) grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel."—Luke i. 80.
+
+The moral nature (John) has to undergo the solitude necessary for growth until the mental condition shall be able to endure alone. This solitude corresponds only to the appearance in being devoid of strife,—not to the reality. It signifies the weaning of the highest part of the lower mind from the things of this world, and after that has been accomplished, then the moralised lower mind can be "shown to Israel," that is, brought into unison with those qualities which are united with the higher nature.
+
+WILLIAMS, Indian
+
+See FOREST, ISRAELITES, JOHN BAPTIST, WILDERNESS.
+
+**Corrections made:** `LuKE` → Luke; `Jndtan` → Indian; `Forest`, `Iskak.rres` → FOREST, ISRAELITES; and similar minor fixes.
+
+**Unclear or supplied:** The fragment `WILLIAMS, Indian` stands alone before the See list in the OCR (likely a displaced part of the attribution in the previous entry, `Mon. Wisdom`); kept in place as printed.
 
 ## Full OCR entry body (exact)
 

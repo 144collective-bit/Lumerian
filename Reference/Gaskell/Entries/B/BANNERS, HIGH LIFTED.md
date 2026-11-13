@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-banners-high-lifted
 headword: "BANNERS, HIGH LIFTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BaKHDHI` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BAKHDHI THE BEAUTIFUL|BAKHDHI THE BEAUTIFUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the rays of the Self, or the Divine effluence of truth, streaming down on the higher mental plane. See BAKHDHI.
+
+**Corrections made:** `BaKHDHI` → BAKHDHI.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

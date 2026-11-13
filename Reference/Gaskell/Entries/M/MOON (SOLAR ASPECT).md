@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-solar-aspect
 headword: "MOON (SOLAR ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `SuN (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower self—the Personality. This includes the astral principle of the lower nature, namely, desire, and also the form or matter side of nature, which were developed in the lunar cycle on the lunar globes.
+
+> "The sun is Spirit, matter is the moon."—*Prasna Upanishad*, I. 5.
+
+The sun is the great symbol of the Higher Self; the moon, of the lower Self involved in matter.
+
+> "For the moon herself, out of desire for the sun, revolves round and comes in contact with him because she longs to derive from him the generative principle."—Plutarch, *Face in the Moon's Orb*.
+
+The lower Self, being attracted to the Higher Self, evolves through the life cycle; for the soul longs for regeneration and immortal union with the Higher Self in the causal-body wherein the two Selves become [text lost]
+
+> "Two things are needed for the burning of a lamp: that it should be lit, and that it should be fed. In both respects the light with which we shine is derived. We are not suns, we are moons; reflected, not self-originated, is all our radiance. That is true in all senses of the figure: It is truest in the highest. It is true about all in every man which is of the nature of light. Christ is the true light which lighteth every man that cometh into the world. Whatsoever beam of wisdom, whatsoever ray of purity, whatsoever sunshine of gladness has ever been in any human spirit, from Him it came, who is the Light and Life of men."—A. [Maclaren], *Sermons*, 2nd Series, p. [page unclear].
+
+See HIGHER AND LOWER SELVES, LUNAR CYCLE, PERSONALITY, PLANETARY CHAIN, REGENERATION, SELENE, SOMA (moon), SUN, SUN (moon).
+
+**Corrections made:** `Praena` → Prasna; `aun` → sun; `Puutarcu` → Plutarch; `causalbody` → causal-body; See-list spellings restored; page heading `MOON` removed from mid-text.
+
+**Unclear or supplied:** The OCR breaks off after "the two Selves become" and the next quotation begins without a lead-in (`[text lost]`). The attribution of the last quotation is damaged (OCR `A. ao Sermons, 2nd Sertea, ji`): `[Maclaren]` is inferred and the page is lost.
 
 ## Full OCR entry body (exact)
 

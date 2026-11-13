@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-killing-out-of-desire
 headword: "KILLING-OUT OF DESIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,18 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the transmuting effect of reason and the buddhic nature in rendering the desires and the lower instincts to all intents and purposes non-existent.
+
+> "A higher grade of religious consciousness is attained with the knowledge that all actions which depend upon the motives of expectation and fear are of no value for the ultimate destiny of mankind; that the supreme function of existence does not consist in the satisfaction of self-interest, but in its voluntary suppression; and that herein first the true divine reality of ourselves, through the individual self as through an outer husk, makes itself manifest."—Deussen, *Phil. of Upanishads*, p. 47.
+
+See BATTLE, CONFLICT, DURASROBO, INDIVIDUALITY, KABANDHA, SLAUGHTER, TRANSMUTATION, VICTORY, WAR.
+
+**Corrections made:** `DxusseEn` → Deussen; `Conriicr` → CONFLICT; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

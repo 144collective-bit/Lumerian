@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-maishan-on-the-shores-of-the-sea
 headword: "MAISHAN, ON THE SHORES OF THE SEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `TABLES` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental plane, for the "shore of the sea" is the plane above the astral (sea).
+
+> "I passed the borders of Maishan, the meeting-place of the merchants of the East."—*Hymn of the Soul* (Gnostic).
+
+I passed through the mental state, where the lower sensations are exchanged for the awakening emotion and ideas. The "merchants of the East" are the builders of thought, who transmute the sensations into ideas. (The sensations are wrought out through the astral centres: these in time exhaust the capacity of the vehicles, but in so doing, or before, vibrations are set up on the higher or mental plane, and in this way associations are set up in the mind, responses to which awaken sets of ideas, and these in time produce consecutive thoughts. Thoughts about feelings and the phenomena of sensation, when acted upon or vitalised by a powerful will, produce development in a man's character which coincides with evolution upon the higher buddhic plane. The mind is built up through the lower self, answering to the several sets of vibrations which enable it to respond through the aspects of mental qualities. These qualities, when distinct from astral emotions, gradually assert themselves as abstract mental attributes, and so merge into reason, judgment, analysis, synthesis, and love of truth and right, and in this way approximate to what we identify with the higher concepts of philosophy and metaphysics. These concepts are formed upon the upper rupa mental sub-planes and are perceived aright through the causal-body.)
+
+See ASTRAL PLANE, BARSOM, BUDDHIC PLANE, EAST, INTELLECT, [Manat?], MANAS, MENTAL, MERCHANDISE, POOL (Bethesda), QUALITIES, SEA, SPEECH, TABLES, TRANSMUTATION, WILL.
+
+**Corrections made:** `theee` → these; stray quotation mark after `qualities` removed; page heading `MALE-FEMALE *` removed from mid-sentence; See-list spellings restored (`Poot`, `QUALITres`, `SpercH`, `BuppHIc`).
+
+**Unclear or supplied:** `[Manat?]` in the See list is uncertain (possibly MANAS, which follows).
 
 ## Full OCR entry body (exact)
 

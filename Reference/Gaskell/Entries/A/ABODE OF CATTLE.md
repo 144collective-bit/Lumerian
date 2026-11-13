@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abode-of-cattle
 headword: "ABODE OF CATTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `CaTTLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CATTLE, COWS, OR KINE|CATTLE, COWS, OR KINE]]; [[Reference/Gaskell/Entries/C/CATTLE OF NOMADS|CATTLE OF NOMADS]]; [[Reference/Gaskell/Entries/C/CATTLE, OR OXEN|CATTLE, OR OXEN]] |
 | `KARSHVARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KARSHVARES, SEVEN|KARSHVARES, SEVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the field of manifested life in which the soul acquires experience. The "cattle" symbolise the emotions, desires and mental qualities on the lower planes, which constitute the field of the soul's activities. See CATTLE, KARSHVARES.
+
+**Corrections made:** Quotation marks normalised; `CaTTLE` → CATTLE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

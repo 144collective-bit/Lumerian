@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-monsters-of-tiamat
 headword: "MONSTERS OF TIAMAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `KaBANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `TiaMaT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]] |
 | `WHALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of undirected and undisciplined emotions needing the governance of mind which guides and directs. These unregulated qualities are deficient of that sense of due proportion which is begotten of the faculty of reason. See KABANDHA, TIAMAT, WHALES.
+
+**Corrections made:** `govermance` → governance; `KaBANDHA`, `TiaMaT` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

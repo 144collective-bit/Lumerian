@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-girdle-of-the-body
 headword: "GIRDLE OF THE BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `REms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual purity and power invigorating the soul.
+
+> "And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins."—Is. xi. 5.
+
+See MAN (righteous), REINS.
+
+**Corrections made:** See-list spellings restored (`Man`, `REms`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

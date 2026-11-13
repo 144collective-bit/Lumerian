@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-creeping-things
 headword: "CREEPING THINGS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `Imaae` | **unresolved** (review queue) |
 | `STArworms` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STAR-WORMS|STAR-WORMS]] |
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower instincts, desires, and emotions, such as cunning craft, greed, subtlety, mischief, cruelty, destructiveness.
+
+> "If we look to the inward sense of it, then the creeping things represent the foul vices, but the clean ones represent joy."—Philo, *Works*, Yonge's trans., Vol. IV. p. 387.
+
+> "And let them (God's image) have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and [over] the earth, and over every creeping thing that creepeth upon the earth."—Gen. i. 26.
+
+The Wisdom and Love principles united in Mind are to have dominion over the feelings, ideas, actions, and the entire human nature, including the lower mental nature with the desires and instincts.
+
+> "Ye shall not make your souls abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."—Lev. xi. 43.
+
+This is an injunction to the qualities to cast off the lower desires and degrading instincts, which render the soul impure. See ANIMALS, BIRDS, CATTLE, DWARFS, HEDGEHOG, IMAGE, STARWORMS, TORTOISE.
+
+**Corrections made:** `Puito` → Philo; `ee the earth` → [over] the earth; stray `- as` after the Gen. reference removed; `degracing instincta` → degrading instincts; See-list spellings restored (`Birps`, `CatTri_e`, `Dwarrs`, `Hepcrnoc`, `Imaae`, `STArworms`).
+
+**Unclear or supplied:** `[over]` is supplied for the damaged `ee`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arhat-without-a-counterpart
 headword: "ARHAT WITHOUT A COUNTERPART"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `GopHEAD` | **unresolved** (review queue) |
 | `Kapiia` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `TRINITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Absolute Being, the unmanifest Supreme Self.
+
+> "That Arhat is here saluted, who has no counterpart,—who as bestowing the supreme happiness, surpasses (Brahman) the Creator,—who as driving away darkness, vanquishes the sun,—and as [allaying?] all burning heat, surpasses the beautiful moon."—*Buddha[-Karita]*, Bk. I. 1.
+
+The Supreme Self is hailed as One without a Second,—as the Unmanifest,—That in which all things consist and subsist,—That which is Bliss,—That which is above the Creator in that it is both Creator and created, and beyond them both; the Ineffable Unity who is all Light, and comprehends all light,—who is all Truth, and surpasses the moon in that the One is not a reflection, but is True Being,—Divine Reality.
+
+See ABSOLUTE, BRAHMA, FATHER, GODHEAD, KAPILA, TRINITY.
+
+**Corrections made:** `Kapiia` → KAPILA; See-list capitalisation restored; quotation marks normalised.
+
+**Unclear or supplied:** `[allaying?]` (OCR lost the word: `as ing all`). `[-Karita]` is supplied: the OCR reads only "Buddha Bk. I. 1."
 
 ## Full OCR entry body (exact)
 

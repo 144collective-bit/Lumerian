@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adityas-the-twelve
 headword: "ADITYAS, THE TWELVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `VaRUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbolic of twelve aspects of the Self or Soul in the twelve signs of the Zodiac; that is, they signify twelve states in the Soul's development through the Cycle of Life (the year).
+
+> "Varuna became relegated to a position among seven secondary deities of the heavenly sphere called Adityas (afterwards increased to twelve, and regarded as diversified forms of the sun in the several months of the year), and subsequently to a dominion over the waters when they had left the air and rested on the earth."—Mon. Williams, *Indian Wisdom*, p. 13.
+
+The last sentence signifies that Truth (Varuna) rules the aspirations arising from the lower nature (earth), responding to them by showering down truths (waters) into the mind (air) in order to fructify the lower nature (earth).
+
+See ÆONS (twelve), DELUGE, FLOOD, [NIPANVUS?], PRAGAPATI, SUN, [TVAT?], TWELVE, VARUNA, YEAR, ZODIAC.
+
+**Corrections made:** `WILLIAMs` normalised; See-list spellings restored (`Hons`, `Fioop`, `Pracipatt`, `Tvat`, `VaRUNA`); quotation marks normalised.
+
+**Unclear or supplied:** `[NIPANVUS?]` and `[TVAT?]` in the See list could not be identified; `ÆONS (twelve)` is a likely reading of OCR `Hons (twelve)`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-unclean
 headword: "BEASTS, UNCLEAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `FLoop` | **unresolved** (review queue) |
 | `Noan` | **unresolved** (review queue) |
 | `GosHuRUN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOSHURUN|GOSHURUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the inferior emotions which appertain to the "natural man."
+
+> "Of clean beasts, and of beasts that are not clean, and of fowls, and of everything that creepeth upon the ground, there went in two and two unto Noah into the ark, male and female, as God commanded Noah."—Gen. vii. 8, 9.
+
+These injunctions refer to the way in which the higher and lower emotions, aspirations, and instincts, are said to go in by two and two, since each is to be perceived by its opposite. They "went in unto Noah into the ark," that is, the emotions entered a certain state of the soul (ark) and were attached to the individuality (Noah).
+
+See ANIMALS, FLOOD, NOAH, GOSHURUN.
+
+**Corrections made:** `fowla` → fowls; `GEn.` → Gen.; See-list spellings restored (`AntmmaLs`, `FLoop`, `Noan`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

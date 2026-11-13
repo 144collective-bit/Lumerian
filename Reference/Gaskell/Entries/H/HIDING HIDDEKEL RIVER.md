@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hiding-hiddekel-river
 headword: "HIDING HIDDEKEL RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `EDEN (rivers)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `PERSONALIrY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `TIGRIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIGRIS, OR HIDDEKEL, RIVER|TIGRIS, OR HIDDEKEL, RIVER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane which proceeds from buddhi.
+
+> "And the name of the third river is Hiddekel; that is it which goeth in front of Assyria."—Gen. ii. 14.
+
+The symbol "Hiddekel" stands for the astral plane on which the personality develops, becoming as it were, a dawn of consciousness—light in the east—precursor of the rising of the Higher Self (sun) in the soul.
+
+See ASSYRIA, ASTRAL PLANE, EAST, EDEN (rivers), PERSONALITY, TIGRIS.
+
+**Corrections made:** `Hiddeke]` → Hiddekel; `GeENn.` → Gen.; `PERSONALIrY` → PERSONALITY; `East` → EAST; comma supplied between ASSYRIA and ASTRAL PLANE (OCR `ASSYRIA ASTRAL PLANE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-alcinous-alcinous-king-of-the-phaeacians
 headword: "ALCINOUS ALCINOUS, KING OF THE PHAEACIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Opyssrus` | **unresolved** (review queue) |
 | `OLympus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLYMPUS OLYMPUS, MOUNT|OLYMPUS OLYMPUS, MOUNT]] |
 | `PHAEACIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher aspect of the soul, or of the higher mind and will ("strong mind") ruling the higher mental faculties (Phaeacians).
+
+> "Meanwhile Odysseus went to the famous palace of Alcinous, and his heart was full of many thoughts as he stood there or ever he had reached the threshold of bronze. For there was a gleam as it were of sun or moon through the high-roofed hall of great-hearted Alcinous."—*Odyssey*, Bk VII.
+
+The "palace" of the higher nature of the soul (Alcinous) is the potential causal-body centralising the higher and lower consciousnesses—the individuality (sun) and the personality (moon). Enterprising courage (Odysseus) is said to penetrate deep within the soul and ally itself with the intuition (Nausicaa). The "fifty handmaids in the palace" are the higher emotions which form the robe of wisdom which clothes the liberated ego on the buddhic plane.
+
+See ARETE, HOUSE, MARRIAGE, ODYSSEUS, OLYMPUS, PHAEACIANS.
+
+**Corrections made:** `Od us` → Odysseus; `highroofed` → high-roofed; `deer` → deep; `HovusE` → HOUSE; `Opyssrus` → ODYSSEUS; `OLympus`.
+
+**Unclear or supplied:** `Od us` is restored as Odysseus from context (the OCR drops the middle).
 
 ## Full OCR entry body (exact)
 

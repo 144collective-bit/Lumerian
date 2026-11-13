@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seasons-six-during-the-year
 headword: "SEASONS, SIX, DURING THE YEAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Days` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAYS|DAYS]] |
 | `IABRAOTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/IABRAOTH AND ADAMAS|IABRAOTH AND ADAMAS]] |
 | `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of six periods of creation during the cycle of involution.
+
+> "The six periods during which, according to Zoroastrian doctrine, the world was created. In the first period heaven was created, in the second the waters, in the third the earth, in the fourth the trees, in the fifth the animals, and in the sixth man."—See Gen. i., M. Haug, *Essays on Religion of Parsis*, p. 192.
+
+See ADAMAS (lower), AEONS (twelve), DAYS, IABRAOTH, SIX.
+
+**Corrections made:** `accorcing` → according; `tho` → the; `heavec` → heaven; `ix` → in; `Hate` → Haug; `A5ons` → AEONS; stray leading `2` and page heading `664 SEB` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

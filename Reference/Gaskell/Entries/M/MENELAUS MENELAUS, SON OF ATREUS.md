@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-menelaus-menelaus-son-of-atreus
 headword: "MENELAUS MENELAUS, SON OF ATREUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Arreus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ATREUS, AND HIS TWO SONS,- LEADERS OF THE PEOPLE|ATREUS, AND HIS TWO SONS,— LEADERS OF THE PEOPLE]] |
 | `Mars. MENIS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of strength on the astral plane, a product of illusion of separateness (Atreus). See ATREUS, MARS.
+
+**Corrections made:** `Arreus` → ATREUS; stray trailing `MENIS ;` removed as a page heading / headword fragment.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

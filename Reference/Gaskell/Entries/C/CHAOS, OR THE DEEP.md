@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chaos-or-the-deep
 headword: "CHAOS, OR THE DEEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TANAOA` | **unresolved** (review queue) |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial formless matter. Matter in its primal state, devoid of qualities, involution of Spirit not having yet taken place.
+
+> "Orpheus declares that Chaos first existed, eternal, vast, uncreate,—it was neither darkness nor light, nor moist nor dry, nor hot nor cold, but all things intermingled."—*Clementine Recognitions*, Ch. XXX.
+
+> "And the earth was waste and void; and darkness was upon the face of the deep; and the Spirit of God moved upon the face of the waters."—Gen. i. 2.
+
+And the first state of matter was formless,—the involution of form not having begun. All was inchoate, for spirit was not permeating or informing matter with qualities; and the Spirit of the Logos,—the Atman,—brooded upon the "waters" of ultimate reality. This statement refers to the formation in space of the invisible beginnings of the Solar system, with a correspondence also to the preparative involution of the life of the soul.
+
+See ABYSS, DARKNESS, DEEP, DESERTS, EARTH, EREBUS, EROS, GINNUNGAGAP, NARYANA, PO, TANAOA, WATER.
+
+**Corrections made:** `**Orpheus` → "Orpheus; `GEN., i 2` → Gen. i. 2; `tho` → the; page heading `CHAPTERS` removed from mid-sentence; See-list spellings restored (`Asyss`, `DrsERTs`, `EArtTH`, `Erersvus`, `ERos`, `GrinuUNGAGAP`, `WaTER`).
+
+**Unclear or supplied:** `NARYANA` left as printed (possibly NARAYANA).
 
 ## Full OCR entry body (exact)
 

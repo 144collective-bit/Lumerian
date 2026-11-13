@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-creatures
 headword: "CREATURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WHALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the outgoing desires, passions and emotions of the lower nature, which, as it were, feed upon the instincts and sensations.
+
+> "The living creatures of the earth represent the emotions connected with the will. . . . The instinct of mankind has always read these forms aright. To this day, wherever the primitive language of symbol remains, the passions are still characterised by the names of different beasts."—A. Jukes, *Types of Genesis*, p. 37.
+
+> "Stand firm and shrink not; for at length all thy creatures will grow faint, weak, and ready to die; and then thy will shall wax stronger, and be able to subdue and keep down the evil inclinations. So shall thy will and mind ascend into heaven every day, and thy creatures gradually die away."—J. Boehme, *The Supersensual Life*, p. 4.
+
+> "And God said, Let the earth bring forth the living creature after its kind."—Gen. i. 24.
+
+The Divine Will directs that the lower nature of the Soul shall bring forth that which is first in order, viz. the natural qualities. See ANIMALS, BEASTS, CATTLE, COW (plenty), [Darvas?], NAME, VITAL AIRS, WHALES.
+
+**Corrections made:** `JuKss` → Jukes; `. 37` → p. 37; `BorHME` → Boehme; `D. 4` → p. 4; `ita kind` → its kind; `GEN.` → Gen.; See-list spellings restored (`Brasts`, `CaTrLE`).
+
+**Unclear or supplied:** `[Darvas?]` is the OCR See-list item `Darvas`, which could not be identified.
 
 ## Full OCR entry body (exact)
 

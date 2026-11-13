@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-barley-and-wheat-or-rice
 headword: "BARLEY AND WHEAT OR RICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,25 @@ tags:
 | `Eantu` | **unresolved** (review queue) |
 | `HanvestT` | **unresolved** (review queue) |
 | `WHEAT AND BARLEY. BARSOM BARLEY MEAL EATEN :-— A symbol of experiences gathered and transmuted; or fruits of action as higher qualities laid up on the buddhic plane. See TREASURE IN HEAVEN` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of high emotions on the buddhic plane, being the harvest of the ego's experience and efforts. Red barley is a symbol of love; and white wheat or rice, that of wisdom.
+
+> "The sacrificial essence entered into this earth. The gods searched for it by digging. They found it in the shape of those two substances,—the rice and barley."—*Sata. Brâh.*, I. 2, 3, 7.
+
+The Divine Life entered into the lower nature of the soul. The spiritual egos sought for it by disciplining the lower qualities. They found it in the spiritual qualities of wisdom and love.
+
+See CORN, EARTH, HARVEST, WHEAT AND BARLEY.
+
+### Also in this note: BARLEY MEAL EATEN
+A symbol of experiences gathered and transmuted; or fruits of action as higher qualities laid up on the buddhic plane.
+
+See TREASURE IN HEAVEN.
+
+**Corrections made:** `Bréh.` → Brâh.; `thesoul` → the soul; `Conn` → CORN; `Eantu` → EARTH; `HanvestT` → HARVEST; page heading `BARSOM` removed; quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: BARLEY MEAL EATEN.
 
 ## Full OCR entry body (exact)
 

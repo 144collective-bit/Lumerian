@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-po-or-night
 headword: "PO, OR NIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `REINGA` | **unresolved** (review queue) |
 | `Taarnoa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `TANAOA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of chaos, primordial formless matter, or the material form-side of nature.
+
+> "The Marquesas Islanders have a legend which relates that in the beginning there was no life, light, or sound in the world, that a boundless night, Po, enveloped everything, over which Tanaoa, which means 'darkness,' and Mutu-het, which means 'silence,' ruled supreme. . . . Through all the Polynesian cosmogonies, even the wildest and most fanciful, there is a constant underlying sense of a chaos, wreck, Po, containing all things, and existing previous to the first creative organisation; the chaos and wreck of a previous world, destroyed by fire according to the Hawaiian legend, destroyed by water according to the Samoan legend; a chaos, ruin, or night, Po, in which the gods themselves had been involved, and only in virtue of their divine nature, after continued struggle, extricated themselves and reorganised the world on its present pattern."—A. Fornander, *Polynesian Race*, Vol. I. pp. 63, 64.
+
+At the opening of the cycle of manifestation the state of matter was formless and inchoate, for from the Absolute there was no expression of the Life. Yet potentially all was hidden within, together with the memory of previous cycles of life. The higher qualities (gods), which had been involved in the Absolute, had yet to come forth and manifest their nature through the matter of the planes in the universe and soul. Eventually the higher qualities and the spiritual egos overcame the desire-nature and began to discipline the human soul.
+
+See ABYSS, CHAOS, DARKNESS (pri.), DEEP, [Hrne?], NIGHT (matter), REINGA, TAAROA, TANAOA.
+
+**Corrections made:** `a - legend` → a legend; `ite present` → its present; `desirenature` → desire-nature; `Taarnoa` → TAAROA; See-list spellings restored (`Hrne` left uncertain, `NieuT`, `Deep`).
+
+**Unclear or supplied:** `[Hrne?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

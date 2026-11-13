@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apes-ape-and-tiger-nature
 headword: "APES APE AND TIGER NATURE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ANIMALS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANIMALS, REARED AND DOMESTICATED|ANIMALS, REARED AND DOMESTICATED]]; [[Reference/Gaskell/Entries/A/ANIMALS, TAMED AND WILD|ANIMALS, TAMED AND WILD]] |
 | `Beasts (wild)` | resolved (exact) → [[Reference/Gaskell/Entries/B/BEASTS, WILD|BEASTS, WILD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the automatic mind in ancestral traits and habits, and in unruled instincts and desires.
+
+See ANIMALS, BEASTS (wild).
+
+**Corrections made:** `Beasts` → BEASTS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

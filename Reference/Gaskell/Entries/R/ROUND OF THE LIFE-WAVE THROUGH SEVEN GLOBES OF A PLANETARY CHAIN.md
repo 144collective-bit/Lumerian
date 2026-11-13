@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-round-of-the-life-wave-through-seven-globes-of-a-pl
 headword: "ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `SaBBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `SNOW` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SNOW|SNOW]] |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+There have been seven rounds completed on the lunar chain. Humanity is now in the fourth round, and on the fourth globe of the terrene chain.
+
+> "The One Indivisible Monad called Tae-keih (the highest point) is considered as the restorer of reason, who has by incarnation assumed some form or other in seven different periods from the highest antiquity downwards."—Kidd, *China*, p. 141.
+
+The Supreme evolves within nature and the soul until the stage of reason or wisdom (buddhi-manas) is arrived at; and during seven world-periods of embodiment and incarnation completes the growth of wisdom in the soul which thereby is raised to the buddhic consciousness.
+
+> "Every sidereal body, every planet, whether visible or invisible, is credited with six companion globes. The evolution of Life proceeds on these seven globes or bodies, from the first to the seventh, in Seven Rounds or Seven Cycles. . . . When the seventh and last round of (a planetary chain) has been entered upon, the highest or first globe, A, followed by all the others down to the last, instead of entering upon its certain time of rest—or 'obscuration,' as in the previous rounds—begins to die out. The planetary dissolution (pralaya) is at hand, and its hour has struck; each globe has to transfer its life and energy to another planet."—H. P. Blavatsky, *Secret Doctrine*, [volume and page unclear] 182.
+
+> "Evolution appears to be cyclical, from the simplest etheric [words unclear] thing is simple—up to the highest and most complex cosmic products and back again. On, on it goes, age after age, without pause or rest, as it always has been, as it always will be, world without end, repeating the same process, following the same sequences, but never reaching a culmination or arriving at a final goal; it is one perpetual round, or round of rounds. 'That which hath been is now; and that which is to be hath already been; and God requireth that which is past' (Eccles. iii. 15)."—R. J. Campbell, *Serm.*, *Eternal and Temporal*.
+
+See KARSHVARES, LUNAR CHAIN, MOON-WAXING, PLANETARY CHAIN, RACES, RACHA, REGIONS, ROOT-RACES, SABBATHS, SNOW, WHEELS (holy).
+
+**Corrections made:** `Kipp` → Kidd; `evolvtion` → evolution; `4s` → its; `ita` → its; `Beavatsxy` → Blavatsky; `Mee .` → [volume and page unclear]; `Eccugs.` → Eccles.; `Elernal` → Eternal; `@` → a; `a_ final` → a final; `lunar'` → lunar; See-list spellings restored (`RacEs`, `RacHa`, `SaBBATHS`, `SNow`).
+
+**Unclear or supplied:** `[volume and page unclear]`: OCR reads `Mee .` before `182`. `[words unclear]` in the Campbell quotation: OCR reads `etherio tres Appt RU thing is simple`, too damaged to recover. `Kidd` for `Kipp` is the likely author of *China*.
 
 ## Full OCR entry body (exact)
 

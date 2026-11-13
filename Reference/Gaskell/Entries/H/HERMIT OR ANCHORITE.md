@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hermit-or-anchorite
 headword: "HERMIT OR ANCHORITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,24 @@ tags:
 | `SnAtaka` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `Wires` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an ego manifesting in a centre of consciousness on the sixth mental sub-plane.
+
+> "When a householder (a Snataka) sees his skin wrinkled, and his hair white, and the sons of his sons, then . . . abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her."—*Laws of Manu*, VI. 2, 3.
+
+When an ego, through the individuality (householder), perceives that his lower nature (skin) has fallen away, and that he is gifted with pure intuition (white hair) and higher mental qualities (sons of sons); then he turns away from seeking knowledge (food) through experience and discipline, and gives up his lower mental faculties. He is thus prepared to withdraw from all externals into the solitude (forest) of his soul, leaving the emotion-nature with the mental qualities, and uniting with the buddhic principle (wife).
+
+> "Buddha laid aside weapons and pondered the Sastra, he practised perfect calm, and underwent various observances, like a hermit he refused all objects of sense, he viewed all his kingdoms like a father."—*Buddha-Karita*, Bk. II. 52.
+
+The soul now casts aside its weapons of offence and defence, that is, it relinquishes its outgoing energies, and relies upon the Word of the Lord, which is the expression of the Supreme within it,—that which unifies and coordinates its experiences. The soul realises itself as centrally situated, and meditates within itself. And then it undergoes many acts of self-discipline as an anchorite. It withdraws from the many, and regards all perceptions equally and dispassionately, as a father his children.
+
+See ANCHORITE, ASCETIC, ASRAMAS, CULTIVATION, FOOD, FOREST, [Ham?], HOUSEHOLDER, MONK, ORDERS, SANNYASIN, SKIN, SNATAKA, WHITE, WIVES.
+
+**Corrections made:** page heading `HERMOD` removed from mid-sentence; `SnAtaka` → Snataka; `ell` → all; `emotionnature` → emotion-nature; `iteelf` → itself; `selfdiscipline` → self-discipline; `Lawe` → Laws; `S&stra` → Sastra; See-list spellings restored (`Forrst`, `Sxkmn`, `Wires`, `$ORDERS`, `SannyasiIn`).
+
+**Unclear or supplied:** `[Ham?]` See-list item not identified (possibly HAIR). `Sastra` for OCR `S&stra`.
 
 ## Full OCR entry body (exact)
 

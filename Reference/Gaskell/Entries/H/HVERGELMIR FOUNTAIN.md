@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hvergelmir-fountain
 headword: "HVERGELMIR FOUNTAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `NipHoce` | **unresolved** (review queue) |
 | `NIFLHEM` | **unresolved** (review queue) |
 | `YGGDRASIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of life on the lower planes, of illusion and separateness.
+
+> "Many ages before the earth was made Niflheim was formed, in the middle of which lies the spring called Hvergelmir, from which flow twelve rivers."—*Prose* [Edda].
+
+These are the twelve divisions of the cycle (Zodiac).
+
+See FOUNTAIN (deep), NIDHOGG, NIFLHEIM, YGGDRASIL.
+
+**Corrections made:** page heading `378 HYMN-SINGING` removed from after the attribution; `Founrain`, `NipHoce`, `NIFLHEM` restored.
+
+**Unclear or supplied:** `[Edda]` supplied: the attribution ends at `Prose` in the OCR where the page heading interrupts. `NIDHOGG` and `NIFLHEIM` read from damaged See-list spellings.
 
 ## Full OCR entry body (exact)
 

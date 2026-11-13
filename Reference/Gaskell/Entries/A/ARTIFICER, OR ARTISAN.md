@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-artificer-or-artisan
 headword: "ARTIFICER, OR ARTISAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
 | `CLassEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF EGYPT]]; [[Reference/Gaskell/Entries/C/CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER|CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER]] |
 | `SUDBA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the ego active on the physical plane,—the plane of work, contrivance, and adaptation. The activity is manifested through the physical body (Artisanship).
+
+See ANUBIS, CLASSES, SUDRA.
+
+**Corrections made:** Stray leading `.` removed; `CLassEs` → CLASSES; `SUDBA` → SUDRA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

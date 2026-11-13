@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heben-temple-ground
 headword: "HEBEN TEMPLE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body and its relations with the lower planes.
+
+> "All these things took place on the temple ground of Heben, which measured 342 khat on the south, north, west and east."—*Legend of the Winged Sun-disk*.
+
+All these activities of the indwelling Self (Horus) took place in the soul, which is the "temple" of the Holy Spirit, and is comparable to the measurement 342,—that number being a symbol of wholeness and completeness (3), and significant of top and bottom, height and depth (4). Or, the 3 dimensions,—the number of the physical plane, and the 4 planes of the lower quaternary (cardinal points), together with duality (2) on each plane. It signifies the summing up of the soul's possibilities, when the soul is weighed and not found wanting. See CAUSAL-BODY, JUDGMENT HALL, QUARTERS, QUATERNARY, TEMPLE.
+
+**Corrections made:** `&` → a; `temple®™` → temple"; page heading `HECATOMB` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

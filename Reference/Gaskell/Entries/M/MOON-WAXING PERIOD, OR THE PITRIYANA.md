@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-waxing-period-or-the-pitriyana
 headword: "MOON—WAXING PERIOD, OR THE PITRIYANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `next` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a period of evolution of animal-man, during which the astro-physical nature is developed sufficiently to be a fit vehicle for the incoming mind and spirits. This period has occurred in the lunar cycle for most egos.
+
+> "And Kitra said: All who depart from this world go to the moon. In the former (the waxing) half, the moon waxes big by their vital spirit."—*Kaush. Upanishad*, I. 2.
+
+The Divine Lawgiver (Kitra) gave utterance:—All embryo souls, or baby [word unclear] in animal forms, when they quit the flesh bodies go to the astral realm (moon). In the first, the "waxing-half" period,—meaning the half-cycle when the physical nature is developed,—the astral nature (moon) waxes big, that is, the desire-nature is stimulated, and in proportion as the desires have been developed, the astral world (moon) is said to increase. During this period the embryo-egos, or proto-souls, proceed, on quitting the flesh body, from the physical realm to the astral, and no higher. See next.
+
+**Corrections made:** `ig stimulated` → is stimulated; `Kaush.` restored; page heading `611 MOONLIGHT` removed from mid-sentence.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads `baby »` before "in animal forms".
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hair-shaven-from-crown-of-the-head
 headword: "HAIR SHAVEN FROM CROWN OF THE HEAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,22 @@ tags:
 |---|---|
 | `ENEMIES OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ENEMIES OF GOD|ENEMIES OF GOD]] |
 | `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of contrition for the shortcomings of the lower nature, and a sign of fervent desire to contact the Source of Truth and Power.
+
+> "For it is not the wearing of beards and the dressing in long gowns that makes [word unclear] philosophers; neither does the linen surplice and the shaven crown make votaries of Isis, but the real Isiacist is he that is competent to investigate by the aid of the Word, the symbolism, and the ceremonies connected with these duties (after he has been lawfully empowered so to do); and who meditates upon the Truth which is involved in them."—Plutarch, *Isis and Osiris*, § 3.
+
+In the Catholic and the Buddhist Churches the tonsure—
+
+> "marks the passage from the worldly to the religious life."—H. Oldenberg, *Buddha*, p. 321.
+
+See ENEMIES OF GOD, SHAVING.
+
+**Corrections made:** `inen` → linen; `Prutarcn, [sts and Osiris` → Plutarch, Isis and Osiris; `OLDENBERG` normalised; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: OCR `ple` before "philosophers" (probably a word such as "men" or "people").
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garden-of-eden
 headword: "GARDEN OF EDEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 | `TREASURES (cave)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURES OF THE CAVE|TREASURES OF THE CAVE]] |
 | `TYRUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TYRUS OR TYRE, PRINCE OF|TYRUS OR TYRE, PRINCE OF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic or wisdom plane.
+
+> "Eden which is the Wisdom of God."—Philo, *Works*, Vol. IV. p. 68.
+
+> "That the paradise of God means the truth of wisdom and faith is evident from the signification of garden in the Word; garden there signifies wisdom and intelligence, because trees signify men of the church, and their fruits goods of life; nothing else is signified by the garden of Eden, for by it is described the wisdom of Adam."—Swedenborg, *Apoc. Rev.*, n. 90.
+
+> "Thou (prince of Tyrus) hast been in Eden the garden of God; every precious stone was thy covering."—Ezek. xxviii. 13.
+
+The mental nature (prince of Tyrus) has been endowed from the buddhic plane (Eden) with every virtue (precious stone). The mental nature was perfect from the day it was evolved, till iniquity was found in it, and "Adam," the "prince of Tyrus," fell.
+
+See EDEN, GOLDEN AGE, HIDING, HOURIS, JEWELS, PARADISE, TREASURES (cave), TYRUS.
+
+**Corrections made:** `Puito` → Philo; `fruita` → fruits; `EZex.` → Ezek.; `SwEDENBORG` → Swedenborg; page headings `Bovuag, GARDEN` removed from mid-sentence; stray `*` removed after "prince of Tyrus,"; See-list spellings restored (`HovurIes`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

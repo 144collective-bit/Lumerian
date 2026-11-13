@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-man-man-righteous
 headword: "MAN MAN, RIGHTEOUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Law or ZOROASTER` | **unresolved** (review queue) |
 | `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 | `NiauHTs (three) Way OF TRE LORD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the exalted mind about to be united to the Higher Self. It indicates the ego which has rid itself of its lower nature, and so has become liberated from the cycle of births and deaths.
+
+> "The soul of the righteous man first advanced with a step he placed upon good thought; secondly, a step upon good word; thirdly, a step upon good action; and fourthly, a step he placed upon the eternal luminaries."—*Hadokht Nask*, Haug, *Essays*, p. 221.
+
+The soul of the perfected man is said to have advanced, firstly, through good thought,—the union of the intellect and judgment with emotion and the will. Secondly, by right speech,—the expression of goodness and truth. Thirdly, through good action,—the fulfilment of the object of right endeavour. Fourthly, reliance upon eternal Love and Truth,—the perfect subjugation of the lower nature of the ego to the Higher Self.
+
+> "As God is free from all finite ends, so also is the righteous man. Desire nothing, thus wilt thou obtain God and in him all things. Work for the sake of working, love for love's sake. . . . Virtue must be a condition, my essential condition; I must be built up and built over in righteousness. No one loves virtue except him who is virtue itself. All virtues must become in me necessities, being performed unconsciously. Morality consists not in doing, but in being" (Eckhart).—Ueberweg, *Hist. of Philos.*, Vol. I. p. 478.
+
+> "The real man, the inner spiritual man, is simply a receptacle for the impregnation and birth of ideas, an activity only acting through a conditioned receptivity, yet with a certain amount of liberty, but not a perfect autonomy. His spirituality contains the susceptibility, content, and living ability to produce spiritual and material births, but to be able to produce requires an outside spiritual impregnation and permission [from?] the Deity."—I. Myer, *Qabbalah*, p. 184.
+
+See GATHA (ush.), GRACE, LAW OF ZOROASTER, MAIDEN, NIGHTS (three), WAY OF THE LORD.
+
+**Corrections made:** `be placed` → he placed; `Have, EHesays` → Haug, *Essays*; `Ali` → All; `UxsERwEG, Hist. of Phelos., ol. I.` → Ueberweg, *Hist. of Philos.*, Vol. I.; `Myr, Qabdbalah` → Myer, *Qabbalah*; See-list spellings restored (`Gata`, `Law or ZOROASTER`, `NiauHTs`, `TRE LORD`).
+
+**Unclear or supplied:** `[from?]` (OCR `ater`). The opening quotation mark and a closing quotation mark after `being` are repaired from damaged print; `(Eckhart)` bracket restored.
 
 ## Full OCR entry body (exact)
 

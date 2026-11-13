@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fravashi-or-ideal-image-of-zoroaster
 headword: "FRAVASHI, OR IDEAL IMAGE, OF ZOROASTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `IaGp` | **unresolved** (review queue) |
 | `MacrocosmM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This "ideal image" is the Archetypal Man which is "Adonai of the Heavens." It is the prototype of the individual human souls.
+
+See ARC. MAN, GLORY, [IMAGE?], MACROCOSM, ZOROASTER.
+
+**Corrections made:** `MacrocosmM` → MACROCOSM; quotation marks normalised.
+
+**Unclear or supplied:** `[IMAGE?]`: OCR reads `IaGp`, a See-list item read as the likeliest headword.
 
 ## Full OCR entry body (exact)
 

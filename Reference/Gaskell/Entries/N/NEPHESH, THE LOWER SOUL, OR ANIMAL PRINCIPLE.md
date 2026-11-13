@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nephesh-the-lower-soul-or-animal-principle
 headword: "NEPHESH, THE LOWER SOUL, OR ANIMAL PRINCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Sovun (lowest)` | **unresolved** (review queue) |
 | `WHrExs (holy)` | **unresolved** (review queue) |
 | `YEHUDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature in the astral body, or astro-mental body. The lower emotions.
+
+> "The (lower) Rua'h forms with the [word unclear] the actual personality of the . . . Rua'h is that which rides on that Nephesh (the lower soul) and rules over her, and lights her with [everything?] she needs, and the Nephesh is the throne to that Rua'h" (From the Zohar).—I. Myer, *Qabbalah*, pp. 391, 393.
+
+The lower mind (ruah) energised by the emotion-nature constitutes the lower personality in the human soul. The lower mind is that which regulates the emotion-nature, and controls it, and also brings intelligence to bear on all methods of supplying the needs of the desires. The astral body is the vehicle, or instrument, of the lower mind and emotions.
+
+See ADAM (lower), GILGOOLEM, MICHAEL, NESHAMAH, RUAH, SOUL (lowest), WHEELS (holy), YEHUDA.
+
+**Corrections made:** `tho` → the; `TI. Myer` → I. Myer; `rush` → ruah; See-list spellings restored (`Apam`, `Rua`, `Sovun`, `WHrExs`).
+
+**Unclear or supplied:** `[word unclear]` stands for OCR `eae`; `[everything?]` for `eve ... neods`. The OCR `. .` before `Rua'h` is given as an ellipsis.
 
 ## Full OCR entry body (exact)
 

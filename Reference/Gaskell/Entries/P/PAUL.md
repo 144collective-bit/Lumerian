@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paul-d652e9ba
 headword: "PAUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Born (due time)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BORN AGAIN, OR FROM ABOVE|BORN AGAIN, OR FROM ABOVE]]; [[Reference/Gaskell/Entries/B/BORN OUT OF DUE TIME|BORN OUT OF DUE TIME]] |
 | `CoNVERSION (Paul)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the forcing of the conditions of soul-growth whereby for a moment a vision of higher things is perceived by the lower consciousness.
+
+> "And last of all he (Jesus) was seen of me also, as of (an abortive or) one born out of due time."—1 Cor. xv. 8.
+
+This is the utterance of a soul when it has attained direct vision of the Supreme. It refers to that state wherein personality is transcended and its imperfections and limitations have been surmounted.
+
+See BORN (due time), CONVERSION (Paul).
+
+**Corrections made:** `]` Cor. → 1 Cor.; `is'` → is; `soul .` → soul; See-list spellings restored (`Born`, `CoNVERSION`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

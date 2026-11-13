@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ambas-scriptures
 headword: "AMBAS (SCRIPTURES)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `INSPIRATI KayYAN` | **unresolved** (review queue) |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
 | `SCRIPTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the teachings of [the] Spirit of Truth from the budd[hic] plane; that is, the Divinely implan[ted] inner meanings underlying the ou[ter] expressions of all the world-scr[ip]tures and sacred myths.
+
+See DEVELOPMENT, INSPIRATI[ON], [KAYAN?], REVELATION, SCRIPTURES.
+
+**Corrections made:** `|` → [the]; truncated words completed in brackets: `budd`, `implan`, `ou`, `scr tures`, `INSPIRATI`; `KayYAN` → [KAYAN?].
+
+**Unclear or supplied:** The OCR is cut at the column edge, so each bracketed completion is supplied. `[KAYAN?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

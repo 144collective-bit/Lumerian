@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-and-physical
 headword: "AND PHYSICAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `NET OF 4ASAR` | **unresolved** (review queue) |
 | `PINEAL GLAND` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PINEAL GLAND|PINEAL GLAND]] |
 | `QUASER` | resolved (first-segment) → [[Reference/Gaskell/Entries/Q/QUASER, OR KVASIR|QUASER, OR KVASIR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The "third eye" is a clairvoyant faculty on the astral plane, which precedes physical sight,
+
+> "When now the Asar had arrived at the house of Loke, the wisest of them, Quaser, first entered, and when he saw the ashes of the burned yarn (net) on the fire, he comprehended that this must be a device for catching fish, which he showed to the Asar. They therefore took linen thread and made a net, after the fashion of that which they could see in the ashes, which had been made by Loke."—*Prose Edda*.
+
+And when the functioning upon the astral plane has been accomplished by the Logoi (Asar), the first thing that is done is the transference of the sense of sight to the physical plane. Clairvoyance (Quaser) is exchanged for the physical sense, for it is seen to be relatively illusory, and but a poor and ineffectual attempt to capture facts (fish) or reality. The clairvoyance refers to the astral function of the "third eye," which ceases to act when physical sight is fully acquired. And now the substance of the astral matter is taken in structural form, and upon that is built the mechanism of the physical eye, which is to be used as the apparatus of sight.
+
+See ASAR, LOKE, NET OF ASAR, PINEAL GLAND, QUASER.
+
+**Corrections made:** Page heading `260 EYE` removed; `Asan` → ASAR; `4ASAR` → ASAR; quotation marks normalised.
+
+**Unclear or supplied:** The entry begins mid-way (headword "AND PHYSICAL"): it is the tail of an entry on the "third eye".
 
 ## Full OCR entry body (exact)
 

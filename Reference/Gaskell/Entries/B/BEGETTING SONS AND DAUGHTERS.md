@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-begetting-sons-and-daughters
 headword: "BEGETTING SONS AND DAUGHTERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mind and emotion creating, or giving rise to, states of reason and affection.
+
+> "And Seth lived a hundred and five years, and begat Enosh: and Seth lived after he begat Enosh eight hundred and seven years, and begat sons and daughters."—Gen. v. 6, 7.
+
+And hope or mental desire (Seth) existed its appropriate time (105 = 6) and therefrom proceeded faith in the Divine (Enosh). And hope still existed and produced phases, or states, of joy and peace (807 = 15).
+
+[See] CHILDREN, ENOSH, [FIFTEEN?], PATRIARCHS, SETH.
+
+**Corrections made:** `GEn.` → Gen.; `FUOrTEEs` → [FIFTEEN?]; `ENosH` → ENOSH; `Pavriarncus` → PATRIARCHS; stray `_` removed.
+
+**Unclear or supplied:** `[See]` is supplied: the OCR omits it. `[FIFTEEN?]` is a guess for `FUOrTEEs`.
 
 ## Full OCR entry body (exact)
 

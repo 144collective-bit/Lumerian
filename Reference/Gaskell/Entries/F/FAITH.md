@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-faith
 headword: "FAITH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -126,6 +127,40 @@ tags:
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `Love or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LOVE OF GOD|LOVE OF GOD]] |
 | `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Perception of the ideal and of that which is coming in evolution. A sense of that which is superior to knowledge, i.e. intuition of Truth. Acceptance of the system of nature with all its invariable sequence, its suffering and evil, as inevitable and perfect in process, in regard to its end which is God.—See Heb. xii. TRANSMUTATION.
+
+> "To choose the ideal without the support or sanction of the natural universe, and without hope of compensation; this reveals what man really is, and this autonomous affirmation [word unclear] And whenever that faith finds utterance—for it is in all—then you may inquire into the meaning of the natural order. Here, we say, is an imperfect world, society, or character; and yet we are found longing for perfection. How, then, can the intrusion of the ideal be explained? There are only two answers; one is that there is a scheme other than the natural, also pressing upon us, but only discerned by spiritual vision."—W. E. Orchard, D.D., *Ch. Com.*, Nov. 23, 1910.
+
+> "But before faith came, we were kept in ward under the law, shut off from the faith which should afterwards be revealed."—Gal. iii. 23.
+
+Before the intuition of Truth came into the evolving soul, the qualities were under law, reason, Karma, cause and effect, and were kept in bondage to authority; but afterwards through intuition wisdom was acquired.
+
+> "Yet beyond all knowledge, properly so called, is the realm of faith, and here, as in the case of more strictly cognisable things, the object of contemplation must actually come within the human mind, and be assimilated, before its being can be realised. 'God is also said to come into being in the souls of the faithful, since either by faith and virtue He is conceived in them, or in a certain fashion, by faith, begins to be understood. For, in my judgment, faith is nothing else than a certain principle from which the recognition of the Creator arises in a reasonable nature' (Scotus). We seem to have here the doctrine of the Incarnation presented from an entirely subjective and individual standpoint."—Alice Gardner, *John the Scot*, p. 129.
+
+> "According to Zwingli, faith is the highest power of our reasoning activity altogether, and can, therefore, never come into conflict with the remainder of the reasonableness of man."—O. Pfleiderer, *Development of Christianity*, p. 196.
+
+> "Faith is nothing less than a uniting of our will with God's will."—J. Boehme, *Mysterium Magnum*, Vol. V. p. 299.
+
+> "I hold that it is in Transcendental Feeling manifested normally as Faith in the value of life, and ecstatically as sense of Timeless Being, and not in thought proceeding by way of speculative construction, that Consciousness comes nearest to the object of metaphysics, Ultimate Reality."—J. A. Stewart, *Myths of Plato*, p. 43.
+
+> "When the seed of the new birth, called the inward man, has faith awakened in it, its faith is not a notion, but a real, strong, essential hunger, an attracting or magnetic desire of Christ, which as it proceeds from a seed of the Divine nature in us, so it attracts and unites with its like: it lays hold on Christ, is on the Divine nature, and in a living and real manner grows powerful over all our sins, and effectually works out our salvation (see Eph. iii. 17-19)."—Wm. Law, *Grounds*, etc.
+
+> "Faith is not anti-rational, but superrational; it is that whereby we lay hold of the spiritual and eternal. . . . Man's whole nature longs for fuller satisfaction than it can find in the dark valley of material existence; faith contacts the regions in which those satisfactions lie and brings the tokens of them into our conscious experience. This side of our complex human experience is just as reliable as any other, and is not only the highest but the one for the sake of which the rest exist. Unless you can interpret life in terms of the spiritual, it is a mere chaos, not even rational; you could not reason about a world which had no sort of order in it, and the moment you predicate that you are dealing with spiritual ends."—R. J. Campbell, *Serm.*, The Function of Faith.
+
+> "Faith discovereth the truth of things to the soul; the truth of things as they are, whether they be things that are of this world, or of that which is to come; the things and pleasures above, and also those beneath. Faith discovereth to the soul the blessedness and goodness, and durableness of the one; the vanity, foolishness, and transitoriness of the other. . . . Faith wraps the soul up in the bundle of life with God."—John Bunyan, *Justification*, etc.
+
+> "The truth is that faith is only our own higher nature asserting itself and vindicating itself against the lower, and without such assertion and vindication there could not be,—even omnipotence could not bestow,—fullness of life and [power] upon the aspiring soul. . . . [Faith] is simply spiritual instinct making straight for its goal."—R. J. Campbell, *Serm.*, Necessity of Faith.
+
+> "This unfounded and arbitrary declaration of the ultimate rightness and significance of things I call the Act of Faith. It is my fundamental religious confession. It is a voluntary and deliberate determination to believe, a choice made."—H. G. Wells, *First and Last Things*, p. 48.
+
+See GOLDEN HAIR, HAIR, INTUITION, LOVE OF GOD, VAIRAUMATI.
+
+**Corrections made:** `Hes. xii.` → Heb. xii.; page headings `262 FAITH` and `FAITH` (mid-quotation) removed; `Oncnarp` → Orchard; `GatL.` → Gal.; `ALIcEr GARDNER` → Alice Gardner; `PF.grDERER` → Pfleiderer; `Boxnme` → Boehme; `Srewarrt` → Stewart; `ite faith` → its faith; `ts on` → is on; `iving` → living; `Epx.` → Eph.; `Wsa. Law` → Wm. Law; `aa reliable` → as reliable; `CampPBELL`/`CampPpsBELL` → Campbell; `JoHN Bunyan` → John Bunyan; `WELLS` normalised; `volunt` → voluntary; See-list `Harr` → HAIR, `Love or Gop` → LOVE OF GOD; broken quotation marks normalised, and similar minor fixes.
+
+**Unclear or supplied:** Mid-quotation in the Orchard passage the OCR is damaged ("and without ho of com tion; this reveals hae man really is, and this autonomous affirmation"); reconstructed as "without hope of compensation; this reveals what man really is" with `[word unclear]` marking the lost words after "affirmation". In the Campbell passage "wer" is read as `[power]` and "aith" as `[Faith]` (supplied). The OCR fragment "an attracting or is faith" is a header collision; it is treated as page-heading debris with "magnetic desire" following. "ts on the Divine nature" is read as "is on the Divine nature" and may be damaged further. `Boxnme` read as Boehme.
 
 ## Full OCR entry body (exact)
 

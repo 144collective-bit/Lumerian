@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aster-forest
 headword: "ASTER, FOREST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,26 @@ tags:
 | `TREES (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
 | `VITAL aIns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WILDERNESS OF JUDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WILDERNESS OF JUDEA|WILDERNESS OF JUDEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of meditation in the solitude of the soul; a subjective state of mind wherein the consciousness is withdrawn from all external attractions into the higher intellect.
+
+> "A twice-born Snataka, who has thus lived according to the law in the order of householders, may, taking a firm resolution, and keeping his organs in subjection, dwell in the forest."—[Laws?] of Manu, VI. 1.
+
+An ego endowed with mind and moral responsibility, who has further completed his incarnations and risen to individuality in the causal-body, may, with steadfast resolve to conform to the Divine will, and controlling completely his mental qualities, withdraw consciously inwards to meditate and progress, free from all external things.
+
+> "O Bharata, what need has a self-controlled man of the forest, and what use is the forest to an uncontrolled man? Wherever a self-controlled man dwells, that is a forest, that is an hermitage."—*Mahâbhârata*, *Sântiparva*, 5961.
+
+In the name of moral rule (Bharata)! what need has a self-controlled mind of limitation of freedom from external attractions, and, on the other hand, of what use is such limitation to an uncontrolled mind? In whatever environment a self-controlled mind is placed, that is freedom for meditation, that is solitude of soul.
+
+> "The word 'forest' is used in this district (New Forest) in its primitive sense of a wilderness or uncultivated tract of country."—Mabel Collins, *In the New Forest*.
+
+See ASCETIC, ASRAMAS, DESERTS, HOUSEHOLDER, SNATAKA, TREES (tall), VITAL AIRS, WILDERNESS OF JUDEA.
+
+**Corrections made:** Page heading `STAGES OF FORMS` removed from inside `self-controlled`; `fores rane` → forest.—[Laws?]; `selfcontrolled` → self-controlled; `Mahébdhrata, Santiparva` → Mahâbhârata, Sântiparva; `**Q` → O; `ite` → its; `MaBEL CoLuins` → Mabel Collins; See-list spellings restored (`HovusEHOLDER`, `VITAL aIns`); quotation marks normalised.
+
+**Unclear or supplied:** `[Laws?]` is a reading of OCR `rane` before `of Manu`; the words `fores rane` are damaged.
 
 ## Full OCR entry body (exact)
 

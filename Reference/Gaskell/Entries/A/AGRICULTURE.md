@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agriculture
 headword: "AGRICULTURE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SEKHET (aaru)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SHABTI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB|SHABTI SHABTI FIGURE, PLACED WITH THE MUMMY IN THE TOMB]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the cultivation of the qualities of the soul so that they shall bear fruit on the higher levels, that is, be productive of higher faculties and emotions through spiritual growth.
+
+> "The chief occupation (of the 'dead') was agriculture, which differed from that of earth only in that the harvest never failed, and the corn grew far more luxuriantly, its stems [word unclear] the height of a man. The Fields of Aalu (or Aaru) were tilled to provide the dead with food, in so far as their wants were not met by offerings, and by magic formulas made and spoken for them on earth."—A. Wiedemann, *Rel. of Anc. Egyptians*, p. 254.
+
+The "dead" are the personalities in their lives on earth (not postmortem states), who cultivate their natures and gain experience. The result of cultivation from the seed (corn) of the Spirit, "surpasses the height of man" (mind) because its fruit is above mind and on the buddhic plane. The "Fields of Aalu" symbolise the astral plane of the desires. The desire-nature is "tilled" by the personalities in order that through sacrifice and aspiration the best results should be transmuted by buddhic agency (magic formulas) and spiritual food be produced for the soul.
+
+See ANIMALS, CORN, CULTIVATION, DEMETER, FIELD, HARVEST, OX AND ASS, PHALLIPHORIA, PLOUGHING, SEED, SEKHET (aaru), SHABTI.
+
+**Corrections made:** stray `§` removed; `Ane.` → Anc.; `4aru` → Aaru; See-list spellings restored (`FiELD`, `Harvest`, `Ox anD ASS`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: the OCR reads `oid ae` for the word or words between "stems" and "the height of a man".
 
 ## Full OCR entry body (exact)
 

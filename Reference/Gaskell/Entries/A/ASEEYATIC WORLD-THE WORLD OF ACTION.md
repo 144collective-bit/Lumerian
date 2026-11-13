@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aseeyatic-world-the-world-of-action
 headword: "ASEEYATIC WORLD—THE WORLD OF ACTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `MasrEeR OF wISDOM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]] |
 | `WALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical plane, the lowest plane of the quaternary.
+
+See ADAM (lower), COUNTENANCE (greater), WORLDS (five).
+
+### Also in this note: ASEKA ADEPTSHIP
+
+A symbol of the state of consciousness of the ego when raised to the highest possible point it can attain in the present cycle of twelve stages through which growth is accomplished. This would mean an atma-buddhic level, whereas the Arhat consciousness is buddhi-manasic. The next globe period will be capable of carrying the advanced ego up to the Aseka stage of being; so it may be imagined this stage will probably be achieved in the future.
+
+See ARHATS, ASCETIC, INITIATIONS, MASTER OF WISDOM, WALES.
+
+**Corrections made:** `Apam` → ADAM; `atmabuddhic` → atma-buddhic; `capabie` → capable; `Annats` → ARHATS; `ASCETIOC` → ASCETIC; `MasrEeR OF wISDOM` → MASTER OF WISDOM; See-list capitalisation restored.
+
+**Unclear or supplied:** Contains a second entry: ASEKA ADEPTSHIP.
 
 ## Full OCR entry body (exact)
 

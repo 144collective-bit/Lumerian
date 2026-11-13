@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sahu-of-osiris
 headword: "SAHU OF OSIRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `Sout (middle)` | **unresolved** (review queue) |
 | `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body, which is the receptacle, or seat, of the Spirit in the human soul, and which is built up from the potential pattern as a result of the experiences of life in the physical body.
+
+> "The texts show that the Egyptians believed that, if the prescribed prayers were said and the appropriate ceremonies were properly performed over the dead body by duly appointed priests, it acquired the power of developing from out of itself an immaterial body called sahu, which was able to ascend to heaven and to dwell with the gods there. The sahu took the form of the body from which it sprang and was immortal, and in it lived the soul."—Budge, *Book of the Dead*, Vol. I. p. lviii.
+
+The "prayers" are the aspirations from the lower self, without which development is impossible. The "ceremonies" symbolise the process of the transmutation of qualities. The "priests" are spiritualised mental forces operating to build up the causal-body. The "dead body" is the lower personality, which being a transient centre of consciousness is in itself lifeless. The immortal causal-body (sahu) is developed in the image of the perfected personality, which merges into the individuality.
+
+> "Ulrici's doctrine that we are, during our earthly probation, by the action of our will, our moral decisions, and the processes which go to the making of character, building up within us a spiritual body, whose presence reveals itself in imperfect ways while we are yet in the flesh, but which will be the fully developed organ of the soul after death, runs on lines very similar to Oriental teachings on this subject, which have been reproduced in modern Theosophy. There is something to be said for it, and it may be that revelations are yet in store for humanity along this line of things as the result of future investigations"—J. Brierley, *Studies of the Soul*, p. 111.
+
+> "The entire aim, drift, and purpose of religion might well be compendiously summed up in the soul theory. The keynote to religion is the soul: man's concern about himself, and now no less than formerly. It has been, it is to this day, the soul—or rather the immaterial, unseen conception of man, which has been opposed to the visible and actual world—that has served exclusively to perpetuate our conception of a relatively permanent and abiding order."—R. Dimsdale Stocker, *The God which is Man*, p. 61.
+
+See ALTAR (fire), CAUSAL-BODY, CORPSE, DEFUNCT, KA, KARANA, KHUS, LAZARUS, MUMMY, PRANAS, RESURRECTION, SOUL (middle), TCHEFET, VESTURES.
+
+**Corrections made:** `yattern` → pattern; `relieved` → believed; `vere` → were; `xody` → body; `scquired` → acquired; `iahu`/`i@hu` → sahu; `Bupexr` → Budge; `sausal-body` → causal-body; `18 n itself` → is in itself; `nerges` → merges; `yur`/`sur` → our; `orocesses` → processes; `teachines` → teachings; `3ummed` → summed; `DmImMspaLp` → Dimsdale; page heading `647 SAILOR` removed from mid-word (`con647 SAILOR cern` → concern); See-list spellings restored (`Corpse`, `Derunct`, `Kuvs`, `MumMMyY`, `Sout`).
+
+**Unclear or supplied:** `KHUS` is restored from OCR `Kuvs`; reading is likely but not certain.
 
 ## Full OCR entry body (exact)
 

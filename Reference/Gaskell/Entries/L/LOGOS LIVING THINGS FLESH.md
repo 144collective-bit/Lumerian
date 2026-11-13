@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-logos-living-things-flesh
 headword: "LOGOS LIVING THINGS FLESH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
 | `VITAL aIRs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic ideal qualities which become dualised and inverted in the astro-mental nature (all flesh).
+
+> "And every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."—Gen. vi. 19.
+
+The spiritual activities on higher planes, which correspond to the relations upon the lower planes; these exist as growth-producing ideals, and are said to be "kept alive" by the individual Self (Noah) seated in the causal-body (ark). The male-female principles are the dual aspects of qualities which always present themselves in the evolution of the Cosmos or the Soul.
+
+See ADAM (dual), ARK (Noah), MALE-FEMALE, [Muttiety?], SEEDS (creatures), NOAH, TWO, VITAL AIRS.
+
+**Corrections made:** `alwayr` → always; See-list spellings restored (`ApamM`, `SEEDS`, `NoaH`, `aIRs`).
+
+**Unclear or supplied:** `[Muttiety?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

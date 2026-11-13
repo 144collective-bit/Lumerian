@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-palanquin-of-the-child-buddha
 headword: "PALANQUIN OF THE CHILD BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `BuppHa` | **unresolved** (review queue) |
 | `CHARIOT. §57` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of forthgoing energy of the Self in his buddhic vehicle. See BUDDHA, CHARIOT.
+
+**Corrections made:** `BuppHa` → BUDDHA; stray page number `§57` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

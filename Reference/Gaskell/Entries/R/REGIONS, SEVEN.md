@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-regions-seven
 headword: "REGIONS, SEVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,24 @@ tags:
 | `Sprinctime` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the seven globes of the terrene planetary chain. All are invisible with the exception of the Earth.
+
+> "The Drop (sun) moving along the common seat (of sky and earth); the Drop I offer along the seven hotras,—the seven hotras are the regions: he thus establishes yonder sun in the regions."—*Sata. Brâh.*, VII. 4, 1, 19.
+
+The indwelling Self, progressing through the cycle of life and commencing small as a drop of water (Truth) within the higher and lower natures, is furnished by the Supreme with the globes of the planetary chain as an arena whereon the Divine Life may be evolved, and the Higher Self manifested in his glory. In the Indian sacred books the seven regions (dvipas) are given the names of—Plaksha, Shalmalia, Kusha, Krauncha, Shaka, Pushkara, and Jambu-dvipa, which last is said to be central to the others. Each region is surrounded by great oceans respectively of sweet juice, wine, butter, curds, milk, etc. (*Vishnu Purana*, II. 109). Jambu-dvipa is a symbol of our earth, and this dvipa is said to be surrounded by a "sea of salt water," which is suggestive both of the proximate astral plane (sea) and of the habitable land of the earth globe. The "oceans" refer to the buddhic, the mental, and the astral planes.
+
+> "And of these seven regions every benefit was created most in Khvaniras, and the evil spirit also produced most for Khvaniras, on account of the superiority which he saw in it."—*Bundahis*, Ch. XI. 5.
+
+And of these seven globe-conditions of being, the conditions prevailing in the present world (Khvaniras) are the most effective for the Divine purpose. The possibilities of evil being great; great also is the scope for good overcoming evil.
+
+See AAT OF WATERS, BARSOM, EARTH, HIGHER AND LOWER NATURES, HORSE SACRIFICE, HVANIRATHA, KARSHVARES, PLANETARY CHAIN, RENOVATION, ROOT-RACES, ROUND, SKY, SPRINGTIME, SUN, WATER.
+
+**Corrections made:** page heading `619 REINCARNATIONS` removed from mid-sentence; `in_ the` → in the; `Bréh.` → Brâh.; `VIT.` → VII.; See-list spellings restored (`EarTH`, `HVANRATHA`, `Rounn`, `Sprinctime`, `Sky`, `Sun`, `ROooT-RACES`); quotation marks normalised.
+
+**Unclear or supplied:** `HVANRATHA` is read as HVANIRATHA (the Zoroastrian region Khvaniras); `AAT OF WATERS` is left as printed in the See list.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flail-for-threshing-out-wheat
 headword: "FLAIL, FOR THRESHING OUT WHEAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,16 @@ tags:
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SHEPHERD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEPHERD, GOOD|SHEPHERD, GOOD]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will which is active to beat out the lower qualities (the chaff), and reveal in the soul the higher qualities of wisdom and love (the wheat) with which the causal-body is nourished. The figure of Osiris is often shown holding the emblems of the flail and the crook, the first signifying the coercive driving away of evil, as by a whip, and the second, the attractive drawing upwards of the qualities towards goodness and truth. The flail is a symbol of the disciplining of the lower nature, and the cultivation of the higher. The crook is a symbol of the nurture and accumulating of virtues (sheep).
+
+See BISHOP, CAUSAL-BODY, CHAFF, CORN, CROWN (upper), OSIRIS, SHEEP, SHEPHERD, WHEAT.
+
+**Corrections made:** `fiail` → flail; `asymbol` → a symbol; `Osris` → OSIRIS; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-doors-opened-by-thoth
 headword: "DOORS OPENED BY THOTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -57,6 +58,20 @@ tags:
 | `Winps (four)` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
 | `WoRLDs (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the four vehicles of consciousness rendering the four planes accessible to the ego by means of the activities of the higher mind.
+
+> "The north wind belonged to Osiris, the south wind to Râ, the west wind to Isis, and the east wind to Nephthys; and for the deceased to obtain power over each and all of these it was [necessary?] for him to be master of the doors through which they blew. This power could only be obtained by causing pictures of the four doors to be painted on the coffin with a figure of Thoth opening each. ... the rubric says, 'Let none who is outside know this chapter for it is a great mystery, and those who dwell in the swamps (i.e. the ignorant) know it not. Thou shall not do this in the presence of any person except thy father, or thy son, or thyself alone; for it is an exceeding great mystery which no man whatever knoweth.'"—Budge, *Egyptian Book of the Dead*.
+
+The buddhic plane is the plane on which the incarnate Self (Osiris) is born; the physical plane is a reflection of Atma (Râ); the mental plane is allied with buddhi (Isis); and the astral plane is the modeller of the physical (Nephthys). In order that the individuality (deceased) should obtain mastery over the conditions on each and all of the four planes, it was necessary for him to have complete knowledge and control of his four bodies or vehicles which are his instruments of consciousness and action on the four planes. This mastery could only be attained by perfecting the four bodies in the image of their prototypes, by means of the higher mind (Thoth) during the embodiment (coffin) of the ego on the lower planes (tomb). It is the higher mind which has the keys of heaven and of hell, that is, the means of access by the ego to the higher and lower planes. The mystery is in the perfecting of the bodies, which perfecting is impossible for the outside or lower mind; as the desires on the astro-mental plane (swamp) are oblivious of it. The mystery cannot be solved by that which is lower but only by that which is higher—the spiritual father or the spiritual son allied with the individuality.
+
+See ADEPT, ARHAT, ASEKA, BUDDHI, CHILDREN OF HORUS, DEFUNCT, FOUR BEINGS, INDIVIDUALITY, INITIATION, ISIS, [KEYS?], [MANSY?], NEPHTHYS, OSIRIS, PROTOTYPES, QUARTERS, QUATERNARY, RA, TOOLS, TOMB, VESTURES, WALKS, WINDS (four), WOOD, WORLDS (five).
+
+**Corrections made:** `Osiria` → Osiris; `R&` → Râ; `throug` → through; `cofin` → coffin; `Buver` → Budge; `Im order` → In order; page heading `DOVE` removed from mid-sentence; See-list spellings restored (`Isis`, `OsIRIs`, `Ri`, `Toots`, `Toms`, `Winps`, `Woop`, `WoRLDs`); and similar minor fixes.
+
+**Unclear or supplied:** `[necessary?]` stands for OCR `apcacened`. See-list items OCR `Krys` and `Mansy` are given as `[KEYS?]` and `[MANSY?]`; `RA` is restored from OCR `Ri`.
 
 ## Full OCR entry body (exact)
 

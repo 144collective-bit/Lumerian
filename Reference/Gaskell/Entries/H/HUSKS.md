@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-husks
 headword: "HUSKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `HUNGER` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUNGER|HUNGER]] |
 | `PropicaL` | **unresolved** (review queue) |
 | `SwIne` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SWINE|SWINE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of low objects of desire and sensation, devoid of the kernel of truth and goodness.
+
+> "And he went and joined himself to one of the citizens of that country; and he sent him into his fields to [feed] swine. And he would fain have been filled with the husks that the swine did eat: and no man gave unto him."—Luke xv. 15, 16.
+
+The emotion-nature finding no longer delight in those things which at first gave him pleasure, he hungered for that towards which his evolution was now directed. And he then allied himself with the worldly wisdom which corresponds to all that is depraved, unclean, and unfit for the kingdom of heaven. And he would willingly have fed upon the food which these lower instincts and desires partook of; but no mental quality gave unto him, nor could this food satisfy.
+
+> "So sure as you allow the lower to master the higher, so sure will you have to find out your mistake. Your spirit cannot satisfy itself with the husks that the swine eat, for it craves the bread of God."—R. J. Campbell, *Serm.*, *Coming to the True Self*.
+
+See CALF, DANCES, FIELD, HUNGER, PRODIGAL, SWINE.
+
+**Corrections made:** `LuKE` → Luke; `to f swine` → to [feed] swine; `8o sure` → So sure; page heading `HUT` removed from mid-sentence; See-list spellings restored (`CaF`, `Frxe_p`, `PropicaL`, `SwIne`).
+
+**Unclear or supplied:** `[feed]` supplied: OCR reads "to f swine". `CALF` read from damaged `CaF`.
 
 ## Full OCR entry body (exact)
 

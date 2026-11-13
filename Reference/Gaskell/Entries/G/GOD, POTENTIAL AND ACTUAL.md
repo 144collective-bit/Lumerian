@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-god-potential-and-actual
 headword: "GOD, POTENTIAL AND ACTUAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,42 @@ tags:
 | `SE tr` | **unresolved** (review queue) |
 | `Son or Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `TRINITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the central principle of being, the only reality, and the source of the transitory manifestation of the external universe, and of the human soul.
+
+> "The only Life which exists entirely in itself, from itself, and by itself, is the Life of God, or of the Absolute;—which two words mean one and the same thing; so that when we say the Life of the Absolute, we only use a form of expression, since the Absolute is Life, and Life is the Absolute. This Divine Life lies entirely hidden in itself;—it has its residence within itself, and abides there completely realised in, and accessible only to itself. It is all being, and beside it there is no being. It is therefore wholly without change or variation. Now this Divine Life discloses itself, appears, becomes visible, manifests itself as such—as the Divine Life: and this its manifestation, presence, or outward existence, is the world."—J. G. Fichte, *Nature of the Scholar*, p. 134.
+
+> "How little do we know of ourselves! How unjust we are to ourselves! We study everything else but the Divine Principle within our own persons. The truth may be on our lips; but in how few hearts does it live! We need a new revelation—not of heaven or of hell,—but of the Spirit within ourselves."—W. E. Channing, D.D., *The Perfect Life*, p. 57.
+
+> "Man can name and can think of God because in his inmost substance he is of God. 'All divine things,' says Dionysius, 'in so far as they are manifested to us, are known only by participation therein.' . . . The chief names of God allowed by Dionysius are Goodness, Love, Being, Life, Wisdom, Reason, Faith, Power, Justice, Salvation, Redemption."—Alice Gardner, *John the Scot*, pp. 33, 35.
+
+> "Symbolically or metaphorically speaking, God can be called truth, goodness, essence, light, justice, sun, star, breath, water, lion, etc. But in reality he is exalted above all those predicates, since each of them has an opposite, while in him there is no opposition" (John Scotus (Erigena)).—Ueberweg, *Hist. of Philos.*, Vol. I. p. 361.
+
+> "As to the true God of the human conscience, He cannot be attacked. He has his raison d'être in an invincible faith, and not in more or less ingenious arguments. Within the conscience a sacred voice is to be heard, which speaks to man of quite another world, the world of the ideal, the world of truth, of kindness, of justice. If there were nothing but Nature we might wonder whether God were necessary, but since an honest man existed, God has been proved. . . . I have no need of miracles for believing in Him, I have only to listen in silence to the revelations of my heart."—Ernest Renan, Letter to M. Géroult, 1862.
+
+> "If you will be blind to sense and see with the mind; if you will turn from the flesh and waken the eyes of the soul, thus and thus only shall you see God."—Celsus, *Origen cont. Cels.*, 7, 36.
+
+God is Love—internal. There is no external God—a supposed dispenser of rain or fine weather, of miraculous escapes and shocking fatalities, of mining rescues and dire effects of explosions, of healings and diseases, of beautiful landscapes and deadly earthquakes, etc. In God there are no opposites.
+
+> "We get no proofs out of nature that go farther than to prove a God of nature, least of all do we get any that show Him to be acting supernaturally to restore the disorders of nature. . . . Our God derived from nature, is a monosyllable only, or at best a mechanical first cause, and no such being as the soul wants. Resting here, therefore, or allowing ourselves to be retained by what we call our natural theology, Christianity dies out on our hands for the want of a Christian God, And accordingly it is a remarkable fact that we have lost faith in God just in proportion to the industry we have spent in proving His existence by the natural evidences. First, because the God we prove does not meet our living wants, being only a name for causes, or a God of causes; secondly, because in turning to Christianity for help, we have rather to turn away from the God we have proved, than toward Him. There is no relief to this mischief, but to conceive at the beginning that nature is but a fraction of the complete system of God; that the true living God is a vastly superior being still, who holds the worlds of nature in His hands, and acts upon them as the Rectifier, Redeemer, generator,—this is the God that speaks to our true wants."—H. Bushnell, *Nature and the Supernatural*, pp. 357-8.
+
+> "Love strives after the good; it is nothing other than God himself."—Eckhart.
+
+> "It is the divine in man that impels him to love God as He is in reality, and the aim of that love is to take God into himself,—to become one with God."—Giordano Bruno.
+
+> "The very fact that you can love proves that God is love; he must be capable of it or you could not have had it. He must be wisdom or you would never have been able to think a thought; he must be goodness or the very idea of goodness would never have been yours. God is the limitless reservoir out of which all our idealism arises, and without which truth, beauty and righteousness could not be; to see these is to see God."—R. J. Campbell, *Serm.*, Our Solidarity with God.
+
+> "The idea of God as a man is a just idea, for God is divine love and divine wisdom, with every quality belonging thereto, and the subject of these is man."—Swedenborg, *Apoc. Rev.*, n. 224.
+
+> "Ere yet time was, God dwelt alone in unrevealed loveliness and glory. . . . The desire of self-expression is an essential attribute of the Absolute Beauty whereof these phenomenal forms are so many partial manifestations. The phenomenal universe then results from this desire of self-manifestation on the part of Absolute Beauty" (Sufi doctrine).—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 16.
+
+See ABSOLUTE, ATMAN, BRAHMA, CONDITIONED, DEITY, FATHER, FOOD, GODHEAD, IMAGE, JESUS (son of God), MACROCOSM, MIND (good), MONAD, OGDOAD, PRAGAPATI, SEED, SELF, SON OF GOD, TRINITY.
+
+**Corrections made:** `existe` → exists; `iteelf` → itself; `ita` → its (twice); `Itis` → It is; `reVelation` → revelation; `Spirnrr` → Spirit; `ape ing` → speaking; `etre` → être; `oodness` → goodness; `d is the limitless` → God is the limitless; `esential` → essential; `g°` → go; `east of all` → least of all; authors restored (`FIcHTE`, `Cuannina`, `GaRrpDNER`, `UEBERweEc`, `ERrnrst REnan`, `Cretsus` → Celsus, `GrioRDANO Bruno`, `EcKHART`, `CaMPBELL`, `Gips` → Gibb); page headings `GOD` (mid-sentence), `316 GOD` and `GODDESS` removed; stray `_` removed; See-list spellings restored (`CoNDITIONED`, `Derry`, `Foon`, `Imaaez`, `MINnp`, `Mownap`, `Ocpoap`, `PraGApatTi`, `SE tr`); quotation marks normalised.
+
+**Unclear or supplied:** `Spirit` for OCR `Spirnrr`, `speaking` for `ape ing` and `Celsus` for `Cretsus` are inferred from damaged text. Author and title names in the attributions were restored from damaged OCR.
 
 ## Full OCR entry body (exact)
 

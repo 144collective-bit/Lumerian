@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crucifix
 headword: "CRUCIFIX"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `CROSS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROSS|CROSS]] |
 | `CRUCIFIXION OF CHRIST` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN|CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN]] |
 | `ACCORDING TO THE Ma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the death of the Archetypal Man on the cross of Matter at the end of the period of involution. Through the death of Christ all human souls have life in the period of evolution. See ARC. MAN, CROSS, CRUCIFIXION OF CHRIST, [ACCORDING TO THE Ma?]
+
+**Corrections made:** stray leading `;` removed; `ACCORDING TO THE Ma` kept in brackets.
+
+**Unclear or supplied:** The OCR ends with `ACCORDING TO THE Ma`, a cut-off fragment (probably the start of the next headword, "Crucifixion of Christ, according to the Revelation of John"); kept in brackets.
 
 ## Full OCR entry body (exact)
 

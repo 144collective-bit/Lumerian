@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-egypt-lower-or-northern
 headword: "EGYPT, LOWER OR NORTHERN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `NORTH LAND. SEED (good)` | **unresolved** (review queue) |
 | `S1-osmm1` | **unresolved** (review queue) |
 | `SoN o` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental plane, or of the kama-manas level of consciousness.
+
+> "Many are the marvels which Si-Osiri shall do in the land of Egypt."—Griffith, *Tales*, etc.
+
+Illimitable shall be the possibilities which the indwelling Self (the Son of God) shall disclose in the regions of the lower planes.
+
+See BUTO, JOSEPH, NORTH LAND. SEED (good), SI-OSIRI, SON [OF GOD?]
+
+**Corrections made:** `S8i-Osiri` → Si-Osiri; `Gnrirrira` → Griffith; page heading `EGYPTIANS` removed from mid-sentence; See-list spellings restored (`Butro`, `JosErsH`, `S1-osmm1`).
+
+**Unclear or supplied:** The See list is cut off at the end (OCR `SoN o`); `[OF GOD?]` is a guess. The full stop before `SEED (good)` is as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

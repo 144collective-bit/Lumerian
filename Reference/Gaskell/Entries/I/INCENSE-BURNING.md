@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-incense-burning
 headword: "INCENSE-BURNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,30 @@ tags:
 | `Savour` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
 | `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purification of the soul by the functioning of buddhi (fire), which transmutes the lower emotions into the higher. The perfume signifies the Love and Wisdom called forth on the higher planes, through the aspirations from below.
+
+> "The Egyptians burn for incense Resin, thereby rectifying and purifying the air by its virtue, and blowing away the corrupted exhalation naturally given forth by the body, because this perfume possesses a strong and penetrating [words unclear]."—[Plutarch?], *Isis and Osiris*.
+
+> "The burning of this sweet-smelling substance (incense) assisted in opening the mouth of the deceased and in strengthening his heart. . . . 'Incense hath been offered unto thee of the incense of Horus, and incense hath been offered unto Horus of thy incense.' (From papyrus.)"—Budge, *Egyptian Magic*, pp. 194, 202.
+
+The Love and Wisdom (the incense) of the Higher Self (Horus) hath been bestowed in response to the soul's aspirations.
+
+> "Incense signifies worship from spiritual good which is the good of love towards our neighbour. What is signified by incense is also signified by the vials in which the incense is contained."—Swedenborg, *Apoc. Rev.*, n. 277.
+
+> "When the maidens were gathered together for the great king Ahasuerus, before they were brought to him into his royal presence, they were to be had to the house of the women, there to be purified with things for purification, and that for twelve months together—to wit six months with oil of myrrh, and six months with sweet odours, and other things, and so came every maiden to the king" (Es. ii. 9, 12, 13).—J. Bunyan, *Greatness of the Soul*.
+
+The oiling and spicing of the maidens signifies the raising and transmuting of the emotions to prepare them for union with the Higher Self (great king).
+
+> "In the tabernacle of Israel, day by day, there ascended from the altar of incense the sweet odour, which symbolised the fragrance of prayer as it wreathes itself upwards to the heavens."—A. Maclaren, *Sermons*, 2nd Series, p. 33.
+
+See CENSERS, EMBALMMENT, FIRE, FRANKINCENSE, HEART, KA, MAGI, MUMMY, MYRRH, OM, PROCESSION, SAVOUR, SPICES, VIRGIN.
+
+**Corrections made:** `Bup@E` → Budge; `at is signified` → What is signified; `nonthe` → months; `SwWEDENBORG` → Swedenborg; `MACLAREN`; `Frere` → FIRE; `Macr` → MAGI; `Myrra` → MYRRH; page heading `INDIVIDUALITY` (out of alphabetical order) removed from the See list; See-list spellings restored.
+
+**Unclear or supplied:** The end of the Plutarch quotation and its attribution are damaged (OCR `as ama Isis and Osiris`): `[words unclear]` and `[Plutarch?]` supplied; the title is read as *Isis and Osiris*. The See-list item `INDIVIDUALITY` between `Ka` and `Macr` was treated as a page heading because it is out of alphabetical order; the reading could be a genuine See item.
 
 ## Full OCR entry body (exact)
 

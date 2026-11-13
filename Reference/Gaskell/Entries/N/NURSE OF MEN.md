@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nurse-of-men
 headword: "NURSE OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Niaut` | **unresolved** (review queue) |
 | `PHTHIA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHTHIA, THE NURSE OF MEN|PHTHIA, THE NURSE OF MEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of that which promotes the growth of mind, namely, experience which is the outcome of the manasic evolution. See NIGHT, PHTHIA.
+
+**Corrections made:** `Niaut` → NIGHT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

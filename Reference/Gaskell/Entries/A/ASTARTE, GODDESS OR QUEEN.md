@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-astarte-goddess-or-queen
 headword: "ASTARTE, GODDESS OR QUEEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `Free or HELL` | **unresolved** (review queue) |
 | `IstTar` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/ISTAR, OR ISHTAR, GODDESS|ISTAR, OR ISHTAR, GODDESS]] |
 | `MELCARTHUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MELCARTHUS, KING|MELCARTHUS, KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of wisdom on the buddhic plane.
+
+> "The king Melcarthus. The queen Astarte, or Saosis, or Nemanoun, the same as the Greek Athenais."—Plutarch, *Isis and Osiris*, § 15.
+
+The "king" is a symbol of the ego as governor of the astral activities. The names of the queen signify aspects of wisdom, i.e. Wisdom-love, Wisdom-power, and Wisdom-activity.
+
+> "The goddess Astarte, or Asthertet, is in a chariot drawn by four horses which trample on the foes of Râ."—Budge, *Book of the Dead*, Vol. I. p. 478.
+
+Wisdom is seated in the causal-body (chariot), directing the lower quaternary (horses), which through the mind overcomes the desires.
+
+See FIRE OF HELL, ISHTAR, MELCARTHUS.
+
+**Corrections made:** `Osirie` → Osiris; `Wisdompower` → Wisdom-power; `causalbody` → causal-body; `Rd` → Râ; `Bupaz` → Budge; See-list spellings restored (`Free or HELL`, `IstTar`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

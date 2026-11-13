@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apsaras
 headword: "APSARAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `which opens the way to manifestation in the lower worlds. See Aru-ni` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `ANPU` | **unresolved** (review queue) |
 | `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of high Devas,—intelligences who are co-operating with evolution upon the highest planes of the manifest universe.
+
+See ANGELS, ARCHANGELS, [CHIANS?], DEVAS, GUARDIANS.
+
+### Also in this note: APUAT, "OPENER OF THE WAYS"
+
+A symbol of the external body or vehicle of the soul, which opens the way to manifestation in the lower worlds.
+
+See [Aru-ni?], ANPU, ANUBIS.
+
+**Corrections made:** `DEVAas` → DEVAS; quotation marks normalised; the second headword set out under its own line.
+
+**Unclear or supplied:** Contains a second entry: APUAT, "OPENER OF THE WAYS". `[CHIANS?]` and `[Aru-ni?]` are See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

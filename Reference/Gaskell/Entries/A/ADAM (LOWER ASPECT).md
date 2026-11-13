@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adam-lower-aspect
 headword: "ADAM (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -57,6 +58,46 @@ tags:
 | `SEs` | **unresolved** (review queue) |
 | `Sweat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEAT OF THE FACE|SWEAT OF THE FACE]] |
 | `Tyrvs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind energised from the desire plane, but receptive of impressions from the higher nature. This is the "fallen" mind (Adam).
+
+> "We must consider that the man who was formed of earth, means the mind which is to be infused into the body."—[author and title unclear], Vol. I. p. 60.
+
+> "God, when first of all he made the intellect called it Adam."—Philo, Yonge's Trans., Vol. IV. p. 312.
+
+The "Adam of dust" is described by Zosimus as "the Adam of fate, him of the four elements." That is, the lower mind subject to Karma, and related with the lower quaternary.
+
+> "In reading the first and second chapters of Genesis, a distinction was made by the learned of the Israelites, between the higher Adam, i.e. the Adam Qadmon, or First Paradigmic Ideal Man, and the inferior (the terrestrial) Adam."—I. Myer, *Qabbalah*, p. 114.
+
+The Kabbala describes four Adams, the two highest of which are celestial and spiritual.
+
+> "The Third Adam is the terrestrial Adam, made of 'dust,' and placed in the Garden of Eden. This Adam was also an androgene.... It had, when first created, a glorious simulacrum or light body, and answers to the Yetzeeratic World."—*Ibid.*, p. 418.
+
+This indicates an early form of man in an astral body on the astral plane, directed at first from the buddhic plane (Eden).
+
+> "The Fourth Adam was the Third Adam as he was after the Fall, when he was clothed with skin, flesh, nerves, etc. This answers to the lower Nephesh and Guff, i.e. body, united. He has the animal power of reproduction and continuance of species, and also answers to the Aseeyatic World, but in him is some of the Light of all the preceding (Adams)."—*Ibid.*, p. 418.
+
+This signifies man as he is now encased in astral (nephesh) and physical (guff) bodies united; and living in the physical world of action (aseeyatic), but enlightened from his inner nature of mind and spirit. These four Adamic humanities stand for four root-races, the last of which reached the physical plane; this is known as the Atlantean race, the race which preceded the Aryan.
+
+> "Together they form the Great Universal Man. ... The Qabbalah names man as the purpose of creation, and the first step is the Upper Adam or Celestial Man" (*Zohar*, III. 48a).—*Ibid.*, p. 418.
+
+(This account of the four Adams may be compared with the Chinese "dynasties.")
+
+> "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."—Gen. ii. 7.
+
+And the Will-Wisdom established the lower mind, which is the direct offshoot of the higher element (dust) of the lower nature; and into this mentality the spiritual essence, or spark, was projected, to connect the lower nature with the higher: and thence the man,—manasic being,—became a creature capable of independent existence.
+
+> "And the Lord God took the man, and put him into the garden of Eden," etc.—Gen. ii. 15.
+
+And the Wisdom-Love introduces the mind into the heavenly plane,—or starts the evolution through buddhic action.
+
+See ASEEYATIC, COUNTERFEIT, DEAD, DUST, DYNASTY, EARTH (ground), EDEN, EPIMETHEUS, EVE, FALL, GOLDEN AGE, HEEL, HOUSE (frequented), IMMORTALITY FORFEITED, MAN, [MARRO?], NEPHESH, PERSONALITY, [PYTUS?], RACES, [RAAUA?], [RUAN?], [SES?], SWEAT, [TYRVS?].
+
+**Corrections made:** `tntellect` → intellect; `PuHI1Lo` → Philo; `Jbid.` and `Ithd.` → Ibid.; `ete.` → etc.; `Gen,` → Gen.; `GEN.` → Gen.; `_ spirit` → spirit; page heading `ADAM` removed from mid-sentence; See-list spellings restored (`Dust`, `Dynasty`, `EarTa`, `Epen`, `Eprmmrerueus`, `Fatt`, `GoLDEN aGE`, `HovseE`, `Races`, `Sweat`, and others); quotation marks normalised.
+
+**Unclear or supplied:** The author and title of the first quotation are lost in OCR (it reads `—Vol. I. p. 60`). In the See list `[MARRO?]`, `[PYTUS?]`, `[RAAUA?]`, `[RUAN?]`, `[SES?]` and `[TYRVS?]` could not be identified. The "Adam of fate" quotation marks and the split of quotations follow the OCR.
 
 ## Full OCR entry body (exact)
 

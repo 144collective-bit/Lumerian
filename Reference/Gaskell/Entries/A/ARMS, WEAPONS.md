@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arms-weapons
 headword: "ARMS, WEAPONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BLacksmMiTHS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BLACKSMITHS, OR WORKERS IN METAL|BLACKSMITHS, OR WORKERS IN METAL]] |
 | `WEAPONS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEAPONS OF OFFENCE AND DEFENCE|WEAPONS OF OFFENCE AND DEFENCE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of outgoing energies of the soul on the mental plane,—the plane of conflict.
+
+See BLACKSMITHS, WEAPONS.
+
+**Corrections made:** `BLacksmMiTHS` → BLACKSMITHS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

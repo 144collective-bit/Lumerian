@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-elephant-sacred-white
 headword: "ELEPHANT, SACRED WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `Tusuira` | **unresolved** (review queue) |
 | `TUusK` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
 | `Woms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Self as the potential personality of the Soul,—perfect in all qualities, mental, astral and physical, in the cycle of involution.
+
+> "Assuming the form of a huge elephant, white like Himalaya, armed with six tusks, with his face perfumed with flowing ichor, the most excellent of Bodhisattvas (Buddha) entered the womb of the queen of king Suddhodana, to destroy the evils of the world."—*The Buddha-Karita*, Bk. I. 20.
+
+The Self manifesting as the germ of the personality in the nascent Soul whose nature is pre-arranged harmony in the cycle of involution, was received into the ideal lower nature, or the "womb of Maya." The Soul is born out of the matrix of matter,—mental, astral, and physical,—with the object of overcoming the things of the world, that is, of dispelling the falsities which are mind-created, and which are to be destroyed through the attainment of knowledge of the Real. The "huge elephant" is a symbol of the archetypal personality:—the four legs signify the quaternary, and the trunk, the sutratma. The "whiteness" indicates the state of perfect purity in which the Soul is conceived. The "six tusks" signify the modes of the Self in three dual aspects functioning upon the three lower planes. The "face perfumed with flowing ichor" symbolises the attractiveness of Love, which is the Divine aim and purpose underlying the birth and growth of the Son of the Eternal. The "king Suddhodana" is the supreme Spirit behind manifestation.
+
+See BIRTH OF BUDDHA, BODHISATVA, INVOLUTION, MAYA, PERSONALITY, QUATERNARY, SOUL, SUDDHODANA, SUTRATMA, [TOOTH?], [TUSHITA?], TUSK, WOMB.
+
+**Corrections made:** page heading `GANESA, QUAD247 ELEPHANTS` removed from mid-text; `‘face perfumed` → "face perfumed"; See-list spellings restored (`Sout`, `Surratma`, `TUusK`, `Woms`); quotation marks normalised.
+
+**Unclear or supplied:** `[TOOTH?]` and `[TUSHITA?]` are doubtful See-list items (OCR `Toots`, `Tusuira`).
 
 ## Full OCR entry body (exact)
 

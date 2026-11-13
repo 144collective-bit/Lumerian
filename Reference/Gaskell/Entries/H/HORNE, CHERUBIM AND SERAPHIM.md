@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horne-cherubim-and-seraphim
 headword: "HORNE, CHERUBIM AND SERAPHIM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,28 @@ tags:
 | `Scrtur` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURTUR|SURTUR]] |
 | `Sworp` | **unresolved** (review queue) |
 | `TREE or LIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of transcendental keepers of the buddhic plane: that is, Divine laws applicable to the higher nature but not to the lower, and which, therefore, cut off the lower consciousness from the higher.
+
+> "So he drove out the man; and he placed at the east of the garden of Eden the Cherubim, and the flame of a sword which turned every way, to keep the way of the tree of life."—Gen. iii. 24.
+
+Because of the downward attraction to desire, the mind is now driven forth from its condition of primeval innocence. At "the east," that is, where the Higher Self (sun) will appear, a sentinel or watcher (Cherubim) stands to bar the direct way to heaven which is now only to be attained by struggle; "men of violence take it by force." (Mat. xi. 12.) The lower mind is cut off from the higher mind. The flame of a "sword" is a symbol of the spiritual strength which is necessary to possess in order to gain the secret of Life eternal.
+
+> "By 'cherubim' is signified the providence of the Lord to prevent man in such a state (deprived altogether of all will towards good and understanding of truth) entering into the things of faith."—Swedenborg, *Arc. Cel.* to Gen. iii. 24.
+
+> "Hail, ye divine beings who guard the doors, make ye for me a way, for, behold, I am like unto you. I have come forth by day, I have journeyed on my legs. I have gained the mastery over my footsteps before the God of Light."—Budge, *Book of the Dead*, p. 276.
+
+This symbolises not the going forth, but the return of the soul to the buddhic plane (Eden). The soul is now at one with the "cherubim" and entitled to proceed. It has forthpoured in evolution and attained perfection through its own efforts. It has gained the mastery over the lower nature by obedience to the higher guidance of the indwelling God of Truth and Right.
+
+> "The [door?] from the Natural World to the Spiritual World is hermetically sealed on the natural side. The door from the inorganic to the organic from the natural to the spiritual is shut, and no man can open it. . . . The Spiritual World is guarded from the world next in order beneath it by a law of Biogenesis—except a man be born again; except a man be born of water and of the Spirit, he cannot enter the Kingdom of God."—H. Drummond, *Natural Law*, &c., p. 71.
+
+See ARK (test.), BORN AGAIN, DOORKEEPERS, EAST, EDEN, FALL, FLAME, HEAVEN, SERAPHIM, SHEKINAH, [Srarorgz?], [Scrtur?], SWORD, TREE OF LIFE.
+
+**Corrections made:** `thereforc` → therefore; `GEn.` → Gen.; `the cast` → the east; `Iam` → I am; `canopenit.. .` → can open it. . . .; `Bupar` → Budge; `Drummonp` → Drummond; page heading `CHEST` removed from mid-sentence; See-list spellings restored (`DoorKEEPERS`, `SxRapHig`, `TREE or LIFE`).
+
+**Unclear or supplied:** `[door?]`: OCR reads "The from the Natural World". See-list items `[Srarorgz?]` and `[Scrtur?]` not identified.
 
 ## Full OCR entry body (exact)
 

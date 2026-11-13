@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nazarene-or-nazaraan
 headword: "NAZARENE OR NAZARAAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `PATH OF BIRDS` | **unresolved** (review queue) |
 | `WAY OF THE LORD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF THE LORD|WAY OF THE LORD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A title given to those souls who follow a course of life similar to that which the Christ-soul or Jesus is described as following. A Nazarene is one of an order which makes soul-culture the chief object of life. The Nazarene is consciously a pathfinder to the spiritual life of the soul. See PATH OF BIRDS, WAY OF THE LORD.
+
+**Corrections made:** `soulculture` → soul-culture.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

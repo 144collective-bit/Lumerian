@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anthropos-and-ecclesia
 headword: "ANTHROPOS AND ECCLESIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Discrr.es (twelve)` | **unresolved** (review queue) |
 | `Saviours (twelve)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
 | `TRIBES (twelve)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Divine Mind and the Soul or Buddhic function, in relation to human development.
+
+> "The Valentinians maintain that the twelve apostles were a type of that group of twelve Æons which Anthropos in conjunction with Ecclesia produced."—Irenæus, *Against Heresies*, Bk. II., Ch. 21.
+
+The relationship of the twelve disciplined qualities with the twelve stages of the cycle of life, is to be seen when we recognise the close correspondence that obtains between the greater cosmic cycle and the lesser individual cycle—between the macrocosmic and the microcosmic processes. Each is typical of the other, or rather, the lesser indicates the greater; so that it will be seen that the individual epitomises, as it were, the entire manifested life-experience of the Logos. In each soul there are the twelve "apostles" more or less developed, and these disciplined qualities are to become more and more purified, and are to teach the lower qualities and lead them upward to the Light.
+
+See ÆONS (twelve), APOSTLES (twelve), FATE-SPHERE, CHURCH, DISCIPLES (twelve), SAVIOURS (twelve), TRIBES (twelve).
+
+**Corrections made:** `AXons` → Æons; `IrneENzus` → Irenæus; `80 that` → so that; page heading `ANTICHRIST` removed from mid-sentence; See-list spellings restored (`fons`, `Discrr.es`, `Saviours`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

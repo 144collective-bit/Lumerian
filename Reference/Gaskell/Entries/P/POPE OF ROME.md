@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pope-of-rome
 headword: "POPE OF ROME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,14 @@ tags:
 | `Pontirr` | **unresolved** (review queue) |
 | `Priest` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `TiaRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIARA, THE PAPAL CROWN|TIARA, THE PAPAL CROWN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind which dominates the religious consciousness, and directs the activities in relation to the higher emotions of Truth, Wisdom, and Love (the Christian "Church"). See AARON, ADVARYA, AGNIDHRA, ATHORNE, CHRYSE, CHURCH, HIGH PRIEST, PONTIFF, PRIEST, TIARA.
+
+**Corrections made:** `AaRON` → AARON; `Pontirr, Priest, TiaRA` → PONTIFF, PRIEST, TIARA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

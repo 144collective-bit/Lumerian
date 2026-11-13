@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ladder-from-earth-to-heaven
 headword: "LADDER FROM EARTH TO HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,46 @@ tags:
 | `STAIRCASE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAIRCASE, STAIRS|STAIRCASE, STAIRS]] |
 | `STAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
 | `STEPS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the upward path of the soul, in stages or steps of progress. It represents the evolution of the higher qualities, and the gradual manifestation of the God within the soul.
+
+> "Homage to thee O ladder of the God, homage to thee, O ladder of Set. Set thyself up, O ladder of Horus, whereby Osiris appeared in heaven when he wrought protection for Râ" (Papyrus.)—Budge, *Book of the Dead*, p. lxxiii.
+
+The last sentence refers to the ridding the soul of its enemies, the desires.
+
+> "There existed a belief that Osiris himself experienced some difficulty of getting up to the iron plate, and that it was only by means of the ladder which his father Ra provided that he at length ascended into heaven. On one side of the ladder stood Râ, and on the other stood Horus, the son of Isis, and each god assisted Osiris to mount it. [Originally?] the two guardians of the ladder were Horus the Elder and Set."—Budge, *Egyptian Magic*, p. 52.
+
+The "iron plate" signifies the "firmament," that is, the higher mental plane, the "floor of heaven" between the higher and lower natures. Osiris being the Archetypal Man—the Spirit involved in matter,—has to evolve from matter in the souls of humanity. Ra, the Supreme, stands here for organism and environment, or natural law which promotes evolution. Horus is said to hold out his "Two Fingers" wherewith to help Osiris; these signify the love of goodness and truth which assists the God within to rise. Horus the actual, who attracts upward by love, assists Osiris the potential to manifest in the soul. Ra, stern nature, stands on one side below, and, as it were, pushes up the feeble Osiris by the varied experiences of life. On the other side above stands Horus (Christ), the radiant child of Love (Osiris) and Wisdom (Isis), born in the soul; he puts forth his "two fingers" of blessing, and so enables the soul to mount.
+
+> "The Christ above stoops and lays hold of the Christ within; nothing can keep the two apart, for they are really one."—*Serm.*, Oct. 14, 1908.
+
+> "Evil will not last for ever; it is the cross whereby we mount the throne of divine glory."—R. J. Campbell, *Serm.*, Jan. 9, 1908.
+
+The "ladder" is sometimes called "the ladder of Set." "Set" stands for Desire, or the principle of evil, and it is by surmounting evil that we attain to goodness.
+
+> "The mystic makes it his life's aim to be transformed into the likeness of Him in whose image he was created. He loves to figure his path as a ladder reaching from earth to heaven, which must be climbed step by step. This *scala perfectionis* is generally divided into three [word unclear]. The first is called the purgative life, the second the illuminative, while the third, which is really the goal rather than a part of the journey, is called the unitive life."—W. R. Inge, *Christian Mysticism*, p. 9.
+
+From ignorance and suffering, to knowledge and wisdom, culminating in union with the Divine.
+
+> "The story of Buddha's descent from heaven by [word unclear] golden steps is commonly believed both in Ceylon and Burma to the present day. . . . I was greatly pleased by discovering in the Indian Section of the South Kensington Museum a small bronze model of the triple ladder. . . . It will be observed that an image of the Buddha is represented above the ladder, as if [seated?] in Indra's heaven, and as if engaged in the act of teaching there; while the earth is typically represented below in the shape of a square platform, with four small Buddhist temples, one at each of the four quarters of the compass."—Mon. Williams, *Buddhism*, pp. 416-8.
+
+The four lower planes (earth) are symbolised by the "square platform" with "temples at the four quarters"; corresponding with the Egyptian symbol of the square iron plate supported by four columns at the four cardinal points. The Higher Self (Buddha) is seated on the planes above, from which he descends, as it were, to be the true teacher and ruler of the lower nature (earth). The "triple ladder" signifies the higher planes,—atma-buddhi-manas.
+
+> "Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of Man." (John i. 51.) Christ is the ladder between our earthliness and the heavenly Father's love, and that ladder is set up in every believing soul. . . . The messengers of God here spoken of are not only the spiritual illumination, help and comfort that stream down to us in Christ from our Father's compassionate heart, they are the holy aspirations that ascend from our souls by the same means to call the blessing down."—R. J. Campbell, *Serm.*, The Christ Ladder.
+
+> "He then leans a ladder against the (sacrificial) post. He may ascend either from the south northwards, or from the north southwards; but let him rather ascend from the south northwards (udak), for thus it goes upwards (udak). . . . He then rises by the measure of his head over the post (with wheat top piece), with, 'We (i.e. sacrificer and wife) are become immortal!' whereby he wins the world of the gods. . . . Having appropriated to himself the glory, the power, and the strength of the All, he now lays them within himself, makes them his own."—*Sata. Brâh.*, V. 2, 1, 9-15.
+
+The "leaning of the ladder against the post" signifies the soul's commencement of the upward path by aspiration and reliance upon the Divine Light and Life from above (post). The soul may ascend either from the emotions by means of the rule of the mind, or from the mind by means of the stirring of the emotions; but really, progress is through the transmutation of the emotions, the mind being in itself static and unchangeable. The "wheat top piece" signifies the "bread of heaven," goodness and truth, the attainment of which renders the duality of mind and emotion immortal on the buddhic plane—the world of the ideals (gods). The soul, having triumphed over the lower nature and become possessed of the heavenly results of its experience in the worlds below, now identifies itself with the higher qualities.
+
+> "The man who 'rises,' who 'makes his pile,' who 'succeeds,' goes up the ladder of wealth, the rungs of which are vanity and applause, mistaking it for the ladder of life, the rungs of which are service, sacrifice and resolution."—A. Ponsonby, *Camel and Needle's Eye*, p. 18.
+
+See ARC. MAN, BLESSING, BUDDHA, CEILING, CHILDREN OF HORUS, EXPERIENCES, FINGERS (two), FIRMAMENT, HORUS, IRON-PLATE, ISIS, MOUTH (speech), OSIRIS, PRAYER, QUARTERS, QUATERNARY, RA, SET, STAIRCASE, STAKE, STEPS.
+
+**Corrections made:** `R&'`/`R&é` → Râ; `Bones`/`Bunce` → Budge; `ook of the Dead` → *Book of the Dead*; `scala perfec. ttonis` → *scala perfectionis*; `Inax` → Inge; `Wiiuiams` → Williams; `iece` → piece; `ave become` → are become; `Bréh.` → Brâh.; `Ponsonby`/`CamPpsety` normalised; page headings `439 LADDER`, `LADY`, `440 LAKE` removed from mid-text; See-list spellings restored (`EXPERI!ENCES`, `Iron-piare`, `MouTa`, `Osmnis`) and similar minor fixes.
+
+**Unclear or supplied:** `[Originally?]` replaces the damaged OCR `mh oo nally`. `[word unclear]` after "divided into three" (OCR `8`) and before "golden steps" (OCR `sag wen`). `[seated?]` for OCR `sea`. Reference `p. lxxiii` is read from OCR `p. | xxiii` and may be damaged. The attribution `*Serm.*, Oct. 14, 1908` has no author's name in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-destroying-evils
 headword: "DESTROYING EVILS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MAyA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `SEPaRaTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `WomB (Maya)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]]; [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of transcending the sense of separateness, and the illusions and attractions presented to the ego by the lower mind during the life cycle.
+
+> "Buddha was born to destroy the evils of the world."—*Buddha-Karita*, Bk. I. 20.
+
+The Soul is born in the womb of matter (mental, astral, and physical), with the object of overcoming the things of the world,—that is, conquering the falsities which are mind-created, and which are to be destroyed through the knowledge of the Real.
+
+See BIRTH OF BUDDHA, BUDDHA, LIBERATION, MAYA (higher), SEPARATION, WOMB (Maya).
+
+**Corrections made:** `mindcreated` → mind-created; See-list spellings restored (`BrrTH`, `MAyA`, `SEPaRaTION`, `WomB`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

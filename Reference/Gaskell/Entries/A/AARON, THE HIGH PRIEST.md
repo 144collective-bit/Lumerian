@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aaron-the-high-priest
 headword: "AARON, THE HIGH PRIEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: sample-draft
 tags:
   - source/gaskell
@@ -64,6 +65,16 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 ## Sample-internal links (only where Gaskell’s text warrants)
 
 - Gaskell’s own wording links Aaron to Abel on a higher mental sub-plane → [[Reference/Gaskell/Entries/A/ABEL, A KEEPER OF SHEEP|ABEL, A KEEPER OF SHEEP]].
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind, that is, the inner mind which is moved by the higher emotions. "Aaron" represents "Abel" on a higher mental sub-plane. The spiritual mind operates subjectively on the higher-mind plane, and ministers to the development of the causal-body.
+
+See ADVARYA, AGNIDHRA, ATHOBNE, CALF (molten), CHRYSE, HIGH PRIEST, PONTIFF, POPE, PRIEST, SCAPEGOAT, TEMPLE, URIM.
+
+**Corrections made:** Quotation marks normalised; `_ spiritual` → spiritual; See-list spellings restored (`CaLF`, `PontirF`, `Porr`, `Priest`, `URiIM`).
+
+**Unclear or supplied:** `ADVARYA`, `ATHOBNE`, `CHRYSE` and `POPE` (OCR `Porr`) are left as printed or as the likeliest reading; they may be damaged.
 
 ## Full OCR entry body (exact)
 

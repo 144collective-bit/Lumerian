@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-children-of-god
 headword: "CHILDREN OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `LITTLE CHILDREN` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LITTLE CHILDREN, OR LITTLE ONES|LITTLE CHILDREN, OR LITTLE ONES]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARKS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual egos, sparks of the Divine Fire, or monads of Life.
+
+> "The Spirit himself beareth witness with our spirit, that we are children of God."—Rom. viii. 16.
+
+> "We are children of the Most High because we are expressions of his own nature, limited portions of his own being, so to speak, seemingly separated from him, but not really so, and placed within the ring-fence of material existence that we may work out and make glorious the eternal fact that we essentially are."—R. J. Campbell, *Manifesting the Works of God*.
+
+> "The divinity is stirring within the human breast, and demanding a culture and a liberty worthy of the child of God."—W. E. Channing, *Likeness to God*.
+
+See AGNISHVATTAS, LITTLE CHILDREN, SONS OF GOD, SPARKS.
+
+**Corrections made:** `80 to speak` → so to speak; `Cuannina` → Channing; page heading `CHILDREN` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

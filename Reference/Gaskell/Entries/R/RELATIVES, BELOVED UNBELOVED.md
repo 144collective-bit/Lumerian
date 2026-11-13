@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-relatives-beloved-unbeloved
 headword: "RELATIVES, BELOVED UNBELOVED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,22 @@ tags:
 |---|---|
 | `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the complete and the incomplete conditions of manifest existence.
+
+> "His beloved relatives obtain the good, his unbeloved relatives the evil he has done."—*Kaush. Upanishad*, I. 2.
+
+The "beloved and unbeloved relatives" signify other schemes of manifestation which in him, the liberated, are to go forth. The "beloved" are the good or perfected; the "unbeloved" are the evil or relatively imperfect. These will form the higher and lower plane activities for future processes of evolution.
+
+> (The ascetic) "Making over the merit of his own good actions to his friends, and the guilt of his evil deeds to his enemies, he attains the eternal Brahman by the practice of meditation."—*Laws of Manu*, VI. 79.
+
+See FRIENDS, RENOVATION.
+
+**Corrections made:** `unbcloved` → unbeloved; `**‘` → "; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

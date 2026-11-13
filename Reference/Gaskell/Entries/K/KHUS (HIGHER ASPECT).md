@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-khus-higher-aspect
 headword: "KHUS (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,26 @@ tags:
 | `Sanu` | **unresolved** (review queue) |
 | `Sarmnts` | **unresolved** (review queue) |
 | `Toms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the monads of Life, or the Individualities.
+
+> "Khu,—a shining or translucent [part?] of the spiritual economy of a man which dwelt with his soul in the edhu or spiritual body."—Budge, *Book of the Dead*, Vol. I. lxii.
+
+> "May I become a Khu therein (thy [fields?] of Sekhet-Aaru)."—*Ibid.*, Ch. CX.
+
+[word unclear] the form, I, the Self, realise Myself.
+
+> "And behold, the Khus, each of whom therein (Sekhet-Aaru) is nine cubits in height, reap the wheat and the barley side by side with Hera-khuti (young Horus)."—Budge, *Book of the Dead*, Ch. CXLIX. p. 486.
+
+The monads of Life, when perfected through experience in the "field" or arena of the lower life, inherit the treasures of Wisdom and Love, together with the indwelling Christ. The "nine cubits in height" signifies perfection attained on the lower planes. The perfected "Khus" are the individual souls (the saints), who rise with Christ to the higher planes of consciousness at the end of the cycle.
+
+See AKESI, ANGELS, ARENA, BODHISATVAS, KA, MONAD OF LIFE, QAHU, READING, SAHU, SAINTS, TOMB.
+
+**Corrections made:** `Bunpaes` → Budge; `Jbid.` → Ibid.; `Sekket` → Sekhet; `Bup@r` → Budge; `cubita` → cubits; `BopHISATVAS`, `Reapine` → READING, `Sanu` → SAHU, `Sarmnts` → SAINTS, `Toms` → TOMB restored in See list; and similar minor fixes.
+
+**Unclear or supplied:** `[part?]` supplied (OCR "translucent of the spiritual economy"). `[fields?]` for OCR `Belds`. `[word unclear]` for the garbled OCR `Flay thisbe: eatvannisen ot! ie id` before "the form, I, the Self, realise Myself". `READING` is the likely reading of OCR `Reapine`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-angles-or-corners-of-the-world
 headword: "FOUR ANGLES OR CORNERS OF THE WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `IRON PLATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/IRON PLATE AS THE FLOOR OF HEAVEN|IRON PLATE AS THE FLOOR OF HEAVEN]] |
 | `Swastika` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SWASTIKA, OR FYLFOT SIGN|SWASTIKA, OR FYLFOT SIGN]] |
 | `WINDs (four)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, FOUR|WINDS, FOUR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quaternary. The four planes—buddhic, mental, astral, and physical.—See Rev. vii. 1.
+
+See FIRMAMENT, IRON PLATE, SWASTIKA, WINDS (four).
+
+**Corrections made:** `Sce` → See; See-list spellings restored (`Swastika`, `WINDs`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

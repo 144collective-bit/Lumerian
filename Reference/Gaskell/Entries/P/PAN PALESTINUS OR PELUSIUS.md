@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pan-palestinus-or-pelusius
 headword: "PAN PALESTINUS OR PELUSIUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,22 @@ tags:
 |---|---|
 | `CAUSAL-BODY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA|CAUSAL-BODY, HOUSE IN HEAVEN, SACRIFICE, STONE, STONE, BLACK, OF THE KAABA]]; [[Reference/Gaskell/Entries/C/CAUSAL-BODY, SARIRA|CAUSAL-BODY, SARIRA]] |
 | `MANEROS. PALM TREES;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher intellect enlightened by the intuition and put in relation to the personality.
+
+> "This relation (story) is again contradicted by such as tell us that the true name of the child was Palestinus, or Pelusius, and that the city of this name was built by the Goddess (Isis) in memory of him."—Plutarch, *Isis and Osiris*, § 17.
+
+This previous statement would appear to be at variance with that which shows us that the true character of the mind (child) is not the lower intellect, but the intuition, whose abode, the causal-body, was fashioned by Wisdom, and is indeed permanent.
+
+See CAUSAL-BODY, MANEROS.
+
+### Also in this note: PALM TREES;
+
+**Corrections made:** `Pxiurakcy` → Plutarch; `Isia` → Isis.
+
+**Unclear or supplied:** Contains a second entry: PALM TREES; only the headword appears, with no definition in the OCR.
 
 ## Full OCR entry body (exact)
 

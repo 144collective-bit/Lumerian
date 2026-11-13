@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-renovation-of-the-earth
 headword: "RENOVATION OF THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,42 @@ tags:
 | `SPRINGTIME` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPRINGTIME BLOSSOMING|SPRINGTIME BLOSSOMING]] |
 | `SURTUR` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SURTUR|SURTUR]] |
 | `VOHUMAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOHUMAN, OR VOHUMANO, THE GOOD MIND|VOHUMAN, OR VOHUMANO, THE GOOD MIND]]; [[Reference/Gaskell/Entries/V/VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR|VOHUMAN, WILL, WITNESSES, RELIGIONS, POPULAR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the passing on of the Life-wave to another globe of the terrene chain, which will be not physical but astral, mental, and buddhic.
+
+> "From the extinct fire of purification there will come a more beautiful earth, pure and perfect, and destined to be eternal."—*Zoroastrian System*.
+
+Following the extinction of the purified lower planes, from which emerges the soul, the new "heaven" arises, and also a new "earth," which is a complete and perfect replica of the lower planes. In this buddhic state, the soul expresses itself in subtler vehicles, which are all that the lower vehicles have been, plus the increase of responsiveness which the finer materials engender.
+
+> "The coming of the day of God, by reason of which the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat. But according to his promise, we look for new heavens and a new earth, wherein dwelleth righteousness."—2 Peter iii. 12, 13.
+
+There is a reference here to the passing of the Life-wave to the next globe of the terrene chain, when both higher and lower states will be replaced by subtler conditions.
+
+> "And I saw a new heaven and a new earth: for the first heaven and the first earth are passed away, and the sea is no more."—Rev. xxi. 1.
+
+As existence for the soul is raised to the heaven (buddhic) plane, so that "heaven" disappears and there is a new heaven to aspire to. The first lower nature (earth) passes away, and the astral plane (sea) is no more.
+
+> "The world being melted and re-entered into the bosom of Jupiter, this God continues for some time totally concentered in himself; ... afterwards we see a new world spring from him, perfect in all its parts; animals are produced anew; an innocent race of men is formed under more favourable auspices, in order to people this earth."—Seneca, *Epist.* 9, and *Quest. Nat.* L. 3, c. ult.
+
+> "But though heaven and earth are consumed with fire, and all the gods [perish], with the whole human race; yet is every human soul to live eternally in another world. The good find themselves in Gimlé, and all gods and things are again reproduced."—*Voluspa*, *Poetic Edda*, Howitt, *Literature*, etc.
+
+> "Will any of the gods survive (after Regnarok), and will there be any longer a heaven and an earth? There will arise out of the sea another earth most lovely and verdant, with pleasant fields where the grain shall grow unsown. Vidar and Vali shall survive; neither the flood nor Surtur's fire shall harm them. They shall dwell on the plain of Ida, where Asgard formerly stood. Thither shall come the sons of Thor, Modi and Magni, bringing with them their father's mallet Mjolnir. Balder and Hodur shall also repair thither from the abode of death (Hel)" (*Prose Edda*).—Mallet, *North. Antiq.*, p. 457.
+
+> "Kalki (incarnation of Vishnu), who is yet to appear at the close of the fourth or Kali age, when the world has become wholly depraved, for the final destruction of the wicked, for the re-establishment of righteousness upon the earth, and the renovation of all creation with a return to a new age of purity (satya-yuga). According to some, he will be [revealed?] in the sky, seated on a white horse, with a drawn sword in his hand, blazing like a comet."—Mon. Williams, *Indian Wisdom*, p. 335.
+
+> "In that time (when the Messiah comes) all those who have not tasted the taste of death will die through Him, and He will revivify them at once. [Why] is this? Because nothing whatever of that pollution (the pollution of sin) shall remain in the world, and there will be a new world made by the Holy, Blessed be He!" (Zohar).—Myer, *Qabbalah*, p. 437.
+
+> "Then shall the earth no longer hold together. ... The voice of every God shall cease in the Great Silence that no one can break; the fruits of the Earth shall rot; nay Earth no longer shall bring forth; and Air itself shall faint. This, when it comes, shall be the World's old age, impiety,—irregularity, and lack of rationality in all good things. ... God ending all ill, by either washing it away with water-flood, or burning it away with fire, or by the means of pestilent diseases, spread through all hostile lands,—God will recall the Cosmos to its ancient form; so that the World itself shall seem most to be worshipped and admired; and God, the Maker and Restorer of so vast a work, be sung by the humanity who shall be then. ... For this Re-birth of Cosmos is the making of all good things, and the most holy and most pious bringing-back again of Nature's self, by means of a set course of time" (*The Perfect Sermon*).—G. R. S. Mead, *T. G. Hermes*, Vol. II. p. 357.
+
+> "The world, or what we call the creation, is not so much a completed fact as a conatus, struggling up concomitantly with the powers that are doing battle in it for a character; falling with them in their fall, rising with them, or to rise, to a condition, finally, of complete order and beauty. There is much to be said for such an expectation, and it appears to be just what is held up in the promise of a new heavens and earth, wherein dwelleth righteousness."—H. [Bushnell?], *Nature and the Supernatural*, p. 143.
+
+See AAT (waters), ASGARD, BALDER, BUDDHA (maitreya), CHRIST'S SECOND COMING, COMETS, CONFLAGRATION, HORSE (white), HVANIRATHA, JOB, JUDGMENT DAY, KALKI, KARSHVARES, KINGDOM, PLANETARY CHAIN, PRALAYA, REGIONS, REGNAROK, RESURRECTION, SOSHYANS, SOSIOSH, SPRINGTIME, SURTUR, VOHUMAN.
+
+**Corrections made:** page headings `624 RENOVATION`, `RENOVATION` and `625 RE-STAU` removed from mid-sentence; `purificaticc` → purification; `heautiful` → beautiful; `k eternal` → be eternal; `br reason` → by reason; `hoavens` → heavens; `2? Peter` → 2 Peter; `nex globe` → next globe; `nev earth` → new earth; `4 new heaven` → a new heaven; `rentered` → re-entered; `ita parts` → its parts; `rish` → [perish]; `a@ heaven` → a heaven; `wunsown` → unsown; `Ma ter` → Mallet; `@® new age` → a new age; `Wiiuiams` → Williams; `@ new world` → a new world; `Zohkar` → Zohar; `Myer, Qabbalah` → Myer, *Qabbalah*; `G. R. 8. Mrap` → G. R. S. Mead; `Il.` → II.; `s0` → so; `ocxpectation` → expectation; `Jos` → JOB; See-list spellings restored (`AaT`, `BuppuHa`, `CoMETS`, `Horse`, `Hvanrmarttha`, `KaLki`, `KaArsHVARES`, `REGNAROKE`, `SosHyans`, `SoOsSIOsH`); quotation marks normalised; and similar minor fixes.
+
+**Unclear or supplied:** `[perish]`, `[revealed?]`, `[Why]` are supplied for damaged or lost words (OCR `rish`, `reve`, `is this?`). `Mallet` is read from `Ma ter`. `H. [Bushnell?]` stands for OCR `H. area`; the author is not clear in the OCR. `be eternal` is read from `k eternal`. `HVANIRATHA` is read from the damaged `HvanrmartHa`. `Zohar` for `Zohkar` and `re-entered` for `rentered` are best readings. The attribution `Voluspa, Poetic Edda, Howitt, Literature, etc.` is kept as printed.
 
 ## Full OCR entry body (exact)
 

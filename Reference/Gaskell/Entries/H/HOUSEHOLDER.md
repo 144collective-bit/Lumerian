@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-householder
 headword: "HOUSEHOLDER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `OVERSEER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OVERSEER OF THE HOUSE|OVERSEER OF THE HOUSE]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SNATAKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SNATAKA SLIME FOR MORTAR|SNATAKA SLIME FOR MORTAR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Individuality, or causal Self, who occupies the "house" or causal-body on the higher mental plane.
+
+> "As all rivers, both great and small, find a resting place in the ocean, even so men of all orders find protection with householders."—*Laws of Manu*, VI. 90.
+
+The "men of all orders" are the egos in four stages of consciousness on the mental plane, centred on various sub-planes. These are periodically withdrawn into the causal-body from which they are again emanated by the Individuality when manifestation is due.
+
+See ARHATS, ASCETIC, ASRAMAS, CAUSAL, DWELLING (palace), FOREST, HERMIT, ORDERS, OVERSEER, SELF, SNATAKA.
+
+**Corrections made:** Quotation marks normalised; `CausaL`, `Forest` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-month
 headword: "MONTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `PYITRIYANA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
 | `Praciprati` | **unresolved** (review queue) |
 | `RIsHEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RISHES OR SAINTS|RISHES OR SAINTS]]; [[Reference/Gaskell/Entries/R/RISHES OR SEVEN|RISHES OR SEVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of time or space, and refers to the phenomenal existence. The months correspond to planetary periods in the cycle of life.
+
+> "The month is Pragapati; its dark half is matter, its bright half spirit. Therefore some Rishis perform sacrifice in the bright half, others in the dark half."—*Prasna Upanishad*, I. 12.
+
+The phenomenal state of existence is the cycle of the Divine Life on the lower planes, which is divided into two parts. The first part (Pitriyana) is for the development of the desire and form side of nature: the second (Devayana), for the evolution of the spirit and life side of human being. Therefore the more-developed egos undergo self-limitation in the second half of the cycle, and the less-developed egos in the first. The former egos are the Individualities, the latter the Personalities.
+
+See ADITYAS (twelve), BORN (out), CIRCLE OF EXISTENCE, DEVAYANA, MATTER, MOON-WAXING, PITRIYANA, PRAGAPATI, RISHIS.
+
+**Corrections made:** `ite dark half` → its dark half; `Rishes` → Rishis; `PYITRIYANA` → PITRIYANA; `Praciprati` → PRAGAPATI; `ApiTyas` → ADITYAS; `Born` → BORN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

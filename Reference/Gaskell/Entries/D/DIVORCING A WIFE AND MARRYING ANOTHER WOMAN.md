@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-divorcing-a-wife-and-marrying-another-woman
 headword: "DIVORCING A WIFE AND MARRYING ANOTHER WOMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `FoLtty` | **unresolved** (review queue) |
 | `MARRIAGE (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
 | `WHOREDOM. WIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The "wife" is a symbol of the emotions allied with the mind. The seeking to sunder the union of mind and emotion is an attempt to transgress the law of the soul's progression, and form an alliance with lower attractions—folly. See Prov. vii.
+
+See ADULTERY, FOLLY, MARRIAGE (lower), WHOREDOM, WIFE.
+
+**Corrections made:** `FoLtty` → FOLLY; `WHOREDOM. WIFE.` → WHOREDOM, WIFE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

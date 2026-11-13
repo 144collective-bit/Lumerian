@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aroueris-the-elder-horus
 headword: "AROUERIS, THE ELDER HORUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `GaTHA Days` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHA DAYS, FIVE|GATHA DAYS, FIVE]] |
 | `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Wortups (five)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos, the indwelling God born upon the buddhic plane.
+
+> "Upon the second (of the five new days), Aroueris, whom some call Apollo, others, the elder Horus, was born."—Plutarch, *Isis and Osiris*, § 12.
+
+The "five days" signify the five planes of manifestation, upon the second of which,—the buddhic,—the incarnate Self has his first birth.
+
+See APOLLO, BIRTH OF HORUS, DAYS (five), GATHA DAYS, HORUS, WORLDS (five).
+
+**Corrections made:** Page heading `PEOPLE, 67 ARROGANT` removed from mid-sentence; `Prurarcn` → Plutarch; See-list spellings restored (`Apoxtto`, `BirrrwH`, `Wortups`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harpies
 headword: "HARPIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `OOCYPETE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OCYPETE, THE HARPY|OCYPETE, THE HARPY]] |
 | `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
 | `ZETES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Z/ZETES AND CALAIS, THE WINGED SONS OF BOREAS|ZETES AND CALAIS, THE WINGED SONS OF BOREAS]]; [[Reference/Gaskell/Entries/Z/ZETES ZAREMAYA OIL|ZETES ZAREMAYA OIL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the unregulated appetites of sensation and desire, which seize upon knowledge in order to promote their own aims.
+
+> "The Gods to punish Phineus struck him blind, and sent the Harpies to torment him: these fell monsters came flying the instant food was set before him, carried off the greater portion of it, and so defiled what they left, that no mortal could endure to eat it."—*Argonautic Expedition*.
+
+Life becomes difficult at this stage, and a condition of spiritual blindness overtakes the discriminating mind (Phineus), all of which implies torment and trouble. And so it came about that immediately knowledge (food) was placed for the mind to partake of, it was appropriated by the irregularities of the sense and desire natures, and in this way it was that the knowledge, instead of being assimilated by the understanding, was turned to base uses. See NICOTHOE, OCYPETE, PHINEUS, ZETES.
+
+**Corrections made:** page heading `RA, THE EVERHARVEST` removed from mid-sentence; See-list spellings restored (`NicOTHEA`→NICOTHOE, `OOCYPETE`→OCYPETE); quotation marks normalised.
+
+**Unclear or supplied:** `NICOTHOE` and `OCYPETE` are likely restorations of OCR `NicOTHEA` and `OOCYPETE`.
 
 ## Full OCR entry body (exact)
 

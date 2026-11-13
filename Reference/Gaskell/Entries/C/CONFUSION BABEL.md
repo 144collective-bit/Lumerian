@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-confusion-babel
 headword: "CONFUSION BABEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BaBet` | **unresolved** (review queue) |
 | `Kama` | **unresolved** (review queue) |
 | `SPRECH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the disharmony which arises through the expression of mind and desire, in the evolving soul.
+
+> "Go to, let us go down, and there confound their language, that they may not understand one another's speech."—Gen. xi. 7.
+
+The Divine Life therefore descends, since it is a means of causing disagreement and disharmony in the qualities of the lower nature, a necessary condition and state of soul which precedes a craving for higher things. The confusion is evidenced in the irregular character of the alliance of mind with emotion or desire. Its expression (speech) is a natural unbalanced result which the mind produces when coming under the sway of the emotions. Neither manas alone, nor kama alone, can produce confusion. It is as each struggles with the other that confusion results.
+
+See BABEL, KAMA, SPEECH.
+
+**Corrections made:** `GEN.` → Gen.; `BaBet` → BABEL; `SPRECH` → SPEECH; `Kama` → KAMA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

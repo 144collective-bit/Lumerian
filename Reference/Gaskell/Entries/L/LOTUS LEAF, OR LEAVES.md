@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lotus-leaf-or-leaves
 headword: "LOTUS LEAF, OR LEAVES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `Womn. 460` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature, or lower planes, which grow out of the higher.
+
+> "The Sacrificer puts down a lotus-leaf in the centre of the altar site;—the lotus-leaf is a womb for Agni to be born from. . . . The lotus means the waters, and this earth is a leaf thereof. . . . Now this same earth is Agni's womb, for Agni the fire-altar is this earth. He lays it down so as not to be separated from the truth: he thereby establishes this earth on the truth."—*Sata. Brâh.*, VII. 4, 1, 8.
+
+The Supreme establishes a centre on the astral plane for the organisation of the lower nature in which the Self shall be born. The "lotus" signifies the Truth,—atma-buddhi,—and the lower nature is the changing life and form to express the Truth outwardly. Now the lower nature is the matrix of the indwelling Self to bring forth all forms of life, for from the Archetypal Man springs the lower nature of the soul which has to be offered up. The lower nature is so contrived as that Truth shall be made manifest through it. The lower nature is therefore Divinely established upon the Truth.
+
+See AGNI, ALTAR (fire), ARC. MAN, EARTH, FORMS, QUATERNARY, SACRIFICE, WATER, WOMB.
+
+**Corrections made:** `pute` → puts; `lotusleaf` → lotus-leaf; `Brdh.` → Brâh.; trailing page number `460` removed; See-list spellings restored (`Aani`, `Attar`, `Eanru`, `Womn`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

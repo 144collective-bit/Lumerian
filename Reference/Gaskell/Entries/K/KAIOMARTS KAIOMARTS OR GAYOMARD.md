@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kaiomarts-kaiomarts-or-gayomard
 headword: "KAIOMARTS KAIOMARTS OR GAYOMARD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `Roor-races` | **unresolved** (review queue) |
 | `RounD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN|ROUND OF THE LIFE-WAVE THROUGH SEVEN GLOBES OF A PLANETARY CHAIN]] |
 | `TREE OY LIVE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Man.
+
+> "Kaiomarts was both man and woman, but through his death there came from him the first human pair; a tree grew from his body, and bore ten pair of men and women."—*Zoroastrian System*.
+
+The archetypal man is male-female (atma-buddhi), and includes mental (masculine) and buddhic (feminine) principles, and through the "death" of these, there appeared the kama-manasic and astral elements, and from these grew the "tree" of life, which corresponds to five lower sub-planes whereon the dual manifestations of the two elements yield the number ten pair of duads, commencing the human root-races in the third round.
+
+> "God is the eternal Substance within which lie hidden, waiting for expression, every conceivable form or mode of the ideal good. It is a portion of this infinite divine substance which has been ground into the clay of our earthly human life. And just as the supply of clay-forming rock in the physical world is practically inexhaustible, and contains innumerable varieties wherefrom works of beauty may be produced, so the infinitude of God contains within itself more potencies of good than the universe of universes can ever exhaust to all eternity. But we children of his heart are here that we may utter some of them to his glory and our own."—R. J. Campbell, *Serm., A Christian World-view*.
+
+> "All this, up to the Third Round, is formless as matter, and senseless as consciousness. . . . This Adam of dust requires the Soul of Life to be breathed into him: the two middle principles, which are the sentient life of the irrational animal and the human soul, for the former is irrational without the latter. It is only when, from a potential androgyne, man has become separated into male and female, that he will be endowed with this conscious, rational, individual Soul (manas), 'the principle or intelligence of the Elohim,' to receive which, has to eat of the fruit of Knowledge from the Tree of Good and Evil."—H. P. Blavatsky, *Secret Doctrine*, Vol. I. p. 267.
+
+See ARC. MAN, [BURY?], DEATH, DISMEMBERMENT, GOSHURUN, IMAGE, MALE-FEMALE, NAVEL, PROTOTYPES, RACES, ROOT-RACES, ROUND, TREE OF LIFE.
+
+**Corrections made:** `Worild-view` → World-view; `kamamanasic` → kama-manasic; `subplanes` → sub-planes; `intelliSage` → intelligence; `Buavatsxy` → Blavatsky; `Ano. MAN`, `Deatu`, `Roor-races`, `TREE OY LIVE` restored in See list; quotation marks normalised.
+
+**Unclear or supplied:** `[BURY?]` is a See-list item recovered with low confidence (OCR `Bury`).
 
 ## Full OCR entry body (exact)
 

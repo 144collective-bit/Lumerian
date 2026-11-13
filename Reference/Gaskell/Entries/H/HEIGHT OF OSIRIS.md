@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-height-of-osiris
 headword: "HEIGHT OF OSIRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `PLaNEs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PLANES, FIVE OR SEVEN|PLANES, FIVE OR SEVEN]]; [[Reference/Gaskell/Entries/P/PLANES, ISIS, GODDESS|PLANES, ISIS, GODDESS]] |
 | `STEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the planes of manifestation of the Logos.
+
+> "Osiris was beautiful of face, but with a dull and black complexion; his height exceeded five and a half yards."—Plutarch, *Isis and Osiris*.
+
+The Higher Self (Osiris) was beautiful and perfect potentially, but was actually non-existent, and, as it were, "black," which stands for negation of existence. His "height" refers to the five planes whereon his complete evolution would be accomplished. The excess above five refers to two unmanifest planes above atma, which will become manifest in other cycles. See BLACK, DESERTS, FACE, FOUR CITIES, HEAVEN AND EARTH, OSIRIS, PLANES, STEM.
+
+**Corrections made:** `PLuvTaARCH, [sie` → Plutarch, Isis; See-list spellings restored (`Buiack`, `DresErrs`, `Four crm™ES`, `PLaNEs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

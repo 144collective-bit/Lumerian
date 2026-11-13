@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-laughter-of-the-gods
 headword: "LAUGHTER OF THE GODS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `PALAce` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PALACE OF THE DEITY|PALACE OF THE DEITY]]; [[Reference/Gaskell/Entries/P/PALACE OR HOUSE|PALACE OR HOUSE]] |
 | `Usumi` | **unresolved** (review queue) |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Highest Ideals becoming vivified and fully realised in the progressed soul.
+
+> "Then Hephaistos poured wine to all the other Gods from right to left, ladling the sweet nectar from the bowl. And laughter unquenchable arose amid the blessed Gods to see Hephaistos passing through the palace."—*Iliad*, Bk. I.
+
+Then the Creative Mind offered its activities forthflowing as loving service to its Ideals. And the Higher Ideals (Gods) became animated, i.e. were realised, as the Creative Mind progressed upon its higher path within the buddhic causal-body (the palace). In the Japanese legend of the Sun-goddess; when "Usumé" the symbol of wisdom evolving (dancing) in the soul, discards at the end of the cycle, her garments (lower-mental), it is said,—"With the laughter of the Gods the Heavens shook." That is; with the animation of the Ideals the higher planes vibrated. It is only when the lower nature is outgrown at the time of resurrection and liberation that the Gods laugh.
+
+See AMATERASU, GODS, HEPHAISTOS, NAKEDNESS, NECTAR, PALACE, USUMI, WINE.
+
+**Corrections made:** `pasting` → passing; `I}iad, k. I.` → *Iliad*, Bk. I.; stray `|` removed; See-list spellings restored (`Gops`, `NAKEDNEss`, `NEcTaR`, `PALAce`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

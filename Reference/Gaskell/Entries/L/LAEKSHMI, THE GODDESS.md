@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-laekshmi-the-goddess
 headword: "LAEKSHMI, THE GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,16 @@ tags:
 | `Poors` | **unresolved** (review queue) |
 | `Rama` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
 | `Siva` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle—Wisdom, allied with the Higher Self, or Atman (Rama). Buddhi directs the evolution of the soul.
+
+See BUDDHI, CHURNING, CLOUDS, [Conon?], DRAUPADI, FURROWS, POOLS, RAMA, SIVA.
+
+**Corrections made:** See-list spellings restored (`BuppuHi`, `Dravurapi`, `Furrows`, `Poors`, `Rama`).
+
+**Unclear or supplied:** `[Conon?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

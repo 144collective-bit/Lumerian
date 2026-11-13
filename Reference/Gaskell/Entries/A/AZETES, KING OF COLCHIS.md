@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-azetes-king-of-colchis
 headword: "AZETES, KING OF COLCHIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Capmus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/C/CADMUS, SON OF AGENOR|CADMUS, SON OF AGENOR]] |
 | `CorcaHis` | **unresolved** (review queue) |
 | `MEDEA` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDEA|MEDEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Supreme Being, the First Logos, as ruler of the buddhic plane (Colchis). See AETES, CADMUS, COLCHIS, MEDEA.
+
+**Corrections made:** `Assyntus` → AETES?; `Capmus` → CADMUS; `CorcaHis` → COLCHIS.
+
+**Unclear or supplied:** `Assyntus` is read as AETES on a guess; it may be ABSYRTUS.
 
 ## Full OCR entry body (exact)
 

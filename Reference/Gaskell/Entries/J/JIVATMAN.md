@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jivatman
 headword: "JIVATMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Brups (two)` | **unresolved** (review queue) |
 | `Fia-FRurr. (4) faith in the` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the incarnate Self which strives to rise from below.
+
+See BIRDS (two), FIG-FRUIT.
+
+(4) faith in the
+
+**Corrections made:** `Brups` → BIRDS; `Fia-FRurr.` → FIG-FRUIT.
+
+**Unclear or supplied:** The OCR ends with the stray fragment "(4) faith in the", which is left as printed after the See list; it appears to be the tail of another entry or list.
 
 ## Full OCR entry body (exact)
 

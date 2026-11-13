@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mariandyni
 headword: "MARIANDYNI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Boak (wild)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of right mental discrimination through the use of the faculty of intuition.
+
+See BOAR (wild).
+
+**Corrections made:** `Boak` → BOAR.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

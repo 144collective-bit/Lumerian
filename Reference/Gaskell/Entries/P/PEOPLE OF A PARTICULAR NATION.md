@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-people-of-a-particular-nation
 headword: "PEOPLE OF A PARTICULAR NATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,19 @@ tags:
 | `OR ‘*“HOUSE OF BATTLE " :— A symbol of the stage of the soul's evolution when victory over the lower nature is possible. See Barrie` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `Conriict` | **unresolved** (review queue) |
 | `Vicrory` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These symbolise the lower mental qualities, the raw material, or elemental essence of astro-mentality, divided in the case of the Jews into twelve tribes, out of which the more developed qualities are chosen, as the twelve disciples which are centralised by the Christ-soul, who instructs and disciplines them.
+
+See COUNTRIES, DISCIPLES, EGYPTIANS, GREEKS, ISRAELITES, JEWS, KURUS, NATIONS, PELASGIANS, TRIBES.
+
+### Also in this note: PER-AHA, OR "HOUSE OF BATTLE"
+A symbol of the stage of the soul's evolution when victory over the lower nature is possible. See BATTLE, CONFLICT, VICTORY.
+
+**Corrections made:** `who - instructs` → who instructs; See-list spellings restored (`Counrriss`, `Discretes`, `EaypTIANS`, `Kurus`, `Nations`, `Barrie`, `Conriict`, `Vicrory`); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: PER-AHA, OR "HOUSE OF BATTLE".
 
 ## Full OCR entry body (exact)
 

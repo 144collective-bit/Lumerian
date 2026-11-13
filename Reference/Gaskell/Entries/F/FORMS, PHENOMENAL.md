@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forms-phenomenal
 headword: "FORMS, PHENOMENAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,38 @@ tags:
 | `Spirit` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The vehicles or receptacles of Spirit—i.e. the monads of life replete with qualities. The forms are compounded of the matter of the planes, as builded by the monads of form to receive the monads of life.
+
+> "And since these things are so, it is necessary to think that in all the objects that are compound there existed many things of all sorts, and germs of all objects, having all sorts of forms and colours and tastes."—Anaxagoras, Fairbanks, 3. *Anc. Phil. of Greece*.
+
+And as the universe is so appointed of Spirit and Matter, it is reasonable to conclude that in all nature heterogeniety now exists. There is infinite diversity, so that with the material there has been the spiritual involved, and within the spiritual lay primordially the forms (archetypal) of all objects afterwards to actualise. These perfect forms (germs) are complete in "form, colour and taste," that is, in their mental, astral, and physical constituent elements.
+
+> "Zoroaster's birth, moreover, is in answer to pious prayers addressed by his father (Pourushaspa) to Homa."—*Zoroaster's Life*, A. V. W. Jackson.
+
+The Son of God comes forth in the lower nature only when the force (love) aspect of the life below (the father) is directed to the higher channels of manifestation, and as the aspiration of the lower forms of life-expression leads to some consciousness of possible union with a higher nature or Self. All the lower forms of life are thus dimly groping,—they know not how or why,—towards that Reality which is to merge them eventually into Itself, even as the ocean receives into its bosom the several drops which go to swell its boundless whole. The time does arrive, however, when there is this dim consciousness, or reflection of love from Above, in the lower forms of life, and which then takes definite expression of yearning for union with That Reality. This is the stage of preparation when it becomes possible for the Son of God to come forth as he is in his love-nature, when, indeed, all things are drawn upwards, and when no creature, form, or quality, however feeble and faint-hearted, however ignorant and unprogressed, but is made aware of its destiny to unite with the Self of all beings,—the One Sum-total of all that is,—the outward Embodiment of the Eternal.
+
+> "In every object matter and form are to be distinguished, with which correspond, in the Godhead, essence and the [divine] persons. The form of an object is that which the object is for others; it is the revealing element, and hence the persons of the Trinity are the form of the essence. . . . Form is the individualising principle" (Eckhart).—Ueberweg, *Hist. of Philos.*, Vol. I. p. 474.
+
+> "The Cosmos hath, moreover, been prepared by God, as the receptacle of forms of every kind" ("The Perfect Sermon").—Mead, *T. G. Hermes*, Vol. II. p. [word unclear]
+
+> "Thou who createst light where there was no light, and form, O men! where there was no form, hast been born together with the dawns."—*Rig-Veda*, I. 6, 3.
+
+> "The first Light is the creative Will, the efficient faculty, which passes into the Universal Form,—the potentiality to act. Matter is the principle of unity, Form of multiplicity. There is Universal Matter and Form; the former corresponds with unity, and the latter with two-foldness, hence not unity; but the Triad is at the root of all. . . . Creation with Gebirol is only the impression of Form in Matter, an impression emanating from the Will. Creation keeps within bounds the Universal Matter and Universal Form. All the rest emanate from these. Creation does not happen in time, but precedes it and is in eternity. . . . [Ge]birol sets forth the Will or Divine Word as the intermediary and bond of the Universal Matter and Form. Yet they also are bound together and exist in the Divine for they were born simultaneously. The Will is one, the Matter and Form two, together the Triad, but they have never [been] separated."—I. Myer, *Qabbalah*, pp. 153-4.
+
+> "Matter and form can only be separated in thought; in logical analysis, but not in fact."—H. M. Gwatkin, *The Knowledge of God*, Vol. I. p. 70.
+
+> "Any form the life of the universe takes here is for the sake of the acquisition of qualities which will inhere in the spiritual substance when it has reached its highest degree of manifestation, which will certainly not be on the earth plane. God throws it into a form and withdraws it, throws it into another and withdraws it again, and again, and again, until by its sojourn and experience in form after form, it at length becomes capable of expressing in fullness the highest it contains. The breaking of a form does not matter much; it only means withdrawing the life that indwells it, that it may function through new and higher instrumentalities."—R. J. Campbell, *Serm.*, The Seeming Waste of Life.
+
+> "The form perishes, but the divine essence that made it is only withdrawn to re-express itself in other and higher forms."—R. J. Campbell, *Serm.*, God's Use of Time.
+
+See BALDER, BIRTH OF ZOROASTER, COLOURS, COSMOS, CREATION, EVOLUTION, FATHER (lower), GERMS, HOMA, INVOLUTION, MATTER, MITHRAS, MONAD (form, life), POURUSHASPA, PROTOTYPES, SEEDS, SON OF GOD, SPERMATIC WORDS, SPIRIT, TRIAD, TRINITY.
+
+**Corrections made:** page headings `FORMS` (twice) and `T FORTRESS` removed from mid-text; `Anazagoras, FarrBanks` → Anaxagoras, Fairbanks; `lifeexpression` → life-expression; `ite destiny` → its destiny; `vine persons` → [divine] persons; `UEbBErRWEG` → Ueberweg; `repared`/`orms` → prepared/forms; `Map` → Mead; `Geberol`/`berol` → Gebirol/[Ge]birol; `m separated` → [been] separated; `Myrr` → Myer; `Gwartxm` → Gwatkin; `ite highest` → its highest; `CameBELL`/`CAMPBELL` → Campbell; See-list spellings restored; quotation marks normalised, and similar minor fixes.
+
+**Unclear or supplied:** `[divine]` is supplied for OCR `vine`; `[been]` for OCR `m`; `[Ge]birol` for OCR `berol` (the name is printed `Geberol` earlier; both retained as printed in the OCR). The page reference after `Vol. II. p.` for the Mead quotation is lost (OCR `p. ‘`), marked `[word unclear]`. `Gwatkin` is a best reading of OCR `Gwartxm`.
 
 ## Full OCR entry body (exact)
 

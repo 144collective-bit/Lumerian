@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eleventh-eleventh-hour
 headword: "ELEVENTH ELEVENTH HOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Eleventh hour of the Tuat (cycle of life). See JUSTICE` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `LABOURERS` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LABOURERS|LABOURERS]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the eleventh stage of the evolution of qualities in the forms of matter in which they manifest: the twelfth stage being the final.—See Mat. xx. 6. Compare, Eleventh hour of the Tuat (cycle of life).
+
+See JUSTICE, LABOURERS, VINEYARD.
+
+**Corrections made:** Stray leading full stop removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

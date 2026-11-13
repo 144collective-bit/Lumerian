@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gold
 headword: "GOLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual qualities of the buddhic plane. Divine Wisdom; celestial Truth. The endowments of the soul which are above the mental plane. The "treasures in heaven."
+
+> "And the city was pure gold, like unto pure glass."—Rev. xxi. 18.
+
+And the higher state of consciousness was on the buddhic plane whereon Wisdom and Truth were clearly perceived.
+
+> "And what does he (the Psalmist) call gold, saving wisdom; of which Solomon saith, 'A treasure to be desired lieth at rest in the mouth of the wise' (Prov. xxi. 20.)? That is, he saw wisdom as gold, and therefore called it a "treasure": and she is well designated by the name of 'gold,' for that, as temporal goods are [word unclear] with gold, so are eternal blessings with wisdom."—Gregory the Great, *Morals on the Book of Job*, Vol. I. p. 228.
+
+> "Gold signifies the good of love."—Swedenborg, *Apoc. Rev.*, n. 913.
+
+See APPLES, ARMAITI, BUDDHIC PLANE, CRYSTAL, GLASS, HAVILAH, METALS, NET (golden), SAVITRI, SILVER, TREASURE, WISDOM.
+
+**Corrections made:** `Paalmist` → Psalmist; `PROV.` → Prov.; `lessings` → blessings; `eignifies` → signifies; `GREGORY THE Great` → Gregory the Great; See-list spellings restored (`APppLes`, `GLass`, `HavILaH`, `MeErTALs`, `NEt`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "temporal goods are eee with gold"; the verb is lost.
 
 ## Full OCR entry body (exact)
 

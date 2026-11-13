@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-devas-or-lower-builders
 headword: "DEVAS, OR LOWER BUILDERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Nartaps` | **unresolved** (review queue) |
 | `SALAMANDERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SALAMANDERS AND SYLPHS|SALAMANDERS AND SYLPHS]]; [[Reference/Gaskell/Entries/S/SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE|SALAMANDERS, DRYAS, SHEPHERD OF THE PEOPLE]] |
 | `PraH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of nature spirits on the astral plane which undertake the formation of the material sheaths of the spirit, in which the Self's evolution is accomplished. They are elemental builders of forms, not architects, but directed by intelligences on higher planes according to the Divine scheme. The auto-intelligent action of some of the lower elementals may be discerned under the microscope in the behaviour of protoplasts or bioplasts in forming vegetable structure.
+
+> "In the work of creation Ptah had been helped by the Khnumu, 'the modellers, who were generally counted as his children, although later as those of Ra. They were represented as dwarfs with big heads, crooked legs, very long arms, and long moustaches.'"—A. Wiedemann, *Rel. of Anc. Egyptians*, p. 137.
+
+See BUILDERS, FIENDS, LORDS (material), NAIADS, SALAMANDERS, PTAH.
+
+**Corrections made:** `hel` → helped; `WreprMANN` → Wiedemann; page heading `215 DEVAYANA` removed from inside the See list; See-list spellings restored (`Buripers`, `Fienps`, `Lorps`, `Nartaps`, `PraH`); and similar minor fixes.
+
+**Unclear or supplied:** `helped` is restored from the truncated OCR `hel`. `NAIADS` and `PTAH` restored from OCR `Nartaps` and `PraH`.
 
 ## Full OCR entry body (exact)
 

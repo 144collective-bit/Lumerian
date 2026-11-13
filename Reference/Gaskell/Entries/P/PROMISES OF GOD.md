@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-promises-of-god
 headword: "PROMISES OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `Buiessine` | **unresolved** (review queue) |
 | `Hory GHOST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOLY GHOST, OR SPIRIT|HOLY GHOST, OR SPIRIT]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the measures taken in the Divine scheme for the raising of the qualities and souls in response to their aspirations, so that when they are perfected they may have eternal life. The raising of the qualities is through the "Holy Spirit of promise," that is, through the functioning of buddhi.—See Eph. i. 13, 14; Rom. iv. 13-16; Heb. vi. 12-17; 2 Peter i. 3, 4. See BLASPHEMY, BLESSING, HOLY GHOST, TRANSMUTATION.
+
+**Corrections made:** page heading `697 PROPHETS` removed from mid-sentence; `EPH.` → Eph.; `Hes.` → Heb.; See-list spellings restored (`BuiaspHemy`, `Buiessine`, `Hory GHOST`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kursayah-a-throne-with-four-feet-and-six-steps
 headword: "KURSAYAH, A THRONE WITH FOUR FEET AND SIX STEPS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,26 @@ tags:
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
 | `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body superimposed upon the lower quaternary and approached through the duality of the three lower planes.
+
+See CAUSAL-BODY, THRONE.
+
+### Also in this note: KURSI, THE "FOOTSTOOL BELOW THE THRONE"
+
+A symbol of the buddhic plane below the plane of atma (Arsh).
+
+> "After a while God looked again upon the Light, and from its perspiration He created the corporeal world. The first thing that arose was the Arsh, the 'Throne of God.' Beneath the Arsh, and of its light, God created another wondrous thing, which is called the Kursi, and may be conceived as the 'Footstool' below the 'Throne'" (Ottoman Sufi Genesis).—E. J. W. Gibb, *Ottoman Poetry*, Vol. I. p. 36.
+
+From the Divine Life manifesting (perspiring) there appeared the planes of nature. The first was the highest,—the atmic plane, and this produced the second,—the buddhic plane.
+
+See ARSH, ATMA, LOTE-TREE, PARADISE, THRONE.
+
+**Corrections made:** `Grips` → Gibb; page heading `437 KUSTI` removed from mid-sentence; `AnsH` → ARSH; `Atma` capitalised in See list; quotation marks restored.
+
+**Unclear or supplied:** Contains a second entry: KURSI, THE "FOOTSTOOL BELOW THE THRONE".
 
 ## Full OCR entry body (exact)
 

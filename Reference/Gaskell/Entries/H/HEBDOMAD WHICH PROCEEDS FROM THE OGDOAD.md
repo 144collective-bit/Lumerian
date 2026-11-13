@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hebdomad-which-proceeds-from-the-ogdoad
 headword: "HEBDOMAD WHICH PROCEEDS FROM THE OGDOAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Giory` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `Oapoan` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Highest Being which emanates from the Absolute. The manifest Self from the unmanifest. See GLORY, OGDOAD.
+
+**Corrections made:** `unmanifeet` → unmanifest; `Giory, Oapoan` → GLORY, OGDOAD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

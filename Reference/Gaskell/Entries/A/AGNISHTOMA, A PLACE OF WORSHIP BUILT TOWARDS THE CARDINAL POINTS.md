@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agnishtoma-a-place-of-worship-built-towards-the-car
 headword: "AGNISHTOMA, A PLACE OF WORSHIP BUILT TOWARDS THE CARDINAL POINTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `RELIGION (popular)` | **unresolved** (review queue) |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `Worsxip` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the abode of the religious consciousness in the highest part of the lower nature. A reverent state of soul in close relation to the higher emotions of goodness, love, and truth.
+
+> "They (the sacrificers) choose a place of worship. Let them choose the place which lies highest; for it was from thence that the gods ascended to heaven, and he who is consecrated indeed ascends to the gods. He thus sacrifices on a place of worship frequented by the gods.... It should incline towards the east, since the east is the quarter of the gods; or else it should incline towards the north, since the north is the quarter of men. It should rise somewhat towards the south, that being the quarter of the Fathers (lunar pitris).... On this ground they erect either a hall or a shed, with the top beams running from west to east; for the east is the quarter of the gods, and from the east westwards the gods approach men."—*Sata. Brâh.*, III. 1, 1, 1-6.
+
+The personalities accord a place in the mind for religion. Let them reserve in the highest part of the mind a spot sacred to the ideals (gods) which rise heavenward. The mental quality which aspires and is transmuted becomes an ideal on the buddhic plane. The personality therefore offers up the lower qualities in the highest part of his nature where he reverences the ideals. This sacred spot should be open to where Love and Truth rise in the soul, since the ideals are harbingers of the Self. It should also be open to the intellect (north), since the intellect co-ordinates the mental qualities through aspiration towards Truth. But it should be closed somewhat towards the desires (south), for these are of the form and not of the Life. On this high ground of the mind, the personalities erect the structure of their religion either complex or simple, with the highest intelligence (top-beams) directed towards the ideals which wait upon the Self, and approach the mind from above.
+
+See CHURCH, HEART, PAPYRUS BOAT, RELIGION (popular), TEMPLE, WORSHIP.
+
+**Corrections made:** Stray `|` marks removed (three places); `place — of worship` → place of worship; `ofmen` → of men; `_ this` → this; `Brih., HI.` → Brâh., III.; `topbeams` → top-beams; page heading `AGNISHVATTA` removed from mid-sentence; See-list spellings restored (`CHuurncH`, `PapyrvusBoat`, `Worsxip`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

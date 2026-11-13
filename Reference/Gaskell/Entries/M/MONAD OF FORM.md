@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-monad-of-form
 headword: "MONAD OF FORM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,16 @@ tags:
 | `Prororyrses` | **unresolved** (review queue) |
 | `SrmMILITUDEs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIMILITUDES, WORLD OF|SIMILITUDES, WORLD OF]] |
 | `SPERMATIC WORDS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Nature, or the astro-mental energy and intelligence, which under fixed laws, and after archetypal patterns, direct the growth or building up of forms in the matter of the lower planes. The countless monads of form are the specific astro-mental moulds of every differentiated growth,—every variety of natural formation on the astral and physical planes. These moulds have their mental and spiritual prototypes on the higher planes, which bring intelligence and purpose into the operations of nature in the phenomenal world. The prototypes are to be conceived of as schemes of being germinating within when conditions favour, and finding expression without in time and space. Thus are the atoms guided in the building up of the organisms of the animals and plants of the present teeming world of living things.
+
+See BARHISHAD, BODHISATVAS, DEVAS (builders), FORMS, FRAVASHIS, GENERATIVE, GERMS, HIGHER AND LOWER WORLDS, MANES, [MITHRAS?], PITRIS, PROTOTYPES, SIMILITUDES, SPERMATIC WORDS.
+
+**Corrections made:** See-list spellings restored (`BaRHISHAD`, `FRavasHis`, `Prrris`, `Prororyrses`, `SrmMILITUDEs`); page heading `MONAD` removed from mid-sentence.
+
+**Unclear or supplied:** `[MITHRAS?]`: OCR reads `Mrruras`, not identified with confidence.
 
 ## Full OCR entry body (exact)
 

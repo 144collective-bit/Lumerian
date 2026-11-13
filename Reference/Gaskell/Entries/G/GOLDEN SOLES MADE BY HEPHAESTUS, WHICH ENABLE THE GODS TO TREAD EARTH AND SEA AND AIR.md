@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-soles-made-by-hephaestus-which-enable-the-go
 headword: "GOLDEN SOLES MADE BY HEPHAESTUS, WHICH ENABLE THE GODS TO TREAD EARTH AND SEA AND AIR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,14 @@ tags:
 | `Hepuaistos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `Ska` | **unresolved** (review queue) |
 | `SHOES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the functionings of the causal-body, which the Divine Mind contrived to enable the Ideals (Gods) to operate upon the lower planes through the vehicles connected with the causal-body. These vehicles of the ego are upon the physical plane (earth), the astral plane (sea), and the mental plane (air). The "soles" or "shoes" signify power to advance in progression. By means of the Ideals which arouse aspiration, the soul grows towards perfection. See AIR, CAUSAL-BODY, EARTH, GODS, HEPHAISTOS, SEA, SHOES.
+
+**Corrections made:** `Arn` → AIR; `EARTH,GODS` → EARTH, GODS; `Hepuaistos` → HEPHAISTOS; `Ska` → SEA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

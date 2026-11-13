@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-door-lower-aspect
 headword: "DOOR (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Heart` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
 | `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `Man (rich)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an entrance to the mind for vibrations from below, enabling the consciousness to perceive phenomena of the astral and physical planes.
+
+> "When St. John says that God is a Spirit, and that He must be worshipped in spirit, he means that the mind must be cleared of all images. When thou prayest, shut thy door—that is, the doors of thy senses. Keep them barred and bolted against all phantasms and images. Nothing pleases God more than a mind free from all occupations and distractions. Such a mind is in a manner transformed into God, for it can think of nothing, and love nothing, except God; other creatures and itself it only sees in God. He who penetrates into himself, and so transcends himself, ascends truly to God. He whom I love and desire is above all that is sensible, and all that is intelligible; sense and imagination cannot bring us to Him, but only the desire of a pure heart" (Albertus Magnus, *De Adh. Deo*).—R. M. Jones, *Mystical Religion*, p. 219.
+
+See ASTRAL, CROWD, GATE (lower), HEART, MAN (blind), MAN (rich).
+
+**Corrections made:** `®` → a; `is_ intelligible` → is intelligible; `cannot. bring` → cannot bring; `AtBERTUS Macnus` → Albertus Magnus; `Religion p.` → Religion, p.; page heading `227 DOOR` removed from mid-sentence; See-list spellings restored (`AsTRAL`, `GarTE`, `Heart`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

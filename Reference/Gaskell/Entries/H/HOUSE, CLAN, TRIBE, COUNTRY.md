@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-clan-tribe-country
 headword: "HOUSE, CLAN, TRIBE, COUNTRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,30 @@ tags:
 | `Ch. XIII. 15. The development of soul occasioned through the instrumentality of the physical body is due to the rule of the senses which arouse and inform the mind. See Garua (ahun.)` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `RuLEgs (world)` | **unresolved** (review queue) |
 | `TRIBE-RULER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the four bodies, or sheaths of the soul, on the four planes of the quaternary.
+
+> "O Homa! thou lord of the house, lord of the clan, lord of the tribe, lord of the country, thou successful physician! I further invoke thee for strength and prosperity for my body, and for the attainment of much pleasure."—*Homa Yasht*, verse 27, Haug, *Essays*.
+
+The Supreme Self is Lord of the physical-body, Lord of the astral-body, Lord of the mental-body, and Lord of the causal-body. The "successful physician" is the Self under the aspect of Love. The Supreme Self is invoked for the purpose of granting the fulfilment of all right aims and good wishes upon the lower planes of the soul's activities, that so the true and lasting joy of the Spirit be attained.
+
+See CASTES, CLASSES, HEALING, RULERS (world), SERPENT, ASCULAPIOS, TRIBE-RULERS, VESTURES.
+
+### Also in this note: HOUSE-RULER
+
+A symbol of the sense-nature operating from a physical centre or centres in the human brain.
+
+> "The progress which is in the Ahunavaiti Gatha the house-rulers should [go?] on."—*Shayast La-Shayast*, Ch. XIII. 15.
+
+The development of soul occasioned through the instrumentality of the physical body is due to the rule of the senses which arouse and inform the mind.
+
+See GATHA (ahun.), RULERS (world), TRIBE-RULER.
+
+**Corrections made:** `Hava` → Haug; `astralbody` → astral-body; page heading `Trt, AND 375 HOUSE` (mid-sentence) removed; See-list spellings restored (`CiLassEs`, `Healine`, `Rutgers`, `TRISE-RULERS`, `Garua`).
+
+**Unclear or supplied:** Contains a second entry: HOUSE-RULER. `[go?]` supplied: OCR reads "should on". `ASCULAPIOS` left near the OCR spelling (`ASCULAPros`). `Haug` read from damaged `Hava`.
 
 ## Full OCR entry body (exact)
 

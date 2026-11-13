@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-salmon-fish-of-loke
 headword: "SALMON, FISH OF LOKE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `LoxkE` | **unresolved** (review queue) |
 | `NET OF ASAR` | **unresolved** (review queue) |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower self upon the astral plane submerged in the desire-nature.
+
+> "Loke considered what would be the stratagem by which the Asar would endeavour to catch him as a salmon in the waterfall."—*The Punishment of Loke*, *Prose Edda*, Howitt, *Literature*, etc.
+
+At this early stage of human evolution it first of all became necessary for the soul to work along the plane of desire,—seeking food, shelter, safety, etc., for its physical body, so that it might maintain its existence and promote its well-being, while gathering such experience as came to it in the play of ideas and the lower emotions. The higher ideals (Asar) would [word unclear] course of time capture and subjugate the desire-mind (Loke).
+
+See ASAR, ASTRAL PLANE, DOORS (four), LOKE, NET OF ASAR, WATER (lower).
+
+**Corrections made:** `upos` → upon; `tl` → the; `woul:` → would; `=` → in; `Lak` → Loke; `Howrrt` → Howitt; `evolvtion` → evolution; `ani` → and; `gatherirz` → gathering; `tk` → the; page heading `TASTE, SALT` removed from mid-sentence; See-list spellings restored (`Doors`, `LoxkE`).
+
+**Unclear or supplied:** `[word unclear]`: OCR `rz` before `course of time`; probably "in", not recovered with confidence.
 
 ## Full OCR entry body (exact)
 

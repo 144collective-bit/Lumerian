@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-embalmment-of-a-corpse
 headword: "EMBALMMENT OF A CORPSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,22 @@ tags:
 | `Priutows` | **unresolved** (review queue) |
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
 | `UNGUENTS` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNGUENTS|UNGUENTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purification of the personality (corpse) through faith and trust in the ideal, producing blissful effects (perfumes) on higher planes, and mental evolution below.
+
+> "The perfume of Arabia has been brought to thee to make perfect thy smell through the scent of the god. Here are brought to thee liquids which have come forth from Râ to make perfect thy smell in the Hall of Judgment. O sweet-smelling soul of the great god, thou dost contain such a sweet [odour?] that thy face shall neither change nor perish" (Papyrus du Louvre).—Budge, *Egyptian Magic*, p. 185.
+
+Wisdom and philosophy are within the personality that it may be purified by truth from above. Love and Truth proceed from the Supreme that the personality may be perfected as it riseth to the higher mind. O noble ideals and Love Divine! there is such blissful effect on the higher planes that the mental aspects below shall neither diminish nor perish. The anointing with oil and the bandaging with linen typify the love and devotion that must arise in the personality as it proceeds on its way to union with the Divine.
+
+> "The tomb of the (Christian) saint is prepared for him; he is brought thither, enclosed within it, and the interior and exterior of the sepulchre is anointed with a fragrant unguent. The idea of an embalmment is still more clearly expressed in the subsequent ceremonies, in which the anointing with fragrant oil is accompanied by fumigation with incense."—[L.?] Duchesne, *Christian Worship*, p. 406.
+
+See ANOINTING, ASCENSION (Osiris), BA, CORPSE, DEFUNCT, HEART, INCENSE, JUDGMENT HALL, MUMMY, MYRRH, ON, PERFUMES, PERSONALITY, PHOENIX, PILLOWS, SPICES, UNGUENTS.
+
+**Corrections made:** `R&` → Râ; `Bubce, gyptian Magic` → Budge, Egyptian Magic; `rish` → perish; `accomied` → accompanied; `thither. enclosed` → thither, enclosed; `Ducnesne` → Duchesne; page heading `EMBALMMENT` removed from mid-text; See-list spellings restored (`Derrunct`, `Mummy`, `Myrra`, `Priutows`, `Spices`); quotation marks normalised.
+
+**Unclear or supplied:** `[odour?]` replaces OCR `our`. The author's initial is lost (OCR `— .`); `[L.?]` is a guess. `DEFUNCT` is read from OCR `Derrunct`.
 
 ## Full OCR entry body (exact)
 

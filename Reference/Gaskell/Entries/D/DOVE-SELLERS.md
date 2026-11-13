@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dove-sellers
 headword: "DOVE-SELLERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of hybrid qualities seemingly gentle and beneficent, but really hard and grasping.
+
+> "Jesus overthrew the tables of the money-changers, and the seats of them that sold doves."—Matt. xxi. 12.
+
+The "dove-sellers" are those who profess to be kind and amiable, but who are in reality selfish and indifferent, and who therefore prostitute the ideals which they profess to be living up to.
+
+See CLEANSING, JESUS (severity).
+
+**Corrections made:** `Mar.` → Matt.; `SEE` → See; `JESUS SEVERITY` → JESUS (severity).
+
+**Unclear or supplied:** The qualifier in `JESUS (severity)` is supplied; the OCR reads `JESUS SEVERITY`.
 
 ## Full OCR entry body (exact)
 

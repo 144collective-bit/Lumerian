@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rain-causing-deluge
 headword: "RAIN CAUSING DELUGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,34 @@ tags:
 | `FLoop` | **unresolved** (review queue) |
 | `aiiunNe BECOMING WHITEAS: Do RakN` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+[The OCR of this entry runs two columns together. The words are kept in the order the OCR gives them.]
+
+A symbol of a flood of truth contained in erroneous ideas which envelop the lower mind.
+
+> "And the rain was upon the earth forty days and forty nights."—Gen. vii. 12.
+
+And the outpouring of truth, reflected erroneously in the lower nature, continued for a period answering to those re-incarnating terms (days and nights) which enabled the lower nature to absorb fresh truth, or attain expansion of consciousness.
+
+> "All the work that the Spirit had wrought was now swept away with the darkness of error and thoughts; and this is in reality what is meant by 'Noah's Flood.'"—John Ward, *Zion's Works*, Vol. III. p. 5.
+
+See CLOUDS, DELUGE, FLOOD, RAIN, WATER.
+
+### Also in this note: RAHULA, SON OF BUDDHA
+
+A symbol of light, knowledge, truth, and love, born into the soul.
+
+> "In course of time to the fair-bosomed Yasodhara,—who was truly glorious in [word unclear] ae a was [word unclear] from the son of Suddhodana a son named Rahula, with a face like the enemy of Rahu."—*Buddha-Karita*, Bk. II. 46.
+
+In course of involution, to the form-side of the universe whose vehicle had been preparing there went forth from the World-soul the One who was to bring light to the souls in darkness. The Sun of righteousness is the enemy of darkness, for it dispels ignorance, doubt, sorrow, etc.
+
+See BUDDHA, LIGHT, SUDDHODANA, YASODHARA.
+
+**Corrections made:** `‘*` → "; `GeEn.` → Gen.; `lowcr` → lower; `Joun Warp` → John Ward; `Zion’s Works` italicised; two interleaved columns separated into RAIN CAUSING DELUGE and RAHULA, SON OF BUDDHA; See-list spellings restored (`Buppua`, `Liaut`, `YasSovHARA`, `Croups`, `Deuce`, `FLoop`, `WATER`); stray tokens `oe hae gi ah ae` and `rerm`, `aiiunNe BECOMING WHITEAS: Do RakN` handled as noted below.
+
+**Unclear or supplied:** Contains a second entry: RAHULA, SON OF BUDDHA. The column interleaving makes some splits uncertain. In the Buddha-Karita quotation, `glorious in ... a was ... rerm` is garbled; the stray `oe hae gi ah ae a was` is left as `[word unclear] ae a was [word unclear]` in the text. `Deuce` read as DELUGE, `Do RakN` read as RAIN. `aiiunNe BECOMING WHITEAS:` is a fragment from the facing RAINBOW entry ("becoming white as") and is not placed in the text.
 
 ## Full OCR entry body (exact)
 

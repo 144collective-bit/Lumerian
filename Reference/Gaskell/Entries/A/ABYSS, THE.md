@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abyss-the
 headword: "ABYSS, THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `GinNUNGA` | **unresolved** (review queue) |
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TANAOA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a condition of being out of relation to the manvantara or cycle of life. It may also signify the state of formless matter of the lower planes, prior to the involution of Spirit. See CHAOS, DEEP, GINNUNGA, PO, TANAOA.
+
+**Corrections made:** page heading `21 ACHE` removed from mid-sentence ("See" follows); See-list spellings restored (`Cuaos`, `GinNUNGA`, `Po`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

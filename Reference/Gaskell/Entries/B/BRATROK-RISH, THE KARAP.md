@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bratrok-rish-the-karap
 headword: "BRATROK-RISH, THE KARAP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `BROTHERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BROTHERS, FIVE, OF DIVES|BROTHERS, FIVE, OF DIVES]]; [[Reference/Gaskell/Entries/B/BROTHERS, THE FIVE KARAP|BROTHERS, THE FIVE KARAP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind which functions through the stimulus of the sense nature.
+
+See BROTHERS.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

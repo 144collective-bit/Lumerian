@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-papyrus-boat-of-isis
 headword: "PAPYRUS BOAT OF ISIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,22 @@ tags:
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `Worp` | **unresolved** (review queue) |
 | `WORSHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sacred scriptures, which serve as a vehicle of Divine Wisdom (Isis).
+
+> "Isis once more sets out in search of the scattered fragments of her husband's body, making use of a boat made of the reed Papyrus in order the more easily to pass through the lower and fenny parts of the country."—Plutarch, *Isis and Osiris*, § 18.
+
+Then Wisdom, as it were, descends and endeavours to harmonise and discipline the qualities which are commencing to evolve. When once the Divine voice has been identified in the mind with the dramatic modes of expression in sacred writings, and the Scriptures are deemed binding, help is to be derived therefrom by the impressionable emotion-nature (fens), which catches in this means of declaration of Truth a hint of the message and meaning which is there to be interpreted by the earnest and devout soul.
+
+> "The papyrus is [word unclear] mentioned in the colophons of Assur-banipal's tablets under the name of gis-li-khu-st, or 'grass of guidance.' Another ideographic name was gis-zu, 'vegetable of knowledge.'"—Sayce, *Rel. of Anc. Babyl.*, pp. 9, 10.
+
+See AGNISHTOMA, AMBAS, BOAT (wisdom), BOOK STUDIES, CROCODILE, DEATH OF OSIRIS, DISMEMBERMENT, GOSPEL, HERMES (tris.), INSPIRATION, ISIS, KORAN, MARS, RELIGION, REVELATION, SASTRA, SCRIPTURES, UPANISHADS, UR-HEKAU, VEDA, WISDOM, WORD, WORSHIP.
+
+**Corrections made:** `sete` → sets; `tableta` → tablets; `Ane. Babyl.` → Anc. Babyl.; `Ppp:` → pp.; page heading `559 PARABLE` removed; See-list spellings restored (`AGnisHToMA`, `GosPreL`, `Worp`, `KoRAN`, `Sastra`); and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `sv aay`.
 
 ## Full OCR entry body (exact)
 

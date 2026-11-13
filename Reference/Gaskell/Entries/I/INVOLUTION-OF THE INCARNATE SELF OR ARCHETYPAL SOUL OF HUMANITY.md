@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-involution-of-the-incarnate-self-or-archetypal-soul
 headword: "INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `PRALAYA` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRALAYA, OR NIGHT|PRALAYA, OR NIGHT]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+After a period of primordial manifestation, and when the archetypal conditions of involution are prepared, then the Divine Self, or Soul, descends as a spiritual germ to the astral plane, to be afterwards born on the mental plane, grow up thereon, and finally culminate on the buddhic plane as the Archetypal Man and progenitor by evolution of the myriad human souls.
+
+> "After he (Brahman) had practised self-mortification he created this entire universe, whatever exists; after he had created it, he entered into it."—*Tait. Upanishad*, II. 6.
+
+> "Brahman after having created the universe enters into it as the individual soul. 'This universe was at that time not unfolded; but it unfolded itself in name and form. . . . into it that (Atman) entered up to the finger tips . . . this therefore which here (within us) is the âtman, is the trace (to be pursued) of the universe; for in it the entire universe is known' (*Brihad. Upanishad*, I. 4, 7)."—Deussen, *Phil. of Upanishads*, p. 171.
+
+The "self-mortification" is the withdrawal from manifestation of the Life of the Self prior to a fresh outpouring of the Divine Life. The "unfolding of the universe in name and form" signifies the involution of different qualities and their material vehicles or organisms on the lower planes. It is pointed out that the lesser or individual Self (âtman) of each human being is the same with the Greater or Supreme Self. In the Microcosm is to be found all the truth of the Macrocosm, and the Self within is the way, the truth, and the life of the striving human soul.
+
+See ARC. MAN, ATMAN, BIRTH OF BUDDHA, BODHISATVA, COMING FORTH, FORM AND NAME, IMAGE, INCARNATION, MACROCOSM, MANVANTARA, MICROCOSM, PRALAYA, SELF.
+
+**Corrections made:** `Tat. Upanishad` → Tait. Upanishad; `Derussen` → Deussen; `tipe` → tips; `&tman` → âtman; `ea human` → each human; `.171` → p. 171 kept as printed; page heading `IRIS` removed from mid-sentence; See-list spellings restored (`BoDHISATVA`, `INCARNATIoN`, `Macrocosm`, `Microcosm`, `Form AND NAME`).
+
+**Unclear or supplied:** `ea` read as "each".
 
 ## Full OCR entry body (exact)
 

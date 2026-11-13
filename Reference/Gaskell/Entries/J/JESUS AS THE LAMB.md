@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jesus-as-the-lamb
 headword: "JESUS AS THE LAMB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `LAMB OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LAMB OF GOD|LAMB OF GOD]] |
 | `Passover` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `Raq. 411` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Christ as the Divine sacrifice for the benefit of humanity. The young ram (Aries) is a world-wide symbol of the sacrifice of the Higher Self in entering upon the cycle of manifestation (Zodiac).
+
+See ARU-NI, ARIES, LAMB, LAMB OF GOD, PASSOVER, RAM.
+
+**Corrections made:** `Lams` → LAMB; `Raq.` → RAM; trailing page number `411` removed; See-list capitals restored.
+
+**Unclear or supplied:** `RAM` is the likely reading of OCR `Raq.`.
 
 ## Full OCR entry body (exact)
 

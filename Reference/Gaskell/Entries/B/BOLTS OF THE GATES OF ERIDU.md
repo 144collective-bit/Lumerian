@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bolts-of-the-gates-of-eridu
 headword: "BOLTS OF THE GATES OF ERIDU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,26 @@ tags:
 | `Nicut` | **unresolved** (review queue) |
 | `Pars` | **unresolved** (review queue) |
 | `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the second and third Logoi which proceed forth as manifestations of the Divine Life on the lower planes.
+
+> "At night Adapa drew the bolts of the gates of Eridu, and at dawn he sailed forth in his bark to fish in the sea" (Babylonian Legend).—Sayce, *Religions*, etc.
+
+In the period when the lower nature appeared to be cut off from the higher, the Archetypal Man (Adapa) initiated a new Divine forthpouring of life: opening, as it were, the door between heaven (Eridu) and earth (the lower planes). And at this time of forthgoing, he goes in search of that which will provide him with sustenance. The "bark" is the manasic vehicle which sails on the astral sea. The "fish" are those appearances which come to him as sensations, feelings, and emotions, impinging upon the soul at the dawn of consciousness.
+
+> "Thou (Horus) hast opened the two doors of Heaven, thou hast drawn back the great bolts, thou hast removed the seal of the great door."—Budge, *Book of the Dead*, p. cxxiii.
+
+> "The celestial Adam Qadmon is called the Bolt or that which unites Heaven and Earth, the Invisible and Visible."—Myer, *Qabbalah*, p. 115.
+
+"Adam Kadmon," the Adam of the first chapter of Genesis,—the perfect image of God,—signifies the Archetypal Man, the same as "Adapa." Here, the Archetypal Man is called the "Bolt," since it is through him,—as the incarnate God,—that the way or path of the souls is opened between the lower and higher planes.
+
+See ADAM (higher), ADAPA, ARCH. MAN, ERIDU, FISH, GATE (tchesert), GATES, HEAVEN AND EARTH, HIGHER AND LOWER, IMAGE, INCARNATION, LOGOS, MEAT, NIGHT, PATH, SEA.
+
+**Corrections made:** `tes of Eridu` → gates of Eridu; `Savyor` → Sayce; `ete.` → etc.; `Bupce` → Budge; `exxiii` → cxxiii; `Myer` kept; `_ as` → as; See-list spellings restored (`Apam`, `Apapa`, `Arc. MAN`, `Eripu`, `Fisu`, `GaTEs`, `Locos`, `Nicut`, `Pars`).
+
+**Unclear or supplied:** `cxxiii` is a likely correction of `exxiii`. See-list items `LOGOS` (OCR `Locos`), `MEAT` (OCR `Meat`), `PATH` (OCR `Pars`) are likely readings.
 
 ## Full OCR entry body (exact)
 

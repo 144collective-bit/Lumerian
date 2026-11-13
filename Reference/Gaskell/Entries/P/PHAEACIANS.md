@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phaeacians
 headword: "PHAEACIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VAIMANIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIMANIKA DEITIES|VAIMANIKA DEITIES]] |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental faculties on the arupa levels of the mental plane.
+
+> "The Phaeacians have no pilots nor any rudders after the manner of other ships, but their ships themselves understand the thoughts and intents of men; they know the cities and fat fields of every people, and most swiftly they traverse the gulf of the salt sea, shrouded in mist and cloud, and never do they [g]o in fear of wreck or ruin."—*Odyssey*, Bk. VIII.
+
+The higher mental qualities have as vehicles the aspirations of love and truth which rise in the mind as the thoughts and intents of the lower mind are raised and purified. The higher mental qualities are transmutations of the fruits of experience and effort of all associated groups of the lower mental qualities, and they transcend entirely the astral realm (sea) of the desires to which they are unapparent. They are not transient but immortal.
+
+> "The feet of the Phaeacian youths (who are inferior in wrestling and pugilism) move with admirable rapidity and [word unclear] to the divine music of (the) Demodocus."—R. W. Mackay, *Progress of Intellect*, p. 172.
+
+The activities of the higher mental qualities are free from strife and conflict. They are exercised harmoniously in complete unison with the Divine ideal.
+
+See ALCINOUS, ARGO, CONFLICT, CORCYRA, COUNTRIES, DANCE (circle), MUSES, MUSIC, NATIONS, ORPHEUS, PEOPLE, QUALITIES, REAPING, SEA, TRANSMUTATION, VAIMANIKA, WORDS OF POWER.
+
+**Corrections made:** `o in fear` → [g]o in fear; `k. VITT.` → Bk. VIII.; `Phaesacian` → Phaeacian; `Macgay` → Mackay; page heading `570 PHALLIPHORIA` removed from mid-sentence; See-list spellings restored (`Atcrnovus`, `CorcyRa`, `NaTIoNs`, `REaPING`, `SE`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `ie ge`. `[g]o` is reconstructed from truncated OCR.
 
 ## Full OCR entry body (exact)
 

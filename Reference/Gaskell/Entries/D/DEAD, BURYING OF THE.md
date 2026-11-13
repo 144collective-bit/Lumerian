@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dead-burying-of-the
 headword: "DEAD, BURYING OF THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `OINTMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OINTMENT|OINTMENT]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Toms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the painful ridding of the old dead self by the ego. The moralised personality putting under the "old Adam."
+
+> "'Lord, suffer me first to go and bury my father.' Jesus answered, 'Leave the dead to bury their own dead; but go thou and publish abroad the kingdom of God.'"—Luke ix. 59, 60.
+
+> "This signifies the hankering after some time-worn association which is, as it were, 'father' of the personal state of mind, and which effectually prevents the 'kingdom of God,' or first hand, interior, religion, from being understood. The Christ enjoins the leaving of such impedimenta to natural dissolution, and the turning of the soul to truth and righteousness."
+
+> "'Why seek ye the living among the dead' (Luke xxiv. 5). We go to look for Christ in the tomb of moribund creeds, and refuse to believe that He can be anywhere else. ... We fail to see the Living Christ standing in the midst of the mighty movements of the day and directing them to diviner issues."—R. J. Campbell, *Serm. The Resurrection Life*.
+
+See ADAM (lower), CORPSE, FATHER (lower), OINTMENT, PERSONALITY, TOMB.
+
+**Corrections made:** `CamPBeELL` → Campbell; `LUKE` → Luke; See-list spellings restored (`Apam`, `Toms`); stray asterisks and quotation marks normalised; and similar minor fixes.
+
+**Unclear or supplied:** The original quotation structure is damaged; the two unattributed quotations are set out as printed.
 
 ## Full OCR entry body (exact)
 

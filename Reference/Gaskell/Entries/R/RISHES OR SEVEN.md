@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rishes-or-seven
 headword: "RISHES OR SEVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `DELUGE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DELUGE OF WATER|DELUGE OF WATER]] |
 | `Roor-races` | **unresolved** (review queue) |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of the seven root-Races of humanity, commencing on super-physical planes of being.
+
+See DELUGE, ROOT-RACES, SHIP OF MANU.
+
+**Corrections made:** `Roor-races` → ROOT-RACES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

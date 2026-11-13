@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ancestors-or-progenitors
 headword: "ANCESTORS, OR PROGENITORS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Anits` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANTS|ANTS]] |
 | `Frmiat` | **unresolved** (review queue) |
 | `PatTRiaRcus` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of preceding states of the soul, from which the present state is derived.
+
+See [ANITS?], [FRMIAT?], PATRIARCHS.
+
+**Corrections made:** `PatTRiaRcus` → PATRIARCHS.
+
+**Unclear or supplied:** Two See-list items cannot be identified: `[ANITS?]` (OCR `Anits`) and `[FRMIAT?]` (OCR `Frmiat`).
 
 ## Full OCR entry body (exact)
 

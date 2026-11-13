@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-briseis-of-the-fair-cheeks
 headword: "BRISEIS OF THE FAIR CHEEKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `CHRYSEIS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHRYSEIS, HIS DAUGHTER|CHRYSEIS, HIS DAUGHTER]] |
 | `INTUITION` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INTUITION|INTUITION]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition of love expressed in the lower nature, but proceeding from the higher.
+
+> "I (Agamemnon) will go to thy (Achilles) hut and take Briseis of the fair cheeks, even that thy meed of honour, that thou mayest well know how far greater I am than thou, and so shall another hereafter abhor to match his words with mine and rival me to my face."—*Iliad*, Book I.
+
+The Desire-mind will, it supposes, approach the mental vehicle of the Personality, and by so doing take captive the Love nature (lower) on the plane of instinct, through which the experience of the Personality is acquired; in order that the Personality may be impressed with the irresistible power of seductiveness of the Desire-mind, and so make it impossible for any other power to gain the ascendency over the influence of the Desire-nature (as it is imagined).
+
+See ACHILLES, AGAMEMNON, CHRYSEIS, INTUITION, SERPENT (subtil).
+
+**Corrections made:** `Desiremind` → Desire-mind; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

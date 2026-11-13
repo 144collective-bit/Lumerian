@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anubis-son-of-osiris-and-nepthys
 headword: "ANUBIS, SON OF OSIRIS AND NEPTHYS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `NEPHTHys` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
 | `Ropr` | **unresolved** (review queue) |
 | `SUDRA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical body as the most outward vehicle of the soul; the product of Divine energy and matter on the physical plane (Nepthys).
+
+> "Isis found the child and bred it; so that in process of time it became her constant guard and attendant, and from hence obtained the name of Anubis, being thought to watch and guard the Gods, as dogs do mankind."—Plutarch, *Isis and Osiris*, § 14.
+
+Wisdom (buddhi) takes charge of the physical body and tends it, and assumes direction of its evolution while it guards the Divine nature within. In this way a perfect reciprocity is established between the higher and lower planes, through the actions and re-actions of the physical vehicle which thus becomes the constant attendant and nurturer of the Ideals (gods), or higher activities within the soul.
+
+> "According to Egyptian belief Anubis was a special patron of the dead, guarding them and superintending their embalmment, he or Thoth being their guide into the next world, and leading them by the hand into the Hall of Judgment."—Wiedemann, *Rel. of Anc. Egyptians*, p. 230.
+
+> "Anubis who is at the head of the divine hall and who dwelleth upon his mountain, the lord of Ta-tchesert, saith:—I have come to protect Osiris Mut-hetep, triumphant."—[Budge?], *The Book of the Dead*, Ch. [unclear], p. 5[?].
+
+> "Anubis hath bestowed upon thee (Osiris Nebseni) thy winding-sheet, he hath wrought for thee according to his will, he hath provided thee with the ornaments of his bandages, for he is the overseer of the great god."—*Ibid.*, CLXXIII., p. 586.
+
+The physical body (Anubis) is a great factor in the mental expression of the personality (corpse), its activities, and its purification (embalmment). The physical mechanism and the higher mind (Thoth) lead the personality by its activities (hand) to the test of completeness of the perfecting process when the consciousness should rise to the higher planes. The physical body is in the forefront of the means of developing the causal-body (divine hall) which is exalted above it; and it serves the spiritual ego (Osiris) within. It is also the external means provided for the education and enlargement of the ego.
+
+See [ARU-RA?], ANPU, APUAT, BOAT, EMBALMMENT, ISIS, JACKAL, NEPHTHYS, ROPE, SUDRA.
+
+**Corrections made:** `PLutTaRcH` → Plutarch; `p- 230` → p. 230; `causalbody` → causal-body; `CLXXITI.` → CLXXIII.; page heading `APARAGITA` removed from mid-sentence; See-list spellings restored (`AnPu`, `ApuatT`, `Ropr`, `NEPHTHys`, `Isis`); quotation marks normalised.
+
+**Unclear or supplied:** The attribution of the third quotation is damaged (OCR `—. he Book of the Dead, Ch. p. 5`): author, chapter and page are partly lost; `[Budge?]` is a likely author. `[ARU-RA?]` is the OCR `Aru-RA`, uncertain.
 
 ## Full OCR entry body (exact)
 

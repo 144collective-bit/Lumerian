@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rimthursar-righteous-man
 headword: "RIMTHURSAR RIGHTEOUS MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `GaTua (ush.)` | **unresolved** (review queue) |
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfected soul liberated from the lower nature.
+
+See GATHA (ush.), MAN (righteous).
+
+**Corrections made:** `GaTua` → GATHA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

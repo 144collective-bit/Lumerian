@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ascension-of-osiris
 headword: "ASCENSION OF OSIRIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,28 @@ tags:
 | `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
 | `Sun-nmine` | **unresolved** (review queue) |
 | `Tuat. ASCETIC;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the rising of the lower Self to become one with the Higher Self.
+
+> "He who is in this picture in the invisible form of Horus in the thick darkness, is the hidden image (of Osiris) which Shu lifteth up beneath the sky, and Keb-ur cometh forth in the earth in this [word unclear]."—Budge, *Egypt. Heav. and Hell*, Vol. I. p. 278.
+
+The entity depicted as Horus is the Osirified-soul perfected and ascending from the lower planes (darkness) in the "night of the Tuat," as the cycle (Tuat) closes. The Osirified-soul becomes lost in the Osiris, that is, the perfected lower Self becomes one with the Higher Self in the causal-body. The Divine Will (Shu) raises the personality (Keb-ur) which has developed from the lower nature (earth). (The picture)—
+
+> "The end of the Tuat, which is represented by a semi-circular wall or border formed of earth. At the middle point of this border is the disk of the sun which is about to rise, and joined to it is the head of the 'image of Shu,' with his arms stretched out along the rounded border of the Tuat. Above his head is the beetle, symbol of Kheper, who has emerged from the boat of the Sun-god; and below is the 'image of Af,' that is to say, the body of the night Sun-god, which has been cast away."—*Ibid.*
+
+This symbolical picture exactly describes the ascension of "Horus into Osiris" or "Jesus into Christ." The future period indicated is the end of the cycle,—the termination of the "12th hour of the Tuat." The "black sun-disk" represents the unapparent Higher Self (Osiris). It rises from the cycle through "Shu" the Divine Will. The "beetle Kheper" signifies the indwelling Self (Horus) ready now to rise from the lower nature (earth) and to become united with the Self (Osiris) in the causal-body (image of Shu). Now the lower Self (Kheper-Horus) having become perfected and resurrected, discards the personality (image of Af) it has worked through for so long. The image therefore lies as a corpse at the end of the cycle; but it is depicted as embalmed, and has a large X cross marked upon it. This means that the personality has been perfected at the crucifixion and therefore dies to be re-born spiritually (as Horus) in the new life. The "image of Shu" has neither body nor lower limbs, thus signifying that the individuality in the causal-body no longer puts forth personalities to occupy bodies on the lower planes. After the crucifixion (arms outstretched) the soul has ceased to possess any lower nature.
+
+> "Verily, verily, I say unto thee (Peter), When thou wast young, thou girdest thyself, and walkest whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not. Now this he spake, signifying by what manner of death he should glorify God."—John xxi. 18, 19.
+
+As "Peter" means the lower mind or lower personality, the symbolism precisely corresponds with the swathing of the mummy of "Af-Râ." "Peter's" arms are girded to his body, signifying inactivity of the personality, through the withdrawal of Spirit ("another"). But being perfected he, by dying, "glorifies God." Truly hereby is declared the fate of the lower personality. When the lower mind (Peter) is undeveloped (young) it is a law to itself, and it directs the outer activities of the soul according to its will. But when it is perfected at the end of the cycle, then (another) the indwelling Self,—the spiritual ego,—becomes supreme over it and reduces it to impotence. The personality is permitted no longer any directive action, and so it yields up its life, being, as it were, crucified in matter with head (mind) downwards. The death of the lower mind signifies the perfecting of the soul or the glorifying of God.
+
+See [Aru-rni?], ARMS (body), BOAT, CAUSAL-BODY, CORPSE, CROSS, CRUCIFIXION, EMBALMMENT, FEED, GLORIFYING, HORUS, KHEPER, MUMMY, OSIRIS, PERSONALITY, PETER, SCARABAEUS, SHU, SUN-DISK, TUAT.
+
+**Corrections made:** Page headings `ASCENSION` (mid-quotation) and `71 ASCETIC` (mid-word `cruci71 ASCETIC fixion`) removed, and the trailing `ASCETIC;` (next entry's heading) removed; `ie` → is; `Buper` → Budge; `Osirifiedsoul` → Osirified-soul; `causalbody (smage of Shu)` → causal-body (image of Shu); `tmage` → image; `ake` → spake; `eath` → death; `Joxn` → John; `Af-R&` → Af-Râ; `ite` → its; `Jbid.` → Ibid.; See-list spellings restored (`CavusAL-BoDY`, `CorpsE`, `GLORIFyInc`, `KHEerer`, `ScaraBzvus`, `Sun-nmine`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` at the end of the first quotation (OCR `in this i`). `[Aru-rni?]` is a See-list item that could not be identified. `BOAT` is a reading of OCR `Boar`. `Sun-nmine` is read as SUN-DISK.
 
 ## Full OCR entry body (exact)
 

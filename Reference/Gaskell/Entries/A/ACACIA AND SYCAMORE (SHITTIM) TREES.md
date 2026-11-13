@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-acacia-and-sycamore-shittim-trees
 headword: "ACACIA AND SYCAMORE (SHITTIM) TREES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Bows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BOWS OF BOAT|BOWS OF BOAT]] |
 | `SYCAMORE` | **unresolved** (review queue) |
 | `ZACCHEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZACCHEUS, A CHIEF PUBLICAN|ZACCHEUS, A CHIEF PUBLICAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of "trees of Life," indicative of Truth and Goodness.
+
+> "Acacia wood was held to be 'wood of life.' According to Kircher it was sacred to the Sun-god in Egypt."—A. Jeremias, *Old Test.*, etc., Vol. II. p. 123.
+
+> "Hero-behutet (Horus) was made the God of the region, and the acacia and the sycamore were sacred to him."—*Legend of the Winged Sun-disk*, Wiedemann.
+
+The Christ (Horus) now became the Lord of the soul, inasmuch as he united mind to God, and thereby established Truth and Goodness which live and endure throughout all time.
+
+See BOWS, SYCAMORE, ZACCHEUS.
+
+**Corrections made:** `Kercher` → Kircher; `Teat.` → Test.; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

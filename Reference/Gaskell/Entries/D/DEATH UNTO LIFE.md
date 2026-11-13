@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-death-unto-life
 headword: "DEATH UNTO LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `MoNa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The passage, as it were, of the human monad from the lower nature to the higher. The lower nature of the soul, centred by the personality, perishes, while the victorious ego rises to the higher mental plane and becomes one with its Lord (the Individuality) in the causal-body.
+
+> "'Blessed are the dead who die in the Lord.' Rightly, indeed, does He call them the blessed dead, for they remain continually dead to themselves, and immersed beyond their own nature in the gladdening unity of God."—Ruysbroeck, Stoddart's trans., p. 85.
+
+> "The death that we have to die has little to do with physical dissolution; it is the letting go, the laying down, one by one, of all the desires that seek their gratification in separateness from our brethren. One by one these shackles have to be broken, these attractions disowned, these illusions swept away."—R. J. Campbell, *Serm., The Lifting up of Christ*.
+
+The lower life is the outflowing limited life of the manifest which ends in death, while the higher life is the inflowing, increasing life towards the Ideal and Eternal within.
+
+See MONA[D?]
+
+**Corrections made:** `RuvysBROECK` → Ruysbroeck; `CampsBetz` → Campbell; stray asterisks and quotation marks normalised; and similar minor fixes.
+
+**Unclear or supplied:** The See list is cut off after `MoNa`; `MONA[D?]` is the likely reading, and any further items are lost.
 
 ## Full OCR entry body (exact)
 

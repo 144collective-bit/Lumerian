@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-salmon-sakaki-tree-of-heaven
 headword: "SALMON SAKAKI TREE OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `CHRISTMAS-TREE` | **unresolved** (review queue) |
 | `MITEGUEA. TAMA-GUSHI` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life (atmabuddhi) which flows through all forms in the invisible and visible universe. See CHRISTMAS-TREE, [MITEGUEA?], TAMA-GUSHI, TREE OF LIFE.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** `[MITEGUEA?]`: OCR `MITEGUEA.`; not identified with confidence.
 
 ## Full OCR entry body (exact)
 

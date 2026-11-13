@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brother-brother-of-jesus
 headword: "BROTHER BROTHER OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `CONSUMMATION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSUMMATION|CONSUMMATION]] |
 | `UNION WITH GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Individuality, with which the perfected Personality unites.
+
+> "Thy brother embraced Thee (Jesus) and kissed Thee, and Thou didst also kiss Him, ye became one and the same Being."—Mary's story of the Infancy, in the *Pistis Sophia*.
+
+The lower limitations are transcended, the soul-consciousness below rises to the consciousness above in the causal-body, the salute of Love is given, and the Higher Self and the Lower Self are made One and indistinguishable on the plane of the higher mind.
+
+See CONSUMMATION, UNION WITH GOD.
+
+**Corrections made:** `end kissed` → and kissed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

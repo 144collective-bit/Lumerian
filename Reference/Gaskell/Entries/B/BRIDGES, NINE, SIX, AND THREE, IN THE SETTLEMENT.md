@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bridges-nine-six-and-three-in-the-settlement
 headword: "BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are eighteen centres of organisation in the soul, on various planes,
+
+> "In the uppermost part of the settlement make nine bridges, in the middle six, and in the lowermost three."—*Vendidad*, II. 8. B. of E.
+
+The nine "bridges" are the nine centres on the higher planes, whose correspondences find representation on the lower planes. The six middle MENTS, STREETS (nine), VARA.
+
+**Corrections made:** page number `128` removed; quotation marks normalised.
+
+**Unclear or supplied:** The entry text is cut off after "The six middle", and the OCR continues with the tail of a See list (`MENTS, STREETS (nine), VARA.`); part of this entry's text appears displaced into the previous entry (BRIDGE OF GJALL). A comma after "planes" in the OCR is kept as a colon-less break before the quotation.
 
 ## Full OCR entry body (exact)
 

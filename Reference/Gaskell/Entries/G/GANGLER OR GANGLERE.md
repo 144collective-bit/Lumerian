@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gangler-or-ganglere
 headword: "GANGLER OR GANGLERE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Brrrost` | **unresolved** (review queue) |
 | `Hri1` | **unresolved** (review queue) |
 | `Loge` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego as life's pilgrim; or the conscience.
+
+> "Evil are the deeds of Loki truly,' said Gangler; 'first of all in his having caused Baldur to be slain, and then preventing him from being [word unclear] out of Hel.'"—*Prose Edda*, p. 449.
+
+Then the conscience speaks:—The desire-nature (Loki) has done amiss apparently, in that it has become the means of drawing the Soul (Baldur) to the karmic planes whereon it is obscured, and that it now serves to prevent it from rising to union with the Higher Self.
+
+See BALDER, BIFROST, HEL, LOGE.
+
+**Corrections made:** `bein` → being; stray `»` removed; page headings `DEvas, 300 GARDEN` removed from mid-sentence; See-list spellings restored (`BaLver`, `Brrrost`, `Hri1`, `Loge`); quotation marks normalised (the OCR opens the quotation with a damaged mark and a single mark before `Evil`; set as an opening double quote with the inner quotation closed by `'`).
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "bein Arie out of Hel"; the verb is lost.
 
 ## Full OCR entry body (exact)
 

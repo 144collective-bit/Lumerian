@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gift-of-tongues
 headword: "GIFT OF TONGUES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `1 Cor. xiv; Marx vii. 35. See DEAFNESS` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the unfoldment of a spiritual faculty, or the power of presenting from within to the understanding the truth and love of the Spirit, which enables the lower mind to realise in some degree the beauty of the powers of high intellect and emotion which are above it and beyond its purview.—See 1 Cor. xiv; Mark vii. 35.
+
+See DEAFNESS.
+
+**Corrections made:** `Marx` → Mark.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

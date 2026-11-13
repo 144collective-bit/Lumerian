@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pitris-solar
 headword: "PITRIS, SOLAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,24 @@ tags:
 | `SONS OF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `SPARKS` | **unresolved** (review queue) |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual "fathers" of the human individualities which centralise every soul. These are the Divine sparks (agnishwattas) from the solar fire, the Eternal Spirit. They are the spiritual egos which descend to the lower planes to incarnate in human nature by identifying themselves with the human personalities while they gain experience and seek to manifest their nature in the heart of man. The spiritual egos are seated in the causal-bodies on the higher mental plane, and render man a spiritual being with a higher nature from God, and a lower nature from matter.
+
+> "These five beings obtained out of an immense crucible, by chemical process, a male and a female, from whom, through the essential influence of the sun and moon, human beings descended, who gradually filled the earth."—Kidd, *China*.
+
+The five planes of nature are permeated or energised by a central spiritual intelligence whose dual aspects are masculine-feminine, active-passive, force-matter, and from this duality the life manifested which was to be evolved upon the planes. The lunar cycle and lunar pitris are symbolised by the "moon"; the sparks of the Divine life (solar pitris) by the "sun." In this manner and process,—the lunar pitri (personality) collecting, as it were, the 'solar ray' or germ of individuality, and transmuting through the Spirit its own inherent latent qualities,—the soul is evolved.
+
+> "As individualised beings we had our beginnings in this world; but the being thus individualised has had a nobler [origin?]; it is of the eternal God himself."
+
+> "All life that comes to self-consciousness is a ray of the eternal wisdom, a spark from the eternal fire. The Word has been made flesh in you and me as well as in our Lord and Master. . . . As I have said before, there are no untrue doctrines; there are only more or less inadequate apprehensions of the one eternal truth which is the love of God."—R. J. Campbell, *Serms.*, *Christ Transcendent*, and *The Word made Flesh*.
+
+See AGNISHVATTAS, BODHISATVAS, CAUSAL-BODY, FRAVASHIS, GUARDIAN SPIRITS, HEAVEN, INCARNATION OF SOULS, INDIVIDUALITY, MANASAPUTRAS, MANES, MARUTS, MATRO, MONAD OF LIFE, MOON, MUSPELL (sons), PACCEKA-BUDDHAS, PERSONALITY, RULERS OF MATTER, SONS OF GOD, SPARKS, SUN.
+
+**Corrections made:** `greduelly` → gradually; `Kupp` → Kidd; `activepassive` → active-passive; `oh me it is of the eternal God himsel` → [origin?]; it is of the eternal God himself; `w toh` → which; `MANASAPUTras, Manes, Marvuts, Martro, MonapD oF LIFE` and `SONS OF Gop` restored in the See list; page heading `PITRIYANA` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `[origin?]` is a likely reading of the damaged OCR `oh me`. The author `Kupp` is read as Kidd on a damaged print.
 
 ## Full OCR entry body (exact)
 

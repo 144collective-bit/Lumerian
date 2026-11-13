@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rich-man
 headword: "RICH MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `OPPosrres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
 | `PovERTY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POVERTY|POVERTY]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mind set upon identifying itself with a multiplicity of objects, while inclination fosters the "pairs of opposites" that beget the sense of separateness.
+
+> "Would that the days passed swiftly over me, and that all the hours were one, that I might go forth from this world; and go and see that Beautiful One, ... where there is neither day nor night, and no darkness but light, and neither good nor bad, nor rich nor poor, neither male nor female, nor slaves nor freemen, nor any proud and uplifted over those who are humble."—*Acts of Judas Thomas*, Wright's trans., p. 265.
+
+Here the soul yearns for union with the Higher Self, when the lower nature (world) will be surpassed, and all conflict be at an end. But it is impossible for an ego while distracted by the opposites and the conflicting emotions (riches) of the lower planes to enter into the nature of that which is bliss.
+
+See LAZARUS, MAN (rich), OPPOSITES, POVERTY, TREASURE.
+
+**Corrections made:** `WRIGHT’s` → Wright's; See-list spellings restored (`Lazarus`, `OPPosrres`, `PovERTY`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

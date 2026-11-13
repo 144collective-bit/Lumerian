@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eden-rivers-cushion-to-recline-upon
 headword: "EDEN RIVERS, CUSHION TO RECLINE UPON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `PILLow. 196` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblem of security and trust in the Divine nature.
+
+See PILLOW.
+
+**Corrections made:** `PILLow` → PILLOW; stray page number `196` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

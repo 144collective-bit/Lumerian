@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-khien-and-khwan
 headword: "KHIEN AND KHWAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `Sprit` | **unresolved** (review queue) |
 | `Tao` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
 | `Yana` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Spirit and Matter, the dual elements of manifestation.
+
+> "Khien is the symbol of heaven, and hence has the appellation of Father. Khwan is the symbol of earth, and hence has the appellation of Mother."—*The Yi King*, Appendix V. Ch. X. 14.
+
+> "Khien symbolises Heaven, which directs the great beginnings of things; Khwan symbolises Earth, which gives to them their completion."—*The Yi King*, Appendix III. Ch. I. §1, 6.
+
+> "Khien, the symbol of Heaven, and conveying the idea of strength, shows to men its easy and natural action. Khwan, the symbol of Earth, and conveying the idea of docility, shows to men its commodious receptivity and operation. . . . The great attribute of Heaven and Earth is the giving and maintaining Life."—*The Yi King*, Appendix III. Ch. I. 7-10.
+
+These passages from the Chinese scriptures explain themselves. Spirit is the Divine Life, active and powerful. Matter is that which is acted upon; it is plastic and receptive in involution, and subsequently brings forth the qualities in evolution.
+
+See COSMOS, CREATION, EARTH, EVOLUTION, HEAVEN AND EARTH, INVOLUTION, KHWAN, MATTER, PRAKRITI, SPIRIT, TAO, YANG.
+
+**Corrections made:** `Ys King` → Yi King; `comndious` → commodious; `EarrTa`, `Martrer`, `PRakEit1`, `Sprit`, `Yana` restored in See list; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

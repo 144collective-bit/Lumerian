@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rulers-of-matter
 headword: "RULERS OF MATTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `MONADS OF FORM AND LIS` | **unresolved** (review queue) |
 | `Prrris (lunar)` | **unresolved** (review queue) |
 | `Prrris (solar)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the forms of manifestation in which spirit is embodied.
+
+> "The substance of the Rulers is the matter out of which souls are made."—*The Pistis Sophia*.
+
+This refers to the Lunar Pitris of the astro-physical evolution, which develop the human forms in which the Solar Pitris, or Divine Sparks, become embodied, thus constituting the souls of humanity.
+
+See MONADS OF FORM AND LIFE, PITRIS (lunar), PITRIS (solar).
+
+**Corrections made:** `th:` → the; `oi` → of; `sparks.` → Sparks,; See-list spellings restored (`LIS`, `Prrris`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

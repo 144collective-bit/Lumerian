@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dionysus-or-bacchus
 headword: "DIONYSUS, OR BACCHUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,32 @@ tags:
 | `Yur` | **unresolved** (review queue) |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS. DIOSCURI ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self evolving in all the lower nature and born in the soul. The "vine" with which the symbol is connected is the same as the "tree of Life," which signifies the spiritual life which ramifies through all things. "Wine," the "blood of the grape," symbolises the spiritual truth and life which intoxicates the lower nature and renders it powerless.
+
+> "Zeus, in order to save his child (Dionysus), changed him into a ram, and carried him to the nymphs of Mount Nysa, who brought him up in a cave, and were afterwards rewarded by Zeus, by being placed as Hyades among the stars."—Smith's *Class. Dict.*
+
+The Supreme, in order to effect the purpose of manifestation, set his emanation (Dionysus) under laws of limitation (the "ram" or "lamb" sacrifice), so that it should be developed in the lower nature of the soul (cave) by the buddhic qualities (nymphs) which were afterwards united to the mental qualities (stars).
+
+> "Bacchus, or the mundane intellect, is 'the [word unclear], or proximately exempt producing cause.' Bacchus is said to be the 'spiritual part of the mundane soul.'"—G. R. S. Mead, *Orpheus*, p. 182.
+
+> "The Platonists called Dionysus 'Our Master,' for the mind in us is Dionysiacal and the image of Dionysus."—*Ibid.*, p. 183.
+
+This may be taken as meaning that Christ, our Master, is our indwelling ruler, for our mind is spiritualised and possesses the Divine image—Wisdom and Love.
+
+> "Dionysus, while a youth, was particularly captivated with beholding his image in a mirror; during his admiration of which he was miserably torn to pieces by the Titans; who not content with this cruelty, first boiled his members in water, and after roasted them by fire."—Taylor, *Eleusinian Mysteries*, p. 126.
+
+The Higher Self having attained perfection through involution as the Archetypal Man, he, as it were, perceived his lower self to be like himself, which perfection occasioned, through the great forces of existence (the Titans), his death out of the lower state, and the cutting up of his astro-mental body of qualities as material for the new state now arising. The desire-mental qualities were infused in the soul's new astral (water) nature, in order that they should afterwards be purified (roasted) and raised by buddhi (fire).
+
+> "The legend (of Dionysus and the Titans) can be interpreted from the macrocosmic and microcosmic standpoints. From the former we see the symbolical drama of the World-soul being differentiated into individual souls; from the latter the mystical spectacle of the individual soul divided into many personalities, in the long series of rebirths or palingenesis through which it threads its path on earth. As Macrobius says: 'By Father Liber [Dionysus] the Orphics seem to understand the Hylic Mind, which is born from the Impartible [Mind] and is separated into individual minds [or personalities]. And so in their sacred rites [Dionysus] is represented to have been torn into separate members, and the pieces buried [in matter], and then again he is resurrected intact.' (Somn. I. xii. 67)."—G. R. S. Mead, *Orpheus*, p. 184.
+
+See ARC. MAN, BACCHUS, BIRTH OF JESUS, CAVE, CRATER, DEATH OF OSIRIS, DISMEMBERMENT, DRUNKARD, IMAGE, INTOXICATION, LAMB OF GOD, LOSS, MEMBERS, NYMPHS, OSIRIS, RAM, ROASTED, SATYRS, SILENUS, STARS, TITANS, VINE, WATER, WINE, YMIR, ZAGREUS, ZEUS.
+
+**Corrections made:** `iatoxicates` → intoxicates; `Mean` → Mead; `Orphaus` → Orpheus; `Jbid.` → Ibid.; `@` → a; `TayLtor` → Taylor; `rsonalities` → personalities; `reirths` → rebirths; `seperate` → separate; page headings `| DIONYSUS |` (mid-sentence), `219 DIOSCURI` and trailing `DIOSCURI ;` removed; See-list spellings restored (`Aro.`, `Baccnuus`, `Nympus`, `Roastep`, `Srars`, `Trrans`, `Mempers`, `ImaGE`, `Yur`, and others); and similar minor fixes.
+
+**Unclear or supplied:** In the first Mead quotation, OCR `, Or` after "the" is unreadable; marked `[word unclear]` and "or" kept. See-list items `OSIRIS` (OCR `Osis`), `YMIR` (OCR `Yur`) and `LOSS` (as printed) are uncertain.
 
 ## Full OCR entry body (exact)
 

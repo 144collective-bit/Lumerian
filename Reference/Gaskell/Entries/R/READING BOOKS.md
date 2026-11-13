@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reading-books
 headword: "READING BOOKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Papyrus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PAPYRUS BOAT OF ISIS|PAPYRUS BOAT OF ISIS]]; [[Reference/Gaskell/Entries/P/PAPYRUS PANOPOLIS, OR CHEMMIS|PAPYRUS PANOPOLIS, OR CHEMMIS]] |
 | `Scriprures` | **unresolved** (review queue) |
 | `SIen` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of veneration of the scriptures according to the letter.
+
+> "Whensoever Moses is read, a veil lieth upon their heart. But whensoever it shall turn to the Lord, the veil is taken away."—2 Cor. iii. 15, 16.
+
+> "Now the Lord is the Spirit: and where the Spirit of the Lord is, there is liberty" to perceive the truth behind the veil of the letter.
+
+See BOOK STUDIES, MOSES, PAPYRUS, SCRIPTURES, SIGN.
+
+**Corrections made:** `**'Whensoever` → "Whensoever; `Book stupiEs` → BOOK STUDIES; `MossEs` → MOSES; `Scriprures` → SCRIPTURES; `SIen` → SIGN.
+
+**Unclear or supplied:** The second quotation's closing mark appears after "liberty" in the OCR and the words "to perceive the truth behind the veil of the letter" look like Gaskell's own comment; left as printed with the quotation shown to "liberty".
 
 ## Full OCR entry body (exact)
 

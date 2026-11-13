@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-legislation-divine
 headword: "LEGISLATION, DIVINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CIVILISING` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CIVILISING THE PEOPLE|CIVILISING THE PEOPLE]] |
 | `Oannes` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `YAO. Gov` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the organising of the universe and of the activities of the soul.
+
+See CIVILISING, OANNES, YAO.
+
+**Corrections made:** `soul, See` → soul. See; `Oannes` capitalised; trailing `Gov` removed as the start of the next headword.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

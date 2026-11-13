@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown-of-twelve-stars
 headword: "CROWN OF TWELVE STARS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,26 @@ tags:
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WOMAN (goodness)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of supremacy over the conditions of the lower planes during the cycle of twelve divisions (zodiac).
+
+> "A woman arrayed with the sun, and the moon under her feet, and upon her head a crown of twelve stars."—Rev. xii. 1.
+
+The Wisdom principle (buddhi) with the power of the Self (sun), and ruling the astral region (moon); with supremacy over the lower planes as director of the evolution of the soul.
+
+> "This is the Soul invested with the light of supreme knowledge attained through the experiences undergone in the long series of her past existences; standing on the moon as victor over materiality and firm in the faith of a full intuition,—states denoted respectively by the dark and light portions of the moon; and superior evermore to the changes of mortal destiny, the stars which represent this being the jewels of her crown, each of them denoting one of the 'twelve labours' necessary to be endured by the Soul on her path to her final perfectionment, and the spiritual gifts and graces acquired in the process."—*The Perfect Way*, p. 190.
+
+> "It signifies wisdom and intelligence from knowledges of divine good and divine truth derived from the Word."—Swedenborg, *Apoc. Rev.*, n. 534.
+
+> "There was a wonder in heaven; a throne was seen far above all created powers, mediatorial, intercessory, a title archetypal, a crown bright as the morning star, a glory issuing from the eternal throne, robes pure as the heavens, and a sceptre over all. And who was the predestined heir of that majesty? Who was that Wisdom, and what was her name, the mother of fair love, and fear, and holy hope, exalted like a palm-tree in Engaddi, and a rose-plant in Jericho, created from the beginning before the world, in God's counsels, and in Jerusalem was her power? The vision is found in the Apocalypse, 'a Woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars.' The votaries of Mary do not exceed the true faith."—J. H. Newman, *Development*, pp. 405, 406.
+
+See AMATERASU, ASSUMPTION, BIRTH OF MAN-CHILD, DRAGON (red), FEET, LATONA, MOON, STARS (fixed), SUN, TUAT, TWELVE, VIRGIN MARY, WOMAN (goodness), ZODIAC.
+
+**Corrections made:** `ber head` → her head; page heading `189 CROWNING` removed from mid-sentence; `Imowledge` → knowledge; `@ full` → a full; `& wonder`, `& throne` → a wonder, a throne; `SwEDENBORG`, `NEwman` capitalisation normalised; See-list spellings restored (`DRraqon`, `FEEtT`, `Latona`, `Moon`, `Stars`, `Sun`, `Tuat`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

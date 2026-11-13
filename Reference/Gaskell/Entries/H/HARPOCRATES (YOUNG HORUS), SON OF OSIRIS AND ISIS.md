@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harpocrates-young-horus-son-of-osiris-and-isis
 headword: "HARPOCRATES (YOUNG HORUS), SON OF OSIRIS AND ISIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `PLEROMA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PLEROMA|PLEROMA]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self born in the soul upon the buddhic plane, prior to the birth upon the mental plane. This is when the soul is evolving upon the astral plane, and is, therefore, the point when the Son of mind enters as a germ.
+
+> "Harpocrates came into the world before his time, and lame in his lower limbs."—Plutarch, *Isis and Osiris*, § 65.
+
+This signifies that the Higher or potential Self is always relatively unmanifested, and that the lower or actual condition is never able to express or support in fullness the Higher. See BIRTH OF HORUS, HEPHAISTOS, HORUS (child), LAMENESS, [Las?], PLEROMA, SEED, WORLD.
+
+**Corrections made:** `PLuTaRcH, Isia` → Plutarch, Isis; See-list spellings restored (`BirtH or HORUS`, `Horvus`, `Lameness`); quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[Las?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

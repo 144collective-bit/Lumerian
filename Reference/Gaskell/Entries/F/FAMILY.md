@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-family
 headword: "FAMILY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `NATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/N/NATIONS, OR PEOPLES|NATIONS, OR PEOPLES]] |
 | `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of qualities in close relation to each other, and attached to a single centre.
+
+> "I bow my knees unto the Father, from whom every family in heaven and on earth is named."—Eph. iii. 14, 15.
+
+The moral nature restrains the activities of the lower nature in due regard to the central Ideal and source of all, to which the differentiated groups of higher and lower kindred qualities of the soul are primordially attached.
+
+See FATHER, KING, NAME, NATION, TRIBES.
+
+**Corrections made:** `toa` → to a; `EpH.` → Eph.; `FarHer, Kner` → FATHER, KING; quotation marks normalised.
+
+**Unclear or supplied:** `KING` is a best reading of OCR `Kner`.
 
 ## Full OCR entry body (exact)
 

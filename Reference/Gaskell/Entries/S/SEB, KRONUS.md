@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seb-kronus
 headword: "SEB, KRONUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `Steps` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
 | `Tuas` | **unresolved** (review queue) |
 | `Zoprac` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Time in relation to manifestation.
+
+> "Shu was the first-born son of Ra by the goddess Hathor, the sky; he typified the light, and lifted up the sky (Nut) from the earth (Seb), and placed it upon the steps which were in Khemennu."—[attribution unclear], *Book of the Dead*, p. 93.
+
+The Divine Will in manifestation (Shu) proceeded through the innermost Buddhi (Hathor) to produce the lower planes. The Divine Will emanated the consciousness (light) in actualising the relation between Space (Nut) and Time (Seb); and so commencing from the highest plane the processes of Involution and Evolution.
+
+> "The Greeks identified Seb with Kronos, probably only because as father of Osiris he might be considered as senior among the gods. Shu was supposed to be his father, and Nut his wife. His sacred animal was the goose, and sometimes he is supposed to be connected or even identical with the goose which laid the egg whence issued the world."—Wiedemann, *Rel. of Anc. Egyptians*, p. 231.
+
+Through time is produced the germ of every new solar universe.
+
+See BIRD (great), BIRTH OF OSIRIS, CRONUS, CURSE, EGG, HATHOR, INVOLUTION, [KHORPAP?], KRONOS, NUT, PILLARS OF SHU, RA, SATURN, SHU, STEPS, [TIME?], ZODIAC.
+
+**Corrections made:** `Khemennt` → Khemennu; `innernost` → innermost; `ower` → lower; `ema1ated` → emanated; `wtualising` → actualising; `Nut)` → (Nut); `comnencing` → commencing; `oroceases` → processes; `WiEpvEMany` → Wiedemann; page heading `3EED` (SEED) removed; See-list spellings restored (`Bmp`, `Cursz`, `Ecc`, `Harnor`, `Not`, `Sav`, `Zoprac`).
+
+**Unclear or supplied:** The attribution before "Book of the Dead" is lost (OCR `oe ne`). `[KHORPAP?]` is the OCR `KHorpap`. `[TIME?]` is the OCR `Tuas`.
 
 ## Full OCR entry body (exact)
 

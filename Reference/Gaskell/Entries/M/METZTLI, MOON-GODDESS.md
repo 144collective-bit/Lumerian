@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-metztli-moon-goddess
 headword: "METZTLI, MOON-GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `BuUDDHI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BUDDHI, OR THE WISDOM PRINCIPLE|BUDDHI, OR THE WISDOM PRINCIPLE]] |
 | `(natural)` | **unresolved** (review queue) |
 | `Moon (higher). Man` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle, and also the buddhic reflected in the astral.
+
+> "The moon-goddess of the Aztecs or ancient Mexicans. Her myth relates that in the absence of a luminary of day all humanity was plunged into darkness, which a human sacrifice alone could relieve. Metztli thereupon brought to the sacrifice Nanahuatl the Leprous, and cast him into a huge [word unclear] which stood ready for the victim. She herself followed him into the furnace, and on her disappearance the sun rose."—*Non-classical Mythology*, p. 117.
+
+This is a concise account of the process of the soul's salvation. The Higher Self (sun) is obscured to our consciousness, and only by the sacrifice of the "natural man" will it be possible for the Self to shine in the soul. Therefore it is provided that through the functioning of the buddhic principle (Metztli) the corrupt lower self or personality (the Leper) is put through the experiences of life and gradually purified through suffering until it is perfected. The last sentence refers to the final consummation, when the buddhic is withdrawn and the Highest (atma) alone remains.
+
+See AMATERASU, BUDDHI, MAN (natural), MOON (higher).
+
+**Corrections made:** `Asteos` → Aztecs; `tho soul` → the soul; `perfocted` → perfected; `ARMATERASU` → AMATERASU; page heading `499 MICROCOSM` removed from mid-sentence; See-list items reordered into their printed form (`Man` joined to `(natural)`).
+
+**Unclear or supplied:** `[word unclear]`: OCR reads `e` after "a huge".
 
 ## Full OCR entry body (exact)
 

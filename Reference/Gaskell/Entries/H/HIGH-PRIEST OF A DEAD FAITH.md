@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-high-priest-of-a-dead-faith
 headword: "HIGH-PRIEST OF A DEAD FAITH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Annas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ANNAS, CAIAPHAS, PRIESTS AND ELDERS|ANNAS, CAIAPHAS, PRIESTS AND ELDERS]]; [[Reference/Gaskell/Entries/A/ANNAS, THE PRIEST|ANNAS, THE PRIEST]] |
 | `CAIAPHAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CAIAPHAS, THE HIGH PRIEST|CAIAPHAS, THE HIGH PRIEST]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of conventional ideas of religion, and the rule of a formal creed which supports sectarianism and intolerance.
+
+See ANNAS, CAIAPHAS, PRIESTS AND ELDERS.
+
+**Corrections made:** `Annas` → ANNAS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

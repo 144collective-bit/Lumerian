@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-of-the-earth
 headword: "BEASTS OF THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,28 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SacriFick` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the desires of the lower nature, with the animal instincts and appetites (serpents).
+
+> "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air; with all wherewith the ground teemeth, and all the fishes of the sea, into your hand are they delivered."—Gen. ix. 2.
+
+And the lower nature of the soul is first to be subdued and disciplined by the fear and dread of consequences, which are to bring it eventually into subjection. Into the power of the indwelling Self are all things of the lower nature to be delivered.
+
+> "'The fear and dread of you, etc.' Animal faculties now are not only restrained by the ark or cross, but reduced to submission: the man or reason governs them. The ox [strong?] to labour, the strength in us formed to serve, is not henceforth to spend its energies without direction. The lion and the bear, fierce thoughts, must be still. . . . I know indeed that even after this, after man has passed the flood and is regenerate, lions may be loosed in judgment by the Lord: the man in us may be slain, and the beast may be seen standing by the [word unclear], or, as in another case, the man be blind, and the beast, which should be guided by the man, may see more than that inward man which was [word unclear] to [word unclear] it. All this may be [through?] sin. [Yet?] our calling as regenerate is to rule the beasts, not to be ruled by [them]."—*The Types of* [word unclear].
+
+> "[And] the Lord God said unto the serpent, Because thou hast done this, cursed art thou above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life."—Gen. iii. 14.
+
+And the Divine nature decides that the desire-mind is indeed lower and grosser than the sub-human desires and instincts which preceded its evolution. It is doomed to remain on the lower planes, and it shall feed upon the sensations and forces which proceed from the lower nature as long as it exists.
+
+> "Here the craft and subtlety of the Serpent was manifest, and the precious Image (of God) was corrupted, and became a Beast of all beasts; whereupon there are now so many and various [properties?] in man; as one a Fox, Wolf, [word unclear], Lion, Dog, Bull, Cat, Horse, Cock, Toad, Serpent, and in brief as many kinds of creatures as are upon the earth, so many and various properties likewise there are in the earthly man."—J. Behmen, *Mysterium Magnum*, p. 92.
+
+See ANIMALS, [CATTLE?], [DUST?], FALL, FISH, MAN (natural), SACRIFICE, SERPENT (subtil).
+
+**Corrections made:** `GEn.` → Gen.; `stro` → [strong?]; `ite` → its; `a8` → as; `ugh sin` → [through?] sin; `et our calling` → [Yet?] our calling; `d the Lord God` → [And] the Lord God; `existe` → exists; `per in man` → [properties?] in man; `s0` → so; `Beumen` → Behmen; See-list spellings restored (`Animas`, `Carrie`, `Duar`, `Fatt`, `Fiso`, `SacriFick`).
+
+**Unclear or supplied:** The middle quotation is badly damaged (`contigrl or`, `onic' to athens it`): shown as `[word unclear]`. Its attribution is cut off at `The Types of`, so the title is lost. `[strong?]`, `[through?]`, `[Yet?]`, `[properties?]` and the See-list items `[CATTLE?]`, `[DUST?]` are guesses. The OCR has a gap in the Behmen quotation after `Wolf,`.
 
 ## Full OCR entry body (exact)
 

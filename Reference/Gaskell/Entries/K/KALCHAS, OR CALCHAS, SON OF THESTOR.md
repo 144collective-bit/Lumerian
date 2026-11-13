@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalchas-or-calchas-son-of-thestor
 headword: "KALCHAS, OR CALCHAS, SON OF THESTOR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `SHIPS OF GREEKS` | **unresolved** (review queue) |
 | `WorD (living). IN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's inner memory of experiences, the child of the Self, which is the means of directing the higher mental qualities to the causal self, for it is of the higher mind.
+
+> "To Kalchas first spake Agamemnon with look of ill: 'Thou seer of evil, never yet hast thou told me the thing that is pleasant. Evil is ever the joy of thy heart to prophesy, but never yet didst thou tell any good matter nor bring it to pass.'"—*Iliad*, Bk. I.
+
+The lusts and desires of the lower self having become intensified, the Desire-mind (Agamemnon) experiences a sense of dissatisfaction which proceeds from the dawn of the higher consciousness within the soul. The conscience, an expression of the inner memory of experience, decides that certain things are evil, and this being distasteful to the Desire-mind, the sense of rebellion is stirred. The Desire-mind realises that the higher mind always foresees evil, since indeed it is through the apprehension of folly that wisdom is awakened.
+
+> "The higher and lower powers of the soul meet in the imaginative faculty, which is the psychical organ of [word unclear] and self-consciousness" (Plotinus).—Whittaker, *The Neo-Platonists*, p. 52.
+
+See AGAMEMNON, CONSCIENCE, EXPERIENCES, GATHAS (chanting), INTUITION, REMINISCENCE, SHIPS OF GREEKS, WORD (living).
+
+**Corrections made:** `leasant` → pleasant; `eart` → heart; `IJitad` → Iliad; `@ sense` → a sense; `WHITTAKER` → Whittaker; `GaTHAS`, `WorD` restored in See list; stray `IN` after the See list removed as a page fragment; and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` for OCR `ang |` in the Plotinus quotation. The stray word `IN` at the end of the OCR is omitted.
 
 ## Full OCR entry body (exact)
 

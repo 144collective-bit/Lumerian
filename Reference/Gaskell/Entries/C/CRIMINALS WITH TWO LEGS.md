@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-criminals-with-two-legs
 headword: "CRIMINALS WITH TWO LEGS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Man (bad)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAN, BAD, OR WICKED|MAN, BAD, OR WICKED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of paradoxes of relativity, or distorted views of life, which mislead those who cleave to the things of the lower mind. See MAN (bad).
+
+**Corrections made:** `Man (bad)` → MAN (bad).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

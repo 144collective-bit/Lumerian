@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bhisma-santanava-the-terrible
 headword: "BHISMA, SANTANAVA, THE TERRIBLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `Panpu` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PANDU, KING|PANDU, KING]] |
 | `SvunMOTIONLESS` | **unresolved** (review queue) |
 | `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the power for evolution active in the natural organism and environment during the early struggle for life and reproduction.
+
+> "The two brothers, Dhrita-rashtra and Pandu, were brought up by their uncle Bhisma, who, until they were of age, conducted the government of Hastinapur."—Mon. Williams, *Indian Wisdom*, p. 378.
+
+The instinct-nature and the dawning mental nature were evolved in the undisturbed order of natural growth to which the soul was subject until the time arrived for the mind to assert itself through the personality.
+
+> "The first great single-combat was between Bhisma and Arjuna. It ended in Arjuna transfixing Bhisma with innumerable arrows, so that there was not a space of two fingers' breadth on his whole body unpierced. . . . Bhisma had received from his father the power of fixing the time of his own death, and now declared that he intended retaining life till the sun entered the summer solstice."—*Ibid.*, p. 403.
+
+The personality (Arjuna), as a centre of Divine life, commenced a new order by fighting nature (Bhisma) through mind. It followed that the intelligent use of nature for personal ends took the place of subservience to nature. In the life of the soul, nature becomes transfixed by willpower (arrows) in every part and detail through the ingenuity of mind, and lives on. The natural order is said to receive from the Supreme the power of fixing its own term of life. It is a means to an end, and that end is the completion of the soul's growth: when nature has finished its work in the soul's evolution, "the sun enters the summer solstice," that is, the Self (sun) culminates in the soul, and the karmic natural order then exists for it no longer.
+
+See ARJUNA, ARROWS, AUSHEDAR, DHRITA-RASHTRA, FALL, HASTINA-PUR, KARMA, PANDAVAS, PANDU, SUN MOTIONLESS, ZENITH.
+
+**Corrections made:** `Witiiams, Indian Wiedom` → Williams, Indian Wisdom; `Hastindpur` → Hastinapur; `iteelf` → itself; `apace` → space; `@ means` → a means; page heading `BIFROST` removed from mid-sentence; See-list spellings restored (`Arsuna`, `Karma`, `PanpDavas`, `Panpu`, `SvunMOTIONLESS`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

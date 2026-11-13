@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-box-tree-wood-and-loteplum-wood-for-burning
 headword: "BOX-TREE WOOD, AND LOTEPLUM WOOD, FOR BURNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Frre (lower)` | **unresolved** (review queue) |
 | `Woop` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of will and energy active on the astral plane.
+
+See FIRE (lower), WOOD.
+
+**Corrections made:** `Frre` → FIRE; `Woop` → WOOD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

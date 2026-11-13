@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-friends-and-foes
 headword: "FRIENDS, AND FOES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `RELATIVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RELATIVES, BELOVED UNBELOVED|RELATIVES, BELOVED UNBELOVED]] |
 | `STEWARD (unjust)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/STEWARD, UNJUST, OF THE PARABLE|STEWARD, UNJUST, OF THE PARABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the higher emotions and the lower desires.
+
+See [GRES?] (strings), MAN, RELATIVES, STEWARD (unjust).
+
+**Corrections made:** See-list case normalised.
+
+**Unclear or supplied:** `[GRES?]`: OCR reads `Gres (strings)`, a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

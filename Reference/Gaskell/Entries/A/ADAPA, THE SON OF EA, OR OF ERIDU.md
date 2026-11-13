@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adapa-the-son-of-ea-or-of-eridu
 headword: "ADAPA, THE SON OF EA, OR OF ERIDU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,26 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SOUTH WIND` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOUTH WIND|SOUTH WIND]] |
 | `TAMMUZ. ADEPT;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Man, son of the First Logos, the Lord from Heaven.
+
+> "Ea had created Adapa without a helpmate; he had endowed him with wisdom and knowledge, but had denied to him the gift of immortality."—Sayce, *Rel. of Anc. Egypt. and Babyl.*, p. 383.
+
+At this stage creation on the lower planes had not taken place, and it is upon the lower planes that duality is involved. Man's Prototype is endowed with "wisdom and knowledge," that is, with buddhi and manas, yet is devoid at this stage of those aspects of the Self which shall entitle him to life eternal, and which justify his individual existence in the manifested Cosmos.
+
+> "Man (Adapa) remained mortal, and it was never again in his power to eat of the tree of life."—*Ibid.*, p. 384.
+
+Humanity in its lower nature so continued mortal; nor was it possible for man, i.e. man limited to the three lower planes, ever to become more than man and immortal.
+
+> "Adapa is called the 'seed of mankind.'"—Dr. Fritz Hommel.
+
+See ADAM (higher), ARC. MAN, [BOTTS?], GATES, [HEER?], IMMORTALITY, INDIVIDUALITY, PERSONALITY, SOUTH WIND, TAMMUZ. ADEPT;
+
+**Corrections made:** `Saycer` → Sayce; `know: ledge` → knowledge; `plancs` → planes; `Frrrz Hommet` → Fritz Hommel; page heading `ADEPT` removed from mid-sentence; See-list spellings restored (`Apam`, `Gates`, `SOUTH WIND`); quotation marks normalised.
+
+**Unclear or supplied:** `[BOTTS?]` and `[HEER?]` in the See list could not be identified. The OCR ends with a stray headword (`ADEPT;`), kept as printed.
 
 ## Full OCR entry body (exact)
 

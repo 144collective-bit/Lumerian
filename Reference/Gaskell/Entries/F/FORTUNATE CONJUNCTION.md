@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fortunate-conjunction
 headword: "FORTUNATE CONJUNCTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CoNJUNCTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONJUNCTION, SECOND FORTUNATE|CONJUNCTION, SECOND FORTUNATE]] |
 | `WaLKgs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of initiation, that is, a junction effected between higher and lower on any plane. It indicates attainment of power over that which is below.
+
+See CONJUNCTION, WALKS.
+
+**Corrections made:** `CoNJUNCTION, WaLKgs` → CONJUNCTION, WALKS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

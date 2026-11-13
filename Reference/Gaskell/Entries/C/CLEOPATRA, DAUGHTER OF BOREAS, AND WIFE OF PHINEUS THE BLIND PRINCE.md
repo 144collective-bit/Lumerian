@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cleopatra-daughter-of-boreas-and-wife-of-phineus-th
 headword: "CLEOPATRA, DAUGHTER OF BOREAS, AND WIFE OF PHINEUS THE BLIND PRINCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Boreas` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BOREAS, THE NORTH WIND,- SON OF ASTRZUS AND EOS|BOREAS, THE NORTH WIND,— SON OF ASTRZUS AND EOS]] |
 | `Harpres` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARPIES|HARPIES]] |
 | `PHINEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PHINEUS, THE PROPHETPRINCE|PHINEUS, THE PROPHETPRINCE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the discriminative instinct which is the offspring of the higher mind (Boreas), and is allied to the spiritually blind discriminative faculty of the lower mind (Phineus).
+
+See BOREAS, HARPIES, PHINEUS.
+
+**Corrections made:** `Harpres` → HARPIES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

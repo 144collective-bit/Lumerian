@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cripples-absent-from-the-vara
 headword: "CRIPPLES ABSENT FROM THE VARA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Signifying that in the involutionary cycle all monads are perfect, and capable of carrying out the work which is set for them.
+
+> "And God saw everything that he had made, and behold, it was very good."—Gen. i. 31.
+
+> "There should be no cripples, or diseased; no poverty, no meanness there."—*Vendidad*, II. S. B. of E.
+
+The "cripples" are said to be rejected from the lower quaternary (vara); for there must be no imperfection in the Archetypal Man. The "diseased," "poverty," and "meanness" refer to states adverse to the carrying out of the work assigned to the monads. See ARC. MAN, GOLDEN AGE, INVOLUTION, VARA.
+
+**Corrections made:** page heading `CROCODILE` removed from mid-sentence; `i¢` → it; stray quotation symbols normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

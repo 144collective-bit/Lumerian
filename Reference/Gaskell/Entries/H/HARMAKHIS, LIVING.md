@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harmakhis-living
 headword: "HARMAKHIS, LIVING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `R&A` | **candidate (first-segment only)** → possible `RA, OR RA HARMAKHIS, THE EVER LIVING` (not linked) |
 | `StrimweEs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos, the Divine Life of the universe. See RA, [StrimweEs?].
+
+**Corrections made:** `R&A` → RA.
+
+**Unclear or supplied:** See-list item `[StrimweEs?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

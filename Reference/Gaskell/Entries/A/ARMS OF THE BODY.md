@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arms-of-the-body
 headword: "ARMS OF THE BODY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `SHOULDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHOULDER, LEFT|SHOULDER, LEFT]]; [[Reference/Gaskell/Entries/S/SHOULDER, RIGHT|SHOULDER, RIGHT]] |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 | `WHITE ARMED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of action in relation to will on the mental plane. The use of the "left arm and the right" signifies the energy of the will incoming and outgoing. An "arm bent of Thoth" signifies inability of the mind to act with perfect unanimity, for unaided it cannot show perfect truth. Human figures shown without arms signify inaction, latency of powers and qualities.
+
+> "The prow and stern of the fourth boat terminate in heads of uraei, each of which is turned towards the deity who is kneeling in the middle of the boat. In the centre kneels a woman without arms, and before and behind her stands a man, who is likewise without arms."—Budge, *Egypt. Heaven and Hell*, p. 26.
+
+The boat signifies the causal-body as the vehicle of the Divine Husbandman (Osiris Neper) who cultivates the lower nature (herbs and plants). But at this early stage the emotions (woman) and mental faculties (men) remain latent in regard to transmutation of qualities. Arms "wandering bereft of shoulders," signify action destitute of directive capacity. "White arms" signify the pure and unsullied activities of the higher nature. This symbol is attached to the Wisdom Goddesses of the Greek scriptures (see *Iliad*).
+
+See ASCENSION (Osiris), BOAT, [Conn?], HAND, RIGHT ARM, SHOULDER, THOTH, WHITE ARMED.
+
+**Corrections made:** Page heading `ARMY` removed from mid-sentence; `uraci` → uraei; `@ man` → a man; `Bupor` → Budge; See-list spellings restored.
+
+**Unclear or supplied:** `[Conn?]` is a See-list item that could not be identified (possibly CORN).
 
 ## Full OCR entry body (exact)
 

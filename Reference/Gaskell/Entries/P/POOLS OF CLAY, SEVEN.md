@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pools-of-clay-seven
 headword: "POOLS OF CLAY, SEVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Root-races` | resolved (full-head) → [[Reference/Gaskell/Entries/R/ROOT-RACES|ROOT-RACES]] |
 | `SPARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the seven root-races of humanity, filled with Divine life from the River of Life.—See *Gospel of Pseudo-Mathew*, Ch. 26. See ROOT-RACES, SPARROWS.
+
+**Corrections made:** `live` → life; `Scee` → See; `Peeudo-Mathew` → Pseudo-Mathew; `Root-races` → ROOT-RACES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

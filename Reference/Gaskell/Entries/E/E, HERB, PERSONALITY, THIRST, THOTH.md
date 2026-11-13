@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-e-herb-personality-thirst-thoth
 headword: "E, HERB, PERSONALITY, THIRST, THOTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,36 @@ tags:
 | `SHINATSU` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHINATSU-HIKO, WIND-GOD|SHINATSU-HIKO, WIND-GOD]] |
 | `THOR` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `WorRD` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind principle, between the higher and lower natures.
+
+> "In the mystic sense Thoth, or the Egyptian Hermes, was the symbol of the Divine Mind; for he was the incarnated Thought, the living Word—the primitive type of the Logos of Plato and the Word of the Christians" (Artaud).—G. R. S. Mead, *Th. G. Hermes*, Vol. I. p. 27.
+
+> "And Cronus [Ammon] going to the land of the South gave the whole of Egypt to the God Taaut (Thoth) to be his kingdom."—Sanchuniathon, *Cory's Fragments*.
+
+Higher and Lower Egypt signify the mental plane.
+
+> "Thoth was held to be both the heart and the tongue of Ra, that is to say, he was the reason and the mental powers of the Gods, and also the means by which their will was translated into speech. ... In every legend in which Thoth takes a prominent part, we see that it is he who [speaks?] the word that results in the wishes of Ra being carried into effect."—Budge, *Gods of the Egyptians*, Vol. I. p. 407.
+
+> "Then spake Thoth to Ra: 'Lord of the Gods! there came the God of Behidet (Edfu) in the form of a great winged-disk.' From this day forth he shall be called Horbehudti (Horus of Edfu)."—*Legend of the Winged Sun-disk*.
+
+Then spake the higher mind or awakening intelligence to the Creator—Lord of the ideals! there came forth the Son of Man in the wisdom vesture on the buddhic plane; and this being so, he shall now be known as the Son of God, born of the eternal Spirit of Truth.
+
+> "Thoth, the divine intelligence which at the creation uttered the words which resulted in the formation of the world. He was self-produced, and was lord of earth, air, sea, and sky; he was the scribe of the gods, and the inventor of all arts and sciences."—Budge, *Book of the Dead*, [word unclear] 5.
+
+> "The Egyptians relate that Thoth had one arm bent so that it could not be straightened."—Plutarch, *Isis and Osiris*, § 22.
+
+The "arm bent" is a symbol of the inability of the intellect to act with perfect directness and sureness. It is the function of the mind to perceive dissimilarities and to disclose differences, more or less completely; and unaided by a higher faculty it can never display the perfect truth.
+
+> "Every abstract proposition intellect enunciates is based upon a contradiction somewhere; there is no help for it; this is the inevitable outcome of the way it is made and of the conditions under which it has to work. Furthermore, it is so uncertain in its operations that what it discovers to-day may have to be discarded to-morrow. If the intellect were thoroughly reliable there ought to be no room for differences of opinion on any subject whatever. But unfortunately it is not so. Two individuals, both intelligent and both conscientious, may form diametrically opposite judgments from exactly the same evidence."—R. J. Campbell, *Serm.*, *The Super-rational*.
+
+See ADAM (higher), DÆMONS, DOORS OPENED, [EDFU?], EGYPT, HERMES, IBIS, INTELLECT, INTUITION, MAGIC, [MAAT?], MANAS, NARADA, NEBO, NEHEMAUT, PTAH, SCRIPTURES, SHINATSU, THOR, WORD.
+
+**Corrections made:** page heading `THRACE` removed from mid-text; `7. G.` → Th. G.; `Meap` → Mead; `SaNCHUNIATHON` → Sanchuniathon; `Bupag`, `Bupasr` → Budge; `Vol. I:` → Vol. I.; `whioh` → which; `PruTarcH` → Plutarch; `CampBELL` → Campbell; `Zhe Super-rattonal` → The Super-rational; See-list spellings restored (`Darmons`, `Doors OPENED`, `Ecyrt`, `[B1s8`, `InrTurTION`, `Maaic`, `NarapDa`, `PraH`, `ScrierurREes`, `WorRD`); quotation marks normalised.
+
+**Unclear or supplied:** `[speaks?]` replaces OCR `ks`. `[word unclear] 5.` stands for OCR `wi 5.` in the Book of the Dead reference. `[EDFU?]` (OCR `Epru`) and `[MAAT?]` (OCR `Manat`) are doubtful See-list items.
 
 ## Full OCR entry body (exact)
 

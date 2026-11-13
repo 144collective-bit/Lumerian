@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-skins-metis
 headword: "SKINS, METIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `PHANES` | **unresolved** (review queue) |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Wisdom.
+
+> "And the names of it (Ætherial Light) Orpheus heard in prophetic vision, and declares them to be Metis, Phanes, and Ericapæus, which by interpretation are Will, Light, and Light-giver (or Consciousness, Light, and Life); adding that these three divine powers of names are the one power and one might of the One God."—G. R. S. Mead, *Orpheus*, p. 164.
+
+The three aspects of the Divine emanation are Will (Phanes), Wisdom (Metis), and Action (Ericapæus). These proceed forth at manifestation as three potencies of the one Higher Self. "Phanes" is expressed in Will, Love, and Consciousness on the plane of atma; "Metis" in Wisdom, Light, and Intellect on the buddhic and mental planes; while "Ericapæus" signifies the Divine Life active throughout all the planes of the Cosmos and Soul.
+
+See ADITI, BUDDHIC PLANE, COSMOS, CREATION, EGG, ERICAPÆUS, LIGHT, NOAH'S SONS, ORPHEUS, PHANES, SELF, TRIAD.
+
+**Corrections made:** `4therial` → Ætherial; `intepretation` → interpretation; `Orpheua` → Orpheus; `MEap` → Mead; See-list spellings restored (`ApitT1`, `Ecc` → EGG, `Ericapzvs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

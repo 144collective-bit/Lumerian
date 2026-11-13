@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nisaya-land
 headword: "NISAYA LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `BAXKHDHI` | **unresolved** (review queue) |
 | `VACHAN` | **unresolved** (review queue) |
 | `Mouru` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOURU LAND, THE STRONG, HOLY|MOURU LAND, THE STRONG, HOLY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental plane.
+
+> "The fifth good land was Nisaya that lies between Mouru and Bakhdhi."—*Vendidad*, I.
+
+This is the plane of the causal-body, between the buddhic plane and the devachanic plane. See BAKHDHI, [DE]VACHAN, MOURU.
+
+**Corrections made:** `BAXKHDHI` → BAKHDHI; `Mouru` → MOURU.
+
+**Unclear or supplied:** `[DE]VACHAN` is supplied: the OCR reads `VACHAN`.
 
 ## Full OCR entry body (exact)
 

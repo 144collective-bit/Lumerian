@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-assumption-of-the-blessed-virgin-mary
 headword: "ASSUMPTION OF THE BLESSED VIRGIN MARY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `CoNCEPTION (immaculate)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `DzVAKI` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DEVAKI, THE MOTHER OF KRISHNA|DEVAKI, THE MOTHER OF KRISHNA]] |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the completely purified human soul rising in its perfection, through the power of the Spirit, to the higher planes at the end of the cycle.
+
+> "As the Immaculate Conception is the foundation of the Mysteries, so the Assumption is their crown. For the entire object and end of kosmic evolution is precisely this triumph and apotheosis of the soul. In this Mystery is beheld the consummation of the whole scheme of creation,—the perfectionment, perpetuation, and glorification of the individual human ego. The grave—that is the astral and material consciousness—cannot retain the Mother of God. She rises into heaven; she assumes its Queenship, and is—to cite the Little Office of the Blessed Virgin Mary—'taken up into the chamber where the king of kings sits on his starry throne.'"—*The Perfect Way*, p. 143.
+
+See CONCEPTION (immaculate), DEVAKI, VIRGIN MARY.
+
+**Corrections made:** Page heading `77 ASSUMPTION` removed from mid-sentence; `rfectionment` → perfectionment; `ite` → its; `ing of kings site` → king of kings sits; `DzVAKI` → DEVAKI; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

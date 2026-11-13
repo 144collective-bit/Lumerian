@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-terror
 headword: "TERROR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `SyMPLEGADES. DEFUNCT` | **unresolved** (review queue) |
 | `PouRvFat` | **unresolved** (review queue) |
 | `Fxrast` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Lack of intellectual will. It is a negative state, that is, absence of the positive state,—courage. Fear is possible only to that which has no real existence, namely, the lower nature. It stifles effort and paralyses initiative.
+
+See ROCKS (floating), SYMPLEGADES.
+
+DEFUNCT, POURFAT, FXRAST,
+
+**Corrections made:** `Rocks`, `SyMPLEGADES` → ROCKS, SYMPLEGADES.
+
+**Unclear or supplied:** The trailing `DEFUNCT, PouRvFat, Fxrast,` is unrecognisable debris (apparently a page-edge or the start of another headword) and is left as printed at the end; it is not part of the See list.
 
 ## Full OCR entry body (exact)
 

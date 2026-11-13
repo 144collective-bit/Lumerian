@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hesperides
 headword: "HESPERIDES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
 | `HESTIA;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotions which guard, as it were, the "treasure in heaven," "the golden apples which Ge (Earth) gave to Hera at her marriage with Zeus," signifying that when Wisdom and Love are united after the struggle of the Self rising from below, the treasure, which matter, or the lower nature (earth), has been the means of securing, is presented to Wisdom as the consciousness rises to the buddhic plane.
+
+See APPLES, TREASURE, ZEUS.
+
+**Corrections made:** `dZeus` → Zeus; running page heading `HESTIA;` removed from the end of the See list.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

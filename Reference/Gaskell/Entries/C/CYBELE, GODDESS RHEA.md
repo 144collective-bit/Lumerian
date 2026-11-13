@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cybele-goddess-rhea
 headword: "CYBELE, GODDESS RHEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `CURETES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CURETES AND CORYBANTES|CURETES AND CORYBANTES]] |
 | `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
 | `RHEA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RHEA, GODDESS (NUT)|RHEA, GODDESS (NUT)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial space on the higher planes. See CURETES, NUT, RHEA.
+
+**Corrections made:** `Nut` → NUT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

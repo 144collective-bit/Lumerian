@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-festival-sacred
 headword: "FESTIVAL, SACRED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CEREMONIES` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS|CEREMONIES AND OBIN POPULAR RITES, SERVANCES RELIGIONS]] |
 | `RITEs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbolic performance to celebrate an auspicious occasion in the life and progress of the soul.
+
+See CEREMONIES, RITES.
+
+**Corrections made:** `RITEs` → RITES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

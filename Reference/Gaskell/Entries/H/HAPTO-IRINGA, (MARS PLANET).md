@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hapto-iringa-mars-planet
 headword: "HAPTO-IRINGA, (MARS PLANET)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `ARES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARES (MARS)|ARES (MARS)]] |
 | `Mars` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARS, THE PLANET|MARS, THE PLANET]] |
 | `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of force, resistance and See ARES, MARS, PLANETS.
+
+**Corrections made:** `Mars` → MARS.
+
+**Unclear or supplied:** The sentence is incomplete in the OCR ("resistance and" with nothing following).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-great-invisible-forefather
 headword: "GREAT INVISIBLE FOREFATHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Sz_r (supreme)` | **unresolved** (review queue) |
 | `Trmaury` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos, or of the Absolute, the Source of all. See ABSOLUTE, FATHER, GODHEAD, SELF (supreme), TRINITY.
+
+**Corrections made:** `FatTuHzR` → FATHER; `Sz_r` → SELF; `Trmaury` → TRINITY.
+
+**Unclear or supplied:** `TRINITY` is a likely restoration of OCR `Trmaury`.
 
 ## Full OCR entry body (exact)
 

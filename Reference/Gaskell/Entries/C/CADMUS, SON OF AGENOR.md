@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cadmus-son-of-agenor
 headword: "CADMUS, SON OF AGENOR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `THEBES. CADUCEUS` | **unresolved** (review queue) |
 | `OR HERMES’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of experience or wisdom, the offspring of the Divine Mind. When intuition (the cow that Cadmus followed) ceases to function and guide (the cow laid down), then experience establishes itself, and finally is transmuted to wisdom (Thebes).
+
+> "When Jason had yoked the two brass-footed bulls, he was to plough with them a piece of land, and sow the serpents' teeth which Aetes possessed, to whom Athena had given one half of those which Cadmus had sowed at Thebes."—*Argonautic Expedition*, Keightley, *Mythology*.
+
+And when the desire-force and the reason had been yoked together, it was necessary for the Self (Jason) to apply those powers which had been acquired, to the development of the lower nature, and to adapt to useful purpose those faculties which the Supreme bestowed upon him, and which amounted to one half, i.e. the lower aspect, of those which were yielded to the Supreme by Wisdom (Athena), through experience (Cadmus).
+
+See [ADrrEes?], ATHENA, [Buxris?], [EmoTHEA?], GOLDEN FLEECE, JASON, THEBES.
+
+**Corrections made:** `brassfooted` → brass-footed; `Atetes` → Aetes; `Hzpedttion` → Expedition; `KEIGHTLEY` → Keightley; stray `_` removed; trailing page-head fragment `CADUCEUS, OR HERMES'` removed; quotation marks normalised.
+
+**Unclear or supplied:** See-list items `[ADrrEes?]`, `[Buxris?]` and `[EmoTHEA?]` cannot be identified. The trailing `CADUCEUS, OR HERMES'` is the start of the next headword and was treated as a page-heading fragment.
 
 ## Full OCR entry body (exact)
 

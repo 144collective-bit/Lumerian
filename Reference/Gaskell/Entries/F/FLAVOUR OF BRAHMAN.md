@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flavour-of-brahman
 headword: "FLAVOUR OF BRAHMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Ps. xxxiv. 8. See Opour` | **unresolved** (review queue) |
 | `SaLaGyA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SALAGYA, CITY|SALAGYA, CITY]] |
 | `TASTE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TASTE OF BRAHMAN|TASTE OF BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sense of supreme bliss.
+
+> "He approaches the city Salagya, and the flavour of Brahman reaches him."—*Kaush. Upanishad*, I. 2.
+
+The Ego approaches the abode of the Higher Self, and a sense of supreme bliss comes to him.—See Ps. xxxiv. 8.
+
+See ODOUR, SALAGYA, TASTE.
+
+**Corrections made:** `=See` → See; `Opour` → ODOUR; `SaLaGyA` → SALAGYA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

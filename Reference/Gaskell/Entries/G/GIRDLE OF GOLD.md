@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-girdle-of-gold
 headword: "GIRDLE OF GOLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `BucKLE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BUCKLE OF ISIS|BUCKLE OF ISIS]] |
 | `ConsciousnEss` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `GOLD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD|GOLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblem of the endowment of wisdom;—the consciousness upon the buddhic plane.
+
+> "And girt about at the breasts with a golden girdle."—Rev. i. 13.
+
+This signifies the Higher Self having the aspects of Love (breasts), and Wisdom (gold).
+
+> "To 'have a golden girdle about the paps' is to restrain all the movements of our changeful thoughts by the bands of love alone."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 639.
+
+See [BANUIS?], BARSOM, BREASTS, BUCKLE, CONSCIOUSNESS, GOLD.
+
+**Corrections made:** `Embiem` → Emblem; `Morale` → Morals; `Grecory` → Gregory; page heading `GIRDLE-ROPE` removed from mid-sentence; `(breasts,` → `(breasts),`; See-list spellings restored (`BarsomM`, `BREasts`, `BucKLE`, `ConsciousnEss`); quotation marks normalised.
+
+**Unclear or supplied:** `[BANUIS?]`: OCR reads `Banuis`, a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

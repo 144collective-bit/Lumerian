@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sakridagamin-initiation
 headword: "SAKRIDAGAMIN INITIATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `INTELLECT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)|INTELLECT, PERSONALITY, SUTRATMA, TAMA-GUSHI (TWIGS)]] |
 | `JoHANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JOHANNA THE BAPTISER|JOHANNA THE BAPTISER]] |
 | `WALKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This initiation, or raising of the consciousness, is the arousing of the higher intellect, bringing perception of the Truth and the Life. It corresponds with the derivation of knowledge from within, by the child Jesus when he is said in the story to discourse with the doctors. See INITIATIONS, INTELLECT, JOHANNA, WALKS.
+
+**Corrections made:** `af` → of; See-list spellings restored (`JoHANNA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

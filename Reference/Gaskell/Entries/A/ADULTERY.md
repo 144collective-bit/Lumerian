@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adultery
 headword: "ADULTERY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `WiFrFE` | **unresolved** (review queue) |
 | `WHOREDoM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
 | `Woman (adultery)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the ego's forsaking of the higher life for the lower, that is, the turning away from Wisdom's teaching, to effect union with desire and the sense activities.
+
+> "Whosoever shall put away his wife and marry another, committeth adultery."—Mark x. 11.
+
+The soul which acts contrary to the spiritual law of the evolution of its own being, that is, who forsakes the Divine ordinance at the foundation of the cosmos,—commits adultery.
+
+> "To commit adultery and whoredom signifies to adulterate and falsify the goods and truths of the Word."—Swedenborg, *T. C. R.*, n. 313, 314.
+
+See COURTEZAN, DIVORCING, FOLLY, HARLOT, MARRIAGE, WIFE, WHOREDOM, WOMAN (adultery).
+
+**Corrections made:** `Marxk x. ll.` → Mark x. 11.; `Swepensora` → Swedenborg; page heading `REDEMPTION, ADUMBLA` removed from mid-sentence; See-list spellings restored (`DiIVORCING`, `FOLty`, `Harwiot`, `WiFrFE`, `WHOREDoM`, `Woman`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

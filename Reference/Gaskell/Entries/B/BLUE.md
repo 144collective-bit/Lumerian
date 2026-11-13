@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blue
 headword: "BLUE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `CoLours` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLOURS|COLOURS]] |
 | `SKY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SKY, OR SKIES|SKY, OR SKIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The symbolic colour of the higher mental plane; also a symbol of the philosophic mind and intellect, as the higher mind (air).
+
+> "By blue is signified intelligence."—Swedenborg, *Apoc. Rev.*, n. 450.
+
+See COLOURS, SKY.
+
+**Corrections made:** `intelligenco` → intelligence; `CoLours` → COLOURS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

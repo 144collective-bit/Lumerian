@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-penance
 headword: "PENANCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `FASTING` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FASTING|FASTING]] |
 | `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
 | `SCEPTICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCEPTICISM, OR PHILOSOPHIC DOUBT|SCEPTICISM, OR PHILOSOPHIC DOUBT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration which implies discontent with a lower condition to which the spirit is for a time bound.
+
+> "But those in whom dwell penance, abstinence, and truth, to them belongs that pure Brahma-world, to them, namely, in whom there is nothing crooked, nothing false, and no guile."—*Prasna Upanishad*, Ques. I. 15, 16.
+
+Those qualities or souls which aspire while withdrawing from the lower attractions, and which pursue the truth, to them is assigned consciousness on the buddhic plane, free from the errors, illusions, and evils of the lower planes.
+
+See ABSTINENCE, ASCETICISM, [ASIRA?], AUSTERITIES, FASTING, PEOPLE, SCEPTICISM.
+
+**Corrections made:** Quotation marks normalised; See-list spellings restored (`AsIra`).
+
+**Unclear or supplied:** See-list item `[ASIRA?]` is uncertain (OCR `AsIra`).
 
 ## Full OCR entry body (exact)
 

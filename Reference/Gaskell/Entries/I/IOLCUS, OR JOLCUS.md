@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iolcus-or-jolcus
 headword: "IOLCUS, OR JOLCUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `SANDAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANDAL, OR SHOE|SANDAL, OR SHOE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the beginning and the conclusion of the cycle of evolution of the soul.
+
+See [EARNA?], GOLDEN FLEECE, JASON, SANDAL.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** `[EARNA?]` is uncertain (OCR `Earna`).
 
 ## Full OCR entry body (exact)
 

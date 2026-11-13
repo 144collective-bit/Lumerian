@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cyzicus-king-doliones
 headword: "CYZICUS, KING DOLIONES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `DOLIONES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DOLIONES PEOPLE|DOLIONES PEOPLE]] |
 | `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of faith arrived at through interior meditation wherein the possibility of achieving freedom from the thraldom of physical illusion occurs. See DOLIONES, SHAVING.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

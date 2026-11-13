@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kingly-office
 headword: "KINGLY OFFICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `MINISTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MINISTERS OF THE STATE|MINISTERS OF THE STATE]] |
 | `OANNES` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OANNES|OANNES]] |
 | `YAO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YAO, CELESTIAL EMPEROR|YAO, CELESTIAL EMPEROR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will ruling and organising the involution of Spirit into matter.
+
+See CIVILISING, GOVERNMENT, MINISTERS, OANNES, YAO.
+
+**Corrections made:** See-list spellings restored (`CIvILIsINc`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

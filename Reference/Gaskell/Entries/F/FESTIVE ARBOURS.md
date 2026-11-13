@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-festive-arbours
 headword: "FESTIVE ARBOURS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ARCHED GATEWAYS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARCHED GATEWAYS|ARCHED GATEWAYS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of virtues which bring joy and satisfaction.
+
+See ARCHED GATEWAYS.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-giants-nephilim-mighty-men
 headword: "GIANTS, NEPHILIM, MIGHTY MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of early mankind in great ape-like forms resident on continents now mostly submerged.
+
+> "There were giants in the earth in those days. . . . And mighty men which were of old."—Gen. vi. 4.
+
+The pre-human forms in which mind began to dawn were rude and gigantic. In these early vehicles of human life the individuality is as yet only nascent.
+
+See
+
+**Corrections made:** `GEN.` → Gen.; quotation marks normalised.
+
+**Unclear or supplied:** The OCR ends at "See" with no See list; it appears cut off.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-riches-or-wealth-lower-aspect
 headword: "RICHES, OR WEALTH (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Surps (beaked)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of that quality of acquisitiveness which appertains to the sensation-nature, with its coveted objects of sense. This includes the activities of the lower emotions which are concerned with the personality and its desires.
+
+See SHIPS (beaked).
+
+**Corrections made:** `Surps` → SHIPS.
+
+**Unclear or supplied:** `SHIPS (beaked)` is read from `Surps (beaked)`.
 
 ## Full OCR entry body (exact)
 

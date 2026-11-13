@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-coming-forth-by-day
 headword: "COMING FORTH BY DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -64,6 +65,24 @@ tags:
 | `Quvuatrties (higher)` | **unresolved** (review queue) |
 | `TrEm` | **unresolved** (review queue) |
 | `WHEAT AND BARLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT AND BARLEY|WHEAT AND BARLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the forth-pouring of the Divine Life at the beginning of the process of evolution. This "coming forth" is preceded by the "going in," which is the process of involution of Spirit or Life into matter, during the first half of the great cycle, i.e. the first six divisions of the Tuat or Zodiac. The symbol may also apply to the soul's coming forth for reincarnation.
+
+See EVOLUTION, GOING IN, IAO, INVOLUTION, MANIFESTATION, TOMB, TUAT, ZODIAC.
+
+### Also in this note: COMPANY OF THE GODS, OR THE GODS OF HEAVEN
+
+A symbol of the activities on the higher planes; or the Divine attributes, that is, the ideals and highest qualities within the soul harmoniously co-ordinated on the buddhic plane, and expressing the will of the Supreme.
+
+> "We maintain that God's attributes are intelligible and that we can conceive as truly of his goodness and justice, as of these qualities in men. In fact, these qualities are essentially the same in God and man, though differing in degree, in purity, and in extent of operation. We [have?] not, and we cannot conceive of any other justice and goodness, than we learn from our own nature; and if God have not these, he is altogether unknown to us as a moral being; he offers nothing for esteem and love to rest upon."—W. E. Channing, *Against Calvinism*.
+
+See AMSHASPANDS, DEVAS, GODS, GUARDIANS, [Hast?], HEROIC, I AM, [Nusia?], QUALITIES (higher), [TrEm?], WHEAT AND BARLEY.
+
+**Corrections made:** Stray `.` before `A symbol` removed; `urity` → purity; `hice` → [have?]; `Gorna m` → GOING IN; See-list spellings restored (`Evotution`, `Drvas`, `Gops`, `GuarRDIANS`, `Quvuatrties`).
+
+**Unclear or supplied:** Contains a second entry: COMPANY OF THE GODS, OR THE GODS OF HEAVEN. `[have?]` is read from OCR `hice`. `[Hast?]`, `[Nusia?]` and `[TrEm?]` are damaged See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

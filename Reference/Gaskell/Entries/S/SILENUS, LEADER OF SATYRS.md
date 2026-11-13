@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-silenus-leader-of-satyrs
 headword: "SILENUS, LEADER OF SATYRS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `Satyrs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SATYRS|SATYRS]] |
 | `Surps (lium)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
 | `Wove` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality or of the spiritual mind.
+
+> "Silenus always accompanies Dionysus, whom he is said to have brought up and instructed. Like the other Satyrs he is called a son of Hermes.... He is described as resembling his brethren in their love of sleep, wine and music. He was conceived also as an inspired prophet, who knew all the past and the most distant future, and as a sage who despised all the gifts of fortune."—*Smith's Class. Dict.*
+
+> "This deity was remarkable for his wisdom; his drunkenness being regarded as inspiration."—Keightley, *Mythology*, p. 204.
+
+The spiritual mind, offspring of the higher mind (Hermes), brings up the Christ (Dionysus) in the soul; it is unconscious (sleep) of external attractions, loves wisdom (wine), and harmony (music and dancing). It is cognisant of the process of the soul's evolution, and esteems not at all the pleasures of sense and the objects of desire.
+
+See BALARAMA, CHIRON, DIONYSUS, DRUNKARD, HERMES, INDIVIDUALITY, INTOXICATION, MUSIC, NOAH, PROPHET, SATYRS, [SHIPS (Ilium)?], WINE.
+
+**Corrections made:** `hia` → his; `KricHtLtey` → Keightley; page heading `THE SILVER` removed from mid-sentence; See-list spellings restored (`DIONYsvs`, `Music`, `Satyrs`, `Wove` → WINE).
+
+**Unclear or supplied:** `[SHIPS (Ilium)?]` is a guess at the damaged See item `Surps (lium)`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kapila
 headword: "KAPILA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `KING (great)` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KING|KING]] |
 | `Mountain` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/M/MOUNTAIN OR MOUNT|MOUNTAIN OR MOUNT]]; [[Reference/Gaskell/Entries/M/MOUNTAIN TOP|MOUNTAIN TOP]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos or Higher Self.
+
+> "There was a city, the dwelling-place of the great saint Kapila, having its sides surrounded by the beauty of a lofty broad table-land as by a line of clouds, and itself with its high-soaring palaces, immersed in the sky."—*Buddha-Karita*, Bk. I. 2.
+
+The "city" is the celestial region, the atma-buddhi-manas planes of manifestation; and the "great saint Kapila" is the Self. The "sides of the city" are the planes below in their ideal aspect during involution. The "line of clouds" signifies Wisdom outpouring Truth. The "high-soaring palaces" are symbolic of exaltation and bliss in the higher realms.
+
+> "There is one being who actuates phase after phase of being from within, all colours and all emanations. He fosters with knowledge the Rishi Kapila, that arose in the beginning, and behold him coming into being. This being is the immortal, internal ruler, the universal soul, or Isvara."—*Svetas. Upanishad*, V.
+
+From the Divine Unity,—the Absolute,—is emanated from within, stage after stage of manifested life, setting forth all qualities and all forms. The Absolute forthpours through the Second Logos the eternal Truth. For the Higher Self arose as a germ in the beginning, and gradually unfolded his potencies in the manifest existence. And now is the Self involved in nature and the World-soul, and is in the human soul the indwelling God, its Saviour and Ruler.
+
+See AMARAVATI, ARHAT, CLOUDS, CITY OF GOD, COLOURS, FIRST-BORN, ISVARA, JERUSALEM, KING (great), MOUNTAIN, SELF.
+
+**Corrections made:** `manifeatation` → manifestation; `Isvarna` → ISVARA; `AmMARAVATI`, `Ciry oF Gop`, `CoLours`, `Mountain` restored in See list; page heading `427 KARMA` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

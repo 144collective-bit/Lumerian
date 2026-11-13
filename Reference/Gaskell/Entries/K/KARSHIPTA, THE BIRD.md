@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-karshipta-the-bird
 headword: "KARSHIPTA, THE BIRD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Sore` | **unresolved** (review queue) |
 | `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
 | `VARA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARA,-AN ENCLOSURE, FOUR SQUARE|VARA,—AN ENCLOSURE, FOUR SQUARE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality or the higher ego in the causal-body.
+
+> "The law of Mazda is brought into the vara by the bird Karshipta."—*Vendidad*, II. S. B. of E.
+
+The law of Love divine,—the higher nature or principle of being,—is brought from within to the lower self who occupies the lower quaternary (vara), by the individuality (bird). There is a correspondency to this in the tables of the Law being placed in the ark of the covenant. The Moral Law comes down from above (or arises within), and occupies the inner sanctuary of the soul (ark).
+
+See ARK (testimony), BENNU-BIRD, BIRD (great), KALAHANSA, LAW OF MAZDA, PHANG, PHOENIX, [SORE?], SWAN, VARA.
+
+**Corrections made:** `S. B. of EB.` → S. B. of E.; `Brrep` → BIRD; `Katanansa` → KALAHANSA; `Law or MAZDA` → LAW OF MAZDA; `PHaNIX` → PHOENIX; quotation marks normalised.
+
+**Unclear or supplied:** `[SORE?]` is a See-list item that could not be identified (OCR `Sore`).
 
 ## Full OCR entry body (exact)
 

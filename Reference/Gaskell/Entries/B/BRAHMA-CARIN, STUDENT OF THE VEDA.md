@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brahma-carin-student-of-the-veda
 headword: "BRAHMA-CARIN, STUDENT OF THE VEDA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Sannyasin` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SANNYASIN, OR BHIKSHU|SANNYASIN, OR BHIKSHU]] |
 | `STUDENT` | **unresolved** (review queue) |
 | `VEDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality in its ethical and spiritual aspect or relationship, for the soul's evolution.
+
+> "The young Brahman is to reside with his preceptor (guru) until he has gained a thorough knowledge of the three Vedas."—Williams, *Indian Wisdom*, p. 245.
+
+The young ego or personality is to revere his spiritual mind (guru) and learn the Divine law of the soul's evolution on the three lower planes, as expressed in the Word of God, or sacred scriptures.
+
+See GURU, SANNYASIN, STUDENT, VEDA.
+
+**Corrections made:** `ite BRAHMAN ethical` → its ethical with page heading `BRAHMAN` removed; `preceP ior` → preceptor; `@` → a; `Wittiams` → Williams; `Wiedom` → Wisdom; `. 245` → p. 245; `Guru` → GURU.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

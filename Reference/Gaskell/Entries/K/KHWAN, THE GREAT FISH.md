@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-khwan-the-great-fish
 headword: "KHWAN, THE GREAT FISH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `LE&EVIATHAN` | **unresolved** (review queue) |
 | `OcEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the cycle of Involution originating in the ocean of Reality in which it has its being.
+
+> "In the bare and barren north there is the dark and vast ocean,—the Pool of Heaven. In it there is a Fish, several thousand li in breadth, while no one knows its length. Its name is Khwan. There is also a Bird named the Phang (into which the Fish changes)."—*Writings of Kwang-tze*, Bk. I. Pt. I. 3.
+
+From the chaos there forthpours the "water" of the primeval Reality (Northern Pool of Heaven), in which the cycle of Involution has actuality. The content of the cycle is stupendous, and its length is unmeasured. After its termination there arises from it a new cycle, that of Evolution in which the Spirit ascends (bird) from matter and culminates ultimately in the Divine Reality (Southern Pool of Heaven).
+
+See LEVIATHAN, OCEAN, WHALE.
+
+**Corrections made:** `lf` → li; `the wan` → Khwan; `@ new cycle` → a new cycle; `LE&EVIATHAN` → LEVIATHAN; page heading `KID` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** "Khwan" is supplied from the damaged OCR `_ the wan`.
 
 ## Full OCR entry body (exact)
 

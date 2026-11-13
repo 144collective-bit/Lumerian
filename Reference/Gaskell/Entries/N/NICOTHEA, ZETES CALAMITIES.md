@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nicothea-zetes-calamities
 headword: "NICOTHEA, ZETES CALAMITIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `JESUS WEDPT` | **unresolved** (review queue) |
 | `MourpER` | **unresolved** (review queue) |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the breaking up of forms and releasing the contained life for wider action in fresh forms.
+
+> "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for these things must needs come to pass; but the end is not yet. For nation shall rise against nation, and kingdom against kingdom: and there shall be famines and earthquakes in divers places. But all these things are the beginning of travail."—Matt. xxiv. 6, 7.
+
+Christ emphasises the truth that such evils as wars and natural calamities, with the sufferings entailed, are means to an end, and are not to distress the faithful, for they do not affect the Self behind, and are passing phases in no way final for the soul. We are to recognise in these troubles certain processes whereby the evolution of good is ultimately accomplished.
+
+> "God brings forth from all pain a [spiritual] somewhat for the sake of which pain is sent. There is no waste, no wanton sacrifice, in the experience of men; all human sorrow is the substance from which God is fashioning holy joy. . All pain, whether deserved or undeserved, is God's accumulating blessing in His Divine purpose, and it has its spiritual equivalent in the deeper life that is one with His own. No man can suffer except God be with him. Pain is no mark of the displeasure of heaven, but just the contrary. It is the summons to come up higher."—R. J. Campbell, *Song of Ages*, pp. 64, 70.
+
+See EARTHQUAKES, ENDURING, FORMS, GOVERNORS, JESUS WEPT, MURDER, SUFFERING.
+
+**Corrections made:** `Mar.` → Matt.; `mcans` → means; `ite` → its; `CaMPBELL` → Campbell; See-list spellings restored (`COVERNORS`, `WEDPT`, `MourpER`, `Forms`).
+
+**Unclear or supplied:** `[spiritual]` is supplied: the OCR reads `a itual`. The reference `Mar. xxiv. 6, 7` is read as Matt. (the passage is Matt. xxiv. 6-8).
 
 ## Full OCR entry body (exact)
 

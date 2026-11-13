@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pillar-of-the-temple
 headword: "PILLAR OF THE TEMPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WAR. PILLARS OF THE LIGHT` | **unresolved** (review queue) |
 | `OR CURTAINS OF LIGHT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the perfected soul on the higher mental plane.
+
+> "He that overcometh, I will make him a pillar in the temple of my God, and he shall go out thence no more."—Rev. iii. 12.
+
+The soul that has triumphed over the lower nature shall be raised to the higher mental plane and united with the individuality in the causal-body (temple), and it shall no more go forth to re-incarnation on the lower planes. Its differentiations (names) are of the higher planes, and the consciousness is raised to the buddhic level.
+
+See BATTLE, COLUMN, CONQUEROR, CONSCIOUSNESS, GOLDEN PILLAR, INDIVIDUALITY, NAME, REINCARNATION, STRIFE, TEMPLE, VICTORY, WAR.
+
+### Also in this note: PILLARS OF THE LIGHT, OR CURTAINS OF LIGHT.
+
+**Corrections made:** `causalbody` → causal-body; See-list spellings restored (`BaTTLe`, `GOLDEN PILLar`, `Name`).
+
+**Unclear or supplied:** Contains a second entry: PILLARS OF THE LIGHT, OR CURTAINS OF LIGHT; only the headword appears, with no definition.
 
 ## Full OCR entry body (exact)
 

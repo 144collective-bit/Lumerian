@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gods-deities
 headword: "GODS, DEITIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,38 @@ tags:
 | `SACRISICE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `SAVITRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
 | `VITAL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the highest Ideals in the soul. Love and Wisdom, Truth, Goodness, and Justice.
+
+> "Not different gods amongst different peoples,—Barbarian or Grecian, of the South or of the North,—but like as the Sun, Moon, Sky, Earth, Sea are the common property of all men, but yet are called by different names by different nations; in the same manner as one Reason regulates all things, and one Providence directs, and subordinate Powers are appointed over all things, yet different honours and titles are by custom assigned to them amongst different peoples; and these have established and do employ, symbols, some obscure, some more intelligible, in order to lead the understanding into things divine."—Plutarch, *Isis and Osiris*, § 67.
+
+> "All the Gods are good, and invariably the causes of good; and all of them are uniformly convolved to one good, according to the beautiful and good alone."—Iamblichus, *The Mysteries*, etc., Th. Taylor trans., p. 68.
+
+> "They are called gods who are in divine truths from the Lord, and abstractedly, the truths themselves."—Swedenborg, *Apoc. Rev.*, n. 44.
+
+> "The names of the Gods of whom Orpheus sings are not the titles of deceiving demons, but the designations of divine virtues."—Picus Mirandulanus, *Opp.*, p. 106, ed. Basil.
+
+> "Justice, goodness, disinterestedness, truth, purity, love; do you not transport these ideas to heaven? Are they not in fact the essential elements of your conception of heaven? Is it not through them that you imagine beings in higher stages of existence? Is not the very idea of a higher being this,—that the elements of moral perfection dwell in him in fullness and unity, as they are not unfolded upon earth? Here then we learn the greatness of human nature."—W. E. Channing, *The Perfect Life*, p. 51.
+
+> "So that the gods might dwell upon the earth in joy of heart, Marduk created mankind? Man therefore is created for the sake of the gods; it is precisely so in the Enuma elish."—A. Jeremias, *Old Test.*, etc., Vol. I. p. 143.
+
+> "Savitri is the mind, and the gods are the vital airs;—'Savitri, having harnessed the gods going by thought to the light, to heaven,'—for as such as are going to the heavenly world by thought (devotion) he has harnessed them for this holy work."—*Sata. Brâh.*, VI. 3, 1, 15.
+
+"Savitri" is the Self working through the higher mind, and the "gods" are the energies of the Divine Life, the buddhi-manasic qualities. The Self has attached to the soul the higher qualities (gods) which aspire to the truth (light), for it is by means of the higher qualities that the egos are raised to a higher state of consciousness.
+
+> "Everything earthly in the Light-world of Ormazd had its protecting deity. These guardian spirits were divided into series and groups. They had their captains and their associated assistants."—*Zoroastrian System*, J. F. Clarke.
+
+This means, that as it was below, so also it was in prototype above. The "deities" are the ideals which enlist the veneration of the soul. The divisions are the groups of ideals centralised, which have been responsible for the religious and other systems of thought in human development.
+
+> "What is God for humanity but the transcendental summary of its suprasensible wants, the category of the ideal."—E. Renan, *L'Avenir de la Science*.
+
+See AMSHASPANDS, COMPANY OF GODS, COSMOS, FOOD OF GODS, GOLDEN SOLES, [KALLIOPE?], LIGHT-WORLD, NIGHT, PROTOTYPES, QUALITIES, SACRIFICE, SAVITRI, VITAL AIRS.
+
+**Corrections made:** `ple` → peoples; `uth` → South; `Prutanrcn, Jats` → Plutarch, *Isis*; `IaAMBLICHUS` → Iamblichus; `Pi1cus` → Picus; `disinterestadness` → disinterestedness; `atages` → stages; `80 |` → so; `Cuannina` → Channing; `JEREMIAS` → Jeremias; `Bréh.` → Brâh.; `LD'` → L'; `Lightworld` → Light-world; page heading `318 GOING` removed from mid-sentence; See-list spellings restored (`COMPANY OF cops`, `Cosmos`, `Foop oF cops`, `LIGHT-wORLD`, `NicHT`, `SACRISICE`); quotation marks normalised.
+
+**Unclear or supplied:** `[KALLIOPE?]`: OCR reads `Katiiopria`, a damaged See-list item. `peoples` and `South` are supplied for damaged words (`ple`, `uth`) in the Plutarch quotation.
 
 ## Full OCR entry body (exact)
 

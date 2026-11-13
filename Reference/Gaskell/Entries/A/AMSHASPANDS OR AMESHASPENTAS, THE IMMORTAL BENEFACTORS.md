@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-amshaspands-or-ameshaspentas-the-immortal-benefacto
 headword: "AMSHASPANDS OR AMESHASPENTAS, THE IMMORTAL BENEFACTORS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `GUARDIANS` | **unresolved** (review queue) |
 | `MESSENGERS` | **unresolved** (review queue) |
 | `VOHUMANO` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of high Intelligences or Devas, which are modes of manifestation of the Divine nature. They are the ideals of Truth and Righteousness, which enlist the veneration of the soul. They are the bringers of "glad tidings," and so serve to evolve the inner capacities which are inherent within the soul. The six Amshaspands are faintly described as,—(1) Glorious Achievement, (2) Inspiration, (3) Wisdom, (4) Intellect, (5) Emotion, and (6) Love.
+
+> "God works from within outwards; for God's kingdom is within, being interior, invisible, mystic, spiritual. And God's Spirits, the Spirits of the Invisible Light, are Seven:—the spirit of wisdom, the spirit of understanding, the spirit of counsel, the spirit of power, the spirit of knowledge, the spirit of righteousness, and the spirit of divine awfulness. These are the Powers, or Elohim, of God. They are co-equal and co-eternal. Each has in itself the nature of the whole. Each is a perfect entity. Of them all is the whole of God's substance pervaded. And in their individual manifestations they are the Gods."—*The Perfect Way*, p. 54.
+
+> "The seven Amshaspands, who are most assuredly our Archangels, designate also the personifications of the Divine [word unclear]"—[author unclear], *Comm. on Yasna*, 74.
+
+See ANGELS, APSARAS, ARCHANGELS, ARDEBEHESCHT, ASHA, BAHMAN, DEVAS, GODS, GUARDIANS, MESSENGERS, VOHUMANO.
+
+**Corrections made:** `so- serve` → so serve; `({1)` → (1); `ABCHANGELS` → ARCHANGELS; `ABDEBEHESCHT` → ARDEBEHESCHT; `Yaskhna` → Yasna; `Devas`, `Gops` See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `oe oe` at the end of the last quotation, and `[author unclear]` stands for the author's name, which is lost before *Comm. on Yasna*.
 
 ## Full OCR entry body (exact)
 

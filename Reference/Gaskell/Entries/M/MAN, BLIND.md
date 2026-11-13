@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-man-blind
 headword: "MAN, BLIND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `Mrmacres (healing)` | **unresolved** (review queue) |
 | `SEEING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEEING (HIGHER ASPECT)|SEEING (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SEEING (LOWER ASPECT)|SEEING (LOWER ASPECT)]] |
 | `SIGHT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mind which is not spiritually awakened, and which reveres the form of religion without knowledge of its substance. Creed-bound literalism and formalism.
+
+> "The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down: the Lord loveth the righteous."—Ps. cxlvi. 8.
+
+The Divine Life within unfolds the higher nature which dissipates the lower, and brings truth to the perception of the soul. The Divine nature raiseth the mental qualities that are directed downwards. The Divine nature is in harmony with those which are perfected.
+
+> "That which had shut the higher wisdom out of your soul was part and portion of the soul itself, and so when it was broken up and kneaded in, it became part of the substance which received the new illumination. Your life had to open itself again in primal simplicity to God."—Stopford A. Brooke, *Mystery of Iniquity*, p. 163.
+
+See BLIND MAN, [Eryn?], HEALING, MIRACLES (healing), SEEING, SIGHT.
+
+**Corrections made:** `Creedbound` → Creed-bound; `iteelf` → itself; `See s Brooxs` → Stopford A. Brooke; `p-. 163` → p. 163; See-list spellings restored (`Mrmacres`).
+
+**Unclear or supplied:** Author name `Stopford A. Brooke` is the reading of damaged OCR `See s Brooxs`. `[Eryn?]` in the See list cannot be identified.
 
 ## Full OCR entry body (exact)
 

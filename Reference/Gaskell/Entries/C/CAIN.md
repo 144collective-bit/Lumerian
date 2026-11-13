@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cain
 headword: "CAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,28 @@ tags:
 | `Nop (land)` | **unresolved** (review queue) |
 | `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
 | `WanDERERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WANDERERS, OR WAYFARERS|WANDERERS, OR WAYFARERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the centre of the personality—the I am I feeling in the lower mind, which causes the illusion of separateness, and represents the lower self.
+
+> "Cain was a tiller of the ground."—Gen. iv. 2.
+
+The sense of self and separateness supervises the growth of the lower desires which spring from the lower nature.
+
+> "That is not first which is spiritual, but that which is natural; and afterwards that which is spiritual (1 Cor. xv. 46). What is first developed out of man is carnal,—that 'carnal mind which is enmity against God; which is not subject to the law of God, neither indeed can be.' (Rom. viii. 7). This is Cain. But there is a second birth; another life is born, which by grace springs out of the same old Adam; and this second birth, this 'spiritual mind,' is Abel."—A. Jukes, *Types of Genesis*, p. 88.
+
+> "By 'Cain' is signified faith separate from love. A 'tiller of the ground' is one who is without charity, whatever pretensions he may make to faith which when separated from love is no faith."—Swedenborg, *Arc. Cel.* to Gen. iv.
+
+> "Cain, who refers everything to himself, is the self-loving opinion. Abel, who refers everything to God, is the God-loving Opinion."—Philo Judaeus, Yonge's trans., [W]orks, Vol. IV. p. 249.
+
+> "Cain, whereby is understood in the language of nature, a source out of the centre of the fiery desire, a self-ful will of the fiery might of the soul."—J. Behmen, *Mysterium Magnum*, p. 166.
+
+See ABEL, AHANKARA, ATOM (perm.), CITY, COUNTENANCE, FACE (ground), FRUIT (ground), FUGITIVE, MONAD OF LIFE, NOD (land), SETH, WANDERERS.
+
+**Corrections made:** page heading `CAKE` removed from mid-sentence; `tillor` → tiller; stray `°` removed; `@` → a; `PHILO JuDzus` → Philo Judaeus; `orks` → [W]orks; `Mystertum` → Mysterium; `BEHMEN` → Behmen; See-list spellings restored (`Crry`, `FacE`, `Fruir`, `FuarrivE`, `Monap`, `Nop`, `WanDERERS`); quotation marks normalised.
+
+**Unclear or supplied:** `[W]orks` is supplied for OCR `orks`.
 
 ## Full OCR entry body (exact)
 

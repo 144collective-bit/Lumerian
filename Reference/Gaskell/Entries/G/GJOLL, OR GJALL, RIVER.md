@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gjoll-or-gjall-river
 headword: "GJOLL, OR GJALL, RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `GaTE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
 | `Norts` | **unresolved** (review queue) |
 | `Styx` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher faculties of the mind which lead to truth through the intuition.
+
+> "The Gjoll river being the nearest to the gate of the abode of death" (Prose Edda).—Mallet, *North. Antiq.*, p. 401.
+
+The higher mental faculties are at the entrance of the higher planes which the consciousness attains to through the death of the lower nature.
+
+See ANAURUS RIVER, BRIDGE OF GJALL, GATE, [NORNS?], STYX.
+
+**Corrections made:** `Ma..et, North. Anttg.` → Mallet, *North. Antiq.*; `mental]` → mental; See-list spellings restored (`GaTE`, `Styx`); quotation marks normalised.
+
+**Unclear or supplied:** `[NORNS?]`: OCR reads `Norts`. `Mallet` is inferred for OCR `Ma..et`.
 
 ## Full OCR entry body (exact)
 

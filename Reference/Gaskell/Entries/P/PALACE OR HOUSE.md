@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-palace-or-house
 headword: "PALACE OR HOUSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `Onoacorosma` | **unresolved** (review queue) |
 | `STUPA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol usually of the causal-body, but occasionally of the astral-body, in accordance with the context. See DWELLING, HOUSE, [Kaasa?], [Onoacorosma?], STUPA, TEMPLE.
+
+**Corrections made:** `causalbody` → causal-body; `astralbody` → astral-body; `Dwetiine` → DWELLING; `House` → HOUSE.
+
+**Unclear or supplied:** See-list items `[Kaasa?]` and `[Onoacorosma?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

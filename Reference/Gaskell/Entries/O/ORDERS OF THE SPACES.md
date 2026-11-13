@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-orders-of-the-spaces
 headword: "ORDERS OF THE SPACES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `SaMSARA` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SAMSARA|SAMSARA]] |
 | `TUAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The "orders" signify the laws of manifestation of conditions of progressive development. The "spaces" represent the means by which such conditions are attained.
+
+See ADITYAS, AEONS (twelve), COMPARTMENTS, JIABRAOTH, NIDANAS, SAMSARA, TUAT, ZODIAC.
+
+**Corrections made:** See-list spellings restored (`Aprtyas`, `Atons`, `ComPARTMENTS`, `SaMSARA`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

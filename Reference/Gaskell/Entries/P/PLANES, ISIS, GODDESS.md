@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-planes-isis-goddess
 headword: "PLANES, ISIS, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,30 @@ tags:
 | `W1sD0mM` | **unresolved** (review queue) |
 | `WORDS OF POWER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
 | `WorsHIP` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORSHIP OF THE WOOD OF ISIS|WORSHIP OF THE WOOD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle, or the Wisdom nature. The Divine Mother, or bringer-forth, of the indwelling Self (Horus).
+
+> "Plato says that the ancients signified 'Holy One' by calling Isis 'Isia,' as being a current and movement impulse of the mind that longs for an object and is carried onwards; and that they placed understanding, and generally, goodness and virtue in the things that flow; as, on the other hand, the opposite thing binds down and hinders from going, we denominate it 'badness,' 'inability,' 'pain,' 'cowardice.'"—Plutarch, *Isis and Osiris*, § 60.
+
+The Holy Spirit of Wisdom working through the lower nature is evidenced in the aspirations which arise in the mind and lead to the enlargement of the consciousness and the evolution (flow) of the faculties and virtues in the soul. The opposite to the aspirations are the desires which bind down the ego to the lower life and hinder the evolution (going) of the higher.
+
+> "The Goddess Isis is both wise, and a lover of wisdom, as her name appears to denote that more than any other; knowing and knowledge belong to her."—*Ibid.*, § 2.
+
+> "Isis,—Justice-Wisdom,—shows the divine mysteries to 'carriers of sacred things,' and 'wearers of sacred robes': these are they that carry in the soul, as it were in a [coffer?], the sacred story [touching?] the Gods, that cleanses the recipient from all superstition and magical follies."—*Ibid.*, § 3.
+
+The Wisdom-nature confers Truth and Love upon the souls who have acquired the higher emotions, and donned the causal and buddhic "robes" or vestures of spirit. These egos are they who comprehend the inner teaching of the scriptures, the knowledge of Truth-reality which is above all the delusions of the lower mind, and free from reliance upon external creeds and ceremonial observances.
+
+> "And Isis also came, bringing with her her words of magical power, and her mouth was full of the breath of life; for her talismans vanquish the pains of sickness, and her words (of power) make to live again the throats of those who are dead" (Rā and Isis).—Budge, *Egyptian Magic*, p. 139.
+
+The buddhic principle is the fount of the higher qualities by the transmuting power of which the soul is raised. In the expression (mouth) of wisdom-love the Divine life issues forth to heal the soul; for the buddhic vibrations of love and truth harmonise and energise the qualities, and the higher qualities from above bring life into the lower minds of the personalities which are full of prejudice and convention and dead in trespasses and sins.
+
+See ALCHEMY, ALTAR (goddess), ARMAITI, BARSOM, BREATH, BUDDHI, CARNELIAN, CIVILISING, DAEMONS, DEAD, DEATH OF OSIRIS, FIRE OF HELL, HEALING, MAGIC, MOSES, MOUTH, NEPHTHYS, OSIRIS, PAPYRUS, [Puzpkevs?], PYLONS, QUALITIES, RA, RACES, RITES, ROSE, SCENT, TALISMAN, THROAT, TRANSMUTATION, UPLIFTING RA, URNI, VEIL, VULTURE, WEEPING, WISDOM, WORDS OF POWER, WORSHIP.
+
+**Corrections made:** page headings `MIRROR ISLAND` and `402 ISTAR` removed from mid-text; `Ieie and Osiris` → Isis and Osiris; `PLutTaron` → Plutarch; `@ lover` → a lover; `J ustice - Wisdom` → Justice-Wisdom; `copper` → [coffer?]; `ting the Gods` → [touching?] the Gods; `R&` → Rā; `Bupar` → Budge; See-list spellings restored (`ALTsR`, `Armarti`, `DA2MONS`, `Maaic`, `Morser`, `Nepatays`, `Osrpis`, `Paryros`, `Quatirizs`, `Rires`, `TauisMAN`, `W1sD0mM`, and similar).
+
+**Unclear or supplied:** `[coffer?]` (OCR `copper`) and `[touching?]` (OCR `ting`) are likely readings of damaged words. `[Puzpkevs?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jackal-anubis
 headword: "JACKAL-ANUBIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Anpu` | **unresolved** (review queue) |
 | `ANUBIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANUBIS, SON OF OSIRIS AND NEPTHYS|ANUBIS, SON OF OSIRIS AND NEPTHYS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical human body, the seat of the five senses.
+
+See ANPU, ANUBIS.
+
+**Corrections made:** `Anpu` → ANPU.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

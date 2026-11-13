@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bel-of-nipur-or-mul-lilla-the-lord-of-the-lower-wor
 headword: "BEL OF NIPUR, OR MUL-LILLA, THE LORD OF THE LOWER WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `NEocKLAcE` | **unresolved** (review queue) |
 | `Herpresr` | **unresolved** (review queue) |
 | `HirroPOTAMUS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind,—astro-mental.
+
+> "Now when Bel drew nigh, he saw the [word unclear], and was very wroth; he filled [with?] anger the gods, the Igigi, (saying): Who then hath escaped with his life? No man shall live after the destruction."—*Babylonian Flood Story*.
+
+Now as the lower mind reached the zenith of its power, and was mightily increased in pride of the intellect so that the ideals (gods) were obscured, the quality of mental exclusiveness was developed, and it came to imagine that nothing it could not account for had any existence in the soul, or could survive death.
+
+See NECKLACE, [HERPRESR?], HIPPOPOTAMUS.
+
+**Corrections made:** `saw the ,` → saw the [word unclear],; `was anger` → [with?] anger; `Izigi` → Igigi; page heading `BENNU` removed from mid-sentence; See-list spellings restored (`NEocKLAcE`, `HirroPOTAMUS`).
+
+**Unclear or supplied:** `[word unclear]` after `saw the`; `[with?]` for OCR `was`; `[HERPRESR?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

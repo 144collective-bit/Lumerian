@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agni-the-fire-god
 headword: "AGNI, THE FIRE-GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SomMA PLANT` | **unresolved** (review queue) |
 | `TORTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the force-aspect of the indwelling Higher Self, directed to the higher channels of manifestation.
+
+> "Agni is the light, the burner of evil: he burns away the evil of this sacrificer; and the latter becomes a light of prosperity and glory in this, and a light of bliss in yonder world."—*Satapatha Brâhmana*, XI. 2, 3, 6.
+
+The force-aspect of the Self is the light of Truth which causes the disappearance of the ignorance and shortcomings of the personality (sacrificer). And the personality becomes perfected in wisdom and righteousness on the lower planes, and has a blissful consciousness on the higher.
+
+> "The gods then established that fire (Agni) in their innermost soul; and having established that immortal element and become immortal and unconquerable, they overcame their mortal, conquerable enemies (the asuras). And so this sacrificer now establishes that immortal element in his innermost soul; and—though there is for him no hope of immortality—he obtains the full measure of life."—*Sata. Brâh.*, XI. 2, 2, 14.
+
+The higher qualities, or ideals, involved and latent at first, establish through aspiration the Spirit or "fire" of evolutionary life in their innermost being. This confers immortality upon them and gives them the force necessary to overcome the desires (asuras). In the same way the personality takes to itself the Divine Spark, which though it does not confer immortality upon it, yet enables it to become perfect on the lower planes.
+
+> "I am the Fire-god, the divine brother of the Fire-god, and I am Osiris, the brother of Isis, ... I am Osiris, the first-born of the divine womb, the firstborn of the gods, and the heir of my father Osiris-Seb."—Budge, *Book of the Dead*, Ch. LXIX.
+
+The Divine aspects on the higher planes cannot be differentiated the one from the other by the lower mind. The Higher Self (Osiris) is the firstborn of Time (Seb) and Space (Mut) and emanates upon the plane of atma.
+
+See ATAR (fire), ASHES, GOLD PLATE, HORSE (red), HORSE SACRIFICE, LOTUS LEAF, PRANA, PRAGAPATI, SOMA PLANT, TORTOISE.
+
+**Corrections made:** `liss` → bliss; `Bréhmana` and `Braéh.` → Brâhmana, Brâh.; `BupGE` → Budge; page heading `AGNIDHRA` removed from mid-sentence; See-list spellings restored (`AtTaR`, `Horse`, `HORSE SACRIFicE`, `Lotus LEAF`, `SomMA PLANT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

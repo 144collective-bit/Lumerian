@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-justice
 headword: "JUSTICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -67,6 +68,32 @@ tags:
 | `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `TESTAMENT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of balanced conditions of progress on different planes, in relation to karmic law.
+
+> "But he answered and said to one of them, Friend, I do thee no wrong: didst not thou agree with me for a penny? Take up that which is thine, and go thy way; it is my will to give unto this last, even as unto thee. [Is] it not lawful for me to do what I will with mine own? or is thine eye evil, because I am good? So the last shall be first, and the first last."—Mat. xx. 13-6.
+
+The Higher Self disciplines the qualities, and chides their rebellious murmurings, and points out that no injustice has been done,—saying that as qualities have sown, so they have reaped. It is the will of the Logos that perfect fairness shall be meted out,—He lives in all, and all is but His own. He asks if there be imperfection in the lower nature, and whether, if so, it is not an imperfect mirror or reflector of His Divine Nature. For it is necessary that the first in order of evolution of qualities become last in progression, whilst the last take the chiefest place. The first that are evolved are full of the desire nature, while the last are more advanced and are reincarnated later in the cycle.
+
+> "The necessary replies (or returns) which a man's surroundings make to what he is and does:—'With what measure ye mete, it shall be measured to you again.' It is a law of vast extent and wonderful exactness. The world is far more orderly than we believe; a deeper and a truer justice runs through it than we imagine. We all go about calling ourselves victims, discoursing on the cruel world, and wondering that it should treat us so, when really we are only meeting the rebound of our own lives. What we have been to things about us has made it necessary that they should be this to us. As we have given ourselves to them, so they have given themselves to us. This is the law I want to trace with you, only begging you to keep your minds clear of any materialism which would think that in mere earth itself resides this power of just and discriminating reply. It is as we and all things exist together in the great embracing and pervading element of God that all things give themselves to us as we give ourselves to them. So all the phenomena of life are at the same time divine judgments if we are only wise enough to read them"—Phillips Brooks, *Serm., The Gift and its Return*.
+
+See HOUSEHOLDER (highest), KARMA, LABOURERS, MONEY, QUALITIES, REINCARNATION, SOWING AND REAPING, STEWARD, VINEYARD, WAGES, WORK.
+
+### Also in this note: JUSTIFICATION BY FAITH
+
+A symbol of being perfected through the intuition of Wisdom and Love, which reveals the Truth and the Life.
+
+> "But before faith came, we were kept under the law, shut off from the faith which should afterwards be revealed. Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith. But after that faith is come we are no longer under a schoolmaster."—Gal. iii.
+
+Before intuition comes we are disciplined under law, reason, cause and effect, Karma, and kept in bondage to authority until intuition should evolve in the soul. Wherefore the law of cause and effect, of sequence and of experience, was as a teacher to lead us unto Wisdom and Love, that at length we should be perfected by intuition. So when the intuition is acquired, then we have knowledge of the truth, and have no more need of instruction by authority and experience, for we perceive the truth direct.
+
+See DISPENSATIONS, FAITH, INTUITION, KARMA, LAW OF MOSES, MOSAIC, MOSES, REDEMPTION, SALVATION, TESTAMENT.
+
+**Corrections made:** `Mart.` → Mat.; `go ay way` → go thy way; `it not lawful` → [Is] it not lawful; `surroundi make` → surroundings make; `end wonderful` → and wonderful; `ps Brooks` → Phillips Brooks; `tts Return` → its Return; `Waces` → WAGES; `InrvrTIoN` → INTUITION; `KanMA` → KARMA; `Farru` → FAITH; page headings `422 JUSTICE` (mid-sentence) and the stray `9° e eR KA, GOD` removed; stray `|` removed; second entry `JUSTIFICATION BY FAITH =` set out under its own heading; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: JUSTIFICATION BY FAITH. `[Is]` is supplied (OCR reads "it not lawful"). The Brooks quotation ends without a full stop in the OCR (`read them`); the Mat. reference `13-6` and the Gal. reference `iii.` are left as printed.
 
 ## Full OCR entry body (exact)
 

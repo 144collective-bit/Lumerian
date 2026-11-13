@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-planetary-chain-system
 headword: "PLANETARY CHAIN SYSTEM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -64,6 +65,26 @@ tags:
 | `—and will next pass on` | **unresolved** (review queue) |
 | `after an immense period` | **unresolved** (review queue) |
 | `to tho highor astral globe of the Earth chain. 580 LANETS ‘` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Each physical globe has three counterpart globes of ascent, and three of descent, on the three planes above the physical, i.e. two on the astral plane, two on the mental, and two on the buddhic. Round this chain of globes the life-wave passes in seven rounds. The life-wave has passed through the seven rounds of the lunar manvantara, and three and a half rounds of the terrene, and is now, therefore, on the fourth globe of the fourth round, which is the planet Earth on which humanity is at present developing. The planetary chain system has its correspondency in the individual soul (the microcosm). The passing of the life-wave from globe to globe synchronises with the evolution of the vestures of the Ego, which enable the mental, astral, and physical natures to receive expression. The globes answer to the means whereby the Ego is enabled to undergo its pilgrimage.
+
+> "Origen holds to a series of worlds following one upon the other—the one rising a step higher than the other, representing thus a teleological development, so that every later world brings to ripeness the seeds that were imbedded in the former, and itself prepares the seed for that which is to follow."
+
+See AAT, BEASTS (three sorts), HVANIRATHA, KARSHVARES, LUNAR CHAIN, MANVANTARA, MICROCOSM, PRALAYA, RACES, REGIONS, RENOVATION, ROOT-RACES, ROUND, SABBATH, SNOW, VESTURES.
+
+THE GLOBES OF THE PLANETARY CHAIN. Vourubaresti (north) SPIRITUAL Vourubaresti (north) Savahi (east) MENTAL Arezahi (west) Vidadhafshn (south) ASTRAL Fradadhafshn (south) PHYSICAL (The Earth) Hvaniratha
+
+In the above diagram of the Earth's planetary chain, the Zoroastrian names are given to the seven globes.
+
+> "Out of these seven only one, the lowest and most material of these globes, is within our plane or means of perception, the six others lying outside it and being therefore invisible to the terrestrial eye. Every such chain of worlds is the progeny and creation of another, lower and dead chain—its reincarnation, so to say" (*Secret Doctrine*, Vol. I. p. 176.)
+
+The Earth chain is the progeny of the Lunar chain, which is now lifeless, as is to be seen in the case of the moon, which is the physical globe of that chain. The Life-wave has passed entirely from the Lunar chain, and temporarily from the first three globes of the Earth chain. It has now passed from the lowest astral globe to the physical globe,—our Earth,—and will next pass on, after an immense period, to the higher astral globe of the Earth chain.
+
+**Corrections made:** page heading `580 LANETS` removed from the end; `has_ three` → has three; `lifewave` → life-wave; `tho highor` → the higher; See-list spellings restored (`AatT`, `HvaNIRATHA`, `KaRSHVARES`, `RacEes`, `REGIons`, `RENovaTION`, `RoorT-Rackes`, `RounbD`, `Snow`); `Vourugaresti` → Vourubaresti; the diagram title and labels are kept as one paragraph, and the See list was set apart from them.
+
+**Unclear or supplied:** The diagram's title and labels (`THE GLOBES OF THE PLANETARY CHAIN` and the Zoroastrian globe names) are kept as one run of text since the diagram itself is not in the OCR. `SNOW` in the See list is as printed in the OCR and may be damaged.
 
 ## Full OCR entry body (exact)
 

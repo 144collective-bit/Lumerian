@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-involution-tion
 headword: "INVOLUTION TION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,52 @@ tags:
 | `fT letter` | **unresolved** (review queue) |
 | `VistasP` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VISTASP, KING|VISTASP, KING]] |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These processes of life are the descent of Spirit into Matter and the ascent of Spirit therefrom. The first is the Divine Sacrifice, or the limitation of Spirit in forms; and the second is the Resurrection from the Dead, or the liberation of Spirit from captivity in matter.
+
+> "There is a raying out of all orders of existence, an external emanation from the Ineffable One. There is again a returning impulse, drawing all upwards and inwards towards the centre from whence all came" (Plotinus to Flaccus).—Vaughan's *Hours*, etc., p. 83.
+
+The "raying out" is the involution into matter of all qualities and potencies, and the "drawing inwards" is the evolution of the same.
+
+> "Twofold is the truth I shall speak; for at one time there grew to be One alone out of many, and at another time, however, it separated so that there were many out of the One. Twofold is the coming into being, twofold the passing away of perishable things; for the latter (i.e. passing away) the combining of all things both begets and destroys, and the former (i.e. coming into being), which was nurtured again out of parts that were being separated, is itself scattered."—Empedocles, Fairbanks, 60.
+
+A twofold truth is to be found in the World-process:—First, there is Involution, and then second, there is Evolution. For at one time, in one cycle, the many potencies have gone to compose the One Monad (the Archetypal Man); and subsequently at another time, in the following cycle, the One Monad by means of evolution, proceeds to actualise and differentiate, so that the many monads and potencies are brought forth from the One. Manifestation involves duality; also the ceasing from manifestation. For the latter,—the indrawing (passing away),—both begets ideals enabling the Self to subsequently manifest, and also destroys the illusions of the lower mind: while the former,—the outpouring (coming into being),—the issuing forth from the Womb of Pain, in the separation of Spirit and Matter,—is also ultimately suspended as illusion vanishes.
+
+In the Sankhya philosophy,
+
+> "There cannot be the production of something out of nothing; that which is not, cannot be developed into that which is. The production of what does not already exist (potentially) is impossible; because there must of necessity be a material out of which a product is developed; and because everything cannot occur everywhere at all times; and because anything possible must be produced from something competent to produce it. In the Sankhya, therefore, we have a synthetical system propounded, starting from an original primordial 'eternally existing essence' called Prakriti (a word meaning 'that which evolves or produces everything else')."—Mon. Williams, *Indian Wisdom*, pp. 89, 90.
+
+Prakriti at its origin is said to be identical with "Brahman the Supreme," and that its first production is Buddhi, followed by Ahankara and Manas or self-consciousness and mind. From the Absolute everything proceeds, but the process of manifestation is by involution of Spirit and evolution of the same, so that the Divine nature may be expressed.
+
+> "Matter in itself, as Anaxagoras represents it in the primitive state, before Spirit had begun to work upon it, can only be a chaotic, motionless mass; for all motion and separation must come from Spirit. But matter must nevertheless contain all the constituents of derived things as such; for Spirit creates nothing new: it only divides what actually exists. Conversely, Spirit is necessary, because matter, as such, is unordered and unmoved, and the activity of matter is restricted to the separation of substances, because they are already supposed to contain within themselves all their determinate qualities."—E. Zeller, *Hist. of Greek Phil.*, Vol. II. p. 383.
+
+> "It is because of this union (with Phanes) that Zeus is said to 'swallow' Phanes. For the creative Deity and architect of the sensible world must first imbibe the ideal and eternal [types?] of things before he can fashion them forth into sensible shape. Thus Proclus (Tim. iv. 267): 'Orpheus called God the Manifestator (Phanes) as manifesting the noétic monads, and stored within him the types of all living creatures.'"—G. R. S. Mead, *Orpheus*, p. 204.
+
+The Second Logos (Phanes) is said to be contained by the First Logos (Zeus) in order that he (the Second, or Higher Self) should be replete with the prototypes of all things that are to be involved in matter, so that they may be fashioned forth afterwards by the process of evolution. It is from the mental plane that the intelligible type-forms of growth [words unclear].
+
+> "The single sense-and-thought of Cosmos is to make all things, and make them back into itself again, as Organ of the Will of God, so organised that it, receiving all the seeds into itself from God, and keeping them within itself, may make all manifest, and [then] dissolving them, make them all new again; and thus like a Good Gardener of Life, things that have been dissolved, it taketh to itself, and giveth them renewal once again (*Corpus Hermeticum*, IX)."—G. R. S. Mead, *T. G. Hermes*, Vol. II. p. 133.
+
+The Divine purpose in manifestation is to involve all things in matter, that they may return again by evolution after having accomplished the end for which they existed, namely, the growth and exaltation of the myriad souls of humanity.
+
+> "You will all admit, I hope, without difficulty that what is evolved in nature must first have been involved. When people speak of the theory of evolution as being enough to account for all the order, beauty, life, form, and intelligence in creation, without the necessity of postulating any personal or superpersonal Creator behind it, they are simply [begging?] the whole question. Evolution accounts for nothing. It only tells us how certain things have come to be what they are, but it does not tell us why. How could the evolutionary process result in the production of a Shakespeare or Gladstone if the qualities which appeared in these two great men were not already latent in the whole vast scheme of things? . . . There would have been no Gladstone if the Gladstone soul, or potency, had not been wrapped up somewhere in the cosmos from the beginning of time."—R. J. Campbell, *Serm.*, The Source of Good.
+
+> "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end."—Eccles. iii. 11.
+
+The first sentence refers to the period and process of involution when the archetypal world on the buddhic plane is made perfect and "very good." Then also is set potentially in the causal-body (heart) the means of immortality,—the Truth, Love, and Wisdom of the Spirit,—yet, these being latent, the lower mind (man) is left in ignorance of the Divine scheme, and is unable to find out the work that God hath done in the universe and the soul, from the beginning even to the end of the cycle of existence.
+
+> "'He hath made every thing beautiful in its time.' The nearest approach I can make myself to an explanation of what beauty is,—and even that is no explanation, but only an index finger pointing towards it,—is to say that it is the witness in the soul of that which is as opposed to that which seems—the real of which this world is but the shadow; it is a glimpse, an intimation of the supernal, the state of being in which there is no lack, no discord, strife, or wrong, and where nothing is wanting to the ideal perfection, whatever it may be."—R. J. Campbell, *Serm.*, The Elusive Revelation.
+
+> "All perfection increases towards the interiors, and decreases towards the exteriors; since interior things are nearer the Divine, and in themselves purer; but exterior things are more remote from the Divine, and in themselves grosser."—Swedenborg, *Heaven and Hell*, p. 23.
+
+> "The individual, or any grouping of individuals, depends for its meaning, its power to change and to grow, for the direction of its development, its fullness and sufficiency, upon a Life larger than its own. This larger Life works within the unit, as well as upon it from its environment. The part played by this inherent, larger Life which has [passed?] beyond the unit while working within it, is coming to be more and more allowed for by biological science. The tide of thought among biologists is flowing away from a strictly mechanical theory of evolution, and making for a psychic conception of the driving-force in evolution. A living thing cannot be explained by an analysis of its elementary substances. . . . It is coming more and more to be felt that a directive Life has been at work in Nature, and that that Life, which was so much larger than any one of its manifestations, was the sufficiency of that manifestation. The individual thing was nothing of itself, but it was what it was by virtue of the action of the Whole through it and upon it. . . . We may [indeed?] say that all beings everywhere are local centres of the great Universal Spirit that pervades the universe, and that when the beings are human then they do become conscious co-operating units."—T. Rhondda Williams, *Serm.*, Divine Sufficiency.
+
+See ADAM, AIR-ÆTHER, ARC. MAN, BUDDHI, CIRCLE OF EXISTENCE, CREATION, CRIPPLES, DEATH OF OSIRIS, EVOLUTION, FORM AND NAME, GEOMETRY, GLORY, GOING IN, GOOD (light), [HEIRS?] (seed), IABRAOTH, INCARNATION, KHWAN, LION-GOD, MATTER, MEDIATOR, MITHRA, MONAD, [Mvusvusli?], NECESSITY, NIGHT, OGDOAD, PRAKRITI, PURUSHA, SABBATH, SEED, SEPHIROTH, SETTLEMENTS, SOUL (highest), SOUL AND BODY, [T letter?], VISTASP, WHEEL OF LIFE.
+
+**Corrections made:** `parte` → parts; `VauaHan` → Vaughan; `San-khya` → Sankhya; `prigina)` → original; `Wiis, Indian Wiedom` → Williams, *Indian Wisdom*; `Prakritt at ite` → Prakriti at its; `Buddht` → Buddhi; `nevertheleas` → nevertheless; `iteelf` → itself; `G. R. 8. Mean`, `Mzap` → G. R. S. Mead; `intellice` → intelligence; `Eccuiss.` → Eccles.; `buddhiec` → buddhic; `ts` → is; `glimpeo` → glimpse; `rfection` → perfection; `AMPBELL` → Campbell; `SwEDENBORG`; `. 23` → p. 23; `s strictly` → a strictly; `WriuiaMs` → Williams; page headings `INVOLUTION` / `AND EVOLUs INVOLUTION` (five occurrences, including `1 INVOLUTION`) removed from mid-text; stray `.` after "another time," dropped; See-list spellings restored (`AIR-2THER`, `BuppuHI`, `Iasraorn`, `Necessiry`, `Ocpoap`, `PurusHa`, `Sou.`, `VistasP`) and similar minor fixes.
+
+**Unclear or supplied:** `[types?]` (OCR `eternal t of things`), `[begging?]` (OCR `simply i the whole question`), `[passed?]` (OCR `has pu beyond`), `[indeed?]` (OCR `We may ind say`). The sentence ending "type-forms of growth" breaks off in the OCR: `[words unclear]` added. See list: `[HEIRS?]` (OCR `Hers`), `[Mvusvusli?]` and `[T letter?]` (OCR `fT letter`) are uncertain; `Orpheus called God` quotation as printed. The Hermes quotation's `[then]` is in the OCR's own brackets.
 
 ## Full OCR entry body (exact)
 

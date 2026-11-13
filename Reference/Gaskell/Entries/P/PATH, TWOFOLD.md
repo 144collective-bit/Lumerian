@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-path-twofold
 headword: "PATH, TWOFOLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `GODHEAD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GODHEAD|GODHEAD]] |
 | `Way OF DELIVERANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WAY OF DELIVERANCE|WAY OF DELIVERANCE]] |
 | `WORKS (wisdom). ‘` | resolved (singular/plural) → [[Reference/Gaskell/Entries/W/WORK|WORK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the path of Love and Action, the dual path to perfection which the spiritual monads enter upon when they descend to the planes of the manifest.
+
+> "The grades of Spirit and its knowledge correspond to the grades of existence. The lower strives wistfully to reach the higher, and the higher lifts the lower up to its own level. The Spirit which stands above us, and which has lent to all earthly things their Forms, seeks to bring these scattered Forms together that they may become one in Love."—T. J. De Boer, *Phil. in Islam*, p. 120.
+
+> "'I shall be satisfied, when I awake, with Thy likeness' (Ps. xvii. 15). We have here the blessed confidence that when all the baseless fabric of the dream of life has faded from our opening eyes, we shall see the face of the ever-loving [Father?]. Here the distracting whirl of earthly things obscures Him from even the devoutest souls. .... No longer befooled by shadows, we shall possess the true substance; no longer bedazzled by shows, we shall behold the reality. And seeing God we shall be satisfied."—A. MacLaren, *Sermons*, 2nd Series, p. 16.
+
+See APARAGITA, BRAHMA, GODHEAD, WAY OF DELIVERANCE, WORKS (wisdom).
+
+**Corrections made:** `ite` → its; `lifta` → lifts; `Pail. in Lalam` → *Phil. in Islam*; `T shall` → I shall; `MaciaRreEn` → MacLaren; closing quotation mark supplied after `Love.`; stray `'` removed from the end; See-list spellings restored (`Way OF DELIVERANCE`).
+
+**Unclear or supplied:** `[Father?]` is supplied: the OCR reads `ever-loving Here`.
 
 ## Full OCR entry body (exact)
 

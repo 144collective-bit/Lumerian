@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ox-sarsaok
 headword: "OX SARSAOK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Buu` | **unresolved** (review queue) |
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane on which manifestation first takes place. See BUDDHIC PLANE, BULL, COW, CREATION.
+
+**Corrections made:** See-list spellings restored (`BuDDHIC`, `Buu`, `Cow`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

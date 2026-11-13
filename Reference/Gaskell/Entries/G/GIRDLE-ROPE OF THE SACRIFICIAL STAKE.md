@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-girdle-rope-of-the-sacrificial-stake
 headword: "GIRDLE-ROPE OF THE SACRIFICIAL STAKE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Sacrirtcern` | **unresolved** (review queue) |
 | `STAKE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STAKE, SACRIFICIAL|STAKE, SACRIFICIAL]] |
 | `ToP-RING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOP-RING OF THE SACRIFICLAL STAKE|TOP-RING OF THE SACRIFICLAL STAKE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotions which encompass, as it were, the ray of the Divine Life (stake).
+
+> "He (the Sacrificer) girds the stake with a triple rope for three-fold is food, and food means cattle; and there is the father and mother, and what is born is the third, therefore he girds it with a triple rope."—*Sata. Brâh.*, III. 7, 20.
+
+The Higher Self emanates the higher emotions as sustenance for the soul, for the buddhic emotions (cattle) nourish the soul. The triad of father, mother, and son, represents mind and emotion producing the indwelling Self born on the mental plane (son of mind).
+
+See BIRTH (second), CATTLE, CHIP, FOOD, SACRIFICER, STAKE, TOP-RING.
+
+**Corrections made:** `yirds` → girds; `with . triple` → with a triple; `Brah, Ill.` → Brâh., III.; full stop supplied after 20; See-list spellings restored (`BrrtH`, `CaTrie`, `Foop`, `Sacrirtcern`); quotation marks normalised.
+
+**Unclear or supplied:** `a` is supplied silently for the stray `.` in "with . triple rope".
 
 ## Full OCR entry body (exact)
 

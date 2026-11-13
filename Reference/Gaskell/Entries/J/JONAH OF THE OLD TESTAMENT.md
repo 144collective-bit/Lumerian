@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jonah-of-the-old-testament
 headword: "JONAH OF THE OLD TESTAMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `JEsusS (fish)` | **unresolved** (review queue) |
 | `Sian` | **unresolved** (review queue) |
 | `WHALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHALE OF JONAH|WHALE OF JONAH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A type of the soul whose evolution was consummated in the Christ as symbolised in the sign Pisces. "Jonah" corresponds to the stage of evolution signified by this sign as the Goal of attainment.
+
+See JESUS (fish), SIGN, WHALE.
+
+**Corrections made:** `JEsusS` → JESUS; `Sian` → SIGN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lote-tree
 headword: "LOTE-TREE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,24 @@ tags:
 | `OR LOTUS` | **unresolved** (review queue) |
 | `TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE|TREE]] |
 | `—A TREE IN N` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the tree of Wisdom bearing the fruit of the Spirit.
+
+> "Beneath the Kursi, but somewhat to the right hand, God created a region like white pearl, in which is the 'Lote-tree none may pass.' And this is the station of the Archangel Gabriel, beyond which he may not go. And in this place is the root of the Tuba tree."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 36.
+
+Beneath the buddhic plane is the higher mental plane, which is the vehicle of atma-buddhi and the Wisdom nature. The lower consciousness cannot rise to this level, neither can the inner messenger of spiritual tidings descend below it. The tree of Life and immortality is only to be found in the higher mental region and the regions above.
+
+See CHERUBIM, EDEN, FRUIT OF THE SPIRIT, GABRIEL, KURSI, PARADISE, PEARL, TREE OF LIFE, TUBA TREE, WHITE.
+
+### Also in this note: LOTOS, OR LOTUS, TREE
+
+A TREE IN N.
+
+**Corrections made:** `QGrsB` → Gibb; `Lotetree` → Lote-tree; stray opening quotation mark before "The tree of Life" removed; quotation marks restored.
+
+**Unclear or supplied:** Contains a second entry: LOTOS, OR LOTUS, TREE, which breaks off in the OCR at `A TREE IN N.`
 
 ## Full OCR entry body (exact)
 

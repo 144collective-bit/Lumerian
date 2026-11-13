@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fravashis-fravashi-of-ormazd
 headword: "FRAVASHIS FRAVASHI OF ORMAZD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `MonaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
 | `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A designation signifying the Divine Monad or spiritual Prototype in its dual aspect.
+
+> "Even Ormazd has his Fravashi in relation to Zerdna-Akerana."—*Zoroastrian System*, J. F. Clarke.
+
+On the highest plane the Divine Being is said to bear under its dual aspects of Spirit and Matter a similar relationship to Itself (Absolute) as the lower manifestations bear to each other. The relationship of life and form.
+
+See ABSOLUTE, HEAVEN AND EARTH, MONAD, SPARK, ZERANA.
+
+**Corrections made:** `MonaD` → MONAD; `CLARKE` → Clarke; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

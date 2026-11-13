@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-exodus-of-egypt
 headword: "EXODUS OF EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,30 @@ tags:
 | `Passover` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PASSOVER, JEWISH|PASSOVER, JEWISH]] |
 | `Rocx (spiritual)` | **unresolved** (review queue) |
 | `Sma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolical of the raising of the lower qualities by the aid of the higher, through the stress and struggle of life, until the buddhi-manasic consciousness (the promised land) is attained. The forty years' wanderings have reference to the transitory conditions attending the soul's pilgrimage in the arena of the natural life of desire and sensation, barren of itself (wilderness).
+
+> "The Exodus of Israel, their deliverance from their enemies, and their [passage] through the Red Sea, and the [destruction] of their enemies in its waters, were figures of the liberation of Mankind from the dominion and bondage of Satan, and of his overthrow by Christ in the Red Sea of His blood."—Wordsworth, *Bible*, Job, p. 97.
+
+> "We have been led out of Egypt, where we were slaves to the devil as to Pharaoh; where we applied ourselves to works of clay, engaged in earthly desires, and where we toiled exceedingly. And to us while labouring, as it were, at the bricks, Christ cried aloud, 'Come unto me, all ye that labour and are heavy laden.' Thence we were led out by baptism as through the Red Sea,—red because consecrated by the blood of Christ. All our enemies that pursued us being dead, that is, all our sins being blotted out, we have been brought over to the other side. At the present time, then, before we come to the land of promise, namely, the eternal kingdom, we are in the wilderness in tabernacles. ... In the desert waste: because in this world, where we thirst in a way in which is no water. But yet, let us thirst that we may be filled. For 'Blessed are they that hunger and thirst after righteousness, for they shall be filled' (Mat. v. 6). And our thirst is quenched from the rock in the wilderness: for 'the Rock was Christ,' and it was smitten with a rod that the water might flow."—Augustine, *Gospel of John*, Vol. I. pp. 398-9.
+
+> "The journey of the Children of Israel illustrates the struggles, temptations and victories of those who, discerning the great purpose of life, are led by their higher faculties—Moses and Aaron—rather than their senses, to press through a wilderness of difficulties in the way till they find its promise fulfilled."—Mrs. U. N. Gestefeld.
+
+> "It means spiritually that in the Soul's liberation from sin (or in the exodus of the Soul from sin) it is made holy and free in its powers."—Dante Alighieri, *The Banquet*, Bk. II. 1.
+
+> "The only thing we really do know about life in its supersensuous aspects is that it is an appeal to us to disregard personal and mundane security and well-being when these conflict with the ideal, whatever it may be, which is revealed within our hearts. We may not know why we are enslaved in the land of Egypt, why we should be compelled to long wandering in the wilderness of material hardship and privation, why our struggle for a footing in [word unclear] should be so strenuous and prolonged, but we know that never in any one of these experiences have we been left without the knowledge that it is somehow a bigger thing, and authoritatively greater thing, to give one's life away in the service of a super-personal good than to retain it for oneself alone."—R. J. Campbell, *Serm.*, *Things Hidden*, etc.
+
+> "I will open my mouth in a parable; I will utter dark sayings of old: which we have heard and known, and our fathers have told us. We will not hide them from their children. ... Marvellous things did He in the sight of their fathers, in the land of Egypt, in the field of Zoan. He clave the sea, and caused them to pass through; and he made the waters to stand as an heap. In the day-time also he led them with a cloud, and all the night with a light of fire."—Ps. lxxviii. 2-14.
+
+The moral nature (Moses the lawgiver) utters itself within the soul, and addresses the disciplined qualities (my people) through symbolism (parable and dark sayings). They are reminded of past experience, and the need to profit by it. The workings of the Spirit in the lower nature (Egypt) are shown in suffering, and trouble, and effort, which gradually cause the qualities to leave their lowest condition (cleave the sea) and follow the higher guidance. In the periods of acquisition of knowledge (day-time) they aspire to truth (pillar of cloud), and in the times of sorrow and pain (night-time) they are purified (pillar of fire) and raised.
+
+See BABYLON, BONDAGE, CLOUD, EGYPT, EGYPTIANS, [FIRE?], FORTY YEARS, HERMES, HORSE, HOUSE OF BONDAGE, JORDAN, MOSES, PARABLE, PASSOVER, ROCK (spiritual), SEA.
+
+**Corrections made:** `age`, `truction` → [passage], [destruction]; `WorpsworrH` → Wordsworth; `ia` → is; `Avaustine` → Augustine; `ita` → its; `im the` → in the; `com:pelled` → compelled; `prolonged. but` → prolonged, but; `parabk` → parable; `ou fathers` → our fathers; `e cloud` → a cloud; `Ixxviii.` → lxxviii.; `noed` → need; `GESTEFELD` → Gestefeld; `ALIGHIERI` → Alighieri; page headings `ISRAEL FROM 258 EXODUS` (mid-word) and `EXPERIENCE` removed; See-list spellings restored (`Basyton`, `Bonpaaer`, `Croup`, `Eeyrt`, `Ecyprtians`, `Forry ¥EaRS`, `HovusE or BONDAGE`, `Moses`, `Rocx`, `Sma.` → SEA); quotation marks normalised.
+
+**Unclear or supplied:** `[passage]` and `[destruction]` complete damaged words. A word is lost in the Campbell quotation after "a footing in". `[FIRE?]` is a doubtful See-list item (OCR `Fie`).
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bennu-bird
 headword: "BENNU BIRD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `Sons or cop` | **unresolved** (review queue) |
 | `Strives` | **unresolved** (review queue) |
 | `Tarrv` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual ego which aspires and rises upward from the lower nature of the soul.
+
+> "I go in like the Hawk and I come forth like the Bennu bird, the morning [star?]; grant that I may sail down to Tattu like a [word unclear] and up to Abtu (Abydos) like a Bennu bird."—Budge, *Book of the Dead*, pp. 20, 61.
+
+The hawk descending on its prey, symbolises the spiritual ego falling into matter from which it afterwards ascends to the buddhic plane. The "living soul" descends to the lower planes (Tattu) to rise again to the higher planes (Abtu). The "morning star," or ascending soul, heralds the coming of its Lord the Sun of righteousness (Râ).
+
+See ABTU, HAWK, [KANSUIPRA?], MORNING STAR, [MORROW?], [PHANG?], PHOENIX, SONS OF GOD, [STRIVES?], TATTU.
+
+**Corrections made:** `T go in` → I go in; `Bupar` → Budge; `R&` → Râ; `ins Sead` → [word unclear]; page heading `BERSERKS` removed from mid-sentence; See-list spellings restored (`Hawk`, `MornING sTaR`, `Sons or cop`, `Tarrv`).
+
+**Unclear or supplied:** `[star?]` and the loss before `Abtu` (`[word unclear]`, perhaps `living soul`) are damaged OCR (`the morning grant`, `a ins Sead`). The See-list items `[KANSUIPRA?]`, `[MORROW?]`, `[PHANG?]` and `[STRIVES?]` are uncertain readings of `Kansuipra`, `MoBROW`, `PHANG`, `Strives`.
 
 ## Full OCR entry body (exact)
 

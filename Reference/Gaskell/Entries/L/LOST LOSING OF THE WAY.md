@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lost-losing-of-the-way
 headword: "LOST LOSING OF THE WAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `next Symbol` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the adoption of theories and arguments which have been propounded by the lower mind to account for things Divine in the innermost depths of the soul. These theories will not lead to the Truth, because the lower mind is incapable of dealing with that which transcends itself.
+
+See next Symbol.
+
+**Corrections made:** None beyond paragraphing.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

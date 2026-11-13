@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stream-of-his-law
 headword: "STREAM OF HIS LAW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `PHENOMENA` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHENOMENA|PHENOMENA]] |
 | `THIEST` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `THIRSTY. Waves` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the means for the realisation of the Self in manifestation.
+
+> "The thirsty world of living beings will drink the flowing stream of His Law."—*Buddha-Karita*, Bk. I. 76.
+
+The "thirsty world" is a symbol of the illusory or phenomenal which yet is, as it were, the means whereby the nature of the Self is realised. Through the phenomenal is displayed that which is within, the Self, and this order of being is spoken of as the Law, since the finite-conditioned is but the symbol and evidence of the infinite and unconditioned.
+
+See ILLUSION, LAW OF BUDDHA, PHENOMENA, THIRST, THIRSTY, WAVES.
+
+**Corrections made:** `symbol]` → symbol; `THIEST` → THIRST; See-list spellings restored (`ItLusion`, `Waves`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anointing-with-oil
 headword: "ANOINTING WITH OIL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,30 @@ tags:
 | `Rope` | **unresolved** (review queue) |
 | `SEEKER` | **unresolved** (review queue) |
 | `SHU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the endowment of the soul with Divine Love, arousing sympathy with all beings.
+
+> "Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; my cup runneth over."—Ps. xxiii. 5.
+
+The Self hath prepared for the ego the "fruits of the Spirit" on the higher planes, to be the food of the soul; and the desires (enemies) have been transmuted to this end. The Divine love has been bestowed upon the aspiring mind, and Wisdom has filled the understanding.
+
+See CHRISTOS, CUP, HEAD, LAYING ON OF HANDS, OIL, OINTMENT, TABLE.
+
+### Also in this note: ANPU (ANUBIS), THE "OPENER OF THE PATH"
+
+A symbol of the astro-physical body with its mechanism of sensation and action, which opens the pathway of the soul's development, life after life.
+
+> "The god Anpu, who dwelleth in the city of the embalmment, the governor of the divine house, placeth his two hands upon the lord of life of Nebseni, . . . and he furnisheth him with the things which belong to him. 'Homage to thee, O [word unclear] as a divine lord (Osiris Nebseni) . . . [word unclear] Seker hath bound thee up, Anpu hath exalted thee, and Shu hath caused thee to be lifted up, . . . Thy brow is in the protection of Anpu.'"—Budge, *Book of the Dead*, Ch. CLIII, p. 507.
+
+The physical body equipped with its powers, is at the service of the personality whose need is purification in the interest of the causal-body (divine house). The physical activities, active and passive, are to subserve the Divine life within the soul, and be the means of bringing experience to the ego, which shall lead to the acquirement of spiritual capacities. The Spirit has been involved in the lower nature by the will of the Supreme, and in the life of the physical human body, the evolution of the Spirit commences, for the Divine Will draws it forth. The truth-acquiring faculty is dependent upon the physical lives.
+
+See ANUBIS, APUAT, CITY, EMBALMMENT, HOUSE, JACKAL, [PRAN?], ROPE, SEEKER, SHU.
+
+**Corrections made:** `Curistos, Cur, Heap, LAayIneG` → CHRISTOS, CUP, HEAD, LAYING; `end he` → and he; `Bupae` → Budge; `CLIn` → CLIII; page heading `AN-RUT-F` removed from mid-sentence; See-list spellings restored (`ApuaT`, `CrTy`, `HoUsE`, `Rope`, and others); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: ANPU (ANUBIS), THE "OPENER OF THE PATH". Two words in the Budge quotation are lost (OCR `sas a` and `h Seker`). The chapter number `CLIn` is read as CLIII. `[PRAN?]` is uncertain (OCR `Pran`).
 
 ## Full OCR entry body (exact)
 

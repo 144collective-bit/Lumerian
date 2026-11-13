@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-skins-as-clothing
 headword: "SKINS AS CLOTHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `REDEEMER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEEMER OF THE SOUL|REDEEMER OF THE SOUL]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the mental, astral, or physical sheaths of the soul.
+
+> "And the Lord God made for Adam and for his wife coats of skins, and clothed them."—Gen. iii. 21.
+
+And the Divine Law caused the mental and astral bodies to be formed for the soul.
+
+See ADAM (lower), EVE, REDEEMER, VESTURES.
+
+**Corrections made:** `GEn.` → Gen.; `EvE` → EVE; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

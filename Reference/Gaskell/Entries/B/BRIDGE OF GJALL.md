@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bridge-of-gjall
 headword: "BRIDGE OF GJALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,20 @@ tags:
 | `Mopeunn` | **unresolved** (review queue) |
 | `NortTH` | **unresolved** (review queue) |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind leading to spiritual illumination of the consciousness.
+
+> "Hermod rode nine nights and days through dark and deep valleys, and saw no light until he came to Gjall, and rode over the bridge of Gjall, which is overlaid with glittering gold" (*Story of Balder*, in *Edda*).—Howitt, *Literature*, etc.
+
+At this stage the Christ-soul is described as taking a lengthy ride,—that is, the Self acts through the intellect (horse) alone, which functioning centres are astral centres, and the three lowermost centres are etheric. See FRAVAK, GATES (nine), SETTLE corresponds with riding through dark and deep valleys of the lower mind,—the avenue of approach to "Gjall," that is, to those faculties which at length lead up to the illumination which proceeds from intuition (gold). The "bridge" is the point of junction with the Higher Self, from which inspiration,—the expression of the Holy Spirit, the source of all Truth to humanity,—emanates.
+
+See CHARON'S FERRY, GJALL RIVER, GOD, HERMOD, INTUITION, [MODGUD?], NORTH, VALLEY.
+
+**Corrections made:** `Herméd` → Hermod; `tn Edda` → in Edda; `How1tTt` → Howitt; `acta` → acts; page headings `BROTHER` and `BRIDGE` removed; `Hermon`, `Inrurrion`, `NortTH` restored; See-list spellings restored.
+
+**Unclear or supplied:** A displaced fragment of the next entry (BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT) fell into the middle of this entry's last paragraph: `centres are astral centres, and the three lowermost centres are etheric. See FRAVAK, GATES (nine), SETTLE`; it is kept in place as printed in the OCR. `functione ... ing` is set as `functioning`. See-list item `[MODGUD?]` is a likely reading of OCR `Mopeunn`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bifrost-the-heavenly-bridge
 headword: "BIFROST, THE HEAVENLY BRIDGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `HermpaLt` | **unresolved** (review queue) |
 | `MUSPELL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSPELL, SONS OF|MUSPELL, SONS OF]] |
 | `RAINBOW` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind.
+
+> "Which is the path leading from earth to heaven? 'That is a senseless question,' replied Har, with a smile of derision. 'Hast thou not been told that the gods made a bridge from earth to heaven, and called it Bifrost? You must surely have seen it; but perhaps thou callest it the rainbow. It is of three hues, and is constructed with more art than any other work. But strong though it be, it will be broken to pieces when the sons of Muspell, after having traversed great rivers, shall ride over it.'"—Mallet, *North. Antiq.*, *Prose Edda*, pp. 408-9.
+
+This refers to the period before the spiritual egos (sons of Muspell) had descended to incarnate in the lower nature. After traversing the buddhic states (rivers) they passed by means of the higher mind (bridge) to be attached to the personalities of the lower mind. Then, as it were, the bridge is broken down, for the lower consciousness is unable to rise to higher levels. The "three hues" are the three sub-planes of the higher mind.
+
+See BOW, BRIDGE, CLOUDS, [FA?], GANGLER, GODS, HEIMDALL, MUSPELL, RAINBOW.
+
+**Corrections made:** `uestion` → question; `rision` → derision; `MaLLet` → Mallet; See-list spellings restored (`Bripcr`, `Cioups`, `GanGLer`, `Gops`, `HermpaLt`).
+
+**Unclear or supplied:** `[FA?]` is an unidentified See-list item (OCR `FA`). `HEIMDALL` is read from `HermpaLt`.
 
 ## Full OCR entry body (exact)
 

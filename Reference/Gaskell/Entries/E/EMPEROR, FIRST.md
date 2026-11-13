@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-emperor-first
 headword: "EMPEROR, FIRST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+ANDU, ANUBIS, MAN,
+
+A symbol of the First Logos, or the Higher Self.
+
+> "The name of the first celestial Emperor of China was Tae-haou,—excessive splendour,—because his perfect holiness and virtue were resplendent as the luminaries of heaven."—Kidd, *China*, p. 103.
+
+The First Logos is the Supreme Ruler, and being equal to go forth in his universe and to accomplish his work below, he is said to have been perfectly endowed with every quality, and holy as the Light of Truth which lighteth the Heaven above.
+
+See KING (great), SACRIFICER, SELF (supreme), SUN, VINEYARD.
+
+**Corrections made:** `or. the` → or the; `heen` → been; `Ktpp` → Kidd; `Kina` → KING; `Sacrrricer` → SACRIFICER; quotation marks normalised.
+
+**Unclear or supplied:** The OCR begins with the tail of another entry's See list (`Anru, ANUBIS, MAN,`), set out as printed with `ANDU` restored from `Anru`.
 
 ## Full OCR entry body (exact)
 

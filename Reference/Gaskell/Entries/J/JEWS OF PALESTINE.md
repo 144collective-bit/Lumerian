@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jews-of-palestine
 headword: "JEWS OF PALESTINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `JESHURUN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JESHURUN|JESHURUN]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SPARROWS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPARROWS, TWELVE|SPARROWS, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the social and religious element of a period or state of soul. They also represent the partially disciplined mental qualities out of which the most progressed are chosen as "disciples."
+
+> "For the gospel is the power of God unto salvation to every one believeth; to the Jew first, and also to the Greek."—Rom. i. 16.
+
+For the message of Wisdom and Love to the soul is the effectual means of attaining perfection to every quality in harmony with it; to the social and religious element first, and afterwards to the intellectual.
+
+See DISCIPLES, GENTILES, GOSPEL, ISRAELITES, JESHURUN, SALVATION, SPARROWS.
+
+**Corrections made:** Quotation marks normalised; See-list capitals restored (`Disciples`, `IsRAELITES`).
+
+**Unclear or supplied:** None. ("to every one believeth" left as printed; the Authorised Version reads "that believeth".)
 
 ## Full OCR entry body (exact)
 

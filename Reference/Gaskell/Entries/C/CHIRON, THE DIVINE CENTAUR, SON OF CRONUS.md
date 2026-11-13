@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chiron-the-divine-centaur-son-of-cronus
 headword: "CHIRON, THE DIVINE CENTAUR, SON OF CRONUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Carysk` | **unresolved** (review queue) |
 | `CRONUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CRONUS OR SATURN|CRONUS OR SATURN]] |
 | `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind, the product of time in the course of the evolution of mind and the desire nature, signified by the horse-animal, to which the spiritual nature is subjectively attached, as in the human animal.
+
+See CENTAURS, CHRYSE, CRONUS, SILENUS.
+
+**Corrections made:** Page heading `CHRIST` removed from mid-sentence; See-list spellings restored (`CEnwraurns`, `Carysk`).
+
+**Unclear or supplied:** `CHRYSE` is read from `Carysk`.
 
 ## Full OCR entry body (exact)
 

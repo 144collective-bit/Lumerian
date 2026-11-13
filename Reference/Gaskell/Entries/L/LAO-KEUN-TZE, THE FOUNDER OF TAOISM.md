@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lao-keun-tze-the-founder-of-taoism
 headword: "LAO-KEUN-TZE, THE FOUNDER OF TAOISM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `TaE-KEIH` | **unresolved** (review queue) |
 | `TAO` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos, or the Absolute.
+
+> "Lao-keun-tze is described as the Great Supreme, threefold Source, consisting of three personages."—*Chinese Mythology*, Kipp, *China*.
+
+The Logos,—the One without a Second. This manifests in three aspects,—the Self, the Soul as will-intellect, and the Personality, desire-mind.
+
+See ABSOLUTE, MONAD, TAE-KEIH, TAO, TRIAD.
+
+**Corrections made:** `Ohina` → China; `willintellect` → will-intellect; `desiremind` → desire-mind; `Monap` → MONAD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

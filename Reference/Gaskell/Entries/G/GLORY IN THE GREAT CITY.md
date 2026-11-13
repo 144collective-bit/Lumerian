@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-glory-in-the-great-city
 headword: "GLORY IN THE GREAT CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CausaL-Bopy` | **unresolved** (review queue) |
 | `Crry (sacred)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the consciousness and life of the Spirit in the Causal-body, the ego having actualised the potential with which the soul was endowed. The ego becoming in ultimates that which the Self is in primes.
+
+See CAUSAL-BODY, CITY (sacred).
+
+**Corrections made:** See-list spellings restored (`CausaL-Bopy`, `Crry`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

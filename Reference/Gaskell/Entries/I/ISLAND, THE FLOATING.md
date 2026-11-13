@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-island-the-floating
 headword: "ISLAND, THE FLOATING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `DELOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `TzanaG!I` | **unresolved** (review queue) |
 | `ONOGOROJIMA` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ONOGOROJIMA ISLAND|ONOGOROJIMA ISLAND]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol, under the names of Chemmis in Egypt, Delos, Asteria, or Ortygia, in Greece, and Onogorojima in Japan, signifies the astral centre, at first free and unattached, from which the astral body is gradually built up. This body of sensation and desire originates on the fourth sub-plane of the astral plane, and becomes the focus of the soul's activities in the lower worlds.
+
+See ASTRAL PLANE, CHEMMIS, DELOS, IZANAGI, ONOGOROJIMA.
+
+**Corrections made:** `TzanaG!I` → IZANAGI.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

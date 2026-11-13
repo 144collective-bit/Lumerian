@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conception-concentration-effort
 headword: "CONCEPTION CONCENTRATION EFFORT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `STORM OF WIND` | **unresolved** (review queue) |
 | `WAVES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAVES OF THE SEA|WAVES OF THE SEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies fixity of aim and purpose brought about through the steadying of the mind when stilled from the surgings of sensation, desire, and passion.
+
+See STORM OF WIND, WAVES.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ox-for-draught
 headword: "OX FOR DRAUGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `Races` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RACES OF MEN, ACCORDING TO HESIOD|RACES OF MEN, ACCORDING TO HESIOD]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of reverence for the higher, which eventuates in obedience and action.
+
+> "Oxen and bullocks correspond, specifically, to the affections of the natural mind, and sheep and lambs to the affections of the spiritual mind."—Swedenborg, *The Future Life*, p. 35.
+
+See CATTLE, LAMBS, MAN (natural), RACES, SHEEP.
+
+**Corrections made:** `obullocks` → bullocks; `SwEDENBORG` → Swedenborg; See-list spellings restored (`Carrie`, `Lams`).
+
+**Unclear or supplied:** `CATTLE` is a reading of OCR `Carrie`.
 
 ## Full OCR entry body (exact)
 

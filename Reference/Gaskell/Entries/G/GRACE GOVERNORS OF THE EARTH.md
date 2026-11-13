@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grace-governors-of-the-earth
 headword: "GRACE GOVERNORS OF THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Kino` | **unresolved** (review queue) |
 | `Murper` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
 | `RuLeEr` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of ruling desires and passions of the lower nature (earth).
+
+> "Before governors and kings shall ye stand for my sake, for a testimony unto them."—Mark xiii. 9.
+
+This signifies the bringing of the disciplined qualities (disciples) before the tribunal of the rulers of the lower soul,—such ruling forces as brute-power, greed, passion, lust, anger, self-interest, craft, cunning, all of which are "of this world." The qualities testify before these rulers for the sake of the Ideal. See CALAMITIES, DISCIPLES, EARTH, KING, MURDER, RULER.
+
+**Corrections made:** `Marx` → Mark; `brutepower` → brute-power; `selfinterest` → self-interest; See-list spellings restored (`CaLaMITIES`, `DiscrPLes`, `Kino`, `Murper`, `RuLeEr`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

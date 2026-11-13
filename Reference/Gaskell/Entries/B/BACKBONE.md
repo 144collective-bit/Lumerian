@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-backbone
 headword: "BACKBONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `BRAHMARANDBAM` | **unresolved** (review queue) |
 | `Ter` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration, or of the Divine ray,—the Sushumna Solar Ray,—the "backbone of Osiris,"—or the "Tree" of the Divine Life in the soul. See BRAHMARANDHRA, TET, TREE OF LIFE.
+
+**Corrections made:** `BRAHMARANDBAM` → BRAHMARANDHRA; `Ter` → TET; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

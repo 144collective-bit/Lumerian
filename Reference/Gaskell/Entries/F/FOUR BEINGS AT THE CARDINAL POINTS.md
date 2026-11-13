@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-beings-at-the-cardinal-points
 headword: "FOUR BEINGS AT THE CARDINAL POINTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `FIRMAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FIRMAMENT|FIRMAMENT]] |
 | `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the four vehicles of the soul, namely, the buddhic, the higher mental, the astral, and the physical.
+
+> "Four other human beings were made at the four points of the compass, each of whom flew to the [word unclear] from a different quarter (when the golden-coloured personage disappeared)."—Kidd, *China*, p. 167.
+
+These four other beings are the vehicles of the World-soul on the several planes of manifestation. The specification of the points of the compass has reference to the polarities of opposite conditions or activities, which are respectively signified. The disappearance of the radiant Light and Life signifies the unobserved descent of Spirit into Matter.
+
+> "The gods with long, flowing hair are the four children of Horus, Mestha, Hapi, Tuamutef and Qebhsennuf, each of whom wore a lock or tress of hair, which became a pillar-sceptre, and supported one of the four corners of heaven; these four gods became at a later period the gods of the cardinal points and the lords of the four quarters of heaven."—Budge, *Gods of the Egyptians*, Vol. I. p. 210.
+
+> "Foursquare; that whose length and breadth are equal. The foursquare form of the altar and new Jerusalem figures out the stability and self-consistence of Christ and his church, Exod. xxvii. 1, Rev. xxi. 16."—W. Gurney, *Dict. of Bible*, p. 183.
+
+See BAGAS, CEILING, CHILDREN OF HORUS, CHURCH OF FOUR QUARTERS, ELEMENTS, FIRMAMENT, LADDER, QUARTERS.
+
+**Corrections made:** `bei` → beings; `goldencoloured` → golden-coloured; `Kipp` → Kidd; `Meestha` → Mestha; `Bupaet` → Budge; `. 210` → p. 210; `I.` → 1 in Exod. xxvii. 1; page heading `FOUR` removed from mid-sentence; stray `Pe` before "Foursquare" dropped; opening quotation mark supplied for the Gurney quotation; `Bacass` → BAGAS in the See list; See-list spellings restored (`CEILING`, etc.).
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "flew to the t from"; the noun is lost. `Kidd` for OCR `Kipp` and `BAGAS` for OCR `Bacass` are inferred. The stray `Pe` before "Foursquare" was dropped as noise.
 
 ## Full OCR entry body (exact)
 

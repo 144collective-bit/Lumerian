@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-higher-aspect
 headword: "MOON (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `Winp` | **unresolved** (review queue) |
 | `WOMEN’S LIFE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Buddhi as containing the transmuted results of the experience of the lower self.
+
+> "When the person goes away from this world he comes to the wind. Then the wind makes room for him, like the hole of a wheel, and through it he mounts higher. He comes to the sun. Then the sun makes room for him, like the hole of a lambara (drum?), and through it he mounts higher. He comes to the moon. Then moon makes room for him, like the hole of a drum, and through it he mounts higher, and arrives at the world where there is no sorrow, and no snow. There he dwells eternal years."—*Brihad. Upanishad*, V. (7) 10, 1.
+
+When the spiritual monad, or Individuality, quits the lower nature, it passes into the energised higher mental vehicle, or causal-body, and from thence unites with the Higher Self. Fortified by this union, it passes upward through the buddhic plane (moon) and becomes merged in Love eternal on the plane of atma.
+
+See AMATERASU, BUDDHI, INDIVIDUALITY, [Merzrii?], MONAD OF LIFE, SELF, SUN (door), TRANSMUTATION, WIND, WOMEN'S LIFE.
+
+**Corrections made:** `mounte` → mounts; `when there is no sorrow` → where there is no sorrow; `sae it` → through it; `Brithad.` → Brihad.; See-list spellings restored (`BuppuHI`, `INDIVIpuaLIty`, `Monap`, `SetrF`, `Winp`); page heading `MOON` removed from mid-sentence.
+
+**Unclear or supplied:** `[Merzrii?]`: See-list item not identified. `through` is read for the damaged `sae`.
 
 ## Full OCR entry body (exact)
 

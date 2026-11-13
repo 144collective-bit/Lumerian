@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nubia
 headword: "NUBIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SHASHERTET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHASHERTET, A NUBIA|SHASHERTET, A NUBIA]] |
 | `UAvAT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UAUAT, REBELS OF|UAUAT, REBELS OF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of subjectivity or negation on the higher planes: this may be prior to a fresh outpouring.
+
+> "Finally Horus and his companions went back to Nubia, to the town of Shashertet, where he destroyed the rebels of Uauat, and their ablest soldiers."—*The Legend of the Winged Sun-disk*.
+
+Ultimately the Higher Self returns to his "own land,"—a state of withdrawal from objective activity,—and thence exterminates the more subtle lower qualities which had eluded his vigilance heretofore. These "rebels" are symbolic of the various phases of intellectual pride, arrogance, vanity, and such like.
+
+See AMENI, COMPANY OF GODS, RA, SHASHERTET, UAUAT.
+
+**Corrections made:** `roturns` → returns; `rnore` → more; `UAvAT` → UAUAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

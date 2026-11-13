@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-carriages
 headword: "GOLDEN CARRIAGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,17 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HmanYAGARBHA` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HIRANYAGARBHA, GERM|HIRANYAGARBHA, GERM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of high mental qualities allied with buddhic faculties.
+
+### Also in this note: GOLDEN CHILD
+See HIRANYAGARBHA.
+
+**Corrections made:** `HmanYAGARBHA` → HIRANYAGARBHA.
+
+**Unclear or supplied:** Contains a second entry: GOLDEN CHILD (the OCR gives only "See HIRANYAGARBHA").
 
 ## Full OCR entry body (exact)
 

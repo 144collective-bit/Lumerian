@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chryseis-his-daughter
 headword: "CHRYSEIS, HIS DAUGHTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `OpyssEvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/O/ODYSSEUS, ULYSSES|ODYSSEUS, ULYSSES]] |
 | `Prizk` | **unresolved** (review queue) |
 | `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition of Truth the buddhic consciousness reflected on the higher mental plane, and bringing true knowledge to the soul.
+
+> "Apollo, enraged with the king (Agamemnon) stirred up an evil pestilence through the army, because the son of Atreus had dishonoured the priest Chryse[s] for he came in the swift ships of the Greeks to ransom his daughter (Chryseis) and bringing invaluable ransoms, having in his hands the fillets of far-darting [Apollo?] on his golden sceptre."—*Iliad*.
+
+The Higher Self working from beneath is the means of causing strife and unbalanced conditions upon the lower planes, whereby the lower qualities are destroyed. Illusion (son of Atreus) has cast a veil over the features of the spiritual mind (Chryse[s]), for illusion overlays the astral impressions which lead to the mind and engage it. The enlightened mind eventually [comes] to be the means of liberating the intuition of Truth; and illusion having thus quickened the lower evolution, the aroused spiritual mind becomes the means of offering up gifts to the Self, that is, through buddhi, "laying up treasures in heaven."
+
+See AGAMEMNON, BRISEIS, [CENSE?], INTUITION, [CLYTEMNESTRA?], [NEE mAut?], ODYSSEUS, PRIZE, RANSOM.
+
+**Corrections made:** `pestilens` → pestilence; `6 Atreus` → of Atreus; `th Greeks` → the Greeks; `ransoma` → ransoms; `havin` → having; `dartin` → darting; `frot` → from; `causin` → causing; `upo` → upon; `low` → lower; `so of` → son of; `o veil over tt` → a veil over the; `in pressions` → impressions; `ar engage` → and engage; `liberati:` → liberating; `illusic` → illusion; `mi:` → mind; `gil` → gifts; `budd!` → buddhi; See-list spellings restored (`Prizk`, `Ransom`, `OpyssEvus`, `Inrurrion`).
+
+**Unclear or supplied:** The OCR has the right-hand letters of many lines cut off. Completed endings are read from context. `[Apollo?]` (OCR `a` before `on his golden sceptre`), `[comes]` (supplied: OCR "eventually to be"), and `Chryse[s]` are tentative. The attribution is cut to `Ilia` and read as Iliad. See-list items `[CENSE?]`, `[CLYTEMNESTRA?]` (OCR `Kuiyrammnestrna`) and `[NEE mAut?]` could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

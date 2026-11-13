@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-astro-mental-and-astrophysical-planes
 headword: "ASTRO-MENTAL AND ASTROPHYSICAL PLANES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Kama` | **unresolved** (review queue) |
 | `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `MENTAL PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MENTAL-PLANE|MENTAL-PLANE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These terms express the combined activities of the astral and mental planes, and of the astral and physical planes.
+
+See ASTRAL PLANE, KAMA, MANAS, MENTAL PLANE.
+
+**Corrections made:** Page heading `79 ASURA` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

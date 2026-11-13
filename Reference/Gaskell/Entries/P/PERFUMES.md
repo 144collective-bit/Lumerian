@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-perfumes
 headword: "PERFUMES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `ODOUR (sweet)` | resolved (exact) → [[Reference/Gaskell/Entries/O/ODOUR, SWEET|ODOUR, SWEET]] |
 | `ScenT (sweet)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SCENT, SWEET, FROM THE SOUTH|SCENT, SWEET, FROM THE SOUTH]] |
 | `SWEET SMELL OF ISIS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of faith and trust in the Highest. These are effects upon the higher planes which become the causes, in turn, of mental evolution. See DRAUPADI, ODOUR (sweet), SCENT (sweet), SWEET SMELL OF ISIS.
+
+**Corrections made:** `ScenT` → SCENT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

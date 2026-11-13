@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lemnos-island
 headword: "LEMNOS ISLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Eunevs` | **unresolved** (review queue) |
 | `HyPpsiIryLe` | **unresolved** (review queue) |
 | `THOoas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental region of scientific knowledge based upon hard fact; or of inductive science.
+
+See DOLIONES, [Eunevs?], [HyPpsiIryLe?], THOAS.
+
+**Corrections made:** See-list spellings restored (`DoLIonses`, `THOoas`).
+
+**Unclear or supplied:** `[Eunevs?]` and `[HyPpsiIryLe?]` in the See list are damaged (probably EUNEUS and HYPSIPYLE) and are left as the OCR spellings.
 
 ## Full OCR entry body (exact)
 

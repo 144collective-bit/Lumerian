@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ren-or-name
 headword: "REN, OR NAME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `NAME` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `PANTHER SKIN` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] |
 | `PyRamID` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PYRAMID|PYRAMID]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the differentiated and regenerate individuality, it having acquired through aspiration and effort the higher qualities wherewith it is now endowed.
+
+> "The ren, or name, to preserve which the Egyptians took the most extraordinary precautions, for the belief was widespread that unless the name of a man was preserved he ceased to exist. Already in the time of King Pepi the name was regarded as a most important part of a man's economy, and in the following passage it ranks equally with the ka:—'The iron which is the ceiling of heaven openeth itself before Pepi, and he passeth through it with his panther skin upon him, and his staff and whip in his hand; Pepi passeth with his flesh, and he is happy with his name, and he liveth with his double.' Already in the Pyramid Texts we find the deceased making supplication that his name may 'grow' or 'shoot forth' and endure as long as the names of Tem, Shu, Seb, and other gods."—Budge, *Book of the Dead*, p. [l]xiii.
+
+The individuality (ren) is seated in the causal-body (ka) and is indistinguishable from it spiritually.
+
+See CEILING OF SKY, IRON PLATE, KA, NAME, PANTHER SKIN, PYRAMID.
+
+**Corrections made:** page heading `RENDING` removed from mid-sentence; `peer of & man’s` → part of a man's; `ollowing pasaage` → following passage; `etaff` → staff; `BuncE` → Budge; See-list spellings restored (`Ka`, `PyRamid`); quotation marks normalised.
+
+**Unclear or supplied:** `part` for OCR `peer` is a best reading. `p. [l]xiii` is read from the damaged `p. \xiii.`.
 
 ## Full OCR entry body (exact)
 

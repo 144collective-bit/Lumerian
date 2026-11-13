@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flour-fine
 headword: "FLOUR, FINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,18 @@ tags:
 | `MEAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MEAL, OR WHEAT GROUND IN A MILL|MEAL, OR WHEAT GROUND IN A MILL]] |
 | `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of truth and goodness derived through the activities of the lower nature.
+
+> "Fine flour is truth derived from good."—Swedenborg, *Arc. Cel.*, n. 9995.
+
+See BREAD, DOUGH, MEAL, SHEWBREAD, WHEAT.
+
+**Corrections made:** page heading `283 FOAM` removed from mid-sentence; `Arc.` retained; `Breap, DovucH` → BREAD, DOUGH; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

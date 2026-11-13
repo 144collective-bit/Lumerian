@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ploughing
 headword: "PLOUGHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `SHABTIL Sower` | **unresolved** (review queue) |
 | `Sowing. G PLUMES Te aCe` | **unresolved** (review queue) |
 | `ae` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the fashioning of the vehicles and producing the conditions wherein the lower self is placed and operating, with a view to the sowing and reaping by the True Self of that which the lower self appears to do and undergo in the life periods.
+
+> "And I am glorious therein (the Garden); I drink therein; I plough therein; I reap therein; I move therein; I am wedded therein; my utterance is powerful therein."—*Book of the Dead*, Ch. CX. This Ch. trans. by M. W. Blackden.
+
+In these experiences of life, I (the Self) realise myself; I derive Truth and Love; I fashion the bodies and conditions wherein the lower self is engaged; I sow and reap the fruits I live therein. In me the two aspects of the Higher Self (atma-buddhi) become One. Power is mine, and the Will of the Absolute is within me.
+
+> "Brahman; I plough and sow, and of my ploughing and sowing I reap imperishable fruit. . . . My field is the Dharma (truth); the weeds which I pluck up are the cleaving to existence; the plough which I use is wisdom; the seed which I sow, the seeking of purity; the work which I perform, attention to precepts; the harvest which I reap is Nirvana" (Buddhist [word unclear])—Bunsen, *The Angel Messiah*.
+
+> "Thus it is with the world [words unclear] if there was not the second Adam (Christ) to plough them and sow them, they could none of them become saints; No, not the elect themselves; because the means are determined, as well as the end."—J. Bunyan, *Exp. of Genesis*.
+
+See AGRICULTURE, BALARAMA, CULTIVATION, DHARMA, GAUSH-URVA, HARVEST, HUSBANDMAN, NIRVANA, OX AND ASS, OXEN, REAPING, SEED (good), SEKHET-HETEP, SHABTI, SOWER, SOWING.
+
+**Corrections made:** trailing page heading `G PLUMES Te aCe, ae` removed; `thereim` → therein; `werful` → powerful; `. CX. This Ch. trana by M. W. BLACKDEN` → Ch. CX. This Ch. trans. by M. W. Blackden; `ficld` → field; `BUNSEN` → Bunsen; See-list spellings restored (`GXUSH-URVA`, `Harvest`, `HusBaANDMAN`, `Ox AND 48s`, `REaPIna`, `SHABTIL Sower`).
+
+**Unclear or supplied:** `(Buddhist [word unclear])` (OCR `a a`) and `[words unclear]` (OCR `rt ey`) are lost in the OCR.
 
 ## Full OCR entry body (exact)
 

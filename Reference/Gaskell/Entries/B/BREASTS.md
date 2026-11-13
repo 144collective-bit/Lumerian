@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breasts
 headword: "BREASTS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `GmmpieE (gold)` | **unresolved** (review queue) |
 | `Rrs` | **unresolved** (review queue) |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the affection nature.
+
+> "The breast signifieth charity."—Swedenborg, *Arc. Cel.* to Gen. ii. 21.
+
+See GIRDLE (gold), RIBS, WOMAN.
+
+**Corrections made:** `SwEpensorG` → Swedenborg; `GmmpieE` → GIRDLE; `Rrs` → RIBS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

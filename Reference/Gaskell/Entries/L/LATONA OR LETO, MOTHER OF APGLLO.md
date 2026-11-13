@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-latona-or-leto-mother-of-apgllo
 headword: "LATONA OR LETO, MOTHER OF APGLLO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `DELos` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DELOS, THE ISLAND|DELOS, THE ISLAND]] |
 | `DiosCURI` | **unresolved** (review queue) |
 | `MOTHER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, or the buddhic emotion-nature which gives birth to the Self within the soul.
+
+> "Leto would therefore (from her name) signify 'the obscure' or 'concealed,' not as a physical power, but as a divinity yet quiescent and invisible, from whom issued the visible divinity (Apollo) with all his splendour and brilliancy."—Smith's *Class. Dict.*
+
+Unperceived by the lower nature, the buddhic nature (Leto) brings forth the Self in the souls of mankind, to save and illuminate them.
+
+See APOLLO, BUDDHI, DELOS, DIOSCURI, MOTHER.
+
+**Corrections made:** `bnilliancy` → brilliancy; `Clase.` → Class.; page heading `PHANES, 444 LAUGHTER` removed from mid-sentence; stray `'` and `|` removed; See-list spellings restored (`BuppHI`, `DiosCURI`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

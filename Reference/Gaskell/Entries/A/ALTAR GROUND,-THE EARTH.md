@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-altar-ground-the-earth
 headword: "ALTAR GROUND,—THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,32 @@ tags:
 | `NoaH` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NOAH|NOAH]] |
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SAVIOUR` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SAVIOURS, THE TWELVE|SAVIOURS, THE TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature which serves as a means whereby the egos are enabled to build up from it the structure (altar) of their higher nature.
+
+> "The sacrifice is a mystic union in which the sacrificer generates from out of the Vedi (fem.) or altar ground, his future divine self."—J. Eggeling, *S. B. of E.*, Vol. XLIII. Intro.
+
+> "By it (sacrifice) the gods obtained this entire earth, . . . therefore the sacrificial ground is called vedi (the altar). For this reason they say, 'As great as the altar is, so great is the earth'; for by the altar they obtained this entire earth."—*Sata. Brâh.*, I. 2, 5, 7.
+
+Through the giving up of the lower qualities, the higher qualities (the gods) obtained rule over the entire lower nature: therefore the offered-up lower, forms the structure of the higher. The higher nature is then reflected fully in the lower; and into the divine Self the lower Self is
+
+See ALTAR (fire), EARTH, PRAGAPATI, SACRIFICE, SACRIFICER.
+
+### Also in this note: ALTAR BUILDING TO THE LORD
+
+A symbol of the setting up in the mind of a structure of spiritual idealism on which the lower qualities may be sacrificed for the sake of the higher.
+
+> "And Noah builded an altar unto the Lord; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."—Gen. viii. 20.
+
+And the individuality is said to "build an altar," that is, to raise a means of reciprocal action between it and the Self of which it is the manifest embodiment. And every desire and emotion become the means of this offering of the lower self to the Higher Self.
+
+See BEASTS, BURNT OFFERING, GOD (smelling), NOAH, SACRIFICE, SAVIOUR.
+
+**Corrections made:** `Eacrira` → Eggeling; `XLIITI.` → XLIII.; `Brdh.` → Brâh.; `SACRIFIOER` → SACRIFICER; `Nosh` → Noah; `GEn,` → Gen.; stray quotation marks around `altar` removed; page heading `41 ALTAR` removed from mid-text; See-list spellings restored (`Beasts`, `Gop`, `NoaH`).
+
+**Unclear or supplied:** Contains a second entry: ALTAR BUILDING TO THE LORD (introduced in the OCR by `ALTAR BUILDING TO THE LORD:`). The first entry's last sentence breaks off after "the lower Self is" in the OCR, and runs straight into its See list.
 
 ## Full OCR entry body (exact)
 

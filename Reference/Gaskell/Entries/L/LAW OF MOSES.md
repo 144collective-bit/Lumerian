@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-law-of-moses
 headword: "LAW OF MOSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `MosEs` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MOSES, THE SERVANT OF GOD|MOSES, THE SERVANT OF GOD]] |
 | `SHOES (off)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHOES PUT OFF|SHOES PUT OFF]] |
 | `TESTAMENT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The moral law arising through experience, and the perception of superior and inferior action in relation to social well-being. This implies subjection to karma. The moral law is the forerunner of the spiritual law of Love.
+
+See COVENANT, DISPENSATIONS, JUSTIFICATION, MOSAIC, MOSES, SHOES (off), TESTAMENT.
+
+**Corrections made:** Page heading `445 LAW` removed from mid-sentence; See-list spellings restored (`Mosaic`, `MosEs`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arizura-neck-of
 headword: "ARIZURA, NECK OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `NicorHea` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NICOTHEA, ZETES CALAMITIES|NICOTHEA, ZETES CALAMITIES]] |
 | `Prr` | **unresolved** (review queue) |
 | `SERPENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of desire for the objects of sense, or the lust of the eyes.
+
+> "The first place (whereon is most sorrow) is the neck of Arizura wherein hosts of fiends rush forth from the burrow of the Drug."—*Vendidad*, III.
+
+The "first place" in the lower nature producing suffering and sorrow,—is the lust of the eyes—desire. The "fiends" are the sense objects which allure. The "burrow of the Drug" signifies the same as the "bottomless pit of the Beast," that is, the sense nature, or desire nature, that is never satisfied.
+
+See BOTTOMLESS PIT, DRUG, HARPIES, NICOTHEA, PIT, SERPENT.
+
+**Corrections made:** `friends` → fiends (in the quotation, as the commentary reads "fiends"); stray `|` marks removed; See-list spellings restored (`BorTromiess Pit`, `Druc`, `HarPres`, `NicorHea`).
+
+**Unclear or supplied:** `NICOTHEA` is a reading of OCR `NicorHea`.
 
 ## Full OCR entry body (exact)
 

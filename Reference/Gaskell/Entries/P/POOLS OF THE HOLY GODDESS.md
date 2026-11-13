@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pools-of-the-holy-goddess
 headword: "POOLS OF THE HOLY GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `NururRT` | **unresolved** (review queue) |
 | `Smam` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET|SMAM, A POOL IN THE THIRD COMPARTMENT OF SEKHETHETEPET]] |
 | `TCHESERT` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic functioning as the means of purifying the soul.
+
+> "O 'Being in Peace!' Lord of the Two Earths, I have come into Thee; I have bathed in the Pool of the Holy Goddess; and lo! for me, all unclean things have passed away."—Blackden, *Book of the Dead*, Ch. CX.
+
+O Being whose nature is bliss!—so the Self is addressed,—"I know thy might, thy power and active aspect; the lower nature has been purified through Wisdom, and been cleansed by truth; and so the impurities of the lower planes have been gotten rid of."
+
+> "I (Lakshmi) reside in lakes filled with water, in pure waters, and in ground covered with fresh grass, in a wood abounding in lotuses and fruits."—*Institutes of Vishnu*, XCIX. 17.
+
+Among symbols of Wisdom (Lakshmi) are "pools of water," "pure waters," etc.
+
+See BAPTISM, FANE, LAKSHMI, [Nururt?], [Smam?], TCHESERT.
+
+**Corrections made:** `J have` → I have; `fruite` → fruits; `eto.` → etc.; `BLACKDEN` → Blackden; `Laxsumai` → LAKSHMI; quotation marks normalised.
+
+**Unclear or supplied:** `[Nururt?]` and `[Smam?]` in the See list could not be identified. The OCR leaves the speech beginning "I know thy might" open and runs on into the Institutes of Vishnu quotation; it is set out here as Gaskell's paraphrase of the Self's address followed by that quotation.
 
 ## Full OCR entry body (exact)
 

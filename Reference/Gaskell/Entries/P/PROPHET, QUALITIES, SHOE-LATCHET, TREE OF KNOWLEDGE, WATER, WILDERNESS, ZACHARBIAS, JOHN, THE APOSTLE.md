@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophet-qualities-shoe-latchet-tree-of-knowledge-wa
 headword: "PROPHET, QUALITIES, SHOE-LATCHET, TREE OF KNOWLEDGE, WATER, WILDERNESS, ZACHARBIAS, JOHN, THE APOSTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `GETHSEMANE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GETHSEMANE|GETHSEMANE]] |
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the ideal love-nature in the philosophic mind, which is the architect, or contriver, of the mental edifice of the human being. It is the spiritual factor which guides the operations of the mental builders of form. As a symbol of one of the four elements, "John" signifies fire (buddhi).
+
+> "Jesus saith unto his mother, Woman, behold thy son! Then saith he to the disciple (John), Behold, thy mother! And from that hour the disciple took her unto his own home."—John xix. 27.
+
+Under the direction of the indwelling Spirit, the purified lower nature (Madonna) becomes allied with the philosophic mind, and so [they] are raised and united with the Christ, whose Spirit is with them henceforward.
+
+See APOSTLES, DISCIPLES, GETHSEMANE, TRANSFIGURATION, VIRGIN MARY.
+
+**Corrections made:** page heading `JONAH` removed from mid-sentence; `xix. 27,` → xix. 27.; `y are` → [they] are; `ApostTLes, Discretes` → APOSTLES, DISCIPLES.
+
+**Unclear or supplied:** `[they]` is supplied for the damaged OCR `y`.
 
 ## Full OCR entry body (exact)
 

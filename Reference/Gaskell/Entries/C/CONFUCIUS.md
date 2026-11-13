@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-confucius
 headword: "CONFUCIUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Moon` | **unresolved** (review queue) |
 | `SEasons` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self active on the mental plane of the soul.
+
+> "Chung-ne (Confucius) handed down the doctrines of Yaou and Shun, as if they had been his ancestors. Above, he harmonised with the times of heaven, and below, he was conformed to the water and land. He may be compared to heaven and earth, in their supporting and containing, their overshadowing and curtaining, all things. He may be compared to the four seasons in their alternating progress, and to the sun and moon in their successive shining" (Doctrine of the Mean).—J. Legge, *Teachings of Confucius*, p. 315.
+
+The Self on the plane of mind inherited, as it were, the powers and qualities of the Self on the planes of atma and buddhi. Above, he conformed to the laws of the higher planes; and below he was reflected in the activities of the astral and physical planes. For in him were all things created upon the higher and lower planes. By him the soul progresses through the periods of the cycle. He is the Divine Life in the successive changes of the individuality and the personality.
+
+See BIRTH OF CONFUCIUS, EARTH, FILIAL PIETY, HEAVEN, MOON, SEASONS, SUN.
+
+**Corrections made:** `‘*Chung-ne` → "Chung-ne; `supporti` → supporting; `an curtaining` → and curtaining; `Lraar` → Legge; `buddhi Above` → buddhi. Above; page heading `CONFUSION` removed from mid-sentence; See-list spellings restored (`Fiurat prety`, `Heaven`, `Moon`, `SEasons`).
+
+**Unclear or supplied:** `Legge` is read from the damaged `Lraar`.
 
 ## Full OCR entry body (exact)
 

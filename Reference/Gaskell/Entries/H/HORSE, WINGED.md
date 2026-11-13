@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horse-winged
 headword: "HORSE, WINGED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Huxr` | **unresolved** (review queue) |
 | `Woves` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the aspiring higher mind.
+
+> "By the Winged Horse, [Pegasus?], the Ancients understood the intellect of the truth by which wisdom is attained. By the hoofs of his feet, the experiences through which the natural intelligence comes."—Swedenborg, *True Christian Religion*, p. 693.
+
+See [Huxr?], [Woves?].
+
+**Corrections made:** `P »` → [Pegasus?]; `True Christian, Religion` → *True Christian Religion*.
+
+**Unclear or supplied:** `[Pegasus?]` (OCR `P »`); See-list items `[Huxr?]` and `[Woves?]` not identified.
 
 ## Full OCR entry body (exact)
 

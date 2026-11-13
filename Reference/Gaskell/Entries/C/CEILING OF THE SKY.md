@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ceiling-of-the-sky
 headword: "CEILING OF THE SKY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `PANTHER SKIN` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PANTHER SKIN|PANTHER SKIN]] |
 | `REN` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REN, OR NAME|REN, OR NAME]] |
 | `THRONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental plane which is next above the lower nature. It has the same meaning as the firmament.
+
+> "Pepi hath been purified. He hath taken in his hand the [mace?] staff, he hath provided himself with his throne, and he hath taken his seat in the boat of the [great?] and little companies of the gods. [He] maketh Pepi to sail to the West, he establisheth his seat above those of the lords of doubles, and he writeth down Pepi at the head of those who live. The doors of Pekh-Ka which are in the abyss open themselves to Pepi, the doors of the iron which is the ceiling of the sky open themselves to Pepi, and he passeth through them; he hath his panther skin upon him, and the staff and whip are in his hand. Pepi goeth forward with his flesh, Pepi is happy with his name, and he liveth with his ka (double)" (Inscription in Pyramid of Pepi I).—Budge, *Egyptian Magic*, p. 158.
+
+The Personality hath been purified and become one with the Individuality. He hath been victorious, and hath completed the development of his own causal body. He therefore hath his place in the World-soul or Causal-body of the Higher and lower natures. By the law of the Supreme, the Individuality enters upon the next cycle. He is now evolved above the souls having unfinished causal-bodies, and he is at the head of those who are incarnating. He can now traverse the lower planes at will, and entrance to the higher mind (iron ceiling) is his, and Wisdom's heights. He hath the sign (panther skin) upon him that the lower emotions have been overcome and displaced by the higher; and aspiration (staff) and the will are active within him. The personality has transcended his lower self, he is blest in his differentiation, and he has become one with his higher nature in the causal-body (ka).
+
+See ABYSS, BOAT, CHILDREN OF HORUS, DEFUNCT, DOORS, FIRMAMENT, IRON PLATE, KA, NAME, PANTHER SKIN, REN, THRONE.
+
+**Corrections made:** `**Pepi` → "Pepi; `rovided` → provided; `th taken` → hath taken; `ugh them` → through them; `stablisheth` → establisheth; `Bupcg` → Budge; page heading `144 CENSERS }` removed from mid-sentence; See-list spellings restored (`Derunct`, `Doors`).
+
+**Unclear or supplied:** `[mace?]` (OCR `mah`), `[great?]` (OCR `port`) and `[He]` (OCR `&`) are uncertain readings. The OCR gap after `with his` is closed by the removal of the page heading; the OCR also shows `many`-type damage nowhere else. `[great?]` and `[mace?]` should be checked against the print.
 
 ## Full OCR entry body (exact)
 

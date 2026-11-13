@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hawk-man-headed
 headword: "HAWK, MAN-HEADED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JUDGMENT (righteous)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JUDGMENT AND JUSTICE|JUDGMENT AND JUSTICE]]; [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]]; [[Reference/Gaskell/Entries/J/JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART|JUDGMENT JUDGMENT HALL OF OSIRIS, AND THE WEIGHING OF THE HEART]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual aspect of man, or of the Divine element in the human soul. The incarnate Self on the mental plane. See JUDGMENT (righteous).
+
+**Corrections made:** Nothing changed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

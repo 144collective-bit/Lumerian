@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sekhet-hetep-or-field-of-peace
 headword: "SEKHET-HETEP, OR FIELD OF PEACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,20 @@ tags:
 | `Sarnts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAINTS, OR THE SANCTIFIED|SAINTS, OR THE SANCTIFIED]] |
 | `SowER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SOWER OF SEED|SOWER OF SEED]] |
 | `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Nirvana, Devachan, or a buddhi-manasic state of consciousness.
+
+> "Meat-offerings and entrance into the presence of the god Osiris shall be granted to him (the soul victorious and righteous) together with a homestead for ever in Sekhet-hetepu, as unto the followers of Horus" (Papyrus of Ani).—Budge, *Book of the Dead*, p. 26.
+
+The liberated soul, victorious over the lower nature, shall partake of the "fruits of the Spirit" and become united to the Higher Self (Osiris). He shall possess a "mansion" or state of consciousness in Devachan, as is bestowed upon all the saints of Christ (Horus), who rise with him in the resurrection of the perfected.
+
+See BUDDHIC PLANE, CULTIVATION, DEVACHAN, FRUIT, GARDEN OF REST, HEAVEN, HORUS, KINGDOM, LAND, MANSIONS, MEAT, NET, NIRVANA, [NETURT?], OSIRIS, REAPING, RESURRECTION, SAINTS, SOWER, TCHEFET.
+
+**Corrections made:** `Sekhet- hetepu` → Sekhet-hetepu; `Ant` → Ani; `BupcE` → Budge; `sainte` → saints; page heading `668 SELENE` removed from the See list; See-list spellings restored (`Lasp`, `Mrat`, `Nrrvana`, `RESURBECTIOX`, `Sarnts`, and others).
+
+**Unclear or supplied:** `[NETURT?]` is the OCR `NetURT`.
 
 ## Full OCR entry body (exact)
 

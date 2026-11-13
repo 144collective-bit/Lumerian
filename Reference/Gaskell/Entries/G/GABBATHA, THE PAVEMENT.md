@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gabbatha-the-pavement
 headword: "GABBATHA, THE PAVEMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
 | `PILATE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PILATE, PONTIUS|PILATE, PONTIUS]] |
 | `TRIAL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAL OF JESUS|TRIAL OF JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a careless general state of mind towards spiritual things.
+
+> "When Pilate therefore heard these words, he brought Jesus out, and sat down on the judgment-seat at a place called The Pavement, but in Hebrew, Gabbatha."—John xix. 13.
+
+"Pilate" represents a mental state wavering between allegiance to the higher or the lower, but falling in with prevalent opinion. His "sitting down to judgment" signifies his acquiescence in the general attitude taken by the mental qualities and constitution,—an easy-going spirit widely spread.
+
+See ASSEMBLY, PILATE, TRIAL.
+
+**Corrections made:** `towards’ spiritual` → towards spiritual; `JoHN` → John; stray `®` removed after "Pilate"; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

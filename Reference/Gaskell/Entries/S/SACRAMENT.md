@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sacrament
 headword: "SACRAMENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,26 @@ tags:
 | `TRANSUBTANTIATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRANSUBSTANTIATION|TRANSUBSTANTIATION]] |
 | `VINE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a binding compact within the sanctuary of the soul:—a covenant between the inner Divine soul and the outer advanced qualities, whereby they may be consciously raised to higher efficiency and purity.
+
+> "Jesus took bread and blessed it, and brake it, and gave it to his disciples, and said, Take, eat; this is my body. And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it, for this is my blood of the new testament, which is shed for many for the remission of sins."—Matt. xxvi. 26-8.
+
+The "body" of the Divine Soul (Christ) is the transmuted lower nature (flesh), for that makes possible his activity in the soul,—it is his vesture whereby he manifests. This transmuted nature is the wisdom-nature, or Truth the substance of Goodness, which is the "bread of heaven." On Truth-Goodness the advanced qualities (disciples) must feed. Truth-Goodness (Christ's body in us) is not only of the inner nature, it is also an expressed fact of human life, whose beauty and efficacy is exemplified in the outer nature as well as the inner. The "wine" is the "blood," that is, the Divine Life, the active Spirit. The "cup" and the "wine" signify respectively the Soul and the Life,—the psychic receptacle for the Spirit, and the vivifying Spirit itself. The Divine Life is to be absorbed by the qualities, for it is the Life now welling up within the soul, which was "shed" at the "foundation of the world," when Spirit with its potencies descended into matter, thus becoming in Involution the Divine Sacrifice for the "remission of sins" in Evolution (new testament). "Jesus," symbol of the now perfected, or fully evolved, personality, has no further need of the means of evolution, hence he joins the "Christ" in the resurrection, when a "new" order obtains (see verse 29). The partaking of this sacrament implies an intelligent compact between the advanced part of the lower nature, which seeks the food of the Spirit, and the responding Christ within. The soul, in becoming conscious of its destiny, yearns for instruction in the Truth, that it may progress the faster.
+
+> "Sacraments served to abolish the time-form of the redemption myth, in that they represented under symbol[s?] signs the eternal spiritual truth that is hidden in the myth—the truth of the continuous incarnation of God in the hearts of good men."—O. Pfleiderer, *Early Ch. Conception of Christ*, p. 169.
+
+> "John the Scot (Erigena) says: 'There is nothing in the visible and material world which does not signify something immaterial and reasonable,' so that everything is a symbol, and has a sacramental significance. Matter is only a concourse of accidents or qualities, no real being. It is wholly dependent on thought for its existence, and therefore it would be absurd to say that the 'material' Bread and Wine are more than symbols. The value of a sacrament for John could only be an inward and spiritual value—a value for faith."—R. M. Jones, *Mystical Religion*, p. 121.
+
+> "Action and contemplation must act and react upon each other; otherwise our actions will have no soul, and of thoughts no body. This is the great truth which the higher religions express in their sacraments. A sacrament is more than a symbol. The perception of symbols leads us from the many to One, from the transitory to the permanent, but not from appearance to reality. This belongs to the sacramental experience, which is symbolism retranslating itself into concrete action and into mundane interests."—W. R. Inge, *Faith*, Preface.
+
+See AGATHODÆMON, BLOOD, BLOOD OF LAMB, BREAD, CUP, DISCIPLES, DISPENSATIONS, EATING, EVOLUTION, FLESH OF JESUS, FOOD, HOMA TREE, HOST, HUNGER, INVOLUTION, PROCESSION, REMISSION, RESURRECTION, [RITES?], SUPPER, TABLE, TRANSUBSTANTIATION, VINE, WINE.
+
+**Corrections made:** `thisis` → this is; `Matr.` → Matt.; `tha:` → that; `Spin` → Spirit; `Liie` → Life; `Spirt` → Spirit; `founda. tion` → foundation; `necd` → need; `mear:` → means; `it destiny` → its destiny; `PF.LEIpEs::` → Pfleiderer; `th time-form` → the time-form; `fatter ts` → Matter is; `resi` → real; `coud` → could; `vale` → value; `Joxss` → Jones; `Inag` → Inge; `ae and react` → act and react; `& more` → is more; `belo to` → belongs to; `expat ence` → experience; page headings `642 SACRAMENT` and `ACRAMENTAL` removed; See-list spellings restored (`AGATHODZMON`, `BLoop`, `Bioop F LAMB`, `XISPENSATIONS`, `LESH`, `fost`, `PrRoESSION`, `Suprer`, `TRANSUBTANTIATION`, etc.) and many similar minor fixes.
+
+**Unclear or supplied:** `symbol[s?] signs`: the OCR reads `symbol: signs`. `[RITES?]`: OCR `ITES`, the See-list item is cut. In the Inge quotation `and of thoughts no body` is left as printed.
 
 ## Full OCR entry body (exact)
 

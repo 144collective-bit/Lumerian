@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-plumes-on-the-atef-crown
 headword: "PLUMES ON THE ATEF CROWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `AMEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AMEN, OR AMON (THE HIDDEN ONE)|AMEN, OR AMON (THE HIDDEN ONE)]] |
 | `CROWN-ATEF` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN, ATEF|CROWN, ATEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol signifying the condition of the soul in which supremacy over the lower nature is realised. See AMEN, CROWN-ATEF.
+
+**Corrections made:** None; text is clean.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

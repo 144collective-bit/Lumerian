@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ascension-of-jesus
 headword: "ASCENSION OF JESUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the union of the Christ-soul with the Christ: that is, the Soul or lower Self (Jesus) having been perfected on the lower planes and raised to the higher, becomes merged in the Higher Self seated in the causal-body on the higher mental plane.
+
+> "And Jesus led [them] out until they were over against Bethany, and he lifted up his hands, and blessed them. And it came to pass, while he blessed them, he parted from them, and was carried up into heaven. And they worshipped him, and returned to Jerusalem [with] great joy: and were continually in the temple, blessing God."—Luke xxiv. 50-53.
+
+The Christ soul as the highest ideal led, as it were, the disciplined qualities to the level of the "abode of the Lord," where their affection for the highest enabled him to bless and strengthen them. And as they aspired they became aware of their shortcomings, and so lost sight of the Christ-soul as he disappeared in the Christ. But the Divine Love was not parted from the qualities which were attached to him. The parting was only apparent. They had to continue their work on the lower planes, having been blessed by his presence. He would return to them as soon as they were able to receive him, for they were only shut off from him, insomuch as their limitations were necessary for the fulfilling of their special work. The "worshipping" signifies the devotion and aspiration of those qualities which were awaiting union with the Highest. The "temple" typifies the veiled mysteries of inner being, before whose presence they bowed in adoration, mindful of the glories which awaited them.
+
+> "The Ascension, with which the Drama terminates, is that of the whole Man, now regenerate, to his own celestial kingdom within himself, where—made one with the Spirit,—he takes his seat for ever 'at the right hand of the Father.'"—*The Perfect Way*, p. 215.
+
+> "'I come again,' said Jesus, 'and receive you unto myself that where I am there ye shall be also.' Interpret that promise as being for to-day; interpret it spiritually, and you have what it was meant to impart. Our dear Lord is always coming in like manner as we have seen him go. The cloud of new and harsher conditions has veiled him from your sight for a time, but he has not really gone; he has but called you upward, bidden you aspire through those very conditions to the place he has [prepared?] for you in the everlasting kingdom. And he will come back to you with a greater fulness of life and power when you can receive him again with the heart of a little child."—R. J. Campbell, *Serm.*, *Christ Going and Returning*.
+
+See AEON (thirteen), BETHANY, BLESSING, CHRIST, CHRIST'S SECOND COMING, GLORIFYING, JERUSALEM, JESUS (gospels), JESUS (son of man), LIBERATION, QUALITIES, REDEMPTION, REGENERATION, RESURRECTION, TEMPLE, UNION.
+
+**Corrections made:** Page heading `70 ASCENSION` removed from mid-sentence; `woray ped` → worshipped; `interret` → interpret; `Christsoul` → Christ-soul; `fon,` → AEON; `Be ene` → Bethany; `typifies:` → typifies; See-list capitalisation restored; quotation marks normalised.
+
+**Unclear or supplied:** `[them]` is supplied (OCR `led — out`). `[with]` is supplied (OCR `Jerusalem great joy`). `[prepared?]` is a reading of OCR `prefor` before "you in the everlasting kingdom". `AEON` and `Bethany` are readings of damaged OCR (`fon,`, `Be ene`).
 
 ## Full OCR entry body (exact)
 

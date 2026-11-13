@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-advarya-priest
 headword: "ADVARYA PRIEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `CurysrE` | **unresolved** (review queue) |
 | `Horri. Priest` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HOTRI PRIEST (SPEECH)|HOTRI PRIEST (SPEECH)]] |
 | `Pore` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind.
+
+> "The Advarya is the mind, and the Hotri is speech."—*Sata. Brâh.*, I. 5, 1, 21.
+
+See AARON, AGNIDHRA, ATHORNE, CHRYSE, HOTRI, PRIEST, POPE.
+
+**Corrections made:** `Bréh.` → Brâh.; See-list spellings restored (`AGNIDRA`, `CurysrE`, `Horri`, `Pore`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-marriage-lower-aspect
 headword: "MARRIAGE, LOWER ASPECT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Fotty` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FORTY, NUMBER|FORTY, NUMBER]] |
 | `Hartor` | **unresolved** (review queue) |
 | `WxHoREDOM` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of union of an ego or mental quality with the lower emotions, or the mind with lower emotion.
+
+> "A wise man should avoid married life as if it were a burning pit of live coals."—*Dhammika-Sutta*, 21.
+
+> "Full of hindrances is married life, defiled by passion. How can one who dwells at home live the higher life in all its purity?" (*Tevijja-Sutta*, 47).—Mon. Williams, *Buddhism*, p. 88.
+
+An ego desirous of progressing should avoid alliance with the lower emotion-nature, defiled by passion and desire. An ego who remains on the lower planes (home) cannot attain to the higher life of its home above, freed from captivity to the lower emotions. (In the above texts it is plain from the setting that "marriage" must be taken in its lower sense of mind ruled by desire.)
+
+See ADULTERY, CONCEPTION, DIVORCING, FOLLY, HARLOT, WHOREDOM.
+
+**Corrections made:** `Sutia` → Sutta; See-list spellings restored (`Drvorcina`, `Fotty`, `Hartor`, `WxHoREDOM`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

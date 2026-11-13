@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sirens-or-gandharvas
 headword: "SIRENS, OR GANDHARVAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `DEVAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Devas of harmony on the fourth sub-plane of the buddhic plane. These become tempters as the soul rises above their level.
+
+See ANGELS, [Bures?], COLCHIS, DEVAS, GANDHARVAS, HEAVENLY NYMPHS.
+
+**Corrections made:** `Cotcuis` → COLCHIS.
+
+**Unclear or supplied:** `[Bures?]` is the See item as OCR printed it and may be damaged.
 
 ## Full OCR entry body (exact)
 

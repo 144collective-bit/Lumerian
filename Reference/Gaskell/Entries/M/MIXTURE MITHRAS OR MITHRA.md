@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mixture-mithras-or-mithra
 headword: "MIXTURE MITHRAS OR MITHRA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `PHALLIPHORIA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHALLIPHORIA, PRIAPEIA, OR DIONYSIA|PHALLIPHORIA, PRIAPEIA, OR DIONYSIA]] |
 | `RzINCARNATION` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine omnipotence,—the power which serves to awaken and express the Self.
+
+> "The [great?] Mithra was the God of fructification and reproduction in the whole organic world; his work was to lead the Fravashis to the bodies they were to occupy."—*Zoroastrian System*.
+
+"Mithra" stands for the positive or energising power which awakens the spiritual life within the forms. In this way the link is set up between the monad of form and the monad of life: and so the lower planes become fruitful of living forms. The monad of life ensouls the form, and so makes it beget and bring forth its kind. "Leading the fravashis to bodies" is a symbol of birth into the lower life. These "bodies" are the forms which are prepared for and receive the life. (Mithras, god of the Rock, is the same as the "Rock which is Christ."—1 Cor. x. 4.)
+
+See CHILDREN, FORMS, FRAVASHIS, GENERATIVE, INCARNATION OF SOULS, MAN BORN, MONAD (form, life), MULTIPLY, PHALLIPHORIA, RE-INCARNATION.
+
+**Corrections made:** `ita kind` → its kind; `Monavd_` → MONAD; `RzINCARNATION` → RE-INCARNATION; `Forms` → FORMS.
+
+**Unclear or supplied:** `[great?]`: OCR reads `The at Mithra`.
 
 ## Full OCR entry body (exact)
 

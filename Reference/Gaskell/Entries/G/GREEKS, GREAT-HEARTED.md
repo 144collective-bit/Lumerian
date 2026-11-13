@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-greeks-great-hearted
 headword: "GREEKS, GREAT-HEARTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Honour` | **unresolved** (review queue) |
 | `Princes (Greeks)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRINCES OF THE GREEKS|PRINCES OF THE GREEKS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental faculties which raise the lower nature and purify it, when allied with the buddhic emotions. See HONOUR, PRINCES (Greeks).
+
+**Corrections made:** `facuities` → faculties; See-list spellings restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

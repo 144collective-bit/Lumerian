@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-morning
 headword: "MORNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,36 @@ tags:
 | `SINGERS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]]; [[Reference/Gaskell/Entries/S/SINGERS SINA OR INA, BRIDE OF TUNA|SINGERS SINA OR INA, BRIDE OF TUNA]] |
 | `Stan IN @HE Eas` | **unresolved** (review queue) |
 | `Sears (fixed)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STARS (FIXED)|STARS (FIXED)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of outgoing energy. Emanation or outbreathing of the Spirit.
+
+> "And let us know, let us follow on to know the Lord; his going forth is sure as the morning: and he shall come unto us as the rain, as the latter rain that watereth the earth."—Hos. vi. 3.
+
+The soul aspires to realise Wisdom and Love, and looks for the Divine outpouring which is sure to follow the prayer of the earnest soul. And the Divine nature will come in the Truth that shall rain down from above, the fuller Truth that makes fruitful the lower nature (earth).
+
+> "The '[word unclear]' is used to denote every particular coming of the Lord, and [words unclear] it is an expression which hath respect to new creation."—Swedenborg, *Arc. Cel.* to Gen. i. 5.
+
+See BREATH, CREATION, DAWN, EARTH, RAIN, SUN-RISING, WATER.
+
+### Also in this note: MORNING AND EVENING
+
+Symbolic of outpouring and in-drawing of the Divine Life. Outbreathing and in-breathing of Brahm,—the Absolute. See ABSOLUTE, BRAHMA, BREATHE (divine), EVENING AND MORNING, MANVANTARA.
+
+### Also in this note: MORNING STAR
+
+A symbol of the expression of Truth on the higher mental plane.
+
+> "By morning is signified the coming of the Lord." "By stars are knowledges of good and truth." "By morning-star is signified intelligence and wisdom."—Swedenborg, *Apoc. Rev.*, n. 151.
+
+> "[words unclear] is the 'the bright and morning [star]' (Rev. xxii. 16). It means that [word unclear] the world has seen in Jesus is the ushering in of the dawn of a higher [spirit?] consciousness for all mankind. He comes to show us what we are and what we shall be."—R. J. Campbell, *Serm.*, *Persistence of Jesus*.
+
+See BENNU BIRD, DAWN, SINGERS, STAR IN THE EAST, STARS (fixed).
+
+**Corrections made:** `SwEDEs.BonG` → Swedenborg; `CamMpBkLL` → Campbell; `e comes` → He comes; `Stan IN @HE Eas` → STAR IN THE EAST; `Sears` → STARS; `Dawn`, `EarrTH`, `Ram` → RAIN, `Sun-nisine` → SUN-RISING, `AnssoLuTs` → ABSOLUTE; `in-— drawing` → in-drawing; page heading `512 MORTAL` removed from mid-text.
+
+**Unclear or supplied:** Contains further entries: MORNING AND EVENING; MORNING STAR. In the Swedenborg quotation the first quoted word and some words after "Lord, and" are lost (`[word unclear]`, `[words unclear]`). In the Campbell quotation the opening is lost, `par` is shown as `[word unclear]`, and `irit` as `[spirit?]`; `[star]` is supplied. See-list readings `BREATH` (OCR `Breara`) and `WATER` (OCR `WarTme`) are by inference.
 
 ## Full OCR entry body (exact)
 

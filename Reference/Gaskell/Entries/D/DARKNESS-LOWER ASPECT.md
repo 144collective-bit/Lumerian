@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-darkness-lower-aspect
 headword: "DARKNESS—LOWER ASPECT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,28 @@ tags:
 | `NIcoDEMUS` | **unresolved** (review queue) |
 | `NicHT (darkness) WOMEN’S LIFE` | **unresolved** (review queue) |
 | `YOMI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of ignorance which is absence of the light of Truth.
+
+> "The profundity of each body is matter. Hence all matter is dark, because reason is light, and intellect is reason."—Plotinus, *On Matter*, § 5.
+
+> "Darkness is falsity proceeding either from ignorance of the truth, or from a false principle of religion, or from a life of evil."—Swedenborg, *Apoc. Rev.*, n. 413.
+
+> "For thou art my lamp, O Lord: and the Lord will lighten my darkness."—2 Sam. xxii. 29.
+
+> "The Man stands in the middle between the two worlds of light and darkness, left to his own free-will."—*Zoroastrian System*.
+
+Seated in the causal-body upon the higher mental plane, and midway between the physical state and the Atman, the human soul starts its career as a limited but responsible entity, which is thenceforth accountable to itself for its thoughts, conduct, and experiences. These are periodically and ultimately collected, reviewed, and co-ordinated in the causal-body, and thus it is that the ego is able, through identifying himself with the true Self of his being, to attain final liberation from ignorance and evil.
+
+> "'There is no darkness, and there is no shadow of death, where they who work iniquity may be hid' (Job xxxiv. 22). What did he intend to designate by 'darkness' but ignorance, and what by the 'shadow of death,' except oblivion? For it is said of the ignorance of certain persons, 'Having their mind obscured with darkness' (Eph. iv. 18). And it is written again of the oblivion which comes on us at death, 'In that day all their thoughts shall perish' (Ps. cxlvi. 4). Since then, whatever is thought of during life is utterly consigned to oblivion by death; oblivion is a kind of shadow of death."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 99.
+
+See BIRTH OF BUDDHA, DAYLIGHT, DAYS, EXPERIENCES, HIDING PLACE, IGNORANCE, LIGHT, MATTER, NICODEMUS, NIGHT (darkness), WOMEN'S LIFE, YOMI.
+
+**Corrections made:** `causalbody` → causal-body; `SwEpDENBoORG` → Swedenborg; `@ false` → a false; page heading `200 DAVID` removed from mid-quotation; `JoB xxxiv 22` → Job xxxiv. 22; `Erg. iv. 18` → Eph. iv. 18; `St. Grecory, Morale` → St. Gregory, *Morals*; See-list spellings restored (`Lieut`, `Marrer`, `NIcoDEMUS`, `NicHT`); comma supplied after `NIGHT (darkness)`.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

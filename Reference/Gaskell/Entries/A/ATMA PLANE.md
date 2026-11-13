@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atma-plane
 headword: "ATMA PLANE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -66,6 +67,26 @@ tags:
 | `Microcosm` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Monap` | **unresolved** (review queue) |
 | `SEF` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A designation for the highest plane of manifestation in the present cycle of life. It is the plane of the Second Logos, or Higher Self, and expresses the power-love aspect of Deity.
+
+See [AETHER?], ARSH, [ATHWYA?], ELEMENTS, PROTOTYPES, WORLDS (five).
+
+### Also in this note: ATMAN
+
+A symbol of the Supreme. The Logos or Self which enters upon manifestation and indwells in the universe and soul.
+
+> "Brahman = Atman, that is, Brahman, the power from which all worlds proceed, in which they subsist, and into which they finally return; this eternal, omnipresent, omnipotent power is identical with our âtman, with that in each of us which we must consider as our true Self, the unchangeable essence of our being, our Soul. This idea alone secures to the Upanishads an importance reaching far beyond their land and time; for whatever means of unveiling the secrets of Nature a future time may discover, this idea will be true for ever, from this mankind will never depart;—if the mystery of Nature is to be solved, the key of it can be found only there where alone Nature allows us an interior view of the world, that is, in ourselves."—P. Deussen, *Outlines of Ind. Phil.*, pp. 22-3.
+
+> "This is my Self in my innermost heart."—*Sata. Brâh.*, X. 6, 3.
+
+See ARC. MAN, BRAHMA, COSMOS, [Fia-rrvuit?], GOD, HIGHER, MACROCOSM, MICROCOSM, MONAD, SELF.
+
+**Corrections made:** Page heading `> 82 ATOMS` removed from mid-sentence; `&tman` → âtman; `départ` → depart; `Dxussren` → Deussen; `Bréh.` → Brâh.; See-list spellings restored (`ABSH` → ARSH, `PRororyPes`, `WOBRLDs`, `Arc.`, `Brana`, `Monap`, `SEF`).
+
+**Unclear or supplied:** Contains a second entry: ATMAN. `[AETHER?]` (OCR `AUTHER`), `[ATHWYA?]` and `[Fia-rrvuit?]` are See-list items that could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

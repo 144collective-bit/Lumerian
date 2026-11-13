@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-covenant-courtezan-woman
 headword: "COVENANT COURTEZAN, WOMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `ADULTERY` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ADULTERY|ADULTERY]] |
 | `Hariot` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HARLOT, OR STRANGE WOMAN|HARLOT, OR STRANGE WOMAN]] |
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lust or attractiveness of the lower nature, and the instability which attends attention directed to the objects of sense.
+
+> "To deliver thee from the strange woman, even from the stranger which flattereth with her words; which forsaketh the friend of her youth, and forgetteth the covenant of her God."—Prov. ii. 16, 17.
+
+The lower attractiveness was once the higher (buddhic), and the "friend of her youth" is Love on the buddhic plane. See ADULTERY, HARLOT, WHOREDOM.
+
+**Corrections made:** `fiattereth` → flattereth; `Hariot` → HARLOT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nebo
 headword: "NEBO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,26 @@ tags:
 | `THor` | resolved (full-head) → [[Reference/Gaskell/Entries/T/THOR|THOR]] |
 | `THOTH. NEBROPHONUS` | **unresolved** (review queue) |
 | `A SON _` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind, or the higher mental plane, central in the universe.
+
+> "Nebo presided over Mercury. He is called 'the god who [possesses?] intelligence,' 'he who hears from afar,' 'he who teaches and instructs.'"—Rawlinson, *Religious Systems*, p. 26.
+
+> "Nebo went by the Accadian name of dim-sar, the scribe; and the god [word unclear] by which he is sometimes [denoted] was regarded by the Semitic literati as signifying 'the maker of intelligence' and 'the creator of writing.' He was also 'the bond of the universe,' and 'the overseer of the angel-hosts of heaven and earth.'"—Sayce, *Rel. of Anc. Babyl.*, p. 115.
+
+The mental plane unites the higher and the lower natures, and on it are the mental qualities (angel-hosts) of both natures.
+
+See HERMES, NARADA, OVERSEER, THOR, THOTH.
+
+### Also in this note: NEBROPHONUS
+
+A SON [text cut off]
+
+**Corrections made:** `ases` → [possesses?]; `gad gaa` → god [word unclear]; `deno` → [denoted]; `Sayor` → Sayce; `Rel. of Ane. Babyl.` → Rel. of Anc. Babyl.; `angel-hoste` → angel-hosts; `Hermes` / `Thor` See-list spellings restored; the trailing `_` is shown as `[text cut off]`.
+
+**Unclear or supplied:** Contains a second entry: NEBROPHONUS, which breaks off after `A SON`. `[possesses?]` stands for OCR `ases`; `[word unclear]` for `gaa`; `[denoted]` is supplied for OCR `deno`.
 
 ## Full OCR entry body (exact)
 

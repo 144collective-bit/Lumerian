@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-green-colour
 headword: "GREEN COLOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `Puant` | **unresolved** (review queue) |
 | `SEA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEA (LIMITED)|SEA (LIMITED)]]; [[Reference/Gaskell/Entries/S/SEA, UNVINTAGED OR DARREN|SEA, UNVINTAGED OR DARREN]] |
 | `Woop` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The symbolic colour of the astral plane, being the plane of growth through desire. Hence the "green sea," "grass," "herbs," "vegetation," etc., also "wood."
+
+> "If thou wouldst destroy Apep, thou shalt say this chapter over a figure of Apep which hath been drawn in green colour upon a sheet of new papyrus, and over a wax figure of Apep upon which his name hath been cut and inlaid with green colour; and thou shalt lay them upon the fire so that it may consume the enemy of Ra."—From "The Book of Overthrowing Apep," Dr. Budge, *Egyptian Magic*, p. [word unclear]
+
+The serpent Apep is a symbol of desire which inhabits, and energises upon, the astral plane. The "saying of the chapter" signifies the passing through the period of experience which shall develop the desire nature and make it of service in the soul's progress. The "drawing and figure of Apep" signify the illusoriness and transitoriness of the things of the lower planes, which truth the soul gradually realises; and the burning is the symbol of final purification, and the ridding the soul of the desire-nature the opponent of the Divine. See APEP, ASTRAL PLANE, COLOURS, DRAGON (red), HERBS, PLANT, SEA, WOOD.
+
+**Corrections made:** `66`/`99` marks restored to quotation marks around "green sea," "grass," "herbs," "vegetation"; `Buper` → Budge; `desirenature` → desire-nature; page heading `GREEN` removed from mid-sentence; See-list spellings restored (`Dracon`, `Hers`, `Puant`, `Woop`).
+
+**Unclear or supplied:** The page number after "p." in the Budge reference is lost (OCR `P`).
 
 ## Full OCR entry body (exact)
 

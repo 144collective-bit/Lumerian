@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gold-plate-circular
 headword: "GOLD PLATE (CIRCULAR)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `Sacriricer` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `SELF (supreme)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sun which is a symbol of the Supreme Self the centre and source of all things.
+
+> "He (the Sacrificer) hangs a gold plate round his neck, and wears it; for that gold plate is the truth. ... Now that truth is the same as yonder sun. For gold is light, and the sun is the light; gold is immortality, and he is immortality."—*Sata. Brâh.*, VI. 7, 1, 1-2.
+
+The incarnate Self is related to the Supreme Self through the purified emotions (neck). The Supreme Self is the Divine Reality, the centre of all. The Divine Wisdom (gold) imparts Truth (light), and the Supreme Self is the eternal Truth.
+
+> "Indra and Agni are the same as these two, to wit, the gold plate and the gold man: Indra is the gold plate, and Agni the man."—*Ibid.*, X. 4, 1, 6.
+
+See AGNI, CIRCLE, GOLD MAN, INCARNATION, INDRA, LIGHT, NECK, SACRIFICER, SELF (supreme), SUN.
+
+**Corrections made:** `Bréh.` → Brâh.; `Jbid` → *Ibid.*; page heading `320 GOLDEN` removed from mid-text; See-list spellings restored (`LiaHT`, `N&XEOK`, `Sacriricer`, `Sun`); quotation marks normalised.
+
+**Unclear or supplied:** `NECK` is inferred for OCR `N&XEOK`.
 
 ## Full OCR entry body (exact)
 

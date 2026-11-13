@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mind-good
 headword: "MIND, GOOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `Monap` | **unresolved** (review queue) |
 | `Prrris` | **unresolved** (review queue) |
 | `VOHUMANO` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Logos or Higher Self, manifesting as Atma-buddhi-manas on the higher mental plane.
+
+> "The School of Zeno teach that God is unity, and that he is called Mind, and Fate, and Jupiter, and by many other names besides."—Diog. Laertius, *Lives*, Yonge, p. 308.
+
+> "He (Mind) is the Good Daimon. Blessed be the soul that is most filled with him, and wretched is the soul that is empty of the Mind" (The Key).—G. R. S. Mead, *T. G. Hermes*, Vol. II. p. 156.
+
+> "We invoke the Mind with manlauding strain, and with the hymns of the fathers. May the Mind come back to us for us to obtain wisdom, vigour and life, and that we may long see the sun! May the divine race restore to us the Mind, O Fathers, that we may abide with the living kind:"—*Sata. Brâh.*, II. 6, 1, 39.
+
+> "We call God a Mind. He has revealed himself as a Spirit. But what do we know of mind, but through the unfolding of this principle in our own breasts? That unbounded spiritual energy which we call God is conceived by us only through consciousness, through the knowledge of ourselves. We ascribe thought or intelligence to the Deity, as one of his most glorious attributes. And what means this language? These terms we have framed to express operations or faculties of our own souls. The Infinite Light would be for ever hidden from us, did not kindred rays dawn and brighten within us. God is another name for human intelligence raised above all error and imperfection, and extended to all possible truth. The same is true of God's goodness, and of all the moral perfections of the Deity. These are comprehended by us only through our own moral nature. It is the conscience within us, which, by its approving and condemning voice, interprets to us God's love of virtue and hatred of sin; and without conscience these glorious conceptions would never have opened on the mind. It is the law [text lost] a mind behind the flux of causation; if there be a mind, or anything that includes what we know as mind immanent in the universe—in a word, the mind of God—it must be a mind that moves on levels to which ours have at present no access. It must be a mind that does not need to infer anything, it knows; it does not [word unclear] or wonder, it sees all there is to see; it cannot make mistakes, for there can be nothing outside its own range. 'My thoughts are not your thoughts, neither are your ways my ways, saith the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts' (Is. lv. 8, 9)."—R. J. Campbell, *Serm.*, *The Super-rational*.
+
+See AGATHODAIMON, AKEM-MANO, DAEMON, FORM AND NAME, GOD, MONAD, PITRIS, VOHUMANO.
+
+**Corrections made:** `Atma-buddhimanas` → Atma-buddhi-manas; `Dioe. LaErtius` → Diog. Laertius; `G. R. 8. Merap` → G. R. S. Mead; `Bréa.` → Brâh.; `intalligence` → intelligence; `Thesame` → The same; `e earth` → the earth; `consciousness. through` → consciousness, through; `CaMPBELL` → Campbell; See-list spellings restored (`Dz2mON`, `Monap`, `Prrris`); page heading `MINISTERS` removed where it was run into "lawMINISTERS".
+
+**Unclear or supplied:** `[text lost]`: the OCR runs "It is the law" into a page heading and resumes mid-sentence ("a mind behind the flux of causation"); an attribution for the first part of this long quotation is lost, so it is kept in one blockquote. `[word unclear]` after "it does not" (OCR drops a word before "or wonder"). `manlauding` left as printed.
 
 ## Full OCR entry body (exact)
 

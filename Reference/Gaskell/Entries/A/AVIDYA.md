@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-avidya
 headword: "AVIDYA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `IGNORANCE. AWALIM-I-KHAMSA—THE FIVE WORLDS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+See IGNORANCE.
+
+### Also in this note: AWALIM-I-KHAMSA—THE FIVE WORLDS
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** Contains a second entry: AWALIM-I-KHAMSA—THE FIVE WORLDS. Only the headword appears; the OCR ends there.
 
 ## Full OCR entry body (exact)
 

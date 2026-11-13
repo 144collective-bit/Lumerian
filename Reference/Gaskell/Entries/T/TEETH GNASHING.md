@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-teeth-gnashing
 headword: "TEETH GNASHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,36 @@ tags:
 | `Nut` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NUT OR RHEA, GODDESS|NUT OR RHEA, GODDESS]]; [[Reference/Gaskell/Entries/N/NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET|NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET]] |
 | `Ra` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of negative, kama-manasic conditions which bring suffering for a time, but afterwards fall away and disappear.
+
+> "He shall say, I know not whence ye are; depart from me, all ye workers of iniquity. There shall be the weeping and gnashing of teeth when ye shall see Abraham and Isaac, and Jacob, and all the prophets, in the Kingdom of God, and yourselves cast forth without."—Luke xiii. 27, 28.
+
+This signifies the fact of the inability of the Christ to respond when no means is afforded It to do so. The "weeping and gnashing of teeth" symbolise types of low astral, passional conditions which are doomed to dissolve in the ordinary course of things, for they imply impermanence and negation. The reference to the "prophets" means the perception of the dim reflection of the Higher Triad (Abraham, Isaac and Jacob) in the lower nature, which reflection, however, is not destined to partake of the joys of the kingdom of heaven.
+
+See ABRAHAM, DOOR (narrow), FURNACE, JESUS (severity), KINGDOM OF HEAVEN.
+
+### Also in this note: TEETH PROTRUDING FROM MOUTH
+
+These symbolise power; the force of that which is uttered; the spoken Word of God which goes forth and manifests in act and form.
+
+See BOAR (wild), DESERTS, FANG, TUSK.
+
+### Also in this note: TEFNUT, WIFE OF SHU
+
+A symbol of the receptive form-side of primordial matter on the buddhic plane, which is acted upon by the Divine Life (Shu), Spirit energising.
+
+> "Ra breathed, and the god Shu cometh into being, and created the goddess Tefnut."—Budge, *Book of the Dead*, Ch. CXXX.
+
+The Supreme Being outpoured the Divine Life, which emanated on the highest plane, and there was added receptiveness to form and quality on the buddhic plane.
+
+See BREATH (divine), NUT, RA, SHU.
+
+**Corrections made:** `kamamanasic` → kama-manasic; `LOKE` → Luke; `Door`, `FurNACE`, `KiINnGpoM` → DOOR, FURNACE, KINGDOM; `Fano` → FANG; `DesERTs` → DESERTS; `oddess` → goddess; `Bupae` → Budge; `ead` → Dead; `formside` → form-side; page headings `747 TEM` (mid-sentence) removed; See-list spellings restored; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second and third entry: TEETH PROTRUDING FROM MOUTH (headword split in the OCR, "FROM" fell after the definition's "spoken"; page heading `747 TEM` removed) and TEFNUT, WIFE OF SHU.
 
 ## Full OCR entry body (exact)
 

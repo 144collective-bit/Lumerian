@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mitre
 headword: "MITRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BrsHop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BISHOP|BISHOP]] |
 | `Crown` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `Moura` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of Divine rule over the lower planes. It has the same meaning as the "crown of Lower Egypt." The cleft across represents a mouth opening upwards, which signifies the expression of the Divine Will in the lower realms.
+
+> "The mitre, the symbol of authority of the Jewish high priest, is also the attribute of bishops and archbishops. Cardinals anciently wore them."—F. Hulme, *Symbolism, etc.*, p. 151.
+
+> "The mitre denotes Divine Wisdom."—Swedenborg, *Arc. Cel.*, n. 9999.
+
+See BISHOP, CROWN, MOUTH.
+
+**Corrections made:** `F. Hutme` → F. Hulme; `Symboliem` → Symbolism; `SwWEDENBORG` → Swedenborg; `Are. Cel.` → Arc. Cel.; `BrsHop, Crown, Moura` → BISHOP, CROWN, MOUTH.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

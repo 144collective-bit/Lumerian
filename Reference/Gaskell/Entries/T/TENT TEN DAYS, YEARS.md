@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-tent-ten-days-years
 headword: "TENT TEN DAYS, YEARS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `AUSHEDAR` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AUSHEDAR, OR HUSHEDAR|AUSHEDAR, OR HUSHEDAR]] |
 | `FLOOD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FLOOD OF NOAH|FLOOD OF NOAH]]; [[Reference/Gaskell/Entries/F/FLOOD OF WATER|FLOOD OF WATER]] |
 | `MounraIN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOUNTAIN (LOWER ASPECT)|MOUNTAIN (LOWER ASPECT)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of complete periods of development within stages of the soul's growth.
+
+> "And the waters decreased continually until the tenth month; in the tenth month, on the first day of the month were the tops of the mountains seen."—Gen. viii. 5.
+
+And the "waters" of illusion and error diminish in the soul until the "tenth month," that is, until the completion of a full term of spiritual growth required at that state and period. The term being completed, then the heights of attainment are laid before the soul.
+
+See AUSHEDAR, FLOOD, MOUNTAIN.
+
+**Corrections made:** `continuall` → continually; `tent. month` → tenth month; `GEN.` → Gen.; `MounraIN` → MOUNTAIN; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

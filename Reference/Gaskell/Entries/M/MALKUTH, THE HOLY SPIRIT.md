@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-malkuth-the-holy-spirit
 headword: "MALKUTH, THE HOLY SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `SzepHrroTH` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `TIPHERETH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic principle which directs the evolution of the soul.
+
+> "The Queen (Malkhuth) was also called the Church or Congregation of Israel, the Daughter, the Bride of the Spouse, the Shekeenah, i.e. the Glory, or real presence of the Deity, the Sabbath or [word unclear]-day, the Harmony. It is considered by the Qabbalah as the executive [energy?] or power of the Sephirah Binah, the Holy Spirit or Upper Mother."—I. Myer, *Qabbalah*, p. 203.
+
+The buddhic principle is the consummation of the qualities (Israel), Wisdom the bride of Love, the source of inspiration, the completion of evolution, the Divine influx from above (Binah).
+
+> "Malkhuth, Kingdom, is the re-united action of all the Sephiroth . . . and is the immanent energy of all emanated things."—*Ibid.*, p. 282.
+
+In the "kingdom of heaven," on the buddhic plane, will be found the spiritual results of the present evolution.
+
+> "We mean by 'God is Spirit' that He is the Essential Being of all those things—invisible, immaterial, impossible for ever to be subjected to the senses—which we therefore call Spiritual Ideas, such as Truth, Love, Righteousness, Wisdom; . . . and that He is their Source in us, or rather their very Being in us, that in having them, we have God. . . . Our theory is this. We hold that there is a Divine Spirit, who is Truth, Wisdom, and the rest. We hold that our spirits and our intellect are in kind the same as His, are pores of the Eternal Fire and Light, [differently?] conditioned in each of us by separate personalities, and that Truth, Love, Justice in us, are God in us. . . . We hold that the soul could never have conceived God had not its essence been of God."—Stopford A. Brooke, *Serm.*, God is Spirit.
+
+See BINAH, BUDDHI, CHURCH, EVOLUTION, HESED, HOKHMAH, HOLY GHOST, KINGDOM, MAYA (higher), MOTHER (divine), PAHAD, SABBATH, SEPHIROTH, SHEKINAH, TIPHERETH.
+
+**Corrections made:** `resence` → presence; `Mvyenr` → Myer; `Srorrorp A. Brooks` → Stopford A. Brooke; `which'` → which; `Or rather` → or rather; page heading `MAMMON` removed from mid-sentence; See-list spellings restored (`Bryan`, `HEsED`, `HoOKHMAH`, `Hoxry Guost`, `Kinepom`, `MAyaA`, `Morner`, `SzepHrroTH`).
+
+**Unclear or supplied:** `[word unclear]-day` (OCR `t-day`). `[energy?]` (OCR `ene`). `[differently?]` (OCR `erently`). `pores` left as printed though it may be a misreading. `p. 282` left as printed (may be damaged). `BINAH` is the reading of OCR `Bryan`.
 
 ## Full OCR entry body (exact)
 

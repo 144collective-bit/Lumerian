@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-merchandise-true
 headword: "MERCHANDISE, TRUE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VaIsya` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAISYA, OR THE AGRICULTURAL CASTE|VAISYA, OR THE AGRICULTURAL CASTE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of transmuted desires and lower emotions raised to aspirations and higher emotions, as "fruit of the Spirit" on higher planes.
+
+> "Abandon falsehood, pursue truth, and thou shalt obtain the fruit thy heart desireth. Few are they who traffic in true merchandise; they who do so obtain profit. Depart with the merchandise of God's name, and thou shalt easily obtain a sight of God's court" (Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. p. 364.
+
+> "By the Guru's wisdom they obtain the true merchandise. He who possesseth the wealth of the true merchandise is [word unclear] with the true Word."—*Ibid.*, p. 365.
+
+See FRUIT OF THE SPIRIT, MAISHAN, REAPING, TREASURE, VAISYA.
+
+**Corrections made:** `Macavu.irrFez` → Macauliffe; `Gurts Nanak` → Guru Nanak; `ZJbid.` → *Ibid.*; `MarsHan` → MAISHAN; `VaIsya,` → VAISYA.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads `eats ai`.
 
 ## Full OCR entry body (exact)
 

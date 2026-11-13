@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-born-out-of-due-time
 headword: "BORN OUT OF DUE TIME"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Monts` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MONTH|MONTH]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the raising of the consciousness in the process of the soul's evolution. The state wherein personality is transcended, and all imperfections and limitations have been outgrown.
+
+> "And last of all, as unto one born out of due time, he appeared to me also."—1 Cor. xv. 8.
+
+This is the utterance of the soul when it has attained direct vision of the Supreme seated in the causal-body. It refers to that state of consciousness which supervenes when the lower nature has fallen away, and the soul finds expression in due course on the higher mental plane.
+
+> "Then I am born as the twelfth or thirteenth additional month, through the twelve or thirteenfold father."—*Kaush. Upanishad*, I. 2.
+
+Then the ego shall be as one born on the higher plane out of due time in the Divine order of things,—the "thirteenth additional month" signifying the period answering to the conclusion of a certain number of periods through the cycle which shall enable the soul to become perfect through intellect fully matured (father).
+
+See ABORTION, AEON (thirteenth), CAUSAL-BODY, CONVERSION OF PAUL, MONTHS, SALVATION, THIRTEEN.
+
+**Corrections made:** `bom` → born; `1l Cor.` → 1 Cor.; `causalbody` → causal-body; `PAUI.` → PAUL; `Alon` → AEON; `Monts` → MONTHS; quotation marks normalised.
+
+**Unclear or supplied:** `AEON` is a likely restoration of OCR `ALON`.
 
 ## Full OCR entry body (exact)
 

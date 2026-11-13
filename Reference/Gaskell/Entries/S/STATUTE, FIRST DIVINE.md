@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-statute-first-divine
 headword: "STATUTE, FIRST DIVINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `CHERUBIM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHERUBIM CHEEKS AND HAIR OF DEMONS|CHERUBIM CHEEKS AND HAIR OF DEMONS]] |
 | `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies supreme law in the ideal realm, of which natural law is the complement and counterpart; all the nature of the manifest God is contained therein.
+
+See CHERUBIM, MAAT, THEMIS.
+
+**Corrections made:** `Maat` → MAAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

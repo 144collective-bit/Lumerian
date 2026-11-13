@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jackal
 headword: "JACKAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Nooss` | **unresolved** (review queue) |
 | `SHu` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHU, SON OF RA AND HATHOR|SHU, SON OF RA AND HATHOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sense-nature. The jackal is sometimes portrayed with a loup round its neck. As the loup is an Egyptian sign for knowledge, this indicates the knowledge procured by means of the five senses.
+
+See NOOSE, SHU.
+
+**Corrections made:** `Nooss` → NOOSE.
+
+**Unclear or supplied:** `loup` kept as printed (possibly `loop`).
 
 ## Full OCR entry body (exact)
 

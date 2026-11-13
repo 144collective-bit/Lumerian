@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-butter
 headword: "BUTTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Mmx` | **unresolved** (review queue) |
 | `Om` | **unresolved** (review queue) |
 | `OLIVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]]; [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine love and wisdom, the produce of buddhi (cow).
+
+> "The sacrificer takes butter with the dipping spoon (breath), with the text, 'Verily thou art the favourite resort (or dainty) of the gods! . . . an unassailable means of worship.'"—*Sata. Brâh.*, 1. 3, 2, 17.
+
+The spiritual ego assimilates the nourishment of wisdom and love by means of the spiritual nature (atma) within him. For this divine food (ambrosia) is the support of the ideals (gods) through which the lower aspires towards the higher.
+
+See AMBROSIA, COW, FAT, GHEE, [Guuvu?], MILK, OIL, OLIVE.
+
+**Corrections made:** `Asymbol` → A symbol; `Bréh.` → Brâh.; See-list spellings restored (`AmBROSIA`, `Mmx`, `Om`); quotation marks normalised.
+
+**Unclear or supplied:** The reference numeral `1.` is left as printed; it may be `I.`. See-list item `[Guuvu?]` cannot be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ephod-holy-of-aaron
 headword: "EPHOD, HOLY, OF AARON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Linen` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LINEN, WHITE AND SHINING|LINEN, WHITE AND SHINING]] |
 | `RosBE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY|ROBE, BRIGHT, BEST, PURPLE, GOLDEN, WHITE, GLORIOUS, OR FIERY]] |
 | `TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIBES OF ISRAEL, TWELVE|TRIBES OF ISRAEL, TWELVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic functioning between the higher and lower natures in the human soul.
+
+> "And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen. And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, the work of the cunning workman."—Exod. xxxix. 2, 3.
+
+See also verses 4-7. The vibratory currents established between the buddhic and astral natures were produced in the mental qualities (colours) of the soul. The buddhic responses to the mental aspirations are indicated by the wires of gold (buddhi) worked into the structure of the ephod. The qualities of the structure are of intellect (blue), wisdom (purple), life-energy (scarlet), and devotion (fine linen). The "thin plates" refer to an earlier and less-differentiated state of the qualities. The "shoulder-pieces" represent the buddhic and astral centres of energy coupled together by the currents in the qualities. The "onyx stones engraved with the names of the twelve tribes" stand for a variety of virtues involved in the currents. The "blue robe of the ephod" is a symbol of the causal-body which clothes the spiritual mind (Aaron). The "binding" so that "it should not rend" indicates the permanence of the causal-body through the cycle.
+
+See AARON, BARSOM, COLOURS, LINEN, ROBE, TRIBES.
+
+**Corrections made:** `functioninge` → functioning; page heading `SEPUL250 EPIMETHEUS` removed from mid-quotation; `Exop.` → Exod.; `2,3` → 2, 3; `4~7` → 4-7; `wiedom` → wisdom; `lessdifferentiated` → less-differentiated; `shoulderpieces` → shoulder-pieces; See-list spellings restored (`Aaron`, `Barsom`, `CoLours`, `Linen`, `RosBE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

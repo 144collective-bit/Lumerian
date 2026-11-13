@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-creatures-small-living
 headword: "CREATURES, SMALL LIVING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,28 @@ tags:
 | `LITTLE ONES` | **unresolved** (review queue) |
 | `MULTIPLY` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MULTIPLY AND BE FRUITFUL|MULTIPLY AND BE FRUITFUL]] |
 | `SEEDS (good)` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of germs of goodness and truth generated in the lower nature by the higher.
+
+> "He who is persevering, gentle and patient shuns the company of men of cruel conduct, and does no injury to living creatures, gains, if he constantly lives in that manner by controlling his organs and by liberality, heavenly bliss."—*Laws of Manu*, IV. 246.
+
+> "In order to preserve living creatures, let him always by day and by night, even with pain to his body, walk carefully scanning the ground."—*Ibid.*, VI. 68.
+
+The lower nature (ground) must be carefully scanned, or tried by suffering, so that all germs of truth and righteousness may be preserved and nourished.
+
+> "Insects, snakes, moths, bees, birds, and beings bereft of motion reach heaven by the power of austerities."—*Ibid.*, XI. 241.
+
+The germs of goodness, wisdom, knowledge, aspiration, and latent virtues are evolved and transmuted through abstaining from lower emotional activities.
+
+> "He sees the Self who sees Aditi, one with all the gods, who emanated out of Hiranyagarbha, and has entered into the cavity of the heart, and there abides with living creatures. This is that."—*Katha. Upanishad*, IV. 1.
+
+See CULTIVATING, GERMS, HIRANYAGARBHA, LITTLE ONES, MULTIPLY, SEEDS (good).
+
+**Corrections made:** `gencrated` → generated; page heading `CREEPING` removed from mid-sentence; `throngh` → through; `eavity` → cavity; See-list spellings restored (`CUTIVATING`, `HIRANYAQ@aRBHA`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

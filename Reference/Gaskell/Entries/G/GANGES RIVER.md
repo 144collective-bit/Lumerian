@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ganges-river
 headword: "GANGES RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `RIVER OF LIFE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RIVER OF LIFE, MEHUJAEL AND METHUSHAEL|RIVER OF LIFE, MEHUJAEL AND METHUSHAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine life, atma-buddhic (the "river of life") which flows from its source, the Absolute, downwards through the higher planes, being reflected, as it were, in the lower planes.
+
+See RIVER OF LIFE.
+
+**Corrections made:** `atmabuddhic` → atma-buddhic; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

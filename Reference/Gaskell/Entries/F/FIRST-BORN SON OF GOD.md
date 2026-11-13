@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-first-born-son-of-god
 headword: "FIRST-BORN SON OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `Szxep` | **unresolved** (review queue) |
 | `Seur` | **unresolved** (review queue) |
 | `Son or cop. 9 279` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos, the Only-begotten Son of the Father, the First Logos, the Unmanifest God. In other terms,—the Higher Self, the first emanation of Spirit from the Absolute.
+
+> "For the Father of things that are hath made him rise as His Eldest Son, whom elsewhere He hath called His First-born, and who, when he hath been begotten, imitating the ways of his Sire, and contemplating His archetypal patterns, fashions the species of things."—Philo, *De Confus. Ling.* § 14.
+
+> "The Son of (the Father's) love; in whom we have our redemption, the forgiveness of our sins; who is the image of the invisible God, the firstborn of all creation; for in him were all things created, in the heavens and upon the earth, things visible and things invisible."—Col. i. 13-16.
+
+> "Hiranyagarbha came forth as the first-born of creation from the primeval waters which were created by the first principle (Brahman). Because it is the first principle itself which appears in its creation as first-born, therefore the latter also is denoted by Brahman (masc.)."—Deussen, *Phil. of Upanishads*, p. 199.
+
+> "This conception of the first-born of creation as the original source of all wisdom is carried further first in the Svetasvatara Upanishad (which in general inclines towards a personification of the divine), and here it is described as the Brahman, Hiranyagarbha the 'golden germ,' or even in one passage (V. 2) with a poetic and metaphorical use of the word as the 'red wizard,' kapila rishi, an expression that has led many into the mistaken belief that here in a Vedic Upanishad, Kapila, the founder of the Sankhya system, was named as the first-born of creation!"—*Ibid.* p. 200.
+
+Nevertheless, the "great rishi Kapila," being the Higher Self and founder of the system of existence, is rightly said to be "the first-born of creation!" None of the names in the Indian sacred writings are names of persons. Persons, however learned, are too insignificant to have any part in Divine inspiration which proceeds from the Buddhic plane above the human mind. There are no "thinkers of the Upanishads" (*ibid.*, p. 213) who have tampered with Divine revelation of truths of which they could know nothing.
+
+See ARC. MAN, BODHISATVA, COSMOS, CREATION, HIRANYAGARBHA, IMAGE, INCARNATION, JESUS (son of God), KARMA, MONAD, PROTOTYPES, RISHI, SEED, SELF, SON OF GOD.
+
+**Corrections made:** page heading `FIRST-BORN` removed from mid-sentence ("the Father, FIRST-BORN the First Logos" → "the Father, the First Logos"); trailing `9 279` removed; `Seif` → Self; `PxiLo` → Philo; `Co..` → Col.; `Brahm&n`/`Brahm4n` → Brahman; `DrvusseEn` → Deussen; `Syetasvatara` → Svetasvatara; `thid.` → ibid.; See-list spellings restored (`Arc. MAN`, `Bopuisatva`, `Imac`, `Monap`, `Prororyrss`, `Risar`, `Szxep`, `Seur`, `Son or cop`); quotation marks normalised.
+
+**Unclear or supplied:** The trailing `9 279` in the OCR is a page number and is removed. `IMAGE` read from OCR `Imac`; `SELF` read from `Seur`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seb
 headword: "SEB"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `True` | **unresolved** (review queue) |
 | `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Time, which implies limitation and number in successive periods within the cycle of life. Time and space are relative to manifestation.
+
+See CRONUS, [KHORPAP?], [RAHEZEA?], SATURN, SEB, TIME, URANUS, ZEUS.
+
+**Corrections made:** See-list spellings restored (`Cronus`, `SaTuRn`, `True`).
+
+**Unclear or supplied:** `[KHORPAP?]` (OCR `KnHorpap`) and `[RAHEZEA?]` (OCR `RaHEzEA`) cannot be identified.
 
 ## Full OCR entry body (exact)
 

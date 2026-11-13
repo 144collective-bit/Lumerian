@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garden-of-flowers-and-fruit
 headword: "GARDEN OF FLOWERS AND FRUIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `GROVES` | **unresolved** (review queue) |
 | `OLIvE FRUIT` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OLIVE FRUIT|OLIVE FRUIT]] |
 | `PARADISE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol signifies a state of the soul in which virtues (flowers) blossom, and the higher emotions (fruit) ripen on the buddhic plane.
+
+> "And their soul shall be as a watered garden; and they shall not sorrow any more at all."—Jer. xxxi. 12.
+
+The water of Truth fructifies the buddhic plane whereon is no ignorance or suffering.
+
+> "'Gardens' and 'groves' signify wisdom and intelligence, and every tree something thereof,—as the olive, the good of love; the vine, truth from that good; the cedar, rational good and truth."—Swedenborg, *T. C. R.*, n. 204.
+
+See EDEN, GETHSEMANE, GROVES, OLIVE FRUIT, PARADISE.
+
+**Corrections made:** `JER.` → Jer.; `TC. R.` → T. C. R.; closing quotation mark supplied after "at all." (OCR lacks it); See-list spellings restored (`EpEN`, `OLIvE`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

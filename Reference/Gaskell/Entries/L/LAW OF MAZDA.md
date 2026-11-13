@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-law-of-mazda
 headword: "LAW OF MAZDA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `KarnsHipta` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KARSHIPTA, THE BIRD|KARSHIPTA, THE BIRD]] |
 | `SuRAS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SURAS, CHIEF|SURAS, CHIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The law of Divine Love,—the attraction to the Highest.
+
+> "The will of God, which is the law of holiness, is the deepest and inmost thing of all this world. And the ultimate question of every human life is whether he is at Peace with God. Peace is the being rightly and harmoniously related with that with which we have to do."—Phillips Brooks, *Serm.*, Peace in Believing.
+
+See [KarnsHipta?], SURAS.
+
+**Corrections made:** `thisworld` → this world; `Puitirrs Brooxs` → Phillips Brooks; `SuRAS` → SURAS.
+
+**Unclear or supplied:** `[KarnsHipta?]` in the See list could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

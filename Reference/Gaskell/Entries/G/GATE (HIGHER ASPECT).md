@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gate-higher-aspect
 headword: "GATE (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Errmv` | **unresolved** (review queue) |
 | `GJoLyt` | **unresolved** (review queue) |
 | `VIRGIN” BRINGING FORTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind or causal body in its receptive capacity for vibrations from below and from above. It becomes thereby the entrance through which the lower consciousness rises to the higher planes (heaven).
+
+> "For this gate of the great mysteries is the gate of heaven, and this is a house of God, where the good Deity dwells alone. And into this gate no unclean person shall enter."—Naasene doctrine, Hippolytus, *Refutations*, Bk. V. Ch. 3.
+
+This is the entrance to a condition exalted and inexpressible,—a celestial abode, a "temple not made with hands," where dwelleth the Divine Unity, Father-Mother, Atma-Buddhi, in the causal-body. Into this higher mental state can pass no soul who has not cast off completely the "old Adam" with its affections and lusts.—See Gen. xxviii. 17; Ps. cxviii. 19, 20.
+
+See DEAD (rising), DOOR (higher), [ERRMV?], [GJOLYT?], VIRGIN BRINGING FORTH.
+
+**Corrections made:** `Hipepotyrus` → Hippolytus; `GEN.` → Gen.; stray marks after "hands," and after VIRGIN removed; See-list spellings restored (`DeEap`, `Door`); quotation marks normalised.
+
+**Unclear or supplied:** `[ERRMV?]` and `[GJOLYT?]`: OCR reads `Errmv` and `GJoLyt`, See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

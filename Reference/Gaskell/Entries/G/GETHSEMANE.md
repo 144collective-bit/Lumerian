@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gethsemane
 headword: "GETHSEMANE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `TRANSFIGURATION` | **unresolved** (review queue) |
 | `VINEGAR. GEUSH-TASHA` | **unresolved** (review queue) |
 | `CUTTER OF THE OX;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an interior and subjective mental state in which the soul truly lives in its evolving experiences.
+
+> "Then cometh Jesus with them unto a place called Gethsemane, and saith unto his disciples, Sit ye here, while I go yonder and pray. And he took with him Peter and the two sons of Zebedee, and [began?] to be sorrowful."—Matt. xxvi. 36.
+
+Gethsemane stands for the Garden of the soul, the place of purity and fruition, wherein all the inner experiences are lived, as contrasted with expressed merely. The Christ-soul directs that the lower manifestations of the qualities (disciples) shall here have to abide quietly, and to suffer in silence, in order to await the call of the Highest. But the Higher Self—with whom Jesus is identified—always goes beyond the ken of the actual, and so raises the qualities. The lower mind (Peter), reason (James), and love (John) have to be raised. The suffering is the effect of the depression of the personality.
+
+See DISCIPLES, EXPERIENCES, GARDEN, JAMES, JOHN (apostle), MOUNT OF OLIVES, PASSION, PETER, TRANSFIGURATION, VINEGAR.
+
+**Corrections made:** `@ place` → a place; `yo here` → ye here; `MarT.` → Matt.; trailing page heading `GEUSH-TASHA, CUTTER OF THE OX;` removed; See-list spellings restored (`DiscipLes`, `GaARDEN`, `Mount`); quotation marks normalised.
+
+**Unclear or supplied:** `[began?]`: OCR reads "and oe to be sorrowful".
 
 ## Full OCR entry body (exact)
 

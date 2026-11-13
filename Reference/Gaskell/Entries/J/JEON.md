@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jeon
 headword: "JEON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Triap` | **unresolved** (review queue) |
 | `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine primordial Unity, the manifesting Spirit emanating from the Absolute. The primal Monad of Life.
+
+> "Æon, moreover, is God's image; Cosmos is Æon's; the Sun (is the image) of Cosmos; and Man the image of the Sun."—*Corpus Hermeticum*, XI.
+
+Divine Unity,—the manifesting Spirit or Monad of Life,—is the projection of God; the Archetypal Formuniverse, or Monad of Form, is the projection of Divine Unity; the Individuality is the projection of the Archetypal Form-life; and the Personality is the projection of the Individuality.
+
+> "The Lord of the Eternity (the Æon) is the first God, the second is Cosmos; man is the third" (The Perfect Sermon).—G. R. S. Mead, *Th. G. Hermes*, Vol. II. p. 325.
+
+The Higher Self,—the Divine Life of the manvantara,—is the First Being produced by the Absolute; the Second Being is the Archetypal universe; the human Soul is the Third.
+
+See COSMOS, MONAD, RULER OF ÆON, SUN, TRIAD, UNION.
+
+**Corrections made:** `on` → Æon (three places, and in the See list); `Per ON sonality` → Personality (page heading `ON` [ÆON] removed); `8.` → S.; `Mean` → Mead; `JT. G. Hermca` → Th. G. Hermes; `Cosmos, Monap, RULER or £on, Triap` → COSMOS, MONAD, RULER OF ÆON, TRIAD; and similar minor fixes.
+
+**Unclear or supplied:** The OCR drops the initial Æ of "Æon" throughout; restored. `Th. G. Hermes` is the reading of the damaged OCR `JT. G. Hermca` (probably *Thrice-Greatest Hermes*).
 
 ## Full OCR entry body (exact)
 

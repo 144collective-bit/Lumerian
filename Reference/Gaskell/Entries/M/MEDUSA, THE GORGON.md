@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-medusa-the-gorgon
 headword: "MEDUSA, THE GORGON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Evin` | **unresolved** (review queue) |
 | `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
 | `SorpHIaA ACHAMOTH (lower)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature, first directing its activities to the higher, and afterwards to the lower. Or it may be taken as the general direction of the soul's activities, at first good and then evil.
+
+> "Medusa is that system which—originally pure and beautiful, the Church of God and guardian of the Mysteries—has through corruption and idolatry become 'the hold of every unclean thing,' and mother of a monstrous brood. And, moreover, like the once lovely face of Medusa, the Doctrine which bore originally the divine impress and reflected the Celestial Wisdom Herself (Athena) has—through the fall of the Church—become converted into Dogma so pernicious and so deadly as to blight and destroy the reason of all who come under its control. And the Perseus of the myth is the true Humanity . . . which is gone forth to smite and destroy the corrupt Church and deliver the world from its blighting influence."—*The Perfect Way*, p. 64.
+
+The symbol "Church" may here be taken as meaning the religious soul-state of a particular stage in evolution.
+
+See CHURCH, COMA, EVIL, PERSEUS, SOPHIA ACHAMOTH (lower).
+
+**Corrections made:** `& monstrous` → a monstrous; `blizhting` → blighting; `CouncH` → CHURCH; `Evin` → EVIL; `SorpHIaA` → SOPHIA; page heading `MEH` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

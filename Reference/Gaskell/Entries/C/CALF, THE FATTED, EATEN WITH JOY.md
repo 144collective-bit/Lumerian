@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-calf-the-fatted-eaten-with-joy
 headword: "CALF, THE FATTED, EATEN WITH JOY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `FEast` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FEAST FATHER (LOWER ASPECT)|FEAST FATHER (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/F/FEAST, ROYAL, OF TYPHON (SET)|FEAST, ROYAL, OF TYPHON (SET)]] |
 | `Husks` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HUSKS|HUSKS]] |
 | `PRODIGAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRODIGAL SON, PARABLE|PRODIGAL SON, PARABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolising the Celestial feast, i.e. the consciousness raised to the buddhic plane, and the soul partaking of the "fruits of the Spirit"—Wisdom and Love Divine.
+
+See DANCES, FAT, FATTED, FEAST, HUSKS, PRODIGAL.
+
+**Corrections made:** stray `|` removed; `FATreD` → FATTED; `FEast`, `Husks` restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

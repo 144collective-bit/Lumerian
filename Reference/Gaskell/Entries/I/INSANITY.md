@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-insanity
 headword: "INSANITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -58,6 +59,26 @@ tags:
 | `Stonz` | **unresolved** (review queue) |
 | `Sworp` | **unresolved** (review queue) |
 | `TAKE-MIKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI|TAKE-MIKA-DZUCHI, AND FUTSU-NUSHI]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The external expression of disordered conditions in one or more of the lower vehicles of the soul. Insanity is a general mental condition which proceeds from psychic instability, irregularity, or want of equilibrium. It is the result of inequable astral and mental activity, and may generally be traced to the ineffectiveness of the mechanism of the vehicles through which the consciousness, or ego, acts. Often, what amounts to insanity follows from a distorted or very partial reflection of the higher activities in the lower mind, and when these activities are very pronounced, there is found the want of balance which characterises the insane. In some cases mental disorder may be due to the intense automatic action of the mechanism of conduction of conflicting ideas. In cases of worry and trouble, the nervous mechanism is subjected to such strain as results in its being temporarily or permanently, dissociated, as it were, from the regulating factor which co-ordinates the mental activities in the normal person. In melancholia the related physical and astral mechanism is unable to function completely. Insane ideas arise from sub-conscious impulses,—many of them karmic,—and the reason why the reflective and comparing faculties are not operative on the delusions is that the true mind (higher manas) is temporarily detached from the opinionative lower mind (kama-manas). Direct mental action from above applied to the disused or infirm portions of the astro-physical, or astro-mental mechanisms, designed to remove the causes which obstruct the perfect performance of the mental functions, may sometimes be effective in opening up communication from above to below and restoring balance of mind.
+
+See ASTRAL BODY, CAUSAL-BODY, MAN, MENTAL-BODY, VESTURES, VITAL AIRS, WORLDS (five).
+
+### Also in this note: INSIGNIA OF THE IMPERIAL POWER OF JAPAN
+
+Symbolic of the spiritual endowments of the soul upon the mental plane (Japan).
+
+> "The Goddess Amaterasu proclaimed her grandson Ninigi sovereign of Japan for ever, and appointed his descendants to rule it as long as the heavens and the earth endure. Before starting for his kingdom he received from his grandmother the Three Divine Insignia, viz.—the Sacred Mirror, the Sacred Sword, and the Sacred Stone or Maga[tama?]"—The *Nihongi*.
+
+The Wisdom Principle (buddhi) being the director of the evolutionary process, assigns to the Germ-Self on the mental plane the future sovereignty of the Soul in a series of stages, as long as the Cycle lasts. She is able at the outset to endow the Incarnate Self with the Causal-body (mirror), the Intuition of Truth (sword), and the Spiritual Ego (stone).
+
+See AMATERASU, BODHISATVA, BUDDHI, CAUSAL-BODY, INCARNATION, MIRROR, MITEGURA, NINIGI, SHINTAI, STONE, SWORD, TAKE-MIKA.
+
+**Corrections made:** `pertial refiection` → partial reflection; `VITAL airs` → VITAL AIRS; page headings `392 INSIGNIA` (OCR `$92 INSIGNIA`) and `INSPIRATION` removed from mid-text; `T he Nihongi` → The Nihongi; See-list spellings restored (`BuppHI`, `Mrmror`, `Mrrecura`, `NIinic!`, `Stonz`, `Sworp`); stray underscore removed.
+
+**Unclear or supplied:** Contains a second entry: INSIGNIA OF THE IMPERIAL POWER OF JAPAN (the OCR gives its headword followed by a dash, not a colon). `Maga[tama?]` is supplied: the OCR breaks off at `Maga` before the closing quotation mark. `MITEGURA` (OCR `Mrrecura`), `NINIGI` (OCR `NIinic!`) and `TAKE-MIKA` are read from damaged OCR.
 
 ## Full OCR entry body (exact)
 

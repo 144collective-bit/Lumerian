@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bhikshu
 headword: "BHIKSHU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,25 @@ tags:
 | `Sromacu` | **unresolved** (review queue) |
 | `Vayu` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VAYU, THE WIND, BREATHING|VAYU, THE WIND, BREATHING]] |
 | `WOLF` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOLF|WOLF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a quality motived by love.
+
+See ALMSGIVING, MENDICANT, MONK, SANNYASIN.
+
+### Also in this note: BHIMA, SON OF VAYU AND PRITHA
+A symbol of the intellect, the product of the higher mind and nature.
+
+> "Bhima's great strength had to be maintained by plentiful supplies of food; as his name Vrikodara, 'wolf-stomached,' indicated a voracious appetite."—Mon. Williams, *Indian Wisdom*, p. 382.
+
+The intellect, which has such great power in the soul, requires to be supplied with knowledge (meat) of innumerable facts of nature and of life. The intellect is voracious for learning, and assimilates all it can for the support of its opinions, and for the formation of its theories. "Wolf-stomached" indicates the appetite of the intellect for the facts of the lower nature.
+
+See FOOD, MEAT, PANDAVAS, PRITHA, STOMACH, VAYU, WOLF.
+
+**Corrections made:** `Wruisms` → Williams; `facta` → facts; `Wolfstomached` → Wolf-stomached; `MENDIOAN?T` → MENDICANT; page heading `101 BHISMA` removed from mid-sentence; See-list spellings restored (`Mzat`, `Sromacu`).
+
+**Unclear or supplied:** Contains a second entry: BHIMA, SON OF VAYU AND PRITHA.
 
 ## Full OCR entry body (exact)
 

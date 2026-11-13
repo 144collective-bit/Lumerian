@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-personality
 headword: "PERSONALITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -74,6 +75,44 @@ tags:
 | `for Nature cannot spiritual object of VULTURE` | **unresolved** (review queue) |
 | `WALKING WITH GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 | `YEHEEDAH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A temporary aggregation of a limited number of soul-qualities about a centre of consciousness during a life-period on the lower planes. Consciousness itself is spiritual and eternal, and is an attribute of the Divine monad or Ego in the personality; but the states of consciousness in the lower nature are phases of experience,—states which pass away, having no abiding reality. The personality has to be regarded as a limited manifestation of the immortal individuality which periodically outbreathes it and again inbreathes it. Its seat is in the lower mind, where it is an observer of a series of evanescent feelings and appearances on the mental plane.
+
+> "Because this I, this my personality, like everything else in the world, is conditioned, has arisen from a cause, and thus is wholly transient,—therefore it cannot truly be my I, to which latter alone can be ascribed the demand for a 'soul,' an eternal principle. Hence this I is only an apparent I; as the Buddha says,—'It is not mine.'"—P. Dahlke, *Buddhist Essays*, p. 23.
+
+> "The Sacrificer now establishes that immortal element (Agni) in his (the Sacrificer's) innermost soul, and,—though there is for him no hope of immortality,—he obtains the full measure of life; for indeed he becomes unconquerable, and his enemy, though striving to conquer, conquers him not."—*Sata. Brâh.*, XI. 2, 2, 14.
+
+The personality becomes endowed with the Divine Spark, the spiritual Ego (Solar pitri), in its innermost being. The personality (Lunar pitri) is mortal, and regarded as attached to the permanent atoms, it reappears life after life, conquering all evil tendencies until it arrives at perfection, when it dies out of the lower nature to be reproduced in the higher, the which is symbolised in the death, resurrection, and ascension of Jesus.
+
+> "What we now understand by personality is not final, not eternal. Personality as we know it now is a prison house; it shuts us in and down from experiencing our proper selfhood. We never do more than glimpse the truth of what we are."—R. J. Campbell, *Serm.*, *The [word unclear] up of Christ*.
+
+> Anu ordered the food and water of life to be offered him. Adapa, however, remembered the commands of Ea, and refused the food of immortality. Man remained mortal, and it was never in his power to eat of the tree of life. But in return, sovereignty and dominion were bestowed upon him, and Adapa became the [word unclear] of mankind."—Sayce, *Religions*, etc., p. 384.
+
+The Highest now offers the Love and Truth of the Spirit to descend upon the personality. The lower Self, however, refuses the offer, since the power of choice is accomplished upon the lower mental plane. Man so continued mortal, nor was it possible for man as lower mind ever to become more. But in return for that, evolution upon the lower plane was consummated, and thereby man remained a distinct species until he was to be raised through the coming within of the Super-man, i.e. Christ, who being above man, and knowing what is in man, is able to draw man unto Himself.
+
+> "Do thou, son of Atreus, repress thine anger; for it is I (Nestor) that entreat thee to forego thy resentment on behalf of Achilles, who is the [great?] bulwark of destructive war to all Achaeans."—*Iliad*, Bk. I.
+
+The desire-mind is to be repressed in its exercise of harshness and violence, since Faith-hope (Nestor), coming forth through the personality (Achilles), requires it to restrain its lower emotions. The personality is the surviving principle throughout the struggle of life, and is that wherein all the mental qualities are collected as they evolve life after life.
+
+> "Then Thetis weeping made answer to Achilles: 'Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made shortlived alike and lamentable beyond all men; in an evil hour I bare thee in our halls.'"—*Ibid.*
+
+Then Nature (Thetis) appears to question why she has been called upon to rear the lower-mind or Personality (Achilles), since the evolution of the higher mind has made it impossible for it to proceed any longer along the path (i.e. that of nature) which it has hitherto chosen. Nature would prefer to have the lower mind remain without knowledge of good and evil, especially as it has an existence of only brief duration. But now the Personality is perceived to be short-lived and limited in its range and scope. It is therefore regretted that it should have been brought forth; for Nature cannot understand the spiritual object of the existence.
+
+> "We must add to the ordinary theological conception the assertion that the fate of no one is decided in this world, that our short space of thirty or sixty years is but a moment in the long education which God is giving to every soul; and that the end of that education is inevitable good, never inevitable evil. So that the Fatherhood never ceases to be loving Fatherhood, and the redeeming [power] never ceases till its work is done in restoring all men to the bosom of God."—Stopford A. Brooke, *Serm.*, *Victims of Fate*.
+
+> "A man is a bundle of passions which severally use his reason to get gratification, and the result in all times and places depends on what passions are dominant."—H. Spencer, *Autobiography*, p. 450.
+
+> "A rational soul is born in the midst of the astral body. This rational soul is the person; itself dual, in virtue of its earthly and its divine parts. And from that moment this personality is an individual existence."—*The Perfect Way*, p. 91.
+
+> "One of the most persistent assumptions of the ordinary mind of to-day is that of the fundamental character of personality. Personality is not fundamental; it is derivative. You neither know yourself nor your neighbour, except in a very limited and fragmentary way. Your present self-consciousness, if I may so put it, is only that part of your selfhood which has so far managed to awaken on the material plane; it is larger now than it was when you were a child, and it will be larger still when you get rid of the clog of the physical body."—R. J. Campbell, *Serm.*, *The Kenosis of the Human Race*.
+
+See ACHILLES, ADAPA, APPENDAGES, ARJUNA, ARROW (self), CONSCIOUSNESS, CORPSE, [DREAD?], DEFUNCT, EA, EPIMETHEUS, FIRE OF HELL, FOOLS, GEUSH-URVA, GOSHURUN, HEEL, IMMORTALITY, JESUS MORTAL, LUNAR CYCLE, MAN (natural), MAN WITHOUT WOMAN, MONAD OF LIFE, MOON, MORTAL MIND, MUMMY, MYRMIDONS, NACHIKETAS, NESTOR, NOD, PITRIS, PITRIYANA, PROMETHEUS, QUALITIES, RECOGNITION, RUAH, SHABTI, SHAI, SOUL (lowest), THETIS, TREE OF LIFE, VULTURE, WALKING WITH GOD, YEHEEDAH.
+
+**Corrections made:** `mumber` → number; `mature` → nature; `DaHLxsr` → Dahlke; `Bréh.` → Brâh.; `oftets` → offers; `@` → a; `Himeelf` → Himself; `Sayor` → Sayce; `ite` → its; `wer` → [power]; `80` → so; `Campsety` → Campbell; `. 450` → p. 450; `ita` → its; `Jbid.` → Ibid.; `Anu` quotation: closing mark normalised; page headings `PERSONALITY` (twice, `568 PERSONALITY`) and `PESTILENCE` removed from mid-sentence; the fragments `for Nature cannot` and `spiritual object of`, which the OCR left in the See list, are restored to the sentence "It is therefore regretted that it should have been brought forth; for Nature cannot understand the spiritual object of the existence"; See-list spellings restored (`CoNnscrIoUsNess`, `GrusH-uURVA`, `Monap OF LIFE. Moon`, `MorRTAL`, `Myrmrpons`, `Prrris`, `PrrrRIyaNA`, `REcocnirion`, `RvuaH`, `SHal`, `Sou.`, `THEetTis`); and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` replaces `rehgd` in the Campbell title and `ae` in the Sayce quotation. The Sayce quotation begins mid-passage with no opening quotation mark in the OCR. `[great?]` is a reading of OCR `at`. `[power]` is supplied for OCR `wer`. The stray `Pe` before the Perfect Way quotation is treated as a damaged opening quotation mark. See-list items `[DREAD?]` (OCR `Dreap`) and `NOD` (OCR `Nop`) are uncertain.
 
 ## Full OCR entry body (exact)
 

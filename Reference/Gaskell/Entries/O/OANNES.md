@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-oannes
 headword: "OANNES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `Sra` | **unresolved** (review queue) |
 | `SowIna` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self or Archetypal Man.
+
+> "The founder of civilisation in the Assyrian and Babylonian myth is the Oannes of Berosus. 'During the daytime Oannes held intercourse with men, [taught] them sciences and arts, the building of cities and temples, laws and the introduction of the measurement of planes; further he showed them how to sow and reap; in a word, he instructed them in everything necessary to social life, so that after his time they had nothing new to learn. But when the sun set, Oannes fell into the sea, where he used to pass the night.'"—Goldziher, *Myths among the Hebrews*, pp. 214-15.
+
+During the period of involution the Self instructed the mental qualities in every kind of knowledge and all potencies of growth—material and spiritual; also in the laws of progress and the stages of development; preparing them for every variety of experience and discipline. In short, the soul was perfected in every particular. At the end of this "golden age" the Archetypal Man was fully involved in matter, and ready to produce from himself the many souls in which he is to evolve in the present period.
+
+See ARC. MAN, CIVILISING, GOLDEN AGE, GOVERNMENT, INVOLUTION, NET FOR FISH, OHONAMOCHI, REAPING, SEA, SOWING.
+
+**Corrections made:** `GoLpDzIHER` → Goldziher; See-list spellings restored (`Sra`, `SowIna`, `CIVILISING`).
+
+**Unclear or supplied:** `[taught]` is supplied: the OCR reads `men, t them sciences`.
 
 ## Full OCR entry body (exact)
 

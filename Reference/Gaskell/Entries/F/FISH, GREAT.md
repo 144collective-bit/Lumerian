@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fish-great
 headword: "FISH, GREAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `Pisces` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `SHIPS OF MANU` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the supreme fact in the Ocean of Reality. The Divine Life of primordial Truth (water).
+
+> "He (God) had his dwelling in the Great Sea, and was a fish therein" (Zohar).—Myer, *Qabbalah*, p. 336.
+
+> "St. Augustine says of Jesus: 'He is a fish that lives in the midst of waters.' 'So many fishes bred in the waters, and saved by one great fish,'—says Tertullian of the Christians and Christ and the Church."—Blavatsky, *Secret Doctrine*, Vol. II. p. 327.
+
+Brahma, Vishnu, Ea, Horus, Dagon were said to appear in fish form. In Christian iconography a symbol of the Saviour Jesus is a fish.
+
+See ABTU FISH, DELUGE, EEL-GOD, HORN OF SALVATION, JESUS (fish), LAKE, OCEAN, PISCES, SHIPS OF MANU, WATER.
+
+**Corrections made:** `MYER` → Myer; `Buavatsxy` → Blavatsky; `Vishu` → Vishnu; `icongraphy` → iconography; See-list spellings restored (`ABTU`, `EEL-GoD`, `Horkn`, `Pisces`); quotation marks normalised.
+
+**Unclear or supplied:** `Brahma, Vishu` read as Vishnu; `Myer` (Isaac Myer) is as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pineal-gland
 headword: "PINEAL GLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,24 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Eve (third)` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual process of enlightenment, as it is an organ of psychic perception.
+
+> "In man, soul and body touch each other only at one single [po]int, the pineal gland in the b[r]ain."—Descartes.
+
+> "Now these (membranes in the brain) are gently moved by the spirit, which careering through a certain blood-vessel like a reed, advances towards the pineal gland. And near this is situated the entrance of the cerebellum, which admits the current of spirit, and distributes it into what is styled the spinal marrow."
+
+> "The Perate allege that this cerebellum, by an ineffable and inscrutable process, attracts through the pineal gland the spiritual and life-giving substance."—Hippolytus, *Works*, pp. 124, 169.
+
+The pineal gland and the pituitary body are means for detecting vibrations subtler than science ordinarily recognises, but which even now are used to some extent as a means of educating the soul through the physical body.
+
+See EYE (third).
+
+**Corrections made:** `Descanrzs` → Descartes; `int` → [po]int; `b ain` → b[r]ain; `eareering` → careering; `veasel` → vessel; `attracta` → attracts; `POLYTUs` → Hippolytus; page heading `576 PISHON` removed from mid-sentence; `Eve` → EYE.
+
+**Unclear or supplied:** `[po]int` and `b[r]ain` are reconstructed from truncated OCR. The author `Hippolytus` is a reading of OCR `POLYTUs`; the attribution follows the second of two quotations.
 
 ## Full OCR entry body (exact)
 

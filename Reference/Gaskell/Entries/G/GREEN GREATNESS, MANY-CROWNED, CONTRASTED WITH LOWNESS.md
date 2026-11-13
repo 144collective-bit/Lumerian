@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-green-greatness-many-crowned-contrasted-with-lownes
 headword: "GREEN GREATNESS, MANY-CROWNED, CONTRASTED WITH LOWNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `CRowN` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `HIGHER AND LOWER. GREECE ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of honour in high endeavours educing power over the lower nature, in contrast with dishonour which attends the yielding to the lower allurements. See CROWN, HIGHER AND LOWER.
+
+**Corrections made:** `CRowN` → CROWN; page heading `GREECE ;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

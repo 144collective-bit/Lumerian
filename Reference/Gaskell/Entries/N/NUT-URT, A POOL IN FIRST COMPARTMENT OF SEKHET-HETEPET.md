@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nut-urt-a-pool-in-first-compartment-of-sekhet-hetep
 headword: "NUT-URT, A POOL IN FIRST COMPARTMENT OF SEKHET-HETEPET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `CONSCIOUSNESS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIOUSNESS|CONSCIOUSNESS]] |
 | `Poors` | **unresolved** (review queue) |
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal centre on the higher mental plane.
+
+> "O Nut-urt, I have entered into thee, and I have counted my harvest and I [go] forth to Uakh."—Budge, *Book of the Dead*, Ch. CX.
+
+The causal centre is apprehended as the real beginning, when established, of the True life of the soul, and through it as a centre of consciousness it is perceived that the higher Selfhood is attained.
+
+See CAUSAL-BODY, CONSCIOUSNESS, POOLS, SEKHET-HETEP.
+
+**Corrections made:** `Bupaer` → Budge; `ead` → Dead; `Poors` → POOLS.
+
+**Unclear or supplied:** `[go]` is supplied: the OCR reads `I o forth`.
 
 ## Full OCR entry body (exact)
 

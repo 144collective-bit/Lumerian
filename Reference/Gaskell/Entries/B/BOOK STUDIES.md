@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-book-studies
 headword: "BOOK STUDIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `ScornIPTURES` | **unresolved** (review queue) |
 | `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of following the letter of the sacred scriptures blindly, but reverentially.
+
+> "Homa grants fame and learning to all those who are [engaged?] in the study of books."—*Homa Yasht*.
+
+The Spirit allows in due time the interior perception of Truth to be opened in those who have earnestly studied the scriptures according to the letter. For the reverential carrying out of injunctions entrusted to the soul, even blindly and unintelligently, is the means of arriving at the state when the interior perception of truths shall at length be awakened, and the intuition of Wisdom within shall revive from latency.
+
+See HOMA, PAPYRUS BOAT, READING, SCRIPTURES, UR-HEKAU, WITNESSES (two).
+
+**Corrections made:** `*he letter` → the letter; `carr ng` → carrying; `unintelli ge stly` → unintelligently; `Parygvus` → PAPYRUS; `ScornIPTURES` → SCRIPTURES; quotation marks normalised.
+
+**Unclear or supplied:** `[engaged?]` is a likely reading of the dropped word (OCR `are e in`).
 
 ## Full OCR entry body (exact)
 

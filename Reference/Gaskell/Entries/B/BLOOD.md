@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blood
 headword: "BLOOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `SCARLET` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCARLET|SCARLET]] |
 | `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life manifested on the lower planes, either in a higher or a lower sense.
+
+> "But flesh with the life thereof, which is the blood thereof, shall ye not eat."—Gen. ix. 3.
+
+But of the lower desires (flesh-life) with their instinctive rebellion against the higher nature, nothing, to nourish the soul, is to be derived.
+
+> "Blood everywhere signifies in a spiritual sense the divine truth of the Lord, which also is the divine truth of the Word; and in an opposite sense, the divine truth of the Word falsified or profaned."—Swedenborg, *Apoc. Rev.*, n. 379.
+
+See ATONEMENT, HAND OF BEAST, INCARNATION, MAHAVIRA-POT, SACRAMENT, SCARLET, SOMA-JUICE, WASHED (blood).
+
+**Corrections made:** `shal]` → shall; `Gun.` → Gen.; page heading `BLOOD` removed from mid-sentence; `SwWEDENBORG` → Swedenborg; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

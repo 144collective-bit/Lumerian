@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-depravity-universal
 headword: "DEPRAVITY, UNIVERSAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MANU|MANU]] |
 | `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 | `WICKEDNESS. DEPTH;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the vehemence of the unruled lower desires in the soul, which require to be disciplined.
+
+> "And the Lord saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."—Gen. vi. 5.
+
+And the Higher Self beholds the necessity for its further descent into the soul. And it sees that there is increased necessity and opportunity for its operations amid the mental conditions of alienation and strife among the desires, which have been set up upon the lower planes.
+
+> "Manu ... conciliates the favour of the Supreme Being in an age of universal depravity."—Mon. Wisdom, p. 394.
+
+The individuality (manu) operating through the lower mind seeks to discipline the turbulent lower desires and emotions.
+
+See CORRUPTION, DELUGE, FLOOD, GOD (repenting), MANU, VAIVASVATA, WICKEDNESS.
+
+**Corrections made:** `GEN.` → Gen.; `Gop` → GOD; `CorRvuPTION` → CORRUPTION; `FLoop` → FLOOD; page headings `DESERTS` (mid-sentence) and trailing `DEPTH;` removed; and similar minor fixes.
+
+**Unclear or supplied:** The attribution `Mon. Wisdom` appears damaged (compare the stray `WILLIAMS, Indian` in the next entry, probably Monier-Williams, *Indian Wisdom*); left as printed.
 
 ## Full OCR entry body (exact)
 

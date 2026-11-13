@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-selene-or-luna
 headword: "SELENE OR LUNA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `Somat AS MOON. SELF` | **unresolved** (review queue) |
 | `SUPREME;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature which originates on the buddhic plane and descends to the astral, from which it again arises.
+
+> "By Endymion, whom she loved, and whom she sent to sleep in order to kiss him, she became the mother of fifty daughters."—*Smith's Class. Dict.*
+
+The indwelling Self in the higher mind, who is obscured by the play of the lower emotions is, nevertheless, a means of raising the emotion-nature, and producing through many emotions of a higher order.
+
+> "I shall be satisfied, when I awake, with thy likeness."—Ps. xvii. 15.
+
+> "Awake from what? From illusion to reality. It is the spiritual consciousness that is in question, the awakening of the soul. . . . Give your whole life to Christ and you will soon begin to find something wonderful taking place in your soul. It will be as though your whole nature were being remade, as indeed it is; a diviner self will begin to emerge in your consciousness than you have ever known; you will cease to be conformed to this world."—R. J. Campbell, *Serm.*, Eternal Satisfaction.
+
+See ANDROMEDA, CUPID, MOON (solar), PANDORA, PERSEPHONE, SOMA AS MOON, SELF, SUPREME.
+
+**Corrections made:** `kis` → kiss; `plsey` → play; `neverthe less` → nevertheless; `emotionnature` → emotion-nature; `some thing` → something; `remade. as` → remade, as; `8 diviner` → a diviner; `Eterna` → Eternal; `CaMPBELL` → Campbell; See-list spellings restored (`CuPrm`, `Moos`, `Panpora`, `Somat`); stray `;` at the end of the See list made a full stop.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

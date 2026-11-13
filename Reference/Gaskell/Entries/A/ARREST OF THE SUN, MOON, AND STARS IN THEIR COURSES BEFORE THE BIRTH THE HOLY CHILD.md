@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arrest-of-the-sun-moon-and-stars-in-their-courses-b
 headword: "ARREST OF THE SUN, MOON, AND STARS IN THEIR COURSES BEFORE THE BIRTH THE HOLY CHILD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `Moon (waxing)` | **unresolved** (review queue) |
 | `Sun (catching)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Sun (motionless)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the individuality, personality, and several modes of their mental expression, being, as it were, formed through a special operation which corresponds to a change in the direction of their activities. Before the Soul is emanated, the various departments of being are said to be arrested inasmuch as the efforts of the Logos which produce them, require that the forces concerned with their emanation shall be conducted into new channels, prior to which an arrest in their previous course appears to be made. This refers to the period of involution when the Soul is born into the lower nature.
+
+See ARROWS (divine), BIRTH OF ZOROASTER, BOAT (sektet), MOON (waxing), SUN (catching), SUN (motionless).
+
+**Corrections made:** `This, refers` → This refers; `Arrows`, `BiratH OF OF ZOROASTER` → BIRTH OF ZOROASTER (duplicated `OF` dropped); See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

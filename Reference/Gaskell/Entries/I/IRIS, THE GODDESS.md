@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iris-the-goddess
 headword: "IRIS, THE GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `Rar` | **unresolved** (review queue) |
 | `Rarsow` | **unresolved** (review queue) |
 | `VourvukasHa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition from buddhi, operating through the higher mind.
+
+> "She whom men call Iris (rainbow), this also is by nature cloud, violet, and red, and pale green to behold" (Xenophanes).—A. Fairbanks, *First Philosophers of Greece*, p. 69.
+
+> "At Deucalion's Flood:—Showers are poured in torrents from the sky. Iris, the messenger of Juno, clothed in various colours, collects the waters, and bears a supply upwards to the clouds."—Ovid, *The Metamorphoses*, Riley, p. 19.
+
+The "rainbow" signifies the "bridge" of manas which connects the higher and the lower natures in the soul. The "colours" and the "clouds" are symbolic of the buddhic qualities acting through the higher mind. They bring the message of Wisdom to the aspiring lower mind, and convey upwards the purified ideas for transmutation on the buddhic plane.
+
+> "The name of Iris is also the Greek name for the rainbow; and the correspondence is very remarkable between her office of messenger from heaven to man and the traditional function of the rainbow as a sign that the great covenants of Nature remain undisturbed. As it is only by the tradition recorded in Scripture that the rainbow has this meaning, and not by any obvious natural significance, it appears hard to explain how Homer came to combine the two ideas, except by supposing that his race drew the association from the same early source from which Moses and the earlier descendants of Abraham obtained it."—W. E. Gladstone, *Juventus Mundi*, Vol. I. p. 331.
+
+See BIFROST, BRIDGE, CLOUDS, COLOURS, COVENANT, HERMES, HORSE (red), INTUITION, [RAR?], RAINBOW, VOURUKASHA,
+
+**Corrections made:** `signif cance` → significance; `Guapstong` → Gladstone; `Philosophere` → Philosophers; page heading `400 IRON` removed from mid-sentence; See-list spellings restored (`Birrost`, `BRiIpGE`, `CLoups`, `CoLours`, `Hrermes`, `Inrurrion`, `Rarsow`, `VourvukasHa`).
+
+**Unclear or supplied:** The See list ends with a trailing comma in the OCR and may be cut off. `[RAR?]` (OCR `Rar`) is uncertain.
 
 ## Full OCR entry body (exact)
 

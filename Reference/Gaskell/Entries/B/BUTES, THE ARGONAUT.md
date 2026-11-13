@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-butes-the-argonaut
 headword: "BUTES, THE ARGONAUT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `LityBaoum` | **unresolved** (review queue) |
 | `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of attachment by association with what is lower in grade.
+
+See LILYBAEUM, SIRENS.
+
+**Corrections made:** `LityBaoum` → LILYBAEUM.
+
+**Unclear or supplied:** `LILYBAEUM` is a likely reading of OCR `LityBaoum`.
 
 ## Full OCR entry body (exact)
 

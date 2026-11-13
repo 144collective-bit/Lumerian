@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feast-father-lower-aspect
 headword: "FEAST FATHER (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `JEsus (severe)` | resolved (qualified head) → [[Reference/Gaskell/Entries/J/JESUS, DESCRIBED AS SEVERE AND TURBULENT|JESUS, DESCRIBED AS SEVERE AND TURBULENT]] |
 | `PARENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
 | `SHASPA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a prior and inferior condition of soul which begets a superior.
+
+> "You must learn, you must let God teach you, that the only way to get rid of your past is to get a future out of it."—Phillips Brooks, *Serm.*, How many Loaves, etc.?
+
+See DEAD (burying), JESUS (severe), PARENTS, SHASPA.
+
+**Corrections made:** `PHILLIPs Brooks` → Phillips Brooks; `Deap` → DEAD; `JEsus` → JESUS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

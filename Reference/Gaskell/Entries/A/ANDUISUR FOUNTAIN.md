@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anduisur-fountain
 headword: "ANDUISUR FOUNTAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `KHORDAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KHORDAD, THE AMSHASPAND|KHORDAD, THE AMSHASPAND]] |
 | `VoOURUKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Truth flowing from the eternal Source of Life and Reality.
+
+> "Khordad was chief of the seasons, years, months, and days, and also protector of the Water which flowed from the fountain Anduisur, on Albordj."—*System of Zoroaster*. Clarke, *Ten Rel.*
+
+"Khordad" is a symbol of Time, and under the aspect of a ruling condition of manifestation, it becomes the elucidator of Truth in those terms which are reflected in cycles, succession, duration and evolution. The fount "Anduisur" signifies eternal Truth from the summit of attainment (Albordj).
+
+See ALBORDJ, FOUNTAIN, KHORDAD, VOURUKASHA, WATER.
+
+**Corrections made:** `Albord)` → Albordj; page heading `48 ANGELS` removed from before the See list; `VoOURUKASHA` → VOURUKASHA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

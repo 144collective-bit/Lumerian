@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paradise
 headword: "PARADISE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,24 @@ tags:
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `TUBA-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUBA TREE|TUBA TREE]] |
 | `WISDOM (masc.)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of blissful consciousness on either the higher mental plane or the buddhic plane, in which the soul is suffused in Wisdom, Truth, and Love, and entirely free from the lower nature.
+
+> "Paradise, symbolically taken, means wisdom, intelligence, both divine and human, and the proper comprehension of the causes of things."—Philo, *Works*, Yonge, Vol. IV. p. 286.
+
+> "In a straight line below the Arsh and Kursi, and of the light of the former, God created the eight Paradises. These are arranged one within the other, in as many ascending stages, the innermost and highest of all being the 'Garden of Eden,' which overlooks all the others like a citadel on a lofty eminence in the midst of a walled city... . The wonderful tree called the Tuba or 'Beatitude,' the roots of which are in the region of the Lote-tree above the highest Paradise, sends its branches down to all the eight Gardens, a shoot entering the abode of every inhabitant."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. pp. 36-7.
+
+> "To him that overcometh, to him will I give to eat of the tree of life, which is in the Paradise (or Garden) of God."—Rev. ii. 7.
+
+Below the planes of atma (Arsh) and buddhi (Kursi), there is the mental plane divisible into seven sub-planes, on each of which the ego may experience a subjective state of consciousness, while withdrawn from incarnation. On the three higher of these subplanes is the blissful state of devachan. On the lower sub-planes of the buddhic plane is the "Kingdom of heaven," the "Garden of Eden," or the "eighth Paradise." The "tree of Life," or "Tuba tree," which has its roots above, in atma, and its branches below, is the Ray of the Divine Life, the Spirit or Spark which is in the higher nature of every human soul. The ego which overcometh the lower nature shall rise to the buddhic plane and be given the fruit of the tree of Life,—the spiritual endowments which accrue from successful efforts in the life below.
+
+See ARSH, ATMA, BUDDHIC PLANE, DEVACHAN, EDEN, FRUIT, GARDEN (Eden), GARDEN (flowers), GARODMAN, HEAVEN, HOURIS, KINGDOM OF HEAVEN, KURSI, LOTE-TREE, SPARK, TREE OF LIFE, TUBA-TREE, WISDOM (masc.).
+
+**Corrections made:** `PxHiLo` → Philo; `iN as many` → in as many; `as walled city` → a walled city; `Ginss` → Gibb; `REv.` → Rev.; `roote` → roots; page heading `PARADISE` removed from mid-sentence; See-list spellings restored (`Arnsu`, `BUDDHIO`, `EpEn`, `Hours`, `Kinepom`, `Korsi`, `GARODMAN`); and similar minor fixes.
+
+**Unclear or supplied:** `HOURIS` is a reading of OCR `Hours`; `Garodman` spelling kept as GARODMAN.
 
 ## Full OCR entry body (exact)
 

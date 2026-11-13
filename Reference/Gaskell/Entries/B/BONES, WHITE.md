@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bones-white
 headword: "BONES, WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Promersevs` | **unresolved** (review queue) |
 | `Ro` | **unresolved** (review queue) |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the spiritual foundation of the structure of the vehicles of consciousness of the ego.
+
+> "And the kindly earth in its broad hollows received two out of the eight parts of bright Nestis, and four of Hephaistos, and they became white bones, fitted together marvellously by the glues of Harmony."—Empedocles, Fairbanks.
+
+And the lower self through the physical vehicle (Nestis) which was now being organised and adapted for the functioning of the ego, became the seat of two senses,—taste and touch, the other inner senses are at this period unmanifested. The "four of Hephaistos" are sight, hearing, smell, and the intuitive faculty. The "white bones" are comparable to the firm foundation to which the consciousness is now attached, and the being "fitted together, etc." signifies the perfect adjustment of each condition to each.
+
+See EARTH, FLESH, HEPHAISTOS, NESTIS, NET, PROMETHEUS, RO, STONE.
+
+**Corrections made:** `ite` → its; `Saab` → [parts]; `ephaistos` → Hephaistos; `_ , Patpupay;-rRineeneaees FAIRBANKS` → glues of Harmony.—Empedocles, Fairbanks (reconstructed); `eto.` → etc.; `Eants`, `Nests`, `Promersevs` → EARTH, NESTIS, PROMETHEUS; quotation marks normalised.
+
+**Unclear or supplied:** The attribution is badly damaged (OCR `_ , Patpupay;-rRineeneaees FAIRBANKS`). `parts` (OCR `Saab`) is a likely reading; `glues of Harmony` and `Empedocles` are reconstructed from the damaged OCR and should be checked against the page. See-list items `NET` and `RO` stand as printed.
 
 ## Full OCR entry body (exact)
 

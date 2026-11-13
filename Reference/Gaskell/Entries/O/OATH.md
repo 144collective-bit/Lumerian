@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-oath
 headword: "OATH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
 | `Vow` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOW|VOW]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a fixed resolution in a set course of action: or a strict adherence to an ideal. See MISTLETOE, VOW.
+
+**Corrections made:** Stray `|` removed; `Vow` → VOW.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

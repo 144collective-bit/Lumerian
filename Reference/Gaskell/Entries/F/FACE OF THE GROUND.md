@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-face-of-the-ground
 headword: "FACE OF THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `CaIn` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CAIN|CAIN]] |
 | `Forty Days` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FORTY DAYS AND NIGHTS|FORTY DAYS AND NIGHTS]]; [[Reference/Gaskell/Entries/F/FORTY DAYS OR YEARS|FORTY DAYS OR YEARS]] |
 | `GROUND` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GROUND, HOLY|GROUND, HOLY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the knowledge of appearances, or of the surfaces of things of the lower nature.
+
+> "Behold, thou hast driven me (Cain) out this day from the face of the ground; and from thy face shall I be hid."—Gen. iv. 14.
+
+The lower self, or personality, is brought to realise that it may no longer depend upon the lower knowledge for subsistence or satisfaction, and it cannot tell where to seek for food convenient to its evolving nature. It does not yet know the Higher Self or source of its inspiration.
+
+See CAIN, FORTY DAYS, GROUND.
+
+**Corrections made:** page heading `My: FACES` removed from mid-sentence ("no My: FACES longer" → "no longer"); `CaIn, Forty Days` → CAIN, FORTY DAYS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

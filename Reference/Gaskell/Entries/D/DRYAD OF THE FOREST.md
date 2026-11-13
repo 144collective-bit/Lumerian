@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dryad-of-the-forest
 headword: "DRYAD OF THE FOREST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Devas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A nature-spirit or builder of forms on the astral plane.
+
+See DEVAS (lower),
+
+**Corrections made:** `Devas` → DEVAS.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR and may be cut off; kept as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-male-female-of-the-divine-nature
 headword: "MALE-FEMALE OF THE DIVINE NATURE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,18 @@ tags:
 | `Ris` | **unresolved** (review queue) |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
 | `WomMAN` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the dual aspects of the higher mind, which appear as Truth-Wisdom, Reason-Intuition, Intellect-Love, or Buddhi-manas.
+
+> "From the region of the heart came forth woman, the type in her very nature, as in her birthplace, of those affections; formed to yield to the man or understanding, as he to rule: the two, the understanding and will, making up the man created male-and-female. Now it is seen that there are two distinct lives in man, one of the intellect, the other of the affections, which though now separate in the human mind, unite as far as may be, and by their union produce all those forms of life which grow in and out of man. By these do we commune with God; the understanding, as it is the image of God's wisdom, being the vessel to receive His truth and wisdom; the will, as it reflects His love, to receive His goodness and love."—A. Jukes, *Types of Genesis*, p. 52.
+
+See ADAM (higher), DIVORCE, FEMININE, IMAGE OF GOD, MAN (dual), MARRIAGE, MASCULINE, RIB, WIFE, WOMAN.
+
+**Corrections made:** `TruthWisdom`, `IntellectLove` → Truth-Wisdom, Intellect-Love; `Geneste` → Genesis; See-list spellings restored (`Ris`, `MaRRIaGE`, `WomMAN`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

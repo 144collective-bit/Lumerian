@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-immortality-imhetep-or-imhotep
 headword: "IMMORTALITY IMHETEP OR IMHOTEP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `PHysictan` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `SERBPENT ZSCULAPIUS` | **unresolved** (review queue) |
 | `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self manifesting upon the higher mental plane.
+
+> "The name of Imhetep signifies 'he who comes in peace'; the Greeks transcribed it Imouthes, and likened him to Asklepios. . . . He cured men of their diseases by means of medicine and of magic. He was generally regarded as a learned deity."—Wiedemann, *Rel. of Egyptians*, p. 139.
+
+> "Imhotep was reputed the first hierophant; he it was who recited the liturgy of the dead, and the magic formulæ which restored health to the sick and raised the dead to life. (Footnote.) The office of Imhotep was to conduct the dead safely back to a second life."—Sayce, *Gifford Lectures*, p. 140.
+
+The Higher Self from the beginning reveals His nature in the sacrifice of Himself. He is the way and means of salvation, that the lower qualities may be transmuted, and that the souls may be raised to the life immortal.
+
+See ALCHEMY, BIRTH (second), MAGIC, MEDICINE, PHYSICIAN, SERPENT, ÆSCULAPIUS, VALMIKI.
+
+**Corrections made:** `mental!` → mental; `Imfdthes` → Imouthes; `ases` → diseases; `ic` → magic; `formulz` → formulæ; `WIEDEMANN`; `SERBPENT ZSCULAPIUS` → SERPENT, ÆSCULAPIUS; See-list spellings restored (`BmrtnH`, `Maoic`, `MEpIcINE`, `PHysictan`).
+
+**Unclear or supplied:** `Imouthes` is a restoration of OCR `Imfdthes` (Greek form uncertain). `diseases` and `magic` restored from OCR `ases` and `ic`.
 
 ## Full OCR entry body (exact)
 

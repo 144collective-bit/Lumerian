@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-keresani-the-ruler
 headword: "KERESANI THE RULER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `I am` | **unresolved** (review queue) |
 | `Manat` | **unresolved** (review queue) |
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower egoism with its limited vision and intolerance of that which is above it. The egoism of the lower self would limit and restrict the outgoing energy, and so stifle the growth that must needs expand beyond its rule.
+
+See AHANKARA, CAIN, I AM, MANAS, SEPARATION.
+
+**Corrections made:** `CaIn` → CAIN; `I am` → I AM; `Manat` → MANAS.
+
+**Unclear or supplied:** `MANAS` is the likely reading of OCR `Manat`.
 
 ## Full OCR entry body (exact)
 

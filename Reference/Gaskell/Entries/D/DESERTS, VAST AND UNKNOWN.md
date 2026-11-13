@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deserts-vast-and-unknown
 headword: "DESERTS, VAST AND UNKNOWN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `Stem` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
 | `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TusK. r` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of primordial chaos—the infinite expanse of formless matter.
+
+> "Pwan-koo is described as appearing from the vast unknown deserts. He was four times taller than man, had horns on his head, and teeth protruding from his mouth."—Kidd, *China*, p. 100.
+
+The Logos proceeds from the Chaos or Depth. The statement about height, refers to the fact that the measure of a man, or ego, comprehends the five planes of his being, upon four of which he has not yet become fully conscious. The "horns" symbolise victory: they are the sign of the One who conquers the conditions of the planes. The "Lamb" or "Ram," "slain from the world's foundation," possesses the same symbol. The "teeth" symbolise power of expression,—the potential becoming the actual,—the force of that which is uttered in the Divine Fiat or Spoken Word.
+
+> "The hidden God is far above every outward thing and every thought, and is found only where thou hidest thyself in the secret place of thy heart, in the quiet solitude where no word is spoken, where is neither creature nor image nor fancy. This is the quiet Desert of the Godhead, the Divine Darkness. ... this Abyss is our salvation" (Tauler).—R. M. Jones, *Mystical Religion*, p. 278.
+
+See ABYSS, CHAOS, DEEP, [FIAT?], FOUR TIMES, HEAVEN AND EARTH, HEIGHT (Osiris), HORNS, LAMB OF GOD, MEASURE, PWANKOO, STEM, TEETH, TUSK.
+
+**Corrections made:** `KuIpp` → Kidd; `Apsyss`, `Cuaos` → ABYSS, CHAOS; `HeicutT` → HEIGHT; `Gop` → GOD; `TusK` → TUSK; page heading `214 DEVAKI` removed from mid-sentence; stray `r.` after the See list removed; and similar minor fixes.
+
+**Unclear or supplied:** See-list item OCR `Fane` is given as `[FIAT?]` (the text speaks of the Divine Fiat). The author name `Kidd` is read from OCR `KuIpp`.
 
 ## Full OCR entry body (exact)
 

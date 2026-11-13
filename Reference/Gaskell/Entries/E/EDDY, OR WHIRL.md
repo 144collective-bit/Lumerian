@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eddy-or-whirl
 headword: "EDDY, OR WHIRL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of vibratory vortices caused by spiritual energy in atomic matter of the higher and the lower planes.
+
+> "When Strife reached the lowest depth of the eddy, and Love comes to be in the midst of the whirl, then all these things come together at this point so as to be one alone, yet not immediately, but joining together at their pleasure, one from one place, another from another."—Empedocles, Fairbanks, 169.
+
+When diversity reaches its maximum at its lowest point,—that is to say, a condition of evolution is arrived at, when by a system of vortices in matter, vibrations are set up which serve to produce lack of equilibrium of part with part, which answers to the dawn of separate existence. Then the Self (Love), seated in the centre of all beings, commences to evolve, and all the infinite diversity of phenomena begins to appear. And since all things are mutually interdependent, evolution is proceeded with en masse. Yet not equally or completely is this possible, as here and there, and step by step, some qualities slowly, others more quickly, so they all gradually accomplish their own growth.
+
+> "In the unageing Time, Chaos, impregnated by the whirling of (Father) Æther, formed itself into the Cosmic Egg."—G. R. S. Mead, *Orpheus*, p. 155.
+
+See COSMOS, CREATION, EGG, EVOLUTION, SELF, SEPARATION, STRIFE.
+
+**Corrections made:** `@ condition` → a condition; `sot up` → set up; `imipregnated` → impregnated; `Ather` → Æther; `Mean` → Mead; dash supplied before `G. R. S. Mead`; page heading `240 EDEN` removed; the fragment `Yet not equally or`, displaced to the end of the OCR, restored before `completely is this possible`; See-list spellings restored (`Eca`, `EvorvTION`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

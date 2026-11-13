@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rock-of-salvation
 headword: "ROCK OF SALVATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SarvaTION` | **unresolved** (review queue) |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the foundation on which the soul shall be perfected.
+
+> "He (David) shall cry unto me, Thou art my father, my God, and the rock of my salvation."—Ps. lxxxix. 26.
+
+The natural man raised through the qualities, disciplined in mind and emotion and made the ruler of the lower nature (David my servant), is able thereby to recognise the Self as his progenitor, his supreme Ideal, and the foundation of his progressive purification.
+
+See DAVID, MAN (natural), SALVATION, STONE.
+
+**Corrections made:** `Ixxxix.` → lxxxix.; `SarvaTION` → SALVATION; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-israelites
 headword: "ISRAELITES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `JORDAN` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JORDAN|JORDAN]] |
 | `JUDAH` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JUDAH, THE TRIBE OF|JUDAH, THE TRIBE OF]] |
 | `SIMEON. |` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE|SIMEON, VEIL OF ISIS, WOMAN, VIRGINS OF THE PARABLE]]; [[Reference/Gaskell/Entries/S/SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL|SIMEON, WHO WAITED FOR THE CONSOLATION OF ISRAEL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental qualities which are so far disciplined as to be united with the Divine upbringing, thus becoming the chosen ones of the Lord.
+
+> "O ye seed of Abraham his servant, children of Jacob, his chosen ones."—Ps. cv. 6.
+
+The mental qualities of the natural man (Jacob) in whom the Divine nature (Abraham) is stirring, they are the qualities which are being drawn upward by the Spirit.
+
+> "Every name in the Psalms, whether of person or of place, hath a mystical meaning given to it in the Christian Scriptures. Jerusalem is not the Jerusalem that was, nor is Babylon the Babylon that was, and even David hath lost his personality in the everlasting David. Judah and Israel mean not now the cast-away root, but the branch that hath been grafted in."—E. Irving, *Works*, Vol. I. p. 395.
+
+See ABRAHAM, [BOOTHS?], GENTILES, JACOB, JESHURUN, JEWS, JORDAN, JUDAH, SIMEON.
+
+**Corrections made:** `8. cv. 6.` → Ps. cv. 6.; `Ixvinea` → Irving; `Vol. 1.` → Vol. I.; stray `|` at the end removed.
+
+**Unclear or supplied:** `Ps.` (OCR `8.`) and `Irving` (OCR `Ixvinea`) are read from damaged OCR. `[BOOTHS?]` (OCR `Boorus`) is uncertain.
 
 ## Full OCR entry body (exact)
 

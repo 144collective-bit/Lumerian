@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-in-the-sun-catching-and-sunbinding
 headword: "IN THE SUN-CATCHING AND SUNBINDING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,34 @@ tags:
 | `SKINS oF ANIMALS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 | `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the retardation, as it were, in its course, of the Higher Self by the lower activities. The astro-mental and astro-physical natures seem to oppose and weaken the powers of the Self in the lower nature.
+
+> "The fall of the Soul is its approach to matter, and it is made weak because its energies are impeded by the presence of matter which does not allow all its powers to arrive at their realisation" (Plotinus).—T. Whittaker, *The Neo-Platonists*, p. 82.
+
+> "Tall as a mountain peak Ravana stopped with his arms the sun and moon in their course, and prevented their rising. The sun when it passed over his residence drew in his beams in terror."—*Ramayana*, III. 36.
+
+The lower principle (Ravana) retards the spiritual course of the higher and lower Selves, and causes suffering.
+
+> "We must notice two different conceptions, both of which sound quite mythical, which are preserved in the Jewish and Arabic tradition. One of these supposed that the Sun exhibited such an eagerness for the performance of his work, that the whole world would be [burnt?] from fire if its consequences were not moderated by various means for cooling from the heat; and these means are the pools of the Sun. In the Midrash on Eccles. i. 5, it is said:—'It is reported in the name of Rabbi Nathan, that the ball [of] the Sun is fixed in a reservoir with a pool of water before him. When he is about to go forth he is full of fire, and God weakens his force by that water that he may not burn up the whole world.'"—Goldziher, *Mythology among the Hebrews*, pp. 340-1.
+
+The "pool of water" is a symbol of the astral plane which "quenches the Spirit," and the "reservoir" may be taken to signify the underworld,—the present life.
+
+> "According to another view, the Sun at first resists the performance of his business, and is only moved to do so by violent measures."—*Ibid.*, p. 341.
+
+This refers to the strife of the opposites, good and evil, etc., and the difficult progress of the soul (see Matt. xi. 12).
+
+> "Maui plaited six great cocoa-nut fibre ropes to make his royal nooses to catch the sun-god Râ; the first noose [was?] set at the opening where the sun climbs up from Avaiki, the underworld, and the other five one after another further on in the sun's path; as Râ came up in the morning, Maui pulled the first slip-knot, which held him by the feet, the next by the knees, and so on, till the last noose closed round his neck, and Maui made him fast to a point of rock; then Râ, nearly strangled, confessed himself conquered, and promised henceforth to go more slowly through the heavens, that men might have time to get easily through their work. The sun-god Râ was now allowed to proceed on his way; but Maui wisely declined to take off these ropes, wishing to keep Râ in constant fear."—W. W. Gill, *Myths [of the?] South Pacific*, p. 62.
+
+The relative Self (Maui), acting from below in the forms, constructed a complete (six) astral mechanism of the soul by which it should function on the lower planes. The series of nooses refers to the gradual evolution of the soul's mechanism through animal forms, from the lower forms (feet) to the higher form (neck), which is the human and which is bound to the rock (Christ). The Higher Self, or Divine Life (Ra), is now fully involved (noosed) in the soul, and time for the growth of the egos (men) is provided so that they may work out their own salvation in fear and trembling; "for it is God which worketh in you both to will and to work, for his good pleasure" (Phil. ii. 13).
+
+See ARREST, BOAT-SEKTET, HIGHER, MAUI, MOON-WAXING, NET, NOOSE, OPPOSITES, SHELTER, SIX, SKINS OF ANIMALS, UNDERWORLD, WATER (lower).
+
+**Corrections made:** `Veceens` → because; `Wurrrakrer` → Whittaker; `GoLpzrner` → Goldziher; `Jbid., p. 34)` → Ibid., p. 341; `[aT.` → Matt.; `PHIL.` → Phil.; many words damaged at line edges restored (`conptions`, `ythical`, `wish` → Jewish, `ch` → such, `»derated`, `»0ols`, `1e` → the, `bre ro` → fibre ropes, `atch`, `limbs`, `urther`, `ieck`, `conessed`, `1enceforth`, `teavens`, `>omplete`) ; page headings `SUN-DISK` (mid-word, OCR `JN -DISK`) and `733 SUN` removed; See-list spellings restored (`Maui`, `Moon-waxtnc`, `Srx` → SIX) and similar minor fixes.
+
+**Unclear or supplied:** The OCR of the Goldziher and Maui quotations loses letters at line edges; the restorations are from context. `[burnt?]` (OCR `b om fire`), `[of]` (OCR `the ball the Sun`), `[was?]` (OCR `© set`) and `[of the?]` in the Gill title (OCR `A/ythe f`) are uncertain. `p. 341` is read from OCR `p. 34)`. The See-list item `Srx` read as SIX.
 
 ## Full OCR entry body (exact)
 

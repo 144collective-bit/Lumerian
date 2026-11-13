@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-distressed-world
 headword: "DISTRESSED WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,26 @@ tags:
 | `WHOREDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHOREDOM|WHOREDOM]] |
 | `Wire` | **unresolved** (review queue) |
 | `WoMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental plane—the field of the warring desires and lower emotions and passions, with entailed suffering and sorrow.
+
+See BOAT OF WISDOM, LION-GAIT.
+
+### Also in this note: DIVORCE
+
+A symbol of an apparent or delusive separation of Love from Wisdom, Emotion from Reason, Goodness from Truth; for these pairs are indissolubly united by Divine law.
+
+> "Have ye not read that he which made them from the beginning made them male and female, and said, For this cause shall a man leave his father and mother, and shall cleave to his wife; and the twain shall become one flesh? ... What therefore God hath joined together, let not man put asunder."—Matt. xix. 4-6.
+
+Christ here points out that ideally reason and emotion are not at variance they are not separate but a duality. For this reason the mind shall quit sense and desire,—the outer parents,—and go in search of the Ideal,—the higher emotions,—for they are one, when the intellect and the buddhic emotions are in harmony together. This ideal duality no lower attraction can avail to separate.
+
+See HARLOT, HUSBAND (wife), MALE-FEMALE, MAN AND WIFE, MARRIAGE, WHOREDOM, WIFE, WOMAN.
+
+**Corrections made:** `Mart.` → Matt.; `Boat OF wispoMm` → BOAT OF WISDOM; `LION-GaIT` → LION-GAIT; `Harior` → HARLOT; `Hussann` → HUSBAND; `MARBIAcE` → MARRIAGE; `Wire` → WIFE; page heading `DIVORCING` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: DIVORCE. Its headword is printed `DIVORCE .—` in the OCR.
 
 ## Full OCR entry body (exact)
 

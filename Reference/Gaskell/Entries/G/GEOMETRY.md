@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-geometry
 headword: "GEOMETRY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `Ocpoap` | **unresolved** (review queue) |
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Geometry and symbolism are the means whereby all spiritual facts are expressed, and by a knowledge of which they are to be interpreted.
+
+> "Thus the King took away the one and protected the seven; he abandoned the seven and kept the five; he obtained the set of three and learned the set of three; he understood the two and abandoned the two."—*Buddha-Karita*, Bk. II. 41.
+
+Thus the One manifested as seven planes and their activities. The two highest, or innermost, remain in obscuration; the five are manifest. The set of three is the triad which is expressed in the triple nature of the manifested soul, that is, atma, buddhi, and higher-manas, which triad is reflected below as physical, astral, and lower-manas. The two stand for the desire-nature and the reason-nature, both of which must be experienced and eventually abandoned.
+
+See FOOTSTEPS OF BUDDHA, INVOLUTION, OGDOAD, RA.
+
+**Corrections made:** `Karila` → Karita; `IT.` → II.; `empressed` → expressed; See-list spellings restored (`FooTsTtErs`, `Ocpoap`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

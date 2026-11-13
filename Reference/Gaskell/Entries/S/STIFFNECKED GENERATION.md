@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stiffnecked-generation
 headword: "STIFFNECKED GENERATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Hoty GuosT` | **unresolved** (review queue) |
 | `Neck` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
 | `Tamas` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a backward state of mind devoid of active higher emotion (neck), and therefore difficult to move along the way of righteousness.
+
+> "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye."—Acts vii. 51.
+
+The mental state is deplored wherein the purified emotions and affections (heart) are undeveloped, latent (stiff). This state of uncontrolled desire (uncircumcised) always resists the discipline of the Spirit or the buddhic functioning, as precedent states which have generated the present condition of mind, have ever done. The scripture goes on to point out how this unprogressed mental state is unfitted to receive the gifts of the spirit, and kills out the higher impulses which must precede the advent of the perfect Self in the soul.
+
+See CIRCUMCISION, HOLY GHOST, NECK, TAMAS.
+
+**Corrections made:** `Tho` → The; stray `_` removed; See-list spellings restored (`Hoty GuosT`, `Neck`, `Tamas`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

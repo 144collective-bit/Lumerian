@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-of-osiris-or-ra
 headword: "BIRTH OF OSIRIS, OR RA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,28 @@ tags:
 | `Ruga` | **unresolved** (review queue) |
 | `SzB` | **unresolved** (review queue) |
 | `WorLpDs (five)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the emanation of the First Logos, God manifest, the Higher Self, on the plane of atma.
+
+> "On the first of these (five) new-made days Osiris was born, and a Voice from heaven proclaimed, 'The Lord of all things hath appeared!'"—Plutarch, *Isis and Osiris*, § 12.
+
+The "five days" signify the five planes of manifestation, and the first of these is atma, the highest plane, on which the First Logos forthpours. The "Voice" refers to the "Word," or expression, of the Divine Will in
+
+> "O Osiris, son of Nut, I have given unto thee the sovereignty of thy father Seb, and the goddess Mut, thy mother, who gave birth to the gods, brought thee forth as the firstborn of five gods, and created thy beauties and fashioned thy members."—Budge, *Book of the Dead*, p. 627.
+
+The Supreme grants to the Higher Self the primal conditions of time (Seb) and space (Nut or Mut) which have brought forth from the potential the actual. For the Manifesting Self is "the image of the invisible God, the firstborn of all creation; for in him were all things created, in the heavens and upon the earth."
+
+> "Homage to thee (Râ), O thou who riseth in Nu, and who at thy manifestation dost make the world bright with light; the whole company of gods sing hymns of praise unto thee after thou hast come forth."—*Ibid.*, p. 10.
+
+The Higher Self comes forth in possession of the Divine powers of the universe (Nu), and illumines the higher planes with the light of truth. The whole assembly of higher attributes and ideals vibrate in harmony with the Love and Wisdom which have appeared, and are centralised in the Manifesting Self.
+
+See ARC. MAN, CURSE, DAYS (five), DEATH OF OSIRIS, ELEMENTS (five), GATHA DAYS, HYMN, KING (great), MUT, NU, NUT, OSIRIS, PAMYLES, [RUGA?], SEB, WORLDS (five).
+
+**Corrections made:** `Fseis` → Isis; `PLUTARcH` → Plutarch; `Bupge` → Budge; `R&` → Râ; See-list spellings restored (`Anc. MAN`, `CursE`, `DEaTH`, `Kino`, `Mor`, `Noz`, `Osmis`, `PAMYLss`, `SzB`, `WorLpDs`); page heading `BIRTH` removed mid-sentence.
+
+**Unclear or supplied:** The first paragraph breaks off at `in` where the page heading `BIRTH` intrudes; the sentence is left unfinished as in the OCR. `[RUGA?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

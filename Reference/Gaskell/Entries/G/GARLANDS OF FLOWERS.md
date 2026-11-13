@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garlands-of-flowers
 headword: "GARLANDS OF FLOWERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `FLOWERS` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FLOWERS|FLOWERS]] |
 | `WREATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WREATHS OF PLANTS|WREATHS OF PLANTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of assemblage of higher emotions and virtues,—tokens of joy and gladness in the buddhic consciousness.
+
+See FLOWERS, WREATHS.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

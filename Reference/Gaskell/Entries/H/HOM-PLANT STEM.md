@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hom-plant-stem
 headword: "HOM-PLANT STEM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `HEIGHT OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
 | `Stem` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN|STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the inter-connected vehicles of the soul.
+
+> "The archangels convey to earth another of the three elements, the Fravashi, bearing it in a stem of the Homplant, the height of a man."—*The Dinkard*, S. B. of E.
+
+The messengers of the Logos are the means of introducing the Life-element into the germ-vehicles of the human soul, which are awaiting its reception.
+
+See AMSHASPANDS, HEIGHT OF OSIRIS, STEM, VESTURES.
+
+**Corrections made:** `Homlant` → Homplant; `The inkard` → *The Dinkard*; `Lifeelement` → Life-element; `Stem` → STEM.
+
+**Unclear or supplied:** `Dinkard` and `Homplant` read from damaged OCR (`inkard`, `Homlant`).
 
 ## Full OCR entry body (exact)
 

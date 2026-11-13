@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dust-of-the-ground-or-world
 headword: "DUST OF THE GROUND OR WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Sopa` | **unresolved** (review queue) |
 | `Swear` | **unresolved** (review queue) |
 | `WATER. 234` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind which is unstable and subject to every wind of doctrine and opinion that obscures the truth.
+
+> "So long as we are in the dust, we see not the face of the Beloved."—Tabrizi, Ode XLIV.
+
+So long as the egos are obscured in the activities of the lower mind, they are unable to apprehend the higher qualities which are the expression of the Love and Wisdom nature within. Dust being free from water, signifies a state of ignorance, absence of truth (water), which is the original state of mind (man).
+
+See ADAM (lower), BEASTS (earth), CURSE (serpent), DRY, MAN, [SODOM?], [SWEAT?], WATER.
+
+**Corrections made:** `seo` → see; `TaBrizi` → Tabrizi; trailing page number `234` removed; See-list spellings restored (`ApAM`, `Bmrasts`, `CursE`).
+
+**Unclear or supplied:** See-list items OCR `Sopa` and `Swear` are given as `[SODOM?]` and `[SWEAT?]`; `BEASTS` restored from OCR `Bmrasts`.
 
 ## Full OCR entry body (exact)
 

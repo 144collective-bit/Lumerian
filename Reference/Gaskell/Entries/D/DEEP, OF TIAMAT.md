@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-deep-of-tiamat
 headword: "DEEP, OF TIAMAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `CHaos` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHAOS, OR THE DEEP|CHAOS, OR THE DEEP]] |
 | `TIAMAT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIAMAT, THE SPIRIT OF CHAOS|TIAMAT, THE SPIRIT OF CHAOS]] |
 | `WaTER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane of the lower emotions and passions, at first devoid of order.
+
+See ASTRAL PLANE, CHAOS, TIAMAT, WATER (lower).
+
+**Corrections made:** See-list spellings restored (`CHaos`, `WaTER`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

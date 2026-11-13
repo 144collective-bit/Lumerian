@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lion-god-lion-gait-of-buddha
 headword: "LION-GOD LION-GAIT OF BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY?»` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the strong and powerful Self, as the victor over the lower nature of the soul.
+
+> "'I (Buddha) am born for supreme knowledge, for the welfare of the world,—thus this is my last birth.' Thus did he of lion-gait, gazing at the four quarters, utter a voice full of auspicious meaning."—*Buddha-Karita*, Bk. I. 34.
+
+The Self is born in the soul for its supreme illumination, and for the welfare of humanity,—i.e. the enlightenment of the incarnate Self. This is the supreme moment in spiritual involution when potential perfection is consummated (last birth), and now and henceforward proceeds the fulfilment of the Divine nature, which through the Self is brought to realise Itself. So did the Self of forceful mien, conqueror of the quaternary, foresee his Divine mission.
+
+See BIRTH OF BUDDHA, BUDDHA, INVOLUTION, QUARTERS, QUATERNARY.
+
+**Corrections made:** `Iteelf` → Itself; `QUATERNARY?»` → QUATERNARY.; quotation marks restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

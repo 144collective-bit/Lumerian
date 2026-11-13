@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-naamah-the-sister-of-tubal-cain
 headword: "NAAMAH, THE SISTER OF TUBAL CAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Tusat Carn` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuition element which is associated with the discriminative and analytical intellect. See TUBAL CAIN.
+
+**Corrections made:** `Tusat Carn` → TUBAL CAIN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

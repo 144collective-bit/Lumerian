@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-andromeda-daughter-of-cepheus-and-cassiopea
 headword: "ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `PERSEPHONE` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEPHONE, DAUGHTER OF DEMETER|PERSEPHONE, DAUGHTER OF DEMETER]] |
 | `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature produced by the astral and buddhic principles.
+
+> "Andromeda, the Soul, the better part of Man, is on the point of being devoured outright by the baleful dragon of Negation, the agent of the lower nature, and the ravager of all the hopes of mankind. Her name—identical with the terms in which is described the first Woman of Hebrew story—indicates her as the helpmeet and ruler of man; her parentage denotes the origin of the Soul from the astral Fire or Æther, signified by the land of Æthiopis (the kingdom of Cepheus); the brazen fetters with which she is bound to the rock typify the present bondage of the Divine in man to his material part; and her redemption, espousal, and exaltation by the hero Perseus, prefigure the final and crowning achievement of the Son of God, who is no other than the Spiritual Manhood, fortified and sustained by Wisdom (Athena) and Thought (Hermes)."—*The Perfect Way*, p. lxv.
+
+See CUSH, EVE, DRAGON, PANDORA, PERSEPHONE, PERSEUS, WOMAN.
+
+**Corrections made:** `perentaee` → parentage; `rom` → from; `Acther` → Æther; `ASthopis` → Æthiopis; `Ixv` → lxv; See-list spellings restored (`Cusn`, `Eve`, `Graon` → DRAGON, `Panpora`); quotation marks normalised.
+
+**Unclear or supplied:** OCR `Graon` is read as DRAGON.
 
 ## Full OCR entry body (exact)
 

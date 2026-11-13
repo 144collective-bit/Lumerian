@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sealed-letter-of-the-king
 headword: "SEALED LETTER OF THE KING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `ScripTURES` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SCRIPTURES OF EUROPE AND NORTH AFRICA|SCRIPTURES OF EUROPE AND NORTH AFRICA]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, PONDERING ON THE|SCRIPTURES, PONDERING ON THE]]; [[Reference/Gaskell/Entries/S/SCRIPTURES, SACRED|SCRIPTURES, SACRED]] |
 | `SERPENT (loud)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `WorpDs oF POWER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WORDS OF POWER|WORDS OF POWER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an impression in the mind, of the existence of a higher nature of goodness and truth, and the reality of its claim on the allegiance of the soul.
+
+> "And my letter was a letter which the King sealed with his right hand."—*Hymn of the Soul*, in the *Acts of Judas Thomas*.
+
+And the inner message, which was an appeal to me through the higher side of my consciousness, came with power from the Higher Self above. The "letter" represents a scheme of salvation and information of spiritual conditions, and within this message the Spirit of Love and Truth awakens in the mind as the most powerful attractive force in the universe, however feeble it may seem to be during times of obscuration. (In the Greek Epitome of the Acts of Thomas by Niceta, Archbishop of Thessalonica, the "letter" is taken to be a symbol of the Holy Scriptures: *vide* Professor Bonnet.)
+
+See GNOSIS, KING, LETTER, PEARL, RELIGION, ROSE, SALVATION, SCRIPTURES, SERPENT (loud), WORDS OF POWER.
+
+**Corrections made:** Page heading `663 SEASONS` removed from mid-sentence; See-list spellings restored (`Gnosis`, `Kina`, `Rose`, `ScripTURES`, `WorpDs oF POWER`).
+
+**Unclear or supplied:** `SERPENT (loud)` left as printed in the OCR; the qualifier may be damaged.
 
 ## Full OCR entry body (exact)
 

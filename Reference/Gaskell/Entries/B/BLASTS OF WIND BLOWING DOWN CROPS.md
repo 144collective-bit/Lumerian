@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blasts-of-wind-blowing-down-crops
 headword: "BLASTS OF WIND BLOWING DOWN CROPS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Storms` | **unresolved** (review queue) |
 | `TAWHIRI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS|TAWHIRI-MATEA, THE GOD AND FATHER OF WINDS AND STORMS]] |
 | `TREES (tall)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TREES, TALL|TREES, TALL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of diverse erroneous doctrines and opinions of the lower mind, which proceed from prevalent illusions, and which stifle the growth of the higher emotions.
+
+> "Thou shalt break the power of untiring gales which, rising against the earth, blow down the crops and destroy them; and again, whenever thou wilt, thou shalt bring their blasts back; and thou shalt bring seasonable drought out of dark storm for men, and out of summer drought thou shalt bring streams pouring down from heaven to nurture the trees; and thou shalt lead out of Hades the spirit of a man that is dead."—Empedocles, Bk. I. 24, Fairbanks.
+
+The Self shall overcome the winds of doctrine which arise and, striking the lower self (earth), destroy the sprouting emotions. And, moreover, the Self shall recall such doctrines. And the Self shall turn the falsity of the lower planes into relative truth for the mind's sustenance, and from the mind's ignorance enable it to know. And from the spiritual effects of the Higher Self upon the personality shall proceed the truth which shall serve to enable the qualities to be raised. And from the lower planes, the under-world, the relatively dead self,—the lower mind (man) or lower personality,—shall be led upward to the light.
+
+See CORPSE, CROPS, HADES, [RAR?], STORMS, TAWHIRI, TREES (tall).
+
+**Corrections made:** `yales` → gales; `thou shall` → thou shalt; `FarrBanxs.` → Fairbanks; `CorPsE` → CORPSE; `Hanes` → HADES; page heading `299 GANDHARVAS` removed from the end of the text.
+
+**Unclear or supplied:** `[RAR?]` is an unidentified See-list item (OCR `Rar`).
 
 ## Full OCR entry body (exact)
 

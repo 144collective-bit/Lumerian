@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-judging-others
 headword: "JUDGING OTHERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `NEIGHBOUR` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NEIGHBOUR|NEIGHBOUR]] |
 | `SERVANTS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERVANTS|SERVANTS]] |
 | `SCEPTICISM` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCEPTICISM, OR PHILOSOPHIC DOUBT|SCEPTICISM, OR PHILOSOPHIC DOUBT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mental qualities condemning the stage of progress of other qualities less progressed apparently than themselves.
+
+> "Who art thou that judgest the servant of another? to his own lord he standeth or falleth. Yea, he shall be made to stand; for the Lord hath power to make him stand."—Rom. xiv. 4.
+
+This exhortation is to the effect that a quality must not presume to interfere with the evolution of a ministering quality subordinate to another discipline and serving its own Ideal. To that Ideal it is responsible, and the Self within is able to transmute the quality accordingly. The "servant" of a mental quality, is a lower-grade quality which ministers to, and preserves, activities important to effect progress at a particular stage. To its own ruling quality the serving quality "standeth or falleth," and it is not to be condemned as out of place. It is evolved there by the will of the Higher Self, who needs it and maintains it.
+
+> "There are many who have an undisturbed belief in God and Christianity. They feel too deeply ever to ask a single question. They understand all they want to understand. They have a natural liking for authority, and they are convinced that the authority they depend on is a true and righteous one. And if their life be pure and noble it is a guilty thing to disturb their faith unless we absolutely believe that their belief is degrading their spiritual life. If scepticism arise spontaneously it must be met and accepted, but to instil it into the peaceful heaven of a pure soul is wickedness; there is sorrow enough in the world without our needlessly creating it. But a warning ought to be given to these happy persons. They must not despise or denounce those who cannot trust authority, whose intellect troubles their spirit. . . . Their own peace is great; let them show their gratitude by tenderness to others. As to their airs of superiority, it does not follow because they are not disturbed that they are spiritually superior."—Stopford A. Brooke, *Serm., Lord, Increase our Faith*.
+
+See FAITH, LANDMARKS, NEIGHBOUR, SERVANTS, SCEPTICISM.
+
+**Corrections made:** `.To that Ideal` → To that Ideal; `éffect` → effect; `one, And` → one. And; `STroprorp~ A. Brooke` → Stopford A. Brooke; `Farru` → FAITH; page heading `JUDGMENT` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

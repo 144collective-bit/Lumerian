@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rhadamanthus-minos-and-zeacus
 headword: "RHADAMANTHUS, MINOS, AND ZEACUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `TrraD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Divine principles of the Higher Triad.
+
+See TRIAD.
+
+**Corrections made:** `TrraD` → TRIAD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

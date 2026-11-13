@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-khwan
 headword: "KHWAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `Morser (divine)` | **unresolved** (review queue) |
 | `Sprair` | **unresolved** (review queue) |
 | `Yano` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of matter, the complement of spirit.
+
+> "Complete is the great and originating capacity indicated by Khwan! All owe to it their birth;—it receives obediently the influences of Heaven. Khwan in its largeness supports and contains all things. Its excellent [word unclear] matches the unlimited power of Khien. Its comprehension is wide and its brightness great. The various things obtain by it their full [word unclear]."—*Yi King*, Appendix I. § 1, Ch. 2.
+
+Matter in its [word unclear] is completely adapted to be the means by which the originating ideas can be expressed in forms. All forms and qualities owe to it their manifestation. It is fully receptive of the modifications of Spirit. Matter in its extension throughout the lower planes is the basis and container of all expressions of life. Its receptive capacity entirely corresponds with the unlimited energy of Spirit acting through it.
+
+> "Any good that God bestows [makes?] us richer with our experience of it—it never grows poorer; any truth He reveals is seen to be larger as we gain closer acquaintance with it,—it never grows less."—R. J. Campbell, *Serm., Our Eternal Glory*.
+
+See INVOLUTION, KHIEN, MATTER, MAYA, MOTHER (divine), SPIRIT, YANG.
+
+**Corrections made:** `dicated` → indicated; `Ys King` → Yi King; `ws richer` → [makes?] us richer; `MivyA` → MAYA; `Morser` → MOTHER; `Sprair` → SPIRIT; `Yano` → YANG; and similar minor fixes.
+
+**Unclear or supplied:** Several words in the Yi King quotation and the following sentence are lost in the OCR (`enna`, `sae aaa`, `ae`) and marked `[word unclear]`. `[makes?]` for OCR `ws`. "indicated" is completed from OCR `dicated`.
 
 ## Full OCR entry body (exact)
 

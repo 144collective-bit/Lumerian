@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-churches-in-asia-seven
 headword: "CHURCHES IN ASIA, SEVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `CANDLESTICKS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CANDLESTICKS|CANDLESTICKS]] |
 | `COLD AND HEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COLD AND HEAT|COLD AND HEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of seven states of soul in which the light of Truth is shining from their higher qualities (candlesticks).
+
+> "All states of the reception of the Lord and of his church are signified by those seven names, in the spiritual sense."—Swedenborg, *Apoc. Rev.*, n. 41.
+
+> "They are, in their primary sense, various states of the soul which the Apocalypse describes under the guise of the Seven Churches of Asia."—*The Perfect Way*, p. 238.
+
+See CANDLESTICKS, COLD AND HEAT.
+
+**Corrections made:** `SwEDENBERG` → Swedenborg; closing quotation mark supplied after `Seven Churches of Asia.`
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

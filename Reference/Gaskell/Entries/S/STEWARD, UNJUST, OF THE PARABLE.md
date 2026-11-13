@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-steward-unjust-of-the-parable
 headword: "STEWARD, UNJUST, OF THE PARABLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FRIENDS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/F/FRIENDS, AND FOES|FRIENDS, AND FOES]]; [[Reference/Gaskell/Entries/F/FRIENDS' HOUSES|FRIENDS' HOUSES]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower self entrusted with opportunities of development (the goods). It is developed by the desire-nature (unrighteous mammon). The debtors are the mind and emotions which possess (owe) the means whereby the lower nature may be raised. The 'friends' are the transmuted emotions. The lower self reduces the debt by availing himself of a portion of the means of development. "Sit down quickly" signifies disciplining the lower nature so that the desires may be transmuted, and buddhic emotions (friends) made in heaven.—Luke xvi. 1.
+
+See FRIENDS, PARABLE, TRANSMUTATION.
+
+**Corrections made:** `Luxz` → Luke; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

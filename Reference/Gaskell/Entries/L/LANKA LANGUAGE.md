@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lanka-language
 headword: "LANKA LANGUAGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `Crry` | **unresolved** (review queue) |
 | `Earrs` | **unresolved** (review queue) |
 | `SPEEcs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the recognition of sameness and the perception of difference.
+
+> "And the whole earth was of one language and of one speech."—Gen. xi. 1.
+
+And at this early period, the entire lower nature of the soul was in a homogeneous condition.
+
+> "Therefore was the name of it called Babel; because the Lord did there confound the language of all the earth."—Gen. xi. 9.
+
+This "city" or centre of consciousness is known as "Babel,"—that is, perception of difference between qualities.
+
+See BABEL, CITY, EARTH, SPEECH.
+
+**Corrections made:** `SPEEcs` → SPEECH; `Earrs` → EARTH; closing full stop added to the See list.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

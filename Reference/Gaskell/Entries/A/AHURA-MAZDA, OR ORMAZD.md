@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ahura-mazda-or-ormazd
 headword: "AHURA-MAZDA, OR ORMAZD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `SPENTO` | **unresolved** (review queue) |
 | `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
 | `ZOBOASTER` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Supreme Being, or of the Divine Will in manifestation. The Logos. The Higher Self.
+
+> "Zoroaster's fitness for the prophetic mission which he is to undertake is divinely recognised, and Ahura Mazda selects him as his own messenger to the world."—*Dinkard*. S. B. of E.
+
+The Incarnate Self discerns the destiny which awaits it under the manifold cycles of evolution and rebirth; and the Logos appoints him as His only-begotten Son to be His special interpreter to the lower self, and be the Saviour of the souls of humanity.
+
+See GARUDA, HOMA, SPENTO, ZERANA, ZOROASTER.
+
+**Corrections made:** Page heading `AHURA RELIGION` removed from mid-sentence; `Garua` → GARUDA; `ZOBOASTER` → ZOROASTER; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

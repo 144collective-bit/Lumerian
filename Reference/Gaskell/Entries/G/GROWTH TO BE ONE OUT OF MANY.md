@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-growth-to-be-one-out-of-many
 headword: "GROWTH TO BE ONE OUT OF MANY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `ARO. MAN` | **unresolved** (review queue) |
 | `EVOLUTION` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVOLUTION AND INVOLUTION|EVOLUTION AND INVOLUTION]] |
 | `INVOLUTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY|INVOLUTION-OF THE INCARNATE SELF OR ARCHETYPAL SOUL OF HUMANITY]]; [[Reference/Gaskell/Entries/I/INVOLUTION TION|INVOLUTION TION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the process of Involution whereby the many potencies emanated from the Supreme eventuate in the formation and completion of the Archetypal Man. See ARC. MAN, EVOLUTION, INVOLUTION.
+
+**Corrections made:** `Involudion` → Involution; `ARO. MAN` → ARC. MAN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

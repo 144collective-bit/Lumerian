@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-good-friendship-foreigners
 headword: "GOOD FRIENDSHIP FOREIGNERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `BUDDHIC PLANE` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BUDDHIC PLANE|BUDDHIC PLANE]] |
 | `EXPERIENCES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EXPERIENCES OF THE EGO|EXPERIENCES OF THE EGO]] |
 | `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol signifies the benefit derived from the experiences of the undisciplined and adverse qualities in furthering the soul's development.
+
+> "The extreme strengthening of alliance; the gratification due to the good friendship of foreigners."—*Dinkard*, Bk. VII. 9, 2, S. B. of E.
+
+The complete union with the Self; the arrival of the consciousness in buddhi, where all experiences, even adverse experiences, are related with the evolution of the Self. See AHRIMAN, BUDDHIC PLANE, EXPERIENCES, UNION.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

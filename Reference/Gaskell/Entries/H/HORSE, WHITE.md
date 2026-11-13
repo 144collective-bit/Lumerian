@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horse-white
 headword: "HORSE, WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,28 @@ tags:
 | `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `WHITE. HORSE` | **unresolved** (review queue) |
 | `ODIN’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the pure and perfect higher mind (buddhi-manas) with its ideals and aspirations.
+
+> "Once when thou (Buddha) wert a white horse; in pity for the suffering of man, thou didst fly across heaven to the region of the evil demons, to secure the happiness of mankind" (Buddhist Gatha).—A. Lillie, *Life of Buddha*, p. 58.
+
+> "Pragapati said, 'Whoever shall seek thee (Agni) in the form of a white horse, shall find thee.' . . . It should be a white horse, for that is a form of him (the sun) who burns yonder."—*Sata. Brâh.*, VII. 3, 2, 16-6.
+
+The Higher Self (sun) must be sought for through the highest mental qualities in aspirations towards Truth and Love.
+
+> "And I saw, and behold, a white horse, and he that sat thereon had a bow; and there was given unto him a crown: and he came forth conquering and to conquer."—Rev. vi. 2.
+
+The Higher Self (Christ) emanated in the higher mind, equipped with the mental stimulus to evolution (the bow), which is destructive of the lower qualities, and endowed with supremacy (crown) over the lower manifestation: and he went forth in the soul to "subject all things to himself."
+
+> "Every spiritual man feels the going forth of his Saviour conquering and to conquer. And he hath every outward action of holy writ realised inwardly—every groan of the conquered, every struggle of the Conqueror, His toil, His sweat, His wounds, His death, His resurrection, His second going forth in the plenitude of the Spirit, His unconquered resolution, His long-abiding labour, the turning of the tide of battle, His sword upon the neck of His enemies, the shout of victory, the treading of the nations in the winepress of His fury, His shivering them with His iron sceptre like a potsherd, His driving them with death, and the grave, and him that had the power of death, into the bottomless pit. His reign of peace, its joy, full contentment, and perfect assurance; what are they all, but letters, words, and similitudes, whereby the believer may better understand, and better express the spiritual work which is going on within his own soul, by the casting down of imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."—E. Irving, *Writings*, Vol. I. p. 402.
+
+See AAT, AGNI, ARIES, BOW, BUDDHA (Maitreya), CHRIST'S SECOND COMING, CONFLAGRATION, CROWN, JUDGMENT DAY, KALKI, PRAGAPATI, RACE-COURSE, REGNAROK, RENOVATION, SLAUGHTER, SOSIOSH, [Sprinerme?], [Sraure?], SUN, VICTORY, WHITE.
+
+**Corrections made:** `Lituiz` → Lillie; `Bréh.` → Brâh.; `be that eat` → he that sat; `Invina` → Irving; `unconuered` → unconquered; `eve struggle` → every struggle; closing quotation mark restored after "conquer"; page headings `$71 HORSE` (mid-sentence) and `HORSE, ODIN'` (end) removed; See-list spellings restored (`Anres`, `Bow`, `BuppHa`, `CuRist's`, `Victory`).
+
+**Unclear or supplied:** See-list items `[Sprinerme?]` and `[Sraure?]` not identified; `AAT` left as printed. The reference `16-6` left as printed.
 
 ## Full OCR entry body (exact)
 

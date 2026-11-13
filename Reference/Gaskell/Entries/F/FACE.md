@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-face
 headword: "FACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `COUNTENANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/COUNTENANCE, GREATER AND LESSER|COUNTENANCE, GREATER AND LESSER]]; [[Reference/Gaskell/Entries/C/COUNTENANCE, OR FACE|COUNTENANCE, OR FACE]] |
 | `SWEAT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWEAT OF THE FACE|SWEAT OF THE FACE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental aspect of being. Knowledge acquired either through the senses or the intuition. Expression of truth within.
+
+See COUNTENANCE, SWEAT.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

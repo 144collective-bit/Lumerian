@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-contraction-and-sion
 headword: "CONTRACTION AND SION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,14 @@ tags:
 | `Ice` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/ICE, FROST, OR SNOW|ICE, FROST, OR SNOW]] |
 | `Marrer` | **unresolved** (review queue) |
 | `Srimit` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Contraction and holding is a symbol of matter. Expansion and allowing of escape is a symbol of spirit. Hence, heat and cold, or fire and frost, are symbols of spirit and matter. See COLD, FIRE, FROST, HEAT, ICE, MATTER, SPIRIT.
+
+**Corrections made:** See-list spellings restored (`CoLp`, `Frere`, `Frost`, `Heat`, `Marrer`, `Srimit`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

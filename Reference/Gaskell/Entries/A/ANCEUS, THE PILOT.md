@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anceus-the-pilot
 headword: "ANCEUS, THE PILOT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Arao` | **unresolved** (review queue) |
 | `Lycvus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/L/LYCUS, KING OF THE MARIANDYNI|LYCUS, KING OF THE MARIANDYNI]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic consciousness which becomes the director of the evolution of the soul.
+
+See ARGO, LYCUS.
+
+**Corrections made:** See-list spellings restored (`Arao` → ARGO, `Lycvus` → LYCUS).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

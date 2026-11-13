@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-reincarnations
 headword: "REINCARNATIONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -83,6 +84,36 @@ tags:
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `ReINCARNATION` | **unresolved** (review queue) |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are successive terrestrial embodiments of the individual soul, to enable it to gain experience and development in the process of evolution. Reincarnation makes effective the relation of the natural law of development with the more specifically spiritual process. It provides opportunities for the unfoldment and interplay of spiritual forces, which, unless the lower planes were responsive periodically to the rhythmic succession of soul activities, would not afford the spirit-nature within the soul the means of evolution. Reincarnation is assumed in the Bible teaching, though little is said of it, and that is because it is an incident,—a mere passing phase,—in the real spiritual life. The Bible might just as well give information regarding the digestive process, sleep, or any other natural vital function, as expound the method of reincarnation, which is quite subordinate to the interests of the soul, and which exists simply as a means whereby it is to attain its end. Nevertheless, to deny the fact of reincarnation is on the face of it absurd, because without it any theory of the gradual evolution of the immortal soul through time, past, present and future, is inexplicable. All the sacred books teach involution and evolution through vast periods, and never hint at special creations of souls, or other things, taking place. Yet such special creations must be assumed if the doctrine of evolution of souls is denied.
+
+> "Why should not every individual man have existed more than once upon this world? ... Why should I not come back as often as I am capable of acquiring fresh knowledge, fresh expertness? Do I bring away so much from once that there is nothing to repay the trouble of coming back? Is this a reason against it? Or because I forget that I have been here already? Happy is it for me that I do forget. [The] recollection of my former condition would permit me to make only a bad use of the present."—Lessing, *Divine Education*, etc.
+
+> "These two systems, the purely spiritual and the sensuous,—which last may consist of an immeasurable series of particular lives,—exist in me from the moment when my active reason is developed, and pursue their parallel course. The former alone gives to the latter meaning and purpose and value. I am immortal, imperishable, eternal, so soon as I form the resolution to obey the law of reason. After an existence of myriad lives, the super-sensuous world cannot be more present than at this moment. Other conditions of my sensuous existence are to come, but these are no more the true life than the present condition is."—J. G. Fichte, *Vocation of Man*, Bk. III.
+
+> "What sleep is for the individual, death is for the Will. It would not endure to continue the same actions and sufferings throughout an eternity, without true gain, if memory and individuality remained to it. It flings them off, and this is lethe; and through this sleep of death it reappears refreshed and fitted out with another intellect, as a new being—'a new day tempts to new shores.' These constant new births, then, constitute the succession of the life-dreams of a Will which in itself is indestructible, until, instructed and improved by so much and such various successive knowledge in a constantly new form it abolishes or abrogates itself."—Schopenhauer, *The World as Will and Idea*.
+
+> "The soul, like the body, has to go through various stages of development, and change very greatly at one phase of experience as compared with another, before it is ready to enter upon its full inheritance. I feel moved to add that I am not at all prepared to say that it is the persons of religious temperament who are in every case the most highly developed of their kind; on the contrary, it is highly probable that, here or hereafter, many of these will have to go back and learn some of the lessons which their fellows are learning now."—R. J. Campbell, *Serm.*, *The Larger Hope*.
+
+See BOAT OF EARTH, DAY AND NIGHT, EXPERIENCE, FORTY (nights), GATHA (kam.), GATHAS (chanting), [GILGOOLEM?], GIRDLE (star), HEAVENLY REGIONS, INCARNATION OF SOULS, JUSTICE, LIBERATION, MAN (born), METEMPSYCHOSIS, NAKEDNESS, NIGHTS (three), PURGATORY, REDEMPTION, REINGA, SAMSARA, SENSE ORGANS, SHEPHERD (good), TABERNACLE, VESTURES, WHEELS OF BIRTH.
+
+### Also in this note: REINGA
+
+A symbol of the mind as the "bridge of manas" from the higher nature to the lower; or of the lower planes.
+
+> "The prevailing idea of the abode of spirits was that they went to the Reinga, which is another name for Po or Hades; the word Reinga literally means the leaping place. The spirits were supposed to travel to the North Cape, or land's end, and there passing along a long, narrow ledge of rock, they leaped down upon a flat stone, and thence slinging themselves into the water by some long sea-weed they entered Po, the Reinga being the passage to it."—R. Taylor, *New Zealand*, p. 103.
+
+> "In a myth of the New Hebrides, the soul runs along the line of hills till he reaches the end of the island, and then he comes to the place of recollection, the Maewo name for which is vat dodona, the stone of thought; if he remembers there his child or his wife, or anything that belongs to him, he will run back and come to life again. In the same place are two rocks with a deep ravine [be]tween them; if the ghost clears this as he leaps across he is forever dead, but if one fails he returns to life again."—R. H. Codrington, *The Melanesians*, p. 279.
+
+The two myths refer to the same esoteric facts of the soul's evolution. The spiritual egos descend periodically to the lower planes in order to incarnate in human bodies; and after physical death, ascend to the higher mental plane (stone of thought). If the egos continue to be attached by desire to the lower life they return, after a period, to re-incarnation; but if they are perfected, they are liberated from the lower nature and return again no more.
+
+See BRIDGE, LIBERATION, PO, REINCARNATION, STONE.
+
+**Corrections made:** page headings `REINGA` and `620 REINS` removed from mid-sentence; `jnexplicable` → inexplicable; `expertnees ?;` → expertness?; `e recollection` → [The] recollection; `preeent` → present; `Lessino` → Lessing; `J7. G. Ficnrs` → J. G. Fichte; `ScHOPENHAUER` → Schopenhauer; `Campsetyt` → Campbell; `spins` → spirits; `trave]` → travel; `hilk` → hills; `lace` → place; `tween` → [be]tween; `Coprineton` → Codrington; `tho` → the; See-list spellings restored (`Day AND NIGHT`, `Forty`, `Gata`, `GatHas`, `Purgatory`, `REDEMPTIOX`, `Po`, `ReINCARNATION`); stray `#` and `_` removed; quotation marks normalised; REINGA split off after its See list.
+
+**Unclear or supplied:** Contains a second entry: REINGA. `[The]` is supplied: the OCR reads "e recollection". `[be]tween` is supplied from `tween`. `GATHA (kam.)` is read from `Gata (kam.)`. `[GILGOOLEM?]` stands for OCR `Gr_cooLEM` (unidentified). `Man _ (borni` read as MAN (born). `Reinga` spelling and the Lessing title are kept as printed.
 
 ## Full OCR entry body (exact)
 

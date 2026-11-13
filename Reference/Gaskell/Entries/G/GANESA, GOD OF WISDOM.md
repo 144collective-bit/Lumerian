@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ganesa-god-of-wisdom
 headword: "GANESA, GOD OF WISDOM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Rat` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAT OF GANESA|RAT OF GANESA]] |
 | `REp (rose)` | **unresolved** (review queue) |
 | `TUsK` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TUSK|TUSK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of atma-buddhi-manas, or the Higher Life.
+
+> "Praise to thee, O Ganesa. Thou art manifestly the truth; Thou art undoubtedly the Creator, Preserver, and Destroyer, the Supreme Brahma, the eternal Spirit. ... By thee was this universe manifested; for thou art earth, water, fire, air, and ether. Thou art Brahma, Vishnu, and Rudra. We meditate on thy countenance; enlighten therefore our understanding. He who continually meditates upon thy divine form, conceiving it to be with one tooth, four hands, bearing a rat on thy banner, of a red hue, with a large belly, anointed with red perfumes, arrayed in red garments, worshipped with offerings of red flowers, abounding in compassion, the cause of this universe, imperishable, unproduced, and unaffected by creation, becomes the most excellent of Yogis."—*Ganapati Upanishad*, Wilkins, p. 331.
+
+The universe is manifested through the Higher Self in the five planes,—physical (earth), astral (water), mental (air), buddhic (fire) and atmic (ether). The "one tooth" signifies power potential; "four hands," activities on the four planes below atma. The "rat" is an emblem of the lower quaternary. The "redness" signifies Divine Love which draws all things to the Self. The "large belly" denotes ability to transmute (digest) the lower qualities into the higher.
+
+See ELEMENTS, FLOWERS, HAND, [HOKMAH?], PERFUME, RAT, RED (rose), TUSK.
+
+**Corrections made:** `they countenance` → thy countenance; `WILKINS` → Wilkins; See-list spellings restored (`Rat`, `REp`, `TUsK`); quotation marks normalised.
+
+**Unclear or supplied:** `[HOKMAH?]`: OCR reads `HoxkMad`, a See-list item read as the likeliest headword.
 
 ## Full OCR entry body (exact)
 

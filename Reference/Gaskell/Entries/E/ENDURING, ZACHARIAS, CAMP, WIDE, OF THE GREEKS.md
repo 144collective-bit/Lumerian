@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enduring-zacharias-camp-wide-of-the-greeks
 headword: "ENDURING, ZACHARIAS, CAMP, WIDE, OF THE GREEKS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Army` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY|ARMY BEING FORMED OF THE PEOPLE OF A COUNTRY]]; [[Reference/Gaskell/Entries/A/ARMY OF THE GODS, OR HOSTS OF THE LORD|ARMY OF THE GODS, OR HOSTS OF THE LORD]] |
 | `GALE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GALE FROM APOLLO|GALE FROM APOLLO]] |
 | `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of freer means for expansion of the mental qualities in the upward growth of the soul.
+
+See ARMY, GALE, GREEKS.
+
+**Corrections made:** `Army` → ARMY; `GALE` unchanged.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

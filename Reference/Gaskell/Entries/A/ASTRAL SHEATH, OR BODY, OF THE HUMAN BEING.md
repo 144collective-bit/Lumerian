@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-astral-sheath-or-body-of-the-human-being
 headword: "ASTRAL SHEATH, OR BODY, OF THE HUMAN BEING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,22 @@ tags:
 | `SHEATHS SxanwpHas` | **unresolved** (review queue) |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `VITAL AIRS. Om oe` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the instrument of the incarnate ego on the astral plane. It contains the mechanism appropriate to the forces of the plane, and the means by which the desires, lower emotions, and sensations function in the soul and are perceived by the lower consciousness on the mental plane.
+
+> "Arranged in numerical order, the seven principles may be described in the following way:— 1. Physical Body. Etheric Double. Jiva. The Astral Vehicle. Manas, Buddhi. 7. Atma.
+>
+> "The Etheric Double is an Etheric rather than an Astral counterpart of the physical body, and at the same time, the intermediate organism through which the Jiva, or life force, influences the whole system. . . . Etheric matter is still physical according to the most accurate classification that can be adopted."—A. P. Sinnett, *Growth of the [Soul]*, pp. 156-7.
+
+The astral body may be taken to be next in order to the physical body, including the etheric double, as the life (jiva) is not a sheath but a directive agency from a higher plane. On the mental plane (manas) there are two sheaths, viz. the causal-body and the mental body. This makes four bodies in which humanity at present manifests. The life force of the lower planes works strictly according to the patterns on the higher planes, the results being modified by obstructions on the lower. The patterns are brought forward, as it were, to the astral-plane where they guide the growth of all animal and vegetable organisms. In the astral body are to be found the apparatus of sensory and motor conduction paths which convey vibrations from the brain and nerves to the mind, and from the mind to the brain and nerves. It must never be forgotten that consciousness is on the mental plane, and not below it.
+
+See [ANDREW?], CASTES, CAUSAL-BODY, CHILDREN OF HORUS, CLASSES, INCARNATION OF SOULS, MARRIAGE (castes), [NreruxrsH?], NET, PRANAS, PROTOTYPES, QUATERNARY, SENSE ORGANS, SHEATHS, SKANDHAS, VESTURES, VITAL AIRS.
+
+**Corrections made:** Page heading `ASTRO-MENTAL` removed from mid-sentence; stray `_` removed; `Suxwett` → Sinnett; `end` → and; `nuotor` → motor; See-list spellings restored (`CasSTES`, `PRaNnAs`, `QuaTERNARY`, `SxanwpHas` → SKANDHAS); the stray trailing noise `Om oe` dropped.
+
+**Unclear or supplied:** `[Soul]` is supplied: the OCR reads `Growth of the pp. 156-7`. The numbered list in the Sinnett quotation is damaged in the OCR (numerals lost between `1.` and `7.`) and is set out as printed. `[ANDREW?]` and `[NreruxrsH?]` are See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

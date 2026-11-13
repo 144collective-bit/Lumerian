@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nu-the-god
 headword: "NU, THE GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `RA` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine powers operating in the hidden universe and subserving the evolution of the soul.
+
+> "I am the great god who created himself, that is to say, I am Water, that is to say, Nu the father of the gods, or as others say, Ra, the creator of the names of his members which turned into the [word unclear]."—*Papyrus of Hunefer*.
+
+From the self-derived Truth-reality (water) proceeds the manifesting Self (Râ) with its differentiated ideals (gods) of the Divine scheme.
+
+See BIRTH OF OSIRIS, GODS, [Hart?], KHEPER, MEMBERS, NAMES, NUT, RA, SELF, WATER.
+
+**Corrections made:** `R&` → Râ; noise `a aaa` and `«AT` removed from the end of the quotation; See-list spellings restored (`BrrTH`, `osiIrRis`, `Gops`, `Names`).
+
+**Unclear or supplied:** The end of the quotation is lost (`[word unclear]`, OCR `a a aaa`). `[Hart?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

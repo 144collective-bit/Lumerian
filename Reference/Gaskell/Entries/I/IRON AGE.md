@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-iron-age
 headword: "IRON AGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Racres` | **unresolved** (review queue) |
 | `Rovunns` | **unresolved** (review queue) |
 | `SCORPIO` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the present period of consciousness, wherein the lower mind is rendered active through the vibrations from the physical plane.
+
+> "And that branch (period) which was mixed with iron is the evil sovereignty of the demons with dishevelled hair of the race of Wrath (Aeshm)."—*Bahman Yast*, Ch. I. 5.
+
+That period of the cycle of evolution which shows the mental and physical natures in combination is the age in which the lower mind, allied with the desires, passions, and instincts, and also deficient of faith in the Divine, is plunged in conflict, sorrow, and suffering. It is the present age, the fourth.
+
+See AESHM, DEMONS, GOLDEN AGE, HAIR, KALI-YUGA, RACES, ROUNDS, SCORPIO.
+
+**Corrections made:** Page heading `IRON` (OCR `FRON`) removed from mid-sentence; See-list spellings restored (`ArsHm`, `Demons`, `Hare` → HAIR, `Kati-yuea`, `Racres`, `Rovunns`).
+
+**Unclear or supplied:** `HAIR` (OCR `Hare`) is a restoration from context.
 
 ## Full OCR entry body (exact)
 

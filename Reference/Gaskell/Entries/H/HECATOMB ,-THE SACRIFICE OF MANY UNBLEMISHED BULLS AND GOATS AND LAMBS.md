@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hecatomb-the-sacrifice-of-many-unblemished-bulls-an
 headword: "HECATOMB ,—THE SACRIFICE OF MANY UNBLEMISHED BULLS AND GOATS AND LAMBS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,22 @@ tags:
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `Vow` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VOW|VOW]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the tribute offered by the lower self to the Higher Self: the tribute being the karmic results of the ethical activity of the mind in the sacrifice of the lower qualities which implies exercise of the higher (unblemished).
+
+> "Let us (said Achilles) consult some prophet or priest, or even one who is informed by dreams,—for dream also is from Jove,—who would tell us on what account Phoebus Apollo is so much enraged with us: whether he blames us on account of a vow unperformed, or a hecatomb unoffered; and whether haply he may be willing, having partaken of the savour of lambs and unblemished goats to avert from us the pestilence."—*Iliad*, Bk. I., trans. Buckley.
+
+An effort is made by the personality (Achilles) through the mind to find authority and sanction for its self-preservative course of action, in the opinion or tradition current at that period of its activity. The "dream, etc." stands for the first theory of religion and life that is at hand. And thus a dim conception is gradually arrived at as to the nature of the activities of the Higher Self (Apollo). But a sense of doubt and uncertainty gains possession of the mind, on the question as to whether the mind is held accountable because it possesses the germ of conscience, or whether it is so from the karmic law of action and reaction exemplified in the moral nature? The mind further inquires, whether it will be that the Higher Self, having accepted the tribute and contribution of the lower self in the thought of loving service (lambs) and sincere faith (unblemished goats), will afford the lower self the means for overcoming the adverse conditions which surround it, and profiting from the destruction of the lower qualities.
+
+> "Then was the noble seer (Kalchas) of good courage, and spake: 'Neither by reason of a vow is Apollo displeased, nor for any hecatomb, but for his priest's sake to whom Agamemnon did despite, and set not his daughter free and accepted not the ransom; therefore hath the Far-darter brought woes upon us, yea, and will bring. Nor will he ever remove the loathly pestilence from the Greeks till we have given the bright-eyed damsel (Chryseis) to her father (Chryse, Apollo's priest), unbought, unransomed, and carried a holy hecatomb to Chryse;—then might we propitiate Apollo to our prayer.'"—*Ibid.*
+
+Then the inner memory (Kalchas) of the soul's true nature comes into play. Not on account of the surrender of the lower self to a partial conception of higher activities and cosmic law, nor because of the limiting and binding nature of the karmic order on the lower planes, will the indwelling Self (Apollo) fail to express its latent,—or as yet unmanifest,—potencies for good, but for the sake of restoring to action the spiritual mind (priest),—to which the desire-mind (Agamemnon) was opposed which took the intuition of Truth (Chryseis) captive, and would not seek to recover that which was to ransom the intuition, namely, by treasure or higher qualities above. Hence the Self is the means of disquieting the lower self. Nor will the erroneous theories of the lower mind be got rid of until the intuition of Truth is recovered by the inner memory, and voluntary effort is made on the part of the lower self to raise the consciousness to the spiritual understanding, in which case the reconciliation between the Higher Will (Apollo) and the lower mind will have been effected. See ACHILLES, AGAMEMNON, APOLLO, BLOOD OF BULLS, BURNT OFFERING, CHRYSE, CHRYSEIS, CONSCIENCE, GREEKS, HIDING, INTUITION, KALCHAS, KARMA, PAPYRUS, PERSONALITY, PESTILENCE, RANSOM, RELIGION, ROASTED, SACRIFICE, SAVOUR, TREASURE, VOICE, VOW.
+
+**Corrections made:** `Phobus` → Phoebus; `Hatt` → goats; `liad` → Iliad; `selfpreservative` → self-preservative; `ite` → its; `atrived` → arrived; `over348 HECTOR coming` → overcoming (page heading `348 HECTOR` removed); stray `_` removed; See-list spellings restored (`BLioop`, `Greeks`, `Hipina`, `IntuITION`, `KarMa`, `Vow`); quotation marks normalised.
+
+**Unclear or supplied:** `goats` is restored from OCR `Hatt` on the strength of the later "unblemished goats". `PAPYRUS` in the See list left as printed.
 
 ## Full OCR entry body (exact)
 

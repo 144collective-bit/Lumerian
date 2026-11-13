@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moonlight
 headword: "MOONLIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `As¥RraL Miyi (lower)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral light which conveys but distorts truth.
+
+> "If the unseen is ever to rule in men's lives, it must be through their thoughts. It must become intelligible, clear, real. It must be brought out of the flickering moonlight of fancy and surmises into the sunlight of certitude and knowledge."—A. Maclaren, *Sermons*, 2nd Series, p. 141.
+
+See ASTRAL MIND (lower).
+
+**Corrections made:** `Hight` → light; `Mactanen` → Maclaren; `As¥RraL Miyi` → ASTRAL MIND; page heading `MOON-LIKE` removed from mid-quotation.
+
+**Unclear or supplied:** The See item is a reading of the damaged `As¥RraL Miyi (lower)`.
 
 ## Full OCR entry body (exact)
 

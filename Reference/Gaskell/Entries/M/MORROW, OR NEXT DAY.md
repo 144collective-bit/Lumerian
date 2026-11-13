@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-morrow-or-next-day
 headword: "MORROW, OR NEXT DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `BENNU BIRD` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BENNU BIRD|BENNU BIRD]] |
 | `SERIDES OF FHE SOUL` | **unresolved** (review queue) |
 | `WALKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a subsequent period and stage of progress in development.
+
+> "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof."—Matt. vi. 34.
+
+> "Jesus is seen (John i. 35) by the witness-bearer coming to him while he is still advancing and growing better. This advance and improvement is symbolically indicated in the phrase, 'on the morrow.' For Jesus came in the consequent illumination, as it were, and on the day after what had preceded."—Origen, *Comm. on John*, Bk. VI. § 30.
+
+See BENNU BIRD, SERIES OF THE SOUL, WALKING.
+
+**Corrections made:** `Mart.` → Matt.; `JOHN` → John; `Onicen` → Origen; `SERIDES OF FHE SOUL` → SERIES OF THE SOUL.
+
+**Unclear or supplied:** SERIES OF THE SOUL is a reading of the damaged `SERIDES OF FHE SOUL`.
 
 ## Full OCR entry body (exact)
 

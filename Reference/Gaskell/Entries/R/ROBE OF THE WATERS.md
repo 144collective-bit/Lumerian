@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-robe-of-the-waters
 headword: "ROBE OF THE WATERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Focus` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOCUS, BURNING|FOCUS, BURNING]] |
 | `TCHEFET` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TCHEFET, IN SEKHETHETEPET|TCHEFET, IN SEKHETHETEPET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the vesture of Wisdom enwrapping the liberated Self.
+
+> "O Tchefet! I have come into Thee; I have cast about me the robe of the waters; I have girt myself with the girdle of knowledge."—*Book of the Dead*, Ch. CX.
+
+The Self is seen to be as a centre wherein all the rays of the Divine Life are focused into one Supernal Light, and about the Divine nature is the garment and girdle of Truth (water) and of Wisdom,—the buddhic and causal vestures.
+
+See FOCUS, TCHEFET.
+
+**Corrections made:** page heading `635 ROCK` removed from mid-sentence; `Seif` → Self; `“QO` → "O; `Focus` → FOCUS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

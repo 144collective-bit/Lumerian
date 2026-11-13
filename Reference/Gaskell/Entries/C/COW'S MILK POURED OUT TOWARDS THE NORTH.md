@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow-s-milk-poured-out-towards-the-north
 headword: "COW'S MILK POURED OUT TOWARDS THE NORTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Bupp#HI` | **unresolved** (review queue) |
 | `NortH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NORTH LAND AND SOUTH LAND|NORTH LAND AND SOUTH LAND]]; [[Reference/Gaskell/Entries/N/NORTH QUARTER|NORTH QUARTER]] |
 | `WIspoM. COWS’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of Wisdom which, descending upon the lower planes, immersed in ignorance, becomes inverted and actuates as craft and cunning in the lower nature. See BUDDHI, NORTH, WISDOM.
+
+**Corrections made:** `Bupp#HI` → BUDDHI; `NortH` → NORTH; `WIspoM` → WISDOM; trailing page heading `COWS'` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

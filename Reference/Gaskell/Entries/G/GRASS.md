@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grass
 headword: "GRASS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Dew` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEW OR MIST TO MOISTEN VEGETATION|DEW OR MIST TO MOISTEN VEGETATION]] |
 | `Grvonaa` | **unresolved** (review queue) |
 | `HEBB` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the condition of awakenment of the Divine life in the lower nature of the soul.
+
+> "And God said, Let the earth put forth grass."—Gen. i. 11.
+
+And the Supreme now directs that the earliest beginnings of the Divine life shall proceed to manifest. The "grass" symbolises the faint aspiration arising from the lower nature in the dawn of light and life. Grass upsprings from the soil which is sluggish and inert,—the mineral form of life.
+
+> "By grass is signified that [good] and truth of the church or of faith, which first springs up in the natural man; the same also is signified by the herb of the field."—Swedenborg, *Apoc. Rev.*, n. 401.
+
+See DEW, [Grvonaa?], HERB.
+
+**Corrections made:** `upeprings` → upsprings; `SwEDFNBORG, A poc.` → Swedenborg, Apoc.; `HEBB` → HERB; `Dew` → DEW; quotation marks normalised.
+
+**Unclear or supplied:** `[good]` supplied: OCR reads "that and truth". A stray `D` in OCR "By D grass" is omitted. See-list item `[Grvonaa?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

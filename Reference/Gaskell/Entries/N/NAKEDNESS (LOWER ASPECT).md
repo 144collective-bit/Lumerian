@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nakedness-lower-aspect
 headword: "NAKEDNESS (LOWER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `CLOTHING` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CLOTHING|CLOTHING]] |
 | `EvE` | resolved (first-segment) → [[Reference/Gaskell/Entries/E/EVE, WIFE OF ADAM|EVE, WIFE OF ADAM]] |
 | `GARMENTS (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of ignorance, a lack of ideas and opinions (clothes). As all external states have analogous reference to internal states, this condition is emblematic of an empty state of soul.
+
+> "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig-leaves together, and made themselves aprons."—Gen. iii. 7.
+
+And both the emotions and the mind perceive their utter nakedness or ignorance, that is, they recognise the necessity for further evolution. Fig leaves, so used, signify concealment of the inward growth of the Spirit.
+
+> "Now when Adam and Eve were awakened in the bestial property, the beast stood there naked and bare. When the Image of the Heavenly Essence did disappear, then the bestial property was manifest."—Boehme, *Magnum*, p. 96.
+
+> "By nakedness is signified ignorance of truth."—Swedenborg, *Apoc. Rev.*, n. 706.
+
+See ADAM (lower), CLOTHING, EVE, GARMENTS (lower).
+
+**Corrections made:** `GEN.` → Gen.; stray symbols and page heading `+ + — a | 3 NAKULA` removed from mid-sentence; `SwEpENBORG` → Swedenborg; See-list spellings restored (`Apam`, `EvE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

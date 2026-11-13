@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-leopard
 headword: "LEOPARD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,18 @@ tags:
 | `n. 572. See Cow (spotted)` | **unresolved** (review queue) |
 | `Sporrep` | **unresolved** (review queue) |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the opinionative lower mind full of [errors?] mingled with truths. The lower qualities, are, as it were, devoured by the lower mind.—See Jer. v. 6.
+
+> "Signifies the truths of the World falsified, owing to its black and white spots, for by the black spots are signified falses, and by the white intermixed with them is signified truth; as therefore it is a fierce and murderous beast, it signifies the truths of the Word falsified and thus destroyed."—Swedenborg, *Apoc. Rev.*, n. 572.
+
+See COW (spotted), SPOTTED, WHITE.
+
+**Corrections made:** Page heading `449 LETTER` removed from mid-sentence; `JER. Vv. 6` → Jer. v. 6; `spote` → spots; See-list spellings restored (`Sporrep`).
+
+**Unclear or supplied:** `[errors?]` is supplied: the OCR reads "full of mingled with truths", dropping a word.
 
 ## Full OCR entry body (exact)
 

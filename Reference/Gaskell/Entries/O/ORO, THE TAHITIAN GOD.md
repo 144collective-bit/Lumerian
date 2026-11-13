@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-oro-the-tahitian-god
 headword: "ORO, THE TAHITIAN GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `TUFARA` | **unresolved** (review queue) |
 | `VAIRAUMATI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VAIRAUMATI, DAUGHTER OF MAN|VAIRAUMATI, DAUGHTER OF MAN]]; [[Reference/Gaskell/Entries/V/VAIRAUMATI, VAPOUR, HODER|VAIRAUMATI, VAPOUR, HODER]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol [of] the Logos or Higher Self.
+
+> "Oro, the son of Taaroa, desired a wife from the daughters of Taata, the first man; he sent two of his brothers to seek among the daughters of man a suitable companion for him."—Ellis, *Polynesian Researches*, Vol. I. p. 231.
+
+The Logos, whose parent was the Absolute, desired to manifest in the soul, and sought that whereby he might do so. The "first man" signifies the mind: the "daughters" are the emotions. The "two brothers" are the remaining aspects of the Higher Self.
+
+See HEAVENLY REGIONS, HOA, MAN, RAINBOW, TAAROA, TAATA, TUFARA, VAIRAUMATI, WOMAN.
+
+**Corrections made:** `@` → a; `ELLis` → Ellis; See-list spellings restored (`Rarnpow`, `Taaroa`, `TaatTa`, `Hoa`, `Man`).
+
+**Unclear or supplied:** `[of]` is supplied: the OCR reads "A symbol the Logos".
 
 ## Full OCR entry body (exact)
 

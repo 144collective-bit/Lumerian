@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-euneus-and-nebrophonus
 headword: "EUNEUS AND NEBROPHONUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `HypsrpyLe` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HYPSIPYLE, DAUGHTER OF THOAS|HYPSIPYLE, DAUGHTER OF THOAS]] |
 | `Lemnos` | resolved (first-segment) → [[Reference/Gaskell/Entries/L/LEMNOS ISLAND|LEMNOS ISLAND]] |
 | `THoas` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THOAS, FATHER OF HYPSIPYLE|THOAS, FATHER OF HYPSIPYLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Love and Truth.
+
+> "Hypsipyle became by Jason the mother of two sons, Euneus and Nebrophonus."—*Argonautic Expedition*.
+
+The philosophic intellect is then united with the intuition,—the expression of the Higher Self,—and the union gives birth to the qualities of love and truth.
+
+See HYPSIPYLE, LEMNOS, THOAS.
+
+**Corrections made:** page heading `253 EUNUCHS` removed from mid-text; See-list spellings restored (`HypsrpyLe`, `THoas`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manas-manasic
 headword: "MANAS, MANASIC"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `MaisHaNn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
 | `Sworps` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SWORDS, TWO|SWORDS, TWO]] |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mind, mentality, or the mental plane, below the buddhic plane.
+
+> "Place thy manas in me (Krishna), into Me let thy understanding enter; then without doubt thou shalt abide in Me hereafter."—*Bhagavad Gita*, XII. 8.
+
+Devote thy mind (manas) to the service of the Most High, and harmonise thy higher emotions with the inner Self, then, O soul! thou shalt be liberated from the life below, and be united unto God for ever.
+
+See BUDDHI, BRIATIC WORLD, INTELLECT, LIBERATION, [Manat?], MAISHAN, SWORDS, THOTH.
+
+**Corrections made:** `BakHDHI` → BUDDHI; `BREATIC` → BRIATIC; `MaisHaNn` → MAISHAN; `Sworps` → SWORDS.
+
+**Unclear or supplied:** `[Manat?]` in the See list is uncertain.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-faith-to-do-miracles
 headword: "FAITH TO DO MIRACLES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,26 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `LovE oF PROPHECY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The spiritual knowledge born of experience in the bringing of the lower nature into harmonious relation with the higher. This brings about adjustments of qualities and the evolution of higher faculties.
+
+> "If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."—Matt. xvii. 21.
+
+If the disciplined qualities have spiritual knowledge comparable to a small seed which is capable of developing into a great tree, then shall they be able to remove a spiritual difficulty (a mountain); but the knowledge must be sufficient to effect the adjustment required. To the indwelling Spirit nothing is impossible in the line of evolution.
+
+> "I can do all things through Christ which strengtheneth me."—Phil. iv. 13.
+
+> "If I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing."—1 Cor. xiii. 2.
+
+If the soul have the buddhic faculty of intuition (prophecy) and all intellectual knowledge of the invisible universe and the soul-process, and also have spiritual perception so as to solve difficulties of the lower mind, and yet be deficient in selfless love of the ideal, it is stagnant and unprogressive.
+
+See LOVE OF PROPHECY.
+
+**Corrections made:** page heading `263 FALL` removed from mid-sentence; `Mart.` → Matt.; `Puit.` → Phil.; `‘*T` → "I; `vet` → yet; `LovE oF` → LOVE OF; quotation marks normalised.
+
+**Unclear or supplied:** The See list is printed as `See LOVE OF PROPHECY` in the OCR, possibly two items run together; left as printed.
 
 ## Full OCR entry body (exact)
 

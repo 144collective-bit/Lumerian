@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cabin-of-afu-ra
 headword: "CABIN OF AFU-RA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,16 @@ tags:
 | `Lams` | **unresolved** (review queue) |
 | `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
 | `SARINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the innermost shrine of the causal-body, or World-soul, on the buddhic plane. It signifies the confinement or involution of Spirit in Matter, and stands for the Incarnation of Râ (Afu meaning flesh), or the sacrifice of the "Lamb of God" symbolised by the ram-headed Râ, the Divine Ram sacrificed in matter, for the redemption of mankind.
+
+See ADYTUM, AFU-RA, CANOPY, CAUSAL-BODY, CRUCIFIXION OF CHRIST, HEART, INCARNATION, LAMB, RAM, SHRINE.
+
+**Corrections made:** page heading `135 CAIAPHAS` removed from mid-sentence; `R&A` → Râ; `ramheaded R&` → ram-headed Râ; See-list spellings restored (`ApytTum`, `Aru-RA`, `Lams`, `SARINE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

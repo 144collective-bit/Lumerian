@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chthonie-earth
 headword: "CHTHONIE (EARTH)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Eartu` | **unresolved** (review queue) |
 | `OPHIONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/OPHIONEUS, THE SERPENT|OPHIONEUS, THE SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature, kama-manas—desire-mind. [the] under-world, or matter.
+
+See EARTH, OPHIONEUS.
+
+**Corrections made:** `kama - manas` → kama-manas; `Eartu` → EARTH.
+
+**Unclear or supplied:** `[the]` supplied for OCR stray `t` before `under-world`.
 
 ## Full OCR entry body (exact)
 

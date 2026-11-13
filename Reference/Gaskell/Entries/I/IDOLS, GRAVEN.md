@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-idols-graven
 headword: "IDOLS, GRAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the objects of sense regarded as an end in themselves. "Idols graven in stone" signify the ideals inverted,—the mistaking of the shadow for the substance, due to the sense of separateness, and supposing the part to be the whole.
+
+> "Ashamed be all they that serve graven images, that boast themselves of idols."—Ps. xcvii. 7.
+
+See SEPARATION.
+
+**Corrections made:** `ven images` → graven images.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cattle-of-nomads
 headword: "CATTLE OF NOMADS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JABAL. CATTLE OF TRAILING GAIT :;— A symbol of high emotions produced through the slow progress of evolution` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of useful transient emotions, within more permanent forms.
+
+See JABAL.
+
+### Also in this note: CATTLE OF TRAILING GAIT
+
+A symbol of high emotions produced through the slow progress of evolution.
+
+**Corrections made:** page heading `CATTLE` removed from mid-sentence; second headword `CATTLE OF TRAILING GAIT :;—` set under its own heading.
+
+**Unclear or supplied:** Contains a second entry: CATTLE OF TRAILING GAIT.
 
 ## Full OCR entry body (exact)
 

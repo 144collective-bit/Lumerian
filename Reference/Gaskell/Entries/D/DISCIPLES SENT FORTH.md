@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-disciples-sent-forth
 headword: "DISCIPLES SENT FORTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,20 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `SHEEP TREADING` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the disciplined qualities freed from reliance upon objects of the external life, and directed to purify the life within.
+
+> "Go not into any way of the Gentiles, and enter not into any city of the Samaritans: but go rather to the lost sheep of the house of Israel."—Matt. x. 5, 6.
+
+The advanced qualities are instructed not to interfere with those natural qualities which have their due place temporarily in the external order, nor seek to influence qualities as yet unprepared for the inner light; but to seek rather to bring Truth and Love to the qualities or virtues having in them the spiritual germ, the Divine Spark that has gone astray from the Eternal "Fire" in order to acquire knowledge through experience, and be found again of the Spirit. These "lost ones" require instruction which will enable them to find the path to heaven.
+
+See SHEEP, TREADING.
+
+**Corrections made:** `Mar.` → Matt.; `tho` → the; and similar minor fixes.
+
+**Unclear or supplied:** The See list reads `SHEEP TREADING` in the OCR; a comma was added.
 
 ## Full OCR entry body (exact)
 

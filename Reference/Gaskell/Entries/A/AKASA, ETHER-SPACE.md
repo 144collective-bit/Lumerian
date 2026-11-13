@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-akasa-ether-space
 headword: "AKASA, ETHER-SPACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Brauma` | **unresolved** (review queue) |
 | `Miyid (higher)` | **unresolved** (review queue) |
 | `MorsEer (divine)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial matter which brought forth from within it the Second Logos, the Word, or Higher Self.
+
+> "First in order, Akâsa, 'ether,' with the distinguishing property of sound, or in other words, the substratum of sound (which sound is the wishaya or object for a corresponding organ of sense, the ear). Footnote,—The Râmâyana, II. 110, 5, makes Brahmâ spring from ether, but the Epic and Puranic accounts of akâsa are very inconsistent. Some say that it was created and is perishable, others that it was not created and is eternal."—Mon. Williams, *Indian Wisdom*, p. 93.
+
+> "He (Brahman) who, dwelling in the Âkâsa, is distinct from âkâsa, whom the Âkâsa knows not, whose body the Âkâsa is, who rules the âkâsa from within, he is thy soul, the inner guide, the immortal."—*Brihad. Upanishad*, III. 7, 12.
+
+> "It is the âkâsa, out of which all these creatures proceed, and into which they are again received, the Âkâsa is older than they all, the âkâsa is the ultimate end."—*Khand. Upanishad*, I. 9, 1.
+
+See BRAHMA, MAYA (higher), MOTHER (divine),
+
+**Corrections made:** `Akdsa` → Akâsa; `Raméyana` → Râmâyana; `Brahm&` → Brahmâ; `ak&sa`, `A&kAsa` → âkâsa/Âkâsa; stray `©` removed; `Indien Wtedom` → Indian Wisdom; `ITI.` → III.; See-list spellings restored.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR; it appears to be cut short.
 
 ## Full OCR entry body (exact)
 

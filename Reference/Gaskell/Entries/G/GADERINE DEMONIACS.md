@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gaderine-demoniacs
 headword: "GADERINE DEMONIACS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Grants` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GIANTS, NEPHILIM, MIGHTY MEN|GIANTS, NEPHILIM, MIGHTY MEN]] |
 | `NEPHILIM` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHILIM OR GIANTS|NEPHILIM OR GIANTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of unbalanced mental conditions at a very early stage of evolution. These having had some glimpses of truth and higher emotion presented to them, had rejected the higher light, not being ready to receive it. These low conditions were doomed to extinction in the soul, as fuller mentality evolved.
+
+See GIANTS, NEPHILIM.
+
+**Corrections made:** Page headings `DBOPNER, NANNA, GAGATI` removed from mid-sentence; `Grants` → GIANTS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

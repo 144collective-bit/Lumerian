@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-food-for-man
 headword: "FOOD FOR MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `MratT` | **unresolved** (review queue) |
 | `Noa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of sustenance for the mind in knowledge and experience gained through the senses and the activities of the lower nature, during lives on earth.
+
+> "And take thou unto thee of all food that is eaten, and gather it to thee; and it shall be for food for thee and for them. Thus did Noah."—Gen. vi. 21.
+
+The "food" which is to be taken is the experience which is to be gathered and appropriated. This is to be, first, for the Self or Individuality (Noah), and, second, for the maintenance of those functions and qualities which are to further the growth of the soul.
+
+See ARK, EXPERIENCES, FEEDING, MAN, MEAT, NOAH.
+
+**Corrections made:** `end it shall be` → and it shall be; `forthem` → for them; `GEn.` → Gen.; `Mratt, Noa` → MEAT, NOAH; See-list capitalisation restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

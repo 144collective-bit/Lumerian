@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-oxen-offspring-of
 headword: "OXEN, OFFSPRING OF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ox (draught). OXEN’` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of qualities which are begotten of reverence, patience and submission. See OX (draught).
+
+**Corrections made:** Stray page heading `OXEN'` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

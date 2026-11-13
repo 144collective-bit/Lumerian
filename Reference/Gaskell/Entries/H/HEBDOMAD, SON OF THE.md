@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hebdomad-son-of-the
 headword: "HEBDOMAD, SON OF THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,18 @@ tags:
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `KINGLY GLORY` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KINGLY GLORY|KINGLY GLORY]] |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Son of God, or God manifest on the higher planes.
+
+> "The light, therefore, which came down from the Ogdoad above to the Son of the Hebdomad, descended from the Hebdomad upon Jesus the son of Mary, and he had radiance imparted to him by being illuminated with the light that shone upon him. This, he says, is that which has been declared: 'The Holy [Spirit] will come upon thee,' meaning that which proceeded from the Sonship through the conterminous spirit upon the Ogdoad and Hebdomad, as far as Mary." (System of Basilides)—Hippolytus, *Refutation*, etc., Bk. VII. 14.
+
+So from the Highest, the Divine Ray, which had already been latent within the Supreme (the Ogdoad), went forth unto Him who was the only begotten of the Highest, and descended through the upper planes to illumine the personal aspect of the Self,—the Christ-soul,—born of the purified portion of the lower nature (Virgin Mary). And the purified nature was made radiant with love and truth, through the Divine Light which was caught by Him to whom the purified nature had given birth. See BIRTH OF JESUS, OF KRISHNA, OF ZOROASTER, GLORY (divine), JESUS, KINGLY GLORY, VIRGIN MARY.
+
+**Corrections made:** `Hirro.ytus` → Hippolytus; stray `_` removed; quotation marks normalised.
+
+**Unclear or supplied:** `[Spirit]` supplied: the OCR reads "The Holy a will come upon thee".
 
 ## Full OCR entry body (exact)
 

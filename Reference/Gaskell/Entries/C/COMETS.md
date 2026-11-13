@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-comets
 headword: "COMETS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `CONFLAGRATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CONFLAGRATION, GENERAL|CONFLAGRATION, GENERAL]] |
 | `KALKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/K/KALKI AVATAR OF VISHNU|KALKI AVATAR OF VISHNU]]; [[Reference/Gaskell/Entries/K/KALKI KALI-YUGA|KALKI KALI-YUGA]] |
 | `RENOVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RENOVATION OF THE EARTH|RENOVATION OF THE EARTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of elemental disruptive forces at the close of a manvantara. They are liberated primarily on the mental plane, and produce feelings of unrest and disquietude which are reflected upon the astral and physical planes, and precede physical dissolution. The mind and will are able to control them until the decree of the Absolute is to be fulfilled.
+
+See AAT (waters), CONFLAGRATION, KALKI, RENOVATION.
+
+**Corrections made:** `umrest` → unrest; page heading `167 COMPARTMENTS` removed from mid-sentence; `AatT` → AAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

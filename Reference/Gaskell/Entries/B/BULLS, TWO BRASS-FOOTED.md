@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bulls-two-brass-footed
 headword: "BULLS, TWO BRASS-FOOTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `GOLDEN FLEECE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD|GOLDEN FLEECE, FROM THE GOLDEN OR PURPLE RAM OF GOD]]; [[Reference/Gaskell/Entries/G/GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES|GOLDEN FLEECE, SHIELD, SAMAN (CONCILIATION) VERSES]] |
 | `HEPHAISTOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of desire and reason on the lower mental plane.
+
+> "The King Aetes assented to give up the Golden Fleece, provided Jason could yoke the brass-footed bulls. These were the gifts of Hephestus to Aetes, in number two, and breathing flame from their throats."—*Argonautic Expedition*.
+
+The Supreme consents to endow the soul with Wisdom, providing that the soul is able to completely control the dual aspects of the lower self, which are the desire principle and the reason. These were the gifts to the Supreme of experience, by Him (Hephestus) who had overcome the lower planes, and they breathed forth "flame" or burning desire,—having not yet been quelled or mastered.
+
+See ARGONAUTS, BRASS, CADMUS, GOLDEN FLEECE, HEPHAISTOS, JASON.
+
+**Corrections made:** `Metes` → Aetes; `Brass` → BRASS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phalliphoria-priapeia-or-dionysia
 headword: "PHALLIPHORIA, PRIAPEIA, OR DIONYSIA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `VINE. PHANES` | **unresolved** (review queue) |
 | `GOD THE Ma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Rites in which the generative function is made the symbol of the creative function in the union of spirit and matter. As soon as the Self or Spirit is born within the soul, a new order of the manifest is initiated. In this new order the Spirit begins to interact with the purified matter of its environment, and a creative function is established, by means of which higher qualities are produced, and the growth of consciousness is effected.
+
+> "Priapus (son of Dionysus and Aphrodite) was regarded as the promoter of fertility both in vegetation and in all animals connected with an agricultural life; and in this capacity he was worshipped as the protector of flocks of [word unclear] and goats, of bees, of the vine, of all garden produce, and even of fishing."—*Smith's Class. Dict.*
+
+The Self working within the activities of the lower nature brings about growth of the higher qualities in every department of life.
+
+See AGRICULTURE, BEES, CATTLE, CHILD, FISH, GENERATIVE FUNCTION, [Mrrgras?], PASTORAL, RITES, SEXUAL, SHEEP, VINE.
+
+### Also in this note: PHANES, GOD THE Ma
+
+**Corrections made:** `Dict The Self` → Dict. The Self; page heading `| PHANES` removed from before the See list; See-list spellings restored (`Bers`, `CuILp`, `Fiso`, `Pasrorat`, `Rrres`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `aoe`. See-list item `[Mrrgras?]` could not be identified. Contains a second entry: PHANES, GOD THE Ma; the OCR breaks off after `Ma` (probably `MAN`), with no definition.
 
 ## Full OCR entry body (exact)
 

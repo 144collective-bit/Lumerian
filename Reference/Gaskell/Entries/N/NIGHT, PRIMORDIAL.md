@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-night-primordial
 headword: "NIGHT, PRIMORDIAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,26 @@ tags:
 | `TuatT` | **unresolved** (review queue) |
 | `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of potential being, or of the cycle of life in the underworld,—the planes of the quaternary,—wherein the Higher Self (sun) is unapparent to the lower consciousness.
+
+> "Night, then, is the Mother of the Gods, or as Orpheus says, 'the Nurse of the Gods is immortal Night' (Proclus in Crat., p. 57). . . . Hermias (Phaedr., p. 144) tells us that of the three Nights, Orpheus 'ascribes to the first the gift of prophecy, but the middle [Night] he calls humility, and the third he says, gave birth to righteousness.' . . . 'And so she (Night) brought forth Earth and wide Heaven, so as to manifest visible from invisible.'"—G. R. Mead, *Orpheus*, pp. 171, 172.
+
+The Life-cycle brings forth the higher qualities (Gods) in the Soul, or, the Soul-process of involution and evolution sustains and nourishes the ideals (Gods). The three stages of the Cycle are, first, Involution, predictive of what follows; second, Rest or latency, the lowest state; and third, Evolution which brings forth perfection in qualities and souls. The Cycle of manifestation produces the lower and the Higher, so that the consciousness may discern the difference between them, and forsake illusion for Reality.
+
+> "The daughter of Odin by Night was Jord, the Earth, who became also his wife, and the mother of Asa-Thor. Yet Frigga was also his wife, and therefore was Jord but another name of Frigga."—Howitt, *Literature of North*, Vol. I. p. 42.
+
+The Spirit (Odin) begets in the Cycle (Night) the lower nature (Earth) which, in course of evolution, through the descent of Spirit into human forms, brings forth the higher mind (Asa-Thor). Yet buddhi (Frigga) is allied with Atma (Odin), whereby the lower nature becomes transmuted into buddhi at the Cycle's end.
+
+> "The night of this dark life of ours; what comes after this life is, as it were, the dawn of day."—Origen, *Comm. on John*, Bk. X. § 13.
+
+See CAVE, CIRCLE OF EXISTENCE, COW (black), CREATION, DARKNESS, EARTH, EVOLUTION, [Faricea?], GODS, HEAVEN, INVOLUTION, NOX, NURSE, ODIN, PRALAYA, QUATERNARY, SABBATH, SAMBARA, TANAOA, TUAT, UNDERWORLD, ZODIAC.
+
+**Corrections made:** `underworld',` → underworld,; `rays` → says; `Pheedr.` → Phaedr.; `Frigya` → Frigga; `AsaThor` → Asa-Thor; `OnricEN` → Origen; page heading `NIGHT` removed from mid-sentence; See-list spellings restored (`CIROLE`, `Earnte`, `Evoxrvurion`, `Invo.vurTion`, `Oprm`, `SaAMBARA`, `TuatT`, and similar).
+
+**Unclear or supplied:** `[Faricea?]` is an unidentified See-list item. The stray quotation mark after `underworld` was dropped.
 
 ## Full OCR entry body (exact)
 

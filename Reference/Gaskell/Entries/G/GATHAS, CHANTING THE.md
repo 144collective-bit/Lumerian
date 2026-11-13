@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gathas-chanting-the
 headword: "GATHAS, CHANTING THE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `REMINISCENCE` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/REMINISCENCE OR MEMORY|REMINISCENCE OR MEMORY]] |
 | `SPENTO` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of meditation in tune with the Infinite, so raising the consciousness as to be able to recover the memory of all past lives of the ego.
+
+> "Then thou wouldest sit down, chanting the Gathas, and consecrating the good waters and the fire of Ahuramazda, and extolling the righteous man coming from near and far."—*Hadokht Nask*, Haug, *Essays*, p. 221.
+
+Then by raising the consciousness through meditation, thou will be able to recover the past experiences collected in the causal sheath, and wilt be able to dedicate thyself to the pursuit of truth and to the love of God. "Extolling the righteous man, etc." signifies the exaltation of the purified mind, and of the lower self, which when united make for righteousness.
+
+See CAUSAL-BODY, CONSCIOUSNESS, EXPERIENCES, FIRE, FORENOON, HYMN SINGING, [KAXTCHAS?], LITANY, MAN (righteous), RE-INCARNATION, REMINISCENCE, SPENTO.
+
+**Corrections made:** `Hava` → Haug; `tho` → the; `Lives` → lives; page heading `305 GE` removed from inside `Ahura305 GE mazda` (→ Ahuramazda); See-list spellings restored (`Hymn SINGING`, `Litany`, `Man`); quotation marks normalised.
+
+**Unclear or supplied:** `[KAXTCHAS?]`: OCR reads `KaxtcHas`, a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

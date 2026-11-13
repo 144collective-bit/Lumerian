@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-durva-brick-of-the-altar
 headword: "DURVA-BRICK, OF THE ALTAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,36 @@ tags:
 | `Haves` | **unresolved** (review queue) |
 | `HELL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HELL, HEL, HADES, SHEOL|HELL, HEL, HADES, SHEOL]] |
 | `PURGATORY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PURGATORY|PURGATORY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality, or the lower self in the mental body.
+
+> "Inasmuch as he lays down the dviyagus brick close to the durva-brick (cattle),—the durva-brick being the breath and the dviyagus the Sacrificer,—those two bodies of his (human and divine) thus become connected by breath."—*Sata. Brâh.*, VII. 4, 2, 20.
+
+The two centres of consciousness,—the Individuality and the Personality,—are interconnected upon the mental plane. The human personality is the expression on the lower planes of the Divine individuality.
+
+See ALTAR (fire), BREATH, BRICKS, DVIYAGUS, PERSONALITY, SACRIFICER.
+
+### Also in this note: DUR-YODHANA, "DIFFICULT TO BE SUBDUED"
+
+A symbol of the desire-mind, the principle of kama-manas.
+
+> "Dur-yodhana (like Ravana) is a visible type of the evil principle in human nature for ever doing battle with the good and divine principle, symbolised by the five sons of Pandu."—Mon. Williams, *Indian Wisdom*, p. 383.
+
+The "hundred brothers" of Duryodhana are the desires.
+
+See ADVERSARY, DEVIL, KURUS, PANDAVAS, RAVANA.
+
+### Also in this note: DURIRA, DUSAHK ABYSS
+
+A symbol of the lower planes, the arena of the desire-mental activities; the lower life of suffering and discipline in which the incarnating egos find themselves.
+
+See BRIDGE (kinvat), GARODMAN, HADES, HELL, PURGATORY.
+
+**Corrections made:** `Br&h.` → Brâh.; `Witiiams` → Williams; `Dvryacus` → DVIYAGUS; `AtTaR` → ALTAR; `Kurvus` → KURUS; `BrincE` → BRIDGE; `Haves` → HADES; page heading `OF DUR-YODHANA` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** Contains two further entries: DUR-YODHANA and DURIRA, DUSAHK ABYSS. The headword of the third is read from OCR `Durira, DUSAHK ABYSS ~—`; `Durira` may be a stray running head, kept as printed.
 
 ## Full OCR entry body (exact)
 

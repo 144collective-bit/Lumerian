@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pot-palace-wooden-palace-house-of-bondage
 headword: "POT, PALACE, WOODEN PALACE, HOUSE OF BONDAGE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `Wartrer` | **unresolved** (review queue) |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an early state of the soul in which the indwelling Spirit is in bondage to the lower instincts, desires, and sensations.
+
+> "The Lord thy God which brought thee forth out of the land of Egypt, out of the house of bondage; who led thee through the great and terrible wilderness, wherein were fiery serpents and scorpions, and thirsty ground where was no water."—Deut. viii. 14, 15.
+
+The Divine Will leads the chosen qualities of the soul from a state of subservience to the desire-nature, into another condition full of trouble and suffering, in which desires and passions are rampant, and the lower nature is steeped in ignorance.
+
+See BONDAGE, CAPTIVITY, DRY, EGYPT, EXODUS, [Hrrmes?], HOUSE, ISRAELITES, MOSES, PASSOVER, ROCK (spir.), SCORPION, SERPENT, THIRST, WATER, WILDERNESS.
+
+**Corrections made:** page heading `HOUSE` removed from mid-sentence ("trouble and HOUSE suffering"); `DEvT.` → Deut.; See-list spellings restored (`Bonpaae`, `Captiviry`, `Ecypr`, `Wartrer`, `Horse`, and similar).
+
+**Unclear or supplied:** `[Hrrmes?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

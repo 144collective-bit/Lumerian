@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boar-avatar-of-vishnu
 headword: "BOAR AVATAR OF VISHNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `VEDA` | **unresolved** (review queue) |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
 | `WATER (higher)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quaternary comprising the four planes below atma. In this signification, the Self (Vishnu) manifests in order to destroy the Demon of desire and raise the lower nature (earth).
+
+> "This universe was formerly water. Prajapate, as a boar, plunged beneath. He found the earth below."—*Taitt. Upanishad*, I. 1, 3, 6.
+
+> "All was water only in which the earth was formed. Thence arose Brahma. He becoming a boar, raised up the earth."—*Ramayâna*, II. 110.
+
+> "Varaha, the boar. In this incarnation Vishnu descended to deliver the world from the power of a demon called Hiranyaksha, who had seized the earth and carried it down into the lowest depths of the sea. Vishnu, as a boar, dived into the abyss, and after a contest of 1,000 years, slew the monster and raised the earth. In the earlier legends the universe is represented as a mass of water, and the earth being submerged, was upheaved by the tusks of the divine boar. According to some, the object of this incarnation was to recover the lost Vedas."—Mon. Williams, *Indian Wisdom*, p. 330.
+
+The Higher Self descends by involution into the four lower planes (boar, four-limbed), and at the end of the cycle succeeds in exterminating the desire nature (the demon). The work is accomplished by the Divine expression of Truth (tusks). The lower nature (earth) of the soul requires to be raised by upward thrust of the God within, from the lower water of error and illusion. The object of all this effort is to restore to the egos the buddhic consciousness and Divine life (Vedas) which they had lost in their "fall" to the lower planes.
+
+See BRAHMA, CHURNING, PRAJAPATI, VEDA, VISHNU, WATER (higher).
+
+**Corrections made:** `Ramaydna` → Ramayâna; `Wriiiiams` → Williams; `Wiedom` → Wisdom; `illusion The object` → illusion. The object; See-list spellings restored (`BraHMA`, `PraaGiPATI`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-balance-of-spirits
 headword: "BALANCE OF SPIRITS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Horse (black)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HORSE|HORSE]] |
 | `Mrrro` | **unresolved** (review queue) |
 | `RasHnv. BALANCE IN THE ‘‘ WEIGHING OF THE HEART ”` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the comparative valuation of the forces (spirits) for good and evil in the soul, between incarnations.
+
+> "The weighing of Rashnû the just, with the balance of spirits which renders no favour on any side, neither for the [righteous?] nor yet for the wicked."—*The Minok-hired*, Haug, Essays.
+
+The "weighing" is the point where the balance in favour of the Higher Self may be estimated. The righteous and the wicked are symbolic of the individuality and the personality.
+
+See BRIDGE (kinvat), GILGOOLEM, HORSE (black), [MITHRA?], RASHNU.
+
+**Corrections made:** `Rashnfi` → Rashnû; `balanoe` → balance; `2 pager` → [righteous?]; `Mrrro` → [MITHRA?]; `RasHnv` → RASHNU; trailing caption `BALANCE IN THE "WEIGHING OF THE HEART"` removed as a stray figure caption.
+
+**Unclear or supplied:** `[righteous?]` is a guess for OCR `2 pager`; `[MITHRA?]` is a guess for `Mrrro`. The trailing caption was dropped; it appears to be a figure caption fallen into the text.
 
 ## Full OCR entry body (exact)
 

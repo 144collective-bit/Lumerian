@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-places-five-where-the-earth-feels-most-joy
 headword: "PLACES, FIVE, WHERE THE EARTH FEELS MOST JOY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the five means of classifying the functionings of the Ego. The awakenment of the Self must proceed from the physical plane (the earth) by way of the stimulus from sensation and desire.
+
+**Corrections made:** None; text is clean.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

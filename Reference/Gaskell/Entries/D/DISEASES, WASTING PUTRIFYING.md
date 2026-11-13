@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-diseases-wasting-putrifying
 headword: "DISEASES, WASTING PUTRIFYING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `MURDER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MURDER, WRATH, AND HATRED|MURDER, WRATH, AND HATRED]] |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the lowest states of the instinct and desire nature, which become obnoxious and gradually disappear.
+
+> "And I wept and shrieked on beholding the unwonted land where are murder and wrath, and other species of fates, and wasting diseases, and putrefactions and fluxes."—Hm.: Fairbanks, 3865.
+
+The lower self, through the awakenment within, "wept and shrieked," that is, feared, trembled, and suffered, all through the earlier troubles and difficulties which befell it. "Murder and wrath" signify the primitive and fearsome manifestations of the Divine indwelling principle. The "other species of fates" are the karmic liabilities which are incurred during the early state of strife. The "wasting diseases, etc." are the lowest aspects of the soul's lower desires.
+
+See FATE-SPHERE, KARMA, MURDER, PESTILENCE, STRIFE.
+
+**Corrections made:** `FaIRBANKS` → Fairbanks; page heading `AND DISMEMBERMENT:` removed from mid-sentence; stray marks `|` and `'` removed; and similar minor fixes.
+
+**Unclear or supplied:** The attribution `Hm : FaIRBANKS, 3865` is damaged (perhaps a hymn reference to Fairbanks) and is left as read.
 
 ## Full OCR entry body (exact)
 

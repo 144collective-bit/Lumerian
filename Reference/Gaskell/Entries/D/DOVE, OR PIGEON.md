@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dove-or-pigeon
 headword: "DOVE, OR PIGEON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,30 @@ tags:
 | `Mystery (first)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MYSTERY, FIRST|MYSTERY, FIRST]] |
 | `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
 | `RavEN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of purity, aspiration, and gentleness, or the active principle animating the higher nature which descends into the lower nature in order to rise therefrom.
+
+> "And Noah sent forth a dove from him, to see if the waters were abated from off the face of the ground; but the dove found no rest for the sole of her foot, and she returned unto him to the ark."—Gen. viii. 8, 9.
+
+And from the Individuality or Self in the soul, is sent forth an aspiration of a loving and pure nature, and a tender thought, to discover the secret of Truth behind the prevailing illusions of the lower mind; but the aspiration at this stage found no lodgement in the lower consciousness, so by the law of its nature it returned to the Self again.
+
+> "The dove is that spirit of gentleness and peace which appears more boldly now as heaven opens to us."—A. Jukes, *Types of Genesis*, p. 120.
+
+> "The dove was the bird sacred to Istar."—A. H. Sayce, *Rel. Babyl.*, p. 271.
+
+"Istar" is a symbol of Wisdom,—the Holy Spirit (Esther).
+
+> "Upon whom thou shalt see the Spirit descending as a dove, and abiding on Him, this is He which baptiseth with the Holy Ghost."—John i. 33.
+
+> "By means of the dove we are taught that this is He; and dost thou think that thou art baptised by his authority by whose ministration thou art baptized? If thou thinkest this, thou art not as yet in the body of the dove; and if thou are not in the body of the dove, it is not to be wondered at that thou hast not simplicity; for by means of the dove simplicity is chiefly designated."—Augustine, *Gospel of John*, Vol. I. p. 63.
+
+See MYSTERY (first), OLIVE LEAF, RAVEN.
+
+**Corrections made:** `GEn.` → Gen.; `Saycr` → Sayce; `Joun` → John; `Vol I.` → Vol. I.; page heading `DOVE-SELLERS` removed from mid-sentence; See-list spellings restored (`RavEN`, `Mystery`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

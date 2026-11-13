@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guardian-spirits-of-men
 headword: "GUARDIAN SPIRITS OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,33 @@ tags:
 | `Kar.asa` | **unresolved** (review queue) |
 | `MEsSsENGEES` | **unresolved** (review queue) |
 | `VALKYBIOR` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VALEYRIOR|VALEYRIOR]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine monads or spiritual egos within all human beings, manifesting upon the mental plane.
+
+> "Auharmazd deliberated with the consciousness and guardian spirits (fravahar) of men; and the omniscient wisdom brought forward among men, spoke thus: 'Which seems to you the more advantageous, when I shall present you to the world?—that you shall contend in a bodily form with the fiend, and the fiend shall perish, and in the end I shall have you prepared again perfect and immortal . . . ; or that it be always necessary to provide you protection from the destroyer?'"—*Bundahis*, Ch. II. 10.
+
+This statement refers to the primordial free decision of the monads to descend into bodies and go through the struggle of life with all its suffering and sorrow, in order to win self-consciousness and victory over the lower limitations. The Divine Will is said to put before the separated wills and consciousnesses two alternatives for their free choice,—either to descend to incarnation on the lower planes in order to contend against evil and overcome it, and so ascend to perfection and immortality; or to remain merely conscious and automatic on the higher planes.
+
+> "Thereupon, the guardian spirits of men became of the same opinion with the omniscient wisdom about going to the world, on account of the evil that comes upon them in the world from the fiend Ahriman, and their becoming, at last again unpersecuted by the adversary, perfect and immortal in the future existence for ever and everlasting."—*Ibid.*
+
+The monads being of the same nature as the Supreme, and suffused with the same wisdom, energy, and courage, elected to go forth into the world of strife, and enter into conflict with the relative self (Aharman), confident of the coming time when the adversary shall be overcome and the perfected souls rise to life everlasting.
+
+> "Beings that are absolutely free have no reason to think of it. How can we get this freedom? Yes, says St. Paul, it is our heritage; we came forth from it. It is the mother of us all. Our spiritual nature is, as M. Bergson would say, essentially free or derived from that which is absolutely free till it comes into contact with this material world. As far as we know, it is not our doing that we have been put here; it is not of our own will that we have been subjected to this earthly bondage. Will not he who has made us so subject see to it that we are not left to perish in this prison-house of matter? Whatever he has put us here for, he will take care that we are not allowed to fail of acquiring it, for it is on his account, as well as our own, that we are having to pass through it. Our guarantee of escape is the freedom of God, the immunity of the divine nature from the conditions under which we are having to struggle now. Perfect freedom is perfect self-determination. God cannot [be] necessitated by anything outside himself, for there is nothing outside himself. He can will nothing but what is good, and it is just because of this that we have hope in him. Our salvation stands in God's inability to fail or fall. This is the gospel. God in Christ has come to set us free from our grievous bondage and to usher us into the glorious liberty of the sons of God."—R. J. Campbell, *Serm.*, *Sources of Spiritual Freedom*.
+
+See AEGAEON, AHRIMAN, AHURAMAZDA, BONDAGE, FRAVASHIS, INCARNATION, JERUSALEM, LIBERATION, MANASAPUTRAS, MONAD OF LIFE, PITRIS (solar), SERVANT OF GOD, SHEEP (lost), SONS OF GOD, SPARK, STRIVE, TREE OF KNOWLEDGE, WILL, WORLD.
+
+### Also in this note: GUARDIANS OF THE WORLD
+These are High Intelligences or Souls, agents of the Supreme to guide and guard the expression of the Divine Wisdom in the Sacred Scriptures, and to aid in human evolution.
+
+> "The guardians of the world hastened from heaven to mount watch over the world's one true ruler; thus the moonbeams, though they shine everywhere, are especially bright on Mount Kailasa."—*Buddha-Karita*, Bk. I. S. B. of E.
+
+The Higher Intelligences come forth to quicken the growth of the Soul upon the mental plane, as it is upon this plane that the Selfhood is established, and rulership maintained. The "moon-beams" here signify the reflections of the light of Truth, which, though they are everywhere discernible, are especially brilliant through the intuition proceeding from the buddhic plane. See AMSHASPANDS, ANGELS, APES, ARCHANGELS, COLCHIS, CURETES, DEVAS, KAILASA, MESSENGERS, VALKYRIOR.
+
+**Corrections made:** `advaneous` → advantageous; `IT.` → II.; `ite` → its; `selfconsciousness` → self-consciousness; `existones` → existence; `fiend arman` → fiend Ahriman; `Now can we get` → How can we get; `til]` → till; `materia]` → material; `strugyle` → struggle; `rfect` → perfect; `aalvation` → salvation; `CamMPBELL` → Campbell; `Jbid.` → Ibid.; `Buddha-Karita` and `ere` → are; `Bk. I. 8. B. of E.` → S. B. of E.; page headings `331 GUARDIANS`, `332 GUESTS` removed from mid-sentence; See-list spellings restored (`MoONAD OF LIFE`, `Pirris`, `Sons OF GOD`, `WokRLp`, `Kar.asa`→KAILASA, `AROHANGELS`, `MEsSsENGEES`, `VALKYBIOR` and similar).
+
+**Unclear or supplied:** Contains a second entry: GUARDIANS OF THE WORLD. `[be]` supplied: OCR reads "cannot necessitated". `Ahriman` restored from OCR `arman`. `APES` in the See list left as printed.
 
 ## Full OCR entry body (exact)
 

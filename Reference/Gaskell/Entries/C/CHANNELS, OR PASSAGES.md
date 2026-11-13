@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-channels-or-passages
 headword: "CHANNELS, OR PASSAGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `PassacEs` | **unresolved** (review queue) |
 | `RIVERS` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RIVERS|RIVERS]] |
 | `TREES AND RIVEBS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of means of communication established in the vehicles of the soul, between the higher and the lower natures, so that reciprocal action and transmutations may occur.
+
+See AMBAYAS, AQUEDUCT, ARTERY, IRRIGATION, PASSAGES, RIVERS, TREES AND RIVERS.
+
+**Corrections made:** `communicatlon` → communication; See-list spellings restored (`PassacEs`, `RIVEBS`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

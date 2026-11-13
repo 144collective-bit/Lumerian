@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buddha-as-gautama-and-as-maitreya
 headword: "BUDDHA AS GAUTAMA AND AS MAITREYA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -61,6 +62,24 @@ tags:
 | `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
 | `TUSHITA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUSHITA HEAVEN|TUSHITA HEAVEN]] |
 | `YASODHARA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Self or Soul (atma-buddhi) which descends to the lower planes, in order first (as Gautama) to become by involution the Archetypal Man, and second (as Maitreya) to rise by evolution in the souls of humanity to the higher planes again.
+
+> "Born, then, at last as the child Gautama, son of Suddhodana, and purified by a long observance of the six transcendent virtues, Buddha ultimately attained to perfect knowledge and Arhatship under the Bodhi-tree, and in so attaining passed from the condition of a Bodhi-sattva to that of the highest of all Arhats—a supreme Buddha."—Mon. Williams, *Buddhism*, p. 181.
+
+The Germ-Soul produced of the Supreme Self (king) emerged upon the lower planes and began its development through the gradual involution of the higher qualities (virtues). The Soul ultimately attained to perfection and supremacy (umbrella) under the completion of one part of the Divine scheme of the manifesting Life (Bodhi-tree). It thereby passed from the partly enlightened condition to the fully enlightened, and so it then rose in potentiality to the higher planes as the Archetypal Man—the Ideal pattern of the forthcoming actuality.
+
+> "At the moment of his attaining Buddhahood he had transferred the Bodhi-sattvaship to Maitreya, 'the loving and compassionate one,' who became the Buddha-elect, dwelling and presiding as his predecessor had done in the heaven of contented beings (Tushita). There he watches over and promotes the interests of the Buddhist faith, while awaiting the time when he is to appear on earth as Maitreya, or the fifth Buddha of the present age. . . . No wonder, then, that this Maitreya, whose very name implies love and tenderness towards mankind, and who was destined to become, like Gautama, a Saviour of the world by teaching its inhabitants how to save themselves—became a favourite object of [pe]rsonal worship after Gautama Buddha's death."—[attribution unclear].
+
+With the completion of the involution of spirit into matter, there followed the transference of the Divine germ (Bodhisatva) to the new order of evolution. This implied a fresh outpouring of the Self, who presides potentially on the higher planes, while actually engaged in the evolution of himself (Maitreya) on the lower planes. The Self promotes the growth of the Divine germ of Wisdom, Truth and Love (the Buddhist faith), which requires to be developed in the souls of humanity until they are perfected, and the germ of the Self has become the complete Self rising glorified with his saints from the bondage of the lower nature (earth). The incarnate Self (Maitreya) is born in the evolving soul as the Spirit of Love and Truth destined to become the soul's Saviour by teaching it how to rise above the things of the world and free itself from the passions and desires of the lower nature. As the incarnate Self draws all minds upwards by his infinite love and tenderness, he is adored by all who perceive him in the innermost sanctuary of their souls.
+
+See [AaT?], ARC. MAN, ARHATS, ASITA, AVALOKITESVARA, BIRTH OF BUDDHA, BODHISATVA, BRAHMAN PRIESTS, CHRIST, CHRIST'S SECOND COMING, DESTROYING EVILS, DWELLING, HORSE (white), INVOLUTION, KA, [Kak?], [Lion-Garr?], NURSE, PRAYERS, RAHULA, RENOVATION, [SosrosH?], SOUL (highest), SUDDHODANA, TONGUE, TRI-RATNA, TUSHITA, YASODHARA.
+
+**Corrections made:** `atmabuddhi` → atma-buddhi; `s0` → so; `Mown. Witiiams, Buddhiem` → Mon. Williams, Buddhism; page heading `129 BUDDHA` removed from mid-sentence; `maukind` → mankind; `rsonal` → [pe]rsonal; page heading `130 BUDDHI` removed from the See list; See-list spellings restored (`BopHIsaTvA`, `Curist`, `Horse`, `Invoturion`, `Sout`, `SuppDHODANA`, `RaHULA`).
+
+**Unclear or supplied:** The attribution after the Maitreya quotation is lost (OCR `—.`). `[pe]rsonal` is supplied for OCR `rsonal`. See-list items `[AaT?]`, `[Kak?]`, `[Lion-Garr?]` and `[SosrosH?]` cannot be identified; the removed page heading `130 BUDDHI` fell before `(highest)`, which is kept with `SOUL`.
 
 ## Full OCR entry body (exact)
 

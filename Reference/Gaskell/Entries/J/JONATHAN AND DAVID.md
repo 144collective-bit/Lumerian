@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jonathan-and-david
 headword: "JONATHAN AND DAVID"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Davin` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the intuition of love and truth, and of the lower emotion mature or natural man, and its disciplining mind.
+
+See DAVID.
+
+**Corrections made:** `the the` → the; `Davin` → DAVID.
+
+**Unclear or supplied:** The OCR wording "of the the lower emotion mature or natural man" is garbled; left as printed apart from the doubled "the".
 
 ## Full OCR entry body (exact)
 

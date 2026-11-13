@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-houses-for-corpses
 headword: "HOUSES FOR CORPSES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Doa (white)` | **unresolved** (review queue) |
 | `TEMPLE (fire)` | resolved (exact) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The three houses for the dead bodies of Parsis are symbolical of the physical, astral, and mental bodies which have contained the personality (corpse) and which afterwards gradually disintegrate on their respective planes. The flesh-eating birds of the Dakhma stand as symbols of the rulers of the planes.—See Ezek. xxxix. 4.
+
+See BIRDS (lower), CORPSE, DOG (white), TEMPLE (fire), VULTURE.
+
+**Corrections made:** `Ezex.` → Ezek.; `Brrps`, `Doa` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-frequented
 headword: "HOUSE, FREQUENTED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `Rusres` | **unresolved** (review queue) |
 | `STONE (black)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
 | `Srupa` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/STUPA, MARVELLOUS, OF BUDDHA|STUPA, MARVELLOUS, OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body as an archetype of perfection set before the soul.
+
+> "In the first or lowest heaven is the so-called 'Frequented House.' This, which is a great dome of red ruby, was originally in the highest Paradise, the Garden of Eden, from which, on Adam's expulsion and subsequent repentance, it was brought to earth as a solace to him. It was placed where the Ka'ba of Mekka now stands, and Adam was bidden compass it; and the angels who dwelt in the Seven Heavens were commanded to descend and perform the rite along with him. It remained on earth till Noah's time, but before the flood it was caught up to the spot in the lowest Heaven immediately above where it used to stand, and there it will rest till the Last Day, when it will be taken back to its original place in Paradise."—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 37.
+
+The lowest heaven is Devachan on the higher mental plane, on which level is the causal-body in process of building up from the potential condition to the actual. The "dome of red ruby" signifies the archetypal Love and Wisdom of the upper buddhic plane (Eden) whereon the highest causal-body exists. The "bringing to earth" refers to the descent of the spiritual monad (atma-buddhi) into the mind or personality (Adam). The personality has thus set before it the ideal of Wisdom and Love which the higher qualities (angels) are to assist it in attaining. The "remaining on earth" indicates an intuitional apprehension of higher things which faded away in the human race when the Individuality (Noah) became firmly established. The causal-body rests now in the higher mind where it will remain until the end of the present cycle; after which further evolution will require its transmutation to the upper buddhic levels.
+
+See ADAM (lower), BUDDHIC PLANE, CAUSAL-BODY, EDEN, FLOOD, GARDEN OF EDEN, INDIVIDUALITY, JERUSALEM, JUDGMENT DAY, KAABA, NOAH, PARADISE, RED (rose), RUBIES, STONE (black), STUPA.
+
+**Corrections made:** `GiBB` → Gibb; `Adam _ was` → Adam was; `ffirmly'` → firmly; `aad` → and; `atmabuddhi` → atma-buddhi; page heading `HOUSE` removed from inside the See list ("GARDEN HOUSE OF EDEN" → GARDEN OF EDEN); See-list spellings restored (`BUDDHIO`, `CaUBAL-BODY`, `Fxroop`, `Rusres`, `Srupa`).
+
+**Unclear or supplied:** `STUPA` and `RUBIES` read from damaged `Srupa`, `Rusres`.
 
 ## Full OCR entry body (exact)
 

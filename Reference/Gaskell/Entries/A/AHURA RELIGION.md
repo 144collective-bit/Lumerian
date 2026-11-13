@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ahura-religion
 headword: "AHURA RELIGION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `REvIGIoN` | **unresolved** (review queue) |
 | `LAw OF ZOROASTER` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAW OF ZOROASTER|LAW OF ZOROASTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the love of ideals of truth and righteousness. It is through the awakenment of Love that the affinity of the soul with the Higher Self is seen and known.
+
+See RELIGION, LAW OF ZOROASTER.
+
+**Corrections made:** `REvIGIoN` → RELIGION; `LAw` → LAW.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

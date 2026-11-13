@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-akesi-city
 headword: "AKESI CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Kaus` | **unresolved** (review queue) |
 | `JUDGMENT DAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `MoNaD` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONAD, THE ONE|MONAD, THE ONE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the centre or source of manifest existence, and of the outpouring and indrawing of the Divine Life.
+
+> "Hail, thou city Akesi, which art hidden from the gods, the Khus know the name of which the gods are afraid. None can enter therein, and none can come forth therefrom except that holy god who dwelleth in his egg. . . . He hath made the city so that he may dwell therein at will, and none can enter therein except on the day of great transformations."—Budge, *Book of the Dead*, Ch. CXLIX. p. 492.
+
+The Divine source of existence is extolled. The higher qualities (gods) on the buddhic plane, being derived, know nothing of the underived into which they must disappear. The spiritual monads (khus) on the plane of atma know the Spirit by their spirit. Multiplicity cannot enter into the Absolute, only One alone—the Higher Self (holy god) who dwells centrally within his universe. When the cycle closes, all the results of the manifest will be indrawn.
+
+See CITY, EGG, KHUS, JUDGMENT DAY, MONAD.
+
+**Corrections made:** `Bupoz` → Budge; `Crry, Eac, Kaus` → CITY, EGG, KHUS; `MoNaD` → MONAD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

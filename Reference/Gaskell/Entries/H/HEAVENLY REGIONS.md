@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heavenly-regions
 headword: "HEAVENLY REGIONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `ORO` | resolved (first-segment) → [[Reference/Gaskell/Entries/O/ORO, THE TAHITIAN GOD|ORO, THE TAHITIAN GOD]] |
 | `RaAINBOw` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
 | `Rk-` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental or buddhic states of rest and bliss.
+
+> "Every evening Oro descended on the rainbow to the valley, and returned by the same pathway on the following morning to the heavenly regions."—[word unclear]. *Polynesian* [Ellis?] Vol.
+
+And at recurring intervals, descents,—evening, night, morning,—marking periods of embodiment on the lower planes, would be made by the Self or ego; after which the Self would again quit the temporary abode of its incarnation, and return through the higher mind (rainbow bridge) to the devachanic state. See DEVACHAN, ORO, RAINBOW, [Rk-?]
+
+**Corrections made:** `followi We morning` → following morning; `RaAINBOw` → RAINBOW; quotation marks normalised.
+
+**Unclear or supplied:** The attribution is damaged (OCR `Saal. Polynesian ells Vol.`): `[word unclear]` and `[Ellis?]` mark the lost readings. The See list breaks off at `[Rk-?]` (probably RE-BIRTH or similar).
 
 ## Full OCR entry body (exact)
 

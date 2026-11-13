@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow-milch
 headword: "COW, MILCH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -91,6 +92,38 @@ tags:
 | `SPOTTED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SPOTTED COWS AND MARES|SPOTTED COWS AND MARES]] |
 | `V ASISHTHA` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VASISHTHA|VASISHTHA]] |
 | `WEALTH-SHOWER` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature in its aspect productive of the higher emotions which it confers upon the lower self.
+
+> "For this earth is, as it were, a milch cow: she yields to men all their desires; and the milch cow is a mother, and this earth is, as it were, a mother: she bears (or sustains) men."—*Sata. Brâh.*, V. 3, 1, 4.
+
+This is a comparison between the functionings of the two natures,—lower and higher. As the lower nature (earth) produces the desires and all exterior attractions for the benefit of the mind (men); so the higher nature (cow) produces the interior qualities of wisdom and love (milk and butter) for the benefit of the mind. The lower nature is the first to produce the means for the manifestation of mind in the evolutionary cycle.
+
+> "And king Suddhodana gave to the brahmans for his son's (Buddha's) welfare, cows full of milk, with no traces of infirmity, golden-horned, and with strong, healthy calves to the full number of one hundred thousand."—*Buddha-Karita*, Bk. I. 89.
+
+This refers to the involution of the soul (Buddha) at an early period. The gift of the "cows" signifies the conferring of the intuitive perception of spiritual things, which is to enable the soul to rise. The "brahmans" are the higher mental forms through which the spiritual nature is apprehended. The "no traces of infirmity" is an allusion to the perfect conception of the Truth inplanted within the soul through the process of involution. "Golden horns" are a symbol of zeal and love of the true. The myriad "calves" represent the inexhaustible treasures of the Spirit, produced by buddhi (cow).
+
+> "The religion of the Hindu detaches him from this earth; therefore, even now, the cow-symbol is one of the grandest and most philosophical among all others in its inner meaning." "In Esoteric Philosophy the Cow is the symbol of Creative Nature, and the Bull (her calf) the Spirit which vivifies her, or the 'Holy Spirit.'"—H. P. Blavatsky, *Secret Doctrine*, pp. 436, 493.
+
+See BRAHMAN PRIESTS, BUDDHA, CAKE, CALVES (Myriad), EARTH, GOD, GOLDEN AGE, INVOLUTION, LINEN GARMENT, MILK, SUDDHODANA, UDDER, VACH.
+
+### Also in this note: COW OF PLENTY, SKIN
+
+A symbol of the buddhic-nature which operates within, as it were, the astral-nature of desire, sensation, appetite, and instinct. The pure within the impure (spotted).
+
+> "He (Vasishtha) called the cow of spotted skin, all spot without, all pure within. . . . With sumptuous meal and worthy fare; be thine the banquet to prepare. . . . All these (viands and drinks), O cow of heavenly power, rain down for me in copious shower. . . . On her mine [word unclear] which ascend to Gods and spirits all depend: my very life is due to her, my guardian, friend, and minister. The feeding of the sacred flame, the dole which living creatures claim, the mighty sacrifice by fire."—Griffith, *The Ramayan*, Vol. I. pp. 226-8.
+
+The forces of the lower planes (Vasishtha) operate outwardly in the manifest imperfections of life, which express the fact of the essential perfection of the archetypal spiritual pattern within. Through the buddhic activities nourishment for the soul is prepared. Goodness, love, and truth are the gifts of the Spirit bestowed on the aspiring mind. On Wisdom depends the transmutation of the offerings of the qualities at her shrine to the ideals. The life of the soul is to be found in its intimate relation with the spiritual forces which raise and develop it. The qualities which have in them the divine germ claim from Wisdom the purifying and perfecting of their natures.
+
+> "Hail (the seven kine and their Bull) ye who give cakes and ale, and splendour to the souls who are provided with food in the underworld, grant ye cakes and ale unto the Osiris Nu; provide ye him with food, let him be in your following, and let him be born upon your thighs."—Budge, *Book of the Dead*, Ch. CXLVIII. p. 481.
+
+Here, Wisdom is expressed through all the highest emotions and faculties, and it is the Higher Self (the Bull) which fructifies them. The "Osiris Nu" is the indwelling God,—the Christ-soul—coupled with the name of an individuality "Nu." The Christ can only be born within the highest emotions, and must be nursed and nourished by them. See ALMSGIVING, BANQUET, BULL, CAKE, CLOUD, CREATURES, FEAST, FIRE, FOOD, FRUIT, MILK, RAIN, SACRIFICE, SEED, SPOTTED, VASISHTHA, WEALTH-SHOWER.
+
+**Corrections made:** `Bréh.` → Brâh.; `carth` → earth; page heading `COW` removed from mid-sentence; `Buddha-Kartta` → Buddha-Karita; `philogophical` → philosophical; `Buiavarsxy` → Blavatsky; `Grirrity` → Griffith; page heading `DAPPLE181 COW` removed from mid-sentence; `tho` → the; stray `|` removed; `Bunce` → Budge; `CKLVIII` → CXLVIII; `Christsoul` → Christ-soul; See-list spellings restored (`Caur`, `Earrs`, `Gop`, `GABMENT`, `Vaca`, `Citoup`, `FErEastT`, `Mtnx`, `Rar`, `V ASISHTHA`), and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: COW OF PLENTY, SKIN (OCR heading `COW OF PLENTY, SKIN "’ :—`, apparently cut short). `[word unclear]` replaces the damaged `a` in `On her mine a which ascend`. `Caur` read as CAKE and `Rar` as RAIN (uncertain). The two Blavatsky quotations are run together in the OCR and kept in one blockquote.
 
 ## Full OCR entry body (exact)
 

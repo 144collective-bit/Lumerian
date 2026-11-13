@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-medicine
 headword: "MEDICINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `SERPENT ASCULAPIUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SERPENT ASSCULAPIUS|SERPENT ASSCULAPIUS]] |
 | `SONS OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `VALMIKI` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VALMIKI, KYDOIMOS (UPROAR)|VALMIKI, KYDOIMOS (UPROAR)]]; [[Reference/Gaskell/Entries/V/VALMIKI, THE POET|VALMIKI, THE POET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the means whereby the Divine nature delivers or heals the soul whose deliverance is to be achieved through the Soul itself, for it is to be its own deliverer.
+
+> "Whatever man shall flatter Homa as a young son, Homa comes to the aid of him and his children, to be their medicine. Homa! give me some of the healing powers whereby thou art a physician."—*Homa Yasht*, Hava, [Ys.?].
+
+The Divine Life is first viewed in a false light and manner,—hence true praise is impossible. But even amid the delusions and mistakes of the lower mind, the groping of the youngest Son of God is assisted from above,—first of all the Divine influx seeming but [word unclear] as a medicine, unpalatable and unpleasant, nevertheless proving beneficial. The prayer of the wise soul takes the form of supplicating the Divine Love to use it as it will, and so to strengthen and maintain it that it may become a worthy and dutiful vehicle of the Divine Life.
+
+> "The mystery of healing, as we are constituted, stands in close affinity with God and the faith of his supernatural operation. Thus it was that the priests, both of the Egyptians and the Greeks, were their physicians. Æsculapius, too, the god of medicine, had his own altars and priests. At a later period, the Essenes and the Christian monks had their pious explorations of diseases and the sacred powers of remedies; reducing medicine itself to a function of religion. Later still, Paracelsus himself began the restoration of medicine, as a kind of chemical theosophy. And as Christianity itself classes healings among the spiritual gifts, and calls the elders of the Church to pray for the sick; so we find that some of our (American) Indian tribes have traditions of one whom, as related to the Great Spirit, they call the Uncle, and who came into the world by a mysterious advent, long ago, and instituted the 'Grand Medicine,' which is in fact, their religion."—H. Bushnell, *Nature and the Supernatural*, p. 158.
+
+See ALCHEMY, GIFTS OF GOD, GRACE, HEALING, HOMA, IMHOTEP, MAN, PHYSICIAN, RUDRA, SERPENT ASCULAPIUS, SONS OF GOD, VALMIKI.
+
+**Corrections made:** `@ young` → a young; `@ physician` → a physician; `Jreeks` → Greeks; `Atsculapius` → Æsculapius; `sick ;,` → sick;; See-list spellings restored (`GRAOE`, `Heatinc`, `Imnorep`, `Rupra`); page heading `491 MEDUSA` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** `[Ys.?]`: OCR reads `£s`. `[word unclear]`: OCR reads `odern in` after "seeming but" and is not recoverable. The See item "SERPENT ASCULAPIUS" is left as printed.
 
 ## Full OCR entry body (exact)
 

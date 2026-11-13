@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eye-of-macroprosopus
 headword: "EYE OF MACROPROSOPUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Heap` | **unresolved** (review queue) |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
 | `YMIR` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Significant of the omniscience of the Higher Self on the mental plane.
+
+> "The eyes of the White Head are diverse from all other eyes. Above the eye is no eyelid, neither is there an eyebrow over it. ... This eye is never closed; and there are two converted into one. All is right; there is no left. He slumbereth not, and he requireth not protection."—*Kabbalah*, "The Greater Holy Assembly," Ch. IX.
+
+There is a reference here to the personality being merged into the Individuality, when the two become one, and there remains no lower self.
+
+See COUNTENANCE, FACE, HEAD, WHITE, YMIR.
+
+**Corrections made:** `rotection` → protection; `oly Assembly` → Holy Assembly; `Heap` → HEAD; `Face` → FACE; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-helios-the-sun-god-ra
 headword: "HELIOS, THE SUN-GOD, RA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `SAVITRI` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SAVITRI, THE SUN|SAVITRI, THE SUN]] |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `Supya` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SURYA, THE SUN|SURYA, THE SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the First Logos.
+
+See ADITYA, AMEN-RA, RA, SAVITRI, SUN, SURYA.
+
+**Corrections made:** `Apirya` → ADITYA; `Supya` → SURYA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dwarfs
 headword: "DWARFS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `FLEeEsH` | **unresolved** (review queue) |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `Yaar` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental qualities full of ignorance and illusion.
+
+> "The dwarfs had been bred in the mould of the earth, just as worms are in a dead body. It was, in fact, in Ymir's flesh that the dwarfs were engendered, and began to move and live. At first they were only maggots, but by the will of the gods they at length partook both of human shape and understanding, although they always dwell in rocks and caverns" (Prose Edda).—Mallet, *North. Antiq.*, p. 409.
+
+The astro-mental qualities are the offspring of the higher element of the lower nature (mould or dust). Through the death of the Archetypal Man (Ymir), the kama-manasic (flesh) principle is reflected below, and from this the lower qualities arise. At first they are instinctive and cunning, but they gradually develop in character though always remaining in the lower nature of the soul.
+
+See ARC. MAN, CREEPING THINGS, [Comp?], EARTH, FLESH, QUALITIES, [Yaar?].
+
+**Corrections made:** `Mattet` → Mallet; `Antig.` → Antiq.; `caverns”?` → caverns"; `EarrTuH` → EARTH; `FLEeEsH` → FLESH; quotation marks normalised.
+
+**Unclear or supplied:** `[Comp?]` and `[Yaar?]` are uncertain See-list items (OCR `Comp`, `Yaar`).
 
 ## Full OCR entry body (exact)
 

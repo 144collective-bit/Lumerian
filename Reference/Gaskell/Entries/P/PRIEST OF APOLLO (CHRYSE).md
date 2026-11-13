@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-priest-of-apollo-chryse
 headword: "PRIEST OF APOLLO (CHRYSE)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `PontTiFF` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PONTIFF, OR PONTIFEX|PONTIFF, OR PONTIFEX]] |
 | `PorE` | **unresolved** (review queue) |
 | `PROCESSION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PROCESSION PRIZE OF HONOUR GAINED|PROCESSION PRIZE OF HONOUR GAINED]]; [[Reference/Gaskell/Entries/P/PROCESSION RIST|PROCESSION RIST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the subjective spiritual mind, which is related to the intuition (Chryseis).
+
+> "Upon this, all the other Greeks shouted assent, that the priest should be reverenced, and the splendid ransoms accepted; yet was it not pleasing in his mind to Agamemnon, son of Atreus; but he dismissed him evilly, and added a harsh mandate."—*Iliad*, Bk. I.
+
+Thereupon all the mental qualities are energised in relation to the spiritual mind, and the consent is obtained for the Ego to undertake its own evolution. The desire mind, the product of illusion, is, however, dissatisfied, and the denial of the rule of the spiritual mind is therefore brought about: the lower self, self-centred, works as from itself, henceforward, and at first treats the Higher Self as an enemy.
+
+> "To see truths from their own light is to see them from man's interior mind, which is called the spiritual mind, and this mind is opened by charity; and when it is open, light and the affection of understanding truths flow in from the Lord, which constitutes illumination."—Swedenborg, *Apoc. Rev.*, n. 85.
+
+See AARON, ADVARYA, AGAMEMNON, AGNIDHRA, ATHORNE, APOLLO, CHRYSE, CHRYSEIS, HIGH PRIEST, ODYSSEUS, PONTIFF, POPE, PROCESSION.
+
+**Corrections made:** page heading `503 PRIESTS` removed from mid-sentence; `selfcentred` → self-centred; `OpyYsEvs` → ODYSSEUS; `PontTiFF, PorE` → PONTIFF, POPE; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

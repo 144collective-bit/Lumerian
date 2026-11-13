@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mother-divine
 headword: "MOTHER, DIVINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -57,6 +58,30 @@ tags:
 | `Tao` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TAO IN TWO ASPECTS,-THE PURE AND THE TURBID|TAO IN TWO ASPECTS,—THE PURE AND THE TURBID]]; [[Reference/Gaskell/Entries/T/TAO TAO, THE GREAT|TAO TAO, THE GREAT]] |
 | `Woman (matter)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
 | `Woms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the feminine, or receptive, aspect of the manifesting Spirit, which brings forth from latency within the forms the qualities and activities apparent in nature. This mother principle, buddhi, directs human evolution, and it is eventually through her functioning, and through the raising of the soul by intuition, that the buddhic state of consciousness is attained.
+
+> "But Chaos did not know its own creation. From its embrace with Spirit, Mot was born. From her (Mot, the Great Mother) it was that every seed of the creation came, the birth of all the cosmic bodies" (Sanchuniathon).—Philo Byblius, *Fragment*.
+
+> "Like a mother to her subjects, intent on their welfare,—devoted to all worthy of reverence like devotion itself,—shining on her Lord's family like the goddess of prosperity,—she (Maya) was the most eminent of goddesses to the whole world."—*Buddha-Karita*, Bk. I. 16.
+
+The maternal relationship stands as the symbol of Divine watchfulness and guidance which directs the lower evolution. The "devotion" is the sign of that complete and unfeigned love which is willing to expend itself in the interest of all. She "Maya," pure Truth,—the feminine aspect of the One,—shines forth and is the means of awakening the faint beginnings of true life in the soul. She is the highest symbol of which any conception can be framed in the mind.
+
+> "For, since the present world is female, as a mother bringing forth the souls of her children, but the world to come is male, as a father receiving his children (from their mother), therefore in this world there come a succession of prophets, as being sons of the world to come, and having knowledge of men."—*Clementine Homilies*, II. Ch. XV.
+
+Because the buddhic principle brings forth the higher qualities in the souls which the Spirit allies with itself, therefore in the souls there arise dawnings, or intuitions, of the higher consciousness which is to come to the enlightened minds.
+
+> "The Sakti, or female energy of Siva, is worshipped by a vast number of persons as the true Jagad-amba, or 'Mother of the Universe.'"—Mon. Williams, *Indian Wisdom*, p. 101.
+
+The Higher Self (Siva) is allied with the buddhic principle (female energy), and it is from the buddhic plane that the prototypes of all things are reflected, as it were, on to the lower planes. So it is that buddhi brings forth the universe.
+
+See BIRTH OF CHRIST, BUDDHI, CREATION, EARTH (great), [Heripra?], [Hing?], ILLUSION, INTUITION, ISIS, LADY, LATONA, MATTER, MAYA, MUT, OCEAN (fem.), PRAKRITI, PROPHET, PROTOTYPES, PURUSHA, SERPENT (water), SHEKINAH, SIVA, TAO, WOMAN (matter), WOMB.
+
+**Corrections made:** `M6ét` → Mot; `PHILO Bysiius` → Philo Byblius; `M@aya` → Maya; `es a mother` → as a mother; `Wiedom` → Wisdom; `Ixtusion` → ILLUSION; `Inrurrion` → INTUITION; `Isp` → ISIS; `Mur` → MUT; `Woms` → WOMB; `Miyi` → MAYA; See-list spellings restored; page heading `614 MOUNT` removed from mid-sentence.
+
+**Unclear or supplied:** `[Heripra?]` and `[Hing?]` are See-list items not identified. ISIS, MAYA and MUT are readings of `Isp`, `Miyi` and `Mur`.
 
 ## Full OCR entry body (exact)
 

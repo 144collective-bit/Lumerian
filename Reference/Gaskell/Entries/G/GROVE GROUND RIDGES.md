@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grove-ground-ridges
 headword: "GROVE GROUND RIDGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
 | `SEVEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEVEN, NUMBER|SEVEN, NUMBER]] |
 | `TONGUE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS|TONGUE, CROWN OF UPPER EGYPT, OR TALL WHITE CROWN OF OSIRIS]]; [[Reference/Gaskell/Entries/T/TONGUE (HIGHER ASPECT)|TONGUE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/TONGUE (LOWER ASPECT)|TONGUE (LOWER ASPECT)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower planes.
+
+> "And Horus brought back 142 of the enemy, whom he slew; and he tore out their tongues, and their blood gushed out the ridges of the ground."—*Legend of the Winged Sun-disk*.
+
+And the Son of God went forth in his strength, and completely (142) mastered and dissipated the lower desires, and "tore out their tongues," that is, cast out falsity and perversity; and the vitality which had before animated them was dispersed and flowed to the lower planes wherein it was resolved into its primary constituents. (1+4+2=7.) See EARTH, FURROWS, SEVEN, TONGUE.
+
+**Corrections made:** Stray scanner marks (`.`, `gs € 4 4`, `_`, `le`, `bs`) removed; `constitu_enta` → constituents; `Eartu` → EARTH; `Furrows` → FURROWS; quotation marks normalised.
+
+**Unclear or supplied:** The OCR is broken by stray marks in the middle; the wording of "the lower desires" and "had before animated them" was joined across the damage.
 
 ## Full OCR entry body (exact)
 

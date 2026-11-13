@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hiding-from-god
 headword: "HIDING FROM GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `MAN AND WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MAN AND WIFE|MAN AND WIFE]] |
 | `VOICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]]; [[Reference/Gaskell/Entries/V/VOICE VOHU-KHSHATHRA GATHA|VOICE VOHU-KHSHATHRA GATHA]] |
 | `WaLkIna` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the mental emotion-nature paying no heed to conscience and aspiration.
+
+> "And they heard the voice of the Lord God walking in the garden in the cool of the day: and the man and his wife hid themselves from the presence of the Lord God amongst the trees of the garden."—Gen. iii. 8.
+
+And by the mind and emotion-nature the voice of the Divine within them is partially interpreted, when they were wandering at the close of a period, among the objects of delight which were in the soul: and the mental emotion-nature is not developed enough to reflect and interpret aright the decrees of the Divine nature, so it is said to "hide" from the presence of Love-Wisdom, that is, it is unable to respond to the vibrations from within of the Spirit.
+
+See ADAM, CONSCIENCE, DAY, EVE, EVENING, FALL, GARDEN OF EDEN, HECATOMB, MAN AND WIFE, VOICE, WALKING.
+
+**Corrections made:** `emotionnature` → emotion-nature; `GeEn.` → Gen.; `hide ®` → "hide"; See-list spellings restored (`Fatt`, `EvE`, `HEcATOMB`, `WaLkIna`, `Day`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boar-wild
 headword: "BOAR, WILD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `MaRiIanDyni` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARIANDYNI|MARIANDYNI]] |
 | `TEETH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEETH ABRAXAS, THE SACRED NAME|TEETH ABRAXAS, THE SACRED NAME]]; [[Reference/Gaskell/Entries/T/TEETH GNASHING|TEETH GNASHING]] |
 | `TUSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUSE TUMA-TAUENGA|TUSE TUMA-TAUENGA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quaternary of planes below atma.
+
+> "Here (at the Mariandyni) died Idmon the seer, wounded by the tusks of a wild boar."—*Argonautic Expedition*.
+
+The soul having arrived at the state of right discrimination in the domain of the higher intellect (King Lycus) the quality of faith (Idmon) is extinguished. The "wounding by the tusks of a wild boar" is symbolic of Divine Truth, through the attainment of the buddhic (fourth plane) consciousness, penetrating the corresponding vehicle faith, thus rendering the latter needless.
+
+See ADONIS, FAITH, IDMON, MARIANDYNI, TEETH, TUSK.
+
+**Corrections made:** page heading `BOAT` removed from mid-sentence; `ADONIs`, `Farru`, `IpMon`, `MaRiIanDyni`, `TUSE` → ADONIS, FAITH, IDMON, MARIANDYNI, TUSK; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

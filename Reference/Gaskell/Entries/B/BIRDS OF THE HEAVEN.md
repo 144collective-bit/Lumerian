@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birds-of-the-heaven
 headword: "BIRDS OF THE HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `AURVAITO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/AURVAITO-DIH AURVAITO-DIH, THE TUR|AURVAITO-DIH AURVAITO-DIH, THE TUR]] |
 | `NEST` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Elder Brethren of humanity: those Egos who have "gone before," and who,—having aspired to the things which are above, and conquered the things below,—are now free and able agents of the Supreme working upon the buddhic plane. These Egos not having any lower nature, are unlikely ever to use vehicles of matter below the higher mental plane, though they could, of course, do so if they chose, because they necessarily have command of all lower conditions. But they act under the Divine law never to assist the lower until the lower is ready and prepared to receive help from them and profit by it.
+
+See ANIMALS, AURVAITO, NEST, TREE OF LIFE.
+
+**Corrections made:** `AnnaTs` → ANIMALS; page heading `103 BIRDS` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `ANIMALS` is read from OCR `AnnaTs`.
 
 ## Full OCR entry body (exact)
 

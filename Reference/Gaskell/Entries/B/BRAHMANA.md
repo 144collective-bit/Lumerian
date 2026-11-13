@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brahmana
 headword: "BRAHMANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Sacririck` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]] |
 | `Vicarrya` | **unresolved** (review queue) |
 | `VEDAS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality seated in the causal-body on the higher mental plane.
+
+> "The regular means of subsistence for a Brâhmana are assisting to sacrifice, teaching the Vedas, and receiving gifts."—Colebrooke, *Essays*, p. 276.
+
+The individuality, or causal self, raises the soul by imparting truth and receiving love offerings.
+
+See ALMSGIVING, CASTES, OFFERINGS, SACRIFICE, [Vicarrya?], VEDAS.
+
+**Corrections made:** `Bréhmana` → Brâhmana; `Védas` → Vedas; `COoLEBROOKE` → Colebrooke; `CasTES`, `OFERINGS`, `Sacririck` → CASTES, OFFERINGS, SACRIFICE; quotation marks normalised.
+
+**Unclear or supplied:** See-list item `[Vicarrya?]` cannot be identified; `SACRIFICE` is a likely reading of `Sacririck`.
 
 ## Full OCR entry body (exact)
 

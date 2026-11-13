@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-of-china
 headword: "DYNASTY, HEAVEN'S (OF CHINA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 aliases:
   - "S (OF CHINA)"
@@ -44,6 +45,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies the development of potential man during the Lunar cycle, in a state of involution on the buddhic plane, whereby the higher qualities are involved in order that they shall afterwards be evolved.
+
+**Corrections made:** Page heading `DYNASTY, EARTH'` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

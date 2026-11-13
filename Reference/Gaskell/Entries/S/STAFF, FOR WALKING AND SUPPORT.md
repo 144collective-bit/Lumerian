@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-staff-for-walking-and-support
 headword: "STAFF, FOR WALKING AND SUPPORT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Ps. xxiii. 4; Is. xxxvi. 6` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of Divine guidance; or a symbol of the mind leaning upon external authority and tradition.—See Ps. xxiii. 4; Is. xxxvi. 6.
+
+**Corrections made:** Spacing before `;` and `.` normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

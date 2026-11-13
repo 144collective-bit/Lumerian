@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aat-of-the-waters
 headword: "AAT OF THE WATERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: sample-draft
 tags:
   - source/gaskell
@@ -68,6 +69,24 @@ _This paraphrase is editorial interpretation of Gaskell’s OCR text, not a clai
 ## Sample-internal links (only where Gaskell’s text warrants)
 
 - No additional sample-internal association claimed beyond See-resolution above.
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral condition during a state of disruption at the end of a cycle.
+
+> "Hail, thou Aat wherein the Khus [have?] no mastery. Thy waters are of [word unclear] and the streams which are in thee burn with fire, and thy flame is a blazing fire... . The gods and Khus look upon the waters thereof and retreat without having quenched their thirst and their hearts are not set at rest,... the stream is filled with reeds, even as the stream which flowed from the issues which came forth from Osiris. I have gained the mastery over the waters thereof... . The gods are more afraid to drink the waters thereof than are the Khus."—Budge, *Book of the Dead*, Ch. CXLIX. p. 496.
+
+In the state of being that occurs when a great cycle terminates, the physical plane is transmuted by spirit (fire), and is absorbed into the astral condition. The lives (Khus) in the forms are no longer manifest. They retreat, together with the Ideals (gods), without further experience of illusion (water). The astral plane is obstructed, but the soul that is perfected is master of it. The Ideals are not attracted to the life of desire and sensation as the form-lives, or souls, are.
+
+> "When the number of perfect souls shall be completed, I will then shut the Gates of the Light, and from that time none will be able to come in thereby, nor will any go forth thereafter, for the number of perfect souls shall be [completed?] and the mystery of the first Mystery be perfected,—whereby all hath come into existence, and I (Jesus) am that Mystery. From that hour no one shall any more enter into the Light, and none shall come forth, in that the time of the number of perfect souls shall be fulfilled, before I set fire to the world, that it may purify the æons, and veils, the firmaments and the whole world, and also all the matters that are still in it, the race of human kind being still [in?] it" (*Pistis Sophia*).—G. R. S. [Mead?], *Fragments*, etc., p. 503.
+
+This refers to the end of a cycle when the Life-wave passes from one globe to another. The souls that are perfected are ready for union with the Higher Self (Jesus) on upper planes, and no longer will the causal-bodies (gates) send forth the ego to the life below. The Life process will cease for a time, and there will be a transmutation of the lower nature, a purification by buddhi (fire) of the physical and astral planes.
+
+See BUDDHA, CHRIST'S SECOND COMING, COMETS, CONFLAGRATION, HORSE (white), JUDGMENT DAY, KALKI, KARSHVARES, PLANETARY, [AB REGIONS?], REGNAROK, RENOVATION, SOSIOSH, SPRINGTIME, THIRST.
+
+**Corrections made:** `Khue` → Khus; `comcoe` → [completed?]; `ystery` → Mystery; `zons` → æons; `Pistts` → Pistis; `®@` → a; `causalbodies` → causal-bodies; `Bupare` → Budge; page number `17` removed from mid-sentence; See-list spellings restored (`Kaiki`, `PLANETABRY`, `SosiosH`, and others) and similar minor fixes.
+
+**Unclear or supplied:** `[have?]`: OCR reads "the Khus in no mastery". `[word unclear]` after "are of": a word is missing. `[completed?]`, `[in?]` are doubtful readings of damaged words. `[Mead?]`: the author's name is lost in OCR (`G. R. 8. } ,`). `[AB REGIONS?]` in the See list is uncertain (possibly AAT REGIONS).
 
 ## Full OCR entry body (exact)
 

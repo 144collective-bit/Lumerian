@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalki-avatar-of-vishnu
 headword: "KALKI AVATAR OF VISHNU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `SOSHYANS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSHYANS|SOSHYANS]] |
 | `SosiosH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SOSIOSH|SOSIOSH]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the final triumph of the indwelling Self (Vishnu) over the lower nature, at the end of the cycle.
+
+> "Kalki or Kalkin, who is yet to appear at the close of the fourth or Kali age, when the world has become wholly depraved, for the final destruction of the wicked, for the re-establishment of righteousness upon the earth, and the renovation of all creation with a return to a new age of purity (satya-yuga). According to some, He (Vishnu) will be revealed in the sky, seated on a white horse, with a drawn sword in his hand, blazing like a comet."—Mon. Williams, *Indian Wisdom*, p. 335.
+
+At the conclusion of the present cycle of evolution, when the lower nature of the soul is reduced to its lowest elements, the God within (Vishnu) shall manifest in perfection upon the highest mental plane and cast away the dregs of the desires. Then from the dissipation of the lower planes, there shall be re-established a more perfect state of soul. There will be a renovation of all creation in the subtler matter of the buddhic plane, and a return to a new age of purity in which the soul can find fuller expression for its inner nature. It is made known by scripture that the Higher Self (atma-buddhi) reveals himself to the inner consciousness, and seated in the higher mind, will exercise his will in purifying the soul through the transmutation of the qualities. The "sword of the Spirit," or the spiritual energy of Truth from within, shall dispel error and ignorance on the mental plane, and destroy the planes of illusion.
+
+See AAT, BUDDHA (Maitreya), CHRIST'S SECOND COMING, COMETS, CONFLAGRATION, HORSE (white), JUDGMENT-DAY, REGNAROK, RENOVATION, RESURRECTION, SOSHYANS, SOSIOSH, VISHNU.
+
+**Corrections made:** `e (Vishnu)` → He (Vishnu); `Wri1iaMs` → Williams; `@ renovation` → a renovation; `JupeMENT DAY` → JUDGMENT-DAY; page heading `426 KAMA` removed from mid-sentence; See-list spellings restored (`Aat`, `BuppHa`, `CoNFLAGRATION`, `HorseE`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-leo-the-zodiacal-sign
 headword: "LEO, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `LION` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LION|LION]] |
 | `Virao` | **unresolved** (review queue) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the fifth period of the cycle of life, which is a period of involution on the astral plane, wherein strong desire works in the lower nature through passion, instinct, appetite, and animal affection. It is the period of the involutionary development of the astral nature of the soul.
+
+See CANCER, LION, VIRGO, ZODIAC.
+
+**Corrections made:** `mature` → nature; See-list spellings restored (`CaNcER`, `Virao`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

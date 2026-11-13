@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ravens-of-odin-called-hugin-mind-and-mugin-will
 headword: "RAVENS OF ODIN, CALLED HUGIN (MIND) AND MUGIN (WILL)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `ODIN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of intelligence and power, attributes of the Logos (Odin).
+
+See ODIN.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

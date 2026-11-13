@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-diana-or-artemis-goddess-of-light-and-the-moon
 headword: "DIANA, OR ARTEMIS, GODDESS OF LIGHT AND THE MOON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ARTEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ARTEMIS, THE GODDESS|ARTEMIS, THE GODDESS]] |
 | `LicuT` | **unresolved** (review queue) |
 | `Moon` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An aspect of Wisdom (Buddhi), presiding over the astral plane.
+
+See ARTEMIS, LIGHT, MOON.
+
+**Corrections made:** See-list spellings restored (`LicuT`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

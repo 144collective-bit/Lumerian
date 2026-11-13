@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown-atef
 headword: "CROWN, ATEF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Proumes` | **unresolved** (review queue) |
 | `SERPENTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `URAEI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/URAEI, SERPENT EMBLEMS|URAEI, SERPENT EMBLEMS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the realisation of supremacy in a state of the soul.
+
+> "Herubehutet and Horus had the bodies of men and the heads of hawks, and they wore the white and red crowns with plumes and uraei."—*Legend of the Winged Sun-disk*.
+
+The human body and hawk-head to the two "gods," aspects of the Self, stand for a symbol of human perfectionment, culminating in the soul which aspires to become Divine. The "white and red atef crowns" are symbolic of lordship over the planes of the intellect and the emotions. The "plumes" signify the conditions in which supremacy is realised. The "uraei serpents" signify the triumph of Wisdom reflected upon the lower planes of the soul. See COME INTO THEE, HAWK, HORUS, PLUMES, SERPENTS, URAEI.
+
+**Corrections made:** `CoME` → COME; `HawK`, `Horus` capitalisation; `Proumes` → PLUMES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

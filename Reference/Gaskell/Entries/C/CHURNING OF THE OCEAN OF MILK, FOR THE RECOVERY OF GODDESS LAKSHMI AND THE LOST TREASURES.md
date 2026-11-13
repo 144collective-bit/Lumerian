@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-churning-of-the-ocean-of-milk-for-the-recovery-of-g
 headword: "CHURNING OF THE OCEAN OF MILK, FOR THE RECOVERY OF GODDESS LAKSHMI AND THE LOST TREASURES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `ToRTOISE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TORTOISE|TORTOISE]] |
 | `TREASURE IN HEAVEN` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `VISHNU` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VISHNU|VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the process by which the soul attains to its ideals.
+
+> "In the Tortoise incarnation, Vishnu descended to aid in recovering certain valuable articles lost in the deluge. For this purpose he stationed himself as a tortoise at the bottom of the ocean, that his back might serve as a pivot for the mountain Mandara, around which the gods and demons twisted the great serpent Vasuki. They then stood opposite to each other, and using the snake as a rope, and the mountain as a churning stick, churned the ocean for the recovery of the Amrita or 'nectar,' the goddess Lakshmi, and twelve other sacred things which had been lost in the depths."—Mon. Williams, *Indian Wisdom*, p. 330.
+
+Involution being accomplished, the treasures of wisdom, love, and truth are in abscondito, and can only be recovered through a process of evolution. The Higher Self (Vishnu), therefore, has to operate from below through matter, first in evolving simple desires and instincts (plants and herbs) and afterwards in arousing the stronger desires and the mind. The "sea of milk" is the buddhic nature reflected in the astral plane. This is stirred by the desire-mind (the serpent) by means of mental aspiration (mountain), in alliance with the forces of the ideals (gods) and of the desires (demons), which as "opposites" pull in contrary directions and so produce the strife between good and evil, error and truth, which is necessary to bring about development of the lower nature. The Higher Self is, as it were, the pivot of the whole process, the result of which is the recovery of the higher qualities of the soul which were lost at the "fall of man," or descent of mind into the lower nature. First to appear is the intuition (sacred cow) bestowing wisdom (milk) and love (butter): next comes direct spiritual perception (wine); then the perceived universality of the Divine Life (tree of Paradise). To crown all, as the consciousness rises through the buddhic plane, Wisdom herself (Lakshmi), as a "robe of glory," is conferred, while Love the Divine physician (Dhanvantari) holds high the "nectar of Truth and loving service to ideals," without which sustenance Ideals (the Gods) cannot live.—(See the account from the Puranas given in *Indian Wisdom*, p. 499.)
+
+See AMBROSIA, BOAR (avatar), LAKSHMI, NECTAR, TORTOISE, TREASURE IN HEAVEN, VISHNU.
+
+**Corrections made:** `Mon. Wituiams` → Mon. Williams; `‘nectar,’` quotation marks normalised; page headings `THE FOUR CIRCE` (mid-sentence) and `CIRCLE` (in the See list) removed; a closing quotation mark is supplied after `loving service to ideals`; See-list spellings restored (`Amprosta`, `Boar`, `LAKSHMT`, `ToRTOISE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

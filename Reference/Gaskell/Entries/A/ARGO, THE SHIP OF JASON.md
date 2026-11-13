@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-argo-the-ship-of-jason
 headword: "ARGO, THE SHIP OF JASON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,26 @@ tags:
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `PHAZATIANS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 | `SHIP OF MANU` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body as a vehicle of the Spirit and the higher qualities, in the evolutionary cycle.
+
+> "The ship which the Greeks call the Argo was the representation of the barque of Osiris."—Plutarch, *Isis and Osiris*, § 22.
+
+> "Argus with the aid of Athena, built for Jason a galley, called from himself Argo. In her prow Athena set a plank, cut from the speaking oak of Dodona."—*Argonautic Expedition*.
+
+The Higher Self with the aid of Wisdom, built a buddhic vehicle,—the higher causal-body,—for his evolution. In the forefront, Wisdom placed a mast of Truth (speaking oak).
+
+> "And as they were passing by the Absyrtean Isles, the Argo spoke, and said that the anger of Zeus would not be appeased until they went to Ausonia, and were purified by Circe."—*Ibid.*
+
+And as the consciousness is raised to the condition of spiritual vision, so it becomes aware of its own nature, and realises the Divine intention (anger of Zeus), which is that the soul shall attain to perfection (Circe) and possess the knowledge of all its possibilities.
+
+See ABSYRTUS, AGNIHOTRA, AMYCUS, ANCEUS, ARGUS, ARK, BOAT, CIRCE, JASON, PHAEACIANS, SHIP OF MANU.
+
+**Corrections made:** `PuLourarcn` → Plutarch; `Jbid.` → Ibid.; page heading `ARGONAUTS` removed from mid-sentence; See-list spellings restored (`AnsyYRrTus`, `AMYCUB`, `AnGus`, `Crece`, `PHAZATIANS`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

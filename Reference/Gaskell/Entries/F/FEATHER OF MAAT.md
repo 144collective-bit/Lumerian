@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feather-of-maat
 headword: "FEATHER OF MAAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `Maat` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MAAT, GODDESS|MAAT, GODDESS]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Sau. FEED ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower personality in its relation to justice and law. The feather, which is significant of the ephemeral, transitory character of physical life, is a sign of the illusory personality of the lower planes. It indicates the insufficiency of the personality, which is a lower expression of the Divine life, to continue to persist. A feather after serving its purpose in life is discarded, and is wafted away and lost.
+
+See HEEL, JUDGMENT HALL, JUSTICE, MAAT, PERSONALITY, SAUL.
+
+**Corrections made:** `im` → in; `Sau.` → [SAUL?]; trailing page heading `FEED ;` removed; See-list capitalisation restored.
+
+**Unclear or supplied:** Final See item OCR `Sau.` read as SAUL; uncertain.
 
 ## Full OCR entry body (exact)
 

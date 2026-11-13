@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-poseidon-or-neptune
 headword: "POSEIDON OR NEPTUNE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,26 @@ tags:
 | `VARUNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VARUNA, THE INVESTING SKY|VARUNA, THE INVESTING SKY]] |
 | `VOURUKASHA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Truth aspect of the manifesting Higher Self. It represents the consensus of prototypal ideas which are reflected on the lower planes in the multiplicity of the forms of life. The Truth aspect relates to the intellect.
+
+> "The gods decided that Athens should receive its name from the deity who should bestow upon man the most useful gift. Poseidon then created the horse, and Athena called forth the olive tree, in consequence of which the honour was conferred upon the goddess."—*Smith's Class. Dict.*
+
+The Truth aspect produced the intellect (horse), and the Love aspect, the intuition (olive tree), and the greatest of these is the intuition, which has its seat in the causal-centre (Athens), but its origin in buddhi (Athena).
+
+> "Poseidon was a son of Cronus and Rhea. . . . Originally a personification of the fertilising power of water. . . . The symbol of his power was the trident. . . . He was god of the sea."—*Ibid.*
+
+The manifesting Divine nature appears to proceed from time (Cronus) and space (Rhea). Through Truth-reality (water) comes the Divine Life of atma-buddhi-manas (the trident), and this is reflected in the astral "sea" as the illusion of the lower nature. In a higher sense the "sea" signifies the ocean of Truth-reality on the higher planes, over which the Spirit of God broods that it may bring forth every type of life that is to become existent in the phenomenal world of the lower planes.
+
+> "I image the being of God to myself as a shoreless ocean of undifferentiated being, the one reality which eternally is, and out of which, whatever be the reason for the emanation, our temporal conditioned life has come. That shoreless ocean is bliss, light, life, love, and power all in one. There is no other reality. This it is which was from the beginning, is now, and ever shall be, world without end. We are in it now, though we do not know it; we have never really left it; and when our present probation and pilgrimage are over, we shall awaken within its bosom."—R. J. Campbell, *Serm.*, *The Ineffable Divine*.
+
+See AGENOR, ATHENA, ATMA, CITY, CRONUS, [Douteum?], FISH OF SEA, FISH (great), HORSE, IRRIGATION, JESUS (fish), NARAYANA, OCEAN, OCEANUS, OLIVE, PHINEUS, PROTOTYPES, RHEA, SEA, TANGAROA, TISTRYA, TLALOC, TRIDENT, URANUS, VARUNA, VOURUKASHA, WATER.
+
+**Corrections made:** page heading `586 POTSHERD` removed from mid-sentence; `idees` → ideas; `Clase. Dict.` → Class. Dict.; `causalcentre` → causal-centre; `Truthreality` → Truth-reality (twice and once more); `‘‘sea”?` and `‘*gea` → "sea"; `shorelees` → shoreless; `CamMpBELL` → Campbell; See-list spellings restored (`Cronus`, `Fish oF SsE4`, `Horsr`, `OcEANUS`, `TistRYA`, `Jesus (fish)`, and similar).
+
+**Unclear or supplied:** `[Douteum?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

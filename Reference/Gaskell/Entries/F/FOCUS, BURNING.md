@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-focus-burning
 headword: "FOCUS, BURNING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `GIRDLE OF KNOWLEDGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GIRDLE OF KNOWLEDGE|GIRDLE OF KNOWLEDGE]] |
 | `ROBE OF WATERS` | **unresolved** (review queue) |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of the Self as the centre from which emanate the rays of the Divine Life to every human soul.
+
+> "O Burning Focus! I have come into Thee; I have cast about me the robe of the waters; I have girt myself with the girdle of knowledge."—*Book of the Dead*, Ch. CX., trans. M. W. Blackden.
+
+The Self is seen to be as a Centre wherein all the rays of the Divine Life are focussed into one Supernal Light; and the ego perceives that about the Divine nature into which he has come there are the "garment" and "girdle" of Truth and of Wisdom, i.e. the causal and buddhic vestures.
+
+See GIRDLE OF KNOWLEDGE, ROBE OF WATERS, SUN.
+
+**Corrections made:** `embiem` → emblem; `BLAaCKDEN` → Blackden; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

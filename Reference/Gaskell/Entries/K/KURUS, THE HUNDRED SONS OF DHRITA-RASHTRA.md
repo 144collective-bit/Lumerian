@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kurus-the-hundred-sons-of-dhrita-rashtra
 headword: "KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Karna` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KARNA, SON OF THE SUN AND PRITHA|KARNA, SON OF THE SUN AND PRITHA]] |
 | `Mara` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MARA, THE TEMPTER|MARA, THE TEMPTER]] |
 | `PANDAVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU|PANDAVAS, OR FIVE PANDU PRINCES, THE SONS OF PANDU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desires proceeding from the lower instinct nature.
+
+> "The Kurus are represented as mean, spiteful, dishonourable and vicious."—Mon. Williams, *Indian Wisdom*, p. 383.
+
+See [Duerra?], [Dxrista?], DRONA, KARNA, MARA, PANDAVAS.
+
+**Corrections made:** `epiteful` → spiteful; `WILLIAMS` normalised.
+
+**Unclear or supplied:** Two See-list items could not be identified: `[Duerra?]` and `[Dxrista?]`.
 
 ## Full OCR entry body (exact)
 

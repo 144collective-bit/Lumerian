@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ground-holy
 headword: "GROUND, HOLY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual nature of the soul, which is the foundation of manifest existence.
+
+**Corrections made:** Stray marks `-` and `|` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

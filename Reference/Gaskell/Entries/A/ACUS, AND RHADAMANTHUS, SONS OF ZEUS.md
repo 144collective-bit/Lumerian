@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-acus-and-rhadamanthus-sons-of-zeus
 headword: "ACUS, AND RHADAMANTHUS, SONS OF ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Noaun’s sons` | **unresolved** (review queue) |
 | `PHANES` | **unresolved** (review queue) |
 | `TRIAD. MINOS THE SECOND -— A symbol of the lower self` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These symbols signify the Divine principles of the Higher Triad—Will, Wisdom, and Action.
+
+> "Minos, who is stated by Thucydides to have been the first known founder of a maritime empire, appears in Homer as the greatest and most important of his archaic personages.... The name of Minos, whether mythical or not, is a symbol of political power, of the administration of justice, in a word, of civilisation. . . . His brother Rhadamanthus, hardly less distinguished, has the custody of the Elysian Plain."—W. E. Gladstone, *Juv. Mundi*, pp. 119, 120.
+
+The Divine Will rules over the empire of Truth (water). The Divine Wisdom presides over the buddhic plane.
+
+See CIVILISING, METIS, NOAH'S sons, PHANES, TRIAD.
+
+### Also in this note: MINOS THE SECOND
+
+A symbol of the lower self.
+
+**Corrections made:** `&` → a; `bis` → his; `civiligation` → civilisation; `Mundt` → Mundi; `GLapDsTone` → Gladstone; See-list spellings restored (`Crviiisinc`, `Metis`, `Noaun's`).
+
+**Unclear or supplied:** Contains a second entry: MINOS THE SECOND (the OCR runs it on after the See list, set off by a dash).
 
 ## Full OCR entry body (exact)
 

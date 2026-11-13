@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-durasrobo-the-karap
 headword: "DURASROBO, THE KARAP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Hoper` | **unresolved** (review queue) |
 | `KIxinqa_ ovr` | **unresolved** (review queue) |
 | `MaGIo PRACTICES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the kamic or astral principle of the lower nature, in its lower instinct quality.
+
+> "The plotting Durasrôbo, as a punishment for his wickedness in endeavouring to thwart the righteous (Zoroaster), comes to a violent and strange end."—A. V. W. Jackson, *Zoroaster*, p. 32.
+
+The lower instinct-nature comes to an end inasmuch as when the rein of reason is put on it to restrain it then transmutation takes place, and the lower desires, as such, become to all intents and purposes non-existent. This restraint and repudiation of lower motives to action, is equivalent to the killing-out or suppression of desire.
+
+See BIRTH OF KRISHNA, CURETES, HEROD, HODER, KILLING-OUT, MAGIC PRACTICES.
+
+**Corrections made:** `Durasrébo` → Durasrôbo; `Tho` → The; See-list spellings restored (`Herrop`, `Hoper`, `KIxinqa_ ovr`, `MaGIo`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

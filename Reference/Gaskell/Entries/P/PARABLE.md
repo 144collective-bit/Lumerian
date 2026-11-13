@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-parable
 headword: "PARABLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `Virains (ten)` | **unresolved** (review queue) |
 | `WEDDING` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WEDDING|WEDDING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbolic narrative of comparison, to illustrate the laws of the inner world by the laws of the outer.
+
+> "I will open my mouth in a parable: I will utter dark sayings of old."—Ps. lxxviii. 2.
+
+The expression of the inner nature shall appear in the outer, and under scriptural narratives there shall be revealed the hidden wisdom of the soul.
+
+> "It is clear, therefore, that if Hebrew history is to be read as our Lord and His Apostles teach us that it ought to be read, it must not be regarded (as too many regard it) merely as a literal recital of facts, but as also a typical representation of spiritual truths. Hebrew History, as written by the Holy Spirit in the Old Testament, is a divine [word unclear] Bible, Psalms, [Pra?] It is almost singular that the identification of the Laws of the Spiritual World with the Laws of Nature should so long have escaped recognition. For apart from the probability on a priori [gro]unds, it is involved in the whole structure of Parable. When any two phenomena in the two spheres are seen to be analogous, the parallelism must depend upon the fact that the Laws [g]overning them are not analogous but identical."—H. Drummond, *Natural Law*, etc., p. 52.
+
+> "Unto you is given to know the mystery of the Kingdom of God; but unto them that are without, all these things are done in parables."—Mark iv. 11.
+
+> "In other words, all material things are symbols, sacraments, of eternal and spiritual facts, and what needs to be [d]one with human beings is to awaken them to an immediate knowledge of those facts. . .. The visible world was so real to the people that the invisible could not make much appeal; they could not see in the one a parable of the other, a material representation of a spiritual reality, a mystery which could not be fully revealed to mortal flesh, but which could be immediately known nevertheless. ... The most real thing in our experience is just that which cannot be rationalised; it is felt and known but not explained; it is a mystery. When we are most aware of it is when we are at our best, when thoughts and feelings are most elevated, when desire and will are both thrown on the side of what we perceive to be highest and holiest; it is then that the supernatural breaks through and lays hold of us."—R. J. Campbell, *Serm.*, *The Mystery of the Heavenly Kingdom*.
+
+See ASS AND COLT, EXODUS, HOUSEHOLDER, LAZARUS, LEAVEN, MYTHOLOGY, PEARL, PRODIGAL, REAPING, SEED (good), SICKLE, SIGN, VINEYARD, VIRGINS (ten), WEDDING.
+
+**Corrections made:** `ixxviii` → lxxviii; `ig` → is; `facte` → facts; `Psalme` → Psalms; `priors unds` → a priori [gro]unds; `overning` → [g]overning; `As 52` → p. 52; `Makrx` → Mark; `ll.` → 11.; `theese` → these; `one with` → [d]one with; `CamMPBELL` → Campbell; page heading `PARACLETE` removed from mid-sentence; See-list spellings restored (`AsS aND COLT`, `Exopvus`, `MytTHoLOGY`, `Sickiz`, `Virains`); and similar minor fixes.
+
+**Unclear or supplied:** In the Drummond quotation the OCR reads `a_ divine oe Bible, Psalme, Pra It is almost singular`: `[word unclear]` and `[Pra?]` mark the damaged passage, which may be a break between two extracts. `p. 52` is a reading of OCR `As 52`.
 
 ## Full OCR entry body (exact)
 

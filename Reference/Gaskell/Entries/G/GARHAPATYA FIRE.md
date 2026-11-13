@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-garhapatya-fire
 headword: "GARHAPATYA FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `SOUL` | **candidate (first-segment only)** → possible `SOUL, SPIRIT, AND BODY` (not linked) |
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `WATER. YAMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhi-manasic centre of activity in the causal-body on the higher mental plane of the soul.
+
+> "The reason then why the sacrificer places water (the thunderbolt) near the Garhapatya fire is that the Garhapatya is a house, and a house is a safe resting place."—*Sata. Brâh.*, I. 1, 1, 19.
+
+> "The reason why he brings forward water is that all this universe is pervaded by water; hence by this his first act he wins (or gains) all this universe."—*Ibid.*, 14.
+
+The higher "water" signifying Truth—the Divine Reality—the Life of the universe, it is necessary that the causal-body (house) should be shown to have a part in that Life, and be a permanent resting place for the Ego while it periodically forthpours itself into human forms.
+
+See AGNIHOTRA, AHAVANIYA, ALTAR (fire), CAUSAL-BODY, GEMINI, HOUSE IN HEAVEN, MENTAL PLANE, SOUL, THUNDERBOLT, WATER, YAMA.
+
+**Corrections made:** `Saia. Bréh.` → Sata. Brâh.; `aan` → wins; `bid.` → Ibid.; `GArhapatya` → Garhapatya; See-list spellings and punctuation restored (`CausAL-BODY`, `HovusE`, `HEAVEN.`, `WATER.`); quotation marks normalised.
+
+**Unclear or supplied:** `wins` is inferred for OCR `aan` before "(or gains)".
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-riches-or-wealth-higher-aspect
 headword: "RICHES OR WEALTH (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `PooR IN SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/P/POOR IN SPIRIT|POOR IN SPIRIT]] |
 | `Ransom` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RANSOM, OR PRICE PAID FOR LIBERATION|RANSOM, OR PRICE PAID FOR LIBERATION]] |
 | `WEALTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WEALTH MERCURY, THE PLANET, VANANT|WEALTH MERCURY, THE PLANET, VANANT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotions and true knowledge. The transmuted qualities,—the treasure laid up in heaven.
+
+> "There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches. The ransom of a man's life are his riches: but the poor heareth not rebuke."—Prov. xiii. 7, 8.
+
+The first rich man is full of the satisfactions of desire, which profit nothing. The second has made himself poor in desire, but rich in wisdom and love, and it is this heavenly wealth which will be the ransom to liberate him from bondage to desire. The poor in this wealth perceive not its excellence.
+
+See BONDAGE, HUSBAND (good), POOR PEOPLE, POOR IN SPIRIT, RANSOM, WEALTH.
+
+**Corrections made:** page heading `RICHES` removed from mid-sentence; `--the` → —the; See-list spellings restored (`BonpacE`, `HussBanp`, `Pook PEOPLE`, `Ransom`); quotation marks normalised.
+
+**Unclear or supplied:** `HUSBAND (good)` is read from `HussBanp (good)`.
 
 ## Full OCR entry body (exact)
 

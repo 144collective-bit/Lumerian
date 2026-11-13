@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bridge-kinvat-or-chinvat
 headword: "BRIDGE, KINVAT, OR CHINVAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `MAIDEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAIDEN, HEAVENLY|MAIDEN, HEAVENLY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
 | `SIRIUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIRIUS, THE DOG-STAR, SURA|SIRIUS, THE DOG-STAR, SURA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind, above the lower mind (kama-manas) and lower consciousness.
+
+> "Between Heaven and Hell is Chinvat Peretu, 'the bridge of the gatherer,' or 'the bridge of the judge' (Chinvat can have both meanings), which the soul of the pious alone can pass, while the wicked fall from it down into Hell."—Haug, *Essays*, p. 311.
+
+This "bridge" of the higher mind between the lower and higher natures is pre-eminently that of the gatherer and of the judge, for in the higher mind are gathered the results of the experiences of the ego in the lower life, and between each incarnation the soul is judged unerringly regarding its past progress, and the conditions needed to aid its future growth. The soul cannot pass over the "bridge" until it is perfected. As long as it is attached to desire and sensation and needs purification, so long it falls back into the underworld life after life.
+
+See BALANCE, DOG-STAR, DUSAKH, ELWAH (res.), GARODMAN, HEAVEN, HELL, HIGHER AND LOWER, KARMA, MAIDEN, RE-INCARNATION, SIRIUS.
+
+**Corrections made:** `Hava` → Haug; `Doac-star` → DOG-STAR; `HetL` → HELL; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

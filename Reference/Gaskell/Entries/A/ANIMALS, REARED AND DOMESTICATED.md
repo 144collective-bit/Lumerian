@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-animals-reared-and-domesticated
 headword: "ANIMALS, REARED AND DOMESTICATED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the disciplining of the lower emotions and qualities, in such a way as to make them of use to the progress of the soul.
+
+> "Fuh-he recommended pastoral employments and the rearing of domesticated animals."—[Kidd?], *China*, p. 103.
+
+The Logos (Fuh-he) arranged that the intelligence should be awakened through the activity of the desires, and the need that would arise for their restraint and regulation (animals domesticated). This refers to the dawn of mind when related with the desires (pastoral life), and the commencement of the cultivation and utilising of the lower faculties to aid development of the higher nature of the soul.
+
+> "Want, instinct, curiosity, with all the mental activity excited and quickened by them, the association of ideas, reflection, deliberate volition, have gathered, carved, polished, embellished the materials, adapting the occupant to the dwelling and the dwelling to the occupant."—[attribution unclear], *Philosophy*.
+
+[See] FUH-HE, PASTORAL.
+
+**Corrections made:** `Kuinpp` → [Kidd?]; quotation marks normalised.
+
+**Unclear or supplied:** The author of the last quotation is lost (OCR `. 7 ,`) and only `Philosophy` survives of the title. The word `See` is supplied in square brackets: the OCR runs the attribution straight into `FUH-HE, PasTORAL`, and further See items may be lost.
 
 ## Full OCR entry body (exact)
 

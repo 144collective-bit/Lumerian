@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arabs-entering-iran
 headword: "ARABS ENTERING IRAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CounrtrRIEs` | **unresolved** (review queue) |
 | `TrosaNns` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emotion-nature (Arabs) and the mental-nature (Iran) becoming united on the mental plane. The emotions are, as it were, invaders (by vibrations) from another plane, of the mental realm which they in a measure conquer for themselves, though in doing so they come under the restraint and discipline of the mind (Iran).
+
+See COUNTRIES, TROJANS.
+
+**Corrections made:** Stray leading `;` removed; `CounrtrRIEs` → COUNTRIES; `TrosaNns` → TROJANS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

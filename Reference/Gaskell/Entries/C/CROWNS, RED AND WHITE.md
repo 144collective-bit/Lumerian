@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crowns-red-and-white
 headword: "CROWNS, RED AND WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `N&KHEBIT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 | `RED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RED COLOUR|RED COLOUR]]; [[Reference/Gaskell/Entries/R/RED FIRES|RED FIRES]]; [[Reference/Gaskell/Entries/R/RED, ROSE, COLOUR|RED, ROSE, COLOUR]] |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Emblems of lordship over the emotion nature and the intellect. See NEKHEBIT, RED, WHITE.
+
+**Corrections made:** `N&KHEBIT` → NEKHEBIT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

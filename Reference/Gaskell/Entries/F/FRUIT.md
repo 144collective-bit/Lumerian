@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fruit
 headword: "FRUIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Karma` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of results of action,—good and bad. Effect of the operation of the law of karma,—moral causation—in the soul's progress.
+
+> "I the Lord search the heart, I try the reins, even to give every man according to his ways, according to the fruit of his doings."—Jer. xvii. 10.
+
+> "Say ye of the righteous, that it shall be well with him: for they shall eat the fruit of their doings. Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."—Is. iii. 10, 11.
+
+To every mental quality (man) shall accrue the due result of its activity in well or ill doing.
+
+See KARMA.
+
+**Corrections made:** `acoord FRUIT ing` → according with page heading `FRUIT` removed; `acoording` → according; `ite` → its; `Karma` → KARMA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

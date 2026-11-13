@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dog
 headword: "DOG"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ASPAHI` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ASPAHI-ASTRA WHIP|ASPAHI-ASTRA WHIP]] |
 | `CoRPSES` | resolved (singular/plural) → [[Reference/Gaskell/Entries/C/CORPSE, OR DEAD (HUMAN)|CORPSE, OR DEAD (HUMAN)]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the will in its various aspects.
+
+See ASPAHI, CORPSES, WILL.
+
+**Corrections made:** `CoRPSES` → CORPSES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

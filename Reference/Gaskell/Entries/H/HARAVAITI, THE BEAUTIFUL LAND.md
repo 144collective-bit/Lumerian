@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-haravaiti-the-beautiful-land
 headword: "HARAVAITI, THE BEAUTIFUL LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `GOLDEN AGE` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLDEN AGE|GOLDEN AGE]] |
 | `Kama` | **unresolved** (review queue) |
 | `ParapisE (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PARADISE|PARADISE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of kama-manasic enlightenment during involution. It signifies the emotion-nature expressing itself so as to produce pleasure to the soul at this stage of the soul's growth. See GOLDEN AGE, KAMA, PARADISE (lower).
+
+**Corrections made:** `Kama, ParapisE` → KAMA, PARADISE.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

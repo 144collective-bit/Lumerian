@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stem-of-the-hom-plant-the-height-of-a-man
 headword: "STEM OF THE HOM-PLANT, THE HEIGHT OF A MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `HOM-PLANT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOM-PLANT STEM|HOM-PLANT STEM]] |
 | `SurgaTmMa` | **unresolved** (review queue) |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the vehicles of the Divine Life on the successive planes of the human soul, all being interconnected from above downward,—the height of the ego.
+
+See DESERTS, HEAVEN AND EARTH, HEIGHT OF OSIRIS, HOM-PLANT, SUTRATMA, VESTURES.
+
+**Corrections made:** `osiRIs` → OSIRIS; `SurgaTmMa` → SUTRATMA.
+
+**Unclear or supplied:** `SurgaTmMa` read as SUTRATMA (uncertain).
 
 ## Full OCR entry body (exact)
 

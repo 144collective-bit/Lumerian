@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pishon-river
 headword: "PISHON RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `EDEN (river)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `HaviiaH` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mental plane.
+
+> "The name of the first is Pishon: and that is it which compasseth the whole land of Havilah where there is gold."—Gen. ii. 11.
+
+The symbol (name) of the first river answers to the higher mental plane: this comprises the circuit around the buddhic state wherein is Truth (gold).
+
+See EDEN (river), HAVILAH.
+
+**Corrections made:** `Fiver` → river; `HaviiaH` → HAVILAH; page heading `PIT` removed from mid-sentence; stray `, .` marks removed around the Gen. reference.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

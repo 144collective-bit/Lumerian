@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-obelisk
 headword: "OBELISK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Cotumn` | **unresolved** (review queue) |
 | `SPIRE. OBLATION ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem denoting aspiration. See COLUMN, SPIRE.
+
+### Also in this note: OBLATION
+
+[text cut off]
+
+**Corrections made:** `Cotumn` → COLUMN; the trailing headword `OBLATION ;` is set out as a second entry with no text.
+
+**Unclear or supplied:** Contains a second entry: OBLATION, which breaks off after the headword (`[text cut off]`).
 
 ## Full OCR entry body (exact)
 

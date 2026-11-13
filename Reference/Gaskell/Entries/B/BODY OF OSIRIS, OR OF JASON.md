@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-body-of-osiris-or-of-jason
 headword: "BODY OF OSIRIS, OR OF JASON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `DEATH OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DEATH OF OSIRIS|DEATH OF OSIRIS]] |
 | `Mummy OF osIRIs` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `OsIris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astro-mental vehicle, or body of desire, in which the Self is encased.
+
+See DEATH OF OSIRIS, MUMMY OF OSIRIS, OSIRIS.
+
+**Corrections made:** page heading `120 BONDAGE` removed from mid-sentence; `Mummy OF osIRIs, OsIris` → MUMMY OF OSIRIS, OSIRIS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

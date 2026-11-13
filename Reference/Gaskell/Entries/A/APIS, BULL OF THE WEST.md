@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-apis-bull-of-the-west
 headword: "APIS, BULL OF THE WEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `Mempuis` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MEMPHIS|MEMPHIS]] |
 | `Osiris` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `SERaPIs. 54` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the outgoing activity of the Divine Will on the buddhic plane.
+
+> "In Memphis is kept the Apis, the 'Image of the soul of Osiris,' where his body also is said to lie."—Plutarch, *Isis and Osiris*, § 20.
+
+On the buddhic plane (Memphis) there appears the matrix of all forms in prototype, directing the outgoing energy of the Logos.
+
+> "The identification of Apis with Osiris was easy enough, because one of the commonest names of Osiris was 'Bull of the West.'"—[Budge?].
+
+> "In course of time the bull, like other animals, was regarded as a symbol, and Apis is hence identified with Osiris or the Sun."—Smith's *Class. Dict.*, "Apis."
+
+See BULL, MEMPHIS, OSIRIS, SERAPIS.
+
+**Corrections made:** `Pxruranrca` → Plutarch; page number `54` removed from the end; See-list spellings restored (`Butz`, `Mempuis`, `SERaPIs`); quotation marks normalised.
+
+**Unclear or supplied:** `[Budge?]` is a guess for the damaged author name `BunakE`.
 
 ## Full OCR entry body (exact)
 

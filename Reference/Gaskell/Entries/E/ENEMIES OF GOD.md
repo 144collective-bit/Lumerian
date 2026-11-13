@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enemies-of-god
 headword: "ENEMIES OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `Sworp` | **unresolved** (review queue) |
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `TONGUES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TONGUES, GIFT OF|TONGUES, GIFT OF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desires and lower qualities of the soul which are in opposition to the higher nature of Truth, Wisdom and Love.
+
+> "But God shall smite through the head of his enemies, the hairy scalp of such an one as goeth on still in his guiltiness."—Ps. lxviii. 21.
+
+The Divine Love shall in the soul Overcome the selfish desire-mental qualities,—the state of mind which is not contrite for the shortcomings of the lower nature, and which seeks its own aggrandisement.
+
+> "And Horbehûdti (Horus) spake: 'Advance, Ra, that thou mayest see thine enemies lying beneath thee in this land.' Now when the majesty of Ra had traversed the way, and with him the goddess Astarte, then saw he the foe lying upon the earth, each lay stretched out like [word unclear]."—*[Legend?] of the Winged Sun*. [word unclear]
+
+And the Son of God,—the evolving Self—aspired and cried to the Supreme: "Advance, within the soul, O Father, that Thy perfection may find the enemies of righteousness prone upon the lower planes beneath the feet of Thy Servant; for the illusions of ignorance and evil have now been slain through a realisation of Truth and Goodness." Then when the Logos had declared himself in his dual aspect of Love and Wisdom, he came forward and saw the foes of the Self which were lying dead beneath; each having been vanquished and devitalised through the evolution of the higher nature.
+
+See DURGA, HAIR SHAVEN, HEAD, HORBEHUDTI, KILLING OUT, OPPOSITES, RA, SERVANT OF GOD, SLAUGHTER, SWORD, THUNDERBOLT, TONGUES.
+
+**Corrections made:** page heading `249 ENIGORIO` removed from mid-sentence; `Ixviii.` → lxviii.; `Jand` → land; stray `_` removed; See-list spellings restored (`DurGca`, `Horse fpti`, `OPPosirEs`, `Sworp`); quotation marks normalised.
+
+**Unclear or supplied:** The end of the Horbehudti quotation is damaged (OCR `like ya of the Winged Sun. 8K.`): `[word unclear]` stands for `ya` and for `8K`, and `[Legend?]` is a guess from the title *Legend of the Winged Sun-disk* used elsewhere. `HORBEHUDTI` is read from OCR `Horse fpti`; `KILLING OUT` from `KILLING out`.
 
 ## Full OCR entry body (exact)
 

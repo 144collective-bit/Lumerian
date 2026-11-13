@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-baptism-of-fire
 headword: "BAPTISM OF FIRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -68,6 +69,28 @@ tags:
 | `’PARACLETE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARACLETE, COMFORTER, INTERCESSOR|PARACLETE, COMFORTER, INTERCESSOR]] |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `REVELATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REVELATION|REVELATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of purification by means of the buddhic function, of the souls of those egos who have attained Christhood.
+
+> "He shall baptise you with the Holy Ghost and with fire."—Mat. iii. 11.
+
+This signifies the descent of the Spirit upon the faithful souls, which takes place when they are gathered together in one accord, looking within for the selfsame Light of Wisdom; when they know that religion is progressive, and when they realise that the floodgates of Truth are never closed up, but that REVELATION is a reality of now and for ever. (See Acts ii.)
+
+> "The Fire entereth into the soul secretly."—*Pistis Sophia*.
+
+"The Fire" (buddhi) cometh not to the ego with observation, for it is not in the scope of the lower consciousness to perceive it.
+
+> "The fiery baptism will burn up the chaff of error with the fervent heat of Truth and Love, melting and purifying even the gold of human character."—Mrs. Eddy, *Science and Health*, p. 565.
+
+> "The Holy Spirit is fire. Now, whatever may be the meaning of the emblem in the preceding and subsequent clauses (Mat. iii. 11), it can have but one [meaning?] in our text itself—and that is, the purifying influence of the Spirit of God. Baptism with the Holy Ghost is not one thing and baptism with fire another, but the former is the reality of which the latter is the symbol. It may be worth while to dwell briefly on the force of the emblem. Fire, then, all over the world has been taken to represent the Divine energy. Scripture has from the beginning used it. . . . Thus, then, there is a continuous chain of symbolism, according to which some [aspect?] of the Divine nature, and especially of the Spirit of God, is set forth for us by fire. The question, then, comes to be—What is that aspect? In answer, I would remind you that the attributes and offices of the Spirit of God are never in Scripture represented as being destructive, and are only punitive, in so far as the convictions of sin, which He works in the heart, may be regarded as being punishments. The fire of God's Spirit, at all events, is not a wrathful energy, working pain and death, but a merciful omnipotence, bringing light and joy and [word unclear]."—A. Maclaren, *Sermons*, 2nd Series, pp. 229-31.
+
+See BORN AGAIN, FIRE, HOLY GHOST, PARACLETE, REGENERATION, REVELATION.
+
+**Corrections made:** `Christhoo` → Christhood; `her Nae Ghost` → the Holy Ghost; `a the Spirit` → of the Spirit; `8 reality` → a reality; `comsciousness` → consciousness; `Eppy` → Eddy; `Pistie Sophia` → Pistis Sophia; `ig Mat.` → in Mat.; `iteelf` → itself; `especiy` → especially; `ie` → is; `fre` → fire; See-list spellings restored (`Born aGarm`, `Frmz`, `Horny GuHost`); page heading `BARHIS` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `[meaning?]` replaces OCR `ing` and `[aspect?]` replaces `ct`. The quotation ends `joy and` followed by the attribution, so the final word is lost: `[word unclear]`.
 
 ## Full OCR entry body (exact)
 

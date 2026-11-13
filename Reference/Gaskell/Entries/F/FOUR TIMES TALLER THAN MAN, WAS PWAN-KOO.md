@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-times-taller-than-man-was-pwan-koo
 headword: "FOUR TIMES TALLER THAN MAN, WAS PWAN-KOO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `HEIGHT OF OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEIGHT OF OSIRIS|HEIGHT OF OSIRIS]] |
 | `PwaN-koo` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PWAN-KOO, THE DIVINE ARTIFICER|PWAN-KOO, THE DIVINE ARTIFICER]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This statement refers to the fact that the potential measure of the human soul comprehends the five planes of its being, upon four of which it has not yet become conscious. The Logos (Pwan-koo) manifests on the five planes.
+
+See DESERTS, HEIGHT OF OSIRIS, PWAN-KOO, WORLDS (five).
+
+**Corrections made:** See-list spellings restored (`DeEsERTs`, `PwaN-koo`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

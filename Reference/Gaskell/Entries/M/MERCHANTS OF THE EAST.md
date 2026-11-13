@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-merchants-of-the-east
 headword: "MERCHANTS OF THE EAST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `East` | **unresolved** (review queue) |
 | `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `MaIsHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the manasic intelligences which transmute the sensations and feelings into ideas and emotions. See EAST, HERMES, MAISHAN.
+
+**Corrections made:** `East, Hermes, MaIsHAN` restored to capitals.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

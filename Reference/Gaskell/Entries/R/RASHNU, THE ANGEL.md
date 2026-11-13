@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rashnu-the-angel
 headword: "RASHNU, THE ANGEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `BALANCE (spirits)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BALANCE OF SPIRITS|BALANCE OF SPIRITS]] |
 | `SRos#H` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SROSH, OR SRAOSHA, RIGHTEOUS|SROSH, OR SRAOSHA, RIGHTEOUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine love; attraction towards the higher.
+
+> "The meditation of Mitro, and Srosh and Rashnu, and the weighing of Rashnu the just."—*The Minokhired*, Hava, *Essays*.
+
+The "meditation" is a symbol of concentration, or the value of mental balance. "Mitro, Srosh, and Rashnu" stand for Understanding, Will, and Love.
+
+See BALANCE (spirits), SROSH.
+
+**Corrections made:** `‘* Fhe` → "The; `SRos#H` → SROSH; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

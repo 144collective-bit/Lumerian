@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-briareus-men-one-legged
 headword: "BRIAREUS, MEN, ONE-LEGGED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Heap` | **unresolved** (review queue) |
 | `Ox` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OX, SPLENDID PRIMORDIAL|OX, SPLENDID PRIMORDIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind which co-ordinates ideas, and enables the Self to stand alone.
+
+### Also in this note: MEN, OXEN- OR COW-HEADED
+
+Symbolic of mental qualities directed by the higher will; or the mind dominated by buddhi (cow).
+
+See COW, HEAD, OX.
+
+**Corrections made:** `:s—` after the second headword treated as the headword marker; `Heap` → HEAD; `Cow`, `Ox` capitalised.
+
+**Unclear or supplied:** Contains a second entry: MEN, OXEN- OR COW-HEADED. `HEAD` is a likely reading of OCR `Heap`.
 
 ## Full OCR entry body (exact)
 

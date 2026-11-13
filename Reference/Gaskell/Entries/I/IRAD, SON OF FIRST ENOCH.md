@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-irad-son-of-first-enoch
 headword: "IRAD, SON OF FIRST ENOCH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ENOCH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/ENOCH|ENOCH]] |
 | `SON OF CAIN` | **unresolved** (review queue) |
 | `MEHUJAEL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of faith, the product of aspiration.
+
+See ENOCH, SON OF CAIN, MEHUJAEL.
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

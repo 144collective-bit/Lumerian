@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cup-double
 headword: "CUP, DOUBLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `HepnHaistos` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/H/HEPHAISTOS, OR VULCAN|HEPHAISTOS, OR VULCAN]] |
 | `Hera` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HERA OR JUNO|HERA OR JUNO]] |
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principles of Love and Wisdom which are united in Truth.
+
+> "So speaking he (Hephestus) rose up and set in his dear Mother's (Hera's) hand the Double Cup, and spake to her."—*Iliad*, Bk. I, trans. Buckley.
+
+Thus having manifested Its powers, the Creative Mind rises to Buddhi, where it delivers to the Wisdom-principle (Hera) the dual aspects of the Higher Self,—intuition and love,—and then addresses Itself to the Wisdom within itself. See HEPHAISTOS, HERA, MUSIC.
+
+**Corrections made:** `Jliad` → *Iliad*; `Bucxriey` → Buckley; `Wisdomprinciple` → Wisdom-principle; `HepnHaistos` → HEPHAISTOS.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

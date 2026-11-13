@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-personality-pharisees-son-of-man-frananger-waterfal
 headword: "PERSONALITY, PHARISEES, SON OF MAN, FRANANGER WATERFALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `NET OF ASAR` | **unresolved** (review queue) |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane and its activities energised. See NET OF ASAR, WATER (lower).
+
+**Corrections made:** None beyond layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

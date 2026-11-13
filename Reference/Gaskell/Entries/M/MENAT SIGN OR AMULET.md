@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-menat-sign-or-amulet
 headword: "MENAT SIGN OR AMULET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `Frourr oF sPinit` | **unresolved** (review queue) |
 | `NEcK` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NECK|NECK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher qualities as celestial food. The "fruit of the Spirit" hanging downwards for the nourishment of the soul.
+
+> "Usually the menat is held in the hand, but it is often worn on the neck. Its object was to bring joy and health to the wearer; and it was believed to possess magical properties; it represented nutrition."—Budge, *Egyptian Magic*, [page unclear].
+
+See FRUIT OF SPIRIT, NECK.
+
+**Corrections made:** `Bup@Ez` → Budge; `Frourr oF sPinit` → FRUIT OF SPIRIT; `NEcK` → NECK.
+
+**Unclear or supplied:** The page reference after *Egyptian Magic* is lost in the OCR (`[page unclear]`).
 
 ## Full OCR entry body (exact)
 

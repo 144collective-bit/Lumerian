@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gate-of-tchesert
 headword: "GATE OF TCHESERT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `Sau` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
 | `Tem` | **unresolved** (review queue) |
 | `Tuar` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the planes of buddhi-manas, as affording an opening for the manifestation of the Divine nature.
+
+> "Now the gate of Tchesert is the gate of the pillars of Shu, the northern gate of the Tuat (underworld); or, as others say,—it is the two leaves of the door through which the god Tem passeth when goeth forth to the eastern horizon of heaven."—Budge, *Book of the Dead*, Ch. XVII.
+
+The "pillars of Shu" are the four planes below atma, which constitute the Tuat, or underworld. The "northern gate" represents the entrance into the cycle of the lower life. The "two leaves of the door" signify the Buddhi-manasic outpouring of the Logos (Tem) at the dawn (east) of manifestation.
+
+See BOLTS, BUDDHIC PLANE, EAST, HORIZONS, MANAS, PILLARS OF SHU, SHU, TEM, TUAT.
+
+**Corrections made:** `buddhimanas` → buddhi-manas; `Bupa@e` → Budge; `XVIT` → XVII; stray `®™` removed after "door"; See-list spellings restored (`Botts`, `East`, `Horizons`, `Sau`, `Tuar`); quotation marks normalised.
+
+**Unclear or supplied:** `SHU` is inferred for OCR `Sau` in the See list.
 
 ## Full OCR entry body (exact)
 

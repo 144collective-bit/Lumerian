@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hour
 headword: "HOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `TWELVE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TWELVE, NUMBER|TWELVE, NUMBER]]; [[Reference/Gaskell/Entries/T/TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN|TWELVE, VESSELS, WHEEL OF LIFE, ZODIAC, UR-UATCHTI CROWN]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the twelfth part of a manvantara or great cycle of manifested life of the universe, or soul. The "hour" has the same signification as a sign of the Zodiac. It represents the twelfth part of the course of the Higher Self (sun) through the cycle of life in the lower nature or underworld. Sometimes the cycle is symbolised as a day of twelve hours, and sometimes as a night. When symbolised as a night of twelve hours, as in the case of the Tuat, the implication is that the Higher Self is concealed and unmanifest, as we find is the case in our present state of existence.
+
+See LABOURERS, MANVANTARA, TUAT, TWELVE, ZODIAC.
+
+**Corrections made:** `manifeeted` → manifested; `signof` → sign of; `Itrepresents` → It represents; `Tuat` → TUAT.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

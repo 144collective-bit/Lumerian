@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-salamanders-and-sylphs
 headword: "SALAMANDERS AND SYLPHS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Devas (lower)` | resolved (qualified head) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]] |
 | `DRyYap` | **unresolved** (review queue) |
 | `Fie` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These terms denote nature-spirits on the astral plane which build up and weave together the forms of organisms. They are builders not architects. Their operations (not themselves) may be watched under a microscope in the forming of plant cells. See DEVAS (lower), DRYAD, FIRE.
+
+**Corrections made:** `od` → of; See-list spellings restored (`Devas`, `DRyYap`, `Fie.`).
+
+**Unclear or supplied:** `FIRE` restored from OCR `Fie.`; reading is likely but not certain.
 
 ## Full OCR entry body (exact)
 

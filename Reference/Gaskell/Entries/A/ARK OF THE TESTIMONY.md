@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ark-of-the-testimony
 headword: "ARK OF THE TESTIMONY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `Mosszs` | **unresolved** (review queue) |
 | `SHEKINAH` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEKINAH|SHEKINAH]] |
 | `SHEWBREAD` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHEWBREAD, OR BREAD OF THE FACES|SHEWBREAD, OR BREAD OF THE FACES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body as the receptacle of evidence to bring conviction to the lower consciousness of the reality of the indwelling Divine nature as an Ideal for reverence and aspiration.
+
+> "And he (Moses) took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark."—Exod. xl. 20.
+
+And the law of the moral nature was the means of preparing the mind for the reception within its most sacred shrine, i.e. the causal-body, of the Divine law of Love and Wisdom to be to the soul its Ideal for reverence and aspiration. The "mercy-seat" indicates forgiveness, that is, the Divine ignoring of past failures, and the concession of the soul's privilege of constant progression. And above this soul-state are the laws of the higher intelligence (cherubim), and the beautiful wings of aspiration.
+
+> "In the Ark of the Covenant there was but the Book of the Law, the Rod of Aaron, and the Pot of Manna. Even so that soul, which has no other aim than the perfect observance of the law of God, and the carrying of the Cross of Christ, will be a true Ark containing the true Manna, which is God" (Catherine of Genoa).—F. von Hügel, *Mystical Element*, Vol. I. p. 61.
+
+See CAUSAL-BODY, CHERUBIM, FOOD (God), [Karsurpra?], MANNA, MOSES, SHEKINAH, SHEWBREAD.
+
+**Corrections made:** Page heading `ARMS` removed from mid-sentence; `ite` → its; `forgivenees` → forgiveness; `Huvuoxt` → Hügel; `Exop.` → Exod.; See-list spellings restored (`Mosszs`, `CoHzERUBIM`, `Foop`).
+
+**Unclear or supplied:** `[Karsurpra?]` is a See-list item that could not be identified. The closing quotation mark after "which is God" is supplied for the OCR's single mark.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conviction-of-sin
 headword: "CONVICTION OF SIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `CONVERSION` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONVERSION|CONVERSION]] |
 | `PRODIGAL. KINGDOM OF` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A sense of dissatisfaction with a course of life which comes to the emotion-nature, and is the precursor of an extension of the moral range and of a resolution to arise and seek a higher spiritual condition.
+
+> "The very problems of evil are really the marks of an eternal progress; how man's very consciousness as a sinner is the evidence of a movement towards an infinitely glorious ideal yet to be realised in him."—J. Brierley, *The Eternal Religion*, p. 45.
+
+> "Presently I found two things within me, at which I did sometimes marvel, especially considering what a blind, ignorant, sordid and ungodly wretch but just before I was; the one was a very great softness and tenderness of heart, which caused me to fall under the conviction (of the blessed condition of a truly godly man); and the other was a great bending in my mind to a continual meditating on it, and on all other good things which at any time I heard or read of."—John Bunyan, *Grace Abounding*.
+
+See CONVERSION, PRODIGAL. [KINGDOM OF?]
+
+**Corrections made:** `BrierRtey, Zhe` → Brierley, *The*; `a_ blind` → a blind; `& very` → a very; `Joun` → John; stray symbols standing for quotation marks normalised.
+
+**Unclear or supplied:** The trailing `KINGDOM OF` is a catchword fragment of the following page's heading; kept in brackets as a probable See-list item or heading fragment.
 
 ## Full OCR entry body (exact)
 

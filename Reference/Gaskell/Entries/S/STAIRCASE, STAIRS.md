@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-staircase-stairs
 headword: "STAIRCASE, STAIRS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `LADDER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LADDER FROM EARTH TO HEAVEN|LADDER FROM EARTH TO HEAVEN]]; [[Reference/Gaskell/Entries/L/LADDER, JACOB'S|LADDER, JACOB'S]] |
 | `Mouth (speech)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MOUTH, FOR SPEECH|MOUTH, FOR SPEECH]] |
 | `STEPs` | resolved (full-head) → [[Reference/Gaskell/Entries/S/STEPS|STEPS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the means of evolution from a lower to a higher state.
+
+> "Osiris is called 'the god on the top of the staircase.'"—Budge, *Book of the Dead*, p. liv.
+
+The Higher Self manifests on the plane of atma—the height of aspiration in the human soul.
+
+> "The height of the Christian life is the glorious consciousness where all is light, and all is peace. A few have a genius for it and reach it without much effort; it may be that they have had their struggles in some previous existence—I know not. For most the only way to it is by the narrow stair of arduous duty, a stair that often winds through dark places, where discouragement and fear and despair are apt to come upon the soul. At such times, keep an open ear for the voices that say: 'It is lighter up above.' As the realisations of God grow fuller, and all the selfish instincts die down, and the desires for personal aggrandisement are overcome, you shall gradually cease from your labour, though living to do greater and better work, and the word of Christ shall come to rule in your heart, and you shall find your life in that 'Immortal Love, within whose righteous will is always peace.'"—T. Rhondda Williams, *Serm.*, *Dying in the Lord*.
+
+See ATMA, LADDER, MOUTH (speech), STEPS.
+
+**Corrections made:** `a-lower` → a lower; `Bunce` → Budge; See-list spellings restored (`Atma`, `Mouth`, `STEPs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-harmony-and-music
 headword: "HARMONY AND MUSIC"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,14 @@ tags:
 | `MeEtopy` | **unresolved** (review queue) |
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `NyMpus` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of perfect adjustment of all conditions during involution, implying complete adaptation of each part to the whole. See DANCE, GOLDEN AGE, GOOD, HYMN, MELODY, MUSIC, NYMPHS.
+
+**Corrections made:** See-list spellings restored (`Dance`, `GooD`, `MeEtopy`, `Music`, `NyMpus`→NYMPHS).
+
+**Unclear or supplied:** `NYMPHS` is a likely restoration of OCR `NyMpus`.
 
 ## Full OCR entry body (exact)
 

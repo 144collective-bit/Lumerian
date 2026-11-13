@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-evening
 headword: "EVENING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `EARTHQUAKES` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTHQUAKES|EARTHQUAKES]] |
 | `HEROIO RUNNER` | **unresolved** (review queue) |
 | `SUNSETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the drawing in of a cycle towards its close. A period of calm, rest and accomplishment; a time when the stress and struggle of life are o'er, and when the noonday heat is past. It is, at the same time, emblematic of a season of darkness, doubt, and despair, when the Self does not give his light, and when men's hearts,—unless they be firmly fixed upon their mission and realise their object,—fail them for fear and quake unutterably, "for looking for those things which are coming upon the earth," or lower nature at the end of a cycle.
+
+> "'In the evening' signifies the end of a former state and the beginning of a [new one; word unclear]. 'Between the evenings' signifies the last and the first state."—Swedenborg, *Arc. Cel.* to Gen. i.
+
+> "It shall come to pass that at evening time there shall be light."—Zech. xiv. 7.
+
+See CALAMITIES, EARTHQUAKES, HEROIC RUNNER, SUNSETTING.
+
+**Corrections made:** page heading `EVENING` removed from mid-sentence; `sarme` → same; `Are. Cel.` → Arc. Cel.; `Zrcn.` → Zech.; `HEROIO` → HEROIC; `CaLAMITIES` → CALAMITIES; quotation marks normalised.
+
+**Unclear or supplied:** The Swedenborg quotation is scrambled in the OCR (`a te Bete th ignifies the ** Between the evenings' signi last and the first state`); `[new one; word unclear]` is a reconstruction, and the stray `ignifies the` is absorbed into `signifies the last and the first state`.
 
 ## Full OCR entry body (exact)
 

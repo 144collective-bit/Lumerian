@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guru-or-teacher
 headword: "GURU, OR TEACHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `MASTER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MASTER, NOT RULED BY A|MASTER, NOT RULED BY A]]; [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]]; [[Reference/Gaskell/Entries/M/MASTER, RULED BY A|MASTER, RULED BY A]] |
 | `PRIEST` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `VEDA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind; that faculty in the higher mind which brings knowledge from above to the causal-self in accordance with the endeavours of the lower self to attain goodness and truth.
+
+> "That Brâhmana, who performs in accordance with the rules of the Veda the rites, the Garbhadana (conception rite), and so forth, and gives food to the child, is called the Guru (the venerable one)."—*Laws of Manu*, II. 142.
+
+That higher mental faculty which carries out the Divine laws of the higher nature in regard to the nurture and sustenance of the spiritual germ and infant "Son of mind" in the soul, may be called the spiritual mind, (buddhi-manas).
+
+> "Without the true Guru they find not the Real Thing. They who are purified by the True One walk in the true way." "There is no emancipation without the perfect Guru" (Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. p. 365.
+
+The true or perfect Guru signifies the Higher Self. See AARON, ADEPT, BRAHMACARIN, BRAHMANA, CHRYSE, MASTER, PRIEST, VEDA.
+
+**Corrections made:** `Braéhmana` → Brâhmana; `MAcauuirre, The Stkh Religion` → Macauliffe, The Sikh Religion; `p- 365` → p. 365; page headings `SaTTrva, HABIT` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-boat
 headword: "BOAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `CHARIOT OF THE SUN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CHARIOT OF THE SUN, WITH FOUR HORSES|CHARIOT OF THE SUN, WITH FOUR HORSES]] |
 | `SHIP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SHIP, BLACK|SHIP, BLACK]]; [[Reference/Gaskell/Entries/S/SHIP OF BALDER|SHIP OF BALDER]]; [[Reference/Gaskell/Entries/S/SHIP OF MANU|SHIP OF MANU]]; [[Reference/Gaskell/Entries/S/SHIP OR BOAT ON THE SEA|SHIP OR BOAT ON THE SEA]] |
 | `TuaT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body, the seat of the Higher Self. The soul floating on the river of life.
+
+> "The True Guru is a boat; few there are who consider this, and those who do he mercifully saveth" (*Asa ki war*).—[Macauliffe?], *The Sikh Religion*, Vol. I. p. [word unclear].
+
+See AFU-RA, ARGO, ARK, CHARIOT OF THE SUN, SHIP, TUAT.
+
+**Corrections made:** `age The Sikh Religion, Vol. I. p. s` → [Macauliffe?], The Sikh Religion, Vol. I. p. [word unclear]; `Aru-RA` → AFU-RA; `TuaT` → TUAT; quotation marks normalised.
+
+**Unclear or supplied:** Author name before `The Sikh Religion` is damaged (OCR `age`); `[Macauliffe?]` is a likely reading. Page number is lost (OCR `p. s`).
 
 ## Full OCR entry body (exact)
 

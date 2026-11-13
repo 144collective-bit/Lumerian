@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-classes-four-of-mankind-in-the-scriptures-of-zoroas
 headword: "CLASSES, FOUR, OF MANKIND, IN THE SCRIPTURES OF ZOROASTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -115,6 +116,40 @@ tags:
 | `MOUTH-OPENING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOUTH, OPENING OF THE|MOUTH, OPENING OF THE]] |
 | `ScouRGE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCOURGE|SCOURGE]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the four soul-vehicles and their activities on the four lower planes.
+
+> "Auharmazd created the religion of omniscience like an immense Tree, of which there are one stem, two branches, three boughs, four twigs, and five shoots. . . . The four twigs are the four classes of the religion, by whom the religion and world are prepared; which are Priesthood, Warriorship, Husbandry, and Artisanship."—Shikand-Gumanik Vigar, *S. B. of E.*, Vol. XXIV. p. 118.
+
+The Supreme emanated the Divine Life as a process of growth from unity to diversity. The "one stem" is a symbol for the Absolute Source of all. The "two branches" signify Spirit and Matter, and the "three boughs" are the three higher planes,—Atma, Buddhi, and Manas. The "four classes of the religion" signify the four vehicles or bodies, on the four lower planes, concerned with the growth of the spiritual life in the human soul. "Priesthood" signifies the causal-body with higher mental activities. "Warriorship," the mental-body with lower mental activities. "Husbandry," the desire-body with astral activities. "Artisanship," the flesh-body with physical activities. The first and highest vehicle is the causal-body (Priesthood) which is the seat of the spiritual emotions in the higher mind. The second is the mental-body (Warriorship) in the lower mind, the arena of conflict between the higher and the lower motives. The third is the desire body (Husbandry) on the astral plane, the plane of cultivation and growth. The fourth is the physical body (Artisanship), on the physical plane, the plane of work, contrivance and adaptation.
+
+> "I want to remind you that the body is not the self; it is the instrument of the self. Our passional instincts are not the self; they are the instrument of the self. Even the mind is not the self; it is the instrument of the self. The self is something greater than the body, greater than the feelings, greater than the intellect. The self is the reality at the back of all these, partly hedged in by them, and per[haps?] making use of them to utter itself. [Co]nsciousness has to rise through them all before it can attain to its own highest, the level of perfect self-realisation, which is perfect love."—R. J. Campbell, Serm., *Evolution of the Spiritual Man*.
+
+See ARTIFICER, CASTES, GATHA DAYS, HOUSE (clan), KSHATRIYA, PRIEST, RULERS (world), SUDRA, TREE OF LIFE, VAISYA.
+
+### Also in this note: CLEANSING OF THE TEMPLE BY JESUS
+
+A symbol of the purging of the astro-mental nature by the indwelling spirit of Christ.
+
+> "Jesus went up to Jerusalem. And he found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: and he made a scourge of cords, and cast all out of the temple, both the sheep and the oxen; and he poured out the changers' money, and overthrew their tables; and to them that sold the doves he said, Take these things hence, &c."—John ii. 13-16.
+
+This allegory represents the assertive activity of the Christ-soul in substituting truth and right for the conflict of low and selfish desires and hypocritical emotions which characterise the worldly mind. The evil conditions are, as it were, cast out of the soul by an influx of better feelings and truer opinions. The "oxen, etc." stand for professed virtues devoid of love and truth. The "merchandise" signifies the appearance of religion and morality as a cloak to greed.
+
+> "However, to seek the mystery of the deed in the figure, who are they that sell oxen? Who are they that sell sheep and doves? They are they who seek their own in the Church, not the things which are Christ's. . . . Who then are they that sell doves, but they who say, 'We give the Holy Ghost'? But why do they say this? and at what price do they sell? At the price of honour to themselves. They receive as the price, temporal seats of honour, that they may be seen to be sellers of doves. Let them beware of the scourge of small cords. The 'dove' is not for sale: it is given freely. . . . Well, who sell oxen? They who have dispensed to us the Holy Scriptures are understood to mean oxen. The apostles were oxen, the prophets were oxen. Whence the apostle says: 'Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen? Or saith He for our sakes? Yea, for our sakes He saith it: that he who ploweth should [plough?] in hope; and he that thresheth, in hope of partaking.' (1 Cor. ix. 9, 10.) Those 'oxen,' then, have left us the narration of the Scriptures. For it was not of their own that they dispensed, because they sought the glory of the Lord. ... These men, however, deceive the people by the very Scriptures, that they may receive honours and praises at their hand, and that men may not turn to the truth. But in that they deceive, by the very Scriptures, the people of whom they seek honours, they do in fact sell oxen: they sell sheep too; that is the common people themselves. And to whom do they sell them, but to the devil? ... These, however, so far as they can, sell oxen and sheep, they sell doves too: let them guard against the scourge of their own sins. But when they suffer some such things for these their iniquities, let them acknowledge that the Lord has made a scourge of small cords, and is admonishing them to change themselves and be no longer traffickers... By this zeal of God's house, the Lord cast these men out of the temple. Brethren, let every Christian among the members of Christ be eaten up with zeal of God's house. He who exerts himself to have all that he may happen to see wrong there corrected, desires it to be mended, and does not rest idle."—Augustine, *Gospel of John*, Vol. I. pp. 144-7.
+
+> "Tauler points out that as man is meant to be a temple—'a clean, pure house of prayer'—he must first drive out all 'traders,' i.e. all human fancies and imaginations, all delight in the creature and all self-willing thoughts of pleasure, aims at self-gratification, ideas of temporal things. These are the 'traders' that keep God out of His house."—R. M. Jones, *Mystical Religion*, p. 280.
+
+> "Jesus' discipline is applied to the natural temple of the soul in which are found tendencies which are earthly and senseless and dangerous, and things which have the name but not the reality of beauty, and which are driven away by Jesus with his Word plaited out of doctrines of demonstration and rebuke."—Origen, *Comm. on John*, Bk. X. 16.
+
+> "Heracleon says that the ascent to Jerusalem signifies the Lord's going up from material things to the spiritual [word unclear] which is a likeness of Jerusalem. [He] considers the temple to be the Holy of Holies, into which none but the High-priest enters, and there, I believe he says, that the spiritual go; while the court of the temple, where the Levites also enter, is a symbol of those psychical ones who are saved, but outside the Pleroma. Then those who are found in the temple selling oxen and sheep and doves, and the money-changers sitting, he took to represent those who attribute nothing to grace, but regard the entrance of strangers to the temple as a matter of merchandise, and who minister the sacrifices for the worship of God with a view to their own gain and love of money. And the scourge he expounds as an image of the power and energy of the Holy Spirit, driving out by His Breath those who are bad."—*Ibid.*, Bk. X, 19.
+
+See DOVE-SELLERS, JESUS' SEVERITY, MOUTH-OPENING, SCOURGE, TEMPLE.
+
+**Corrections made:** `steia` → stem; `Lhe` → The; `Stkand-Gumanik Vigar` → Shikand-Gumanik Vigar; `causalbody` → causal-body; `mentalbody` → mental-body; `CaMPBELL` → Campbell; `ac.` → &c.; `mout` → mouth; `carefor` → care for; `ope` → hope; `theese` → these; `al]` → all; `snd` → and; `8 symbol` → a symbol; `tre` → are; `thoes` → those; `Highpriest` → High-priest; `QOniczn` → Origen; `Jonzs` → Jones; page headings `CLEANSING`, `162 CLEOPATRA` (mid-sentence) and `163 CLOTHING` (mid-word, `money163 CLOTHING changers`) removed; See-list spellings restored (`HovusE`, `Ksuarrerya`, `Prrest`, `Ruiers`, `Supra`, `ScouRGE`).
+
+**Unclear or supplied:** Contains a second entry: CLEANSING OF THE TEMPLE BY JESUS. In the Campbell quotation the OCR damage `per making use` and `nsciousness` is read as `per[haps?]` and `[Co]nsciousness`. `[plough?]` (OCR `ee in hope`). In the Heracleon quotation `[word unclear]` stands for OCR `sa`, and `[He]` is supplied before `considers`. The identification of the Augustine, Origen and Heracleon sources follows the OCR attributions. The first Cleansing quotation's "ac." is read as "&c.".
 
 ## Full OCR entry body (exact)
 

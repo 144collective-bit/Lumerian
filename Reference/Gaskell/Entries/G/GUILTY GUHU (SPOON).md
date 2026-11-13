@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guilty-guhu-spoon
 headword: "GUILTY GUHU (SPOON)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,18 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
 | `UPABHRIT` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UPABHRIT SPOON|UPABHRIT SPOON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body on the higher mental plane.
+
+> "The guhu (spoon) and upabhrit (spoon) are looked u[pon] as yoke-fellows, they being the two horses that are supposed to convey the sacrifice (and consequently the sacrificer himself) to the world of the Gods."—J. Eggeling, S. B. of E., Vol. XII. p. 68.
+
+The causal-body, the seat of the individuality, and the mental-body the seat of the personality, are closely allied, and it is through the mental activities (horses) of both, working together for evolution, that the lower nature is sacrificed and the consciousness raised to the higher world wherein the ideals (Gods) are realised. The spiritual ego is conveyed heavenwards by means of the individuality and the personality operating upon the mental plane of the soul. See BUTTER, CAUSAL-BODY, DHRUVA, EVOLUTION, GHEE, GODS, HEAVEN, INCARNATION, INDIVIDUALITY, PERSONALITY, SACRIFICER, UPABHRIT.
+
+**Corrections made:** `J. Eacriina` → J. Eggeling; See-list spellings restored (`Gops`); quotation marks normalised.
+
+**Unclear or supplied:** `J. Eggeling` is a likely reading of OCR `J. Eacriina`. `u[pon]`: the OCR reads "looked u as".
 
 ## Full OCR entry body (exact)
 

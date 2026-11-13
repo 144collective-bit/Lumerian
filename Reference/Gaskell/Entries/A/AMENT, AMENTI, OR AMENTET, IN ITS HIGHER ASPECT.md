@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ament-amenti-or-amentet-in-its-higher-aspect
 headword: "AMENT, AMENTI, OR AMENTET, IN ITS HIGHER ASPECT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `Sr-osra1` | **unresolved** (review queue) |
 | `Taurus` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURUS, THE ZODIACAL SIGN|TAURUS, THE ZODIACAL SIGN]] |
 | `Tuar` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of consciousness on the buddhic plane which is the plane of the first division of the Western Tuat, and of the corresponding division of the Eastern Tuat; that is, the first and the last portions of the cycle of life.
+
+> "Beginning of the opening of Aments (that is the West, and hence the Underworld) of the limit of the gathered darkness" (Book, Am-Tuat).—Wiedemann, *Rel. of Egyptians*, p. 85.
+
+> "The gods of this Court (first division of the Tuat) say unto Râ, 'O great God, . . . the portals of the secret Ament are thrown open before thee, the doors of Nut the great are thrown wide open, illumine thou the darkness of night.'"—Budge, *Egypt. Heaven and Hell*, Vol. I. p. 19.
+
+> "Life to thee, O governor of Amentet, Osiris, who art over the beings of Amentet."—*Ibid.*, p. 276.
+
+> "O Râ of the beautiful Ament."—*Ibid.*, p. 86.
+
+> "Isis of Amentet."—*Ibid.*, p. 85.
+
+See [APES?] (nine), ARIES, BUDDHIC PLANE, HEAVEN, MOUNTAIN, PISCES, [Sr-osra1?], TAURUS, TUAT.
+
+**Corrections made:** `R&é` → Râ; `Bupakx` → Budge; `Jbid.` → Ibid.; `PI8CEs` → PISCES; `Taurus`, `Tuar` See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** `[APES?]` (OCR `Ares`) and `[Sr-osra1?]` in the See list could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-frankincense
 headword: "FRANKINCENSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `INCENSE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/I/INCENSE-BURNING|INCENSE-BURNING]] |
 | `Maal` | **unresolved** (review queue) |
 | `TREASURES OF CAVE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of wisdom, or metaphysical knowledge, which purifies the mind and renders it fragrant.
+
+See GOLD, ETC., INCENSE, [MAAL?], TREASURES OF CAVE.
+
+**Corrections made:** None beyond case normalisation in the See list.
+
+**Unclear or supplied:** `[MAAL?]`: OCR reads `Maal`, a See-list item that could not be identified.
 
 ## Full OCR entry body (exact)
 

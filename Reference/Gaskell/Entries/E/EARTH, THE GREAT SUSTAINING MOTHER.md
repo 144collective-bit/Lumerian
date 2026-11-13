@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-earth-the-great-sustaining-mother
 headword: "EARTH, THE GREAT SUSTAINING MOTHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,26 @@ tags:
 | `MoTHErR (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `SAPANDOMAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAPANDOMAD, EARTH|SAPANDOMAD, EARTH]] |
 | `WISDOM. EARTH ; GROUND;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the productive buddhic nature as the Divine expression upon the astral and physical planes. Buddhi acting as the moulder of forms and guide of the separated Self to enable it to manifest its true nature in the soul.
+
+> "I praise the earth, the wide-stretched, the traversable, the vast, the unbounded, thy mother, O righteous Homa!"—*Homa Yashi*.
+
+The "earth" here signifies the buddhic principle in consciousness, which is the means of assisting the gestation of the Self in the lower nature. The buddhic consciousness is specially made mention of, as it is from this aspect that the growth of the lower Self is assisted.
+
+> "Aditi is this earth, for this earth gives everything here:—'the all-containing,' for on this earth everything is contained."—*Sata. Brâh.*, VII. 4, 2, 7.
+
+> "Earth—Mother of the Gods, the wife of the starry Heaven."—Homer, *Hymn*, 30, 17.
+
+> "By earth is meant the Lord's church in the heavens and on the earths; the church, wherever it may be, is the Lord's as [word unclear]."—[Swedenborg?], *Apoc. Rev.*, n. 285.
+
+See ADITI, BUDDHI, CHURCH, COW (earth), LADY, MOTHER (divine), SAPANDOMAD, WISDOM.
+
+**Corrections made:** `Bréh.` → Brâh.; `Karth` → Earth; page heading `EARTH ; GROUND;` removed from the end; See-list spellings restored (`BuppHI`, `Lapy`, `MoTHErR`); quotation marks normalised.
+
+**Unclear or supplied:** In the last quotation the words after "Lord's as" are lost (OCR `ce`), and the author's name is missing; `[Swedenborg?]` is inferred from the title *Apoc. Rev.*
 
 ## Full OCR entry body (exact)
 

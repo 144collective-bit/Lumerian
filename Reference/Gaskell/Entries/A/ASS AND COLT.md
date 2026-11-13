@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ass-and-colt
 headword: "ASS AND COLT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `JERUSALEM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JERUSALEM, HEAVENLY|JERUSALEM, HEAVENLY]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
 | `VILLAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VILLAGE|VILLAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature and an affection thereof, which require to be ridden or kept under. If the "ass" is "tied," it signifies that the lower nature is attached to some dead form of thought.
+
+> "Jesus sent two disciples, saying, Go into the village that is over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."—Matt. xxi. 2.
+
+The Christ sending two "disciples" to the "village," indicates the raising of two disciplined qualities to a higher state. The "village" signifies the assembling to a centre of a few qualities on the plane upon which they have hitherto been working, from which they are to rise as soon as the Christ and his attached qualities come to the state of loving aspiration (Mount of Olives). The "ass tied and a colt" signify respectively an old doctrine and a new truth to which it has given birth. Upon these the Christ-soul progresses to the higher state (the heavenly Jerusalem), as he comes not to destroy but to fulfil, and presents many an old fable as a new and enlightening fact. The "colt" represents the new truth whereon no mind as yet can sit as master.
+
+See DISCIPLES, JERUSALEM, PARABLE, VILLAGE.
+
+**Corrections made:** Page heading `ASSEMBLY` removed from mid-sentence; stray `_` removed; `Mart.` → Matt.; `presente` → presents; `repreeents` → represents; `DIscrPLes` → DISCIPLES; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

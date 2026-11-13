@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-skull
 headword: "SKULL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `GOLGOTHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOLGOTHA, THE PLACE OF A SKULL|GOLGOTHA, THE PLACE OF A SKULL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emptiness of the lower affections and concepts if taken as an end in themselves, rather than a means of progress.
+
+See GOLGOTHA.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

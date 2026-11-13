@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sruti-revelation
 headword: "SRUTI, REVELATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,24 @@ tags:
 | `UR-HEKAU` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UR-HEKAU-THE MIGHTY|UR-HEKAU—THE MIGHTY]] |
 | `VEDA` | **unresolved** (review queue) |
 | `WORD OF GOD. SRUVA (MASGC.)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Divine inspiration of truth.
+
+> "The Vedanta philosophers always cling to the conviction that the Divine has never been really absent from the human soul, that it always is there, though covered by darkness or nescience (avidya) and that as soon as that darkness or that nescience is removed, the soul is once more and in its own right what it always has been; it is, it does not become Brahman."
+
+> "According to the orthodox Vedantist, Sruti alone, or what is called Revelation, can impart that knowledge and remove that nescience which is innate in human nature."—F. Max Müller, *Theosophy, etc.*, pp. 284, 293.
+
+> "The Hindus have divided the whole of their ancient literature into two; . . . Sruti, what was heard, and was not the work of men or any personal being, human or divine, and Smriti, which was remembered, and has always been treated as the work of an individual, whether man or god." . . . "Nor are even these fictitious poets (of the Rigveda) supposed to have created or composed their poems, but only to have seen them as they were revealed to them by a higher power, commonly called Brahman, or the Word."—F. Max Müller, *Six Systems, etc.*, p. 3.
+
+See AMBAS, BOOK-STUDIES, GOSPEL, IGNORANCE, INSPIRATION, KORAN, MYTHOLOGY, PARABLE, PEN, RAMAYANA, REVELATION, SACRED TEXT, SASTRA, SCRIPTURES, SIGN, THOTH, UPANISHAD, UR-HEKAU, VEDA, WORD OF GOD.
+
+SRUVA (MASC.),
+
+**Corrections made:** page headings `THE SRUVA` (mid-sentence, after "the Divine") removed; `Zheosophy` → Theosophy; `Srutanm` → Sruti; `becn` → been; `BOOK-8STUDIES` → BOOK-STUDIES; See-list spellings restored (`Sastra`, `Scriprures`, `SiGcN`, `UPpaNISHAD`); quotation marks normalised.
+
+**Unclear or supplied:** The OCR ends with `SRUVA (MASGC.),`, the headword of the next entry, with no body; kept as printed (`MASGC` read as MASC.). The first quotation has no printed attribution; it runs on into the second. `Srutanm` read as Sruti.
 
 ## Full OCR entry body (exact)
 

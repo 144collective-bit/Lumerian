@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kshatriya-or-military-caste
 headword: "KSHATRIYA, OR MILITARY CASTE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Castes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA|CASTES, FOUR, OF MANKIND, IN THE SCRIPTURES OF INDIA]] |
 | `Crasses` | **unresolved** (review queue) |
 | `RAGANYA` | resolved (full-head) → [[Reference/Gaskell/Entries/R/RAGANYA|RAGANYA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental body centralising the faculties of the lower mind which contend against ignorance and emotion.
+
+> "The Kshatriya, he (Manu) commanded to protect the people, to bestow gifts, to offer sacrifices, to study the Veda, and to abstain from attaching himself to sensual pleasures."—*Laws of Manu*, Ch. I. 89.
+
+The lower mind was enjoined to co-operate with the qualities of the soul (the people); to add mentality to the desires; to give up a lower form of thought for a higher; to purify itself by Truth, Wisdom, and Love; and to shun attachment to the sense-nature and its objects.
+
+See CASTES, CLASSES, RAGANYA.
+
+**Corrections made:** `ifte` → gifts; `eda` → Veda; `ite` → its; `Crasses` → CLASSES; quotation marks restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

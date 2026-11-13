@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prodigal-son-parable
 headword: "PRODIGAL SON, PARABLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `HvUskKs` | **unresolved** (review queue) |
 | `Music AND DANCING` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MUSIC AND DANCING|MUSIC AND DANCING]] |
 | `PARABLE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PARABLE|PARABLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the evolution of the soul in its emotion-nature (younger son) and its mental-nature (elder son).
+
+> "A certain man had two sons: and the younger of them said to his father, Father, give me the portion of thy substance that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country; and there he wasted his substance with riotous living."—Luke xv. 11-33.
+
+The Father in heaven had two evolving attributes on the higher planes,—mind and emotion. Unto each of these he apportions his substance; that is, he endows them with that wherewith each shall accomplish its work of self-development on the respective planes on which they function. The endowment of the "younger son" having been effected, shortly afterwards the evolution of the emotions commenced. The soul descended to the lower planes, wherein it seemed to the ego he was divided from the parental influence, but which really was yet at work unseen above him. The "riotous living" means simply complete absorption in worldly affairs and the things of desire and the senses. The parable proceeds to show how the emotion-nature blindly gains experience leading to dissatisfaction and a yearning for that which is higher. The soul then turns to go towards its eternal home, and the Father responds with blessing. The mind is then stirred to progress, and finally both the mind and emotions are merged in the Divine.
+
+See ARC. MAN, CALF, CONVICTION OF SIN, DANCES, HOMES, HUSKS, MUSIC AND DANCING, PARABLE.
+
+**Corrections made:** `ite` → its; `apportians his sub. PROMETHEUS stance` → apportions his substance (page heading `PROMETHEUS` removed); See-list spellings restored (`Arc. MAN`, `CONVICTION oF sIN`, `HvUskKs`, and similar); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

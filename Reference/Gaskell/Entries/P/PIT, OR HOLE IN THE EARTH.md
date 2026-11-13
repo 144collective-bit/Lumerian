@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pit-or-hole-in-the-earth
 headword: "PIT, OR HOLE IN THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,26 @@ tags:
 | `PoLe` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POLE, UPRIGHT|POLE, UPRIGHT]] |
 | `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `SERPENT (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower planes, or the desire and sense-nature which surrounds and darkens the soul.
+
+> "God will deliver his soul from going into the pit, and his life shall see the light."—Job xxxiii. 28.
+
+This refers to the liberation of the soul from the lower nature, and the rise of the consciousness to the higher planes whereon truth will be apparent.
+
+> "Ye that seek the Lord: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged."—[reference unclear]
+
+The "rock of thy strength" (Is. xvii. 10) is the Archetypal Man (Christ) from "whence ye are hewn," and the "pit" is the lower nature in which the spiritual ego is embedded. The "hole" is the way upward to the light of Truth, the path which the soul shall take as the Spirit within enables it to liberate itself from earthly things.
+
+> "Yes, all is well, not in spite of the [p]it and the clay, but because of them. [Thro]ugh these we ascend to that from whence we came, having achieved what we are—not dust but God."—R. J. Campbell, *Serm.*, *The Rock and the Pit*.
+
+See ARC. MAN, ARIZURA, BEAST, BOAT (wisdom), BOTTOMLESS PIT, EARTH, IRON BEATEN, LIBERATION, LIGHT, PHARISEES, POLE, ROCK, SERPENT (hissing).
+
+**Corrections made:** `Jos` → Job; `iteelf` → itself; `the it` → the [p]it; `ugh these` → [Thro]ugh these; See-list spellings restored (`Arc. MAN`, `Beast`, `BorroMLEss`, `EarrH`, `Lieut`, `PoLe`, `Rock`); quotation marks normalised.
+
+**Unclear or supplied:** `[reference unclear]` replaces OCR `o e`, which stands where the attribution of the Isaiah quotation should be. `[p]it` and `[Thro]ugh` are reconstructed from truncated OCR.
 
 ## Full OCR entry body (exact)
 

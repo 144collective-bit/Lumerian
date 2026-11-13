@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kingdom-of-heaven-or-of-god
 headword: "KINGDOM OF HEAVEN, OR OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,34 @@ tags:
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SERMON` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SERMON ON THE MOUNT|SERMON ON THE MOUNT]] |
 | `SICKLE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SICKLE|SICKLE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher planes of consciousness whereon the Divine nature rules supreme. It may also be used in reference to the abode of bliss on the higher mental plane when the two consciousnesses become one. It is not Nirvana, but a state analogous to devachan.
+
+> "Blessed are the poor in spirit: for theirs is the kingdom of heaven."—Matt. v. 3.
+
+The Divine Will operates in the qualities which have rid themselves of the lower desires and followed their ideals of goodness and truth, for they shall be transmuted to the higher planes and become in entire harmony with the Divine nature.
+
+> "The kingdom of God cometh not with observation: . . . it is within you."—Luke xvii. 20, 21.
+
+The higher nature is within the soul, and its evolution cannot be observed by the lower consciousness, whose attention is directed outwardly.
+
+> "Ye ask who are those that draw us to the Kingdom, if the Kingdom is in Heaven; the fowls of the air, and all the beasts that are under the earth or upon the earth, and the fishes of the sea, these are they which draw you, and the Kingdom of Heaven is within you" (Saying of Jesus).—Grenfell and Hunt, *Oxy. Papy.* IV. 6.
+
+The qualities are said to progress by means of the discipline of the lower nature,—through the aspirations (fowls), the passions and desires (beasts), and the acquisition of knowledge or facts (fishes). The development is entirely from within towards manifesting without, and the stimulus to growth is largely due to the impacts from without which stir the mind and emotions into persistent activity.
+
+> "By the Kingdom of God the primitive Christians meant the undisputed reign of eternal love, whether in heaven or on earth, while by eternal life they meant the living of that love in its fullness, the knowledge of the perfections of God which implies sharing them in their wholeness."—R. J. Campbell, *Serm.*, Reaping for Eternal Life.
+
+> "The kingdom of Christ is being made on earth as it is also being made in heaven; it is not complete there any more than here; in fact, the only reason why we have to try to build it here is that our efforts may finally establish it there. I am not speaking of God's eternal perfection when I say this. To that unimaginable blessedness nothing can be added; it is the infinite fullness [word unclear] which we draw for the realisation of the good which shall be eternally ours in Christ, and it needs nothing that we can bring to it. But our own heavenly kingdom needs something, and seen and unseen are co-operating in furnishing it."—R. J. Campbell, *Serm.*, Solidarity in Christ.
+
+> "Virtue is the supreme good, the supreme beauty, the divinest of God's gifts, the health and harmonious unfolding of the soul, and the germ of immortality. It is worth every sacrifice, and has power to transmute sacrifices and sufferings into crowns of glory and rejoicing."—W. Channing, *Works*, Vol. I. p. 16.
+
+See AMARAVATI, AMENT, BEASTS, BIRDS, BLISS, BLUE HEAVEN, BUDDHIC PLANE, CHILDREN OF KINGDOM, CONSCIOUSNESS, DEVACHAN, EDEN, FISH, GARDEN, GARODMAN, GOSPEL OF KINGDOM, HEAVEN, JERUSALEM, LEAVEN, KINGDOMS, [Martxrnourn?], MEAT, MUSPELLHEIM, NIRVANA, PARADISE, POOR, QUALITIES, REAPING, SEKHET-HETEP, SERMON, SICKLE.
+
+**Corrections made:** `Marz.` → Matt.; `LuKE` → Luke; `Cuannina` → Channing; `CaMPBELL`/`CamMpsBett` → Campbell; `GRENFELL AND Hunt` normalised; `in _ their` → in their; page heading `434 KINGDOM` removed from mid-text; See-list spellings restored (`BEasts`, `Breps`, `Briss`, `BuppDHIC`, `FIsH GaRDEN`, `KINGpoM`, `Meat`, `MuspeL__HEMm™`, `NinVANA`, `Poor`, `REariInc`) and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` in the Campbell quotation: OCR reads "fullness 3 which we draw". In the See list `BIRDS` is read from `Breps` and `FISH, GARDEN` from `FIsH GaRDEN`; `[Martxrnourn?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

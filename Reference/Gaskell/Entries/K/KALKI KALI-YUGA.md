@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kalki-kali-yuga
 headword: "KALKI KALI-YUGA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `[RON AGE` | **unresolved** (review queue) |
 | `Kaki` | **unresolved** (review queue) |
 | `Scorpio` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SCORPIO, THE ZODIACAL SIGN|SCORPIO, THE ZODIACAL SIGN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the present period and process of evolution in which Wisdom and Love are gradually developed from ignorance and desire.
+
+> "The Kali-yuga or fourth age of the world was supposed to commence at the death of Krishna. The Hindu idea of a succession of four Yugas or ages, in which a gradual deterioration of the human race takes place, has its counterpart among the Romans in the Golden, Silver, Brazen, and Iron Ages, as described in Ovid's *Metamorphoses* (I. 89, etc.)."—Mon. Williams, *Indian Wisdom*, p. 333.
+
+The period of evolution of Spirit from matter commences from the death of the Archetypal Man (Krishna). Prior to that is a triple period of involution, wherein Spirit descends into matter through the buddhic (Golden), mental (Silvern), and astral (Brazen) planes, and completes itself in the physical plane (Iron). This gradual obscuration of Spirit has the appearance of deterioration of the soul.
+
+See ARC. MAN, GOLDEN AGE, IRON AGE, KALKI, SCORPIO.
+
+**Corrections made:** `& gradual` → a gradual; `es place` → takes place; `Wriiiams` → Williams; `ARO. MAN` → ARC. MAN; `[RON AGE` → IRON AGE; `Kaki` → KALKI; `Scorpio` → SCORPIO; and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

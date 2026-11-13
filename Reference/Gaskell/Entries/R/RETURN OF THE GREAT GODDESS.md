@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-return-of-the-great-goddess
 headword: "RETURN OF THE GREAT GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `MAstT` | **unresolved** (review queue) |
 | `EDEN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/E/EDEN, GARDEN OF|EDEN, GARDEN OF]]; [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]]; [[Reference/Gaskell/Entries/E/EDEN RIVERS, CUSHION TO RECLINE UPON|EDEN RIVERS, CUSHION TO RECLINE UPON]] |
 | `Hivine` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Wisdom-nature evolving in the soul after its period of obscuration or latency. Since the fall of mind (man) into the lower nature, the buddhic consciousness (Wisdom) has been absent from the human soul. This spiritual consciousness returns to the ego when the soul is perfected at the end of the cycle, and reveals the "treasures in heaven."
+
+See AMATERASU, FALL, GODDESS, WITNESSES (two), ESTHER, MAAT, EDEN, [HIVINE?].
+
+**Corrections made:** `mature` → nature; `Fatt` → FALL; `Goppsss` → GODDESS; `MAstT` → MAAT; quotation marks normalised.
+
+**Unclear or supplied:** The See list is out of order in the OCR (`WITNESSES (two). ESTHER, MAstT, EDEN, Hivine,`); it is set out in OCR order. `[HIVINE?]` is the OCR spelling `Hivine`, unidentified (possibly DIVINE).
 
 ## Full OCR entry body (exact)
 

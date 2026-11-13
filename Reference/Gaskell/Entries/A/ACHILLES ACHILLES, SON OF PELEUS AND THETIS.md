@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-achilles-achilles-son-of-peleus-and-thetis
 headword: "ACHILLES ACHILLES, SON OF PELEUS AND THETIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -59,6 +60,32 @@ tags:
 | `and of lifting up the lower self` | **unresolved** (review queue) |
 | `—all praise to you! See Akraaas` | **unresolved** (review queue) |
 | `Crry` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality or lower self begotten of the Higher Self (Peleus) and brought forth by Nature (Thetis).
+
+> "But though thou (Achilles) be of superior strength, and a goddess mother has given thee birth, yet he (Agamemnon) is superior in power, inasmuch as he rules more people."—*Iliad*, Bk. I.
+
+Though the Personality be superior in its extent or range, touching high and low, and is the child of Buddhi, still, judged from below, the Desire-mind possesses greater strength since it supplies the motive power to the lower activities, and it energises the qualities.
+
+> "Human personality, as we now know it, arises out of the conjunction and interrelation of two factors,—the eternal, imperishable Divine life and the material envelopes in which it is broken [up] and conditioned."—R. J. Campbell, *Serm.*, God's Life in Man.
+
+See AGAMEMNON, [ANSUNÉ?], BRISEIS, GOLDEN HAIR, [HEER?], HONOUR, MENIS, MYRMIDONS, NOUS, PATROCLUS, PERSONALITY, SHIPS, SOUL (lowest), THETIS.
+
+### Also in this note: ACROPOLIS
+
+A symbol of the causal-body as a centre of the mind.
+
+> "O friends, ye who inhabit the great city of sacred Akragas up to the acropolis, whose care is good deeds, who harbour strangers deserving of respect, who know not how to do baseness, hail!"—*Verses of Empedocles*, 352, Fairbanks.
+
+O higher qualities, which are evolved through the mental centre which is in the causal-body: these qualities are occasioned of good thoughts and deeds, which attract higher emotions, and are the means of aspiration, and of lifting up the lower self,—all praise to you!
+
+See AKRAGAS, CITY.
+
+**Corrections made:** `Desiremind` → Desire-mind; `broken a and` → broken [up] and; `CamPsBELi` → Campbell; `FarnBANKS` → Fairbanks; See-list spellings restored (`GoLpEN Harr`, `Honour`, `Myrmipons`, `Nov`, `Parrocius`, `SuHrps`, `Sout`, `Akraaas`, `Crry`); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: ACROPOLIS. `[up]` is supplied: the OCR reads "broken a and conditioned". `[ANSUNÉ?]` and `[HEER?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

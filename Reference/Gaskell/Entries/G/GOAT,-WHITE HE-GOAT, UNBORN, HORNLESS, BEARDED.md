@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goat-white-he-goat-unborn-hornless-bearded
 headword: "GOAT,—WHITE HE-GOAT, UNBORN, HORNLESS, BEARDED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `PRaGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
 | `WHITE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]]; [[Reference/Gaskell/Entries/W/WHITE FLOWERS|WHITE FLOWERS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self incarnate in the lower nature, from which it climbs upward to Itself above.
+
+> "The He-Goat sprung from Pragapati's head." "The He-Goat is no other than Pragapati." "The He-Goat doubtless is speech, and from [speech?] the gods doubtless went to the God-head, to the summit;—'thereby they went to the height'; the height, doubtless, is the heavenly world."—*Sata. Brâh.*, V., VI., VII. 5, 2, 36.
+
+The Higher Self emanates from the supreme, and is the Supreme (actual). The Higher Self incarnate, expresses (speech) itself in its evolution of the ideals (gods) which aspire to the Highest (the summit). The Self in the qualities climbs the heights to atma-buddhi. White signifies perfection.
+
+See CAPRICORN, GODHEAD, HEIGHT, INCARNATION, MOUNTAIN, PRAGAPATI, SPEECH, WHITE.
+
+**Corrections made:** `Pragiapati` → Pragapati; `Br&h.` → Brâh.; page heading `® $14 GOATS` (i.e. 314 GOATS) removed from mid-sentence; See-list spellings restored (`MounTarn`, `PRaGAPATI`); quotation marks normalised.
+
+**Unclear or supplied:** `[speech?]`: OCR reads "from s h the gods".
 
 ## Full OCR entry body (exact)
 

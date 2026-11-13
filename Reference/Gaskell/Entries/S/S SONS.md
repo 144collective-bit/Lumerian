@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-s-sons
 headword: "S SONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `JAPHET` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JAPHET, SON OF NOAH|JAPHET, SON OF NOAH]] |
 | `TRIAD. NOAH’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the three Divine aspects,—Will (Shem), Action (Ham), and Wisdom (Japhet); or in a lower sense, of intelligence, works, and desire.
+
+> "And Noah went in, and his sons, and his wife, and his son's wives with him, into the ark, because of the waters of the flood."—Gen. vii. 7.
+
+And the Self, or the individuality, takes refuge within the causal-body appointed for it; and so also its knowledges, affections, etc. And this occurs because the pressure upon the lower self (the reflected Higher) forces it, so to say, to this course. The "son's wives" signify the dual aspects of the three aspects of the Self.
+
+> "There is, first and highest (of Noah's sons), the contemplative life, which delights in things unseen, in adoring love and holiness. There is again the active life, which is good, and does good, but deals more with external things. Besides these there is the doctrinal life, a mind occupied with truth, without the savour and power of it; a form of life, which, though growing out of the regenerate mind, is nigh to evil, and must be subdued and fought against. Shem is the first of these; Japhet, the second; the third is Ham, the father of Canaan, whom Israel have to overcome. . . . In point of honour Shem stands first, but in their development Japhet's and Ham's sons are given before Shem's; shewing, what indeed is proved by all experience, that the highest life in us is the last to develop itself."—A. Jukes, *Types of Genesis*, pp. 132-3.
+
+See ARK, CANAAN, CAUSAL-BODY, HAM, JAPHET, TRIAD.
+
+**Corrections made:** `a mind` for `& mind`; `ovorcome` → overcome; `iteelf` → itself; `Juxzs` → Jukes; page headings `ae re OE NOAH'S WIFE` removed from mid-quotation and the stray `NOAH'` at the end removed.
+
+**Unclear or supplied:** The OCR fragment `ae re OE` before `NOAH'S WIFE` was treated as part of the damaged page header and removed.
 
 ## Full OCR entry body (exact)
 

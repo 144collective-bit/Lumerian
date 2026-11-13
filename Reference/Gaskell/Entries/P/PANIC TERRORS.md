@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-panic-terrors
 headword: "PANIC TERRORS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Pan. call` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This symbol refers to the functioning of the sympathetic system which is astral. See PAN. [word unclear]
+
+**Corrections made:** `Pan` → PAN.
+
+**Unclear or supplied:** `[word unclear]` stands for a stray trailing `call` in the OCR.
 
 ## Full OCR entry body (exact)
 

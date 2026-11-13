@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-club-as-a-weapon
 headword: "CLUB AS A WEAPON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Mourn (food)` | **unresolved** (review queue) |
 | `NeRyosanG` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NERYOSANG, THE ANGEL|NERYOSANG, THE ANGEL]] |
 | `SERPENT (svara)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of higher emotion which overcomes and deadens lower emotion, desire, and selfishness.
+
+See HAIR (sidelock), KERESASPA, MOUTH (food), NERYOSANG, SERPENT (svara).
+
+**Corrections made:** See-list spellings restored (`Ham`, `Mourn`, `NeRyosanG`).
+
+**Unclear or supplied:** `HAIR` is read from `Ham` and `MOUTH` from `Mourn`; both tentative.
 
 ## Full OCR entry body (exact)
 

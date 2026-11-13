@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-buto-in-lower-egypt
 headword: "BUTO IN LOWER EGYPT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `. Eoyrer (lower)` | **unresolved** (review queue) |
 | `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Lron-cop` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a purified state of the lower emotions on the astro-mental plane.
+
+See BIRTH OF HORUS, CHEMMIS, EGYPT (lower), HORUS, LION-GOD,
+
+**Corrections made:** stray `"` removed; `BrimTH` → BIRTH; `Eoyrer` → EGYPT; `Lron-cop` → LION-GOD.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR; later items may be lost.
 
 ## Full OCR entry body (exact)
 

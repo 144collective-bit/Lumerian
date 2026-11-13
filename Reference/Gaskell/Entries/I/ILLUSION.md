@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-illusion
 headword: "ILLUSION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,36 @@ tags:
 | `UNBELIEF` | **unresolved** (review queue) |
 | `VourvKasHA` | **unresolved** (review queue) |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An appearance devoid of reality in itself. The orderly succession of phenomena may be taken as proving the unreality of phenomena in themselves. They do not persist, and are interpreted in the mind as fleeting states of consciousness related to ideas and feelings of an impermanent nature.
+
+> "For all that alters is untrue; it does not stay in what it is, but shows itself to us by changing into one another its appearances. . . . All that is subject unto genesis and change is verily not true" (Hermes, Of Truth).—Mead, *T. G. Hermes*, Vol. III. pp. 20, 21.
+
+> "Brahma is true, the world is false, the soul is Brahma and is nothing else." (N. N. Gore, 1862.) This is really a very perfect summary (of Vedanta)."—Max Müller, *Theosophy*, etc., p. 317.
+
+> "Matter is darkness, as the Logos is light: it has no real being" (Plotinus), [source unclear], *Hist. of Philos.*, Vol. II.
+
+> "The One who produced the 'Reality' is called Vohu-mano,—the Good Mind,—the other, through whom the 'Nonreality' originated, bears the name Akem-mano,—the Evil Mind."—Haug, *Essays* (Zoroastrianism), p. 303.
+
+> "The outward world, with the four Elements and stars, is a figure of the internal powers of the Spiritual World, and was expressed, or breathed forth, by the Motion of God. . . . It is as a smoking or vaporous steam of the Fire-Spirit and Water-Spirit; breathed forth, both out of the Holy and then also out of the Dark world; and therefore it is evil and good; and consists in Love and Anger; and is only as a smoke or misty exhalation, in reference and respect to the Spiritual World."—Jacob Boehme, *Mysterium Magnum*, p. 20.
+
+> "Four astrums, elements, or properties of nature."—*Ibid.*, p. 58.
+
+> "The stars are nothing else but nature."—[words unclear] *Ibid.*, p. 57.
+
+Here, the lower quaternary is described as a reflection, or figure, of a pattern in the higher planes, becoming dual on the lower planes. The buddhic (Fire-Spirit) and the astral (Water-Spirit) commingle in opposition, causing strife, and educing the higher emotions (Love) and the lower (Anger). The lower world is unreal and illusory in respect to the higher world.
+
+> "This very capacity of ours for imagining a better world than this points to the fact that the Ideal World we desire already exists; our desire for it signifies, in a manner of speaking, that we already belong to it and that our souls can never find complete satisfaction in anything less. Indeed, it is the real world. This present world which seems to us so real, is both fragmentary and unsubstantial, and destined to pass away when it has served its purpose; behind and beneath it is the eternal world—changeless, perfect, all complete."—R. J. Campbell, *Serm.*, What is Life Eternal?
+
+> "The realm of the real is spiritual. The opposite of Spirit is matter, and the opposite of the real is the unreal, or material. Matter is an error of statement. This error in the premise leads to errors in the conclusion, in every statement into which it enters. Nothing we can say or believe regarding matter is immortal, for matter is temporal, and is therefore a mortal phenomenon, sometimes beautiful, always transitory."—Mrs. Eddy, *Science and Health*, p. 277.
+
+See BEELZEBUB, BRAHMA, CREATION, DARKNESS, ELEMENTS, FATE, FIRE, HIGHER, MATTER, MAYA, MIXTURE, [MOSES?], [Ocpoap?], PHENOMENA, PRAKRITI, PROTOTYPES, STARS, TYRANTS, UNBELIEF, [VOURUKASHA?], WORLD.
+
+**Corrections made:** `ite` → its; `rfect` → perfect; `Max OLLER` → Max Müller; `Mrap` → Mead; `Have` → Haug; `Jacos BokHME` → Jacob Boehme; `Mazs. Eppy, Setence` → Mrs. Eddy, *Science and Health*; `CamMPpBELL` → Campbell; `ws` → is; `®` → a; page headings `ILYA`, `884 IMAGE` removed from mid-text; `Miyi` → MAYA; See-list spellings restored and similar minor fixes.
+
+**Unclear or supplied:** In the Plotinus quotation the author before `Hist. of Philos.` is lost (OCR `i yr ahi &`). Before `Ibid., p. 57` words are lost (OCR `es falege of the powers o`). See list: `[MOSES?]` (OCR `Morser`), `[Ocpoap?]` (OCR `Ocpoap`, possibly OGDOAD) and `[VOURUKASHA?]` (OCR `VourvKasHA`) are uncertain; `Fars` read as FATE and `PRAEKRITI` as PRAKRITI. The quotation mark placement in the Gore/Max Müller passage is as printed in the OCR.
 
 ## Full OCR entry body (exact)
 

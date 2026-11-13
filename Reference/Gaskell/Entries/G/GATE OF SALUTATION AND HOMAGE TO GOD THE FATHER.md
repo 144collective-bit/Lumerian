@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gate-of-salutation-and-homage-to-god-the-father
 headword: "GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `MJRAIMENT` | **unresolved** (review queue) |
 | `Rose` | **unresolved** (review queue) |
 | `Toga` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TOGA, OR ROBE|TOGA, OR ROBE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a buddhic sub-plane to which the consciousness rises ere it becomes one with the Self.
+
+> "And my toga of brilliant colours I cast around me, in its whole breadth. I clothed myself therewith, and ascended to the gate of salutation and homage; I bowed my head and did obeisance to the majesty of my Father who had sent it to me."—*Hymn of the Soul*, Gnostic.
+
+And also my "toga," the causal-body of variegated qualities, did I now assume to its complete extent of development. I was able to clothe myself in my bright vestures, so that I was not found naked; and then did I ascend to the portal of reverence, filled with a sense of the majesty of God—the Creator and Sustainer of the Cosmic Scheme. I bowed my mind and did homage to his greatness; and I reverenced my Father from whom had emanated such splendid endowments for the soul.
+
+See BUDDHIC PLANE, DOOR (higher), GARMENT, NAKEDNESS, RAIMENT, ROBE, TOGA.
+
+**Corrections made:** `ite` → its; `obecisance` → obeisance; `GNoSsTic` → Gnostic; `causalbody` → causal-body; page heading `303 GATES` removed from mid-sentence; See-list spellings restored (`MJRAIMENT`, `Rose`, `Toga`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

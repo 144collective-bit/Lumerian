@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-of-horus-the-child-or-harpocrates
 headword: "BIRTH OF HORUS THE CHILD, OR HARPOCRATES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,32 @@ tags:
 | `SEKHET-AARU` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `SIX` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIX, NUMBER|SIX, NUMBER]] |
 | `VULTURE` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VULTURE, THE BIRD OF ISIS|VULTURE, THE BIRD OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the emergence of the incarnate Self in human souls during the present process and period of evolution.
+
+> "Meanwhile Horus the younger had been born to Isis, and brought up secretly at Buto, in the marshes of the Delta, out of reach of Set."—Plutarch, *Isis and Osiris*.
+
+Meanwhile the Christ was now born on the buddhic plane (Isis), in relation to the lower nature, and was nourished and sustained unknown to the lower self, in the "marsh" which signifies the purified nidus, wherein water (truth) is abundant, and which is soft to higher impressions, and is out of reach of the desire-nature (Set).
+
+> "Therefore Isis perceiving that she is pregnant, ties an amulet round her neck on the 6th of the first quarter of the month Paophi, and that Harpocrates is born about the winter solstice, unfinished (or, whose lower limbs were dwarfed and [passage unclear]."—*Isis and Osiris*.
+
+This is the same symbolism as that of the Christ. The "tying of the amulet" signifies that perfect junction formed between the higher and lower principles, which is necessary in order that their union shall give birth to the Son of God. The "first quarter" is a symbol of the first root-race (astral). In the fourth root-race (physical) Christ is born on the buddhic plane in the soul. The "winter solstice" (Christmas) signifies the deep immersion of the soul in matter. The lack of finish in the lower limbs means that the higher or potential is always relatively unmanifest; and that the lower or actual is never able to express the potential. The earlier birth of Horus (Aroueris) is that corresponding to the form, the latter is that which refers to the life.
+
+> "Furthermore, Isis is said to have united with Osiris after his death, and in consequence to have brought forth Harpocrates (Horus)."—*Ibid.*
+
+This signifies the process of gestation which takes place when the soul or personality is evolving upon the astral plane, and is therefore the point when the Son of mind enters. This is the birth of the Christ in the soul on the buddhic plane.
+
+> "And as the Egyptians believe the Nile the issue of Osiris, so do they regard the earth as the body of Isis: not, indeed, the whole earth, but just as much as the Nile inundates, fecundating and mingling with it; for from the union they beget Horus. Horus is that which preserves and nourishes all things, namely the seasons and the circumambient air; and they tell that he was nursed by Leto in the marshes round Buto, because the watery and thoroughly soaked earth nurses the exhalations that [word unclear] the dryness of the air."—*Ibid.*
+
+The Divine Life (Nile) fertilises the productive buddhic nature (Isis) expressed upon the astral and physical planes, and brings about the gestation of the Self (Horus) in the lower nature. The Self is the preserver and sustainer of the higher qualities in the periods of emanation on the mental plane (air). The nascent Self is developed by the buddhic emotion nature (Leto) in the purified lower nature susceptive of the truth (water) and productive of aspirations which spiritualise the mind (air).
+
+See ARC. MAN, AROUERIS, BUTO, CHEMMIS, DELOS, DIONYSUS, EARTH (mother), EVOLUTION, GARDEN OF REEDS, HARPOCRATES, HORBEHUDTI, HORUS, ISIS, LATONA, MARSH, NILE, OSIRIS, PEACHES, REED-PLAIN, SEASONS, SEKHET-AARU, SIX, VULTURE.
+
+**Corrections made:** `PLurarnon, IJeie` → Plutarch, Isis; `@ symbol` → a symbol; `Jbtd.` → Ibid.; `er the dryness` → [word unclear] the dryness; page headings `107 BIRTH` and `BIRTH` removed from mid-sentence; See-list spellings restored (`CHEmmis`, `DEetos`, `Dionysus`, `Horvs`, `Isis`, `Latona`, `MarsH`, `Osiris`, `SEaSONS`).
+
+**Unclear or supplied:** The first Isis and Osiris quotation breaks off (`dwarfed and or apiece Isis and Osiris,`): `[passage unclear]` marks the lost words and the closing mark is supplied. `DELOS` is read from `DEetos`.
 
 ## Full OCR entry body (exact)
 

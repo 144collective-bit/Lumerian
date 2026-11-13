@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fig-tree
 headword: "FIG-TREE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Soma PLANT` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA PLANT OR TREE|SOMA PLANT OR TREE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
 | `Ye@apRaSIL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine life in the scheme of things. The Tree of Life, which grows up from a small seed and forms a stem, branches, twigs, leaves, and finally fruit and seeds, all typifying the spiritual life which permeates in every part the structure of the universe and the soul.
+
+> "This everlasting, holy fig-tree stands with roots above, with branches downwards. Its root is that pure Self, that [word unclear] principle."—*Katha. Upanishad*.
+
+See BIRDS (two), OAK TREE, SEED, SOMA PLANT, TREE OF LIFE, YGGDRASIL.
+
+**Corrections made:** `aaa` → [word unclear]; `Katha. Upanishad,` reference punctuation; `Breps` → BIRDS; `Oak TREE` → OAK TREE; `Ye@apRaSIL` → YGGDRASIL; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `aaa` before "principle" (probably "Brahma"/"immortal"); the chapter and verse reference is missing after `Katha. Upanishad`. `YGGDRASIL` is a best reading of OCR `Ye@apRaSIL`.
 
 ## Full OCR entry body (exact)
 

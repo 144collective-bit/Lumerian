@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gold-man
 headword: "GOLD MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Monap` | **unresolved** (review queue) |
 | `PracApatt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the atma-buddhic monad or Divine spark ensouled in the buddhic causal-body of the human race. The higher individuality.
+
+> "If the dviyagus brick is that same Sacrificer who is that Gold man (Pragapati or Agni), which then is that real form of his? Well, that Gold man is his divine body, and this brick is his human one. As to that Gold man, that is his immortal form,—his divine form; gold being immortal. And as to this brick being made of clay, it is because this is his human form."—*Sata. Brâh.*, VII. 4, 2, 17.
+
+If the causal-body represents the Archetypal Self, who is the Divine Monad?—which is the original Divine Self? Well, the Divine Monad is the spiritual expression direct from above, and the causal-body, is the expression of the Self working from below upwards in the matter of the planes. As to the Divine Monad, that is the Self's primordial eternal condition,—his state of being in atma. And as the causal-body is formed of higher mental matter, so it is the expression of the Self through human involution and constitutes the Individuality.
+
+See ALTAR (fire), BRICKS, CAUSAL-BODY, DVIYAGUS, MONAD, PRAGAPATI, SELF.
+
+**Corrections made:** `PragApati` → Pragapati; `Brdéh.` → Brâh.; `4,2, 17` → 4, 2, 17; See-list spellings restored (`ALrTaR`, `Bricks`, `CAUSALBopy`, `Dviyaqus`, `Monap`, `PracApatt`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

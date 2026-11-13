@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manifestation-into-day
 headword: "MANIFESTATION INTO DAY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `Sprerr` | **unresolved** (review queue) |
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `Vicrory` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the night of the Soul ended, and the rise of the consciousness into Light and Life eternal.
+
+> "Chapter of Manifestation into Day, of Going in and Coming forth in the possession of Divinity. . . . Of Victory there, of Glory there, of Ploughing, Reaping, Feasting, and Marriage there: of Doing all these things while on earth."—*Book of the Dead*, Ch. CX., Blackden.
+
+The Soul's completed pilgrimage through the planes and periods of the manvantara, and the cycles, first, of involution (going in), and second, of evolution (coming forth), culminating in union with Divinity. This implies the victory of the Soul over the realm of nature; the primordial potential being ultimately actualised; the transfiguration of matter and energy, through Spirit acting upon matter; the law of Karma (reaping), and the enjoyment of devachanic bliss; the union between the lower Self and the Higher Self; and the full expression of the Self through its vehicles on the planes of manifestation.
+
+See CHAPTERS, COMING FORTH, DAY, EVOLUTION, FEAST, GOING IN, IAO, INVOLUTION, KARMA, MARRIAGE, NIGHT, PLOUGHING, REAPING, SPIRIT, TUAT, VICTORY.
+
+**Corrections made:** `Ploughiny` → Ploughing; `BLacKpEN` → Blackden; See-list spellings restored (`Cuarrers`, `CoMING rortaH`, `Gorna 1n`, `Niaut`, `PLouGHine`, `Reapina`, `Sprerr`, `Tuat`, `Vicrory`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

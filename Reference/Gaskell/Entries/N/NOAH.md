@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-noah
 headword: "NOAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,28 @@ tags:
 | `Sera` | **unresolved** (review queue) |
 | `SrLENvs` | **unresolved** (review queue) |
 | `WALKING WITH GOD. NOAH’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the individuality, or the manifested Self in evolution,—the permanent centre of evolution in the soul. It is the buddhi-manasic principle, or the incarnation of the Self as applying to the three lower planes.
+
+> "These are the generations of Noah. Noah was a righteous man, and perfect in his generations: Noah walked with God."—Gen. vi. 9.
+
+Now follows an account of the evolution of the "Noah" principle, CAUSAL-BODY, [Dkr?] which is perfection of the soul according to its stage of development. The knowledge it possessed is derived from within (walked with God).
+
+> "And he (Lamech) said to him (Methuselah): 'I have begotten a strange son: he is not like man but resembles the children of the angels of heaven; and his nature is different and he is not like us, and his eyes are as the rays of the sun and his countenance is glorious."—*Book of Enoch*, Ch. CV. 5.
+
+> "Noah is the divinely appointed figure, in whom the whole course of regeneration is set forth, every secret of this great mystery being here drawn for us as God alone could draw it. . . . Noah, then, is the spiritual mind,—for he is only the continuation of Seth's line, and figures the form of life which the spiritual mind takes at this stage in its development, when it has come so far as to know the judgment of the old creation, and the way through that judgment to a cleansed and better world."—A. Jukes, *Types of Genesis*, pp. 104-5.
+
+See ADAM'S BODY, ARK, BEASTS, EVOLUTION, FLOOD, GOD SMELLING, HAM, HOUSE (frequented), INCARNATION, INDIVIDUALITY, INTOXICATION, MAN (righteous), OLIVE LEAF, RAINBOW, REGENERATION, ROCK, SAVOUR, SETH, SILENUS, WALKING WITH GOD.
+
+### Also in this note: NOAH'
+
+[text cut off]
+
+**Corrections made:** `Nosh` → Noah; `GeEn.` → Gen.; `Methnselah` → Methuselah; `eon` → son; `sre` → are; `a0 far` → so far; `ita` → its; `JUKES` → Jukes; page heading `538 NOAH'S SONS` removed from mid-sentence; See-list spellings restored (`Apam's sBopy`, `BrEasrs`, `Sera` → SETH, `SrLENvs` → SILENUS, `RansBOW` and similar).
+
+**Unclear or supplied:** Contains a second entry: `NOAH'` at the end of the OCR, which breaks off. In "principle, CAUSAL-BODY, Dkr which is perfection" the words `CAUSAL-BODY, Dkr` appear to be stray (possibly the start of a See list); they are kept as printed, with `[Dkr?]` marking the unclear fragment.
 
 ## Full OCR entry body (exact)
 

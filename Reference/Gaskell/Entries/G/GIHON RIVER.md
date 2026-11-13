@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gihon-river
 headword: "GIHON RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
 | `CusH` | **unresolved** (review queue) |
 | `EDEN RIVER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/E/EDEN RIVER HEADS|EDEN RIVER HEADS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mental nature as a current of life on the lower planes.
+
+> "And the name of the second river is Gihon: the same is it that compasseth the whole land of Cush (Ethiopia)."—Gen. ii. 13.
+
+And the second differentiation from the higher mental plane (Pishon) is the lower mental plane; this includes all the activities of the astro-mental nature (Cush).
+
+See ANDROMEDA, CUSH, EDEN RIVER.
+
+**Corrections made:** `Ethiopis` → Ethiopia; `GEN.` → Gen. (full stop supplied after 13); See-list spellings restored (`CusH`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

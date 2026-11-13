@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hunger
 headword: "HUNGER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,28 @@ tags:
 | `SacRAMENT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SACRAMENT|SACRAMENT]] |
 | `TEMPTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TEMPTATION OF JESUS|TEMPTATION OF JESUS]] |
 | `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol in the higher aspect, of a longing for truth and goodness as the "bread of heaven,"—the soul's sustenance; and in the lower aspect, of a desire for externalities which cannot satisfy.
+
+> "Hunger signifies deprivation and rejection of the knowledges of truth and good arising from evils of life; it also signifies ignorance of the knowledges of truth and good arising from a deficiency thereof in the church; and it signifies likewise a desire to know and understand them."—Swedenborg, *Apoc. Rev.*, n. 323.
+
+> "Hunger is a cloud which rains down naught but wisdom." "None can worship rightly so he be not hungry" (*Aphorisms of Sufi Saints*).—Browne.
+
+> "It is this hunger for God, this unsatisfied yearning of the soul for union with its true centre, which is the dynamic of all the restless strivings of our complex modern civilisation. The world may not know it, but it is so; we may be feeding upon husks instead of the bread of life, but it is the bread of life we want all the time."—R. J. Campbell, *Serm.*, *Our Quest for God*.
+
+> "These things that seem to be you are not you. The real you is that which feels hungry for something better than you have ever found yet, or than the things of the outer world can supply."—R. J. Campbell, *Serm.*, *Coming to the True Self*.
+
+> "For he (the Lord) satisfieth the hungering soul, and the hungry soul he filleth with good."—Ps. cvii. 9.
+
+> "Blessed are they that hunger and thirst after righteousness for they shall be filled."—Mat. v. 6.
+
+See [Batprr?], BREAD, CLOUD, FOOD, SACRAMENT, TEMPTATION, THIRST.
+
+**Corrections made:** `Campsety` → Campbell; `R. J. ro aia` → R. J. Campbell; `True if` → True Self; `the ing soul` → the hungering soul; `Mar. v. 6` → Mat. v. 6; `SwEDENBORG` → Swedenborg; See-list spellings restored (`Breap`, `Croup`, `Foon`, `SacRAMENT`).
+
+**Unclear or supplied:** The second Campbell attribution is damaged in the OCR (`R. J. ro aia`); Campbell is inferred from the first. `[Batprr?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

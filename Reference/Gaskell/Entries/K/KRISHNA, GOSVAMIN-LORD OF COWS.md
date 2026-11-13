@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-krishna-gosvamin-lord-of-cows
 headword: "KRISHNA, GOSVAMIN—LORD OF COWS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `MOTHER (divine)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MOTHER, DIVINE|MOTHER, DIVINE]] |
 | `Ravana` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAVANA, KING OF LANKA|RAVANA, KING OF LANKA]] |
 | `VISHNU. KRONOS ; SATURN;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, supreme over the buddhic emotions (cows).
+
+> "Krishna, 'the dark'—the most popular of all the later deities of India. [word unclear] incarnation of Vishnu, at the end of the Dvapara or third age of the world, as the eighth son of Vasu-deva and Devaki of the Lunar race, was for the destruction of Kansa the representative of the principle of evil, corresponding to Ravana in the previous incarnation."—Mon. Williams, *Indian Wisdom*, p. 334.
+
+The "dark god" signifies the latency at first of the indwelling Self who proceeds from the Divine Archetype (Vasudeva) and Mother-matter (Devaki) in order to overcome the lower principle or desire-nature (Kansa) in the human soul. The Archetypal Man is perfected at the end of the period of involution (third age). The "eighth son" indicates preparatory states of soul completed (seven) prior to the birth of the Self. The "lunar race" refers to the growth of the astral mechanism of the desires on the globes of the lunar chain.
+
+> "Among the Pancarâtras Krishna was the supreme Atman; his brother Balarâma was the jiva, the individual soul; his son, Pradyumna, represented the manas perceptive sense; and Aniruddha his grandson, the ahamkâra, self-consciousness. In like manner, the amours of Krishna and the shepherdesses become, among the Vishnuites, the allegorical expression of the relations of the soul with God."—A. Barth, *Rel. of India*, p. 218.
+
+The Higher Self (Krishna or Atman), the Individuality or Spiritual ego (Balarâma or jiva), the lower Self (Pradyumna), and the Personality (Aniruddha or the ahamkara), with its sense of separateness and self-conscious feeling, constitute the leading aspects of the Soul. The "shepherdesses" signify the higher emotions on the buddhic plane, which harmonise with, and surround, the central ideal of Love and Truth.
+
+See ARC. MAN, ARJUNA, BALARAMA, BIRTH OF KRISHNA, COW, DANCE (circle), DEVAKI, GOLDEN AGE, GOLOKA, GOPIS, INCARNATION, MOTHER (divine), RAVANA, VISHNU.
+
+**Corrections made:** `pular` → popular; `Altman` → Atman; `Pancarftras` → Pancarâtras; `Balardma`/`Balarméa` → Balarâma; `ahamkédra` → ahamkâra; `Bartu` → Barth; `Goris` → GOPIS; page headings `KRONOS` (mid See list) and trailing `KRONOS ; SATURN;` removed as heading debris.
+
+**Unclear or supplied:** `[word unclear]` before "incarnation of Vishnu": the OCR drops the opening words of the sentence. The trailing `KRONOS ; SATURN;` is the start of the next entry's headword, not part of this entry.
 
 ## Full OCR entry body (exact)
 

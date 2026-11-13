@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-artemis-the-goddess
 headword: "ARTEMIS, THE GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Annows (divine)` | **unresolved** (review queue) |
 | `Brasts (wild)` | **unresolved** (review queue) |
 | `Drana` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of buddhi under various aspects. As a "huntress" it signifies the quelling of desires (beasts) through the "arrows" of the Spirit.
+
+See ARROWS (divine), BEASTS (wild), DIANA.
+
+**Corrections made:** `Annows` → ARROWS; `Brasts` → BEASTS; `Drana` → DIANA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dearth-in-the-land
 headword: "DEARTH IN THE LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `DrovucHT` | **unresolved** (review queue) |
 | `SaBBATHS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SABBATHS|SABBATHS]] |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a state of latency, or a condition unfruitful of the virtues and higher qualities of the soul.
+
+See DEVASTATION, DROUGHT, SABBATHS, WINTER.
+
+**Corrections made:** See-list spellings restored (`DrEvastaTIon`, `DrovucHT`, `SaBBATHS`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

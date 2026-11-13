@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-atzeel-oothic-world
 headword: "ATZEEL-OOTHIC WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Imace` | **unresolved** (review queue) |
 | `Macorocosm` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MICROCOSM|MICROCOSM]] |
 | `Sau (great)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SAU AMULET (EGYPTIAN)|SAU AMULET (EGYPTIAN)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the three higher planes,—atma, buddhi, manas,—as containing the pattern of that which appears on the three lower planes.
+
+> "God has, in fact, erected (primordially) another and higher system, that of spiritual being and government for which nature exists; a system not under the law of cause and effect, but ruled and marshalled under other kinds of laws, and able continually to act upon or vary the action of the processes of nature. If, accordingly, we speak of system, this spiritual realm or department is much more properly called a system than the natural, because it is closer to God, higher in its consequence, and contains in itself the ends or final causes for which the other exists, and to which the other is made to be subservient. There is, however, a constant action and reaction between the two, and, strictly speaking, they are both together, taken as one, the true system of God; for a system, in the most proper and philosophic sense of the word, is a complete and absolute whole, which cannot be taken as a part or fraction of anything."—H. Bushnell, *Nature and the Supernatural*, p. 19.
+
+> "The spiritual is the world of causes, the material that of effects."—R. J. Campbell, *Serm.*, *Book of Destiny*.
+
+See ADAM (higher), ARC. MAN, [Breatico?], IMAGE, MACROCOSM, [Sau (great)?].
+
+**Corrections made:** Page heading `AURVA` removed from inside `department`; `end` → and; `BusHnertyi` → Bushnell; `CaMPBELL` → Campbell; See-list spellings restored (`Apam`, `ARO. MAN`, `Imace`, `Macorocosm`).
+
+**Unclear or supplied:** `[Breatico?]` and `[Sau (great)?]` are See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

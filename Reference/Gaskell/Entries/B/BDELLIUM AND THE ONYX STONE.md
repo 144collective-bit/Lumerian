@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bdellium-and-the-onyx-stone
 headword: "BDELLIUM AND THE ONYX STONE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Havriae` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of wisdom and power on the buddhic plane. See HAVILAH.
+
+**Corrections made:** `Havriae` → HAVILAH.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

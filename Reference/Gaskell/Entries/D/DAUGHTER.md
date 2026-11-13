@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daughter
 headword: "DAUGHTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `HEALING (dead)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `RULER` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RULER, CHIEF, OR KING|RULER, CHIEF, OR KING]]; [[Reference/Gaskell/Entries/R/RULER OF THE ON|RULER OF THE ON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of an affection in a mind or mental quality developed as a ruler. This affection slumbered until life was abundantly given to it by the Christ in response to faith and trust in the higher guidance. See HEALING (dead), RULER.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

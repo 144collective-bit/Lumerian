@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dynasty-man-s-of-china
 headword: "DYNASTY, MAN'S (OF CHINA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -66,6 +67,30 @@ tags:
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This refers to the appearance of astral man on this earth, the formation of the physical body with its mechanism, and the establishment of the differentiated sensorium.
+
+See ADAM (lower), ARC. MAN, [PYLVUS?], RACES.
+
+### Also in this note: [EA?]
+
+A symbol of the First Logos, or the Creator manifesting upon the higher mental plane.
+
+> "Ea, under the mask of Merodach (Marduk), is the Creator of mankind as of all things else. In this act of creation the Goddess Aruru is coupled with him."—A. H. Sayce, *Rel. of Anc. Egypt. and Babyl.*, p. 382.
+
+The "Creator Ea" is the First Logos acting through the Second Logos (Merodach). The "Goddess Aruru" is the feminine principle buddhi,—duality being necessary to manifestation,—spirit and matter being essential thereunto. "Ea," "Merodach," and "Aruru" are the Higher Triad,—Father, Son, and Holy Spirit.
+
+> "Ea was god of the deep, both of the atmospheric deep, and of that watery deep, the Okeanos of Homer, which surrounds the earth like a coiled serpent. ... Ea was lord of wisdom."—*Ibid.*, p. 104.
+
+The "atmospheric deep" signifies the higher mental plane, the "firmament." The "watery deep," the "celestial ocean" is the Divine Reality, the Source of all. Truth (water) is the origin of all things.
+
+See [ART?], ARURU, COSMOS, DEEP, FIRMAMENT, MERODACH, OCEAN, SPIRIT, TRIAD, TRINITY, WATER.
+
+**Corrections made:** `ARO. MAN` → ARC. MAN; `Ka` → Ea; `sernt` → serpent; `bid.` → *Ibid.*; `Higher ‘Triad` → Higher Triad; page heading `236 EAGLE` removed from mid-text; See-list spellings restored (`ApaM`, `RAcEs`, `ArnuRu`, `Spreurr`); quotation marks normalised.
+
+**Unclear or supplied:** Contains a second entry: the Ea entry follows the first See list with no headword printed, so its headword is given as `[EA?]`. `[PYLVUS?]` (OCR `PyLvus`) and `[ART?]` (OCR `Arr`) are doubtful See-list items.
 
 ## Full OCR entry body (exact)
 

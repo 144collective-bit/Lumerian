@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aquarius-the-zodiacal-sign
 headword: "AQUARIUS, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FOUNTAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FOUNTAIN OF WATER|FOUNTAIN OF WATER]] |
 | `WaTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the eleventh period of the cycle of life. It signifies the buddhic vehicle of the Spirit, as the container of Truth (water) from the fountain of the Divine Reality. It refers to the rise of consciousness through the lower buddhic plane, far advanced in the present period of evolution.
+
+See FOUNTAIN, WATER, ZODIAC.
+
+**Corrections made:** Page heading `CoLGANDHARVAS, AQUEDUCT` removed from mid-sentence; `WaTER` → WATER.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

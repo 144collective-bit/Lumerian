@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-duck-of-ilmater
 headword: "DUCK OF ILMATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Monap` | **unresolved** (review queue) |
 | `SEs` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of primordial matter which brings forth the Cosmos as a germ or egg in time and space.
+
+See EGG, MONAD, [SEA?], SEED.
+
+**Corrections made:** `Ecce` → EGG; `Monap` → MONAD; page heading `233 DURVA-BRICK` removed from mid-sentence.
+
+**Unclear or supplied:** See-list item OCR `SEs` is given as `[SEA?]`.
 
 ## Full OCR entry body (exact)
 

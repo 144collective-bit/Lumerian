@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adytum
 headword: "ADYTUM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,14 @@ tags:
 | `KAABA` | resolved (full-head) → [[Reference/Gaskell/Entries/K/KAABA|KAABA]] |
 | `SHRINE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHRINE OR SANCTUARY|SHRINE OR SANCTUARY]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body on the higher mental plane, as the seat or vehicle of the Higher Self, Atma-buddhi. See AKRAGAS, CABIN, HEART, HOUSE, KAABA, SHRINE, TEMPLE.
+
+**Corrections made:** `Atmabuddhi` → Atma-buddhi; `AKRAGUS` → AKRAGAS; See-list spellings restored (`Heart`, `House`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

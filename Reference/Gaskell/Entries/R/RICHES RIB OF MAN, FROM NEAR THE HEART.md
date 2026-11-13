@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-riches-rib-of-man-from-near-the-heart
 headword: "RICHES RIB OF MAN, FROM NEAR THE HEART"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Bones` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BONES OR SKELETON|BONES OR SKELETON]]; [[Reference/Gaskell/Entries/B/BONES, WHITE|BONES, WHITE]] |
 | `WOMAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a high sub-plane of the mental plane, from which the emotion-nature (woman) evolves.
+
+See BONES, WOMAN.
+
+**Corrections made:** `Bones` → BONES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

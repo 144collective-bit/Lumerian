@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-original-sin
 headword: "ORIGINAL SIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,28 @@ tags:
 | `Trrans` | **unresolved** (review queue) |
 | `Toms` | **unresolved** (review queue) |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the negative state of ignorance and imperfection which originates in the process of involution, through the limitation of Spirit by matter. This necessitates the subsequent evolution of Spirit from the lowest condition of ignorance to the highest state of Truth.
+
+> "Theology has had much to say about original sin. This original sin is neither more nor less than the brute inheritance which every man carries with him, and the process of evolution is an advance towards true salvation."—J. Fiske, *Destiny of Man*, p. 103.
+
+> "Everything inferior is a higher in [making?]; everything hateful is a coming beautiful; everything evil a coming good."—G. Prellnitz.
+
+> "All good things were originally bad things, every original sin has developed into an original virtue."—Nietzsche.
+
+> "Original sin is precisely the condition of blindness (to the spiritual) which, owing to the soul's immergence in materiality, hinders the perception of divine things. By no possibility can the Divine Life be generated in any soul afflicted with this blindness."—*The Perfect Way*, p. 242.
+
+> "[Orp]hism held the doctrine of original sin. [Th]e soul was enclosed in the body as in a tomb or prison, to punish a very early crime committed by the Titans, the ancestors of man, who had treacherously slain the young god Zagreus."—S. Reinach, *Orpheus*, p. 82.
+
+> "When Paul speaks of sin entering the world, and death by sin, he does not mean physical death; indeed, he is not [sp]eaking of happenings on the physical plane at all. This has been the cause of great misunderstanding of the apostle, because it is easy to see that physical death did not enter the world as the consequence of the sin of man. It was in the world long before man appeared on the scene. The sin of man, as Paul thought of it, was the development in man of the isolated self causing him to become out of harmony with God or the Universal Self. Under the old symbolism this was represented as the expulsion from Eden, but really it was the cessation, by a process of inevitable change, of the Eden condition within himself. Paul is speaking of spiritual matters when he is dealing with both sin and death. Man died to Eden or heaven by becoming alive to the converse of that condition, to the consciousness of himself as a separate entity, distinct from the life of God. It is a Fall or Descent into matter, a burial or entombment."—K. C. Anderson, *Serm.*, *The Buried Life*.
+
+See CAPTIVITY, DEATH, EDEN, EVOLUTION, FALL, HEAVEN, HIGHER AND LOWER SELVES, IGNORANCE, INVOLUTION, MATTER, [Pyrrrarvana?], SELF, SEPARATENESS, SORROW, SPIRIT, TITANS, TOMB, ZAGREUS.
+
+**Corrections made:** `Fisxr` → Fiske; `QG.` → G.; `Reraca` → Reinach; `8.` → S.; `ssolated` → isolated; `aking` → [sp]eaking; `hism`/`e soul` → [Orp]hism/[Th]e soul; page heading `553 ORPHEUS` removed from mid-sentence; See-list spellings restored (`Marrer`, `Sorrow`, `SPIBgIT`, `Trrans`, `Toms`, `Captivity`, `EvoLUTION`); and similar minor fixes.
+
+**Unclear or supplied:** `[making?]`: OCR reads `in ing`. `[Orp]hism`, `[Th]e` and `[sp]eaking` are reconstructed from truncated OCR. See-list item `[Pyrrrarvana?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

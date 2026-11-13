@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bow-of-silver-and-arrow-of-apollo
 headword: "BOW OF SILVER, AND ARROW, OF APOLLO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Mrrat` | **unresolved** (review queue) |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `SILVER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SILVER AND GOLD (NOT AS MONEY)|SILVER AND GOLD (NOT AS MONEY)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the higher-mental stimulus to evolution, destructive to the lower mental qualities.
+
+See APOLLO, ARROWS, METAL, PESTILENCE, SILVER.
+
+**Corrections made:** `Mrrat` → METAL.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brass-bronze-metal
 headword: "BRASS, BRONZE, METAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Inon` | **unresolved** (review queue) |
 | `Metars` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/METALS|METALS]] |
 | `TUBAL CAIN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL|TUBAL CAIN, FORGER OF CUTTING INSTRUMENTS OF METAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of mentality, the mental plane; comparable to that which is firm and endures.
+
+> "Brass signifies natural good; iron, natural truth."—Swedenborg, *Arc. Cel.* to Gen. iv. 22.
+
+See IRON, METALS, TUBAL CAIN.
+
+**Corrections made:** `SwEDENBORG` → Swedenborg; `Inon` → IRON; `Metars` → METALS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

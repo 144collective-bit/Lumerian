@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-faces-of-men
 headword: "FACES OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Mrmnor` | **unresolved** (review queue) |
 | `Uzumes` | resolved (singular/plural) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the mental aspects of the qualities.
+
+> "We all, with unveiled face reflecting as a mirror the glory of the Lord, are transformed into the same image from glory to glory."—2 Cor. iii. 18.
+
+When the qualities are freed in their mental aspects from the illusion of separateness, then they reflect the unity and harmony of the One Higher Self and become transmuted on to higher planes.
+
+See MIRROR, UZUMES.
+
+**Corrections made:** `Mrmnor, Uzumes` → MIRROR, UZUMES.
+
+**Unclear or supplied:** `UZUMES` left as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-orders-four-of-manu
 headword: "ORDERS, FOUR OF MANU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `SPRING-TIME` | **unresolved** (review queue) |
 | `STUDENT` | **unresolved** (review queue) |
 | `YELLOW DRESS` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YELLOW DRESS|YELLOW DRESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of four successive states of consciousness on the mental and buddhic planes in the course of the growth of the soul.
+
+> "The Student, the Householder, the Hermit, and the Ascetic, these constitute four separate orders which all spring from the order of Householders."—*Laws of Manu*, VI. 87.
+
+The "Student" represents an ego manifesting in the mental-body as a centre of consciousness on the four lower mental sub-planes. This is the personality either incarnate or excarnate. The "Householder" is the ego seated in the causal-body on the fifth mental sub-plane. This is the individuality from which proceed the other three phases of consciousness. The "Hermit" is the ego manifesting in a centre of consciousness on the sixth mental sub-plane. And the "Ascetic" is the ego manifesting in a centre of consciousness on the buddhic plane. The two last "orders" are without lower vehicles and receive no vibrations from the lower planes.
+
+See ASCETICS, ASRAMAS, CONSCIOUSNESS, HERMIT, HOUSEHOLDER, MONK, SANNYASIN, SNATAKA, SPRING-TIME, STUDENT, YELLOW DRESS.
+
+**Corrections made:** `represente` → represents; `excarmate` → excarnate; `Thisis` → This is; page heading `ORIGINAL` removed from mid-sentence; See-list spellings restored (`CONSCIOUSwess`, `Hermit`, `SaNNYASIN`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-prophet-381-ieou-idol-priest
 headword: "PROPHET, 381 IEOU IDOL-PRIEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `Priests AND ELDERS` | **unresolved** (review queue) |
 | `Rrres` | **unresolved** (review queue) |
 | `RITUAL` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RITUAL AND CEREMONIAL|RITUAL AND CEREMONIAL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the creed-bound, literalist mind, and the mental quality of subservience to ritual and ecclesiastical systems. See CALF (molten), PRIESTS AND ELDERS, RITES, RITUAL.
+
+**Corrections made:** `CaF` → CALF; `Priests AND ELDERS` → PRIESTS AND ELDERS; `Rrres` → RITES.
+
+**Unclear or supplied:** The headword in the import (`PROPHET, 381 IEOU IDOL-PRIEST`) is garbled; the entry text is as in the OCR.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-places-five-whereon-is-most-sorrow
 headword: "PLACES, FIVE, WHEREON IS MOST SORROW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `BRaTROK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/B/BRATROK-RISH, THE KARAP|BRATROK-RISH, THE KARAP]] |
 | `FIVE` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FIVE, NUMBER|FIVE, NUMBER]] |
 | `Virnorns (ten)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the five senses which operate from the physical plane and are causes of suffering to the mind, or lower consciousness. See BRATROK, FIVE, [Virnorns? (ten)].
+
+**Corrections made:** `BRaTROK` → BRATROK; `Virnorns (ten)` left in OCR spelling.
+
+**Unclear or supplied:** `[Virnorns? (ten)]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

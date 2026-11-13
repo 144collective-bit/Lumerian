@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-healing-of-the-withered-hand-of-a-mason
 headword: "HEALING OF THE WITHERED HAND OF A MASON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Hanp` | **unresolved** (review queue) |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the energising of the will by the Spirit.
+
+> "Then saith he to the man, Stretch forth thy hand. And he stretched it forth; and it was restored whole as the other."—Mat. xii. 13.
+
+The hand is the active and constructive instrument under the control of the will; and Christ's cure refers to the energising of the will by the indwelling Self. See HAND, MAN (natural), WILL.
+
+**Corrections made:** `Mar.` → Mat.; page heading `342 HEALING` removed from mid-sentence; `Hanp` → HAND; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

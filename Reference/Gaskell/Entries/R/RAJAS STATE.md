@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rajas-state
 headword: "RAJAS STATE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `DROPNER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/D/DROPNER RING|DROPNER RING]] |
 | `GUNAS` | **unresolved** (review queue) |
 | `Ra` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RA, OR RA HARMAKHIS, THE EVER LIVING|RA, OR RA HARMAKHIS, THE EVER LIVING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This signifies mental outgoing energy directed towards objects of desire and sense.
+
+> "Rajas is of the nature of desire, producing thirst and propensity; it imprisoneth the ego through the consequences produced from action. ... The love of gain, activity in action, and the initiating of works, restlessness and inordinate desire, are produced when the quality of rajas is prevalent. ... When the body is dissolved while the quality of rajas is predominant, the soul is born again in a body attached to action."—*Bhagavad-Gita*, Ch. XIV.
+
+> "That austerity (restraint) which is practised with hypocrisy, for the sake of obtaining respect for oneself or for fame or favour, and which is uncertain and belonging wholly to this world, is of the quality of rajas. ... That gift which is given with the expectation of a return, or with a view to spiritual benefit, or with reluctance, is of the rajas quality, bad and partaketh of untruth."—*Ibid.*, Ch. XVII.
+
+The mental activity of rajas is good or bad in the ordinary sense, according to the great or little consideration given to the welfare of others.
+
+See AUSTERITIES, DROPNER, GUNAS, Ra[?]
+
+**Corrections made:** page heading `RAKSHASAS` removed from mid-sentence; `‘*` → "; `&` → a; `Jbid.` → *Ibid.*; `Ra` left as printed at the break.
+
+**Unclear or supplied:** The See list breaks off after `Ra` in the OCR and is left as `Ra[?]`. `DROPNER` is as printed and may be damaged (possibly DROUGHT or another headword).
 
 ## Full OCR entry body (exact)
 

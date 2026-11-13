@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-corruption-and-violence-on-the-earth
 headword: "CORRUPTION AND VIOLENCE ON THE EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,22 @@ tags:
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
 | `VAIVASVATA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAIVASVATA MANU|VAIVASVATA MANU]] |
 | `WICKEDNESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WICKEDNESS OF MAN|WICKEDNESS OF MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of a state of estrangement from the Spirit, and of strife among the qualities of the lower nature.
+
+> "And the earth was corrupt before God, and the earth was filled with violence."—Gen. vi. 11.
+
+And the lower nature was gross and predominant. "Corruption and violence" correspond to the alienation and changes which occur through the approach of the spiritual activities which are to proceed from above.
+
+> "It must have been divinely ordained that we should be subject to the dominion of darkness, in which God dwells in his fullness, though we do not know it. We are curiously imprisoned within our own physical organisations, and with all our advance in knowledge how little we know of our own universe! . . . We sit in darkness and the shadow of death. Ignorance is the root cause both of [pain and] sin. We suffer because we do not [know]. Sin would be just as impossible as pain if men knew the truth about life and were able to pierce the darkness that conceals the face of God."—R. J. Campbell, *Serm.*, *Veil of Darkness*.
+
+See CONFLICT, DARKNESS, DELUGE, DEPRAVITY, EARTH, FLOOD, STRIFE, SUFFERING, VAIVASVATA, WICKEDNESS.
+
+**Corrections made:** `cf` → of; page heading `175 COSMOS` removed from mid-sentence; `ping, pee sin` → [pain and] sin; `do not w.` → do not [know].; `CampseE.t` → Campbell; `Vetl` → Veil; See-list spellings restored (`Eartuo`, `Fioop`, `Srrire`, `Depraviry`).
+
+**Unclear or supplied:** `[pain and]` and `[know]` are supplied: the OCR reads `ping, pee sin` and `do not w.` (damaged), the context being the sentence "Sin would be just as impossible as pain".
 
 ## Full OCR entry body (exact)
 

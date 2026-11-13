@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cave-of-nanda
 headword: "CAVE OF NANDA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `BIRTH OF KRISHNA` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA AN INCARNATION OF VISHNU|BIRTH OF KRISHNA AN INCARNATION OF VISHNU]]; [[Reference/Gaskell/Entries/B/BIRTH OF KRISHNA, VAULT OF HEAVEN|BIRTH OF KRISHNA, VAULT OF HEAVEN]] |
 | `BODHISATVA (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/B/BODHISATVA, THE GREAT|BODHISATVA, THE GREAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the receptive personality.
+
+> "The Naga-king entering the cave of Nanda."—*Buddha-Karita*, Bk. I. 19.
+
+The "Serpent-King" is the symbol of wisdom and enlightenment, which enters the personality to illuminate it and raise it upward to perfection.
+
+See BIRTH OF KRISHNA, BODHISATVA (great).
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

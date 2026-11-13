@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rock-sepulchre
 headword: "ROCK SEPULCHRE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,24 @@ tags:
 | `Spices` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPICES|SPICES]] |
 | `SuNDAY` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUNDAY, THE FIRST DAY|SUNDAY, THE FIRST DAY]] |
 | `ToMB` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TOMB|TOMB]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a condition of hardness of feeling and stagnation in religious thought and opinion.
+
+> "The sepulchre was hewn out of a rock, and a great stone was rolled to the door of the tomb."—Matt. xxvii. 60.
+
+This signifies a contracted mental condition that has but little life in it. It is inert, senseless, dark, and cold, and every crevice is closed to the light of Truth.
+
+> "And behold, there was a great earthquake; for an angel of the Lord descended from heaven, and came and rolled away the stone, and sat upon it."—Matt. xxviii. 2.
+
+This indicates a disruptive process, which abolishes the stagnation of mind and has the effect of causing mental states which regard things of the lower life as fixed and permanent, to quake with fear. The "angel" signifies the positive spiritual action from within which transfigures the conditions.
+
+See ANGELS, EARTHQUAKE, LAZARUS, SEPULCHRES, SPICES, SUNDAY, TOMB.
+
+**Corrections made:** `Mat.` → Matt.; `xxvili` → xxviii; `SEpuLcures` → SEPULCHRES; `SuNDAY`, `ToMB` restored; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

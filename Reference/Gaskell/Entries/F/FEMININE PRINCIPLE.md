@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feminine-principle
 headword: "FEMININE PRINCIPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `AN ABODE OF FRIGG :-— A symbol of the astral plane as a reflection (inverted) of the buddhic. See ASTRAL PLANE` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `FRIGG` | resolved (first-segment) → [[Reference/Gaskell/Entries/F/FRIGG, OR FRIKKA, WIFE OF ODIN|FRIGG, OR FRIKKA, WIFE OF ODIN]] |
 | `MISTLETOE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MISTLETOE|MISTLETOE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This designates the passive and receptive aspect of the manifest Duality. Space, Matter, and Wisdom (buddhi) have this feminine aspect and are symbolised by the great Goddesses in all the polytheistic religions. The present phase of evolution is directed from the buddhic plane which receives the transmuted results of experience, and yields up the higher emotions (feminine) to the aspiring lower Self incarnate in the soul.
+
+See ADITI, BUDDHI, GODDESS, MALE-FEMALE, MASCULINE, MOTHER, PRAKRITI, SOPHIA, VACH, WISDOM.
+
+### Also in this note: FENSAL, AN ABODE OF FRIGG
+
+A symbol of the astral plane as a reflection (inverted) of the buddhic.
+
+See ASTRAL PLANE, FRIGG, MISTLETOE.
+
+**Corrections made:** `BuDpHI` → BUDDHI; `MALEFEMALE` → MALE-FEMALE; `Prakriti` → PRAKRITI; `Sopni1a` → SOPHIA; `Vacu` → VACH; `WIspoM` → WISDOM.
+
+**Unclear or supplied:** Contains a second entry: FENSAL, AN ABODE OF FRIGG.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ashes-as-dust
 headword: "ASHES AS DUST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `INcARNATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/I/INCARNATION OF SOULS|INCARNATION OF SOULS]]; [[Reference/Gaskell/Entries/I/INCARNATION OF SPIRIT|INCARNATION OF SPIRIT]]; [[Reference/Gaskell/Entries/I/INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME|INCARNATION, VAIRAUMATI, HEAVENLY SPRINGTIME]] |
 | `JoB` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/J/JOB JOB, THE PERFECT MAN|JOB JOB, THE PERFECT MAN]] |
 | `Man (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind or transitory lower nature of the soul.
+
+> "He hath cast me into the mire, and I am become like dust and ashes. I cry unto thee, and thou dost not answer me: I stand up, thou lookest at me."—Job xxx. 19, 20.
+
+The incarnate Self (Job) is unable to express himself in the natural man.
+
+See DUST, INCARNATION, JOB, MAN (natural).
+
+**Corrections made:** Page heading `74 ASITA` removed from mid-sentence; `unte` → unto; `lookeet` → lookest; `JoB` → Job; full stop supplied after `natural man`; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

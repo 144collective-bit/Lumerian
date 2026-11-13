@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-city-sacred
 headword: "CITY SACRED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `ACROPOLIS` | **unresolved** (review queue) |
 | `AKRAGAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AKRAGAS, THE SACRED CITY|AKRAGAS, THE SACRED CITY]] |
 | `GLORY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]]; [[Reference/Gaskell/Entries/G/GLORY IN THE GREAT CITY|GLORY IN THE GREAT CITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal centre, or centre of spiritual action in the causal-body on the higher mental plane.
+
+See ACROPOLIS, AKRAGAS, GLORY.
+
+**Corrections made:** `causalbody` → causal-body.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fruitful-crop
 headword: "FRUITFUL CROP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Harvest` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HARVEST AT THE END OF THE WORLD|HARVEST AT THE END OF THE WORLD]] |
 | `REAPING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/REAPING AFTER SOWING|REAPING AFTER SOWING]]; [[Reference/Gaskell/Entries/R/REAPING THE HARVEST|REAPING THE HARVEST]] |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Signifying that from the functioning of the lower nature there is produced a goodly array of the higher qualities through spiritual cultivation.—See Heb. xii. 11.
+
+See AGRICULTURE, CULTIVATION, HARVEST, REAPING, SEED.
+
+**Corrections made:** `Hes.` → Heb.; `Harvest` → HARVEST.
+
+**Unclear or supplied:** `Heb. xii. 11`: OCR reads `Hes. xii. 11`; Heb. is inferred as the likely abbreviation.
 
 ## Full OCR entry body (exact)
 

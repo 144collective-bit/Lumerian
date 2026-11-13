@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hephaistos-or-vulcan
 headword: "HEPHAISTOS, OR VULCAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,20 @@ tags:
 | `SUN-SETTING` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN-SETTING|SUN-SETTING]] |
 | `WHITE-ARMED` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WHITE-ARMED HERA|WHITE-ARMED HERA]]; [[Reference/Gaskell/Entries/W/WHITE-ARMED WHEELS, HOLY|WHITE-ARMED WHEELS, HOLY]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Creative Mind which has conquered the lower activities:—the Higher Self which has been born in the soul on the mental plane, and grown upward to knowledge and power.
+
+> "Now when the bright light of the sun was set, there went each of the gods to his own house to sleep, where each one had his palace made with cunning device by famed Hephaistos the lame god; and Zeus the Olympian, the lord of lightning, [repaired?] to his couch where he was wont of old to take his rest whenever sweet sleep visited him. There went he up and slept, and beside him was Hera of the golden throne."—*Iliad*, Bk. I. end.
+
+Now when the cycle terminated, and pralaya supervened, each aspect of the Supreme Self returned to a quiescent condition,—for which, however, a form of mode was provided by the Creative Mind. This means that nothing, no differentiation, was extinguished. In every case the Creative Mind had called into being that which was to endure eternally. The Creative Mind is said to be "lame" because he originates from that which is partial and incomplete. This means that all forms limit potencies; and so that which is formed becomes but the expression of an aspect of Truth-reality. And the Higher Self as Will (Zeus), the originator of the life activities of the universe, returned into Unmanifest Being, wherein He dwells from eternity in so far as no manifestation is called forth. So here in *abscondito* the Self abode, and here also was Wisdom who remained supreme with Him.
+
+See [Cagarvion?], CUP (double), GODS, GOLDEN SOLES, HARPOCRATES, HERA, HOUSE (sleep), LAMENESS, LAUGHTER, MANAS, MIND, PANDORA, PRALAYA, SUN-SETTING, WHITE-ARMED, ZEUS.
+
+**Corrections made:** `rted` → [repaired?]; `how353 HERA ever` → however (page heading `353 HERA` removed); `9 form` → a form; `Truthreality` → Truth-reality; `abscondtto` → *abscondito*; `ZJliad`-type slips (`IJiiad`) → *Iliad*; See-list spellings restored (`Cur`, `Harpocrares`, `Hovss`, `LamenEss`, `Manat`, `Mrnp`, `PanporRa`, `GOLDEN sOLEs`).
+
+**Unclear or supplied:** `[repaired?]`: OCR `rted`. `[Cagarvion?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

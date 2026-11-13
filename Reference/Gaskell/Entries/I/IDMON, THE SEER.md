@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-idmon-the-seer
 headword: "IDMON, THE SEER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Boar (wild)` | resolved (full-head) → [[Reference/Gaskell/Entries/B/BOAR|BOAR]] |
 | `Farru` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quality of faith, as intuition of Truth, and as perception of that which is imminent in evolution.
+
+See BOAR (wild), FAITH,
+
+**Corrections made:** `Boar`, `Farru` restored.
+
+**Unclear or supplied:** The See list ends with a comma in the OCR (the entry appears cut off there).
 
 ## Full OCR entry body (exact)
 

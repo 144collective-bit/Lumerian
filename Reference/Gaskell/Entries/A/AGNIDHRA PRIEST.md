@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-agnidhra-priest
 headword: "AGNIDHRA PRIEST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `AGNISHTOMA Pors` | **unresolved** (review queue) |
 | `Priest (altar)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `Priest or APOLLO` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind working almost unknown to the personality on the higher mental plane.
+
+> "The Agnidhra goes round to the north, for he is virtually the same person as Agni himself."—*Sata. Brâh.*, I. 2, 4.
+
+The spiritual mind standing, as it were, between the lower mind and the higher planes (the north) occupies the place of the Higher Self (Agni) to the lower personality.
+
+> "But one night, after I had been in great distress praying about this, I went to sleep, and at one o'clock in the morning suddenly I was waked up out of my sleep, and I found myself, with unspeakable joy and awe, in the very presence of the Almighty God. And for the space of four hours I was privileged to speak face to face with Him as a man speaks face to face with a friend," Evan Roberts.—W. T. Stead, *Revival in the West*, p. 43.
+
+See ADVARYA, ATHORNE, CHRYSE, AGNISHTOMA, POPE, PRIEST (altar), PRIEST of APOLLO.
+
+**Corrections made:** `Brdéh.` → Brâh.; `Hvan` → Evan; `Sreap` → Stead; See-list spellings restored (`ADVABYA`, `CHEYSE`, `Pors`, `Priest`); quotation marks normalised.
+
+**Unclear or supplied:** The attribution of the Evan Roberts passage is set as printed. In the See list, `POPE` (OCR `Pors`) and `PRIEST of APOLLO` (OCR `Priest or APOLLO`) are likely readings.
 
 ## Full OCR entry body (exact)
 

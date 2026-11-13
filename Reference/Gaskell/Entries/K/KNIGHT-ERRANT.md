@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-knight-errant
 headword: "KNIGHT-ERRANT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ANDROMEDA` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA|ANDROMEDA, DAUGHTER OF CEPHEUS AND CASSIOPEA]] |
 | `PERSEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PERSEUS, SON OF ZEUS AND DANAE|PERSEUS, SON OF ZEUS AND DANAE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Christ-soul, or indwelling Self, a wanderer and saviour in the lower nature, rescuing the higher emotions from captivity to the lower desires, and vanquishing the oppressors of the virtues.
+
+See ANDROMEDA, PERSEUS.
+
+**Corrections made:** None beyond paragraphing.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

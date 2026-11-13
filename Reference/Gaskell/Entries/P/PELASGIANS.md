@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pelasgians
 headword: "PELASGIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `ARGOS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/A/ARGO, THE SHIP OF JASON|ARGO, THE SHIP OF JASON]] |
 | `MEAOU TRIBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MEAOU TRIBES OF CHINA|MEAOU TRIBES OF CHINA]] |
 | `SHAVING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SHAVING THE HEAD IN GRIEF|SHAVING THE HEAD IN GRIEF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower instincts, or lower qualities of the soul;—the powers of darkness. See ARGOS, MEAOU TRIBES, SHAVING.
+
+**Corrections made:** `soul ;—` → soul;—.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

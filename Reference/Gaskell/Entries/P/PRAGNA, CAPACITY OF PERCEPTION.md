@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pragna-capacity-of-perception
 headword: "PRAGNA, CAPACITY OF PERCEPTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `OSIRIS` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OSIRIS|OSIRIS]] |
 | `WIsDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `Wart` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of realised spiritual Truth, as the soul's support.
+
+> "That throne is Pragna (knowledge), for by knowledge he sees clearly."—*Kaush. Upanishad*, I. 2.
+
+That "throne" to which the Soul rises is the Supreme Knowledge, for through that alone the Self is perceived and becomes one with Itself. (The throne of Osiris is represented as resting upon Water, the symbol of Truth.)
+
+> "The foundations of man are not in matter, but in spirit. But the element of spirit is eternity."—R. W. Emerson, *Nature*.
+
+> "And further still we climbed, in inner thought and speech, and in wonder of Thy works, and we reached to our own minds, and passed beyond them, so as to touch the realm of plenty never failing, where Thou feedest Israel for ever in the pasture of the truth, and where life is that Wisdom, by which all things are made, both those which have been, and those which shall be; and Itself is not made, but is now as it was and ever shall be; or rather in it is neither 'hath been' nor 'shall be,' but only 'is,' since It is eternal."—Augustine, *Confessions*, Book IX. Ch. 10.
+
+See DHARMA, OSIRIS, WISDOM, [Wart?]
+
+**Corrections made:** `Pragn&é` → Pragna; `Isracl` → Israel; `Dxharma` → DHARMA; `EMERSON` → Emerson; quotation marks normalised.
+
+**Unclear or supplied:** The See list ends in `[Wart?]` (OCR `Wart`), apparently cut off; it may be WATER or another headword. It has no closing full stop in the OCR.
 
 ## Full OCR entry body (exact)
 

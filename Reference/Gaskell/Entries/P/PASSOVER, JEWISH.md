@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-passover-jewish
 headword: "PASSOVER, JEWISH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,26 @@ tags:
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SHogs` | **unresolved** (review queue) |
 | `UNLEAVENED` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/U/UNLEAVENED BREAD|UNLEAVENED BREAD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the process of redemption wherein partly disciplined qualities (Israelites), by partaking of the Divine nature (lamb), are nourished by the Divine Life as they triumph over the things of darkness, and pass over from a lower stage (Egypt) to a higher stage (Canaan).
+
+> "For our passover also hath been sacrificed, even Christ."—1 Cor. v. 7.
+
+Through the sacrifice of the Higher Self in involution, the Divine Life is outpoured in evolution.
+
+> "For Israel in Egypt (the house of bondage), for the Christian in the world, the one great truth is the Passover, redemption through the blood of the Lamb, salvation, not for our righteousness' sake, but because the blood is on the door-post.... And what is this [Pass]over but redemption? The elect family, with shoes on their feet, and their loins girt ready for flight from [Egyp]t, are standing by night (Rom. xiii. 12) within the house whose door-posts are sprinkled with blood, while the destroying angel is abroad."—A. Jukes, *The Law of the Offerings*, p. 23.
+
+> "The water and blood which flowed from the side of Jesus as the true Paschal lamb is the symbol of the spiritual life which through the death of Jesus is communicated in all its fullness to mankind."—F. C. Baur, *Church History*, Vol. I. p. 169.
+
+> "What God is aiming at is the production of a humanity which shall be the perfect expression of Christ. Through Christ from the very first he has been working out this divine idea, but not on this plane only; every man of faith who has ever lived has but passed on to another department of the service of the Lord when he has finished with the body. It is all one work; we are in the lowest department of it now, and we know not what is being done in the higher, but the higher knows what is being done in ours, and how we are doing it."—R. J. Campbell, *Serm.*, *Solidarity in Christ*.
+
+See ATONEMENT, BLOOD OF LAMB, BONDAGE, CRUCIFIXION OF CHRIST, DARKNESS, EGYPT, EVOLUTION, EXODUS, FEET, HOUSE OF BONDAGE, INVOLUTION, ISRAELITES, LAMB, QUALITIES, REDEMPTION, ROOM (house), SACRIFICE, SALVATION, SHOES, UNLEAVENED.
+
+**Corrections made:** `ver` → [Pass]over; `t,` → [Egyp]t,; `door-poete` → door-posts; `A. JUKEs` → A. Jukes; `ite` → its; `Ohurch` → Church; `CamMPBELL` → Campbell; page heading `PATH` removed from the See list; See-list spellings restored (`DankKNzEss`, `Eayrt`, `Exopus`, `Freer`, `HovskE or sBownpAGE`, `Saocgiricurn`, `SHogs`, `BonDaGE`); and similar minor fixes.
+
+**Unclear or supplied:** `[Pass]over` and `[Egyp]t` are reconstructed from truncated OCR (`ver`, `t`).
 
 ## Full OCR entry body (exact)
 

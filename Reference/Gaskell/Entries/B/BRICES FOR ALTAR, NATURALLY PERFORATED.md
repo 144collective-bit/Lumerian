@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brices-for-altar-naturally-perforated
 headword: "BRICES FOR ALTAR, NATURALLY PERFORATED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `DvryaGuSs-BRICE` | **unresolved** (review queue) |
 | `Foon` | **unresolved** (review queue) |
 | `GOLD MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOLD MAN|GOLD MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the lower planes, which are the means of the soul's development by reason of the passage through them of spiritual vibrations, while the ego can rise through them to the higher.
+
+> "The naturally perforated bricks are these worlds. . . . [H]ow is it that that gold man is not held down by the naturally perforated brick? Well, the naturally perforated brick is food and breath; and man is not held down either by food or by his breath."—*Sata. Brâh.*, VII. 4. 2, 8-9.
+
+The lower planes are permeable to Spirit. The atma-buddhic monad is not made nugatory by the lower nature. The lower activities cause truth and virtue to nourish the soul, and so the ego is not restrained by these, but enabled to rise to the planes.
+
+> "The naturally perforated bricks are meant to represent the three worlds, the holes being intended to afford to the Sacrificer (represented by the gold man) a passage to the highest regions."—Julius Eggeling, *Ibid.*, VI. 1, 2, 31. S.B.E.
+
+See ALTAR (fire), ASHADHA, BREATH, DURVA-BRICK, [DvryaGuSs-BRICK?], FOOD, GOLD MAN.
+
+**Corrections made:** `ow is it` → [H]ow is it; `Bréh.` → Brâh.; `@` → a; page heading `127 BRIDGE` and noise `aera` removed from mid-quotation; `JvuLius Ecoexrine` → Julius Eggeling; `8.B.E.` → S.B.E.; `AuTaR` → ALTAR; `Foon` → FOOD; quotation marks normalised.
+
+**Unclear or supplied:** `[H]` is supplied for the initial letter lost before `ow is it`. See-list item `[DvryaGuSs-BRICK?]` is damaged (OCR `DvryaGuSs-BRICE`). The attribution after the second quotation is set as printed; the OCR places the page heading and noise `127 BRIDGE aera` inside it.
 
 ## Full OCR entry body (exact)
 

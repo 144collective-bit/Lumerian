@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-children-of-women
 headword: "CHILDREN OF WOMEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `DAUGHTERS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/D/DAUGHTER|DAUGHTER]] |
 | `CONCEPTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CONCEPTION CONCENTRATION EFFORT|CONCEPTION CONCENTRATION EFFORT]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF CHILDREN|CONCEPTION OF CHILDREN]]; [[Reference/Gaskell/Entries/C/CONCEPTION OF THE DIVINE GERM|CONCEPTION OF THE DIVINE GERM]] |
 | `GENERA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of new mental forms begotten of mind and emotion. These are opinions, ideas, and impressions formed in the lower mind; or they are aspects of mental qualities seeking expression in various ways.
+
+> "That children signify truths, and in an opposite sense falses, is because in the spiritual sense of the Word, by 'generations' are meant spiritual generations, neither does spiritual generation give birth to any other sons and daughters, than truths and goods."—Swedenborg, *Apoc. Rev.*, n. 139.
+
+> "'In sorrow shalt thou bring forth children,' points to the efforts [word unclear] for attaining knowledge."—John Scotus.
+
+See BEGETTING, DAUGHTERS, CONCEPTION, [GENERA?]
+
+**Corrections made:** `SwEpDENBORG` → Swedenborg; `Joun Scotus` → John Scotus; `***In` → "'In; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` for OCR `ne` in "efforts ne for attaining". The See list is cut off in the OCR at `GENERA`, shown as `[GENERA?]`.
 
 ## Full OCR entry body (exact)
 

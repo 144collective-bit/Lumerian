@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-picture
 headword: "PICTURE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `JUDGMENT HALL` | **unresolved** (review queue) |
 | `PRAGAPATI (relaxed)` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
 | `Sav` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the summing up of the soul's experience of relative existence, at the end of the life cycle.
+
+> "All that was required of the deceased was that his heart should balance exactly the symbol of the law."—Budge, *Egyptian Ideas*, etc., p. 136.
+
+When the personality (feather symbol) exactly corresponded with the individuality in the causal-body (heart), then the lower consciousness could rise and become one with the [word unclear].
+
+> "They whose balances shall be heavy with good works shall be happy: but they whose balances shall be light are those who shall lose their souls, and shall remain in hell for ever."—*Koran*, Surah, 23, 104.
+
+> "If the dead was found to be righteous he received back his heart, the rest of the immortal parts of his soul were re-united in him, and he was again built up into the man who had walked the earth, but who now entered upon new and eternal life."—Wiedemann, *Rel. of Anc. Egyptians*, p. 249.
+
+If the personality (dead) was perfected, then he became one with the individuality in the causal-body.
+
+See BRIDGE OF HEAVEN, CAUSAL-BODY, DEFUNCT, FEATHER, HEART, HELL, JUDGMENT HALL, PRAGAPATI (relaxed), [Sav?].
+
+**Corrections made:** `BupacsE` → Budge; `elc.` → etc.; `WiEDEMANN` → Wiedemann; `CAUSALBODY` → CAUSAL-BODY; page heading `BALARAMA` removed from mid-sentence; See-list spellings restored (`Derunct`, `FEaTHER`, `HEAzrT`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `er` after `one with the`. See-list item `[Sav?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

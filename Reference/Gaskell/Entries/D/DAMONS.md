@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-damons
 headword: "DAMONS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,18 @@ tags:
 | `Ists` | **unresolved** (review queue) |
 | `SPENTO` | **unresolved** (review queue) |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of intelligences on the buddhic and higher mental planes, which assist evolution and are related to the higher emotions and thoughts.
+
+> "There are certain mediary divine [powers], between Aither above and earth beneath: situate in that mid-space of air, by whom our desires and deserts reach the Gods. These the Greeks call daemons, carriers between human and heavenly, hence of prayers, thence of gifts; back and forth they fare, hence with petition, thence with sufficiency, interpreters and bringers of salvation."—Apuleius, *De Deo Socratis*, 6, 132.
+
+The "mid-space of air" signifies the higher mental plane which is in the middle between the higher and lower natures. By means of the higher mind, the "bridge of manas," communications pass from the higher nature to the lower, and from the lower to the higher. The aspirations of the soul always elicit a Divine response. See AETHER, AIR, ANGELS, BARSOM, DEVAS, HERMES, IRIS, ISIS, SPENTO, THOTH.
+
+**Corrections made:** `cértain` → certain; `wers` → [powers]; `benoath` → beneath; `dssmons` → daemons; page heading `197 DAIMONS` removed from mid-quotation; `bringera` → bringers; `APuULEIUs` → Apuleius; See-list spellings restored (`AUTHER`, `Ark` → AIR, `Ins` → IRIS, `Ists` → ISIS).
+
+**Unclear or supplied:** `[powers]` is supplied for the damaged `wers`. `Ark` read as AIR and `Ins` as IRIS (uncertain).
 
 ## Full OCR entry body (exact)
 

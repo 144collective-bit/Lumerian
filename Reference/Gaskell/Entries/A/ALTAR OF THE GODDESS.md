@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-altar-of-the-goddess
 headword: "ALTAR OF THE GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Buppgwi` | **unresolved** (review queue) |
 | `Isis` | **unresolved** (review queue) |
 | `WispomM` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic function in accepting and transmuting the offerings of the lower nature.
+
+See BUDDHI, ISIS, WISDOM.
+
+**Corrections made:** `Buppgwi` → BUDDHI; `WispomM` → WISDOM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pole-upright
 headword: "POLE, UPRIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Rd` | **unresolved** (review queue) |
 | `Serpent (hissing)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SEt` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of aspiration.
+
+> "Whereupon Rā said, 'the monster Ba (Set) hath turned himself into a hissing serpent, let Horus, the son of Isis, set himself above his hole in the form of a pole on the top of which is the head of Horus, so that he may never again come forth therefrom.'"—*Legend of the Winged Sun-disk*.
+
+And the Divine nature asserted,—
+
+> "Now the lower principle is ultimated and appears as a serpent, subtle and deceitful, that is, mayavic, illusory,—so let the Higher Self seat himself above the sense-nature, in the form, as it were, of a pole,—the symbol of aspiration, and with the head signifying true manhood, the sign of leadership and rule."
+
+Hence the head, a symbol of manas, surmounts the pole. And thus the "serpent" shall not issue forth to obstruct the workings of the Supreme.
+
+See COLUMN, FOXES, HEAD, HORUS, ISIS, PIT, RA, SERPENT (hissing), SET.
+
+**Corrections made:** `R&` → Rā; `ain` → again; `mayfavic` → mayavic; See-list spellings restored (`CoLumn`, `Heap`, `Prr`, `Rd`, `SEt`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

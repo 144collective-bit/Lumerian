@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dog-cerberus-the-threeheaded-guardian-of-hades
 headword: "DOG CERBERUS, THE THREEHEADED GUARDIAN OF HADES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,22 @@ tags:
 | `GOOD` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GOOD, OR LIGHT CREATION|GOOD, OR LIGHT CREATION]] |
 | `PESOSCHOROUN :-— A symbol of the true will in the mentality` | **unresolved** (prose-bleed / overlong token; not linked) |
 | `showing activity of the Divine nature within the soul. See WILL` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self in its threefold aspect of Will, Wisdom, and Activity made manifest on the lower planes (Hades).
+
+See CHARON'S FERRY, HADES, STYX, TRIAD.
+
+### Also in this note: DOG, GOOD, PESOSCHOROUN
+
+A symbol of the true will in the mentality, showing activity of the Divine nature within the soul.
+
+See WILL.
+
+**Corrections made:** `HapsEs` → HADES; `Styx` capitalised; and similar minor fixes.
+
+**Unclear or supplied:** Contains a second entry: DOG, GOOD, PESOSCHOROUN.
 
 ## Full OCR entry body (exact)
 

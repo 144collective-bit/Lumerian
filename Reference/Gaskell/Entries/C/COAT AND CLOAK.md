@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-coat-and-cloak
 headword: "COAT AND CLOAK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of mental coverings or forms of truth or error. Principles of action (changed in "turncoat"); opinions, prejudices, conventions, mental disguises (cloaks).
+
+> "And if any man would go to law with thee, and take away thy coat, let him have thy cloke also. And whosoever shall compel thee to go one mile, go with him twain."—Matt. v. 40, 41.
+
+And if any reason or functioning of mind (man) should prove (law) to thee the truth of something and so take away thy error (coat), let the reasoning also take away the outer profession of error (the cloak). And if intelligence (man) compels to a course of action, then fully carry it out.
+
+> "This striking exhortation is not a detailed individual precept meant to meet a particular case, but a figurative way of saying that the spiritual man must be content with no half measures in the service of truth. ... If your fidelity to the ideal costs you the loss of your outer garment of self-protection, do not [shrink from?] the sacrifice; let the inner go with it, the coat follow the cloak, if need be. If your labour for God compels you to go one mile because of human ignorance and wrong, go two, if two be required to gain your end. Life is such that no impersonal good is ever gained except at the sacrifice of the personal."—R. J. Campbell, Serm., *The Utmost for the Highest*.
+
+See [list cut off]
+
+**Corrections made:** `‘turncoat ’’)` → "turncoat"); `shall]` → shall; `Mar.` → Matt.; `etror` → error; `8 particular` → a particular; `yourend` → your end; `CaMPBELL` → Campbell.
+
+**Unclear or supplied:** `[shrink from?]` is supplied: the OCR reads "do not the sacrifice", a word or words having been dropped. The See list is missing in the OCR (the entry ends at `See`), shown as `[list cut off]`.
 
 ## Full OCR entry body (exact)
 

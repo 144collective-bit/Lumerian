@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-peasant-or-cultivator-of-the-ground
 headword: "PEASANT, OR CULTIVATOR OF THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `JASON` | resolved (first-segment) → [[Reference/Gaskell/Entries/J/JASON, OR JASIUS, THE HEALER OR ATONER|JASON, OR JASIUS, THE HEALER OR ATONER]] |
 | `KNOWER OF FIELD` | **unresolved** (review queue) |
 | `MARUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, as the Divine Husbandman, Tiller, and Sower of the lower nature. He is the "Knower of the Field,"—the Kshetrajna. See AGRICULTURE, CULTIVATION, HUSBANDMAN, JASON, KNOWER OF FIELD, MARUTS.
+
+**Corrections made:** `HusBANDMAN` → HUSBANDMAN; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

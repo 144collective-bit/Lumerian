@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gemini-the-zodiacal-sign
 headword: "GEMINI, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,16 @@ tags:
 | `PISCES` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PISCES, THE ZODIACAL SIGN|PISCES, THE ZODIACAL SIGN]] |
 | `PoLitux` | **unresolved** (review queue) |
 | `Zopiac` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the third period of the cycle of life. The "Twins" signify the higher and lower Selves, or the Individuality and the Personality on the mental plane. These are the two centres of consciousness in the soul for the higher and lower activities. In the constellation Gemini are the two stars Castor and Pollux, which are symbols of the personality and the individuality in accordance with the story of the Dioscuri.
+
+See APOCATEQUIL, ASVINS, DIOSCURI, INDIVIDUALITY, PERSONALITY, PISCES, POLLUX, ZODIAC.
+
+**Corrections made:** See-list spellings restored (`Asvins`, `DroscuRl`, `PoLitux`, `Zopiac`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

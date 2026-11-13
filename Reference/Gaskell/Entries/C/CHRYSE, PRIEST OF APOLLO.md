@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-chryse-priest-of-apollo
 headword: "CHRYSE, PRIEST OF APOLLO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,16 @@ tags:
 | `Pope` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/POPE OF ROME|POPE OF ROME]] |
 | `PRIEST OF APOLLO` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PRIEST OF APOLLO (CHRYSE)|PRIEST OF APOLLO (CHRYSE)]] |
 | `TENEDOS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TENEDOS ISLAND|TENEDOS ISLAND]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual mind, which is at first enslaved by the desire-nature, but afterwards is a prime means of bringing the mind in relation with buddhi, since through its aspirations it becomes attuned to every high emotion, and opposed to the workings of the lower self.
+
+See AARON, ADVARYA, AGNIDHRA, ATHORNE, CHIRON, HIGH PRIEST, CHURCH, [HOLLOW SHIPS?], ODYSSEUS, [Pont?], POPE, PRIEST OF APOLLO, TENEDOS.
+
+**Corrections made:** `desirenature` → desire-nature; See-list spellings restored (`HiaH PRIEST`, `Opyssrus`).
+
+**Unclear or supplied:** `[HOLLOW SHIPS?]` (OCR `Hotiow suxips`) and `[Pont?]` are damaged See-list items read tentatively; `ADVARYA` and `ATHORNE` left as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-maat-goddess
 headword: "MAAT, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `SHENIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHENIT|SHENIT]] |
 | `THEMIS` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THEMIS, GODDESS|THEMIS, GODDESS]] |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of invariable law and justice applied to the activities of the lower planes. The law of Karma.
+
+> "Maat was the wife of Thoth, and daughter of Râ; she assisted at the work of creation. She is the goddess of absolute regularity and order, of moral rectitude, and of right and truth. Her emblem is a feather."
+
+> "The gods live by mâat, i.e., never-failing and unalterable regularity and order."—Budge, *Book of the Dead*, pp. 4, 8.
+
+The ideals (gods) have their raison d'être in the law of karma, for by it they are related to the lower planes, and as higher qualities they function in the growth of the lower.
+
+See ADRASTIA, FATE-SPHERE, FEATHER, GODS, JUDGMENT-HALL, KARMA, MOTHER, NECESSITY, NOGNOG, SAV, SHENIT, THEMIS, THOTH.
+
+**Corrections made:** `R&` → Râ; `madt` → mâat; `ofcreation` → of creation; `Bupaz` → Budge; `d@'étre` → d'être; See-list spellings restored (`FatTE-SPHERE`, `GoDs`, `KarMa`, `MorrmaE`, `Nognog`, `Sav`).
+
+**Unclear or supplied:** See-list items `MorrmaE` (read as MOTHER), `Nognog` (NOGNOG) and `Sav` (SAV) are uncertain readings of damaged print.
 
 ## Full OCR entry body (exact)
 

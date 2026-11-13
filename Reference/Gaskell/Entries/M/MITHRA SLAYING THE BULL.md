@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mithra-slaying-the-bull
 headword: "MITHRA SLAYING THE BULL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,16 @@ tags:
 | `ScorPion` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SCORPION|SCORPION]] |
 | `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `VICTORY. 505` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is an emblem of the Reason overcoming the Emotion-nature,—the same as St. George and the Dragon. The scorpion below the bull is the lower aspect of the emotion-nature. It is a sign to indicate that the emotions are active through the contact with matter. The dog lapping the blood is a symbol of one of the inhabitants of the lower astral subplanes, which feeds upon the corrupted astral life. The raised torch on the one side is a symbol of illumination and intelligence, and signifies the evolving life which rises from latency upward. The lowered torch is that of concealed light, and signifies the involution of life downwards into matter. The torches signify also, as Lessing pointed out, the fall and return of the soul. The Divine spark descends to the lower planes to gain experience, and afterwards ascends victorious to the source from which it came.
+
+See BLOOD, BULL, DEVAS (lower), EVOLUTION, FALL, FIENDS, GEORGE AND DRAGON, INVOLUTION, LIGHT, MATTER, SCORPION, SPARK, VICTORY.
+
+**Corrections made:** `emotionmature` → emotion-nature; `Bioop` → BLOOD; `Burt` → BULL; `Fatt` → FALL; `Frenps` → FIENDS; `Marrer` → MATTER; `ScorPion` → SCORPION; stray trailing page number `505` removed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

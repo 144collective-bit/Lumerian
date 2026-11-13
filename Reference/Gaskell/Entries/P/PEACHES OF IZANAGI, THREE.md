@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-peaches-of-izanagi-three
 headword: "PEACHES OF IZANAGI, THREE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `REED-PLAIN` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REED-PLAIN|REED-PLAIN]] |
 | `SEKHETAARU` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SEKHET-AARU, OR FIELD OF REEDS|SEKHET-AARU, OR FIELD OF REEDS]] |
 | `YOML` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the fruit of the Spirit,—Truth, Love, and Wisdom.
+
+> "On reaching the foot of the 'Even Pass of Yomi,' Izanagi gathered three peaches that were growing there, and smote his pursuers (the Ugly Females) with them, so that they all fled back. Moreover, he said to the peaches, 'As ye have helped me, so must ye help all living people in the Central Land of Reed plains when they are in trouble.'"—*The Kojiki*.
+
+The consciousness rising to the higher mental plane perceives the Truth, Love, and Wisdom, to be found there. These are effectual in withstanding the lower emotions (Ugly Females), and are made accessible in the soul, so that the striving mental qualities (the people), having in them the germ of Divine life, may be nourished by them. The "Land of Reed-plains" is the astro-mentality.
+
+See BIRTH OF HORUS, FRUIT OF THE SPIRIT, GARDEN OF REEDS, IZANAGI, MARSH, REED-PLAIN, SEKHETAARU, YOMI.
+
+**Corrections made:** `80` → so; See-list spellings restored (`BrRTH`, `FRUIT oFr`, `IzZaNaAGI`, `MansH`, `YOML`); quotation marks normalised.
+
+**Unclear or supplied:** `MARSH` is a reading of OCR `MansH`.
 
 ## Full OCR entry body (exact)
 

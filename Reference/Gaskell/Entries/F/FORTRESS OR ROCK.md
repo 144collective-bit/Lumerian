@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fortress-or-rock
 headword: "FORTRESS OR ROCK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `Davip` | **unresolved** (review queue) |
 | `Rock` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/ROCK, SPIRITUAL|ROCK, SPIRITUAL]] |
 | `STONE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STONE FOR CORNER|STONE FOR CORNER]]; [[Reference/Gaskell/Entries/S/STONE OR ROCK|STONE OR ROCK]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self seated in the causal-body.
+
+> "And David said, the Lord is my rock and my fortress, and my deliverer."—2 Sam. xxii.
+
+See DAVID, ROCK, STONE.
+
+**Corrections made:** `Davip, Rock` → DAVID, ROCK; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

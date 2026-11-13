@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-feet
 headword: "FEET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
 | `WaLKING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WALKING DAY BY DAY|WALKING DAY BY DAY]]; [[Reference/Gaskell/Entries/W/WALKING WITH GOD|WALKING WITH GOD]] |
 | `WASHED FEET` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical foundation of the lower activities which are necessary to advance the evolution of the soul. Activity or Will exercised on the lower planes.
+
+> "I thought on my ways, and turned my feet unto thy testimonies."—Ps. cxix. [59].
+
+The soul meditates on its condition and regulates the lower activities, so that it may advance towards the ideals set before it.
+
+> "By standing upon their feet is signified the external of man. The external man is in itself natural."—Swedenborg, *Apoc. Rev.*, n. 510.
+
+See FOOT, FOOTPRINTS, RIGHT FOOT, SANDALS, SKY, STRIDES OF SOUL, WALKING, WASHED FEET.
+
+**Corrections made:** page heading `270 FETTERS` removed from mid-sentence; `ofthe` → of the; `rng` → my; `iteelf` → itself; See-list spellings restored (`Foorrrinrs`, `Ricut roor`, `WaLKING`).
+
+**Unclear or supplied:** The verse number after `Ps. cxix.` is missing in the OCR; `[59]` is supplied from the quotation (Ps. cxix. 59) and is uncertain.
 
 ## Full OCR entry body (exact)
 

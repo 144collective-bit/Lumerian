@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adrastia-cretan-nymph
 headword: "ADRASTIA, CRETAN NYMPH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Music` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MUSIC, OR MELODY|MUSIC, OR MELODY]] |
 | `NEcsssity` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/N/NECESSITY|NECESSITY]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the law of cause and effect, or karma on the lower planes.
+
+> "The Demiurgus (Zeus), as Orpheus says, is nursed by Adrastia; ... but he marries Necessity and begets Fate."—Proclus, *Tim.* V. 323.
+
+> "Adrastia is said to guard the Demiurgus; with brazen cymbals and sounding drums in her hands (at the mouth of the Cavern of Night), she sends forth sounds so that all the gods may turn to her."—Proclus, *Theol. Plat.* IV. 16, 206.
+
+The Higher Self (Zeus) is brought up in the Soul (Cavern) by the laws of nature. Through the operations of karma, the ideals (gods) are aroused and evolved. The "sounds" signify the vibrations of emotion arising from the lower planes, which as the nature becomes raised and purified, arouse the higher qualities (gods) so that they may evolve in the soul.
+
+See CAVE, DEMIURGE, KARMA, MUSIC, NECESSITY, ZEUS.
+
+**Corrections made:** `begeta` → begets; `Procius` and `Proctivs` → Proclus; `soundin` → sounding; `mouth o the` → mouth of the; See-list spellings restored (`Cave`, `DemiurncE`, `NEcsssity`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

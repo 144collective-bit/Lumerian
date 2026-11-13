@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-attachment-to-the-world-or-the-objects-of-sense
 headword: "ATTACHMENT TO THE WORLD OR THE OBJECTS OF SENSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,28 @@ tags:
 | `THIRST` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRST, OR TANHA|THIRST, OR TANHA]] |
 | `WaLxs (six)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WALKS, SIX|WALKS, SIX]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the captivity of the ego to desire and sensation.
+
+> "The man stands in the middle between the two worlds of light and darkness, left to his own free-will" (Zoroastrian System).—J. F. Clarke, *Ten Religions*.
+
+Seated in the causal-body upon the higher mind plane, and midway between the physical and the atmic planes, the Soul starts its career as a responsible entity, and is thenceforth accountable to itself for its conduct, thoughts and experiences. These mental experiences are ultimately collected, re-viewed, and co-ordinated in the causal-sheath, and thus it is that man is able eventually through identifying himself with the true Self of his being, to attain final liberation, and freedom from the thraldom of desire and attachment to the thing of the lower nature.
+
+> "Existence is caused by attachment ([upâdâna?]). Attachment is a kind of [word unclear]ing off which makes a being come under the fatal law of transmigration. It is itself only an effect, which has for cause desire (trishna, thirst). Desire is caused by sensation (vedana)."—J. B. Saint-Hilaire, *The Buddha*, p. 135.
+
+> "Only that form of religion whose conception of God is that of an Ideal which satisfies the religious needs, and which calls forth and fixes upon Itself the choices of the human soul, can fully develop the potentiality of freedom which lies hidden in the soul's depths. There is profound moral philosophy in the promise of Jesus to those who are His disciples indeed: 'Ye shall know the truth, and the truth shall make you free' (John viii. 31)."—G. T. Ladd, *Phil. of Religion*, Vol. I. p. 339.
+
+> "The various functions assigned by Philo to the Logos may be thus summed up. He is the agency by which God reveals Himself. The theophanies of the Old Testament are appearances of the Logos, who also inspired the patriarchs and prophets. Every man, in virtue of the highest faculty residing in his [soul?], is akin to the divine Logos, and may become an image or fragment of the divine nature. The majority of mankind are entangled in illusions, and the divine in them is obscured by ignorance and sensuality. But a man may [rouse?] himself out of this sad condition, and advance to the contemplation of the Logos, which enables him to judge things in the light of divine truth. In this way the Logos is the instrument of deliverance and salvation. 'Those who have real knowledge of the Creator and Father of all things are rightly called sons of God. And even if we are not yet worthy to be called sons of God, we may deserve to be called children of His eternal image, the [most] holy Logos' (*Conf. Ling.*, 28)."—W. R. Inge, *Camb. Biblical Essays*, p. 276.
+
+> "The tumultuous senses and organs hurry away by force the heart even of the wise man who striveth after perfection. Let a man, restraining all [these], remain in devotion at rest in me [his?] true Self; for he who hath his [senses] and organs in control possesses spiritual knowledge. He who attendeth to the inclinations of the senses, in them [finds?] concern. . . . But he who, free [from] attachment or repulsion for objects, experienceth them through the [senses] and organs, with his heart obedient to his will, attains to tranquillity of thought."—*Bhagavad-Gita*, Ch. II.
+
+See ATMA, BONDAGE, [Car rr?], CAUSAL-BODY, DARKNESS, EXPERIENCES, [Fart?], HIGHER AND LOWER, IMAGE OF GOD, INCARNATION OF SOULS, LIBERATION, LIGHT, LOGOS, MAN, MEMBERS, METEMPSYCHOSIS, NIRVANA, PERSONALITY, SEPARATENESS, SERPENT (subtil), SPARK, THIRST, WALKS (six), WORLD.
+
+**Corrections made:** Page headings `84 ATTACHMENT` (mid-sentence) and `ATTRACTION` (inside `Ex ATTRACTION eNcES`) removed; `Cuarxe` → Clarke; `Sarnt-HitairnE` → Saint-Hilaire; `Lap` → Ladd; `Ince` → Inge; `Liny.` → Ling.; `EI.` → II.; words cut at the right edge of the column in the OCR restored (for example `inception` → conception, `Ide` → Ideal, `satiafies` → satisfies, `whi` → which, `pe tion` → perfection, `tranquillit:` → tranquillity); See-list spellings restored (`Bonpacs`, `Loaos`, `NIBVANA`, `WaLxs`).
+
+**Unclear or supplied:** The quotations from Saint-Hilaire, Ladd, Inge and the Bhagavad-Gita are cut at the line ends in the OCR; fully lost words are shown in square brackets (`[word unclear]ing off`, `[soul?]`, `[rouse?]`, `[most]`, `[these]`, `[his?]`, `[senses]`, `[finds?]`, `[from]`, `[upâdâna?]`). See-list items `[Car rr?]` and `[Fart?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

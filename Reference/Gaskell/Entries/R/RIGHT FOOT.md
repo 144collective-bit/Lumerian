@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-right-foot
 headword: "RIGHT FOOT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `FrEet` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/F/FEET|FEET]] |
 | `Foot` | resolved (full-head) → [[Reference/Gaskell/Entries/F/FOOT|FOOT]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of outgoing energy in progressive activity.
+
+See FEET, FOOT, STRIDES OF SOUL.
+
+**Corrections made:** `FrEet`, `Foot` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

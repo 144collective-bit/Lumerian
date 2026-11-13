@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-godhead
 headword: "GODHEAD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,24 @@ tags:
 | `Trinity` | **unresolved** (review queue) |
 | `VIVANHAO` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VIVANHAO, OR VIVANGHAT, FATHER OF YIMA|VIVANHAO, OR VIVANGHAT, FATHER OF YIMA]] |
 | `ZERANA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZERANA-AKERANA|ZERANA-AKERANA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Absolute,—the Divine Reality, potential and unmanifest,—the One Source of all.
+
+> "Above and beyond the universe, yet [word unclear] all things, and the source of all things, is the 'World of Godhead,' of this nothing can be predicated, and It is not reckoned among the Five Planes" (Sufi doctrine of the Soul).—Gibb, *Hist. of Ottoman Poetry*, Vol. I. p. 55.
+
+> "The Absolute is at once absolute process. The Godhead is the beginning and final goal of the whole series of essences which exist. . . . The eternal Godhead, as the beginning and end of all things, is concealed in absolute obscurity, being not only unknown and unknowable to man, but also unknown to itself" (Eckhart).—Ueberweg, *Hist. of Philos.*, Vol. I. p. 474.
+
+> "The Platonic, and still more the Stoic, speculation had led to the recognition of something divine in the spirit of man. In the more pantheistic Stoical form the doctrine might be expressed as follows: 'The Godhead can unfold His essence in a variety of existences, which, while they are His creatures as to their origin, are parts of His essence as to their contents. This is not expressed in religious language; but the belief that the Spirit of God is actually the guest and guide of the human soul was the source of all that was best and most ennobling in the system of the Stoics."—W. R. Inge, *Paddock Lectures*, p. 62.
+
+> "The idea of God that man has in his being is the wonder of all wonders. He has felt in the depth of his life that what appears as imperfect is the manifestation of the Perfect."—Rabindranath Tagore, *Hibbert Journal*, July, 1913.
+
+See ABSOLUTE, AIN-SUPH, APARAGITA, ARHAT, ATMAN, BRAHMA, CONDITIONED, DEITY, FATHER, GOD, MACROCOSM, MIND (good), MONAD, OGDOAD, PATH (two-fold), PRAGAPATI, SEASONS, SEED, SELF (supreme), TRINITY, VIVANHAO, ZERANA.
+
+**Corrections made:** `Grss` → Gibb; `UEBERWwEG` → Ueberweg; `itself'?` → itself"; `exressed` → expressed; `lief` → belief; `moat` → most; `Incr` → Inge; `. 62` → p. 62; page heading `GODS` removed from mid-sentence; stray `Pra` before "The idea of God" dropped; opening quotation mark supplied for the Tagore quotation; See-list spellings restored (`APARAGITa`, `FarTHER`, `Gop`, `Mriyp`, `Oapoap`, `PraaiPATI`, `SEasons`, `Trinity`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]`: OCR reads "yet i ean! all things". The OCR's stray `Pra` before the Tagore quotation was dropped as noise. The Inge quotation has an inner quotation that is not closed in the OCR.
 
 ## Full OCR entry body (exact)
 

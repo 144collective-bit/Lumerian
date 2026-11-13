@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dead-to-be-judged
 headword: "DEAD TO BE JUDGED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `JUDGMENTDAY` | resolved (full-head) → [[Reference/Gaskell/Entries/J/JUDGMENT-DAY|JUDGMENT-DAY]] |
 | `MAN (natural)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the lower personalities to be estimated according to their merits and demerits.
+
+> "For unto this end was the gospel preached even to the dead, that they might be judged according to men in the flesh, but live according to God in the spirit."—1 Peter iv. 6.
+
+The lower personalities having had placed before them spiritual knowledge as a means of development, they are in a position to profit through their experiences of the lower life (flesh), so that the Divine nature within them may unfold to the light.
+
+> "By the dead who are to be judged, in a universal sense are meant they who have died out of the world, but in a proper sense are meant they who have not any spiritual life."—Swedenborg, *Apoc. Rev.*, n. 525.
+
+See CORPSE, GOSPEL, JUDGMENT DAY, MAN (natural), PERSONALITY.
+
+**Corrections made:** `@` → a (twice); `Prter` → Peter; `SwepENBORG` → Swedenborg; page heading `203 DEAD` removed from mid-sentence; See-list spellings restored (`CorrsE`); and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

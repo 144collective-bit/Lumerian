@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nights-three-after-death
 headword: "NIGHTS, THREE AFTER DEATH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `Man (righteous)` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `REINCARNATION` | resolved (singular/plural) → [[Reference/Gaskell/Entries/R/REINCARNATIONS|REINCARNATIONS]] |
 | `SLEEPING. NILE RIVER ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of three states on the astral and lower mental planes, in the intervening period between incarnations.
+
+> "When a [righteous man] passes; where dwells his [soul?] that night? Then said Ahuramazda: 'It sits down in the vicinity of the head, chanting the Gatha Ushtavaiti, imploring blessedness. . . . That night the soul experiences as much of pleasure as all that which it had as a living existence'" (Hadokht Nask).—M. Haug, *Essays, Rel. of Parsis*, p. 220.
+
+When the soul is projected beyond the physical plane, into what condition does it enter? It returns inward towards the mental plane, and recapitulates subjectively, as in dreams, the nature of the emotions and desires to which it had habituated itself. And its enjoyment is proportionate to its capacity for realisation of bliss when incarnated. (The second and third "nights" of the soul signify the arrival of the consciousness at the various sub-planes of the mental plane which contribute to the devachanic state.)
+
+See BLISS, DEVACHAN, GATHA (ush., kam.), HEAD, INCARNATION OF SOULS, MAN (righteous), REINCARNATION, SLEEPING.
+
+### Also in this note: NILE RIVER
+
+[text cut off]
+
+**Corrections made:** `exiatence` → existence; `Have` → Haug; `Parats` → Parsis; `ite` → its; See-list spellings restored (`Briss`, `DEvacHAN`, `GatTHa`, `Heap`); the trailing headword `NILE RIVER ;` is set out as a second entry with no text.
+
+**Unclear or supplied:** Contains a second entry: NILE RIVER, which breaks off after the headword (`[text cut off]`). In the Hadokht Nask quotation the OCR `righ passes` and `ak` are damaged; `[righteous man]` and `[soul?]` are supplied from the sense.
 
 ## Full OCR entry body (exact)
 

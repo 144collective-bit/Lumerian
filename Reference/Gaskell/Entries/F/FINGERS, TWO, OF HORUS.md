@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fingers-two-of-horus
 headword: "FINGERS, TWO, OF HORUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Mummy` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MUMMY OF A HUMAN BODY|MUMMY OF A HUMAN BODY]]; [[Reference/Gaskell/Entries/M/MUMMY OF OSIRIS|MUMMY OF OSIRIS]] |
 | `PappLEs` | **unresolved** (review queue) |
 | `PEOPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PEOPLE, MEN AND WOMEN|PEOPLE, MEN AND WOMEN]]; [[Reference/Gaskell/Entries/P/PEOPLE OF A PARTICULAR NATION|PEOPLE OF A PARTICULAR NATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the love of goodness, and truth which effects much in the soul's evolution.
+
+> "This amulet is intended to represent the two fingers, index and medius, which the god Horus employed in helping his father Osiris up the ladder into heaven."—Budge, *Egyptian Magic*, p. 55.
+
+"Horus" stands for the Christ active within the soul, while "Osiris" is the potential Christ which the actual assists to evolve and become manifest. But the two are one. When Christ,—the Higher Self,—is fully evolved, then the Soul having completed its upward path (ladder) attains the buddhic consciousness (heaven). The Papal sign of blessing is the exhibition to the people (the mental qualities) of the "Two fingers of Horus," thus symbolically setting before them the ideal of goodness and truth to which they in reverence must aspire in order that they may attain to bliss. The amulet of the "Two Fingers" has often been found in the interior of mummies (personalities) where it becomes an emblem of the purification of the personality, by means of the treasuring of ideals in the mind and heart.
+
+See HEAVEN, HORUS, MUMMY, PADDLES, PEOPLE.
+
+**Corrections made:** `Bupae` → Budge; page heading `274 FIRE` removed from mid-sentence; `Hokus` → HORUS; `PappLEs` → PADDLES; `Mummy` → MUMMY; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

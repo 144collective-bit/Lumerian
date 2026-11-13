@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gin-mary-zacharias-conception-immaculate-of-the-ble
 headword: "GIN MARY, ZACHARIAS CONCEPTION, IMMACULATE, OF THE BLESSED VIRGIN MARY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Guory (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `MAyA (higher)` | resolved (qualified head) → [[Reference/Gaskell/Entries/M/MAYA (HIGHER ASPECT)|MAYA (HIGHER ASPECT)]] |
 | `Vrrcrn mary` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual (buddhic) origin of the purified lower nature which bears and brings forth the Christ in the human soul.
+
+> "The Immaculate Conception of [Mary?] concerns the generation of the soul, presenting her as begotten in the womb of matter, and by means of matter brought into the world, and yet not of matter, but from the first moment of her being, pure and incorrupt. Otherwise she could not be 'Mother of God.' In her bosom, as Nucleus, is conceived the bright and holy Light, the Nucleolus, which—without participation of matter—germinates in her and manifests itself as the express image of the Eternal and [word unclear] Selfhood."—*The Perfect Way*, p. [number unclear].
+
+See ASSUMPTION, BIRTH OF JESUS, DEVAKI, GLORY (divine), MAYA (higher), VIRGIN MARY.
+
+**Corrections made:** See-list spellings restored (`DrvaEI`, `Guory`, `MAyA`, `Vrrcrn mary`); quotation marks normalised.
+
+**Unclear or supplied:** `[Mary?]`: OCR reads "Conception of M". `[word unclear]`: OCR reads "and ae e Selfhood". `p. [number unclear]`: OCR reads `p. :`. `DEVAKI` is inferred for OCR `DrvaEI`.
 
 ## Full OCR entry body (exact)
 

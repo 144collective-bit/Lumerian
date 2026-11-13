@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cremation-of-the-corpse
 headword: "CREMATION OF THE CORPSE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `KABANDHA` | resolved (first-segment) → [[Reference/Gaskell/Entries/K/KABANDHA, A HEADLESS MONSTER|KABANDHA, A HEADLESS MONSTER]] |
 | `NANNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER|NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER]] |
 | `185 PuncaTory` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the purification of the soul or the lower self by means of the functioning of buddhi (fire).
+
+> "There is, indeed, no doubt that the very ancient association of the ideas of Fire and of spiritual Purification goes back, in the first instance, to the conception of the soul being necessarily stained by the very fact of its connection with the body, and of those stains being finally removed [by the?] body's death and cremation. We find this severely self-consistent view scattered up and down Hellenic religion and literature. . . . Fire is, at bottom, so spiritual and so directly busy with the soul alone, that it is ever identical with itself in Heaven, Hell, Purgatory, and on earth, and stands for God himself; and that its effects are not the destruction of a foreign substance, but the bringing back, wherever and as far as possible, of the Fire-like soul's [word unclear] and quality to full harmony with its Fire-source and Parent, God Himself."—F. von Hügel, *Mystical Element*, Vol. II. p. 125.
+
+See BURNING, CORPSE, FIRE, FUNERAL PYRES, KABANDHA, NANNA, PURGATORY.
+
+**Corrections made:** `i Sry body's` → [by the?] body's; page heading `CRIPPLES` removed from mid-quotation; `nary gg a` → [word unclear]; `Himeelf..""` → Himself."; `F. von Hua@en` → F. von Hügel; `Myastical` → Mystical; page number `185` removed; See-list restored (`Burnino`, `Fonreran Prres` → FUNERAL PYRES, `PuncaTory`); stray `FIRE,` before `See` moved into the list in its alphabetical place.
+
+**Unclear or supplied:** `[by the?]` is a reading of the damaged `i Sry`. `[word unclear]` replaces `nary gg a`. The OCR places `FIRE,` before the word `See`; it is treated as a See-list item.
 
 ## Full OCR entry body (exact)
 

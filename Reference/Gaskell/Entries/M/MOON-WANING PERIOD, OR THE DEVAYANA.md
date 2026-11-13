@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-moon-waning-period-or-the-devayana
 headword: "MOON—WANING PERIOD, OR THE DEVAYANA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,20 @@ tags:
 | `SUN-CATCHING` | **unresolved** (review queue) |
 | `Urns` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URNS, THE TWELVE|URNS, THE TWELVE]] |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the present period of the evolution of humanity in which, as time proceeds, the stimulation of the desire-nature is worked out, and the mind functions, with ultimately the spirit.
+
+> "But in the waning half, the moon causes them to be born."—*Ibid.*
+
+In the second period, when the rule of the desires is to be gradually superseded, consequent on the awakenment of mind, the spiritual egos are born on the mental plane to begin their influence in human nature. Then the personalities build up the causal-bodies for the individualities on the higher mental plane.
+
+See ARREST, ASTRAL PLANE, BOAT SEKTET, CAUSAL-BODY, DEVAYANA, EVOLUTION, HIGHER AND LOWER, INCARNATION OF SOULS, INDIVIDUALITY, INVOLUTION, LUNAR CYCLE, LUNATIC, MAN BORN, MAN (natural), [Monrs?], MOON (lower), PERSONALITY, PITRIS, PITRIYANA, ROUND, SUN-CATCHING, URNS, WHEELS (holy).
+
+**Corrections made:** `Evorurion` → EVOLUTION; `Invivipuauiry` → INDIVIDUALITY; `Invo.urion` → INVOLUTION; `Preis` → PITRIS; `PYIvTRIvANA` → PITRIYANA; `Rounpn` → ROUND; stray `'` before ASTRAL PLANE removed.
+
+**Unclear or supplied:** `[Monrs?]`: See-list item not identified. `ARREST` and `URNS` are left as printed. The quotation's source (`Ibid.`) refers to an earlier work not named in this note.
 
 ## Full OCR entry body (exact)
 

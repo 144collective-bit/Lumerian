@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nekhebit-and-uachit
 headword: "NEKHEBIT AND UACHIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SERPENT (south)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Sours` | **unresolved** (review queue) |
 | `Uatcarr` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of wisdom and the emotions, or of intelligence and will, through which Divine manifestation is proceeded with, and made effective.
+
+> "Horus took with him Nekhebit, the goddess of the South, and Uazit, the goddess of the North, in the form of two serpents, that they might destroy the enemies in their bodily forms of crocodiles and hippopotami at each place to which he came in the South Land and in the North Land."—*Legend of the Winged Sun-disk*.
+
+And from the higher and the lower regions whereon the evolution of the Self (Horus) was to be accomplished did he choose two energies to accompany him, the Wisdom-nature from above, on the one hand, and the Love- and emotion-nature evolved from below, on the other, as through these he was to rise and accomplish his course; that so he might destroy the illusions which were begotten of the sense of separateness, both on the mental and desire planes of the soul.
+
+See CROCODILE, CROWN (double), [HIPPOPOTAMI?], NORTH LAND, SERPENT (south), SOUTH, [UATCHIT?].
+
+**Corrections made:** `me in the North Land` → and in the North Land; `Loveand` → Love- and; page heading `529 NEPHILIM` removed from mid-sentence; See-list spellings restored (`Crocopriz`, `Sours`).
+
+**Unclear or supplied:** `[HIPPOPOTAMI?]` and `[UATCHIT?]` are doubtful readings of See-list `Hrerororam!` and `Uatcarr`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-husbandman
 headword: "HUSBANDMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `Sowrr` | **unresolved** (review queue) |
 | `Vine` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VINE, AS THE TREE OF LIFE|VINE, AS THE TREE OF LIFE]]; [[Reference/Gaskell/Entries/V/VINE-POLES|VINE-POLES]] |
 | `WHEAT` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEAT|WHEAT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self as the tiller and sower of the lower nature (earth), so that it should bring forth a harvest of the "fruits of the Spirit" on the buddhic plane.
+
+> "The Lord is wise and forgetteth not: He is true and a great husbandman. He first prepareth the ground, then soweth the seed of the true Name. From the name of the one God the nine treasures are produced, and man obtaineth the marks of His favour" (Hymn of Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. p. 263.
+
+> "Behold a very fair and most resemblant image,—a husbandman casting the seed into the ground; here wheat, there barley, and there again some other of the seeds. Behold one and the same man planting the vine, the apple, and other trees. In just the self-same way doth God sow Immortality in Heaven, and Change on Earth, and Life and Motion in the Universe."—Mead, *Hermes to Asclepius*, § 10.
+
+See AGRICULTURALIST, [Frew?], INTOXICATION, JASON, KNOWER, PLOUGHING, REAPING, SEED (good), SOMA (moon), SOWER, VINE, WHEAT.
+
+**Corrections made:** `MacavuuirFe` → Macauliffe; `Mrap` → Mead; `Rearinc.` → REAPING,; `Sowrr` → SOWER; `Plovanine` → PLOUGHING; `Vine` → VINE.
+
+**Unclear or supplied:** `[Frew?]` See-list item not identified.
 
 ## Full OCR entry body (exact)
 

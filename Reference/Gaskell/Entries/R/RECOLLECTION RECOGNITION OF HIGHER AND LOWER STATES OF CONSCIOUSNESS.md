@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-recollection-recognition-of-higher-and-lower-states
 headword: "RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CONSCIENCE` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CONSCIENCE|CONSCIENCE]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The distinguishing of the moral or spiritual values of states or qualities is the true function of the personality with the Divine spark.
+
+See CONSCIENCE, PERSONALITY.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

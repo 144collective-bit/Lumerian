@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stone-or-rock
 headword: "STONE OR ROCK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,30 @@ tags:
 | `SUBSTANCE` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUBSTANCE|SUBSTANCE]] |
 | `Uni` | **unresolved** (review queue) |
 | `ZEvS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Spirit, because it is a substance unreceptive, resisting impression, firm. The opposite of matter, which is receptive, takes impressions, and is resolvable or unstable.
+
+> "It is by means of God,—the Divine Spirit working within him to build him up in the Divine Image,—he meanwhile co-operating with the Spirit,—that man achieves Divinity. In the familiar but rarely understood terms, 'Philosopher's Stone,' 'Elixir of Life,' 'universal Medicine,' 'holy Grail,' and the like, is implied this supreme object of all quest. For these are but terms to denote pure Spirit, and its essential correlative, a Will absolutely firm and inaccessible alike to weakness from within and assault from without."—*The Perfect Way*, p. 218.
+
+> "Mitama (Japanese word for) spirit. Mi is simply a honorific prefix. Tama means something valuable, as a jewel. Owing to its precious quality, it is used symbolically for the most sacred emanation from the God, and also for the human life or soul."—W. G. Aston, *Shinto*, p. 27.
+
+> "In Holy Scripture 'stones' are wont to be taken sometimes on the side of bad and sometimes on the side of good. For when a 'stone' is put for insensibility, by 'stones' we have hard hearts denoted. Whence also it is said by John: 'God is able of these stones to raise up children unto Abraham'; who surely, by the name of 'stones,' denotes the hearts of the Gentiles, at that time hard and insensible in respect of unbelief. And by the Prophet, the Lord promises, saying, 'And I will take the stony heart out of your flesh, and will give you an heart of flesh' (Ezek. xi. 19). Again, by 'stones' the minds of the strong ones are used to be denoted. And hence it is said Peter, 'Ye also as lively stones, etc.'"—St. Gregory the Great, *Morals on the Book of Job*, Vol. II. p. 354.
+
+> "By a stone is signified truth."—Swedenborg, *Apoc. Rev.*, n. 791.
+
+> "When the final barrier has been passed, and the final victory won, God will give us to eat of the hidden manna—the sustenance of the life eternal that knows neither limit nor decay—and the white stone, the shining jewel, the pure soul, which is the resplendent reflection of his own glory, and the undimmed revelation of what we eternally are in Christ."—R. J. Campbell, *Serm.*, *Winning the Divine Name*.
+
+> "There was a precious stone, lustrous and resplendent—for that is the force of the word white here, not a dead white, but a brilliant coruscating white—on which there was something written which no eye but one ever saw,—that mysterious seat of revelation and direction known in the Old Testament by the name of Urim and Thummim (that is lights and perfectnesses), enclosed within the folds of the High Priest's breast-plate, which none but the High Priest ever beheld. . . . 'I will give him a new name'—a deeper, a more inward, a fresh knowledge and revelation of my own character—as eternal love, eternal wisdom, all-sufficient, absolute power, the home and treasure, and joy and righteousness of the whole heart and spirit."—A. Maclaren, *Sermons*, 3rd Series, pp. 82-4.
+
+> "Spirit alone is substance, and matter is a manifestation of spirit."—W. S. Lilly, *Ancient Religion*, p. vii.
+
+See ALCHEMY, BONES, BREASTPLATE, DELUGE, INSIGNIA, IRON BEATEN, JEWELS, MANNA, MIRROR, NAME, [REINA?], ROCK, ROCK (spiritual), [SHINTAI?], SPIRIT, SUBSTANCE, [URIM?], ZEUS.
+
+**Corrections made:** `impressicn` → impression; `Jt is` → It is; `Ms` → Mi; `T'ame` → Tama; `sayi` → saying; `Ezex.` → Ezek.; `Apor.` → Apoc.; `Morale` → Morals; page heading `STONE` removed from mid-sentence; `CampBuxt` → Campbell; `Macraren` → Maclaren; `LItty` → Lilly; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** See-list `ReinA`, `Shintalr` and `Uni` are uncertain, given as `[REINA?]`, `[SHINTAI?]`, `[URIM?]`. "it is said Peter" kept as printed.
 
 ## Full OCR entry body (exact)
 

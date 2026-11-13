@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-pamyles
 headword: "PAMYLES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SON OF MAN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SON OF MAN|SON OF MAN]] |
 | `TEMPLE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/TEMPLE, FIRE|TEMPLE, FIRE]]; [[Reference/Gaskell/Entries/T/TEMPLE TEMPLE OF GOD|TEMPLE TEMPLE OF GOD]] |
 | `THEBES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THEBES IN EGYPT|THEBES IN EGYPT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the personality.
+
+> "A certain person, named Pamyles, as he was fetching water from the temple of Jupiter at Thebes, heard a voice commanding him to proclaim aloud that 'The good and great King Osiris was then born.'"—Plutarch, *Isis and Osiris*, § 12.
+
+This signifies that as the soul searches for truth in its inner nature, the Divine voice from within announces to the lower self that the Lord Christ is born in the mind to be the soul's ruler and Saviour.
+
+See BIRTH OF OSIRIS, KING (great), OSIRIS, PERSONALITY, SON OF MAN, TEMPLE, THEBES.
+
+**Corrections made:** `PLurarcH` → Plutarch; See-list spellings restored (`BreTH OF OsIRis`, `Kina`, `Osrnis`, `Prrsonatiry`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

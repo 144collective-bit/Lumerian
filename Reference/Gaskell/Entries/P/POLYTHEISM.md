@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-polytheism
 headword: "POLYTHEISM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `FEMININE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FEMININE PRINCIPLE|FEMININE PRINCIPLE]] |
 | `Mascuting` | **unresolved** (review queue) |
 | `MyrHouoey` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the many aspects of the One Supreme Being: the active and the passive aspects being indicated by masculine and feminine deities.
+
+> "Without the infinitely Many the Eternal One is imperfect; nor could Polytheism ever have had an existence as a Providential Establishment if it had not contained an elemental, a vital and eternal truth. The omnipresence of God is merely another word for his Polytheistic Unity. As the whole of the Divine consciousness, wisdom and efficiency in action must be in every portion of space at once, and as he must have the faculty of subdividing his attention to an infinite number of things, what else can this be but an infinite multiplicity of individualities in the infinite and eternal universality? In this we see the absolute and the free in the Divine nature,—the Male and Female Principles, from which the unity and the infinite variety of creation are derived."—J. Smith, *Divine Drama of History*, p. 160.
+
+See particular Gods and Goddesses, FEMININE, MASCULINE, MYTHOLOGY.
+
+**Corrections made:** `sa the` → see the; `ivine` → Divine; `Mascuting, MyrHouoey` → MASCULINE, MYTHOLOGY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

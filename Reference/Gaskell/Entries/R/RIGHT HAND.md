@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-right-hand
 headword: "RIGHT HAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CLOUDS OF HEAVEN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CLOUDS OF HEAVEN, AS MIST|CLOUDS OF HEAVEN, AS MIST]] |
 | `(right). Hanp` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the active principle in outgoing energy. The "right hand of power" signifies the positive, outgoing, energetic, evolutionary force.
+
+See CLOUDS OF HEAVEN, HAND (right).
+
+**Corrections made:** `‘right hand of power ’’` → "right hand of power"; See list `(right). Hanp` → HAND (right).
+
+**Unclear or supplied:** The OCR order of the last See item is `CLOUDS OF HEAVEN, (right). Hanp`; set out as HAND (right).
 
 ## Full OCR entry body (exact)
 

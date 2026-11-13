@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anagamin
 headword: "ANAGAMIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Intt1aTions` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `WALES` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the third initiation of the personality, implying attainment by the soul of a resolve to go through to the bitter end of experience and finish the course. In the Gospel Drama it is the equivalent of the three years' ministry of Jesus which ushers in the fourth initiation at the Crucifixion (the Arhat), when the lower nature is discarded and liberation is effected.
+
+See INITIATIONS, WALES.
+
+**Corrections made:** See-list spelling restored (`Intt1aTions` → INITIATIONS).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

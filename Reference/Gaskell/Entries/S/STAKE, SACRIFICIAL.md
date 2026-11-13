@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stake-sacrificial
 headword: "STAKE, SACRIFICIAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `THUNDERBOLT` | **unresolved** (review queue) |
 | `TOP-RING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TOP-RING OF THE SACRIFICLAL STAKE|TOP-RING OF THE SACRIFICLAL STAKE]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the "tree" of the Divine life, the means by which the incarnate ego climbs upward from the lower planes. The "stake" is erected in the lower nature (earth), on "a chip from the stake thrown into the hole," that is, it is founded upon an implanted spiritual germ. It is raised up in the soul "for the conquering of these worlds" (*Sata. Brâh.*, III. 7, 1, 14). It is girded with "a triple rope," that is, it is vitalised by the higher nature—atma-buddhi-manas; and so it becomes a means of enabling the ego to sacrifice the lower for the sake of attaining the higher.
+
+> "It is the God in man that reaches up to God, the man in God that makes that aspiration possible; it is the God in man that enables us to recognise and adore the Christhood of Christ, the man in God that is that Christhood; it is the God in man that is ever urging us upward to the eternal throne of life and love and power; it is the man in God that stoops in Christ to lift us there."—R. J. Campbell, *Serm.*, *The Eternal Man*.
+
+See [CHIP?], GIRDLE ROPE, JESUS (mortal), LADDER, QUARTERS, THUNDERBOLT, TOP-RING, TREE OF LIFE.
+
+**Corrections made:** `Brdh.` → Brâh.; `MII.` → III.; `cnables` → enables; `recogniso` → recognise; page heading `STAR` removed from mid-sentence; `CampsELu` → Campbell; quotation marks normalised.
+
+**Unclear or supplied:** `MII. 7` read as III. 7 (Roman numerals damaged). `[CHIP?]` is the OCR `Curr` in the See list.
 
 ## Full OCR entry body (exact)
 

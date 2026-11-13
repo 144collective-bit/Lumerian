@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-seasons-five
 headword: "SEASONS, FIVE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `Skin` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SKIN OF HUMAN BODY|SKIN OF HUMAN BODY]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `YEAR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the five planes of manifestation within the cycle of life.
+
+> "And that Pragâpati who became relaxed is the year; and those five bodily parts of his (i.e. hair, skin, flesh, bone, and marrow) which became relaxed, are the seasons; for there are five seasons, and five are those layers."—*Sata. Brâh.*, VI. 1, 2, 18.
+
+The Archetypal Man, being perfected in the cycle of involution, thereafter suffered a reversed process and became segregated for the cycle of evolution. The five planes (physical, astral, mental, buddhic, and atmic), which had received their qualities and potencies in involution, were now to evolve the same in multiplicity of forms. The five planes are the five layers or regions of the universe and soul.
+
+> "And those five bodily parts of his, the seasons which became relaxed, are the regions; for five in number are the regions, and five those layers; when he builds up the five layers, he builds him up with the regions."—*Ibid.*, VI. 1, 2, [number unclear].
+
+The inner Self is built up as mastery over the lower planes is achieved. The lower conditions are the means by which the Self is manifested in the soul.
+
+See ALTAR (fire), ARC. MAN, ASTRAL PLANE, ATMA, BONES, BUDDHIC PLANE, DISMEMBERMENT, ELEMENTS (five), EVOLUTION, FIVE, INVOLUTION, MARROW, PRAGAPATI (relaxed), SKIN, WORLDS (five), YEAR.
+
+**Corrections made:** `af` → of; `Pragdpati` → Pragâpati; `Bréh.` → Brâh.; `atmici,` → atmic),; `hm` → him; `mean:` → means; `iz` → in; `ZJbid.` → Ibid.; See-list spellings and brackets restored (`ELEMENTS (fivel.`, `INVOLUTIOS`, `PraGApatTi (relaxed,`, comma supplied after BUDDHIC PLANE).
+
+**Unclear or supplied:** The last reference number in the Ibid. quotation is lost (OCR `1%`).
 
 ## Full OCR entry body (exact)
 

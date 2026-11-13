@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-circle-of-existence
 headword: "CIRCLE OF EXISTENCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,22 @@ tags:
 | `Wurer` | **unresolved** (review queue) |
 | `Y1 SYSTEM` | **unresolved** (review queue) |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the passage of the spiritual egos, or monads of life through the cycle of manifestation.
+
+> "As Humanity is the crown of the animal kingdom, so is the 'Perfect Man' the crown of Humanity. It is to this stage of the Perfect Man, who by contemplation and by virtue can enter into the pure thought of the First Intelligence, that all things consciously or unconsciously strive; for when the soul has reached this point it is ready to pass back into the bosom of that glorious Being whence it issued on its journey ages ago. This journey is called the 'Circle of Existence.' The spark of Divine Light or effluent Being, descends through the Intelligences, the Souls, the Spheres, and the Elements till it reaches Earth which is the lowest point on its downward course; and this is the 'Outward Track' or the 'Arc of Descent.' The upward journey is then begun through the Mineral, the Vegetable, the Brute, and Humanity, till the stage of the Perfect Man is reached, when the Soul passes back into the embrace of the First Intelligence whence it set forth; and this is the 'Homeward Track,' or the 'Arc of Ascent.' And when it is achieved the journey is accomplished" (Ottoman Sufi's "Doctrine of the Soul").—Gibb, *History of Ottoman Poetry*, Vol. I. p. 52.
+
+The "Perfect Man" is the Personality perfected at the end of the cycle, and ready to be merged into the Individuality, or in other terms, the lower Self about to become one with the Higher Self (First Intelligence). The spiritual ego (Divine spark) descends through the higher planes, to be embodied on the lower planes (the earth), and from thence begins its upward course from low forms of life to higher. This represents the evolution of the personality until the human stage is reached: then there is a fresh spiritual outpouring and junction with the Individuality is effected. From this point the human personality starts on its long course upwards to the stage of perfection, when the spiritual ego is liberated from the lower nature and is born into the higher.
+
+> "Ye must be born anew (or from above)."—John iii. 7.
+
+See ABRAXAS, DECANS, EVOLUTION, INVOLUTION, MANVANTARA, REGENERATION, SAMSARA, STRIDES, TUAT, WHEEL, YI SYSTEM, ZODIAC.
+
+**Corrections made:** `4s` → As; `wimal` → animal; `te crown` → the crown; `sage` → stage; `contmplation` → contemplation; `rive` → strive; `punt` → point; `beom` → bosom; `joumey` → journey; `Beng` → Being; `tll` → till; `i the` → is the; `pesses` → passes; `Inteligence` → Intelligence; `Aro` → Arc; `Grss` → Gibb; `@ fresh` → a fresh; `junetion` → junction; `JouN` → John; page heading `158 CIRCLE` removed from mid-sentence; See-list spellings restored (`ABRaxas`, `InvoLUTION`, `SaMSARA`, `Tuam`, `Wurer`, `Y1 SYSTEM`).
+
+**Unclear or supplied:** The quotation from Gibb is heavily damaged in the OCR (many dropped letters); completions are read from context. `strive` is read from OCR `rive`. `TUAT` (OCR `Tuam`) and `WHEEL` (OCR `Wurer`) are tentative See-list readings. `Gibb` is read from `Grss`.
 
 ## Full OCR entry body (exact)
 

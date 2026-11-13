@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eating-the-lower-food
 headword: "EATING THE LOWER FOOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,20 @@ tags:
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `UNDERWORLD` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/UNDERWORLD OR HADES|UNDERWORLD OR HADES]] |
 | `YOMI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of becoming attached to the things of the lower evolution, and partaking of the desires and sensations. When the fruit or food of the underworld is eaten by man (mind) and woman (emotion) the ego identifies itself with the lower qualities and loses all possibility of detaching itself from them and rising again to the upper planes, except by recourse to the means provided in choosing the good and refusing the evil through a long series of lives.
+
+> "When Izanami died she went to the land of Yomi, whither she was followed by her husband. But as she had already eaten of the food of that region, he could not bring her back with him. She forbade him to look on her, but he persisted and saw that she was already a putrid corpse. Izanami then complained that he had put her to shame, and caused him to be pursued by the Ugly Females of Hades and other personifications of corruption and disease who dwelt there" (Nihongi).—W. G. Aston, *Shinto (Religions)*, p. 23.
+
+The principle of Buddhi (Izanami) became inverted, as it were, on the astral plane of the lower quaternary (Yomi) and so had partaken of the life of the plane, which prevented the Self (Izanagi) finding communion with her. The death of the higher qualities became the birth of the lower, which are the foes of the Self. The lower nature appears corrupt to the Higher, and the desires and lower emotions (Ugly females) obscure and repel the Divine spirit within. The "fall" having taken place, a process of salvation is rendered necessary.
+
+See BUDDHI, COMB, CUPID, DANIEL, [EVE?], FALL, HIGHER AND LOWER, IZANAGI, MEADOW, MEDUSA, PEACHES, PERSEPHONE, QUATERNARY, UNDERWORLD, YOMI.
+
+**Corrections made:** page heading `ECHINADES` removed from mid-sentence; See-list spellings restored (`BuDDHI`, `ComB`, `CuPriIp`, `Fatt`, `Izanaci`, `Meapow`, `Mrepusa`); quotation marks normalised.
+
+**Unclear or supplied:** `[EVE?]` is a doubtful See-list item (OCR `Eyr`).
 
 ## Full OCR entry body (exact)
 

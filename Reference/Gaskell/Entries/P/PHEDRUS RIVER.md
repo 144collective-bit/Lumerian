@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-phedrus-river
 headword: "PHEDRUS RIVER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Is18` | **unresolved** (review queue) |
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `WINDs (various)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, VARIOUS|WINDS, VARIOUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower mind full of errors and illusions.
+
+> "The river Phaedrus sending forth a rough and sharp air, Isis in her anger dried up its current."—Plutarch, *Isis and Osiris*, § 16.
+
+The lower mind (air), with its cut-and-dried opinions, its hard-outlined and rigid ideas, and its sharp and cold "wind of doctrine," Wisdom from above disperses and supersedes.
+
+See AIR, CHILDREN OF MEN, ISIS, MAN, WINDS (various).
+
+**Corrections made:** `Phoedrus` → Phaedrus; `PiLurarcH, eis` → Plutarch, *Isis*; `ite` → its; `cutand-dried` → cut-and-dried; the OCR order `sendi rough and sharp air, Isis in her anger forth a:` is set as "sending forth a rough and sharp air, Isis in her anger"; page heading `572 PHC@ENIX` removed from mid-sentence; See-list spellings restored (`Arm`, `Is18`, `WINDs`).
+
+**Unclear or supplied:** The Plutarch quotation is badly damaged in the OCR (`sendi rough and sharp air, Isis in her anger forth a:`); the wording given is a reconstruction (compare the same passage in the entry on PARABLE, PEARL, SOUTH LAND, where it reads "sending forth a sharp air").
 
 ## Full OCR entry body (exact)
 

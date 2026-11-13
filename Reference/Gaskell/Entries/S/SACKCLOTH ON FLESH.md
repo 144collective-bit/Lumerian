@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sackcloth-on-flesh
 headword: "SACKCLOTH ON FLESH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,26 @@ tags:
 | `CLOTHES` | **unresolved** (review queue) |
 | `DANCE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DANCE, CIRCLE, CENTRE|DANCE, CIRCLE, CENTRE]]; [[Reference/Gaskell/Entries/D/DANCE, DANCING|DANCE, DANCING]] |
 | `RENDING GARMENTS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of severe discipline and restraint put upon the lower nature during periods of re-incarnation of the soul.
+
+> "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the Lord."—Isa. xxxvii. 1.
+
+This refers to the turning of the personality from the allurements of desire, and to the change of opinions, and restraint of the lower nature, and reliance upon the Divine.
+
+> "Thou hast turned for me my mourning into dancing; thou hast loosed my sackcloth, and girded me with gladness."—Ps. xxix. 11.
+
+At the end of the cycle the soul rises from the lower nature, liberated from desire, and enters into the harmony and joy of life on the higher planes.
+
+> "For by 'sackcloth' is set forth the roughness and the piercing of sin, but by 'ashes' the dust of the dead. . . . Let piercing sins then be considered in sackcloth, let the just punishment of sins, which succeeds by the sentence of death, be considered in ashes."—St. Gregory, *Morals on the Book of Job*, Vol. III. p. 666.
+
+See ASCETICISM, ASHES, AUSTERITIES, CLOTHES, DANCE, RENDING GARMENTS.
+
+**Corrections made:** `mo` → me; `Ict` → let; `déad` → dead; `Grecory` → Gregory; page heading `SACRAMENT` removed from mid-sentence; quotation marks repaired.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

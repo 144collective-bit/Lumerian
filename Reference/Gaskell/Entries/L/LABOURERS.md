@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-labourers
 headword: "LABOURERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,24 @@ tags:
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `Waces` | **unresolved** (review queue) |
 | `WoRkK. LAD LAD;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the qualities of the Soul which have to work for their development in the forms provided for the purpose.
+
+> "For the kingdom of heaven is like unto a man that is a householder, which went out early in the morning to hire labourers into his vineyard. And when he had agreed with the labourers for a penny a day, he sent them into his vineyard."—Matt. xx. 1, 2.
+
+The "kingdom of heaven" signifies the consummation of endeavour found in Wisdom and Love on the higher planes at the close of the cycle. The "Householder" is the First Logos, who goes forth under many aspects and calls all the forms of his own life within His universe (vineyard) to discharge their appointed tasks. And when upon each plane of nature the law of cause and effect had been set in operation, the soul-qualities were sent to undertake their business of self-development in the chains of worlds. This implies the descent of the Divine life into the forms prepared for its reception. The "penny wage" is a symbol of the rate of pay, or gain of faculty, for successful work, or accomplished result. The "wage" is the lower equivalent of spiritual power. As money brings satisfaction to the lower nature, so spiritual power brings satisfaction to the higher.
+
+> "Yea, and in the parable of the labourers which were sent into the vineyard they (the Gnostics) say it is most evident that those 30 æons are indicated; in that some are sent about the first hour, some about the third, others about the sixth, others about the ninth, and a further set about the eleventh. Now the aforesaid hours, being added together, make up the number 30. For 1+3+6+9+11=30. And these hours, they affirm, signify the æons. [And?] these, they add, are the great and wonderful and unutterable mysteries, the fruit of which themselves only bear."—Irenæus, *Against Heresies*, Bk. I.
+
+The "hours" represent stages of mental and emotional development during periods (æons) of soul life. The "third hour" represents a period of tamasic activity or stupidity of the lower mind (kama-manas) in forms appropriate to that condition. The sixth and ninth periods correspond to the stages of development of intellect and intuition with the energy of rajas. The eleventh period answers to the stage of Wisdom-Love with sattva energy. These advanced souls incarnate in forms highly developed.
+
+See ÆONS, GUNAS, HOUR, HOUSEHOLDER, JUSTICE, MARKET-PLACE, MONEY, MORNING, PLANETARY CHAIN, QUALITIES, STEWARD, VINEYARD, WAGES, WORK.
+
+**Corrections made:** `Mar.` → Matt.; `Gnostica` → Gnostics; `ons` → æons; `IrREN2ZUS` → Irenæus; `1 +3 +6+9-+11=30` → 1+3+6+9+11=30; page heading `OF 438 LABOURERS` removed from mid-text; trailing `LAD LAD;` removed as heading debris; See-list spellings restored (`Eons`, `HovussHOLDER`, `Waces`, `WoRkK`).
+
+**Unclear or supplied:** `[And?]` is supplied before "these, they add": the OCR dropped the opening word. The trailing `LAD LAD;` (start of the next entry's headword) was removed.
 
 ## Full OCR entry body (exact)
 

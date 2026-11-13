@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rangi-and-papa
 headword: "RANGI AND PAPA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,24 @@ tags:
 | `TUMATAUENGA` | **unresolved** (review queue) |
 | `TUTE` | **unresolved** (review queue) |
 | `URANUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of Spirit and Matter, or of the higher and lower natures.
+
+> "Men had but one pair of primitive ancestors, they sprang from the vast heaven that exists above us, and from the earth which lies beneath us. ... Rangi and Papa, or Heaven and Earth, were the source from which, in the beginning, all things originated."—G. Grey, *Polynesian Mythology*, p. 1.
+
+The soul, or humanity, has arisen from the interactions of Spirit and Matter, for from this primal duality all things have been produced.
+
+> "Darkness then rested upon the Heaven and upon the earth, and they still both clave together, for they had not yet been rent apart."—*Ibid.*
+
+Actual existence had not yet emerged from potential being (darkness), for Spirit and Matter were not yet differentiated from each other in the new cycle.
+
+See CAVE, DARKNESS, EARTH (prim.), HEAVEN AND EARTH, IKATERE, MATTER, PILLARS OF SHU, PUNGA, RONGO, RU, SEPARATION, SPIKI, TANEMAHUTA, TAWHIRIMATEA, TUMATAUENGA, TUTE, URANUS.
+
+**Corrections made:** page heading `612 RANSOM` removed from mid-sentence; `ther still` → they still; `m the new cycle` → in the new cycle; See-list spellings restored (`EA&tTH`, `IKATEBE`, `Ronco`).
+
+**Unclear or supplied:** `IKATEBE` read as IKATERE, `Ronco` read as RONGO: best readings.
 
 ## Full OCR entry body (exact)
 

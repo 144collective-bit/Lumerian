@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rulers-of-the-world
 headword: "RULERS OF THE WORLD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `WILLAGE` | **unresolved** (review queue) |
 | `WorLps (five)` | **unresolved** (review queue) |
 | `ZOROASTER` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZOROASTER, ZARATHUSTRA, OR ZARTUST|ZOROASTER, ZARATHUSTRA, OR ZARTUST]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the five natures which constitute the Soul.
+
+> "The five shoots (of the tree of Life) are the five rulers,—the House-ruler, the Village-ruler, the Tribe-ruler, the Province-ruler, and the supreme Zarstust."—Sikand-Gumanik Vigar, *S.B.E.*, Vol. XXIV. p. 118.
+
+These are the physical, astral, lower mental, causal, and Atmabuddhic natures.
+
+See CASTES, CHILDREN OF HORUS, CLASSES, DAYS (five), ELEMENTS (five), GATHA DAYS (five), HOUSE (clan), PROVINCE, TREE OF LIFE, TRIBE (ruler), VESTURES, VILLAGE, WORLDS (five), ZOROASTER.
+
+**Corrections made:** `shoota` → shoots; `§&.B.E.` → S.B.E.; See-list spellings restored (`CuassEs`, `PELEMeEnts`, `GaTHa pays`, `Hovsz`, `WILLAGE`, `WorLps`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

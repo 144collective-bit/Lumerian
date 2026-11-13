@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-abraham
 headword: "ABRAHAM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,24 @@ tags:
 | `Haves` | **unresolved** (review queue) |
 | `Lot` | **unresolved** (review queue) |
 | `Ram` | resolved (first-segment) → [[Reference/Gaskell/Entries/R/RAM, THE CELESTIAL BREATH|RAM, THE CELESTIAL BREATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a phase of the Divine nature active in the soul. It stands for the Supreme Being in the parable of Dives and Lazarus. The symbol "Abram" signifies an earlier phase of the Divine.
+
+> "And if ye are Christ's, then are ye Abraham's seed, heirs according to promise."—Gal. iii. 29.
+
+If these qualities are in harmony with the highest Ideal, then are they of spiritual descent, or begotten of the power of the Divine (Abraham),—inheritors of the "fruits of the Spirit," according to the Divine scheme.
+
+> "Abraham is in many respects a [word unclear] of Christ."—St. Chrysostom, [H]om. III [word unclear].
+
+> "[word unclear] [si]gnifies to us the virtue of faith in Christ."—*Glossa Ord.*
+
+See HADES, LOT, RAM.
+
+**Corrections made:** `_for` → for; `GAL.` → Gal.; `fruita` → fruits; `SrT. CHrysosToM` → St. Chrysostom; quotation marks normalised.
+
+**Unclear or supplied:** The OCR drops words in the Chrysostom quotation ("a of Christ"; "om. III gnifies"), marked `[word unclear]`; the split between two quotations is inferred. `HADES` in the See list is a likely reading of OCR `Haves`.
 
 ## Full OCR entry body (exact)
 

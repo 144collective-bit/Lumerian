@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arrow-of-the-spirit
 headword: "ARROW OF THE SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,28 @@ tags:
 | `PONIARD` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PONIARD|PONIARD]] |
 | `SworpD` | **unresolved** (review queue) |
 | `Uparrua` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher will, harmonious with truth and aspiration:—a ray of the indwelling Self.
+
+> "Having taken the Upanishad as the bow, as the great weapon, let him place on it the arrow, sharpened by devotion! Then having drawn it with a thought directed to that which is, hit the mark, O Friend, namely, that which is Indestructible! Om is the bow, the Self is the arrow, Brahman is called the aim. It is to be hit by a man who is not thoughtless, and then as the arrow becomes one with the target, he will become one with Brahman."—*Mundaka Upanishad*, II.
+
+The soul is directed to rely upon the Word of God, i.e. the expression of the Truth within; and determine the will in accordance with the same. Then, with the mind aspiring towards the Highest, the soul is required to rest upon the Divine Reality which underlies the illusions of thought and sense. The expression of the indwelling Spirit (Om) is the energy outpoured in the soul; the spiritual Ego is the will, and union with the Higher Self is the aim. Union is to be achieved by the mind which is above the lower mind (thoughtless), and then as the will becomes one with the aim, so the lower Self merges into the Higher Self.
+
+> "For the arrows of God to go forth in light (Hab. iii. 11), is for His words to resound with manifest truth." "Job bears witness saying, 'Because He hath opened His quiver and afflicted me.' or as arrows lie hid in the quiver, so do sentences lie hid in the secret counsel of God: and an arrow is drawn, as it were, from the quiver, when God launches forth an open sentence from His secret counsel. The machination of the wicked is also designated by the word 'quiver,' as is said by the Prophet, 'They have made ready their arrows in the quiver, that they may shoot in darkness at the upright in heart.'"—Gregory the Great, *Morals on the Book of Job*, Vol. III. pp. 365, 472.
+
+> "Thine arrows are sharp in the heart of the king's enemies; whereby the people fall under thee."—Ps. xlv. 5.
+
+> "But God shall shoot at them (the wicked) with an arrow; suddenly shall they be wounded."—Ps. lxiv. 7.
+
+The will united with truth and righteousness causes the lower qualities which are adverse to the Spirit, to fall below the consciousness. The shaft of the Spirit directed against the unruly desires and passions weakens and subdues them.
+
+See APOLLO, ARGIVES, OM, PESTILENCE, PONIARD, SWORD, [Uparrua?].
+
+**Corrections made:** Page heading `ARROWS` removed from mid-sentence; `UpaniII` → Upanishad, II.; `Has. iii. 11` → Hab. iii. 11; `devotion !` → devotion!; `GREGORY THE Great` → Gregory the Great; See-list spellings restored; trailing comma after the last See-list item set as a full stop.
+
+**Unclear or supplied:** `[Uparrua?]` is a See-list item that could not be identified. The OCR's See list ends with a comma, so the list may be cut off. The Mundaka reference "II." is a reading of damaged OCR (`UpaniII`).
 
 ## Full OCR entry body (exact)
 

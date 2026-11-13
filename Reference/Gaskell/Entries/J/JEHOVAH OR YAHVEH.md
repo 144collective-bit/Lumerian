@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-jehovah-or-yahveh
 headword: "JEHOVAH OR YAHVEH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `Stva` | **unresolved** (review queue) |
 | `TETRAGRAMMATON` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH|TETRAGRAMMATON, THE ' WORD OF FOUR LETTERS, IHVH]] |
 | `YEDUD` | resolved (full-head) → [[Reference/Gaskell/Entries/Y/YEDUD|YEDUD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A tribal name for the God of all. It generally signifies the ethical aspect of the Divine nature, which is severe against all wrongdoing: but sometimes it signifies the Self as Truth and Love, e.g. Is. xii. 2, 3.
+
+> "'Jehovah' is the expression of God's being. And because He is true being, though He is love, He must be just and holy also, for evil is not true being, but the negation or privation of [word unclear]."—Jukes, *The Names of God*, p. 40.
+
+> "That name of 'Jehovah' proclaims at once His Eternal Being and His covenant relation—manifesting Him by its mysterious meaning as He who dwells above time; the tideless sea of absolute unchanging existence, from whom all the stream of creatural life flows forth many coloured and transient, to whom it all returns; who, Himself unchanging, changeth all things;—He is the Lord the Eternal."—A. Maclaren, *Sermons*, 3rd Series, p. 62.
+
+See GOD, SELF, SIVA, TETRAGRAMMATON, YEDUD.
+
+**Corrections made:** Page heading `405 JERUSALEM` removed from mid-text; `. 40` → p. 40; stray `Pa` after the Jukes reference dropped; See-list spellings restored (`Gop`, `Setr`, `Stva`).
+
+**Unclear or supplied:** `[word unclear]` (OCR `ae`) at the end of the Jukes quotation. `YEDUD` kept as printed.
 
 ## Full OCR entry body (exact)
 

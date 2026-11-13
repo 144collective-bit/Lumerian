@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-seasons-periods
 headword: "FOUR SEASONS, PERIODS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Macrocosm` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MACROCOSM AND MICROCOSM|MACROCOSM AND MICROCOSM]] |
 | `SEASONS` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEASONS|SEASONS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These four periods signify correspondences between the microcosm and the macrocosm;—spring, summer, autumn and winter, within which seasons, which relate to the buddhic, mental, astral, and physical planes, human evolution is accomplished.
+
+See MACROCOSM, SEASONS.
+
+**Corrections made:** Page heading `OR WORLD 292 FOXES` removed from mid-sentence; `$macrocosm` → macrocosm; `Macrocosm` → MACROCOSM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ram-of-sacrifice
 headword: "RAM OF SACRIFICE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,24 @@ tags:
 | `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos, or the Divine Life involved in matter.
+
+> "A ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son."—Gen. xxii. 13.
+
+The "thicket" signifies the matter in which the Divine Life is caught but finally conquers (horns). A phase of the Divine (Abraham) sacrifices involved Life for the sake of the evolved Life (the son) which is to be the Divine life within every human soul to bring it to perfection.
+
+> "The Kalmucks consecrate a ram as 'the ram of heaven' or the 'ram of the spirit.' The animal is tended carefully and never shorn. When it is old, and the owner bethinks him of consecrating a young ram, the ram of heaven is slain, and its flesh eaten."—*Ency. Religion and Ethics*, Vol. V. p. 137.
+
+> "In the New Year Festival the Jews sing a hymn whose refrain refers to the story of Abraham and Isaac on Mount Moriah, and runs thus: 'O remember in my favour the merits of him who bound, and of him who was bound, and the altar.'"—T. Rhondda Williams, *Serm.*, *Redemption*.
+
+See ABRAHAM, AHURA, ALTAR, BURNT SACRIFICE, CAIN, DIONYSUS, EVOLUTION, INVOLUTION, LAMB, REDEMPTION, SACRIFICE, SALVATION.
+
+**Corrections made:** page heading `611 RAMAYANA` removed from mid-sentence; `pert offering` → burnt offering; `Jows` → Jews; `RHonppa` → Rhondda; See-list spellings restored (`ArFu-RA`, `CABIN`, `DIONYsvUs`); `(horns) A phase` punctuated as `(horns). A phase`; and similar minor fixes.
+
+**Unclear or supplied:** See-list readings `ArFu-RA` → AHURA, `CABIN` → CAIN are best guesses of damaged OCR.
 
 ## Full OCR entry body (exact)
 

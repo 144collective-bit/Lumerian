@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sita-wife-of-rama
 headword: "SITA, WIFE OF RAMA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `LANKA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/L/LANKA LANGUAGE|LANKA LANGUAGE]] |
 | `NARAYANA` | **unresolved** (review queue) |
 | `RAMA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RAMA, AVATAR OF VISHNU|RAMA, AVATAR OF VISHNU]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic emotion-nature which is allied with the incarnate Higher Self (Rama).
+
+> "Sita enters the flames of the pyre, invoking Agni; upon which all the gods with the old king Dasaratha (father of Rama) appear, and reveal to Rama his divine nature, telling him that he is Narayana, and that Sita is Lakshmi."—Mon. Williams, *Indian Wisdom*, p. 360.
+
+The buddhic emotion-nature becomes transmuted, and the consciousness rises to the buddhic plane. The ideals (gods) are then energised, while the Divine Father and Son become One Truth-Reality on the plane of atma, and the principle of Buddhi is their manifesting life.
+
+See ERECHTHEUS, FIRE, FURROW, HANUMAN, LAKSHMI, LANKA, NARAYANA, RAMA.
+
+**Corrections made:** `emotionnature` → emotion-nature; `Rima` → Rama; `|` removed; `I.akshmi` → Lakshmi; `Mon. Win.iams` → Mon. Williams; page heading `SIVA` removed from mid-sentence; See-list spellings restored (`ErecTuevus`, `Fire`, `Hanuman`, `LAkSHMI`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

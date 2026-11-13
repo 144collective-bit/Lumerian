@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crucifixion-of-jesus-according-to-the-canonical-gos
 headword: "CRUCIFIXION OF JESUS, ACCORDING TO THE CANONICAL GOSPELS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,32 @@ tags:
 | `SPARK` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `Union` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `Victory` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the final anguish of the incarnate Soul as it reaches perfection, and the lower nature drops away from it.
+
+> "And about the ninth hour Jesus cried with a loud voice, saying, My God, my God, why hast thou forsaken me?"—Mat. xxvii. 46.
+
+The "ninth hour" refers to the period of the attainment of perfection on the three lower planes. The crucifixion not being yet completed, the cry of mental distress and despondency signifies that the soul is temporarily agonised by this transition state, for it is not yet entirely alive to the nature of the highest conditions of Being, when, in fact, it is not yet completely able to identify itself with the Highest. When the identification is complete, the consciousness has risen to the causal-body, and the suffering lower nature has been exchanged for bliss.
+
+> "In the Apocryphal Gospel of Peter, the dying Christ cries, 'My Power, my Power, thou hast forsaken me,' the 'Power' being the heavenly Christ, who for a time had been associated with the earthly person of the Redeemer."—W. R. Inge, *Paddock Lectures*, p. 57.
+
+The "heavenly Christ," or Higher Self, is to be understood as always associated with the struggling Lower Self symbolised by Jesus. This cry of the lower to the Higher indicates the lower consciousness on the verge of union with the Higher, but still perceiving its separateness from it. The expression "my Power" must be regarded as meaning "my Divine Life and strength," which for a moment the personality realised as departing from it—the mortal personality. It must be remembered that it is the "earthly person" or lower personality signified by the "body of Jesus," which dies when the Divine spark has been withdrawn from it.
+
+> "And Jesus cried [again?] with a loud voice, and yielded up his spirit."—Mat. xxvii. 50.
+
+This signifies the consummation—the ultimate suffering, and then the triumph over the ultimate ills of the lower planes,—the Soul's liberation and final withdrawal from the lower manifestation.
+
+> "Although Redemption as a whole is one, the process is manifold, and consists in a series of acts, spiritual and mental. Of this series, the [word unclear] wherein the individual finally surrenders his own exterior will, with all its exclusively material desires and affections, is designated the Passion. And the particular act whereby this surrender is consummated and demonstrated, is called the Crucifixion. This crucifixion means a complete, unreserving surrender—to the death, if need be,—without opposition, even in desire, on the part of the natural man. Without these steps is no atonement. The man cannot become one with the Spirit within him, until by his 'Passion' and 'Crucifixion,' he has utterly vanquished the 'old Adam' of his former self. Through the atonement made by means of this self-sacrifice he becomes as one without sin, being no more liable to sin; and is qualified to enter, as his own high priest, into the holy of holies of his own innermost."—*The Perfect Way*, p. 215.
+
+> "All the 'pains' we have to take,—they form the Cross upon which the Body is stretched out and the Blood is spilt. But it is all tending Godward, it is all in the approach to Love and Justice. This is the 'death of Christ.'"—J. G. Adderley, *The Symbolism of the Mass*.
+
+See CAUSAL-BODY, CONSCIOUSNESS, ELIJAH, HEEL, HIGHER, INCARNATION, JESUS, KHEPER, LIBERATION, NIDANAS, NINE, OINTMENT, PASSION, PERSONALITY, REDEMPTION, RESURRECTION, ROMAN SOLDIER, SIXTH HOUR, SPARK, UNION, VICTORY.
+
+**Corrections made:** `saying,_My` → saying, My; `en the three` → on the three; `Apocrypha!` → Apocryphal; `tho Redeemer` → the Redeemer; `W. R InaE` → W. R. Inge; `Lafe` → Life; page heading `CRUCIFIXION` removed from mid-sentence; `cried in with` → cried [again?] with; `Mar. xxvii. 50` → Mat. xxvii. 50; `aj]` → all; `the wherein` → the [word unclear] wherein; `Cructfizton` → Crucifixion; `s complete` → a complete; `surronder` → surrender; `appraoch` → approach; `ADDERLEY, The Symboliem` → Adderley, *The Symbolism*; See-list spellings restored (`EviyaH`, `Ning`, `Passion`, `RomMAN`, `Union`, `Victory`), and similar minor fixes.
+
+**Unclear or supplied:** `[again?]` is supplied for OCR `in` ("cried in with a loud voice"). `[word unclear]` marks a dropped word in "Of this series, the wherein". `Mar. xxvii. 50` is corrected to `Mat.` (the passage is Matthew's).
 
 ## Full OCR entry body (exact)
 

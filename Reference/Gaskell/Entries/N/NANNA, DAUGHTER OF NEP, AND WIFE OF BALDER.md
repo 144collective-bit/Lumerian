@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nanna-daughter-of-nep-and-wife-of-balder
 headword: "NANNA, DAUGHTER OF NEP, AND WIFE OF BALDER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,20 @@ tags:
 | `OFFERING` | resolved (full-head) → [[Reference/Gaskell/Entries/O/OFFERING|OFFERING]] |
 | `RINGRORNE` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RINGHORNE, BALDER'S SHIP|RINGHORNE, BALDER'S SHIP]] |
 | `SACRIFICER` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SACRIFICER, THE|SACRIFICER, THE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Buddhi proceeding from Truth (Nep) and allied with the Self or Soul (Balder).
+
+> "Balder's body was then borne to the funeral pile on board the ship, and this ceremony had such an effect on Nanna, the daughter of Nep, that her heart broke with grief, and her body was burnt on the same pile with her husband's" (Prose Edda).—Mallet, *North. Antig.*, p. 448.
+
+The emotion-nature, through which the Self acts, is now conveyed to the vehicle in which it is to operate; and when the Wisdom element (Nanna) perceives this, it is obscured by illusion in the lower consciousness. And now comes the process which corresponds with the sacrifice of the forms which are to yield the offering of the Life to the soul. The purification of the soul is by fire (buddhi).
+
+See ALTAR (fire), ARC. MAN, BALDER, BURNING, CREMATION, DEATH OF BALDER, FIRE, FORMS, [Fytra?], OFFERING, RINGHORNE, SACRIFICER.
+
+**Corrections made:** `Hdda` → Edda; `Matxet` → Mallet; See-list spellings restored (`Burwina`, `Firs`, `RingRorne`).
+
+**Unclear or supplied:** `[Fytra?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

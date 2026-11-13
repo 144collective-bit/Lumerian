@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-elijah-the-prophet
 headword: "ELIJAH THE PROPHET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `REDEMPTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/REDEMPTION OF THE SOUL|REDEMPTION OF THE SOUL]] |
 | `TABERNACLES` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TABERNACLES, OR BOOTHS, OF PETER|TABERNACLES, OR BOOTHS, OF PETER]] |
 | `TRANSFIGURATION. Tvuat` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher emotion-nature which brings the dawn of the higher consciousness and recognition of Truth-reality.
+
+> "Behold, I will send you Elijah the prophet before the great and terrible day of the Lord come."—Matt. iv. 5.
+
+"Elijah" is the "messenger of the Lord," that is, the awakenment of the consciousness which brings the recognition of a higher order, but which does not of itself do more than extend the spiritual boundary, as it were. This stage of a higher consciousness is the forerunner of the Christ consciousness, and therefore announces to the attentive lower self the turning of the heart towards the Lord from whom redemption is to be obtained. The "terrible day of the Lord" is the period or moment when the lower personality must be extinguished, and if it be all cast away,—then indeed it is the Lord's dreadful day,—the day of the "crucifixion" or the crossing over from the lower to the higher planes.
+
+See CRUCIFIXION OF JESUS, HORIZONS, PROPHET, REDEMPTION, TABERNACLES, TRANSFIGURATION.
+
+**Corrections made:** `emotionnature` → emotion-nature; `MaAt.` → Matt.; page heading `Tvuat` removed from the end; `HorrZONS` → HORIZONS; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

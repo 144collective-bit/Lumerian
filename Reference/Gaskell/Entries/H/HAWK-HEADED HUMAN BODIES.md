@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hawk-headed-human-bodies
 headword: "HAWK-HEADED HUMAN BODIES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `Crown (atef)` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CROWN|CROWN]] |
 | `QEBHSENNUF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM|QEBHSENNUF, QUARTERS, QUETZALCOATL, TCHATCHA, TLALOO, VESTURES, VISCERA CHILDREN OF THE KINGDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the perfected human souls arisen to the higher planes: or of the buddhic plane of the quaternary. See CROWN (atef), QEBHSENNUF.
+
+**Corrections made:** `Crown` → CROWN.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

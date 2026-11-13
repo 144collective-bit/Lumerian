@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-celestial-stems
 headword: "CELESTIAL STEMS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `DECANS` | **unresolved** (review queue) |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of cyclic or zodiacal correspondences, which, as it were, connect the general scheme of things with the various centres on the mental and other planes of the soul.
+
+See ATTRACTION, CITY, DECANS, VESTURES, ZODIAC.
+
+**Corrections made:** `Crry` → CITY.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

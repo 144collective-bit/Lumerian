@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-and-harmony-of-sedate-face
 headword: "AND HARMONY OF SEDATE FACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Harmony` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HARMONY AND MUSIC|HARMONY AND MUSIC]] |
 | `PEACE AND SWORD` | **unresolved** (review queue) |
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of conditions in the soul of strife and peace.
+
+See BATTLE, CONFLICT, HARMONY, PEACE AND SWORD, STRIFE.
+
+**Corrections made:** See-list spellings restored (`Barrie` → BATTLE, `Conriict` → CONFLICT).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

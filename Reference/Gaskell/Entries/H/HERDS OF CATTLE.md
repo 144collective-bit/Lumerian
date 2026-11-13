@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-herds-of-cattle
 headword: "HERDS OF CATTLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `CaTriE` | **unresolved** (review queue) |
 | `Ox. HERMES; MERCURY;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of co-ordinated desires and emotions, as activities in the evolution of the soul.
+
+See CATTLE, OX.
+
+**Corrections made:** `CaTriE` → CATTLE; running page heading `HERMES; MERCURY;` removed from the end.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

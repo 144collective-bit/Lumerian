@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-door-of-the-ark-of-noah
 headword: "DOOR OF THE ARK OF NOAH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `ARE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARE OF SAFETY|ARE OF SAFETY]] |
 | `WINDOW OF ABE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the entrance from below to the mind within the soul. The desires and sensations reach the consciousness from the astral and physical planes.
+
+See ARK, WINDOW OF ARK.
+
+**Corrections made:** `ARE`/`ABE` → ARK.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-drug-or-druj-nasu-or-drouk
 headword: "DRUG, OR DRUJ NASU, OR DROUK"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `DaEva` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
 | `Doa (white)` | **unresolved** (review queue) |
 | `NAsvU` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of desire and ignorance, warring against right and truth.
+
+See [ANRZURNA?], DAEVA, DOG (white), NASU.
+
+**Corrections made:** `Doa` → DOG; `NAsvU` → NASU; `DaEva` → DAEVA.
+
+**Unclear or supplied:** See-list item OCR `Anrzurna` cannot be identified and is given as `[ANRZURNA?]`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blessing-of-the-less-by-the-greater
 headword: "BLESSING OF THE LESS BY THE GREATER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `Promises` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROMISES OF GOD|PROMISES OF GOD]] |
 | `TirHEs` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The unfailing response of the Higher Self to the aspiring and struggling lower self, in exact proportion to its endeavours and to the sacrifices it makes.
+
+> "Spiritual blessings can only be given to those who are in a certain spiritual condition. Always and necessarily the capacity or organ of reception precedes and determines the bestowment of blessings."—A. MacLaren, *Sermons*, 1st Series, p. 69.
+
+> "In an hour of heaviness not so very long ago there was whispered into my mind with a new force and meaning, and with an intensity which I cannot convey to you by speech, the verse: 'Faint not, nor fear, His arms are near; He changeth not, and thou art dear; Only believe, and thou shalt see, That Christ is in all to thee.' That word was given to me just when I needed it, and divinely given, I am fully convinced."—R. J. Campbell, *Serm.*, *The Saviourhood of Christ*.
+
+See PROMISES, TITHES, TRANSMUTATION.
+
+**Corrections made:** `let Series` → 1st Series; `iven` → given; `AMPBELL` → Campbell; `TirHEs` → TITHES; page heading `114 BLIND` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

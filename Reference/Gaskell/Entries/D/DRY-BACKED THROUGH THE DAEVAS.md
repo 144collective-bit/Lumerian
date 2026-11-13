@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dry-backed-through-the-daevas
 headword: "DRY-BACKED THROUGH THE DAEVAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `DAEVAS` | resolved (full-head) → [[Reference/Gaskell/Entries/D/DAEVAS|DAEVAS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of aspects of the Self obscured and unapparent, owing to the activities upon the astral and lower mental planes.
+
+See DAEVAS.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

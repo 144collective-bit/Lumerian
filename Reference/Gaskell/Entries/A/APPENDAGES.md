@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-appendages
 headword: "APPENDAGES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `QUALITIES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUALITIES OF THE SOUL|QUALITIES OF THE SOUL]] |
 | `VISCERA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of modes of activity of the lower qualities, which functionings are hung upon the personality until it has risen above them.
+
+> "The Basilideans are accustomed to give the name of appendages (or accretions) to the passions. These essences, they say, have a certain substantial existence, and are attached to the rational soul, owing to a certain turmoil and primitive confusion."—Clement Alex., *Ante Nic. Lib.*, p. 276.
+
+The "appendages" are merely modes of activity of the qualities; and the passions have to obtrude themselves so long as the functionings occur and are attached to the lower self until its limitations be outgrown.
+
+> "Isidorus, son of Basilides, advises man to 'battle with the constraints of the appendages; (and says) our duty is to show ourselves rulers over the inferior creation within us, gaining the [word unclear] of our rational principle.'"—*Ibid.*
+
+The one alternative course to adopt is the suppression of the lower qualities by coercion from without: the other is the conquering of the animal nature from within.
+
+See [DURNUVA?], PERSONALITY, QUALITIES, VISCERA.
+
+**Corrections made:** `A.` → A; `ocertain` → certain; `Auzex.` → Alex.; `Isodorus` → Isidorus; page heading `56 AQUARIUS` removed from mid-sentence; stray `999` removed; See-list spellings restored (`Personality`, `QUALITIES`, `VISCERA`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `m ) Oe ata` (a lost word, perhaps "mastery"). `[DURNUVA?]` is the OCR `DuRnuva`, unidentified.
 
 ## Full OCR entry body (exact)
 

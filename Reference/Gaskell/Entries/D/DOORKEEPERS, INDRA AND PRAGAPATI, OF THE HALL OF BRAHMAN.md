@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-doorkeepers-indra-and-pragapati-of-the-hall-of-brah
 headword: "DOORKEEPERS, INDRA AND PRAGAPATI, OF THE HALL OF BRAHMAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,20 @@ tags:
 | `DEVAYANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/D/DEVAYANA-THE PATH OF THE GODS|DEVAYANA—THE PATH OF THE GODS]] |
 | `INDRA` | resolved (first-segment) → [[Reference/Gaskell/Entries/I/INDRA, THE THOUSAND-EYED|INDRA, THE THOUSAND-EYED]] |
 | `PRAGAPATI` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRAGAPATI, THE LORD OF CREATURES|PRAGAPATI, THE LORD OF CREATURES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the Divine Will and Wisdom,—or devotion to the Highest and a direct vision of the Truth. These stand, as it were, at the entrance of the "palace of Perfection" and adjudge the condition required previous to the soul's final liberation from the lower nature.
+
+> "He (a man) approaches the doorkeepers Indra and Pragapati and they run away from him. He approaches the hall Vibhu, and the glory of Brahman reaches him."—*Kaush. Upanishad*, I. 2.
+
+The ascending soul approaches the aspects of the Self,—Will and Wisdom, and these now quit their former positions as conditioning access to the higher planes; they are no longer needed, that is, they are no longer required to be manifested. The soul then comes to the Hall of final liberation, and then it is that the Glory of the Supreme is made evident to him,—for it can never be beheld so long as the thraldom of manifestation is imposed upon the Self.
+
+See CHERUBIM, CHRIST'S SECOND COMING, DEVAYANA, INDRA, PRAGAPATI.
+
+**Corrections made:** `@` → a; `Pragépati` → Pragapati; page number `228` removed from mid-sentence; stray `'` and spacing before commas cleaned.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

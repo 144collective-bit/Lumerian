@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-net-ra
 headword: "NET-RA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Tuepss` | **unresolved** (review queue) |
 | `Tuat. Bones` | **unresolved** (review queue) |
 | `HeEstt1a` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane of the soul.
+
+> "The time of evening has come, and the Sun-god in the Sekhet Boat, wherein he has travelled since noon, draws nigh to Thebes, flooding the First Division of the Tuat with light. This Division, or antechamber, of the Tuat is, according to the Book Am-Tuat, called Net-Râ."—Budge, *Egypt. Heaven and Hell*, Vol. III. p. 105.
+
+The Higher Self (Ra) in descending to the lower planes in the Life-cycle (Tuat) first enters the buddhic plane. See [Ares?], [Antes?], BOAT (Sektet), THEBES, TUAT, BONES, HESTIA.
+
+**Corrections made:** `accordi to` → according to; `Net-R&` → Net-Râ; `. 105` → p. 105; `Bupe Ge` → Budge; See-list spellings restored (`Tuepss`, `Tuat`, `HeEstt1a`).
+
+**Unclear or supplied:** `[Ares?]` and `[Antes?]` are unidentified See-list items. The OCR ends `Tuat. Bones, HeEstt1a,`; it is set out as one list.
 
 ## Full OCR entry body (exact)
 

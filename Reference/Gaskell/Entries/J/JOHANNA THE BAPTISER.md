@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-johanna-the-baptiser
 headword: "JOHANNA THE BAPTISER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `INITIATIONS` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INITIATIONS|INITIATIONS]] |
 | `JESUS` | **candidate (ambiguous first-segment)** → JESUS, DESCRIBED AS SEVERE AND TURBULENT; JESUS, MORTAL (not linked) |
 | `SACRIDAGAMIN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the aspiration, or spirit, of Truth in the moral nature.
+
+> "Jesus comes to Johanna to be baptised. Jesus comes as a simple [word unclear] [word unclear] initiation into [word unclear] [word unclear] of Johanna. But Johanna is not to be deceived, and immediately recognises him as the Master, Manda d'Hajje, the Gnosis of Life."—*Codex [word unclear]*: Tractate XI. of the Right Hand
+
+This signifies the approach of the Christ-soul to the spirit of Truth in the moral nature, to which it is content to appeal so that it may unfold and realise the things of eternal Life which are contained within the soul. The Christ-soul comes as a little child, and is ready to take the Truth first hand,—to acquire it through the experiences which are to follow his "initiation," or deeper realization of some established fact of the spiritual life. But the spirit of Truth fails not to perceive the Life, Light, and Love which now illumine it and cognise it. So it follows that the Truth-nature realises that the Christ is above it, and it does homage. The meaning of "Manda d'Hajje" is Truth-Goodness in union, and "the Master" is the Higher Self,—the Divine Illuminator of those qualities which have sought the way to Peace and to union with the Self.
+
+See BAPTISM, EXPERIENCES, GNOSIS, INITIATIONS, JESUS, SACRIDAGAMIN.
+
+**Corrections made:** `baptieed` → baptised; `Bo it follows` → So it follows; `[luminator` → Illuminator; `Barrism` → BAPTISM; page heading `415 JOHN` removed from mid-sentence; and similar minor fixes.
+
+**Unclear or supplied:** The OCR of the opening of the quotation is damaged (`simple ‘ap* gseoki initiation into t. Oe eal of Johanna`); unreadable words marked `[word unclear]`. The Codex name is lost (OCR `Rewoe`).
 
 ## Full OCR entry body (exact)
 

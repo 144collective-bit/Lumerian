@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-love-the-uniter-of-all
 headword: "LOVE, THE UNITER OF ALL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,30 @@ tags:
 | `Gop` | **unresolved** (review queue) |
 | `HarnMony` | **unresolved** (review queue) |
 | `MARRIAGE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the attraction towards the within instead of the without.
+
+> "Behold the sun, warm and bright on all sides, and what ever is immortal and is bathed in its bright ray; and behold the rain-cloud, dark and cold on all sides; from the earth there proceed the foundations of things and solid bodies. In strife all things are endued with form and separate from each other, but they come together in Love and are desired by each other."—Empedocles, Fairbanks, 96.
+
+Regard the Self as loving and wise, both on the planes above and the planes beneath. Behold all the virtues and all the qualities that endure, as living within It. And understand the outward manifestation of the Supreme, which appears to the ignorant, suffering lower nature, as inexorable law, dark, obscure, and repellent. From the lower nature proceed the foundations of human experience (for the sense-nature is the basis of all that is of utility and beauty to the lower mind). Through "strife," or the struggle for existence on the physical plane, all the lower forms of life subsist in multifarious separateness. But the sense of separateness is overcome so far as souls unite in knowledge of their own nature, and in realisation of Truth, for Wisdom brings them together in Love and enables them to live in harmony and mutual service.
+
+> "But, just as far as it (Strife) is constantly rushing forth, just so far there ever kept coming in a gentle, immortal stream of perfect Love; and all at once what before I [word unclear] [word unclear] [word unclear] were coming into [word unclear]ings."—[attribution unclear].
+
+To that degree in which the lower self responds through its vehicles of consciousness, the Higher Self (Love) forthpours energy and raises the self to the Self: and so the immortal ideals tend to actualise as evolution proceeds. Thus the natural gives way to the spiritual and the soul is purified and rises to life everlasting.
+
+> "To know God is to attain to the sublimest conception in the universe. To love God is to bind ourselves to a being who is fitted, as no other being is, to penetrate and move our whole hearts; in loving whom, we exalt ourselves; in loving whom, we love the great, the good, the beautiful, and the infinite; and under whose influence the soul unfolds itself as a perennial plant under the cherishing sun. This constitutes the chief glory of religion. It ennobles the soul. In this its unrivalled dignity and happiness consist."—W. E. Channing, [word unclear] of Christianity.
+
+> "Only Love is true, vital, wise. Love grows in you, God [word unclear] in you. In your Love you become organic with God. When you are naught but Love you are the express image of His person."—E. W. Lewis, *Christ. Com.*, April 1813.
+
+> "Christ, the eternal son of God, is gradually but irresistibly rising in all that is human, subduing all things unto himself, bringing them into captivity to the law of divine love, which alone is [perfect?] freedom."—R. J. Campbell, *Serm.*, From Subjection to Sovereignty.
+
+See ATTRACTION, CUPID, EROS, GOD, HARMONY, MARRIAGE.
+
+**Corrections made:** `sup` → sun; `Hmpedocles` → Empedocles; `FaIRBANES` → Fairbanks; `sensenature` → sense-nature; `ite` → its; stray `'` before "the good" removed; `ws`/`poe`/`rm.` repaired as below; page heading `LOVER` removed from mid-sentence; dash added before the Channing attribution; See-list spellings restored (`Curip`, `Gop`, `HarnMony`).
+
+**Unclear or supplied:** The Empedocles quotation beginning "But, just as far" is largely lost in the OCR (`I perkates seers pee`, `into ings." = a a`): three words and the ending of "coming into ...ings" are `[word unclear]`, and its attribution is lost. `[word unclear]` in the Channing attribution (OCR blank before `of Christianity`) and for OCR `ws` in the Lewis quotation; `[perfect?]` for OCR `poe`. The date `1813` in the Lewis reference is left as printed.
 
 ## Full OCR entry body (exact)
 

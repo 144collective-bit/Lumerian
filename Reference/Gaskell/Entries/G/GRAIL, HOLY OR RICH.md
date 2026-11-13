@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-grail-holy-or-rich
 headword: "GRAIL, HOLY OR RICH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,18 @@ tags:
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
 | `WisDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
 | `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Life, Wisdom and Love (atma-buddhi), vehicled in the causal-body (the chalice). The quest of the Grail is the search by the indwelling Self below in the Personality, of the Wisdom and Love-nature above in the Individuality. This search is the Divine drama of the Soul, in which the Self as a hero goes through the experiences of the lower life, contending against ignorance and evil and releasing the higher qualities held captive by the lower.
+
+> "Seen from different standpoints, the Grail became the emblem of moral purity, or of triumphant faith, or of soldierly heroism, or of gracious charity; the radiance of it became the radiance of that ultimate perfection which allures those who struggle, and rewards those who attain."—Rose, *Ency. of Religion and* [Ethics].
+
+See [AYPYpLEs?], CAPTIVITY, CAUSAL-BODY, CUP OR CHALICE, EXPERIENCES, GOLDEN FLEECE, GOSPEL, HESPERIDES, [HirkososH1?], INCARNATION, INDIVIDUALITY, LOVER (maiden), MAIDEN, PEARL (precious), PERSONALITY, SELF, SOUL, TREASURE, WISDOM, WITNESSES (two).
+
+**Corrections made:** `vehicied` → vehicled; `Lovenature` → Love-nature; `CAUSALBODY` → CAUSAL-BODY; `Rosr` → Rose; page heading `GRAPES` removed from mid-sentence; See-list spellings restored (`CAPTIviTy`, `INDIVIDUaLiry`, `Sout`, `WisDOM`).
+
+**Unclear or supplied:** The attribution breaks off at "Ency. of Religion and"; `[Ethics]` is supplied. See-list items `[AYPYpLEs?]` and `[HirkososH1?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

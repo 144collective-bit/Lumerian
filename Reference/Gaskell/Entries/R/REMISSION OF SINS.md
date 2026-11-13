@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-remission-of-sins
 headword: "REMISSION OF SINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `Sarmts` | **unresolved** (review queue) |
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This expression signifies liberation from captivity to the lower nature through the raising of the qualities by an influx of Divine Life.
+
+> "Jesus breathed on the disciples, and saith unto them, Receive ye the Holy Ghost: Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained."—John xx. 22, 23.
+
+The disciplined qualities (disciples) "were glad," and therefore prepared for the outpouring (breathing) of the Spirit which raised them. The "remitting of sins" is the loosening from the imperfections and limitations which bind down the qualities, and from which liberation is obtained as soon as the qualities are "breathed upon" by the living Christ. The "retaining of sins" is the opposite course,—the failing of qualities to receive the Spirit through the agency of qualities more spiritualised than themselves, and consequent retention of evil and ignorance.
+
+See ADOPTION, ATONEMENT, BONDAGE, BREATH (divine), CAPTIVITY, LIBERATION, RE-BIRTH, REDEMPTION, REGENERATION, RESURRECTION, RITES, SAINTS, SALVATION, VICTORY.
+
+**Corrections made:** `gins` → sins; See-list spellings restored (`BonpDAGE`, `CapTIVITY`, `ReE-BIRTH`, `RESUBRECTION`, `Rrres` → RITES, `Sarmts` → SAINTS); quotation marks normalised.
+
+**Unclear or supplied:** `RITES` is a best reading of `Rrres`.
 
 ## Full OCR entry body (exact)
 

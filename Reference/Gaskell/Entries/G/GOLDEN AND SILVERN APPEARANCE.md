@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-and-silvern-appearance
 headword: "GOLDEN AND SILVERN APPEARANCE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CaRTs` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/C/CARTS GAY WITH SILVER AND GOLD|CARTS GAY WITH SILVER AND GOLD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of active and passive states. Gold, or sun, signifies activity: silver, or moon, passivity. See CARTS.
+
+**Corrections made:** `CaRTs` → CARTS; `activity :` → activity:.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

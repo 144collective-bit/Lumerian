@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-death-of-the-spirit-soul-or-higher-self
 headword: "DEATH OF THE SPIRIT, SOUL, OR HIGHER SELF"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -49,6 +50,20 @@ tags:
 | `RESURRECTION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/R/RESURRECTION FROM THE DEAD|RESURRECTION FROM THE DEAD]] |
 | `Sout` | **unresolved** (review queue) |
 | `Sprit` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the descent of Spirit into Matter, or involution of spirit in matter. Of the obscuration of Spirit in the lower consciousness—the apparent withdrawal of the Self through the fall of the lower mind to the plane of desire and sense. Of an apparent passage of the Soul from a lower to a higher state of consciousness, implying death out of one state and birth into another.
+
+> "It is Christ Jesus that died, yea rather, that was raised from the dead, who is at the right hand of God, who also maketh intercession for us."—Rom. viii. 34.
+
+It is the Higher-Self as Archetypal Man that died in the involution of the Soul, yea rather, that was in us raised from the dead in the evolution of our souls, who now is seated in our hearts to actively assist us in all well-doing and to bring our souls to perfection. The death of the Divine Being is said to occur in the manifestation of a universe, for Spirit is unapparent in the realm of phenomena. God is always within and never without.
+
+See AFU-RA, ARC. MAN, CHRIST, CROSS, CRUCIFIXION, DEATH OF OSIRIS, DISMEMBERMENT, EVOLUTION, FALL, HAND (right), INCARNATION, INVOLUTION, PRAGAPATI RELAXED, PURUSHA, RESURRECTION, SOUL, SPIRIT.
+
+**Corrections made:** `@` → a; page heading `STATE OR 205 DEATH` removed from mid-sentence; See-list spellings restored (`Aru-RA`, `Hanp`, `INcaRNATION`, `Sout`, `Sprit`); and similar minor fixes.
+
+**Unclear or supplied:** `STATE OR` before the page number was taken as part of the running head and removed.
 
 ## Full OCR entry body (exact)
 

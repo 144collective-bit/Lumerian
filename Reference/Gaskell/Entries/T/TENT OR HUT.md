@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-tent-or-hut
 headword: "TENT OR HUT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -86,6 +87,30 @@ tags:
 | `SOMA-JUICE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOMA-JUICE, OR SAP|SOMA-JUICE, OR SAP]] |
 | `Sout` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental vehicle in which are concepts and opinions of the lower mind.
+
+> "Slumber not in the tents of your fathers; the world is advancing, advance with it."—Mazzini.
+
+> "Here in the body pent, Absent from Him I roam, Yet nightly pitched my moving tent A day's march nearer home."
+
+See BOOTHS, HUT, PAVILION.
+
+### Also in this note: TESTAMENT
+
+A symbol of a covenant between the Higher Self and the soul-qualities, whereby, on the fulfilment of certain conditions by the evolving qualities, the Self will redeem or raise them.
+
+> "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance."—Heb. ix. 4, 15.
+
+The "old testament" is the moral law which requires the sacrifice of the lower desires and passions (goats and bulls), whose "blood" is shed or whose life is dissipated on the altar of the heart. The "new testament" is the law of Love-divine, i.e. the attractive love of Truth and Goodness which replaces the coercive moral law. The Divine Life of the Self (blood of Christ) was offered through Buddhi (Spirit) in all its purity to the Supreme Will, at the soul's foundation, in order that the conscience should be cleansed of the taint of coercion, and the Divine love should lead the already disciplined qualities. Thus the Self-within—the Divine Indweller—became the mediator and redeemer of the qualities, by means of the death in matter which constitutes him the Indweller. He entered in once into the "holy place" of the over-soul, and "shed his blood," that is, gave up his life that eternal redemption might accrue to the evolving qualities accepting that life. When the qualities have passed through the stage of moral coercion, they are called upon to enter the stage of liberty and love, and receive the promise of their transmutations on the higher planes.
+
+See ALTAR, ARC. MAN, BEASTS, BLOOD, BLOOD OF LAMB, BURNT OFFERING, CONSCIENCE, COVENANT, DEED, DISPENSATIONS, EVOLUTION, FRUIT, GRACE, HOMA-JUICE, INCARNATION, INVOLUTION, JUSTIFICATION, KARMA, LAW OF MOSES, MEDIATOR, MOSAIC, MOSES, OFFERING, QUALITIES, REDEEMER, REDEMPTION, SACRIFICE, SACRIFICER, SALVATION, SOMA-JUICE, SOUL, TRANSMUTATION.
+
+**Corrections made:** `Mazzin1` → Mazzini; `Pavmmion` → PAVILION; `soulqualities` → soul-qualities; `romise` → promise; `HEB.` → Heb.;`oternal` → eternal; page heading `TET-PILLAR` removed from mid-sentence; See-list spellings restored (`Bioop`, `BLoop`, `DIsPreNsATIONS`, `Evo.LurtTIoN`, `Karma`, `MEDIATOR`, `Sout`).
+
+**Unclear or supplied:** Contains a second entry: TESTAMENT. The reference `Heb. ix. 4, 15` is left as printed (possibly `ix. 14, 15`).`BOOTHS` and `PAVILION` are likely readings of `Boorus` and `Pavmmion`. `DEED` is a likely reading of `Deep`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-angra-mainyu-or-angromainyush
 headword: "ANGRA-MAINYU, OR ANGROMAINYUSH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,20 @@ tags:
 | `SERPENT (water)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `UNBELIEF` | **unresolved** (review queue) |
 | `WINTER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WINTER|WINTER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the evil power in the desire-mind, or the illusory principle of the lower mind, which creates opposites.
+
+> "Thereupon came Angra-mainyu, he created the serpent in the river, and winter the work of the daevas."—*Vendidad*, I. 2. S.B. of E.
+
+This refers to the time when the mind distinguishes between good and evil. The "serpent" signifies the subtle nature of that which first ensnares, but which ultimately proves to be the means of enlightening the Self. The power of evil, or the illusory lower self, fashions "winter" or that which is the obverse of the fruitful principle above.
+
+See AHRIMAN, BLACK MAGICIANS, DEVIL, OPPOSITES, SERPENT DAHAKA, SERPENT (mighty), SERPENT (water), UNBELIEF, WINTER.
+
+**Corrections made:** `£.` → E.; See-list spellings restored (`DEviL`, `OprosrrEs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

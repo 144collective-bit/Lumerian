@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fig-fruit
 headword: "FIG-FRUIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -48,6 +49,24 @@ tags:
 | `Son oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
 | `Time` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TIME AND NON-TIME|TIME AND NON-TIME]] |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sweet fruit of the Tree of Life, i.e. the blissful results of the experience of the Self in its course through the lower nature. The "fruit of the Spirit is love, joy, peace, etc." (Gal. v. 22), which are emotions transmuted through the Holy Spirit (Buddhi). This "sweet fruit" is garnered and enjoyed on the buddhic plane to which the consciousness rises after the lower nature is transcended.
+
+> "Two birds (the Paramatman and the Jivatman, or Supreme and individual souls) always united, of the same name, occupy the same tree. One of them (the Jivatman) enjoys the sweet fruit of the fig (or fruit of acts), the other looks on as a witness."—*Mundaka Upanishad*, III. 1, 1-3; Mon. Williams, *Indian Wisdom*, p. 42.
+
+The "two birds" are the Higher and the Lower Selves which are essentially one, but dual in aspect respecting manifestation, only the lower aspect being in active relation with the soul as the Divine Indweller. It is the Divine life (jiva), the Christ within, who strives and eventually conquers the lower nature of the soul, and afterwards rises in his saints to partake of the fruit of the life process.
+
+> "There are hints which lead to the truth that it is only the lower self which suffers; the higher ego in us, 'the angel' which 'always beholds the face of the Father,' goes scathless, awaiting the uniting of the lower self with it."—R. C. Anderson, *Serm.*, The Buried [word unclear].
+
+> "There sits a silent watcher within each of us, an entity unaffected by the swift, tumultuous passing of the years, yet carefully gathering up and storing within itself the tribute that they bring. It forgets nothing, loses nothing, allows nothing to escape that has ever come within its ken. And all this treasure is being accumulated for eternity; this inner self of every soul cares only for the things of time as they bear upon its return to that state in which time is not. Language is of necessity inadequate here to express a fact which transcends our powers of thought. But I repeat that that timeless, ageless principle, that point and centre of being, which alone deserves to be called you, deeper far than your present consciousness of yourself, and greater than you have or could have any conception of while you are enclosed and battened down in your physical body, derives immediately from the eternal Son of God."—R. J. Campbell, *Serm.*, In Change Unchanged.
+
+See ATMAN, BIRDS (two), EXPERIENCE, FRUIT OF SPIRIT, HARVEST, HIGHER AND LOWER SELVES, INCARNATION, INDIVIDUALITY, JESUS (son of God), PERSONALITY, SAINTS, SELF (supreme), SELF (lower), SON OF GOD, TIME, TREE OF LIFE.
+
+**Corrections made:** `Ga.` → Gal.; `Param&tman` → Paramatman; `Jivktenan}` → Jivatman; `acta` → acts; `M Upanishad` → Mundaka Upanishad (inferred); page headings `GOLDEN AGE, 272 FIG-JUICE` removed from mid-text; `Wruuuass` → Williams; `Wiedom` → Wisdom; `Anperson` → Anderson; `loees` → loses; `ite ken`/`ite return` → its; `Camps` → Campbell; See-list spellings restored (`Arman`, `Brmps`, `ExprrtENCE`, `Harvest`, `INCARNaTION`, `Personatiry`, `Saunts`, `SEL¥`, `Son oF Gop`, `Time`); quotation marks normalised.
+
+**Unclear or supplied:** `Mundaka` is inferred from OCR `M` before Upanishad. `R. C. Anderson` (OCR `K. C. Anperson`) initials uncertain; the sermon title ends in a lost word (OCR `€.`), marked `[word unclear]`. `Camps` read as Campbell from the author's other appearances in this note.
 
 ## Full OCR entry body (exact)
 

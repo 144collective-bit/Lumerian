@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dog-highest-aspect
 headword: "DOG (HIGHEST ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `SIVA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SIVA, GOD|SIVA, GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the going forth of the Self as will.
+
+> "A dog ate the first meat of the sacrifice of a sheep."—*The Bundahis*, Ch. XV. 14.
+
+This sacrifice is that of the mind to the lower emotions, and the "fire" is the symbol of desire. It is a correspondency of the sacrifice of the Logos which takes place, in so far as the ego is concerned, from the mental plane. The "dog" is a symbol of the Self under the aspect of will, which is the first aspect under which the Self goes forth. The "meat" symbolises the beneficial results of experience, knowledge.
+
+> "The dog is connected with Siva in his character of a mountaineer, or rather, perhaps, with Rudra, who also presides over horses."—Mon. Williams, *Religious Thought in India*, p. 328.
+
+A "mountaineer" is one who climbs a mountain, a symbol of aspiration,—one who rises from the lower to the higher, as does the Self (Siva) through the will (dog). The Self (Rudra) through the will directs the mental faculties (horses).
+
+See FIRE, HORSE, LAMB, MEAT, SACRIFICE, SHEEP, SIVA.
+
+**Corrections made:** `ato` → ate; `alao` → also; `horacs` → horses; `aspira tion` → aspiration; `meat™` → meat"; page heading `225 DOG` removed from mid-sentence; See-list spellings restored (`Horss`, `Lams MEAt`).
+
+**Unclear or supplied:** `Mon. Williams` (Monier-Williams) kept as printed.
 
 ## Full OCR entry body (exact)
 

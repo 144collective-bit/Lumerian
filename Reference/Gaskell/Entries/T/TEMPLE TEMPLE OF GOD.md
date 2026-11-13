@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-temple-temple-of-god
 headword: "TEMPLE TEMPLE OF GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,38 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body, or of the higher mental condition in which the universal consciousness is brought into relationship with the highest forces, and where it becomes possible for all minds to unite in harmony as one.
+
+> "Know ye not that [ye] are a temple of God, and that the Spirit of God dwelleth in you? If any man destroyeth the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are."—1 Cor. iii. 16, 17.
+
+The mental quality which is adverse (destroyeth) to the higher nature shall be dissipated by the Higher Self, for the causal-body is the immortal soul.
+
+> "Christ transforms us....A holy temple for the Lord shall the house of our heart be. .. . He Himself dwells in us, opening the door of the temple, which we are, i.e. the mouth; granting us repentance, He carries us into the everlasting temple by which he (Barnabas) understands the inner man, to which also he ascribes self-legislation and self-counsel."—Dorner, *The Person of Christ*, Vol. I. p. 115.
+
+> "God builds his temple in the heart on the ruins of churches and religions."—Emerson, *On Worship*.
+
+> "Temples are not to be built for God with stones piled on high; He is to be consecrated in the breast of each."—Seneca.
+
+> "Temple signifies the church in the world, and the church in heaven."—Swedenborg, *Apoc. Rev.* n. 191.
+
+> "Hail, all ye gods of the Temple of the Soul, who weigh heaven and earth in the balance, and who provide sepulchral meals in abundance." ('Temple of the Soul,'—the name of a part of the sky where the gods lived; a place which had a counterpart on earth, probably at Annu.)—Budge, *Book of the Dead*, p. 5.
+
+The higher qualities or ideals (gods) reside on the buddhic plane (sky), and they weigh the nature of the soul in the balance of experience, and provide nourishment of truth and goodness for the causal-body.
+
+> "A pure mind is holy temple for God, and clean heart without sin is His best altar" (Sixtus).—Augustine, *Anti-Pelagius*, Vol. I. p. 300.
+
+> "In these two things the greatness of man consists. One is to have God so dwelling in us as to impart His character to us; and the other is to have God so dwelling in us that we recognise His presence, and know that we are His and He is ours. They are two things perfectly distinct. To have God in us, this is salvation; to know that God is in us, this is assurance."—F. W. Robertson, *Sermons*, 3rd Series, p. 238.
+
+> "Conscious mind—the ordinary action of your cranial brain—is the temple of the Christ-mind. Your will controls, or ought to control, your conscious mi[nd]. The duty of your will is to hold your conscious mind or cranial brain to the realisation of the Christ-mind within you. Am I exercising my will in keeping the temple of my conscious mind clean, so that the Christ-mind may have freedom? Have I learned to direct and control my thought, or do I let my little tiresome thoughts come rushing in and occupy the whole space? Is my mental temple clean? Is my mind a pure dwelling-place for his Spirit? Suppose the answer is, 'No.' Then call on him; say, 'Even so, come, Lord Jesus.' Come, if you will, with your scourge; drive out the wrong thoughts, the tempers, and the doubts, and the appetites, and the angers, and the irritabilities, drive them out of thy holy of holies; cleanse the thoughts of my heart with the inspiration of thy Holy Spirit, that I may perfectly love thee."—B. Wilberforce, *Serm.*, The Message of Advent.
+
+See AARON, AB, ADYTUM, AGNISHTOMA, ANNU, APARAGITA, ASCENSION, CAUSAL-BODY, CHURCH, CITY OF GOD, CLEANSING, HEART, HEBEN, HOUSE IN HEAVEN, KAABA, PILLAR (temple), PYRAMID, SCOURGE, SHRINE, STUPA, TABERNACLE.
+
+**Corrections made:** `Know ve not that are` → Know ye not that [ye] are; `A_ holy` → A holy; `selfcounsel` → self-counsel; `Bupae` → Budge; `plano` → plane; `Ants-Pelagius` → Anti-Pelagius; `SwEvDENBORG` → Swedenborg; `WuILBERFoRCE` → Wilberforce; `RoBERTSON` → Robertson; `@®` → a; `80` → so; `dwellingplace` → dwelling-place; `mi` → mi[nd]; page heading `748 TEMPTATION` removed from mid-sentence; See-list spellings restored (`Pritar`, `PyramMip`, `Scource`, `Strupa`, `KaasBa`, `AGNISHToma`, `CaUSsAL-BODY`, `CiTy`).
+
+**Unclear or supplied:** `[ye]` supplied: the OCR drops the word ("Know ve not that are"). `mi[nd]` supplied: OCR breaks off at "mi". The reference `Sixtus` / `Ants-Pelagius` read as printed with the obvious correction. `1 Cor. iii. 16, 17` and attributions otherwise as printed. The See-list item `PILLAR (temple)` is a likely reading of `Pritar (temple)`, and `SCOURGE` of `Scource`, `STUPA` of `Strupa`; `ADYTUM` of `ADyTUM`; these are uncertain.
 
 ## Full OCR entry body (exact)
 

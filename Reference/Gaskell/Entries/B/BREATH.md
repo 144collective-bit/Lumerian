@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-breath
 headword: "BREATH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Maruts` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MARUTS|MARUTS]] |
 | `Mortar` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MORTAR AND PESTLE|MORTAR AND PESTLE]] |
 | `WIND` | **candidate (ambiguous first-segment)** → WIND, ADVERSE; WIND, STRONG, OF MAZDA; WIND, SWEET, SOUTH; WIND, WORD, SPIRIT, MARUT, BREATH (not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the mental interpretation of Spirit, or the expression of the Divine on the mental plane.
+
+See MARUTS, MORTAR, WIND.
+
+**Corrections made:** `Maruts` → MARUTS; `Mortar` → MORTAR.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

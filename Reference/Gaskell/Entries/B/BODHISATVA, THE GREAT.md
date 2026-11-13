@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bodhisatva-the-great
 headword: "BODHISATVA, THE GREAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,20 @@ tags:
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `TussiTa` | **unresolved** (review queue) |
 | `WoMB OF MAYA` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMB OF MAYA|WOMB OF MAYA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the germ of the One Soul in the cycle of Involution. The incarnate Higher Self.
+
+> "Then falling from the host of beings in the Tushita heaven, and illumining the three worlds, the most excellent of Bodhisatvas suddenly entered as a thought into her womb (that of Queen Maya), like the Naga-king entering the cave of Nanda."—*Buddha-Karita*, Bk. I. 19.
+
+Then descending from the buddhic plane by way of the mental planes,—by means of the Devas,—and enlightening the mental, astral, and physical planes, the germ-Soul,—whose nature is pre-arranged harmony,—passed unperceived into the "womb of Mâyâ"—the embodiment of pure Truth,—the opposite of illusion; the conception taking place on the fourth sub-plane of the astral plane. The "Serpent-king" is a symbol of wisdom and enlightenment, and the "cave of Nanda" a symbol of the personality.
+
+See AVALOKITESVARA, BIRTH OF BUDDHA, BUDDHA, CAVE OF NANDA, CONCEPTION, CRANBERRY, ELEPHANT (sacred), FIRST-BORN SON, HIRANYAGARBHA, INSIGNIA, MAYA, MONAD, SEED, TUSHITA, WOMB OF MAYA.
+
+**Corrections made:** `OneSoul` → One Soul; `May&` → Mâyâ; `CAVF` → CAVE; `E.LEPHANT` → ELEPHANT; See-list spellings restored (`BuppHa`, `FirsT-BORN`, `HiRanyaGARBHA`, `Insianta`, `Monap`, `TussiTa`); quotation marks normalised.
+
+**Unclear or supplied:** See-list item `INSIGNIA` is a likely reading of OCR `Insianta`; `CRANBERRY` stands as printed.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rest-peace
 headword: "REST, PEACE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
 | `SOWING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOWING AND REAPING|SOWING AND REAPING]] |
 | `THRONE (heart)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THRONE (HIGHER ASPECT)|THRONE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/T/THRONE OF HIS HEART|THRONE OF HIS HEART]]; [[Reference/Gaskell/Entries/T/THRONE VIKATSHANA, BRAHMAN|THRONE VIKATSHANA, BRAHMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Nirvana, i.e. an interval between globe periods, passed on the buddhic plane. Or Devachan on the higher mental plane.
+
+> "The Lord of the Peace of Horus,—the throne of His heart is in the pools and the cities of the Garden of Rest; for He is begotten in the birth-chamber of the Divine City, and His rest shall come in the consuming of the Divine City. He it is that fashions Her likeness and unites Her to all that belongs to the chamber of birth in the City of God."—*Book of the Dead*, Ch. CX., trans. M. W. Blackden.
+
+The centre of the soul's being,—the True Self,—is above the lower nature, and enthroned in the causal-body (throne) where It is within atma-buddhic Truth (the Garden). The Self is begotten in Buddhi which ensouls the causal body (Divine City). The Self "rests," or is withdrawn from manifestation in the lower worlds, when the causal vehicle is dissolved at the end of the cycle. The Self as Atman fashions the buddhic vehicle to supersede the causal, and through Her receptivity the Self is united with all things spiritually, and apprehends in full consciousness the universal scheme of Nature which lives, moves and has its being in the Godhead.—See Is. lviii. 11; Jer. xxxi. 12.
+
+See ATMAN, BUDDHI, CAUSAL-BODY, CITY, DEVACHAN, [GOING IN?], NIRVANA, PEACE, PLANETARY CHAIN, POOLS, SEKHET-HETEP, SOWING, THRONE (heart).
+
+**Corrections made:** page heading `OR OF 301 GARMENTS` removed from mid-sentence; `i.e.an` → i.e. an; `BLacKDEN` → Blackden; `causalbody` → causal-body; `ita being` → its being; `JER.` → Jer.; See-list spellings restored (`Arman`, `BuDDHI`, `Crry`, `Gorne In`); quotation marks normalised.
+
+**Unclear or supplied:** `[GOING IN?]` stands for OCR `Gorne In`. The stray `OR OF 301 GARMENTS` is treated as a damaged page heading.
 
 ## Full OCR entry body (exact)
 

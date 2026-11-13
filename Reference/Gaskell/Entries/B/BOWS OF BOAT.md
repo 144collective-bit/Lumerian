@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bows-of-boat
 headword: "BOWS OF BOAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `Acacta` | **unresolved** (review queue) |
 | `Boat` | **unresolved** (ambiguous full-head matches; not linked) |
 | `SYCAMORE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the foremost qualities of Truth and Right.
+
+> "The Osiris Nu maketh right and truth to go round about the bows in the Great Boat."—Budge, *Book of the Dead*, p. 394.
+
+> "'Tell us our names,' say the Bows; 'He who is at the head of his nomes,' is your name."—*Ibid.*, p. 300.
+
+The "Bows" signify the most advanced qualities in the departments of life.
+
+See ACACIA, BOAT, SYCAMORE.
+
+**Corrections made:** page heading `CLANG, BRAHMA` removed from mid-quotation; `Buper` → Budge; `ZJbid.` → Ibid.; `Acacta` → ACACIA; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

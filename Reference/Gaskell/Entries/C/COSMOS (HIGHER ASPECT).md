@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cosmos-higher-aspect
 headword: "COSMOS (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -55,6 +56,32 @@ tags:
 | `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `SrerMaric WORDS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SPERMATIC WORDS|SPERMATIC WORDS]] |
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Form-universe, or the Monad of Form. It is the spiritual universe which is the formative pattern of the mental, astral and physical universes. Cosmos is the Macrocosm.
+
+> "Cosmos is second God, a life (living thing) that cannot die; it cannot be that [any] part of this immortal life should die. [All] things in Cosmos are parts of Cosmos, and most of all is man the rational animal . . . after the image of the Cosmos made and having mind beyond all earthly lives" (*Corpus Hermeticum*, VIII).—Mead, *T. G. Hermes*, Vol. II. p. 125.
+
+The Archetypal Pattern, or Life and Form Scheme of the solar universe, represents the Second Logos, or second Divine outpouring of Life on the higher planes. This spiritual Pattern is fixed and permanent and not subject to successive changes of state; consequently it is free of time. (Time only enters into manifestation when the Pattern is reproduced bit by bit on the lower planes. This is very plainly taught in the same treatise,—"God maketh Aeon; Aeon, Cosmos; Cosmos, Time; and Time, Becoming."—*Ibid.*, p. 176.) All things manifest are in degrees of representation of the Divine Pattern above. In humanity there is the greatest number of degrees, for mind is present in man. The human soul is the microcosmic unit of the Macrocosm, and possesses the Divine Spark which is beyond all lower lives.
+
+> "The basic element of most of the ancient, and to this day of many of the modern, religions of the world is, the idea of a perfect invisible universe above, which is the real and true paradigm or ideal model, of the visible universe below, the latter being the reflection, simulacrum or shadow, of the invisible perfect ideal above. . . . The idea of the Upper ideal but real and true, and the Lower apparently real, but in truth changeable and untrue, goes through the entire Apocalypse of St. John, is in St. Paul, and in the Epistle to the Hebrews."—I. Myer, *Qabbalah*, pp. 108, 109.
+
+> "The lower world is made after the pattern of the upper world; everything which exists in the upper world is to be found, as it were, in a copy upon earth, still the whole is one."—*Zohar*, ii. 20a; Ginsburg, *The Kabbalah*, p. 104.
+
+> "In the Zohar it is said,—'the form of man is the image of everything that is above and below.'"—*Jewish Enc.* art. Cabala.
+
+> "The universe did not begin with atoms and electrons; its basis is not material but spiritual; and if we could break our way through the whole phantasmagoria—the tremendous drift and play and clash and scream of force and life against life—we should know that the real is also the eternally perfect, and that nothing can be added to or taken away from that perfection; not even infinite wisdom and omnipotence could improve upon it, for it is itself the sum of these, and the home and reservoir of everything they could produce. It is the state beyond both good and evil, for evil cannot be felt or known in a state in which all fullness dwells. . . . If we could only get out and up to that state of being which is the antecedent cause of everything in the visible universe, we should find that by its very nature, it is a state of absolute felicity, bliss, and completeness; it must be all that we dimly visualise when we strive towards what we call the good; the ideal and the real are one. I insist that the real could not be anything else than the ideal, for it is at once the infinite source and the perfect satisfaction of everything that every soul can possibly aspire to."—R. J. Campbell, *Serm.*, *The Two Orders*.
+
+Language is, of course, quite inadequate to describe noumenal actualities and their phenomenal correspondences. Statical phenomena are always imperfect in every respect, and can bear only a grotesque resemblance to their prototypes on the plane of causes. But suffice it to say that science and philosophy recognise archetypal causation. Professor Wm. James observed:—
+
+> "The widest postulate of rationality is that the world is rationally intelligible throughout, after the pattern of some ideal system. The whole war of the philosophies is over that point of faith."—*Principles of Psychology*, Vol. II. p. 677.
+
+See AEON, ALPHA, ARC. MAN, ATMAN, CREATION, EVOLUTION, GOOD (light), GODS, HEALING, HIGHER AND LOWER, IMAGE, INCARNATION, MACROCOSM, MICROCOSM, NET (golden), PLEROMA, PROTOTYPES, SEED, SIMILITUDES, SOUL (higher), SPARK, SPERMATIC WORDS, WORLDS (five).
+
+**Corrections made:** `Formuniverse` → Form-universe; `rive per of` → [any] part of; `things in Cosmos` → [All] things in Cosmos; `parte` → parts; `VII1` → VIII; `makcth 42on ; AZon` → maketh Aeon; Aeon; `Cosmus` → Cosmos; `thero` → there; page heading `176 | COSMOS` removed from mid-sentence; stray `|` marks removed; `Souak` → Zohar; `d and evil` → good and evil; `wn` → known; `inst life` → against life; `ire to` → aspire to; `noumonal` → noumenal; `ts` → is; `Peychology` → Psychology; `Qubbalah` → Qabbalah; See-list spellings restored, and similar minor fixes.
+
+**Unclear or supplied:** `[any]` and `[All]` are supplied where the OCR dropped words (`rive per of this immortal life`; `things in Cosmos`). `Souak, ii. 20a GinssurG` read as *Zohar*, ii. 20a; Ginsburg, with the semicolon supplied. `d and evil` read as `good and evil`; `wn` read as `known`; `inst life` read as `against life`; `ire to` read as `aspire to`. `Jewish Enc. art. Cabala` lacks a closing quotation and full stop in the OCR.
 
 ## Full OCR entry body (exact)
 

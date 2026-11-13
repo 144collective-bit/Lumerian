@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-evolution-and-involution
 headword: "EVOLUTION AND INVOLUTION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -63,6 +64,38 @@ tags:
 | `Tuart` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `WHEEL OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WHEEL OF LIFE|WHEEL OF LIFE]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Evolution is the gradual emerging into objective activity of qualities and faculties which have been previously involved to perfection in the matter of the lower planes.
+
+> "If the Monad begins its cycle of incarnations through the three objective kingdoms on the descending curved line, it has necessarily to enter on the re-ascending curved line of the Sphere as a man also. On the descending arc it is the spiritual which gradually transforms into the material. On the middle line of the base, Spirit and Matter are equilibrised in Man. On the ascending arc, Spirit is slowly reasserting itself at the [expense?] of the physical, or Matter, so that, at the close of the Seventh Race of the Seventh Round, the Monad will find itself as free from Matter and all its qualities as it was in the beginning: having gained in addition the experience and wisdom, the fruitage of all its personal lives, without their evil and temptations. This order of evolution is found in the first and second chapters of Genesis, if one reads it in its true esoteric sense; for Chapter i. contains the history of the first Three Rounds, as well as that of the first Three Races of the Fourth (Round), up to the moment when Man is called to conscious life by the Elohim of Wisdom."—H. P. Blavatsky, *Secret Doctrine*, Vol. II. p. 190.
+
+When the soul is fully involved, "Spirit and Matter are equilibrised" in the Archetypal Man, the Adam (Kadmon) of Genesis i., or the Christ who "descended into the lower parts of the earth," and of whose "body" and "members" the human race now consists.
+
+> "I say that Christ is the last Word of Evolution just because it was the first, if it had not been the Alpha it could not be the Omega. It is the unveiling of Reality, the Reality that changeth not, the Reality without a second, without rival or superior."—R. J. Campbell, *Serm.*, *The Source of Good*.
+
+> "The putting forth of finite beings from the Deity was called by Scotus (Erigena) the process of unfolding, and in addition to this, he taught the doctrine of the return of all things unto God, or their deification."—Ueberweg, *Hist. of Philos.*, Vol. I. p. 359.
+
+> "Rightly interpreted, religion is life. For all human life, on this side of death and on the other, is the resurrection of Christ and his ascension to the Father. Whatever this world may have been like at its birth, it was the in-folding of the life of God in preparation for a vast spiritual unfolding which is now going on and in which we individually and collectively are taking part. That infolding was, as it were, the laying of a divine body in the tomb of matter, the sacrifice, of a divine life to death; we are now watching and co-operating in the issuing forth and rising up of that divine life, 'the Christ that is to be.' We are individually members of the body of this Christ and of one another; to see it is to find life, to miss it is to abide in death. Christ rises in every man who has caught this vision and given himself to it."—R. J. Campbell, *Serm.*, *The Resurrection [Life?]*.
+
+> "You cannot have evolution without something to evolve; evolution does not create anything, it only reveals it. What we are to-day, therefore, is the partial unfolding of some immeasurably greater Fact than can probably ever be fully expressed under material conditions."—R. J. Campbell, *Serm.*, *The Persistence of Jesus*.
+
+> "The doctrine of creation by development or evolution is a true doctrine, and is in no way inconsistent with the idea of divine [purpose?]; but the development is not of the original substance. Being infinite and eternal, that is perfect always. Development is the manifestation of the qualities of that substance in the individual. Development is intelligible only by the recognition of the inherent consciousness of the substance of existence. Of the qualities of that substance as manifested in the individual, Form is the expression. And it is because development is directed by conscious, experienced, and continually experiencing intelligence, which is ever seeking to eliminate the rudimentary and imperfect, that it occurs in respect of Form. The highest product, man, is the result of the Spirit working intelligently within. But man attains his highest, and becomes perfect, only through his own voluntary co-operation with his Spirit. There is no mode of Matter in which the potentiality of personality, and therein of man, does not subsist. For every molecule is a mode of the universal consciousness. Without consciousness is no being. For consciousness is being."—Kingsford and Maitland, *The Perfect Way*, pp. 18, 19.
+
+> "Evolution itself cannot even be conceived of except in connection with some unitary Being, immanent in the evolutionary process, which reveals its own Nature by the nature of the Idea, which, in fact, is progressively set into reality by the process.... Without help from the tenet of evolution, the doctrine of God as perfect Ethical Spirit cannot be vindicated against the charges offered by the prevalence of evil; and the most precious dogmas of Christianity concerning the Divine work of redemption, the growth of the Divine [Kingdom?] by revelation and inspiration, and final triumph of that Kingdom as the realised Ideal of an all-inclusive good, cannot even be stated in intelligible terms. Thus the beliefs, hopes, and practical motives of a religion that is compatible with the advance of race-culture require the unquestioning acceptance of the truth, that wherever 'the earth bringeth forth fruit of herself,' there it is always, 'first the blade, then the ear, after that the full corn in the ear.'"—G. T. Ladd, *Phil. of Religion*, Vol. II. [pp.?] 303-4.
+
+> "[The Di]vine Self is the sum-total of the [finite?] selves which compose the race, and which are ever on the way to becoming more and more truly personal."—*Ibid.*, p. 309.
+
+> "Evolution is the wing towards God individuated of that which went forth from God un-individuated. It is the gradual taking on of Godhead by means of the passage through matter: a returning to God full, concrete and concentred, of that which went forth from God empty, discrete, and scattered. For is not evolution the [passage?] through matter of Spirit; is not Faith the clinging of matter to Spirit; is not Love the transfusion of matter by Spirit as [word unclear]"—E. C. U., *A Message to Earth*, p. 8.
+
+> "Evolution being found in so many different sciences, the likelihood is that it is a universal principle. And there is no presumption whatever against this Law and many others being excluded from the domain of the spiritual life."—H. Drummond, *Natural [Law]*, etc., p. 37.
+
+See ADAM (higher), ALTAR (fire), ARC. MAN, CANCER, CIRCLE OF EXISTENCE, COMING FORTH, COSMOS, CRATER, DEATH OF OSIRIS, DEVAYANA, EQUINOX, FALL, FORM AND NAME, GOING IN, IMAGE, INVOLUTION, LION-GOD, MACROCOSM, MAHAYANA, MITHRA, [MUSVUSI?], NIGHT, PLEROMA, RESURRECTION, SABBATH, SACRIFICER, [SZPNRMORS?], SPIRAL, T (letter), TUAT, WHEEL OF LIFE, ZODIAC.
+
+**Corrections made:** `Buavarsxy` → Blavatsky; `arc` → are; `iteelf`, `ite` → itself, its; `ere taking` → are taking; `Be J. CAMPBELL` → R. J. Campbell; `reater`, `Pally` → greater, fully; `intelliible`, `intelliently` → intelligible, intelligently; `itis` → it is; `e highest`, `Righest`, `ahs` → The highest, highest, his; `ts being` → is being; `MaITLaNnD` → Maitland; `raceculture` → race-culture; `QG. T. Lapp` → G. T. Ladd; `Jbid.` → Ibid.; `@ returning` → a returning; `fo Spirit` → to Spirit; `heing` → being; `Devummonn` → Drummond; page headings `EVOLUTION` (mid-sentence) and `266 EXILE` removed; See-list spellings restored (`Apam`, `ALrTaR`, `ComING rFoRTH`, `Crater`, `DeEvaYana`, `FALt`, `Mrrnra`, `Tuart`, `MacrocosM`); quotation marks normalised.
+
+**Unclear or supplied:** `[expense?]` replaces OCR `e`. `[Life?]` completes OCR `ife.`. `[purpose?]` replaces OCR `opraeee`. In the Ladd quotation `[Kingdom?]` replaces OCR `om ge`, `[pp.?]` replaces `A Soe te`; the second Ladd quotation begins `[The Di]vine` (OCR `vine`) and `[finite?]` replaces `faite`. The E. C. U. quotation breaks off after "by Spirit as" (OCR runs into the attribution); `[passage?]` replaces `p`. `Law` is supplied in `Natural [Law]` (OCR `Natural ,`). `[MUSVUSI?]` and `[SZPNRMORS?]` are unidentified See-list items (OCR `Musvusi`, `Szpnrmors`).
 
 ## Full OCR entry body (exact)
 

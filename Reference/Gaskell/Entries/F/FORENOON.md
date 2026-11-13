@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forenoon
 headword: "FORENOON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GatHas` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GATHAS, CHANTING THE|GATHAS, CHANTING THE]] |
 | `Homa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HOMA TREE OR PLANT|HOMA TREE OR PLANT]] |
 | `Zoro` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of an early stage of the Self's forthgoing.
+
+> "In the forenoon Homa came to Zarathustra while he was cleaning around the fire, and chanting the Gathas."—*Homa Yasht*, Haug, *Essays*.
+
+At an early period of manifestation Divine illumination (Homa) descended upon the Soul (Zarathustra). The "fire cleaning" signifies purification of the sense-nature; and the "hymn chanting," the raising of the consciousness through meditation.
+
+See FIRE, GATHAS, HOMA, ZORO[ASTER?]
+
+**Corrections made:** `Haua` → Haug; `Fire, GatHas` → FIRE, GATHAS; quotation marks normalised.
+
+**Unclear or supplied:** The See list breaks off at `Zoro` in the OCR; completed in brackets as `ZORO[ASTER?]`.
 
 ## Full OCR entry body (exact)
 

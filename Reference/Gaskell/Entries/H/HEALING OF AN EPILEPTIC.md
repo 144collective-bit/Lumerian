@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-healing-of-an-epileptic
 headword: "HEALING OF AN EPILEPTIC"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `MEDICINE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MEDICINE|MEDICINE]] |
 | `PHYSICIAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PHYSICIAN, SUCCESSFUL|PHYSICIAN, SUCCESSFUL]] |
 | `WATER (lower)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the steadying by the Spirit of the mental faculty which wavers between passion and error.
+
+> "There came to him a man, kneeling to him, and saying, Lord, have mercy on my son: for he is epileptic, and suffereth grievously; for oft-times he falleth into the fire, and oft-times into the water."—Mat. xvii. 15.
+
+The mind (man) referred to is one attracted towards the indwelling Christ, whom he supplicates to control the product of the mind, which is a mental state oscillating between passion (fire) and falsity (water). Water signifies Truth, but incomplete truth is dangerous,—is error. Fire signifies Love; but on the astral plane it becomes passion. And so the Christ is brought to effect the cure of a vacillating and insecure mind or biassed opinion.
+
+> "This use of things natural, to represent things spiritual, is not the culling out the best and noblest, but likewise and equally the use of the worst and basest, or rather, I should say, the indiscriminate use of all. Sickness and vileness, wounds, bruises, and putrifying sores, leprosy, palsy, and death, are all used to shadow forth the evil conditions of our natural estate; medicines, balms, and amputations, Christ's medical care of us; and health or salvation, which is restoring to health, represents the efficacy of the Physician's care."—Ed. Irving, *Works*, Vol. I. p. 71.
+
+See DISEASE, FIRE, MEDICINE, PHYSICIAN, WATER (lower).
+
+**Corrections made:** `Mar.` → Mat.; `F%re` → Fire; `80` → so; `alsy` → palsy; `orth` → forth; `Ep. Irvine` → Ed. Irving; See-list spellings restored (`Disease`, `Fine`); quotation marks normalised.
+
+**Unclear or supplied:** `Ed. Irving` is a likely reading of OCR `Ep. Irvine`.
 
 ## Full OCR entry body (exact)
 

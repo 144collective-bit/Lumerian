@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rebels-of-uauat
 headword: "REBELS OF UAUAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `HIPPOPOTAMUS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbolic of the various phases of intellectual pride, arrogance, vanity, and love of power.
+
+See HIPPOPOTAMUS.
+
+**Corrections made:** None beyond paragraph layout.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

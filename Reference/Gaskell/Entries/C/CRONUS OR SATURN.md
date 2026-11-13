@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cronus-or-saturn
 headword: "CRONUS OR SATURN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -58,6 +59,22 @@ tags:
 | `Storm` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/STORM OF RAIN|STORM OF RAIN]]; [[Reference/Gaskell/Entries/S/STORM STORM OF WIND|STORM STORM OF WIND]] |
 | `TAWHIEI` | **unresolved** (review queue) |
 | `WINDS (various)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WINDS, VARIOUS|WINDS, VARIOUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of time and limitation arising from the inter-relations of Spirit (Uranus) and Matter (Ge). See AIDONEUS, FOAM, [KHORDAD?], KRONOS, NOUT, RHEA, SATURN, [SEB?], TIME, TITANS, URANUS, ZEUS.
+
+### Also in this note: CROPS OF GRAIN
+
+A symbol of the growing higher emotions in the soul.
+
+> "Thou shalt break the power of untiring gales which rising against the earth blow down the crops and destroy them; and again, whenever thou wilt, thou shalt bring their blasts back."—Empedocles, Fairbanks, 24.
+
+The Self shall overcome the winds of erroneous doctrine which arise, and striking the lower self (earth) destroy the sprouting emotions of truth, wisdom, and love. And moreover the Self shall recall such doctrines, and shall turn the falsity of the lower planes into relative truth for the enlightenment of the mind, and through dissipating ignorance shall enable it to know the truth. See GALES, [HARM?], SEED (good), STORM, TAWHIRI, WINDS (various).
+
+**Corrections made:** `AIponrEvuS` → AIDONEUS; `RHga` → RHEA; `Trrans` → TITANS; `Tre` → TIME; page heading `CROOK` removed from mid-sentence; `Empedoeles, FAIRBANKS` → Empedocles, Fairbanks; `tum` → turn; `igmorance` → ignorance; `Gates` → GALES; `TAWHIEI` → TAWHIRI; other See-list spellings restored.
+
+**Unclear or supplied:** Contains a second entry: CROPS OF GRAIN. `[KHORDAD?]` is the OCR `KHorpap`; `[SEB?]` is the OCR `SEs`; `[HARM?]` is the OCR `Harm`; `Tre` is read as TIME (uncertain).
 
 ## Full OCR entry body (exact)
 

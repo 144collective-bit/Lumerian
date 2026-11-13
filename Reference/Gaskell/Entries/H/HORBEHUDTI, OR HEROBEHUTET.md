@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-horbehudti-or-herobehutet
 headword: "HORBEHUDTI, OR HEROBEHUTET"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `SUN-DISK` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN-DISK, WINGED|SUN-DISK, WINGED]] |
 | `THoTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
 | `WISDOM` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WISDOM (FEMININE)|WISDOM (FEMININE)]]; [[Reference/Gaskell/Entries/W/WISDOM (MASCULINE)|WISDOM (MASCULINE)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Second Logos.
+
+> "Then spake Thoth to Ra: 'Lord of the Gods! there came the God of Behudet (Edfu) in the form of a great winged disk. From this day forth he shall be called Horbehudti' (Horus of Edfu)."—*Legend of the Winged Sun-disk*.
+
+Then spake the mind or awakening intelligence to the Supreme;—"Lord of the Ideals! there came forth from the lower nature the Son of man arrayed in the buddhic vesture, and being raised up, he shall now be known as Son of God, born of the eternal Spirit of Wisdom."
+
+See BIRTH OF HORUS, DISK, EDFU, HORUS, ISIS, SON OF GOD, SON OF MAN, SUN-DISK, THOTH, WISDOM.
+
+**Corrections made:** `wi disk` → winged disk; page heading `HORIZONS` removed from mid-sentence; See-list spellings restored (`BirtTH oF`, `Disx`, `Epruv`, `Son or Gop`, `Son or MAN`, `THoTH`).
+
+**Unclear or supplied:** `winged` completes OCR `wi`. `EDFU` read from damaged `Epruv`.
 
 ## Full OCR entry body (exact)
 

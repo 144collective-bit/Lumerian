@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flocks-of-sheep-the-most-glorious
 headword: "FLOCKS OF SHEEP THE MOST GLORIOUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `Quarries` | **unresolved** (review queue) |
 | `SHEEP` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SHEEP|SHEEP]] |
 | `YMA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of celestial qualities, or virtues on higher planes, which enable the ego to aspire.
+
+See JOB, QUARRIES, SHEEP, YMA.
+
+**Corrections made:** page heading `282 FLOOD` removed from mid-sentence; `Jos` → JOB.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

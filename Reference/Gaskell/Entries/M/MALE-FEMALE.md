@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-male-female
 headword: "MALE-FEMALE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,20 @@ tags:
 | `Two` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TWO, NUMBER|TWO, NUMBER]] |
 | `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `YANG AND YIN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The sex principle symbolises the dual aspects of the manifest which always present themselves in the evolution of the Cosmos,—such as spirit-matter, life-form, force-matter, love-wisdom, mind-emotion, intellect-intuition.
+
+> "The first emanation from Kether, the Crown, is Binah, the Universal Intellect or Understanding, which is Geberol's first emanation, Universal Matter. It is also termed by the Qabbalah Immah, the Mother, and is considered as receptive, negative, feminine, plastic, and to receive form. 'Everything existing' says the Zohar (III 290a), 'can only be the work of the male and female principles.' The Zohar and Geberol both hold that everything must be of Form (male) and [Matter?] (female)."—I. Myer, *Qabbalah*, 199.
+
+From the Highest (Kether) is emanated the principle of Matter (Binah), which is receptive of truth from the Spirit. The principle of Matter is the Divine Mother—the bringer forth of all things both above and below. Matter receives forms and qualities from spiritual involution and then gives birth to all forms and qualities in spiritual evolution. Spirit is masculine, Matter is feminine. That which gives form is Spirit; that which takes form is Matter.
+
+See ADAM (dual), BINAH, COSMOS, CREATION, DIVORCE, EVOLUTION, FEMININE, FORMS, GARMENT OF SHAME, HEAVEN AND EARTH, INVOLUTION, [Karomarnts?], KETHER, LIVING THINGS, MATTER, MAYA, MOTHER (divine), SEX PRINCIPLE, TWO, URANUS, YANG AND YIN.
+
+**Corrections made:** `forcematter` → force-matter; `Myzr, Qabbailah` → Myer, *Qabbalah*; `masculine, Matter is feminine, That` → masculine, Matter is feminine. That; page heading `469 MALKUTH` removed from the See list; stray `.` before "From the Highest" removed; See-list spellings restored (`Drvorce`, `MiAyd`, `Morser`, and similar).
+
+**Unclear or supplied:** `[Matter?]` (OCR `or`) in "Form (male) and or (female)". `[Karomarnts?]` in the See list cannot be identified.
 
 ## Full OCR entry body (exact)
 

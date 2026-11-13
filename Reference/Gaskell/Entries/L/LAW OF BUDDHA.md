@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-law-of-buddha
 headword: "LAW OF BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,26 @@ tags:
 | `Turery` | **unresolved** (review queue) |
 | `Water` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `Wort (thirsty)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The law of the manifesting Self is that through the phenomenal or outward activity there is displayed gradually by evolution the spiritual or inward activity.
+
+> "The thirsty world of living beings will drink the flowing stream of his Law, bursting forth with the water of wisdom enclosed by the banks of strong moral rules, delightfully cool with contemplation, and filled with religious vows as with ruddy geese."—*Buddha-Karita*, Bk. I. 76, *S. B. of E.*
+
+The illusory or phenomenal existence, with its cravings for expression of that which is within it, is, as it were, the means whereby the Self-nature is realised. Through the phenomenal is displayed in various aspects that which is within the Self, and this is spoken of as the Law, since the finite-conditioned is but the symbol and evidence of the infinite-unconditioned. Through all the planes of its manifestation proceed the Truth-Wisdom (water of wisdom) aspects of the Self. On the planes of nature (the banks) the laws of the Self are operative, and these are the means of revealing that which is above the "Law and the Prophets," or duty and obedience. Under the rule of Love there is cessation from trouble, strife, or emotional stress, while aspirations (religious vows) yield such results as are capable of directing the evolution of the Self.
+
+> "No commandment is right and good merely because God wills it and has the power to enforce it; God wills it because it is right and good, and it is right and good because it marks the way by which the soul achieves itself."—R. J. Campbell, *Serm.*, Who Compels?
+
+> "The law of the Lord is perfect, restoring the soul. The testimony of the Lord is sure, making wise the simple."—Ps. xix. 7.
+
+The law of the Self in the soul is to manifest its potential perfection, by restoring the actual imperfection to the perfection which completeness of evolution will give. The revelation of the Divine within brings wisdom to the attentive mind.
+
+See EVOLUTION, INVOLUTION, PHENOMENA, SIDES, STREAM, THIRST, TRUTH, WATER, WORLD (thirsty).
+
+**Corrections made:** `Bowing` → flowing; `£.` → E.; `ita`/`ita` → its; `TruthWisdom` → Truth-Wisdom; `wer` → power; `law.` → law; page heading `LAW` removed from mid-sentence; See-list spellings restored (`Evo.vurion`, `Sipes`, `Turery`, `Wort`) and similar minor fixes.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

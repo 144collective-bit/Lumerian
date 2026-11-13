@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-god-smelling-a-savour
 headword: "GOD SMELLING A SAVOUR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Goats (unblemished)` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GOATS|GOATS]] |
 | `Noaux` | **unresolved** (review queue) |
 | `Savouk (sweet)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SAVOUR, SWEET|SAVOUR, SWEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the apprehension by the Higher Self of the strivings of the lower Self to secure its blessing. It implies the loving response of the Higher to the lower.
+
+See ALTAR BUILDING, BURNT OFFERING, GOATS (unblemished), NOAH, SAVOUR (sweet).
+
+**Corrections made:** See-list spellings restored (`OFFERinc`, `Goats`, `Noaux`, `Savouk`).
+
+**Unclear or supplied:** `NOAH` is inferred for OCR `Noaux`.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-firmament-fire-of-hell
 headword: "FIRMAMENT FIRE OF HELL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `NIGHT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NIGHT AS DARENESS|NIGHT AS DARENESS]]; [[Reference/Gaskell/Entries/N/NIGHT AS MATTER|NIGHT AS MATTER]]; [[Reference/Gaskell/Entries/N/NIGHT AS NULLITY|NIGHT AS NULLITY]]; [[Reference/Gaskell/Entries/N/NIGHT, PRIMORDIAL|NIGHT, PRIMORDIAL]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `RE-INCARNATION` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual energy of Buddhi consuming the lower qualities on the astral plane. This takes place unceasingly during the cycle of evolution; it is the means whereby the soul is purified and perfected in its passage through life.
+
+> "Isis nursed the child (the son of the king and queen) and fed it by giving it her finger to suck instead of the breast; she likewise put him every night into the fire in order to consume his mortal part, whilst transforming herself into a swallow, she hovered round the pillar and bemoaned her sad fate."—Plutarch, *Isis and Osiris*, § 16.
+
+The Wisdom element, Buddhi, now sustains the personality (child of astro-mental parentage) and affords it the means of evolution through the investing stimulation of latent capacity, by indication, or suggestion, rather than by direct means. And whilst it was night, that is, unknown to it, all that was perishable in the soul was burned away through the action of Buddhi. Meanwhile, as the spiritual daylight broke, Wisdom, through sufferings, ascends spirally round the Divine pillar of aspiration which is in the soul.
+
+See ASTARTE, COLUMN, FAN, FURNACE, HADES, HELL, IMMORTALITY, ISIS, NIGHT, PERSONALITY, RE-INCARNATION.
+
+**Corrections made:** `Prourarcna, Isie and Osarvs` → Plutarch, *Isis and Osiris*; See-list spellings restored (`Fan`, `Haprs`, `Isis`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

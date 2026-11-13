@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ray-of-light-from-the-sun
 headword: "RAY OF LIGHT FROM THE SUN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `Hann` | **unresolved** (review queue) |
 | `Lieut` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a Divine mode of functioning bringing illumination from the Spirit to the aspiring soul.
+
+> "Aton-Ra was the god of the Solar disk, with rays terminating in hands which hold the Ankh, the emblem of life, the crux ansata."—Wiedemann, [word unclear].
+
+The Divine Truth (light) and activity (hands) are the Life (ankh) of the spiritual universe.
+
+See CROSS, HAND, LIGHT, SUN.
+
+**Corrections made:** `**` → "; `ansata,.""` → ansata."; `WIEDEMANN, fel.` → Wiedemann, [word unclear]; See-list spellings restored (`Hann`, `Lieut`).
+
+**Unclear or supplied:** The title after `WIEDEMANN,` is lost (OCR `fel.`); `[word unclear]` marks it.
 
 ## Full OCR entry body (exact)
 

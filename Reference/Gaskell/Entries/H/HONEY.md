@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-honey
 headword: "HONEY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -64,6 +65,38 @@ tags:
 | `GREEKS (great)` | resolved (qualified head) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `TREASURE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TREASURE IN HEAVEN|TREASURE IN HEAVEN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of spiritual food and nourishment, that is, of wisdom and love on the buddhic plane, which are the produce laid up above, of the higher emotions (bees).
+
+> "The theologers have used 'honey' in many different symbolic ways because it has both a purifying and preservative virtue. . . . Moreover it is sweet to taste, and collected from 'flowers' by 'bees' who happen to be 'ox-born.' When, therefore, they pour into the hands of those who are receiving the Leontic initiation, honey for washing instead of water, they bid them keep their hands pure from everything that causes pain or harm, or brings defilement; just as when the purifying medium is fire, they bring the candidate appropriate means of washing, declining water as inimical to fire. Moreover it is with honey too they purify their tongues from every sin. . . . Porphyry then goes on to say that some think that honey further typifies the celestial nectar and ambrosia, and also the pleasure which draws souls down into generation. Then is the soul moistened and becomes watery" (*Cave of the Nymphs*).—G. R. S. Mead, *The Mysteries of Mithra*, pp. 61, 62.
+
+The celestial food,—wisdom and love,—is, as it were, collected and transmuted from the virtues (flowers) by the higher emotions (bees) which arise from buddhi (ox-born). Wisdom and love cast out from the mind all falsity and perversity (tongues); and the soul becomes suffused with Truth (watery).
+
+> "Honey the winds pour forth for the righteous, honey the rivers; full of honey may the plants be for us!—Honey by night and morn, rich in honey may the region of the earth be for us, honey the father Heaven!—rich in honey may the tree be for us, rich in honey the sun, full of honey the kine."—*Sata. Brâh.*, VII. 6, 1, 4.
+
+This statement enumerates the sources from which wisdom and love may be derived, according to the meanings of the various symbols.
+
+> "When the grace of the Holy Spirit bathes us, it fills us with 'honey and butter' equally. For 'honey' falls from above, but 'butter' is drawn from the milk of animals, and so 'honey' (sweetness) is from the air, 'butter' from the flesh."—St. Gregory, *Morals on the Book of Job*, Vol. II. p. 185.
+
+> "When Solomon gives the exhortation. Eat honey, my son, that it may be sweet to thy palate, he uses honey figuratively, meaning divine doctrine, which restores the spiritual knowledge of the soul."—Hippolytus, *On Proverbs*, Ante-N. Vol. VI. p. 431.
+
+See AMBROSIA, BEES, [Buppu?], FLOWERS, FOOD, NECTAR, [Norwnor?], OX-BORN, PLANTS, TONGUE, TREE OF LIFE, WATER.
+
+### Also in this note: HONOUR, MEED OR PRIZE OF
+
+This signifies the treasure of the things of the Spirit laid up in heaven as reward for merit, as it were, for those egos who have done valiantly and have conquered the lower nature.
+
+> "To him then made answer fleet-footed god-like Achilles: 'Most noble son of Atreus, of all men most covetous, how shall the great-hearted Greeks assign thee a meed of honour? We know naught of any wealth of common store, but what spoil we took from captured cities hath been apportioned, and it is not fitting to collect all this back from the folk.'"—*Iliad*, Bk. I.
+
+To the Desire-mind (Agamemnon) comes by way of the Intellect, the questioning spirit, and it perceives that the Personality (Achilles) is illusory and rooted in egoism; and is led to ask how the higher mental qualities shall uplift and transform the lower self, assigning honour to it. The Personality is unaware of the existence of any inexhaustible mine of wisdom, and cannot conceive of that which is self-derived from within; and falsely imagines that knowledge is only borrowed, or acquired through study, or captured from without. It perceives that the knowledge it has already acquired has been applied to life (i.e. turned to personal advantage), and the ends which were sought have been attained. These low ends which have been realised are not to be forfeited, but are to be expanded to the real objects of evolution.
+
+See ACHILLES, AGAMEMNON, GREEKS (great), PERSONALITY, TREASURE.
+
+**Corrections made:** `Ny )` → *Cave of the Nymphs*; `R. 8. Mrap` → G. R. S. Mead; `Bréh.` → Brâh.; `Grecory` → Gregory; `Hipro.tytvus` → Hippolytus; `fleetfooted` → fleet-footed; `egoiam` → egoism; `Jliad` → *Iliad*; full stop supplied after "1, 4" (OCR runs into "This statement"); page headings `HONOUR` and `388 HORBEHUDTI` removed from the text; See-list spellings restored (`Ambrosia`, `Bees`, `Nrorar`, `Toncuz`, `PLantrs`).
+
+**Unclear or supplied:** Contains a second entry: HONOUR, MEED OR PRIZE OF. See-list items `[Buppu?]` (possibly BUDDHI) and `[Norwnor?]` not identified.
 
 ## Full OCR entry body (exact)
 

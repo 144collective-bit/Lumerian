@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guru
 headword: "GURU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Guru` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GURU|GURU]] |
 | `Hermes` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/H/HERMES TRISMEGISTUS|HERMES TRISMEGISTUS]] |
 | `MASTER OF WISDOM` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MASTER OF WISDOM|MASTER OF WISDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher mind as an active agent in the instruction of the lower. See GURU, HERMES, MASTER OF WISDOM.
+
+**Corrections made:** See-list spellings restored (`Guru`, `Hermes`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

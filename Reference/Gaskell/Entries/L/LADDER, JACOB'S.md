@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ladder-jacob-s
 headword: "LADDER, JACOB'S"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `PILLOW OF STONE` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PILLOW OF STONE|PILLOW OF STONE]] |
 | `Sronz` | **unresolved** (review queue) |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul's path from the lower nature (earth) to the higher nature (heaven). The "angels" ascending are the aspirations, and those descending are the Divine responses to the soul. "Jacob" represents the natural man turning to the Lord—the Ideal within. He sleeps upon a stone, that is, he relies upon the Spirit within.
+
+> "We, too, leave home, and are sent out alone to face the responsibilities of life; we are driven then, not seldom, by the Spirit into the wilderness. We climb our mountain ridge alone, and our first days we often sleep on a stony [pillow?]. It is there, in our solitude, and [few?] solitudes are so deep; in our grief,—that God often speaks home to our hearts. . . . . And often the very first impression made is similar to that made on Jacob—the comfort of feeling that heaven is near to earth. As the angels ascended and descended from God to him, and from him to God, he knew that prayer might ascend from him to God, blessings descend on him from God. Guilty and a deceiver, [word unclear] and truth might yet be his. [He] might begin a new and higher life, for a new home had been opened to him in which God dwelt. And when he felt a union between him and heaven, a tide of new possibilities flowed in upon his soul. . . . We know that Christ has united heaven and earth, that all that is of heaven in us—our aspiration, faith, love of truth and of love—can ascend like angels in the power of the Son of man, to find their source in God, and in Him realise and perfect themselves."—Stopford A. Brooke, *Serm.*, Jacob's Dream.
+
+See ANGELS, EARTH, HEAVEN, JACOB, [PappDLES?], PILLOW OF STONE, STONE, WIFE.
+
+**Corrections made:** `mature` → nature; `aacend` → ascend; `@` → a; `Srorrorp A. Brooxs` → Stopford A. Brooke; See-list spellings restored (`EartTH`, `Sronz`) and similar minor fixes.
+
+**Unclear or supplied:** `[pillow?]` (OCR `ow`), `[few?]` (OCR `ew`), `[word unclear]` (OCR `Soe`), and `[He]` (supplied; the OCR dropped it) in the Brooke quotation. In the See list `[PappDLES?]` could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stars-fixed
 headword: "STARS (FIXED)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `PLANETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PLANETS, FIVE SMALLER|PLANETS, FIVE SMALLER]] |
 | `SincERS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SINGERS, PIOUS|SINGERS, PIOUS]] |
 | `SUN (moon)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are symbols of the many centres of faculties on the lower mental plane which enable the mind to be exercised. They are lights of reason in the lower mind, small as compared with the greater light, the Self (sun), and the lesser light, the personality (moon).
+
+> "And the lower air I adorned with lesser stars."—*Book of the Secrets of Enoch*, Ch. XXX. 4.
+
+And the lower mind (air) is furnished with the mental faculties.
+
+> "By 'stars' are meant the knowledges of faith, or cognitions of good and truth."—Swedenborg, *Arc. Cel.* to Gen. i. 16.
+
+> "Reason and science should be assigned to the sphere of fixed stars" (Plato).—Zeller, *Plato, etc.*, p. 359.
+
+See CHILDREN OF EAST, CRATER, PLANETS, SINGERS, SUN (moon).
+
+**Corrections made:** `SincERS` → SINGERS; `Buavatsky`-type damage none; final `,` of See list → full stop; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

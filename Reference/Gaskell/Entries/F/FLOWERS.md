@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-flowers
 headword: "FLOWERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `Lorus` | **unresolved** (review queue) |
 | `Manasi` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MANASI, THE BELOVED|MANASI, THE BELOVED]] |
 | `WaTER (heaven)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the virtues with which the soul is potentially endowed, and which blossom to the light as the Higher Self draws them forth in evolution.
+
+> "The latent divine reality within has come to itself and is rising up into living union with that from which it came, as the flower rises towards the sun in high heaven; for, indeed, all the beauty the flower possesses is that same sun incarnate;—buried light bursting forth from its prison."—R. J. Campbell, *Serm.*, Coming to the True Self.
+
+See ELEPHANTS, GARLANDS, HONEY, LOTUS, MANASI, WATER (heaven).
+
+**Corrections made:** `Lorus` → LOTUS; `WaTER` → WATER; `Manasi` → MANASI; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

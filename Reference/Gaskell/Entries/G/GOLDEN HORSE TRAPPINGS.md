@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-golden-horse-trappings
 headword: "GOLDEN HORSE TRAPPINGS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of high mental perception revealing the intuition of truth or wisdom, [s0n?]
+
+**Corrections made:** page number `323` removed.
+
+**Unclear or supplied:** `[s0n?]` is a stray fragment at the end of the OCR (probably the start of text lost at a page break).
 
 ## Full OCR entry body (exact)
 

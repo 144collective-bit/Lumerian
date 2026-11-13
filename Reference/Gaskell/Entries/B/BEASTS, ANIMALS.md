@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-animals
 headword: "BEASTS, ANIMALS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,18 @@ tags:
 | `ANNALS` | **unresolved** (review queue) |
 | `BURN? OFFERING` | **unresolved** (review queue) |
 | `Hamp or BEast` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of desires, passions and instincts of the lower nature.
+
+> "And as many pretend that the soul of Typhon himself is divided amongst these animals, the fable may be thought to express enigmatically that every irrational and bestial nature belongs to the share of the Evil Spirit."—Plutarch, *Isis and Osiris*, § 73.
+
+See ANIMALS, BURNT OFFERING, [MARK?] OF BEAST,
+
+**Corrections made:** `Pnurarog` → Plutarch; `ANNALS` → ANIMALS; `BURN?` → BURNT.
+
+**Unclear or supplied:** `[MARK?] OF BEAST` is a guess for OCR `Hamp or BEast`. The See list ends with a comma in the OCR.
 
 ## Full OCR entry body (exact)
 

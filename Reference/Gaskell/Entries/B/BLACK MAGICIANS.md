@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-black-magicians
 headword: "BLACK MAGICIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `ANGRA-MAINYD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/A/ANGRA-MAINYU, OR ANGROMAINYUSH|ANGRA-MAINYU, OR ANGROMAINYUSH]] |
 | `PRACTICES` | **unresolved** (review queue) |
 | `YATUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YATUS OF EVIL WITCHCRAFT|YATUS OF EVIL WITCHCRAFT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+These are partial and incomplete expressions of egos which have as yet only partly realised their possibilities. They are unbalanced egos which have set in motion powers and forces in their own natures which they cannot control. They have not first purified their lower nature; and having acquired some powers of the mind, they work destruction to themselves.
+
+> "Thereupon came Angra Mainyus and created the evil witchcraft of the Yatus. And this is how the Yatus nature shows itself,—by the look, and then whenever the wizard howls forth his spells, most deadly works of witchcraft go forth."—*Vendidad*, I.
+
+The path of holiness, or the White Magic, having been established, the Evil power or illusory self brought about the Black Magic, or art of the Black Magicians, which leads to death. And the nature of the Black Magician exhibits itself by the form, and wherever the matter of the lower planes is acted upon. The results of such efforts as are made are disastrous and productive of evil.
+
+See ANGRA-MAINYU, PRACTICES, YATUS.
+
+**Corrections made:** `iteelf` → itself; `exhibita` → exhibits; `ANGRA-MAINYD` → ANGRA-MAINYU; page heading `113 BLANDISHMENT` removed from mid-sentence.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

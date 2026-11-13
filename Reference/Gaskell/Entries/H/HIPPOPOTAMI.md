@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hippopotami
 headword: "HIPPOPOTAMI"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `MarsH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MARSH MARROW|MARSH MARROW]] |
 | `(lower)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the elementals of pride, craft, hate, etc., which disport themselves on the astro-mental plane (marsh).
+
+See MARSH, (lower).
+
+**Corrections made:** `MarsH` → MARSH.
+
+**Unclear or supplied:** The See list reads `MARSH, (lower)` in the OCR; an item before `(lower)` seems to be lost.
 
 ## Full OCR entry body (exact)
 

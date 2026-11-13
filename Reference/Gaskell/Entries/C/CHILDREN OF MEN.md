@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-children-of-men
 headword: "CHILDREN OF MEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `LANGUAGE` | **unresolved** (review queue) |
 | `PARENTS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PARENTS OF CHILDREN|PARENTS OF CHILDREN]] |
 | `SPEECH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SPEECH OR SPEAKING|SPEECH OR SPEAKING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental qualities through which the wisdom principle, or higher emotion, is realised.
+
+> "And the Lord came down to see the city and the tower, which the children of men, builded."—Gen. xi. 5.
+
+And the Divine nature responded to the cry from within the soul for knowledge. By devices (city and tower) of the lower mind, through sense of separateness, it is at first conceived that wisdom will be attained. The ideals arising in the mind conjoined to the processes of the lower planes give rise to the "children of men."
+
+See BABEL, LANGUAGE, PARENTS, SPEECH
+
+**Corrections made:** `Gen. xi, 5` → Gen. xi. 5; `senso` → sense; `BaBEL` → BABEL.
+
+**Unclear or supplied:** The OCR's See list ends without a full stop; left as printed.
 
 ## Full OCR entry body (exact)
 

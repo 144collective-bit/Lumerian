@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dolphin-of-poseidon
 headword: "DOLPHIN OF POSEIDON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Poszrmwon` | **unresolved** (review queue) |
 | `Poungea` | **unresolved** (review queue) |
 | `TANGAROA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN|TANGAROA, THE FATHER OF ALL FISH, AND THE GREAT GOD OF THE OCEAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of atma-buddhi, i.e. truth-wisdom, a denizen of the Ocean of Truth-reality. Or, in the plural, the myriad spiritual monads or egos of humanity.
+
+See MONAD OF LIFE, OCEAN, POSEIDON, [POUNGEA?], TANGAROA.
+
+**Corrections made:** `Poszrmwon` → POSEIDON.
+
+**Unclear or supplied:** See-list item OCR `Poungea` is given as `[POUNGEA?]`.
 
 ## Full OCR entry body (exact)
 

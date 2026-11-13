@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-adam-dual
 headword: "ADAM, DUAL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,20 @@ tags:
 | `LIvING THINGS` | **unresolved** (review queue) |
 | `MALE-FEMALE` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MALE-FEMALE|MALE-FEMALE]] |
 | `Tyazvs` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the union in the soul of the mental and buddhic principles,—Buddhi-manas,—the Divine Image.
+
+> "In the day that God created man, in the likeness of God made he him; male and female created he them; and blessed them, and called their name Adam in the day when they were created."—Gen. v. 1, 2.
+
+This passage refers first to the progeny of the mind, which are thought-states which proceeded successively when the mind came forth in its perfection as the image of God. The mind was endowed with "sparks" of the eternal "Fire," namely the reason and intuitive principles. The "blessing" signifies the Divine Will operating through the human consciousness. The reference to the reason and intuition being "Adamic" implies that the intellect is supreme over the intuition first of all.
+
+See LIVING THINGS, MALE-FEMALE, [TYAZVS?].
+
+**Corrections made:** `GEN.` → Gen.; page heading `ADAMANT` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** `[TYAZVS?]` in the See list could not be identified (OCR `Tyazvs`).
 
 ## Full OCR entry body (exact)
 

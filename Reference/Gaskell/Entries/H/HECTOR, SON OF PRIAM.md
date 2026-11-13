@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hector-son-of-priam
 headword: "HECTOR, SON OF PRIAM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `GREEKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/G/GREEKS, GREAT-HEARTED|GREEKS, GREAT-HEARTED]] |
 | `MORTAL Trojyans` | **unresolved** (review queue) |
 | `TROY. EVOLurion` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual perceptiveness of the truth, begotten of the causal self (Priam).
+
+> "And then wilt thou (Agamemnon) in no wise avail to save the Greeks, for all thy grief, when multitudes fall dying before manslaying Hector."—*Iliad*, Bk. I.
+
+And the Desire-mind shall in no wise avail to arrest the evolution of the soul, by the continuance of the lower mental faculties or "mortal mind." And all the sorrow of the Desire-mind shall prove unavailing to preserve the effete, before the unfoldment of the Spiritual law transcending the mind. See AGAMEMNON, GREEKS, MORTAL [MIND?], TROJANS, TROY, EVOLUTION.
+
+**Corrections made:** `perceptive349 HEEL ness` → perceptiveness (page heading `349 HEEL` removed); `TJliad` → Iliad; `Trojyans` → TROJANS; `EVOLurion` → EVOLUTION; quotation marks normalised.
+
+**Unclear or supplied:** In the See list the OCR reads "MORTAL Trojyans, TROY. EVOLurion,"; `[MIND?]` is a supplied guess and the order is kept as printed.
 
 ## Full OCR entry body (exact)
 

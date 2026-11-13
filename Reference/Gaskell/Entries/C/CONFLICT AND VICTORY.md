@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conflict-and-victory
 headword: "CONFLICT AND VICTORY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,18 @@ tags:
 | `STRIFE` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIFE OR CONFLICT|STRIFE OR CONFLICT]] |
 | `VICTORY` | resolved (first-segment) → [[Reference/Gaskell/Entries/V/VICTORY, OR TRIUMPH|VICTORY, OR TRIUMPH]] |
 | `Wak` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the dual aspect which underlies the triumph over evil. On the one side there is Conflict, on the other side there is Victory, which implies union with God.
+
+> "In order that a spiritual being may achieve anything worthy to be called great, and in so doing reveal the latent [grandeurs?] of his own nature, it is requisite that he should not know while the work is proceeding the full truth about the beginning and the end thereof. To know would be to render effort negatory and attainment meaningless; it is just because he does not know, save what is [necessary?] for the purpose in view, that the result becomes glorious. . . . The soul-stuff belongs to that which is above both time and sense, beyond the conflict of good and evil. God, the infinite life in whom we live, and move, and have our being, has placed us here that we may know by not knowing, learn through limitation, declare the truth by seeking it."—R. J. Campbell, Serm., *Not Knowing*.
+
+See BATTLE, BLACKSMITHS, CONQUEROR, MARS, MENIS, STRIFE, VICTORY, WAR.
+
+**Corrections made:** `CaMPBELL` → Campbell; See-list spellings restored (`Batrie`, `BuacKsmITHS`, `ConQUEROR`, `Mas`, `Wak`).
+
+**Unclear or supplied:** `[grandeurs?]` (OCR `deurs`) and `[necessary?]` (OCR `ne`) are uncertain completions of damaged words.
 
 ## Full OCR entry body (exact)
 

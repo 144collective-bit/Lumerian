@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cow
 headword: "COW"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -47,6 +48,26 @@ tags:
 | `VacH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VACH, DIVINE SPEECH|VACH, DIVINE SPEECH]] |
 | `WEALTH SHOWER` | **unresolved** (review queue) |
 | `WIspoM` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, or the functioning of the buddhic plane activities, that inner nature of the soul which feeds, as it were, on "grass and the herb of the field," i.e. is nourished on the lower growths and affections, which it transmutes within itself into the higher emotions (milk and butter), the sustenance of the evolving soul.
+
+> "The beneficent cow fed upon plants."—*Vendidad*, V.
+
+The buddhic nature in its receptive and transmutative functions.
+
+> "'Harm not the inexhaustible, wide-ruling cow,' the cow is indeed [word unclear] and the wide-ruling is food, and accordingly the cow is food."—*Sata. Brâh.*, VII. 5, 2, 19.
+
+> "Cow, the prolific image of the all-mother goddess Isis."—Apuleius, *Metam.*, xi. 15.
+
+> "Like unto a mother, a father, a brother and other relatives, the cows are our best friends, in which medicines are produced. They give food, they give strength, they likewise give a good complexion and happiness; knowing the real state of this, they (the Brâhmanas) did not kill cows."—*Sutta-Nipata*, 295, 296.
+
+See AUDUMBLA, BUDDHI, BUTTER, [Fiayrmvnc?], FOOD, HATHOR, HEIFER, ISIS, MILK, MOTHER (divine), PLANTS, SOPHIA, VACH, WEALTH SHOWER, WISDOM.
+
+**Corrections made:** `aymbol of Wiedom` → symbol of Wisdom; `tha` → the; `thatinner` → that inner; page heading `COW` removed from mid-sentence; `allmother` → all-mother; `APuLEIvs` → Apuleius; `Br&hmanas` → Brâhmanas; See-list spellings restored (`HarHor`, `HErrer`, `Mrix`, `Sopuia`, `PLANTs`, `WIspoM`).
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `Lar pviooes` in the Sata. Brah. quotation. `[Fiayrmvnc?]` is the OCR See-list item `Fiayrmvnc`, which could not be identified.
 
 ## Full OCR entry body (exact)
 

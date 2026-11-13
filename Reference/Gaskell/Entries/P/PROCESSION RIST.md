@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-procession-rist
 headword: "PROCESSION RIST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -64,6 +65,18 @@ tags:
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
 | `SUN` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the process of salvation, i.e. the descent of the Higher Self into the lower nature, and its ascent therefrom in the souls of humanity. The Divine Sacrifice or Victim (host), from his exalted place on the highest plane (high altar), descends as the real presence (wafer) in the Sun of righteousness (monstrance), into the lower nature of the soul (nave). This descent is beautifully symbolised in the procession of the mass from the high altar. The spiritual mind (chief priest) holds to his "heart" the Divine Presence (sacred element) in the shadow of the higher nature (canopy). The higher qualities (priests and acolytes), surround the Incarnate Christ (host) in the descent of the Spirit into matter (involution). At the lowest point on the physical plane (farthest from altar) the descent ends, and the ascent commences in the return of the soul to God, until finally Christ, with his perfected saints, ascend to the higher planes (altar) in glory and power, and the process of salvation is fulfilled in evolution. Every detail of the ceremony is wonderfully true in its inner meaning. The vestments of the priests signify the higher virtues—the robes of truth, beauty and goodness, and the white garments of purity. The two swinging censers facing the priests signify the Wisdom and Love ever purifying the qualities in the soul's long pilgrimage. The lighted candles held by the acolytes are symbolic of the light of truth illuminating men's minds. The canopy with four supports indicates the obscuration of Spirit in the lower nature, or underworld. The congregation of worshippers are the lower mental qualities reverencing the higher, and turning away from darkness to the adoration of the Light, while the music they hear is a symbol of the harmony that attends the exercise of the higher qualities in the region of the blest.
+
+> "'The spirit shall return to God who gave it.' [Le]t us suppose a procession, say, on Ascension Day. It leaves the High Altar, goes round the great church, or perhaps, in some favoured place, leaves the church and goes through the streets of the town, re-enters the Church and returns to the Altar again. 'I came forth from the Father, and am come into the world: again, I leave the world and go to the Father.'"—R. L. G. in *The Nation*, July 31, 1920.
+
+See [Aru-RA?], ALTAR, APOLLO, BREAD, CABIN, CANDLES, CANDLESTICKS, CANOPY, CENSERS, EVOLUTION, FIRE, FOOD (God), HARMONY, HEART, HOST, HYMN SINGING, INCARNATION, INCENSE, INVOLUTION, LIGHT, MUSIC, PEOPLE, PILLARS (four), PRIEST, RITUAL, ROSE, SACRAMENT, SACRIFICER, SAINTS, SALVATION, STRIDES OF SOUL, SUN.
+
+**Corrections made:** page heading `rize OF THE EUCHA595 PRODIGAL` removed from mid-sentence; `hoet` → host; `prieste` → priests; `t us suppose` → [Le]t us suppose; `Shareh` → Church; See-list spellings restored (`Fmre`, `Harmoyy`, `Heart`, `HYMN stncine`, `[NcarNATION`, `Mosic`, `Prmwars`, `RirvaL`, and similar).
+
+**Unclear or supplied:** `[Le]` is supplied for the lost first letters of "Let". `[Aru-RA?]` in the See list could not be identified. The headword's spelling (`RIST`) is as in the import.
 
 ## Full OCR entry body (exact)
 

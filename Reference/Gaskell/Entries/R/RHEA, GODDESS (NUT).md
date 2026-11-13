@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-rhea-goddess-nut
 headword: "RHEA, GODDESS (NUT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -46,6 +47,22 @@ tags:
 | `Uranus` | resolved (first-segment) → [[Reference/Gaskell/Entries/U/URANUS AND GAEA|URANUS AND GAEA]] |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS. 629` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of space.
+
+> "Rhea is represented as a daughter of Uranus and Ge, and the wife of Cronos, by whom she became the mother of Hestia, Demeter, Hera, Hades, Poseidon and Zeus."—*Smith's Class. Dict.*
+
+Space is said to be originated by Spirit and Matter (Uranus and Ge). It is united to Time, by which it brings forth the physical (Hestia), the lower buddhic (Demeter), the higher buddhic (Hera), the astral (Hades), and the atmic (Poseidon) planes; also the Higher Self (Zeus).
+
+> "The Secret Doctrine,—postulating that conditioned or limited space (location) has no real being except in this world of illusion, or in other words, in our perceptive faculties,—teaches that every one of the higher, as of the lower worlds, is interblended with our own objective world."—H. Blavatsky, *Secret Doctrine*, Vol. I. p. 662.
+
+See ADITI, AIDONEUS, BIRTH OF OSIRIS, CRONUS, GE, HEAVEN AND EARTH, MAYA, NUT, SATURN, [Tre?], TITANS, URANUS, ZAGREUS, ZEUS.
+
+**Corrections made:** page number `629` removed from the end; `BuavaTsKY` → Blavatsky; `AviTI` → ADITI; `BIRTH oF osrgis` → BIRTH OF OSIRIS; `Satugn` → SATURN; `Trrans` → TITANS; quotation marks normalised.
+
+**Unclear or supplied:** `[Tre?]` is the OCR spelling `Tre`, unidentified. `ADITI` is read from `AviTI`.
 
 ## Full OCR entry body (exact)
 

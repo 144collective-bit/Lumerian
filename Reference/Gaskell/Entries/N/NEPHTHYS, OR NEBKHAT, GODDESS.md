@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nephthys-or-nebkhat-goddess
 headword: "NEPHTHYS, OR NEBKHAT, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,28 @@ tags:
 | `Siayn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SIGYN, WIFE OF LOKE|SIGYN, WIFE OF LOKE]] |
 | `Ururrtine ni` | **unresolved** (review queue) |
 | `Woman (Loke)` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the physical principle, or physical plane.
+
+> "Nephthys, the Egyptians call the extreme limits and boundaries of the land, and those contiguous to the sea; for which reason they style Nephthys the 'end,' and say she is the consort of Typhon."—Plutarch, *Isis and Osiris*, § 38
+
+The physical plane is the extreme plane of the universe, and internally it is contiguous to the astral plane (the sea). It is therefore allied to the astral or desire principle (Typhon or Set) which fructifies it.
+
+> "Nephthys was born upon the fifth and last of the superadded days. Typhon and Nephthys were begotten by Kronos."—*Ibid.*, § 12.
+
+The physical plane is the fifth and lowest of the planes of manifestation. The astral principle (Typhon) and the physical (Nephthys) are produced through the procession of Time (Kronos or Seb).
+
+> "In the Pyramid texts Nephthys appears as a friend of the deceased, and she maintains that character throughout every Recension of the Book of the Dead, indeed, she seems to perform for him what as a nature goddess she did for the gods in primeval times when she fashioned the 'body' of the 'Company of the Gods,' and when she obtained the name Nebkhat, i.e. 'Lady of the Body [of the Gods]. . . . She was a "nursing mother" of Osiris.' . . . She was the opposite of Isis in every respect; Isis symbolised birth, growth, development and vigour, but Nephthys was the type of death, decay, diminution and immobility."—Budge, *Gods of the Egyptians*, Vol. II. pp. 255-8.
+
+The physical plane supplies the means whereby the individuality (deceased) gets its experience to enable it to develop and acquire the higher qualities (gods). The physical brings up, or nurses, the Self (Osiris) within. It is the opposite of Wisdom, and it harbours corruption, and has no life of itself.
+
+See ANUBIS, DAYS (five), [Dzroncr?], [Harel?], HESTIA, ISIS, NESTIS, [Siayn?], [Ururrtine ni?], WOMAN (Loke).
+
+**Corrections made:** `Pturanog, Jets` → Plutarch, Isis; `Bupar` → Budge; `ie.` → i.e.; `'body °'` → 'body'; page heading `630 NERYOSANG` removed from mid-sentence; See-list spellings restored (`AnusBis`, `Isis`, `Nestis`, `Hestia`).
+
+**Unclear or supplied:** Four See-list items are unidentified and kept as OCR spellings with a question mark: `Dzroncr`, `Harel`, `Siayn`, `Ururrtine ni`.
 
 ## Full OCR entry body (exact)
 

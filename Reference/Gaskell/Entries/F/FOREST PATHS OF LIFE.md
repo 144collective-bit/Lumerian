@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forest-paths-of-life
 headword: "FOREST PATHS OF LIFE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `Lost (forest)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/L/LOST IN FOREST PATHS|LOST IN FOREST PATHS]]; [[Reference/Gaskell/Entries/L/LOST LOSING OF THE WAY|LOST LOSING OF THE WAY]]; [[Reference/Gaskell/Entries/L/LOST PIECE OF SILVER|LOST PIECE OF SILVER]]; [[Reference/Gaskell/Entries/L/LOST SHEEP|LOST SHEEP]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of erroneous and inconsistent opinions which mislead the lower mind and obscure the truth.
+
+See LOST (forest).
+
+**Corrections made:** `Lost` → LOST.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

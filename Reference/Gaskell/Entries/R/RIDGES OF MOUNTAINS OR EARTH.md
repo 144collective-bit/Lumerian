@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ridges-of-mountains-or-earth
 headword: "RIDGES OF MOUNTAINS OR EARTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `EartH` | resolved (full-head) → [[Reference/Gaskell/Entries/E/EARTH|EARTH]] |
 | `Furrows` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/F/FURROWS IN PLOUGHED EARTH|FURROWS IN PLOUGHED EARTH]] |
 | `COUNTRY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the striving aspirations of the lower nature.
+
+See EARTH, FURROWS, COUNTRY.
+
+**Corrections made:** `EartH`, `Furrows` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crucifixion-of-christ-according-to-the-revelation-o
 headword: "CRUCIFIXION OF CHRIST, ACCORDING TO THE REVELATION OF JOHN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,24 @@ tags:
 | `Sopom` | **unresolved** (review queue) |
 | `STREETS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/STREETS OF NINE|STREETS OF NINE]] |
 | `WITNESSES (two)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WITNESSES, TWO|WITNESSES, TWO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Sacrifice, as before.
+
+> "And the dead bodies (of the two witnesses) lie in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified."—Rev. xi. 8.
+
+The two Divine "witnesses" are Love (olive) and Wisdom (candlestick), which emanate from the Supreme. Love and Wisdom "die," that is, become obscured when, at the fall of mind, desire (the beast) takes possession of the soul. They remain latent and untouched in the path of the lower evolution, until the mind by putting away desire is prepared to receive them and ascend with them. The "great city Sodom and Egypt" is a symbol of the lower planes whereon Christ the Saviour is crucified, dead and buried.
+
+> "This city, then, is the world, the materialising, the idolatrous, the blind, the sensual, the unreal, the house of bondage, out of which the sons of God are called. And the world being all these, is cruel as hell, and will always crucify the Christ and the Christ-idea."—*The Perfect Way*, p. 108.
+
+> "The God who is crucified in the Cosmos, and laid in the tomb of matter to rise again in glory, becomes in the individual soul the Christ who is crucified to the lower self-hood, and dies to the flesh, to rise again in the triumph of the spirit. The drama of Calvary is being re-enacted in every soul that comes to spiritual consciousness. . . . Until the Son of God rises in you victorious over the old Adam,—the self that says 'not Thou but me,'—the Christ of long ago has done but little for you. . . . The sweet story of old has to become your story, told over again in you. In you the Christ-child has to be born anew; in you grow and labour; in you suffer and die to the world; in you rise in power and ascend to the eternal Father."—R. J. Campbell, *Serm.*, *Crucified with Christ*.
+
+See BEAST, CANDLESTICKS, CITY, EVOLUTION, FAT, OLIVE, [PATH?], SACRIFICE, SODOM, STREETS, WITNESSES (two).
+
+**Corrections made:** `Eyypt` → Egypt; `caedlestick` → candlestick; `Luve` → Love; `baast` → beast; `prepareu` → prepared; `then` → them; `Jaid` → laid; page heading `CRUCIFIXION` removed from mid-sentence; `CamMPBELL` → Campbell; See-list spellings restored (`Beast`, `Sopom`, `SaczkiFIiceR`, `Pata`).
+
+**Unclear or supplied:** `[PATH?]` is the OCR See-list item `Pata`; `FAT` stands as printed.
 
 ## Full OCR entry body (exact)
 

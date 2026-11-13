@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-demiurge-or-demiurgus
 headword: "DEMIURGE, OR DEMIURGUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -56,6 +57,44 @@ tags:
 | `SorHia ACHAMOTH` | **unresolved** (review queue) |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WOMB (cosmic)` | resolved (exact) → [[Reference/Gaskell/Entries/W/WOMB-COSMIC|WOMB-COSMIC]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Archetypal Man—the Self completely immersed in the matter of the lower planes—who is the World-soul and progenitor of the human race.
+
+> "The Self is the maker of all things, and he knows all things. He is the soul of all and the source of all, the perfect and omniscient author of time. He is the sustainer of Pradhana, the principium, and of the migrating souls; the disposer of the primordia, and the origin of metempsychosis and of liberation, of the preservation of the world and the implication of the soul. Such is the immortal Demiurgus (Isvara), residing in the soul, knowing all things, and present everywhere; the sustainer of the world, who rules over the world for ever. There is no other principle that is able to rule it."—Gough, *Svetas. Upanishad*.
+
+> "The Demiurgus is the internal ruler or actuator, the first and highest manifestation of the Self. He informs and animates the elements and all living things."—A. E. Gough, *Phil. of the Upanishads*, p. 166.
+
+> "The universal soul is Isvara, the Self in manifestation as the creative spirit and soul of the world."—*Ibid.*, p. 62.
+
+The Higher Self, or World-soul, descending into matter, becomes perfected as the Archetypal Man from whom matter drops away. He is then the potential pattern of humanity to become actual in the perfected souls of all.
+
+> "But the (spiritual) offspring of the Mother Achamoth, whereof she became pregnant in her contemplation of the Angels which waited on the Saviour, being of the same substance with the Mother-spiritual, was unknown even to the Demiurgus. It was secretly lodged in him without his consciousness, in order that by him having been sown in the soul which he made, and in this material body, and having therein, like an unborn babe, received growth, it might be made ready to admit the perfect Word. That Spiritual Man therefore was unknown to the Demiurgus, who was sown by Wisdom in the Natural man at the moment of his breathing into his nostrils" (Gnostic).—Irenaeus, *Against Heresies*, Bk. I. p. 18.
+
+The Demiurge—"the Framer of the world"—signifies here the matrix on the buddhi-manasic plane of all forms and qualities of the natural order of evolution. In this the seed of the Divine, foreign (unknown) to it, is placed. Thus it is that the germ of the higher nature (spiritual man) which proceeds from buddhi (Achamoth) on the reception by her of the higher spiritual influences (angels) from Atma (Saviour), constituting the germ atma-buddhic, is placed in the lower nature where it is unperceived by the lower consciousness. It remains latent in the soul until development enables it to grow and come forth as the incarnate Self (Word) working for the perfection of humanity. The spiritual essence projected into the lower mind by Wisdom, unknown to the lower self (Demiurgus), constitutes man a responsible being knowing good and evil.
+
+> "The Gnostics say that they themselves are spiritual, because a certain article of the Father's entire nature is lodged in their soul, they having their souls of the same substance as the Framer of the World (Demiurge); while he, having once for all received the entire Seed from his Mother, and retaining it in himself, continued merely animal in his nature, and had no understanding at all of the higher order of things."—*Ibid.*, Bk. II. p. 148.
+
+The Divine spark, or spiritual ego, from the plane of Atma (Father) is lodged in the human soul, which has the same astro-mental nature as the lower World-soul (Demiurge). This lower soul containing within it the spiritual essence, can never of itself rise, nor can it understand spiritual [word unclear]
+
+> "We shall, however, be quite correct in saying that the Demiurge who made all this universe is also at the same time Father of what has been brought into existence; while its Mother is the Wisdom of Him who hath made it,—with whom God united, though not as man with woman, and implanted the power of genesis. And she, receiving the Seed of God, brought forth with perfect labour His only beloved Son, whom all may perceive—this Cosmos."—Philo Judaeus, *De Ebriet.*, § 8.
+
+The Higher Self (Demiurge) emanates the Cosmos through the buddhic (Wisdom) activities, the lower nature being, as it were, a reflection of the higher.
+
+> "When, therefore, the creation received completion, and when after this there ought to have been the revelation of the sons of God—that is of the Demiurge, which up to this had been concealed, and in which obscurity the natural man was hid, and had a veil upon the heart.—when it was time, then, that the veil should be taken away, and that these mysteries should be seen, Jesus was born of Mary the virgin, according to the declaration in Scripture, 'The Holy Ghost will come upon thee'—Sophia is the Spirit—'and the power of the Highest will overshadow thee,'—the Highest is the Demiurge,—'wherefore that which shall be born of thee shall be called holy.' For he has been generated not from the highest alone, as those created in the likeness of Adam have been created from the highest alone—that is from Sophia and the Demiurge. Jesus, however, the new man, has been generated from the Holy Spirit—that is, Sophia and the Demiurge,—in order that the Demiurge may complete the conformation and constitution of his body, and that the Holy Spirit may supply his essence, and that a celestial Logos may proceed from the Ogdoad being born of Mary" (Valentinus).—Hippolytus, *Refutation, etc.*, Bk. VI. 30.
+
+When involution of all things had received completion, and when subsequently in course of evolution the spiritual egos (sons of God) had incarnated, then the indwelling Self (Demiurge), who up to this period had been unmanifest, should be revealed in the soul. Humanity (natural man) up to this time had been obscured in primitive human forms, and a veil was over the higher affections (heart). It was time, then, that this veil should be removed, and that the higher nature should manifest; therefore the Christ-soul (Jesus) was born of the purified lower nature (Mary). This birth was brought about through the brooding of Buddhi (Sophia) and Atma (Demiurge) in the purified and receptive portion of the emotion nature. The Christ-soul, the "new man," is generated in order that the "body of Christ" may be completed in human souls by means of the functioning of Buddhi (Holy Spirit); so that ultimately a celestial expression of the Divine may proceed from the reality of the Highest (Ogdoad) being born of the purified lower (Mary).
+
+> "For Christ is, in a manner, the demiurge, to whom the Father says, 'Let there be light,' and 'Let there be a firmament.' But Christ is demiurge as a beginning (arche) inasmuch as he is Wisdom. It is in virtue of His being Wisdom that He is called arche."—Origen, *Comm. on John*, § 22. Bk. I.
+
+> "A new idea has got into the air, so to speak—new in emphasis, anyhow. It is that the universal and eternal substance, whatever it is, is itself in process of becoming, and never can be anything else. It is a sort of push or drive towards betterment. The eternal something—I cannot think of a better name at the moment—which has produced everything that is, including ourselves, is unceasingly trying to express itself in fuller and more adequate forms, and will go on doing so for ever and ever. It cannot help it; it is its nature so to do, though it does not know it is doing it. It does not begin to know till it evolves human consciousness; it knows in us, and in no other way. ... The average human mind is coming more and more to feel a difficulty in believing in the existence of a divine being, or indeed, a being of any sort, who is eternally perfect without the trouble of becoming so. Men to-day are so habituated to the thought of growth, development, the slow and toilsome acquirement of fuller knowledge and power, that they simply cannot imagine an ideal excellence which does not involve such a process of becoming. ... All the same, there is that within us which forbids us to rest contented with this, either as an explanation of things as they are, or an incentive to action on the plane of our own highest. It seems to me that if we dig down deep enough into the motives of our best efforts, if we penetrate far enough into our noblest feelings, we shall find that we know in a way that all the good we strive after already is, and we would not strive if we did not know."—R. J. Campbell, *Serm., Being and Becoming*.
+
+See ADAMAS (higher), ADRASTIA, ARC. MAN, BIRTH OF JESUS, BREATH, BULL (primeval), COSMOS, CREATION, [FERMENT?], EVOLUTION, INCARNATION, INVOLUTION, ISVARA, MAN (natural), MICROCOSM, MOTHER (divine), OGDOAD, PRAGAPATI, SEASONS, SEED, SONS OF GOD, SOPHIA ACHAMOTH, VIRGIN MARY, WOMB (cosmic).
+
+**Corrections made:** `buman` → human; `GovucH`/`Govan` → Gough; `IRENZUS` → Irenaeus; `odged` → lodged; `PxHiLto Jupa&us` → Philo Judaeus; `UrPro.ytvus` → Hippolytus; `Ornrcen` → Origen; `CamMpseiy` → Campbell; `incarcate` → incarnate; `Christsoul` → Christ-soul; `80`/`60` → so; `in cluding` → including; `Ibid.` restored; page headings `211 DEMIURGE`, `DEMIURGE`, `212 DEMIURGE`, `DEMONS` removed from mid-sentence; See-list spellings restored (`Apamas`, `BimTH`, `Butt`, `MorTuEer`, `OGpoap`, `Seep`, `Sons or cop`, `SorHia`); and similar minor fixes.
+
+**Unclear or supplied:** The OCR breaks off at "spiritual t i e" before the Philo quotation; marked `[word unclear]`. In the first quotation the stray dash in "rule — it" was dropped. See-list item OCR `‘ERMENT` is given as `[FERMENT?]`. `SEASONS` restored from OCR `SrEasons`; uncertain.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-king-of-glory
 headword: "KING OF GLORY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,24 @@ tags:
 | `GLORIFYING OF GOD` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GLORIFYING OF GOD|GLORIFYING OF GOD]] |
 | `Hosts (Lord of)` | resolved (exact) → [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] |
 | `SUDDHODANA` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SUDDHODANA, KING, THE FATHER OF BUDDHA|SUDDHODANA, KING, THE FATHER OF BUDDHA]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self under the aspect of returning into the Absolute.
+
+> "Who is this King of glory? The Lord of hosts, he is the King of glory."—Ps. xxiv. 10.
+
+The Self, the ruler of the mental qualities, withdraws into Himself at the close of the cycle.
+
+> "Meanwhile the king for the sake of ensuring his son's (Buddha's) prosperity, and stirred in heart by the destiny which had been predicted for him, delighted himself in perfect calm, ceased from all evil, practised all self-restraint, and rewarded the good."—*Buddha-Karita*, Bk. II. 33.
+
+Meanwhile the Logos, for the purpose of securing the Soul, and having responded to its requirements, and also having brooded over the Monad, rested from Its labours, quitted the realms of limitation, abode within Itself, and tasted the joy of Its own being.
+
+See AUSTERITIES, BUDDHA, DISCIPLES (seated), GLORIFYING OF GOD, HOSTS (Lord of), SUDDHODANA.
+
+**Corrections made:** `Buddha-Karila` → *Buddha-Karita*; `Iteelf` → Itself; `AvustTertrizs` → AUSTERITIES; `D1sCIPLES`, `Hosts` restored in See list; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

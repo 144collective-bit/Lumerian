@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-butter-62165acd
 headword: "BUTTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,24 @@ tags:
 | `PRIESTS` | resolved (singular/plural) → [[Reference/Gaskell/Entries/P/PRIEST, OR SOOTHSAYER|PRIEST, OR SOOTHSAYER]] |
 | `PromerHevs` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PROMETHEUS|PROMETHEUS]] |
 | `SACRIFICE` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SACRIFICE, BEASTS, CLEAN|SACRIFICE, BEASTS, CLEAN]]; [[Reference/Gaskell/Entries/S/SACRIFICE OF ANIMALS|SACRIFICE OF ANIMALS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Love-nature. If offered in sacrifice they signify the offering of the heart's affection.
+
+> "By 'fat' is signified the celestial [word unclear] itself which is also from the [word unclear]."—Swedenborg, *Arc. Cel.* to Gen. iv. 4.
+
+> "Fat or dainty things signify celestial goods, the affections thereof and the delights of those affections."—Swedenborg, *Apoc. Rev.*, n. 782.
+
+> "And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the Lord."—Jer. xxxi. 14.
+
+The inner sanctuary of the soul shall be filled with Divine love, and the disciplined qualities shall be steadfast in righteousness and truth.
+
+See [BURNT OFFERING?], BUTTER, DOUBLE FOLD, GHEE, OIL, OINTMENT, PRIESTS, PROMETHEUS, SACRIFICE.
+
+**Corrections made:** `pare` → [word unclear]; `celestia` → celestial; `Gen iv. 4` → Gen. iv. 4; `PromerHevs` → PROMETHEUS; `Or` → OIL; quotation marks normalised.
+
+**Unclear or supplied:** Two words are lost in the first Swedenborg quotation (OCR `pare itself which is also from the .`). See-list item `[BURNT OFFERING?]` is a likely reading of OCR `Burnt orr`.
 
 ## Full OCR entry body (exact)
 

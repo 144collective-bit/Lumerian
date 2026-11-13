@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-paccekabuddhas-or-pratyeka-buddhas
 headword: "PACCEKABUDDHAS OR PRATYEKA-BUDDHAS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,20 @@ tags:
 | `OCEAN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/O/OCEAN, OR SEA|OCEAN, OR SEA]]; [[Reference/Gaskell/Entries/O/OCEAN, OR SEA (FEMININE)|OCEAN, OR SEA (FEMININE)]] |
 | `Sons oF Gop` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SONS OF GOD|SONS OF GOD]] |
 | `TRI-RATNA` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TRI-RATNA, THE THREE HOLIES|TRI-RATNA, THE THREE HOLIES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the primordial spiritual egos, or Divine monads, who have not yet descended to incarnate in the lower worlds.
+
+> "High above these four stages (of sainthood) stand those perfect ones, 'who have of themselves alone become [word unclear] of the Buddhahood' (Paccekabuddha); they have won the knowledge that brings deliverance, not as disciples of one of the holy, universal Buddhas, but of their own power, yet their perfection does not extend so far that they could preach it to the world. ... 'In the whole universe,' says Buddha, 'there is, except me only, no one who is equal to the Paccekabuddhas.'"—H. Oldenberg, *Buddha*, pp. 321, 322.
+
+On the highest plane, atma, are the spiritual monads, "Sons of God," who in prior universes have become perfect and are now in unity with the manifesting Self. Those of them who have not already descended to gain experience in the lower life have full consciousness on their own plane of atma, but not on any plane below, for they have no lower nature and cannot express (preach) their perfections to the lower worlds. But in the whole universe there is none but the Higher Self equal to these other Selves, for essentially they are all one on the highest plane.
+
+See AGNISHVATTAS, ARHATS, BODHISATVAS, FRAVASHIS, MANASAPUTRAS, MARUTS, MONAD OF LIFE, OCEAN, SONS OF GOD, TRI-RATNA.
+
+**Corrections made:** `eopherannde` → [word unclear]; `Paccekauddha` → Paccekabuddha; `OLpENBERG` → Oldenberg; `th:` → the; page heading `556 PAHAD` removed from mid-sentence; See-list spellings restored (`BOpHISATVAS`, `Maruts`, `MonAD OF LIFE`, `Sons oF Gop`); and similar minor fixes.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `eopherannde`.
 
 ## Full OCR entry body (exact)
 

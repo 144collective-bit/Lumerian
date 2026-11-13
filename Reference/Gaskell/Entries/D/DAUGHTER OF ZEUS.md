@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daughter-of-zeus
 headword: "DAUGHTER OF ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,22 @@ tags:
 | `Prery` | **unresolved** (review queue) |
 | `WHITEABMED` | **unresolved** (review queue) |
 | `WISDOM. ATHORNE; ATHRAVA; ATHARVAN ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, the principle of buddhi, in various aspects, proceeding from the Supreme.
+
+> "Unto men Athena gives good things—namely wisdom, understanding, and the creative arts; and she dwells in their citadels, I suppose, as being the founder of civil government through the communication of her own wisdom."—Emp. Julian, *The Sovereign Sun*, p. 243.
+
+Unto the mental faculties buddhi brings intuition, dwelling in the mind-centre (citadel) and founding moral order.
+
+> "Pallas Athene came to Achilles from heaven, sent forth of the white-armed [god]dess Hera, whose heart loved both (Achilles and Agamemnon) alike and had care for them."—*Iliad*, Book I.
+
+The Wisdom from the Highest descended forth from the potential Wisdom (Hera) in the realm of pure Love which included sympathy for both the personality (Achilles) or mental element, and the desire-mind (Agamemnon) with its appetites; and was to become the means of reconciling them. See ACHILLES, APOLLO, BUDDHI, GODDESS, HERA, MUSE, PIETY, WHITE-ARMED, WISDOM. [ATHORNE; ATHRAVA; ATHARVAN ;?]
+
+**Corrections made:** `Jutian` → Julian; `mindcentre` → mind-centre; `dess Hera` → [god]dess Hera; `Jliad` → *Iliad*; See-list spellings restored (`AcHILLES`, `BuppH`, `Goppess`, `Prery`, `WHITEABMED`).
+
+**Unclear or supplied:** The trailing `ATHORNE; ATHRAVA; ATHARVAN ;` is a fragment of the following heading or page heading; kept in brackets.
 
 ## Full OCR entry body (exact)
 

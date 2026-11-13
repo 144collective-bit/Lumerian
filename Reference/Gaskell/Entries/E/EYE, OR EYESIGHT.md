@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-eye-or-eyesight
 headword: "EYE, OR EYESIGHT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -42,6 +43,38 @@ tags:
 | `Urcuats. EYE` | **unresolved** (review queue) |
 | `‘‘ THIRD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/T/THIRD EYE|THIRD EYE]]; [[Reference/Gaskell/Entries/T/THIRD HOUR|THIRD HOUR]] |
 | `’’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mental perception. Discernment of ideas and feelings as externalities of consciousness.
+
+> "The eye of intellect."—Hermes, *The Perfect Sermon*, § 1.
+
+> "May the enemy be paralysed in the feet! may he be palsied in the hands! may he not see the earth with his eyes! may he not see nature with his eyes! who injures our mind, or injures our body."—*The Homa Yasht*, Haug, *Essays*.
+
+The supplication here is that the Self may gradually eliminate all the lower motives in thought and action, and be the means of controlling the physical foundation (feet), the astral will to action (hands) and the mental perception (eyes), so that all should be done for the furtherance of universal good in the Supreme Nature.
+
+> "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as God, knowing good and evil."—Gen. iii. 5.
+
+For the Divine Nature knows that when the fruits of action on the lower planes are tasted, then experience shall be acquired, which will be the means by which mental perception will be enlarged and Godhood achieved.
+
+> "And the eyes of them both were opened, and they knew that they were naked; and they sewed leaves together, and made themselves aprons."—Gen. iii. 7.
+
+And both the emotion-nature and the mental-nature perceive their utter ignorance, i.e. the ego recognises the necessity for further evolution. Then the emotions and the mind cover themselves with secrecy, and conceal the inward growth of the Spirit.
+
+> "By eyes in the Word is meant the understanding, and thence, by the eyesight, intelligence. As the eye sees from natural light, so does the understanding from spiritual light."—Swedenborg, *Apoc. Rev.*, n. 48.
+
+> "Not-being is the mirror; the Universe is the reflection, and man is the Personality concealed in it, like the eye in the reflection. Thou art the eye of the reflection, while God is the Light of the eye; by means of that eye the Eye of God beholds Itself."—*Gulshan-i* [word unclear]
+
+> "Self-consciousness is the eye of the soul."—R. J. Campbell, *Serm.*, *Man and Moral Freedom*.
+
+> "Eyes, metaphorically ascribed to men, signify their mind, understanding, or judgment, which are opened, when they are made to observe what they did not before (Gen. xxi. 9); when their conscience clearly discerns their sin and misery (Gen. iii. 7); or their mind is savingly instructed in the knowledge of Christ and spiritual things (Acts xxvi. 18); and are sealed up, blinded, closed or darkened, when the mind is destitute of spiritual knowledge, and so ignorant, obstinate or biassed that it cannot discern between good and evil (Is. xliv. 18; Acts xxviii. 27; Rom. xi. 10). Eyes and eyelids, ascribed to God, signify his wisdom and knowledge, which are displayed in every place (Prov. xv. 3; Ps. xi. 4)."—W. Gurney, *Bible Dictionary*, p. 164.
+
+See EATING (lower), FALL, MAN (blind), MEN (breast), NAKEDNESS (lower), [Stant?], TREE OF KNOWLEDGE, UTCHATS.
+
+**Corrections made:** `injuries` → injures; `Hava, Eesays` → Haug, Essays; `GEN.`, `AcTs` → Gen., Acts; `ili.` → iii.; `shal]` → shall; `tne` → the; `Iteelf` → Itself; `SwrprnBORG` → Swedenborg; `CamMpsetyt` → Campbell; `GuRNEY` → Gurney; closing quotation mark supplied after `Ps. xi. 4)`; page heading `EYE` (mid-sentence) and trailing `EYE, "THIRD,"` removed; See-list spellings restored (`Eatrna`, `Man`, `Urcuats`); quotation marks normalised.
+
+**Unclear or supplied:** The Gulshan-i quotation is cut off after `Gulshan-i` in the OCR, where the next quotation follows without a break. `[Stant?]` is an unidentified See-list item (OCR `Stant`). `Haug` is read from OCR `Hava`; `UTCHATS` from `Urcuats`.
 
 ## Full OCR entry body (exact)
 

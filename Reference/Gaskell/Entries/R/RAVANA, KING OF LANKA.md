@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ravana-king-of-lanka
 headword: "RAVANA, KING OF LANKA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -62,6 +63,40 @@ tags:
 | `The Sikh Religion` | **unresolved** (review queue) |
 | `Vol. I. p. 380. See Dove` | **unresolved** (review queue) |
 | `OLIVE LEAF` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OLIVE LEAF OFFERING|OLIVE LEAF OFFERING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower principle, or desire-mind, ruler of the lower nature of the soul (Lanka).
+
+> "Râvana's form was a thick cloud, or a mountain, or the god of death with open mouth. He had all the marks of royalty; but his body bore the impress of wounds inflicted by all the divine arms in his warfare with the gods."—Mon. Williams, *Indian Wisdom*, p. 353.
+
+The desire-mind is full of illusion and pride. It represents the qualities which have no expression of the Divine life in them. The lower principle is a ruler of the lower nature, but the higher qualities (gods) are constantly sapping his strength.
+
+> "Ravana underwent severe austerities in the forest of Gokarna for 10,000 years, standing in the midst of five fires with his feet in the air; whence he was released by Brahma."—Mon. Williams, *Indian Wisdom*, p. 356.
+
+This refers to the desire-nature as being the love-nature reversed, and exposed to the purifying power from five centres of energy on the lower planes.
+
+> "Vishnu took this form of Rama at the close of the second or Treta age, to destroy the demon Ravana."—Mon. Williams, *Indian Wisdom*, p. 330.
+
+The Supreme (Vishnu) became incarnate as the indwelling Self (Rama) in the period of involution in order that the lower principle (Ravana) should be overcome in human souls.
+
+> "The first thought round which the grand wonder of the atonement grows into shape is this thought of sin as a real live thing standing forth to be fought with, to be conquered, to be killed. Not of a mere moral weakness to be strengthened, or an intellectual emptiness to be filled, but of an enmity to [be] slain, a giant to be subdued. To meet that enmity, to slay that giant, Christ comes forth with his wonderful nature. He undertakes a distinct and dreadful struggle."—Phillips Brooks, *Mystery of Iniquity*, p. 15.
+
+See AHRIMAN, ALTAR (fire), ATONEMENT, AUSTERITIES, DURYODHANA, GODS, HANUMAN, INCARNATION, INVOLUTION, KAMA, LANKA, RAMA, SEPARATION (heaven), SOBHA (lower), TANEMAHUTA, VIBHISHANA, VISHNU, VRITRA.
+
+### Also in this note: RAVEN OF NOAH
+
+A symbol of the lower mind, which goes forth to the things of the world, and returns not again.
+
+> "The dove and the raven are sent forth, figuring (for they are birds of heaven, and the heaven is the understanding) certain powers or emotions of the understanding, both pure and impure. In the actions of these is shown the working of the good and evil which to the last remains with us. The raven, finding its food in carrion, figures those inclinations which feed on dead things."—A. Jukes, *Types of Genesis*, p. 120.
+
+> "The raven washeth and rubbeth itself in a small pool in the desert; its mind and body are full of demerits and its beak of filth" (Hymn of Guru Nanak).—Macauliffe, *The Sikh Religion*, Vol. I. p. 380.
+
+See DOVE, OLIVE LEAF.
+
+**Corrections made:** page headings `613 RAVEN` and `RAVENS` removed from mid-sentence; `@®` → a; `Wiedom` → Wisdom; `Wriiiams` → Williams; `jnoral` → moral; `‘an` → an; `to slain` → to [be] slain; `Pnittries BRooxs` → Phillips Brooks; `ite` → its; `Genesia` → Genesis; `Washeth` kept; See-list spellings restored (`DURODHANA`, `Gops`, `Rama`, `Sopsra`); `Dove` capitalised; RAVEN OF NOAH split off under the second-entry heading.
+
+**Unclear or supplied:** Contains a second entry: RAVEN OF NOAH. `Râvana's` is restored from `Révana'’s`. `[be]` is supplied: the OCR reads "an enmity to slain". `DURODHANA` read as DURYODHANA, `Sopsra` read as SOBHA are best guesses.
 
 ## Full OCR entry body (exact)
 

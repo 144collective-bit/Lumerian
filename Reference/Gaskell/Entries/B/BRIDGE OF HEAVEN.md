@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bridge-of-heaven
 headword: "BRIDGE OF HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,22 @@ tags:
 | `RaInbBow` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAINBOW|RAINBOW]] |
 | `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `REINGA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A world-wide symbol of the higher mental plane which lies between the lower mental plane and the buddhic plane or heaven-world, and therefore is, as it were, a "bridge" from the lower nature to the higher nature.
+
+> "I (the Father) also wish thee to look at the Bridge of my only-begotten Son, and see the greatness thereof, for it reaches from Heaven to earth; that is, that the earth of your humanity is joined to the greatness of the Deity thereby. I say, then, that this Bridge reaches from Heaven to earth, and constitutes the union which I have made with man. . . . And observe that it is not enough, in order that you should have life, that my Son should have made you this Bridge, unless you walk thereon."—St. [Catherine] of Siena, *Revelations*, etc.
+
+> "In Him, the heaven, the earth, and the sky are woven, the mind also with all the senses. Know Him alone as the Self, and leave off other names. He is the bridge of the Immortal, i.e. the bridge by which we reach our own [word unclear]."—*Mundaka Upanishad*, II.
+
+The Higher Self as the Individuality is seated in the causal-body on the higher mental plane, and thus he can be spoken of as the "bridge to immortality," the "way, the truth, and the life." The indwelling Self is the soul's Saviour by whom our deficiencies are made good, our imperfect nature built upwards to perfection.
+
+See BALANCE (heart), BIFROST, BOW, [HrrososH?], KINVAT, RAINBOW, RECOLLECTION, REINGA.
+
+**Corrections made:** `aaa or Siena` → [Catherine] of Siena; `eR` → [word unclear]; `life.»` → life."; See-list spellings restored (`Bornost`, `Krvvat`, `RaInbBow`); quotation marks normalised.
+
+**Unclear or supplied:** The saint's name is damaged (OCR `Sr. aaa or Siena`); `[Catherine]` is supplied. The Mundaka reference is cut at `II.`. See-list item `[HrrososH?]` cannot be identified; `BIFROST` for `Bornost`.
 
 ## Full OCR entry body (exact)
 

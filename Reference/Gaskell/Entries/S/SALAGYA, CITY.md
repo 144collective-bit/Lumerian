@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-salagya-city
 headword: "SALAGYA, CITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,14 @@ tags:
 | `SExLr` | **unresolved** (review queue) |
 | `VIBHU` | **unresolved** (review queue) |
 | `YESHTIKA` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the centre of perfection, the Higher Self seated on the buddhic plane. See [Itya?], [Opour?], [SExLr?], VIBHU, YESHTIKA.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** `[Itya?]`, `[Opour?]` and `[SExLr?]` are the OCR spellings of See-list items that could not be identified.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mahat
 headword: "MAHAT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `BREATIC WORLD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BREEATIC WORLD|BREEATIC WORLD]] |
 | `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `THOTH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/THOTH THORNS AND THISTLES|THOTH THORNS AND THISTLES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the higher intellect,—buddhi-manas,—the plane of creation.
+
+> "The first production of the original Producer is Buddhi, commonly called 'intellect or intellectual perception' (and variously termed Mahat, from its being the Great source of the two other internal faculties, Ahan-kara and Manas, or self-consciousness and mind)."—Monier Williams, *Indian Wisdom*, p. 93.
+
+See AHANKARA, BRIATIC WORLD, MANAS, THOTH.
+
+**Corrections made:** `selfconsciousness` → self-consciousness; `Wuuiams` → Williams; page heading `467 MAHA-YANA` removed from mid-sentence; `BREATIC` → BRIATIC.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

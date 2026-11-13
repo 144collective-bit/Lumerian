@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dzmon-or-good-daimon
 headword: "DZMON, OR GOOD DAIMON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -41,6 +42,28 @@ tags:
 | `MIND` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MIND, GOOD|MIND, GOOD]]; [[Reference/Gaskell/Entries/M/MIND, PRIAM, HEDGEHOG|MIND, PRIAM, HEDGEHOG]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `SELF` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SELF, LOWER|SELF, LOWER]]; [[Reference/Gaskell/Entries/S/SELF-RESTRAINED MAN|SELF-RESTRAINED MAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, or of the Individuality in the causal-body. Epictetus teaches—
+
+> "The important thing is, not that he should search out all things above and beneath the earth, but that he should commune with the dæmon within him and serve him with sincerity; the greater are the difficulties which oppose themselves to the investigation of the Real, the more should a man hold to that which in the changefulness of things and of opinions can alone give us calm,—to the conviction that nothing can happen to us which is not according to the nature of the universe, and that none can oblige us to act against our own conscience."—E. Zeller, *Eclecticism*, p. 278.
+
+> "By each man standeth, from his natal hour, a dæmon, his kind mystagogue through life."—Menander, quoted by Plutarch, *De Tranq. Animi*, 15, 474 B.
+
+> "He (Mind) is the Good Daimon. Blessed the soul that is most filled with Him, and wretched is the soul that is empty of the Mind."—*The Key*, *Corpus Hermeticum*.
+
+> "Archedamus thinks that the voice which influenced Socrates was ... the influence of a superior intelligence and of a Diviner soul, operating upon the soul of Socrates, whose calm and holy temper fitted him 'to hear this spiritual speech which, though filling all the air around, is only heard by those whose souls are freed from passion and its perturbing influence.'"—Plutarch, *On the Demon of Socrates*.
+
+> "Did Socrates therefore call his own nature, which was very critical and productive, God? Just as Menander says 'our mind is God.' And Heraclitus, 'a man's character is his dæmon.'"—Plutarch, *Qu. Platon.* I. 2. p. 999.
+
+The "dæmon" is the Higher Self or Individuality, in relation to the Personality (Socrates) which was approaching perfection and gradually accomplishing its salvation. The "taking poison" is a symbol of the final quietus given to the lower nature, after which the consciousness rises to the higher state.
+
+See AGATHODAIMON, ATMAN, BIRDS (two), FIG-FRUIT, HIGHER AND LOWER SELVES, INDIVIDUALITY, MIND, PERSONALITY, SELF.
+
+**Corrections made:** page heading `OF THE DZMONS` removed from mid-sentence; `dwmon`, `dzmon`, `d#mon` → dæmon; `tho graater` → the greater; `ite` → its; `productive,God` → productive, God; `__life` → life; `Trangu-Animt` → Tranq. Animi; `PiurarcH`, `Puerarcn` → Plutarch; See-list spellings restored (`Brrps`, `Fic-rruIT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aushedar-or-hushedar
 headword: "AUSHEDAR, OR HUSHEDAR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `SUN MOTIONLESS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUN MOTIONLESS ZENITH|SUN MOTIONLESS ZENITH]] |
 | `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
 | `ZENITH` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZENITH OF THE SKY|ZENITH OF THE SKY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self, Son of God.
+
+> "The marvellousness of Aushedar as to birth, glory of person, sayings and actions; the standing of the sun ten days amid the sky; the perishing of the fiend of the four-legged race, the production of a three-spring cloudless influence for vegetation; the weakening of superfluity and destitution; the extreme strengthening of alliance; the gratification due to the good friendship of foreigners."—[work unclear] Bk. VII. Ch. 9, 2.
+
+This declares the glory of the birth, life, activities, and development of the Self,—the Son of the Logos,—commencing from the buddhic plane whereon the Self (sun) culminates above the lower evolution. The consequent ultimate perishing of the lower quaternary with its desiremental nature (the fiend): the production of the higher triad of truth, love, and wisdom, or the higher emotion nature nourishing the soul: the dispensing with the lower vehicles which are afterwards superfluous: the complete union of the lower Self with the Higher Self: the arrival of the Soul at Wisdom which relates all experiences, even adverse and evil experiences, with the evolution of the Self.
+
+See ANIMALS, FOOD, PISCES, QUATERNARY, SUN MOTIONLESS, UNION, ZENITH.
+
+**Corrections made:** `daye` → days; `Anmazts` → ANIMALS; `QuaTERNARY` → QUATERNARY; page heading `AUSTERITIES` removed from mid-sentence; quotation marks normalised.
+
+**Unclear or supplied:** The title of the work cited before `Bk. VII. Ch. 9, 2` is lost (OCR `‘ »`), shown as `[work unclear]`.
 
 ## Full OCR entry body (exact)
 

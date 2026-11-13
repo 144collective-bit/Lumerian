@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fowls-of-the-air
 headword: "FOWLS OF THE AIR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,26 @@ tags:
 | `PATH (birds)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/P/PATH OF THE BIRDS ON HIGH|PATH OF THE BIRDS ON HIGH]]; [[Reference/Gaskell/Entries/P/PATH, TWOFOLD|PATH, TWOFOLD]] |
 | `WatEE (lower)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
 | `WINGS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of aspirations; aspiring tendencies in the qualities of the soul; thoughts which soar heavenward in the mind (air).
+
+> "Birds signify such things as relate to the understanding, and thence to thought and deliberation."—Swedenborg, *Apoc. Rev.*, n. 757.
+
+> "To every man there come noble thoughts that pass across his heart like great white birds."—Maeterlinck.
+
+> "All the powers of God are winged, being always eager and striving for the higher path which leads to the Father."—Philo, *Works*, Vol. IV. p. 252.
+
+> "And God said, Let the waters bring forth abundantly the moving creature that hath life, and let fowl fly above the earth in the open firmament of heaven."—Gen. i. 20.
+
+And the Supreme now directs that the desire-nature (lower "water," astral) shall be the means of gradually giving rise to the lower emotions that have evolving life, and these are gradually to take wings and be the means of raising the lower impulses through aspiration, to the mental and higher planes.
+
+See CREATURES, FIRMAMENT, PATH (birds), WATER (lower), WINGS.
+
+**Corrections made:** `thonce` → thence; `Puito` → Philo; `directa` → directs; `GeEN.` → Gen.; `WatEE` → WATER; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

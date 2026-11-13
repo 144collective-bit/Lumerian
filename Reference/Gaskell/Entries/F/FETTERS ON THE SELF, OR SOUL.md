@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fetters-on-the-self-or-soul
 headword: "FETTERS ON THE SELF, OR SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,28 @@ tags:
 | `Caprivirry` | **unresolved** (review queue) |
 | `LIBERATION` | **unresolved** (review queue) |
 | `PRISONERS` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PRISONERS OR CAPTIVES|PRISONERS OR CAPTIVES]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the captivity of the Self in the matter of the lower planes, due to the process of involution.
+
+> "The object of (the Sankhya-karika) is to effect the liberation of the soul (purusha) from the fetters in which it is involved by union with prakriti (matter)."—Mon. Williams, *Indian Wisdom*, p. 92.
+
+> "When all desires that dwell in the heart cease, then the mortal becomes immortal, and obtains Brahman. When all the fetters of the heart here on earth are broken, when all that binds us to this life is undone, then the mortal becomes immortal: here our teaching ends.' This is what is called Vedanta."—Max Müller, *India*, etc., p. 249.
+
+> "Our Self is neither our body nor our mind, nor even our thoughts of which most philosophers are so proud, but that all these are conditions only to which the Self has to submit, fetters by which it is chained."—Max Müller, *Vedanta Philosophy*, p. 97.
+
+> "Whatever separates us from God is but the deceptive semblance of self which chains our volition. Hence man must release himself from the fetters of self and creature love, must have nothing, and desire nothing excepting God, and experience God in the solitude of his spirit" (Eckhart).—Pfleiderer, *Devel. of Chris.*, p. 152.
+
+> "When a soul succeeds in breaking the fetters of sin and ascending the throne of spiritual power, it invariably does so by the emergence of something divine from within, something which must have been there from the first, and which lies deeper than all the corruptions of the fleshly nature."—R. J. Campbell, *Serm.*, The Faith that Saves.
+
+> "Thy chain, which is made up of guilt and filth, is heavy; it is a wretched bond about thy neck, by which thy strength doth fail. But come, though thou comest in chains; it is glory to Christ that a sinner comes after him in chains. The chinkings of thy chains, though troublesome to thee, are not, nor can be, obstruction to thy salvation; it is Christ's work and glory to save thee from thy chains, to enlarge thy steps, and set thee at liberty."—J. Bunyan, *Come and Welcome to Christ*.
+
+See APPENDAGES, BABYLON, FIELD BONDAGE, CAPTIVITY, LIBERATION, PRISONERS.
+
+**Corrections made:** `ere broken` → are broken; `al)` → all; `Mixrer` → Müller; `Witiams` → Williams; `PrieIDERER` → Pfleiderer; `CampBELL` → Campbell; `BaBYLON, FIELD BonpaGs, Caprivirry` See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** The Max Müller passage opens a nested quotation ("here our teaching ends.' This is what is called Vedanta.") whose opening single mark is lost in the OCR; left as printed. `FIELD BONDAGE` is a best reading of `FIELD BonpaGs`.
 
 ## Full OCR entry body (exact)
 

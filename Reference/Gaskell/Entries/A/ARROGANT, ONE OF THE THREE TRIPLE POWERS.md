@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-arrogant-one-of-the-three-triple-powers
 headword: "ARROGANT, ONE OF THE THREE TRIPLE POWERS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,24 @@ tags:
 | `Buss` | **unresolved** (review queue) |
 | `SEPARATION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEPARATION FROM THE WHOLE, OR SEPARATENESS|SEPARATION FROM THE WHOLE, OR SEPARATENESS]]; [[Reference/Gaskell/Entries/S/SEPARATION SEPARATION OF HEAVEN AND EARTH|SEPARATION SEPARATION OF HEAVEN AND EARTH]] |
 | `SopHia` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (HIGHER ASPECT)|SOPHIA ACHAMOTH (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA ACHAMOTH (LOWER ASPECT)|SOPHIA ACHAMOTH (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/S/SOPHIA OR WISDOM|SOPHIA OR WISDOM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sense of separateness,—the "prince of this world,"—which rules the three self-seeking passions, love of power, lust, and avarice, each triple, because they act on the three lower planes.
+
+> "Pistis Sophia grieving because of the sufferings brought upon her by Arrogant one of the three Triple Powers."—*Pistis Sophia*.
+
+This signifies the solicitude of the Higher Self for the sake of the lower:—it is a portrayal of the process of suffering through which the consciousness is lifted complete and entire to the realisation of Bliss.
+
+> "The Asuras came to naught even through arrogance: wherefore let no one be arrogant, for verily arrogance is the opening (or beginning) of ruin."—*Sata. Brâh.*, V. 1, 1, 1.
+
+The desires (asuras) in being energised by the sense of separateness bring about their own destruction as the ego rises to a wider consciousness.
+
+See ASURAS, BLISS, SEPARATION, SOPHIA.
+
+**Corrections made:** Page heading `ARROW` removed from mid-sentence; `separatences` → separateness; `Pistts` → Pistis; `Brah.` → Brâh.; `Buss` → BLISS; `SopHia` → SOPHIA.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

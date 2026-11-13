@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fools
 headword: "FOOLS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Man (blind)` | resolved (exact) → [[Reference/Gaskell/Entries/M/MAN, BLIND|MAN, BLIND]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `PRIESTS AND ELDERS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower minds or personalities entangled in the errors and illusions of sense and desire.
+
+> "Fools! for they have no far-reaching studious thoughts who think that what was not before comes into being or that anything dies and perishes utterly."—Empedocles, V. 45, Fairbanks.
+
+The lower mind is foolish because it falsely imagines that the unreal can exist of itself, and the Real cease to be.
+
+> "Fools dwelling in darkness, wise in their own conceit and puffed up with vain knowledge, go round and round, staggering to and fro, like blind men led by the blind."—*Katha. Upanishad*, 6.
+
+The lower mind, full of ignorance, self-esteem and illusion, passes from life to life in the world, buffeted by circumstances, and without true knowledge and wisdom.
+
+See BLIND MAN, FOLLY, MAN (blind), PERSONALITY, PRIESTS AND ELDERS.
+
+**Corrections made:** `FarrBANKS` → Fairbanks; `ataggering` → staggering; `ed by the blind` → led by the blind; `Man (blind)` → MAN (blind); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

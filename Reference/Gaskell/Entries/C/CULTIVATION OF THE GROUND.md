@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cultivation-of-the-ground
 headword: "CULTIVATION OF THE GROUND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -70,6 +71,36 @@ tags:
 | `PLoucuine` | **unresolved** (review queue) |
 | `SEED` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SowIna` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the ordering and disciplining of the desires and emotions by the Ego, and the developing of the faculties of the lower nature (the ground).
+
+> "I, too, plough and sow, and from my ploughing and sowing I reap [immortal?] fruit. My field is religion. The weeds I pluck up are the passions of cleaving to existence. My plough is wisdom, my seed [purity]."—(Extract) Hardy, *Manual of Buddhism*, p. 215.
+
+> "He (Osiris) reaps and I plough; yea, and I also reap."—Budge, *Book of the Dead*, Ch. CX.
+
+The Higher Self, or Individuality, reaps celestial grain, i.e. acquires in actuality, higher emotions. The lower Self "ploughs," i.e. fashions the life conditions for the seed of the Spirit; and finally also, the lower Self "reaps" as it realises its true nature.
+
+> "This, too, is the ruinous effect of an education of accomplishments. The education of the taste, and the cultivation of the feelings in undue proportion, destroys the masculine tone of mind. An education chiefly romantic or poetical, not balanced by hard, practical life, is simply the ruin of the soul."—F. W. Robertson, *Sermons*, 1st Series, p. 169.
+
+> "None of the inscriptions mentions Sekhet-Aaru, but it is distinctly said that the reaping of the grain is taking place in Sekhet-hetep, or Sekhet-hetepet." "If now we compare this picture (of Sekhet-hetep) with that from the Papyrus of Nebseni, we shall find that the actual operations of ploughing, reaping, and treading out of the corn are depicted in the Papyrus, and that several figures of gods and the deceased have been added."—Budge, *Egypt. Heaven and Hell*, Vol. III. pp. 44, 58.
+
+The cultivation of the soul being a spiritual process appertains to the higher planes, and the reaping of the harvest is on the buddhic plane (Sekhet-hetep),—the "corn" signifying the higher qualities transmuted from the lower. See AGRICULTURE, ANIMALS, CORN, FIELD, GARDEN, HARVEST, PLOUGHING, REAPING, SEED, SEKHET, SELF, SHABTI, SOWER.
+
+### Also in this note: CULTIVATING CORN, GRASS, AND FRUITS
+
+A symbol of the fostering of those virtues and utilities which accrue to the soul through the exercise of the active functions of the mind.
+
+> "You go to Nature and say, 'Feed me or I shall starve;' and her question comes back to you, 'How (much seed) have [you?]? Give me something to begin with, however little it may be.' Drop the old remnants of a past life into the ever fruitful soil, and all the possibilities of new life open. The spring-time finds last summer's roots still remaining in the ground, and quickens them to life again, and multiplies them into a richer summer still. Ingenious Nature finds a germ wherever it is dropped; but without the [germ] she will do nothing."—Phillips Brooks, *Serm.*, *How many Loaves have* [ye?]
+
+> "God comes to man, yea, He comes closer, till He enters into men. No disposition is good apart from God. Seeds of the divine are planted in human bodies; if they are well tended, they germinate and grow up into the likeness of That from whence they sprang (Seneca, *Ep.* LXXIII. 14). The teaching that there is a germinative principle—a seed of God in the human soul—was a fundamental idea with the Stoics. This doctrine, interpreted at its best, offers a basis for mystical religion and was very suggestive to the primitive Christians."—R. M. Jones, *Mystical Religion*, p. 70.
+
+See AGRICULTURE, CORN, CREATURES (small), GERMS, PLOUGHING, SEED, SOWING.
+
+**Corrections made:** `J, too` → I, too; `immo fruit` → [immortal?] fruit; `urity` → [purity]; `uddhism` → Buddhism; `Harpy` → Hardy; `Bupar` → Budge; `ernotions` → emotions; `lst Series` → 1st Series; `Bunpae` → Budge; `Fie~tp` → FIELD; `PLouGHinc`, `Reapine` restored; duplicated heading `CULTIVATING CULTIVATING` reduced to one; `J ehall` → I shall; `have u?` → have [you?]; `rm` → [germ]; `Pxinurs Rooks` → Phillips Brooks; `theysprang` → they sprang; `ptinciple` → principle; `thehuman` → the human; `LX XIII` → LXXIII; See-list spellings restored (`Germs`, `PLoucuine`, `SowIna`).
+
+**Unclear or supplied:** Contains a second entry: CULTIVATING CORN, GRASS, AND FRUITS (the OCR heading repeats `CULTIVATING` once as a page heading, removed). `[immortal?]` and `[purity]` are readings of the damaged `immo` and `urity`; `[you?]`, `[germ]` and `[ye?]` are supplied or completed from damaged OCR (`u?`, `rm`, and a title cut off after `have`). The Phillips Brooks sermon title is cut off in the OCR and the next quotation follows it directly.
 
 ## Full OCR entry body (exact)
 

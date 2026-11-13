@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mental-sheath-or-body-of-the-human-being
 headword: "MENTAL SHEATH, OR BODY, OF THE HUMAN BEING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,20 @@ tags:
 | `SHEATHS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SHEATHS OF THE SOUL|SHEATHS OF THE SOUL]] |
 | `VEHICLES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEHICLES OF CONSCIOUSNESS|VEHICLES OF CONSCIOUSNESS]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is the instrument of the spiritual ego on the lower mental plane. It is formed of mental matter as a vehicle of thought and will. Thought is expressed in forms of thought, and the limitations and images in the mind are constructed of mind-stuff or mental-matter within the mental body. Thought restricted to a particular ego, as is the case with mankind, is necessarily limited by the forms of matter obtainable in the stage of development at which the ego has arrived.
+
+> "Perception contains all the elements of 'thought,'—of imagination, conception, reasoning. Remembered images or ideas, and new percepts, which will reinforce or alter the old images or add new ones, 'constitute the materials of all intellectual operations; memory, reasoning, imagination, are acts which consist, in ultimate analysis, of grouping, and co-ordinating images, in [word unclear], the relations already formed between them, and in reuniting them into new relations' (Binet). When general and abstract terms are brought to the assistance of the mind, thought is still imagination, with names instead of images; yet even then the mind employs memory—images, which are [word unclear] of those names."—A. [E.] Crawley, *The Idea of the Soul*, [page unclear].
+
+We only get our conceptions of space and matter from images in our minds, which images must be material or they could not give us the conceptions we have of them. Forms take up space and possess qualities and these are all mental to our consciousness, which is in the mind and not on lower planes. The human soul must have a mental material body on the mental plane in order to put it in relation with images and ideas of mental matter which are the "materials of all intellectual operations." The mental body must also have an organised structure to render it capable of performing its functions in relation to the astral and physical bodies, which are also highly organised mechanisms to serve the requirements of the ego.
+
+See CASTES, CHILDREN OF HORUS, CLASSES, INTELLECT, MAISHAN, MANAS, MARRIAGE (castes), PETER, QUATERNARY, RUA'H, SHEATHS, VEHICLES, VESTURES.
+
+**Corrections made:** `consiet` → consist; `@ mental` → a mental; `A. 7. Crawley` → A. [E.] Crawley; `Crasszs` → CLASSES; `INTELLEOr` → INTELLECT; `Marnrace` → MARRIAGE; `QuaTERNaRY` → QUATERNARY; page heading `496 MERODACH` removed from mid-See-list; and similar minor fixes.
+
+**Unclear or supplied:** In the Crawley quotation `in 7 pice` and `which are i of those names` are not recoverable (`[word unclear]`); the page reference is lost. The initial `E.` is supplied. The See item RUA'H is a reading of `Ruan`.
 
 ## Full OCR entry body (exact)
 

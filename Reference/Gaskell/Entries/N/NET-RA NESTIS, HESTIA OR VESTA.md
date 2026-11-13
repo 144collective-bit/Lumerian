@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-net-ra-nestis-hestia-or-vesta
 headword: "NET-RA NESTIS, HESTIA OR VESTA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `AIDONEUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/AIDONEUS OR HADES|AIDONEUS OR HADES]] |
 | `NEPHTHYS` | resolved (first-segment) → [[Reference/Gaskell/Entries/N/NEPHTHYS, OR NEBKHAT, GODDESS|NEPHTHYS, OR NEBKHAT, GODDESS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the sensation principle of the physical plane.
+
+> "Nestis, who moistens the [springs?] of men with her tears."—Empedocles, Fairbanks, 33.
+
+The activities of the physical nature are the means of producing suffering to the mind (men). See AIDONEUS, NEPHTHYS.
+
+**Corrections made:** `FairBANES` → Fairbanks.
+
+**Unclear or supplied:** `[springs?]` stands for OCR `spri`, which breaks off.
 
 ## Full OCR entry body (exact)
 

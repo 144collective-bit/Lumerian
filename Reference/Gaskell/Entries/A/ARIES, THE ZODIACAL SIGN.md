@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aries-the-zodiacal-sign
 headword: "ARIES, THE ZODIACAL SIGN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,28 @@ tags:
 | `Tuat` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TUAT, OR DUAT, THE UNDERWORLD|TUAT, OR DUAT, THE UNDERWORLD]] |
 | `YEaR` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/Y/YEAR OF TWELVE MONTHS|YEAR OF TWELVE MONTHS]]; [[Reference/Gaskell/Entries/Y/YEAR YASODHARA, WIFE OF BUDDHA|YEAR YASODHARA, WIFE OF BUDDHA]]; [[Reference/Gaskell/Entries/Y/YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM|YEAR, ZODIAC, TIPHERETH, THE HEART OF THE HEAVENLY ADAM]] |
 | `ZODIAC` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Z/ZODIAC OF TWELVE SIGNS|ZODIAC OF TWELVE SIGNS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the first period of the cycle of life. The Ram or Lamb (Varak) signifies the Divine Sacrifice at the outgoing of the Spirit on the upper buddhic plane, in which the Higher Self limits himself to conditions of manifestation. The "Lamb" is slain in involution, for the nourishment of the souls and qualities in evolution.
+
+> "Christ's special symbol is Aries, which in India is a Horse. In a [word unclear] from the catacombs we see the horse emerging from the waters."—A. Lillie, *Budd. in Christendom*, p. 8.
+
+> "Once when thou (Buddha) wert the White Horse, in pity for the suffering of man, thou didst fly across heaven to the region of the evil demons to secure the happiness of mankind." (From Buddhist Gathas.) Footnote.—Yearly the sun-god as the zodiacal horse (Aries) was supposed by the Vedic Aryans to die to save all flesh. Hence the horse sacrifice."—A. Lillie, *Pop. Life of Buddha*, p. 58.
+
+The "region of the evil demons" is the present existence wherein are the desires (demons).
+
+> "In Persia, the sign Aries, the ram, was known as the lamb; and in the Mithraic mysteries at the Christian era, it was a lamb that was slain."—J. M. Robertson, *Religious Systems*, p. 202.
+
+In the second chapter of the Bundahis, Varak (the Lamb) is given as the first of the twelve signs or constellations. It is as a Ram-headed man that Afu-Râ, the incarnate God, enters the first compartment of the twelve divisions of the Tuat-night of twelve hours. The Zodiac with its twelve signs, the Year with its twelve months, and the Tuat with its twelve hours, all signify the great Cycle of Life in which the Self (sun) first becomes obscured in matter, and second, rises from matter to become fully manifest in the souls of humanity at the end of the cycle. The reason the sign is named "Lamb" rather than "Ram" is that the Self is born in the sign, and therefore is young.
+
+> "Cosmically Aries represents the initial stage in evolution where spirit descends into matter to bring into existence a universe. It is the supreme act of Divine sacrifice, which is again reflected when man is made 'a living soul.'"—J. H. Vanstone, *Lecture on the Zodiac*.
+
+See AFU-RA, AMENT, APES (nine), BUDDHA, DAWN, DEMONS, EQUINOX, EVOLUTION, HELL, HORSE SACRIFICE, HORSE (white), INVOLUTION, JESUS (lamb), LAMB, MARRIAGE (lamb), NET-RA, NIGHT, RAM, SACRIFICER, TAURUS, TUAT, YEAR, ZODIAC.
+
+**Corrections made:** Page heading `ARIES` removed from mid-sentence; `Liuuiz` → Lillie; `RoseRrson` → Robertson; `Afu-R&é` → Afu-Râ; `ita` → its; `oung` → young; `VaNsTONE` → Vanstone; `Aru-ri` → AFU-RA; `Tavgvs` → TAURUS; `Evo.LvuTion` → EVOLUTION; `N ET-RA, N IGHT 9 Ram` → NET-RA, NIGHT, RAM (stray `9` dropped); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` after `In a` (OCR lost the word before `from the catacombs`). The Lillie *Pop. Life of Buddha* quotation has the OCR's closing quotation mark after "horse sacrifice." without a matching opening mark after "Gathas.)"; set out as printed.
 
 ## Full OCR entry body (exact)
 

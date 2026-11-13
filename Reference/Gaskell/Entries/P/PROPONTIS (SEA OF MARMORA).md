@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-propontis-sea-of-marmora
 headword: "PROPONTIS (SEA OF MARMORA)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Sza` | **unresolved** (review queue) |
 | `WaTER (lower). PROSPERITY AND EARTH ARE THE WESTERN FEET OF BRAHMA’` | **unresolved** (prose-bleed / overlong token; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral plane. See SEA, WATER (lower).
+
+### Also in this note: PROSPERITY AND EARTH ARE THE WESTERN FEET OF BRAHMA
+
+**Corrections made:** `Sza, WaTER` → SEA, WATER; the trailing headword is set out under "Also in this note".
+
+**Unclear or supplied:** Contains a second entry: PROSPERITY AND EARTH ARE THE WESTERN FEET OF BRAHMA. Only its headword is in the OCR; no text follows.
 
 ## Full OCR entry body (exact)
 

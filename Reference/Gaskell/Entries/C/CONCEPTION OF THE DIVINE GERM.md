@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-conception-of-the-divine-germ
 headword: "CONCEPTION OF THE DIVINE GERM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Giory (divine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/G/GLORY, DIVINE SACERDOTAL AND KINGLY|GLORY, DIVINE SACERDOTAL AND KINGLY]] |
 | `Szzp` | **unresolved** (review queue) |
 | `Vim` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the energising of the Self within, when the moral nature is perfectly established in the soul.
+
+See BIRTH OF JESUS, BODHISATVA, GLORY (divine), SEED, [VIRGIN?]
+
+**Corrections made:** See-list spellings restored (`BrrTo oF JESUS`, `Giory`, `Szzp`).
+
+**Unclear or supplied:** The See list is cut off in the OCR at `Vim`, shown as `[VIRGIN?]`; it ends without a full stop.
 
 ## Full OCR entry body (exact)
 

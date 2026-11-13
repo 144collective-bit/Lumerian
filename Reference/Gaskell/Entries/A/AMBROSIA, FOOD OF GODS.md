@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ambrosia-food-of-gods
 headword: "AMBROSIA, FOOD OF GODS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `Honey` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HONEY|HONEY]] |
 | `SACRAMENTAL OAKES` | **unresolved** (review queue) |
 | `ZARAMAYA OIL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Truth, Wisdom[,] Love, which are the attributes [of the] immortal, and are the spiritual nourishment of the higher qualities (gods) in the soul of man.
+
+See BUTTER, CHURNING, FOOD, HONEY, SACRAMENTAL CAKES, ZARAMAYA OIL.
+
+**Corrections made:** Page heading `AMEN` removed from mid-sentence; `BuTTER`, `CHURBNING`, `Honey`, `OAKES` → CAKES restored.
+
+**Unclear or supplied:** `[,]` and `[of the]` are supplied: the OCR reads "Truth, Wisdom Love, which are the attributes AMEN immortal", and the words may have been lost with the page heading.
 
 ## Full OCR entry body (exact)
 

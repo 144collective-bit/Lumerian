@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mythology-mythology
 headword: "MYTHOLOGY MYTHOLOGY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -85,6 +86,28 @@ tags:
 | `WORLDS (five)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WORLDS WORLDS, FIVE|WORLDS WORLDS, FIVE]] |
 | `ZAGREUS` | resolved (first-segment) → [[Reference/Gaskell/Entries/Z/ZAGREUS, THE MYSTIC DIONYSUS|ZAGREUS, THE MYSTIC DIONYSUS]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This contains the symbolism of Divine emanation from the Absolute, and manifestation of Spirit and Matter in Time and Space throughout the cycle of Life: the symbolism of the origin and growth of the Soul, the descent of Spirit into Matter in the process of Involution, followed by the ascent of Spirit from Matter in the process of Evolution: the symbolism of the five planes of being, and of the higher and lower natures, and of the four soul-bodies: the symbolism of the struggle in the soul between the Divine principle or Self and the lower principle or not-Self; and also of a great variety of unapparent activities.
+
+> "And yet, how strange (are these tales)! From the very childhood of philosophy, from the first faintly whispered [why?] to our own time of matured thought and fearless inquiry, mythology has been the ever-recurrent subject of anxious wonder and careful study. . . . There is this common feature in all who have thought or written on mythology, that they look upon it as something which, whatever it may mean, does certainly not mean what it seems to mean; as something that requires an explanation, whether it be a system of religion, or a phase in the development of the human mind."—Max Müller, *Chips*, Vol. IV. pp. 156-7.
+
+> "It may pass for a further indication of a concealed and secret meaning, that some of these (Greek) fables are so absurd, and idle, in their narration, as to show and proclaim an allegory even afar off. A fable that carries probability with it may be supposed to be invented for pleasure, or in imitation of history; but those fables that could never be conceived, or related in this way, must surely have a different use. For example, what a monstrous fiction is this, that Jupiter should take Metis to wife; and as soon as he found her pregnant, eat her up; whereby he also conceived, and out of his head brought forth Pallas armed? Certainly no mortal could, but for the sake of the moral it couches, invent such an absurd dream: so much out of the road of thought."—Lord Bacon, *Wisdom of the Ancients*.
+
+> "Let the narrations in the Eddas be compared with the beginning of Hesiod's Theogony, with the mythology of some Asiatic nations, and with the book of Genesis, and we shall instantly be convinced that the conformity which is found between many circumstances of their recitals cannot be the mere work of chance."—Mallet, *North. Antig.*, p. 99.
+
+> "This voice of fable has in it somewhat divine. It came from thought above the will of the writer. That is the best part of each writer, which has nothing private in it; that which he does not know; that which flowed out of his constitution, and not from his too-active invention."—Emerson, *Essay on Compensation*.
+
+> "On the subject of Greek Symbolism generally, Rektor Siljestrom says: 'The Greek Fables are thoroughly symbolical, and the Wisdom that speaks from this mythology is so deep and so comprehensive that it is impossible not to see the actual civilization of thousands of years mirrored in it.'"—J. J. G. Wilkinson, *Revelation and Mythology*, p. 74.
+
+> "It has been well pointed out that myth and legend are truer than history for they take us to the inside of things, whereas history only shows us the [surface?]"—J. Campbell, *New Theology*, p. 261.
+
+See ACHILLES, ADONIS, AGAMEMNON, AIDONEUS, ANDROMEDA, APOLLO, ATALANTA, ATHENA, BACCHUS, CHILDREN OF HORUS, [COMS?], COSMOS, CREATION, CUPID, DEMETER, DIONYSUS, DIOSCURI, ELEMENTS, EROS, EVOLUTION, GILGAMESH, HEAVEN AND EARTH, HELEN, HERA, HESPERIDES, HIGHER, INSPIRATION, INVOLUTION, JASON, LATONA, MEADOW, MEDEA, MEDUSA, PAN, PANDORA, PERSEPHONE, PERSEUS, PHANES, PLANES (five), PROMETHEUS, QUATERNARY, RAMAYANA, REVELATION, SCRIPTURES, SUSANOWO, TITANS, UPANISHADS, URANUS, VENUS, VESTURES, WORLDS (five), ZAGREUS, ZEUS.
+
+**Corrections made:** `bo` → be; `leasure` → pleasure; `ut` → but; `rivate` → private; `now` → know; `beat` → best; `pee` → see; `Comnsation` → Compensation; `Wriixinson` → Wilkinson; `Matuet` → Mallet; `EmeErson` → Emerson; `Lorp Bacon` → Lord Bacon; `soul- bodies` → soul-bodies; page heading `NAAMAH` removed from mid-sentence; See-list spellings restored (`AcHittESs`, `Baccxus`, `Droscurl`, `GitcamMes`, `Mrapow`, `MEpDvUSA`, `Susanowo` and similar).
+
+**Unclear or supplied:** `[why?]` stands for OCR `y?`. `[surface?]` stands for OCR `Styrene`; the attribution reads `J. CampBer.` and is given as J. Campbell. `[COMS?]` is an unidentified See-list item. `MEADOW` is a likely reading of `Mrapow`.
 
 ## Full OCR entry body (exact)
 

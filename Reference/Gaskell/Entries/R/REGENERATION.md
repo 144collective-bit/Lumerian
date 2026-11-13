@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-regeneration
 headword: "REGENERATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -58,6 +59,26 @@ tags:
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `VIRGIN MARY` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the production anew, through a process of spiritual transmutation and evolution, of the purified and perfected qualities of the ego which thereby rises to a new birth on the higher planes of consciousness.
+
+> "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost."—Titus iii. 5.
+
+Not by the highest impulses of the lower nature can a spiritual result, or rise in consciousness, be brought about; but only according to a free gift of the Spirit can the soul be made immortal. Spiritual qualities are bestowed in proportion as the human nature is purified and raised through the transmutations effected by the operations of Buddhi (Holy Ghost). The teaching is that the lower nature cannot possibly raise its condition, for it does not possess or control the higher elements. The higher elements are given to the struggling soul when it is sufficiently evolved and prepared to receive them, and chooses to accept them.
+
+> "There is no ascent of the human desires above their source. And wherever in a heart there springs up heavenward a thought, a wish, a prayer, a trembling confidence, it is because that came down first from heaven, and rises to seek its level again. All that is divine in man comes from God. All that tends towards God in man is God's voice in the human heart; and were it not for the possession and operation, the sanctifying and quickening, of a living divine Spirit granted to us, our souls would for ever cleave to the dust, and dwell upon earth, nor ever rise to God and live in the light of His presence."—A. MacLaren, *Sermons*, 1st Series, p. 62.
+
+> "Regeneration has not merely been an outstanding difficulty, but an overwhelming obscurity. Philosophically one scarcely sees either the necessity or the possibility of being born again. Why a virtuous man should not simply grow better and better until in his own right he enter the Kingdom of God, is what thousands honestly and seriously fail to understand. Now Philosophy cannot help us here. Her arguments are, if anything, against us. But Science answers to the appeal at once. If it be simply pointed out that this is the same absurdity as to ask why a stone should not grow more and more living till it enters the Organic World, the point is clear in an instant."—H. Drummond, *Natural Law*, etc., p. 80.
+
+> "The true and definitely directed mystical life does and must open with that most actual and stupendous, though indescribable phenomenon, the coming forth into consciousness of man's deeper spiritual self, which ascetical and mystical writers of all ages have agreed to call Regeneration or Re-birth. Here its more profound and mystical side is exhibited, its divine character revealed. By a process which may indifferently be described as the birth of something new, or the coming forth of something which has slept—since both these phrases are but metaphors for another and more secret thing—the eye is opened on Eternity; the self, abruptly made aware of Reality, comes forth from the cave of illusion like a child from the womb and begins to live upon the super-sensual plane. Then she feels in her inmost part a new presence, a new consciousness—it were hardly an exaggeration to say a new Person—weak, demanding nurture, clearly destined to pass through many phases of development before its maturity is reached; yet of so strange a nature, that in comparison with its environment she may well regard it as a [word unclear]."—Underhill, *Mysticism*, p. 147.
+
+See ASCENSION, ATONEMENT, BAPTISM, BORN AGAIN, BUDDHI, CAVE, CIRCLE OF EXISTENCE, CONSECRATION, EVOLUTION, GRACE OF GOD, HOLY GHOST, INVOLUTION, JUDASES, LIBERATION, MAN (natural), NICODEMUS, RE-BIRTH, REDEMPTION, REMISSION, RESURRECTION, SACRIFICE, SAINTS, SALVATION, TRANSMUTATION, VIRGIN MARY, WATER.
+
+**Corrections made:** page headings `618 REGENERATION` and `REGIONS` removed from mid-sentence; `purifled` → purified; `con618 dition` → condition; `hurnan` → human; `cperation` → operation; `Spirit:` → Spirit; `lst Sertes` → 1st Series; `@ virtuous` → a virtuous; `3 stone` → a stone; `mor living` → more living; `ascetieal` → ascetical; `mor profound` → more profound; `super. sensual` → super-sensual; `@ new presence, & new` → a new presence, a new; `aa UNDERHILL` → a [word unclear]."—Underhill; See-list spellings restored (`BapTISM`, `BuppuHI`, `GRACE oF con`, `Hoty G@Host`, `InvoLurion`, `Jupases`, `NicopEMusS`, `JRRESURRECTION`); quotation marks normalised.
+
+**Unclear or supplied:** The Underhill quotation ends in damaged OCR (`as aa UNDERHILL`): the last word of the quotation is lost and marked `[word unclear]`. `Jupases` read as JUDASES, `GRACE oF con` read as GRACE OF GOD.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-sacrifice-of-animals
 headword: "SACRIFICE OF ANIMALS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,48 @@ tags:
 | `VAGAPEYA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VAGAPEYA SACRIFICE|VAGAPEYA SACRIFICE]] |
 | `ViTaL AIRS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WASHED (blood)` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WASHED IN THE BLOOD OF THE LAMB|WASHED IN THE BLOOD OF THE LAMB]]; [[Reference/Gaskell/Entries/W/WASHED THE FEET|WASHED THE FEET]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the devitalising and offering up of the lower desires and affections for the sake of making a place in the soul for the higher qualities of goodness, love, and truth.
+
+> "Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices have been instituted for the good of this whole world; hence the slaughtering of beasts for sacrifices is not slaughtering in the ordinary sense of the word."—*Laws of Manu*, V. 39.
+
+This signifies that the Supreme brought the lower qualities—the desires, etc. (animals) into existence for the express purpose of providing the means whereby the higher qualities should be developed in the soul (world). The lower qualities have to be overcome and exchanged for the higher. They must be sacrificed.
+
+> "Sacrifice is the law of life-manifestation which not even omnipotence can escape. . . . The very qualities which to us are most admirable in human nature, which we reverence most in human character and conduct, and associate specially with the Christ ideal, are qualities which could not become manifest,—however really they might be latent in the Life-Force,—were it not for the conflict with evil. Where would be pity, fidelity, heroism, integrity, and the like, if our moral nature had never had anything to cut its teeth on, so to speak?"—R. J. Campbell, *Serm.*, *Nature of Life-Force*.
+
+> "Herbs, trees, cattle, birds, and other animals that have been destroyed for sacrifices receive, being re-born, higher existences."—*Laws of Manu*, V. 40.
+
+This refers to the transmutation of lower qualities (animals, etc.) into higher qualities, as taught in all scriptures. The qualities are "re-born" on to a higher plane of existence.
+
+> "Sacrifice is the true type of progress. We sacrifice a lower life to cultivate and enjoy a higher. All improvement is a sacrifice in this sense. But in growing up from the root, it begins at the bare and barren rock that affords no nourishment to the soul. The blood of the beast is this lowest idea. . . . It is by sacrificing the lower grades that we ascend to the higher. . . . The highest of all sacrifices are the everlasting sacrifices of righteousness, the sacrifices of selfish and inferior feelings and passions; for these are the true beasts, best represented by clean or domestic animals as they belong to ourselves, and are transubstantiated into ourselves by being used as food. And therefore it is for ever a sacrifice of beasts; only the lower is translated into the higher meaning, as the rock is translated into alluvial and nourishing soil."—J. Smith, *The Divine Drama of History*, pp. 56, 57.
+
+> "To sacrifice is to stir up, actually to beget, two divinities of the first rank, the two principles of life *par excellence*, Agni and Soma."—A. Barth, *The Religions of India*, p. 36.
+
+"Agni" is the force aspect of atma-buddhi, and "Soma" is the Divine Life; these emerge in the soul as growth proceeds.
+
+> "'By sacrifices,' says the Taittiriyabrahmana, 'the gods obtained heaven.'"—Mon. Williams, *Religious Thought in India*, p. 23.
+
+The "gods" are the Divine Sparks, who descend to rise.
+
+> "The Indian gods even look to mortals for their daily sustenance, and are represented as actually living on the sacrifices offered to them by human beings, and at every sacrificial ceremony assemble in troops, eager to feed upon their shares. In fact, sacrifice with the Hindus is not merely expiatory or placatory; it is necessary for the food and [appetite?] of the gods. If there were no sacrifices the gods would starve to death. This alone will account for the interest they take in the destruction of demons whose great aim was to obstruct these sources of their sustenance."—Mon. Williams, *Indian Wisdom*, pp. 428-9.
+
+The "gods" are the highest ideals, or highest qualities within the human soul. They always grow in strength and beauty as the lower desires and passions are overcome and abandoned. It is said, therefore, that "sacrifices are for the sustenance of the gods." The "demons" signify evil habits and erroneous opinions which obstruct the offering up of the desires, and consequently retard the growth of the ideals (gods).
+
+> "The main object of sacrificial performances generally is the re-construction of Pragapati, the personified universe, and the divine body of the Sacrificer."—J. Eggeling, *S.B. of E.*, Vol. XLIV. p. xlvii.
+
+The soul's evolution is the re-forming or gradual building up of Christ, the Archetypal Man, "for we are members of his body"; and this re-formation of Divinity in humanity is effected by the offering up of the lower nature to the higher, so that "Christ be formed in us," and grow to perfection.
+
+> "Man's regeneration is an image of the Lord's glorification."—Swedenborg, *Arc. Cel.*, n. 10,042.
+
+> "All the animals on earth signify such things as pertain to man; which in general refer to the affections which are of his will, and to the thoughts which are of his understanding, and therefore to goods and truths. . . . The sacrifices and burnt-offerings in general signify the regeneration of man by the truths of faith and the goods of love. The whole [word unclear] of regeneration is also described by the particular rituals of each sacrifice and burnt offering."—Swedenborg, Ibid.
+
+See AGNI, ALTAR, ANIMALS, ARC. MAN, BEASTS, BURNT OFFERING, CATTLE, COW, DEMONS, FOOD OF GODS, GODS, HECATOMB, LAWS, OBLATION, OFFERING, PASSOVER, PRAGAPATI (relaxed), PRAYERS (oblations), [RaGaANya?], RAM, REGENERATION, ROASTED FLESH, SACRAMENTAL CAKES, SALVATION, SOMA, VAGAPEYA, VITAL AIRS, WASHED (blood).
+
+**Corrections made:** `par ercellence` → par excellence; `Bartnu` → Barth; `Relsgions` → Religions; `Wituiams` → Williams; `tn` → in; `Eoortma` → Eggeling; `p- xivii` → p. xlvii; `rforming` → re-forming; `c Christ` → of Christ; `descnbed y` → described by; `o faith` → of faith; `goul` → soul; `desirss` → desires; `sust nance` → sustenance; `Pragfpati` → Pragapati; `Are. Cel.` → Arc. Cel.; `[hid` → Ibid.; page headings `Day PEN, SACRIFICES` and `e 644 SACRIFICES` removed from mid-sentences; See-list spellings restored (`Acni`, `BEaAsts`, `DrEmons`, `Foop or cops`, `Pracdpatr`, `REGENERa«TION`, `ViTaL AIRS`, etc.).
+
+**Unclear or supplied:** `[appetite?]`: OCR `appPe`. `[word unclear]`: OCR `aaa` in the last Swedenborg quotation. `[RaGaANya?]`: See-list item not identified.
 
 ## Full OCR entry body (exact)
 

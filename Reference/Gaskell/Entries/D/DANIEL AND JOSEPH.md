@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-daniel-and-joseph
 headword: "DANIEL AND JOSEPH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `JOSEPH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/J/JOSEPH, HUSBAND OF MARY|JOSEPH, HUSBAND OF MARY]]; [[Reference/Gaskell/Entries/J/JOSEPH, SON OF JACOB|JOSEPH, SON OF JACOB]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Self incarnate in the lower nature of the soul, and gradually expressing outwardly the Truth that is within.
+
+> "As Joseph was carried captive to Egypt, so was Daniel to Babylon; (Ch. I. 2) like Joseph he must change his name; (7). God makes the prince of the eunuchs favourable to him, as the chief butler to Joseph; (9). he abstains from polluting himself with partaking of the king's meats and drinks, which are pressed upon him; (8). a self-denial held as meritorious in the time of Antiochus Epiphanes, as that of Joseph with regard to Potiphar's wife; like Joseph he gains eminence by the interpretation of a dream of the king, which his wise men were unable to explain to him."—D. F. Strauss, *Life of Jesus*, Vol. I. p. 83.
+
+The change of name signifies difference in aspect or condition of limitation. The head officials are the highest qualities of the lower nature, which therefore favour the Self. The "self-denial" indicates that the Spirit cannot be nourished or satisfied with the things of sense and desire. The interpreting of the dreams signifies the bringing knowledge of the problems of life which the lower mind and its faculties (wise men) are unable to solve. See JOSEPH.
+
+**Corrections made:** page heading `199 DARKNESS` removed from mid-quotation; `selfdenial` → self-denial; `dreama` → dreams; `fol. I.` → Vol. I.
+
+**Unclear or supplied:** `fol. I. p. 83` is read as `Vol. I. p. 83`.
 
 ## Full OCR entry body (exact)
 

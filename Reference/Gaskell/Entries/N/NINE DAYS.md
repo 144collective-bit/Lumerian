@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nine-days
 headword: "NINE DAYS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `ASSEMBLY` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/A/ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES|ASSEMBLY OF ADJUDICATING PRIESTS, ELDERS, AND SCRIBES]]; [[Reference/Gaskell/Entries/A/ASSEMBLY OF PEOPLE|ASSEMBLY OF PEOPLE]] |
 | `PESTILENCE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PESTILENCE CAUSED BY APOLLO|PESTILENCE CAUSED BY APOLLO]] |
 | `TEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TEN, NUMBER|TEN, NUMBER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of nine cycles or periods.
+
+> "Nine days through the army went the arrows of the god (Apollo); but on the tenth, Achilles called the people to an assembly."—*Iliad*, Bk. I.
+
+For nine periods the Life of the Logos ensouled the manifesting egos on the mental plane; but at the tenth period the personality is evolved sufficiently to enable the lower qualities to assemble.
+
+See ACHILLES, APOLLO, ARROWS, ASSEMBLY, PESTILENCE, TEN.
+
+**Corrections made:** `ZIliad` → Iliad; `AcHILLES` → ACHILLES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

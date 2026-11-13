@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enigorio-and-enigohatgea
 headword: "ENIGORIO AND ENIGOHATGEA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `AHRIMAN AKEM-MANO` | **unresolved** (review queue) |
 | `OPPOSITES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/O/OPPOSITES, PAIRS OF|OPPOSITES, PAIRS OF]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the Higher principle and the lower principle as conflicting opposites on the mental plane.
+
+> "Twin brothers, who in the mythology of the Iroquois Indians symbolised the good and evil principles, the names signifying 'Good Mind' and 'Bad Mind' respectively. The good creative offices in the building up of the cosmic scheme of Enigorio were neutralised by his evil brother, who wandered over the earth transforming the beneficent creations of Enigorio into the things that have proved harmful to mankind."—*Non-classical Mythology*, p. 62.
+
+This legend does not show alteration under Christian influence, but is paralleled exactly in the Zoroastrian scriptures. In the first part of the Vendidad there is an account of the creation of many "lands" by Spentamainyu (Good Spirit) followed by the creation of deleterious objects by Angra-mainyu (Evil Spirit). This refers to the duality and relativity which are inseparable from manifestation. The relatively good always implies the relatively bad and each good quality has its opposite.
+
+See AHRIMAN, AKEM-MANO, OPPOSITES.
+
+**Corrections made:** `ctively` → respectively; `tho` → the; page heading `EPHOD` (with stray marks `-—® ste —`) removed from mid-sentence; `AHRIMAN AKEM-MANO` → AHRIMAN, AKEM-MANO; quotation marks normalised.
+
+**Unclear or supplied:** The author of *Non-classical Mythology* is not given in the OCR.
 
 ## Full OCR entry body (exact)
 

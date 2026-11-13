@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-army-of-the-gods-or-hosts-of-the-lord
 headword: "ARMY OF THE GODS, OR HOSTS OF THE LORD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Hosts` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HOSTS, LORD OF|HOSTS, LORD OF]] |
 | `Souprers` | **unresolved** (review queue) |
 | `WARRIORS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WARRIORS, TWIN|WARRIORS, TWIN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the disciplined mental qualities, ready to do battle with the desires and lower impulses, for the sake of ideals.
+
+See HOSTS, SOLDIERS, WARRIORS.
+
+**Corrections made:** `Souprers` → SOLDIERS; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

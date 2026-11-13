@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nuns
 headword: "NUNS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `Monk` | resolved (first-segment) → [[Reference/Gaskell/Entries/M/MONK OR HERMIT|MONK OR HERMIT]] |
 | `Virncin` | **unresolved** (review queue) |
 | `WomAN` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WOMAN|WOMAN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of higher emotions nurtured in seclusion from the turmoil of the desires. They are under the uplifting influence of aspirations (vows) and the harmonising discipline of the Higher Self. See MONK, VIRGIN, WOMAN.
+
+**Corrections made:** See-list spellings restored (`Monk`, `Virncin`, `WomAN`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

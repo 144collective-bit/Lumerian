@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-kyavana-the-great-seer
 headword: "KYAVANA, THE GREAT SEER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `AsiTa` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/ASITA, THE SAGE|ASITA, THE SAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a forerunner of the Soul, through which the Divine nature could not manifest.
+
+See ASITA,
+
+**Corrections made:** `AsiTa` → ASITA.
+
+**Unclear or supplied:** The entry ends at `See ASITA,` in the OCR; the See list is cut short.
 
 ## Full OCR entry body (exact)
 

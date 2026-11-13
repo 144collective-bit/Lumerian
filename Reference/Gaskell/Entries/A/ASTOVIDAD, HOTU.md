@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-astovidad-hotu
 headword: "ASTOVIDAD, HOTU"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `AEsHM` | **unresolved** (review queue) |
 | `ARROw (self-moving)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/A/ARROW OF THE SPIRIT|ARROW OF THE SPIRIT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-mind, or the function of kama-manas.
+
+See AESHMA, ARROW (self-moving).
+
+**Corrections made:** `AEsHM` → AESHMA; `ARROw` → ARROW.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-colour-and-black-and-white
 headword: "COLOUR, AND BLACK AND WHITE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,26 @@ tags:
 | `CREATION` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES|CREATION OR EMANATION OF THE SPIRITUAL AND MATERIAL UNIVERSES]] |
 | `Kapiua` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KAPILA|KAPILA]] |
 | `PROTOTYPES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/P/PROTOTYPES, FIXED|PROTOTYPES, FIXED]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the different qualities within the soul, and their various aspects.
+
+> "Colour is intended for qualities, differences, etc."—Max Müller, *S. B. of E.*, Vol. XV. p. 249.
+
+> "And since these things are so, it is necessary to think that in all the objects that are compound, there existed many things of all sorts and germs of all objects, having all sorts of forms and colours and tastes."—Anaxagoras, Fairbanks, 3.
+
+And as the universe is so appointed (of Spirit and Matter), it is logical to accept the thesis that in all nature heterogeneity exists potentially. There was infinite diversity, in that, with the material was involved the spiritual, and within the spiritual lay the ideal forms (archetypal) of all objects that were to exist, and these were to be replete in "form, colour, and taste," that is, as regards their astral, mental and physical contributions to requirement.
+
+> "The tissues of the life to be we weave with colours all our own, and in the fields of destiny we reap as we have sown."—R. J. Campbell, *The New Theology*, p. [number unclear].
+
+> "Some years ago in going through an exhibition of art and industry, I was taken to a place where a fabric of many colours was being woven by skilled workers. Each worker had a separate colour to insert in the piece, and I noted to my surprise that they were all seated on the wrong side of the frame in which the fabric was fixed, so that they could not see what they were producing, and they actually had a wrong-side pattern given them to work from; the pattern, as each operator held it in his or her hand, was quite different from, and utterly inadequate as a representation of, what was appearing on the further side. Every movement on the hitherside was producing something much better and more beautiful on the other, the completed whole of which was a harmony of colour. We are all like those pattern-weavers. We are weaving on the wrong side of the fabric, and our best earthly efforts are other than they seem, and are producing a diviner result than this world shall ever see. God [grant?] us all to weave faithfully according to such pattern as we have, that the glory of the fullest revelation may be ours."—R. J. Campbell, Serm., *Life's Delusions*.
+
+See CREATION, KAPILA, PROTOTYPES.
+
+**Corrections made:** `these thing are` → these things are; `objecte` → objects; `Max MULLER` → Max Müller; `R. Be CaMPBELL` → R. J. Campbell; `@ representation` → a representation; `@ harmony` → a harmony; `CampsBeiyt` → Campbell; page heading `COLOURS` removed from mid-sentence; See-list spellings restored (`Kapiua`, `PROTOTYPES`).
+
+**Unclear or supplied:** `p. [number unclear]` (OCR `p. e`). `[grant?]` (OCR `God t us all`). `KAPILA` is read from `Kapiua`.
 
 ## Full OCR entry body (exact)
 

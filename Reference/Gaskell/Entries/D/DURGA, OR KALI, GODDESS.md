@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-durga-or-kali-goddess
 headword: "DURGA, OR KALI, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,16 @@ tags:
 | `SLAUGHTER` | **candidate (first-segment only; R3 path note)** → prior false machine head (renamed to [[Reference/Gaskell/Entries/W/WARM AND COLD|WARM AND COLD]]); OCR token `SLAUGHTER` **not** that lemma — **unresolved** (review queue) |
 | `TONGUES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TONGUES, GIFT OF|TONGUES, GIFT OF]] |
 | `WAR` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WAR, FIGHTING|WAR, FIGHTING]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Buddhi as the destroyer of the lower mental qualities (men or people). This symbol furnishes an instance of erroneous attribution of ferocity to an object of worship, when the meaning is simply the destruction of evil propensities in the soul.
+
+See BUDDHI, EGYPTIANS, EXODUS, SIVA, SLAUGHTER, TONGUES, WAR.
+
+**Corrections made:** See-list spellings restored (`Buppui`, `Eeyptians`, `Exopvs`, `Srva`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

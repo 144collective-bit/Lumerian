@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-dropner-ring
 headword: "DROPNER RING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,20 @@ tags:
 | `Rasas` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/R/RAMAS, ORDERS, YESHTIHA MOMENTS|RAMAS, ORDERS, YESHTIHA MOMENTS]] |
 | `RING-HORNE` | **candidate (first-segment only)** → possible `RINGHORNE, BALDER'S SHIP` (not linked) |
 | `TaMAs. DROUGHT ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the quality of tamas, i.e. inertia, or lack of progressive energy, and of initiative.
+
+> "Odin cast upon the funeral pile (of Balder) the ring Dropner, which [had?] the property of producing every month eight similar rings of weight equal to itself. Balder's horse and all his riding-gear were also laid upon the pile."—Howitt, *Literature, Prose Edda, etc.*
+
+And now it is that the Higher Self under the aspect of Will (Odin) casts forth the tamasic quality, which is eightfold, inasmuch as, being a condition of the four lower planes, it has duality of aspect on each plane. The "month" is a symbol of time or space, and indicates phenomenal changes. Thereupon the rajasic quality of outgoing energy, and the functioning of the mind are substituted.
+
+See BALDER, DEATH OF BALDER, EIGHT, GUNAS, HORSE, MONTH, NANNA, ODIN, RAJAS, RING-HORNE, TAMAS.
+
+**Corrections made:** `Drépner` → Dropner; `ridinggear` → riding-gear; `ete.` → etc.; trailing page heading `DROUGHT ;` removed; See-list spellings restored (`BaLpER`, `Erent`, `Horst`, `Monrs`, `Opin`, `Rasas`, `TaMAs`).
+
+**Unclear or supplied:** `[had?]` stands for OCR `po` ("which po the property"). The spelling `Dropner` follows the headword.
 
 ## Full OCR entry body (exact)
 

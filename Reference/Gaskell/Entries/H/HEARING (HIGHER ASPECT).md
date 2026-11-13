@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hearing-higher-aspect
 headword: "HEARING (HIGHER ASPECT)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Hipine` | **unresolved** (review queue) |
 | `Sounn` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SOUND, OR VOICE|SOUND, OR VOICE]] |
 | `VoICcE OF GOD` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VOICE OF GOD|VOICE OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the intuitive perception of truth from within the soul. An attitude of reception of wisdom from above.
+
+> "God speaks with a man, not by means of some audible creature dinning in his ears, so that atmospheric vibrations connect Him that makes with him that hears the sound; nor even by means of a spiritual being with the semblance of a body, such as we see in dreams or similar states; for even in this case he speaks as if to the ears of the body, and with the appearance of a real interval of space. Not by these, then, does God speak, but by the truth itself, if any one is prepared to hear with the mind rather than with the body. He speaks to that of man which is better than all else in him, and than which God himself alone is better."—Augustine, *City of God*, Bk. XI. Ch. 2.
+
+See CONSCIENCE, HIDING, SOUND, VOICE OF GOD.
+
+**Corrections made:** `of of` → of; `eara` → ears; `AUQUSTINE` → Augustine; See-list spellings restored (`CoNSCIENCE`, `Hipine`, `Sounn`, `VoICcE`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

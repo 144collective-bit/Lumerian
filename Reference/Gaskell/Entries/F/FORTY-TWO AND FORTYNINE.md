@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-forty-two-and-fortynine
 headword: "FORTY-TWO AND FORTYNINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,14 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Forty-two is the number which implies perfection upon the lower planes,—6 x 7 = 42. Increase this number by seven, and there results the number forty-nine,—7 x 7 = 49,—which is the Christ number signifying perfection on the higher planes.
+
+**Corrections made:** page heading `FOUNTAIN` removed from mid-sentence; stray `/` removed before "lower".
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

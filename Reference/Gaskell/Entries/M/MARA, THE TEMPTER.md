@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mara-the-tempter
 headword: "MARA, THE TEMPTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Kourus` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/K/KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA|KURUS, THE HUNDRED SONS OF DHRITA-RASHTRA]] |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `Swan` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SWAN, WHITE|SWAN, WHITE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the desire-nature or desire-mind which entices the soul and keeps it captive on the lower planes.
+
+> "Maras are 'lords of sensuous desires. . . . Millions of Mâras ruled over by a chief Mara, who tempts men to indulge their passions and is always on the watch to enter the citadel of the body by the gates of (the senses), eye, ear, etc. One of Mara's names is Kama, 'desire.'"—Mon. Williams, *Buddhism*, p. 208.
+
+A multitude of desires are directed by the desire-mind (kama-manas).
+
+See ASURA (lower), DEVIL, KAMA, KOURUS, SERPENT (subtil), SWAN.
+
+**Corrections made:** `Méras` → Mâras; `eto` → etc.; `WiiiiaMs, Buddhiem` → Williams, *Buddhism*; See-list spellings restored (`Asura`, `Devit`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

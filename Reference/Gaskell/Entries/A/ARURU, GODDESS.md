@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aruru-goddess
 headword: "ARURU, GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `MorHER` | **unresolved** (review queue) |
 | `TRIAD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRIAD, HIGHER|TRIAD, HIGHER]] |
 | `TRINITY. ARYANA-VAE£` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the feminine, or matter, aspect of Divine manifestation.
+
+> "Ea under the mask of Merodach, is the creator of mankind as of all things else. In this act of creation the goddess Aruru is coupled with him."—A. H. Sayce, *Rel. of Egypt. and Babyl.*, p. 382.
+
+The First Logos (Ea) under the aspect of the Second (Merodach) produces all things. "Aruru" signifies the feminine, receptive principle, for duality is necessary to manifestation, matter and spirit being essential thereunto. "Ea, Merodach, and Aruru" constitute the Higher Triad or Divine Trinity.
+
+See BUDDHI, EA, MAYA (higher), MERODACH, MOTHER, TRIAD, TRINITY.
+
+**Corrections made:** Page headings `ASAR` (mid-sentence) and `ARYANA-VAE£` (end) removed; `Savok` → Sayce; See-list spellings restored (`Buppwi`, `MiyA`, `MeEropacu`, `MorHER`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

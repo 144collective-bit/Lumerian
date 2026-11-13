@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-counterfeit-of-the-spirit
 headword: "COUNTERFEIT OF THE SPIRIT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,18 @@ tags:
 | `INDIVIDUALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/I/INDIVIDUALITY|INDIVIDUALITY]] |
 | `PERSONALITY` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PERSONALITY|PERSONALITY]] |
 | `Son OF GOD` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SON OF GOD, FIRST-BORN|SON OF GOD, FIRST-BORN]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Anti-Christ—he who cometh as from God, but who doeth not the works of God.
+
+> "And it is the Hebrews alone, and the Sacred Books of Hermes, which tell us these things about the man of Light and his guide the Son of God, and about the earthly Adam and his guide, the Counterfeit, who doth blasphemously call himself Son of God, for leading men astray."—*Fragments of Zosimus*, 27.
+
+The "Man of Light" is the individuality in harmony with the Higher Self. The "earthly Adam" is the lower personality that first becomes subject to the desire-nature which claims falsely to be its true ruler, and to take the place of the spiritual nature in the human soul. See ADAM (lower), ADVERSARY, ANTICHRIST, INDIVIDUALITY, PERSONALITY, SON OF GOD.
+
+**Corrections made:** Quotation marks normalised; See-list spellings restored (`AntIcHRIsT`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

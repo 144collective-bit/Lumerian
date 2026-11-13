@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-john-the-baptist
 headword: "JOHN THE BAPTIST"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,36 @@ tags:
 | `Mosaic` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOSAIC DISPENSATION|MOSAIC DISPENSATION]] |
 | `Mosrs` | **unresolved** (review queue) |
 | `Prop.e` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the moral nature which of necessity precedes the coming of the spiritual into the human soul. It purifies by truth (water), and is the herald and forerunner of the Christ-birth.
+
+> "And in those days cometh John the Baptist, preaching in the wilderness of Judea, saying, Repent ye; for the kingdom of heaven is at hand. For this is he that was spoken of by Isaiah the prophet, saying, The voice of one crying in the wilderness, Make ye ready the way of the Lord, make his paths straight."—Mat. iii. 1-3.
+
+At an early period of the soul's evolution the moral nature emerging from its latent state became energised by the Spirit from within. And it began to admonish the qualities in that subjective condition of the regenerate soul in which it is cut off from the lower illusion, and freed from the deceptive and alluring attractions to which it falls an easy prey ere it has arrived at the stage in which the moral nature is active. The instruction to the qualities is that they should purify themselves in view of a raising of the consciousness to a higher level. For in the intuitive mind the advent of the moral nature is foreseen, and that the imperious voice of the conscience will cry out from the soul's inner solitude, that the qualities should realise the way of Truth which leads unto Life eternal, and see that the way be established by moral rectitude.
+
+> "John the Baptist is interior and [word unclear]tic, inasmuch as he represents that compelling summons of the conscience to repentance, renunciation, and purification, which is the indispensable precursor of success in the quest after inward perfection."—*The Perfect Way*, p. 241.
+
+[word unclear]
+
+> "The faculty by means of which man has the apprehension of divine things—namely, the understanding—must first undergo the alerts implied in the baptism which is of John. To say that he who becomes a Christ must be baptised of John, is to say that the first and most essential step to man's realisation of his due divinity is purification of body and mind. [word unclear] who are thus purified can 'see'—that is, can [word unclear]."—E. Maitland, *Life of A. K.*, Vol. I. p. 151.
+
+> "The end of Salvation is perfection, the Christ-like mind, character and life. Morality is on the way to this perfection; it may go a considerable distance towards it, but it can never reach it. Only Life can do that. For this great formative agent Life must develop out according to its type; and being a germ of the Christ-life, it must unfold into a Christ."—H. Drummond, *Natural Law*, etc., p. 129.
+
+> "There being no such thing as Spontaneous Generation, man's moral nature, cannot generate Life; while, his high organisation can never in itself result in Life, Life being always the cause of organisation and never the effect of it."—*Ibid.*, p. 383.
+
+> "I do not think there is much doubt but that the greatness here (Mat. xi. 11) ascribed to John the Baptist is a moral and religious rather than a merely intellectual or material quality. . . . It has been held that the Master here refers to the difference between the new dispensation and the old, that by the kingdom of heaven he meant his church, and that every one who became a member of that church was forthwith ushered into a new experience, a state of grace, and imparted to him a higher kind of life, a diviner life, than aught the world had hitherto known. This is the truth, but it is not all the truth. . . . The natural man may be great in all [word unclear] in mind and [word unclear] great administrator, warrior, philosopher, [poet?], great in all the arts and sciences, [word unclear] in everything that tends towards the betterment of human lot in a material world. But greater still is he in whom Christ has arisen with regenerating power, disclosing to him his unlikeness to that which is highest and holiest, but at the same time declaring his kinship thereto, and enabling him to attain to ever closer and more perfect union therewith."—R. J. Campbell, *Serm., The Higher Greatness*.
+
+> "(J. G. Fichte teaches)—What the moral man called duty and command is to the religious man the highest spiritual blossom of life, his element, in which alone he can breathe. . . . The pains of self-conquest, for the moral man the speechless sacrifice of blind obedience, are to the religious man no longer his own pains, but the pains of a lower side in revolt against his true self, the [throes?] of a new birth, which engenders splendid life far above our expectations. He who is consecrated by religion is raised above time and decay, for his life is rooted in the one fundamental divine life with all its blessedness, and possesses it at each moment, immediate and entire. To religion thus understood, morality is related as a preparatory stage: 'By morality we are first trained to obedience, and in trained obedience love arises as its sweetest fruit and recompense.' Religion being thus described on its practical or mystical side as a harmonious fundamental disposition of the soul, Fichte shows in what follows, how this [disposition?] rests on a terrestrial view of the world, which reckons the world and all life in time to be not the true and real existence, but the divided appearance of the divine Being, which in itself is One."—Pfleiderer, *Phil. of Religion*, p. 288.
+
+> "Should it not be the task of humanity, as it emerges from nature and rises into the life of the spirit, to realise and to make apparent above the physical universe that moral universe which reproduces all its riches, and all its harmony in a higher plane, and with ineffable glory? For it is a fact that the moral consciousness does not appear at the beginning of evolution, nor does it at any moment burst suddenly into being all luminous and perfect. It emerges slowly and laboriously from the night of nature. It cannot establish itself without subordinating physical laws to its own laws, hence contradictions and repeated conflicts. Thus there is always a double relation between nature and the spirit; nature remains for the moral consciousness a necessary support which it has no right to despise, and at the same time an obstacle which it ought to overcome, and a limit which it must overpass. In a positive sense nature prepares for the advent of the spirit; this is its reason for being. In a negative sense, the spirit can triumph only in raising itself above nature."—A. Sabatier, *The Religions*, etc., p. xxv.
+
+See ARK (bul.), BAPTISM, BHARATA, CAMELS' HAIR, CHRIST INCREASES, [DESSERTS?], FALL, GIRDLE (leather), LOCUSTS, MOSAIC, MOSES, PEOPLE.
+
+**Corrections made:** `Mart.` → Mat.; `ite` → its; `consciousnees to ao higher` → consciousness to a higher; `-compelling` → compelling; `end mind` → and mind; `Chriet` → Christ; `Christlife` → Christ-life; `Droummonp` → Drummond; `0 isation` → organisation; `Mart. ii. 11` → Mat. xi. 11; `@ diviner` → a diviner; `sida` → side; `eplendid` → splendid; `e who` → He who; `hi life` → his life; `srises` → arises; `iteelf` → itself; `PYLEIDERER` → Pfleiderer; `al] its` → all its; `g of evolution` → beginning of evolution; `negstive` → negative; `SaBaTieR` → Sabatier; page headings `416 ! JOHN |`, `JOHN` (mid-sentence) removed; See-list spellings restored; and similar minor fixes.
+
+**Unclear or supplied:** Several passages are too damaged to recover and are marked `[word unclear]` (the OCR reads `Pre`, `y y who are m`, `can .`, `Sak coat ye ee`, `mo`, `prph`). `[poet?]` for OCR `het`; `[throes?]` for OCR `gs`; `[disposition?]` for OCR `ition`; `[DESSERTS?]` for OCR `Desserts`. `alerts` is left as printed (possibly a misreading). The stray OCR word `as` after "Vol. I. p. 151." is omitted as noise. `Mart. ii. 11` corrected to Mat. xi. 11 (damaged numerals). The See list ends with a comma in the OCR and may be cut short.
 
 ## Full OCR entry body (exact)
 

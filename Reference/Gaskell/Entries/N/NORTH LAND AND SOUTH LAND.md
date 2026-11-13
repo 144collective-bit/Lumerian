@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-north-land-and-south-land
 headword: "NORTH LAND AND SOUTH LAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `PHAEAcIANS` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PHAEACIANS|PHAEACIANS]] |
 | `SET` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
 | `SOUTH LAND` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SOUTH LAND, AND NORTH LAND OF EGYPT|SOUTH LAND, AND NORTH LAND OF EGYPT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the desire and mental planes; or of the lower mental and the higher mental planes, in the scriptures of Egypt and Europe.
+
+> "Southern Egypt was given to Horus, Northern Egypt to Set."—Plutarch, *Isis and Osiris*.
+
+Southern Egypt represents the higher mental plane, more manasic and solar; Northern Egypt, the lower mental plane, more kamic and lunar.
+
+See COUNTRIES, EGYPT, HORUS, NEKHEBIT, NILE, PHAEACIANS, SET, SOUTH LAND.
+
+**Corrections made:** `Priurancn` → Plutarch; `represents.` → represents; See-list spellings restored (`Counrrizs`, `Eayrr`, `Horvs`, `Niue`, `PHAEAcIANS`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-house-provided-with-fire-cattle-wife-son-and-plenty
 headword: "HOUSE PROVIDED WITH FIRE, CATTLE, WIFE, SON, AND PLENTY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Fie` | **unresolved** (review queue) |
 | `TRANSMUTATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TRANSMUTATION OF LOWER QUALITIES INTO HIGHER|TRANSMUTATION OF LOWER QUALITIES INTO HIGHER]] |
 | `WIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WIFE|WIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the causal-body within which the transmuted emotional, intellectual, and moral experiences are brought together, so that there is Truth and Love in abundance.
+
+See CATTLE, CAUSAL-BODY, FIRE, TRANSMUTATION, WIFE.
+
+**Corrections made:** `CatTTiE`, `CAUSAL-Bopy`, `Fie` restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

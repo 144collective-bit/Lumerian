@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-beasts-birds-and-fishes
 headword: "BEASTS, BIRDS, AND FISHES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,16 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of desires, aspirations, and facts or feelings.
+
+> "The affections and consequent perceptions and thoughts of spirits and angels in the [spiritual?] world appear at a distance in the forms of animals or creatures upon the earth, which are called beasts, of creatures in the air which are called birds, and of creatures in the sea which are called fishes."—Swedenborg, *Apoc. Rev.*, n. 405.
+
+**Corrections made:** `thoughta of spirite and engels` → thoughts of spirits and angels; `y elap aim` → [spiritual?].
+
+**Unclear or supplied:** `[spiritual?]` is a guess for OCR `y elap aim`.
 
 ## Full OCR entry body (exact)
 

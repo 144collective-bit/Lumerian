@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lunar-chain-of-globes
 headword: "LUNAR CHAIN OF GLOBES"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,16 @@ tags:
 | `Soma (moon)` | resolved (qualified head) → [[Reference/Gaskell/Entries/S/SOMA, AS THE MOON|SOMA, AS THE MOON]] |
 | `SUKUNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SUKUNA-BIKONA, PRINCE|SUKUNA-BIKONA, PRINCE]] |
 | `WHEELS (holy)` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The arena of life which preceded our present Terrene chain of globes. The Life-wave has passed seven times round the lunar chain before its transference to the earth chain. The earth chain has attracted from the lunar chain its water and air, and its etheric and astral constituents, so far as the growth of its organisms is concerned.
+
+See PLANETARY CHAIN, ROUND, SOMA (moon), SUKUNA, WHEELS (holy).
+
+**Corrections made:** See-list spellings restored (`Rovunp`, `Soma`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

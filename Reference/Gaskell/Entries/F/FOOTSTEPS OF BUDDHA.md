@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-footsteps-of-buddha
 headword: "FOOTSTEPS OF BUDDHA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `GEOMETRY` | resolved (full-head) → [[Reference/Gaskell/Entries/G/GEOMETRY|GEOMETRY]] |
 | `GUNAS Lotus` | **unresolved** (review queue) |
 | `STRIDES OF SOUL` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the three higher and four lower planes of the universe and soul; the arena of the Self's activities.
+
+> "Unflurried, with the lotus-sign in high relief, far-striding, set down with [word unclear] such firm footsteps did Buddha take,—he was like the constellation of the seven rishis."—*Buddha-Karita*, Bk. I. 33.
+
+Of Sattvic energy, with the ideal of spiritual perfection held high before the Self (the soul in involution), with gaze intently set upon the things of the Eternal,—seven firm efforts in succession were then made by Him. These represented the Self's progress through the seven planes of cosmic activity. The "constellation of the seven rishis" symbolically refers to the seven planes of manifestation.
+
+See BUDDHA, GEOMETRY, GUNAS, LOTUS, STRIDES OF SOUL.
+
+**Corrections made:** `ea ay mig` → [word unclear]; `footeteps` → footsteps; `Buddha, Karita, Bk. [. 33` → *Buddha-Karita*, Bk. I. 33; `progreas` → progress; See-list spellings restored (`BuppHa`, `GUNAS Lotus`); quotation marks normalised.
+
+**Unclear or supplied:** The words after "set down with" are lost (OCR `ea ay mig`), marked `[word unclear]`. `Bk. [. 33` read as Bk. I. 33.
 
 ## Full OCR entry body (exact)
 

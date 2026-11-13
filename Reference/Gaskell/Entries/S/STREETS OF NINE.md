@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-streets-of-nine
 headword: "STREETS OF NINE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `BripGEs (nine)` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/B/BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT|BRIDGES, NINE, SIX, AND THREE, IN THE SETTLEMENT]] |
 | `GATES OF BODY` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of connections between astral centres and the nine apertures of the physical body.
+
+See BRIDGES (nine), GATES OF BODY.
+
+**Corrections made:** `BripGEs` → BRIDGES.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

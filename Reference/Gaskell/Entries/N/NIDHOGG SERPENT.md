@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nidhogg-serpent
 headword: "NIDHOGG SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Qary` | **unresolved** (review queue) |
 | `SERPENT (subtil)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `YaGpRasIL` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Y/YGGDRASIL, GREAT ASH TREE|YGGDRASIL, GREAT ASH TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of desire, or of the desire-mind.
+
+> "One root (of the great ash Yggdrasil) strikes down to Nifelheim, and into the fountain Hvergelmir which is full of serpents, and where Nidhogg, the most venemous of snakes, with all its reptile brood, gnaw at its roots."—Howitt, *Literature of North Europe*, Vol. I. p. 41.
+
+One division of the Divine Life (Yggdrasil) extends to the lower planes and into the fount of illusion and separateness in which the desires (serpents) are immersed. The desire-mind (Nidhogg) is the opponent of the spiritual aspirations, and it and all the lower qualities sap the Divine Life which rises upwards in the human soul. But the desires cannot ultimately prevail, and the time comes when the incarnate Self shall have "bruised the Serpent's head" and entirely overcome the illusory desire-mind.
+
+See HEEL, HVERGELMIR, MIDGARD, [Qary?], SERPENT (subtil), YGGDRASIL.
+
+**Corrections made:** `HowiTt` → Howitt; `desiremind` → desire-mind; See-list spellings restored (`MiIpGaRD`, `YaGpRasIL`).
+
+**Unclear or supplied:** `[Qary?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

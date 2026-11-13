@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-guests-wedding
 headword: "GUESTS, WEDDING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `GaRMENTs` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GARMENTS (HIGHER ASPECT)|GARMENTS (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GARMENTS (LOWER ASPECT)|GARMENTS (LOWER ASPECT)]] |
 | `MarniaGE (higher) RamMENT` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/M/MARRIAGE|MARRIAGE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of higher emotions and higher faculties accompanying the lower Self when it becomes one with the Higher Self.
+
+> "But when the king came in to behold the guests, he saw there a man which had not on a wedding garment: and he saith unto him, Friend how camest thou in hither not having a wedding garment? And he was speechless."—Mat. xxii. 11-12.
+
+When the Supreme had regard to those attributes of the soul which were bidden at the summons of the higher nature, to attend the union of the Higher Self with the purified lower, then was perceived a mental quality in which the without and the within had not become one so as to be invested as one. The attribute which failed to wear the garb of truth was one that ignored the process of uniting the external and internal, and which therefore was unable to retain its place at the "feast." It was "speechless" because the conditions precluded any expression of an unperfected quality. See GARMENTS, MARRIAGE (higher), RAIMENT.
+
+**Corrections made:** `gueste` → guests; `11 12` → 11-12; See-list spellings restored (`GaRMENTs`, `MarniaGE`, `RamMENT`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

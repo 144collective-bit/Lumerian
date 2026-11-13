@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-clothing
 headword: "CLOTHING"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `NAKEDNESS Rose` | **unresolved** (review queue) |
 | `Toca` | **unresolved** (review queue) |
 | `WoopDEN` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of limitations of thought which envelop the ego on the mental plane in forms of truth or error. They consist of ideas, opinions, prejudices, conventions, habits, theories, etc. In a higher sense the symbol stands for spiritual faculties on the buddhic plane, with which the ego may be endowed.
+
+> "A man is impious and damned who lets fall a scrap of clothing on a dead body."—*Vendidad*, V.
+
+That is because the clothing corresponds to that which would preserve and perpetuate the personality (corpse) which has to be discarded and not cherished.
+
+> "My soul shall be joyful in my God, for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness."—Is. lxi. 10.
+
+This refers to the perfected soul united to Christ and endowed with the faculties of Love and Wisdom.
+
+See COAT, GARMENTS, NAKEDNESS, ROBE, TOGA, WOODEN.
+
+**Corrections made:** `porsonality` → personality; `1xi` → lxi; See-list spellings restored (`GaRMENTS`, `Rose`, `Toca`, `WoopDEN`) and a comma supplied after `NAKEDNESS`.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

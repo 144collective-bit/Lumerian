@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-heaven
 headword: "HEAVEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -52,6 +53,24 @@ tags:
 | `RE-BIRTH` | **candidate (first-segment only)** → possible `REBIRTH, BORN ANEW OR FROM ABOVE, BORN OF GOD` (not linked) |
 | `REGENERATION` | resolved (full-head) → [[Reference/Gaskell/Entries/R/REGENERATION|REGENERATION]] |
 | `SEKHET-HETEP` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SEKHET-HETEP, OR FIELD OF PEACE|SEKHET-HETEP, OR FIELD OF PEACE]]; [[Reference/Gaskell/Entries/S/SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS|SEKHET-HETEP, TABERNACLE, MANTLES, CLOAKS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the state of consciousness on the buddhic plane which is above the mental plane.
+
+> "The first man is of the earth, earthy: the second man is of heaven. As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly. And as we have borne the image of the earthy, we shall also bear the image of the heavenly."—1 Cor. xv. 47-9.
+
+The "first man" is the personality (Adam of dust), which is developed from below through the astral evolution,—the matter (earthy) side of being. The "second man" is the individuality or Divine monad from above,—the spiritual (heavenly) side of being. To the personality are attached the lower qualities, and to the individuality the higher qualities. In the course of development, the ego more and more asserts its Divine nature, and finally rises from the lower nature to become united with the higher in consciousness on the buddhic plane.
+
+> "More and more distinctly over our human life, with all its best affections, hangs the serene heaven of the divine life, the heaven of the love of God, into which our human affections must enter before they become religious; into which they cannot enter till they have been born again. . . . These (affections) which the Spirit finds in you are not religion. Never let yourself think that they are, and so depreciate and disregard the work which the Spirit has to do in you. They are not religion; but they are the material of the religious life. They are the part of your nature in which you may become religious. They are the stone in your nature out of which the temple may be built."—Phillips Brooks, *Serm.*, *How many Loaves*, etc.?
+
+> "The quality of the Eternal Life alone makes the heaven; mere everlastingness might be no boon."—H. Drummond, *Natural Law*, etc., p. 220.
+
+See ADAM (higher), ADAM (lower), ARC. MAN, BORN AGAIN, BUDDHIC PLANE, DEVAYANA, EARTH, EDEN, GARODMAN, IMAGE, INDIVIDUALITY, KINGDOM OF HEAVEN, MONAD OF LIFE, MUSPELLHEIM, PITRIS (lunar, solar), PITRIYANA, RE-BIRTH, REGENERATION, SEKHET-HETEP.
+
+**Corrections made:** `'Phe` → The; `doin you` → do in you; `Puittirs Brooxs` → Phillips Brooks; `ABO. MAN` → ARC. MAN; See-list spellings restored (`Apam`, `DrvayaNna`, `Earta`, `ImaceE`, `Monap`, `Prrpis`, `PrrRIyANA`); page heading `HEAVEN` removed from before the See list; stray `, ,` in the See list removed; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-darkness-higher-aspect
 headword: "DARKNESS—HIGHER ASPECT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -43,6 +44,36 @@ tags:
 | `Taaroa` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TAAROA|TAAROA]] |
 | `TANAOA` | **unresolved** (review queue) |
 | `WATER` | resolved (full-head) → [[Reference/Gaskell/Entries/W/WATER|WATER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbolic of the inscrutable Source of the One and the All, under the terms, the Absolute, the Potential, the Unknowable, and the Unmanifest.
+
+> "With the Egyptians, Darkness was the mystery of all mysteries. As Damascius (On First Principles) says: 'Of the First Principle the Egyptians said nothing; but characterised it as a darkness beyond all intellectual conception,—a thrice unknown Darkness.'"—G. R. S. Mead, *T. G. Hermes*, Vol. I. p. [page unclear].
+
+> "It is necessary to point out that darkness is not to be understood, every time it is mentioned, in a bad sense; Scripture speaks of it sometimes in a good sense. . . . Darkness and clouds and tempest are said in Exodus (xix. 9, 16) to be round about God, and in the 18th Psalm, v. 11,—'He made darkness His secret place, His tent round about Him, dark water in clouds of the air.'"—Origen, *Comm. on John*, Bk. II. § 23.
+
+See JOB xxxviii. 9.
+
+> "In the beginning darkness existed, enveloped in darkness. All this was indistinguishable water."—*Rig-Veda*, Mandala, X. 129.
+
+> "This universe first existed only in darkness, imperceptible, undefinable, as [if] immersed in sleep."—*Laws of Manu*, [I.?] 6.
+
+> "Darkness that knew no bounds was in Abyss, and Water, and subtle Breath intelligent; these were by power of God in Chaos."—*The Sacred Sermon*, Hermes.
+
+> "Sanchuniathon supposes the beginning of all things to consist of a dark Mist of a spiritual nature, or as it were a Breath of dark mist, and of [a] turbid chaos black as Erebus."—Philo Byblius, *Fragment*, Berosus.
+
+> In "According to the beginning all was darkness and water." Cory's *Anc. Frag.*, p. 58.
+
+> "The Marquesas Islanders have a legend which relates that in the beginning there was no life, light, or sound in the world, that a boundless night, Po, enveloped everything, over which Tanaoa, which means 'darkness,' and Mutu-hei, which means 'silence,' ruled supreme."—Fornander, *Polynesian Race*, Vol. I. p. 63.
+
+> "The doctrine (of Christian mysticism) is ever that which is so emphatically enforced by the great non-Christian schools of mysticism, that the Being of Beings is cognisable only by the purified mind. At first the Supreme Reality appears to the inner eye as darkness. This apparent darkness is, however, in itself light, dazzling and blinding in its splendour, and it gradually becomes visible as such, when the spiritual vision is purged and strengthened and renewed by the stripping off of all love for the relative, the dependent, the phenomenal, and by the assiduous practice of all moral virtues."—W. S. Lilly, *The Great Enigma*, p. 267.
+
+See ABYSS, ATRA, BLACK, CHAOS, DEEP, EGG, NIGHT (primordial), PO, TAAROA, TANAOA, WATER.
+
+**Corrections made:** `Damacius` → Damascius; `ar R. 8. Meap` → G. R. S. Mead; `Pre` → p. [page unclear]; `in & good sense` → in a good sense; `Ses JOB` → See JOB; `darknees` → darkness; `Rig - Veda, Manpata` → *Rig-Veda*, Mandala; `Lawa of Manu, . 6` → *Laws of Manu*, [I.?] 6; `as r immersed` → as [if] immersed; `wes` → was; `beinning` → beginning; `ark Mist` → dark Mist; `e turbid` → [a] turbid; `Px11Lo Byrstiivus` → Philo Byblius; page heading `DARKNESS` removed from the Berosus quotation; `4 legend` → a legend; `ForNANDER` → Fornander; `. 63` → p. 63; `ia ever` → is ever; `is apparent` → This apparent; `iteelf`, `ite splendour` → itself, its splendour; `Lituy` → Lilly; See-list spellings restored (`Anyss`, `CHAOs`, `Deep`, `Eaa`, `Niaut`, `Taaroa`).
+
+**Unclear or supplied:** The page number after `T. G. Hermes, Vol. I.` is lost (`Pre`). The chapter reference for the Laws of Manu is damaged (`[I.?]`). The Berosus passage is garbled in the OCR (`Berosus.—In "According to the beginning all was darkness and water."`) and set out as printed. `ATRA` stands as printed.
 
 ## Full OCR entry body (exact)
 

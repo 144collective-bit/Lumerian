@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-avalokitesvara
 headword: "AVALOKITESVARA"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,22 @@ tags:
 | `CHRIST` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CHRIST|CHRIST]] |
 | `Isvana` | **unresolved** (review queue) |
 | `PRAYER` | resolved (full-head) → [[Reference/Gaskell/Entries/P/PRAYER|PRAYER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Higher Self or Incarnate Self under the aspect of Love.
+
+> "The Buddha Amitabha, 'He of Infinite Light.' His chief minister is Avalokitesvara, a Bodhisatva who has taken a vow not to enter Nirvana until he has led thither all living creatures, and who for this supreme grace is worshipped throughout the North with a corresponding fervour of devotion."—L. D. Barnett, *The Path of Light*, p. 26.
+
+> "In the duty of watching over and protecting the whole Buddhist world, Avalokitesvara (=Padma-pâni), that is, 'the Lord who looks down with pity on all men,' certainly takes the lead, and his name was in keeping with the reputation for answering prayer which he soon achieved. . . . People, therefore, pray to him more frequently than to any other Bodhi-sattva, and not only for release from the misery of future re-births, but in all cases of present bodily danger and domestic affliction. Hence he has numerous other names or epithets, such as 'God of mercy,' 'Ocean of pity,' 'Deliverer from fear,' 'Lord of the world,' 'World-protector,' 'Protector of the Aryas.'"—Mon. Williams, [work unclear], p. 198.
+
+The higher Love-nature within the soul always attracts, never repels. Hence the aspiring lower self is attracted to the Higher, and there is development of the buddhic emotions which purify and eventually save the soul.
+
+See BODHISATVA, BUDDHA, CHRIST, ISVARA, PRAYER.
+
+**Corrections made:** `chief’ minister` → chief minister; `[Padma-péni` → Padma-pâni; `pit on` → pity on; `takes the bad` → takes the lead (`bad` read as `lead`); `Teputation` → reputation; `itheta` → epithets; `Bopursatva` → BODHISATVA; `BuppHA` → BUDDHA; `Isvana` → ISVARA; quotation marks normalised.
+
+**Unclear or supplied:** `takes the lead` is a likely reading of OCR `takes the bad`; `pity` completes OCR `pit`. The title `[work unclear]` is lost (OCR `sem`; probably Monier-Williams's *Buddhism*). `Isvana` read as ISVARA.
 
 ## Full OCR entry body (exact)
 

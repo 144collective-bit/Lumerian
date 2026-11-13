@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-cord-destroyed-in-place-of-serpent
 headword: "CORD DESTROYED IN PLACE OF SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,22 @@ tags:
 | `Rrris` | **unresolved** (review queue) |
 | `TAUROBOLIUM` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/T/TAUROBOLIUM, MITHRAIC RITE|TAUROBOLIUM, MITHRAIC RITE]] |
 | `TAURT` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO|TAURT, OR THUERIS, THE WIFE OF SET OR TYPHO]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mistaking the unreal symbol for the real thing, with result destructive of truth and right.
+
+> "Thueris (Taurt), as she was coming over to Horus, was pursued by a serpent which then was slain by her soldiers,—the memory of which action, say the Egyptians, is still preserved in that cord which is thrown into the midst of their assemblies, and then chopt to pieces."—Plutarch, *Isis and Osiris*, § 19.
+
+The "serpent" is a symbol of seductiveness which nearly has the effect of dragging down the aspiring emotion of wonder (Thueris), but is put an end to by the raised qualities (soldiers). The "cord" incident signifies that there is danger of mistaking the symbol (cord) for the substance (truth), and that such a result would be destructive of truth and right in the doctrines and practice of mankind.
+
+> "By reason of A-vidya, then, the Jivatman, or 'personal soul of every individual,' mistakes the world, as well as its own body and mind, for realities, just as a rope in a dark night might be mistaken for a snake."—Mon. Williams, *Indian Wisdom*, p. 119.
+
+See ALCEUS, HORUS, IGNORANCE, ISIS, TAUROBOLIUM, TAURT.
+
+**Corrections made:** `PLUTARCH` → Plutarch; `WILLIAMS` capitalisation normalised; See-list spellings restored (`ALcEvUs`, `Rrris`).
+
+**Unclear or supplied:** `ALCEUS` and `ISIS` are inferred from the damaged OCR `ALcEvUs` and `Rrris`; the second is a likely reading.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-redeemer-of-the-soul
 headword: "REDEEMER OF THE SOUL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -53,6 +54,26 @@ tags:
 | `SALVATION` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SALVATION SALVATION|SALVATION SALVATION]] |
 | `SkIns` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SKINS AS CLOTHING|SKINS AS CLOTHING]]; [[Reference/Gaskell/Entries/S/SKINS, METIS|SKINS, METIS]]; [[Reference/Gaskell/Entries/S/SKINS OF ANIMALS|SKINS OF ANIMALS]] |
 | `SPIRIT` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPIRIT|SPIRIT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the indwelling Self, who pays the penalty attached to imperfection with his own Divine Life (his blood). The souls are full (red) of suffering and ignorance, and the price of redemption from evil is the efflux of the Divine Life of the incarnate Self, which, by being assimilated by the imperfect souls, gradually makes perfect the qualities in them which are imperfect. The Archetypal Man, or Christ incarnate within every soul, gives of his own nature that which the individual soul lacks, in response to the soul's own efforts to prepare itself for accessions of higher qualifications. The Redeemer is latent within until he is called forth by sacrifice and aspiration to save the soul from its captivity to its lower nature, and to raise it to its pristine state of bliss.
+
+> "But I know that my redeemer liveth, and that he shall stand up at the last upon the earth: And after my skin hath been thus destroyed, yet from my flesh shall I see God: whom I shall see for myself, and mine eyes shall behold, and not another."—Job xix. 25-7.
+
+I know that the perfect Self liveth within me, and that at the end of the cycle he shall overcome my lower nature (earth). And after my lower vehicles (skin) have been thus destroyed, yet rising from my lower self (flesh), I shall become one with the Self. I, the individuality, shall unite with Him, and not the personality.
+
+> "If God then finds a passage from heaven to the grave, so must a way be discoverable for man from the grave to heaven: the death of the Prince of Life is the Life of mortals."—D. F. Strauss, *Life of Jesus*, p. 433.
+
+> "God is conceived of by the religious consciousness as not only the creator of the world of things and men, but as the present Life of the human soul. He is moral Ruler and Providence; He is Redeemer; and He is the Revealer and Inspirer as well."—G. T. Ladd, *Phil. of Religion*, Vol. I. p. 612.
+
+> "The Divine Sufferer was God Himself, who in creating the universe sacrificed Himself for it. The Cross, therefore, represents the Greatest of all sacrifices, not something that happened once, and once for all, but something that is eternal and timeless—the sacrifice of God in and for His own creation that could not be unless He poured His own life into it, and restricted Himself within its forms and substance. Great is this mystery of Godliness: unthinkable in its magnitude is this sacrifice, for it means nothing less than the identification of the Infinite with the finite in its lowest forms. Here is the profoundest mystery to human contemplation, to speak or think of which is possible only in forms of symbol and parable. The literal truth is too vast, too mysterious, too sublime to be made known to human comprehension. ... Creation is none other than God's primal and continual self-revelation: it is the Great Father coming down and voluntarily incarnating Himself and being made man for us men and our salvation."—R. C. Anderson, *Serm.*, *Cradle of the Christ*.
+
+See ARC. MAN, ATRI, BLOOD, BLOOD OF LAMB, BONDAGE, CAPTIVITY, CHRIST, CROSS, CRUCIFIXION, FLESH OF JESUS, FOOD AS GOD, HEAVEN AND EARTH, INCARNATION, INDIVIDUALITY, INVOLUTION, LAMB OF GOD, REGENERATION, SACRIFICER, SALVATION, SKINS, SPIRIT.
+
+**Corrections made:** page heading `616 REDEEMER` and `REDEMPTION` removed from mid-sentence; `| the efflux` → the efflux; `biiss` → bliss; `JoB xix 25-7` → Job xix. 25-7; `ia` → is; `Srravss` → Strauss; `Lapp, PaAzsi.` → Ladd, *Phil.*; `lees` → less; `o to human` → to human; `K, C. ANDERSON` → R. C. Anderson; See-list spellings restored (`Crrist`, `Cross`, `FoopD aS GOD`, `INDIVIDUALITry`, `InvoLtuTion`, `SkIns`, `BLoop OF LAMB`); quotation marks normalised.
+
+**Unclear or supplied:** `R. C. Anderson` (OCR `K, C. ANDERSON`) and `Ladd` (OCR `Lapp`) are best readings. In the Anderson quotation, `mystery o to` is read as `mystery to`. `FOOD AS GOD` is a best reading of `FoopD aS GOD`.
 
 ## Full OCR entry body (exact)
 

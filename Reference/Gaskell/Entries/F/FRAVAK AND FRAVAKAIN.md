@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fravak-and-fravakain
 headword: "FRAVAK AND FRAVAKAIN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `StaMak. ETC.` | **unresolved** (review queue) |
 | `Opposirszs` | **unresolved** (review queue) |
 | `293` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of two astral centres established in the early evolution of the soul.
+
+> "Of those seven pairs one was Siamak, the name of the man, and Nasak, of the woman; and from them a pair was born, whose names were Fravak of the man, and Fravakain of the woman."—*The Bundahis*, Ch. XV. 25.—S.B. of E.
+
+Of the seven pairs of opposites, which are active and passive aspects of the several emotional and mental qualities,—one pair was produced which was typical of the Life and Form side of manifest being; and from these two were begotten two astral centres. These centres are given as masculine and feminine because one actively transmits physical outer vibrations astrally, and the other passively interprets mental vibrations astrally. So that one acts outwards, and the other receives inwards; vibrations objective and subjective respectively.
+
+See BRIDGES (nine), SIAMAK, ETC., OPPOSITES.
+
+**Corrections made:** Page number `293` removed from the end; See-list spellings restored (`StaMak`, `Opposirszs`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

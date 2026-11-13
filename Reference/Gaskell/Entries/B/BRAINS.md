@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-brains
 headword: "BRAINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Cocoa-nut` | **unresolved** (review queue) |
 | `YMIR. BRANCHES OF TREES; PALMS ;` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic nature,—wisdom and love.
+
+See COCOA-NUT, YMIR.
+
+**Corrections made:** trailing `BRANCHES OF TREES; PALMS ;` removed as a page-heading fragment; `Cocoa-nut` → COCOA-NUT.
+
+**Unclear or supplied:** The trailing OCR text `BRANCHES OF TREES; PALMS ;` looks like the next headword and was treated as a page-heading fragment.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-loshoo
 headword: "LOSHOO"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `MAISHAN` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MAISHAN, ON THE SHORES OF THE SEA|MAISHAN, ON THE SHORES OF THE SEA]] |
 | `Manas` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/M/MANAS AS A CENTRE|MANAS AS A CENTRE]]; [[Reference/Gaskell/Entries/M/MANAS, MANASIC|MANAS, MANASIC]] |
 | `MERCHANDISE` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MERCHANDISE, TRUE|MERCHANDISE, TRUE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of perception on the mind plane of the ideas of subject and object, of cause and effect, when the interactions of mind and desire commence to operate.
+
+> "Fuh-he endeavoured to express thoughts by hieroglyphic signs. These are said to have originated in the drawing up of two linear tables, the Ho-too and the Lo-shoo, which he copied from the back of a dragon rising from the deep."—Kipp, *China*, p. 103.
+
+In the manifestation of the Logos (Fuh-he) at this stage, there arises the possibility of inter-communication between the mental and lower planes. The formation of the kama-manas, or desire-mind, is compared to two tables,—symbolic of the recognition in the lower consciousness, of subject and object, cause and effect,—functions of the mind which are said to be produced from the "back of a dragon," or the astral plane of the lower nature.
+
+See ASTRAL PLANE, DRAGON RISING, FUH-HE, INTELLECT, [ManaT?], [MAISHAN?], MANAS, MERCHANDISE.
+
+**Corrections made:** See-list spellings restored (`Fuu-He`, `Manas`); quotation marks restored.
+
+**Unclear or supplied:** `[ManaT?]` and `[MAISHAN?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

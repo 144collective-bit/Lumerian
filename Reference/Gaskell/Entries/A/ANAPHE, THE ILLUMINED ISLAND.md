@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-anaphe-the-illumined-island
 headword: "ANAPHE, THE ILLUMINED ISLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,20 @@ tags:
 | `ARGONAUTS` | resolved (full-head) → [[Reference/Gaskell/Entries/A/ARGONAUTS|ARGONAUTS]] |
 | `LIGHT` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LIGHT|LIGHT]] |
 | `MELANTIAN NECKS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MELANTIAN NECKS, ROCKS|MELANTIAN NECKS, ROCKS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the soul suffused in Truth, implying its salvation.
+
+> "Apollo taking his stand on the rocks called Melantian Necks, shot an arrow into the sea: the arrow flashed a vivid [word unclear] and the Argonauts beheld an [island?] which they named Anaphe."—*Argonautic Expedition*.
+
+The Higher Self taking his stand on the sense of truth and duty, sends forth a ray of Itself which illumines the whole nature. And so the qualities behold a way of escaping danger. This experience being illuminating, it may be called salvation.
+
+See APOLLO, ARGONAUTS, LIGHT, MELANTIAN NECKS.
+
+**Corrections made:** Page heading `47 ANDREW` removed from before the See list; quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `7 fa`; `[island?]` is a likely reading of OCR `an d`.
 
 ## Full OCR entry body (exact)
 

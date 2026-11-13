@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-gabriel-the-angel
 headword: "GABRIEL, THE ANGEL"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,16 @@ tags:
 | `ARCHANGELS` | **unresolved** (review queue) |
 | `DEVAS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/D/DEVAS, OR LOWER BUILDERS|DEVAS, OR LOWER BUILDERS]]; [[Reference/Gaskell/Entries/D/DEVAS, SHINING ONES|DEVAS, SHINING ONES]] |
 | `LOTE-TREE` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LOTE-TREE|LOTE-TREE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An inner messenger from the higher planes;—the bringer of good tidings—a sense of joy at conceiving a higher element in the soul.
+
+See ANGELS, ARCHANGELS, DEVAS, LOTE-TREE.
+
+**Corrections made:** Quotation marks normalised only.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-bones-or-skeleton
 headword: "BONES OR SKELETON"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | `CORPSE DEVOURED BY BIRDS` | resolved (full-head) → [[Reference/Gaskell/Entries/C/CORPSE DEVOURED BY BIRDS|CORPSE DEVOURED BY BIRDS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the spiritual nature to which the higher and lower qualities of the soul are attached.
+
+> "By bones in holy Scripture we understand virtues; as it is written, 'The Lord keepeth all his bones; not one of them shall be broken' (Ps. xxxiv. 20). 'His flesh shall waste away, and his bones which were covered be laid bare' (Job xxxiii. 21). For when every outward [beauty?] is worn away by the pressure of the rod, the bones of inward firmness are laid bare. For what is meant in this place by the word flesh but fleshly [pleasure?] itself? Or what by bones but the virtues of the soul? The flesh therefore wastes away, and the bones are laid bare, because while carnal pleasure is brought to nought by the reproof of scourges, those steady virtues are laid open, which had long been concealed, as it were, beneath the flesh."—Gregory the Great, *Morals on the Book of Job*, Vol. III. pp. 40, 46.
+
+See CORPSE DEVOURED BY BIRDS.
+
+**Corrections made:** page heading `121 BOOK` removed from mid-quotation; `Jon` → Job; `fiesh` → flesh; `Grecory` → Gregory; quotation marks normalised.
+
+**Unclear or supplied:** `[beauty?]` (OCR `peat`) and `[pleasure?]` (OCR `peere`) are damaged words restored from context.
 
 ## Full OCR entry body (exact)
 

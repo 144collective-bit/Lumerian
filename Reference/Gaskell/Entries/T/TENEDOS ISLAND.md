@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-tenedos-island
 headword: "TENEDOS ISLAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,22 @@ tags:
 | `APOLLO` | resolved (first-segment) → [[Reference/Gaskell/Entries/A/APOLLO, SON OF ZEUS|APOLLO, SON OF ZEUS]] |
 | `CHBYSES` | **unresolved** (review queue) |
 | `SMINTHEUS` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/S/SMINTHIUS|SMINTHIUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower state of the soul which knows not the higher nature that rules it.
+
+> "Hearken to me (Chryses), god of the silver bow that standest over and holy Killa, and rulest Tenedos with might."—*Iliad*, Bk. I.
+
+The Spiritual Mind (Chryses) aspires and seeks to raise the desires.
+
+> 'Attend, O Soul of Truth! that standest over the Causal-self, and art the inspirer of Buddhi, and who governest the lower nature by higher motives.'
+
+See APOLLO, CHRYSES, SMINTHEUS.
+
+**Corrections made:** `CHBYSES` → CHRYSES; quotation marks normalised; Iliad italicised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

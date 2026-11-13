@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hiruko-leech-child
 headword: "HIRUKO (LEECH-CHILD)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `MOON-WAXING` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MOON-WAXING PERIOD, OR THE PITRIYANA|MOON—WAXING PERIOD, OR THE PITRIYANA]] |
 | `Pirris (lunar)` | **unresolved** (review queue) |
 | `Pirriyvana` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/P/PITRIYANA (PATH OF THE FATHERS)|PITRIYANA (PATH OF THE FATHERS)]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the astral human nature devoid of mind. The incipient personality.
+
+> "The child which was the first [offspring?] of the union of Izanagi and [word unclear] [was?] the Hiruko (leech-child), which at the age of three was still unable to stand upright, and was therefore placed in a reed-boat and sent adrift."—*The Kojiki*.
+
+The union of Will and Wisdom as Life and Form, produced first in order the astral nature of man, which before it was endowed with mind and spirit, could not "stand upright," but "crawled," as it were. It was therefore kept on the astral plane (sea) in an astral body (boat). The development of the astral nature of desire and instinct comes first, and when the animal-man is complete it is individualised by the evolution within it of the mental factor which gives it power to stand alone as a personality (astro-mental).
+
+See ASAR, BOAT, IZANAGI, MAN BORN, MAN CRAWLED, MOON-WAXING, PITRIS (lunar), PITRIYANA,
+
+**Corrections made:** `Kojike` → Kojiki; `individuslised` → individualised; `Izanaai` → IZANAGI; `Pirris`, `Pirriyvana` → PITRIS, PITRIYANA.
+
+**Unclear or supplied:** `[offspring?]` (OCR `o i`), `[word unclear]` and `[was?]` (OCR `aha wen`) in the quotation. The See list ends with a comma in the OCR (the entry appears cut off there).
 
 ## Full OCR entry body (exact)
 

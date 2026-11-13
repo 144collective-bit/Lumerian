@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-knock-to-open
 headword: "KNOCK TO OPEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Door` | **candidate (first-segment only)** → possible `DOOR, NARROW` (not linked) |
 | `Gate` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/G/GATE (HIGHER ASPECT)|GATE (HIGHER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE (LOWER ASPECT)|GATE (LOWER ASPECT)]]; [[Reference/Gaskell/Entries/G/GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER|GATE OF SALUTATION AND HOMAGE TO GOD THE FATHER]]; [[Reference/Gaskell/Entries/G/GATE OF TCHESERT|GATE OF TCHESERT]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Significant of aspiration. The sending up vibrations from the lower nature to the gate of the higher.—Matt. vii. 7; Rev. iii. 20.
+
+See DOOR, GATE.
+
+**Corrections made:** `Mar.` → Matt.; See-list capitalisation restored.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

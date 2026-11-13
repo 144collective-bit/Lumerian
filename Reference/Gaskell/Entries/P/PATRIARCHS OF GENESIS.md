@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-patriarchs-of-genesis
 headword: "PATRIARCHS OF GENESIS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Arx` | **unresolved** (review queue) |
 | `CHURCH` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/C/CHURCH OF GOD|CHURCH OF GOD]]; [[Reference/Gaskell/Entries/C/CHURCH OF QUARTERS|CHURCH OF QUARTERS]] |
 | `YEARS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Y/YEARS OF PATRIARCHAL LIFE|YEARS OF PATRIARCHAL LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the successive stages of growth in the evolution of the consciousness, within which stages the several powers and virtues are developed and realised, by means of which the ego is gradually built up, until finally the "Noah,"—or Self to be ensheathed in the causal-body (ark),—is arrived at. The lives of the patriarchs signify the periods, and their names serve to connect the successive effects with their antecedent spiritual causes.
+
+> "This fifth chapter of Genesis treateth in particular concerning the propagation of the Most Ancient Church, through successive generations, even almost to the flood. The Most Ancient Church, which was celestial, is what is called Man and a likeness of God. A second Church which was not so celestial as the former is called 'Seth.' A third, 'Enos.' A fourth, 'Canaan.' A fifth, 'Mahaleel.' A sixth, 'Jared.' A seventh, 'Enoch.' An eighth, 'Methusaleh,' etc."—Swedenborg, *Arc. Cel.* to Gen.
+
+"Church" signifies an inner state of the soul, or the religious consciousness.
+
+See each Patriarch, ANCESTORS, ARTS, ARK, CHURCH, YEARS.
+
+**Corrections made:** `causalbody` → causal-body; `oetc.` → etc.; `SwepENBORG` → Swedenborg; `Aro.` → Arc.; page heading `ve PEACE` removed; See-list spellings restored (`Arx`, `Arts`).
+
+**Unclear or supplied:** `See each Patriarch` is as printed. `ARTS` and `ARK` are readings of OCR `Arts, Arx`.
 
 ## Full OCR entry body (exact)
 

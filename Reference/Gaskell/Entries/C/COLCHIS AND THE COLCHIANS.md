@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-colchis-and-the-colchians
 headword: "COLCHIS AND THE COLCHIANS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `GANDHARVAS` | resolved (first-segment) → [[Reference/Gaskell/Entries/G/GANDHARVAS, OR SIRENS|GANDHARVAS, OR SIRENS]] |
 | `HEAVENLY NYMPHS` | **unresolved** (review queue) |
 | `SIRENS` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SIRENS, GANDHARVAS, COLCHIANS|SIRENS, GANDHARVAS, COLCHIANS]]; [[Reference/Gaskell/Entries/S/SIRENS, OR GANDHARVAS|SIRENS, OR GANDHARVAS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+Symbols of the buddhic plane and its denizens the buddhic devas. The devas are the high conditions of intelligence which have been the means of the soul's evolution and of the informing of the causal-body.
+
+See ZETES, ANGELS, DEVAS, GANDHARVAS, HEAVENLY NYMPHS, SIRENS.
+
+**Corrections made:** See-list spellings restored (`ZetTes`, `Devas`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

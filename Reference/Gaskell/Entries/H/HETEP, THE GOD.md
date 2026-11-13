@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hetep-the-god
 headword: "HETEP, THE GOD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -37,6 +38,24 @@ tags:
 | `Mourn` | **unresolved** (review queue) |
 | `Piutars oF sHU` | **unresolved** (review queue) |
 | `WoRD` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WORD, DIVINE - UNUTTERED AND UTTERED|WORD, DIVINE — UNUTTERED AND UTTERED]]; [[Reference/Gaskell/Entries/W/WORD OF GOD|WORD OF GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Divine Will; the Word, or the Logos.
+
+> "The god Hetep is hidden of mouth, his mouth is silent, that which he uttereth is secret, he fulfilleth eternity and taketh possession of everlastingness of existence as Hetep, the lord Hetep."—Budge, *Book of the Dead*, Ch. CX.
+
+The Logos is the unspoken Word,—the inherent energy of the Divine Will,—which is to be perceived only by those egos who have transcended the form levels. The secret utterance is the emanation of the Divine Life which is manifested through the manvantara. The fulfilling of eternity signifies the power which makes for righteousness interpreted in the natural, moral, and intellectual orders of action, and which is realised when the ego perceives that all things work together for good,—since such an intuition is a direct perception of the Love of God. "Hetep, the lord Hetep" signifies the attainment of equilibrium in the soul.
+
+> "He (the god Hetep) is established in the watery supports (?) of the god [word unclear], and is linked unto the pleasant things of Ra."—Budge, *Book of the Dead*, Ch. CX.
+
+The Divine Life has its source above the higher mind, and is held above the devachanic state during the periodic interval between two outpourings.
+
+See LOVE OF GOD, MANVANTARA, MOUTH, PILLARS OF SHU, WORD.
+
+**Corrections made:** `hia` → his; `Bupor`, `Bupas` → Budge; `n the` → in the; `ita` → its; See-list spellings restored (`Mourn`, `Piutars oF sHU`, `GoD`).
+
+**Unclear or supplied:** `[word unclear]` (OCR `u`) for the name of the god after "the god".
 
 ## Full OCR entry body (exact)
 

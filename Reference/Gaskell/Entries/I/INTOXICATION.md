@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-intoxication
 headword: "INTOXICATION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -44,6 +45,30 @@ tags:
 | `SILENUS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SILENUS, LEADER OF SATYRS|SILENUS, LEADER OF SATYRS]] |
 | `VINEYARD` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VINEYARD|VINEYARD]] |
 | `WINE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the stupefying of the lower nature by an influx of the higher nature for which it is unprepared.
+
+> "And Noah began to be an husbandman, and planted a vineyard: and he drank of the wine and was drunken."—Gen. ix. 20, 21.
+
+The Self as the individuality is likened to a "husbandman," a cultivator of the "ground," or lower nature. The rearing of the grape is comparable to the gaining of experience, and the culture of the spiritual nature which, as it were, "intoxicates" the lower self and renders it for a time impotent.
+
+> "Enter into my heart and make it drunken, that I forget my wickedness and embrace Thee as my one [word unclear]; say to my soul 'I am thy salvation.'"—[word unclear], St. Augustine.
+
+> "'Lord, tell me,' says the Servitor; 'what remains to a blessed soul which has wholly renounced itself.' Truth says, 'When the good and faithful servant enters into the joy of his Lord, he is inebriated by the riches of the house of God; for he feels, in an ineffable degree, that which is felt by an inebriated man. He forgets himself, he is no longer conscious of his selfhood; he disappears and loses himself in God, and becomes one spirit with Him, as [a] drop of water which is drowned in a great quantity of wine. For even as such a drop disappears, taking the colour and the taste of wine, so it is with those who are in full possession of blessedness. All human desires are taken from them in an indescribable manner, they are rapt from themselves, and are immersed in the Divine Will. If it were otherwise, if there remained in the man some human thing that was not absorbed, those words of Scripture which [say?] that God must be all in all would be [fulfilled?]. His being remains, but in another form, in another glory, and in another power. And all this is the result of entire and complete renunciation' (Suso, the Book of Truth)."—E. Underhill, *Mysticism*, p. 507.
+
+> "The true wine is that which containeth the true Name. . . . Man is known as properly intoxicated when he obtaineth a place in God's court"—Guru Nanak.—Macauliffe, *The Sikh Religion*, Vol. I. p. 261.
+
+> "Some of the relatives of Krishna celebrated a festival in the Mountain Raivataka, to which both Arjuna and Krishna went. There they saw Balarama, elder brother of Krishna, in a state of intoxication."—Mon. Williams, *Indian Wisdom*, p. 391.
+
+At an auspicious occasion in the soul's progress, the higher qualities were assembled with the indwelling Self (Krishna) and the disciplined personality (Arjuna). "Balarama" signifies the Individuality, the same as "Noah"; and the "intoxication" means the quelling of the lower self which proceeds from the Individuality; the lower self being its partial and imperfect manifestation upon the lower planes.
+
+See BALARAMA, BLANDISHMENTS, CRATER, DIONYSUS, DRUNKARD, GRAPES, HUSBANDMAN, NOAH, SATYRS, SILENUS, VINEYARD, WINE.
+
+**Corrections made:** `GEN.` → Gen.; `gelfhood` → selfhood; `80` → so; `tn` → in; `Maocavurirre` → Macauliffe; `Mon. WILLIAMS`; page heading `INTUITION` (OCR `8 ee INTUITION`) removed from mid-text; See-list spellings restored (`CraTER`, `Grapes`, `HusBpaNDMAN`) and similar minor fixes.
+
+**Unclear or supplied:** `my one [word unclear]` (OCR `my one ion`). The attribution before `St. Augustine` is damaged (OCR `Hoss`): `[word unclear]`. `[a]` supplied (OCR `as drop of water`). `[say?]` and `[fulfilled?]` are uncertain (OCR `which that God`, `be f.`).
 
 ## Full OCR entry body (exact)
 

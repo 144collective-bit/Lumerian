@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-stomach
 headword: "STOMACH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,22 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the appetites of the lower nature.
+
+> "Be no longer a drinker of water, but use a little wine for thy stomach's sake and thine often infirmities."—1 Tim. v. 23.
+
+Imbibe no longer errors and illusions, but seek wisdom, so as to be able to control the appetites and desires.
+
+> "Porphyry tells us that in his time, when the bodies of the wealthier classes were embalmed, the Egyptians 'take out the stomach and put it into a coffer, and holding the coffer to the sun, protest, one of the embalmers making a speech on behalf of the dead. This speech, which Euphantos translated from his native language, is as follows: "O Lord the Sun, and all ye gods who give life to man, receive me and make me a companion of the eternal gods. For the gods, whom my parents made known to me, as long as I have lived in this world I have continued to reverence, and those who gave birth to my body I have ever honoured. And as for other men, I have neither slain any, nor defrauded any of anything entrusted to me, nor committed any other wicked act; but if by chance I have committed any sin in my life, by either eating or drinking what was forbidden, not of myself did I sin, but owing to these members," at the same time showing the coffer in which the stomach was. And having said this, he throws it into the river, and embalms the rest of the body as being pure.'"—A. H. Sayce, *Rel. of Anc. Egyptians*, p. 64.
+
+See BHARATA, CHILDREN OF HORUS, [DEFUNCT?], PROMETHEUS, VISCERA, WATER (lower), WINE.
+
+**Corrections made:** `@ little` → a little; `1!` → 1; `1 have` → I have; page headings `Karana, LIN22 STONE` removed from mid-sentence; `Saycr` → Sayce; `Egypttans` → Egyptians; `Sez` → See; `VISCEBRA` → VISCERA; See-list spellings restored; quotation marks normalised.
+
+**Unclear or supplied:** `Deruncr` in the See list is uncertain, given as `[DEFUNCT?]`.
 
 ## Full OCR entry body (exact)
 

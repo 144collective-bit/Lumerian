@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-birth-of-confucius
 headword: "BIRTH OF CONFUCIUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Fruiau prery` | **unresolved** (review queue) |
 | `Sout` | **unresolved** (review queue) |
 | `TREE OF LIFE` | resolved (full-head) → [[Reference/Gaskell/Entries/T/TREE OF LIFE|TREE OF LIFE]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the entrance of the Higher Self into the mentality of the lower nature during the cycle of Involution.
+
+> "The birth of Confucius is surrounded with many prodigious occurrences. . . . As her time drew near, the mother, Ching-tsae, asked her husband if there was any place near called 'The hollow mulberry tree.' He told her there was a dry cave in the south hill of that name. She said, 'I will go there.' On the night when the child was born, two dragons came and kept watch, etc."—J. Legge, *Life and Teachings of Confucius*, p. 58.
+
+When the emotion-nature (Ching-tsae) was sufficiently advanced, and it aspired upward, there was a presentiment of spiritual influx, and in due time the Self was born in the purified soul (dry cave). The 'hollow mulberry tree' refers to the Divine Ray to which all souls are attached, and which proceeds from the higher planes (south hill). The 'two dragons' symbolise wisdom and love which protect the infant Self by keeping it close within.
+
+See CAVE, CONFUCIUS, DRAGON, FILIAL PIETY, SOUL, TREE OF LIFE.
+
+**Corrections made:** `Chingteae` → Ching-tsae; `spiritual]` → spiritual; See-list spellings restored (`Cave`, `Conrucrus`, `Draaon`, `Fruiau prery`, `Sout`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

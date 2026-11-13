@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-assembly-of-people
 headword: "ASSEMBLY OF PEOPLE"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,16 @@ tags:
 | `ProrLE` | **unresolved** (review queue) |
 | `Pircems (shrine)` | **unresolved** (review queue) |
 | `S#Hrs (Greeks)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the gathering together and co-ordinating of qualities on the mental plane.
+
+See ATTRACTION, CITY, NINE DAYS, PEOPLE, [Pircems? (shrine)], [S#Hrs? (Greeks)].
+
+**Corrections made:** `ATTRAOTION` → ATTRACTION; `ProrLE` → PEOPLE.
+
+**Unclear or supplied:** `[S#Hrs? (Greeks)]` is a reading of OCR `S#Hrs (Greeks)`.
 
 ## Full OCR entry body (exact)
 

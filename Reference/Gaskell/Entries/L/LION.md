@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lion
 headword: "LION"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,24 @@ tags:
 | `QUATERNAEY` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `SERPENT (solar)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SERPENT|SERPENT]] |
 | `SPHINX` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SPHINX|SPHINX]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of power in manifestation or of might, strength and courage as forces of the lower quaternary.
+
+> "Among beasts they become lions haunting the mountains, whose couch is a ground."—Empedocles, Fairbanks, 438.
+
+Among the lower emotional qualities, strength of will and courage are the means of fostering ambitions which are rooted in the lower nature.
+
+> "Forasmuch as the nature of everything is compounded of different elements, in Holy Writ different things are allowably represented by any one thing. For the lion has magnanimity, it has also ferocity: by its magnanimity then it represents the Lord, by its ferocity the devil. Hence it is declared of the Lord, 'Behold, the Lion of the Tribe of Judah, the root of David, hath prevailed' (Rev. v. 5). Hence it is written of the devil, 'Your adversary, the devil, like a roaring lion, walketh about seeking whom he may devour' (1 Pet. v. 8.)."—St. Gregory, *Morals on the Book of Job*, Vol. I. p. 272.
+
+> "A symbol, we must remember, may mean two entirely different and opposing things. Thus the lion may symbolise the evil spirit walking about as a lion to devour his prey, or the all-conquering Christ, the Lion of the tribe of Judah. Our Lord too compared the kingdom of heaven in one of his parables to leaven; yet elsewhere He spoke in an entirely different sense of the leaven of the scribes and pharisees."—F. E. Hulme, *Symbolism*, etc., p. 4.
+
+See ANIMALS, BEASTS (wild), GREEN LION, GRIFFIN, LEO, QUATERNARY, SERPENT (solar), SPHINX.
+
+**Corrections made:** `FAaIrRBANES` → Fairbanks; `elemente` → elements; `representa` → represents; `ita` → its; `clsewhere` → elsewhere; `Hutme, Symboltem` → Hulme, *Symbolism*; `QUATERNAEY` → QUATERNARY; See-list spellings restored (`Breasts`, `GrirriIn`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

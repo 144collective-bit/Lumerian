@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-days
 headword: "FOUR DAYS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,20 @@ tags:
 |---|---|
 | `Lazarus` | resolved (full-head) → [[Reference/Gaskell/Entries/L/LAZARUS|LAZARUS]] |
 | `Toms` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A period which corresponds with the condition arrived at on four planes or four sub-planes.
+
+> "So when Jesus came, he found that Lazarus had been in the tomb four days already."—John xi. 17.
+
+When the Higher Self began to manifest in the soul, he perceived the inert condition of the causal-body (Lazarus) on the fourth mental sub-plane.
+
+See LAZARUS, TOMB.
+
+**Corrections made:** `causalbody` → causal-body; `JoHN` → John; `Toms` → TOMB; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

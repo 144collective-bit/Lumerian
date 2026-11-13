@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-enosh-son-of-seth
 headword: "ENOSH, SON OF SETH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,18 @@ tags:
 |---|---|
 | `BEGETTING` | resolved (first-segment) → [[Reference/Gaskell/Entries/B/BEGETTING SONS AND DAUGHTERS|BEGETTING SONS AND DAUGHTERS]] |
 | `SETH` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SETH, SON OF ADAM|SETH, SON OF ADAM]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of increased faith in the Divine nature within the soul.
+
+> "The name of the son of Seth was Enos, and Enos means hope."—Philo, *Works*, Yonge, Vol. IV. p. 276.
+
+See BEGETTING, SETH.
+
+**Corrections made:** `PHILo` → Philo.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

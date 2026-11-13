@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-akeru-gods-or-gods-of-akert
 headword: "AKERU GODS, OR GODS OF AKERT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,22 @@ tags:
 | `Horus` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/H/HORUS, THE CHILD|HORUS, THE CHILD]]; [[Reference/Gaskell/Entries/H/HORUS, THE ELDER, OR AROUERIS|HORUS, THE ELDER, OR AROUERIS]]; [[Reference/Gaskell/Entries/H/HORUS, THE YOUNGER|HORUS, THE YOUNGER]] |
 | `Net` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NET, GOLDEN|NET, GOLDEN]]; [[Reference/Gaskell/Entries/N/NET NET FOR THE CATCHING OF FISH|NET NET FOR THE CATCHING OF FISH]]; [[Reference/Gaskell/Entries/N/NET-RA|NET-RA]]; [[Reference/Gaskell/Entries/N/NET-RA NESTIS, HESTIA OR VESTA|NET-RA NESTIS, HESTIA OR VESTA]] |
 | `Set` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SET, OR TYPHON|SET, OR TYPHON]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The phases of the lower consciousness of the soul; i.e. the negations and limitations which are outgrown and left behind.
+
+> "I know the name of the snarers who lay snares therewith (net); Akeru gods, ancestors of Akhabin gods are their names. . . . I know the names of the fowlers and of the fishermen; Akeru ancestors of Ra is their name."—[Budge?], *Book of the Dead*, Ch. CLIIIa. pp. 511, 513.
+
+> "Set hath delivered the interior of the body of Horus from the Akeru gods."—*Ibid.*, Ch. CX. p. 324.
+
+The astral plane corresponds to the level from which evolution of form proceeds. The deliverance through the desire-nature comes when the individuality is at length born, and then all the experiences which have accrued through the evolution of the group-soul are welded into a unifying centre of consciousness. In the lower states of consciousness ("fowlers and fishermen") the experiences are collected by means of the astral mechanism (net) of the senses, and transferred to the mental vehicle.
+
+See FISH, HORUS, NET, SET.
+
+**Corrections made:** `T know` → I know; `—ce,` → [Budge?]; stray `_` removed; page heading `37 ALBORDJ` removed from mid-sentence; `Fisu` → FISH.
+
+**Unclear or supplied:** `[Budge?]`: the author's name is lost in the OCR (`ce`).
 
 ## Full OCR entry body (exact)
 

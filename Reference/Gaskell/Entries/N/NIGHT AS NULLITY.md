@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-night-as-nullity
 headword: "NIGHT AS NULLITY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,14 @@ tags:
 | `PrRanayvA` | **unresolved** (review queue) |
 | `RECOLLECTION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/R/RECOLLECTION OF PAST INCARNATIONS|RECOLLECTION OF PAST INCARNATIONS]]; [[Reference/Gaskell/Entries/R/RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS|RECOLLECTION RECOGNITION OF HIGHER AND LOWER STATES OF CONSCIOUSNESS]] |
 | `Sryx` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of negation, secrecy, or the forgetting of all past experience on entering a higher level of consciousness. This implies the expunging of sorrow and pleasure, the wiping out of pain and sense-happiness, the killing out of desire, in passing from the "night" of the soul,—the delusion of the lower planes,—to the "day" of the higher planes. The symbol "night" may thus come to stand for inaction, or subjectivity. See CHARON'S FERRY, NECTAR, NOX, PRALAYA, RECOLLECTION, STYX.
+
+**Corrections made:** `sensehappiness` → sense-happiness; See-list spellings restored (`reRRY`, `PrRanayvA` → PRALAYA, `Sryx`).
+
+**Unclear or supplied:** `PRALAYA` is a likely reading of `PrRanayvA`.
 
 ## Full OCR entry body (exact)
 

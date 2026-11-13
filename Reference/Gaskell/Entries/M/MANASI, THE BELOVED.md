@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-manasi-the-beloved
 headword: "MANASI, THE BELOVED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -60,6 +61,30 @@ tags:
 | `NAvEL` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAVEL|NAVEL]] |
 | `OnNoGoRoJmmaA` | **unresolved** (review queue) |
 | `WARP. MANDHATRI’` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body in the higher mind.
+
+> "And the beloved Mânasi (mind) and her image Kâkshushi (eye), who, taking flowers, are weaving the worlds."—*Kaush. Upanishad*, I. 2.
+
+The much valued mental centre—the causal-body,—conveying intuition, the soul's eye, that is, the inner discernment which perceives only the good and true, and so realises that whereof the universe is built. The flowers are the virtues or higher qualities which energise the higher planes.
+
+See CAUSAL-BODY, FLOWERS, KARANA, MARKS.
+
+### Also in this note: MANCO CAPAC AND MAMA OCLLO, OFFSPRING OF SUN AND MOON
+
+Symbols of the Divine Will and Wisdom proceeding from primordial Spirit and Matter.
+
+> "Manco Capac and Mama Ocllo descended from heaven in the region of Lake Titicaca. They had received commands from their parent, the sun-god, to traverse the country until they came to a spot where a golden wedge they possessed should sink into the ground, and at this place to found a culture centre. The wedge [disappeared?] at Cuzco (navel of the earth). [The] city founded, Manco Capac instructed the men in the arts of civilisation, and his consort busied herself in teaching the women the domestic virtues, as weaving and spinning."—L. [Spence?], *Myth. of Mexico and Peru*, [page unclear].
+
+The Divine Will and Wisdom manifested first upon the higher mental plane (the region), and in accordance with the scheme of the Logos, centres of operation had to be found for the formation of the Soul. Then, in the process of involution, a ray of the Divine Life (wedge) from the higher (gold) planes was projected to the centre of the mental plane (navel), and below to the centre of the astral plane, and from these centres (city) the Soul was gradually built up. The Divine Will then prepared the way for the subsequent evolution of man and other entities. The mental qualities were involved and brought to perfection, and the Divine Wisdom fully adapted the higher emotions (women) to the laws and mechanism of the soul-process.
+
+See CHEMMIS, CIVILISING, DELOS, EARTH (ground), GOLD, GOLDEN AGE, LOOM, NAVEL, ONOGORO-JIMA, WARP.
+
+**Corrections made:** `MA€nasi`, `K&kshushi` → Mânasi, Kâkshushi; `Oglilo` → Ocllo; `the possessed` → they possessed; `soulprocess` → soul-process; page heading `MANCO` removed from mid-sentence; stray `MANDHATRI'` (a following page's headword) removed from the end; See-list spellings restored (`Karana`, `CHENMMIS`, `DELOs`, `EartH`, `GoLp`, `Loom`, `NAvEL`, `OnNoGoRoJmmaA`).
+
+**Unclear or supplied:** Contains a second entry: MANCO CAPAC AND MAMA OCLLO. `MARKS` (OCR `MARES`) is a likely reading. `[disappeared?]` (OCR `disa ge`); `[The]` supplied (OCR `e`); the author `L. [Spence?]` (OCR `L. ila`) and page reference (OCR `z`) are damaged. `ONOGORO-JIMA` is a reading of damaged `OnNoGoRoJmmaA`.
 
 ## Full OCR entry body (exact)
 

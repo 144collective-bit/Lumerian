@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-passion-passages-or-valleys-through-the-mountains
 headword: "PASSION PASSAGES, OR VALLEYS, THROUGH THE MOUNTAINS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,14 @@ tags:
 | `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `Mountains` | resolved (full-head) → [[Reference/Gaskell/Entries/M/MOUNTAINS|MOUNTAINS]] |
 | `VALLEY` | resolved (full-head) → [[Reference/Gaskell/Entries/V/VALLEY|VALLEY]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the establishment of tracts on the mental plane, in relation to the astral mechanism. See BRIDGE OF GJALL, CHANNELS, MOUNTAINS, VALLEY.
+
+**Corrections made:** See-list spellings restored (`BrRmpcGE oF GJaLL`, `Mountains`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

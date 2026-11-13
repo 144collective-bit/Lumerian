@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-fruit-tree-bearing-fruit-and-seed
 headword: "FRUIT-TREE BEARING FRUIT AND SEED"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Pxiant` | **unresolved** (review queue) |
 | `SEED (good)` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SEED|SEED]] |
 | `SEEDS OF FOODS` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/SEEDS OF FOODS AND PLANTS|SEEDS OF FOODS AND PLANTS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the law of karma linking life with form, and the potencies within, which are ready to unfold.
+
+> "And God said, Behold, I have given you every herb yielding seed, which is upon the face of all the earth, and every tree, in which is the fruit of a tree yielding seed; to you it shall be for meat."—Gen. i. 29.
+
+And the Supreme acquaints the Soul with the fact that it has contained within it that which will enable it to unfold, and thus expand its own nature. This unfolding must proceed through the lower nature (earth). And every emotion which (as seed) is capable of becoming exalted, and which can be the means of affording growth to the soul,—to the soul it shall serve as sustenance.
+
+See EARTH, FACE, KARMA, MEAT, PLANT, SEED (good), SEEDS OF FOODS.
+
+**Corrections made:** See-list spellings restored (`Earru`, `Face`, `Karma`, `MEart`, `Pxiant`); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

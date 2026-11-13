@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-ama-terasu-ama-terasu-or-tenshodaijin-the-sun-godde
 headword: "AMA-TERASU AMA-TERASU, OR TENSHODAIJIN, THE SUN-GODDESS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -54,6 +55,32 @@ tags:
 | `UKEemocnui` | **unresolved** (review queue) |
 | `Uzumt` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/U/UZUME, GODDESS|UZUME, GODDESS]] |
 | `WoopENn PALACE` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of Wisdom, the principle of buddhi. The same as the "Holy Spirit" of the West.
+
+> "The Sun-Goddess was born from the washing of Izanagi's left eye, and the Moon-god from that of his right, while a third deity, named Susa-no-wo, was generated from the washing of his nose. To the Sun-Goddess Izanagi gave charge of the 'Plain of High Heaven,' and to the Moon-god was allotted the realm of night. Susa-no-wo was at first appointed to [rule?] the sea."—W. G. Aston, *Shinto*, p. 95.
+
+The Divine Will purifies the Individuality (left eye) and makes manifest the Buddhic nature. He purifies the Personality (right eye—Moon-god), and also the Desire-nature (Susa-no-wo). The Buddhic principle operates on the buddhic plane (High Heaven). The Personality organises the underworld (night). The Desire-nature rules on the astral plane (the sea).
+
+> "Ama-terasu being offended with Susano-wo went away and concealed herself in the Cave of Ameno Tuaya, closing the entrance with a large piece of rock. From this time the country was dark all over, and given up to the noise and disturbances of all sorts of inferior gods."—*Nihongi*.
+
+Wisdom's influence on the lower nature being frustrated by Desire, she ceased from direct action in the soul, and retired into the inner being or Divine realm which is concealed from the lower nature by spiritual law. (That is,—the "Fall" having taken place, the Desire-nature rules the soul, and the direct vibrations from buddhi (Eden) cease.) After this event, the lower nature was bereft of the light of Truth, and immersed in the darkness of ignorance. The soul was given over to the turmoil and conflict of instincts, desires, opinions and feelings.
+
+> "Ama-terasu slightly opening the Cave door, asked, 'Why has Usumé danced, and why do the Gods laugh?' Usumé replied, 'I dance, and they laugh because there is an honourable deity here' (pointing to the mirror) 'who surpasses you in glory'; and as she said this, the mirror was pushed forward, reflecting her own radiant loveliness, and her surprise was greater even than before. As she peeped out of the door to look around, the Strong God pulled the rock door open and drew the bright Goddess forth."—*Ibid.*
+
+This refers to the end of the cycle when the consciousness rises to the buddhic plane. It was requisite that the emotions (Usumé) should be raised and the ideals be attained (Gods laugh). Perfection of the lower nature being at last realised, there was to be found in the causal-body (mirror) a reflection of the Wisdom-nature more glorious in so far as it signifies Victory,—the end of strenuous effort. The perfected lower nature disappears in the Higher, for they are alike, and joy ineffable fills the soul. As Wisdom (peeping out) becomes manifest in the evolved consciousness, the Divine Will (Strong God) makes the spiritual mind its fitting vehicle in the exalted soul.
+
+> "The above episode is the kernel of the mythical lore of Japan. Belonging to the class of light and darkness myths, it professes to give the origin of some of the principal ceremonies of the Shinto religion. . . . Modern Shinto explains the darkness produced by the Sun-Goddess's retirement as emblematic of the darkness of sin. The renewal of light typifies repentance. Of course this was far from the thoughts of the original myth-makers."—W. G. Aston, *Shinto*, pp. 101, 102.
+
+Nevertheless, modern Shinto is right in this. A shallow Mythology destroys religion and reduces the sacred writings to foolishness.
+
+See BUDDHI, CAVE, DANCE, DARKNESS, EYES, HIDING PLACE, INSIGNIA, IZANAGI, LAUGHTER (gods), MAST, [Merzrii1?], MIRROR, [Mireaura?], MOON, NIGHT, NINIGI, RETURN, SEA, SUSANOWO, UKEMOCHI, UZUMÉ, WOODEN PALACE.
+
+**Corrections made:** `ae the sea` → [rule?] the sea; `Moongod` → Moon-god; `Desirenature` → Desire-nature; `concesled` → concealed; `Ciods` → Gods; `@ reflection` → a reflection; `SunGoddess's` → Sun-Goddess's; `W. Q@. Aston, Shtnto` → W. G. Aston, Shinto; `Brdéh.` style fixes; page heading `AMAZEMENT` removed from mid-sentence; See-list spellings restored (`Buppui`, `Niaut`, `Ninict`, `UKEemocnui`, `Uzumt`, `SusaNowo`, `WoopENn PALACE` and similar).
+
+**Unclear or supplied:** `[rule?]` (OCR `ae`). `[Merzrii1?]` and `[Mireaura?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

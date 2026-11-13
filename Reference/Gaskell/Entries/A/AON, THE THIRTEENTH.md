@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aon-the-thirteenth
 headword: "AON, THE THIRTEENTH"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -38,6 +39,20 @@ tags:
 | `Mysteries` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/M/MYSTERIES OF LIGHT|MYSTERIES OF LIGHT]] |
 | `THIRTEEN` | resolved (first-segment) → [[Reference/Gaskell/Entries/T/THIRTEEN, NUMBER|THIRTEEN, NUMBER]] |
 | `UNION` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/U/UNION, ARROW, THE SELF-MOVING|UNION, ARROW, THE SELF-MOVING]]; [[Reference/Gaskell/Entries/U/UNION IN THE GARDEN OF REEDS|UNION IN THE GARDEN OF REEDS]]; [[Reference/Gaskell/Entries/U/UNION WITH GOD|UNION WITH GOD]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This Æon signifies the period and state of completion, entered upon after the close of the cycle of twelve Æons.
+
+> "And so He (Jesus) passed inward to the veils of the thirteenth Æon."—*Pistis Sophia*.
+
+So it is, the Christ-soul passed onward and inward to those states which lead to perfection and final liberation. This is the triumph of the Higher Self when the lower and the higher natures become one.
+
+See ASCENSION, BORN (due time), COMPARTMENTS, MYSTERIES, THIRTEEN, UNION.
+
+**Corrections made:** `Zon` → Æon; `ons` → Æons; `Mon` → Æon; See-list spellings restored (`Born`, `ComPaRTMENTS`, `Mysteries`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

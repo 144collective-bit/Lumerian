@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-incarnation-of-souls
 headword: "INCARNATION OF SOULS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,18 @@ tags:
 | `Spark` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SPARK, DIVINE|SPARK, DIVINE]]; [[Reference/Gaskell/Entries/S/SPARK SPACES OF THE INEFFABLE|SPARK SPACES OF THE INEFFABLE]] |
 | `VESTURES` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VESTURES OF THE SOUL|VESTURES OF THE SOUL]] |
 | `WHEELS OF BIRTH` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WHEELS OF BIRTH AND DEATH|WHEELS OF BIRTH AND DEATH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+The descent of the spiritual egos into human forms on the lower planes. The Divine Monad (atma-buddhi), at a certain stage, splits up in a limited measure, as it were, into many monads, an enormous but limited number. Each of these spirits, sparks, or souls, is ready to incarnate in humanity when mind is attained. They become the deepest selves in every human being,—the immortal spirits in each. At first they are almost totally obscured by the activities of the desire and sense natures, but gradually the stimulation from without arouses the qualities and potencies latent within them, and man becomes not only a mental but a spiritual being.
+
+> "My God is my deeper Self, and yours too; He is the Self of the universe, and knows all about it. He is never baffled, and cannot be baffled; the whole cosmic process is one long incarnation and uprising of the being of God from itself to itself."—R. J. Campbell, *The New Theology*, p. 35.
+
+See ARC. MAN, ATMA, BUDDHI, COSMOS, CREATION, EVOLUTION, FALL, FRAVASHIS, MANASAPUTRAS, MARUTS, MONADS, NAKEDNESS, REINCARNATION, SHEEP (lost), SONS OF GOD, SOUL, SPARK, VESTURES, WHEELS OF BIRTH.
+
+**Corrections made:** `Hmited` → limited; `FRAVASHI8` → FRAVASHIS; page heading `389 INCENSE-BURNING` removed from mid-See-list; See-list spellings restored (`Cosmos`, `Maruts`, `Monaps`, `Sons or GoD`, `Sout`, `Spark`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-nod-of-jove-or-zeus
 headword: "NOD OF JOVE OR ZEUS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `THET1s` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/T/THETIS, GODDESS|THETIS, GODDESS]] |
 | `WILL` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/W/WILL, GERMS, OR SEEDS|WILL, GERMS, OR SEEDS]]; [[Reference/Gaskell/Entries/W/WILL OF MAN|WILL OF MAN]] |
 | `ZEUS` | resolved (full-head) → [[Reference/Gaskell/Entries/Z/ZEUS|ZEUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the power of the higher will and conscience in the soul.
+
+> "I will nod to thee with my head, that thou mayest feel confidence. For this for me is the greatest pledge among the immortals: for my pledge, even whatsoever I shall sanction by nod, is not to be retracted, neither fallacious nor unfulfilled."—*Iliad*, Bk. I.
+
+Nature (Thetis), the mother of the Personality (Achilles), has appealed to the Higher Self (Jove) on behalf of her "short-lived" son, who has been dishonoured by the Desire-mind (Agamemnon) in that the Desire-mind is contented with self-love, whereas the Personality is born for greater honour, namely, to be a vehicle of the Higher Self. The Higher Self in responding assures Nature that the care of the Personality shall not be neglected, for the Higher Self shall make its power felt by the Personality, from the higher mental nature, through the conscience and will, which cannot seem fallacious or without significance. The symbol of the "nod" is a sign of power and dominion,—it stands for responsibility and individual initiative.
+
+See ACHILLES, AGAMEMNON, CONSCIENCE, HELEN, PERSONALITY, THETIS, WILL, ZEUS.
+
+**Corrections made:** `thon mayenat` → thou mayest; `greatost` → greatest; `IJliad` → Iliad; `apd` → and; `Desiremind` → Desire-mind; page heading `539 NORNOR` removed from mid-sentence; See-list spellings restored (`Herex`, `Prersona.iry`, `THET1s`).
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

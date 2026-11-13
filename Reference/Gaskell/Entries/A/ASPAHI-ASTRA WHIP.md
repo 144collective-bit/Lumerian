@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-aspahi-astra-whip
 headword: "ASPAHI-ASTRA WHIP"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Man` | **candidate (ambiguous first-segment)** → MAN, BAD, OR WICKED; MAN, BLIND; MAN, OR MEN (not linked) |
 | `SraosHa` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/S/SRAOSHA-KARANA|SRAOSHA-KARANA]] |
 | `SUFFERING` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/S/SUFFERING ROOTED IN IGNORANCE|SUFFERING ROOTED IN IGNORANCE]]; [[Reference/Gaskell/Entries/S/SUFFERING, TRUTH|SUFFERING, TRUTH]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the Cosmic Will in the laws of nature for the disciplining of the soul.
+
+> "If a man shall bury in the earth the corpse of a man or of a dog, and not disinter within half a year, he shall pay penalties of 500 stripes with the [Aspahi]-astra and 500 with the Sraoshokarana."—*Vendidad*, III. *S. B. of E.*
+
+If the lower personality (corpse) is not outgrown within a certain period, the ego continues to undergo those trials and sufferings which must come to it so long as it identifies itself with its lower nature (earth), imprisoned in the meshes of the matter of the lower planes (earth). The "500 stripes" signify the operations of the Cosmic Will. "Sraoshokarana" means the Divine purpose. The "corpse of dog" signifies the lower or desire will.
+
+See BONDAGE, CAPTIVITY, CORPSE, DOG, MAN, SRAOSHA, SUFFERING.
+
+**Corrections made:** Page heading `716 ASPIRATION` removed from mid-sentence; `3f «a` → If a; `S. B. of B.` → S. B. of E.; `purpose The` → purpose. The; See-list spellings restored (`BonpacE`, `Captiviry`, `Doe`).
+
+**Unclear or supplied:** `[Aspahi]` is supplied (OCR `the i-astra`, from the headword).
 
 ## Full OCR entry body (exact)
 

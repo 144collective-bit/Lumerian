@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-alaghom-naom-mother-of-mind
 headword: "ALAGHOM NAOM (MOTHER OF MIND)"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -33,6 +34,18 @@ tags:
 | Target (OCR) | Status |
 |---|---|
 | — | no See clause detected |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the principle of buddhi.
+
+> "Otherwise called Iztat Ix, a goddess of the Izental Indians, a Mayan tribe dwelling in Mexico. She was the spouse of Patol, their chief deity, and was credited with the creation of mind and thought, in fact with the higher part of man."—*Non-classical Mythology*, p. 7.
+
+The buddhic principle is allied with the Higher Self (Patol), and from it proceeds the mental plane which is the plane immediately below the buddhic. Through the functioning of buddhi the higher nature of the human being is manifested when mind is awakened in animal man.
+
+**Corrections made:** `of, mind` → of mind (stray comma removed); quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

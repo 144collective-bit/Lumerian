@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-goloka-goloka-or-gokala-world-of-cows
 headword: "GOLOKA GOLOKA OR GOKALA, WORLD OF COWS"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -36,6 +37,18 @@ tags:
 | `Cow` | resolved (full-head) → [[Reference/Gaskell/Entries/C/COW|COW]] |
 | `Goris` | **unresolved** (review queue) |
 | `KRISHNA` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/K/KRISHNA, GOSVAMIN-LORD OF COWS|KRISHNA, GOSVAMIN—LORD OF COWS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the buddhic plane.
+
+> "Goloka 'the world of the cows,' or the supreme heaven of Krishna."—A. Barth, *Religions of India*, p. 228.
+
+The plane of buddhi (cow) is the height of attainment for the Soul (Krishna) in the present cycle. See BIRTH OF KRISHNA, COW, GOPIS, KRISHNA.
+
+**Corrections made:** `Bantu` → Barth; `Goris` → GOPIS; `Cow` → COW; quotation marks normalised.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

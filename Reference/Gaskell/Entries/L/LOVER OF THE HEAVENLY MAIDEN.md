@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-lover-of-the-heavenly-maiden
 headword: "LOVER OF THE HEAVENLY MAIDEN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -40,6 +41,20 @@ tags:
 | `Mout` | **unresolved** (review queue) |
 | `Name` | resolved (full-head) → [[Reference/Gaskell/Entries/N/NAME|NAME]] |
 | `VIRGIN` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/V/VIRGIN BRINGING FORTH A SON|VIRGIN BRINGING FORTH A SON]]; [[Reference/Gaskell/Entries/V/VIRGIN MARY BEARING THE CHILD JESUS|VIRGIN MARY BEARING THE CHILD JESUS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the indwelling Self working upwards through the personality towards union with Buddhi, Wisdom.
+
+> "Let him kiss me with the kisses of his mouth. . . . Thy name is as ointment poured forth; therefore do the virgins love thee. Draw me; we will run after thee. . . . I am black but comely."—Song of Songs, i. 2-5.
+
+The incarnate Self whose differentiation is Love (ointment) is adjured to express his true nature, for all the virtues (virgins) are in harmony with it. Let Love aspire, and Wisdom with the virtues will respond with joy. Wisdom is unapparent, latent (black), but beautiful when expressed.
+
+See BLACK, CUPID, [Htxkososu?], INCARNATION, MAIDEN, MOUTH, NAME, VIRGIN.
+
+**Corrections made:** `ured`/`ove` → poured/love; `Sone OF Sonas` → Song of Songs; page heading `462 LUNAR` removed from mid-sentence; See-list spellings restored (`Buiack`, `Cupm`, `Marpen`, `Mout`).
+
+**Unclear or supplied:** `[Htxkososu?]` in the See list could not be identified.
 
 ## Full OCR entry body (exact)
 

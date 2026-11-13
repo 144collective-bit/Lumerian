@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-four-number
 headword: "FOUR, NUMBER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -45,6 +46,22 @@ tags:
 | `QUARTERS` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/Q/QUARTERS OF THE COMPASS|QUARTERS OF THE COMPASS]] |
 | `QUATERNARY` | resolved (full-head) → [[Reference/Gaskell/Entries/Q/QUATERNARY|QUATERNARY]] |
 | `Winps (four)` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+This is a number significant of system and order; and so there are to be found in the universe and soul many arrangements in sets of fours, which sets have relations in correspondence with each other and binding them together.
+
+> "They that venerate the number Four do not ill to teach that by reason of this number every body has its origin. ... The number four, after having carried Nature forward up to completing a body and producing double bulk and resistance has yet left it deficient in the most important article (Olympus)."—Plutarch, *On the E at Delphi*, § 13.
+
+This statement is to indicate that the number four applies rather to the natural order of things, the quaternary, and does not include the spiritual (Olympus).
+
+> "Four is symbolic of the world, and nature, and of man by nature."—J. Garnier, *The Worship of the Dead*, p. 220.
+
+See [BACASBS?], CASTES, CHILDREN OF HORUS, CLASSES, ELEMENTS, IRON PLATE, JOB, MINISTERS, OLYMPUS, [PRITAKS?] (four), QUARTERS, QUATERNARY, WINDS (four).
+
+**Corrections made:** `ulk` → bulk; `PriorarcnH` → Plutarch; `GaRNIER` → Garnier; See-list spellings restored (`CastTEs`, `Winps`); quotation marks normalised.
+
+**Unclear or supplied:** `[BACASBS?]` and `[PRITAKS?]`: See-list items the OCR damaged and that could not be identified with confidence.
 
 ## Full OCR entry body (exact)
 

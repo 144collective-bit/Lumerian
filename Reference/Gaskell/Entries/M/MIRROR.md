@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-mirror
 headword: "MIRROR"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -50,6 +51,34 @@ tags:
 | `Sxy` | **unresolved** (review queue) |
 | `Sun` | resolved (full-head) → [[Reference/Gaskell/Entries/S/SUN|SUN]] |
 | `VEIL` | related (narrower headword; no plain entry) → [[Reference/Gaskell/Entries/V/VEIL OF ISIS|VEIL OF ISIS]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the causal-body as a reflector of atma-buddhi,—the Love and Wisdom of the higher planes.
+
+> "Amaterasu, the Sun-Goddess, in presenting the Sacred Mirror to her grandson Ninigi-no-mikoto, said,—'Look upon this Mirror as my spirit, keep it in the same house and on the same floor with yourself, and worship it as if you were worshipping my actual presence.'"—Satow, *Legend of the Sun-goddess*.
+
+Wisdom, in directing the evolution on the lower planes of the soul instructs the indwelling Self (her grandson), in his struggles upward, to aspire to the ideal and seek the Wisdom, Love, and Truth reflected in the causal-body on the higher mental plane (same floor), which is the plane from which the Self operates.
+
+> "I (Lakshmi) reside in a lotus flower, in blazing fire, and in a polished sword or mirror."—*Institutes of Vishnu*, XCIX. 12.
+
+> "Sometimes the soul is called the 'Mirror of God.' Thus Jellal eddin says:—'If a mirror reflects not, of what use is it? Knowest thou why thy mirror reflects not? Because the rust has not been scoured from its face. If it were purified from all rust and defilement, it would reflect the shining of the Sun of God.'"—Max Müller, *Theosophy, etc.*, p. 357.
+
+> "[words lost] in which shall shine and be illumined all things which have ever existed and which can rejoice our hearts."—Ruysbroeck, Stoddart's trans., p. 76.
+
+> "But we all, with unveiled face reflecting as a mirror the glory of the Lord, are transformed into the same image from glory to glory, even as from the Lord the Spirit."—2 Cor. iii. 18.
+
+> "Canst thou with him spread out the sky, which is strong as a molten mirror?"—Job xxxvii. 18.
+
+> "The soul of man, individually and in the lump, needs to be reclaimed from its subjection to material conditions, and its essential divinity made fully manifest, perfectly reflecting the face of God, ere it is ready for the fulfilment of its eternal destiny."—R. J. Campbell, *Serm.*, *The Refiner's Fire*.
+
+> "'External nature,' St. Bernard writes, 'is but the shadow of God, the soul is His image. The chief, the special mirror in which to see Him is the rational soul finding itself.' And he continues: 'If the invisible things of God are understood and clearly seen by the things which have been made, where, I ask, rather than in His image (within us), can be found more deeply imprinted the traces of the knowledge of Him? Whosoever therefore thirsteth to see his God, let him cleanse from every stain his mirror, let him purify his heart by faith.' The substance of Christian mysticism is presented in this passage of St. Bernard."—W. S. Lilly, *The Great Enigma*, p. 266.
+
+See AMATERASU, BUDDHI, CAUSAL-BODY, FACE OF GOD, FACES OF MEN, HOUSE, IMAGE, INSIGNIA OF JAPAN, [ISIS?], LAKSHMI, [Mrirecura?], MOSES, NINIGI, SHINTAI, [Smmore?], SKY, SUN, VEIL.
+
+**Corrections made:** `goddesa` → goddess; `T (Lakshmi)` → I (Lakshmi); `Inatitutes` → Institutes; `urified` → purified; `RuysBROEOK` → Ruysbroeck; `ita eternal` → its eternal; `sow` → soul; `W. 8. Liruty` → W. S. Lilly; `CamMPBELu` → Campbell; `Max MULLER` → Max Müller; See-list spellings restored (`CAUSALBODY` hyphenated, `HovusrE`, `LaxsoMi`, `Mosss`, `Ninior`, `Shintar`, `Sxy`); page heading `MISTLETOE` removed from mid-quotation.
+
+**Unclear or supplied:** The Ruysbroeck quotation begins mid-sentence in the OCR (`[words lost]`). `[ISIS?]`, `[Mrirecura?]` and `[Smmore?]` are damaged See-list items not identified with confidence.
 
 ## Full OCR entry body (exact)
 

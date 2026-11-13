@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-hand
 headword: "HAND"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,14 @@ tags:
 | `ARMS OF BODY` | **unresolved** (review queue) |
 | `HEALING (hand)` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEALING|HEALING]] |
 | `STRIKING` | resolved (first-segment) → [[Reference/Gaskell/Entries/S/STRIKING THE HANDS TOGETHER|STRIKING THE HANDS TOGETHER]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the directive principle of activity either outgoing (right) or incoming (left). The positive and negative aspects of Divine action in the soul. See ARMS OF BODY, HEALING (hand), STRIKING.
+
+**Corrections made:** Nothing changed.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

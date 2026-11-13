@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-field
 headword: "FIELD"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -51,6 +52,28 @@ tags:
 | `VITAL aIns` | resolved (OCR-corrected) → [[Reference/Gaskell/Entries/V/VITAL AIRS, UPPER AND LOWER|VITAL AIRS, UPPER AND LOWER]] |
 | `WILDERNESS` | resolved (first-segment) → [[Reference/Gaskell/Entries/W/WILDERNESS, OR DESERT|WILDERNESS, OR DESERT]] |
 | `WORLD` | **unresolved** (ambiguous full-head matches; not linked) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the lower nature; the arena within which the soul's evolution takes place.
+
+> "The great elements (earth, etc.), egoism (self-consciousness), the understanding, the unperceived also, the ten senses, and the one (mind) and the five objects of sense, desire, aversion, pleasure, pain, body, consciousness, courage, thus in brief has been declared the Kshetra with changes [word unclear] (ment)."—*Bhagavad-gita*, Ch. XIII.
+
+The Kshetra, or field, is the arena in its largest sense of organism and environment of the soul's evolution. It includes all the planes of manifestation below atma, though the present lower nature below the buddhic is more especially indicated. The mental faculties, the emotions, the desires, passions, and sensations in all their varieties are the means of soul-development.
+
+> "The field is the world."—Matt. xiii.
+
+The "world" signifies the lower nature of the soul, in which the germs of higher qualities (seed) are sown by the Spirit.
+
+> "This human frame, O Earth! is called 'field.' He who knows (how to enter and how to leave) it is denominated by those conversant with the subject, 'the Knower of the field' (i.e. Self or Soul). . . . Those striving after final emancipation must constantly seek to understand the 'field' and to obtain a knowledge of the Knower of the field."—*Institutes of Vishnu*, Ch. XCVI. 97, 98.
+
+The human organism on the lower planes is the field of experience. To know it all is to rise above it and become one with the Higher Self. The human organism comprises the four vehicles of the soul on the four planes of nature; i.e. the causal, mental, astral, and physical human bodies. It is through these bodies that the indwelling spiritual ego must manifest his nature, and he can only do so by fully understanding and controlling them. When he has mastered the lower qualities, he has developed the higher, and the consciousness rises to the higher planes and to union with the Higher Self.
+
+See AGRICULTURE, ARENA, CASTES, FIEND, IGNORANCE, IRRIGATION, KNOWER, LAND, LIBERATION, MARKET-PLACE, QUATERNARY, SETTLEMENTS, SKANDHAS, VARA, VESTURES, VINEYARD, VITAL AIRS, WILDERNESS, WORLD.
+
+**Corrections made:** `XIIL` → XIII.; `Mar.` → Matt. (inferred from the Gospel reference "The field is the world," Matt. xiii.); `ae` before "The field is the world" removed as stray symbol; `FIEND Ienornance` → FIEND, IGNORANCE; See-list spellings restored (`Lanp`, `Virnerns`, `VITAL aIns`); quotation marks normalised.
+
+**Unclear or supplied:** `[word unclear]` replaces OCR `ee:` before "(ment)" in the Gita quotation (probably "with changes [and the aggregate] (ment)"; unrecoverable). OCR `Mar.` (Mar. xiii.) is read as Matt. xiii.; uncertain. `VARA` and `VESTURES` left as printed. `FIEND` appears to be a See-list item.
 
 ## Full OCR entry body (exact)
 

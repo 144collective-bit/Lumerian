@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-canaan-son-of-ham
 headword: "CANAAN, SON OF HAM"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,16 @@ tags:
 |---|---|
 | `Ham` | resolved (first-segment) → [[Reference/Gaskell/Entries/H/HAM, SON OF NOAH|HAM, SON OF NOAH]] |
 | `NOAH’S SONS` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of works or service, proceeding from action (Ham).
+
+See HAM, NOAH'S SONS.
+
+**Corrections made:** `Ham` → HAM.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

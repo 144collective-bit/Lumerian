@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-artery
 headword: "ARTERY"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -35,6 +36,16 @@ tags:
 | `Bioop` | **unresolved** (review queue) |
 | `CHANNELS` | resolved (first-segment) → [[Reference/Gaskell/Entries/C/CHANNELS, OR PASSAGES|CHANNELS, OR PASSAGES]] |
 | `HEART` | resolved (full-head) → [[Reference/Gaskell/Entries/H/HEART|HEART]] |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of a channel in the soul of the Divine life (blood) which flows from the "heart" or centre of being.
+
+See BLOOD, CHANNELS, HEART.
+
+**Corrections made:** `Bioop` → BLOOD.
+
+**Unclear or supplied:** None.
 
 ## Full OCR entry body (exact)
 

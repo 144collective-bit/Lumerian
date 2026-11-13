@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-crown-double-serpent
 headword: "CROWN, DOUBLE SERPENT"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -34,6 +35,14 @@ tags:
 |---|---|
 | `NEKHEBIT` | candidates (several headwords begin with this term) → [[Reference/Gaskell/Entries/N/NEKHEBIT AND UACHIT|NEKHEBIT AND UACHIT]]; [[Reference/Gaskell/Entries/N/NEKHEBIT, WATER HIPPOPOTAMUS, MALE|NEKHEBIT, WATER HIPPOPOTAMUS, MALE]] |
 | `UR-UATOHTI` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+An emblem of Kingship over the lower nature through the power of Wisdom and the higher emotions. See NEKHEBIT, UR-UATOHTI.
+
+**Corrections made:** None.
+
+**Unclear or supplied:** `UR-UATOHTI` is left as printed (probably UR-UATCHTI).
 
 ## Full OCR entry body (exact)
 

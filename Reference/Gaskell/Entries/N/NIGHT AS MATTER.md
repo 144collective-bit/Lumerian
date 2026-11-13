@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-night-as-matter
 headword: "NIGHT AS MATTER"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,20 @@ tags:
 | `Lieut` | **unresolved** (review queue) |
 | `Po` | resolved (first-segment) → [[Reference/Gaskell/Entries/P/PO, OR NIGHT|PO, OR NIGHT]] |
 | `TaNaoa` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of the material form-side of nature.
+
+> "And God called the light Day, and the darkness he called Night."—Gen. i. 5.
+
+The "light" signifies the consciousness, whilst the "darkness" indicates the form-side of nature, not of itself conscious.
+
+See DARKNESS, DAY AND NIGHT, FORMS, [Hove?], LIGHT, PO, TANAOA.
+
+**Corrections made:** `Gern.` → Gen.; page heading `536 NILE` removed from mid-sentence; See-list spellings restored (`DakKNESS`, `Lieut`, `TaNaoa`).
+
+**Unclear or supplied:** `[Hove?]` is an unidentified See-list item.
 
 ## Full OCR entry body (exact)
 

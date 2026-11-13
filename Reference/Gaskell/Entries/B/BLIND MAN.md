@@ -5,6 +5,7 @@ entry_id: gaskell-1960-entry-blind-man
 headword: "BLIND MAN"
 edition: Julian Press 1960 (Internet Archive OCR EPUB)
 created: 2026-11-06
+reading_text: ai-corrected-2026-11-12
 review_status: machine-extracted-unreviewed
 tags:
   - source/gaskell
@@ -39,6 +40,26 @@ tags:
 | `Mrmaores (healing)` | **unresolved** (review queue) |
 | `Szzmxc` | **unresolved** (review queue) |
 | `Sieur` | **unresolved** (review queue) |
+
+## Reading text (AI-corrected from the OCR, 12 November 2026)
+
+A symbol of mentality immersed in the concerns of the lower life, and devoid of spiritual perception.
+
+> "Bartimejus, a blind beggar, was sitting by the wayside. And when he heard that it was Jesus of Nazareth, he began to cry out and say, Jesus thou son of David have mercy on me,"—Mark x. 46, 47.
+
+This "blind man" is he who is not spiritually awakened, but who reveres the form of religion, and who addresses his God according to hearsay, not recognising the Divine,—the Son of God. He has to learn the truth and aspire, ere his eyes can be opened.
+
+> "New spiritual sight does not create, but reveals, the reality. And in all such openings, whether gradual or sudden, the Lord cometh, and his coming is more often than not connected with some pain of the new birth, fires and purgings that accompany the operations for cataract performed by the Great Physician on the real eye. He to whose intuitions the Lord has thus come is positively a new man; I mean, all limitations are removed from his Godward thought."—Basil Wilberforce, *Serm.*, *The Message of Advent*.
+
+> "The blind (spiritually blind) man hath forgotten the Name; the perverse is stone-blind. His transmigration shall cease not; he shall be ruined by death and birth."—"Hymn of Guru Nanak."—Macauliffe, *The Sikh Religion*, Vol. I. p. 263.
+
+> "Blind and naked signifies that they are without the understanding of truth, and without the will of good."—Swedenborg, *Apoc. Rev.*, n. 153.
+
+See DAVID, GARMENTS, HEALING, MAN (blind), MIRACLES (healing), SEEING, SIGHT.
+
+**Corrections made:** `6 new man` → a new man; `reals eye` → real eye; `Basi` → Basil; `Gura` → Guru; `MacavuLir¥Fe` → Macauliffe; `Vol. 1 263` → Vol. I. p. 263; `SwEpEnNBora` → Swedenborg; `Szzmxc, Sieur` → SEEING, SIGHT; page heading `BLISS` removed from mid-quotation.
+
+**Unclear or supplied:** `SEEING` and `SIGHT` are read from the damaged See-list items `Szzmxc`, `Sieur`.
 
 ## Full OCR entry body (exact)
 
