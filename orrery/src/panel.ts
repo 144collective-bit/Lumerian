@@ -91,7 +91,9 @@ export class Panel {
     this.set('position', `
       <div class="placement"><span class="sign-glyph">${sign.glyph}</span>
         <div><div class="deg">${formatDegree(g.lon)} <b>${sign.name}</b>${retro ? ' <span class="rx" title="Retrograde">℞</span>' : ''}</div>
-        <div class="sub">${sign.modality} ${sign.element} · ${retro ? 'retrograde' : id === 'node' || id === 'snode' ? 'mean motion, always backward' : 'direct'} · ${Math.abs(v).toFixed(v > 2 || v < -2 ? 2 : 3)}°/day</div></div></div>
+        <div class="sub">${decan.ordinal} decan · ruled by ${BODIES[sign.ruler].glyph} ${BODIES[sign.ruler].name}</div></div></div>
+      <div class="chips"><span class="chip el-${sign.element}">${ELEMENT_GLYPH[sign.element]} ${sign.element}</span><span class="chip">${sign.modality}</span>
+        <span class="chip ${retro ? 'rx' : ''}">${retro ? '℞ Retrograde' : id === 'node' || id === 'snode' ? 'Always backward' : 'Direct'}</span><span class="chip">${Math.abs(v).toFixed(v > 2 || v < -2 ? 2 : 3)}°/day</span></div>
       ${dig ? `<p class="dignity">${dig}</p>` : ''}`);
 
     const cards = [

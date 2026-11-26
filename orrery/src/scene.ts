@@ -64,10 +64,14 @@ export class Orrery {
   private fly: { t: number; fromDist: number; toDist: number } | null = null;
   private idleSince = 0;
   private shift = { x: 0, y: 0 };
+  private pathsOn = true;
+  private theme = { accent: GOLD, bg: 0x05040a };
   private sky = new THREE.Group();
   private figures = new THREE.Group();
   private aspectLines!: THREE.LineSegments;
   private natal = new THREE.Group();
+  private accented: { color: THREE.Color }[] = [];
+  private coarse = window.matchMedia('(pointer: coarse)').matches;
   private aspectList: { a: BodyId; b: BodyId; color: number; strength: number }[] = [];
 
   constructor(private host: HTMLElement) {
@@ -156,7 +160,8 @@ export class Orrery {
         }
       }
       if (zodiac[id] && n) {
-        const label = new THREE.Sprite(new THREE.SpriteMaterial({ map: textTexture(zodiac[id].toUpperCase()), transparent: true, depthWrite: false, opacity: 0.75 }));
+        const label = new THREE.Sprite(new THREE.SpriteMaterial({ map: textTexture(zodiac[id].toUpperCase(), '#ffffff'), transparent: true, depthWrite: false, opacity: 0.6 }));
+        this.accented.push(label.material);
         label.position.copy(centre.normalize().multiplyScalar(R - 4));
         label.scale.set(150, 37.5, 1);
         this.figures.add(label);
@@ -167,7 +172,10 @@ export class Orrery {
       g.setAttribute('position', new THREE.Float32BufferAttribute(arr, 3));
       return new THREE.LineSegments(g, new THREE.LineBasicMaterial({ color, transparent: true, opacity, depthWrite: false }));
     };
-    this.figures.add(lines(faint, 0x7f93c9, 0.16), lines(bright, 0xd9c08a, 0.5));
+    const zodiacLines = lines(bright, 0xffffff, 0.36);
+    this.accented.push(zodiacLines.material as THREE.LineBasicMaterial);
+    this.figures.add(lines(faint, 0x7f93c9, 0.09), zodiacLines);
+    this.setTheme(this.theme);
     this.sky.add(this.figures);
   }
 
@@ -176,7 +184,7 @@ export class Orrery {
     g.setAttribute('position', new THREE.BufferAttribute(new Float32Array(80 * 6), 3));
     g.setAttribute('color', new THREE.BufferAttribute(new Float32Array(80 * 6), 3));
     g.setDrawRange(0, 0);
-    this.aspectLines = new THREE.LineSegments(g, new THREE.LineBasicMaterial({ vertexColors: true, transparent: true, opacity: 0.9, blending: THREE.AdditiveBlending, depthWrite: false }));
+    this.aspectLines = new THREE.LineSegments(g, new THREE.LineBasicMaterial({ vertexColors: true, transparent: true, opacity: 0.6, blending: THREE.AdditiveBlending, depthWrite: false }));
     this.aspectLines.frustumCulled = false;
     this.scene.add(this.aspectLines);
   }
@@ -214,6 +222,14 @@ export class Orrery {
     g.setAttribute('position', new THREE.Float32BufferAttribute(seg, 3));
     this.natal.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({ color: 0x8fd3d8, transparent: true, opacity: 0.8, depthWrite: false })));
   }
+  setPathsVisible(v: boolean) { this.pathsOn = v; this.moonOrbit.visible = v; }
+  setLabelsVisible(v: boolean) { this.labels.domElement.style.display = v ? '' : 'none'; }
+  /** Recolour the scene furniture to match the interface style. */
+  setTheme(t: { accent: number; bg: number }) {
+    this.theme = t;
+    this.renderer.setClearColor(t.bg);
+    for (const m of this.accented) m.color.set(t.accent);
+  }
   setAspectsVisible(v: boolean) { this.aspectLines.visible = v; }
   setFiguresVisible(v: boolean) { this.figures.visible = v; }
 
@@ -245,7 +261,8 @@ export class Orrery {
       band.rotation.x = -Math.PI / 2;
       group.add(band);
       const mid = (i + 0.5) * seg;
-      const glyph = new THREE.Sprite(new THREE.SpriteMaterial({ map: glyphTexture(sign.glyph, '#e6c987'), transparent: true, depthWrite: false }));
+      const glyph = new THREE.Sprite(new THREE.SpriteMaterial({ map: glyphTexture(sign.glyph, '#ffffff'), transparent: true, depthWrite: false }));
+      this.accented.push(glyph.material);
       glyph.position.set(Math.cos(mid) * RING_R, 0, -Math.sin(mid) * RING_R);
       glyph.scale.setScalar(5.2);
       group.add(glyph);
@@ -257,11 +274,15 @@ export class Orrery {
     }
     const ticks = new THREE.BufferGeometry();
     ticks.setAttribute('position', new THREE.Float32BufferAttribute(pts, 3));
-    group.add(new THREE.LineSegments(ticks, new THREE.LineBasicMaterial({ color: GOLD, transparent: true, opacity: 0.55 })));
+    const tickMat = new THREE.LineBasicMaterial({ color: GOLD, transparent: true, opacity: 0.55 });
+    this.accented.push(tickMat);
+    group.add(new THREE.LineSegments(ticks, tickMat));
     for (const r of [RING_R - 4, RING_R + 4]) {
       const circle = new THREE.BufferGeometry().setFromPoints(
         Array.from({ length: 181 }, (_, k) => new THREE.Vector3(Math.cos((k / 180) * 2 * Math.PI) * r, 0, Math.sin((k / 180) * 2 * Math.PI) * r)));
-      group.add(new THREE.Line(circle, new THREE.LineBasicMaterial({ color: GOLD, transparent: true, opacity: 0.5 })));
+      const m = new THREE.LineBasicMaterial({ color: GOLD, transparent: true, opacity: 0.5 });
+      this.accented.push(m);
+      group.add(new THREE.Line(circle, m));
     }
     this.scene.add(group);
   }
@@ -295,6 +316,15 @@ export class Orrery {
         mesh.rotation.order = 'ZYX';
         mesh.rotation.z = THREE.MathUtils.degToRad(vis.tilt ?? 0);
         group.add(mesh);
+        const air: Partial<Record<BodyId, number>> = { venus: 0xffe2a8, earth: 0x6fb3ff, mars: 0xff9a6a, jupiter: 0xf2d2a8, saturn: 0xf3e2b3, uranus: 0xaef0f2, neptune: 0x6f9bff };
+        if (air[id]) {
+          group.add(new THREE.Mesh(new THREE.SphereGeometry(vis.r * 1.045, 48, 32), new THREE.ShaderMaterial({
+            uniforms: { c: { value: new THREE.Color(air[id]) } },
+            vertexShader: 'varying vec3 vN; varying vec3 vV; void main(){ vec4 mv = modelViewMatrix * vec4(position, 1.0); vN = normalize(normalMatrix * normal); vV = normalize(-mv.xyz); gl_Position = projectionMatrix * mv; }',
+            fragmentShader: 'uniform vec3 c; varying vec3 vN; varying vec3 vV; void main(){ float f = pow(1.0 - abs(dot(normalize(vN), normalize(vV))), 2.6); gl_FragColor = vec4(c, f * 0.4); }',
+            transparent: true, blending: THREE.AdditiveBlending, depthWrite: false,
+          })));
+        }
         if (id === 'saturn') {
           const inner = vis.r * 1.25, outer = vis.r * 2.3;
           const rg = new THREE.RingGeometry(inner, outer, 96, 1);
@@ -322,7 +352,8 @@ export class Orrery {
 
       const obj: BodyObj = { id, group, mesh, radius, target: new THREE.Vector3(), from: new THREE.Vector3(), label, labelEl: el, spin: vis?.spin ?? 0 };
       if (id !== 'earth') {
-        obj.ringMark = new THREE.Sprite(new THREE.SpriteMaterial({ map: glyphTexture(lore.glyph, '#f3e3b8'), transparent: true, depthWrite: false }));
+        obj.ringMark = new THREE.Sprite(new THREE.SpriteMaterial({ map: glyphTexture(lore.glyph, '#ffffff'), transparent: true, depthWrite: false }));
+        this.accented.push(obj.ringMark.material);
         obj.ringMark.scale.setScalar(3);
         obj.ringMark.visible = false;
         this.scene.add(obj.ringMark);
@@ -377,7 +408,7 @@ export class Orrery {
       let best: BodyId | null = null, bestD = Infinity;
       for (const b of this.bodies.values()) {
         const p = b.group.position, camD = p.distanceTo(this.camera.position);
-        const hit = Math.max(b.radius * 1.25, camD * 0.016);
+        const hit = Math.max(b.radius * 1.25, camD * (this.coarse ? 0.034 : 0.018));
         if (ray.ray.distanceSqToPoint(p) < hit * hit && camD < bestD) { best = b.id; bestD = camD; }
       }
       if (best) this.select(best);
@@ -467,7 +498,9 @@ export class Orrery {
     if (id) {
       const b = this.bodies.get(id)!;
       const dist = this.camera.position.distanceTo(this.controls.target);
-      this.fly = { t: 0, fromDist: dist, toDist: Math.max(b.radius * 7, 4.5) };
+      // on tall phone screens the body needs more room to fit the width
+      const tall = Math.max(1, (this.host.clientHeight / this.host.clientWidth) * 0.8);
+      this.fly = { t: 0, fromDist: dist, toDist: Math.max(b.radius * 7, 4.5) * tall };
       this.controls.autoRotate = false;
       this.idleSince = performance.now();
     }
@@ -515,7 +548,7 @@ export class Orrery {
     const drift = Math.abs(t - this.pathTime) / DAY;
     const limit = this.mode === 'geo' ? 2 : 3650;
     if (isNaN(this.pathTime) ? this.transition > 0.5 || !moving : drift > limit && performance.now() - this.pathBuiltAt > 250) this.buildPaths(date);
-    for (const b of this.bodies.values()) if (b.path) (b.path.material as THREE.LineBasicMaterial).opacity = (BODIES[b.id].kind === 'minor' ? 0.28 : 0.5) * (isNaN(this.pathTime) ? 0.0 : 1);
+    for (const b of this.bodies.values()) if (b.path) (b.path.material as THREE.LineBasicMaterial).opacity = (BODIES[b.id].kind === 'minor' ? 0.2 : 0.4) * (isNaN(this.pathTime) || !this.pathsOn ? 0.0 : 1);
 
     this.updateCamera(dt);
   }

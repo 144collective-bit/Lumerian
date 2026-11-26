@@ -26,7 +26,7 @@ function shiftView(open: boolean) {
 }
 orrery.onSelect = (id) => { panel.open(id, now()); shiftView(!!id); };
 panel.onClose = () => { orrery.home(); panel.open(null, now()); shiftView(false); };
-window.addEventListener('keydown', (e) => { if (e.key === 'Escape') { if (chartView.open) chartView.toggle(false); else panel.onClose(); } });
+window.addEventListener('keydown', (e) => { if (e.key === 'Escape') { if (!menu.hidden) setMenu(false); else if (chartView.open) chartView.toggle(false); else panel.onClose(); } });
 
 // ---- view toggle and layers ----
 const modeButtons = document.querySelectorAll<HTMLButtonElement>('#view-toggle button');
@@ -34,11 +34,51 @@ modeButtons.forEach((b) => b.addEventListener('click', () => {
   orrery.setMode(b.dataset.mode as Mode);
   modeButtons.forEach((x) => x.classList.toggle('active', x === b));
 }));
-document.querySelectorAll<HTMLButtonElement>('#layers button[data-layer]').forEach((b) => b.addEventListener('click', () => {
-  const on = b.classList.toggle('active');
-  b.setAttribute('aria-pressed', String(on));
-  if (b.dataset.layer === 'aspects') orrery.setAspectsVisible(on); else orrery.setFiguresVisible(on);
-}));
+// ---- menu: style, layers, reset ----
+const THEMES = [
+  { id: 'observatory', name: 'Observatory', note: 'Modern glass', accent: 0x9bd0ff, bg: 0x04060b, swatch: ['#0c111b', '#9bd0ff', '#e8edf5'] },
+  { id: 'alchemical', name: 'Alchemical', note: 'Gold, serif', accent: 0xc9a45c, bg: 0x05040a, swatch: ['#0c0a12', '#c9a45c', '#e9dfc8'] },
+  { id: 'neon', name: 'Neon', note: 'Violet, cyan', accent: 0xc79bff, bg: 0x06030d, swatch: ['#120a22', '#c084fc', '#5ef2ff'] },
+  { id: 'mono', name: 'Mono', note: 'Greyscale', accent: 0xd8d8d8, bg: 0x050505, swatch: ['#0b0b0b', '#f2f2f2', '#8a8a8a'] },
+];
+const prefs: { theme: string; layers: Record<string, boolean> } = { theme: 'observatory', layers: {} };
+try { Object.assign(prefs, JSON.parse(localStorage.getItem('orrery.prefs') ?? '{}')); } catch { /* storage unavailable */ }
+const savePrefs = () => { try { localStorage.setItem('orrery.prefs', JSON.stringify(prefs)); } catch { /* storage unavailable */ } };
+
+const themeList = $('#theme-list');
+function applyTheme(id: string) {
+  const t = THEMES.find((x) => x.id === id) ?? THEMES[0];
+  prefs.theme = t.id;
+  document.documentElement.dataset.theme = t.id;
+  document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#' + t.bg.toString(16).padStart(6, '0'));
+  orrery.setTheme(t);
+  themeList.querySelectorAll('button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.theme === t.id)));
+}
+themeList.innerHTML = THEMES.map((t) => `<button role="radio" data-theme="${t.id}" aria-checked="false">
+  <span class="swatch" style="background:${t.swatch[0]}"><i style="background:${t.swatch[1]}"></i><i style="background:${t.swatch[2]}"></i></span>
+  <span class="tn">${t.name}</span><span class="td">${t.note}</span></button>`).join('');
+themeList.addEventListener('click', (e) => {
+  const b = (e.target as HTMLElement).closest<HTMLElement>('button[data-theme]');
+  if (b) { applyTheme(b.dataset.theme!); savePrefs(); }
+});
+applyTheme(prefs.theme);
+
+const layerSetters: Record<string, (on: boolean) => void> = {
+  aspects: (on) => orrery.setAspectsVisible(on), figures: (on) => orrery.setFiguresVisible(on),
+  paths: (on) => orrery.setPathsVisible(on), labels: (on) => orrery.setLabelsVisible(on),
+};
+document.querySelectorAll<HTMLInputElement>('#menu input[data-layer]').forEach((box) => {
+  const key = box.dataset.layer!;
+  if (key in prefs.layers) box.checked = prefs.layers[key];
+  layerSetters[key](box.checked);
+  box.addEventListener('change', () => { prefs.layers[key] = box.checked; layerSetters[key](box.checked); savePrefs(); });
+});
+
+const menu = $('#menu'), menuBtn = $('#menu-btn');
+function setMenu(open: boolean) { menu.hidden = !open; menuBtn.setAttribute('aria-expanded', String(open)); menuBtn.classList.toggle('open', open); }
+menuBtn.addEventListener('click', (e) => { e.stopPropagation(); setMenu(menu.hidden === true); });
+document.addEventListener('pointerdown', (e) => { if (!menu.hidden && !menu.contains(e.target as Node) && !menuBtn.contains(e.target as Node)) setMenu(false); });
+$('#home-btn').addEventListener('click', () => { panel.onClose(); setMenu(false); });
 
 // ---- time machine ----
 const rateButtons = document.querySelectorAll<HTMLButtonElement>('#time-bar button');
@@ -82,7 +122,7 @@ $('#natal-btn').addEventListener('click', () => { if (!chartView.open) panel.onC
 
 // ---- left panel: tabs ----
 const sky = $('#sky'), skyToggle = $('#sky-toggle');
-const tabs = document.querySelectorAll<HTMLButtonElement>('#sky-tabs button');
+const tabs = document.querySelectorAll<HTMLButtonElement>('#sky-tabs button[data-tab]');
 const bodies: Record<string, HTMLElement> = { sky: $('#sky-list'), aspects: $('#aspect-list'), moment: $('#moment') };
 let tab = 'sky';
 tabs.forEach((b) => b.addEventListener('click', () => {
@@ -121,7 +161,8 @@ const hex = (c: number) => '#' + c.toString(16).padStart(6, '0');
 // Aspects tab (the 3D lines use the same list)
 function refreshAspects(date: Date) {
   const list = aspects(date);
-  orrery.setAspects(list.map((a) => ({ a: a.a, b: a.b, color: a.type.color, strength: 1 - a.orb / a.type.orb })));
+  // only the tighter aspects are drawn in 3D, so the scene stays readable; the list shows them all
+  orrery.setAspects(list.filter((a) => a.orb <= a.type.orb * 0.5).map((a) => ({ a: a.a, b: a.b, color: a.type.color, strength: 1 - a.orb / (a.type.orb * 0.5) })));
   if (tab !== 'aspects') return;
   setHtml(bodies.aspects, list.length ? list.map((a) =>
     `<li><button data-a="${a.a}"><span class="g">${BODIES[a.a].glyph}</span><span class="ag" style="color:${hex(a.type.color)}" title="${a.type.name}">${a.type.glyph}</span><span class="g">${BODIES[a.b].glyph}</span>

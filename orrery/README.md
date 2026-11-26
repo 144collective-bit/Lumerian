@@ -22,3 +22,5 @@ npm run build    # production build in dist/
 - Planet surfaces are generated in code except Earth and Moon (`public/textures/`, from the three.js examples).
 - Stars and constellation figures come from the d3-celestial catalogue (BSD-3, see `public/data/LICENSE-d3-celestial.txt`).
 - Planetary hours use the viewer's location, which is kept in the browser only.
+- Interface styles (Observatory, Alchemical, Neon, Mono) are sets of CSS tokens at the top of `src/style.css`;
+  the list shown in the menu is `THEMES` in `src/main.ts`.

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="observatory">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -7,7 +7,7 @@
     <title>Lumerian Orrery</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Cinzel:wght@400;600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Cinzel:wght@400;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   </head>
   <body>
     <div id="scene"></div>
@@ -22,10 +22,22 @@
       <button data-mode="geo">Geocentric</button>
     </div>
 
-    <div id="layers" role="group" aria-label="Layers">
-      <button data-layer="aspects" class="active" aria-pressed="true">Aspects</button>
-      <button data-layer="figures" class="active" aria-pressed="true">Constellations</button>
-      <button id="natal-btn" class="action">Natal chart</button>
+    <button id="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+    <div id="menu" hidden>
+      <section>
+        <h3>Style</h3>
+        <div id="theme-list" role="radiogroup" aria-label="Interface style"></div>
+      </section>
+      <section>
+        <h3>Layers</h3>
+        <label class="switch"><input type="checkbox" data-layer="aspects" checked /><span>Aspect lines</span></label>
+        <label class="switch"><input type="checkbox" data-layer="figures" checked /><span>Constellations</span></label>
+        <label class="switch"><input type="checkbox" data-layer="paths" checked /><span>Orbits and trails</span></label>
+        <label class="switch"><input type="checkbox" data-layer="labels" checked /><span>Labels</span></label>
+      </section>
+      <section>
+        <button id="home-btn" class="wide">Reset view</button>
+      </section>
     </div>
 
     <aside id="sky">
@@ -35,6 +47,7 @@
           <button role="tab" data-tab="sky" class="active">Sky</button>
           <button role="tab" data-tab="aspects">Aspects</button>
           <button role="tab" data-tab="moment">Moment</button>
+          <button id="natal-btn" class="action">Natal</button>
         </div>
       </div>
       <ul id="sky-list" class="tab-body"></ul>
@@ -44,9 +57,9 @@
 
     <div id="time-bar">
       <div class="scrub">
-        <span>−1 yr</span>
+        <span class="end">−1 yr</span>
         <input type="range" id="scrub" min="-365" max="365" step="0.01" value="0" aria-label="Scrub through time" />
-        <span>+1 yr</span>
+        <span class="end">+1 yr</span>
       </div>
       <div class="controls" role="group" aria-label="Time controls">
         <button data-rate="-2592000" title="One month per second, backwards">◂◂</button>
