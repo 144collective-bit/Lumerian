@@ -183,3 +183,109 @@ export function jupiterMoons(date: Date): Vec[] {
   const j = A.JupiterMoons(t);
   return [j.io, j.europa, j.ganymede, j.callisto].map((s) => toEct([s.x, s.y, s.z], t));
 }
+
+// ---------- aspects ----------
+
+export interface AspectType { name: string; glyph: string; angle: number; orb: number; color: number }
+export const ASPECT_TYPES: AspectType[] = [
+  { name: 'Conjunction', glyph: '☌', angle: 0, orb: 8, color: 0xecd29a },
+  { name: 'Sextile', glyph: '⚹', angle: 60, orb: 4, color: 0x6fb7e8 },
+  { name: 'Square', glyph: '□', angle: 90, orb: 6, color: 0xe5674e },
+  { name: 'Trine', glyph: '△', angle: 120, orb: 6, color: 0x7fd38a },
+  { name: 'Opposition', glyph: '☍', angle: 180, orb: 8, color: 0xe58a4e },
+];
+export const ASPECT_BODIES: BodyId[] = ['sun', 'moon', 'mercury', 'venus', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto', 'chiron', 'node'];
+
+export interface Aspect { a: BodyId; b: BodyId; type: AspectType; orb: number; applying: boolean }
+
+const sep = (x: number, y: number) => { const d = Math.abs(norm360(x - y)); return d > 180 ? 360 - d : d; };
+
+/** Major aspects in force at a moment, tightest first. */
+export function aspects(date: Date): Aspect[] {
+  const later = new Date(date.getTime() + 3600000);
+  const now = ASPECT_BODIES.map((id) => geo(id, date).lon);
+  const next = ASPECT_BODIES.map((id) => geo(id, later).lon);
+  const out: Aspect[] = [];
+  for (let i = 0; i < ASPECT_BODIES.length; i++) {
+    for (let j = i + 1; j < ASPECT_BODIES.length; j++) {
+      const s = sep(now[i], now[j]);
+      for (const type of ASPECT_TYPES) {
+        const orb = Math.abs(s - type.angle);
+        if (orb <= type.orb) {
+          out.push({ a: ASPECT_BODIES[i], b: ASPECT_BODIES[j], type, orb, applying: Math.abs(sep(next[i], next[j]) - type.angle) < orb });
+          break;
+        }
+      }
+    }
+  }
+  return out.sort((x, y) => x.orb - y.orb);
+}
+
+// ---------- void-of-course Moon ----------
+
+export interface VoidInfo { voidNow: boolean; begins: Date | null; ends: Date; nextSign: number; lastAspect?: { body: BodyId; type: AspectType } }
+const VOC_BODIES: BodyId[] = ['sun', 'mercury', 'venus', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
+const wrap180 = (x: number) => { x = norm360(x); return x > 180 ? x - 360 : x; };
+
+/**
+ * The Moon is void of course from its last exact major aspect to a planet
+ * until it leaves its present sign.
+ */
+export function voidOfCourse(date: Date): VoidInfo | null {
+  const ing = nextIngress('moon', date);
+  if (!ing) return null;
+  const targets = [0, 60, 90, 120, 180, 240, 270, 300];
+  const step = 20 * 60000;
+  let last: { t: number; body: BodyId; angle: number } | null = null;
+  for (const body of VOC_BODIES) {
+    const diff = (t: number) => norm360(geo('moon', new Date(t)).lon - geo(body, new Date(t)).lon);
+    let t0 = date.getTime(), d0 = diff(t0);
+    while (t0 < ing.date.getTime()) {
+      const t1 = Math.min(t0 + step, ing.date.getTime()), d1 = diff(t1);
+      for (const T of targets) {
+        const g0 = wrap180(d0 - T), g1 = wrap180(d1 - T);
+        if (Math.abs(g0) < 5 && Math.abs(g1) < 5 && g0 * g1 <= 0 && g0 !== g1) {
+          const t = t0 + ((t1 - t0) * g0) / (g0 - g1);
+          if (!last || t > last.t) last = { t, body, angle: T > 180 ? 360 - T : T };
+        }
+      }
+      t0 = t1; d0 = d1;
+    }
+  }
+  const type = last ? ASPECT_TYPES.find((a) => a.angle === last!.angle)! : undefined;
+  return {
+    voidNow: !last, begins: last ? new Date(last.t) : null, ends: ing.date, nextSign: ing.sign,
+    lastAspect: last && type ? { body: last.body, type } : undefined,
+  };
+}
+
+// ---------- planetary hours ----------
+
+const CHALDEAN_HOURS: BodyId[] = ['saturn', 'jupiter', 'mars', 'sun', 'venus', 'mercury', 'moon'];
+const DAY_RULERS: BodyId[] = ['sun', 'moon', 'mars', 'mercury', 'jupiter', 'venus', 'saturn']; // Sunday first
+
+export interface HourInfo { dayRuler: BodyId; hourRuler: BodyId; nextRuler: BodyId; index: number; isDay: boolean; start: Date; end: Date; sunrise: Date; sunset: Date }
+
+/** Classical planetary hour: daylight and darkness are each divided into twelve unequal hours. */
+export function planetaryHour(date: Date, lat: number, lon: number): HourInfo | null {
+  const obs = new A.Observer(lat, lon, 0);
+  const rise = A.SearchRiseSet(A.Body.Sun, obs, +1, date, -1.2);
+  if (!rise) return null;
+  const set = A.SearchRiseSet(A.Body.Sun, obs, -1, rise.date, 1.2);
+  const nextRise = A.SearchRiseSet(A.Body.Sun, obs, +1, rise.AddDays(0.01), 1.5);
+  if (!set || !nextRise) return null;
+  const t = date.getTime(), r0 = rise.date.getTime(), s = set.date.getTime(), r1 = nextRise.date.getTime();
+  const isDay = t < s;
+  const len = isDay ? (s - r0) / 12 : (r1 - s) / 12;
+  const within = Math.min(11, Math.floor((t - (isDay ? r0 : s)) / len));
+  const index = isDay ? within : 12 + within;
+  // weekday at the observer, by local mean time at sunrise
+  const weekday = new Date(r0 + (lon / 15) * 3600000).getUTCDay();
+  const dayRuler = DAY_RULERS[weekday];
+  const base = CHALDEAN_HOURS.indexOf(dayRuler);
+  const start = (isDay ? r0 : s) + within * len;
+  return {
+    dayRuler, hourRuler: CHALDEAN_HOURS[(base + index) % 7], nextRuler: CHALDEAN_HOURS[(base + index + 1) % 7],
+    index, isDay, start: new Date(start), end: new Date(start + len), sunrise: rise.date, sunset: set.date,
+  };
+}

@@ -1,4 +1,4 @@
-import { geo, helio, speed, nextIngress, nextStation, moonInfo, isPoint, PERIOD_DAYS, type BodyId } from './ephemeris';
+import { geo, helio, speed, nextIngress, nextStation, moonInfo, isPoint, aspects, PERIOD_DAYS, type BodyId } from './ephemeris';
 import { BODIES, SIGNS, ELEMENT_GLYPH, ELEMENT_QUALITIES, signOf, decanOf, formatDegree, dignity, type TarotCard } from './correspondences';
 
 const AU_KM = 149597870.7;
@@ -51,6 +51,7 @@ export class Panel {
       <header><span class="big-glyph">${lore.glyph}</span><div><h2>${lore.name}</h2><p class="blurb">${lore.blurb}</p></div></header>
       <section data-s="position"></section>
       <section data-s="tarot"></section>
+      <section data-s="aspects"></section>
       <section data-s="alchemy"></section>
       <section data-s="lore"></section>
       <section data-s="astro"></section>
@@ -100,6 +101,12 @@ export class Panel {
     ].join('');
     this.set('tarot', `<h3>Tarot</h3><div class="cards">${cards}</div>
       <p class="note">${decan.ordinal} decan of ${sign.name}, ruled by ${BODIES[decan.ruler].glyph} ${BODIES[decan.ruler].name}.${lore.cardNote ? ' ' + lore.cardNote : ''}${lore.card ? '' : ' No Golden Dawn trump is assigned to this body; the cards shown are those of its sign and decan.'}</p>`);
+
+    const mine = aspects(date).filter((a) => a.a === id || a.b === id);
+    this.set('aspects', mine.length ? `<h3>Aspects</h3><dl>${mine.map((a) => {
+      const other = BODIES[a.a === id ? a.b : a.a];
+      return `<div class="row"><dt><span class="el" style="color:#${a.type.color.toString(16).padStart(6, '0')}">${a.type.glyph}</span> ${a.type.name}</dt><dd>${other.glyph} ${other.name} · ${a.orb.toFixed(1)}° ${a.applying ? 'applying' : 'separating'}</dd></div>`;
+    }).join('')}</dl>` : '');
 
     this.set('alchemy', `<h3>Alchemy</h3><dl>
       ${row('Element', `<span class="el el-${sign.element}">${ELEMENT_GLYPH[sign.element]}</span> ${sign.element} — ${ELEMENT_QUALITIES[sign.element]}`)}

@@ -3,7 +3,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { CSS2DRenderer, CSS2DObject } from 'three/examples/jsm/renderers/CSS2DRenderer.js';
 import { helio, geo, jupiterMoons, isPoint, PERIOD_DAYS, type BodyId, type Vec } from './ephemeris';
 import { BODIES, SIGNS } from './correspondences';
-import { planetTexture, ringTexture, glowTexture, sunTexture, glyphTexture, type SurfaceSpec } from './textures';
+import { planetTexture, ringTexture, glowTexture, sunTexture, glyphTexture, textTexture, type SurfaceSpec } from './textures';
 
 export type Mode = 'helio' | 'geo';
 
@@ -64,6 +64,10 @@ export class Orrery {
   private fly: { t: number; fromDist: number; toDist: number } | null = null;
   private idleSince = 0;
   private shift = { x: 0, y: 0 };
+  private sky = new THREE.Group();
+  private figures = new THREE.Group();
+  private aspectLines!: THREE.LineSegments;
+  private aspectList: { a: BodyId; b: BodyId; color: number; strength: number }[] = [];
 
   constructor(private host: HTMLElement) {
     const w = host.clientWidth, h = host.clientHeight;
@@ -93,7 +97,8 @@ export class Orrery {
 
     this.scene.add(new THREE.AmbientLight(0x8890b0, 0.28));
     this.scene.add(this.sunLight);
-    this.buildStars();
+    void this.buildStars();
+    this.buildAspectLines();
     this.buildZodiac();
     this.buildBodies();
     this.buildBelt();
@@ -103,20 +108,95 @@ export class Orrery {
 
   // ---------- construction ----------
 
-  private buildStars() {
-    const n = 5000, pos = new Float32Array(n * 3), col = new Float32Array(n * 3);
-    const c = new THREE.Color();
-    for (let i = 0; i < n; i++) {
-      const u = Math.random() * 2 - 1, th = Math.random() * Math.PI * 2, s = Math.sqrt(1 - u * u);
-      pos.set([900 * s * Math.cos(th), 900 * u, 900 * s * Math.sin(th)], i * 3);
-      const b = 0.25 + Math.pow(Math.random(), 3) * 0.75;
-      c.setHSL(Math.random() < 0.5 ? 0.6 : 0.1, 0.35, b * 0.8);
-      col.set([c.r, c.g, c.b], i * 3);
+  /** Real stars and constellation figures (J2000 catalogue), placed on the ecliptic frame. */
+  private async buildStars() {
+    this.scene.add(this.sky);
+    const R = 900, eps = THREE.MathUtils.degToRad(23.4392911), ce = Math.cos(eps), se = Math.sin(eps);
+    const place = (raDeg: number, decDeg: number, r = R) => {
+      const a = THREE.MathUtils.degToRad(raDeg), d = THREE.MathUtils.degToRad(decDeg);
+      const x = Math.cos(d) * Math.cos(a), y = Math.cos(d) * Math.sin(a), z = Math.sin(d);
+      return new THREE.Vector3(x, -y * se + z * ce, -(y * ce + z * se)).multiplyScalar(r);
+    };
+    let data: { stars: number[]; lines: Record<string, number[][][]> };
+    try {
+      data = await (await fetch('data/sky.json')).json();
+    } catch {
+      return;
     }
+    const buckets = [{ max: 2.2, size: 3.4 }, { max: 3.6, size: 2.4 }, { max: 4.8, size: 1.7 }, { max: 9, size: 1.1 }];
+    const pos: number[][] = buckets.map(() => []), col: number[][] = buckets.map(() => []);
+    for (let i = 0; i < data.stars.length; i += 4) {
+      const [ra, dec, mag, bv] = data.stars.slice(i, i + 4);
+      const b = buckets.findIndex((k) => mag <= k.max), v = place(ra, dec);
+      const t = THREE.MathUtils.clamp((bv + 0.3) / 1.8, 0, 1);
+      const lum = THREE.MathUtils.clamp(1.15 - mag * 0.13, 0.3, 1);
+      pos[b].push(v.x, v.y, v.z);
+      col[b].push(lum * (0.72 + 0.28 * t), lum * (0.82 + 0.06 * t - 0.2 * t * t), lum * (1 - 0.5 * t));
+    }
+    buckets.forEach((k, b) => {
+      const g = new THREE.BufferGeometry();
+      g.setAttribute('position', new THREE.Float32BufferAttribute(pos[b], 3));
+      g.setAttribute('color', new THREE.Float32BufferAttribute(col[b], 3));
+      this.sky.add(new THREE.Points(g, new THREE.PointsMaterial({ size: k.size, sizeAttenuation: false, vertexColors: true })));
+    });
+
+    try { await document.fonts.load('44px Cinzel'); } catch { /* fall back to a system serif */ }
+    const zodiac: Record<string, string> = { Ari: 'Aries', Tau: 'Taurus', Gem: 'Gemini', Cnc: 'Cancer', Leo: 'Leo', Vir: 'Virgo', Lib: 'Libra', Sco: 'Scorpius', Sgr: 'Sagittarius', Cap: 'Capricornus', Aqr: 'Aquarius', Psc: 'Pisces' };
+    const faint: number[] = [], bright: number[] = [];
+    for (const [id, segs] of Object.entries(data.lines)) {
+      const out = zodiac[id] ? bright : faint;
+      const centre = new THREE.Vector3(); let n = 0;
+      for (const seg of segs) {
+        for (let k = 0; k + 1 < seg.length; k++) {
+          const a = place(seg[k][0], seg[k][1], R - 2), b = place(seg[k + 1][0], seg[k + 1][1], R - 2);
+          out.push(a.x, a.y, a.z, b.x, b.y, b.z);
+          centre.add(a); n++;
+        }
+      }
+      if (zodiac[id] && n) {
+        const label = new THREE.Sprite(new THREE.SpriteMaterial({ map: textTexture(zodiac[id].toUpperCase()), transparent: true, depthWrite: false, opacity: 0.75 }));
+        label.position.copy(centre.normalize().multiplyScalar(R - 4));
+        label.scale.set(150, 37.5, 1);
+        this.figures.add(label);
+      }
+    }
+    const lines = (arr: number[], color: number, opacity: number) => {
+      const g = new THREE.BufferGeometry();
+      g.setAttribute('position', new THREE.Float32BufferAttribute(arr, 3));
+      return new THREE.LineSegments(g, new THREE.LineBasicMaterial({ color, transparent: true, opacity, depthWrite: false }));
+    };
+    this.figures.add(lines(faint, 0x7f93c9, 0.16), lines(bright, 0xd9c08a, 0.5));
+    this.sky.add(this.figures);
+  }
+
+  private buildAspectLines() {
     const g = new THREE.BufferGeometry();
-    g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
-    g.setAttribute('color', new THREE.BufferAttribute(col, 3));
-    this.scene.add(new THREE.Points(g, new THREE.PointsMaterial({ size: 1.6, sizeAttenuation: false, vertexColors: true })));
+    g.setAttribute('position', new THREE.BufferAttribute(new Float32Array(80 * 6), 3));
+    g.setAttribute('color', new THREE.BufferAttribute(new Float32Array(80 * 6), 3));
+    g.setDrawRange(0, 0);
+    this.aspectLines = new THREE.LineSegments(g, new THREE.LineBasicMaterial({ vertexColors: true, transparent: true, opacity: 0.9, blending: THREE.AdditiveBlending, depthWrite: false }));
+    this.aspectLines.frustumCulled = false;
+    this.scene.add(this.aspectLines);
+  }
+
+  /** Aspects to draw as lines between bodies; strength 0..1 sets brightness. */
+  setAspects(list: { a: BodyId; b: BodyId; color: number; strength: number }[]) { this.aspectList = list.slice(0, 80); }
+  setAspectsVisible(v: boolean) { this.aspectLines.visible = v; }
+  setFiguresVisible(v: boolean) { this.figures.visible = v; }
+
+  private updateAspectLines() {
+    if (!this.aspectLines.visible) return;
+    const pos = this.aspectLines.geometry.attributes.position as THREE.BufferAttribute;
+    const col = this.aspectLines.geometry.attributes.color as THREE.BufferAttribute;
+    const c = new THREE.Color();
+    this.aspectList.forEach((asp, i) => {
+      const a = this.bodies.get(asp.a)!.group.position, b = this.bodies.get(asp.b)!.group.position;
+      pos.setXYZ(i * 2, a.x, a.y, a.z); pos.setXYZ(i * 2 + 1, b.x, b.y, b.z);
+      c.set(asp.color).multiplyScalar(0.25 + 0.75 * asp.strength);
+      col.setXYZ(i * 2, c.r, c.g, c.b); col.setXYZ(i * 2 + 1, c.r, c.g, c.b);
+    });
+    pos.needsUpdate = true; col.needsUpdate = true;
+    this.aspectLines.geometry.setDrawRange(0, this.aspectList.length * 2);
   }
 
   private buildZodiac() {
@@ -394,6 +474,9 @@ export class Orrery {
     this.sunLight.position.copy(sun.group.position);
     this.moonOrbit.position.copy(earth.group.position);
     this.belt.rotation.y = ((t / DAY) / 1680) * 2 * Math.PI;
+    // precession: the stars drift against the tropical zodiac by about 1.4 degrees a century
+    this.sky.rotation.y = THREE.MathUtils.degToRad(1.3969713 * ((t / DAY + 2440587.5 - 2451545) / 36525));
+    this.updateAspectLines();
 
     // paths: rebuild after a mode change, or when simulated time has moved far enough
     const drift = Math.abs(t - this.pathTime) / DAY;

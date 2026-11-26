@@ -17,3 +17,5 @@ npm run build    # production build in dist/
   named by slug: `major-00.jpg` … `major-21.jpg`, and `wands-02.jpg` … `wands-10.jpg`
   (likewise `cups-`, `swords-`, `pentacles-`).
 - Planet surfaces are generated in code except Earth and Moon (`public/textures/`, from the three.js examples).
+- Stars and constellation figures come from the d3-celestial catalogue (BSD-3, see `public/data/LICENSE-d3-celestial.txt`).
+- Planetary hours use the viewer's location, which is kept in the browser only.

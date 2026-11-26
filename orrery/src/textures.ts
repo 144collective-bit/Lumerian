@@ -98,3 +98,13 @@ export function glyphTexture(text: string, color = '#c9a45c', size = 128): THREE
   ctx.fillText(text, size / 2, size / 2 + size * 0.04);
   const tex = new THREE.CanvasTexture(c); tex.colorSpace = THREE.SRGBColorSpace; return tex;
 }
+
+export function textTexture(text: string, color = '#d9c08a'): THREE.CanvasTexture {
+  const c = document.createElement('canvas'); c.width = 512; c.height = 128;
+  const ctx = c.getContext('2d')!;
+  ctx.font = '44px "Cinzel","Cormorant Garamond",Georgia,serif';
+  ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillStyle = color;
+  try { (ctx as unknown as { letterSpacing: string }).letterSpacing = '10px'; } catch { /* older browsers */ }
+  ctx.fillText(text, 256, 64);
+  const tex = new THREE.CanvasTexture(c); tex.colorSpace = THREE.SRGBColorSpace; return tex;
+}

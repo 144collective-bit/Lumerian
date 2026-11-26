@@ -37,32 +37,62 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .tag { margin-left: 6px; padding: 0 7px; border: 1px solid var(--line); border-radius: 9px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--dim); }
 .tag.live { color: #9fe0a8; border-color: rgba(159, 224, 168, 0.5); }
 
-#view-toggle, #time-bar { position: fixed; display: flex; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(6px); }
+#view-toggle, #time-bar, #layers { position: fixed; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(6px); }
+#view-toggle, #layers, #time-bar .controls { display: flex; }
 #view-toggle { top: 14px; right: 18px; }
-#time-bar { bottom: calc(16px + env(safe-area-inset-bottom)); left: 50%; transform: translateX(-50%); }
-#view-toggle button, #time-bar button { padding: 8px 14px; min-height: 40px; font-family: var(--display); font-size: 11.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--dim); }
-#time-bar button { min-width: 46px; letter-spacing: 0.05em; font-size: 13px; }
-#view-toggle button + button, #time-bar button + button { border-left: 1px solid var(--line); }
+#layers { top: 62px; right: 18px; }
+#time-bar { bottom: calc(14px + env(safe-area-inset-bottom)); left: 50%; transform: translateX(-50%); }
+#view-toggle button, #time-bar button, #layers button { padding: 8px 14px; min-height: 40px; font-family: var(--display); font-size: 11.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--dim); }
+#layers button { min-height: 32px; padding: 5px 12px; font-size: 10px; }
+#layers button::before { content: '○ '; }
+#layers button.active { color: var(--gold-bright); }
+#layers button.active::before { content: '● '; }
+#time-bar button { min-width: 44px; padding: 8px 8px; letter-spacing: 0.05em; font-size: 13px; }
+#view-toggle button + button, #time-bar .controls > * + *, #layers button + button { border-left: 1px solid var(--line); }
 #view-toggle button.active, #time-bar button.active { color: #14100a; background: var(--gold); }
-#view-toggle button:not(.active):hover, #time-bar button:not(.active):hover { color: var(--gold-bright); }
+#view-toggle button:not(.active):hover, #time-bar button:not(.active):hover, #layers button:hover { color: var(--gold-bright); }
+.scrub { display: flex; align-items: center; gap: 10px; padding: 7px 12px 5px; border-bottom: 1px solid var(--line); font-size: 12px; color: var(--dim); white-space: nowrap; }
+#scrub { flex: 1; min-width: 0; height: 22px; accent-color: var(--gold); cursor: ew-resize; }
+#date-pick { min-width: 0; padding: 0 10px; background: none; border: 0; color: var(--ink); font: inherit; font-size: 15px; color-scheme: dark; }
+#date-pick:focus-visible, button:focus-visible, #scrub:focus-visible { outline: 1px solid var(--gold-bright); outline-offset: -2px; }
 
-/* ---- sky list ---- */
-#sky { position: fixed; top: 78px; left: 18px; width: 232px; max-height: calc(100% - 160px); display: flex; flex-direction: column; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(6px); }
-#sky-toggle { padding: 9px 12px; text-align: left; font-family: var(--display); font-size: 11.5px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold-bright); }
-#sky-toggle::after { content: '▾'; float: right; color: var(--dim); }
+/* ---- left panel ---- */
+#sky { position: fixed; top: 78px; left: 18px; width: 252px; max-height: calc(100% - 200px); display: flex; flex-direction: column; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(6px); }
+#sky-head { display: flex; align-items: stretch; }
+#sky-toggle { width: 34px; color: var(--dim); border-right: 1px solid var(--line); }
+#sky-toggle::after { content: '▾'; }
 #sky.collapsed #sky-toggle::after { content: '▸'; }
-#sky.collapsed #sky-list { display: none; }
-#sky-list { list-style: none; margin: 0; padding: 0 0 6px; overflow-y: auto; border-top: 1px solid var(--line); }
+#sky-tabs { display: flex; flex: 1; }
+#sky-tabs button { flex: 1; padding: 9px 4px; font-family: var(--display); font-size: 10.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--dim); }
+#sky-tabs button.active { color: var(--gold-bright); box-shadow: inset 0 -2px 0 var(--gold); }
+#sky.collapsed .tab-body { display: none; }
+#sky.collapsed #sky-tabs button.active { box-shadow: none; }
+.tab-body { margin: 0; padding: 0 0 6px; overflow-y: auto; border-top: 1px solid var(--line); }
+.tab-body[hidden] { display: none; }
+ul.tab-body { list-style: none; }
 #sky-list button { display: grid; grid-template-columns: 22px 1fr auto; align-items: baseline; gap: 6px; width: 100%; padding: 3px 12px; text-align: left; font-size: 15.5px; }
-#sky-list button:hover { background: rgba(201, 164, 92, 0.12); }
-#sky-list .g, .sg, .rx, .big-glyph, .sign-glyph, .cg, .el { font-family: var(--symbols); }
-#sky-list .g { color: var(--gold); text-align: center; }
-#sky-list .p { color: var(--dim); font-variant-numeric: tabular-nums; white-space: nowrap; }
+#aspect-list button { display: grid; grid-template-columns: 20px 20px 20px 1fr auto; align-items: baseline; gap: 2px; width: 100%; padding: 4px 10px; text-align: left; font-size: 15px; }
+#aspect-list .n { display: none; }
+#aspect-list .ag { font-family: var(--symbols); text-align: center; }
+.tab-body button:hover { background: rgba(201, 164, 92, 0.12); }
+.legend { padding: 6px 12px 0; font-size: 13px; font-style: italic; color: var(--dim); }
+#sky-list .g, #aspect-list .g, .sg, .rx, .big-glyph, .sign-glyph, .cg, .el { font-family: var(--symbols); }
+.tab-body .g { color: var(--gold); text-align: center; }
+.tab-body .p { color: var(--dim); font-variant-numeric: tabular-nums; white-space: nowrap; text-align: right; }
+#moment { padding: 2px 12px 10px; font-size: 15px; line-height: 1.3; }
+#moment section + section { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
+#moment h3 { margin: 8px 0 4px; font-family: var(--display); font-weight: 400; font-size: 10.5px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--gold); }
+#moment p { margin: 2px 0; color: var(--dim); }
+#moment p.state { color: var(--ink); font-size: 17px; }
+#moment p.state.on { color: #e58a6e; }
+#moment .loc { margin-top: 6px; font-size: 13.5px; }
+#moment .loc button { color: var(--gold-bright); text-decoration: underline; text-underline-offset: 2px; padding: 4px 0; }
+#moment .warn { color: #e58a6e; }
 .rx { color: #e58a6e; }
 .el-Fire { color: #e8855e; } .el-Earth { color: #9dbb6a; } .el-Air { color: #e6d27c; } .el-Water { color: #6fa4e0; }
 
 /* ---- planet panel ---- */
-#panel { position: fixed; top: 68px; right: 18px; bottom: 18px; width: 384px; overflow-y: auto; padding: 18px 20px 24px; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(8px); box-shadow: inset 0 0 0 4px rgba(5, 4, 10, 0.6), inset 0 0 0 5px rgba(201, 164, 92, 0.18); }
+#panel { position: fixed; top: 104px; right: 18px; bottom: 18px; width: 384px; overflow-y: auto; padding: 18px 20px 24px; background: var(--glass); border: 1px solid var(--line); border-radius: 3px; backdrop-filter: blur(8px); box-shadow: inset 0 0 0 4px rgba(5, 4, 10, 0.6), inset 0 0 0 5px rgba(201, 164, 92, 0.18); }
 #panel[hidden] { display: none; }
 #panel .close { position: absolute; top: 6px; right: 8px; width: 40px; height: 40px; font-size: 26px; color: var(--dim); }
 #panel .close:hover { color: var(--gold-bright); }
@@ -102,12 +132,16 @@ dd { margin: 0; }
   #clock { font-size: 12.5px; }
   .tag { display: inline-block; margin-left: 2px; }
   #view-toggle { top: 54px; right: auto; left: 12px; }
-  #view-toggle button { padding: 6px 10px; font-size: 10px; min-height: 36px; }
-  #sky-toggle { min-height: 36px; padding: 6px 10px; font-size: 10px; }
-  #sky { top: 54px; left: auto; right: 12px; width: 206px; max-height: calc(100% - 190px); }
-  #sky.collapsed { width: auto; }
-  #sky.collapsed #sky-toggle::after { margin-left: 10px; }
-  #time-bar button { min-width: 44px; padding: 8px 9px; }
+  #view-toggle button { padding: 6px 9px; font-size: 9.5px; letter-spacing: 0.1em; min-height: 36px; }
+  #layers { top: 98px; left: 12px; right: auto; }
+  #layers button { min-height: 36px; padding: 5px 8px; font-size: 9px; letter-spacing: 0.08em; }
+  #sky { top: 142px; left: 12px; right: 12px; width: auto; max-height: calc(100% - 300px); }
+  #sky.collapsed { right: auto; width: 252px; }
+  #sky-tabs button { min-height: 36px; }
+  #time-bar { left: 8px; right: 8px; transform: none; }
+  #time-bar .controls { flex-wrap: wrap; }
+  #time-bar button { flex: 1; min-width: 40px; padding: 8px 4px; }
+  #date-pick { flex: 1 0 100%; min-height: 38px; border-left: 0 !important; border-top: 1px solid var(--line); text-align: center; }
   #panel { top: auto; left: 0; right: 0; bottom: 0; width: auto; height: 56%; border-radius: 12px 12px 0 0; border-bottom: 0; padding-bottom: calc(24px + env(safe-area-inset-bottom)); }
-  body.panel-open #time-bar, body.panel-open #sky { display: none; }
+  body.panel-open #time-bar, body.panel-open #sky, body.panel-open #layers { display: none; }
 }

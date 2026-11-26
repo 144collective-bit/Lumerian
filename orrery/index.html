@@ -22,18 +22,41 @@
       <button data-mode="geo">Geocentric</button>
     </div>
 
+    <div id="layers" role="group" aria-label="Layers">
+      <button data-layer="aspects" class="active" aria-pressed="true">Aspects</button>
+      <button data-layer="figures" class="active" aria-pressed="true">Constellations</button>
+    </div>
+
     <aside id="sky">
-      <button id="sky-toggle" aria-expanded="true">The Sky Now</button>
-      <ul id="sky-list"></ul>
+      <div id="sky-head">
+        <button id="sky-toggle" aria-expanded="true" aria-label="Show or hide the sky panel"></button>
+        <div id="sky-tabs" role="tablist">
+          <button role="tab" data-tab="sky" class="active">Sky</button>
+          <button role="tab" data-tab="aspects">Aspects</button>
+          <button role="tab" data-tab="moment">Moment</button>
+        </div>
+      </div>
+      <ul id="sky-list" class="tab-body"></ul>
+      <ul id="aspect-list" class="tab-body" hidden></ul>
+      <div id="moment" class="tab-body" hidden></div>
     </aside>
 
-    <div id="time-bar" role="group" aria-label="Time speed">
-      <button data-rate="-2592000" title="One month per second, backwards">◂◂</button>
-      <button data-rate="-86400" title="One day per second, backwards">◂</button>
-      <button data-rate="1" class="active" id="now-btn" title="Return to the present moment">Now</button>
-      <button data-rate="86400" title="One day per second">▸</button>
-      <button data-rate="604800" title="One week per second">▸▸</button>
-      <button data-rate="2592000" title="One month per second">▸▸▸</button>
+    <div id="time-bar">
+      <div class="scrub">
+        <span>−1 yr</span>
+        <input type="range" id="scrub" min="-365" max="365" step="0.01" value="0" aria-label="Scrub through time" />
+        <span>+1 yr</span>
+      </div>
+      <div class="controls" role="group" aria-label="Time controls">
+        <button data-rate="-2592000" title="One month per second, backwards">◂◂</button>
+        <button data-rate="-86400" title="One day per second, backwards">◂</button>
+        <button data-rate="0" title="Pause">❙❙</button>
+        <button data-rate="1" class="active" id="now-btn" title="Return to the present moment">Now</button>
+        <button data-rate="86400" title="One day per second">▸</button>
+        <button data-rate="604800" title="One week per second">▸▸</button>
+        <button data-rate="2592000" title="One month per second">▸▸▸</button>
+        <input type="datetime-local" id="date-pick" aria-label="Jump to a date and time" />
+      </div>
     </div>
 
     <aside id="panel" aria-live="polite" hidden></aside>
