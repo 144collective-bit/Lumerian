@@ -15,15 +15,17 @@ const MAJOR: Partial<Record<BodyId, A.Body>> = {
   neptune: A.Body.Neptune, pluto: A.Body.Pluto,
 };
 
-// Osculating heliocentric elements (ecliptic J2000). Two-body propagation:
-// good to a fraction of a degree within a few years of the epoch, drifting beyond that.
+// Osculating heliocentric elements (ecliptic J2000) at one epoch. They seed a numerical
+// integration under the gravity of the Sun and planets (see SmallBodies below), which keeps
+// these bodies accurate across a lifetime of dates; plain two-body motion is only the fallback.
 interface Elements { epochJD: number; a: number; e: number; i: number; node: number; peri: number; M: number }
 const SMALL: Partial<Record<BodyId, Elements>> = {
   ceres:  { epochJD: 2460200.5, a: 2.7672, e: 0.0789, i: 10.587, node: 80.26,  peri: 73.47,  M: 60.08 },
   pallas: { epochJD: 2460200.5, a: 2.7702, e: 0.2302, i: 34.93,  node: 172.92, peri: 310.87, M: 40.60 },
   juno:   { epochJD: 2460200.5, a: 2.6709, e: 0.2558, i: 12.99,  node: 169.84, peri: 247.84, M: 37.02 },
   vesta:  { epochJD: 2460200.5, a: 2.3619, e: 0.0894, i: 7.14,   node: 103.80, peri: 151.66, M: 169.35 },
-  chiron: { epochJD: 2460200.5, a: 13.692, e: 0.3790, i: 6.93,   node: 209.30, peri: 339.25, M: 197.0 },
+  // Chiron's a and M are fitted so the integration reproduces its 2000 and 2024 positions
+  chiron: { epochJD: 2460200.5, a: 13.698012, e: 0.3790, i: 6.93,   node: 209.30, peri: 339.25, M: 197.24187 },
 };
 
 export const PERIOD_DAYS: Record<BodyId, number> = {
@@ -55,7 +57,65 @@ function keplerEqj(el: Elements, date: Date): Vec {
   return [x, y * ce - z * se, y * se + z * ce];
 }
 
-function helioEqj(id: BodyId, t: A.AstroTime): Vec {
+/**
+ * Chiron and the asteroids, integrated numerically from the epoch and cached on a 16-day grid.
+ * The grid grows outward from the epoch only as far as dates are actually asked for.
+ */
+const SMALL_IDS = Object.keys(SMALL) as BodyId[];
+const GRID = 16, SUBSTEPS = 8, MAX_NODES = Math.ceil((150 * 365.25) / GRID);
+type Node = Float64Array; // 6 numbers per body: position then velocity
+class SmallBodies {
+  private nodes: [Node[], Node[]] = [[], []]; // forward and backward from the epoch
+  private sims: (A.GravitySimulator | null)[] = [null, null];
+  private epoch = SMALL[SMALL_IDS[0]]!.epochJD;
+
+  private start(): Node {
+    const t0 = new Date((this.epoch - 2440587.5) * 86400000), h = 0.01;
+    const n = new Float64Array(SMALL_IDS.length * 6);
+    SMALL_IDS.forEach((id, i) => {
+      const el = SMALL[id]!;
+      const p = keplerEqj(el, t0), a = keplerEqj(el, new Date(t0.getTime() - h * 86400000)), b = keplerEqj(el, new Date(t0.getTime() + h * 86400000));
+      n.set([p[0], p[1], p[2], (b[0] - a[0]) / (2 * h), (b[1] - a[1]) / (2 * h), (b[2] - a[2]) / (2 * h)], i * 6);
+    });
+    return n;
+  }
+
+  private node(k: number): Node {
+    const dir = k >= 0 ? 0 : 1, list = this.nodes[dir], want = Math.abs(k);
+    if (!list.length) list.push(this.start());
+    while (list.length <= want) {
+      const t0 = A.MakeTime(new Date((this.epoch - 2440587.5) * 86400000));
+      if (!this.sims[dir]) {
+        const s0 = list[0];
+        this.sims[dir] = new A.GravitySimulator(A.Body.Sun, t0, SMALL_IDS.map((_, i) =>
+          new A.StateVector(s0[i * 6], s0[i * 6 + 1], s0[i * 6 + 2], s0[i * 6 + 3], s0[i * 6 + 4], s0[i * 6 + 5], t0)));
+      }
+      const sim = this.sims[dir]!, sign = dir === 0 ? 1 : -1, from = (list.length - 1) * GRID;
+      let out: A.StateVector[] = [];
+      for (let j = 1; j <= SUBSTEPS; j++) out = sim.Update(t0.AddDays(sign * (from + (j * GRID) / SUBSTEPS)));
+      const n = new Float64Array(SMALL_IDS.length * 6);
+      out.forEach((v, i) => n.set([v.x, v.y, v.z, v.vx, v.vy, v.vz], i * 6));
+      list.push(n);
+    }
+    return list[want];
+  }
+
+  /** Heliocentric J2000 equatorial position, or null when the date is outside the supported span. */
+  position(id: BodyId, date: Date): Vec | null {
+    const days = date.getTime() / 86400000 + 2440587.5 - this.epoch;
+    const k = Math.floor(days / GRID);
+    if (Math.abs(k) >= MAX_NODES) return null;
+    const a = this.node(k), b = this.node(k + 1), o = SMALL_IDS.indexOf(id) * 6;
+    // cubic Hermite interpolation between the two grid nodes
+    const u = days / GRID - k, u2 = u * u, u3 = u2 * u;
+    const h00 = 2 * u3 - 3 * u2 + 1, h10 = (u3 - 2 * u2 + u) * GRID, h01 = -2 * u3 + 3 * u2, h11 = (u3 - u2) * GRID;
+    const f = (i: number) => h00 * a[o + i] + h10 * a[o + 3 + i] + h01 * b[o + i] + h11 * b[o + 3 + i];
+    return [f(0), f(1), f(2)];
+  }
+}
+const smallBodies = new SmallBodies();
+
+function helioEqj(id: BodyId, t: A.AstroTime, fast = false): Vec {
   if (id === 'sun') return [0, 0, 0];
   const major = MAJOR[id];
   if (major) { const v = A.HelioVector(major, t); return [v.x, v.y, v.z]; }
@@ -64,7 +124,7 @@ function helioEqj(id: BodyId, t: A.AstroTime): Vec {
     return [e.x + m.x, e.y + m.y, e.z + m.z];
   }
   const el = SMALL[id];
-  if (el) return keplerEqj(el, t.date);
+  if (el) return (fast ? null : smallBodies.position(id, t.date)) ?? keplerEqj(el, t.date);
   throw new Error('no heliocentric position for ' + id);
 }
 
@@ -75,10 +135,13 @@ function toEct(v: Vec, t: A.AstroTime): Vec {
 
 export const isPoint = (id: BodyId) => id === 'node' || id === 'snode' || id === 'lilith';
 
-/** Heliocentric position, ecliptic of date, AU. Not defined for calculated points. */
-export function helio(id: BodyId, date: Date): Vec {
+/**
+ * Heliocentric position, ecliptic of date, AU. Not defined for calculated points.
+ * `fast` skips the numerical integration for small bodies (used for drawing whole orbits).
+ */
+export function helio(id: BodyId, date: Date, fast = false): Vec {
   const t = A.MakeTime(date);
-  return toEct(helioEqj(id, t), t);
+  return toEct(helioEqj(id, t, fast), t);
 }
 
 // Mean lunar node and mean lunar apogee (Black Moon Lilith), Meeus ch. 47.

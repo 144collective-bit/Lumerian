@@ -3,6 +3,7 @@ import { Orrery, ALL_IDS, type Mode } from './scene';
 import { Panel } from './panel';
 import { geo, speed, aspects, moonInfo, voidOfCourse, planetaryHour, type BodyId, type VoidInfo } from './ephemeris';
 import { BODIES, SIGNS, signOf, formatDegree } from './correspondences';
+import { ChartView, spread } from './chart';
 
 const $ = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
 const DAY = 86400000;
@@ -25,7 +26,7 @@ function shiftView(open: boolean) {
 }
 orrery.onSelect = (id) => { panel.open(id, now()); shiftView(!!id); };
 panel.onClose = () => { orrery.home(); panel.open(null, now()); shiftView(false); };
-window.addEventListener('keydown', (e) => { if (e.key === 'Escape') panel.onClose(); });
+window.addEventListener('keydown', (e) => { if (e.key === 'Escape') { if (chartView.open) chartView.toggle(false); else panel.onClose(); } });
 
 // ---- view toggle and layers ----
 const modeButtons = document.querySelectorAll<HTMLButtonElement>('#view-toggle button');
@@ -33,7 +34,7 @@ modeButtons.forEach((b) => b.addEventListener('click', () => {
   orrery.setMode(b.dataset.mode as Mode);
   modeButtons.forEach((x) => x.classList.toggle('active', x === b));
 }));
-document.querySelectorAll<HTMLButtonElement>('#layers button').forEach((b) => b.addEventListener('click', () => {
+document.querySelectorAll<HTMLButtonElement>('#layers button[data-layer]').forEach((b) => b.addEventListener('click', () => {
   const on = b.classList.toggle('active');
   b.setAttribute('aria-pressed', String(on));
   if (b.dataset.layer === 'aspects') orrery.setAspectsVisible(on); else orrery.setFiguresVisible(on);
@@ -63,6 +64,21 @@ datePick.addEventListener('change', () => {
 });
 const pad = (n: number) => String(n).padStart(2, '0');
 const toLocalInput = (d: Date) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`;
+
+// ---- natal charts ----
+const chartView = new ChartView($('#natal'), {
+  goTo(ms) { setRate(0); simTime = ms; anchor = ms; if (narrow.matches) chartView.toggle(false); },
+  overlay(chart) {
+    if (!chart) { orrery.setNatal(null); return; }
+    const shown = spread(chart.placements.map((p) => p.lon), 3.2);
+    orrery.setNatal({
+      points: chart.placements.map((p, i) => ({ glyph: BODIES[p.id].glyph, lon: p.lon, shown: shown[i] })),
+      cusps: chart.cusps,
+      axes: chart.asc !== null && chart.mc !== null ? [{ label: 'AC', lon: chart.asc }, { label: 'MC', lon: chart.mc }] : [],
+    });
+  },
+});
+$('#natal-btn').addEventListener('click', () => { if (!chartView.open) panel.onClose(); chartView.toggle(); });
 
 // ---- left panel: tabs ----
 const sky = $('#sky'), skyToggle = $('#sky-toggle');
@@ -208,6 +224,7 @@ function frame(t: number) {
     refreshAspects(date);
     refreshMoment(date);
     panel.refresh(date);
+    chartView.refresh(date);
   }
   requestAnimationFrame(frame);
 }

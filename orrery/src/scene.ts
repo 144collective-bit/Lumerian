@@ -67,6 +67,7 @@ export class Orrery {
   private sky = new THREE.Group();
   private figures = new THREE.Group();
   private aspectLines!: THREE.LineSegments;
+  private natal = new THREE.Group();
   private aspectList: { a: BodyId; b: BodyId; color: number; strength: number }[] = [];
 
   constructor(private host: HTMLElement) {
@@ -98,6 +99,7 @@ export class Orrery {
     this.scene.add(new THREE.AmbientLight(0x8890b0, 0.28));
     this.scene.add(this.sunLight);
     void this.buildStars();
+    this.scene.add(this.natal);
     this.buildAspectLines();
     this.buildZodiac();
     this.buildBodies();
@@ -181,6 +183,37 @@ export class Orrery {
 
   /** Aspects to draw as lines between bodies; strength 0..1 sets brightness. */
   setAspects(list: { a: BodyId; b: BodyId; color: number; strength: number }[]) { this.aspectList = list.slice(0, 80); }
+  /**
+   * Mark a natal chart on the zodiac ring: placements outside the band, house cusps across it.
+   * Pass null to clear.
+   */
+  setNatal(data: { points: { glyph: string; lon: number; shown: number }[]; cusps: number[] | null; axes: { label: string; lon: number }[] } | null) {
+    for (const child of [...this.natal.children]) {
+      this.natal.remove(child);
+      const o = child as THREE.Sprite | THREE.LineSegments;
+      const m = o.material as THREE.SpriteMaterial | THREE.LineBasicMaterial;
+      (m as THREE.SpriteMaterial).map?.dispose(); m.dispose();
+      if ('geometry' in o) o.geometry.dispose();
+    }
+    if (!data) return;
+    const at = (lon: number, r: number) => { const a = THREE.MathUtils.degToRad(lon); return new THREE.Vector3(Math.cos(a) * r, 0, -Math.sin(a) * r); };
+    const sprite = (tex: THREE.Texture, lon: number, r: number, w: number, h = w) => {
+      const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: tex, transparent: true, depthWrite: false }));
+      s.position.copy(at(lon, r)); s.scale.set(w, h, 1); this.natal.add(s);
+    };
+    const seg: number[] = [];
+    const push = (lon: number, r1: number, r2: number) => { const a = at(lon, r1), b = at(lon, r2); seg.push(a.x, a.y, a.z, b.x, b.y, b.z); };
+    for (const p of data.points) { push(p.lon, RING_R + 4, RING_R + 6.5); sprite(glyphTexture(p.glyph, '#8fd3d8'), p.shown, RING_R + 10, 5.6); }
+    if (data.cusps) data.cusps.forEach((c, i) => {
+      push(c, RING_R - 4, RING_R + 4);
+      const span = (((data.cusps![(i + 1) % 12] - c) % 360) + 360) % 360;
+      sprite(textTexture(String(i + 1), '#8fd3d8'), c + span / 2, RING_R + 16, 20, 5);
+    });
+    for (const a of data.axes) { push(a.lon, RING_R - 12, RING_R + 14); sprite(textTexture(a.label, '#d6f3f5'), a.lon, RING_R + 17, 26, 6.5); }
+    const g = new THREE.BufferGeometry();
+    g.setAttribute('position', new THREE.Float32BufferAttribute(seg, 3));
+    this.natal.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({ color: 0x8fd3d8, transparent: true, opacity: 0.8, depthWrite: false })));
+  }
   setAspectsVisible(v: boolean) { this.aspectLines.visible = v; }
   setFiguresVisible(v: boolean) { this.figures.visible = v; }
 
@@ -375,7 +408,7 @@ export class Orrery {
   }
 
   private pathPoint(id: BodyId, date: Date, out: THREE.Vector3) {
-    const h = helio(id, date);
+    const h = helio(id, date, true);
     if (this.mode === 'geo') {
       const e = helio('earth', date);
       h[0] -= e[0]; h[1] -= e[1]; h[2] -= e[2];

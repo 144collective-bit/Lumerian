@@ -10,8 +10,11 @@ npm run build    # production build in dist/
 
 - Positions are computed in the browser with `astronomy-engine` (no API keys, no server).
 - Signs are tropical and geocentric; correspondences follow the Golden Dawn.
-- Ceres, Pallas, Juno, Vesta and Chiron use two-body orbits from fixed orbital elements
-  (`src/ephemeris.ts`): accurate to a fraction of a degree near the present, drifting over decades.
+- Ceres, Pallas, Juno, Vesta and Chiron are integrated numerically from seed orbital elements
+  (`src/ephemeris.ts`), so they stay within a fraction of a degree across 1900-2100.
+- Natal charts (`src/natal.ts`, `src/chart.ts`): Placidus or Whole Sign houses, transits, a 2D wheel
+  and an overlay on the 3D zodiac ring. Charts are stored in the browser only. Birthplace lookup
+  uses the Open-Meteo geocoding service.
 - Lunar nodes and Black Moon Lilith are mean positions.
 - Tarot cards are drawn in code. To show scanned cards instead, add images to `public/tarot/`
   named by slug: `major-00.jpg` … `major-21.jpg`, and `wands-02.jpg` … `wands-10.jpg`

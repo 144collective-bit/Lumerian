@@ -25,6 +25,7 @@
     <div id="layers" role="group" aria-label="Layers">
       <button data-layer="aspects" class="active" aria-pressed="true">Aspects</button>
       <button data-layer="figures" class="active" aria-pressed="true">Constellations</button>
+      <button id="natal-btn" class="action">Natal chart</button>
     </div>
 
     <aside id="sky">
@@ -58,6 +59,8 @@
         <input type="datetime-local" id="date-pick" aria-label="Jump to a date and time" />
       </div>
     </div>
+
+    <aside id="natal" hidden></aside>
 
     <aside id="panel" aria-live="polite" hidden></aside>
 
