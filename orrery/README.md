@@ -1,0 +1,19 @@
+# Lumerian Orrery
+
+A 3D, browser-based solar system that reports live astrological data.
+
+```
+npm install
+npm run dev      # local development
+npm run build    # production build in dist/
+```
+
+- Positions are computed in the browser with `astronomy-engine` (no API keys, no server).
+- Signs are tropical and geocentric; correspondences follow the Golden Dawn.
+- Ceres, Pallas, Juno, Vesta and Chiron use two-body orbits from fixed orbital elements
+  (`src/ephemeris.ts`): accurate to a fraction of a degree near the present, drifting over decades.
+- Lunar nodes and Black Moon Lilith are mean positions.
+- Tarot cards are drawn in code. To show scanned cards instead, add images to `public/tarot/`
+  named by slug: `major-00.jpg` … `major-21.jpg`, and `wands-02.jpg` … `wands-10.jpg`
+  (likewise `cups-`, `swords-`, `pentacles-`).
+- Planet surfaces are generated in code except Earth and Moon (`public/textures/`, from the three.js examples).
