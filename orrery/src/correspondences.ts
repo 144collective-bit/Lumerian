@@ -10,15 +10,25 @@ export const ELEMENT_QUALITIES: Record<Element, string> = {
 };
 const SUIT: Record<Element, string> = { Fire: 'Wands', Water: 'Cups', Air: 'Swords', Earth: 'Pentacles' };
 
-export interface TarotCard { slug: string; numeral: string; title: string; subtitle?: string; glyph: string }
+export interface TarotCard { slug: string; numeral: string; title: string; subtitle?: string; glyph: string; meaning: string }
 
 export interface Sign {
   name: string; glyph: string; element: Element; modality: 'Cardinal' | 'Fixed' | 'Mutable';
   ruler: BodyId; modernRuler?: BodyId; exalt?: BodyId; process: string; card: TarotCard; letter: string;
 }
 
+const MAJOR_MEANINGS = [
+  'Beginnings · a leap of faith · innocence', 'Will · skill · manifestation', 'Intuition · mystery · inner knowing',
+  'Abundance · nurture · fertility', 'Authority · structure · order', 'Tradition · teaching · belief',
+  'Union · choice · harmony', 'Drive · victory · self-mastery', 'Courage · patience · gentle power',
+  'Solitude · search · inner light', 'Cycles · fate · a turning point', 'Balance · truth · consequence',
+  'Surrender · pause · a new view', 'Ending · transformation · release', 'Blending · moderation · alchemy',
+  'Bondage · appetite · shadow', 'Upheaval · revelation · breakthrough', 'Hope · renewal · guidance',
+  'Dreams · illusion · the unconscious', 'Vitality · joy · clarity', 'Awakening · reckoning · rebirth',
+  'Completion · wholeness · arrival',
+];
 const major = (n: number, numeral: string, title: string, glyph: string): TarotCard =>
-  ({ slug: `major-${String(n).padStart(2, '0')}`, numeral, title, glyph });
+  ({ slug: `major-${String(n).padStart(2, '0')}`, numeral, title, glyph, meaning: MAJOR_MEANINGS[n] });
 
 export const SIGNS: Sign[] = [
   { name: 'Aries', glyph: '♈' + T, element: 'Fire', modality: 'Cardinal', ruler: 'mars', exalt: 'sun', process: 'Calcination', letter: 'Heh', card: major(4, 'IV', 'The Emperor', '♈' + T) },
@@ -107,6 +117,7 @@ export function decanOf(lon: number): Decan {
     card: {
       slug: `${suit.toLowerCase()}-${String(num).padStart(2, '0')}`, numeral: ROMAN[num],
       title: `${num} of ${suit}`, subtitle: `Lord of ${MINOR_TITLES[suit][num - 2]}`, glyph: SUIT_GLYPH[suit],
+      meaning: `${MINOR_TITLES[suit][num - 2]} · ${sign.element} of ${sign.name} · ${['first', 'second', 'third'][within]} decan`,
     },
   };
 }

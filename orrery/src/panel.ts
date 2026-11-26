@@ -1,8 +1,9 @@
 import { geo, helio, speed, nextIngress, nextStation, moonInfo, isPoint, aspects, PERIOD_DAYS, type BodyId } from './ephemeris';
+import { hc } from './fmt';
 import { BODIES, SIGNS, ELEMENT_GLYPH, ELEMENT_QUALITIES, signOf, decanOf, formatDegree, dignity, type TarotCard } from './correspondences';
 
 const AU_KM = 149597870.7;
-const fmtDate = (d: Date) => d.toLocaleString(undefined, { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+const fmtDate = (d: Date) => d.toLocaleString(undefined, { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit', ...hc() });
 const row = (k: string, v: string | undefined) => (v ? `<div class="row"><dt>${k}</dt><dd>${v}</dd></div>` : '');
 
 // Card scans are optional: drop files into public/tarot/<slug>.jpg and they appear over the drawn card.
@@ -20,8 +21,11 @@ function cardHtml(card: TarotCard, role: string, onReady: () => void): string {
   probeScan(card.slug, onReady);
   const scan = scanState.get(card.slug) === 'ok' ? `<img src="tarot/${card.slug}.jpg" alt="${card.title}">` : '';
   return `<figure class="card">
-    <div class="card-face"><span class="num">${card.numeral}</span><span class="cg">${card.glyph}</span>
-      <span class="ct">${card.title}</span>${card.subtitle ? `<span class="cs">${card.subtitle}</span>` : ''}${scan}</div>
+    <button class="card-flip" aria-label="${card.title}: turn the card over"><span class="card-inner">
+      <span class="card-face"><span class="num">${card.numeral}</span><span class="cg">${card.glyph}</span>
+        <span class="ct">${card.title}</span>${card.subtitle ? `<span class="cs">${card.subtitle}</span>` : ''}${scan}</span>
+      <span class="card-face card-back"><span class="num">${card.numeral}</span><span class="cm">${card.meaning.split(' · ').join('<br>')}</span><span class="ct">${card.title}</span></span>
+    </span></button>
     <figcaption>${role}</figcaption></figure>`;
 }
 
@@ -36,19 +40,22 @@ export class Panel {
   private events: { at: number; html: string } | null = null;
   private eventsTimer = 0;
   onClose: () => void = () => {};
+  get isOpen() { return this.id !== null; }
 
-  constructor(private el: HTMLElement) {}
+  constructor(private el: HTMLElement) {
+    el.addEventListener('click', (e) => (e.target as HTMLElement).closest('.card-flip')?.classList.toggle('flipped'));
+  }
 
   open(id: BodyId | null, date: Date) {
     this.id = id; this.cache = {}; this.events = null;
     clearTimeout(this.eventsTimer);
-    this.el.hidden = !id;
+    this.el.classList.toggle('open', !!id);
     document.body.classList.toggle('panel-open', !!id);
     if (!id) return;
     const lore = BODIES[id];
     this.el.innerHTML = `
       <button class="close" aria-label="Close">×</button>
-      <header><span class="big-glyph">${lore.glyph}</span><div><h2>${lore.name}</h2><p class="blurb">${lore.blurb}</p></div></header>
+      <header class="grab-zone"><span class="big-glyph">${lore.glyph}</span><div><h2>${lore.name}</h2><p class="blurb">${lore.blurb}</p></div></header>
       <section data-s="position"></section>
       <section data-s="tarot"></section>
       <section data-s="aspects"></section>
@@ -101,7 +108,7 @@ export class Panel {
       cardHtml(sign.card, `${sign.name}`, redraw),
       cardHtml(decan.card, `${decan.ordinal} decan`, redraw),
     ].join('');
-    this.set('tarot', `<h3>Tarot</h3><div class="cards">${cards}</div>
+    this.set('tarot', `<h3>Tarot <small>tap a card to turn it</small></h3><div class="cards">${cards}</div>
       <p class="note">${decan.ordinal} decan of ${sign.name}, ruled by ${BODIES[decan.ruler].glyph} ${BODIES[decan.ruler].name}.${lore.cardNote ? ' ' + lore.cardNote : ''}${lore.card ? '' : ' No Golden Dawn trump is assigned to this body; the cards shown are those of its sign and decan.'}</p>`);
 
     const mine = aspects(date).filter((a) => a.a === id || a.b === id);

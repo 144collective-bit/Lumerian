@@ -1,4 +1,5 @@
 // Natal chart screen: entry form, 2D wheel with transits, and lists.
+import { hc } from './fmt';
 import { BODIES, SIGNS, signOf, formatDegree } from './correspondences';
 import { norm360, type BodyId } from './ephemeris';
 import {
@@ -6,7 +7,7 @@ import {
   type Birth, type Chart, type ChartAspect, type Place, type Store,
 } from './natal';
 
-interface Hooks { goTo(ms: number): void; overlay(chart: Chart | null): void }
+interface Hooks { goTo(ms: number): void; overlay(chart: Chart | null): void; close(): void }
 
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
 const hex = (c: number) => '#' + c.toString(16).padStart(6, '0');
@@ -100,7 +101,7 @@ export class ChartView {
 
   toggle(open = !this.open) {
     this.open = open;
-    this.el.hidden = !open;
+    this.el.classList.toggle('open', open);
     document.body.classList.toggle('natal-open', open);
     if (open) { if (!this.store.charts.length) this.editing = 'new'; this.render(); }
   }
@@ -112,11 +113,11 @@ export class ChartView {
   // ---------- rendering ----------
 
   private render() {
-    const head = `<header><h2>Natal Chart</h2><button class="close" data-act="close" aria-label="Close">×</button></header>`;
+    const head = `<header class="grab-zone"><h2>Natal Chart</h2><button class="close" data-act="close" aria-label="Close">×</button></header>`;
     if (this.editing) { this.el.innerHTML = head + this.formHtml(); return; }
     const c = this.chart!;
     const options = this.store.charts.map((b) => `<option value="${b.id}" ${b.id === this.store.active ? 'selected' : ''}>${esc(b.name)}</option>`).join('');
-    const when = new Date(c.birth.utc).toLocaleString(undefined, { timeZone: c.birth.tz, day: 'numeric', month: 'long', year: 'numeric', ...(c.birth.time ? { hour: '2-digit', minute: '2-digit' } : {}) });
+    const when = new Date(c.birth.utc).toLocaleString(undefined, { timeZone: c.birth.tz, day: 'numeric', month: 'long', year: 'numeric', ...(c.birth.time ? { hour: '2-digit', minute: '2-digit', ...hc() } : {}) });
     this.el.innerHTML = head + `
       <div class="chart-bar">
         <select data-act="pick" aria-label="Saved charts">${options}</select>
@@ -216,7 +217,7 @@ export class ChartView {
     const t = (e.target as HTMLElement).closest<HTMLElement>('[data-act]');
     if (!t || t.tagName === 'SELECT') return;
     const act = t.dataset.act;
-    if (act === 'close') this.toggle(false);
+    if (act === 'close') this.hooks.close();
     else if (act === 'new') { this.editing = 'new'; this.place = null; this.results = []; this.message = ''; this.render(); }
     else if (act === 'edit' && this.active) {
       const b = this.active; this.editing = b; this.place = { label: b.place, lat: b.lat, lon: b.lon, tz: b.tz }; this.results = []; this.message = ''; this.render();

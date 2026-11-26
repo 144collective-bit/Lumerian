@@ -18,44 +18,60 @@
     </header>
 
     <div id="view-toggle" role="group" aria-label="Sky model">
-      <button data-mode="helio" class="active">Heliocentric</button>
-      <button data-mode="geo">Geocentric</button>
+      <button data-mode="helio" class="active"><span class="long">Heliocentric</span><span class="short">Helio</span></button>
+      <button data-mode="geo"><span class="long">Geocentric</span><span class="short">Geo</span></button>
     </div>
 
-    <button id="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
-    <div id="menu" hidden>
-      <section>
-        <h3>Style</h3>
-        <div id="theme-list" role="radiogroup" aria-label="Interface style"></div>
-      </section>
-      <section>
-        <h3>Layers</h3>
-        <label class="switch"><input type="checkbox" data-layer="aspects" checked /><span>Aspect lines</span></label>
-        <label class="switch"><input type="checkbox" data-layer="figures" checked /><span>Constellations</span></label>
-        <label class="switch"><input type="checkbox" data-layer="paths" checked /><span>Orbits and trails</span></label>
-        <label class="switch"><input type="checkbox" data-layer="labels" checked /><span>Labels</span></label>
-      </section>
-      <section>
-        <button id="home-btn" class="wide">Reset view</button>
-      </section>
-    </div>
+    <section class="sheet" id="sheet-sky" aria-label="The sky now">
+      <header><h2>Sky</h2><button class="close" data-close aria-label="Close">×</button></header>
+      <ul id="sky-list" class="sheet-body"></ul>
+    </section>
 
-    <aside id="sky">
-      <div id="sky-head">
-        <button id="sky-toggle" aria-expanded="true" aria-label="Show or hide the sky panel"></button>
-        <div id="sky-tabs" role="tablist">
-          <button role="tab" data-tab="sky" class="active">Sky</button>
-          <button role="tab" data-tab="aspects">Aspects</button>
-          <button role="tab" data-tab="moment">Moment</button>
-          <button id="natal-btn" class="action">Natal</button>
-        </div>
+    <section class="sheet" id="sheet-aspects" aria-label="Aspects">
+      <header><h2>Aspects</h2><button class="close" data-close aria-label="Close">×</button></header>
+      <ul id="aspect-list" class="sheet-body"></ul>
+    </section>
+
+    <section class="sheet" id="sheet-moment" aria-label="This moment">
+      <header><h2>Moment</h2><button class="close" data-close aria-label="Close">×</button></header>
+      <div id="moment" class="sheet-body"></div>
+    </section>
+
+    <section class="sheet" id="sheet-settings" aria-label="Settings">
+      <header><h2>Settings</h2><button class="close" data-close aria-label="Close">×</button></header>
+      <div class="sheet-body settings">
+        <section>
+          <h3>Style</h3>
+          <div id="theme-list" role="radiogroup" aria-label="Interface style"></div>
+        </section>
+        <section>
+          <h3>Layers</h3>
+          <label class="switch"><input type="checkbox" data-layer="aspects" checked /><span>Aspect lines</span></label>
+          <label class="switch"><input type="checkbox" data-layer="figures" checked /><span>Constellations</span></label>
+          <label class="switch"><input type="checkbox" data-layer="paths" checked /><span>Orbits and trails</span></label>
+          <label class="switch"><input type="checkbox" data-layer="labels" checked /><span>Labels</span></label>
+        </section>
+        <section>
+          <h3>Time</h3>
+          <label class="switch"><input type="checkbox" id="h24" /><span>24-hour clock</span></label>
+        </section>
+        <section>
+          <h3>Location</h3>
+          <p class="note">Used for planetary hours. It stays on this device.</p>
+          <div id="loc-box"></div>
+        </section>
+        <section>
+          <h3>About</h3>
+          <p class="note">Positions are computed on your device with the astronomy-engine library. Signs are tropical and geocentric; correspondences follow the Golden Dawn. Lunar nodes and Lilith are mean positions. Stars and constellation figures come from the d3-celestial catalogue.</p>
+          <button id="home-btn" class="wide">Reset view</button>
+          <button id="tips-btn" class="wide">Replay the tips</button>
+        </section>
       </div>
-      <ul id="sky-list" class="tab-body"></ul>
-      <ul id="aspect-list" class="tab-body" hidden></ul>
-      <div id="moment" class="tab-body" hidden></div>
-    </aside>
+    </section>
 
-    <div id="time-bar">
+    <aside class="sheet big" id="natal" aria-label="Natal chart"></aside>
+
+    <div id="time-bar" class="surface">
       <div class="scrub">
         <span class="end">−1 yr</span>
         <input type="range" id="scrub" min="-365" max="365" step="0.01" value="0" aria-label="Scrub through time" />
@@ -73,9 +89,23 @@
       </div>
     </div>
 
-    <aside id="natal" hidden></aside>
+    <aside class="sheet right" id="panel" aria-live="polite"></aside>
 
-    <aside id="panel" aria-live="polite" hidden></aside>
+    <nav id="dock" aria-label="Main">
+      <span class="dock-ind" aria-hidden="true"></span>
+      <button data-sheet="sky"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><ellipse cx="12" cy="12" rx="10" ry="3.6" transform="rotate(-20 12 12)"/></svg><span>Sky</span></button>
+      <button data-sheet="aspects"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5 19.5 18h-15z"/><circle cx="12" cy="4.5" r="1.6"/><circle cx="19.5" cy="18" r="1.6"/><circle cx="4.5" cy="18" r="1.6"/></svg><span>Aspects</span></button>
+      <button data-sheet="moment"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.5 14.2A8 8 0 0 1 9.8 4.5a8 8 0 1 0 9.7 9.7z"/></svg><span>Moment</span></button>
+      <button data-sheet="natal"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.4"/><path d="M12 3v5.6M12 15.4V21M3 12h5.6M15.4 12H21"/></svg><span>Natal</span></button>
+      <i class="dock-sep" aria-hidden="true"></i>
+      <button id="time-btn" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg><span>Time</span></button>
+      <button data-sheet="settings"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg><span>Settings</span></button>
+    </nav>
+
+    <div id="coach" hidden role="dialog" aria-label="Tips">
+      <p id="coach-text"></p>
+      <div class="coach-foot"><span id="coach-dots"></span><button id="coach-skip">Skip</button><button id="coach-next" class="primary">Next</button></div>
+    </div>
 
     <script type="module" src="/src/main.ts"></script>
   </body>

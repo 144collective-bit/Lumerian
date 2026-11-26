@@ -24,3 +24,4 @@ npm run build    # production build in dist/
 - Planetary hours use the viewer's location, which is kept in the browser only.
 - Interface styles (Observatory, Alchemical, Neon, Mono) are sets of CSS tokens at the top of `src/style.css`;
   the list shown in the menu is `THEMES` in `src/main.ts`.
+- Navigation is a floating dock (`#dock`) that opens sheets; Settings holds styles, layers, clock format and location.
